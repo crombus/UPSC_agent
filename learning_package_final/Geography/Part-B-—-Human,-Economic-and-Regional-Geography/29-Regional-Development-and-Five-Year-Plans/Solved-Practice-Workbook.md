@@ -1,1066 +1,343 @@
----
-title: "Regional Development and Five Year Plans — Solved Practice Workbook"
-topic_key: geography-29
----
-# Regional Development and Five Year Plans — Solved Practice Workbook
+# Regional Development and Five-Year Plans — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly explains Regional development meaning?
+The 32 original questions test spatial mechanisms, chronology and evidence boundaries; all answers appear in the separate key below.
 
-A. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
+### Questions
 
-**Answer: A.**
-**Explanation:** Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit. The other options describe different processes, locations, scales or governance categories.
+**Q1. Two hill regions have distinct crops, but one lacks functioning health facilities. Which observation identifies a disparity?**
 
-### Q2. Which option is the safest spatial interpretation of Regional development meaning?
+A. Unequal access to health facilities
+B. Differences in cropping systems
+C. Variation in regional languages
+D. Contrasts in traditional food cultures
 
-A. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-B. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
+**Q2. Which unit best describes a metropolitan commuting hinterland regardless of district borders?**
 
-**Answer: B.**
-**Explanation:** Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit. The other options describe different processes, locations, scales or governance categories.
+A. Formal homogeneous region
+B. Functional region
+C. Administrative planning region
+D. River-basin planning region
 
-### Q3. Which statement preserves the process boundary for Regional development meaning?
+**Q3. An irrigation deficit extends across three districts sharing a river catchment. What is the planning-scale problem?**
 
-A. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-B. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-C. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-D. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
+A. One district’s budget should define the catchment
+B. Only the downstream district should plan the water supply
+C. The problem region and administrative delivery regions do not coincide
+D. The arid portions should be excluded from the catchment plan
 
-**Answer: C.**
-**Explanation:** Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit. The other options describe different processes, locations, scales or governance categories.
+**Q4. A group of districts shares aridity but not a common commuting node. Which description fits?**
 
-### Q4. Which option avoids the main UPSC trap concerning Regional development meaning?
+A. Functional market region
+B. Administrative programme region
+C. Single industrial growth centre
+D. Formal homogeneous region
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
+**Q5. Why can port cities develop faster than equally resource-rich interiors?**
 
-**Answer: D.**
-**Explanation:** Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit. The other options describe different processes, locations, scales or governance categories.
+A. Inherited routes, market access and agglomeration reinforce initial advantages
+B. Differences in mineral endowment alone
+C. Differences in annual population growth alone
+D. Differences in municipal status alone
 
-### Q5. Which statement correctly explains Regional planning unit?
+**Q6. Perroux’s growth pole begins with what?**
 
-A. Regional planning applies development logic to a specific region rather than to the country as a whole.
-B. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
+A. Even allocation of all resources across regions
+B. Propulsive industries creating inter-industry linkages
+C. Market-area thresholds around service centres
+D. Distribution of outlays solely by population
 
-**Answer: A.**
-**Explanation:** Regional planning applies development logic to a specific region rather than to the country as a whole. The other options describe different processes, locations, scales or governance categories.
+**Q7. What did Boudeville add to the growth-pole debate?**
 
-### Q6. Which option is the safest spatial interpretation of Regional planning unit?
+A. A method of ranking national city populations
+B. The distinction between birth and death rates
+C. A geographically located growth centre
+D. A theory of agricultural transition stages
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
+**Q8. A steel plant imports all inputs and hires no local suppliers. What is the main growth-pole risk?**
 
-**Answer: B.**
-**Explanation:** Regional planning applies development logic to a specific region rather than to the country as a whole. The other options describe different processes, locations, scales or governance categories.
+A. Guaranteed hinterland spread through plant siting
+B. A spread effect independent of supplier access
+C. Regional convergence through announcement alone
+D. An enclave without effective regional spread
 
-### Q7. Which statement preserves the process boundary for Regional planning unit?
+**Q9. An industrial city draws skilled labour and capital from neighbouring poor districts. Which Myrdal process?**
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. Regional planning applies development logic to a specific region rather than to the country as a whole.
-D. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
+A. Backwash effect
+B. Spread through demand for local farm goods
+C. Balanced allocation of district budgets
+D. A city’s administrative jurisdiction expanding
 
-**Answer: C.**
-**Explanation:** Regional planning applies development logic to a specific region rather than to the country as a whole. The other options describe different processes, locations, scales or governance categories.
+**Q10. The same city buys farm output and finances feeder roads in nearby districts. Which effect?**
 
-### Q8. Which option avoids the main UPSC trap concerning Regional planning unit?
+A. Backwash through selective capital outflow
+B. Spread effect
+C. The rank-size relationship among cities
+D. A centre’s domination without supplier trade
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. Regional planning applies development logic to a specific region rather than to the country as a whole.
+**Q11. Why does Myrdal call regional advantage cumulative?**
 
-**Answer: D.**
-**Explanation:** Regional planning applies development logic to a specific region rather than to the country as a whole. The other options describe different processes, locations, scales or governance categories.
+A. Spread necessarily exceeds backwash
+B. Capital moves away from advantaged centres
+C. Earlier advantage draws new enterprise and labour, further strengthening the lead
+D. A fixed initial endowment determines final income
 
-### Q9. Which statement correctly explains Uneven development drivers?
+**Q12. A dominant metropolis and dependent hinterland are read as a spatial system. Which model?**
 
-A. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-B. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
+A. Concentric zoning within a city
+B. A hexagonal retail-service hierarchy
+C. Annual changes in age-specific migration
+D. Friedmann’s core–periphery
 
-**Answer: A.**
-**Explanation:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. The other options describe different processes, locations, scales or governance categories.
+**Q13. How can intermediate cities weaken a core–periphery divide?**
 
-### Q10. Which option is the safest spatial interpretation of Uneven development drivers?
+A. They provide closer jobs, services and supplier connections to hinterlands
+B. They replace hinterland markets with administrative borders
+C. They establish identical firm clusters everywhere
+D. They make geographic linkages irrelevant
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
+**Q14. What distinguishes Hirschman’s unbalanced-growth approach from equal allocation?**
 
-**Answer: B.**
-**Explanation:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. The other options describe different processes, locations, scales or governance categories.
+A. All districts receive equal shares of one investment
+B. Strategic investment creates pressures for complementary linkages
+C. Regional inequality disappears with initial plant siting
+D. Spillovers arise without complementary investment
 
-### Q11. Which statement preserves the process boundary for Uneven development drivers?
+**Q15. An agropolitan strategy primarily emphasises what?**
 
-A. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-B. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-C. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-D. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
+A. Metropolitan heavy-industry specialisation
+B. Export processing without a local supplier base
+C. Rural–small-town linkages, local services and decentralised production
+D. Primacy of the capital city over all regions
 
-**Answer: C.**
-**Explanation:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. The other options describe different processes, locations, scales or governance categories.
+**Q16. A hill district’s culture differs from a plains district, but both have similar access to schools. What is justified?**
 
-### Q12. Which option avoids the main UPSC trap concerning Uneven development drivers?
+A. Difference in culture proves a welfare deficit
+B. Equivalent school access proves equality in every outcome
+C. All regional characteristics are rankable income indicators
+D. Cultural diversity alone does not establish unequal development
 
-A. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
+**Q17. What spatial lesson follows from the 1938 National Planning Committee?**
 
-**Answer: D.**
-**Explanation:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. The other options describe different processes, locations, scales or governance categories.
+A. Planning ideas in India precede post-Independence Five-Year Plans
+B. The committee launched the first Five-Year Plan
+C. The committee created NITI Aayog’s district index
+D. The committee replaced the Planning Commission
 
-### Q13. Which statement correctly explains Perroux growth pole idea?
+**Q18. Which sequence correctly pairs India’s early planning priorities?**
 
-A. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-B. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
+A. First Plan: heavy industry; Second Plan: irrigation first
+B. First Plan: agriculture/irrigation; Second Plan: heavy industry
+C. First Plan: regional dashboards; Second Plan: heavy industry
+D. First Plan: IT clusters; Second Plan: agriculture
 
-**Answer: A.**
-**Explanation:** Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages. The other options describe different processes, locations, scales or governance categories.
+**Q19. Why was the Damodar Valley a spatially significant early plan example?**
 
-### Q14. Which option is the safest spatial interpretation of Perroux growth pole idea?
+A. Metropolitan rail transit under the 74th Amendment
+B. One district’s isolated municipal water supply
+C. Multipurpose river-basin development linking flood control, power and irrigation
+D. Exclusive export manufacture in a single plant
 
-A. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-B. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-C. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-D. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
+**Q20. Which period interrupts the regular plan sequence between the Third and Fourth Plans?**
 
-**Answer: B.**
-**Explanation:** Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages. The other options describe different processes, locations, scales or governance categories.
+A. The Twelfth Plan’s 2012–17 cycle
+B. The First Plan’s 1951–56 cycle
+C. The Planning Commission’s 1950 establishment
+D. Annual Plans of 1966–69
 
-### Q15. Which statement preserves the process boundary for Perroux growth pole idea?
+**Q21. Which was India’s last Five-Year Plan period?**
 
-A. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-B. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
+A. Twelfth Plan, 2012–17
+B. The 1966–69 Annual Plan interval
+C. The First Plan’s initial five-year period
+D. A new five-year cycle beginning in 2017
 
-**Answer: C.**
-**Explanation:** Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages. The other options describe different processes, locations, scales or governance categories.
+**Q22. What changed institutionally on 1 January 2015?**
 
-### Q16. Which option avoids the main UPSC trap concerning Perroux growth pole idea?
+A. NITI was replaced by the Planning Commission
+B. NITI Aayog replaced the Planning Commission
+C. The First Five-Year Plan was launched
+D. Aspirational Districts were first selected
 
-A. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-B. Khullar traces Indian planning back to the National Planning Committee of 1938.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
+**Q23. Why did targeted regional programmes not automatically equalise Indian incomes?**
 
-**Answer: D.**
-**Explanation:** Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages. The other options describe different processes, locations, scales or governance categories.
+A. All gains spread automatically from the first plant
+B. Every district faced the same access constraints
+C. Benefits clustered where irrigation, connectivity and implementation capacity were stronger
+D. Growth nodes always drew equal hinterland participation
 
-### Q17. Which statement correctly explains Friedmann core-periphery logic?
+**Q24. Which comparison best distinguishes irrigated northwest from many rainfed regions?**
 
-A. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
+A. Water supply alone determines every district’s income
+B. Rainfed belts necessarily lack market linkages
+C. Irrigation ensures equitable distribution automatically
+D. Reliable water and inputs can raise productivity, but returns depend on institutions and ecology
 
-**Answer: A.**
-**Explanation:** Core-periphery logic explains how a strong core dominates and organises a weaker periphery. The other options describe different processes, locations, scales or governance categories.
+**Q25. A freight corridor is announced but no factories or suppliers operate alongside it. Which claim is unsafe?**
 
-### Q18. Which option is the safest spatial interpretation of Friedmann core-periphery logic?
+A. Notification alone proves inclusive regional development
+B. Announcement proves factories already operate
+C. Only state-level indicators measure industrial use
+D. Transport access alone establishes local jobs
 
-A. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-B. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-C. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-D. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
+**Q26. Which NITI programme targets selected lagging districts and began in January 2018?**
 
-**Answer: B.**
-**Explanation:** Core-periphery logic explains how a strong core dominates and organises a weaker periphery. The other options describe different processes, locations, scales or governance categories.
+A. Aspirational Blocks Programme
+B. Aspirational Districts Programme
+C. SDG India Index 2023–24
+D. Twelfth Five-Year Plan
 
-### Q19. Which statement preserves the process boundary for Friedmann core-periphery logic?
+**Q27. Why supplement district targets with an Aspirational Blocks Programme?**
 
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
+A. A national state average reveals every block
+B. Block ranking replaces spending and administration
+C. State and district averages can mask smaller pockets of deprivation
+D. All district averages are identical to block outcomes
 
-**Answer: C.**
-**Explanation:** Core-periphery logic explains how a strong core dominates and organises a weaker periphery. The other options describe different processes, locations, scales or governance categories.
+**Q28. The SDG India Index 2023–24 overall score of 71 should be read as:**
 
-### Q20. Which option avoids the main UPSC trap concerning Friedmann core-periphery logic?
+A. A district-wise per-capita income measure
+B. A completed nationwide census count
+C. A direct causal impact estimate for the district programme
+D. A dated composite benchmarking score, not regional income per head
 
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-C. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-D. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
+**Q29. Why compare district indicator levels as well as changes in dashboard rankings?**
 
-**Answer: D.**
-**Explanation:** Core-periphery logic explains how a strong core dominates and organises a weaker periphery. The other options describe different processes, locations, scales or governance categories.
+A. Fast improvement from a low baseline need not remove an absolute gap
+B. A high delta automatically closes an absolute gap
+C. Selection proves the programme caused every improvement
+D. A rank measures outcomes even when coverage differs
 
-### Q21. Which statement correctly explains Myrdal spread and backwash?
+**Q30. How does a district targeting programme relate to fiscal federalism?**
 
-A. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-B. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-C. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-D. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
+A. Finance Commission transfers become obsolete
+B. Monitoring and convergence still require public funding, state delivery and local institutions
+C. NITI’s ranking directly appropriates all budgets
+D. Local plans are identical to national indices
 
-**Answer: A.**
-**Explanation:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. The other options describe different processes, locations, scales or governance categories.
+**Q31. A river-basin project benefits a metropolitan core but displaces upstream villagers. What is the proper regional verdict?**
 
-### Q22. Which option is the safest spatial interpretation of Myrdal spread and backwash?
+A. Aggregate expenditure without displacement costs
+B. Only the metropolitan wage gain
+C. Assess distributive outcomes and ecological costs in both places
+D. Cultural distinctiveness instead of access and harm
 
-A. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-B. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-C. Khullar traces Indian planning back to the National Planning Committee of 1938.
-D. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
+**Q32. Which combined strategy most directly tests whether a growth node reduces disparity?**
 
-**Answer: B.**
-**Explanation:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. The other options describe different processes, locations, scales or governance categories.
+A. The number of planned growth centres alone
+B. Only a state’s overall rank
+C. The total size of the metropolitan core alone
+D. Trace local suppliers, labour access, service provision and hinterland outcomes
 
-### Q23. Which statement preserves the process boundary for Myrdal spread and backwash?
+### Separate answer key and item-specific explanations
 
-A. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-B. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-C. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-D. Khullar traces Indian planning back to the National Planning Committee of 1938.
+**Q1 — A.** Diversity describes difference; comparable service deprivation is a rankable inequality. **Trap:** Crop and cultural differences describe diversity, whereas unequal access ranks deprivation.
 
-**Answer: C.**
-**Explanation:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. The other options describe different processes, locations, scales or governance categories.
+**Q2 — B.** Interactions with an urban node define a functional region; its footprint can cross delivery boundaries. **Trap:** A catchment, homogeneous belt and revenue boundary may all have different extents from a commuting hinterland.
 
-### Q24. Which option avoids the main UPSC trap concerning Myrdal spread and backwash?
+**Q3 — C.** Coordinate at catchment scale while assigning district responsibilities; contiguity alone is insufficient. **Trap:** A river basin cannot be planned entirely by one district when upstream and downstream actions interact.
 
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-C. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-D. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
+**Q4 — D.** A common characteristic defines formal homogeneity; commuting flows define functional regions. **Trap:** Aridity is a shared property, not proof of a single commuting network.
 
-**Answer: D.**
-**Explanation:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. The other options describe different processes, locations, scales or governance categories.
+**Q5 — A.** Connectivity, history and cumulative investment matter in addition to physical endowment. **Trap:** Natural resources matter, but inherited routes and supplier concentration also shape returns.
 
-### Q25. Which statement correctly explains Balanced-unbalanced growth debate?
+**Q6 — B.** Growth can cluster around linked industries; diffusion to a hinterland requires real connections. **Trap:** Threshold describes services; Perroux focuses on propulsive industry and linkages.
 
-A. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-B. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. Khullar traces Indian planning back to the National Planning Committee of 1938.
+**Q7 — C.** Boudeville translated Perroux’s economic pole into spatial planning practice. **Trap:** Boudeville spatialised an economic theory; he did not invent rank-size or a demographic sequence.
 
-**Answer: A.**
-**Explanation:** The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes. The other options describe different processes, locations, scales or governance categories.
+**Q8 — D.** Plant location is not diffusion; supplier and labour linkages are the mechanism to test. **Trap:** Local sourcing and hiring must be demonstrated; a plant opening does not establish spread.
 
-### Q26. Which option is the safest spatial interpretation of Balanced-unbalanced growth debate?
+**Q9 — A.** Outflow of talent and investment can reinforce core advantage at the periphery’s expense. **Trap:** Backwash drains peripheral capacity, whereas spread transmits demand or know-how outward.
 
-A. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-B. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-C. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-D. Khullar traces Indian planning back to the National Planning Committee of 1938.
+**Q10 — B.** Market and infrastructure linkages transmit gains outward, though benefits depend on who can participate. **Trap:** Supplier demand can spread benefits; selective outflow of talent instead causes backwash.
 
-**Answer: B.**
-**Explanation:** The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes. The other options describe different processes, locations, scales or governance categories.
+**Q11 — C.** Feedback can widen initial gaps unless spread overtakes backwash or policy intervenes. **Trap:** Myrdal is not a guarantee of convergence; the feedback may strengthen already rich regions.
 
-### Q27. Which statement preserves the process boundary for Balanced-unbalanced growth debate?
+**Q12 — D.** Core–periphery analyses power, flows and spatial dependence, not simply a city’s internal morphology. **Trap:** City-internal rings and central-place market geometry are not Friedmann’s regional dependence.
 
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-C. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-D. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
+**Q13 — A.** Intermediate nodes may capture opportunities otherwise concentrated in the core; evaluate actual linkages. **Trap:** Intermediate nodes widen accessible options without prohibiting movement to major cities.
 
-**Answer: C.**
-**Explanation:** The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes. The other options describe different processes, locations, scales or governance categories.
+**Q14 — B.** Selective investment can induce further development, but polarisation may persist if linkages fail. **Trap:** Hirschman argues for strategic imbalance, not equal allotment or automatic spillovers.
 
-### Q28. Which option avoids the main UPSC trap concerning Balanced-unbalanced growth debate?
+**Q15 — C.** Strengthening local agro-economies and small settlements offers an alternative to enclave metropolitan concentration. **Trap:** Agropolitan approaches strengthen decentralised rural–urban production rather than a lone megacity.
 
-A. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-B. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-C. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-D. The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
+**Q16 — D.** Do not rank difference as disadvantage without comparable outcome indicators. **Trap:** Equivalent school access on one measure cannot rule out gaps in income or healthcare.
 
-**Answer: D.**
-**Explanation:** The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes. The other options describe different processes, locations, scales or governance categories.
+**Q17 — A.** The committee is pre-Independence; the First Plan began later under a different institution. **Trap:** The 1938 committee was not the first plan or NITI, both of which came later.
 
-### Q29. Which statement correctly explains Planning region criteria?
+**Q18 — B.** The First responded to food and rehabilitation needs; the Second promoted an industrial base. **Trap:** Do not swap agriculture-first 1951–56 priorities with the 1956–61 industrial thrust.
 
-A. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-B. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-C. Khullar traces Indian planning back to the National Planning Committee of 1938.
-D. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
+**Q19 — C.** A river basin transcends administrative units and supports multiple linked development goals. **Trap:** The river-basin example integrates water and energy over an area larger than one city.
 
-**Answer: A.**
-**Explanation:** A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability. The other options describe different processes, locations, scales or governance categories.
+**Q20 — D.** Annual Plans followed wars, drought and fiscal stress, not the end of planning altogether. **Trap:** Annual Plans of 1966–69 followed the Third Plan; the Twelfth was far later.
 
-### Q30. Which option is the safest spatial interpretation of Planning region criteria?
+**Q21 — A.** The Twelfth cycle ended in 2017; subsequent initiatives are not an unannounced Thirteenth Plan. **Trap:** No subsequent Thirteenth Five-Year Plan is implied by missions after 2017.
 
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-C. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-D. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
+**Q22 — B.** NITI functions as policy think tank/cooperative-federal platform, not an identical outlay commission. **Trap:** Institutional replacement is not equivalent to abolition of planning or creation of a census.
 
-**Answer: B.**
-**Explanation:** A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability. The other options describe different processes, locations, scales or governance categories.
+**Q23 — C.** Selective gains and institutional differences meant investments did not always generate inclusive spread. **Trap:** Investment location is insufficient when the periphery lacks suppliers, skills and delivery capacity.
 
-### Q31. Which statement preserves the process boundary for Planning region criteria?
+**Q24 — D.** Agrarian divergence reflects water access, input systems and market links; groundwater costs complicate gains. **Trap:** Water access is a mechanism, but governance and environmental costs qualify its regional returns.
 
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-C. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-D. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
+**Q25 — A.** A mapped corridor is an instrument, not proof of jobs or hinterland spread. **Trap:** Corridor notification differs from operation and documented local job creation.
 
-**Answer: C.**
-**Explanation:** A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability. The other options describe different processes, locations, scales or governance categories.
+**Q26 — B.** ADP targeted 112 districts at launch; district targeting is not a state-level income ranking. **Trap:** ADP selects districts; the later Blocks programme targets smaller administrative units.
 
-### Q32. Which option avoids the main UPSC trap concerning Planning region criteria?
+**Q27 — C.** Subdistrict targeting reveals within-district variation, while delivery still needs state/local capacity. **Trap:** District means can conceal badly served blocks and villages.
 
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-C. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-D. A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
+**Q28 — D.** NITI’s dated index compares indicator outcomes; a national score cannot establish equal district welfare. **Trap:** A composite national index is not a per-capita income series or causal evaluation.
 
-**Answer: D.**
-**Explanation:** A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability. The other options describe different processes, locations, scales or governance categories.
+**Q29 — A.** Distinguish rate of improvement, starting level, coverage and outcome before claiming convergence. **Trap:** Ranking and fast change from low baselines are not identical to equal outcome levels.
 
-### Q33. Which statement correctly explains Disparity versus diversity?
+**Q30 — B.** A coordination index is not itself a grant, a local plan or a substitute for implementing agencies. **Trap:** An index monitors outcomes; Finance Commission transfers and local implementation remain distinct.
 
-A. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-B. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-C. Khullar traces Indian planning back to the National Planning Committee of 1938.
-D. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
+**Q31 — C.** Regional development compares spatial winners and losers; aggregate growth can hide dispossession. **Trap:** Aggregate expenditure misses displacement and unequal upstream/downstream effects.
 
-**Answer: A.**
-**Explanation:** Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure. The other options describe different processes, locations, scales or governance categories.
-
-### Q34. Which option is the safest spatial interpretation of Disparity versus diversity?
-
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-C. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-D. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-
-**Answer: B.**
-**Explanation:** Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure. The other options describe different processes, locations, scales or governance categories.
-
-### Q35. Which statement preserves the process boundary for Disparity versus diversity?
-
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-C. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-D. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-
-**Answer: C.**
-**Explanation:** Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure. The other options describe different processes, locations, scales or governance categories.
-
-### Q36. Which option avoids the main UPSC trap concerning Disparity versus diversity?
-
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-C. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-D. Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-
-**Answer: D.**
-**Explanation:** Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure. The other options describe different processes, locations, scales or governance categories.
-
-### Q37. Which statement correctly explains National Planning Committee 1938?
-
-A. Khullar traces Indian planning back to the National Planning Committee of 1938.
-B. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-C. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-D. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-
-**Answer: A.**
-**Explanation:** Khullar traces Indian planning back to the National Planning Committee of 1938. The other options describe different processes, locations, scales or governance categories.
-
-### Q38. Which option is the safest spatial interpretation of National Planning Committee 1938?
-
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. Khullar traces Indian planning back to the National Planning Committee of 1938.
-C. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: B.**
-**Explanation:** Khullar traces Indian planning back to the National Planning Committee of 1938. The other options describe different processes, locations, scales or governance categories.
-
-### Q39. Which statement preserves the process boundary for National Planning Committee 1938?
-
-A. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-B. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-C. Khullar traces Indian planning back to the National Planning Committee of 1938.
-D. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-
-**Answer: C.**
-**Explanation:** Khullar traces Indian planning back to the National Planning Committee of 1938. The other options describe different processes, locations, scales or governance categories.
-
-### Q40. Which option avoids the main UPSC trap concerning National Planning Committee 1938?
-
-A. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-D. Khullar traces Indian planning back to the National Planning Committee of 1938.
-
-**Answer: D.**
-**Explanation:** Khullar traces Indian planning back to the National Planning Committee of 1938. The other options describe different processes, locations, scales or governance categories.
-
-### Q41. Which statement correctly explains Planning Commission and First Plan?
-
-A. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-B. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-C. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-D. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-
-**Answer: A.**
-**Explanation:** The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51. The other options describe different processes, locations, scales or governance categories.
-
-### Q42. Which option is the safest spatial interpretation of Planning Commission and First Plan?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-C. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: B.**
-**Explanation:** The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51. The other options describe different processes, locations, scales or governance categories.
-
-### Q43. Which statement preserves the process boundary for Planning Commission and First Plan?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: C.**
-**Explanation:** The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51. The other options describe different processes, locations, scales or governance categories.
-
-### Q44. Which option avoids the main UPSC trap concerning Planning Commission and First Plan?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-D. The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-
-**Answer: D.**
-**Explanation:** The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51. The other options describe different processes, locations, scales or governance categories.
-
-### Q45. Which statement correctly explains First Plan priorities?
-
-A. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-B. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-C. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: A.**
-**Explanation:** The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking. The other options describe different processes, locations, scales or governance categories.
-
-### Q46. Which option is the safest spatial interpretation of First Plan priorities?
-
-A. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-B. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-
-**Answer: B.**
-**Explanation:** The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking. The other options describe different processes, locations, scales or governance categories.
-
-### Q47. Which statement preserves the process boundary for First Plan priorities?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-C. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-D. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-
-**Answer: C.**
-**Explanation:** The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking. The other options describe different processes, locations, scales or governance categories.
-
-### Q48. Which option avoids the main UPSC trap concerning First Plan priorities?
-
-A. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-D. The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-
-**Answer: D.**
-**Explanation:** The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking. The other options describe different processes, locations, scales or governance categories.
-
-### Q49. Which statement correctly explains Second Plan heavy industry?
-
-A. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-B. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: A.**
-**Explanation:** The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base. The other options describe different processes, locations, scales or governance categories.
-
-### Q50. Which option is the safest spatial interpretation of Second Plan heavy industry?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: B.**
-**Explanation:** The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base. The other options describe different processes, locations, scales or governance categories.
-
-### Q51. Which statement preserves the process boundary for Second Plan heavy industry?
-
-A. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: C.**
-**Explanation:** The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base. The other options describe different processes, locations, scales or governance categories.
-
-### Q52. Which option avoids the main UPSC trap concerning Second Plan heavy industry?
-
-A. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-B. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-C. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-D. The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-
-**Answer: D.**
-**Explanation:** The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base. The other options describe different processes, locations, scales or governance categories.
-
-### Q53. Which statement correctly explains Annual Plans and last cycle?
-
-A. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-B. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: A.**
-**Explanation:** India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle. The other options describe different processes, locations, scales or governance categories.
-
-### Q54. Which option is the safest spatial interpretation of Annual Plans and last cycle?
-
-A. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-B. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-
-**Answer: B.**
-**Explanation:** India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle. The other options describe different processes, locations, scales or governance categories.
-
-### Q55. Which statement preserves the process boundary for Annual Plans and last cycle?
-
-A. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-D. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-
-**Answer: C.**
-**Explanation:** India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle. The other options describe different processes, locations, scales or governance categories.
-
-### Q56. Which option avoids the main UPSC trap concerning Annual Plans and last cycle?
-
-A. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-B. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-C. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-D. India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-
-**Answer: D.**
-**Explanation:** India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle. The other options describe different processes, locations, scales or governance categories.
-
-### Q57. Which statement correctly explains Balanced development remained incomplete?
-
-A. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-B. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: A.**
-**Explanation:** Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era. The other options describe different processes, locations, scales or governance categories.
-
-### Q58. Which option is the safest spatial interpretation of Balanced development remained incomplete?
-
-A. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-B. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-C. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-D. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-
-**Answer: B.**
-**Explanation:** Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era. The other options describe different processes, locations, scales or governance categories.
-
-### Q59. Which statement preserves the process boundary for Balanced development remained incomplete?
-
-A. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-D. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-
-**Answer: C.**
-**Explanation:** Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era. The other options describe different processes, locations, scales or governance categories.
-
-### Q60. Which option avoids the main UPSC trap concerning Balanced development remained incomplete?
-
-A. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-D. Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-
-**Answer: D.**
-**Explanation:** Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era. The other options describe different processes, locations, scales or governance categories.
-
-### Q61. Which statement correctly explains NITI replacement date?
-
-A. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-B. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-C. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: A.**
-**Explanation:** The Planning Commission was replaced by NITI Aayog on 1 January 2015. The other options describe different processes, locations, scales or governance categories.
-
-### Q62. Which option is the safest spatial interpretation of NITI replacement date?
-
-A. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-B. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-C. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-D. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-
-**Answer: B.**
-**Explanation:** The Planning Commission was replaced by NITI Aayog on 1 January 2015. The other options describe different processes, locations, scales or governance categories.
-
-### Q63. Which statement preserves the process boundary for NITI replacement date?
-
-A. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-B. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-C. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-D. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-
-**Answer: C.**
-**Explanation:** The Planning Commission was replaced by NITI Aayog on 1 January 2015. The other options describe different processes, locations, scales or governance categories.
-
-### Q64. Which option avoids the main UPSC trap concerning NITI replacement date?
-
-A. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-D. The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-
-**Answer: D.**
-**Explanation:** The Planning Commission was replaced by NITI Aayog on 1 January 2015. The other options describe different processes, locations, scales or governance categories.
-
-### Q65. Which statement correctly explains NITI planning style?
-
-A. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-D. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-
-**Answer: A.**
-**Explanation:** The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone. The other options describe different processes, locations, scales or governance categories.
-
-### Q66. Which option is the safest spatial interpretation of NITI planning style?
-
-A. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-B. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-C. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-D. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-
-**Answer: B.**
-**Explanation:** The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone. The other options describe different processes, locations, scales or governance categories.
-
-### Q67. Which statement preserves the process boundary for NITI planning style?
-
-A. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-B. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-C. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-D. Regional planning applies development logic to a specific region rather than to the country as a whole.
-
-**Answer: C.**
-**Explanation:** The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone. The other options describe different processes, locations, scales or governance categories.
-
-### Q68. Which option avoids the main UPSC trap concerning NITI planning style?
-
-A. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-D. The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-
-**Answer: D.**
-**Explanation:** The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone. The other options describe different processes, locations, scales or governance categories.
-
-### Q69. Which statement correctly explains Aspirational Districts?
-
-A. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-D. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-
-**Answer: A.**
-**Explanation:** NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts. The other options describe different processes, locations, scales or governance categories.
-
-### Q70. Which option is the safest spatial interpretation of Aspirational Districts?
-
-A. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-B. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-C. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-D. Regional planning applies development logic to a specific region rather than to the country as a whole.
-
-**Answer: B.**
-**Explanation:** NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts. The other options describe different processes, locations, scales or governance categories.
-
-### Q71. Which statement preserves the process boundary for Aspirational Districts?
-
-A. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-D. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-
-**Answer: C.**
-**Explanation:** NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts. The other options describe different processes, locations, scales or governance categories.
-
-### Q72. Which option avoids the main UPSC trap concerning Aspirational Districts?
-
-A. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-B. Regional planning applies development logic to a specific region rather than to the country as a whole.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-
-**Answer: D.**
-**Explanation:** NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts. The other options describe different processes, locations, scales or governance categories.
-
-### Q73. Which statement correctly explains SDG India Index 2023-24?
-
-A. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-B. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-C. Regional planning applies development logic to a specific region rather than to the country as a whole.
-D. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-
-**Answer: A.**
-**Explanation:** The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators. The other options describe different processes, locations, scales or governance categories.
-
-### Q74. Which option is the safest spatial interpretation of SDG India Index 2023-24?
-
-A. Regional planning applies development logic to a specific region rather than to the country as a whole.
-B. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-C. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-D. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-
-**Answer: B.**
-**Explanation:** The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators. The other options describe different processes, locations, scales or governance categories.
-
-### Q75. Which statement preserves the process boundary for SDG India Index 2023-24?
-
-A. Regional planning applies development logic to a specific region rather than to the country as a whole.
-B. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-C. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-D. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-
-**Answer: C.**
-**Explanation:** The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators. The other options describe different processes, locations, scales or governance categories.
-
-### Q76. Which option avoids the main UPSC trap concerning SDG India Index 2023-24?
-
-A. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-B. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-C. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-D. The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-
-**Answer: D.**
-**Explanation:** The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators. The other options describe different processes, locations, scales or governance categories.
-
-### Q77. Which statement correctly explains District and block targeting?
-
-A. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-B. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-C. Regional planning applies development logic to a specific region rather than to the country as a whole.
-D. Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-
-**Answer: A.**
-**Explanation:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. The other options describe different processes, locations, scales or governance categories.
-
-### Q78. Which option is the safest spatial interpretation of District and block targeting?
-
-A. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-B. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-C. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-D. Regional planning applies development logic to a specific region rather than to the country as a whole.
-
-**Answer: B.**
-**Explanation:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. The other options describe different processes, locations, scales or governance categories.
-
-### Q79. Which statement preserves the process boundary for District and block targeting?
-
-A. Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-B. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-C. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-D. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-
-**Answer: C.**
-**Explanation:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. The other options describe different processes, locations, scales or governance categories.
-
-### Q80. Which option avoids the main UPSC trap concerning District and block targeting?
-
-A. Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-B. Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-C. Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-D. Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-
-**Answer: D.**
-**Explanation:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. The other options describe different processes, locations, scales or governance categories.
+**Q32 — D.** Linkage evidence connects a node to actual regional diffusion rather than presumed trickle-down. **Trap:** The existence of a node must be linked to supplier, labour and service outcomes.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified cross-routed descriptive PYQ
 
-This topic has a verified direct routed demand: the 2024 GS-I question asking what regional disparity is, how it differs from diversity and how serious it is in India. The package therefore keeps the disparity-diversity distinction explicit and does not fabricate any additional direct PYQ.
+**2024 GS-I Q17 (15 marks, 250 words):** “What is regional disparity? How does it differ from diversity? How serious is the issue of regional disparity in India?” Verified against published 2024 GS-I paper transcriptions; the Advanced owner identifies the question, although the current central topic-routing ledger does not directly assign it to Topic 29. Include it as *cross-routed*, not as a fabricated direct route.
 
-### PYQ DEMAND CARD 1 — 2024 GS-I
+**Model answer:** Regional disparity is a measurable inequality between places in income, employment, health, education or infrastructure; regional diversity describes differences in ecology, language, culture and specialisation that need not imply a welfare deficit. Distinct hill and plain crops are diversity, but systematically poorer access to all-weather roads and health services in a hill region is disparity. India’s disparity is serious both between and within states: irrigated northwestern farming benefited from reliable water and markets while rainfed and many hill or tribal belts face different constraints; capital and skilled labour also gravitate to metropolitan corridors. Myrdal’s backwash explains why initial advantages can reproduce themselves; Perroux’s growth poles yield balanced outcomes only when local suppliers, workers and hinterlands share benefits. Yet one national average or a single state ranking cannot measure every district. Earlier Five-Year Plans used public irrigation, industry and backward-area policies; NITI’s Aspirational Districts and Blocks emphasise finer territorial monitoring. Invest in local skills, service delivery and connectivity while protecting ecological and cultural diversity. Convergence means reducing avoidable disadvantage, not making all regions identical.
 
-**Demand:** What is regional disparity? How does it differ from diversity? How serious is the issue of regional disparity in India?
-
-**Status:** Verified direct PYQ routed inside the Advanced owner for Geography Topic 29.
-
-**Model solution:** Regional disparity means ranked inequality among regions in income, productivity, infrastructure, literacy, health and opportunity, whereas regional diversity means unranked difference of character such as language, ecology or cropping pattern. India shows serious disparity because growth, irrigation, industry, services and governance capacity have clustered unevenly across states, districts and metropolitan corridors, and intra-state inequality often rivals interstate inequality. A balanced answer should therefore separate diversity from disparity, explain why markets and historical head starts concentrate development, and conclude that planning has changed in form but regional imbalance remains a first-order problem.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “PYQ DEMAND CARD 1 — 2024 GS-I”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: What is regional disparity? How does it differ from diversity? How serious is the issue of regional disparity in India? **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Status: Verified direct PYQ routed inside the Advanced owner for Geography Topic 29. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “PYQ DEMAND CARD 1 — 2024 GS-I”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+### Original Mains practice — complete model solutions
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Distinguish regional disparity from regional diversity. Answer in about 150 words.
 
-**Model thesis:** Diversity is unranked difference, while disparity is ranked inequality; the distinction matters because policy should protect diversity but reduce disparity.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit.
-- Regional planning applies development logic to a specific region rather than to the country as a whole.
-- Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure.
-
-**Qualified conclusion:** Diversity is unranked difference, while disparity is ranked inequality; the distinction matters because policy should protect diversity but reduce disparity.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish regional disparity from regional diversity. Answer in about 150 words.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Diversity is unranked difference, while disparity is ranked inequality; the distinction matters because policy should protect diversity but reduce disparity.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Regional development treats planning as the deliberate improvement of production, welfare, infrastructure and social capability in a defined territorial unit. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Regional planning applies development logic to a specific region rather than to the country as a whole. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Regional diversity means unranked difference of character, while regional disparity means ranked inequality of outcomes such as income, literacy, health or infrastructure. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Diversity is unranked difference, while disparity is ranked inequality; the distinction matters because policy should protect diversity but reduce disparity.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Distinguish regional disparity from regional diversity. Answer in about 150 words.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Regional diversity refers to difference without necessary ranking: a hill district and a delta may have distinct languages, crops or ecological adaptations. Regional disparity describes unequal outcomes measured on a common scale, such as access to functioning schools, health facilities, income and transport. Distinct farming systems are not themselves a deficit; if one region systematically lacks market access or safe drinking water, difference has become disadvantage. India’s linguistic federalism can protect diversity, whereas district-targeted services should reduce disparity. Per-capita income alone is insufficient: examine within-state variation and health and education outcomes. An SDG India Index comparison needs its reference year and indicator coverage. Policy should therefore accommodate cultural and ecological differences while investing in opportunity and public services, not treat uniformity as the goal of development.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain why planning regions need more than mere contiguity. Answer in about 150 words.
 
-**Model thesis:** A planning region is viable only when functional, economic, administrative, ecological and social criteria align well enough for implementation.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability.
-
-**Qualified conclusion:** A planning region is viable only when functional, economic, administrative, ecological and social criteria align well enough for implementation.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why planning regions need more than mere contiguity. Answer in about 150 words.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** A planning region is viable only when functional, economic, administrative, ecological and social criteria align well enough for implementation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A planning region should combine functional unity, administrative manageability, economic viability, ecological balance and social acceptability. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** A planning region is viable only when functional, economic, administrative, ecological and social criteria align well enough for implementation.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Explain why planning regions need more than mere contiguity. Answer in about 150 words.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Contiguous districts need not share the same development problem or economic flows. A river catchment crosses revenue boundaries, so upstream land use and downstream flood risk require basin-scale coordination; a metropolitan labour market crosses municipalities, while an arid belt may span districts without sharing one commuting centre. Formal regions group similar characteristics, functional regions follow flows around nodes, and administrative regions organise actual delivery. A good planning region aligns the problem’s geography with workable governance, resources and local participation. Delhi-NCR commuting illustrates functional reach beyond one municipal line; district schemes require governments that can budget and execute across that reach. Contiguity helps implementation but is insufficient when labour, groundwater or pollution crosses borders. Combine ecological and economic maps with accountable district and state responsibilities rather than assuming adjacent units automatically form a useful region.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Use growth-pole, core-periphery and spread-backwash ideas to explain regional imbalance. Answer in about 250 words.
 
-**Model thesis:** Regional imbalance persists because development clusters in propulsive nodes, dominant cores drain surrounding regions, and spread effects remain weaker than backwash in many settings.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-- Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages.
-- Core-periphery logic explains how a strong core dominates and organises a weaker periphery.
-- Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-- The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes.
-
-**Qualified conclusion:** Regional imbalance persists because development clusters in propulsive nodes, dominant cores drain surrounding regions, and spread effects remain weaker than backwash in many settings.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Use growth-pole, core-periphery and spread-backwash ideas to explain regional imbalance.…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Regional imbalance persists because development clusters in propulsive nodes, dominant cores drain surrounding regions, and spread effects remain weaker than backwash in many settings.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Perroux's growth-pole idea says development begins in propulsive nodes or industries and then diffuses outward through linkages. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Core-periphery logic explains how a strong core dominates and organises a weaker periphery. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** The balanced-versus-unbalanced growth debate asks whether development should be spread widely or strategically concentrated in selected nodes. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Regional imbalance persists because development clusters in propulsive nodes, dominant cores drain surrounding regions, and spread effects remain weaker than backwash in many settings.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Use growth-pole, core-periphery and spread-backwash ideas to explain regional imbalance.…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Perroux’s growth-pole theory describes propulsive industries generating demand for suppliers and labour; Boudeville locates that pole in geographic space. A steel or industrial corridor can stimulate its hinterland only if local firms, transport and workers participate; a factory importing inputs can remain an enclave. Friedmann’s core–periphery model describes a dominant metropolitan centre drawing functions from surrounding areas, with intermediate towns potentially transmitting gains. Myrdal explains the feedback: early infrastructure and markets attract more investment and skilled labour, while backwash drains peripheral talent and capital; spread occurs where core demand, technology and feeder roads benefit surrounding districts. Compare a Gujarat industrial corridor with less connected inland districts without asserting a timeless income ratio: location alone does not prove convergence. Hirschman’s unbalanced-growth argument accepts selective investment but expects complementary linkages, whose appearance must be tested rather than presumed. Regional balance therefore requires deliberate skills, supplier networks, local services and connectivity as well as a growth node. Assess actual hinterland income, employment and environmental costs, not project announcements.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Trace the major spatial priorities of India's First and Second Five Year Plans. Answer in about 250 words.
+**Question:** Trace the major spatial priorities of India’s First and Second Five Year Plans. Answer in about 250 words.
 
-**Model thesis:** The First Plan stressed irrigation, agriculture, refugee resettlement and power, while the Second Plan shifted toward heavy industry and the public-sector industrial base.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51.
-- The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking.
-- The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base.
-
-**Qualified conclusion:** The First Plan stressed irrigation, agriculture, refugee resettlement and power, while the Second Plan shifted toward heavy industry and the public-sector industrial base.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the major spatial priorities of India's First and Second Five Year Plans. Answer in…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The First Plan stressed irrigation, agriculture, refugee resettlement and power, while the Second Plan shifted toward heavy industry and the public-sector industrial base.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Planning Commission was set up in 1950 and the First Five Year Plan launched the centralised planning framework in 1950-51. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** The First Plan prioritised irrigation, agriculture, refugee resettlement, power and early resource-region thinking. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** The Second Plan shifted emphasis towards heavy industry and the public-sector industrial base. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The First Plan stressed irrigation, agriculture, refugee resettlement and power, while the Second Plan shifted toward heavy industry and the public-sector industrial base.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Trace the major spatial priorities of India's First and Second Five Year Plans. Answer in…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** India’s First Five-Year Plan (1951–56) addressed food shortage and refugee rehabilitation after Partition by prioritising agriculture, irrigation and power. The Damodar Valley illustrates a multipurpose river-basin approach: flood moderation, irrigation and electricity linked several areas beyond a single district. Infrastructure and productivity in rural regions were central spatial objectives, though investment benefits depended on irrigation access. The Second Plan (1956–61) shifted emphasis to heavy industry and the public sector; locating major industrial plants was expected to create productive centres and backward and forward linkages. Yet a plant’s presence alone cannot equalise regional living standards if local labour and suppliers remain excluded. The early plans thus differed in sectoral emphasis—rural agricultural-water foundations versus an industrial base—but both shaped the geography of development through chosen locations and infrastructure. Later plans made balanced regional development more explicit as concentration in irrigated or industrial regions persisted. Do not confuse the First Plan with the pre-Independence National Planning Committee or the much later NITI Aayog; analyse the territorial consequences rather than listing macro targets.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Why did balanced regional development remain an incomplete achievement in India despite successive plans? Answer in about 300 words.
 
-**Model thesis:** Regional disparity persisted because irrigation, industry, markets, connectivity and governance capacity remained uneven, so backwash forces often beat spread effects even under planned development.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development.
-- Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions.
-- Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era.
-- Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-
-**Qualified conclusion:** Regional disparity persisted because irrigation, industry, markets, connectivity and governance capacity remained uneven, so backwash forces often beat spread effects even under planned development.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did balanced regional development remain an incomplete achievement in India despite…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Regional disparity persisted because irrigation, industry, markets, connectivity and governance capacity remained uneven, so backwash forces often beat spread effects even under planned development.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Resource endowment, transport access, market size, state policy, technology and historical advantage all contribute to uneven regional development. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Myrdal's spread and backwash effects show that growth can either diffuse benefits outward or drain labour, capital and talent from surrounding regions. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Khullar explicitly treats the failure to achieve balanced regional development as a major shortcoming of the Five Year Plan era. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Regional disparity persisted because irrigation, industry, markets, connectivity and governance capacity remained uneven, so backwash forces often beat spread effects even under planned development.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Why did balanced regional development remain an incomplete achievement in India despite…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Balanced regional development seeks to narrow avoidable gaps in jobs, productive capacity and services, not eliminate cultural or ecological diversity. Successive Five-Year Plans built irrigation, power and industrial capacity, yet initial geographic advantages remained unequal. Irrigated northwestern belts enjoyed reliable water and market connections; rainfed interiors faced higher risk, while port and industrial corridors attracted capital and skilled labour. Myrdal’s cumulative causation explains why firms follow existing suppliers and markets; backwash can drain workers and investment from lagging regions. A public plant or road may generate an enclave if local skills and suppliers cannot connect to it. Historical colonial routes, uneven school and health services, differentiated state implementation and ecological stress complicate equalisation. Within-state disparities also escape a state-average allocation formula, particularly for hill, tribal or urban-peripheral districts. Planning Commission-era backward-area programmes and state transfers attempted corrective investment; their outcomes should be assessed against actual accessibility and employment, not just disbursements. NITI’s district and block programmes offer finer monitoring but cannot themselves replace local implementation or fiscal capacity. A better strategy combines water-sensitive agriculture, small-town services, labour skills and supplier links with ecological safeguards and robust municipal/district institutions. Selectively create growth nodes, then test whether income and services spread to the hinterland. Partial gains do not refute planning; they show why allocation without institutional and spatial linkages cannot guarantee convergence.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Has India moved from planning by Five Year Plans to planning by dashboards? Analyse. Answer in about 300 words.
 
-**Model thesis:** India's planning style has changed from centralised plan documents to mission platforms, district dashboards and territorial benchmarking, but the core geographic problem of regional imbalance remains.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle.
-- The Planning Commission was replaced by NITI Aayog on 1 January 2015.
-- The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone.
-- NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts.
-- The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators.
-- Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity.
-
-**Qualified conclusion:** India's planning style has changed from centralised plan documents to mission platforms, district dashboards and territorial benchmarking, but the core geographic problem of regional imbalance remains.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Has India moved from planning by Five Year Plans to planning by dashboards? Analyse. Answer…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India's planning style has changed from centralised plan documents to mission platforms, district dashboards and territorial benchmarking, but the core geographic problem of regional imbalance remains.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India moved to Annual Plans in 1966-69 after war, drought and macro stress, and the Twelfth Plan was the last Five Year Plan cycle. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** The Planning Commission was replaced by NITI Aayog on 1 January 2015. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** The NITI era stresses think-tank coordination, cooperative and competitive federalism, dashboards and mission-mode monitoring rather than plan outlay alone. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** NITI Aayog launched the Aspirational Districts Programme in January 2018 for 112 districts. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** The SDG India Index 2023-24 gave India an overall score of 71 and shows development benchmarking through territorial indicators. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-6. **Claim and named evidence:** Current planning geography pushes targeting downward from state averages to districts and blocks because intra-state disparity is often as serious as interstate disparity. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** India's planning style has changed from centralised plan documents to mission platforms, district dashboards and territorial benchmarking, but the core geographic problem of regional imbalance remains.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Has India moved from planning by Five Year Plans to planning by dashboards? Analyse. Answer…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** India’s Five-Year Plans began with the First Plan (1951–56) and ended with the Twelfth cycle (2012–17). The Planning Commission’s national plan documents and outlay framework coordinated long-horizon public investment; it was replaced by NITI Aayog on 1 January 2015. NITI now uses cooperative and competitive federal approaches, the Aspirational Districts Programme (launched January 2018 for 112 districts), and Aspirational Blocks to compare and support territorial outcomes. The SDG India Index 2023–24 is a dated composite benchmark, not a regional per-capita income series or proof every district converged. Dashboards can expose within-state variation and track change more frequently than a national plan document, but a rising delta score can start from a weak base. Selection and ranking alone do not establish causal programme impact. Public investment, Finance Commission transfers, state budgets and constitutionally grounded local planning remain necessary; a NITI dashboard does not appropriate a budget or build a feeder road by itself. The planning geography has therefore changed in instrument and scale, from long national cycles towards missions, district/block targeting and periodic comparisons, not vanished. Combine locally grounded funding and implementation with transparent indicator monitoring, and evaluate real access, incomes and ecological resilience instead of announcing an era of automatic convergence.

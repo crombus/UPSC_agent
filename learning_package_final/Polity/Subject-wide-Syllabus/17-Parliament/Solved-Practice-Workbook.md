@@ -6,9 +6,9 @@ topic_key: polity-17
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs
+### 40 original MCQs — attempt the entire set before opening the solved key
 
-**Answer rotation:** ABCD repeated eight times. Each question contains four substantive option-specific explanations and one unique question-specific Examiner trap.
+Complete all forty questions before turning to the separate solved key. Each solution explains all four options and a question-specific examiner trap.
 
 #### MCQ 1. Article 79 composition
 
@@ -18,6 +18,361 @@ A. President, Rajya Sabha and Lok Sabha
 B. Prime Minister, Rajya Sabha and Lok Sabha
 C. President and Lok Sabha only
 D. Rajya Sabha and Lok Sabha only
+
+#### MCQ 2. Rajya Sabha election
+
+How are elected State representatives to Rajya Sabha chosen?
+
+A. Direct FPTP by State voters
+B. Proportional representation by single transferable vote through elected MLAs
+C. List voting by all members of the State Legislature
+D. Nomination by the Governor
+
+#### MCQ 3. Lok Sabha Emergency extension
+
+During a national emergency, Parliament may extend Lok Sabha's term:
+
+A. once for the entire emergency
+B. for six months at a time without an outer limit
+C. one year at a time, not beyond six months after the emergency ends
+D. only after Rajya Sabha is dissolved
+
+#### MCQ 4. Seat-freeze trigger
+
+Which statement correctly describes the present constitutional readjustment gate?
+
+A. Readjustment automatically began on 1 January 2026.
+B. The 87th Amendment permanently prohibited changing State seat totals.
+C. Only Census conduct, not publication, is constitutionally relevant.
+D. Relevant figures of the first census taken after 2026 must be published before the deferred readjustment opens.
+
+#### MCQ 5. Article 84 qualification
+
+Which is a constitutional qualification for Parliament membership?
+
+A. Citizenship of India
+B. A university degree
+C. Ten years' residence in the represented State
+D. Prior service in a legislature
+
+#### MCQ 6. Article 103 forum
+
+Who decides whether a sitting MP incurred an Article 102(1) disqualification?
+
+A. Speaker acting without another institution
+B. President after obtaining the Election Commission's opinion
+C. Supreme Court in original jurisdiction
+D. Returning Officer after the election
+
+#### MCQ 7. Article 101 absence
+
+A House may declare an MP's seat vacant for unauthorised absence of:
+
+A. thirty calendar days
+B. forty-five sittings
+C. sixty days calculated with Article 101's excluded periods
+D. six consecutive months in every case
+
+#### MCQ 8. Article 85
+
+Article 85 constitutionally requires that:
+
+A. three named sessions be held annually
+B. Parliament sit for at least 100 days
+C. both Houses always meet simultaneously
+D. six months shall not intervene between the last sitting of one session and first sitting of the next
+
+#### MCQ 9. Quorum
+
+Until Parliament otherwise provides, Article 100 fixes quorum at:
+
+A. one-tenth of the total number of members of the House
+B. one-third of sanctioned strength
+C. fifty members in either House
+D. a majority of members present
+
+#### MCQ 10. Article 88 participation
+
+A Rajya Sabha minister in Lok Sabha may:
+
+A. vote only on Money Bills
+B. speak and participate but vote only through House membership
+C. neither speak nor join a committee
+D. cast one vote in each House
+
+#### MCQ 11. Speaker removal sitting
+
+While the Speaker's removal resolution is under consideration, which combination is correct?
+
+A. Speaker presides and has only a casting vote
+B. Speaker cannot speak or vote
+C. Speaker does not preside, may vote in the first instance, and has no casting vote
+D. Deputy Speaker must also leave the House
+
+#### MCQ 12. Rajya Sabha Chairman
+
+Which statement about the Rajya Sabha Chairman is correct?
+
+A. The Chairman is elected from Rajya Sabha members.
+B. The Chairman votes in the first instance on every question.
+C. The Chairman continues as an MP after Vice-Presidential resignation.
+D. The Vice-President is ex officio Chairman but is not a Rajya Sabha member.
+
+#### MCQ 13. Privilege and bribery
+
+What did Sita Soren v. Union of India (2024) establish?
+
+A. Accepting a bribe for a legislative speech or vote is not immunised by Articles 105/194.
+B. All parliamentary speech can be prosecuted.
+C. Privilege provisions were struck down.
+D. Only the House may investigate bribery.
+
+#### MCQ 14. Question Hour
+
+Which pairing is correct?
+
+A. Starred-written-no supplementaries
+B. Unstarred-written-no supplementaries
+C. Short-notice-written only
+D. Zero Hour-formally codified first hour
+
+#### MCQ 15. No-confidence motion
+
+Which statement is correct about a no-confidence motion?
+
+A. It may be moved in either House.
+B. It must list charges against each minister.
+C. It is a Lok Sabha device requiring fifty members to support leave and tests the Council collectively.
+D. Its admission itself compels resignation.
+
+#### MCQ 16. Resolution distinction
+
+Which statement best distinguishes a resolution?
+
+A. Every procedural motion is a resolution.
+B. A resolution can never arise under a statute.
+C. A resolution necessarily removes the government.
+D. A resolution is a self-contained substantive expression of House opinion or decision; every resolution is a motion, but not every motion is a resolution.
+
+#### MCQ 17. Private Member's Bill
+
+A Private Member's Bill is:
+
+A. introduced by an MP who is not a minister and processed under specially allotted House business
+B. introduced only by a recognised opposition leader
+C. exempt from presidential assent
+D. incapable of becoming law
+
+#### MCQ 18. Ordinary Bill origin
+
+An ordinary Union Bill may constitutionally originate:
+
+A. only in Lok Sabha
+B. in either House, subject to any specific constitutional recommendation requirement
+C. only after joint-committee scrutiny
+D. only when introduced by a minister
+
+#### MCQ 19. Money Bill content
+
+For a Bill to be a Money Bill under Article 110, it must:
+
+A. contain at least one taxation clause regardless of other content
+B. be titled a Finance Bill
+C. contain only listed Article 110 matters and incidental provisions
+D. be passed at a joint sitting
+
+#### MCQ 20. Financial Bill-II
+
+Which statement correctly describes an Article 117(3) Financial Bill?
+
+A. It is a Money Bill.
+B. It can originate only in Lok Sabha.
+C. Rajya Sabha may only recommend changes.
+D. It may originate in either House, but presidential recommendation is required before consideration.
+
+#### MCQ 21. Appropriation Bill
+
+What is the central function of an Appropriation Bill?
+
+A. To authorise withdrawal from the Consolidated Fund of India for voted grants and charged expenditure
+B. To impose every tax announced in the Budget
+C. To obtain Rajya Sabha's vote on demands for grants
+D. To approve CAG reports
+
+#### MCQ 22. Joint-sitting trigger
+
+Which is an Article 108 deadlock trigger for an eligible Bill?
+
+A. President returns the Bill once.
+B. The second House rejects it or the Houses finally disagree on amendments.
+C. A State Legislature refuses ratification.
+D. Rajya Sabha recommends changes to a Money Bill.
+
+#### MCQ 23. Bill lapse
+
+Which Bill lapses on Lok Sabha dissolution?
+
+A. A Bill passed by both Houses awaiting assent
+B. A Rajya-Sabha-origin Bill still pending only in Rajya Sabha
+C. A Bill passed by Lok Sabha and pending in Rajya Sabha
+D. A Bill for which joint-sitting intention was notified before dissolution
+
+#### MCQ 24. Constitution Amendment Bill
+
+Which statement about an Article 368 Bill is correct?
+
+A. It must originate in Lok Sabha.
+B. A simple majority in a joint sitting can pass it.
+C. The President may return it for reconsideration.
+D. Each House must separately pass the required special majority; no joint sitting cures failure.
+
+#### MCQ 25. Charged expenditure
+
+Charged expenditure on the Consolidated Fund of India:
+
+A. may be discussed but is not submitted to Lok Sabha vote
+B. cannot even be discussed
+C. is voted by Rajya Sabha alone
+D. requires a cut motion
+
+#### MCQ 26. Public Accounts Committee
+
+Which description of the PAC is correct?
+
+A. Thirty Lok Sabha members examining estimates
+B. Twenty-two members examining CAG-linked accounts; Opposition chair is a convention
+C. Thirty-one members examining ministry Bills
+D. A minister-chaired consultative body
+
+#### MCQ 27. Estimates Committee
+
+Which feature belongs to the Estimates Committee?
+
+A. Seven Rajya Sabha members
+B. Post-audit examination of CAG reports
+C. Thirty Lok Sabha-only members examining economy and efficiency in estimates
+D. Review of delegated rules
+
+#### MCQ 28. Subordinate legislation
+
+The Committee on Subordinate Legislation principally examines whether:
+
+A. the Council retains confidence
+B. CAG certified expenditure
+C. a Bill should be treated as a Money Bill
+D. rules and regulations remain within the parent Act and proper delegated authority
+
+#### MCQ 29. Article 249
+
+A valid Rajya Sabha resolution under Article 249 enables:
+
+A. Parliament to legislate temporarily on a State List matter in the national interest
+B. Rajya Sabha to amend the State List permanently
+C. the President to dissolve a State Assembly
+D. creation of an All India Service
+
+#### MCQ 30. Article 312
+
+Article 312 requires which gateway for creating a new All India Service?
+
+A. Lok Sabha simple majority
+B. Rajya Sabha resolution by two-thirds of members present and voting in the national interest
+C. Approval by every State Legislature
+D. A joint sitting
+
+#### MCQ 31. Ordinance reassembly
+
+If the Houses reassemble on different dates, the six-week ordinance period is counted from:
+
+A. the earlier House's date
+B. the date of promulgation
+C. the later reassembly date
+D. the next Budget Session
+
+#### MCQ 32. Article 122
+
+Which statement best states Article 122?
+
+A. It bars all judicial review of parliamentary action.
+B. It makes every Speaker ruling final against Fundamental Rights.
+C. It allows courts to supervise daily House procedure.
+D. It protects proceedings from challenge for mere procedural irregularity while leaving substantive constitutional illegality reviewable.
+
+#### MCQ 33. Mixed taxation and regulatory provisions
+
+A Bill contains a new tax and independent provisions regulating a professional licensing authority. Which classification follows from the provisions rather than its title?
+
+A. Financial Bill of the Article 117(1) kind, not a Money Bill merely because it includes taxation
+B. Money Bill, because any tax clause makes all accompanying provisions incidental
+C. Ordinary Bill without any presidential recommendation because licensing is its dominant purpose
+D. Constitution Amendment Bill because taxation and professional regulation occupy different fields
+
+#### MCQ 34. Ordinary Bill and Council of States
+
+Lok Sabha passes an ordinary Bill. Rajya Sabha adopts an amendment unacceptable to Lok Sabha, and the Houses remain divided. What mechanism may become available?
+
+A. Rajya Sabha's text becomes law automatically after fourteen days.
+B. A presidentially summoned joint sitting may resolve the ordinary-Bill deadlock.
+C. The Speaker certifies the Bill a Money Bill to override the disagreement.
+D. A joint sitting is compulsory immediately upon the first rejected amendment.
+
+#### MCQ 35. Financial Bill of the second kind
+
+Which legislative route applies to a Bill that does not contain an Article 110 matter but would involve expenditure from the Consolidated Fund of India?
+
+A. It must originate in Lok Sabha and Rajya Sabha can only recommend changes.
+B. The Speaker must certify it as a Money Bill at introduction.
+C. It may originate in either House; it cannot be passed by either House without the President's recommendation.
+D. It may be enacted by the President alone because it affects public expenditure.
+
+#### MCQ 36. Privilege and an external bargain
+
+An MP claims immunity for accepting a benefit in exchange for asking a parliamentary question. Which principle best applies after *Sita Soren*?
+
+A. All conduct related to questions is immunised once the House accepts the question.
+B. The bribe becomes immune if the MP ultimately does not ask the question.
+C. Immunity applies whenever a legislator describes the transaction as political speech.
+D. Legislative speech protection does not shield the independent offence of bribery.
+
+#### MCQ 37. Committee scrutiny routes
+
+A ministry's expenditure estimates need examination for economies and organisational improvements, while audited accounts and CAG reports need ex-post scrutiny. Which pairing fits?
+
+A. Estimates Committee for the first task; Public Accounts Committee for the second
+B. Public Accounts Committee for estimates; Committee on Subordinate Legislation for audited accounts
+C. Ethics Committee for estimates; Estimates Committee for audited accounts
+D. Departmentally Related Standing Committee alone for both, excluding financial committees
+
+#### MCQ 38. Rajya Sabha's special route
+
+Which action can Rajya Sabha initiate through a special constitutional resolution, unlike a vote of no confidence?
+
+A. Dissolve Lok Sabha to secure direct re-election.
+B. Enable Parliament to legislate on a State List matter in the national interest under Article 249.
+C. Convert a Money Bill into an ordinary Bill by refusing recommendations.
+D. Form a new ministry by resolving that the incumbent has lost confidence.
+
+#### MCQ 39. Bill survival after dissolution
+
+At dissolution of Lok Sabha, one ordinary Bill is pending solely in Rajya Sabha and another has been passed by Lok Sabha but awaits action in Rajya Sabha. Which survives?
+
+A. Both survive because Rajya Sabha is permanent.
+B. Neither survives because dissolution ends the parliamentary legislative year.
+C. The Bill pending solely in Rajya Sabha survives; the Lok Sabha-passed pending Bill lapses.
+D. The Lok Sabha-passed Bill survives; the Bill originating in Rajya Sabha lapses.
+
+#### MCQ 40. House procedure and review
+
+Parliamentary proceedings are challenged: claim I alleges a missed internal procedural step; claim II alleges a substantive constitutional violation. Which threshold distinction is sound?
+
+A. Article 122 bars both claims regardless of the alleged defect.
+B. Both claims require the Supreme Court to rehear parliamentary debates as a merits appeal.
+C. Claim I is automatically reviewable but claim II is absolutely immune.
+D. Mere procedural irregularity is protected; an alleged substantive constitutional illegality is not made immune by Article 122.
+
+### Separate solved key — MCQs 1–40
+
+#### MCQ 1 — Article 79 composition
 
 **Answer: A.**
 
@@ -29,14 +384,7 @@ D. Rajya Sabha and Lok Sabha only
 
 **Examiner trap 1:** The trap turns 'not a member of either House' into 'not part of Parliament'.
 
-#### MCQ 2. Rajya Sabha election
-
-How are elected State representatives to Rajya Sabha chosen?
-
-A. Direct FPTP by State voters
-B. Proportional representation by single transferable vote through elected MLAs
-C. List voting by all members of the State Legislature
-D. Nomination by the Governor
+#### MCQ 2 — Rajya Sabha election
 
 **Answer: B.**
 
@@ -48,14 +396,7 @@ D. Nomination by the Governor
 
 **Examiner trap 2:** The electorate is elected MLAs, not the whole State Legislature.
 
-#### MCQ 3. Lok Sabha Emergency extension
-
-During a national emergency, Parliament may extend Lok Sabha's term:
-
-A. once for the entire emergency
-B. for six months at a time without an outer limit
-C. one year at a time, not beyond six months after the emergency ends
-D. only after Rajya Sabha is dissolved
+#### MCQ 3 — Lok Sabha Emergency extension
 
 **Answer: C.**
 
@@ -67,14 +408,7 @@ D. only after Rajya Sabha is dissolved
 
 **Examiner trap 3:** UPSC often swaps the one-year extension with the six-month terminal limit.
 
-#### MCQ 4. Seat-freeze trigger
-
-Which statement correctly describes the present constitutional readjustment gate?
-
-A. Readjustment automatically began on 1 January 2026.
-B. The 87th Amendment permanently prohibited changing State seat totals.
-C. Only Census conduct, not publication, is constitutionally relevant.
-D. Relevant figures of the first census taken after 2026 must be published before the deferred readjustment opens.
+#### MCQ 4 — Seat-freeze trigger
 
 **Answer: D.**
 
@@ -86,14 +420,7 @@ D. Relevant figures of the first census taken after 2026 must be published befor
 
 **Examiner trap 4:** Do not convert 'after 2026' into 'in 2026'.
 
-#### MCQ 5. Article 84 qualification
-
-Which is a constitutional qualification for Parliament membership?
-
-A. Citizenship of India
-B. A university degree
-C. Ten years' residence in the represented State
-D. Prior service in a legislature
+#### MCQ 5 — Article 84 qualification
 
 **Answer: A.**
 
@@ -105,14 +432,7 @@ D. Prior service in a legislature
 
 **Examiner trap 5:** Statutory qualifications may supplement Article 84, but educational and experience conditions are not implied.
 
-#### MCQ 6. Article 103 forum
-
-Who decides whether a sitting MP incurred an Article 102(1) disqualification?
-
-A. Speaker acting without another institution
-B. President after obtaining the Election Commission's opinion
-C. Supreme Court in original jurisdiction
-D. Returning Officer after the election
+#### MCQ 6 — Article 103 forum
 
 **Answer: B.**
 
@@ -124,14 +444,7 @@ D. Returning Officer after the election
 
 **Examiner trap 6:** Identify whether the issue is Article 102(1), defection or election validity before naming the forum.
 
-#### MCQ 7. Article 101 absence
-
-A House may declare an MP's seat vacant for unauthorised absence of:
-
-A. thirty calendar days
-B. forty-five sittings
-C. sixty days calculated with Article 101's excluded periods
-D. six consecutive months in every case
+#### MCQ 7 — Article 101 absence
 
 **Answer: C.**
 
@@ -143,14 +456,7 @@ D. six consecutive months in every case
 
 **Examiner trap 7:** The distractor borrows six months from summoning law.
 
-#### MCQ 8. Article 85
-
-Article 85 constitutionally requires that:
-
-A. three named sessions be held annually
-B. Parliament sit for at least 100 days
-C. both Houses always meet simultaneously
-D. six months shall not intervene between the last sitting of one session and first sitting of the next
+#### MCQ 8 — Article 85
 
 **Answer: D.**
 
@@ -162,14 +468,7 @@ D. six months shall not intervene between the last sitting of one session and fi
 
 **Examiner trap 8:** At least two sessions is an inference from the interval rule, not the Article's wording.
 
-#### MCQ 9. Quorum
-
-Until Parliament otherwise provides, Article 100 fixes quorum at:
-
-A. one-tenth of the total number of members of the House
-B. one-third of sanctioned strength
-C. fifty members in either House
-D. a majority of members present
+#### MCQ 9 — Quorum
 
 **Answer: A.**
 
@@ -181,14 +480,7 @@ D. a majority of members present
 
 **Examiner trap 9:** Keep quorum separate from the majority needed to decide an ordinary question.
 
-#### MCQ 10. Article 88 participation
-
-A Rajya Sabha minister in Lok Sabha may:
-
-A. vote only on Money Bills
-B. speak and participate but vote only through House membership
-C. neither speak nor join a committee
-D. cast one vote in each House
+#### MCQ 10 — Article 88 participation
 
 **Answer: B.**
 
@@ -200,14 +492,7 @@ D. cast one vote in each House
 
 **Examiner trap 10:** Article 88 enlarges participation, not the electorate of either House.
 
-#### MCQ 11. Speaker removal sitting
-
-While the Speaker's removal resolution is under consideration, which combination is correct?
-
-A. Speaker presides and has only a casting vote
-B. Speaker cannot speak or vote
-C. Speaker does not preside, may vote in the first instance, and has no casting vote
-D. Deputy Speaker must also leave the House
+#### MCQ 11 — Speaker removal sitting
 
 **Answer: C.**
 
@@ -219,14 +504,7 @@ D. Deputy Speaker must also leave the House
 
 **Examiner trap 11:** The special voting rule reverses the Speaker's ordinary no-first-vote/casting-vote position.
 
-#### MCQ 12. Rajya Sabha Chairman
-
-Which statement about the Rajya Sabha Chairman is correct?
-
-A. The Chairman is elected from Rajya Sabha members.
-B. The Chairman votes in the first instance on every question.
-C. The Chairman continues as an MP after Vice-Presidential resignation.
-D. The Vice-President is ex officio Chairman but is not a Rajya Sabha member.
+#### MCQ 12 — Rajya Sabha Chairman
 
 **Answer: D.**
 
@@ -238,14 +516,7 @@ D. The Vice-President is ex officio Chairman but is not a Rajya Sabha member.
 
 **Examiner trap 12:** Do not describe the Vice-President as the presiding 'member' of Rajya Sabha.
 
-#### MCQ 13. Privilege and bribery
-
-What did Sita Soren v. Union of India (2024) establish?
-
-A. Accepting a bribe for a legislative speech or vote is not immunised by Articles 105/194.
-B. All parliamentary speech can be prosecuted.
-C. Privilege provisions were struck down.
-D. Only the House may investigate bribery.
+#### MCQ 13 — Privilege and bribery
 
 **Answer: A.**
 
@@ -257,14 +528,7 @@ D. Only the House may investigate bribery.
 
 **Examiner trap 13:** The holding narrows corruption immunity without destroying deliberative immunity.
 
-#### MCQ 14. Question Hour
-
-Which pairing is correct?
-
-A. Starred-written-no supplementaries
-B. Unstarred-written-no supplementaries
-C. Short-notice-written only
-D. Zero Hour-formally codified first hour
+#### MCQ 14 — Question Hour
 
 **Answer: B.**
 
@@ -276,14 +540,7 @@ D. Zero Hour-formally codified first hour
 
 **Examiner trap 14:** The answer turns on reply mode and follow-up, not on urgency alone.
 
-#### MCQ 15. No-confidence motion
-
-Which statement is correct about a no-confidence motion?
-
-A. It may be moved in either House.
-B. It must list charges against each minister.
-C. It is a Lok Sabha device requiring fifty members to support leave and tests the Council collectively.
-D. Its admission itself compels resignation.
+#### MCQ 15 — No-confidence motion
 
 **Answer: C.**
 
@@ -295,14 +552,7 @@ D. Its admission itself compels resignation.
 
 **Examiner trap 15:** Do not merge censure's reasoned criticism with no-confidence's bare majority test.
 
-#### MCQ 16. Resolution distinction
-
-Which statement best distinguishes a resolution?
-
-A. Every procedural motion is a resolution.
-B. A resolution can never arise under a statute.
-C. A resolution necessarily removes the government.
-D. A resolution is a self-contained substantive expression of House opinion or decision; every resolution is a motion, but not every motion is a resolution.
+#### MCQ 16 — Resolution distinction
 
 **Answer: D.**
 
@@ -314,14 +564,7 @@ D. A resolution is a self-contained substantive expression of House opinion or d
 
 **Examiner trap 16:** UPSC may use 'motion' as the wider genus and 'resolution' as a substantive species.
 
-#### MCQ 17. Private Member's Bill
-
-A Private Member's Bill is:
-
-A. introduced by an MP who is not a minister and processed under specially allotted House business
-B. introduced only by a recognised opposition leader
-C. exempt from presidential assent
-D. incapable of becoming law
+#### MCQ 17 — Private Member's Bill
 
 **Answer: A.**
 
@@ -333,14 +576,7 @@ D. incapable of becoming law
 
 **Examiner trap 17:** Private member means non-minister, not opposition member.
 
-#### MCQ 18. Ordinary Bill origin
-
-An ordinary Union Bill may constitutionally originate:
-
-A. only in Lok Sabha
-B. in either House, subject to any specific constitutional recommendation requirement
-C. only after joint-committee scrutiny
-D. only when introduced by a minister
+#### MCQ 18 — Ordinary Bill origin
 
 **Answer: B.**
 
@@ -352,14 +588,7 @@ D. only when introduced by a minister
 
 **Examiner trap 18:** Classify the Bill before applying an origin restriction.
 
-#### MCQ 19. Money Bill content
-
-For a Bill to be a Money Bill under Article 110, it must:
-
-A. contain at least one taxation clause regardless of other content
-B. be titled a Finance Bill
-C. contain only listed Article 110 matters and incidental provisions
-D. be passed at a joint sitting
+#### MCQ 19 — Money Bill content
 
 **Answer: C.**
 
@@ -371,14 +600,7 @@ D. be passed at a joint sitting
 
 **Examiner trap 19:** A financial subject somewhere in the Bill is insufficient.
 
-#### MCQ 20. Financial Bill-II
-
-Which statement correctly describes an Article 117(3) Financial Bill?
-
-A. It is a Money Bill.
-B. It can originate only in Lok Sabha.
-C. Rajya Sabha may only recommend changes.
-D. It may originate in either House, but presidential recommendation is required before consideration.
+#### MCQ 20 — Financial Bill-II
 
 **Answer: D.**
 
@@ -390,14 +612,7 @@ D. It may originate in either House, but presidential recommendation is required
 
 **Examiner trap 20:** Do not apply Financial Bill-I restrictions to Financial Bill-II.
 
-#### MCQ 21. Appropriation Bill
-
-What is the central function of an Appropriation Bill?
-
-A. To authorise withdrawal from the Consolidated Fund of India for voted grants and charged expenditure
-B. To impose every tax announced in the Budget
-C. To obtain Rajya Sabha's vote on demands for grants
-D. To approve CAG reports
+#### MCQ 21 — Appropriation Bill
 
 **Answer: A.**
 
@@ -409,14 +624,7 @@ D. To approve CAG reports
 
 **Examiner trap 21:** Budget presentation and grant voting still do not permit withdrawal without appropriation.
 
-#### MCQ 22. Joint-sitting trigger
-
-Which is an Article 108 deadlock trigger for an eligible Bill?
-
-A. President returns the Bill once.
-B. The second House rejects it or the Houses finally disagree on amendments.
-C. A State Legislature refuses ratification.
-D. Rajya Sabha recommends changes to a Money Bill.
+#### MCQ 22 — Joint-sitting trigger
 
 **Answer: B.**
 
@@ -428,14 +636,7 @@ D. Rajya Sabha recommends changes to a Money Bill.
 
 **Examiner trap 22:** Joint sitting resolves inter-House ordinary-law deadlock, not every failed consent.
 
-#### MCQ 23. Bill lapse
-
-Which Bill lapses on Lok Sabha dissolution?
-
-A. A Bill passed by both Houses awaiting assent
-B. A Rajya-Sabha-origin Bill still pending only in Rajya Sabha
-C. A Bill passed by Lok Sabha and pending in Rajya Sabha
-D. A Bill for which joint-sitting intention was notified before dissolution
+#### MCQ 23 — Bill lapse
 
 **Answer: C.**
 
@@ -447,14 +648,7 @@ D. A Bill for which joint-sitting intention was notified before dissolution
 
 **Examiner trap 23:** Track whether the dissolved Lok Sabha had passed the Bill.
 
-#### MCQ 24. Constitution Amendment Bill
-
-Which statement about an Article 368 Bill is correct?
-
-A. It must originate in Lok Sabha.
-B. A simple majority in a joint sitting can pass it.
-C. The President may return it for reconsideration.
-D. Each House must separately pass the required special majority; no joint sitting cures failure.
+#### MCQ 24 — Constitution Amendment Bill
 
 **Answer: D.**
 
@@ -466,14 +660,7 @@ D. Each House must separately pass the required special majority; no joint sitti
 
 **Examiner trap 24:** An amendment Bill is not an ordinary Bill with a higher combined vote.
 
-#### MCQ 25. Charged expenditure
-
-Charged expenditure on the Consolidated Fund of India:
-
-A. may be discussed but is not submitted to Lok Sabha vote
-B. cannot even be discussed
-C. is voted by Rajya Sabha alone
-D. requires a cut motion
+#### MCQ 25 — Charged expenditure
 
 **Answer: A.**
 
@@ -485,14 +672,7 @@ D. requires a cut motion
 
 **Examiner trap 25:** UPSC tests the difference between discussion and voting.
 
-#### MCQ 26. Public Accounts Committee
-
-Which description of the PAC is correct?
-
-A. Thirty Lok Sabha members examining estimates
-B. Twenty-two members examining CAG-linked accounts; Opposition chair is a convention
-C. Thirty-one members examining ministry Bills
-D. A minister-chaired consultative body
+#### MCQ 26 — Public Accounts Committee
 
 **Answer: B.**
 
@@ -504,14 +684,7 @@ D. A minister-chaired consultative body
 
 **Examiner trap 26:** Opposition chairmanship is convention, while composition and function come from rules.
 
-#### MCQ 27. Estimates Committee
-
-Which feature belongs to the Estimates Committee?
-
-A. Seven Rajya Sabha members
-B. Post-audit examination of CAG reports
-C. Thirty Lok Sabha-only members examining economy and efficiency in estimates
-D. Review of delegated rules
+#### MCQ 27 — Estimates Committee
 
 **Answer: C.**
 
@@ -523,14 +696,7 @@ D. Review of delegated rules
 
 **Examiner trap 27:** Do not swap pre-expenditure economy review with post-expenditure audit.
 
-#### MCQ 28. Subordinate legislation
-
-The Committee on Subordinate Legislation principally examines whether:
-
-A. the Council retains confidence
-B. CAG certified expenditure
-C. a Bill should be treated as a Money Bill
-D. rules and regulations remain within the parent Act and proper delegated authority
+#### MCQ 28 — Subordinate legislation
 
 **Answer: D.**
 
@@ -542,14 +708,7 @@ D. rules and regulations remain within the parent Act and proper delegated autho
 
 **Examiner trap 28:** The committee scrutinises executive-made detail after legislative delegation.
 
-#### MCQ 29. Article 249
-
-A valid Rajya Sabha resolution under Article 249 enables:
-
-A. Parliament to legislate temporarily on a State List matter in the national interest
-B. Rajya Sabha to amend the State List permanently
-C. the President to dissolve a State Assembly
-D. creation of an All India Service
+#### MCQ 29 — Article 249
 
 **Answer: A.**
 
@@ -561,14 +720,7 @@ D. creation of an All India Service
 
 **Examiner trap 29:** Article 249 shifts legislative competence temporarily, not ownership of the subject.
 
-#### MCQ 30. Article 312
-
-Article 312 requires which gateway for creating a new All India Service?
-
-A. Lok Sabha simple majority
-B. Rajya Sabha resolution by two-thirds of members present and voting in the national interest
-C. Approval by every State Legislature
-D. A joint sitting
+#### MCQ 30 — Article 312
 
 **Answer: B.**
 
@@ -580,14 +732,7 @@ D. A joint sitting
 
 **Examiner trap 30:** Keep the Article 312 gateway distinct from the later law that creates the service.
 
-#### MCQ 31. Ordinance reassembly
-
-If the Houses reassemble on different dates, the six-week ordinance period is counted from:
-
-A. the earlier House's date
-B. the date of promulgation
-C. the later reassembly date
-D. the next Budget Session
+#### MCQ 31 — Ordinance reassembly
 
 **Answer: C.**
 
@@ -599,14 +744,7 @@ D. the next Budget Session
 
 **Examiner trap 31:** The two-House calculation is a classic close-option trap.
 
-#### MCQ 32. Article 122
-
-Which statement best states Article 122?
-
-A. It bars all judicial review of parliamentary action.
-B. It makes every Speaker ruling final against Fundamental Rights.
-C. It allows courts to supervise daily House procedure.
-D. It protects proceedings from challenge for mere procedural irregularity while leaving substantive constitutional illegality reviewable.
+#### MCQ 32 — Article 122
 
 **Answer: D.**
 
@@ -617,6 +755,102 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 - **D:** Correct: procedural autonomy and constitutional supremacy coexist.
 
 **Examiner trap 32:** Irregularity is not the same as illegality or unconstitutionality.
+
+#### MCQ 33 — Mixed taxation and regulatory provisions
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: an Article 110 matter alongside independent non-incidental matter defeats Money Bill exclusivity; Article 117(1) governs this financial-bill route.
+- **B:** Incorrect: the incidental-matters limb cannot absorb independent regulatory provisions.
+- **C:** Incorrect: inclusion of an Article 110 matter activates the Article 117(1) introduction condition.
+- **D:** Incorrect: changing statutory tax and licensing rules does not itself amend the Constitution.
+
+**Examiner trap 33:** A tax clause is not a universal Money Bill passport.
+
+#### MCQ 34 — Ordinary Bill and Council of States
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the fourteen-day recommendation route belongs to Money Bills.
+- **B:** Correct: disagreement over amendments is one of the Article 108 deadlock situations; summoning is a presidential power.
+- **C:** Incorrect: legislative deadlock cannot change the constitutional content test for Money Bills.
+- **D:** Incorrect: eligibility for a joint sitting is not a requirement that one be called immediately.
+
+**Examiner trap 34:** Do not confuse eligibility for joint sitting with automatic enactment.
+
+#### MCQ 35 — Financial Bill of the second kind
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: that confuses Article 117(3) with the special introduction restriction for Article 117(1).
+- **B:** Incorrect: Article 110 exclusivity, not an expenditure consequence alone, controls Money Bill status.
+- **C:** Correct: Article 117(3) attaches its recommendation to passage in either House, while ordinary bicameral legislative powers remain.
+- **D:** Incorrect: presidential recommendation does not replace passage through Parliament.
+
+**Examiner trap 35:** For Article 117(3), distinguish recommendation before passage from recommendation before introduction.
+
+#### MCQ 36 — Privilege and an external bargain
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: speech immunity is not an indemnity for a separate corrupt transaction.
+- **B:** Incorrect: the existence of the bribery offence is not conditional on performance of the promised legislative act.
+- **C:** Incorrect: an MP's label cannot convert an external bargain into protected House speech.
+- **D:** Correct: *Sita Soren* separates protected legislative activity from bribery undertaken to influence it.
+
+**Examiner trap 36:** Identify the offence alleged, rather than treating every event near a House proceeding as immune.
+
+#### MCQ 37 — Committee scrutiny routes
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: estimates/economies are the Estimates Committee's remit; PAC examines appropriation and accounts in light of CAG reporting.
+- **B:** Incorrect: PAC's ex-post financial scrutiny is not the Estimates Committee's forward-looking estimates function.
+- **C:** Incorrect: ethics concerns member conduct; neither committee reverses the estimates/accounts distinction.
+- **D:** Incorrect: departmental scrutiny complements, rather than abolishes, distinct financial-committee remits.
+
+**Examiner trap 37:** Time direction matters: proposed estimates versus accounts after expenditure.
+
+#### MCQ 38 — Rajya Sabha's special route
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Rajya Sabha has no power to dissolve Lok Sabha.
+- **B:** Correct: Article 249 assigns the national-interest enabling resolution to the Council of States.
+- **C:** Incorrect: Rajya Sabha cannot change a qualifying Money Bill's constitutional route by withholding assent.
+- **D:** Incorrect: collective responsibility and no-confidence attach to Lok Sabha.
+
+**Examiner trap 38:** Federal enabling resolutions are a Council of States power; cabinet survival is a popular-House issue.
+
+#### MCQ 39 — Bill survival after dissolution
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: bicameral continuity does not preserve a Bill already passed by the dissolved Lok Sabha but pending in Rajya Sabha.
+- **B:** Incorrect: dissolution does not extinguish a Bill pending in Rajya Sabha that Lok Sabha has not passed.
+- **C:** Correct: the distinct Article 107 dissolution rules turn on the Bill's stage.
+- **D:** Incorrect: this reverses the two constitutionally specified outcomes.
+
+**Examiner trap 39:** Track whether Lok Sabha has passed the Bill, not merely the House in which it currently sits.
+
+#### MCQ 40 — House procedure and review
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 122 is not blanket constitutional immunity.
+- **B:** Incorrect: review of illegality is not a rehearing of political merits.
+- **C:** Incorrect: the rule protects internal irregularity more strongly than constitutional violations.
+- **D:** Correct: constitutional review and procedural autonomy have different thresholds.
+
+**Examiner trap 40:** Judicial review of constitutionality does not authorise supervision of routine House procedure.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -640,7 +874,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 1 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Distinguish the identity of the opposition party from formal statutory recognition of its leader; a party label alone cannot establish the office or its entitlement.
 
 #### PYQ-P2. 2018 Prelims — routed question 20
 
@@ -648,7 +882,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 2 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** The Committee on Subordinate Legislation checks whether delegated rules stay within the parent Act and delegated authority; it is not the PAC or Estimates Committee.
 
 #### PYQ-P3. 2018 Prelims — routed question 31
 
@@ -656,7 +890,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 3 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Apply Article 110 clause by clause: a Bill must contain only listed matters or genuinely incidental provisions; taxation alone does not validate unrelated substantive provisions.
 
 #### PYQ-P4. 2019 Prelims — routed question 49
 
@@ -664,7 +898,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 4 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Test the particular office against Parliament’s statutory exemptions and Article 102(1)(a); an office connected with government is not automatically disqualifying if Parliament exempted it.
 
 #### PYQ-P5. 2019 Prelims — routed question 69
 
@@ -672,7 +906,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 5 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Separate departmental/subject-specific oversight of regulators from PAC scrutiny of audited public accounts; identify the committee by the question’s oversight task, not a generic financial label.
 
 #### PYQ-P6. 2020 Prelims — routed question 2
 
@@ -680,7 +914,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 6 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Locate the claimed equality in ordinary legislation or constitutional amendment; reject equality claims for confidence, demands for grants and the Money Bill recommendation procedure.
 
 #### PYQ-P7. 2020 Prelims — routed question 3
 
@@ -688,7 +922,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 7 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Treat MPLADS as scheme-guideline administration, not a constitutional parliamentary power; check each claim about durable assets, earmarking and carry-forward against the operative guidelines before accepting it.
 
 #### PYQ-P8. 2020 Prelims — routed question 20
 
@@ -696,7 +930,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 8 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Article 85 limits the gap between the last sitting of one session and the first sitting of the next to six months; it does not prescribe six months between two summonses.
 
 #### PYQ-P9. 2022 Prelims — routed question 15
 
@@ -704,7 +938,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 9 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Test exclusivity against Lok Sabha’s confidence and grants functions; distinguish Rajya Sabha’s Article 249/312 special resolutions from Lok Sabha-exclusive controls.
 
 #### PYQ-P10. 2022 Prelims — routed question 20
 
@@ -712,7 +946,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 10 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Distinguish election by the House and its authority to elect the Deputy Speaker from an invented constitutional deadline or automatic binding force for a particular convention.
 
 #### PYQ-P11. 2023 Prelims — routed question 37
 
@@ -720,7 +954,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 11 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** A Finance Bill label does not establish Article 110 status: identify whether it is Article 117(1), Article 117(3), or a genuine Money Bill before deciding Rajya Sabha powers or joint sitting.
 
 #### PYQ-P12. 2024 Prelims — routed question 68
 
@@ -728,7 +962,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: C.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 12 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Article 109 gives Rajya Sabha fourteen days to recommend on a Money Bill; Lok Sabha may accept or reject recommendations and no upper-House veto follows.
 
 #### PYQ-P13. 2024 Prelims — routed question 80
 
@@ -736,7 +970,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: C.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 13 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Separate committee origin and complaint admissibility from the sub judice limitation; judge each assertion against the Lok Sabha Ethics Committee’s operative rules.
 
 #### PYQ-P14. 2024 Prelims — routed question 81
 
@@ -744,7 +978,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: C.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 14 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Separate enactment/commencement of the women’s reservation provisions from the post-census delimitation implementation gate; distinguish SC-women sub-reservation from general reservation.
 
 #### PYQ-P15. 2024 Prelims — routed question 93
 
@@ -752,7 +986,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: A.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 15 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** A Speaker facing a removal resolution may speak and vote in the first instance but does not preside at that sitting; distinguish an ordinary casting vote from this special situation.
 
 #### PYQ-P16. 2024 Prelims — routed question 94
 
@@ -760,7 +994,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: B.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 16 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Apply Article 107 by legislative stage: a Bill pending in Lok Sabha or passed by Lok Sabha but pending in Rajya Sabha lapses, unlike a Bill pending in Rajya Sabha and not passed by Lok Sabha.
 
 #### PYQ-P17. 2024 Prelims — routed question 95
 
@@ -768,7 +1002,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: C.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 17 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Distinguish a presidential power to prorogue or dissolve under Article 85 from its exercise in the parliamentary system on ministerial advice; do not turn legal text into routine personal discretion.
 
 #### PYQ-P18. 2025 Prelims — routed question 87
 
@@ -776,7 +1010,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Official Set-A answer: C.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 18 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Article 94 preserves the Speaker’s office after dissolution until immediately before the first meeting of the new House; separate this from party affiliation and removal voting threshold.
 
 #### PYQ-P19. 2026 Prelims — routed question 58
 
@@ -784,7 +1018,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 19 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** A starred question ordinarily invites an oral answer and supplementary questions; an unstarred question takes a written reply without supplementaries in that question slot.
 
 #### PYQ-P20. 2026 Prelims — routed question 59
 
@@ -792,7 +1026,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Answer withheld pending official UPSC key.**
 
-**Answer route:** Use the Parliament rule taught in Sessions 20 and state the decisive close-option distinction rather than guessing from political practice.
+**Answer route:** Distinguish the Committee on Welfare of SCs and STs from parliamentary committees on estimates or public accounts: identify its representative-welfare scrutiny remit without borrowing their mandates.
 
 ### Eight directly routed Mains PYQs with model answers
 
@@ -822,7 +1056,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 3 named committee units plus a qualified verdict.
 
-**Why this earns marks:** Exact committee differentiation, causal usefulness and a bounded advisory-status verdict satisfy the directive.
+**Why this earns marks:** The 2018 "usefulness" demand is answered by showing why the Estimates Committee's 30 Lok Sabha members can examine economy and efficiency *before* expenditure, unlike PAC's CAG-based post-spend review and CoPU's undertaking focus. Evidence-taking and continuity explain the gain over floor debate, while advisory reports and optional Bill referral limit any claim that committees themselves authorise spending or bind the House.
 
 **How to improve this answer:** If compressed, retain Estimates 30 LS-only, PAC-CAG, one DRSC function and the advisory/referral limit; drop the wider committee catalogue.
 
@@ -940,7 +1174,7 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 4 evidence families and 4 limitations.
 
-**Why this earns marks:** A clear extent judgment distinguishes routine information/audit control from the exceptional survival sanction.
+**Why this earns marks:** The "to what extent" test is applied across stages: questions expose decisions, Articles 112-114 authorise expenditure, PAC-CAG/DRSCs review implementation, and Article 75(3) supplies the ultimate Lok Sabha confidence sanction. Majority discipline, the guillotine and disrupted sitting time explain why this formal reach does not imply equally effective day-to-day scrutiny; a no-confidence vote is an exceptional sanction, not routine proof of oversight.
 
 **How to improve this answer:** Retain Article 75(3), one financial-control chain, one committee and two operating limits; do not spend words cataloguing every motion.
 
@@ -1050,6 +1284,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Analysis:** Periodic summoning prevents indefinite executive rule without Parliament, while oral questions and motions convert presence into public responsibility.
 
+**Application:** Formal compliance without protected question and committee time cannot guarantee meaningful scrutiny.
+
 **Qualification:** The Constitution fixes no minimum sitting days and does not mandate three named sessions. Executive influence over summoning, disruption and loss of Question Hour may satisfy Article 85 while weakening real scrutiny.
 
 **Verdict:** The design guarantees recurrence, not adequacy. A predictable calendar and protected accountability time would convert the six-month floor into effective control.
@@ -1075,6 +1311,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Analysis:** The functional-nexus test explains the distinction: debate and voting require autonomy from external litigation, whereas a bribe subverts rather than enables that function.
 
+**Application:** Neither performance nor omission turns bribery into privileged debate.
+
 **Qualification:** The judgment did not expose bona fide speeches or votes to ordinary suits. Nor does judicial review authorise courts to manage routine House procedure.
 
 **Verdict:** Privilege remains a shield for institutional independence, but *Sita Soren (2024)* correctly denies its conversion into a personal criminal safe harbour.
@@ -1099,6 +1337,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 **Named evidence:** A Money Bill must contain **only** Article 110(1)(a)-(g) matters and incidental provisions. It begins in Lok Sabha on presidential recommendation; Rajya Sabha may only recommend within fourteen days, and no joint sitting exists. The Speaker certifies it, with Article 110 calling the decision final.
 
 **Analysis:** This design protects supply and taxation from Upper-House obstruction and aligns financial responsibility with the House that can dismiss the ministry. However, classification also removes Rajya Sabha's amendment veto. Adding substantial non-fiscal provisions therefore harms bicameralism and federal revision.
+
+**Comparison:** An Article 117(1) financial Bill may contain Article 110 matters plus independent subjects; unlike a Money Bill, it receives Rajya Sabha scrutiny and may encounter an ordinary-Bill deadlock. An Article 117(3) Bill involving Consolidated Fund expenditure is different: recommendation attaches before passage, not at introduction. Constitutional content, not the “Finance Bill” label, decides classification.
 
 **Judicial evidence:** *Puttaswamy (Aadhaar), 2018* upheld the Aadhaar route by 4:1; *Rojer Mathew v. South Indian Bank (2019)* doubted the reasoning and referred the larger question to seven judges.
 
@@ -1127,6 +1367,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Qualification:** Rajya Sabha discusses but does not vote demands. Charged expenditure is discussed but not voted. Public Account withdrawal is outside appropriation. Majority discipline makes cut-motion success rare, and PAC review is retrospective.
 
+**Accountability mechanism:** PAC scrutiny cannot undo an unauthorised spending decision by itself: its findings need a recorded executive response and future-budget correction. Nor does Finance Bill enactment substitute for authorising withdrawal through appropriation. Evaluating financial control therefore requires tracing each stage's separate gate, as well as the practical time Parliament devotes to it.
+
 **Verdict:** The chain is constitutionally comprehensive but only as strong as DRSC time, grant debate and audit follow-up. Protecting these stages matters more than ritual budget passage.
 
 **Examiner comment:** The answer maps the entire cycle and differentiates charged expenditure, Public Account and Rajya Sabha's role.
@@ -1151,6 +1393,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 **Women's-reservation link:** The **106th Amendment** inserted Articles 330A, 332A and 334A. It commenced on **16 April 2026**, but Article 334A requires publication of relevant first post-commencement census figures and delimitation before reservation operates. Census 2027 is the trigger census, yet publication and delimitation dates are unknown.
 
 **Counterpoint:** Permanent under-representation of populous citizens is itself a democratic deficit; the freeze cannot substitute forever for representation.
+
+**Mechanism:** An enlarged House might protect current regional voice while improving population parity, but its size and distribution require legal decisions and published census figures; no single allocation is predetermined. Delimitation also changes reserved constituency locations and affects implementation sequencing for women's reservation. These consequences must be argued as possibilities, not presented as enacted seat arithmetic.
 
 **Qualification:** The defeated 131st Amendment Bill's 850 ceiling and 2011 basis are not law. No State or women's-seat projection is valid.
 
@@ -1179,6 +1423,8 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 
 **Counter-evidence:** Committee consensus, opposition-led PAC work, judicial review and public debate can alter policy even when the government wins every vote. Weakness varies with coalition arithmetic and institutional leadership.
 
+**Institutional limit:** Committee reports recommend rather than bind; agenda control can neutralise questioning. A response to committee findings may improve a Bill without floor defeat. Voting outcomes alone poorly measure scrutiny.
+
 **Reform:** create a predictable sitting calendar; protect questions and opposition time; make committee referral the default with reasoned urgency exceptions; strengthen research/action-taken review; narrow the whip to confidence/core supply; require timely, reasoned presiding-officer decisions.
 
 **Verdict:** The constitutional hardware remains sound; political incentives and procedural time are the failing software. Reform should activate existing accountability before inventing new devices.
@@ -1188,4 +1434,3 @@ D. It protects proceedings from challenge for mere procedural irregularity while
 **Why this earns marks:** Eight named evidence units and a memorable but qualified hardware/software verdict.
 
 **How to improve this answer:** Rank reforms by the diagnosed cause: time, information, referral and whip. In a shorter answer retain four instruments, four constraints and three matched remedies.
-

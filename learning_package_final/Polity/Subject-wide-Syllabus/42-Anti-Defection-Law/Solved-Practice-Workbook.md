@@ -6,11 +6,11 @@ topic_key: polity-42
 
 **Subject:** Polity | **GS Paper:** GS-II | **Control date:** 8 September 2026
 
-**Practice discipline:** exactly 32 original MCQs before PYQs; answer order `ABCD` repeated eight times; 128 substantive option-specific explanations; 32 question-specific traps; verified relevant PYQs with official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original answer-free MCQs before a separate key; strict `ABCD` rotation repeated nine times; 144 option-specific explanations and 36 question-specific traps; verified relevant PYQs with official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before the PYQ section. Questions 25-32 are targeted remediation. Correct-answer sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
+Exactly **36 original answer-free MCQs** appear before the separate solved key. Questions 25-36 include targeted remediation.
 
 ### MCQ 1. 52nd Amendment architecture
 
@@ -20,6 +20,325 @@ A. It inserted the Tenth Schedule and amended Articles 101, 102, 190 and 191.
 B. It inserted the Tenth Schedule but left seat-vacancy Articles untouched.
 C. It created only a statutory, not constitutional, disqualification.
 D. It omitted paragraph 3 and inserted Article 361B.
+
+### MCQ 2. Article decoder
+
+Article 102(2) means that a person is disqualified for Parliament when:
+
+A. the Election Commission independently declares a party split.
+B. the person is disqualified under the Tenth Schedule.
+C. the Council of Ministers advises the President to remove the member.
+D. the House passes an ordinary resolution by simple majority.
+
+### MCQ 3. Paragraph 1 definitions
+
+Which entity is the House-specific group of members belonging to one political party?
+
+A. Original political party.
+B. Election symbol group.
+C. Legislature party.
+D. Coalition bloc.
+
+### MCQ 4. Voluntary giving up
+
+Ravi S. Naik (1994) is authority for which proposition?
+
+A. Only a signed resignation proves defection.
+B. Party expulsion automatically ends deemed belonging.
+C. Courts must decide every petition before the Speaker.
+D. Voluntary giving up may be inferred from conduct without formal resignation.
+
+### MCQ 5. Whip test
+
+A party member votes contrary to a valid direction without prior permission, but the authorised party authority condones the vote on day 12. The best conclusion is:
+
+A. Paragraph 2(1)(b) is not completed because timely condonation cures the contrary vote.
+B. Disqualification is automatic at the moment of voting and cannot be cured.
+C. Condonation is effective only if granted by the Election Commission.
+D. The member remains disqualified unless two-thirds support the vote.
+
+### MCQ 6. Dissent boundary
+
+Which act, standing alone, least directly completes paragraph 2(1)(b)?
+
+A. Abstaining contrary to a valid direction without permission.
+B. Delivering a critical speech without a contrary vote or abstention.
+C. Voting contrary to a valid direction without permission.
+D. Remaining absent where abstention itself violates a valid direction.
+
+### MCQ 7. Independent member
+
+An independently elected MLA becomes a formal member of a political party two months after election. Under paragraph 2:
+
+A. The joining is protected for six months.
+B. The joining is protected if no whip is issued.
+C. The member is disqualified; independents have no six-month joining window.
+D. The member is protected if the party is part of the governing coalition.
+
+### MCQ 8. Nominated member
+
+A person nominated to a House while unaffiliated first joins a party five months after taking the seat. Which is correct?
+
+A. Joining is always prohibited for a nominated member.
+B. The President must first approve the joining.
+C. The member is treated as an independent forever.
+D. Joining within six months is permitted and fixes deemed party belonging.
+
+### MCQ 9. Paragraph 3
+
+What is the current status of the former one-third split defence?
+
+A. It was omitted by the 91st Amendment and is no longer available.
+B. It survives for State legislatures but not Parliament.
+C. It survives whenever the Governor recognises a faction.
+D. It was converted into the paragraph 5 exemption.
+
+### MCQ 10. Merger elements
+
+Which statement best states paragraph 4?
+
+A. Any two-thirds of an original political party nationwide must merge.
+B. Protection operates within an original-party merger framework when at least two-thirds of the legislature party agree.
+C. Election Commission symbol recognition alone conclusively proves merger.
+D. A post-election coalition is automatically deemed a merger.
+
+### MCQ 11. Non-accepting members
+
+If paragraph 4 is validly engaged, members who do not accept the merger and opt to function as a separate group are:
+
+A. automatically treated as independents for every purpose.
+B. required to join the merged party within fifteen days.
+C. protected in the manner specified by paragraph 4.
+D. disqualified unless the Governor recognises them.
+
+### MCQ 12. Paragraph 5
+
+Which office is expressly within paragraph 5's party-neutrality exemption?
+
+A. Prime Minister.
+B. Chairperson of every House committee.
+C. Chief Whip.
+D. Deputy Chairman of the Rajya Sabha.
+
+### MCQ 13. Paragraph 6 decider
+
+Who ordinarily decides whether a Lok Sabha member is disqualified under the Tenth Schedule?
+
+A. The Speaker of the Lok Sabha.
+B. The President on advice of the Union Council of Ministers.
+C. The Election Commission acting alone.
+D. A High Court as original fact-finder.
+
+### MCQ 14. Speaker concerned
+
+If the disqualification question concerns the Speaker personally, paragraph 6 requires decision by:
+
+A. the Deputy Speaker automatically.
+B. a member elected by the House for that purpose.
+C. the Election Commission after hearing the Speaker.
+D. the Governor or President, depending on the House.
+
+### MCQ 15. Paragraph 7
+
+Which is the legally accurate description of paragraph 7?
+
+A. It was omitted by the 91st Amendment.
+B. It validly excludes every form of judicial review.
+C. Its court-ouster text remains printed but is invalid under Kihoto for want of ratification.
+D. It gives first-instance power to the Supreme Court.
+
+### MCQ 16. Kihoto review
+
+Kihoto Hollohan permits judicial review principally for:
+
+A. a complete rehearing of every factual disagreement.
+B. review only when the Election Commission consents.
+C. review only after the House term expires.
+D. constitutional violation, mala fides, natural-justice breach and perversity.
+
+### MCQ 17. Paragraph 8
+
+Paragraph 8 rules may validly provide for:
+
+A. records, leader reports and procedure for deciding disqualification questions.
+B. new substantive grounds beyond paragraph 2.
+C. removal of the natural-justice requirement.
+D. automatic disqualification solely on party complaint.
+
+### MCQ 18. Rajendra Singh Rana
+
+Rajendra Singh Rana (2007) is most safely used for which proposition?
+
+A. A one-third split remains valid today.
+B. Unsupported split recognition and disabling inaction cannot defeat the Schedule.
+C. The Election Commission must decide merger before the Speaker.
+D. A Speaker may recognise a faction without deciding pending petitions.
+
+### MCQ 19. Expulsion
+
+After G. Viswanathan (1996), expulsion of a legislator from the party:
+
+A. automatically makes the legislator an independent.
+B. automatically vacates the legislative seat.
+C. does not erase deemed belonging to the original party for Schedule purposes.
+D. transfers defection jurisdiction to the Election Commission.
+
+### MCQ 20. Resignation
+
+A resignation tendered after alleged disqualifying conduct:
+
+A. necessarily ends all Speaker jurisdiction.
+B. can be ignored forever without examining genuineness.
+C. automatically creates a term-long election ban.
+D. does not erase jurisdiction over antecedent defection.
+
+### MCQ 21. Keisham timing
+
+Which statement accurately describes Keisham Meghachandra Singh (2020)?
+
+A. It stated an ordinary three-month decision norm absent reasoned exceptional circumstances.
+B. It amended the Tenth Schedule to insert a ninety-day deadline.
+C. It permanently transferred all petitions to a retired-judge tribunal.
+D. It abolished judicial review of Speaker inaction.
+
+### MCQ 22. Nabam status
+
+As of 8 September 2026, the safest statement on Nabam Rebia is:
+
+A. It has been overruled by Parliament.
+B. Its removal-notice rule stands, while Subhash Desai referred its correctness for larger-bench reconsideration.
+C. It concerns resignation of ordinary members.
+D. It gives the Governor final power over defection.
+
+### MCQ 23. Subhash whip
+
+Under Subhash Desai (2023), the whip for Tenth Schedule purposes is appointed by:
+
+A. the Governor after a floor test.
+B. the largest faction of the legislature party.
+C. the political party through its authorised structure.
+D. the Election Commission whenever a symbol dispute exists.
+
+### MCQ 24. Parallel tracks
+
+Which pair may proceed on separate legal tracks under Subhash Desai?
+
+A. A criminal trial and presidential election petition only.
+B. A privilege motion and every civil suit only.
+C. A Governor's party-membership decision and Speaker's symbol decision.
+D. ECI symbol proceedings and Speaker defection proceedings.
+
+### MCQ 25. Council cap
+
+Which statement on the 91st-Amendment ministry caps is correct?
+
+A. Union ministers including the Prime Minister cannot exceed 15% of Lok Sabha; State ministers including the Chief Minister cannot exceed 15% of Assembly, with a State minimum of 12.
+B. Both Union and State ministries have a fixed minimum of twelve.
+C. The cap is ten per cent for every House.
+D. The cap is calculated from the total strength of both Houses combined.
+
+### MCQ 26. Minister bar end point
+
+A party member disqualified under paragraph 2 contests and is declared elected before the old House term expires. The ministerial disability:
+
+A. always continues for life.
+B. ends on the date the person is declared elected, under the earlier-event formula.
+C. ends only if the former party consents.
+D. never applies to State ministers.
+
+### MCQ 27. Article 361B
+
+Article 361B principally concerns:
+
+A. the size of the Union Council of Ministers.
+B. the Speaker's removal procedure.
+C. a temporary bar on remunerative political posts for the specified disqualified member.
+D. the Election Commission's power over party symbols.
+
+### MCQ 28. Whip reform
+
+Which proposition is a reform proposal rather than present Tenth Schedule law?
+
+A. A party member may be disqualified for voluntarily giving up membership.
+B. An independent is disqualified on joining a political party.
+C. The Speaker or Chairman ordinarily decides paragraph 6 questions.
+D. Whip-backed disqualification should be confined to confidence, money/supply or comparable survival votes.
+
+### MCQ 29. Coalition versus merger
+
+Two parties form a post-election governing coalition but retain separate organisations. This is:
+
+A. not automatically a paragraph 4 merger.
+B. always a merger if they share a common minimum programme.
+C. a merger only when the Governor calls a floor test.
+D. proof that every member voluntarily gave up membership.
+
+### MCQ 30. Sita Soren boundary
+
+Why is Sita Soren (2024) only a boundary case here?
+
+A. It restored the one-third split defence.
+B. It concerns bribery and legislative privilege, not the elements of paragraph 2 defection.
+C. It transferred defection petitions to criminal courts.
+D. It held every whip unconstitutional.
+
+### MCQ 31. Court role
+
+A High Court receives a petition asking it to decide disputed defection facts before the Speaker acts. The ordinary constitutional approach is:
+
+A. the court always conducts the first trial.
+B. the President must decide on Cabinet advice.
+C. the court ordinarily allows paragraph 6 first-instance adjudication, while retaining review and remedies against disabling inaction.
+D. the petition automatically becomes a symbol dispute.
+
+### MCQ 32. Reform synthesis
+
+Which reform package most directly answers the law's principal institutional weaknesses?
+
+A. Restore the one-third split and eliminate judicial review.
+B. Let the Governor choose the authorised political party.
+C. Make every dissenting speech a disqualification ground.
+D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger proof and stronger internal party democracy.
+
+### MCQ 33. Concurrent jurisdictions
+
+A symbol dispute is pending before the ECI while the Speaker hears a defection petition. Which legal allocation follows Subhash Desai?
+
+A. Speaker decides paragraph 6; ECI decides the Symbols Order dispute; parallel proceedings are possible.
+B. ECI decides both defection and symbol disputes.
+C. President decides paragraph 6 and Speaker merely records the symbol.
+D. Legislature-party majority automatically appoints the Whip and binds both forums.
+
+### MCQ 34. Split repeal
+
+A one-third legislature-party faction invokes the split exemption in 2026. What follows?
+
+A. Split remains an exception with Speaker approval.
+B. Paragraph 3 was deleted; one-third splitting no longer exempts members from disqualification.
+C. One-third automatically establishes merger under paragraph 4.
+D. ECI recognition retroactively restores the split defence.
+
+### MCQ 35. Review of finality
+
+The Speaker refuses an affected member a hearing and declares the paragraph 6 ruling final. Which response reflects Kihoto Hollohan?
+
+A. Paragraph 7 bars every court challenge.
+B. The ECI is the only appeal forum.
+C. Constitutional review remains available for natural-justice breach despite paragraph 6 finality.
+D. Courts must initially hear all disqualification petitions.
+
+### MCQ 36. Merger proof
+
+Two-thirds of legislators assert that their numbers alone conclusively prove the original political party merged. Which is the careful legal route?
+
+A. Numbers alone necessarily prove original-party merger.
+B. Repeal of paragraph 3 also repealed paragraph 4.
+C. A factional whip declaration conclusively establishes original-party merger.
+D. Check paragraph 4’s original-party premise and two-thirds legislative condition on the evidence, without asserting an unverified 2026 universal holding.
+
+## SEPARATE SOLVED MCQ KEY
+
+### Solution 1. 52nd Amendment architecture
 
 **Answer: A. It inserted the Tenth Schedule and amended Articles 101, 102, 190 and 191.**
 
@@ -32,14 +351,7 @@ D. It omitted paragraph 3 and inserted Article 361B.
 
 **Examiner trap 1:** Separate the 52nd Amendment's creation from the 91st Amendment's tightening.
 
-### MCQ 2. Article decoder
-
-Article 102(2) means that a person is disqualified for Parliament when:
-
-A. the Election Commission independently declares a party split.
-B. the person is disqualified under the Tenth Schedule.
-C. the Council of Ministers advises the President to remove the member.
-D. the House passes an ordinary resolution by simple majority.
+### Solution 2. Article decoder
 
 **Answer: B. the person is disqualified under the Tenth Schedule.**
 
@@ -52,14 +364,7 @@ D. the House passes an ordinary resolution by simple majority.
 
 **Examiner trap 2:** Do not confuse Article 102(2) with Article 103 procedure for Article 102(1) questions.
 
-### MCQ 3. Paragraph 1 definitions
-
-Which entity is the House-specific group of members belonging to one political party?
-
-A. Original political party.
-B. Election symbol group.
-C. Legislature party.
-D. Coalition bloc.
+### Solution 3. Paragraph 1 definitions
 
 **Answer: C. Legislature party.**
 
@@ -72,14 +377,7 @@ D. Coalition bloc.
 
 **Examiner trap 3:** The political party and legislature party cannot be swapped in whip and merger analysis.
 
-### MCQ 4. Voluntary giving up
-
-Ravi S. Naik (1994) is authority for which proposition?
-
-A. Only a signed resignation proves defection.
-B. Party expulsion automatically ends deemed belonging.
-C. Courts must decide every petition before the Speaker.
-D. Voluntary giving up may be inferred from conduct without formal resignation.
+### Solution 4. Voluntary giving up
 
 **Answer: D. Voluntary giving up may be inferred from conduct without formal resignation.**
 
@@ -92,14 +390,7 @@ D. Voluntary giving up may be inferred from conduct without formal resignation.
 
 **Examiner trap 4:** Inference from conduct must still be supported by context, evidence and fair hearing.
 
-### MCQ 5. Whip test
-
-A party member votes contrary to a valid direction without prior permission, but the authorised party authority condones the vote on day 12. The best conclusion is:
-
-A. Paragraph 2(1)(b) is not completed because timely condonation cures the contrary vote.
-B. Disqualification is automatic at the moment of voting and cannot be cured.
-C. Condonation is effective only if granted by the Election Commission.
-D. The member remains disqualified unless two-thirds support the vote.
+### Solution 5. Whip test
 
 **Answer: A. Paragraph 2(1)(b) is not completed because timely condonation cures the contrary vote.**
 
@@ -112,14 +403,7 @@ D. The member remains disqualified unless two-thirds support the vote.
 
 **Examiner trap 5:** Prior permission and fifteen-day condonation are distinct routes.
 
-### MCQ 6. Dissent boundary
-
-Which act, standing alone, least directly completes paragraph 2(1)(b)?
-
-A. Abstaining contrary to a valid direction without permission.
-B. Delivering a critical speech without a contrary vote or abstention.
-C. Voting contrary to a valid direction without permission.
-D. Remaining absent where abstention itself violates a valid direction.
+### Solution 6. Dissent boundary
 
 **Answer: B. Delivering a critical speech without a contrary vote or abstention.**
 
@@ -132,14 +416,7 @@ D. Remaining absent where abstention itself violates a valid direction.
 
 **Examiner trap 6:** Do not convert political dissent into disqualification without matching a paragraph 2 ground.
 
-### MCQ 7. Independent member
-
-An independently elected MLA becomes a formal member of a political party two months after election. Under paragraph 2:
-
-A. The joining is protected for six months.
-B. The joining is protected if no whip is issued.
-C. The member is disqualified; independents have no six-month joining window.
-D. The member is protected if the party is part of the governing coalition.
+### Solution 7. Independent member
 
 **Answer: C. The member is disqualified; independents have no six-month joining window.**
 
@@ -152,14 +429,7 @@ D. The member is protected if the party is part of the governing coalition.
 
 **Examiner trap 7:** Never transfer the nominated member's grace period to an independent.
 
-### MCQ 8. Nominated member
-
-A person nominated to a House while unaffiliated first joins a party five months after taking the seat. Which is correct?
-
-A. Joining is always prohibited for a nominated member.
-B. The President must first approve the joining.
-C. The member is treated as an independent forever.
-D. Joining within six months is permitted and fixes deemed party belonging.
+### Solution 8. Nominated member
 
 **Answer: D. Joining within six months is permitted and fixes deemed party belonging.**
 
@@ -172,14 +442,7 @@ D. Joining within six months is permitted and fixes deemed party belonging.
 
 **Examiner trap 8:** The six months run from taking the seat, not nomination.
 
-### MCQ 9. Paragraph 3
-
-What is the current status of the former one-third split defence?
-
-A. It was omitted by the 91st Amendment and is no longer available.
-B. It survives for State legislatures but not Parliament.
-C. It survives whenever the Governor recognises a faction.
-D. It was converted into the paragraph 5 exemption.
+### Solution 9. Paragraph 3
 
 **Answer: A. It was omitted by the 91st Amendment and is no longer available.**
 
@@ -192,14 +455,7 @@ D. It was converted into the paragraph 5 exemption.
 
 **Examiner trap 9:** A one-third faction has no current split safe harbour.
 
-### MCQ 10. Merger elements
-
-Which statement best states paragraph 4?
-
-A. Any two-thirds of an original political party nationwide must merge.
-B. Protection operates within an original-party merger framework when at least two-thirds of the legislature party agree.
-C. Election Commission symbol recognition alone conclusively proves merger.
-D. A post-election coalition is automatically deemed a merger.
+### Solution 10. Merger elements
 
 **Answer: B. Protection operates within an original-party merger framework when at least two-thirds of the legislature party agree.**
 
@@ -212,14 +468,7 @@ D. A post-election coalition is automatically deemed a merger.
 
 **Examiner trap 10:** Two-thirds is not a free-standing licence to switch parties.
 
-### MCQ 11. Non-accepting members
-
-If paragraph 4 is validly engaged, members who do not accept the merger and opt to function as a separate group are:
-
-A. automatically treated as independents for every purpose.
-B. required to join the merged party within fifteen days.
-C. protected in the manner specified by paragraph 4.
-D. disqualified unless the Governor recognises them.
+### Solution 11. Non-accepting members
 
 **Answer: C. protected in the manner specified by paragraph 4.**
 
@@ -232,14 +481,7 @@ D. disqualified unless the Governor recognises them.
 
 **Examiner trap 11:** Remember both protected choices under paragraph 4, not only the accepting group.
 
-### MCQ 12. Paragraph 5
-
-Which office is expressly within paragraph 5's party-neutrality exemption?
-
-A. Prime Minister.
-B. Chairperson of every House committee.
-C. Chief Whip.
-D. Deputy Chairman of the Rajya Sabha.
+### Solution 12. Paragraph 5
 
 **Answer: D. Deputy Chairman of the Rajya Sabha.**
 
@@ -252,14 +494,7 @@ D. Deputy Chairman of the Rajya Sabha.
 
 **Examiner trap 12:** The Rajya Sabha Chairman is ex officio Vice-President and is not the listed member-office.
 
-### MCQ 13. Paragraph 6 decider
-
-Who ordinarily decides whether a Lok Sabha member is disqualified under the Tenth Schedule?
-
-A. The Speaker of the Lok Sabha.
-B. The President on advice of the Union Council of Ministers.
-C. The Election Commission acting alone.
-D. A High Court as original fact-finder.
+### Solution 13. Paragraph 6 decider
 
 **Answer: A. The Speaker of the Lok Sabha.**
 
@@ -272,14 +507,7 @@ D. A High Court as original fact-finder.
 
 **Examiner trap 13:** Do not import Article 103 procedure into Article 102(2).
 
-### MCQ 14. Speaker concerned
-
-If the disqualification question concerns the Speaker personally, paragraph 6 requires decision by:
-
-A. the Deputy Speaker automatically.
-B. a member elected by the House for that purpose.
-C. the Election Commission after hearing the Speaker.
-D. the Governor or President, depending on the House.
+### Solution 14. Speaker concerned
 
 **Answer: B. a member elected by the House for that purpose.**
 
@@ -292,14 +520,7 @@ D. the Governor or President, depending on the House.
 
 **Examiner trap 14:** Use the exact House-elected-member proviso.
 
-### MCQ 15. Paragraph 7
-
-Which is the legally accurate description of paragraph 7?
-
-A. It was omitted by the 91st Amendment.
-B. It validly excludes every form of judicial review.
-C. Its court-ouster text remains printed but is invalid under Kihoto for want of ratification.
-D. It gives first-instance power to the Supreme Court.
+### Solution 15. Paragraph 7
 
 **Answer: C. Its court-ouster text remains printed but is invalid under Kihoto for want of ratification.**
 
@@ -312,14 +533,7 @@ D. It gives first-instance power to the Supreme Court.
 
 **Examiner trap 15:** Never quote the ouster text without Kihoto's invalidity holding.
 
-### MCQ 16. Kihoto review
-
-Kihoto Hollohan permits judicial review principally for:
-
-A. a complete rehearing of every factual disagreement.
-B. review only when the Election Commission consents.
-C. review only after the House term expires.
-D. constitutional violation, mala fides, natural-justice breach and perversity.
+### Solution 16. Kihoto review
 
 **Answer: D. constitutional violation, mala fides, natural-justice breach and perversity.**
 
@@ -332,14 +546,7 @@ D. constitutional violation, mala fides, natural-justice breach and perversity.
 
 **Examiner trap 16:** Finality under paragraph 6 is compatible with limited judicial review.
 
-### MCQ 17. Paragraph 8
-
-Paragraph 8 rules may validly provide for:
-
-A. records, leader reports and procedure for deciding disqualification questions.
-B. new substantive grounds beyond paragraph 2.
-C. removal of the natural-justice requirement.
-D. automatic disqualification solely on party complaint.
+### Solution 17. Paragraph 8
 
 **Answer: A. records, leader reports and procedure for deciding disqualification questions.**
 
@@ -352,14 +559,7 @@ D. automatic disqualification solely on party complaint.
 
 **Examiner trap 17:** Procedure operationalises the Schedule but cannot rewrite it.
 
-### MCQ 18. Rajendra Singh Rana
-
-Rajendra Singh Rana (2007) is most safely used for which proposition?
-
-A. A one-third split remains valid today.
-B. Unsupported split recognition and disabling inaction cannot defeat the Schedule.
-C. The Election Commission must decide merger before the Speaker.
-D. A Speaker may recognise a faction without deciding pending petitions.
+### Solution 18. Rajendra Singh Rana
 
 **Answer: B. Unsupported split recognition and disabling inaction cannot defeat the Schedule.**
 
@@ -372,14 +572,7 @@ D. A Speaker may recognise a faction without deciding pending petitions.
 
 **Examiner trap 18:** Use the case as anti-inaction authority, not as revival of deleted paragraph 3.
 
-### MCQ 19. Expulsion
-
-After G. Viswanathan (1996), expulsion of a legislator from the party:
-
-A. automatically makes the legislator an independent.
-B. automatically vacates the legislative seat.
-C. does not erase deemed belonging to the original party for Schedule purposes.
-D. transfers defection jurisdiction to the Election Commission.
+### Solution 19. Expulsion
 
 **Answer: C. does not erase deemed belonging to the original party for Schedule purposes.**
 
@@ -392,14 +585,7 @@ D. transfers defection jurisdiction to the Election Commission.
 
 **Examiner trap 19:** Expulsion is not itself the same legal event as Tenth Schedule disqualification.
 
-### MCQ 20. Resignation
-
-A resignation tendered after alleged disqualifying conduct:
-
-A. necessarily ends all Speaker jurisdiction.
-B. can be ignored forever without examining genuineness.
-C. automatically creates a term-long election ban.
-D. does not erase jurisdiction over antecedent defection.
+### Solution 20. Resignation
 
 **Answer: D. does not erase jurisdiction over antecedent defection.**
 
@@ -412,14 +598,7 @@ D. does not erase jurisdiction over antecedent defection.
 
 **Examiner trap 20:** Separate resignation validity, defection liability and later electoral eligibility.
 
-### MCQ 21. Keisham timing
-
-Which statement accurately describes Keisham Meghachandra Singh (2020)?
-
-A. It stated an ordinary three-month decision norm absent reasoned exceptional circumstances.
-B. It amended the Tenth Schedule to insert a ninety-day deadline.
-C. It permanently transferred all petitions to a retired-judge tribunal.
-D. It abolished judicial review of Speaker inaction.
+### Solution 21. Keisham timing
 
 **Answer: A. It stated an ordinary three-month decision norm absent reasoned exceptional circumstances.**
 
@@ -432,14 +611,7 @@ D. It abolished judicial review of Speaker inaction.
 
 **Examiner trap 21:** Three months is a judicial benchmark, not express bare text.
 
-### MCQ 22. Nabam status
-
-As of 8 September 2026, the safest statement on Nabam Rebia is:
-
-A. It has been overruled by Parliament.
-B. Its removal-notice rule stands, while Subhash Desai referred its correctness for larger-bench reconsideration.
-C. It concerns resignation of ordinary members.
-D. It gives the Governor final power over defection.
+### Solution 22. Nabam status
 
 **Answer: B. Its removal-notice rule stands, while Subhash Desai referred its correctness for larger-bench reconsideration.**
 
@@ -452,14 +624,7 @@ D. It gives the Governor final power over defection.
 
 **Examiner trap 22:** Do not present the larger-bench question as already decided.
 
-### MCQ 23. Subhash whip
-
-Under Subhash Desai (2023), the whip for Tenth Schedule purposes is appointed by:
-
-A. the Governor after a floor test.
-B. the largest faction of the legislature party.
-C. the political party through its authorised structure.
-D. the Election Commission whenever a symbol dispute exists.
+### Solution 23. Subhash whip
 
 **Answer: C. the political party through its authorised structure.**
 
@@ -472,14 +637,7 @@ D. the Election Commission whenever a symbol dispute exists.
 
 **Examiner trap 23:** Political party and legislature party have different constitutional functions.
 
-### MCQ 24. Parallel tracks
-
-Which pair may proceed on separate legal tracks under Subhash Desai?
-
-A. A criminal trial and presidential election petition only.
-B. A privilege motion and every civil suit only.
-C. A Governor's party-membership decision and Speaker's symbol decision.
-D. ECI symbol proceedings and Speaker defection proceedings.
+### Solution 24. Parallel tracks
 
 **Answer: D. ECI symbol proceedings and Speaker defection proceedings.**
 
@@ -492,14 +650,7 @@ D. ECI symbol proceedings and Speaker defection proceedings.
 
 **Examiner trap 24:** Parallel proceedings do not mean identical legal tests or binding outcomes.
 
-### MCQ 25. Council cap
-
-Which statement on the 91st-Amendment ministry caps is correct?
-
-A. Union ministers including the Prime Minister cannot exceed 15% of Lok Sabha; State ministers including the Chief Minister cannot exceed 15% of Assembly, with a State minimum of 12.
-B. Both Union and State ministries have a fixed minimum of twelve.
-C. The cap is ten per cent for every House.
-D. The cap is calculated from the total strength of both Houses combined.
+### Solution 25. Council cap
 
 **Answer: A. Union ministers including the Prime Minister cannot exceed 15% of Lok Sabha; State ministers including the Chief Minister cannot exceed 15% of Assembly, with a State minimum of 12.**
 
@@ -512,14 +663,7 @@ D. The cap is calculated from the total strength of both Houses combined.
 
 **Examiner trap 25:** Separate the State minimum from the common fifteen-per-cent ceiling.
 
-### MCQ 26. Minister bar end point
-
-A party member disqualified under paragraph 2 contests and is declared elected before the old House term expires. The ministerial disability:
-
-A. always continues for life.
-B. ends on the date the person is declared elected, under the earlier-event formula.
-C. ends only if the former party consents.
-D. never applies to State ministers.
+### Solution 26. Minister bar end point
 
 **Answer: B. ends on the date the person is declared elected, under the earlier-event formula.**
 
@@ -532,14 +676,7 @@ D. never applies to State ministers.
 
 **Examiner trap 26:** The endpoint is old-term expiry or earlier declared re-election, whichever comes first.
 
-### MCQ 27. Article 361B
-
-Article 361B principally concerns:
-
-A. the size of the Union Council of Ministers.
-B. the Speaker's removal procedure.
-C. a temporary bar on remunerative political posts for the specified disqualified member.
-D. the Election Commission's power over party symbols.
+### Solution 27. Article 361B
 
 **Answer: C. a temporary bar on remunerative political posts for the specified disqualified member.**
 
@@ -552,14 +689,7 @@ D. the Election Commission's power over party symbols.
 
 **Examiner trap 27:** Ministerial bars and remunerative-political-post bars are related but separately located.
 
-### MCQ 28. Whip reform
-
-Which proposition is a reform proposal rather than present Tenth Schedule law?
-
-A. A party member may be disqualified for voluntarily giving up membership.
-B. An independent is disqualified on joining a political party.
-C. The Speaker or Chairman ordinarily decides paragraph 6 questions.
-D. Whip-backed disqualification should be confined to confidence, money/supply or comparable survival votes.
+### Solution 28. Whip reform
 
 **Answer: D. Whip-backed disqualification should be confined to confidence, money/supply or comparable survival votes.**
 
@@ -572,14 +702,7 @@ D. Whip-backed disqualification should be confined to confidence, money/supply o
 
 **Examiner trap 28:** Status-label reform recommendations; do not constitutionalise them by repetition.
 
-### MCQ 29. Coalition versus merger
-
-Two parties form a post-election governing coalition but retain separate organisations. This is:
-
-A. not automatically a paragraph 4 merger.
-B. always a merger if they share a common minimum programme.
-C. a merger only when the Governor calls a floor test.
-D. proof that every member voluntarily gave up membership.
+### Solution 29. Coalition versus merger
 
 **Answer: A. not automatically a paragraph 4 merger.**
 
@@ -592,14 +715,7 @@ D. proof that every member voluntarily gave up membership.
 
 **Examiner trap 29:** Merger changes party identity; coalition coordinates distinct parties.
 
-### MCQ 30. Sita Soren boundary
-
-Why is Sita Soren (2024) only a boundary case here?
-
-A. It restored the one-third split defence.
-B. It concerns bribery and legislative privilege, not the elements of paragraph 2 defection.
-C. It transferred defection petitions to criminal courts.
-D. It held every whip unconstitutional.
+### Solution 30. Sita Soren boundary
 
 **Answer: B. It concerns bribery and legislative privilege, not the elements of paragraph 2 defection.**
 
@@ -612,14 +728,7 @@ D. It held every whip unconstitutional.
 
 **Examiner trap 30:** Do not merge criminal bribery, privilege and defection into one doctrine.
 
-### MCQ 31. Court role
-
-A High Court receives a petition asking it to decide disputed defection facts before the Speaker acts. The ordinary constitutional approach is:
-
-A. the court always conducts the first trial.
-B. the President must decide on Cabinet advice.
-C. the court ordinarily allows paragraph 6 first-instance adjudication, while retaining review and remedies against disabling inaction.
-D. the petition automatically becomes a symbol dispute.
+### Solution 31. Court role
 
 **Answer: C. the court ordinarily allows paragraph 6 first-instance adjudication, while retaining review and remedies against disabling inaction.**
 
@@ -632,14 +741,7 @@ D. the petition automatically becomes a symbol dispute.
 
 **Examiner trap 31:** Judicial review is not synonymous with judicial first-instance adjudication.
 
-### MCQ 32. Reform synthesis
-
-Which reform package most directly answers the law's principal institutional weaknesses?
-
-A. Restore the one-third split and eliminate judicial review.
-B. Let the Governor choose the authorised political party.
-C. Make every dissenting speech a disqualification ground.
-D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger proof and stronger internal party democracy.
+### Solution 32. Reform synthesis
 
 **Answer: D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger proof and stronger internal party democracy.**
 
@@ -651,6 +753,58 @@ D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger pro
 - **D:** Correct: it addresses freedom, delay, merger engineering and party authorisation.
 
 **Examiner trap 32:** A credible reform must address both substantive reach and decision architecture.
+
+### Solution 33. Concurrent jurisdictions
+
+**Answer: A. Speaker decides paragraph 6; ECI decides the Symbols Order dispute; parallel proceedings are possible.**
+
+**Option-specific explanations:**
+
+- **A:** Correct: membership and symbol disputes have distinct, potentially concurrent forums.
+- **B:** Incorrect: ECI symbol jurisdiction does not displace the Speaker under paragraph 6.
+- **C:** Incorrect: Article 103 is not the Tenth Schedule decision procedure.
+- **D:** Incorrect: the political party, not a breakaway legislature faction, authorises the Whip.
+
+**Examiner trap 33:** Symbol allocation does not automatically adjudicate past defection.
+
+### Solution 34. Split repeal
+
+**Answer: B. Paragraph 3 was deleted; one-third splitting no longer exempts members from disqualification.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: Speaker approval cannot revive repealed paragraph 3.
+- **B:** Correct: the Ninety-first Amendment removed the former split exception.
+- **C:** Incorrect: paragraph 4 merger is distinct and requires its own conditions.
+- **D:** Incorrect: recognition in a symbol dispute is not a repealed Schedule defence.
+
+**Examiner trap 34:** Distinguish abolished one-third split from surviving two-thirds merger.
+
+### Solution 35. Review of finality
+
+**Answer: C. Constitutional review remains available for natural-justice breach despite paragraph 6 finality.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: paragraph 7 was invalidated and finality is qualified.
+- **B:** Incorrect: ECI decides symbols, not a defection appeal.
+- **C:** Correct: procedural unfairness is among the recognised grounds of review.
+- **D:** Incorrect: Speaker retains first-instance tribunal responsibility.
+
+**Examiner trap 35:** Review of a final decision differs from routine anticipatory intervention.
+
+### Solution 36. Merger proof
+
+**Answer: D. Check paragraph 4’s original-party premise and two-thirds legislative condition on the evidence, without asserting an unverified 2026 universal holding.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: paragraph 4 contains a separate original-party premise.
+- **B:** Incorrect: paragraph 4 survives repeal of split.
+- **C:** Incorrect: whip recognition is a different inquiry from merger proof.
+- **D:** Correct: both statutory elements and the factual record matter; disputed readings require qualification.
+
+**Examiner trap 36:** Avoid converting a litigated merger interpretation into an invented settled judgment.
 
 ## PYQS AND ANSWER PRACTICE
 

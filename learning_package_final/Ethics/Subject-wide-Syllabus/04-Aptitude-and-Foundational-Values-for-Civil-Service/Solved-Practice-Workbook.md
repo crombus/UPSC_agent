@@ -12,819 +12,513 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Constructed scenario practice:** Apply concepts and eliminate close alternatives. Solutions appear only after all questions.
+
 #### MCQ 1
 
-A probationer initially struggles with citizen grievance handling but improves after structured mentoring and community immersion. Which concept best describes her growing capacity to serve effectively? Which source-grounded ethical principle most precisely explains the case?
+A flood officer handles logistics expertly but ignores residents' concern about livestock. What is the most precise diagnosis?
 
-A. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
+A. Operational aptitude is evident, but empathetic orientation is weak.
+B. Technical success proves compassion.
+C. Dismissiveness proves logistical incapacity.
+D. A value is a task-specific skill.
 
-B. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-C. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
-
-D. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-**Answer:** A
-**Explanation:** **Aptitude is a trainable capacity** is the controlling principle. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 2
 
-A selection board assumes that aptitude for public service is entirely innate and cannot be improved by training. Which contemporary civil-service pedagogy challenges that assumption? Which source-grounded ethical principle most precisely explains the case?
+A trainee improves grievance handling after simulated hearings and field immersion. What inference is sound?
 
-A. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
+A. A favourable attitude alone proves procedural competence.
+B. Civil-service aptitude can be developed by practice.
+C. Training completion guarantees integrity.
+D. Initial weakness makes her permanently unfit.
 
-B. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
-
-C. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-D. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-**Answer:** B
-**Explanation:** **Aptitude is a trainable capacity** is the controlling principle. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 3
 
-A district collector has the skill to manage flood relief efficiently but privately resents the posting. Which of the three concepts describes his competence and which describes his evaluative stance? Which source-grounded ethical principle most precisely explains the case?
+An officer's friend seeks a housing slot outside published criteria when nobody is watching. What best shows integrity?
 
-A. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
+A. Delegate secretly to conceal the connection.
+B. Reject every applicant from the friend's locality.
+C. Refuse the exception, disclose the connection and record reasons.
+D. Approve it and disclose after allocation.
 
-B. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
-
-C. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-D. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-**Answer:** C
-**Explanation:** **Aptitude differs from attitude and value** is the controlling principle. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 4
 
-A trainee says integrity is an attitude she holds toward her department. Why is it more precise to classify integrity as a value rather than an object-specific evaluation? Which source-grounded ethical principle most precisely explains the case?
+After a change of government, a lawful order comes from the incoming minister. What is non-partisan conduct?
 
-A. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
+A. Refuse because the previous minister appointed the officer.
+B. Campaign publicly for the new party while serving.
+C. Conceal genuine legal concerns to prove loyalty.
+D. Provide professional advice and implement lawful policy without party loyalty.
 
-B. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-C. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
-
-D. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-**Answer:** D
-**Explanation:** **Aptitude differs from attitude and value** is the controlling principle. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 5
 
-A block officer must decide whether to relax documentation for elderly pension applicants in a remote tribal area while maintaining transparent eligibility criteria. Which two foundational values are being tested simultaneously? Which source-grounded ethical principle most precisely explains the case?
+A returning officer assesses nomination papers against published criteria for all parties. What protects neutrality if threatened with transfer?
 
-A. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
+A. Document scrutiny and pressure; seek review under tenure safeguards.
+B. Ease scrutiny only for the governing party.
+C. Scrutinise opposition candidates more strictly.
+D. Rely solely on private moral resolve.
 
-B. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
-
-C. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-D. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-**Answer:** A
-**Explanation:** **Aptitude is tested in combination under pressure** is the controlling principle. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 6
 
-A candidate writes an answer treating each value in isolation, defining each without showing how they interact. Why does the examiner find the response inadequate for a pressure-based question? Which source-grounded ethical principle most precisely explains the case?
+A nutrition scheme excludes eligible families unable to supply address proof. What response joins compassion and objectivity?
 
-A. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
+A. Admit only families recommended privately by volunteers.
+B. Verify the exclusion evidence and offer a lawful alternative with an audit trail.
+C. Waive every eligibility check on intuition.
+D. Leave the form unchanged because uniform forms ensure fairness.
 
-B. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
-
-C. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-D. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
-
-**Answer:** B
-**Explanation:** **Aptitude is tested in combination under pressure** is the controlling principle. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 7
 
-A revenue officer describes integrity as important but cannot name any institutional mechanism that monitors it. Why does her answer lack the operational element that the examiner expects? Which source-grounded ethical principle most precisely explains the case?
+An immobile pensioner cannot travel to certify eligibility. Which measure operationalises compassion?
 
-A. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
+A. Express sympathy but retain the inaccessible visit.
+B. Invite a party worker to choose priority applicants.
+C. Offer published doorstep verification for every similarly placed applicant.
+D. Approve this applicant with no recorded verification.
 
-B. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
-
-C. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-D. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
-
-**Answer:** C
-**Explanation:** **Foundational values are operational commitments** is the controlling principle. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 8
 
-A district administration pairs an integrity pledge with random asset inspections, audit trails and conflict-of-interest disclosures. Which feature converts the value from an aspiration into an observable administrative commitment? Which source-grounded ethical principle most precisely explains the case?
+A displaced family tells an officer the relief camp is inaccessible to a wheelchair user. What distinguishes compassion from sympathy?
 
-A. Aptitude denotes capacity to perform, attitude denotes an evaluative stance toward a specific object, and value denotes a general cross-situational standard of what is worth pursuing; confusing the three weakens any answer on civil-service assessment.
+A. Say feeling sorry fulfils official duty.
+B. Assume every displaced family has identical mobility needs.
+C. Privately divert all scarce supplies to this family.
+D. Check the obstacle and arrange lawful accessible entry and referral.
 
-B. The GS-IV syllabus lists foundational values as though independent, but Mains questions usually test them in combination; a welfare-scheme dilemma may require impartiality and compassion together rather than either one alone.
-
-C. Aptitude is a natural or cultivable capacity to perform a task or role competently; it is not a fixed personality trait but can be developed through deliberate practice, foundation courses and competency-based training such as Mission Karmayogi.
-
-D. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it.
-
-**Answer:** D
-**Explanation:** **Foundational values are operational commitments** is the controlling principle. Each foundational value in the GS-IV syllabus is exam-credible only when paired with a specific institutional test and safeguard; advanced answers must show the value surviving a realistic pressure scenario rather than merely define it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 9
 
-A procurement officer truthfully answers a direct audit query but routinely allows a favoured contractor to bypass published criteria when no auditor is present. Which principle is satisfied and which is violated? Which source-grounded ethical principle most precisely explains the case?
+A speaker at a public hearing voices an unpopular lawful belief. What demonstrates tolerance?
 
-A. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
+A. Protect orderly expression while applying lawful limits to threats equally.
+B. Officially endorse the belief to show respect.
+C. Bar minority views but tolerate majority views.
+D. Cancel the hearing to avoid disagreement.
 
-B. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-C. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
-
-D. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-**Answer:** A
-**Explanation:** **Integrity is not the same as honesty** is the controlling principle. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 10
 
-A colleague says honesty and integrity are identical because both concern truth. Which Nolan-based distinction shows why this conflation is inaccurate for a civil-service ethics answer? Which source-grounded ethical principle most precisely explains the case?
+A department fast-tracks low-risk shops but checks hazardous plants before operation. Why is this justified?
 
-A. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
+A. Political sponsorship determines the risk score.
+B. Risk-proportionate facilitation retains necessary oversight.
+C. Growth requires all safety inspections to cease.
+D. Every applicant must face identical prior scrutiny.
 
-B. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
-
-C. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-D. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-**Answer:** B
-**Explanation:** **Integrity is not the same as honesty** is the controlling principle. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 11
 
-A licensing officer handles applications transparently during departmental reviews but expedites files for relatives when supervisors are transferred. Which feature of integrity testing explains why normal compliance missed the failure? Which source-grounded ethical principle most precisely explains the case?
+An officer finishes many iGOT courses but citizen complaints remain unresolved. What follows?
 
-A. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
+A. Complaints establish that all capacity training is futile.
+B. Digital training replaces reasoned decisions on grievances.
+C. Completion measures training uptake, not demonstrated ethical behaviour.
+D. A completion certificate proves integrity under temptation.
 
-B. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
-
-C. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-D. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-**Answer:** C
-**Explanation:** **Integrity is tested by discretion and secrecy** is the controlling principle. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 12
 
-A state government mandates annual asset declarations and cooling-off periods for retiring officials joining private firms. Which analytical logic justifies these measures as proxies for an otherwise unobservable quality? Which source-grounded ethical principle most precisely explains the case?
+An official reports accurate budget totals while covertly directing procurement to a relative. What distinction matters?
 
-A. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
+A. Accurate reporting cancels the undisclosed conflict.
+B. A small contract cannot involve unethical conduct.
+C. Integrity concerns speech but not procurement choices.
+D. Instance-level honesty does not establish integrity across decisions.
 
-B. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-C. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
-
-D. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-**Answer:** D
-**Explanation:** **Integrity is tested by discretion and secrecy** is the controlling principle. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 13
 
-A highly intelligent and energetic tax officer uses her skills to construct elaborate schemes that conceal favouritism toward a politically connected firm. Which element of the hiring proposition does this illustrate? Which source-grounded ethical principle most precisely explains the case?
+Disabled applicants receive published home visits while others attend the office. Is this necessarily partial?
 
-A. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
+A. No; consistently applied need-based access may be impartial.
+B. Yes; everyone must make an identical journey.
+C. No; disability eliminates all eligibility requirements.
+D. Yes; every accommodation is personal favouritism.
 
-B. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
-
-C. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-D. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-**Answer:** A
-**Explanation:** **Buffett's integrity-intelligence-energy hierarchy** is the controlling principle. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 14
 
-A recruitment panel tests aptitude and drive extensively but has no mechanism to assess integrity at entry. Why does the proposition suggest that continuous institutional safeguards are needed throughout a career? Which source-grounded ethical principle most precisely explains the case?
+A tax office uses the same risk score for connected and unconnected firms. What else should be tested?
 
-A. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
+A. Whether each firm finds the process pleasant.
+B. Whether the input indicators disguise irrelevant group bias.
+C. Whether both groups have identical audit counts regardless of risk.
+D. Whether the inspector privately likes a politician.
 
-B. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
-
-C. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-D. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
-
-**Answer:** B
-**Explanation:** **Buffett's integrity-intelligence-energy hierarchy** is the controlling principle. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 15
 
-A candidate writes that Buffett personally invented the three-quality framework and cites it as a proven management theorem. Which provenance correction preserves exam utility without fabricating a primary source? Which source-grounded ethical principle most precisely explains the case?
+A superior asks an officer to suppress a verified pollution alert so an investment opens sooner. What is dedication?
 
-A. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
+A. Leak an unverified rumour to the press.
+B. Freeze every unrelated investment proposal.
+C. Record and escalate the safety risk while seeking lawful facilitation.
+D. Suppress the alert because facilitators never regulate.
 
-B. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
-
-C. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-D. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
-
-**Answer:** C
-**Explanation:** **Buffett attribution requires care** is the controlling principle. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 16
 
-An ethics training module uses the proposition to discuss why integrity cannot be tested at entry alone, while noting the attribution caveat. Why is this a more responsible use than treating popular wording as settled scholarship? Which source-grounded ethical principle most precisely explains the case?
+A clinic must be located in one of two villages; a disadvantaged settlement needs improved access. Which basis can justify priority?
 
-A. Integrity is asymmetrically tested: it is nearly costless to display when observed and only genuinely tested when discretion, secrecy and personal gain are simultaneously present; institutional responses convert this unobservable trait into partially observable behaviour through asset declarations and random inspections.
+A. Friendship with one village organiser.
+B. Whichever village stages the loudest protest.
+C. Keeping the reasons secret to avoid disagreement.
+D. Published vulnerability and service-gap criteria compared across villages.
 
-B. The proposition that integrity, intelligence and energy are three hiring qualities and that without the first the other two will harm rather than help was endorsed by Warren Buffett; intelligence and energy amplify whatever the underlying disposition already is, making integrity the precondition.
-
-C. Honesty is truthful communication in a given instance, while integrity is the consistency of one's values across situations including when unobserved; the Nolan Committee treats them as related but separate principles of public life.
-
-D. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism.
-
-**Answer:** D
-**Explanation:** **Buffett attribution requires care** is the controlling principle. Buffett himself introduces the integrity-intelligence-energy line as something somebody once said; its traceable published form is a 1994 Omaha World-Herald report of his 1993 Columbia Business School remarks, so it should be treated as a widely endorsed teaching rather than an originally coined aphorism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 17
 
-A sub-divisional magistrate waives documentation fees for below-poverty-line applicants under a published government order while charging standard fees to others. A petitioner claims this violates impartiality. Which distinction resolves the complaint? Which source-grounded ethical principle most precisely explains the case?
+A state faces arbitrary transfer threats against election officers. What reform supports non-partisanship?
 
-A. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
+A. Transparent tenure and review through a board-type posting process.
+B. Record all official advice only orally.
+C. Require party membership for appointment.
+D. Leave transfers wholly unreviewed.
 
-B. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-C. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
-
-D. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-**Answer:** A
-**Explanation:** **Impartiality is not identical treatment** is the controlling principle. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 18
 
-A welfare office informally fast-tracks a file because the applicant is the officer's relative, not because any published criterion applies. Why does the same action that is impartial under transparent rules become nepotism under informal selection? Which source-grounded ethical principle most precisely explains the case?
+A recruitment board tests intelligence and initiative but never checks conflicts later. What does the Buffett hiring lesson suggest?
 
-A. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
+A. Self-declared virtue eliminates need for audits.
+B. Capacity can magnify harm without integrity; monitor conduct throughout service.
+C. High test scores guarantee lifelong integrity.
+D. Energy itself is ethically suspect.
 
-B. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
-
-C. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-D. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-**Answer:** B
-**Explanation:** **Impartiality is not identical treatment** is the controlling principle. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 19
 
-A returning officer during state assembly elections applies identical scrutiny to nomination papers of ruling-party and opposition candidates despite phone calls from a minister. Which foundational value is she exercising under real pressure? Which source-grounded ethical principle most precisely explains the case?
+An office digitises grievances, excluding elders unable to use the portal. What is responsive objectivity?
 
-A. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
+A. Shut all offline access because online forms are uniform.
+B. Let intermediaries secretly choose eligible complaints.
+C. Keep traceable records and add assisted access under common rules.
+D. Abandon records and promise to remember complaints.
 
-B. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
-
-C. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-D. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-**Answer:** C
-**Explanation:** **Non-partisanship under political pressure** is the controlling principle. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 20
 
-A colleague argues that non-partisanship requires a civil servant to have no political opinions whatsoever. Which clarification distinguishes personal belief from official conduct? Which source-grounded ethical principle most precisely explains the case?
+A manager uses identical targets despite gender-specific harassment risks for field staff. What ethical remedy fits?
 
-A. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
+A. Assume women lack field aptitude.
+B. Ignore unsafe conditions because targets match.
+C. Give supervisors secret unlimited waivers.
+D. Provide safe reporting and fair posting support with transparent standards.
 
-B. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-C. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
-
-D. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-**Answer:** D
-**Explanation:** **Non-partisanship under political pressure** is the controlling principle. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 21
 
-A district education officer who resists politically motivated teacher transfers is herself transferred to a remote posting within weeks. Which structural factor identified by the ARC explains why her non-partisanship was unsustainable? Which source-grounded ethical principle most precisely explains the case?
+An auditor sees annual asset declarations. What can be concluded?
 
-A. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
+A. Declarations aid detection but do not prove integrity in unobserved choices.
+B. The form guarantees absence of hidden conflicts.
+C. Independent random audits become unnecessary.
+D. A submitted form replaces ethical judgment.
 
-B. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
-
-C. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-D. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-**Answer:** A
-**Explanation:** **Transfer is the structural threat to non-partisanship** is the controlling principle. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 22
 
-A state constitutes a Civil Services Board to review transfer recommendations against published criteria before they take effect. Which institutional gap in non-partisanship protection is this mechanism designed to close? Which source-grounded ethical principle most precisely explains the case?
+A crowd attacks rescue staff during a calamity. Which response combines empathy and duty?
 
-A. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
+A. Punish all disaster victims for a few assailants.
+B. Move to safety, seek protection, hear grievances and resume rescue when feasible.
+C. Send unprotected staff back immediately as proof of courage.
+D. Cancel the entire rescue permanently.
 
-B. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
-
-C. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-D. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
-
-**Answer:** B
-**Explanation:** **Transfer is the structural threat to non-partisanship** is the controlling principle. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 23
 
-A state invests heavily in ethics training for officers but retains the power to transfer any official without recorded reasons. Why might non-partisan conduct still collapse under political transition despite the training? Which source-grounded ethical principle most precisely explains the case?
+A minister recommends an unqualified applicant for a public post. What operationalises objectivity?
 
-A. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
+A. Exclude every candidate with political associations.
+B. Treat the minister's assurance as sufficient evidence.
+C. Use pre-announced merit criteria, written reasons and appeal.
+D. Appoint first and change the criteria later.
 
-B. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
-
-C. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
-
-D. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
-
-**Answer:** C
-**Explanation:** **Non-partisanship is an institutional-design problem** is the controlling principle. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 24
 
-A reform proposal combines fixed three-year tenure, transparent transfer criteria and a review board with ethics sensitisation modules. Why is this more durable than either training or tenure protection alone? Which source-grounded ethical principle most precisely explains the case?
+A service office counts fast closures while complainants repeatedly return because nothing changed. What evaluation is sound?
 
-A. Non-partisanship means a civil servant serves the government of the day loyally without allowing party political considerations to shape official advice or action; personal political views are permitted but official conduct must remain party-neutral.
+A. Treat closed ticket counts as proof of dedication.
+B. Reject digital records because statistics can mislead.
+C. Give officers discretion to erase repeat complaints.
+D. Check resolution outcomes and independent feedback, not closure totals alone.
 
-B. The ARC documents the transfer as the politicians' basic weapon of control over the bureaucracy, citing Robert Wade's study of Andhra Pradesh; non-partisanship is structurally difficult to sustain without tenure and transfer protection such as Civil Services Board mechanisms.
 
-C. Impartiality requires deciding without personal bias on transparent, rule-based merit or criteria; it does not require identical treatment regardless of need, because targeted needs-based support for weaker sections is impartial when applied consistently to all similarly situated persons.
+### Separate answer key and option-by-option explanations
 
-D. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform.
+#### MCQ 1 — A
 
-**Answer:** D
-**Explanation:** **Non-partisanship is an institutional-design problem** is the controlling principle. No amount of individual training fully substitutes for institutional safeguards against discretionary transfer power; non-partisanship is therefore an institutional-design issue as much as a personal virtue, which elevates it from character advice to structural reform. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Skill and sensitivity are distinct capacities.
+- **B:** Logistics do not establish concern.
+- **C:** Poor attitude does not erase skill.
+- **D:** Values are cross-situational standards.
 
----
-
-#### MCQ 25
-
-A food safety inspector issues closure orders based on published contamination thresholds and recorded lab results, giving the establishment a hearing before the order takes effect. Which foundational value is most directly demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-B. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-C. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-D. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-**Answer:** A
-**Explanation:** **Objectivity means evidence-based judgment** is the controlling principle. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not infer empathy from throughput.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-An officer rejects a mining application because the applicant belongs to a community she personally dislikes, without recording evidence-based reasons. Which foundational value has been violated despite the apparently protective outcome? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Goodwill alone is not skill.
+- **B:** Demonstrated improvement rebuts an entirely fixed account.
+- **C:** Course attendance cannot establish unobserved conduct.
+- **D:** The observed improvement rebuts permanence.
 
-A. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-B. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-C. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-D. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-**Answer:** B
-**Explanation:** **Objectivity means evidence-based judgment** is the controlling principle. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Improvement, not enrollment, supports trainability.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-A taluk officer identifies that elderly pensioners cannot travel to the tehsil office and arranges monthly doorstep verification camps without being ordered to do so. Which foundational value distinguishes this initiative from routine rule following? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Concealment compounds the conflict.
+- **B:** Collective exclusion is another bias.
+- **C:** Consistent conduct under temptation requires disclosure and reasons.
+- **D:** Late disclosure does not cure an improper award.
 
-A. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-B. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-C. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-D. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-**Answer:** C
-**Explanation:** **Dedication exceeds minimum compliance** is the controlling principle. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Unobserved discretion is the sharper integrity test.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A department meets every procedural deadline but citizens still cannot access services because the forms are available only in English in a predominantly Hindi-speaking district. Which gap between compliance and dedication does this reveal? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Past appointment grants no right to obstruct.
+- **B:** Campaigning mixes party and official roles.
+- **C:** Honest legal advice remains necessary.
+- **D:** Duty follows constitutional office rather than party identity.
 
-A. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-B. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-C. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-D. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-**Answer:** D
-**Explanation:** **Dedication exceeds minimum compliance** is the controlling principle. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Non-partisanship is not blind obedience.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-A district industrial officer replaces seven separate pre-clearances with a single-window approval for low-risk enterprises while retaining random post-approval safety inspections. Which calibration principle is being applied? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Records and institutional protection resist political leverage.
+- **B:** Preferential leniency violates the common rule.
+- **C:** Selective severity is likewise partisanship.
+- **D:** Transfer pressure is a structural threat.
 
-A. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-B. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-C. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-D. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-**Answer:** A
-**Explanation:** **Enabler versus regulator requires calibration** is the controlling principle. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Individual courage needs institutional support.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-A state abolishes all environmental inspections for new factories in the name of facilitation. A chemical leak harms nearby residents within months. Which dimension of the enabler-regulator proposition was ignored? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Private referral substitutes favour for public criteria.
+- **B:** Evidence-based accommodation preserves eligibility and access.
+- **C:** Unrecorded intuition invites inconsistency.
+- **D:** Formal sameness may exclude the vulnerable.
 
-A. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-B. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-C. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-D. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-**Answer:** B
-**Explanation:** **Enabler versus regulator requires calibration** is the controlling principle. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Accessible verification is not arbitrary waiver.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-A mining department fast-tracks all clearances without environmental impact assessments, and a politically connected firm exploits the gap. Which institutional failure does the capture risk describe? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Sympathy does not remove the barrier.
+- **B:** Political brokerage distorts need assessment.
+- **C:** The process changes while transparent eligibility survives.
+- **D:** Selective unverified approval invites favouritism.
 
-A. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-B. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-C. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-D. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-**Answer:** C
-**Explanation:** **Facilitation without safeguards risks capture** is the controlling principle. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Compassion is service design, not sentiment alone.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-A cottage-industry applicant faces the same inspection regime as a large chemical plant, causing a two-year delay. Which side of the calibration spectrum has the administration defaulted to? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Sentiment alone leaves access unchanged.
+- **B:** Perspective-taking rules out crude generalisation.
+- **C:** Unrecorded diversion ignores other eligible needs.
+- **D:** Action informed by the family's perspective removes a barrier.
 
-A. Dedication to public service is motivation that exceeds minimum compliance and is visible in responsiveness, initiative and proactive problem-solving; it is now measured by outcomes enabled rather than only rules enforced.
-
-B. The civil servant as enabler and active facilitator of growth rather than a regulator is not a call to abandon regulation but to sequence and calibrate it: pre-clearance single-window facilitation for legitimate activity combined with post-facto risk-based regulatory scrutiny.
-
-C. Objectivity requires evidence-based and rule-bound judgment free of personal preconception; it is supported by reasoned written orders, appeal mechanisms and transparent decision criteria that make official reasoning reviewable.
-
-D. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission.
-
-**Answer:** D
-**Explanation:** **Facilitation without safeguards risks capture** is the controlling principle. Excessive enabling without regulatory safeguards risks regulatory capture, while excessive regulating without enabling stifles legitimate development; the enabler-regulator calibration requires reliable risk-based information systems to avoid under-regulation by omission. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Understanding must produce proportionate action.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-A disaster-relief officer sits with displaced families, listens to their accounts of loss and adjusts the relief process to address specific needs they describe. Which concept best captures her active effort to understand their perspective? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Respect for diversity coexists with equal lawful boundaries.
+- **B:** Protection is not endorsement.
+- **C:** Selective access is exclusion.
+- **D:** Avoidance does not constitute engaged respect.
 
-A. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-B. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-C. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-D. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-**Answer:** A
-**Explanation:** **Empathy is cognitive and affective perspective-taking** is the controlling principle. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Tolerance does not require agreement.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-A senior official expresses sorrow for flood victims on social media but does not consult them before designing the rehabilitation plan. Which concept describes his response and what is missing? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Political access is not a risk measure.
+- **B:** Different risks warrant different protective burdens.
+- **C:** Jobs cannot cancel safety obligations.
+- **D:** Flat scrutiny wastes limited inspection capacity.
 
-A. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-B. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-C. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-D. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-**Answer:** B
-**Explanation:** **Empathy is cognitive and affective perspective-taking** is the controlling principle. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Enabler is not a synonym for deregulator.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A tehsildar redesigns the pension verification process to allow video calls instead of mandatory in-person appearance for elderly and disabled beneficiaries. Which concept is operationalised through this specific process change? Which source-grounded ethical principle most precisely explains the case?
+- **A:** One poor result cannot disprove all training.
+- **B:** Administrative reasons remain necessary.
+- **C:** Field outcomes need independent assessment.
+- **D:** Attendance alone cannot show actual conduct.
 
-A. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-B. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-C. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-D. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-**Answer:** C
-**Explanation:** **Compassion requires motivated action** is the controlling principle. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Input metrics are not outcome evidence.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-An officer deeply understands the hardship of migrant workers but takes no step to simplify registration or provide multilingual service access. Why does the officer's response fall short of the concept that earns GS-IV marks? Which source-grounded ethical principle most precisely explains the case?
+- **A:** One truthful statement does not cure wrongdoing.
+- **B:** Contract size does not determine integrity.
+- **C:** Integrity spans words and decisions.
+- **D:** The conflict exposes inconsistency despite truthful figures.
 
-A. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-B. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-C. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-D. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-**Answer:** D
-**Explanation:** **Compassion requires motivated action** is the controlling principle. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not equate honesty in one act with integrity.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-A district converts all land-record applications to an online-only portal but provides no assisted kiosks or vernacular support in tribal areas. Why does this reform fail the compassion standard despite its modernisation intent? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Equal criteria can require different modes of access.
+- **B:** Mechanical uniformity may obstruct access.
+- **C:** Accommodation retains substantive checks.
+- **D:** A published general rule differs from favour.
 
-A. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-B. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-C. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-D. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-**Answer:** A
-**Explanation:** **Compassion must be operationalised as service design** is the controlling principle. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Identical treatment need not be fair treatment.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-A block office introduces simplified one-page forms, local-language help desks and doorstep camps for disability-certificate applicants. Which feature converts compassion from sentiment into an observable administrative output? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Discomfort alone is not bias.
+- **B:** A formally neutral score can encode bad proxies.
+- **C:** Numerical parity is not risk-based objectivity.
+- **D:** Private views matter when they shape official action.
 
-A. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-B. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-C. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-D. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-**Answer:** B
-**Explanation:** **Compassion must be operationalised as service design** is the controlling principle. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Audit the criteria, not just the labels.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-A welfare officer informally expedites ration-card renewal for a neighbour's family claiming compassionate grounds, without any published criterion justifying the expedited treatment. Why is this indistinguishable from favouritism despite the officer's sincere concern? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Rumour spreads harm and bypasses process.
+- **B:** Collective delay injures innocent applicants.
+- **C:** Public service protects safety while enabling lawful activity.
+- **D:** Enabling never cancels a material legal duty.
 
-A. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-B. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-C. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-D. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-**Answer:** C
-**Explanation:** **Compassion-driven discretion can become favouritism** is the controlling principle. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Dedication is not unquestioning compliance.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-A district publishes a government order listing conditions under which fee waivers apply, requires written reasons for each waiver granted, and audits waivers quarterly. Which mechanism prevents compassionate discretion from degenerating into selective favour? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Friendship is not public need.
+- **B:** Noise is not a reliable service metric.
+- **C:** Secrecy prevents accountability.
+- **D:** Comparable need and open criteria support fair priority.
 
-A. Compassion is empathy plus a motivated commitment to relieve suffering; it necessarily issues in action or service design and is therefore the only form among empathy, sympathy and compassion that is administratively assessable.
-
-B. Compassion toward weaker sections is exam-credible only when it changes a process: simplified forms, doorstep delivery, vernacular communication or accessible digital design; good intention alone does not reach a citizen who cannot navigate a complex bureaucratic procedure.
-
-C. Empathy is accurately grasping another person's situation and feelings from their frame of reference through both cognitive and affective perspective-taking; it differs from sympathy, which feels for someone from the outside with an implicit hierarchy between giver and receiver.
-
-D. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself.
-
-**Answer:** D
-**Explanation:** **Compassion-driven discretion can become favouritism** is the controlling principle. Compassion-driven discretion without transparent eligibility criteria can be indistinguishable in form from favouritism; the safeguard is transparent rule-based criteria, not the presence or absence of discretion itself. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Compassionate priority needs reviewable evidence.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A district magistrate ensures that a minority community's lawful religious procession receives the same police protection and route facilitation as the majority community's festival. Which foundational value and constitutional anchor is she demonstrating? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Institutional checks reduce the leverage of arbitrary transfers.
+- **B:** Oral decisions weaken accountability.
+- **C:** Party membership jeopardises neutrality.
+- **D:** Unreviewed power increases political pressure.
 
-A. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-B. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-C. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-D. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-**Answer:** A
-**Explanation:** **Tolerance anchored in constitutional morality** is the controlling principle. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Tenure helps but cannot itself guarantee virtue.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-An officer says she tolerates a minority group by ignoring them entirely and providing no positive facilitation. Why does the constitutional-morality standard require more than passive non-interference? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Assertions alone are weak evidence.
+- **B:** Disclosure and reviews guard against capable misconduct.
+- **C:** Exams cannot guarantee private conduct.
+- **D:** The danger is misdirected drive, not all drive.
 
-A. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-B. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-C. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-D. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-**Answer:** B
-**Explanation:** **Tolerance anchored in constitutional morality** is the controlling principle. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Treat the hiring line as endorsed teaching, not original coinage.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-A department records 100 percent course completion on iGOT modules on empathy and objectivity but field audits reveal continued discrimination against Scheduled Tribe applicants. Which distinction between training exposure and ethical conduct does this gap illustrate? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Uniform channels can reproduce exclusion.
+- **B:** Hidden gatekeepers invite favouritism.
+- **C:** Access and auditability are jointly attainable.
+- **D:** Unrecorded promises resist review.
 
-A. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-B. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-C. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-D. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-**Answer:** C
-**Explanation:** **Mission Karmayogi operationalises values as competencies** is the controlling principle. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** A channel is not a service outcome.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-A citizen-facing office uses FRAC-based role mapping to identify empathy and communication gaps, assigns targeted learning modules and supplements them with citizen-feedback loops. Which institutional logic connects values training to observable service improvement? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Group stereotypes pre-judge individuals.
+- **B:** Equal targets do not fix unequal risks.
+- **C:** Hidden discretion risks favouritism.
+- **D:** Removing unequal barriers supports fair performance and probity.
 
-A. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-B. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-C. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-D. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-**Answer:** D
-**Explanation:** **Mission Karmayogi operationalises values as competencies** is the controlling principle. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Accommodation does not mean abandoning standards.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-A candidate equates the GS-IV foundational-values list with the Nolan seven without qualification. Which specific values are present in one list but absent from the other? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Declarations are proxies whose accuracy needs checking.
+- **B:** Omissions and concealment remain possible.
+- **C:** Independent review can corroborate disclosures.
+- **D:** Conduct still tests integrity.
 
-A. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-B. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-C. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-D. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-**Answer:** A
-**Explanation:** **Nolan principles overlap but are not identical to GS-IV list** is the controlling principle. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Compliance evidence is not proof of virtue.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-A training module presents the Nolan principles as the complete ethical framework for Indian civil servants. Why is it necessary to also address empathy, tolerance and compassion toward weaker sections to cover the UPSC syllabus fully? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Collective punishment ignores individual responsibility.
+- **B:** Safe coordination sustains rather than abandons the mission.
+- **C:** Reckless exposure may end rescue capacity.
+- **D:** Temporary withdrawal differs from permanent abandonment.
 
-A. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-B. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-C. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-D. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-**Answer:** B
-**Explanation:** **Nolan principles overlap but are not identical to GS-IV list** is the controlling principle. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Courage is not suicidal exposure.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-A candidate writes that integrity is important and lists adjectives without mentioning asset declarations, audit trails or any specific pressure scenario. Which structural element of a high-scoring answer is missing? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Group exclusion is another form of bias.
+- **B:** Unsubstantiated assurances are not comparisons.
+- **C:** Reviewable merit assessment resists arbitrary influence.
+- **D:** Retrospective rules conceal preference.
 
-A. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-B. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
-
-C. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-D. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-**Answer:** C
-**Explanation:** **Answer craft for foundational-values questions** is the controlling principle. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Neutrality does not require anti-political prejudice.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-Another candidate names integrity, describes the discretion-secrecy test, cites asset-declaration rules as the institutional proxy, gives a procurement example and notes that declarations monitor but cannot guarantee internalisation. Why does this architecture score higher? Which source-grounded ethical principle most precisely explains the case?
+- **A:** A closed file can hide non-resolution.
+- **B:** Better measures supplement rather than abolish records.
+- **C:** Deletion conceals rather than resolves grievances.
+- **D:** Dedication is demonstrated by citizen outcomes and auditability.
 
-A. Mission Karmayogi under the NPCSCB converts foundational values from informal socialisation into trainable competencies through the FRAC framework and the iGOT-Karmayogi digital platform; it demonstrates institutional commitment to values education but does not by itself prove ethical internalisation.
+**Trap:** Speed without remedy is a weak proxy.
 
-B. The Nolan Committee's seven principles of public life are selflessness, integrity, objectivity, accountability, openness, honesty and leadership; they overlap substantially with the GS-IV syllabus list but are not identical, since the syllabus adds empathy, tolerance and compassion while Nolan adds accountability and openness as separate principles.
-
-C. Tolerance in the GS-IV syllabus means respect for and acceptance of diversity of belief, culture and viewpoint; it is anchored in constitutional morality through Article 51A(e) and the duty of secular conduct, going beyond mere passive non-interference.
-
-D. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit.
-
-**Answer:** D
-**Explanation:** **Answer craft for foundational-values questions** is the controlling principle. A strong foundational-values answer names the value precisely, identifies the realistic pressure under which it is tested, names the institutional safeguard that operationalises or protects it, gives a concrete Indian example, and acknowledges the value's operational limit. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,24 +540,6 @@ The limit is real. Pure facilitation without regulatory backstops risks capture 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “To achieve holistic development goal, a civil servant acts as an enabler and active…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording from locally held official PDF: books/mains/UPSC Mains 2025 GS Paper 4.pdf, Q5(b). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “To achieve holistic development goal, a civil servant acts as an enabler and active…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2025 — 10 marks
 
@@ -885,24 +561,6 @@ The limit is that reason alone can rationalise any end. It must be anchored in l
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"For any kind of social re-engineering by successfully implementing welfare schemes, a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording from locally held official PDF: books/mains/UPSC Mains 2025 GS Paper 4.pdf, Q4(a). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"For any kind of social re-engineering by successfully implementing welfare schemes, a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2025 — 10 marks
 
@@ -924,24 +582,6 @@ The reasoned verdict is that devotion to duty gives both public accountability a
 
 ---
 
-**Demand decoding:** The directive **analyse** requires a direct position on “"One who is devoted to one's duty attains highest perfection in life." Analyse this…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"One who is devoted to one's duty attains highest perfection in life." Analyse this statement with reference to sense of responsibility and personal…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording from locally held official PDF: books/mains/UPSC Mains 2025 GS Paper 4.pdf, Q5(a). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"One who is devoted to one's duty attains highest perfection in life." Analyse this statement with reference to sense of responsibility and personal…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"One who is devoted to one's duty attains highest perfection in life." Analyse this…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2024 — 10 marks
 
@@ -963,25 +603,6 @@ The verdict is that gender-specific measures are not preferential treatment but 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"In Indian culture and value system, an equal opportunity has been provided irrespective of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording from locally held official PDF: books/mains/05 UPSC 2024 Paper-IV Final 1.pdf, Q6(a). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** The verdict is that gender-specific measures are not preferential treatment but the operationalisation of equal opportunity within a system that must practise the impartiality it demands from its officers. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"In Indian culture and value system, an equal opportunity has been provided irrespective of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2021 — 10 marks
 
@@ -1003,25 +624,6 @@ The verdict is that these values are indispensable because they protect the citi
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Neutral rendering: (b) Discuss why impartiality and non-partisanship are indispensable…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (b) Discuss why impartiality and non-partisanship are indispensable qualities for a civil servant.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed historical demand from 2021 GS-IV Q5(b); neutral rendering used because exact wording is not claimed from a locally held official PDF. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** The verdict is that these values are indispensable because they protect the citizen's right to equal, lawful and accountable governance. Their durability depends on institutional safeguards joining personal conviction. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (b) Discuss why impartiality and non-partisanship are indispensable qualities for a civil servant.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (b) Discuss why impartiality and non-partisanship are indispensable…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2021 — 10 marks
 
@@ -1043,25 +645,6 @@ The limitation is that trait-based assessment requires clear indicators and fair
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (a) Identify five ethical traits on which one can plot the performance…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (a) Identify five ethical traits on which one can plot the performance of a civil servant.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed historical demand from 2021 GS-IV Q1(a); neutral rendering used. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Five ethical traits suitable for assessing a civil servant's performance are integrity, impartiality, empathy, accountability and dedication to public service. Each can be operationally assessed. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (a) Identify five ethical traits on which one can plot the performance of a civil servant.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (a) Identify five ethical traits on which one can plot the performance…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2019 — 10 marks
 
@@ -1081,24 +664,6 @@ These principles overlap with but are not identical to the GS-IV syllabus list, 
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Neutral rendering: (a) Discuss the basic principles of public life and illustrate each with…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (a) Discuss the basic principles of public life and illustrate each with an example.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed historical demand from 2019 GS-IV Q1(a); neutral rendering used. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (a) Discuss the basic principles of public life and illustrate each with an example.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (a) Discuss the basic principles of public life and illustrate each with…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2018 — 10 marks
 
@@ -1120,24 +685,6 @@ The verdict is that the ethics-conduct distinction is not academic: it directly 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (b) Illustrate with examples the distinction between code of ethics and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (b) Illustrate with examples the distinction between code of ethics and code of conduct.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed historical demand from 2018 GS-IV Q1(b); neutral rendering used. ARC 2.2.6 is the primary source for the distinction. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (b) Illustrate with examples the distinction between code of ethics and code of conduct.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (b) Illustrate with examples the distinction between code of ethics and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2018 — 10 marks
 
@@ -1159,23 +706,6 @@ An attribution caution: Buffett endorsed this as a teaching but introduced the l
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (b) Illustrate with suitable examples Warren Buffett's idea that when…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (b) Illustrate with suitable examples Warren Buffett's idea that when hiring you look for integrity, intelligence and energy, and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (b) Illustrate with suitable examples Warren Buffett's idea that when hiring you look for integrity, intelligence and energy, and…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (b) Illustrate with suitable examples Warren Buffett's idea that when…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2019 — 20 marks
 
@@ -1197,27 +727,84 @@ The officer should not call off operations entirely. But dedication does not mea
 
 ---
 
+### Separately solved historical and paired GS-IV subparts
+
+The retained models above cover the specified subparts, not the entirety of every paired paper question. The following neutral renderings supply independent answers for remaining demands routed to this topic; none is an official UPSC answer key. The 2025 Mahavir Q4(b) is independently treated in the Ethics 06 workbook, its Indian-thought owner.
+
+#### Solved PYQ 11 — 2018 — 10 marks (Q1(a), neutral rendering)
+
+**Question:** Identify three basic values universal in civil services and explain their importance.
+
+**Source / status:** Audited 2018 GS-IV Q1(a) routing in the Ethics 04 Basic owner; neutral rendering.
+
+**Model solution**
+
+Integrity ensures that discretion is not sold or diverted: an officer must refuse an undisclosed benefit even where no inspection is likely. Impartiality makes appointments, contracts and entitlements answerable to public criteria rather than friendship or party loyalty; a returning officer should apply the same published scrutiny to every candidate. Dedication to public service connects lawful competence with actual citizen access: an elderly pensioner needs a working route to verification, not merely a correct form. These values protect trust, equal standing and practical delivery across departments and postings. They also depend on institutions: conflict disclosure, reasoned decisions and reviewable service standards guard against private lapses. Impartiality does not demand identical procedures where legitimate need requires an accessible accommodation. The test of a universal value is conduct under pressure, not its recitation at induction.
+
+---
+
+#### Solved PYQ 12 — 2018 — 10 marks (Q3(a), neutral rendering)
+
+**Question:** Distinguish actual and potential conflicts of interest, with examples.
+
+**Source / status:** Audited 2018 GS-IV Q3(a) routing in the Ethics 04 Basic owner, cross-owned with Ethics 09; independently reasoned model.
+
+**Model solution**
+
+An actual conflict exists when a present official decision intersects with a present private interest: a procurement officer evaluates a bid submitted by a company in which the officer has a financial stake. A potential conflict arises when circumstances could foreseeably produce such a clash, although no present decision does: the same officer expects to join the company's board after retirement while currently working in an unrelated unit. Disclosure is necessary in both cases; withdrawal from the particular decision or reassignment is needed when the relevant official power is engaged. An apparent conflict can also undermine trust when a reasonable, informed observer would suspect favour even absent a proven financial interest. The test is not whether the officer feels honest but whether the interest could distort, or seem to distort, entrusted judgment. Written disclosure and independent review preserve confidence without automatically imputing misconduct.
+
+---
+
+#### Solved PYQ 13 — 2019 — 10 marks (Q1(b), neutral rendering)
+
+**Question:** What does public servant mean, and what role is expected of one?
+
+**Source / status:** Audited 2019 GS-IV Q1(b) routing in the Ethics 04 Basic owner; neutral rendering.
+
+**Model solution**
+
+A public servant exercises entrusted public authority for collective benefit under law, not as a personal entitlement or party resource. The role therefore joins impartial implementation and truthful advice to the political executive with responsiveness to citizens, especially those disadvantaged by complex procedures. A district officer can publish eligibility criteria, offer assisted access to a pension process and record reasons for refusals while retaining scrutiny against fraud. Integrity is tested when no one observes the decision, objectivity when evidence challenges initial assumptions, and dedication when minimum formal compliance fails to deliver an entitlement. Enabling legitimate activity does not excuse evasion of safety rules; compassion does not authorise secret favour. Review, transparency and professional accountability transform an individual's claimed virtue into a dependable public service.
+
+---
+
+#### Solved PYQ 14 — 2021 — 10 marks (Q1(b), neutral rendering)
+
+**Question:** Name ten essential values for an effective public servant and explain means to prevent unethical behaviour.
+
+**Source / status:** Audited 2021 GS-IV Q1(b) routing in the Ethics 04 Basic owner; list is an analytical selection, not a purported official mandatory enumeration.
+
+**Model solution**
+
+Ten defensible values are integrity, impartiality, non-partisanship, objectivity, accountability, dedication, empathy, compassion, tolerance and courage. Each needs an observable safeguard: disclose interests before procurement; publish merit and eligibility criteria; record political instructions; supply evidence for decisions and an appeal; report results to citizens; track unresolved service requests; provide accessible counters for people facing barriers; offer rule-based assistance rather than private exemptions; protect lawful disagreement; and use protected escalation for wrongdoing. Recruitment and competency training can develop capacity, but course completions alone cannot verify conduct. Audit trails, independent review, fair tenure and grievance redress make unethical action less attractive and detection more likely. Even comprehensive controls cannot eliminate bad judgment; a culture of reason-giving and leadership by example remains necessary. Values are not ten free-floating adjectives but ten tests of how authority is actually used.
+
+---
+
+#### Solved PYQ 15 — 2021 — 10 marks (Q5(a), neutral rendering)
+
+**Question:** Examine the ethical dimensions of returning refugees to places where they may face persecution when the returning States claim democratic values.
+
+**Source / status:** Audited 2021 GS-IV Q5(a) routing in the Ethics 04 Basic owner; ethical analysis only, without an invented incident or universal domestic legal conclusion.
+
+**Model solution**
+
+A democracy's respect for human dignity and equal moral standing is tested where displaced people have little voice or electoral influence. Returning someone to a credible risk of persecution prioritises short-term political convenience over the person's safety and can violate the ethical principle of non-refoulement. Impartial assessment must consider individual danger, reliable country information and access to a fair hearing rather than nationality-based stereotypes. Empathy recognises trauma; objectivity demands evidence; compassion requires protective procedures. States also have legitimate border-administration and security responsibilities, so claims should be assessed and documented, not automatically accepted without checks. A reasoned decision should identify the feared harm, hear the person concerned, arrange competent independent review and avoid removal while a serious risk remains unresolved. Democratic legitimacy requires both accountable border decisions and protection against grave foreseeable harm.
+
+---
+
+#### Solved PYQ 16 — 2024 — 10 marks (Q6(b), neutral rendering)
+
+**Question:** Explain how Mission Karmayogi can develop civil servants' capacities and foundational values.
+
+**Source / status:** Audited 2024 GS-IV Q6(b) routing in the Ethics 04 Basic owner; independent neutral rendering, not an official answer key.
+
+**Model solution**
+
+Mission Karmayogi shifts civil-service development from reliance on informal socialisation toward competency-based learning. Its FRAC framework maps roles and competencies, while the iGOT-Karmayogi platform supports accessible learning across a career. For a grievance officer, a combination of procedural training, simulated hearings, ethical-case discussion and field feedback may improve capacity to hear vulnerable applicants without granting arbitrary favours. Values such as objectivity and empathy become credible only when they change recorded decisions and service outcomes. A certificate counts participation, not proof of integrity when no one watches. Departments should therefore pair learning with supervisor feedback, reasoned-order audits, citizen grievance evidence and institutional protection against partisan pressure. Competency training is a useful input; neither automated course completion nor any single appraisal metric establishes ethical conduct on its own.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: A rescue officer during a severe natural calamity finds team members…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: A rescue officer during a severe natural calamity finds team members assaulted by an angry crowd; some plead to call off rescue…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed historical demand from 2019 GS-IV Q7; neutral rendering used. Case study format, 250 words. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** The situation tests several foundational values simultaneously: dedication to public service, courage, empathy, objectivity and leadership. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: A rescue officer during a severe natural calamity finds team members assaulted by an angry crowd; some plead to call off rescue…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: A rescue officer during a severe natural calamity finds team members…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1235,23 +822,6 @@ The administrative implication is that recruitment tests primarily measure aptit
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish aptitude, attitude and value as objects of civil-service assessment. Illustrate…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish aptitude, attitude and value as objects of civil-service assessment. Illustrate each with one administrative example. Answer in 150…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish aptitude, attitude and value as objects of civil-service assessment. Illustrate each with one administrative example. Answer in 150…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish aptitude, attitude and value as objects of civil-service assessment. Illustrate…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1269,23 +839,6 @@ These mechanisms convert an unobservable trait into partially observable behavio
 
 ---
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why integrity is described as the hardest foundational value to test at…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain why integrity is described as the hardest foundational value to test at recruitment. What institutional mechanisms serve as continuous…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain why integrity is described as the hardest foundational value to test at recruitment. What institutional mechanisms serve as continuous…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain why integrity is described as the hardest foundational value to test at…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1305,23 +858,6 @@ The verdict is that durable non-partisanship requires both individual conviction
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the claim that non-partisanship is an institutional-design problem rather than a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Discuss the claim that non-partisanship is an institutional-design problem rather than a matter of personal character alone, drawing on the ARC's…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Discuss the claim that non-partisanship is an institutional-design problem rather than a matter of personal character alone, drawing on the ARC's…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Discuss the claim that non-partisanship is an institutional-design problem rather than a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1341,23 +877,6 @@ The verdict is that compassion and impartiality are not opposed. They become inc
 
 ---
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the tension between compassion toward weaker sections and impartial rule-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Analyse the tension between compassion toward weaker sections and impartial rule-application in welfare-scheme delivery. When does compassion-driven…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Analyse the tension between compassion toward weaker sections and impartial rule-application in welfare-scheme delivery. When does compassion-driven…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Analyse the tension between compassion toward weaker sections and impartial rule-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1377,23 +896,6 @@ The verdict is that a civil servant should be both enabler and regulator in cali
 
 ---
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “A civil servant must be an enabler and active facilitator of growth rather than a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A civil servant must be an enabler and active facilitator of growth rather than a regulator. Critically examine this proposition, suggesting specific…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A civil servant must be an enabler and active facilitator of growth rather than a regulator. Critically examine this proposition, suggesting specific…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A civil servant must be an enabler and active facilitator of growth rather than a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1414,21 +916,3 @@ The limitation is real. Institutional tests can be gamed: declarations filed, co
 The verdict is that foundational values are most durable when they are both personally internalised and institutionally operationalised. Design commitments make values testable, protectable and consequential; personal conviction makes them reliable where institutional observation fails.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the claim that foundational civil-service values are institutionally testable…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Evaluate the claim that foundational civil-service values are institutionally testable design commitments rather than personal adjectives.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Evaluate the claim that foundational civil-service values are institutionally testable design commitments rather than personal adjectives.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Evaluate the claim that foundational civil-service values are institutionally testable…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

@@ -4,207 +4,97 @@ topic_key: polity-48
 ---
 # Ministries, Departments and Central Secretariat — Solved Practice Workbook
 
-**Practice contract:** Exactly 32 original MCQs before verified PYQs; keys rotate `ABCD` eight times; every option has a unique explanation; every MCQ has a unique trap; exactly six original Mains models follow the verified PYQs.
+**Practice contract:** Forty original MCQs precede a separate solved key; every option has an independent explanation; every MCQ has its own trap; six original Mains models follow the verified PYQs.
 
 ## BASIC MCQS / REMEDIATION
 
 ### MCQ 1
 
-Article 53 is best understood as
+A presidential order is treated as the President's personal policy choice rather than an act within the constitutional executive chain. What does Article 53 actually vest?
 A. vesting Union executive power formally in the President, exercisable according to the Constitution
 B. creating the Cabinet Secretariat as a constitutional office
 C. allocating all Union subjects among departments
 D. making every executive decision a personal presidential act
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 1 turns on the proposition that vesting Union executive power formally in the President, exercisable according to the Constitution. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 1 is that vesting Union executive power formally in the President, exercisable according to the Constitution. Option B instead asserts that creating the Cabinet Secretariat as a constitutional office, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 1 is that vesting Union executive power formally in the President, exercisable according to the Constitution. Option C instead asserts that allocating all Union subjects among departments, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 1 is that vesting Union executive power formally in the President, exercisable according to the Constitution. Option D instead asserts that making every executive decision a personal presidential act, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 1:** Do not confuse formal vesting with personal administration.
-
 ### MCQ 2
 
-Article 73 principally concerns
+A proposed Union executive order addresses a subject outside Parliament's legislative competence, yet its drafter cites the President's formal executive authority alone. Which provision defines the Union power's federal reach?
 A. authentication of executive instruments
 B. the extent of Union executive power, broadly linked to Parliament's legislative field subject to federal limits
 C. the voting rights of ministers in Parliament
 D. the constitution of Cabinet Committees
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 2 is that the extent of Union executive power, broadly linked to Parliament's legislative field subject to federal limits. Option A instead asserts that authentication of executive instruments, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 2 turns on the proposition that the extent of Union executive power, broadly linked to Parliament's legislative field subject to federal limits. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 2 is that the extent of Union executive power, broadly linked to Parliament's legislative field subject to federal limits. Option C instead asserts that the voting rights of ministers in Parliament, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 2 is that the extent of Union executive power, broadly linked to Parliament's legislative field subject to federal limits. Option D instead asserts that the constitution of Cabinet Committees, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 2:** Extent of power is different from form and transaction.
-
 ### MCQ 3
 
-Which combination is correct?
+A minister claims that advising the President and answering collectively to the elected House are the same constitutional requirement. Which Article 74–75 pairing separates the two?
 A. Article 74—allocation among ministries; Article 75—authentication
 B. Article 74—ministerial voting; Article 75—treaty power
 C. Article 74—PM-led Council aids and advises; Article 75—collective responsibility to Lok Sabha
 D. Article 74—CAG audit; Article 75—judicial review
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 3 is that Article 74—PM-led Council aids and advises; Article 75—collective responsibility to Lok Sabha. Option A instead asserts that Article 74—allocation among ministries; Article 75—authentication, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 3 is that Article 74—PM-led Council aids and advises; Article 75—collective responsibility to Lok Sabha. Option B instead asserts that Article 74—ministerial voting; Article 75—treaty power, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 3 turns on the proposition that Article 74—PM-led Council aids and advises; Article 75—collective responsibility to Lok Sabha. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 3 is that Article 74—PM-led Council aids and advises; Article 75—collective responsibility to Lok Sabha. Option D instead asserts that Article 74—CAG audit; Article 75—judicial review, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 3:** Aid and advice and collective responsibility are adjacent but distinct.
-
 ### MCQ 4
 
-Article 88 allows a Union Minister to
+A minister who is not a member of the Rajya Sabha joins its debate and then requests a vote there solely by virtue of ministerial office. What participation-vote boundary applies?
 A. vote in both Houses whether or not a member
 B. vote only in joint sittings
 C. participate only in the House of membership
 D. speak and participate in either House and committees, but vote only where a member
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 4 is that speak and participate in either House and committees, but vote only where a member. Option A instead asserts that vote in both Houses whether or not a member, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 4 is that speak and participate in either House and committees, but vote only where a member. Option B instead asserts that vote only in joint sittings, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 4 is that speak and participate in either House and committees, but vote only where a member. Option C instead asserts that participate only in the House of membership, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 4 turns on the proposition that speak and participate in either House and committees, but vote only where a member. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 4:** Participation does not imply a cross-House vote.
-
 ### MCQ 5
 
-Under Article 77(1), executive action of the Government of India is
+An executive notification is expressed in the President's name but is not signed by the President personally. Which formal-expression requirement is relevant without inventing personal presidential decision-making?
 A. expressed to be taken in the President's name
 B. necessarily signed personally by the President
 C. immune from judicial review after authentication
 D. valid even without substantive competence
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 5 turns on the proposition that expressed to be taken in the President's name. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 5 is that expressed to be taken in the President's name. Option B instead asserts that necessarily signed personally by the President, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 5 is that expressed to be taken in the President's name. Option C instead asserts that immune from judicial review after authentication, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 5 is that expressed to be taken in the President's name. Option D instead asserts that valid even without substantive competence, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 5:** Formal expression is not personal authorship or immunity.
-
 ### MCQ 6
 
-The principal protection of proper authentication under Article 77(2) is that
+A litigant challenges a properly authenticated order solely because the President did not personally execute it, although a separate statutory-power objection remains. What precisely does authentication protect?
 A. it cures violation of every statute
 B. validity cannot be questioned merely because the order was not personally made or executed by the President
 C. it creates the substantive source of power
 D. it removes the need for a competent authority
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 6 is that validity cannot be questioned merely because the order was not personally made or executed by the President. Option A instead asserts that it cures violation of every statute, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 6 turns on the proposition that validity cannot be questioned merely because the order was not personally made or executed by the President. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 6 is that validity cannot be questioned merely because the order was not personally made or executed by the President. Option C instead asserts that it creates the substantive source of power, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 6 is that validity cannot be questioned merely because the order was not personally made or executed by the President. Option D instead asserts that it removes the need for a competent authority, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 6:** Authentication answers a formal objection, not every illegality.
-
 ### MCQ 7
 
-Article 77(3) is the source for rules concerning
+Two Union ministers dispute who should transact an assigned subject; neither Article 309 service rules nor a constitutional amendment is needed. Which Article supplies the business-rules authority?
 A. service recruitment and conditions exclusively
 B. constitutional amendment of ministries
 C. convenient transaction and allocation of Government of India business among ministers
 D. distribution of legislative fields between Union and States
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 7 is that convenient transaction and allocation of Government of India business among ministers. Option A instead asserts that service recruitment and conditions exclusively, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 7 is that convenient transaction and allocation of Government of India business among ministers. Option B instead asserts that constitutional amendment of ministries, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 7 turns on the proposition that convenient transaction and allocation of Government of India business among ministers. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 7 is that convenient transaction and allocation of Government of India business among ministers. Option D instead asserts that distribution of legislative fields between Union and States, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 7:** Article 309 is the service-rule trap; Article 77(3) is business.
-
 ### MCQ 8
 
-Which statement about Article 78 is correct?
+The President asks the Prime Minister for information about a pending Union proposal. Which constitutional duty governs the communication, without making the PMO a constitutional commission?
 A. It makes the PMO a constitutional body
 B. It authorises the PM to amend a parent Act
 C. It makes the Cabinet Secretary answerable to Rajya Sabha
 D. It requires the Prime Minister to communicate decisions/proposals and furnish information to the President
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 8 is that It requires the Prime Minister to communicate decisions/proposals and furnish information to the President. Option A instead asserts that It makes the PMO a constitutional body, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 8 is that It requires the Prime Minister to communicate decisions/proposals and furnish information to the President. Option B instead asserts that It authorises the PM to amend a parent Act, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 8 is that It requires the Prime Minister to communicate decisions/proposals and furnish information to the President. Option C instead asserts that It makes the Cabinet Secretary answerable to Rajya Sabha, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 8 turns on the proposition that It requires the Prime Minister to communicate decisions/proposals and furnish information to the President. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 8:** Article 78 concerns the PM-President information relationship.
-
 ### MCQ 9
 
-The Allocation of Business Rules primarily answer
+A policy proposal crosses two departments. Before applying consultation and Cabinet-submission procedures, what ownership question do the Allocation of Business Rules resolve?
 A. which governmental unit owns a subject
 B. which court reviews an executive order
 C. how a Bill is passed in Parliament
 D. how civil servants are recruited
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 9 turns on the proposition that which governmental unit owns a subject. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 9 is that which governmental unit owns a subject. Option B instead asserts that which court reviews an executive order, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 9 is that which governmental unit owns a subject. Option C instead asserts that how a Bill is passed in Parliament, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 9 is that which governmental unit owns a subject. Option D instead asserts that how civil servants are recruited, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 9:** Remember AoB as the address, not the travel route.
-
 ### MCQ 10
 
-Under the AoB Rules, the First Schedule principally identifies
+A new Secretariat is added by reorganisation and an official searches the subject-allocation schedule for the list of organisational units. Which schedule identifies the governmental units instead?
 A. mandatory Finance consultations
 B. Ministries, Departments, Secretariats and Offices through which business is transacted
 C. Cabinet cases requiring approval
 D. constitutional bodies only
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 10 is that Ministries, Departments, Secretariats and Offices through which business is transacted. Option A instead asserts that mandatory Finance consultations, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 10 turns on the proposition that Ministries, Departments, Secretariats and Offices through which business is transacted. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 10 is that Ministries, Departments, Secretariats and Offices through which business is transacted. Option C instead asserts that Cabinet cases requiring approval, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 10 is that Ministries, Departments, Secretariats and Offices through which business is transacted. Option D instead asserts that constitutional bodies only, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 10:** First Schedule unit-listing must not be exchanged with Second Schedule subjects.
-
 ### MCQ 11
 
-The Second Schedule to the AoB Rules principally
+A ministry exists in the First Schedule, but two departments dispute who owns a particular subject. Which role of the Second Schedule resolves the dispute?
 A. lists ministerial oaths
 B. fixes Cabinet Committee composition
 C. distributes governmental subjects among departments
 D. creates statutory regulators
-
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 11 is that distributes governmental subjects among departments. Option A instead asserts that lists ministerial oaths, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 11 is that distributes governmental subjects among departments. Option B instead asserts that fixes Cabinet Committee composition, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 11 turns on the proposition that distributes governmental subjects among departments. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 11 is that distributes governmental subjects among departments. Option D instead asserts that creates statutory regulators, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 11:** Subject distribution is administrative allocation, not statutory creation.
 
 ### MCQ 12
 
@@ -214,33 +104,13 @@ B. automatically amends every statute
 C. can disregard an authority named in a parent Act
 D. ordinarily can rename/merge/split units, but cannot override statutory assignments
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 12 is that ordinarily can rename/merge/split units, but cannot override statutory assignments. Option A instead asserts that always requires Article 368 amendment, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 12 is that ordinarily can rename/merge/split units, but cannot override statutory assignments. Option B instead asserts that automatically amends every statute, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 12 is that ordinarily can rename/merge/split units, but cannot override statutory assignments. Option C instead asserts that can disregard an authority named in a parent Act, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 12 turns on the proposition that ordinarily can rename/merge/split units, but cannot override statutory assignments. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 12:** Flexible organisation remains subordinate to legislation.
-
 ### MCQ 13
 
-Rule 3 of the ToB framework means ordinary departmental business is generally disposed of
+A secretary submits every routine departmental file to the full Cabinet on the theory that no minister may dispose of ordinary business. What is Rule 3's default chain of disposal?
 A. by or under directions of the Minister-in-charge, subject to consultation and higher-submission rules
 B. only by the Cabinet
 C. only by the President personally
 D. only by the Cabinet Secretary
-
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 13 turns on the proposition that by or under directions of the Minister-in-charge, subject to consultation and higher-submission rules. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 13 is that by or under directions of the Minister-in-charge, subject to consultation and higher-submission rules. Option B instead asserts that only by the Cabinet, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 13 is that by or under directions of the Minister-in-charge, subject to consultation and higher-submission rules. Option C instead asserts that only by the President personally, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 13 is that by or under directions of the Minister-in-charge, subject to consultation and higher-submission rules. Option D instead asserts that only by the Cabinet Secretary, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 13:** Departmental disposal is the norm; apex submission is reserved.
 
 ### MCQ 14
 
@@ -250,321 +120,141 @@ B. affected departments concur or the disagreement follows an authorised collect
 C. the PMO automatically becomes the legal owner
 D. the file must be abandoned
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 14 is that affected departments concur or the disagreement follows an authorised collective resolution route. Option A instead asserts that the sponsoring department decides unilaterally, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 14 turns on the proposition that affected departments concur or the disagreement follows an authorised collective resolution route. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 14 is that affected departments concur or the disagreement follows an authorised collective resolution route. Option C instead asserts that the PMO automatically becomes the legal owner, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 14 is that affected departments concur or the disagreement follows an authorised collective resolution route. Option D instead asserts that the file must be abandoned, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 14:** Consultation preserves other departments' jurisdiction; it does not transfer it.
-
 ### MCQ 15
 
-According to the Cabinet Secretariat's official summary, cases for Cabinet approval are indicated in the
+A disputed matter requires Cabinet approval under the business procedure; an official searches the Allocation Rules' organisational schedule instead. Where are Cabinet-submission cases indicated?
 A. First Schedule to the AoB Rules
 B. Third Schedule to the ToB Rules
 C. Second Schedule to the ToB Rules
 D. Eighth Schedule to the Constitution
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 15 is that Second Schedule to the ToB Rules. Option A instead asserts that First Schedule to the AoB Rules, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 15 is that Second Schedule to the ToB Rules. Option B instead asserts that Third Schedule to the ToB Rules, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 15 turns on the proposition that Second Schedule to the ToB Rules. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 15 is that Second Schedule to the ToB Rules. Option D instead asserts that Eighth Schedule to the Constitution, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 15:** Do not mix AoB schedules with ToB submission schedules.
-
 ### MCQ 16
 
-Rule 12 departure from the ToB Rules is most accurately described as
+A minister purports to use an exceptional departure from transaction rules as authority to waive a parent Act. Who may permit or condone procedural departure, and what higher-law limit persists?
 A. a power of any Secretary to waive the Constitution
 B. a permanent repeal of consultation duties
 C. a power of a minister to amend a statute
 D. a PM power to permit or condone a departure to the necessary extent, still bounded by higher law
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 16 is that a PM power to permit or condone a departure to the necessary extent, still bounded by higher law. Option A instead asserts that a power of any Secretary to waive the Constitution, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 16 is that a PM power to permit or condone a departure to the necessary extent, still bounded by higher law. Option B instead asserts that a permanent repeal of consultation duties, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 16 is that a PM power to permit or condone a departure to the necessary extent, still bounded by higher law. Option C instead asserts that a power of a minister to amend a statute, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 16 turns on the proposition that a PM power to permit or condone a departure to the necessary extent, still bounded by higher law. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 16:** Internal departure authority cannot waive the Constitution or statute.
-
 ### MCQ 17
 
-A portfolio is
+The Prime Minister assigns a minister responsibility for a policy area but does not create a new administrative department. What is the assigned political charge called?
 A. political charge assigned to a minister
 B. the basic clerical unit of a department
 C. always a separate ministry
 D. a statutory regulator
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 17 turns on the proposition that political charge assigned to a minister. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 17 is that political charge assigned to a minister. Option B instead asserts that the basic clerical unit of a department, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 17 is that political charge assigned to a minister. Option C instead asserts that always a separate ministry, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 17 is that political charge assigned to a minister. Option D instead asserts that a statutory regulator, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 17:** Portfolio answers political charge, not administrative form.
-
 ### MCQ 18
 
-A department is best described as
+An allocated policy subject is administered by a Secretary within a ministry rather than by the whole Cabinet or a company. What kind of governmental unit owns the work?
 A. a committee of ministers
 B. an allocated subject-based administrative unit under a Secretary or equivalent
 C. the complete Council of Ministers
 D. a public sector company
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 18 is that an allocated subject-based administrative unit under a Secretary or equivalent. Option A instead asserts that a committee of ministers, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 18 turns on the proposition that an allocated subject-based administrative unit under a Secretary or equivalent. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 18 is that an allocated subject-based administrative unit under a Secretary or equivalent. Option C instead asserts that the complete Council of Ministers, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 18 is that an allocated subject-based administrative unit under a Secretary or equivalent. Option D instead asserts that a public sector company, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 18:** Department and ministry can overlap in ordinary speech but are not analytically identical.
-
 ### MCQ 19
 
-The Central Secretariat is
+A visitor equates the Central Secretariat with a single building or with the PMO alone. Which functional account captures its policy and coordination machinery?
 A. the same as the PMO
 B. one building with constitutional status
 C. the collective policy and coordination machinery of Union ministries/departments
 D. the field administration of every scheme
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 19 is that the collective policy and coordination machinery of Union ministries/departments. Option A instead asserts that the same as the PMO, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 19 is that the collective policy and coordination machinery of Union ministries/departments. Option B instead asserts that one building with constitutional status, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 19 turns on the proposition that the collective policy and coordination machinery of Union ministries/departments. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 19 is that the collective policy and coordination machinery of Union ministries/departments. Option D instead asserts that the field administration of every scheme, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 19:** Central Secretariat is an aggregate machinery, not one central office.
-
 ### MCQ 20
 
-The Secretary's proper role is to
+A Secretary spots a legal defect in a minister's proposal but is urged to suppress the objection as politically inconvenient. What combination of advice and delegated administration is proper?
 A. replace the minister's political judgment
 B. send every file to the Cabinet
 C. avoid recording inconvenient advice
 D. provide frank lawful advice, organise due process and ensure delegated administration
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 20 is that provide frank lawful advice, organise due process and ensure delegated administration. Option A instead asserts that replace the minister's political judgment, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 20 is that provide frank lawful advice, organise due process and ensure delegated administration. Option B instead asserts that send every file to the Cabinet, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 20 is that provide frank lawful advice, organise due process and ensure delegated administration. Option C instead asserts that avoid recording inconvenient advice, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 20 turns on the proposition that provide frank lawful advice, organise due process and ensure delegated administration. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 20:** Neutrality means professional advice and lawful implementation, not political veto.
-
 ### MCQ 21
 
-An attached office commonly performs
+A ministry needs specialised technical information and detailed executive direction rather than Cabinet-level political approval or district-level routine service delivery. Which office type is normally suited?
 A. detailed executive direction, technical support or specialised information functions
 B. collective Cabinet decision-making
 C. constitutional amendment
 D. independent parliamentary audit
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 21 turns on the proposition that detailed executive direction, technical support or specialised information functions. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 21 is that detailed executive direction, technical support or specialised information functions. Option B instead asserts that collective Cabinet decision-making, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 21 is that detailed executive direction, technical support or specialised information functions. Option C instead asserts that constitutional amendment, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 21 is that detailed executive direction, technical support or specialised information functions. Option D instead asserts that independent parliamentary audit, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 21:** The label is administrative and actual powers still depend on the instrument.
-
 ### MCQ 22
 
-A subordinate office commonly focuses on
+A national policy is settled in the Secretariat, but inspections and citizen-facing implementation are still required locally. What is the usual operational focus of a subordinate office?
 A. Cabinet agenda preparation
 B. field execution, enforcement or service delivery
 C. allocating portfolios
 D. presidential reconsideration of advice
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 22 is that field execution, enforcement or service delivery. Option A instead asserts that Cabinet agenda preparation, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 22 turns on the proposition that field execution, enforcement or service delivery. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 22 is that field execution, enforcement or service delivery. Option C instead asserts that allocating portfolios, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 22 is that field execution, enforcement or service delivery. Option D instead asserts that presidential reconsideration of advice, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 22:** Subordinate does not mean lawless or necessarily powerless.
-
 ### MCQ 23
 
-An autonomous body's autonomy is principally determined by
+A grant-funded body claims total freedom from audit because its name includes 'autonomous'. Which instruments and financial relationships define its actual independence?
 A. a universal constitutional formula
 B. the personal preference of the minister
 C. its governing statute/instrument, finance and oversight arrangements
 D. absence of all audit
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 23 is that its governing statute/instrument, finance and oversight arrangements. Option A instead asserts that a universal constitutional formula, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 23 is that its governing statute/instrument, finance and oversight arrangements. Option B instead asserts that the personal preference of the minister, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 23 turns on the proposition that its governing statute/instrument, finance and oversight arrangements. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 23 is that its governing statute/instrument, finance and oversight arrangements. Option D instead asserts that absence of all audit, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 23:** Grant support and autonomy can coexist.
-
 ### MCQ 24
 
-Ministerial stewardship over a statutory regulator
+A minister asserts budget oversight permits oral reversal of a regulator's protected adjudicatory order. What boundary on ministerial stewardship follows from the parent statute?
 A. permits oral reversal of any adjudicatory order
 B. abolishes statutory appeals
 C. makes the regulator a department
 D. must remain within the parent Act and cannot displace lawful decisional independence
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 24 is that must remain within the parent Act and cannot displace lawful decisional independence. Option A instead asserts that permits oral reversal of any adjudicatory order, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 24 is that must remain within the parent Act and cannot displace lawful decisional independence. Option B instead asserts that abolishes statutory appeals, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 24 is that must remain within the parent Act and cannot displace lawful decisional independence. Option C instead asserts that makes the regulator a department, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 24 turns on the proposition that must remain within the parent Act and cannot displace lawful decisional independence. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 24:** Policy oversight is not case-specific appellate control.
-
 ### MCQ 25
 
-The Cabinet Secretariat officially
+A department asks which institution maintains transaction/allocation procedure and services Cabinet meetings; a colleague mistakenly nominates the entire Central Secretariat. Which body carries that procedural function?
 A. administers the AoB/ToB Rules and supports Cabinet/Cabinet Committee processes
 B. functions as the whole Central Secretariat
 C. is headed politically by the Cabinet Secretary
 D. enacts parent statutes
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 25 turns on the proposition that administers the AoB/ToB Rules and supports Cabinet/Cabinet Committee processes. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 25 is that administers the AoB/ToB Rules and supports Cabinet/Cabinet Committee processes. Option B instead asserts that functions as the whole Central Secretariat, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 25 is that administers the AoB/ToB Rules and supports Cabinet/Cabinet Committee processes. Option C instead asserts that is headed politically by the Cabinet Secretary, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 25 is that administers the AoB/ToB Rules and supports Cabinet/Cabinet Committee processes. Option D instead asserts that enacts parent statutes, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 25:** Cabinet Secretary is an official, not a Cabinet Minister.
-
 ### MCQ 26
 
-A Committee of Secretaries is
+Several departments need senior-official coordination without forming either a parliamentary committee or a Cabinet Committee of ministers. What kind of forum fits?
 A. a parliamentary committee
 B. an administrative coordination mechanism, generally chaired by the Cabinet Secretary
 C. a constitutional court
 D. a committee consisting only of ministers
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 26 is that an administrative coordination mechanism, generally chaired by the Cabinet Secretary. Option A instead asserts that a parliamentary committee, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 26 turns on the proposition that an administrative coordination mechanism, generally chaired by the Cabinet Secretary. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 26 is that an administrative coordination mechanism, generally chaired by the Cabinet Secretary. Option C instead asserts that a constitutional court, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 26 is that an administrative coordination mechanism, generally chaired by the Cabinet Secretary. Option D instead asserts that a committee consisting only of ministers, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 26:** Committee of Secretaries and Cabinet Committee are close-option opposites.
-
 ### MCQ 27
 
-The PMO is best distinguished from the Cabinet Secretariat because the PMO
+Two briefs need different routes: one assists the Prime Minister directly, the other supports Cabinet-wide procedure. Which distinction identifies the PMO's role?
 A. is the custodian of all Cabinet papers by definition
 B. allocates legislative fields
 C. supports the Prime Minister directly, while the Cabinet Secretariat supports collective Cabinet procedure
 D. is a constitutional commission
 
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 27 is that supports the Prime Minister directly, while the Cabinet Secretariat supports collective Cabinet procedure. Option A instead asserts that is the custodian of all Cabinet papers by definition, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 27 is that supports the Prime Minister directly, while the Cabinet Secretariat supports collective Cabinet procedure. Option B instead asserts that allocates legislative fields, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 27 turns on the proposition that supports the Prime Minister directly, while the Cabinet Secretariat supports collective Cabinet procedure. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 27 is that supports the Prime Minister directly, while the Cabinet Secretariat supports collective Cabinet procedure. Option D instead asserts that is a constitutional commission, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 27:** Both work around the PM but have different institutional clients.
-
 ### MCQ 28
 
-A Cabinet Committee is
+Selected ministers consider a specialised cross-cutting policy question under business procedure, not as a court or a meeting of Secretaries. What is the decision forum?
 A. necessarily listed in the Constitution
 B. identical to a Committee of Secretaries
 C. a judicial body
 D. a selected-minister mechanism for specialised political consideration under business procedure
 
-**Answer: D.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 28 is that a selected-minister mechanism for specialised political consideration under business procedure. Option A instead asserts that necessarily listed in the Constitution, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 28 is that a selected-minister mechanism for specialised political consideration under business procedure. Option B instead asserts that identical to a Committee of Secretaries, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 28 is that a selected-minister mechanism for specialised political consideration under business procedure. Option C instead asserts that a judicial body, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 28 turns on the proposition that a selected-minister mechanism for specialised political consideration under business procedure. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-
-**Examiner trap 28:** Names and number change; mechanism is the durable fact.
-
 ### MCQ 29
 
-In file procedure, noting is primarily
+Before issuing a final communication, an officer records legal issues, competing options and a recommendation in an e-file. Which file-process stage is being performed?
 A. recorded examination of facts, rules, issues, options and recommendation
 B. the final external communication alone
 C. an oral direction that need not enter the record
 D. the same as statutory publication
 
-**Answer: A.**
-
-**Option-specific explanations:**
-- **A — Correct:** Question 29 turns on the proposition that recorded examination of facts, rules, issues, options and recommendation. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **B — Incorrect:** The controlling proposition in Question 29 is that recorded examination of facts, rules, issues, options and recommendation. Option B instead asserts that the final external communication alone, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 29 is that recorded examination of facts, rules, issues, options and recommendation. Option C instead asserts that an oral direction that need not enter the record, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 29 is that recorded examination of facts, rules, issues, options and recommendation. Option D instead asserts that the same as statutory publication, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 29:** Noting and drafting perform different stages.
-
 ### MCQ 30
 
-e-Office reform
+A department migrates to e-Office and claims searchable audit trails dispense with archival retention and cyber/privacy safeguards. Which reform outcome can it legitimately expect?
 A. creates legal competence by digitisation
-B. changes the processing medium and traceability, not the source of authority
+B. improves processing and traceability while leaving record-retention and cyber/privacy duties intact
 C. removes record-retention duties
 D. eliminates cyber and privacy risks
 
-**Answer: B.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 30 is that changes the processing medium and traceability, not the source of authority. Option A instead asserts that creates legal competence by digitisation, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Correct:** Question 30 turns on the proposition that changes the processing medium and traceability, not the source of authority. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **C — Incorrect:** The controlling proposition in Question 30 is that changes the processing medium and traceability, not the source of authority. Option C instead asserts that removes record-retention duties, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Incorrect:** The controlling proposition in Question 30 is that changes the processing medium and traceability, not the source of authority. Option D instead asserts that eliminates cyber and privacy risks, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 30:** Paperless is not procedure-less.
-
 ### MCQ 31
 
-Delegated legislation by a ministry must ultimately rest on
+A ministry publishes a rule based solely on its subject allocation and a press announcement, though no parent enactment confers rule-making power. What must supply authority for the rule?
 A. the AoB Rules alone
 B. a press announcement
 C. authority conferred by the Constitution/statute and compliance with the parent framework
 D. a PMU recommendation
-
-**Answer: C.**
-
-**Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 31 is that authority conferred by the Constitution/statute and compliance with the parent framework. Option A instead asserts that the AoB Rules alone, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 31 is that authority conferred by the Constitution/statute and compliance with the parent framework. Option B instead asserts that a press announcement, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Correct:** Question 31 turns on the proposition that authority conferred by the Constitution/statute and compliance with the parent framework. This option states that proposition without enlarging its legal effect or changing the responsible institution.
-- **D — Incorrect:** The controlling proposition in Question 31 is that authority conferred by the Constitution/statute and compliance with the parent framework. Option D instead asserts that a PMU recommendation, so it misplaces the source, function, authority or consequence tested by the stem.
-
-**Examiner trap 31:** Administrative ownership does not equal substantive rule-making power.
 
 ### MCQ 32
 
@@ -574,15 +264,567 @@ B. creates blanket sovereign immunity
 C. automatically establishes liability in every claim
 D. allows the Government of India to sue or be sued as the Union of India, while substantive liability remains separately governed
 
+### MCQ 33. Minister and statute
+
+An Allocation of Business revision moves a subject to a different department, but its parent statute still names a particular decision-maker. What follows?
+
+A. The business-rule change cannot by itself transfer powers vested by the parent statute; any exercise must meet the statute's terms.
+B. The new department automatically acquires every judicial power in the parent statute.
+C. Article 77(3) itself repeals the conflicting statutory provision.
+D. The Cabinet Secretary can waive the statute by administrative direction.
+
+### MCQ 34. Consultation and ownership
+
+A proposal assigned to one department also has major spending implications for another. Which procedure is sound?
+
+A. The originating department need never seek concurrence if it has subject ownership.
+B. Allocation identifies lead responsibility; transaction rules require prescribed consultation and escalation if disagreement remains.
+C. Finance consultation transfers the whole subject permanently to the Finance Ministry.
+D. The Cabinet Secretariat may enact expenditure authority without appropriation.
+
+### MCQ 35. Responsibility and file noting
+
+An officer records a legally grounded objection to a proposal, and the competent minister selects a different lawful policy option. What is the proper inference?
+
+A. Officers have a veto over all lawful ministerial decisions.
+B. Lawful ministerial direction makes recording advice improper.
+C. Frank recorded advice and implementation of the final lawful decision can coexist; accountability follows the authorised decision chain.
+D. The officer must destroy the earlier note to preserve collective responsibility.
+
+### MCQ 36. Cabinet versus Cabinet Secretariat
+
+Which contrast correctly separates a Cabinet Committee from the Cabinet Secretariat?
+
+A. Both are courts created under Article 323A.
+B. The Secretariat consists only of elected ministers deciding every file.
+C. Cabinet Committees are civil-service coordination meetings chaired only by Secretaries.
+D. A Cabinet Committee is a ministerial decision forum; the Cabinet Secretariat provides procedural and coordination support to collective decision-making.
+
+### MCQ 37. Field versus policy office
+
+A department formulates national policy while subordinate units deliver services in districts. Which classification is most helpful?
+
+A. Secretariat policy and coordination are distinguishable from field execution, although actual legal powers depend on each governing instrument.
+B. Every subordinate office has an independent constitutional power to amend policy.
+C. Attached and subordinate offices must always have the same statutory status.
+D. A field office automatically becomes a ministry once it delivers services.
+
+### MCQ 38. Digital trace and legality
+
+An e-Office system shows approval by an official without the statutory delegation needed for the decision. Which proposition is correct?
+
+A. A digital timestamp cures all absence of competence.
+B. Electronic traceability helps audit the decision but does not supply missing legal authority.
+C. Digitisation itself substitutes for consultation specified by law.
+D. An electronic record is exempt from judicial scrutiny.
+
+### MCQ 39. Regulator and ministry
+
+A statute protects a regulator's adjudicatory independence but gives its ministry budget oversight. Which statement best reconciles the roles?
+
+A. Budget oversight entitles the minister to reverse particular decisions orally.
+B. Independence extinguishes parliamentary scrutiny of public expenditure.
+C. Administrative and financial accountability may coexist with protected decisional independence within the governing statute.
+D. The regulator becomes a Cabinet Committee when receiving a grant.
+
+### MCQ 40. Dynamic ministry mapping
+
+A question asks which Union ministry is responsible for a body after a recent reallocation. Which method avoids a false static count or mapping?
+
+A. Assume institutional names and departmental allocations never change.
+B. Deduce the current portfolio from a historic textbook chart alone.
+C. Infer ownership from the body's title without checking government instruments.
+D. Check the dated Allocation of Business schedule and the body's parent instrument, distinguishing allocation from statutory control.
+
+### SOLVED KEY - ORIGINAL MCQS 1-40
+
+### Solution 1
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Article 53 formally vests executive power in the President while constitutional advice governs its exercise.
+- **B:** Cabinet Secretariat is created through executive arrangements, not Article 53.
+- **C:** Subject allocation belongs to the Article 77 business rules.
+- **D:** Formal presidential vesting is not personal administration of every decision.
+
+**Examiner trap 1:** Do not confuse formal vesting with personal administration.
+
+### Solution 2
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** Authentication belongs to Article 77(2).
+- **B:** Article 73 addresses the extent of Union executive power within federal limits.
+- **C:** Ministerial participation belongs to Article 88.
+- **D:** Cabinet Committees arise in transaction arrangements, not Article 73.
+
+**Examiner trap 2:** Extent of power is different from form and transaction.
+
+### Solution 3
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** Article 77, not 74/75, deals with executive allocation and authentication.
+- **B:** Article 88 deals with ministerial participation; Article 75 is not a treaty-power clause.
+- **C:** Article 74 provides aid and advice while Article 75(3) fixes collective responsibility to Lok Sabha.
+- **D:** CAG audit and judicial review do not arise from the indicated clauses.
+
+**Examiner trap 3:** Aid and advice and collective responsibility are adjacent but distinct.
+
+### Solution 4
+
 **Answer: D.**
 
 **Option-specific explanations:**
-- **A — Incorrect:** The controlling proposition in Question 32 is that allows the Government of India to sue or be sued as the Union of India, while substantive liability remains separately governed. Option A instead asserts that makes every PSU identical to the Union, so it misplaces the source, function, authority or consequence tested by the stem.
-- **B — Incorrect:** The controlling proposition in Question 32 is that allows the Government of India to sue or be sued as the Union of India, while substantive liability remains separately governed. Option B instead asserts that creates blanket sovereign immunity, so it misplaces the source, function, authority or consequence tested by the stem.
-- **C — Incorrect:** The controlling proposition in Question 32 is that allows the Government of India to sue or be sued as the Union of India, while substantive liability remains separately governed. Option C instead asserts that automatically establishes liability in every claim, so it misplaces the source, function, authority or consequence tested by the stem.
-- **D — Correct:** Question 32 turns on the proposition that allows the Government of India to sue or be sued as the Union of India, while substantive liability remains separately governed. This option states that proposition without enlarging its legal effect or changing the responsible institution.
+- **A:** Article 88 grants no voting right outside House membership.
+- **B:** Participation is not confined to joint sittings.
+- **C:** A minister can speak in the other House even without its membership.
+- **D:** Article 88 enables ministerial participation but voting depends on House membership.
+
+**Examiner trap 4:** Participation does not imply a cross-House vote.
+
+### Solution 5
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Article 77(1) prescribes expression of Union action in the President's name.
+- **B:** Article 77 does not require each instrument to bear the President's personal signature.
+- **C:** Authentication does not immunise unlawful orders from review.
+- **D:** Correct executive form cannot manufacture substantive competence.
+
+**Examiner trap 5:** Formal expression is not personal authorship or immunity.
+
+### Solution 6
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** Authentication cannot cure violation of the parent statute.
+- **B:** Article 77(2) protects authentication against the narrow personal-execution objection.
+- **C:** Article 77(2) concerns form and does not confer substantive power.
+- **D:** Lawful competence must exist independently of authentication.
+
+**Examiner trap 6:** Authentication answers a formal objection, not every illegality.
+
+### Solution 7
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** Article 77(3) governs transaction and allocation, not recruitment alone.
+- **B:** Business rules cannot amend constitutional provisions.
+- **C:** Article 77(3) authorises convenient transaction and allocation rules.
+- **D:** The Seventh Schedule regulates legislative fields.
+
+**Examiner trap 7:** Article 309 is the service-rule trap; Article 77(3) is business.
+
+### Solution 8
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** Article 78 creates no constitutional PMO.
+- **B:** Informational duties do not empower the PM to amend legislation.
+- **C:** Article 78 deals with PM-to-President communication, not this accountability claim.
+- **D:** Article 78 requires the PM to keep the President informed as specified.
+
+**Examiner trap 8:** Article 78 concerns the PM-President information relationship.
+
+### Solution 9
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** AoB allocates subject ownership among governmental units.
+- **B:** Court jurisdiction is not established by the AoB schedules.
+- **C:** Passing a Bill follows parliamentary legislative procedure.
+- **D:** Recruitment is governed by service-law provisions.
+
+**Examiner trap 9:** Remember AoB as the address, not the travel route.
+
+### Solution 10
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** Finance consultation is not the AoB First Schedule listing.
+- **B:** AoB First Schedule identifies ministries and other business units.
+- **C:** Cabinet referral cases occur in ToB rules.
+- **D:** The First Schedule lists executive units, not exclusively constitutional bodies.
+
+**Examiner trap 10:** First Schedule unit-listing must not be exchanged with Second Schedule subjects.
+
+### Solution 11
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** Oaths derive from constitutional provisions.
+- **B:** Cabinet Committee formation is not the AoB subject schedule.
+- **C:** AoB Second Schedule allocates governmental subjects.
+- **D:** Allocating subjects cannot itself establish a statutory regulator.
+
+**Examiner trap 11:** Subject distribution is administrative allocation, not statutory creation.
+
+### Solution 12
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** Ordinary administrative restructuring need not use Article 368.
+- **B:** Executive reassignment does not amend every governing statute.
+- **C:** A named statutory decision-maker cannot be ignored by business rules.
+- **D:** Business reorganisation remains subordinate to statutory assignments.
+
+**Examiner trap 12:** Flexible organisation remains subordinate to legislation.
+
+### Solution 13
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Ordinary department decisions follow the minister-in-charge and authorised delegation.
+- **B:** Routine business does not invariably go to Cabinet.
+- **C:** The President does not personally decide every departmental file.
+- **D:** Cabinet Secretary coordination does not replace a minister-in-charge.
+
+**Examiner trap 13:** Departmental disposal is the norm; apex submission is reserved.
+
+### Solution 14
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** An affected department may require consultation notwithstanding lead ownership.
+- **B:** Interdepartmental concurrence or authorised escalation manages overlapping business.
+- **C:** PMO involvement does not change legal subject allocation.
+- **D:** Unresolved differences can follow an escalation process.
+
+**Examiner trap 14:** Consultation preserves other departments' jurisdiction; it does not transfer it.
+
+### Solution 15
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** AoB First Schedule identifies executive units.
+- **B:** The relevant Cabinet-submission list is the ToB Second Schedule.
+- **C:** Cabinet-submission cases are specified by the ToB Second Schedule.
+- **D:** Eighth Schedule to the Constitution concerns languages.
+
+**Examiner trap 15:** Do not mix AoB schedules with ToB submission schedules.
+
+### Solution 16
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** A Secretary cannot waive the Constitution.
+- **B:** Case-specific departure is not permanent repeal.
+- **C:** Rule 12 cannot amend a statute.
+- **D:** Rule 12 allows PM-authorised departure only within higher-law bounds.
+
+**Examiner trap 16:** Internal departure authority cannot waive the Constitution or statute.
+
+### Solution 17
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Portfolio means political ministerial charge, not administrative unit.
+- **B:** The clerical unit is a section, not a ministerial portfolio.
+- **C:** One minister can hold several portfolios without new ministries.
+- **D:** Regulators have governing instruments distinct from portfolios.
+
+**Examiner trap 17:** Portfolio answers political charge, not administrative form.
+
+### Solution 18
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** A ministers' committee is a political forum, not a department.
+- **B:** A department is a subject-based unit under a Secretary or equivalent.
+- **C:** The entire Council of Ministers is not an individual administrative unit.
+- **D:** A public-sector company has separate corporate identity.
+
+**Examiner trap 18:** Department and ministry can overlap in ordinary speech but are not analytically identical.
+
+### Solution 19
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** PMO is not coextensive with ministries' collective policy machinery.
+- **B:** The Secretariat is not a constitutionally designated building.
+- **C:** Central Secretariat comprises Union ministries' policy and coordination machinery.
+- **D:** Field implementation differs from central policy coordination.
+
+**Examiner trap 19:** Central Secretariat is an aggregate machinery, not one central office.
+
+### Solution 20
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** Civil servants advise; elected ministers retain political judgment.
+- **B:** Only designated cases reach the Cabinet.
+- **C:** Suppressing adverse advice destroys accountable records.
+- **D:** Secretary owes candid lawful advice and management of due process.
+
+**Examiner trap 20:** Neutrality means professional advice and lawful implementation, not political veto.
+
+### Solution 21
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** An attached office often provides technical and specialist executive support.
+- **B:** Attached offices do not replace Cabinet political deliberation.
+- **C:** An attached office cannot amend the Constitution.
+- **D:** Independent CAG audit is not the usual attached-office function.
+
+**Examiner trap 21:** The label is administrative and actual powers still depend on the instrument.
+
+### Solution 22
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** Cabinet agenda coordination is a different secretariat function.
+- **B:** Subordinate offices typically implement and deliver services in the field.
+- **C:** Portfolio allocation is not field service delivery.
+- **D:** Presidential reconsideration is not a subordinate office duty.
+
+**Examiner trap 22:** Subordinate does not mean lawless or necessarily powerless.
+
+### Solution 23
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** Autonomy depends on each governing instrument, not a universal constitutional formula.
+- **B:** Ministerial preference cannot override a body's charter.
+- **C:** A body's governing law, finances and oversight shape its actual autonomy.
+- **D:** Autonomy does not abolish public audit.
+
+**Examiner trap 23:** Grant support and autonomy can coexist.
+
+### Solution 24
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** Oversight does not confer oral appellate power over independent adjudication.
+- **B:** Statutory appeals remain governed by the parent law.
+- **C:** A statutory regulator does not automatically become a department.
+- **D:** Statutory decisional independence binds ministerial oversight.
+
+**Examiner trap 24:** Policy oversight is not case-specific appellate control.
+
+### Solution 25
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Cabinet Secretariat administers business rules and coordinates Cabinet procedure.
+- **B:** Cabinet Secretariat is a coordinating unit, not all secretariats.
+- **C:** Cabinet Secretary is an official, not a political head.
+- **D:** Parliament enacts parent legislation.
+
+**Examiner trap 25:** Cabinet Secretary is an official, not a Cabinet Minister.
+
+### Solution 26
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** A Committee of Secretaries is an executive coordination forum.
+- **B:** Committees of Secretaries coordinate official-level business.
+- **C:** Administrative consultation is not constitutional adjudication.
+- **D:** A ministerial forum is a Cabinet Committee instead.
+
+**Examiner trap 26:** Committee of Secretaries and Cabinet Committee are close-option opposites.
+
+### Solution 27
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** Collective Cabinet process belongs to Cabinet Secretariat, not PMO by definition.
+- **B:** PMO cannot allocate constitutional legislative competence.
+- **C:** PMO supports the PM while Cabinet Secretariat supports collective Cabinet work.
+- **D:** PMO is an executive office, not a constitutional commission.
+
+**Examiner trap 27:** Both work around the PM but have different institutional clients.
+
+### Solution 28
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** Cabinet Committees are not individually prescribed in the Constitution.
+- **B:** Committees of Secretaries comprise officials, not political ministers.
+- **C:** Cabinet Committees are not courts.
+- **D:** Cabinet Committees are selected-minister deliberative forums.
+
+**Examiner trap 28:** Names and number change; mechanism is the durable fact.
+
+### Solution 29
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A:** Noting records analysis, rules, options and recommendations.
+- **B:** External communication differs from recorded internal analysis.
+- **C:** Oral direction requires accountable recording where applicable.
+- **D:** Noting is not statutory Gazette publication.
+
+**Examiner trap 29:** Noting and drafting perform different stages.
+
+### Solution 30
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A:** Digitisation does not create substantive legal competence.
+- **B:** Digitisation improves processing and traceability without eliminating retention obligations or cyber/privacy controls.
+- **C:** Electronic workflow does not cancel retention obligations.
+- **D:** Cyber and privacy risks remain with e-Office.
+
+**Examiner trap 30:** A searchable audit trail strengthens scrutiny; it neither replaces archived records nor removes digital security and privacy obligations.
+
+### Solution 31
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A:** AoB ownership alone cannot authorise subordinate legislation.
+- **B:** A press release is not enabling law.
+- **C:** Delegated lawmaking requires an enabling legal source and compliance.
+- **D:** PMU advice does not replace statutory delegation.
+
+**Examiner trap 31:** Administrative ownership does not equal substantive rule-making power.
+
+### Solution 32
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A:** PSUs retain their separate legal identities.
+- **B:** Article 300 creates no blanket immunity.
+- **C:** Litigation capacity does not establish liability on the merits.
+- **D:** Article 300 concerns Union capacity to sue and be sued, not automatic liability.
 
 **Examiner trap 32:** Party capacity and substantive liability are separate questions.
+
+### Solution 33
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** A statutory named authority cannot be displaced merely by changing administrative allocation.
+- **B:** No business rule automatically grants judicial power.
+- **C:** Article 77(3) does not repeal an Act.
+- **D:** Administrative direction cannot waive a binding statute.
+
+**Examiner trap 33:** Allocation is not legal power.
+
+### Solution 34
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** Subject ownership does not remove prescribed consultation.
+- **B:** A lead department consults affected units and escalates unresolved disagreement.
+- **C:** Finance consultation does not transfer portfolio ownership.
+- **D:** Spending needs lawful budget and appropriation.
+
+**Examiner trap 34:** AoB allocates; ToB coordinates.
+
+### Solution 35
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Recorded professional advice is not a veto.
+- **B:** A lawful decision does not make earlier contrary advice improper.
+- **C:** Candour and lawful ministerial decision-making coexist with traceable responsibility.
+- **D:** Destroying notes undermines record accountability.
+
+**Examiner trap 35:** Advice is distinct from final authorised choice.
+
+### Solution 36
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** These bodies are neither courts nor Article 323A tribunals.
+- **B:** Cabinet Secretariat is staffed by officials, not just elected ministers.
+- **C:** An officials' committee is not a ministerial Cabinet Committee.
+- **D:** A ministerial decision forum differs from its coordinating Secretariat.
+
+**Examiner trap 36:** Political forum and support machinery differ.
+
+### Solution 37
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Policy coordination and local execution differ, subject to governing instruments.
+- **B:** Field offices cannot independently amend national policy.
+- **C:** Attached and subordinate offices need not share identical legal status.
+- **D:** Service delivery alone does not create a ministry.
+
+**Examiner trap 37:** Functional distinction does not establish universal status.
+
+### Solution 38
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** A timestamp cannot create missing competence.
+- **B:** An audit trail records decisions without empowering the actor.
+- **C:** Electronic processing cannot replace legally required consultation.
+- **D:** Digital decisions remain reviewable.
+
+**Examiner trap 38:** Digitisation is not delegation.
+
+### Solution 39
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Financial oversight gives no automatic reversal power in individual cases.
+- **B:** Independence does not extinguish expenditure scrutiny.
+- **C:** Financial stewardship and adjudicatory independence can coexist under statute.
+- **D:** Grant funding does not create a Cabinet Committee.
+
+**Examiner trap 39:** Oversight differs from case control.
+
+### Solution 40
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Ministerial allocation changes through dated instruments.
+- **B:** An old textbook chart cannot establish current ownership.
+- **C:** Naming resemblance is not evidence of administrative allocation.
+- **D:** Check current AoB schedules and the parent legal instrument independently.
+
+**Examiner trap 40:** Never invent a fixed ministry count.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -603,9 +845,9 @@ How many of the above pairs are correctly matched?
 (c) All the three  
 (d) None
 
-**Official answer (Set A): D.**
+**Official-key limitation:** The available source audit identifies a local 2025 key PDF but does not establish a verified Set A Q57-to-final-key mapping here. No objective answer letter is assigned. The allocation analysis below is explanatory, not an official key.
 
-**Solution:** All three displayed pairings are reversed across the relevant subject fields. The National Automotive Board belongs to the Heavy Industries field; Coir Board belongs to the MSME field; and the National Centre for Trade Information belongs to the Commerce and Industry field. Therefore none of the pairs is correctly matched.
+**Solution:** All three displayed pairings are reversed across the relevant subject fields. The National Automotive Board belongs to the Heavy Industries field; Coir Board belongs to the MSME field; and the National Centre for Trade Information belongs to the Commerce and Industry field. On the dated allocation analysis, each listed match appears incorrect; this does not certify an official Set A key.
 
 **Elimination lesson:** Institution-ministry questions test the current allocation of governmental business. Infer from the parent subject or verify the dated AoB schedule; do not rely on verbal association.
 
@@ -647,7 +889,7 @@ The Cabinet Secretariat coordinates collective executive procedure but is not th
 
 **Question:** Distinguish the Allocation of Business Rules from the Transaction of Business Rules. Why is the distinction important for accountable government?
 
-**Model answer (142 words):**
+**Model answer (141 words):**
 
 Article 77(3) authorises both rule sets, but they perform different constitutional-administrative tasks.
 
@@ -659,15 +901,15 @@ The distinction prevents both ownerless government and unilateral government. Al
 
 Thus accountable administration requires jurisdiction and procedure to converge on a recorded decision trail.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** The First and Second Schedules answer ownership; the Transaction Rules answer consultation and escalation. Neither overrides a parent statute.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** When a proposal affects another ministry and public expenditure, identify the lead department first, then route the file for prescribed consultation.
 
 ### ORIGINAL MAINS 2 — 10 MARKS, 150 WORDS
 
 **Question:** Explain the constitutional and administrative position of the Secretary to a Union Government department.
 
-**Model answer (148 words):**
+**Model answer (146 words):**
 
 The Secretary is the department's administrative head and principal official adviser, while the Minister remains its political head and parliamentary owner.
 
@@ -677,15 +919,15 @@ The governing norm is responsive neutrality: frank, evidence-based and recorded 
 
 Therefore secretarial leadership is best judged by lawful advice, delegated administration, coordination and institutional memory—not by the number of files escalated upward.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** Ministerial responsibility and the Secretary's recorded advice are complementary, not interchangeable; unlawful processing remains traceable to officials.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** A Secretary should present lawful options and financial implications for a minister's choice, then ensure the authorised decision is implemented at the proper level.
 
 ### ORIGINAL MAINS 3 — 15 MARKS, 250 WORDS
 
 **Question:** Examine the role of the Central Secretariat in policy formulation and implementation. Is the traditional policy-execution divide still useful?
 
-**Model answer (203 words):**
+**Model answer (231 words):**
 
 The Central Secretariat is the collective policy, legislative, budgetary and coordination machinery of Union ministries and departments. Its comparative advantage is integrating elected priorities with law, evidence, finance and accountability.
 
@@ -695,19 +937,19 @@ The Central Secretariat is the collective policy, legislative, budgetary and coo
 
 Yet a rigid separation is unsafe. Implementation produces information about feasibility, exclusion and unintended effects. Mission-mode programmes and digital platforms require policy, technology, procurement and field teams to interact continuously. Excessive secretariat control causes micromanagement; excessive agency autonomy can weaken stewardship and blame mapping.
 
-The better model is a feedback loop: the Secretariat sets lawful policy, resources and outcome expectations; implementing bodies receive delegated operational space; field evidence, audit and citizen grievances trigger redesign. One sponsoring department remains answerable, while statutory autonomy and State powers are respected.
+The better model is a feedback loop: the Secretariat sets lawful policy, resources and outcome expectations; implementing bodies receive delegated operational space; field evidence, audit and citizen grievances trigger redesign. For a Union scheme implemented with States, departmental review should incorporate State delivery constraints before revising guidelines, not issue instructions to a statutory regulator outside its parent Act. One sponsoring department remains answerable, while statutory autonomy and State powers are respected.
 
 Hence the policy-execution distinction remains analytically useful, but modern administration requires controlled integration rather than a watertight wall.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** Distinguishes policy stewardship from field execution but rejects a watertight divide: State and agency feedback must reach the sponsoring department.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** Track an implementation grievance back to the policy owner while respecting the implementing agency's delegated space and a regulator's statutory independence.
 
 ### ORIGINAL MAINS 4 — 15 MARKS, 250 WORDS
 
 **Question:** How does the Cabinet Secretariat secure inter-ministerial coordination? Discuss its limits.
 
-**Model answer (211 words):**
+**Model answer (238 words):**
 
 The Cabinet Secretariat is the central process institution of collective Cabinet government. It functions directly under the Prime Minister, is headed administratively by the Cabinet Secretary and administers the Allocation and Transaction of Business Rules.
 
@@ -715,17 +957,17 @@ First, it provides secretarial assistance to Cabinet and Cabinet Committees by c
 
 Its limits are equally important. The Secretariat is not the Cabinet, PMO or a super-ministry. It cannot acquire a department's statutory power, override an independent regulator or replace the Minister-in-charge's parliamentary responsibility. Excessive escalation can produce apex congestion and weaken departmental initiative; weak escalation can leave silos unresolved.
 
-Coordination should therefore follow subsidiarity: define a lead department, require timely consultation, record disagreement, resolve technical issues at official level and reserve political trade-offs for ministers or Cabinet. The Cabinet Secretariat is most effective as an enabler of responsible departments, not their substitute.
+Coordination should therefore follow subsidiarity: define a lead department, require timely consultation, record disagreement, resolve technical issues at official level and reserve political trade-offs for ministers or Cabinet. A supplementary note makes a dissenting ministry's position visible before a collective decision; it is not a veto or an excuse to abandon the lead department's responsibility. The Cabinet Secretariat is most effective as an enabler of responsible departments, not their substitute.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** Cabinet papers, consultation and Committees of Secretaries explain the coordination route; the Secretariat cannot take over statutory powers or ministerial accountability.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** Escalate an unresolved cross-ministry choice with the lead and dissenting positions recorded; settle routine technical questions at the lowest competent level.
 
 ### ORIGINAL MAINS 5 — 20 MARKS, 250 WORDS
 
 **Question:** Critically evaluate the accountability framework governing Union ministries and departments.
 
-**Model answer (217 words):**
+**Model answer (236 words):**
 
 Union ministries exercise broad policy, financial and rule-making authority; accountability must therefore connect the political owner with the internal decision trail.
 
@@ -737,19 +979,19 @@ Union ministries exercise broad policy, financial and rule-making authority; acc
 
 **Administrative and public control:** service rules, vigilance, Lokpal/CVC jurisdictions, RTI, grievance systems, internal audit and e-Office records can identify personal and process responsibility. Article 300 permits the Government of India to sue or be sued as the Union of India, but does not itself settle every liability.
 
-Gaps arise from fragmented schemes, opaque consultation, excessive confidentiality and shared outcomes without a lead owner. Reform should publish responsibility maps, improve committee data, record reasons and dissent, strengthen outcome evaluation and preserve a secure authoritative digital record.
+Gaps arise from fragmented schemes, opaque consultation, excessive confidentiality and shared outcomes without a lead owner. Reform should publish responsibility maps, improve committee data, record reasons and dissent, strengthen outcome evaluation and preserve a secure authoritative digital record. Where an agency exercises an independent statutory power, ministerial stewardship requires reporting and audit, not a private direction to predetermine its decision.
 
 Accountability is effective when political responsibility, legal review and official traceability reinforce rather than displace one another.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** The answer connects Lok Sabha responsibility, financial scrutiny, review of legal power and file-level traceability; it does not equate audit with advance policy approval.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** For a disputed departmental scheme, use the spending record, committee evidence, authorising statute and recorded reasons to locate distinct political and official duties.
 
 ### ORIGINAL MAINS 6 — 20 MARKS, 250 WORDS
 
 **Question:** Machinery-of-government reform must balance specialisation, coordination and accountability. Analyse with reference to Secretariat reforms.
 
-**Model answer (211 words):**
+**Model answer (230 words):**
 
 Machinery-of-government design decides how public purposes are grouped, staffed, coordinated and reviewed. No single structure maximises specialisation, coordination and accountability simultaneously.
 
@@ -759,10 +1001,10 @@ Central coordination through the Prime Minister, Cabinet, Cabinet Secretariat, C
 
 The Second ARC's organisational approach—rationalise functions, group related work, clarify policy and execution roles, use accountable executive agencies, simplify process and delegate—remains useful. CSMOP-style delayering and e-Office can improve speed and traceability, but digitisation does not create competence or lawful authority. Mission-mode and PMU structures need a sponsoring ministry, written decision rights, budget ownership, records, conflict safeguards and sunset/mainstreaming plans.
 
-Reform should apply a seven-part test: clear mandate; authority-funds-personnel alignment; lowest-competent-level disposal; time-bound consultation; specialist capability; parliamentary/audit/citizen accountability; and transition management for cadres, budgets, pending cases and delegated rules.
+Reform should apply a seven-part test: clear mandate; authority-funds-personnel alignment; lowest-competent-level disposal; time-bound consultation; specialist capability; parliamentary/audit/citizen accountability; and transition management for cadres, budgets, pending cases and delegated rules. Before merging departments or creating a mission unit, map the parent statute and accountable minister, then specify which cross-ministry decisions genuinely require Cabinet-level escalation.
 
 Thus the best Secretariat is neither a fragmented federation of silos nor a central command tower. It is a coordinated network with precise ownership and reconstructable responsibility.
 
-**Why this earns marks:** It answers the directive directly, uses named constitutional/administrative evidence, explains the mechanism and ends with a qualified institutional verdict.
+**Examiner check:** Specialisation can create silos and central coordination can create apex congestion; the Second ARC and e-Office proposals are tested against ownership and lawful delegation.
 
-**Better-answer check:** Preserve the exact distinction, one visual spine and at least one limitation; never substitute a generic reform list.
+**Application:** A PMU must have written decision rights, budget ownership and a sunset or mainstreaming route so that temporary expertise does not obscure permanent responsibility.

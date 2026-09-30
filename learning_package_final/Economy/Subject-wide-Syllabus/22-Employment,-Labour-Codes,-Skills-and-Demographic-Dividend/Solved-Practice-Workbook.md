@@ -4,12 +4,11 @@ topic_key: economy-topic-22
 ---
 # Employment, Labour Codes, Skills and Demographic Dividend - Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## ORIGINAL MCQ QUESTIONS
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+48 applied labour-market questions; all solutions follow the questions.
 
 ### MCQ 1
-
 Which formula correctly defines LFPR for a stated population?
 
 A. Labour force divided by that population, multiplied by 100
@@ -17,7 +16,451 @@ B. Employed divided by labour force
 C. Unemployed divided by population
 D. Employed divided by unemployed
 
-**Answer: A.**
+### MCQ 2
+The denominator of the unemployment rate is:
+
+A. Total population
+B. The labour force
+C. The working-age population only
+D. The employed population
+
+### MCQ 3
+Which statement about WPR is correct?
+
+A. It measures unemployed persons within the labour force
+B. It necessarily measures formal full-time jobs
+C. It is employed persons as a share of the specified population
+D. It equals LFPR in every economy
+
+### MCQ 4
+A person who wants work but is neither seeking nor available under the survey rule is generally:
+
+A. Employed
+B. Openly unemployed
+C. Underemployed by definition
+D. Outside the labour force
+
+### MCQ 5
+Usual status ps+ss is best associated with:
+
+A. A 365-day reference combining principal and subsidiary activity
+B. A seven-day one-hour employment rule only
+C. Daily person-day accounting only
+D. Administrative payroll registration
+
+### MCQ 6
+Under Current Weekly Status, a person is treated as employed if the person worked:
+
+A. Every day in the preceding week
+B. At least one hour on any day in the preceding seven days
+C. At least thirty days in the year
+D. Only in a registered establishment
+
+### MCQ 7
+Which measure is most sensitive to partial employment across days?
+
+A. Usual principal status
+B. Current Weekly Status
+C. Current Daily Status
+D. EPFO payroll additions
+
+### MCQ 8
+Why must Annual PLFS 2025 and July 2026 monthly PLFS figures not be compared directly?
+
+A. They cover different countries
+B. One measures only government employees
+C. Annual data contain no employment measure
+D. They use different reference/status frames: usual status versus CWS
+
+### MCQ 9
+Disguised unemployment is best illustrated by:
+
+A. Surplus farm workers whose removal would not materially reduce output
+B. A graduate moving between two jobs
+C. A factory layoff during recession
+D. A worker searching after relocation
+
+### MCQ 10
+Structural unemployment primarily reflects:
+
+A. A predictable lean season
+B. Persistent skill, occupation or location mismatch
+C. A one-week spell between jobs
+D. A worker doing fewer hours than desired
+
+### MCQ 11
+A person classified as employed but wanting and available for more hours exemplifies:
+
+A. Cyclical unemployment only
+B. Being outside the labour force
+C. Time-related underemployment
+D. Disguised unemployment in every case
+
+### MCQ 12
+A falling unemployment rate can be misleading when:
+
+A. WPR rises faster than LFPR
+B. Real wages rise
+C. Vacancies are filled quickly
+D. Discouraged workers stop seeking and leave the labour force
+
+### MCQ 13
+Which statement correctly distinguishes employment and enterprise formality?
+
+A. A worker in a registered enterprise may still hold an informal job
+B. Every self-employed worker is formal
+C. Every organised-sector job has social insurance
+D. Bank payment alone proves formal employment
+
+### MCQ 14
+PLFS employment-status categories include:
+
+A. Only public and private employees
+B. Self-employed, regular wage/salaried and casual labour
+C. Only formal and informal workers
+D. Only agricultural and non-agricultural workers
+
+### MCQ 15
+Employment elasticity equals:
+
+A. Output growth divided by wage growth
+B. Employment level divided by GDP
+C. Percentage employment growth divided by percentage output growth
+D. Labour force divided by population
+
+### MCQ 16
+The phrase jobless growth is most defensible when it means:
+
+A. No person obtained any job
+B. All productivity growth is harmful
+C. Only services expanded
+D. Employment or job quality grew weakly relative to output in a specified period
+
+### MCQ 17
+Which is the correct PLFS Annual 2025 usual-status snapshot for age 15+?
+
+A. LFPR 59.3%, WPR 57.4%, UR 3.1%
+B. LFPR 55.4%, WPR 52.5%, UR 5.1%
+C. LFPR 40.0%, WPR 38.8%, UR 9.9%
+D. LFPR 79.1%, WPR 76.6%, UR 13.6%
+
+### MCQ 18
+Which July 2026 figure is a monthly CWS estimate for age 15+?
+
+A. Annual LFPR 59.3%
+B. Overall LFPR 55.4%
+C. Youth usual-status UR 9.9%
+D. Formal vocational training 4.2%
+
+### MCQ 19
+PLFS Annual 2025 reported youth unemployment, age 15-29, usual status, at:
+
+A. 3.1%
+B. 5.1%
+C. 9.9%
+D. 25.0%
+
+### MCQ 20
+Among women outside the labour force in PLFS 2025, the leading cited reason recorded in the press note was:
+
+A. Retirement
+B. Seasonal layoff
+C. Lack of vocational certificate
+D. Childcare or personal homemaking commitments
+
+### MCQ 21
+A demographic dividend arises when:
+
+A. A favourable age structure is converted through health, learning, participation and productive jobs
+B. The population is young regardless of employment
+C. Fertility remains permanently high
+D. All workers move to cities
+
+### MCQ 22
+Which instrument most directly combines structured learning with workplace experience?
+
+A. Recognition of Prior Learning
+B. Apprenticeship
+C. A labour-force survey
+D. A minimum-wage notification
+
+### MCQ 23
+Recognition of Prior Learning is intended to:
+
+A. Create a new firm
+B. Guarantee a job
+C. Assess and certify skills acquired outside formal training
+D. Replace all apprenticeships
+
+### MCQ 24
+Which statement about PMKVY 4.0 is correct?
+
+A. It is an EPFO pension scheme
+B. It regulates industrial disputes
+C. It guarantees placement to every trainee
+D. It includes Short-Term Training, RPL and Special Projects
+
+### MCQ 25
+The four Labour Codes consolidate:
+
+A. 29 central labour laws into four thematic Codes
+B. All state labour laws into one Code
+C. Only social-security statutes
+D. The Companies Act and competition law
+
+### MCQ 26
+Under the Code on Wages architecture:
+
+A. Every worker receives one identical national wage
+B. Applicable minimum wages cannot be below the central floor wage
+C. States cannot fix wage rates
+D. Floor wage and bonus are the same
+
+### MCQ 27
+The central Industrial Relations Code threshold of 300 workers is associated with:
+
+A. Every social-security benefit
+B. Every minimum-wage notification
+C. Standing orders and the specified prior-permission chapter
+D. e-Shram registration
+
+### MCQ 28
+The aggregator contribution formula under the Social Security Code is:
+
+A. Five percent of turnover without a cap
+B. A flat employee payroll tax
+C. Only voluntary donations
+D. One to two percent of annual turnover, capped at five percent of amounts paid/payable to gig and platform workers
+
+### MCQ 29
+EPFO administers which set?
+
+A. EPF, EPS and EDLI
+B. PMKVY, NAPS and JSS
+C. ESI hospitals only
+D. LFPR, WPR and UR
+
+### MCQ 30
+Which statement about e-Shram is correct?
+
+A. Every registrant automatically receives EPF
+B. It is a national unorganised-worker database; registration is not itself benefit receipt
+C. It counts only platform workers
+D. It is the unemployment-rate survey
+
+### MCQ 31
+Under the OSHWC framework, women's night work is:
+
+A. Absolutely prohibited
+B. Allowed without any consent or safeguards
+C. Permitted subject to consent and prescribed safeguards
+D. Limited only to government offices
+
+### MCQ 32
+A balanced flexicurity approach combines:
+
+A. Only easier dismissal
+B. Only permanent job protection
+C. Only training subsidies
+D. Firm adaptability with worker voice, portable security and transition support
+
+### MCQ 33
+
+Five household members work on a farm but output would not fall if one left. Diagnose the labour-market condition.
+
+A. Disguised unemployment
+B. Open unemployment
+C. Seasonal unemployment
+D. Cyclical unemployment
+
+### MCQ 34
+
+A monthly CWS unemployment rate falls while LFPR and WPR also fall. What is the most defensible interpretation?
+
+A. All jobseekers found full-time employment
+B. Labour-force exits may lower the UR without improving employment
+C. Annual usual-status rates must have fallen identically
+D. Labour productivity necessarily rose
+
+### MCQ 35
+
+A worker is employed on two days but idle for the rest of the week. Which measure captures the idle person-days most directly?
+
+A. Usual principal status
+B. Current Weekly Status one-hour rule
+C. Current Daily Status
+D. EPFO subscriber totals
+
+### MCQ 36
+
+A registered enterprise employs workers without contracts or social protection. What follows?
+
+A. All workers automatically gain EPFO coverage
+B. The workers cannot count as employed
+C. The enterprise must report zero informal jobs
+D. Enterprise registration and worker protection are different dimensions
+
+### MCQ 37
+
+A skill course produces certificates but few retained jobs. What evaluation best tests its economic impact?
+
+A. Track competency, placement, retention and real wage progression
+B. Count enrolments alone
+C. Treat every certificate as a job
+D. Blame only trainee effort
+
+### MCQ 38
+
+A woman exits paid work because reliable childcare is unavailable. Which intervention tackles both participation and work quality?
+
+A. A new skilling certificate alone
+B. Affordable childcare, safe mobility and decent care-sector work
+C. A higher headline unemployment target
+D. Unfunded digital registration
+
+### MCQ 39
+
+A policymaker treats every new e-Shram registration as a paid benefit. What is the mistake?
+
+A. e-Shram includes only factory workers
+B. e-Shram is an IMF loan window
+C. Identification is not automatic entitlement or delivery
+D. Each registration creates an EPFO employee
+
+### MCQ 40
+
+A platform aggregator asks what base is specified for its social-security contribution under the Code. Which answer is apt?
+
+A. A flat amount per Indian household
+B. Identical monthly pension paid immediately to each gig worker
+C. Only World Bank project loans
+D. Annual turnover with a ceiling linked to payments to gig and platform workers
+
+### MCQ 41
+
+An industry adopts a new technology, leaving workers qualified for disappearing jobs while other vacancies persist. Diagnose the challenge.
+
+A. Structural mismatch in skills and locations
+B. A temporary festival demand fall
+C. A purely one-hour CWS error
+D. A frictionless labour market
+
+### MCQ 42
+
+Which apprenticeship result is more informative than the number of contracts signed?
+
+A. Training-centre enrolment alone
+B. Assessed competence and transition into sustained employment
+C. The size of the certificate logo
+D. Nominal GDP alone
+
+### MCQ 43
+
+A state has only draft rules under parts of the Labour Codes. What stages must an examiner-ready answer distinguish?
+
+A. Draft rules and court judgments as synonyms
+B. Central passage and identical state enforcement
+C. Enactment, commencement, final rules and field enforcement
+D. A ministerial press release and every funded benefit
+
+### MCQ 44
+
+What most directly protects interstate migrant workers changing employers?
+
+A. Permanent linkage to the first employer
+B. A database with no service linkage
+C. Only national worker headcounts
+D. Portable entitlements, interoperable records and usable grievance channels
+
+### MCQ 45
+
+Employment rises but inflation erodes workers’ purchasing power. What dashboard avoids a false success claim?
+
+A. Employment, hours, real earnings and security together
+B. Employment headcount only
+C. Nominal pay only
+D. Population denominator only
+
+### MCQ 46
+
+A short-term worker is treated as automatically outside every labour law. Why is that claim unsafe?
+
+A. Short contracts are IMF arrangements
+B. Code-specific eligibility and actual worker status require examination
+C. Every temporary contract is prohibited
+D. Only platforms can engage short-term workers
+
+### MCQ 47
+
+A district has a low dependency ratio but scarce jobs and low female LFPR. What follows?
+
+A. A low ratio guarantees higher wages
+B. The demographic window cannot close
+C. Age structure offers potential, not a guaranteed demographic dividend
+D. All nonparticipants are unemployed
+
+### MCQ 48
+
+An analyst adds payroll sign-ups to survey WPR as if both are net new jobs. What is the error?
+
+A. They have identical sampling frames
+B. Every payroll sign-up is a first-ever job
+C. Household surveys measure only public employees
+D. Administrative records and household employed-person estimates cover unlike, overlapping universes
+
+## VERIFIED MAINS PYQ QUESTIONS
+
+### VERIFIED MAINS PYQ - 2024 GS-III Q11
+
+**Question:** Discuss the merits and demerits of the four 'Labour Codes' in the context of labour market reforms in India. What has been the progress so far in this regard? (Answer in 250 words)
+
+### VERIFIED MAINS PYQ - 2023 GS-III Q11
+
+**Question:** Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements. (Answer in 250 words)
+
+### VERIFIED MAINS PYQ - 2023 GS-III Q12
+
+**Question:** Distinguish between 'care economy' and 'monetized economy'. How can care economy be brought into monetized economy through women empowerment? (Answer in 250 words)
+
+### VERIFIED MAINS PYQ - 2023 GS-II Q18
+
+**Question:** Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement, analyse the linkages between education, skill and employment. (Answer in 250 words)
+
+### VERIFIED MAINS PYQ - 2022 GS-II Q16
+
+**Question:** Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. (Answer in 250 words)
+
+## ORIGINAL MAINS QUESTIONS
+
+### ORIGINAL MAINS 1 - 10 MARKS
+
+**Question:** Distinguish LFPR, WPR and unemployment rate and explain why they must be read together. Answer in 150 words.
+
+### ORIGINAL MAINS 2 - 10 MARKS
+
+**Question:** Why is India's demographic dividend conditional and time-bound? Answer in 150 words.
+
+### ORIGINAL MAINS 3 - 15 MARKS
+
+**Question:** Examine structural unemployment in India and the measurement reforms needed to identify it better. Answer in 250 words.
+
+### ORIGINAL MAINS 4 - 15 MARKS
+
+**Question:** Evaluate the four Labour Codes through the lens of flexibility, security and federal implementation. Answer in 250 words.
+
+### ORIGINAL MAINS 5 - 20 MARKS
+
+**Question:** How can India raise women's employment while recognising and redistributing unpaid care work? Answer in 250 words.
+
+### ORIGINAL MAINS 6 - 20 MARKS
+
+**Question:** Design an employment strategy that combines structural transformation, skills and portable social security. Answer in 250 words.
+
+## ANSWER KEY AND WORKED SOLUTIONS
+
+### ORIGINAL MCQ KEY
+
+### MCQ 1 — A
 
 **Option-wise explanation:**
 - **A - Correct:** LFPR counts employed plus unemployed persons in the labour force relative to the specified population.
@@ -27,16 +470,7 @@ D. Employed divided by unemployed
 
 **Examiner trap 1: LFPR uses the specified population in the denominator and includes both employed and unemployed participants.**
 
-### MCQ 2
-
-The denominator of the unemployment rate is:
-
-A. Total population
-B. The labour force
-C. The working-age population only
-D. The employed population
-
-**Answer: B.**
+### MCQ 2 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** Total population includes persons outside the labour force and is not the UR denominator.
@@ -46,16 +480,7 @@ D. The employed population
 
 **Examiner trap 2: UR divides by the labour force, never by the total or working-age population.**
 
-### MCQ 3
-
-Which statement about WPR is correct?
-
-A. It measures unemployed persons within the labour force
-B. It necessarily measures formal full-time jobs
-C. It is employed persons as a share of the specified population
-D. It equals LFPR in every economy
-
-**Answer: C.**
+### MCQ 3 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** The first formula is the unemployment rate, not WPR.
@@ -65,16 +490,7 @@ D. It equals LFPR in every economy
 
 **Examiner trap 3: WPR establishes employed status relative to population, not formality, full-time hours or adequate earnings.**
 
-### MCQ 4
-
-A person who wants work but is neither seeking nor available under the survey rule is generally:
-
-A. Employed
-B. Openly unemployed
-C. Underemployed by definition
-D. Outside the labour force
-
-**Answer: D.**
+### MCQ 4 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Wanting work without performing work does not create employed status.
@@ -84,16 +500,7 @@ D. Outside the labour force
 
 **Examiner trap 4: Wanting work alone does not satisfy the survey's seeking or availability test.**
 
-### MCQ 5
-
-Usual status ps+ss is best associated with:
-
-A. A 365-day reference combining principal and subsidiary activity
-B. A seven-day one-hour employment rule only
-C. Daily person-day accounting only
-D. Administrative payroll registration
-
-**Answer: A.**
+### MCQ 5 — A
 
 **Option-wise explanation:**
 - **A - Correct:** Usual status uses the preceding 365 days and incorporates qualifying subsidiary activity.
@@ -103,16 +510,7 @@ D. Administrative payroll registration
 
 **Examiner trap 5: Usual status ps+ss is a 365-day person-status approach, not a weekly or payroll measure.**
 
-### MCQ 6
-
-Under Current Weekly Status, a person is treated as employed if the person worked:
-
-A. Every day in the preceding week
-B. At least one hour on any day in the preceding seven days
-C. At least thirty days in the year
-D. Only in a registered establishment
-
-**Answer: B.**
+### MCQ 6 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** CWS does not require work on every day.
@@ -122,16 +520,7 @@ D. Only in a registered establishment
 
 **Examiner trap 6: One hour of work can establish CWS employment without proving adequate weekly hours.**
 
-### MCQ 7
-
-Which measure is most sensitive to partial employment across days?
-
-A. Usual principal status
-B. Current Weekly Status
-C. Current Daily Status
-D. EPFO payroll additions
-
-**Answer: C.**
+### MCQ 7 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** Principal status assigns a longer-term person status and smooths day-level variation.
@@ -141,16 +530,7 @@ D. EPFO payroll additions
 
 **Examiner trap 7: CDS is a person-day intensity measure and must not be substituted for a person-level annual rate.**
 
-### MCQ 8
-
-Why must Annual PLFS 2025 and July 2026 monthly PLFS figures not be compared directly?
-
-A. They cover different countries
-B. One measures only government employees
-C. Annual data contain no employment measure
-D. They use different reference/status frames: usual status versus CWS
-
-**Answer: D.**
+### MCQ 8 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Both are Indian PLFS products.
@@ -160,16 +540,7 @@ D. They use different reference/status frames: usual status versus CWS
 
 **Examiner trap 8: Annual usual status and monthly CWS differ in reference period and classification.**
 
-### MCQ 9
-
-Disguised unemployment is best illustrated by:
-
-A. Surplus farm workers whose removal would not materially reduce output
-B. A graduate moving between two jobs
-C. A factory layoff during recession
-D. A worker searching after relocation
-
-**Answer: A.**
+### MCQ 9 — A
 
 **Option-wise explanation:**
 - **A - Correct:** Near-zero marginal contribution among apparently employed workers is the defining logic.
@@ -179,16 +550,7 @@ D. A worker searching after relocation
 
 **Examiner trap 9: Disguised unemployment concerns marginal contribution despite apparent employment.**
 
-### MCQ 10
-
-Structural unemployment primarily reflects:
-
-A. A predictable lean season
-B. Persistent skill, occupation or location mismatch
-C. A one-week spell between jobs
-D. A worker doing fewer hours than desired
-
-**Answer: B.**
+### MCQ 10 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** A calendar-driven gap is seasonal unemployment.
@@ -198,16 +560,7 @@ D. A worker doing fewer hours than desired
 
 **Examiner trap 10: Structural mismatch is distinct from seasonal gaps, short search and inadequate hours.**
 
-### MCQ 11
-
-A person classified as employed but wanting and available for more hours exemplifies:
-
-A. Cyclical unemployment only
-B. Being outside the labour force
-C. Time-related underemployment
-D. Disguised unemployment in every case
-
-**Answer: C.**
+### MCQ 11 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** The cause may be cyclical, but the status described is underemployment.
@@ -217,16 +570,7 @@ D. Disguised unemployment in every case
 
 **Examiner trap 11: Underemployment can exist while the person remains statistically employed.**
 
-### MCQ 12
-
-A falling unemployment rate can be misleading when:
-
-A. WPR rises faster than LFPR
-B. Real wages rise
-C. Vacancies are filled quickly
-D. Discouraged workers stop seeking and leave the labour force
-
-**Answer: D.**
+### MCQ 12 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Rising WPR with participation is generally evidence of improved absorption, subject to quality.
@@ -236,16 +580,7 @@ D. Discouraged workers stop seeking and leave the labour force
 
 **Examiner trap 12: A lower UR can result from labour-force exit rather than job creation.**
 
-### MCQ 13
-
-Which statement correctly distinguishes employment and enterprise formality?
-
-A. A worker in a registered enterprise may still hold an informal job
-B. Every self-employed worker is formal
-C. Every organised-sector job has social insurance
-D. Bank payment alone proves formal employment
-
-**Answer: A.**
+### MCQ 13 — A
 
 **Option-wise explanation:**
 - **A - Correct:** Enterprise registration and the worker's contract or benefit coverage are separate dimensions.
@@ -255,16 +590,7 @@ D. Bank payment alone proves formal employment
 
 **Examiner trap 13: Enterprise registration and the worker's contract or benefit status are separate.**
 
-### MCQ 14
-
-PLFS employment-status categories include:
-
-A. Only public and private employees
-B. Self-employed, regular wage/salaried and casual labour
-C. Only formal and informal workers
-D. Only agricultural and non-agricultural workers
-
-**Answer: B.**
+### MCQ 14 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** Ownership sector is a separate classification.
@@ -274,16 +600,7 @@ D. Only agricultural and non-agricultural workers
 
 **Examiner trap 14: Status in employment is not the same classification as industry, ownership or formality.**
 
-### MCQ 15
-
-Employment elasticity equals:
-
-A. Output growth divided by wage growth
-B. Employment level divided by GDP
-C. Percentage employment growth divided by percentage output growth
-D. Labour force divided by population
-
-**Answer: C.**
+### MCQ 15 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** That ratio does not measure employment responsiveness.
@@ -293,16 +610,7 @@ D. Labour force divided by population
 
 **Examiner trap 15: Employment elasticity needs percentage changes over a matched period and sector.**
 
-### MCQ 16
-
-The phrase jobless growth is most defensible when it means:
-
-A. No person obtained any job
-B. All productivity growth is harmful
-C. Only services expanded
-D. Employment or job quality grew weakly relative to output in a specified period
-
-**Answer: D.**
+### MCQ 16 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** The phrase rarely means literally zero hiring.
@@ -312,16 +620,7 @@ D. Employment or job quality grew weakly relative to output in a specified perio
 
 **Examiner trap 16: Jobless growth is a period-specific weak jobs response, not literally zero hiring.**
 
-### MCQ 17
-
-Which is the correct PLFS Annual 2025 usual-status snapshot for age 15+?
-
-A. LFPR 59.3%, WPR 57.4%, UR 3.1%
-B. LFPR 55.4%, WPR 52.5%, UR 5.1%
-C. LFPR 40.0%, WPR 38.8%, UR 9.9%
-D. LFPR 79.1%, WPR 76.6%, UR 13.6%
-
-**Answer: A.**
+### MCQ 17 — A
 
 **Option-wise explanation:**
 - **A - Correct:** These are the all-India annual usual-status values reported by MoSPI.
@@ -331,16 +630,7 @@ D. LFPR 79.1%, WPR 76.6%, UR 13.6%
 
 **Examiner trap 17: Keep the 2025 annual age-15+ usual-status rail separate from later monthly data.**
 
-### MCQ 18
-
-Which July 2026 figure is a monthly CWS estimate for age 15+?
-
-A. Annual LFPR 59.3%
-B. Overall LFPR 55.4%
-C. Youth usual-status UR 9.9%
-D. Formal vocational training 4.2%
-
-**Answer: B.**
+### MCQ 18 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** 59.3% is the annual 2025 usual-status LFPR.
@@ -350,16 +640,7 @@ D. Formal vocational training 4.2%
 
 **Examiner trap 18: The July 2026 figures are CWS estimates and are not revisions of annual usual status.**
 
-### MCQ 19
-
-PLFS Annual 2025 reported youth unemployment, age 15-29, usual status, at:
-
-A. 3.1%
-B. 5.1%
-C. 9.9%
-D. 25.0%
-
-**Answer: C.**
+### MCQ 19 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** 3.1% is the all-age annual UR for age 15+.
@@ -369,16 +650,7 @@ D. 25.0%
 
 **Examiner trap 19: Youth UR uses the youth labour force as denominator; NEET uses a different population concept.**
 
-### MCQ 20
-
-Among women outside the labour force in PLFS 2025, the leading cited reason recorded in the press note was:
-
-A. Retirement
-B. Seasonal layoff
-C. Lack of vocational certificate
-D. Childcare or personal homemaking commitments
-
-**Answer: D.**
+### MCQ 20 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Retirement was not the highlighted leading female reason.
@@ -388,16 +660,7 @@ D. Childcare or personal homemaking commitments
 
 **Examiner trap 20: The 44.4 percent figure is a cited reason among women outside the labour force, not among all women.**
 
-### MCQ 21
-
-A demographic dividend arises when:
-
-A. A favourable age structure is converted through health, learning, participation and productive jobs
-B. The population is young regardless of employment
-C. Fertility remains permanently high
-D. All workers move to cities
-
-**Answer: A.**
+### MCQ 21 — A
 
 **Option-wise explanation:**
 - **A - Correct:** Age structure creates potential that institutions and jobs must convert.
@@ -407,16 +670,7 @@ D. All workers move to cities
 
 **Examiner trap 21: A favourable age structure creates potential; human capital, participation and jobs create the dividend.**
 
-### MCQ 22
-
-Which instrument most directly combines structured learning with workplace experience?
-
-A. Recognition of Prior Learning
-B. Apprenticeship
-C. A labour-force survey
-D. A minimum-wage notification
-
-**Answer: B.**
+### MCQ 22 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** RPL assesses skills already acquired.
@@ -426,16 +680,7 @@ D. A minimum-wage notification
 
 **Examiner trap 22: A statutory apprenticeship is structured workplace learning, not any internship.**
 
-### MCQ 23
-
-Recognition of Prior Learning is intended to:
-
-A. Create a new firm
-B. Guarantee a job
-C. Assess and certify skills acquired outside formal training
-D. Replace all apprenticeships
-
-**Answer: C.**
+### MCQ 23 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** Enterprise creation is not RPL's function.
@@ -445,16 +690,7 @@ D. Replace all apprenticeships
 
 **Examiner trap 23: RPL recognises prior competency; it does not guarantee a job or replace all training.**
 
-### MCQ 24
-
-Which statement about PMKVY 4.0 is correct?
-
-A. It is an EPFO pension scheme
-B. It regulates industrial disputes
-C. It guarantees placement to every trainee
-D. It includes Short-Term Training, RPL and Special Projects
-
-**Answer: D.**
+### MCQ 24 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** EPFO administers social-insurance schemes.
@@ -464,16 +700,7 @@ D. It includes Short-Term Training, RPL and Special Projects
 
 **Examiner trap 24: PMKVY training routes must not be presented as automatic placements.**
 
-### MCQ 25
-
-The four Labour Codes consolidate:
-
-A. 29 central labour laws into four thematic Codes
-B. All state labour laws into one Code
-C. Only social-security statutes
-D. The Companies Act and competition law
-
-**Answer: A.**
+### MCQ 25 — A
 
 **Option-wise explanation:**
 - **A - Correct:** The official framework identifies 29 central laws and four named Codes.
@@ -483,16 +710,7 @@ D. The Companies Act and competition law
 
 **Examiner trap 25: Name all four Codes and retain their separate legal domains and enactment years.**
 
-### MCQ 26
-
-Under the Code on Wages architecture:
-
-A. Every worker receives one identical national wage
-B. Applicable minimum wages cannot be below the central floor wage
-C. States cannot fix wage rates
-D. Floor wage and bonus are the same
-
-**Answer: B.**
+### MCQ 26 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** Rates vary by appropriate government and category.
@@ -502,16 +720,7 @@ D. Floor wage and bonus are the same
 
 **Examiner trap 26: The floor wage is a benchmark; appropriate governments notify applicable minimum wages.**
 
-### MCQ 27
-
-The central Industrial Relations Code threshold of 300 workers is associated with:
-
-A. Every social-security benefit
-B. Every minimum-wage notification
-C. Standing orders and the specified prior-permission chapter
-D. e-Shram registration
-
-**Answer: C.**
+### MCQ 27 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** Social-security eligibility uses separate provisions.
@@ -521,16 +730,7 @@ D. e-Shram registration
 
 **Examiner trap 27: The 300-worker thresholds belong to specified Industrial Relations Code chapters, not all labour law.**
 
-### MCQ 28
-
-The aggregator contribution formula under the Social Security Code is:
-
-A. Five percent of turnover without a cap
-B. A flat employee payroll tax
-C. Only voluntary donations
-D. One to two percent of annual turnover, capped at five percent of amounts paid/payable to gig and platform workers
-
-**Answer: D.**
+### MCQ 28 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** The five-percent figure caps worker-payment amounts, not turnover.
@@ -540,16 +740,7 @@ D. One to two percent of annual turnover, capped at five percent of amounts paid
 
 **Examiner trap 28: The aggregator formula has both a turnover range and a worker-payment cap and still needs scheme operation.**
 
-### MCQ 29
-
-EPFO administers which set?
-
-A. EPF, EPS and EDLI
-B. PMKVY, NAPS and JSS
-C. ESI hospitals only
-D. LFPR, WPR and UR
-
-**Answer: A.**
+### MCQ 29 — A
 
 **Option-wise explanation:**
 - **A - Correct:** Provident fund, pension and deposit-linked insurance are EPFO's three principal schemes.
@@ -559,16 +750,7 @@ D. LFPR, WPR and UR
 
 **Examiner trap 29: EPFO's EPF, EPS and EDLI architecture is contributory and distinct from ESIC.**
 
-### MCQ 30
-
-Which statement about e-Shram is correct?
-
-A. Every registrant automatically receives EPF
-B. It is a national unorganised-worker database; registration is not itself benefit receipt
-C. It counts only platform workers
-D. It is the unemployment-rate survey
-
-**Answer: B.**
+### MCQ 30 — B
 
 **Option-wise explanation:**
 - **A - Incorrect:** EPF coverage follows separate legal eligibility and contribution rules.
@@ -578,16 +760,7 @@ D. It is the unemployment-rate survey
 
 **Examiner trap 30: e-Shram registration improves identification but does not prove benefit receipt or job formalisation.**
 
-### MCQ 31
-
-Under the OSHWC framework, women's night work is:
-
-A. Absolutely prohibited
-B. Allowed without any consent or safeguards
-C. Permitted subject to consent and prescribed safeguards
-D. Limited only to government offices
-
-**Answer: C.**
+### MCQ 31 — C
 
 **Option-wise explanation:**
 - **A - Incorrect:** The framework removed a blanket prohibition.
@@ -597,16 +770,7 @@ D. Limited only to government offices
 
 **Examiner trap 31: Night work requires consent and prescribed safeguards; it is neither banned nor compulsory.**
 
-### MCQ 32
-
-A balanced flexicurity approach combines:
-
-A. Only easier dismissal
-B. Only permanent job protection
-C. Only training subsidies
-D. Firm adaptability with worker voice, portable security and transition support
-
-**Answer: D.**
+### MCQ 32 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Adjustment without security transfers excessive risk.
@@ -616,49 +780,200 @@ D. Firm adaptability with worker voice, portable security and transition support
 
 **Examiner trap 32: Flexicurity joins adaptability with enforceable security, voice, reskilling and portability.**
 
-## PYQS AND ANSWER PRACTICE
+### MCQ 33 — A
+
+**Option-wise explanation:**
+- **A — Correct:** The marginal contribution of an apparently employed worker is near zero.
+- **B — Incorrect:** The redundant person is still counted as working.
+- **C — Incorrect:** The case describes redundant simultaneous labour, not off-season work.
+- **D — Incorrect:** The mechanism is not an economy-wide demand slump.
+
+**Examiner trap:** Survey employment need not imply positive marginal productivity.
+
+### MCQ 34 — B
+
+**Option-wise explanation:**
+- **A — Incorrect:** A falling WPR contradicts that inference.
+- **B — Correct:** The labour-force denominator can shrink as participation weakens.
+- **C — Incorrect:** Reference periods and sample designs differ.
+- **D — Incorrect:** UR alone does not measure output per worker.
+
+**Examiner trap:** Check participation and work, not UR alone.
+
+### MCQ 35 — C
+
+**Option-wise explanation:**
+- **A — Incorrect:** A year-long principal activity can conceal weekly idle days.
+- **B — Incorrect:** Any qualifying work in the week may classify the person as employed.
+- **C — Correct:** It measures employment and unemployment in person-days.
+- **D — Incorrect:** Payroll enrolment is not a measure of workdays for all workers.
+
+**Examiner trap:** CWS employed persons and CDS person-days are different units.
+
+### MCQ 36 — D
+
+**Option-wise explanation:**
+- **A — Incorrect:** Eligibility and enrolment still matter.
+- **B — Incorrect:** Survey employment need not require a written contract.
+- **C — Incorrect:** Firm-level formality cannot establish worker-level status.
+- **D — Correct:** Registration alone cannot prove benefits for each worker.
+
+**Examiner trap:** Firm formality is not identical to employee formality.
+
+### MCQ 37 — A
+
+**Option-wise explanation:**
+- **A — Correct:** A longitudinal jobs-and-earnings chain tests outcomes.
+- **B — Incorrect:** Enrolment is an input, not an outcome.
+- **C — Incorrect:** Credential and vacancy are distinct.
+- **D — Incorrect:** Weak demand or mismatching may also explain low placement.
+
+**Examiner trap:** Training throughput is not employment impact.
+
+### MCQ 38 — B
+
+**Option-wise explanation:**
+- **A — Incorrect:** Training does not remove the care-time constraint.
+- **B — Correct:** Care provision releases time and can create protected jobs.
+- **C — Incorrect:** A target cannot supply care.
+- **D — Incorrect:** Being on a portal does not deliver care.
+
+**Examiner trap:** Recognise, reduce and redistribute unpaid care.
+
+### MCQ 39 — C
+
+**Option-wise explanation:**
+- **A — Incorrect:** It targets unorganised workers more broadly.
+- **B — Incorrect:** It is an Indian worker database.
+- **C — Correct:** Actual coverage needs schemes, eligibility and service access.
+- **D — Incorrect:** An unorganised worker does not automatically become a provident-fund employee.
+
+**Examiner trap:** A portal count is not realised social protection.
+
+### MCQ 40 — D
+
+**Option-wise explanation:**
+- **A — Incorrect:** Households are not the specified contribution base.
+- **B — Incorrect:** Contribution architecture does not itself create an automatic pension.
+- **C — Incorrect:** Domestic aggregator contributions do not depend on MDB lending.
+- **D — Correct:** The statutory design specifies a turnover-based range and payment-linked cap.
+
+**Examiner trap:** Do not confuse a contribution rule with an operational benefit scheme.
+
+### MCQ 41 — A
+
+**Option-wise explanation:**
+- **A — Correct:** Persistent occupational mismatch calls for retraining, mobility and job creation.
+- **B — Incorrect:** The shift is technological and persistent.
+- **C — Incorrect:** Survey thresholds alone do not create occupational mismatch.
+- **D — Incorrect:** Frictionless matching contradicts persistent vacancies alongside joblessness.
+
+**Examiner trap:** Diagnose structural unemployment with skill and vacancy evidence.
+
+### MCQ 42 — B
+
+**Option-wise explanation:**
+- **A — Incorrect:** Enrolment does not show learning or placement.
+- **B — Correct:** The training-to-work pathway establishes practical relevance.
+- **C — Incorrect:** Branding is not competency.
+- **D — Incorrect:** An aggregate level cannot isolate apprentice outcomes.
+
+**Examiner trap:** A training place is not a verified job.
+
+### MCQ 43 — C
+
+**Option-wise explanation:**
+- **A — Incorrect:** Executive drafts are not judicial rulings.
+- **B — Incorrect:** Rulemaking and capacity can differ across states.
+- **C — Correct:** Legal and administrative stages affect operative coverage.
+- **D — Incorrect:** Announcements cannot establish scheme funding.
+
+**Examiner trap:** Cite dated implementation rather than treating passage as delivery.
+
+### MCQ 44 — D
+
+**Option-wise explanation:**
+- **A — Incorrect:** Employer locking interrupts protection after job changes.
+- **B — Incorrect:** A registration alone cannot deliver benefits.
+- **C — Incorrect:** Aggregates cannot establish individual coverage or remedy.
+- **D — Correct:** Mobility requires continuity at the point of service.
+
+**Examiner trap:** Portability must work in practice, not only on paper.
+
+### MCQ 45 — A
+
+**Option-wise explanation:**
+- **A — Correct:** Both work quantity and inflation-adjusted quality matter.
+- **B — Incorrect:** More workers can still have inadequate real wages.
+- **C — Incorrect:** Nominal rises can lag prices.
+- **D — Incorrect:** A denominator measures neither hours nor income.
+
+**Examiner trap:** Job counts cannot substitute for real livelihood measures.
+
+### MCQ 46 — B
+
+**Option-wise explanation:**
+- **A — Incorrect:** IMF programmes concern sovereign external finance.
+- **B — Correct:** Fixed-term protections cannot be inferred solely from duration.
+- **C — Incorrect:** No general ban follows from short duration.
+- **D — Incorrect:** Other employers can hire on fixed terms.
+
+**Examiner trap:** Fixed-term work does not erase all statutory protection.
+
+### MCQ 47 — C
+
+**Option-wise explanation:**
+- **A — Incorrect:** Wages depend on productivity and labour demand.
+- **B — Incorrect:** Age structure changes as population ages.
+- **C — Correct:** Realisation needs participation, capabilities and productive employment.
+- **D — Incorrect:** Labour-force nonparticipants need not meet job-search and availability criteria.
+
+**Examiner trap:** Demography is an opportunity, not output itself.
+
+### MCQ 48 — D
+
+**Option-wise explanation:**
+- **A — Incorrect:** Payroll systems are administrative while WPR comes from household sampling.
+- **B — Incorrect:** Job switching and new registration can generate entries.
+- **C — Incorrect:** They include self-employment and diverse sectors.
+- **D — Correct:** Formalisation or switching can alter enrolments without equivalent net job gains.
+
+**Examiner trap:** Do not add administrative enrolments to survey employment rates.
+
+### VERIFIED MAINS PYQ MODEL SOLUTIONS
 
 ### OFFICIAL-WORDING AND KEY DISCIPLINE
 
 The five Mains stems below reproduce audited official-paper wording or the exact routed official demand. Their solutions are original examiner-ready models; UPSC does not publish model answers. Historical objective routes are kept answer-key neutral because no matched final official key chain is held locally.
 
+
 ### VERIFIED MAINS PYQ - 2024 GS-III Q11
 
-**Question:** Discuss the merits and demerits of the four 'Labour Codes' in the context of labour market reforms in India. What has been the progress so far in this regard? (Answer in 250 words)
-
-**Model answer:**
+**Original model answer (UPSC does not issue model answers):**
 
 The four Codes consolidate 29 central laws into wage, industrial-relations, social-security and occupational-safety frameworks. Their merits are wider minimum-wage architecture, common definitions, negotiating institutions, fixed-term parity, portable social-security design, gig-worker recognition and simpler registration. Potential demerits arise from 300-worker thresholds, broader strike notice, uncertain bargaining effects, scheme-dependent gig protection and the possibility that digital compliance outruns field enforcement. Progress must be dated. The Codes were enacted in 2019-20; commencement notifications appointed 21 November 2025, with the Wages and Social Security notices specifying provisions. Final Central Rules G.S.R. 342(E)-345(E) were published on 8 May 2026. The Economic Survey 2025-26 recorded 32 States and Union Territories having published draft rules, but draft status and administrative readiness are not uniform final implementation. The correct verdict is enforceable flexicurity: predictable adjustment for firms combined with wage floors, worker voice, safety, portable protection, reskilling and accessible remedies. Outcomes should be tested through formal hiring, real wages, disputes, accidents, coverage and compliance costs rather than enactment alone.
 
 ### VERIFIED MAINS PYQ - 2023 GS-III Q11
 
-**Question:** Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements. (Answer in 250 words)
-
-**Model answer:**
+**Original model answer (UPSC does not issue model answers):**
 
 Structural unemployment reflects persistent mismatch of skills, occupations and locations as production changes. India measures labour status mainly through PLFS household surveys. Usual status uses a 365-day reference and captures principal plus subsidiary activity; Current Weekly Status uses seven days and classifies a person employed after at least one hour of work; Current Daily Status records person-days and is more sensitive to underemployment. LFPR, WPR and UR must be read together because UR uses the labour force, not population, as denominator. This architecture captures multiple time horizons, rural and urban labour and diverse employment statuses. Yet a binary employed label can conceal low hours, disguised work, skill underuse and weak earnings; discouraged workers may leave the labour force; annual usual-status and monthly CWS estimates are not directly comparable. Improvement requires publishing hours-based underutilisation, vacancy and occupation-skill data, transition panels, district and gender detail, confidence intervals, and consistent links with enterprise and payroll data without adding unlike universes. Better measurement should preserve survey independence and privacy. The objective is not one lower rate, but a transparent dashboard of participation, employment, unemployment, hours, earnings, security and productivity.
 
 ### VERIFIED MAINS PYQ - 2023 GS-III Q12
 
-**Question:** Distinguish between 'care economy' and 'monetized economy'. How can care economy be brought into monetized economy through women empowerment? (Answer in 250 words)
-
-**Model answer:**
+**Original model answer (UPSC does not issue model answers):**
 
 The care economy comprises paid and unpaid work that maintains people and households, including childcare, eldercare, cooking and nursing. The monetised economy records market-valued production and paid transactions. Unpaid care therefore creates real welfare and reproduces labour power even when it falls outside measured GDP. Women bear a disproportionate time burden, constraining education, mobility and paid work. Bringing more care into the monetised economy requires public childcare and eldercare services, professional training and certification, decent wages and social security for care workers, safe transport, flexible schedules, maternity protection and public procurement of quality services. Credit and market support can help women-led care enterprises, while workplace crèches and shared parental responsibilities release women's time. However, monetisation is not the same as empowerment if care jobs remain honorary, precarious or poorly paid. Policy should recognise, reduce and redistribute unpaid care while expanding voluntary, dignified paid care work. Success should be measured through women's time use, LFPR, real earnings, care quality, formal protection and decision-making power, not merely the number of centres or trainees.
 
 ### VERIFIED MAINS PYQ - 2023 GS-II Q18
 
-**Question:** Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement, analyse the linkages between education, skill and employment. (Answer in 250 words)
-
-**Model answer:**
+**Original model answer (UPSC does not issue model answers):**
 
 Education builds literacy, numeracy, health awareness and transferable reasoning; occupational skill converts these foundations into task competency; employment uses and deepens capability through experience. Weak learning limits trainability, while training unconnected to firms can produce certificates without jobs. Conversely, productive firms may face vacancies when curricula, location or wage expectations do not match demand. Policy must therefore connect schools, ITIs, PMKVY, Recognition of Prior Learning and apprenticeships through common standards and employer participation. PM-NAPS reduces part of apprenticeship cost, while Sector Skill Councils develop occupational standards. Career services, migration support, safe transport and childcare improve matching and participation. Evaluation should follow enrolment, completion, assessment integrity, placement, retention and real wage progression rather than training totals. General and vocational education should remain permeable so workers can adapt to technology instead of being trapped in narrow trades. Finally, jobs require macroeconomic demand, competitive firms, infrastructure and entrepreneurship; skill supply alone cannot create vacancies. The linkage succeeds when capability, certified competency, employer demand and decent work reinforce one another.
 
 ### VERIFIED MAINS PYQ - 2022 GS-II Q16
 
-**Question:** Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. (Answer in 250 words)
-
-**Model answer:**
+**Original model answer (UPSC does not issue model answers):**
 
 Welfare schemes cushion households but cannot substitute for stable prices and durable livelihoods. Inflation erodes the real wages and savings of poor households, especially where pay is informal and unindexed. Yet disinflation based only on severe demand compression can weaken construction, MSMEs and other labour-intensive activity. A deft policy mix should repair food, fuel and logistics supply, maintain credible monetary policy, use calibrated fiscal support and protect productive public investment. Unemployment policy should expand labour-intensive manufacturing, care services, urban infrastructure and rural nonfarm enterprise; remove female participation barriers; and connect education, apprenticeships and labour-market information with firm demand. Portable food, health and social-security systems protect migrants and informal workers during transitions. Minimum wages and collective institutions support earnings, while reskilling helps displaced workers. Welfare remains a floor for shocks and incapacity, but it should complement rather than replace job creation. Outcomes should be judged through inflation incidence, LFPR, WPR, hours, real earnings, security and productivity. The objective is price stability with employment-rich growth, not a false choice between transfers and macroeconomic management.
 
@@ -673,11 +988,10 @@ Welfare schemes cushion households but cannot substitute for stable prices and d
 | 2021 | 2 | Casual workers, EPF and wage payment | No answer letter inferred |
 | 2022 | 71 | Agency compiling industrial-disputes data | No answer letter inferred |
 
-## ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+
+### ORIGINAL MAINS MODEL SOLUTIONS
 
 ### ORIGINAL MAINS 1 - 10 MARKS
-
-**Question:** Distinguish LFPR, WPR and unemployment rate and explain why they must be read together. Answer in 150 words.
 
 **Model answer:**
 
@@ -693,8 +1007,6 @@ Comparisons must preserve age, sex, geography, reference period and status metho
 
 ### ORIGINAL MAINS 2 - 10 MARKS
 
-**Question:** Why is India's demographic dividend conditional and time-bound? Answer in 150 words.
-
 **Model answer:**
 
 A demographic dividend is the potential growth gain from a favourable age structure, not an automatic reward from youth. Falling fertility can increase the working-age share and reduce dependency, creating scope for higher output, saving and investment.
@@ -708,8 +1020,6 @@ The window is time-bound because large working-age cohorts eventually become eld
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 3 - 15 MARKS
-
-**Question:** Examine structural unemployment in India and the measurement reforms needed to identify it better. Answer in 250 words.
 
 **Model answer:**
 
@@ -729,8 +1039,6 @@ Better measurement will not itself create jobs, but it can distinguish demand sh
 
 ### ORIGINAL MAINS 4 - 15 MARKS
 
-**Question:** Evaluate the four Labour Codes through the lens of flexibility, security and federal implementation. Answer in 250 words.
-
 **Model answer:**
 
 The four Labour Codes consolidate 29 central laws covering wages, industrial relations, social security, and occupational safety and working conditions. They seek common definitions, wider minimum-wage architecture, simpler registration, negotiating institutions, fixed-term parity, migrant portability and legal recognition of gig and platform workers.
@@ -747,8 +1055,6 @@ The test is enforceable flexicurity, not codification alone. Measure formal hiri
 
 ### ORIGINAL MAINS 5 - 20 MARKS
 
-**Question:** How can India raise women's employment while recognising and redistributing unpaid care work? Answer in 250 words.
-
 **Model answer:**
 
 Women's employment is constrained not only by skills but also by unpaid care, safety, transport, workplace design, social norms and the availability of suitable jobs. PLFS Annual Report 2025 records female LFPR at 40.0 percent in usual status for age 15 and above; among women outside the labour force, 44.4 percent cited childcare or personal homemaking commitments as the main reason. The figures establish a barrier, not the quality of jobs entered.
@@ -764,8 +1070,6 @@ Progress should be measured through participation, paid-work status, hours, real
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 6 - 20 MARKS
-
-**Question:** Design an employment strategy that combines structural transformation, skills and portable social security. Answer in 250 words.
 
 **Model answer:**
 

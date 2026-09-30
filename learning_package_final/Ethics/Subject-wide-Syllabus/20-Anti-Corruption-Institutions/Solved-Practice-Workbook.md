@@ -12,827 +12,547 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+Choose the best response. All questions appear before the separately matched key. The last quarter comprises remedial applications.
+
 #### MCQ 1
 
-A department treats an audit alert as conclusive guilt and dismisses an officer without hearing. Which institutional-design principle has been collapsed? Which source-grounded ethical principle most precisely explains the case?
+A ministry dismisses an officer merely because a CVC advisory note flags a suspicious licence. Which correction best distinguishes institutional roles and protects accountability?
 
-A. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-B. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-C. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-D. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-**Answer:** A
-**Explanation:** **Anti-corruption architecture is stage-separated** is the controlling principle. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Secure the underlying evidence; the competent disciplinary authority must hear and decide the case, while a criminal court alone determines criminal guilt after lawful investigation and trial.
+B. Treat the CVC advisory opinion as a final criminal verdict and issue dismissal without hearing.
+C. Ask the CVO to pronounce a custodial sentence because it screened the complaint.
+D. Refer the allegation only to an auditor and prohibit disciplinary examination until conviction.
 
 ---
 
 #### MCQ 2
 
-A credible complaint is screened, investigated by the competent agency, prosecuted through lawful process and decided by a court. Which architecture is being respected? Which source-grounded ethical principle most precisely explains the case?
+A citizen submits a credible complaint against a Union official; investigators disagree with CVC staff about the likely result. Which exercise of CVC superintendence is legitimate?
 
-A. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-B. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-C. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-D. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-**Answer:** B
-**Explanation:** **Anti-corruption architecture is stage-separated** is the controlling principle. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Order every CBI investigation, including unrelated special crimes, to conclude in conviction.
+B. Review anti-corruption investigation progress within its statutory sphere, without directing a predetermined finding in a specific case.
+C. Determine guilt and sentence the official itself, bypassing the court.
+D. Transfer all State police cases automatically to CBI without consent or court order.
 
 ---
 
 #### MCQ 3
 
-A Minister-official collusion complaint is repeatedly transferred among bodies until limitation and evidence risks grow. Which structural diagnosis best explains the failure? Which source-grounded ethical principle most precisely explains the case?
+A legal memo says CBI was directly constituted by the Delhi Special Police Establishment Act. How should an officer describe its authority more precisely?
 
-A. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-B. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-C. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-D. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-**Answer:** C
-**Explanation:** **Multiplicity can create overlap without coherence** is the controlling principle. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the DSPE Act as a constitutional amendment establishing the CBI in 1963.
+B. Call the CBI an arm of the CVC Act with no separate police powers.
+C. Distinguish the CBI's executive creation in 1963 from investigative police powers exercised under the DSPE Act, 1946.
+D. Attribute every CBI police power to a later Lokpal appointment alone.
 
 ---
 
 #### MCQ 4
 
-A referral protocol names the lead body, evidence custodian, reporting deadline and next forum. Which response to institutional multiplicity is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A State withdraws general consent for DSPE operations. Union officials still seek a fresh CBI investigation of a local crime solely on executive instructions. Which step is sound?
 
-A. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-B. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-C. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-D. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-**Answer:** D
-**Explanation:** **Multiplicity can create overlap without coherence** is the controlling principle. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Proceed because central executive direction invariably overrides State consent.
+B. Conclude that neither the Supreme Court nor a High Court may ever order a CBI inquiry there.
+C. Treat consent to one earlier case as continuing general consent for all new investigations.
+D. Seek case-specific State consent where required; do not mistake withdrawal for an absolute veto over constitutional-court directions.
 
 ---
 
 #### MCQ 5
 
-A watchdog rejects all external review as interference and issues unexplained adverse findings. Which misconception about independence is present? Which source-grounded ethical principle most precisely explains the case?
+A High Court records exceptional reasons for a CBI probe despite withdrawn general State consent. Which explanation avoids turning judicial intervention into a routine bypass?
 
-A. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-B. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-C. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-D. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-**Answer:** A
-**Explanation:** **Independence and accountability must coexist** is the controlling principle. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Constitutional courts may order a CBI investigation under Articles 32/226 in appropriate cases; their power is distinct from routine Union-executive invocation of DSPE powers.
+B. The High Court must obtain fresh Union permission because State consent was withdrawn.
+C. Any Union officer may treat the court's exceptional power as an executive power for subsequent files.
+D. Withdrawal of general consent invalidates all judicially directed inquiries automatically.
 
 ---
 
 #### MCQ 6
 
-An agency has operational autonomy while publishing aggregate results, recording reasons and remaining subject to courts and audit. Which balanced principle is shown? Which source-grounded ethical principle most precisely explains the case?
+A recruitment file claims the 2007 ARC proposed the exact present-day Chairperson-plus-eight Lokpal. Which historical correction is most precise?
 
-A. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-B. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-C. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-D. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-**Answer:** B
-**Explanation:** **Independence and accountability must coexist** is the controlling principle. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The ARC proposed no Lok Pal and only a departmental auditor.
+B. The ARC envisaged a three-member Lok Pal with judicial chair, jurist and ex-officio CVC; the 2013 Act enacted a differently composed Chairperson and up to eight Members.
+C. The 2013 Act abolished the proposed judicial role in the body's membership.
+D. A recommendation itself has the legal force of the later Act whenever the names match.
 
 ---
 
 #### MCQ 7
 
-A complaint naming no transaction is publicised before verification, causing irreversible reputational harm. Which legitimacy safeguard was neglected? Which source-grounded ethical principle most precisely explains the case?
+An appointment panel plans to fill Lokpal entirely with judges and ignores representation. Which check best applies?
 
-A. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-B. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-C. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-D. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-**Answer:** C
-**Explanation:** **Institutional design must protect public trust and due process** is the controlling principle. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Require that every Member be a serving Supreme Court judge because half is a ceiling.
+B. Ignore the representation condition because the Chairperson is judicial.
+C. Apply the Act's judicial-member floor and its statutory representation requirement while recognising not every Member must be judicial.
+D. Replace statutory composition with the ARC's three-person design.
 
 ---
 
 #### MCQ 8
 
-A body preserves evidence confidentially, defines allegations and gives the affected person a lawful opportunity to respond. Which institutional ethic is applied? Which source-grounded ethical principle most precisely explains the case?
+A suspected procurement conspiracy involves a Union Minister, an official and a private beneficiary; complaints go to three bodies with no shared record. Which ARC response targets the structural risk?
 
-A. The Second Administrative Reforms Commission identified overlapping Union and State anti-corruption bodies as a coherence problem; adding a watchdog helps only when referrals, records, responsibility and follow-up are clearly allocated.
-
-B. An anti-corruption body needs protected appointments, tenure, resources and decisional space, but independence is not absence of reasons, legislative reporting, judicial review, financial scrutiny or fair procedure.
-
-C. Complaint receipt, preliminary inquiry, evidence-gathering investigation, prosecution before a competent court and adjudication are distinct functions; institutional coordination must connect them without allowing one preliminary finding to become guilt.
-
-D. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions.
-
-**Answer:** D
-**Explanation:** **Institutional design must protect public trust and due process** is the controlling principle. Credible enforcement requires timely action and insulation from influence, while specificity, confidentiality, hearing, evidence standards and reasoned decisions protect reputation, honest administration and the legitimacy of eventual sanctions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Require each body to collect evidence independently and prohibit exchanges.
+B. Give the Lokpal power to pronounce guilt in all three cases without prosecution.
+C. Close the official's file because the Minister's case has a different forum.
+D. Specify a lead, preserved common transaction record, lawful referrals and progress deadlines while retaining CVC, investigator and court roles.
 
 ---
 
 #### MCQ 9
 
-A ministry states that CVC advice itself proves criminal guilt. Which role boundary corrects this claim? Which source-grounded ethical principle most precisely explains the case?
+A complaint names the Prime Minister in relation to a subject excluded from Lokpal's PM jurisdiction; another concerns a non-excluded matter. Which statement is sound?
 
-A. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-B. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-C. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-D. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-**Answer:** A
-**Explanation:** **CVC is advisory and superintending, not a trial court** is the controlling principle. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The enacted Act includes qualified PM jurisdiction, with subject exclusions and special procedural safeguards; screen each complaint against both.
+B. All PM complaints are automatically outside the Act because that was the ARC's proposal.
+C. Every PM complaint must proceed identically to a junior officer's complaint.
+D. Either complaint becomes admissible on mere publicity without statutory scrutiny.
 
 ---
 
 #### MCQ 10
 
-The Commission reviews vigilance handling while a competent court determines guilt after prosecution. Which institutional distinction is maintained? Which source-grounded ethical principle most precisely explains the case?
+A student says ARC wanted the Prime Minister to evade every accountability mechanism. Which debate did the ARC actually frame?
 
-A. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-B. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-C. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-D. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-**Answer:** B
-**Explanation:** **CVC is advisory and superintending, not a trial court** is the controlling principle. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. It asserted that the PM cannot be removed even by Parliament.
+B. It preferred parliamentary-confidence and no-confidence accountability for the sitting PM over formal Lok Pal inquiry, while proposing minister/MP coverage; the enacted law chose qualified inclusion.
+C. It demanded unlimited criminal liability based solely on a Lok Pal rumour.
+D. It made the CVC the final appellate body over parliamentary confidence.
 
 ---
 
 #### MCQ 11
 
-A candidate says the CVC directs all CBI work, including every unrelated special-crime case. Which statutory limitation has been missed? Which source-grounded ethical principle most precisely explains the case?
+A Lokpal receives an allegation about a public-sector official and a funded trust. Staff assume any complaint against any entity is covered. Which first step is defensible?
 
-A. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-B. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-C. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-D. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-**Answer:** C
-**Explanation:** **CVC superintendence over CBI is subject-matter limited** is the controlling principle. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assert jurisdiction over any private dispute because Lokpal exists nationally.
+B. Reject all funded entities categorically, regardless of the Act's specified classes.
+C. Verify person/category, funding threshold where relevant, alleged corruption and procedural limits before sending a matter to an investigator.
+D. Proceed directly to sentencing without checking complaint conditions.
 
 ---
 
 #### MCQ 12
 
-The Commission reviews progress in a corruption investigation but does not demand a predetermined outcome in a particular case. Which boundary is respected? Which source-grounded ethical principle most precisely explains the case?
+A Lokpal inquiry reveals evidence requiring police search and eventual prosecution. Which sequence respects the continuing role of specialist bodies?
 
-A. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-B. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-C. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-D. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-**Answer:** D
-**Explanation:** **CVC superintendence over CBI is subject-matter limited** is the controlling principle. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Have Lokpal personnel alone investigate, prosecute and adjudicate every stage.
+B. Ask the CVC to convict once it reviews the case file.
+C. Publish the suspect's guilt upon the investigating agency's charge sheet.
+D. Use lawful referral/direction and progress review with the competent investigation agency, then prosecution and independent judicial determination.
 
 ---
 
 #### MCQ 13
 
-A public enterprise mechanically punishes an employee because a vigilance opinion was received, without conducting the required proceeding. What has it displaced? Which source-grounded ethical principle most precisely explains the case?
+A senior officer discovers touts extracting fees in a State district office. Which routing distinguishes officials, intermediaries and vulnerable complainants?
 
-A. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-B. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-C. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-D. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-**Answer:** A
-**Explanation:** **CVC advice does not replace the disciplinary authority** is the controlling principle. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use competent departmental vigilance for staff, State ACB/police for trap or suspected Section 7A crime, and confidential State-appropriate reporting for staff, not an automatic central PIDPI claim.
+B. Order a collector personally to run an unauthorised police trap and prosecute on the spot.
+C. Submit every State staff grievance only to central PIDPI as if it covered all employees.
+D. Ignore the intermediaries and discipline only applicants for paying.
 
 ---
 
 #### MCQ 14
 
-The disciplinary authority considers vigilance advice, records its own findings and follows the applicable procedure. Which allocation of responsibility is correct? Which source-grounded ethical principle most precisely explains the case?
+A central PSU whistleblower asks to submit an anonymous PIDPI complaint so nobody, including CVC, knows who sent it. Which safeguard is accurate?
 
-A. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-B. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-C. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-D. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-**Answer:** B
-**Explanation:** **CVC advice does not replace the disciplinary authority** is the controlling principle. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Anonymous and pseudonymous complaints receive exactly the same PIDPI treatment as identified confidential ones.
+B. The complainant must identify themselves to the CVC for the PIDPI route; CVC keeps identity confidential from others and takes precautions against exposure.
+C. CVC must publish the complainant's name to prove the complaint exists.
+D. PIDPI automatically gives all private employees the protections of a commenced Whistle Blowers Protection Act.
 
 ---
 
 #### MCQ 15
 
-A ministry asks its CVO to pronounce a criminal sentence after checking a procurement complaint. Which role inflation is involved? Which source-grounded ethical principle most precisely explains the case?
+A central department receives a CVO preliminary note recommending inquiry, but refuses independent analysis because 'vigilance has decided guilt'. What should follow?
 
-A. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-B. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-C. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-D. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-**Answer:** C
-**Explanation:** **A departmental CVO is the internal vigilance node** is the controlling principle. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the CVO impose a criminal sentence immediately.
+B. Treat the note as irrelevant because only conviction can justify administrative action.
+C. Secure evidence, allow the competent disciplinary authority to assess independently with a hearing, and refer possible PC Act offences to competent investigators.
+D. Give all investigative powers and final judicial authority to CVC.
 
 ---
 
-#### MCQ 16
+#### MCQ 16 — remedial
 
-A CVO secures records, examines the vigilance angle and refers suspected criminality through the competent channel. Which departmental function is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A State minister is alleged to have received a benefit while State officials suppressed an inspection. The centre's Lokpal law is cited as governing every State official. What correction matters?
 
-A. CVC superintendence concerns the Delhi Special Police Establishment's investigation of offences under the Prevention of Corruption Act and connected trial offences; it is not general command over every CBI investigation.
-
-B. Vigilance advice informs the competent government's or organisation's decision, but the lawful disciplinary authority must independently apply service rules, evidence, hearing requirements and reasons before imposing a penalty.
-
-C. The Central Vigilance Commission advises on vigilance administration and exercises statutory superintendence over the Delhi Special Police Establishment for specified corruption investigations; it does not itself convict or impose a criminal sentence.
-
-D. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators.
-
-**Answer:** D
-**Explanation:** **A departmental CVO is the internal vigilance node** is the controlling principle. A Chief Vigilance Officer coordinates preventive vigilance, examines complaints and suspected vigilance matters, supports disciplinary routing and interfaces with the CVC; the CVO is not an independent criminal court or a substitute for investigators. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Automatically transplant Lokpal membership and CBI links into every State.
+B. Route all State officials to the CVC merely because it is central.
+C. Assume no State can maintain a Lokayukta or ACB at all.
+D. Check the State Lokayukta Act, State vigilance/ACB jurisdiction and applicable police powers; State architectures differ from central Lokpal arrangements.
 
 ---
 
-#### MCQ 17
+#### MCQ 17 — remedial
 
-An answer describes the CBI itself as a body created directly by the DSPE Act. Which precision correction is required? Which source-grounded ethical principle most precisely explains the case?
+An agency celebrates rising complaint intake while files stall between verification and prosecution. Which performance diagnosis is more credible?
 
-A. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-B. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-C. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-D. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-**Answer:** A
-**Explanation:** **CBI draws police powers from the DSPE Act** is the controlling principle. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Measure time to triage, hand-off quality, evidentiary progress, sanction decisions, fair disposal and outcomes without equating allegation counts with success.
+B. Count every complaint as a proven crime and report a perfect conviction rate.
+C. Treat the existence of a statute as sufficient proof that institutions perform well.
+D. Suppress all complaint data to prevent public scrutiny.
 
 ---
 
-#### MCQ 18
+#### MCQ 18 — remedial
 
-An investigator identifies the DSPE Act as the source of police powers while separately noting the CBI's executive creation. Which distinction is correct? Which source-grounded ethical principle most precisely explains the case?
+The CVC reviews a DSPE anti-corruption investigation involving a Union officer, while another CBI unit investigates an unrelated special crime. Where should the boundary be drawn?
 
-A. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-B. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-C. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-D. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-**Answer:** B
-**Explanation:** **CBI draws police powers from the DSPE Act** is the controlling principle. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. CVC takes direct control of every CBI file regardless of subject.
+B. CVC's specified superintendence relates to DSPE investigation of PC Act offences and connected offences, not a blanket command over all CBI cases.
+C. CVC is forbidden from any oversight of anti-corruption investigation.
+D. CVC must personally prosecute both cases before Lokpal.
 
 ---
 
-#### MCQ 19
+#### MCQ 19 — remedial
 
-The Union executive directs a fresh CBI police investigation wholly within a State that has not consented. Which federal requirement arises? Which source-grounded ethical principle most precisely explains the case?
+An anti-corruption reform merges complaint receipt, police investigation, prosecution, trial and employee discipline into one unchecked office. Which redesign best answers the ARC's coordination concern?
 
-A. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-B. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-C. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-D. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-**Answer:** C
-**Explanation:** **State consent ordinarily controls DSPE extension** is the controlling principle. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Complete integration means one authority should pronounce guilt without judicial review.
+B. Revert to completely isolated bodies, each starting the evidentiary file from zero.
+C. Use common case identifiers, evidence custody, referral rules and progress review, but preserve independent investigators, disciplinary hearing and courts.
+D. Drop review and reasons to protect the new agency's independence.
 
 ---
 
-#### MCQ 20
+#### MCQ 20 — remedial
 
-A State grants case-specific consent after withdrawing general consent. What lawful route enables the CBI to exercise DSPE powers there? Which source-grounded ethical principle most precisely explains the case?
+An integrity commission publishes a named officer's guilt from an untested complaint; reporters demand openness. Which response better reconciles transparency and fair process?
 
-A. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-B. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-C. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-D. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-**Answer:** D
-**Explanation:** **State consent ordinarily controls DSPE extension** is the controlling principle. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Keep no written complaint record to avoid prejudicing the officer.
+B. Publish every witness name and unverified allegation before inquiry.
+C. Refuse any public reporting about system-wide performance indefinitely.
+D. Preserve records confidentially, communicate aggregate process/status where lawful, notify the accused of allegations at the proper stage and let competent bodies determine facts.
 
 ---
 
-#### MCQ 21
+### MATCHED ANSWER KEY — FOUR OPTION DIAGNOSTICS
 
-A State argues that withdrawal of general consent prevents even a High Court from ordering a CBI probe. Which constitutional caveat answers the claim? Which source-grounded ethical principle most precisely explains the case?
+#### MCQ 1 — A
 
-A. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-B. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-C. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-D. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-**Answer:** A
-**Explanation:** **Constitutional courts form the consent caveat** is the controlling principle. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Advice is not adjudication: scrutiny, discipline and criminal guilt use distinct competent forums and standards.
+- **B:** The CVC's advice is not a conviction or a substitute for natural justice.
+- **C:** The CVO screens vigilance matters, not criminal sentences.
+- **D:** Disciplinary action need not mechanically await a criminal conviction.
+- **Trap to avoid:** The CVC's advice is not a conviction or a substitute for natural justice. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 22
+#### MCQ 2 — B
 
-A High Court orders an exceptional CBI investigation after recording constitutional reasons. Why is ordinary executive consent analysis not decisive? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-B. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-C. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-D. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-**Answer:** B
-**Explanation:** **Constitutional courts form the consent caveat** is the controlling principle. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** CVC's superintendence does not cover every CBI function or guarantee conviction.
+- **B:** Specified anti-corruption oversight does not authorise dictating evidence-dependent outcomes.
+- **C:** Superintendence differs from independent adjudication.
+- **D:** Federal and territorial gates remain applicable.
+- **Trap to avoid:** Superintendence differs from independent adjudication. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 23
+#### MCQ 3 — C
 
-A press release calls an accused person guilty immediately after a charge sheet. Which investigation-adjudication distinction is violated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-B. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-C. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-D. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-**Answer:** C
-**Explanation:** **CBI investigation is not adjudication** is the controlling principle. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The DSPE Act is not a constitutional amendment creating CBI.
+- **B:** The CVC's oversight does not confer all investigative powers.
+- **C:** The organisation's creation and its police-power statute have different sources.
+- **D:** Lokpal can refer/direct cases but did not create the DSPE police power.
+- **Trap to avoid:** Lokpal can refer/direct cases but did not create the DSPE police power. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 24
+#### MCQ 4 — D
 
-An agency presents tested evidence through prosecution while the court independently determines guilt. Which separation preserves legitimacy? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Union may extend Delhi Special Police Establishment jurisdiction to a State, but ordinary exercise of those police powers within that State requires its consent, whether general or case-specific, under the federal statutory arrangement.
-
-B. State consent is not an absolute bar because the Supreme Court under Article 32 and High Courts under Article 226 may direct a CBI investigation to enforce fundamental rights and constitutional justice, using that exceptional power cautiously.
-
-C. The Central Bureau of Investigation was created by executive resolution, while its police powers for investigation derive from the Delhi Special Police Establishment Act; the institutional name and statutory source should not be conflated.
-
-D. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility.
-
-**Answer:** D
-**Explanation:** **CBI investigation is not adjudication** is the controlling principle. CBI may register and investigate cases within lawful jurisdiction and its prosecutors may conduct cases before competent courts, but charges and agency conclusions remain allegations until the court adjudicates responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The executive has no blanket exemption from the federal gate.
+- **B:** Articles 32 and 226 powers are not extinguished by withdrawal.
+- **C:** Case-specific and general consent cannot be conflated.
+- **D:** Ordinary executive policing observes DSPE territorial consent; exceptional court powers remain.
+- **Trap to avoid:** The executive has no blanket exemption from the federal gate. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 25
+#### MCQ 5 — A
 
-A candidate attributes the enacted Chairperson-plus-eight-member structure directly to the ARC's three-member proposal. Which historical distinction is missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-B. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-C. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-D. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-**Answer:** A
-**Explanation:** **ARC's Lok Pal proposal and the enacted Lokpal differ** is the controlling principle. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Constitutional review is available cautiously, without normalising executive circumvention.
+- **B:** State consent is not an absolute condition on a constitutional court's order.
+- **C:** Judicial authority cannot be silently reassigned to the executive.
+- **D:** State withdrawal does not extinguish constitutional remedies.
+- **Trap to avoid:** State consent is not an absolute condition on a constitutional court's order. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 26
+#### MCQ 6 — B
 
-An answer first states the 2007 recommendation and then separately explains the 2013 enacted design. Which source discipline is demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-B. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-C. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-D. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-**Answer:** B
-**Explanation:** **ARC's Lok Pal proposal and the enacted Lokpal differ** is the controlling principle. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The ARC explicitly made a Lok Pal proposal.
+- **B:** Recommendation and enactment differ in composition and legal status.
+- **C:** The enacted body has a judicial-member requirement.
+- **D:** Proposals do not acquire statutory force merely by resemblance.
+- **Trap to avoid:** The enacted body has a judicial-member requirement. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 27
+#### MCQ 7 — C
 
-An option says every Lokpal Member must be a judge. Which composition rule makes it incorrect? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-B. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-C. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-D. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-**Answer:** C
-**Explanation:** **Enacted Lokpal combines judicial membership and representation** is the controlling principle. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** At least half judicial is not all judicial.
+- **B:** One judicial Chairperson cannot erase statutory member requirements.
+- **C:** The Act sets minimum judicial and specified-group representation, not an all-judges rule.
+- **D:** ARC's proposed structure is not the enacted appointment rule.
+- **Trap to avoid:** ARC's proposed structure is not the enacted appointment rule. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 28
+#### MCQ 8 — D
 
-A selection process must respect both the judicial-member floor and the statutory representation requirement. Which enacted design feature is involved? Which source-grounded ethical principle most precisely explains the case?
-
-A. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-B. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-C. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-D. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-**Answer:** D
-**Explanation:** **Enacted Lokpal combines judicial membership and representation** is the controlling principle. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Duplicative silos multiply gaps and inconsistent evidence.
+- **B:** The Lokpal is not a criminal trial court.
+- **C:** Cross-actor collusion cannot be assessed by ignoring the common transaction.
+- **D:** Organic linkage addresses fragmentation without fusing investigative and judicial functions.
+- **Trap to avoid:** Duplicative silos multiply gaps and inconsistent evidence. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 29
+#### MCQ 9 — A
 
-A statement claims Lokpal jurisdiction extends without qualification to every person and every public controversy in India. Which correction is required? Which source-grounded ethical principle most precisely explains the case?
-
-A. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-B. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-C. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-D. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-**Answer:** A
-**Explanation:** **Lokpal jurisdiction is broad but legally bounded** is the controlling principle. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The enacted qualified route differs from the ARC's parliamentary-accountability recommendation.
+- **B:** An ARC position is not the enacted law.
+- **C:** Special exclusions and procedure preclude identical treatment.
+- **D:** Public allegations do not replace jurisdictional screening.
+- **Trap to avoid:** An ARC position is not the enacted law. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 30
+#### MCQ 10 — B
 
-A complaint is first tested against the office, subject matter, funding category and statutory conditions. Which jurisdictional discipline is being applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-B. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-C. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-D. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-**Answer:** B
-**Explanation:** **Lokpal jurisdiction is broad but legally bounded** is the controlling principle. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Parliamentary confidence was central to the ARC's reasoning.
+- **B:** The concern was continuity of a confidence-based government, not personal impunity.
+- **C:** The ARC's argument weighs institutional effects, not allegation-based guilt.
+- **D:** CVC oversight cannot substitute for parliamentary confidence.
+- **Trap to avoid:** The ARC's argument weighs institutional effects, not allegation-based guilt. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 31
+#### MCQ 11 — C
 
-A complaint is within Lokpal jurisdiction, so an answer says the Lokpal itself must perform every evidence-gathering and trial function. Which design feature disproves this? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-B. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-C. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-D. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-**Answer:** C
-**Explanation:** **Lokpal may use inquiry and investigating agencies** is the controlling principle. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The Lokpal has defined statutory reach, not universal private jurisdiction.
+- **B:** Certain specified funded bodies can fall within statutory categories.
+- **C:** Institutional jurisdiction is actor-, category- and allegation-specific.
+- **D:** Jurisdictional screening precedes investigation or adjudication.
+- **Trap to avoid:** Jurisdictional screening precedes investigation or adjudication. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 32
+#### MCQ 12 — D
 
-Lokpal directs a referred investigation, reviews progress and later uses the lawful prosecution route. Which coordinated model is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Lokpal consists of a Chairperson and not more than eight Members; at least half the Members must be judicial, and at least half must come from the specified social categories, minorities and women.
-
-B. The enacted Lokpal covers the Prime Minister subject to safeguards, Union Ministers, Members of Parliament, central officials and specified funded or foreign-contribution bodies, while preserving express exclusions and procedural conditions.
-
-C. The Second Administrative Reforms Commission proposed a three-member Lok Pal for Ministers and Members of Parliament with the CVC ex officio, whereas the 2013 law enacted a broader and differently composed institution.
-
-D. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court.
-
-**Answer:** D
-**Explanation:** **Lokpal may use inquiry and investigating agencies** is the controlling principle. Lokpal may order preliminary inquiry through its Inquiry Wing or another agency and may refer investigation to a competent agency, including CBI in appropriate cases; referral does not convert the ombudsman into the adjudicating court. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Concentration would erase independent procedural checks.
+- **B:** CVC advice cannot supply a criminal verdict.
+- **C:** A charge sheet alleges, not proves, guilt.
+- **D:** An overarching anti-corruption body coordinates but does not abolish specialist powers or courts.
+- **Trap to avoid:** Concentration would erase independent procedural checks. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 33
+#### MCQ 13 — A
 
-An option says the Prime Minister is completely outside Lokpal jurisdiction. Which enacted compromise makes that option false? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-B. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-C. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-D. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-**Answer:** A
-**Explanation:** **Prime Minister jurisdiction is qualified, not absent** is the controlling principle. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Channels vary by actor and purpose; Central PIDPI cannot simply be extended to State staff.
+- **B:** A trap needs competent police authority and lawful process.
+- **C:** Central PIDPI's scope is not universal for State employees.
+- **D:** Touts and colluding officials require distinct legal examination.
+- **Trap to avoid:** A trap needs competent police authority and lawful process. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 34
+#### MCQ 14 — B
 
-A complaint concerning an unexcluded subject is considered by the full bench under the special threshold and in-camera process. Which qualified jurisdiction applies? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-B. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-C. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-D. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-**Answer:** B
-**Explanation:** **Prime Minister jurisdiction is qualified, not absent** is the controlling principle. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Anonymous/pseudonymous PIDPI submissions are not considered under that mechanism.
+- **B:** Confidential identity is different from an unknown identity.
+- **C:** Identity protection is central to reporting safety.
+- **D:** Administrative PIDPI has limited reach and is not the uncommenced statute.
+- **Trap to avoid:** Identity protection is central to reporting safety. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 35
+#### MCQ 15 — C
 
-A student says the ARC believed the Prime Minister should never be answerable. Which nuance corrects the interpretation? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-B. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-C. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-D. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-**Answer:** C
-**Explanation:** **ARC preferred Parliamentary scrutiny of a sitting Prime Minister** is the controlling principle. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Departmental vigilance has no sentencing power.
+- **B:** Fair discipline can proceed on its own standard.
+- **C:** Vigilance screening feeds separate processes; it does not resolve the employee's defence.
+- **D:** CVC superintendence is not criminal adjudication.
+- **Trap to avoid:** CVC superintendence is not criminal adjudication. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 36
+#### MCQ 16 — D
 
-An answer contrasts Parliamentary confidence accountability with the enacted qualified Lokpal route. Which institutional debate is accurately framed? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-B. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-C. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-D. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-**Answer:** D
-**Explanation:** **ARC preferred Parliamentary scrutiny of a sitting Prime Minister** is the controlling principle. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Central design does not identically govern all State mechanisms.
+- **B:** CVC is not a universal State disciplinary authority.
+- **C:** State anti-corruption bodies do exist under varied laws.
+- **D:** Federal institutional design requires checking the relevant State law and competent agency.
+- **Trap to avoid:** Central design does not identically govern all State mechanisms. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 37
+#### MCQ 17 — A
 
-An option assumes every State Lokayukta has the same composition and jurisdiction as Lokpal. Which federal fact defeats it? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-B. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-C. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-D. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-**Answer:** A
-**Explanation:** **Lokayukta design remains heterogeneous across States** is the controlling principle. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Operational throughput and procedural quality matter beyond institutional creation.
+- **B:** Intake does not equal proof or prosecution success.
+- **C:** Legal establishment is not evidence of effective delivery.
+- **D:** Aggregate transparent reporting can coexist with confidentiality.
+- **Trap to avoid:** Intake does not equal proof or prosecution success. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 38
+#### MCQ 18 — B
 
-A reform compares State laws before proposing common minimum safeguards. Which heterogeneity is it addressing? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-B. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-C. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-D. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-**Answer:** B
-**Explanation:** **Lokayukta design remains heterogeneous across States** is the controlling principle. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** An unrelated special-crime file is not automatically within that mandate.
+- **B:** Statutory subject matter limits the Commission's superintendence.
+- **C:** Anti-corruption superintendence is a real statutory function.
+- **D:** CVC does not prosecute both cases itself.
+- **Trap to avoid:** Anti-corruption superintendence is a real statutory function. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 39
+#### MCQ 19 — C
 
-A candidate copies the central Lokpal-CBI relationship onto every State without examining State law. Which institutional mistake occurs? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-B. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-C. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-D. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-**Answer:** C
-**Explanation:** **State ACB and Lokayukta roles are not nationally uniform** is the controlling principle. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** An administrative watchdog cannot replace fair criminal trial.
+- **B:** Isolation recreates the ARC's multiplicity problem.
+- **C:** Coordination does not require collapsing procedural safeguards or separation of powers.
+- **D:** Independence is compatible with reason-giving and review.
+- **Trap to avoid:** Independence is compatible with reason-giving and review. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 40
+#### MCQ 20 — D
 
-A State complaint is routed after checking the relevant Lokayukta Act and ACB police competence. Which precision rule is followed? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC treated government continuity under the Westminster model as the reason to keep a sitting Prime Minister outside formal Lok Pal inquiry, relying on Parliamentary confidence rather than claiming personal immunity from accountability.
-
-B. The 2013 law required States to establish Lokayuktas within one year of commencement but did not prescribe one uniform national model; composition, jurisdiction, powers, appointment arrangements and practical independence therefore vary under State laws.
-
-C. The 2013 law includes the Prime Minister but excludes allegations relating to international relations, external or internal security, public order, atomic energy and space, and requires enhanced approval and confidentiality safeguards.
-
-D. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction.
-
-**Answer:** D
-**Explanation:** **State ACB and Lokayukta roles are not nationally uniform** is the controlling principle. A State Anti-Corruption Bureau ordinarily performs police investigation within the State framework, while a Lokayukta performs the ombudsman role assigned by its State law; exact powers must be checked jurisdiction by jurisdiction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** No record would undermine accountability and evidence.
+- **B:** Premature exposure risks retaliation and reputational injury.
+- **C:** Aggregate reporting can enable oversight without prejudging guilt.
+- **D:** Transparency about procedures is compatible with privacy, witness safety and due process.
+- **Trap to avoid:** No record would undermine accountability and evidence. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
-
-#### MCQ 41
-
-Separate bodies investigate the Minister and official without sharing the common transaction record. Which coordination failure follows? Which source-grounded ethical principle most precisely explains the case?
-
-A. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-B. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-C. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-D. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-**Answer:** A
-**Explanation:** **Minister-official collusion requires coordinated jurisdiction** is the controlling principle. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 42
-
-One forum preserves the complete allegation and assigns institution-specific tasks with deadlines. Which organic-link principle is being applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-B. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-C. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-D. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-**Answer:** B
-**Explanation:** **Minister-official collusion requires coordinated jurisdiction** is the controlling principle. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 43
-
-An answer claims the 2013 law made CVC, CVOs and CBI legally unnecessary. Which systems principle corrects it? Which source-grounded ethical principle most precisely explains the case?
-
-A. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-B. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-C. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-D. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-**Answer:** C
-**Explanation:** **An overarching body does not erase specialist bodies** is the controlling principle. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 44
-
-A reform keeps specialist capacity while establishing common referral and progress-review rules. Which institutional logic is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-B. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-C. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-D. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-**Answer:** D
-**Explanation:** **An overarching body does not erase specialist bodies** is the controlling principle. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 45
-
-A report calls an institution fully effective merely because its statute exists. Which evaluation error has occurred? Which source-grounded ethical principle most precisely explains the case?
-
-A. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-B. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-C. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-D. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-**Answer:** A
-**Explanation:** **Performance cannot be inferred from legal existence** is the controlling principle. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 46
-
-An assessment separately measures timeliness, referral quality, investigation, prosecution and final outcomes. Which performance discipline is used? Which source-grounded ethical principle most precisely explains the case?
-
-A. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-B. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-C. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-D. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-**Answer:** B
-**Explanation:** **Performance cannot be inferred from legal existence** is the controlling principle. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 47
-
-A proposal gives one watchdog exclusive power to investigate, prosecute and finally determine guilt. Which institutional risk does it create? Which source-grounded ethical principle most precisely explains the case?
-
-A. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-B. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-C. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-D. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-**Answer:** C
-**Explanation:** **Reform should improve coherence without creating a mega-agency** is the controlling principle. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 48
-
-A protocol coordinates bodies but keeps courts and disciplinary authorities as independent decision forums. Which reform balance is achieved? Which source-grounded ethical principle most precisely explains the case?
-
-A. Lokpal's broad jurisdiction and power over referred matters complement rather than abolish CVC vigilance functions, CVO departmental work, CBI investigation, prosecution through competent officers and adjudication by courts.
-
-B. Enactment, appointment, creation of internal wings, receipt of complaints, completed inquiry, prosecution and final adjudication are different milestones; institutional evaluation must use verified stage-wise evidence rather than symbolic existence.
-
-C. A corruption allegation joining political direction and bureaucratic execution should not be split into isolated fragments; lawful Lokpal, CVC, departmental and investigating roles must exchange records through a clear lead-and-referral design.
-
-D. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness.
-
-**Answer:** D
-**Explanation:** **Reform should improve coherence without creating a mega-agency** is the controlling principle. A sound reform clarifies jurisdiction, interoperable records, referral deadlines, independence and public reporting while preserving functional separation; concentrating complaint, investigation, prosecution and judgment in one body would create fresh arbitrariness. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
 
 ## PYQS AND ANSWER PRACTICE
+
+All practice prompts appear here before their separate matched model solutions. Where a question is labelled neutral routing, consult its cited official paper for the full original case wording.
+
+### VERIFIED / ROUTED PYQ QUESTIONS
 
 #### Solved PYQ 1 — 2019 — 10 marks
 
 **Question:** GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)
 
 **Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. Topic 20 uses the institutional-routing dimension; detailed offence ingredients remain Topic 19-owned.
+
+---
+
+#### Solved PYQ 2 — 2019 — 10 marks
+
+**Question:** GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 3. Topic 14 owns the complete probity concept; Topic 20 supplies institution-specific enforcement and coordination.
+
+---
+
+#### Solved PYQ 3 — 2019 — 20 marks
+
+**Question:** GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption agencies. Suggest institutional measures for anticipating threats, strengthening ethical competence and developing processes that promote integrity. (250 words)
+
+**Source / ownership:** Faithful condensed routing of the English demand verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 7. The official paper contains the complete enumerated stem. Topic 20 owns anti-corruption institutional coherence; Topics 15-16 own codes and Topic 21 owns honest-official safeguards.
+
+---
+
+#### Solved PYQ 4 — 2021 — 15 marks
+
+**Question:** GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. (250 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf, page 3. This GS-II overlap is Topic 20's direct federal-jurisdiction PYQ; detailed offence law remains outside scope.
+
+---
+
+#### Solved PYQ 5 — 2021 — 10 marks
+
+**Question:** GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3. Social audit is mainly Topic 11/18 material; Topic 20 uses it as detection and referral, not adjudication.
+
+---
+
+#### Solved PYQ 6 — 2022 — 10 marks
+
+**Question:** GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. Topic 20 addresses authorised institutional channels; detailed whistleblower and honest-official protection belongs to Topics 19 and 21.
+
+---
+
+#### Solved PYQ 7 — 2022 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia linked with corrupt police, civil officials and a politically connected media owner, but faces inducement and pressure to suppress the report. Evaluate options, dilemmas and the appropriate response. (250 words)
+
+**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. Topic 20 uses the multi-agency and State-institution dimension; Topic 22 owns full case-study method.
+
+---
+
+#### Solved PYQ 8 — 2023 — 10 marks
+
+**Question:** GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Values are Topic 1/2-owned; Topic 20 supplies the institutional complement to moral formation.
+
+---
+
+#### Solved PYQ 9 — 2023 — 10 marks
+
+**Question:** GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 4. Topic 14 owns the general concept; Topic 20 supplies the anti-corruption institutional mechanism.
+
+
+### ORIGINAL MAINS / CASE QUESTIONS
+
+#### Original Mains Practice 1 — 10 marks
+
+**Question:** Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture. Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 2 — 10 marks
+
+**Question:** Why is State consent for CBI investigation important, and why is it not an absolute constitutional veto? Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 3 — 15 marks
+
+**Question:** Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and Lokayuktas Act, 2013. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 4 — 15 marks
+
+**Question:** Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence problem identified by the Second ARC. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 5 — 20 marks
+
+**Question:** Design a coordinated anti-corruption process for a complaint alleging collusion between a Union Minister, senior officials and a private beneficiary. Answer in about 250 words.
+
+---
+
+#### Original Mains Practice 6 — 20 marks
+
+**Question:** Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an accountability-continuity compromise. Answer in about 250 words.
+
+
+### MATCHED MODEL SOLUTIONS — PYQS
+
+#### Solved PYQ 1 — 2019 — 10 marks
 
 **Model solution**
 
@@ -846,29 +566,9 @@ Thus non-performance becomes ethically corrupt when deliberate or recklessly ind
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 2 — 2019 — 10 marks
-
-**Question:** GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 3. Topic 14 owns the complete probity concept; Topic 20 supplies institution-specific enforcement and coordination.
 
 **Model solution**
 
@@ -882,29 +582,9 @@ Probity therefore requires both ethical culture and stage-separated institutions
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 3 — 2019 — 20 marks
-
-**Question:** GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption agencies. Suggest institutional measures for anticipating threats, strengthening ethical competence and developing processes that promote integrity. (250 words)
-
-**Source / ownership:** Faithful condensed routing of the English demand verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 7. The official paper contains the complete enumerated stem. Topic 20 owns anti-corruption institutional coherence; Topics 15-16 own codes and Topic 21 owns honest-official safeguards.
 
 **Model solution**
 
@@ -920,29 +600,9 @@ Independence requires secure tenure and resources, but also reasons, audit, legi
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q12: India seeks effective civil-service ethics, codes of conduct, transparency…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 4 — 2021 — 15 marks
-
-**Question:** GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. (250 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf, page 3. This GS-II overlap is Topic 20's direct federal-jurisdiction PYQ; detailed offence law remains outside scope.
 
 **Model solution**
 
@@ -956,29 +616,9 @@ The correct synthesis is cooperative federalism, not institutional supremacy. Th
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-II Q11: The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 5 — 2021 — 10 marks
-
-**Question:** GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3. Social audit is mainly Topic 11/18 material; Topic 20 uses it as detection and referral, not adjudication.
 
 **Model solution**
 
@@ -992,29 +632,9 @@ Independence needs access to usable records, facilitation separate from implemen
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 6 — 2022 — 10 marks
-
-**Question:** GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. Topic 20 addresses authorised institutional channels; detailed whistleblower and honest-official protection belongs to Topics 19 and 21.
 
 **Model solution**
 
@@ -1028,29 +648,9 @@ Institutional separation protects both sides: a complaint triggers screening, no
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 7 — 2022 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia linked with corrupt police, civil officials and a politically connected media owner, but faces inducement and pressure to suppress the report. Evaluate options, dilemmas and the appropriate response. (250 words)
-
-**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. Topic 20 uses the multi-agency and State-institution dimension; Topic 22 owns full case-study method.
 
 **Model solution**
 
@@ -1064,29 +664,9 @@ The response must also attack the network: secure witnesses, trace permits and m
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia linked with corrupt police, civil officials and a politically…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia linked with corrupt police, civil officials and a politically…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 8 — 2023 — 10 marks
-
-**Question:** GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Values are Topic 1/2-owned; Topic 20 supplies the institutional complement to moral formation.
 
 **Model solution**
 
@@ -1100,29 +680,9 @@ The durable strategy joins character with credible consequence. Institutions wit
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 9 — 2023 — 10 marks
-
-**Question:** GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 4. Topic 14 owns the general concept; Topic 20 supplies the anti-corruption institutional mechanism.
 
 **Model solution**
 
@@ -1136,29 +696,10 @@ Probity therefore produces both ethical legitimacy and economic reliability. How
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **discuss** requires a direct position on “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+### MATCHED MODEL SOLUTIONS — ORIGINAL MAINS / CASES
 
 #### Original Mains Practice 1 — 10 marks
-
-**Question:** Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture. Answer in about 150 words.
 
 **Model solution**
 
@@ -1172,27 +713,9 @@ The ARC's organic-link principle explains the relationship: political and admini
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Differentiate the roles of the CVC, CBI and Lokpal in India's anti-corruption architecture.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 2 — 10 marks
-
-**Question:** Why is State consent for CBI investigation important, and why is it not an absolute constitutional veto? Answer in about 150 words.
 
 **Model solution**
 
@@ -1206,27 +729,9 @@ The synthesis is cooperative federalism: respect statutory consent in ordinary a
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is State consent for CBI investigation important, and why is it not an absolute…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why is State consent for CBI investigation important, and why is it not an absolute constitutional veto? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why is State consent for CBI investigation important, and why is it not an absolute constitutional veto? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why is State consent for CBI investigation important, and why is it not an absolute…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 3 — 15 marks
-
-**Question:** Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and Lokayuktas Act, 2013. Answer in about 200 words.
 
 **Model solution**
 
@@ -1240,27 +745,9 @@ The difference reflects competing design values. ARC prioritised focus, judicial
 
 ---
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and Lokayuktas Act, 2013. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and Lokayuktas Act, 2013. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Compare the Second ARC's 2007 Lok Pal proposal with the Lokpal enacted under the Lokpal and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 4 — 15 marks
-
-**Question:** Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence problem identified by the Second ARC. Answer in about 200 words.
 
 **Model solution**
 
@@ -1274,27 +761,9 @@ Reform should establish common case identifiers, lead-agency rules, protected ev
 
 ---
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence problem identified by the Second ARC. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence problem identified by the Second ARC. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Assess whether the Lokpal and Lokayuktas Act resolved the multiplicity and coherence…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 5 — 20 marks
-
-**Question:** Design a coordinated anti-corruption process for a complaint alleging collusion between a Union Minister, senior officials and a private beneficiary. Answer in about 250 words.
 
 **Model solution**
 
@@ -1310,27 +779,9 @@ System repair should continue alongside individual accountability: disclose conf
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design a coordinated anti-corruption process for a complaint alleging collusion between a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design a coordinated anti-corruption process for a complaint alleging collusion between a Union Minister, senior officials and a private beneficiary.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design a coordinated anti-corruption process for a complaint alleging collusion between a Union Minister, senior officials and a private beneficiary.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design a coordinated anti-corruption process for a complaint alleging collusion between a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 6 — 20 marks
-
-**Question:** Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an accountability-continuity compromise. Answer in about 250 words.
 
 **Model solution**
 
@@ -1343,21 +794,3 @@ The compromise remains imperfect. Subject-matter exclusions may shield mixed dec
 The defensible verdict is qualified inclusion rather than either absolute exemption or routine inquiry. Periodic review should examine whether complaints are filtered by reasons rather than political convenience, whether confidentiality works and whether excluded subjects are construed narrowly. Accountability should remain publicly credible without allowing accusation alone to destabilise constitutional government or institutional trust.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an accountability-continuity compromise. Answer in about 250…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an accountability-continuity compromise. Answer in about 250…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Critically evaluate the qualified jurisdiction of Lokpal over the Prime Minister as an…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

@@ -2,553 +2,1051 @@
 
 **Status cutoff:** 10 September 2026.
 
-**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers rotate A -> B -> C -> D eight times. Every option has a question-specific explanation and every MCQ has a unique trap.
+**Practice contract:** 40 coverage-driven MCQ questions precede their separate answer key and PYQs; letters rotate A-B-C-D, with individual option explanations and traps.
 
-## Original MCQs
+## 40 MCQ QUESTIONS
 
-### Q1. Which feature most clearly distinguishes mission-mode policy from an ordinary activity scheme?
+### MCQ 01
+
+**Question:** Which feature most clearly distinguishes mission-mode policy from an ordinary activity scheme?
 
 A. A defined bottleneck linked to coordinated institutions, outcomes, review and an exit rule
+
 B. A large annual allocation administered by one department
+
 C. Use of the word Mission in the official title
+
 D. Distribution of the same input in every district
 
-**Answer: A**
+### MCQ 02
 
-**Option explanations:**
-- A. A is correct because mission mode connects a public problem to a cross-agency results chain, measurable outcomes, feedback and an explicit continuation or exit decision.
-- B. B is incorrect because budget scale and a single administering department do not establish convergence, adoption logic or outcome accountability.
-- C. C is incorrect because nomenclature can be political or administrative; the design test, not the title, determines whether policy is genuinely mission-mode.
-- D. D is incorrect because uniform distribution may be a routine scheme output and can conflict with agro-climatic fit or local bottlenecks.
-
-**UPSC trap:** Mission is a design property, not a naming convention.
-
-### Q2. In a mission results chain, which pair is correctly distinguished?
+**Question:** In a mission results chain, which pair is correctly distinguished?
 
 A. Training held is an outcome; adoption is an input
+
 B. Demonstrations conducted are outputs; continued profitable use is an outcome
+
 C. Budget approval is an impact; fund release is a counterfactual
+
 D. Area covered is always an impact; net income is an activity
 
-**Answer: B**
+### MCQ 03
 
-**Option explanations:**
-- A. A is incorrect because training is an activity or output, while adoption is a later behavioural outcome rather than an initial input.
-- B. B is correct because demonstration delivery is directly countable, whereas continued profitable use tests behaviour and farm-level value beyond supervised events.
-- C. C is incorrect because approval and release are administrative stages, while a counterfactual is the estimated situation without the mission.
-- D. D is incorrect because covered area is a physical output and net income is an outcome that depends on costs, prices and market power.
-
-**UPSC trap:** Do not collapse the input-output-outcome-impact ladder.
-
-### Q3. Which sequence best represents a complete lab-to-land-to-market chain?
+**Question:** Which sequence best represents a complete lab-to-land-to-market chain?
 
 A. Research publication -> national target -> budget allocation -> press release
+
 B. Seed subsidy -> procurement -> laboratory trial -> variety release
+
 C. Research -> adaptive trial -> quality material -> demonstration -> adoption -> market -> feedback
+
 D. Market survey -> import restriction -> area expansion -> research
 
-**Answer: C**
+### MCQ 04
 
-**Option explanations:**
-- A. A is incorrect because it stops at administrative communication and contains no multiplication, extension, farmer adoption or market conversion.
-- B. B is incorrect because it reverses the technical sequence and places procurement before validation, multiplication and farmer use.
-- C. C is correct because it moves from knowledge creation through local validation and delivery to repeated use, value realisation and corrective learning.
-- D. D is incorrect because trade and area decisions cannot substitute for prior technology generation, local testing and farmer feasibility.
-
-**UPSC trap:** A released technology has not reached the farmer until supply, use and market stages work.
-
-### Q4. Which monitoring design best reduces target-gaming risk?
+**Question:** Which monitoring design best reduces target-gaming risk?
 
 A. Reward only the number of kits distributed
+
 B. Measure only the total promoted area
+
 C. Rank districts solely by expenditure utilisation
+
 D. Pair activity counts with sustained adoption, net returns, inclusion and ecological indicators
 
-**Answer: D**
+### MCQ 05
 
-**Option explanations:**
-- A. A is incorrect because distribution can be inflated without checking use, timing, quality or resale.
-- B. B is incorrect because nominal area can expand into unsuitable locations and says nothing about yield, profitability or persistence.
-- C. C is incorrect because spending speed can reward weak procurement and does not identify public value.
-- D. D is correct because companion outcome and safeguard metrics make it harder to optimise the visible target while sacrificing the mission objective.
-
-**UPSC trap:** The easiest indicator to count is rarely sufficient to judge success.
-
-### Q5. The National Food Security Mission was originally launched in October 2007 with targets for
+**Question:** The National Food Security Mission was originally launched in October 2007 with targets for
 
 A. rice, wheat and pulses by the end of the Eleventh Plan
+
 B. oil palm, coconut and bamboo by 2030-31
+
 C. cotton, jute and sugarcane only
+
 D. all horticulture crops under a single value-chain mission
 
-**Answer: A**
+### MCQ 06
 
-**Option explanations:**
-- A. A is correct because the original NFSM sought additional rice, wheat and pulse production by 2011-12.
-- B. B is incorrect because oil palm belongs to the edible-oil mission lineage, while coconut and bamboo sit in horticulture-related structures.
-- C. C is incorrect because commercial crops entered the widened architecture later and were not the original three-crop launch basket.
-- D. D is incorrect because horticulture was addressed through NHM and later MIDH rather than the original NFSM.
-
-**UPSC trap:** Apply the 2007 crop basket only to the launch phase.
-
-### Q6. Which is the correct current seven-component description of NFSNM?
+**Question:** Which is the correct current seven-component description of NFSNM?
 
 A. Rice, wheat, pulses, oil palm, bamboo, honey and digital agriculture
+
 B. Rice, wheat, pulses, maize/barley, nutri-cereals, commercial crops and seed components
+
 C. Rice, wheat, horticulture, livestock, fisheries, forestry and irrigation
+
 D. Pulses, oilseeds, cotton, jute, sugarcane, tea and coffee
 
-**Answer: B**
+### MCQ 07
 
-**Option explanations:**
-- A. A is incorrect because oil palm, bamboo, beekeeping and digital agriculture have separate mission or scheme placements.
-- B. B is correct because the current NFSNM guideline lists the two staple cereals, pulses, coarse cereals, Shree Anna, commercial crops and the merged seed component.
-- C. C is incorrect because it combines broad sectors outside the notified NFSNM crop-and-seed structure.
-- D. D is incorrect because oilseeds moved to NMEO and plantation beverages are not part of the seven-component NFSNM list.
-
-**UPSC trap:** Oilseeds and oil palm are no longer current NFSNM components.
-
-### Q7. What is the current administrative status of the former Sub-Mission for Seed and Planting Material?
+**Question:** What is the current administrative status of the former Sub-Mission for Seed and Planting Material?
 
 A. It became the Digital Agriculture Mission
+
 B. It was converted into the National Bamboo Mission
+
 C. Its components were merged into NFSNM as Seed Components
+
 D. It remains unchanged under the original NMAET umbrella
 
-**Answer: C**
+### MCQ 08
 
-**Option explanations:**
-- A. A is incorrect because digital public infrastructure has a separate Cabinet-approved mission and does not replace the seed chain.
-- B. B is incorrect because bamboo is a MIDH sub-scheme concerned with a different biological and value-chain system.
-- C. C is correct because current NFSNM guidelines expressly identify Seed Components as the successor to the erstwhile SMSP.
-- D. D is incorrect because the old NMAET umbrella is historical and its four functions have been redistributed.
-
-**UPSC trap:** A continuing function does not mean its old umbrella remains current.
-
-### Q8. Which statement about FY 2026-27 NFSNM figures is correct?
+**Question:** Which statement about FY 2026-27 NFSNM figures is correct?
 
 A. They are audited final achievements for every district
+
 B. They are statutory entitlements enforceable by each farmer
+
 C. They are historical Eleventh Plan launch targets
+
 D. They are Output-Outcome Monitoring Framework targets and must not be treated as realised results
 
-**Answer: D**
+### MCQ 09
 
-**Option explanations:**
-- A. A is incorrect because the OOMF is prospective budget monitoring, not audited district-level actuals.
-- B. B is incorrect because productivity and production targets are administrative objectives, not individual legal guarantees.
-- C. C is incorrect because the FY 2026-27 table is distinct from the original 2007-12 production goals.
-- D. D is correct because the framework records planned output and outcome indicators for the financial year.
-
-**UPSC trap:** Budget-year targets are neither forecasts nor achievements.
-
-### Q9. The Technology Mission on Oilseeds is best described as
+**Question:** The Technology Mission on Oilseeds is best described as
 
 A. a historical mission launched in May 1986 and followed by several successor umbrellas
+
 B. the current legal name of NMEO-OS
+
 C. a component created under MIDH in 2014-15
+
 D. a mission confined to imported oil-palm seedlings
 
-**Answer: A**
+### MCQ 10
 
-**Option explanations:**
-- A. A is correct because TMO began the oilseed mission lineage but was later subsumed and restructured through ISOPOM, NMOOP and newer missions.
-- B. B is incorrect because NMEO-OS is a distinct current mission with its own 2024-25 to 2030-31 approval and guidelines.
-- C. C is incorrect because MIDH is the horticulture umbrella and did not create the 1986 oilseed mission.
-- D. D is incorrect because TMO addressed annual oilseeds through a broad technology and policy package rather than only oil-palm planting material.
-
-**UPSC trap:** Historical predecessor and current successor must not be presented as one scheme.
-
-### Q10. Which statement correctly describes NMEO-OS?
+**Question:** Which statement correctly describes NMEO-OS?
 
 A. It is the perennial oil-palm mission approved only to 2025-26
+
 B. It is a 2024-25 to 2030-31 annual-oilseed mission that subsumed NFSM-Oilseeds
+
 C. It is the historical name of ISOPOM
+
 D. It is a sub-mission for honey traceability
 
-**Answer: B**
+### MCQ 11
 
-**Option explanations:**
-- A. A is incorrect because the perennial plantation mission is NMEO-OP, not NMEO-OS.
-- B. B is correct because the operative guidelines establish NMEO-OS under Krishonnati for annual oilseeds and absorb the former NFSM-OS component.
-- C. C is incorrect because ISOPOM was an earlier integrated predecessor with a different crop and administrative design.
-- D. D is incorrect because honey and pollination were covered by NBHM rather than the edible-oil mission.
-
-**UPSC trap:** OS and OP identify different biological and administrative systems.
-
-### Q11. Which intervention is specifically central to NMEO-OS delivery?
+**Question:** Which intervention is specifically central to NMEO-OS delivery?
 
 A. Replacing all crop markets with one national processor
+
 B. Compulsory conversion of forest land to oilseeds
+
 C. Value-chain clusters linked with seed plans, demonstrations and processors
+
 D. A universal cash transfer unrelated to crop production
 
-**Answer: C**
+### MCQ 12
 
-**Option explanations:**
-- A. A is incorrect because the mission uses multiple value-chain partners and does not establish a single compulsory national buyer.
-- B. B is incorrect because the guidelines target suitable cultivation and fallow or intercropping opportunities, not forest conversion.
-- C. C is correct because clusters, rolling seed plans, FLD/CFLD, storage and market linkage form the operational core.
-- D. D is incorrect because NMEO-OS finances crop-specific technology and value-chain interventions rather than an unconditional income transfer.
-
-**UPSC trap:** Cluster area, demonstration area and net additional cultivated area are different measures.
-
-### Q12. Which is the most accurate statement on NMEO-OP at the 10 September 2026 cutoff?
+**Question:** Which is the most accurate statement on NMEO-OP at the 10 September 2026 cutoff?
 
 A. It was formally abolished in 2024 when NMEO-OS began
+
 B. Its original approval had no time period
+
 C. Its 2029-30 production aspiration automatically extended its legal tenure
+
 D. The original phase ended in 2025-26, while FY 2026-27 OOMF targets exist without a separately located extension order
 
-**Answer: D**
+### MCQ 13
 
-**Option explanations:**
-- A. A is incorrect because NMEO-OS and NMEO-OP address different annual-oilseed and perennial-oil-palm systems.
-- B. B is incorrect because the Cabinet-approved phase was explicitly 2021-22 to 2025-26.
-- C. C is incorrect because an outcome horizon can extend beyond the approved funding period and is not itself an extension order.
-- D. D is correct because it preserves both the later budget-monitoring evidence and the unresolved formal tenure document.
-
-**UPSC trap:** Administrative tenure, budget target and long-run outcome horizon must be separated.
-
-### Q13. The commonly cultivated African oil palm is native to
+**Question:** The commonly cultivated African oil palm is native to
 
 A. tropical West and Central Africa
+
 B. the Malay Peninsula
+
 C. the Amazon basin
+
 D. the Indian subcontinent
 
-**Answer: A**
+### MCQ 14
 
-**Option explanations:**
-- A. A is correct because Elaeis guineensis originated in tropical Africa before becoming commercially dominant in South-East Asia.
-- B. B is incorrect because the Malay Peninsula is a major production region, not the botanical origin of African oil palm.
-- C. C is incorrect because the American tropics host a different oil-palm species and are not the origin of Elaeis guineensis.
-- D. D is incorrect because India is an expanding cultivation region under NMEO-OP, not the crop's centre of origin.
-
-**UPSC trap:** Production geography must not be confused with botanical origin.
-
-### Q14. Which pairing is correct?
+**Question:** Which pairing is correct?
 
 A. Palm oil—kernel; palm-kernel oil—mesocarp
+
 B. Palm oil—fleshy mesocarp; palm-kernel oil—kernel
+
 C. Both oils—only the leaves
+
 D. Both oils—only the stem
 
-**Answer: B**
+### MCQ 15
 
-**Option explanations:**
-- A. A is incorrect because it reverses the two distinct fruit fractions and their oils.
-- B. B is correct because crude palm oil is obtained chiefly from the fleshy mesocarp, while palm-kernel oil comes from the seed kernel.
-- C. C is incorrect because commercial palm oils are fruit-derived rather than extracted only from leaves.
-- D. D is incorrect because the stem is not the source of the two named commercial oils.
-
-**UPSC trap:** Palm oil and palm-kernel oil are chemically and anatomically distinct products.
-
-### Q15. Which statement best captures the current relation between NMSA and PM-RKVY?
+**Question:** Which statement best captures the current relation between NMSA and PM-RKVY?
 
 A. NMSA was a cotton-quality mission replaced by MIDH
+
 B. All NMSA functions ended when PM-RKVY was created
+
 C. NMSA's resilience objectives continue while major delivery components are rationalised within PM-RKVY
+
 D. PM-RKVY is merely a research institute under ICAR
 
-**Answer: C**
+### MCQ 16
 
-**Option explanations:**
-- A. A is incorrect because cotton quality belongs to cotton missions, whereas NMSA is the agriculture mission under the climate-action framework.
-- B. B is incorrect because RAD, PDMC, soil-health, organic and agroforestry functions continue in the restructured current scheme architecture.
-- C. C is correct because the conceptual climate mission persists while implementation is distributed across the PM-RKVY cafeteria.
-- D. D is incorrect because PM-RKVY is a centrally sponsored state-flexible scheme, not an ICAR institute.
-
-**UPSC trap:** Policy mission ownership and present budget placement can differ.
-
-### Q16. Which statement on NMNF is accurate at the cutoff?
+**Question:** Which statement on NMNF is accurate at the cutoff?
 
 A. Its first phase had no approved outlay or cluster target
+
 B. Its 2026-31 expansion was finally approved in the cited OOMF
+
 C. It was only a state scheme with no Union approval
+
 D. Its first phase ended in March 2026, and later OOMF targets were expressly approval-qualified
 
-**Answer: D**
+### MCQ 17
 
-**Option explanations:**
-- A. A is incorrect because the November 2024 approval specified Rs 2,481 crore, clusters, area, farmers, bio-input centres and model farms.
-- B. B is incorrect because the OOMF footnote calls the later targets tentative and subject to approval of the proposed phase.
-- C. C is incorrect because NMNF was approved as a centrally sponsored Union mission with state participation.
-- D. D is correct because it separates the completed first approval from the draft EFC and tentative FY 2026-27 framework.
-
-**UPSC trap:** A draft EFC plus budget target is not final mission extension approval.
-
-### Q17. Which set contains all six current MIDH sub-schemes in the May 2026 guidelines?
+**Question:** Which set contains all six current MIDH sub-schemes in the May 2026 guidelines?
 
 A. NHM, HMNEH, NHB, CDB, NBM and CIH
+
 B. NFSM, NMSA, NMAET, PMFBY, PM-KISAN and e-NAM
+
 C. Rice, wheat, pulses, millets, cotton and jute
+
 D. KVK, ATMA, FPO, PACS, NABARD and NAFED
 
-**Answer: A**
+### MCQ 18
 
-**Option explanations:**
-- A. A is correct because the revised MIDH guideline combines two regional missions, two boards, bamboo and the Central Institute for Horticulture.
-- B. B is incorrect because it mixes separate agriculture, insurance, income and market schemes outside MIDH's six-part structure.
-- C. C is incorrect because those are crop categories associated mainly with NFSNM rather than horticulture sub-schemes.
-- D. D is incorrect because these are institutions and organisations, not the notified MIDH sub-scheme list.
-
-**UPSC trap:** MIDH includes boards and a technical institute, not only missions.
-
-### Q18. Which statement correctly distinguishes NHM and MIDH?
+**Question:** Which statement correctly distinguishes NHM and MIDH?
 
 A. MIDH was replaced by NHM in 2005-06
+
 B. NHM began in 2005-06 and now operates as a sub-scheme within MIDH
+
 C. They have always been identical names for the same administrative unit
+
 D. NHM is the current oilseed mission
 
-**Answer: B**
+### MCQ 19
 
-**Option explanations:**
-- A. A is incorrect because the chronology runs from NHM to the broader MIDH umbrella, not the reverse.
-- B. B is correct because NHM survived the 2014-15 restructuring as one component of the integrated horticulture mission.
-- C. C is incorrect because using the names interchangeably erases the predecessor-successor relationship and the wider set of MIDH sub-schemes.
-- D. D is incorrect because current annual-oilseed policy is NMEO-OS.
-
-**UPSC trap:** A component can continue inside a newer umbrella without remaining the umbrella itself.
-
-### Q19. The current National Bamboo Mission is best understood as
+**Question:** The current National Bamboo Mission is best understood as
 
 A. a historical component closed in 2010 with no successor
+
 B. a digital registry for bamboo land records
+
 C. a MIDH sub-scheme covering planting material, cultivation, processing, skills and markets
+
 D. the seed component of NFSNM
 
-**Answer: C**
+### MCQ 20
 
-**Option explanations:**
-- A. A is incorrect because NBM was restructured and remains present in the 2025-26 horticulture architecture.
-- B. B is incorrect because digital records may support implementation but do not define the bamboo mission.
-- C. C is correct because current guidelines use a full bamboo value-chain approach rather than plantation assistance alone.
-- D. D is incorrect because NFSNM Seed Components concern the national crop seed system, not the bamboo mission.
-
-**UPSC trap:** Bamboo area is an intermediate output; harvest, processing and demand arrive later.
-
-### Q20. What is the safest status description of NBHM after FY 2025-26?
+**Question:** What is the safest status description of NBHM after FY 2025-26?
 
 A. Automatically permanent because honey output continued
+
 B. Merged into NMEO-OP
+
 C. Current through 2030-31 under a new approval
+
 D. The approved extension ended in 2025-26 and no later extension was located
 
-**Answer: D**
+### MCQ 21
 
-**Option explanations:**
-- A. A is incorrect because continuing sector activity or assets do not extend a time-bound central-sector scheme.
-- B. B is incorrect because edible-oil and beekeeping missions address different commodities, institutions and value chains.
-- C. C is incorrect because no official 2030-31 NBHM approval was located by the cutoff.
-- D. D is correct because it reports the documented phase without converting silence into continuation.
-
-**UPSC trap:** Operational assets can survive after a mission period without keeping the scheme current.
-
-### Q21. The classic NMAET architecture comprised
+**Question:** The classic NMAET architecture comprised
 
 A. extension, seeds, mechanisation, and plant protection or quarantine
+
 B. irrigation, procurement, crop insurance and warehousing
+
 C. horticulture, bamboo, coconut and beekeeping
+
 D. research, textiles, exports and customs
 
-**Answer: A**
+### MCQ 22
 
-**Option explanations:**
-- A. A is correct because the 2014 mission joined SMAE, SMSP, SMAM and SMPPQ as complementary diffusion functions.
-- B. B is incorrect because these are important agricultural policies but not the four notified NMAET sub-missions.
-- C. C is incorrect because these functions belong mainly to MIDH and allied mission structures.
-- D. D is incorrect because it mixes institutions and policy domains that do not reproduce the NMAET design.
-
-**UPSC trap:** Remember the classic four, but do not call the old umbrella unchanged and current.
-
-### Q22. Which current successor map is correct?
+**Question:** Which current successor map is correct?
 
 A. SMSP to DAM; SMAM to MIDH; SMAE to NMEO-OP
+
 B. SMAE to Krishonnati extension; SMSP to NFSNM; SMAM to PM-RKVY
+
 C. All four NMAET sub-missions to the Textiles Ministry
+
 D. ATMA to ICAR research; KVK to district finance
 
-**Answer: B**
+### MCQ 23
 
-**Option explanations:**
-- A. A is incorrect because it assigns each function to an unrelated current mission.
-- B. B is correct because current Survey, guideline and Outcome Budget documents show the redistributed extension, seed and mechanisation homes.
-- C. C is incorrect because agricultural extension, seed and machinery remain agriculture functions rather than a wholesale textiles transfer.
-- D. D is incorrect because ATMA coordinates district extension while KVK performs frontline technical extension, not district financing.
-
-**UPSC trap:** Map the function to its current home instead of preserving an obsolete umbrella.
-
-### Q23. Which statement correctly distinguishes ATMA from KVK?
+**Question:** Which statement correctly distinguishes ATMA from KVK?
 
 A. ATMA breeds varieties; KVK approves central budgets
+
 B. ATMA regulates imports; KVK procures pulses
+
 C. ATMA coordinates district extension planning; KVK conducts on-farm testing and frontline demonstrations
+
 D. Both are private processors under NMEO-OS
 
-**Answer: C**
+### MCQ 24
 
-**Option explanations:**
-- A. A is incorrect because breeding and national budget approval are not the defining functions of these district institutions.
-- B. B is incorrect because quarantine and procurement belong to other regulatory and market agencies.
-- C. C is correct because ATMA is the district management and convergence platform, while KVK supplies location-specific technical testing, demonstrations and training.
-- D. D is incorrect because both are public extension institutions rather than edible-oil processors.
-
-**UPSC trap:** Coordination and frontline technical validation are complementary but distinct roles.
-
-### Q24. A frontline demonstration by a KVK establishes
+**Question:** A frontline demonstration by a KVK establishes
 
 A. nationwide causal impact of the mission
+
 B. automatic adoption by all farmers in the district
+
 C. a statutory right to receive the technology
+
 D. supervised field performance that still requires independent diffusion and outcome evidence
 
-**Answer: D**
+### MCQ 25
 
-**Option explanations:**
-- A. A is incorrect because a selected demonstration plot cannot identify nationwide mission additionality.
-- B. B is incorrect because observation may reduce uncertainty but finance, risk, tenure, supply and market barriers remain.
-- C. C is incorrect because a demonstration is an extension method rather than an enforceable individual entitlement.
-- D. D is correct because supervised feasibility is useful evidence but lies before voluntary repeated use and welfare outcomes in the results chain.
-
-**UPSC trap:** Demonstration performance is not population impact.
-
-### Q25. The historical Technology Mission on Cotton used four mini-missions covering
+**Question:** The historical Technology Mission on Cotton used four mini-missions covering
 
 A. research, transfer, market infrastructure, and ginning or pressing modernisation
+
 B. irrigation, crop insurance, fertiliser subsidy and export tax
+
 C. only biotechnology research and seed distribution
+
 D. cotton, jute, bamboo and banana fibres
 
-**Answer: A**
+### MCQ 26
 
-**Option explanations:**
-- A. A is correct because TMC joined farm productivity and fibre quality with market and processing infrastructure.
-- B. B is incorrect because those instruments do not reproduce the four official mini-mission architecture.
-- C. C is incorrect because TMC deliberately extended beyond research and seed to transfer, markets and ginning.
-- D. D is incorrect because allied fibre diversification belongs to the later Navya Fibre component, not the historical four.
-
-**UPSC trap:** Do not transfer the historical four-mini-mission list to the 2026 cotton mission.
-
-### Q26. Which statement is correct about the current Mission for Cotton Productivity?
+**Question:** Which statement is correct about the current Mission for Cotton Productivity?
 
 A. It is the unchanged 2000 TMC
+
 B. It runs from 2026-27 to 2030-31 with three new mini-missions and a Rs 5,659.22 crore outlay
+
 C. It is a completed jute-sector mission
+
 D. It is a sub-component of NMEO-OP
 
-**Answer: B**
+### MCQ 27
 
-**Option explanations:**
-- A. A is incorrect because the current successor has a new period, approval, outlay and three-part structure.
-- B. B is correct because the May 2026 Cabinet approval established the five-year mission and its current architecture.
-- C. C is incorrect because jute had a separate historical technology mission.
-- D. D is incorrect because cotton productivity and oil-palm development have different crops, ministries and value chains.
-
-**UPSC trap:** Current cotton has three named mini-missions; historical TMC had four functional mini-missions.
-
-### Q27. The Jute Technology Mission is most useful in an answer as
+**Question:** The Jute Technology Mission is most useful in an answer as
 
 A. proof that all current fibre policy is administered by Agriculture alone
+
 B. a current FY 2026-27 central-sector mission
+
 C. a historical example linking research, retting, raw-jute markets and industry modernisation
+
 D. a component of the current pulses mission
 
-**Answer: C**
+### MCQ 28
 
-**Option explanations:**
-- A. A is incorrect because JTM crossed the Agriculture-Textiles boundary rather than belonging solely to one ministry.
-- B. B is incorrect because the approved JTM period and reported activities belong to the historical 2006-early-2010s phase.
-- C. C is correct because its analytical value lies in showing an end-to-end fibre value chain from farm technology to industrial quality and promotion.
-- D. D is incorrect because pulses and jute have distinct missions and crop economics.
-
-**UPSC trap:** Historical relevance does not create current administrative status.
-
-### Q28. Which statement about the Mission for Aatmanirbharta in Pulses is correct?
+**Question:** Which statement about the Mission for Aatmanirbharta in Pulses is correct?
 
 A. It ended with the Eleventh Plan
+
 B. It is merely another name for NFSNM-Pulses
+
 C. It has no approved outlay or target period
+
 D. It is a separate 2025-26 to 2030-31 mission that must converge with NFSNM
 
-**Answer: D**
+### MCQ 29
 
-**Option explanations:**
-- A. A is incorrect because the self-reliance mission was approved in 2025, long after the Eleventh Plan.
-- B. B is incorrect because the dedicated mission has its own Cabinet approval, outlay, targets and procurement architecture.
-- C. C is incorrect because official approval specifies Rs 11,440 crore and a six-year period with 2030-31 targets.
-- D. D is correct because the standalone mission and continuing NFSNM pulse component are distinct but complementary policy platforms.
-
-**UPSC trap:** Convergence does not erase separate approvals and targets.
-
-### Q29. At the Union level, millets are currently mission-labelled primarily through
+**Question:** At the Union level, millets are currently mission-labelled primarily through
 
 A. the NFSNM Sub-Mission on Nutri-Cereals
+
 B. a separately verified National Millet Mission running to 2035
+
 C. NMEO-OP
+
 D. the historical Jute Technology Mission
 
-**Answer: A**
+### MCQ 30
 
-**Option explanations:**
-- A. A is correct because current NFSNM guidelines retain Shree Anna as a dedicated sub-mission.
-- B. B is incorrect because no operative standalone Union mission with that title and period was established in the audited sources.
-- C. C is incorrect because NMEO-OP concerns perennial oil palm rather than millets.
-- D. D is incorrect because JTM concerned jute fibre and is historical.
-
-**UPSC trap:** Do not promote campaign terminology into a nonexistent current standalone mission.
-
-### Q30. Which factor most directly raises the adoption threshold for a tenant farmer considering a long-gestation technology?
+**Question:** Which factor most directly raises the adoption threshold for a tenant farmer considering a long-gestation technology?
 
 A. A lower switching cost and secure multi-year tenure
+
 B. A short lease horizon relative to the period in which benefits arrive
+
 C. A nearby competitive processor and affordable finance
+
 D. Trusted local demonstration and repair services
 
-**Answer: B**
+### MCQ 31
 
-**Option explanations:**
-- A. A is incorrect because lower cost and secure tenure reduce rather than raise the threshold.
-- B. B is correct because the tenant may bear present investment cost while losing future benefits after the lease ends.
-- C. C is incorrect because finance and processor access improve expected returns and lower market risk.
-- D. D is incorrect because credible evidence and service availability reduce learning and failure uncertainty.
-
-**UPSC trap:** Average profitability is irrelevant when the adopter cannot capture the future return.
-
-### Q31. Which evaluation finding would provide the strongest evidence of mission additionality?
+**Question:** Which evaluation finding would provide the strongest evidence of mission additionality?
 
 A. National production rose after launch
+
 B. The mission spent its full allocation
+
 C. Comparable mission districts improved more than matched non-mission districts after baseline adjustment
+
 D. The ministry held more review meetings
 
-**Answer: C**
+### MCQ 32
 
-**Option explanations:**
-- A. A is incorrect because nationwide change may reflect weather, prices, area, trade or unrelated technologies.
-- B. B is incorrect because expenditure utilisation verifies an administrative process, not the outcome caused by it.
-- C. C is correct because a credible adjusted comparison directly estimates incremental change associated with mission exposure.
-- D. D is incorrect because meetings are governance activities whose frequency does not establish farmer-level impact.
-
-**UPSC trap:** Before-after correlation is weaker than a credible counterfactual comparison.
-
-### Q32. Which is the best final decision rule for a time-bound mission?
+**Question:** Which is the best final decision rule for a time-bound mission?
 
 A. Continue every component because institutions have been created
+
 B. Close every component on the same date regardless of crop gestation
+
 C. Rename the mission whenever a target is missed
+
 D. Use evidence to continue, scale, mainstream, redesign or close each function with a transition plan
 
-**Answer: D**
+### MCQ 33
 
-**Option explanations:**
-- A. A is incorrect because sunk administrative capacity does not justify an instrument whose problem or additionality has disappeared.
-- B. B is incorrect because seed systems, annual crops, perennial plantations and infrastructure have different time horizons.
-- C. C is incorrect because rebranding can hide failure without changing the causal mechanism.
-- D. D is correct because a differentiated evidence-based exit protects useful capability while ending obsolete or harmful support.
+**Question:** A mission trains 10,000 growers; 2,000 try a new variety, and 800 continue using it after two seasons. Which denominator best measures repeat adoption among those who tried it?
 
-**UPSC trap:** Sunset is a decision process, not an automatic guillotine or indefinite continuation.
+A. 800 divided by 2,000 = 40%
+
+B. 800 divided by 10,000 = 80%
+
+C. 2,000 divided by 800 = 250%
+
+D. 10,000 divided by 2,000 = 500%
+
+### MCQ 34
+
+**Question:** A seed mission records high demonstration yields but no farmer income gain. Which test is most diagnostic?
+
+A. Count the demonstration photographs again
+
+B. Compare ordinary multi-season net returns, quality premiums and adoption with a credible counterfactual
+
+C. Assume yield gains must be equally profitable in every district
+
+D. Treat the number of trained officials as proof of higher prices
+
+### MCQ 35
+
+**Question:** Oilseed self-reliance is a mission goal. Which measurement distinguishes productivity from mere displacement of other crops?
+
+A. Total area under oilseeds alone
+
+B. Gross seed distribution alone
+
+C. Yield per hectare and net edible-oil availability alongside crop-switching, ecological and import indicators
+
+D. Number of mission press releases
+
+### MCQ 36
+
+**Question:** Which ordering gives a fiscally responsible mission sunset decision when early uptake rises but ecological impacts are uncertain?
+
+A. Permanently renew on the basis of expenditure
+
+B. Stop every project before field verification
+
+C. Report beneficiaries as the final welfare indicator
+
+D. Commission independent ecological and net-income evaluation, redesign where harm is measurable and extend only with defined milestones
+
+### MCQ 37
+
+**Question:** A perennial horticulture crop needs three years before substantial harvest. What instrument most directly corrects the small tenant's adoption constraint?
+
+A. Secure cultivation horizon and appropriately timed finance and risk-sharing
+
+B. One-time seed packet with no land access certainty
+
+C. First-year output target equal to a mature orchard
+
+D. A single national average yield benchmark
+
+### MCQ 38
+
+**Question:** Which role pairing best represents a technology mission's institutional chain?
+
+A. KVKs make WTO tariff commitments; states conduct germplasm research exclusively
+
+B. Research institutions develop and validate options; KVKs demonstrate/adapt; state extension scales access and feedback
+
+C. Market committees alone breed improved seed varieties
+
+D. A central press release substitutes for state-level seed quality systems
+
+### MCQ 39
+
+**Question:** When should a mission's claim to reduce edible-oil import dependence be qualified?
+
+A. Only when acreage falls to zero
+
+B. Whenever any farmer receives a seed
+
+C. When domestic output grows but consumption and imports also grow; compare shares, quantities and prices for the same period
+
+D. Never, because output growth mathematically forces imports to fall
+
+### MCQ 40
+
+**Question:** What makes an agricultural mission demonstrably different from a uniformly funded crop subsidy?
+
+A. It must prohibit all farmer support
+
+B. It must have one identical package for every agro-climatic zone
+
+C. It must dispense every input from the same national warehouse
+
+D. It identifies bottlenecks, links research, local extension, inputs and market demand, and measures outcomes against counterfactuals
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because mission mode connects a public problem to a cross-agency results chain, measurable outcomes, feedback and an explicit continuation or exit decision.
+
+- **Option B:** B is incorrect because budget scale and a single administering department do not establish convergence, adoption logic or outcome accountability.
+
+- **Option C:** C is incorrect because nomenclature can be political or administrative; the design test, not the title, determines whether policy is genuinely mission-mode.
+
+- **Option D:** D is incorrect because uniform distribution may be a routine scheme output and can conflict with agro-climatic fit or local bottlenecks.
+
+**Unique trap:** Mission is a design property, not a naming convention.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because training is an activity or output, while adoption is a later behavioural outcome rather than an initial input.
+
+- **Option B:** B is correct because demonstration delivery is directly countable, whereas continued profitable use tests behaviour and farm-level value beyond supervised events.
+
+- **Option C:** C is incorrect because approval and release are administrative stages, while a counterfactual is the estimated situation without the mission.
+
+- **Option D:** D is incorrect because covered area is a physical output and net income is an outcome that depends on costs, prices and market power.
+
+**Unique trap:** Do not collapse the input-output-outcome-impact ladder.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because it stops at administrative communication and contains no multiplication, extension, farmer adoption or market conversion.
+
+- **Option B:** B is incorrect because it reverses the technical sequence and places procurement before validation, multiplication and farmer use.
+
+- **Option C:** C is correct because it moves from knowledge creation through local validation and delivery to repeated use, value realisation and corrective learning.
+
+- **Option D:** D is incorrect because trade and area decisions cannot substitute for prior technology generation, local testing and farmer feasibility.
+
+**Unique trap:** A released technology has not reached the farmer until supply, use and market stages work.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because distribution can be inflated without checking use, timing, quality or resale.
+
+- **Option B:** B is incorrect because nominal area can expand into unsuitable locations and says nothing about yield, profitability or persistence.
+
+- **Option C:** C is incorrect because spending speed can reward weak procurement and does not identify public value.
+
+- **Option D:** D is correct because companion outcome and safeguard metrics make it harder to optimise the visible target while sacrificing the mission objective.
+
+**Unique trap:** The easiest indicator to count is rarely sufficient to judge success.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because the original NFSM sought additional rice, wheat and pulse production by 2011-12.
+
+- **Option B:** B is incorrect because oil palm belongs to the edible-oil mission lineage, while coconut and bamboo sit in horticulture-related structures.
+
+- **Option C:** C is incorrect because commercial crops entered the widened architecture later and were not the original three-crop launch basket.
+
+- **Option D:** D is incorrect because horticulture was addressed through NHM and later MIDH rather than the original NFSM.
+
+**Unique trap:** Apply the 2007 crop basket only to the launch phase.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because oil palm, bamboo, beekeeping and digital agriculture have separate mission or scheme placements.
+
+- **Option B:** B is correct because the current NFSNM guideline lists the two staple cereals, pulses, coarse cereals, Shree Anna, commercial crops and the merged seed component.
+
+- **Option C:** C is incorrect because it combines broad sectors outside the notified NFSNM crop-and-seed structure.
+
+- **Option D:** D is incorrect because oilseeds moved to NMEO and plantation beverages are not part of the seven-component NFSNM list.
+
+**Unique trap:** Oilseeds and oil palm are no longer current NFSNM components.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because digital public infrastructure has a separate Cabinet-approved mission and does not replace the seed chain.
+
+- **Option B:** B is incorrect because bamboo is a MIDH sub-scheme concerned with a different biological and value-chain system.
+
+- **Option C:** C is correct because current NFSNM guidelines expressly identify Seed Components as the successor to the erstwhile SMSP.
+
+- **Option D:** D is incorrect because the old NMAET umbrella is historical and its four functions have been redistributed.
+
+**Unique trap:** A continuing function does not mean its old umbrella remains current.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because the OOMF is prospective budget monitoring, not audited district-level actuals.
+
+- **Option B:** B is incorrect because productivity and production targets are administrative objectives, not individual legal guarantees.
+
+- **Option C:** C is incorrect because the FY 2026-27 table is distinct from the original 2007-12 production goals.
+
+- **Option D:** D is correct because the framework records planned output and outcome indicators for the financial year.
+
+**Unique trap:** Budget-year targets are neither forecasts nor achievements.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because TMO began the oilseed mission lineage but was later subsumed and restructured through ISOPOM, NMOOP and newer missions.
+
+- **Option B:** B is incorrect because NMEO-OS is a distinct current mission with its own 2024-25 to 2030-31 approval and guidelines.
+
+- **Option C:** C is incorrect because MIDH is the horticulture umbrella and did not create the 1986 oilseed mission.
+
+- **Option D:** D is incorrect because TMO addressed annual oilseeds through a broad technology and policy package rather than only oil-palm planting material.
+
+**Unique trap:** Historical predecessor and current successor must not be presented as one scheme.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because the perennial plantation mission is NMEO-OP, not NMEO-OS.
+
+- **Option B:** B is correct because the operative guidelines establish NMEO-OS under Krishonnati for annual oilseeds and absorb the former NFSM-OS component.
+
+- **Option C:** C is incorrect because ISOPOM was an earlier integrated predecessor with a different crop and administrative design.
+
+- **Option D:** D is incorrect because honey and pollination were covered by NBHM rather than the edible-oil mission.
+
+**Unique trap:** OS and OP identify different biological and administrative systems.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because the mission uses multiple value-chain partners and does not establish a single compulsory national buyer.
+
+- **Option B:** B is incorrect because the guidelines target suitable cultivation and fallow or intercropping opportunities, not forest conversion.
+
+- **Option C:** C is correct because clusters, rolling seed plans, FLD/CFLD, storage and market linkage form the operational core.
+
+- **Option D:** D is incorrect because NMEO-OS finances crop-specific technology and value-chain interventions rather than an unconditional income transfer.
+
+**Unique trap:** Cluster area, demonstration area and net additional cultivated area are different measures.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because NMEO-OS and NMEO-OP address different annual-oilseed and perennial-oil-palm systems.
+
+- **Option B:** B is incorrect because the Cabinet-approved phase was explicitly 2021-22 to 2025-26.
+
+- **Option C:** C is incorrect because an outcome horizon can extend beyond the approved funding period and is not itself an extension order.
+
+- **Option D:** D is correct because it preserves both the later budget-monitoring evidence and the unresolved formal tenure document.
+
+**Unique trap:** Administrative tenure, budget target and long-run outcome horizon must be separated.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because Elaeis guineensis originated in tropical Africa before becoming commercially dominant in South-East Asia.
+
+- **Option B:** B is incorrect because the Malay Peninsula is a major production region, not the botanical origin of African oil palm.
+
+- **Option C:** C is incorrect because the American tropics host a different oil-palm species and are not the origin of Elaeis guineensis.
+
+- **Option D:** D is incorrect because India is an expanding cultivation region under NMEO-OP, not the crop's centre of origin.
+
+**Unique trap:** Production geography must not be confused with botanical origin.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because it reverses the two distinct fruit fractions and their oils.
+
+- **Option B:** B is correct because crude palm oil is obtained chiefly from the fleshy mesocarp, while palm-kernel oil comes from the seed kernel.
+
+- **Option C:** C is incorrect because commercial palm oils are fruit-derived rather than extracted only from leaves.
+
+- **Option D:** D is incorrect because the stem is not the source of the two named commercial oils.
+
+**Unique trap:** Palm oil and palm-kernel oil are chemically and anatomically distinct products.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because cotton quality belongs to cotton missions, whereas NMSA is the agriculture mission under the climate-action framework.
+
+- **Option B:** B is incorrect because RAD, PDMC, soil-health, organic and agroforestry functions continue in the restructured current scheme architecture.
+
+- **Option C:** C is correct because the conceptual climate mission persists while implementation is distributed across the PM-RKVY cafeteria.
+
+- **Option D:** D is incorrect because PM-RKVY is a centrally sponsored state-flexible scheme, not an ICAR institute.
+
+**Unique trap:** Policy mission ownership and present budget placement can differ.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because the November 2024 approval specified Rs 2,481 crore, clusters, area, farmers, bio-input centres and model farms.
+
+- **Option B:** B is incorrect because the OOMF footnote calls the later targets tentative and subject to approval of the proposed phase.
+
+- **Option C:** C is incorrect because NMNF was approved as a centrally sponsored Union mission with state participation.
+
+- **Option D:** D is correct because it separates the completed first approval from the draft EFC and tentative FY 2026-27 framework.
+
+**Unique trap:** A draft EFC plus budget target is not final mission extension approval.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because the revised MIDH guideline combines two regional missions, two boards, bamboo and the Central Institute for Horticulture.
+
+- **Option B:** B is incorrect because it mixes separate agriculture, insurance, income and market schemes outside MIDH's six-part structure.
+
+- **Option C:** C is incorrect because those are crop categories associated mainly with NFSNM rather than horticulture sub-schemes.
+
+- **Option D:** D is incorrect because these are institutions and organisations, not the notified MIDH sub-scheme list.
+
+**Unique trap:** MIDH includes boards and a technical institute, not only missions.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because the chronology runs from NHM to the broader MIDH umbrella, not the reverse.
+
+- **Option B:** B is correct because NHM survived the 2014-15 restructuring as one component of the integrated horticulture mission.
+
+- **Option C:** C is incorrect because using the names interchangeably erases the predecessor-successor relationship and the wider set of MIDH sub-schemes.
+
+- **Option D:** D is incorrect because current annual-oilseed policy is NMEO-OS.
+
+**Unique trap:** A component can continue inside a newer umbrella without remaining the umbrella itself.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because NBM was restructured and remains present in the 2025-26 horticulture architecture.
+
+- **Option B:** B is incorrect because digital records may support implementation but do not define the bamboo mission.
+
+- **Option C:** C is correct because current guidelines use a full bamboo value-chain approach rather than plantation assistance alone.
+
+- **Option D:** D is incorrect because NFSNM Seed Components concern the national crop seed system, not the bamboo mission.
+
+**Unique trap:** Bamboo area is an intermediate output; harvest, processing and demand arrive later.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because continuing sector activity or assets do not extend a time-bound central-sector scheme.
+
+- **Option B:** B is incorrect because edible-oil and beekeeping missions address different commodities, institutions and value chains.
+
+- **Option C:** C is incorrect because no official 2030-31 NBHM approval was located by the cutoff.
+
+- **Option D:** D is correct because it reports the documented phase without converting silence into continuation.
+
+**Unique trap:** Operational assets can survive after a mission period without keeping the scheme current.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because the 2014 mission joined SMAE, SMSP, SMAM and SMPPQ as complementary diffusion functions.
+
+- **Option B:** B is incorrect because these are important agricultural policies but not the four notified NMAET sub-missions.
+
+- **Option C:** C is incorrect because these functions belong mainly to MIDH and allied mission structures.
+
+- **Option D:** D is incorrect because it mixes institutions and policy domains that do not reproduce the NMAET design.
+
+**Unique trap:** Remember the classic four, but do not call the old umbrella unchanged and current.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because it assigns each function to an unrelated current mission.
+
+- **Option B:** B is correct because current Survey, guideline and Outcome Budget documents show the redistributed extension, seed and mechanisation homes.
+
+- **Option C:** C is incorrect because agricultural extension, seed and machinery remain agriculture functions rather than a wholesale textiles transfer.
+
+- **Option D:** D is incorrect because ATMA coordinates district extension while KVK performs frontline technical extension, not district financing.
+
+**Unique trap:** Map the function to its current home instead of preserving an obsolete umbrella.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because breeding and national budget approval are not the defining functions of these district institutions.
+
+- **Option B:** B is incorrect because quarantine and procurement belong to other regulatory and market agencies.
+
+- **Option C:** C is correct because ATMA is the district management and convergence platform, while KVK supplies location-specific technical testing, demonstrations and training.
+
+- **Option D:** D is incorrect because both are public extension institutions rather than edible-oil processors.
+
+**Unique trap:** Coordination and frontline technical validation are complementary but distinct roles.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because a selected demonstration plot cannot identify nationwide mission additionality.
+
+- **Option B:** B is incorrect because observation may reduce uncertainty but finance, risk, tenure, supply and market barriers remain.
+
+- **Option C:** C is incorrect because a demonstration is an extension method rather than an enforceable individual entitlement.
+
+- **Option D:** D is correct because supervised feasibility is useful evidence but lies before voluntary repeated use and welfare outcomes in the results chain.
+
+**Unique trap:** Demonstration performance is not population impact.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because TMC joined farm productivity and fibre quality with market and processing infrastructure.
+
+- **Option B:** B is incorrect because those instruments do not reproduce the four official mini-mission architecture.
+
+- **Option C:** C is incorrect because TMC deliberately extended beyond research and seed to transfer, markets and ginning.
+
+- **Option D:** D is incorrect because allied fibre diversification belongs to the later Navya Fibre component, not the historical four.
+
+**Unique trap:** Do not transfer the historical four-mini-mission list to the 2026 cotton mission.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because the current successor has a new period, approval, outlay and three-part structure.
+
+- **Option B:** B is correct because the May 2026 Cabinet approval established the five-year mission and its current architecture.
+
+- **Option C:** C is incorrect because jute had a separate historical technology mission.
+
+- **Option D:** D is incorrect because cotton productivity and oil-palm development have different crops, ministries and value chains.
+
+**Unique trap:** Current cotton has three named mini-missions; historical TMC had four functional mini-missions.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because JTM crossed the Agriculture-Textiles boundary rather than belonging solely to one ministry.
+
+- **Option B:** B is incorrect because the approved JTM period and reported activities belong to the historical 2006-early-2010s phase.
+
+- **Option C:** C is correct because its analytical value lies in showing an end-to-end fibre value chain from farm technology to industrial quality and promotion.
+
+- **Option D:** D is incorrect because pulses and jute have distinct missions and crop economics.
+
+**Unique trap:** Historical relevance does not create current administrative status.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because the self-reliance mission was approved in 2025, long after the Eleventh Plan.
+
+- **Option B:** B is incorrect because the dedicated mission has its own Cabinet approval, outlay, targets and procurement architecture.
+
+- **Option C:** C is incorrect because official approval specifies Rs 11,440 crore and a six-year period with 2030-31 targets.
+
+- **Option D:** D is correct because the standalone mission and continuing NFSNM pulse component are distinct but complementary policy platforms.
+
+**Unique trap:** Convergence does not erase separate approvals and targets.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** A is correct because current NFSNM guidelines retain Shree Anna as a dedicated sub-mission.
+
+- **Option B:** B is incorrect because no operative standalone Union mission with that title and period was established in the audited sources.
+
+- **Option C:** C is incorrect because NMEO-OP concerns perennial oil palm rather than millets.
+
+- **Option D:** D is incorrect because JTM concerned jute fibre and is historical.
+
+**Unique trap:** Do not promote campaign terminology into a nonexistent current standalone mission.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** A is incorrect because lower cost and secure tenure reduce rather than raise the threshold.
+
+- **Option B:** B is correct because the tenant may bear present investment cost while losing future benefits after the lease ends.
+
+- **Option C:** C is incorrect because finance and processor access improve expected returns and lower market risk.
+
+- **Option D:** D is incorrect because credible evidence and service availability reduce learning and failure uncertainty.
+
+**Unique trap:** Average profitability is irrelevant when the adopter cannot capture the future return.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** A is incorrect because nationwide change may reflect weather, prices, area, trade or unrelated technologies.
+
+- **Option B:** B is incorrect because expenditure utilisation verifies an administrative process, not the outcome caused by it.
+
+- **Option C:** C is correct because a credible adjusted comparison directly estimates incremental change associated with mission exposure.
+
+- **Option D:** D is incorrect because meetings are governance activities whose frequency does not establish farmer-level impact.
+
+**Unique trap:** Before-after correlation is weaker than a credible counterfactual comparison.
+
+### MCQ 32 - D
+
+**Correct answer:** D
+
+- **Option A:** A is incorrect because sunk administrative capacity does not justify an instrument whose problem or additionality has disappeared.
+
+- **Option B:** B is incorrect because seed systems, annual crops, perennial plantations and infrastructure have different time horizons.
+
+- **Option C:** C is incorrect because rebranding can hide failure without changing the causal mechanism.
+
+- **Option D:** D is correct because a differentiated evidence-based exit protects useful capability while ending obsolete or harmful support.
+
+**Unique trap:** Sunset is a decision process, not an automatic guillotine or indefinite continuation.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** The continuation rate among initial triers is 800/2,000.
+
+- **Option B:** 800/10,000 would be 8%, an outreach-to-repeat rate with a different denominator.
+
+- **Option C:** The inverse compares triers with repeat users, not a retention rate.
+
+- **Option D:** Training-to-trial ratio is not repeated adoption.
+
+**Unique trap:** Choose a denominator that matches the claimed stage of the results chain.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** Photos record activity, not farm welfare.
+
+- **Option B:** Net gains and a counterfactual reveal whether gains survive realistic costs and market conditions.
+
+- **Option C:** Input cost, local ecology and sale price vary across locations.
+
+- **Option D:** Staff training is an intermediate capability, not the farm outcome.
+
+**Unique trap:** Experimental yield gain is not the same as causal net-income impact.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** Area expansion may displace another valuable crop.
+
+- **Option B:** Seeds distributed do not prove germination, adoption or yield.
+
+- **Option C:** Jointly tracking yield, trade, substitution and resource cost tests additionality.
+
+- **Option D:** Communication output is not a production or welfare measure.
+
+**Unique trap:** Higher domestic acreage need not mean a productivity-led reduction of import vulnerability.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** Spending proves disbursement, not value.
+
+- **Option B:** An immediate blanket stop ignores the possibility of corrective redesign.
+
+- **Option C:** Headcount cannot capture soil, water or profits.
+
+- **Option D:** A conditional extension ties fiscal resources to verified outcomes and safeguards.
+
+**Unique trap:** Mission time limits should trigger evidence-based continuation, not automatic renewal.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** Tenure and cash flow must cover establishment and immature years.
+
+- **Option B:** Free planting material cannot solve eviction or gestation risk.
+
+- **Option C:** A new orchard cannot instantly match mature production.
+
+- **Option D:** Local climate and tenure vary; a national mean hides constraints.
+
+**Unique trap:** Long-gestation technologies face a tenure and finance mismatch, not merely information failure.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** WTO bindings and germplasm research have different institutional owners.
+
+- **Option B:** Research, local adaptation and state delivery are complementary.
+
+- **Option C:** Market institutions may support sale, but plant breeding needs scientific capacity.
+
+- **Option D:** Communication cannot verify germination, fit or last-mile availability.
+
+**Unique trap:** Research generation and technology transfer are linked but institutionally distinct.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Import reliance can change long before acreage vanishes.
+
+- **Option B:** Seed handouts do not establish supply-demand balance.
+
+- **Option C:** Rising demand can absorb output gains without reducing import reliance.
+
+- **Option D:** Import volume depends on demand, stocks, yields, domestic extraction and prices.
+
+**Unique trap:** A production increase need not reduce the import share or import bill.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** A mission may combine support with public goods.
+
+- **Option B:** Uniformity can undermine crop or climate fit.
+
+- **Option C:** Warehouse location does not demonstrate impact or convergence.
+
+- **Option D:** Problem-led coordination plus credible evaluation addresses the whole adoption chain.
+
+**Unique trap:** The programme label and spending scale do not establish mission-mode causality.
 
 ## Verified PYQs
 

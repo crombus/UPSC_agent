@@ -6,7 +6,7 @@ topic_key: economy-topic-11
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+40 original questions (32 foundation plus eight integrative challenges) precede the separate solved key. Correct options rotate A → B → C → D throughout.
 
 ### MCQ 1
 
@@ -17,16 +17,6 @@ B. It refers only to redistribution of ceiling-surplus land.
 C. It means replacing private farms with State farms.
 D. It is identical to the introduction of high-yielding seeds.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The correct option states the complete institutional package. The option states: It includes intermediary abolition, tenancy, ceilings, consolidation and records.
-- **B - Incorrect:** Redistribution is only one instrument. The option states: It refers only to redistribution of ceiling-surplus land.
-- **C - Incorrect:** Collectivisation is not the general Indian definition. The option states: It means replacing private farms with State farms.
-- **D - Incorrect:** Seed technology belongs to the Green Revolution, not land reform. The option states: It is identical to the introduction of high-yielding seeds.
-
-**Examiner trap 1:** Do not reduce land reform to one redistributive instrument.
-
 ### MCQ 2
 
 Under the zamindari arrangement, which relationship is central?
@@ -35,16 +25,6 @@ A. The State assessed every cultivator directly without any recognised intermedi
 B. A recognised intermediary stood between the State and actual cultivators for revenue or rent.
 C. A village estate alone held collective revenue responsibility everywhere.
 D. The arrangement guaranteed ownership to every tenant.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** This describes the ryotwari ideal, not zamindari. The option states: The State assessed every cultivator directly without any recognised intermediary.
-- **B - Correct:** Zamindari institutionalised a rent-receiving intermediary layer. The option states: A recognised intermediary stood between the State and actual cultivators for revenue or rent.
-- **C - Incorrect:** This is closer to mahalwari logic. The option states: A village estate alone held collective revenue responsibility everywhere.
-- **D - Incorrect:** Tenancy ownership did not follow automatically. The option states: The arrangement guaranteed ownership to every tenant.
-
-**Examiner trap 2:** Intermediary status must not be confused with cultivator ownership.
 
 ### MCQ 3
 
@@ -55,16 +35,6 @@ B. It abolished colonial land revenue.
 C. It involved direct assessment of the recorded cultivator but did not guarantee low demand or conclusive title.
 D. It made all tenants permanent owners after Independence.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Ryotwari did not rely on a single zamindar for the principal assessment. The option states: It vested the whole village jointly in a zamindar.
-- **B - Incorrect:** Colonial revenue continued under ryotwari. The option states: It abolished colonial land revenue.
-- **C - Correct:** Direct settlement and secure ownership are analytically distinct. The option states: It involved direct assessment of the recorded cultivator but did not guarantee low demand or conclusive title.
-- **D - Incorrect:** Post-Independence tenancy outcomes depended on State laws. The option states: It made all tenants permanent owners after Independence.
-
-**Examiner trap 3:** Direct State-cultivator contact is not proof of secure tenure.
-
 ### MCQ 4
 
 Mahalwari settlement is best identified by:
@@ -73,16 +43,6 @@ A. A universal cash grant to landless labourers.
 B. A direct settlement with each ryot in all of India.
 C. A permanent State purchase of every estate.
 D. Revenue responsibility associated with a village estate, mahal or co-sharer body.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** It was a revenue system, not a welfare transfer. The option states: A universal cash grant to landless labourers.
-- **B - Incorrect:** This overstates ryotwari and ignores regional variation. The option states: A direct settlement with each ryot in all of India.
-- **C - Incorrect:** Assessment did not mean universal State ownership. The option states: A permanent State purchase of every estate.
-- **D - Correct:** The mahal or village estate was the relevant assessment unit. The option states: Revenue responsibility associated with a village estate, mahal or co-sharer body.
-
-**Examiner trap 4:** Village responsibility did not imply an egalitarian village.
 
 ### MCQ 5
 
@@ -93,16 +53,6 @@ B. To consolidate every fragmented holding.
 C. To introduce semi-dwarf wheat.
 D. To nationalise all agricultural land.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Abolition de-layered the revenue and tenure hierarchy. The option states: To extinguish specified rent-receiving layers between the State and cultivator.
-- **B - Incorrect:** Consolidation is a separate parcel-reorganisation measure. The option states: To consolidate every fragmented holding.
-- **C - Incorrect:** Semi-dwarf wheat belongs to the Green Revolution. The option states: To introduce semi-dwarf wheat.
-- **D - Incorrect:** Indian reform generally did not nationalise all farmland. The option states: To nationalise all agricultural land.
-
-**Examiner trap 5:** Abolition did not settle all sub-tenancy and title questions.
-
 ### MCQ 6
 
 Tenancy reform ordinarily includes which bundle?
@@ -111,16 +61,6 @@ A. Only a ban on all leasing.
 B. Rent regulation, tenure security, recording and possible ownership rights under State law.
 C. Only compensation to former zamindars.
 D. Only cadastral-map digitisation.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Blanket prohibition can drive tenancy underground. The option states: Only a ban on all leasing.
-- **B - Correct:** The bundle captures protection, recognition and possible ownership. The option states: Rent regulation, tenure security, recording and possible ownership rights under State law.
-- **C - Incorrect:** Intermediary compensation is a different issue. The option states: Only compensation to former zamindars.
-- **D - Incorrect:** Digitisation supports records but is not the whole tenancy reform. The option states: Only cadastral-map digitisation.
-
-**Examiner trap 6:** Do not equate tenancy reform with prohibition alone.
 
 ### MCQ 7
 
@@ -131,16 +71,6 @@ B. They automatically transfer every leased plot to its tenant.
 C. They set a State-law maximum and identify legally surplus land, subject to units and exemptions.
 D. They are fixed uniformly by one Union statute.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** This describes consolidation. The option states: They merge scattered parcels without changing ownership.
-- **B - Incorrect:** Tenant ownership depends on separate State provisions. The option states: They automatically transfer every leased plot to its tenant.
-- **C - Correct:** Ceilings operate through State definitions of permissible and surplus holdings. The option states: They set a State-law maximum and identify legally surplus land, subject to units and exemptions.
-- **D - Incorrect:** Land is principally a State legislative field. The option states: They are fixed uniformly by one Union statute.
-
-**Examiner trap 7:** Declared surplus is not the same as land possessed and distributed.
-
 ### MCQ 8
 
 Consolidation of holdings primarily seeks to:
@@ -149,16 +79,6 @@ A. Redistribute every holding above a ceiling.
 B. Create conclusive title merely by scanning records.
 C. Prohibit all machinery services.
 D. Reorganise scattered parcels into fewer workable blocks without necessarily changing total ownership.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Redistribution is the ceiling function. The option states: Redistribute every holding above a ceiling.
-- **B - Incorrect:** Digitisation cannot itself settle title. The option states: Create conclusive title merely by scanning records.
-- **C - Incorrect:** Machinery services may complement consolidation. The option states: Prohibit all machinery services.
-- **D - Correct:** Consolidation addresses spatial fragmentation and operating costs. The option states: Reorganise scattered parcels into fewer workable blocks without necessarily changing total ownership.
-
-**Examiner trap 8:** Consolidation is neither collectivisation nor ceiling redistribution.
 
 ### MCQ 9
 
@@ -169,16 +89,6 @@ B. Compulsory acquisition under a uniform Union ceiling.
 C. Drone mapping of rural abadi land.
 D. Procurement of wheat at administered prices.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Bhoodan used moral persuasion and voluntary donation. The option states: Voluntary land gifts mobilised through Vinoba Bhave's movement.
-- **B - Incorrect:** Ceiling acquisition was State-law based, not a single Union ceiling. The option states: Compulsory acquisition under a uniform Union ceiling.
-- **C - Incorrect:** Drone mapping belongs to SVAMITVA. The option states: Drone mapping of rural abadi land.
-- **D - Incorrect:** Procurement belongs to food management. The option states: Procurement of wheat at administered prices.
-
-**Examiner trap 9:** Pledged, transferred and cultivable land are separate quantities.
-
 ### MCQ 10
 
 Why did land-reform outcomes vary substantially among States?
@@ -187,16 +97,6 @@ A. The Constitution barred States from legislating on land.
 B. Land is principally in the State List and implementation capacity and politics differed.
 C. Every State used an identical law and record system.
 D. Only rainfall determined reform success.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** State List Entry 18 points the other way. The option states: The Constitution barred States from legislating on land.
-- **B - Correct:** Federal competence combined with political and administrative variation. The option states: Land is principally in the State List and implementation capacity and politics differed.
-- **C - Incorrect:** State laws and institutions differed. The option states: Every State used an identical law and record system.
-- **D - Incorrect:** Rainfall cannot explain legal implementation alone. The option states: Only rainfall determined reform success.
-
-**Examiner trap 10:** A national reform label conceals State-level design.
 
 ### MCQ 11
 
@@ -207,16 +107,6 @@ B. Transfers land legislation to Parliament.
 C. Protects specified categories such as estate acquisition or rights modification on stated constitutional grounds.
 D. Eliminates all judicial review of reform laws.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Article 31B requires specific Ninth-Schedule listing. The option states: Places every land law in the Ninth Schedule automatically.
-- **B - Incorrect:** Land remains principally a State subject. The option states: Transfers land legislation to Parliament.
-- **C - Correct:** Article 31A is a category-specific constitutional shield. The option states: Protects specified categories such as estate acquisition or rights modification on stated constitutional grounds.
-- **D - Incorrect:** Textual conditions and constitutional review remain. The option states: Eliminates all judicial review of reform laws.
-
-**Examiner trap 11:** Article 31A is not blanket immunity.
-
 ### MCQ 12
 
 Which statement about Article 31B is correct?
@@ -225,16 +115,6 @@ A. It applies automatically to all Directive Principles.
 B. It defines cropping intensity.
 C. It makes every post-1973 insertion immune from review.
 D. It protects laws specifically listed in the Ninth Schedule, subject to the basic-structure qualification.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Article 31C, not 31B, concerns Article 39(b) and (c). The option states: It applies automatically to all Directive Principles.
-- **B - Incorrect:** Cropping intensity is a land-use statistic. The option states: It defines cropping intensity.
-- **C - Incorrect:** I.R. Coelho preserves basic-structure review. The option states: It makes every post-1973 insertion immune from review.
-- **D - Correct:** Article 31B works through specific Schedule listing. The option states: It protects laws specifically listed in the Ninth Schedule, subject to the basic-structure qualification.
-
-**Examiner trap 12:** Ninth-Schedule listing is law-specific, not subject-wide.
 
 ### MCQ 13
 
@@ -245,16 +125,6 @@ B. Every Directive Principle without limit.
 C. Only land-record computerisation.
 D. Only laws enacted before 1951.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The surviving protection is tied to material-resource and anti-concentration clauses. The option states: Article 39(b) or 39(c), subject to constitutional interpretation.
-- **B - Incorrect:** The all-Directive-Principles extension did not survive review. The option states: Every Directive Principle without limit.
-- **C - Incorrect:** DILRMP is a programme, not Article 31C's definition. The option states: Only land-record computerisation.
-- **D - Incorrect:** Article 31C is not confined to pre-1951 laws. The option states: Only laws enacted before 1951.
-
-**Examiner trap 13:** State the Article 39(b)/(c) boundary.
-
 ### MCQ 14
 
 What is the core holding relevant from I.R. Coelho (2007)?
@@ -263,16 +133,6 @@ A. Every Ninth-Schedule law was automatically repealed.
 B. Post-24 April 1973 Ninth-Schedule insertions can be reviewed for basic-structure damage.
 C. Land ceilings became a Union subject.
 D. Article 31A was deleted.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The judgment created review, not automatic repeal. The option states: Every Ninth-Schedule law was automatically repealed.
-- **B - Correct:** The Court preserved basic-structure review after the Kesavananda cut-off. The option states: Post-24 April 1973 Ninth-Schedule insertions can be reviewed for basic-structure damage.
-- **C - Incorrect:** The federal allocation of land did not change. The option states: Land ceilings became a Union subject.
-- **D - Incorrect:** Article 31A remains in the Constitution. The option states: Article 31A was deleted.
-
-**Examiner trap 14:** Ninth-Schedule protection is not a constitutional black hole.
 
 ### MCQ 15
 
@@ -283,16 +143,6 @@ B. Treating statutory shares as self-executing.
 C. Combining legal inheritance equality with mutation, possession and control over farm decisions.
 D. Replacing all State records with an undifferentiated family record.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Male-only recording erases women's claims. The option states: Counting household land only in the male head's name.
-- **B - Incorrect:** Mutation and possession remain necessary. The option states: Treating statutory shares as self-executing.
-- **C - Correct:** Effective rights require the legal share to appear in enforceable records and control. The option states: Combining legal inheritance equality with mutation, possession and control over farm decisions.
-- **D - Incorrect:** Household aggregation can conceal individual entitlements. The option states: Replacing all State records with an undifferentiated family record.
-
-**Examiner trap 15:** Formal equality and effective control are different.
-
 ### MCQ 16
 
 Why must tribal and customary tenure be mapped carefully?
@@ -301,16 +151,6 @@ A. Unrecorded commons are automatically ownerless.
 B. All Scheduled Areas follow one private-title law.
 C. Digitisation lawfully extinguishes every customary claim.
 D. Private parcels, community use and anti-alienation protections may coexist.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Lack of an individual entry does not prove absence of rights. The option states: Unrecorded commons are automatically ownerless.
-- **B - Incorrect:** Constitutional and State arrangements vary. The option states: All Scheduled Areas follow one private-title law.
-- **C - Incorrect:** Technology cannot extinguish lawful claims without due process. The option states: Digitisation lawfully extinguishes every customary claim.
-- **D - Correct:** Multiple rights can attach to land beyond an individual ownership entry. The option states: Private parcels, community use and anti-alienation protections may coexist.
-
-**Examiner trap 16:** Do not equate unrecorded community land with vacant land.
 
 ### MCQ 17
 
@@ -321,16 +161,6 @@ B. Transfer ownership automatically to every lessee.
 C. Create a binding all-India tenancy code.
 D. Prohibit written agricultural leases.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The model balances owner security with recorded cultivation. The option states: Enable lawful leasing while protecting both ownership and cultivator interests.
-- **B - Incorrect:** A lease is not an ownership transfer. The option states: Transfer ownership automatically to every lessee.
-- **C - Incorrect:** The model is advisory for State adaptation. The option states: Create a binding all-India tenancy code.
-- **D - Incorrect:** Written contracts are part of the proposed formalisation. The option states: Prohibit written agricultural leases.
-
-**Examiner trap 17:** A model law does not itself amend State law.
-
 ### MCQ 18
 
 Which statement best describes DILRMP?
@@ -339,16 +169,6 @@ A. It is solely a crop-insurance programme.
 B. It modernises textual and spatial records and their integration; it does not itself guarantee title.
 C. It abolishes State land departments.
 D. It covers only urban stock-exchange property.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Crop insurance is a different policy field. The option states: It is solely a crop-insurance programme.
-- **B - Correct:** DILRMP is land-information infrastructure implemented through States and Union Territories. The option states: It modernises textual and spatial records and their integration; it does not itself guarantee title.
-- **C - Incorrect:** States remain central implementers. The option states: It abolishes State land departments.
-- **D - Incorrect:** The programme concerns land records, not securities markets. The option states: It covers only urban stock-exchange property.
-
-**Examiner trap 18:** Digitisation and conclusive titling are different reforms.
 
 ### MCQ 19
 
@@ -359,16 +179,6 @@ B. An automatic court decree on ownership.
 C. A 14-digit alphanumeric identifier for a georeferenced land parcel.
 D. A guaranteed farm-credit limit.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** It identifies land, not a person. The option states: A biometric identity number for the cultivator.
-- **B - Incorrect:** Competing rights still require legal process. The option states: An automatic court decree on ownership.
-- **C - Correct:** ULPIN identifies the parcel to support interoperable records. The option states: A 14-digit alphanumeric identifier for a georeferenced land parcel.
-- **D - Incorrect:** Credit eligibility is not fixed by the identifier. The option states: A guaranteed farm-credit limit.
-
-**Examiner trap 19:** Parcel identification does not adjudicate every right.
-
 ### MCQ 20
 
 Which statement correctly bounds SVAMITVA?
@@ -377,16 +187,6 @@ A. It surveys every agricultural field nationwide.
 B. Its card is uniformly an indefeasible Union title deed.
 C. It replaces cadastral and revenue law in every State.
 D. It maps rural abadi areas and supports State-issued property cards through survey and objection processes.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Agricultural fields are not its universal scope. The option states: It surveys every agricultural field nationwide.
-- **B - Incorrect:** Legal effect depends on State law. The option states: Its card is uniformly an indefeasible Union title deed.
-- **C - Incorrect:** The scheme operates with, not above, State legal systems. The option states: It replaces cadastral and revenue law in every State.
-- **D - Correct:** SVAMITVA's primary spatial focus is inhabited village abadi property. The option states: It maps rural abadi areas and supports State-issued property cards through survey and objection processes.
-
-**Examiner trap 20:** A property card is not automatically conclusive title.
 
 ### MCQ 21
 
@@ -397,16 +197,6 @@ B. A seed distribution event independent of institutions.
 C. A uniform shift across every crop and region.
 D. A land-ceiling programme.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Complementary inputs and institutions converted varietal potential into output. The option states: An HYV-water-fertiliser-credit-extension-procurement package.
-- **B - Incorrect:** Seed alone cannot explain adoption and realised yield. The option states: A seed distribution event independent of institutions.
-- **C - Incorrect:** Initial gains were crop- and region-concentrated. The option states: A uniform shift across every crop and region.
-- **D - Incorrect:** Ceilings concern agrarian assets, not crop technology. The option states: A land-ceiling programme.
-
-**Examiner trap 21:** Never describe it as a seed-only revolution.
-
 ### MCQ 22
 
 Why were semi-dwarf cereal varieties important?
@@ -415,16 +205,6 @@ A. They required no irrigation or nutrients.
 B. They could respond strongly to nutrients with lower lodging risk under suitable management.
 C. They guaranteed equal gains in every region.
 D. They eliminated the need for local breeding and trials.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** HYV performance remained input-dependent. The option states: They required no irrigation or nutrients.
-- **B - Correct:** Plant architecture helped convert fertiliser and water into grain. The option states: They could respond strongly to nutrients with lower lodging risk under suitable management.
-- **C - Incorrect:** Agro-climatic and institutional conditions differed. The option states: They guaranteed equal gains in every region.
-- **D - Incorrect:** Adaptation and seed systems remained essential. The option states: They eliminated the need for local breeding and trials.
-
-**Examiner trap 22:** High yield is potential under conditions, not an automatic outcome.
 
 ### MCQ 23
 
@@ -435,16 +215,6 @@ B. Every district adopted simultaneously.
 C. Gains were strongest in irrigated north-western wheat areas, with rice spreading later.
 D. The strategy was independent of procurement and irrigation.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Pulses and oilseeds were less central initially. The option states: Pulses and oilseeds led uniformly across rainfed India.
-- **B - Incorrect:** Diffusion was uneven over time. The option states: Every district adopted simultaneously.
-- **C - Correct:** Complementary infrastructure concentrated early adoption geographically and by crop. The option states: Gains were strongest in irrigated north-western wheat areas, with rice spreading later.
-- **D - Incorrect:** Irrigation and market support shaped adoption. The option states: The strategy was independent of procurement and irrigation.
-
-**Examiner trap 23:** National output success can coexist with regional disparity.
-
 ### MCQ 24
 
 An evergreen-revolution approach emphasises:
@@ -453,16 +223,6 @@ A. Repeating input intensification without resource limits.
 B. Ending all modern crop science.
 C. Replacing diversification with permanent monoculture.
 D. Sustained productivity growth with ecological resilience and farmer viability.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Resource constraints must enter the objective. The option states: Repeating input intensification without resource limits.
-- **B - Incorrect:** Science remains central but changes direction. The option states: Ending all modern crop science.
-- **C - Incorrect:** Diversity can reduce systemic risk. The option states: Replacing diversification with permanent monoculture.
-- **D - Correct:** The concept joins productivity with ecological durability. The option states: Sustained productivity growth with ecological resilience and farmer viability.
-
-**Examiner trap 24:** Evergreen does not mean an identical second Green Revolution.
 
 ### MCQ 25
 
@@ -473,16 +233,6 @@ B. Rabi is always sown during peak monsoon.
 C. Zaid is a permanent plantation category.
 D. Every pulse belongs only to kharif.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Season labels are broad calendars rather than immutable crop identities. The option states: Kharif is broadly monsoon-linked, while regional calendars and irrigated exceptions remain.
-- **B - Incorrect:** Rabi is principally the winter season. The option states: Rabi is always sown during peak monsoon.
-- **C - Incorrect:** Zaid denotes a short summer cultivation window. The option states: Zaid is a permanent plantation category.
-- **D - Incorrect:** Pulses can occur in different seasons by crop and region. The option states: Every pulse belongs only to kharif.
-
-**Examiner trap 25:** Do not turn common seasons into universal crop rules.
-
 ### MCQ 26
 
 Cropping intensity equals:
@@ -491,16 +241,6 @@ A. Total production divided by rural population.
 B. Gross cropped area divided by net area sown, multiplied by 100.
 C. Net area sown divided by gross cropped area without percentage conversion.
 D. Yield divided by irrigated area.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** This is not a land-use intensity measure. The option states: Total production divided by rural population.
-- **B - Correct:** The ratio measures how often net sown land is cropped within the year. The option states: Gross cropped area divided by net area sown, multiplied by 100.
-- **C - Incorrect:** The ratio is reversed and incomplete. The option states: Net area sown divided by gross cropped area without percentage conversion.
-- **D - Incorrect:** Yield and irrigation are different statistics. The option states: Yield divided by irrigated area.
-
-**Examiner trap 26:** Cropping intensity measures repeated land use, not yield.
 
 ### MCQ 27
 
@@ -511,16 +251,6 @@ B. Multiple cropping always means mixed seed in one field.
 C. Mixed cropping lacks a fixed row geometry, whereas intercropping uses a planned spatial arrangement.
 D. Intercropping and monoculture are identical.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Rotation is a temporal sequence. The option states: Crop rotation means simultaneous sowing of all crops.
-- **B - Incorrect:** Multiple cropping refers to more than one crop cycle or crop use, not necessarily a mixture. The option states: Multiple cropping always means mixed seed in one field.
-- **C - Correct:** Spatial arrangement distinguishes mixed cropping from intercropping. The option states: Mixed cropping lacks a fixed row geometry, whereas intercropping uses a planned spatial arrangement.
-- **D - Incorrect:** Intercropping deliberately combines crops. The option states: Intercropping and monoculture are identical.
-
-**Examiner trap 27:** Do not use mixed cropping and intercropping interchangeably.
-
 ### MCQ 28
 
 A rise in agricultural production can occur without higher productivity when:
@@ -529,16 +259,6 @@ A. Yield rises on unchanged area.
 B. The same output uses fewer inputs.
 C. A yield gap narrows.
 D. Cultivated area expands while yield per hectare is unchanged.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** This is precisely higher land productivity. The option states: Yield rises on unchanged area.
-- **B - Incorrect:** Using fewer inputs for the same output raises efficiency. The option states: The same output uses fewer inputs.
-- **C - Incorrect:** A narrower yield gap generally implies higher realised productivity. The option states: A yield gap narrows.
-- **D - Correct:** Production is area multiplied by yield, so an area effect alone can raise output. The option states: Cultivated area expands while yield per hectare is unchanged.
-
-**Examiner trap 28:** Always decompose output change into area and yield.
 
 ### MCQ 29
 
@@ -549,16 +269,6 @@ B. Only the announced price of one crop.
 C. Only inherited cultural preference.
 D. Only farm size.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Crop allocation is a constrained risk-return decision embedded in ecology and institutions. The option states: Agro-climate, water, expected net returns, risk, technology and market access.
-- **B - Incorrect:** Price alone omits costs, risk and sales. The option states: Only the announced price of one crop.
-- **C - Incorrect:** Culture matters but is not exclusive. The option states: Only inherited cultural preference.
-- **D - Incorrect:** Size interacts with many other determinants. The option states: Only farm size.
-
-**Examiner trap 29:** A high price is not a complete profitability calculation.
-
 ### MCQ 30
 
 Which crop-category statement is most accurate?
@@ -567,16 +277,6 @@ A. Every food crop is non-commercial.
 B. Plantation crops are typically perennial estate crops, while horticulture includes fruits, vegetables, spices and flowers.
 C. All oilseeds fit one exclusive category in every classification.
 D. Tea is a seasonal field cereal.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Food crops can be market-oriented. The option states: Every food crop is non-commercial.
-- **B - Correct:** The statement uses production-system and crop-use distinctions correctly. The option states: Plantation crops are typically perennial estate crops, while horticulture includes fruits, vegetables, spices and flowers.
-- **C - Incorrect:** Classification purpose can place crops differently. The option states: All oilseeds fit one exclusive category in every classification.
-- **D - Incorrect:** Tea is a perennial plantation crop. The option states: Tea is a seasonal field cereal.
-
-**Examiner trap 30:** Crop categories are analytical and can overlap economically.
 
 ### MCQ 31
 
@@ -587,16 +287,6 @@ B. It disappears automatically when land is leased informally.
 C. A holding can be small yet contiguous, or larger but split into costly scattered parcels.
 D. It affects neither irrigation nor machinery movement.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Total size omits spatial structure. The option states: Fragmentation measures only total owned hectares.
-- **B - Incorrect:** Informal leasing may not reorganise plots. The option states: It disappears automatically when land is leased informally.
-- **C - Correct:** Parcel number and location create costs independent of aggregate area. The option states: A holding can be small yet contiguous, or larger but split into costly scattered parcels.
-- **D - Incorrect:** Scattering raises boundary and travel costs. The option states: It affects neither irrigation nor machinery movement.
-
-**Examiner trap 31:** Size and parcel configuration require separate diagnosis.
-
 ### MCQ 32
 
 Which boundary statement is correct for this topic?
@@ -606,17 +296,601 @@ B. Land reform belongs entirely to Topic 12.
 C. Cropping systems should exclude all ecological analysis.
 D. Cropping incentives may mention procurement and sustainability, but detailed MSP/PDS belongs to Topic 12 and input-sustainability instruments to Topic 14.
 
+### MCQ 33
+
+A State has recorded sharecroppers but not changed the size of their plots. Which paired conclusion is defensible?
+
+A. Tenure security may improve investment; fragmentation can persist.
+B. Sharecropper registration necessarily transfers ownership; consolidation follows.
+C. Ceiling-surplus redistribution occurs automatically when tenants are registered.
+D. Registration guarantees conclusive title to each cultivator.
+
+### MCQ 34
+
+Match the mechanism to its instrument: (1) Excess holdings identified for acquisition; (2) scattered parcels rearranged; (3) tenant eviction restrained. Which sequence is correct?
+
+A. Consolidation; ceiling; intermediary abolition.
+B. Ceiling; consolidation; tenancy protection.
+C. Tenancy protection; ceiling; cadastral digitisation.
+D. Intermediary abolition; tenancy protection; ceiling.
+
+### MCQ 35
+
+A high-yielding wheat variety is distributed in a rainfed district with unreliable credit and no assured buyers. What is the strongest inference?
+
+A. Its yield must equal irrigated Punjab because genetics determines outcome.
+B. Credit can substitute completely for rainfall.
+C. The seed response depends on complementary water, inputs and market incentives.
+D. Only land ceilings can restore the missing yield response.
+
+### MCQ 36
+
+For an owned field of 2 hectares planted with a kharif crop and a rabi crop on the same area, gross cropped area and net sown area are respectively:
+
+A. 2 ha and 4 ha; intensity 50%.
+B. 2 ha and 2 ha; intensity 100%.
+C. 4 ha and 4 ha; intensity 100%.
+D. 4 ha and 2 ha; intensity 200%.
+
+### MCQ 37
+
+Which scientist–institution–contribution pairing is most accurate for a 2019 GS-III answer?
+
+A. Visvesvaraya—Khadakwasla automatic floodgates; Swaminathan—IARI adaptation of semi-dwarf wheat.
+B. Visvesvaraya—IR8 breeding at IRRI; Swaminathan—KRS block irrigation.
+C. Visvesvaraya—NCF chairmanship; Swaminathan—Bombay Presidency block system.
+D. Visvesvaraya—sole inventor of Indian canals; Swaminathan—sole breeder of Mexican wheat.
+
+### MCQ 38
+
+Consider: (1) NPOP certification architecture is associated with APEDA; (2) every non-chemical field is necessarily NPOP-certified; (3) Sikkim is cited as the first fully organic Indian state. Which are correct?
+
+A. 1 and 2 only.
+B. 1 and 3 only.
+C. 2 and 3 only.
+D. 1, 2 and 3.
+
+### MCQ 39
+
+A district announces a shift from paddy to perishable vegetables without grading, refrigeration or buyers. Which risk dominates the policy mechanism?
+
+A. Paddy MSP automatically becomes the vegetable floor price.
+B. Higher cropping intensity ensures vegetable profits.
+C. Post-harvest loss and marketing risk can erase expected farm-gate returns.
+D. Vegetables cannot be grown on formerly irrigated fields.
+
+### MCQ 40
+
+A record is digitally georeferenced under ULPIN and a rural-abadi parcel receives a SVAMITVA property card. Which further step is necessary before claiming universally conclusive title?
+
+A. Merely putting both IDs into the same database.
+B. Replacing State land laws with a technology portal.
+C. Treating the map as proof that no tenant or customary user exists.
+D. Notice, claims and objections, adjudication and continuous correction under applicable State law.
+
+### SEPARATE SOLVED KEY — ORIGINAL MCQS
+
+### KEY 1
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The correct option states the complete institutional package.
+- **B - Incorrect:** Redistribution is only one instrument.
+- **C - Incorrect:** Collectivisation is not the general Indian definition.
+- **D - Incorrect:** Seed technology belongs to the Green Revolution, not land reform.
+
+**Examiner trap 1:** Do not reduce land reform to one redistributive instrument.
+
+### KEY 2
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** This describes the ryotwari ideal, not zamindari.
+- **B - Correct:** Zamindari institutionalised a rent-receiving intermediary layer.
+- **C - Incorrect:** This is closer to mahalwari logic.
+- **D - Incorrect:** Tenancy ownership did not follow automatically.
+
+**Examiner trap 2:** Intermediary status must not be confused with cultivator ownership.
+
+### KEY 3
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Ryotwari did not rely on a single zamindar for the principal assessment.
+- **B - Incorrect:** Colonial revenue continued under ryotwari.
+- **C - Correct:** Direct settlement and secure ownership are analytically distinct.
+- **D - Incorrect:** Post-Independence tenancy outcomes depended on State laws.
+
+**Examiner trap 3:** Direct State-cultivator contact is not proof of secure tenure.
+
+### KEY 4
+
 **Answer: D.**
 
 **Option-wise explanation:**
-- **A - Incorrect:** Detailed procurement architecture is reserved for Topic 12. The option states: This topic should reproduce the complete MSP formula and buffer-stock rules.
-- **B - Incorrect:** Land reform is the central owner here. The option states: Land reform belongs entirely to Topic 12.
-- **C - Incorrect:** Ecological consequences are necessary, with deeper instruments deferred to Topic 14. The option states: Cropping systems should exclude all ecological analysis.
-- **D - Correct:** The option preserves conceptual links without duplicating adjacent syllabus owners. The option states: Cropping incentives may mention procurement and sustainability, but detailed MSP/PDS belongs to Topic 12 and input-sustainability instruments to Topic 14.
+- **A - Incorrect:** It was a revenue system, not a welfare transfer.
+- **B - Incorrect:** This overstates ryotwari and ignores regional variation.
+- **C - Incorrect:** Assessment did not mean universal State ownership.
+- **D - Correct:** The mahal or village estate was the relevant assessment unit.
+
+**Examiner trap 4:** Village responsibility did not imply an egalitarian village.
+
+### KEY 5
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Abolition de-layered the revenue and tenure hierarchy.
+- **B - Incorrect:** Consolidation is a separate parcel-reorganisation measure.
+- **C - Incorrect:** Semi-dwarf wheat belongs to the Green Revolution.
+- **D - Incorrect:** Indian reform generally did not nationalise all farmland.
+
+**Examiner trap 5:** Abolition did not settle all sub-tenancy and title questions.
+
+### KEY 6
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Blanket prohibition can drive tenancy underground.
+- **B - Correct:** The bundle captures protection, recognition and possible ownership.
+- **C - Incorrect:** Intermediary compensation is a different issue.
+- **D - Incorrect:** Digitisation supports records but is not the whole tenancy reform.
+
+**Examiner trap 6:** Do not equate tenancy reform with prohibition alone.
+
+### KEY 7
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** This describes consolidation.
+- **B - Incorrect:** Tenant ownership depends on separate State provisions.
+- **C - Correct:** Ceilings operate through State definitions of permissible and surplus holdings.
+- **D - Incorrect:** Land is principally a State legislative field.
+
+**Examiner trap 7:** Declared surplus is not the same as land possessed and distributed.
+
+### KEY 8
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Redistribution is the ceiling function.
+- **B - Incorrect:** Digitisation cannot itself settle title.
+- **C - Incorrect:** Machinery services may complement consolidation.
+- **D - Correct:** Consolidation addresses spatial fragmentation and operating costs.
+
+**Examiner trap 8:** Consolidation is neither collectivisation nor ceiling redistribution.
+
+### KEY 9
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Bhoodan used moral persuasion and voluntary donation.
+- **B - Incorrect:** Ceiling acquisition was State-law based, not a single Union ceiling.
+- **C - Incorrect:** Drone mapping belongs to SVAMITVA.
+- **D - Incorrect:** Procurement belongs to food management.
+
+**Examiner trap 9:** Pledged, transferred and cultivable land are separate quantities.
+
+### KEY 10
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** State List Entry 18 points the other way.
+- **B - Correct:** Federal competence combined with political and administrative variation.
+- **C - Incorrect:** State laws and institutions differed.
+- **D - Incorrect:** Rainfall cannot explain legal implementation alone.
+
+**Examiner trap 10:** A national reform label conceals State-level design.
+
+### KEY 11
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Article 31B requires specific Ninth-Schedule listing.
+- **B - Incorrect:** Land remains principally a State subject.
+- **C - Correct:** Article 31A is a category-specific constitutional shield.
+- **D - Incorrect:** Textual conditions and constitutional review remain.
+
+**Examiner trap 11:** Article 31A is not blanket immunity.
+
+### KEY 12
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Article 31C, not 31B, concerns Article 39(b) and (c).
+- **B - Incorrect:** Cropping intensity is a land-use statistic.
+- **C - Incorrect:** I.R. Coelho preserves basic-structure review.
+- **D - Correct:** Article 31B works through specific Schedule listing.
+
+**Examiner trap 12:** Ninth-Schedule listing is law-specific, not subject-wide.
+
+### KEY 13
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The surviving protection is tied to material-resource and anti-concentration clauses.
+- **B - Incorrect:** The all-Directive-Principles extension did not survive review.
+- **C - Incorrect:** DILRMP is a programme, not Article 31C's definition.
+- **D - Incorrect:** Article 31C is not confined to pre-1951 laws.
+
+**Examiner trap 13:** State the Article 39(b)/(c) boundary.
+
+### KEY 14
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The judgment created review, not automatic repeal.
+- **B - Correct:** The Court preserved basic-structure review after the Kesavananda cut-off.
+- **C - Incorrect:** The federal allocation of land did not change.
+- **D - Incorrect:** Article 31A remains in the Constitution.
+
+**Examiner trap 14:** Ninth-Schedule protection is not a constitutional black hole.
+
+### KEY 15
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Male-only recording erases women's claims.
+- **B - Incorrect:** Mutation and possession remain necessary.
+- **C - Correct:** Effective rights require the legal share to appear in enforceable records and control.
+- **D - Incorrect:** Household aggregation can conceal individual entitlements.
+
+**Examiner trap 15:** Formal equality and effective control are different.
+
+### KEY 16
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Lack of an individual entry does not prove absence of rights.
+- **B - Incorrect:** Constitutional and State arrangements vary.
+- **C - Incorrect:** Technology cannot extinguish lawful claims without due process.
+- **D - Correct:** Multiple rights can attach to land beyond an individual ownership entry.
+
+**Examiner trap 16:** Do not equate unrecorded community land with vacant land.
+
+### KEY 17
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The model balances owner security with recorded cultivation.
+- **B - Incorrect:** A lease is not an ownership transfer.
+- **C - Incorrect:** The model is advisory for State adaptation.
+- **D - Incorrect:** Written contracts are part of the proposed formalisation.
+
+**Examiner trap 17:** A model law does not itself amend State law.
+
+### KEY 18
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Crop insurance is a different policy field.
+- **B - Correct:** DILRMP is land-information infrastructure implemented through States and Union Territories.
+- **C - Incorrect:** States remain central implementers.
+- **D - Incorrect:** The programme concerns land records, not securities markets.
+
+**Examiner trap 18:** Digitisation and conclusive titling are different reforms.
+
+### KEY 19
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** It identifies land, not a person.
+- **B - Incorrect:** Competing rights still require legal process.
+- **C - Correct:** ULPIN identifies the parcel to support interoperable records.
+- **D - Incorrect:** Credit eligibility is not fixed by the identifier.
+
+**Examiner trap 19:** Parcel identification does not adjudicate every right.
+
+### KEY 20
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Agricultural fields are not its universal scope.
+- **B - Incorrect:** Legal effect depends on State law.
+- **C - Incorrect:** The scheme operates with, not above, State legal systems.
+- **D - Correct:** SVAMITVA's primary spatial focus is inhabited village abadi property.
+
+**Examiner trap 20:** A property card is not automatically conclusive title.
+
+### KEY 21
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Complementary inputs and institutions converted varietal potential into output.
+- **B - Incorrect:** Seed alone cannot explain adoption and realised yield.
+- **C - Incorrect:** Initial gains were crop- and region-concentrated.
+- **D - Incorrect:** Ceilings concern agrarian assets, not crop technology.
+
+**Examiner trap 21:** Never describe it as a seed-only revolution.
+
+### KEY 22
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** HYV performance remained input-dependent.
+- **B - Correct:** Plant architecture helped convert fertiliser and water into grain.
+- **C - Incorrect:** Agro-climatic and institutional conditions differed.
+- **D - Incorrect:** Adaptation and seed systems remained essential.
+
+**Examiner trap 22:** High yield is potential under conditions, not an automatic outcome.
+
+### KEY 23
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Pulses and oilseeds were less central initially.
+- **B - Incorrect:** Diffusion was uneven over time.
+- **C - Correct:** Complementary infrastructure concentrated early adoption geographically and by crop.
+- **D - Incorrect:** Irrigation and market support shaped adoption.
+
+**Examiner trap 23:** National output success can coexist with regional disparity.
+
+### KEY 24
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Resource constraints must enter the objective.
+- **B - Incorrect:** Science remains central but changes direction.
+- **C - Incorrect:** Diversity can reduce systemic risk.
+- **D - Correct:** The concept joins productivity with ecological durability.
+
+**Examiner trap 24:** Evergreen does not mean an identical second Green Revolution.
+
+### KEY 25
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Season labels are broad calendars rather than immutable crop identities.
+- **B - Incorrect:** Rabi is principally the winter season.
+- **C - Incorrect:** Zaid denotes a short summer cultivation window.
+- **D - Incorrect:** Pulses can occur in different seasons by crop and region.
+
+**Examiner trap 25:** Do not turn common seasons into universal crop rules.
+
+### KEY 26
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** This is not a land-use intensity measure.
+- **B - Correct:** The ratio measures how often net sown land is cropped within the year.
+- **C - Incorrect:** The ratio is reversed and incomplete.
+- **D - Incorrect:** Yield and irrigation are different statistics.
+
+**Examiner trap 26:** Cropping intensity measures repeated land use, not yield.
+
+### KEY 27
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Rotation is a temporal sequence.
+- **B - Incorrect:** Multiple cropping refers to more than one crop cycle or crop use, not necessarily a mixture.
+- **C - Correct:** Spatial arrangement distinguishes mixed cropping from intercropping.
+- **D - Incorrect:** Intercropping deliberately combines crops.
+
+**Examiner trap 27:** Do not use mixed cropping and intercropping interchangeably.
+
+### KEY 28
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** This is precisely higher land productivity.
+- **B - Incorrect:** Using fewer inputs for the same output raises efficiency.
+- **C - Incorrect:** A narrower yield gap generally implies higher realised productivity.
+- **D - Correct:** Production is area multiplied by yield, so an area effect alone can raise output.
+
+**Examiner trap 28:** Always decompose output change into area and yield.
+
+### KEY 29
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Crop allocation is a constrained risk-return decision embedded in ecology and institutions.
+- **B - Incorrect:** Price alone omits costs, risk and sales.
+- **C - Incorrect:** Culture matters but is not exclusive.
+- **D - Incorrect:** Size interacts with many other determinants.
+
+**Examiner trap 29:** A high price is not a complete profitability calculation.
+
+### KEY 30
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Food crops can be market-oriented.
+- **B - Correct:** The statement uses production-system and crop-use distinctions correctly.
+- **C - Incorrect:** Classification purpose can place crops differently.
+- **D - Incorrect:** Tea is a perennial plantation crop.
+
+**Examiner trap 30:** Crop categories are analytical and can overlap economically.
+
+### KEY 31
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Total size omits spatial structure.
+- **B - Incorrect:** Informal leasing may not reorganise plots.
+- **C - Correct:** Parcel number and location create costs independent of aggregate area.
+- **D - Incorrect:** Scattering raises boundary and travel costs.
+
+**Examiner trap 31:** Size and parcel configuration require separate diagnosis.
+
+### KEY 32
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Detailed procurement architecture is reserved for Topic 12.
+- **B - Incorrect:** Land reform is the central owner here.
+- **C - Incorrect:** Ecological consequences are necessary, with deeper instruments deferred to Topic 14.
+- **D - Correct:** The option preserves conceptual links without duplicating adjacent syllabus owners.
 
 **Examiner trap 32:** Cross-link adjacent topics without absorbing them.
 
+### KEY 33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Operation Barga illustrates implementation of tenancy protection without automatically reorganising parcels.
+- **B - Incorrect:** Recording a tenancy does not by itself confer ownership or consolidate land.
+- **C - Incorrect:** Ceilings require separate identification, acquisition and allotment.
+- **D - Incorrect:** A tenancy entry is not an indefeasible ownership adjudication.
+
+**Examiner trap 33:** Distinguish actual-cultivator recording from redistribution and title.
+
+### KEY 34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Consolidation reorganises parcels, not excess-title limits.
+- **B - Correct:** Each intervention addresses concentration, fragmentation and insecurity respectively.
+- **C - Incorrect:** Security is not acquisition; a digital map does not rearrange holdings.
+- **D - Incorrect:** Removing intermediaries does not itself impose an area ceiling.
+
+**Examiner trap 34:** Similar institutional vocabulary hides different legal mechanisms.
+
+### KEY 35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The Green Revolution was a package, not a universally transferable seed effect.
+- **B - Incorrect:** Liquidity cannot physically replace adequate water.
+- **C - Correct:** Complementarity explains spatially uneven adoption and yield.
+- **D - Incorrect:** Redistribution and input availability solve different constraints.
+
+**Examiner trap 35:** Do not extrapolate irrigated trial yields to a different agronomic system.
+
+### KEY 36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Gross counts both sowings; net counts physical area once.
+- **B - Incorrect:** Second sowing increases gross cropped area.
+- **C - Incorrect:** Net sown area is not the sum of seasonal sowings.
+- **D - Correct:** Two sowings of one 2-ha plot yield 4/2 × 100.
+
+**Examiner trap 36:** Gross and net measure plantings and physical footprint differently.
+
+### KEY 37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** This keeps engineering capacity distinct from crop-breeding adaptation.
+- **B - Incorrect:** IR8 belongs to rice-science networks, not Visvesvaraya; KRS to engineering.
+- **C - Incorrect:** The NCF was chaired by Swaminathan, and the block system is Visvesvaraya-linked.
+- **D - Incorrect:** Both absolute sole-inventor claims erase prior and collaborative work.
+
+**Examiner trap 37:** Named contributions are more useful than undifferentiated praise.
+
+### KEY 38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** A low-input practice alone does not establish a certified claim.
+- **B - Correct:** Certification oversight and the state example hold; statement 2 conflates production with certification.
+- **C - Incorrect:** APEDA is not excluded from NPOP.
+- **D - Incorrect:** Informal non-chemical cultivation is not automatically certified.
+
+**Examiner trap 38:** Organic practice, certification and state-wide designation are separate propositions.
+
+### KEY 39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The procurement framework is crop-specific, not a price floor for all alternatives.
+- **B - Incorrect:** Planting frequency alone does not determine net returns.
+- **C - Correct:** The advanced owner explicitly links horticulture diversification to cold chains and buyers.
+- **D - Incorrect:** Agronomic suitability varies by location, not by historical crop label alone.
+
+**Examiner trap 39:** Expected prices matter only after losses and realised market access.
+
+### KEY 40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Interoperability cannot settle competing rights.
+- **B - Incorrect:** Land administration remains legally State-specific.
+- **C - Incorrect:** Mapping a boundary does not erase off-record legal claims.
+- **D - Correct:** Legal verification and remedies, not mapping alone, determine title finality.
+
+**Examiner trap 40:** Do not turn a parcel identifier into an indefeasible rights certificate.
+
 ## PYQS AND ANSWER PRACTICE
+
+### ADDITIONAL ROUTED DESCRIPTIVE PYQS — INDEPENDENT MODEL ANSWERS
+
+The following demands are neutral renderings of questions routed in the audited official-paper ledgers, **not purported verbatim transcriptions**. UPSC does not publish an official descriptive model-answer key; these are independent solutions using the evidence available by each exam year, without later schemes or events.
+
+#### 2018 GS-III Q14 — cropping-pattern change and millets (15 marks)
+
+**Demand:** Elaborate cropping-pattern changes and why greater emphasis on millets is warranted.
+
+**Independent model answer (not an official UPSC key):** Cropping pattern denotes the distribution of cultivated land across crops. The irrigated north-west's shift toward wheat–rice was shaped by assured water, improved seed, public procurement and food-security priorities, whereas dryland regions retained greater dependence on pulses, coarse grains and rainfed farming. Rising incomes, urban demand and marketing links also favour horticulture and commercial crops. Millets such as jowar, bajra and ragi offer a drought-tolerant, short-duration alternative in suitable drylands, supplying dietary fibre and micronutrients while lowering exposure to irrigation risk. Their expansion is not an instruction to replace all cereals everywhere: low realised prices, processing bottlenecks, weak local procurement and consumer preferences constrain adoption. In 2018 the answer should seek location-specific extension, processing and reliable markets; it must not retrospectively cite the 2023 International Year of Millets or Budget 2023 branding as an existing 2018 initiative.
+
+#### 2019 GS-III Q5 — Visvesvaraya and Swaminathan (10 marks)
+
+**Demand:** Discuss their contributions to water engineering and agricultural science.
+
+**Independent model answer (not an official UPSC key):** M. Visvesvaraya's automatic sluice gates, first installed at Khadakwasla, increased usable reservoir storage without sacrificing flood safety; his block irrigation system allocated canal water more systematically. His engineering work on the Krishna Raja Sagar project exemplifies institution-building around irrigation. M. S. Swaminathan, working with IARI teams and international collaborators including Norman Borlaug, adapted semi-dwarf wheat to Indian conditions and supported the adaptation and diffusion of improved rice varieties. Their scientific and extension work linked seed response to water, fertiliser and local trials in the Green Revolution. Visvesvaraya built irrigation capacity; Swaminathan strengthened crop-science capacity. Neither can be credited alone with the entire foodgrain transition.
+
+#### 2020 GS-III Q6 — science and technology in agriculture (10 marks)
+
+**Demand:** Explain how technology changes everyday agricultural practice.
+
+**Independent model answer (not an official UPSC key):** Scientific breeding made high-yielding varieties more responsive to irrigation and nutrients; agricultural universities and extension translated trials into local sowing, pest and fertiliser decisions. Pumps, canal engineering and mechanisation enabled more timely operations, while weather information could improve risk management. India's wheat breakthrough illustrates complementarities: seed alone did not produce the same outcome without reliable water, credit, inputs and a market for surplus. Technology also changes household routines through reduced drudgery and access to information, but uneven land, power and water access limit diffusion. The appropriate test is not simply adoption count; it is productive, affordable and environmentally viable use.
+
+#### 2020 GS-III Q13 — rice–wheat system (15 marks)
+
+**Demand:** Identify success factors and negative consequences of rice–wheat cultivation.
+
+**Independent model answer (not an official UPSC key):** The rice–wheat sequence expanded particularly in irrigated north-west India because assured canal and groundwater supplies, responsive seed, fertilisers, credit, extension, procurement and suitable transport reinforced each other. Two seasonal crops raised gross cropped area and provided marketable grain to food management. Yet paddy irrigation in groundwater-stressed areas depleted aquifers; repeated cereal rotations reduced agrobiodiversity and contributed to nutrient imbalance, salinity in some command areas and post-harvest residue management problems. Procurement certainty can make a less water-intensive crop privately riskier even where it is socially desirable. The remedy is not abrupt withdrawal of food support but local water budgeting, residue solutions, balanced nutrients and viable procurement/processing/marketing for pulses, millets and other suitable alternatives.
+
+#### 2021 GS-III Q14 — diversification challenges and technology (15 marks)
+
+**Demand:** Explain obstacles to crop diversification and the role of emerging technologies.
+
+**Independent model answer (not an official UPSC key):** Farmers compare expected net returns and downside risk, not merely potential yield. The rice–wheat procurement ecosystem, water and soil conditions, access to quality seed, price volatility, weak storage and missing buyers all impede shifts to pulses, oilseeds or perishable crops. Precision water management and soil testing can identify viable alternatives; climate advisories and improved varieties reduce agronomic uncertainty; grading, cold chains and digital market information may reduce losses and widen buyers. But an app cannot create refrigeration, enforce quality contracts or insure every crop; nor is an alternative suitable in every agro-climate. Sequence trials with local extension and physical market investment, protecting staple output while measuring net income, aquifer impacts and risk.
+
+#### 2023 GS-III Q13 — consumption and marketing patterns (15 marks)
+
+**Demand:** Explain how changing consumption and marketing affect cropping patterns.
+
+**Independent model answer (not an official UPSC key):** Urbanisation, rising incomes and demand for vegetables, fruits, milk and other diverse foods raise potential returns relative to undifferentiated cereals. Improved roads, grading, cold storage, processors and organised buyers can turn that potential into farm-gate prices, so proximity to cities and logistics changes planting choices. Conversely assured rice–wheat procurement can sustain familiar crop choices even where alternative demand exists. Perishables entail losses and volatile prices without reliable cold chains or aggregation; growers may rationally retain cereals despite higher headline prices for horticulture. Regional diversification must therefore match agro-climate and water with standards, transport, processing, risk cover and credible demand, rather than infer crop choice from consumer preference alone.
 
 ### VERIFIED ROUTED MAINS DEMANDS
 

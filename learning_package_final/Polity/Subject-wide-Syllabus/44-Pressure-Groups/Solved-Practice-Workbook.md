@@ -6,11 +6,11 @@ topic_key: polity-44
 
 **Subject:** Polity | **GS Paper:** GS-II | **Legal/current control date:** 8 September 2026
 
-**Practice discipline:** exactly 32 original MCQs before the PYQ section; answer order `ABCD` repeated eight times; 128 substantive option-specific explanations; 32 question-specific traps; three verified relevant descriptive PYQs with official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original answer-free MCQs before the separate key; strict `ABCD` rotation repeated nine times; 144 option-specific explanations and 36 question-specific traps; three verified relevant descriptive PYQs with official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before the PYQ section. Questions 25-32 provide targeted close-option remediation. Correct-answer sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
+Exactly **36 original answer-free MCQs** appear before the separate solved key. Questions 25-36 provide targeted close-option remediation.
 
 ### MCQ 1. Category test
 
@@ -20,6 +20,325 @@ A. An organised interest seeking to influence public decisions without primarily
 B. Any body registered as a society or trust.
 C. Only a professional firm paid to contact ministers.
 D. An organisation constitutionally barred from every electoral activity.
+
+### MCQ 2. Party distinction
+
+Which feature most clearly distinguishes a political party from a pressure group?
+
+A. Publishing policy research.
+B. Seeking governmental office through elections and responsibility for a broad programme.
+C. Submitting a memorandum to a committee.
+D. Mobilising public opinion on an issue.
+
+### MCQ 3. NGO overlap
+
+Which statement correctly relates NGOs and pressure groups?
+
+A. Every NGO is necessarily a pressure group.
+B. No NGO may influence public policy.
+C. An NGO may act as a pressure group when it advocates policy, but the categories are not identical.
+D. Pressure group is a statutory registration status for NGOs.
+
+### MCQ 4. Trade-union boundary
+
+Which proposition is constitutionally safest?
+
+A. Article 19(1)(c) guarantees every objective adopted by a union.
+B. Every lawful association has an unlimited right to strike.
+C. A strike and violence are legally synonymous.
+D. Association is protected, while bargaining and strike obtain their legal content from applicable law.
+
+### MCQ 5. Sectional group
+
+A federation defending the tax and regulatory interests of its member firms is primarily which type?
+
+A. Sectional or protective pressure group.
+B. Anomic group.
+C. Promotional cause group with no bounded constituency.
+D. Non-associational identity group.
+
+### MCQ 6. Promotional group
+
+Which is the best example of promotional or cause-oriented pressure?
+
+A. A chamber negotiating a sector-specific tariff.
+B. A network campaigning for environmental protection beyond its members' material benefit.
+C. A service association seeking allowances.
+D. A union bargaining over working conditions.
+
+### MCQ 7. Peak association
+
+What is a peak association?
+
+A. A spontaneous crowd at the highest point of mobilisation.
+B. A constitutional body supervising all associations.
+C. A federation aggregating and representing affiliated organisations at a higher level.
+D. A political party with the largest vote share.
+
+### MCQ 8. Anomic articulation
+
+In Almond and Powell's typology, anomic interest articulation is:
+
+A. A statutory regulator speaking through formal rules.
+B. A stable national federation with membership records.
+C. Any organisation using violence.
+D. Spontaneous, episodic and weakly organised expression.
+
+### MCQ 9. Insider method
+
+Which is the clearest insider method?
+
+A. Submitting technical comments to a regulator's published consultation.
+B. Coercively blocking all movement through a city.
+C. Damaging public property to attract attention.
+D. Threatening non-participants with retaliation.
+
+### MCQ 10. Issue network
+
+An issue network is best understood as:
+
+A. A permanently unified party hierarchy.
+B. A fluid set of officials, experts, groups, media and citizens interacting around a policy issue.
+C. Only a digital messaging group.
+D. A statutory committee whose members never change.
+
+### MCQ 11. Article 19 assembly
+
+Which pair correctly governs peaceful public assembly?
+
+A. Article 19(1)(a) and Article 19(2) only.
+B. Article 19(1)(c) and Article 19(4) only.
+C. Article 19(1)(b), subject to Article 19(3) and the requirement of peaceably and without arms.
+D. Article 350 without any restriction.
+
+### MCQ 12. Article 350
+
+Article 350 is most accurately used in this topic for:
+
+A. A fundamental right to compel Parliament to accept a petition.
+B. A general constitutional right to lobby privately.
+C. An unlimited right to demonstrate in any language and place.
+D. The entitlement to submit a grievance representation in a language used in the Union or State.
+
+### MCQ 13. Damyanti Naranga
+
+Damyanti Naranga v Union of India chiefly protects:
+
+A. The chosen composition and continuity of a voluntary association against State-imposed alteration.
+B. An unlimited right of every association to strike.
+C. A right to occupy streets indefinitely.
+D. Automatic tax exemption for civil-society bodies.
+
+### MCQ 14. Himat Lal
+
+What did Himat Lal K. Shah establish?
+
+A. Public meetings may never be regulated by prior permission.
+B. Time-place-manner regulation may be valid, but unguided discretion to refuse permission is unconstitutional.
+C. Every highway may be blocked whenever a meeting is announced.
+D. Only indoor meetings receive Article 19 protection.
+
+### MCQ 15. Bharat Kumar
+
+CPI(M) v Bharat Kumar is authority for which proposition?
+
+A. Every strike is unconstitutional.
+B. Political parties may compel closure if notice is given.
+C. There is no protected right to call or enforce a coercive bandh that interferes with others' rights.
+D. Peaceful demonstrations and bandhs are legally identical.
+
+### MCQ 16. MKSS balance
+
+Mazdoor Kisan Shakti Sangathan v Union of India supports:
+
+A. A permanent ban on protest near all residences.
+B. An unlimited right to remain at one site.
+C. Police discretion without published standards.
+D. A regulatory framework balancing peaceful protest with residents, traffic and public order rather than a blanket ban.
+
+### MCQ 17. Lobbying status
+
+Which statement about lobbying in India is most accurate as checked on 8 September 2026?
+
+A. India lacks a comprehensive general lobbyist-registration statute, but anti-corruption and sectoral laws still apply.
+B. Lobbying is wholly unregulated and therefore always lawful.
+C. FCRA is India's general lobbying-disclosure law.
+D. Every direct meeting with an official is bribery.
+
+### MCQ 18. Parliamentary committees
+
+A pressure group submitting a memorandum to a parliamentary committee obtains:
+
+A. A veto over the Bill.
+B. An opportunity to place evidence before scrutiny, not a guarantee of acceptance.
+C. Judicial power to invalidate the Bill.
+D. Automatic membership of Parliament.
+
+### MCQ 19. PIL boundary
+
+Which is the safest statement on PIL by pressure groups?
+
+A. Filing a PIL automatically transfers policy-making power to the court.
+B. Any ideological disagreement is enforceable under Articles 32 and 226.
+C. Courts may examine enforceable legal rights and legality; litigation does not itself make the group or court the policy author.
+D. Standing and jurisdiction never matter in public-interest cases.
+
+### MCQ 20. Digital mobilisation
+
+Which democratic risk is distinctive to digital pressure campaigns?
+
+A. They cannot reach dispersed citizens.
+B. They always reveal their sponsors.
+C. They eliminate collective-action costs completely.
+D. Opaque amplification, bots, misinformation and astroturfing can simulate support.
+
+### MCQ 21. Policy-cycle inference
+
+A group is invited to a ministry consultation. What follows?
+
+A. It has agenda access, but acceptance, adoption and implementation must be separately proved.
+B. It controls the draft and final decision.
+C. Regulatory capture is conclusively established.
+D. Its constituency is necessarily representative.
+
+### MCQ 22. Capture test
+
+Which circumstance most strongly supports, but does not alone conclusively prove, regulatory capture?
+
+A. A regulator receives comments from both consumers and firms.
+B. Repeated undisclosed meetings, revolving-door conflicts and one-sided adoption without public reasons.
+C. A group loses its preferred policy.
+D. A committee publishes dissenting evidence.
+
+### MCQ 23. Farmer effectiveness
+
+Which statement most accurately describes the farm-law repeal linkage?
+
+A. One farmer organisation legally repealed the Acts.
+B. The Supreme Court enacted the repeal.
+C. Mobilisation contributed decisively to political conditions, while Parliament enacted repeal in 2021.
+D. Repeal proves that every farmer demand was accepted.
+
+### MCQ 24. Business contribution
+
+How can business associations contribute to public policy?
+
+A. By replacing elected and regulatory authorities.
+B. By issuing binding tax rules to their members.
+C. By proving that consumer and labour consultation is unnecessary.
+D. By aggregating sector concerns and supplying technical and implementation information.
+
+### MCQ 25. Environmental role
+
+Which sequence best captures environmental pressure-group contribution?
+
+A. Research and affected-community voice -> awareness -> policy advocacy -> legal accountability.
+B. Publicity -> automatic judicial victory -> exclusive policy control.
+C. Foreign funding -> constitutional immunity.
+D. Protest -> elimination of every development trade-off.
+
+### MCQ 26. Neo-pluralism
+
+What does neo-pluralism add to a simple pluralist account?
+
+A. The claim that no groups ever compete.
+B. Attention to unequal resources, privileged access and a State with some autonomous preferences.
+C. A constitutional requirement of tripartite bargaining.
+D. The view that only social movements matter.
+
+### MCQ 27. Corporatism
+
+Corporatist consultation is best described as:
+
+A. Spontaneous mobilisation without organisation.
+B. Competition with no State role in selecting participants.
+C. State-structured bargaining with selected peak associations.
+D. Judicial appointment of every interest representative.
+
+### MCQ 28. Representativeness
+
+Which question most directly tests a pressure group's representativeness?
+
+A. Did its campaign trend online?
+B. Did it meet a minister?
+C. Did it secure a favourable headline?
+D. Who authorised its leaders, who participates, and which claimed constituents remain excluded?
+
+### MCQ 29. Federal variation
+
+Why may the same pressure group have different influence across India?
+
+A. Policy ownership, party competition, institutions and access differ across Union, State and local levels.
+B. Article 19 applies only at the Union level.
+C. Local bodies have no public-policy role.
+D. Every State uses identical consultation procedures.
+
+### MCQ 30. Marginalised voice
+
+Which reform best addresses collective-action barriers faced by marginalised groups?
+
+A. Invite only peak associations for efficiency.
+B. Provide notice, regional languages, accessible formats, participation support and publication of absent constituencies.
+C. Replace hearings with private meetings.
+D. Treat non-participation as consent.
+
+### MCQ 31. Revolving doors
+
+Which response most directly addresses revolving-door conflict risk?
+
+A. Ban every expert from public service permanently.
+B. Keep all meetings secret to protect privacy.
+C. Conflict disclosure, recusal and proportionate cooling-off rules.
+D. Assume professional expertise is corruption.
+
+### MCQ 32. Protest reform
+
+Which protest-policy design is constitutionally strongest?
+
+A. A blanket citywide ban on demonstrations.
+B. Unreviewable police discretion.
+C. An unrestricted right to block emergency access.
+D. Clear time-place-manner rules, designated/facilitated venues, reasons, review and proportionate policing.
+
+### MCQ 33. Pre-legislative consultation
+
+A ministry posts a draft policy but excludes submissions from informal workers while meeting only a trade association. What process improvement best addresses the defect?
+
+A. Apply transparent pre-legislative consultation, provide accessible routes for less-organised voices, disclose significant meetings and give reasoned responses.
+B. Treat the trade association as the sole legitimate voice because it has expert staff.
+C. Give each advocacy group an automatic legislative veto.
+D. Replace public consultation entirely with a private ministerial briefing.
+
+### MCQ 34. Influence versus outcome
+
+A farmers’ organisation secures a ministerial meeting, but the final procurement rule is unchanged. What can safely be inferred?
+
+A. The group achieved a lasting distributive policy victory.
+B. It obtained access, not necessarily agenda adoption, textual change, implementation or beneficiary gains.
+C. No democratic participation took place unless the policy changed.
+D. The group’s position must have been rejected as unconstitutional.
+
+### MCQ 35. FCRA boundary
+
+An Indian NGO receives foreign contributions for its lawful activities and also publishes policy criticism. Which assessment avoids overclaiming?
+
+A. Foreign funding makes all public advocacy constitutionally immune from regulation.
+B. Every NGO that comments on policy must be dissolved.
+C. Examine applicable FCRA registration, permitted-use and disclosure requirements; distinguish regulated financing from a blanket ban on domestic civic speech.
+D. FCRA automatically grants the NGO reserved election-symbol privileges.
+
+### MCQ 36. Capture safeguards
+
+A regulator repeatedly consults only a regulated industry and recruits its former executives without cooling-off disclosure. What is the strongest remedy?
+
+A. Ban all technical expertise from regulatory design.
+B. Allow undisclosed meetings because specialists know their industry.
+C. Give the biggest firm an exclusive advisory seat in return for publishing one report.
+D. Publish access and conflict records, disclose revolving-door interests, include affected rivals and consumers, and justify the evidence used.
+
+## SEPARATE SOLVED MCQ KEY
+
+### Solution 1. Category test
 
 **Answer: A. An organised interest seeking to influence public decisions without primarily assuming general governmental responsibility.**
 
@@ -32,14 +351,7 @@ D. An organisation constitutionally barred from every electoral activity.
 
 **Examiner trap 1:** Identify dominant purpose before testing legal form or tactics.
 
-### MCQ 2. Party distinction
-
-Which feature most clearly distinguishes a political party from a pressure group?
-
-A. Publishing policy research.
-B. Seeking governmental office through elections and responsibility for a broad programme.
-C. Submitting a memorandum to a committee.
-D. Mobilising public opinion on an issue.
+### Solution 2. Party distinction
 
 **Answer: B. Seeking governmental office through elections and responsibility for a broad programme.**
 
@@ -52,14 +364,7 @@ D. Mobilising public opinion on an issue.
 
 **Examiner trap 2:** Do not use advocacy or organisation itself as the decisive party-group distinction.
 
-### MCQ 3. NGO overlap
-
-Which statement correctly relates NGOs and pressure groups?
-
-A. Every NGO is necessarily a pressure group.
-B. No NGO may influence public policy.
-C. An NGO may act as a pressure group when it advocates policy, but the categories are not identical.
-D. Pressure group is a statutory registration status for NGOs.
+### Solution 3. NGO overlap
 
 **Answer: C. An NGO may act as a pressure group when it advocates policy, but the categories are not identical.**
 
@@ -72,14 +377,7 @@ D. Pressure group is a statutory registration status for NGOs.
 
 **Examiner trap 3:** Separate organisational form from political function.
 
-### MCQ 4. Trade-union boundary
-
-Which proposition is constitutionally safest?
-
-A. Article 19(1)(c) guarantees every objective adopted by a union.
-B. Every lawful association has an unlimited right to strike.
-C. A strike and violence are legally synonymous.
-D. Association is protected, while bargaining and strike obtain their legal content from applicable law.
+### Solution 4. Trade-union boundary
 
 **Answer: D. Association is protected, while bargaining and strike obtain their legal content from applicable law.**
 
@@ -92,14 +390,7 @@ D. Association is protected, while bargaining and strike obtain their legal cont
 
 **Examiner trap 4:** Do not derive every union tactic directly from Article 19(1)(c).
 
-### MCQ 5. Sectional group
-
-A federation defending the tax and regulatory interests of its member firms is primarily which type?
-
-A. Sectional or protective pressure group.
-B. Anomic group.
-C. Promotional cause group with no bounded constituency.
-D. Non-associational identity group.
+### Solution 5. Sectional group
 
 **Answer: A. Sectional or protective pressure group.**
 
@@ -112,14 +403,7 @@ D. Non-associational identity group.
 
 **Examiner trap 5:** Sectional describes constituency, not moral worth.
 
-### MCQ 6. Promotional group
-
-Which is the best example of promotional or cause-oriented pressure?
-
-A. A chamber negotiating a sector-specific tariff.
-B. A network campaigning for environmental protection beyond its members' material benefit.
-C. A service association seeking allowances.
-D. A union bargaining over working conditions.
+### Solution 6. Promotional group
 
 **Answer: B. A network campaigning for environmental protection beyond its members' material benefit.**
 
@@ -132,14 +416,7 @@ D. A union bargaining over working conditions.
 
 **Examiner trap 6:** Promotional does not automatically prove accurate evidence or full representation.
 
-### MCQ 7. Peak association
-
-What is a peak association?
-
-A. A spontaneous crowd at the highest point of mobilisation.
-B. A constitutional body supervising all associations.
-C. A federation aggregating and representing affiliated organisations at a higher level.
-D. A political party with the largest vote share.
+### Solution 7. Peak association
 
 **Answer: C. A federation aggregating and representing affiliated organisations at a higher level.**
 
@@ -152,14 +429,7 @@ D. A political party with the largest vote share.
 
 **Examiner trap 7:** A peak body's access does not prove that every affiliate or outsider agrees.
 
-### MCQ 8. Anomic articulation
-
-In Almond and Powell's typology, anomic interest articulation is:
-
-A. A statutory regulator speaking through formal rules.
-B. A stable national federation with membership records.
-C. Any organisation using violence.
-D. Spontaneous, episodic and weakly organised expression.
+### Solution 8. Anomic articulation
 
 **Answer: D. Spontaneous, episodic and weakly organised expression.**
 
@@ -172,14 +442,7 @@ D. Spontaneous, episodic and weakly organised expression.
 
 **Examiner trap 8:** Never use anomic as a synonym for armed or illegal.
 
-### MCQ 9. Insider method
-
-Which is the clearest insider method?
-
-A. Submitting technical comments to a regulator's published consultation.
-B. Coercively blocking all movement through a city.
-C. Damaging public property to attract attention.
-D. Threatening non-participants with retaliation.
+### Solution 9. Insider method
 
 **Answer: A. Submitting technical comments to a regulator's published consultation.**
 
@@ -192,14 +455,7 @@ D. Threatening non-participants with retaliation.
 
 **Examiner trap 9:** Insider describes access, not automatic legitimacy or policy control.
 
-### MCQ 10. Issue network
-
-An issue network is best understood as:
-
-A. A permanently unified party hierarchy.
-B. A fluid set of officials, experts, groups, media and citizens interacting around a policy issue.
-C. Only a digital messaging group.
-D. A statutory committee whose members never change.
+### Solution 10. Issue network
 
 **Answer: B. A fluid set of officials, experts, groups, media and citizens interacting around a policy issue.**
 
@@ -212,14 +468,7 @@ D. A statutory committee whose members never change.
 
 **Examiner trap 10:** Do not equate network with social-media platform.
 
-### MCQ 11. Article 19 assembly
-
-Which pair correctly governs peaceful public assembly?
-
-A. Article 19(1)(a) and Article 19(2) only.
-B. Article 19(1)(c) and Article 19(4) only.
-C. Article 19(1)(b), subject to Article 19(3) and the requirement of peaceably and without arms.
-D. Article 350 without any restriction.
+### Solution 11. Article 19 assembly
 
 **Answer: C. Article 19(1)(b), subject to Article 19(3) and the requirement of peaceably and without arms.**
 
@@ -232,14 +481,7 @@ D. Article 350 without any restriction.
 
 **Examiner trap 11:** Match each Article 19 freedom with its own restriction clause.
 
-### MCQ 12. Article 350
-
-Article 350 is most accurately used in this topic for:
-
-A. A fundamental right to compel Parliament to accept a petition.
-B. A general constitutional right to lobby privately.
-C. An unlimited right to demonstrate in any language and place.
-D. The entitlement to submit a grievance representation in a language used in the Union or State.
+### Solution 12. Article 350
 
 **Answer: D. The entitlement to submit a grievance representation in a language used in the Union or State.**
 
@@ -252,14 +494,7 @@ D. The entitlement to submit a grievance representation in a language used in th
 
 **Examiner trap 12:** Do not inflate Article 350 into a general petition or lobbying guarantee.
 
-### MCQ 13. Damyanti Naranga
-
-Damyanti Naranga v Union of India chiefly protects:
-
-A. The chosen composition and continuity of a voluntary association against State-imposed alteration.
-B. An unlimited right of every association to strike.
-C. A right to occupy streets indefinitely.
-D. Automatic tax exemption for civil-society bodies.
+### Solution 13. Damyanti Naranga
 
 **Answer: A. The chosen composition and continuity of a voluntary association against State-imposed alteration.**
 
@@ -272,14 +507,7 @@ D. Automatic tax exemption for civil-society bodies.
 
 **Examiner trap 13:** Use Damyanti for associational integrity, not every activity of the association.
 
-### MCQ 14. Himat Lal
-
-What did Himat Lal K. Shah establish?
-
-A. Public meetings may never be regulated by prior permission.
-B. Time-place-manner regulation may be valid, but unguided discretion to refuse permission is unconstitutional.
-C. Every highway may be blocked whenever a meeting is announced.
-D. Only indoor meetings receive Article 19 protection.
+### Solution 14. Himat Lal
 
 **Answer: B. Time-place-manner regulation may be valid, but unguided discretion to refuse permission is unconstitutional.**
 
@@ -292,14 +520,7 @@ D. Only indoor meetings receive Article 19 protection.
 
 **Examiner trap 14:** Avoid both absolutist readings: no regulation and total prohibition.
 
-### MCQ 15. Bharat Kumar
-
-CPI(M) v Bharat Kumar is authority for which proposition?
-
-A. Every strike is unconstitutional.
-B. Political parties may compel closure if notice is given.
-C. There is no protected right to call or enforce a coercive bandh that interferes with others' rights.
-D. Peaceful demonstrations and bandhs are legally identical.
+### Solution 15. Bharat Kumar
 
 **Answer: C. There is no protected right to call or enforce a coercive bandh that interferes with others' rights.**
 
@@ -312,14 +533,7 @@ D. Peaceful demonstrations and bandhs are legally identical.
 
 **Examiner trap 15:** Identify coercion before citing the bandh case.
 
-### MCQ 16. MKSS balance
-
-Mazdoor Kisan Shakti Sangathan v Union of India supports:
-
-A. A permanent ban on protest near all residences.
-B. An unlimited right to remain at one site.
-C. Police discretion without published standards.
-D. A regulatory framework balancing peaceful protest with residents, traffic and public order rather than a blanket ban.
+### Solution 16. MKSS balance
 
 **Answer: D. A regulatory framework balancing peaceful protest with residents, traffic and public order rather than a blanket ban.**
 
@@ -332,14 +546,7 @@ D. A regulatory framework balancing peaceful protest with residents, traffic and
 
 **Examiner trap 16:** A right to protest is not a right to one chosen venue forever.
 
-### MCQ 17. Lobbying status
-
-Which statement about lobbying in India is most accurate as checked on 8 September 2026?
-
-A. India lacks a comprehensive general lobbyist-registration statute, but anti-corruption and sectoral laws still apply.
-B. Lobbying is wholly unregulated and therefore always lawful.
-C. FCRA is India's general lobbying-disclosure law.
-D. Every direct meeting with an official is bribery.
+### Solution 17. Lobbying status
 
 **Answer: A. India lacks a comprehensive general lobbyist-registration statute, but anti-corruption and sectoral laws still apply.**
 
@@ -352,14 +559,7 @@ D. Every direct meeting with an official is bribery.
 
 **Examiner trap 17:** Do not convert a regulatory gap into either immunity or blanket criminality.
 
-### MCQ 18. Parliamentary committees
-
-A pressure group submitting a memorandum to a parliamentary committee obtains:
-
-A. A veto over the Bill.
-B. An opportunity to place evidence before scrutiny, not a guarantee of acceptance.
-C. Judicial power to invalidate the Bill.
-D. Automatic membership of Parliament.
+### Solution 18. Parliamentary committees
 
 **Answer: B. An opportunity to place evidence before scrutiny, not a guarantee of acceptance.**
 
@@ -372,14 +572,7 @@ D. Automatic membership of Parliament.
 
 **Examiner trap 18:** Access is evidence of participation, not control.
 
-### MCQ 19. PIL boundary
-
-Which is the safest statement on PIL by pressure groups?
-
-A. Filing a PIL automatically transfers policy-making power to the court.
-B. Any ideological disagreement is enforceable under Articles 32 and 226.
-C. Courts may examine enforceable legal rights and legality; litigation does not itself make the group or court the policy author.
-D. Standing and jurisdiction never matter in public-interest cases.
+### Solution 19. PIL boundary
 
 **Answer: C. Courts may examine enforceable legal rights and legality; litigation does not itself make the group or court the policy author.**
 
@@ -392,14 +585,7 @@ D. Standing and jurisdiction never matter in public-interest cases.
 
 **Examiner trap 19:** Do not describe every PIL outcome as judicial creation of policy.
 
-### MCQ 20. Digital mobilisation
-
-Which democratic risk is distinctive to digital pressure campaigns?
-
-A. They cannot reach dispersed citizens.
-B. They always reveal their sponsors.
-C. They eliminate collective-action costs completely.
-D. Opaque amplification, bots, misinformation and astroturfing can simulate support.
+### Solution 20. Digital mobilisation
 
 **Answer: D. Opaque amplification, bots, misinformation and astroturfing can simulate support.**
 
@@ -412,14 +598,7 @@ D. Opaque amplification, bots, misinformation and astroturfing can simulate supp
 
 **Examiner trap 20:** Online visibility is not a verified membership mandate.
 
-### MCQ 21. Policy-cycle inference
-
-A group is invited to a ministry consultation. What follows?
-
-A. It has agenda access, but acceptance, adoption and implementation must be separately proved.
-B. It controls the draft and final decision.
-C. Regulatory capture is conclusively established.
-D. Its constituency is necessarily representative.
+### Solution 21. Policy-cycle inference
 
 **Answer: A. It has agenda access, but acceptance, adoption and implementation must be separately proved.**
 
@@ -432,14 +611,7 @@ D. Its constituency is necessarily representative.
 
 **Examiner trap 21:** Never infer control from access.
 
-### MCQ 22. Capture test
-
-Which circumstance most strongly supports, but does not alone conclusively prove, regulatory capture?
-
-A. A regulator receives comments from both consumers and firms.
-B. Repeated undisclosed meetings, revolving-door conflicts and one-sided adoption without public reasons.
-C. A group loses its preferred policy.
-D. A committee publishes dissenting evidence.
+### Solution 22. Capture test
 
 **Answer: B. Repeated undisclosed meetings, revolving-door conflicts and one-sided adoption without public reasons.**
 
@@ -452,14 +624,7 @@ D. A committee publishes dissenting evidence.
 
 **Examiner trap 22:** Capture is undue alignment, not any expert consultation.
 
-### MCQ 23. Farmer effectiveness
-
-Which statement most accurately describes the farm-law repeal linkage?
-
-A. One farmer organisation legally repealed the Acts.
-B. The Supreme Court enacted the repeal.
-C. Mobilisation contributed decisively to political conditions, while Parliament enacted repeal in 2021.
-D. Repeal proves that every farmer demand was accepted.
+### Solution 23. Farmer effectiveness
 
 **Answer: C. Mobilisation contributed decisively to political conditions, while Parliament enacted repeal in 2021.**
 
@@ -472,14 +637,7 @@ D. Repeal proves that every farmer demand was accepted.
 
 **Examiner trap 23:** Use calibrated causal language and name the legal decision-maker.
 
-### MCQ 24. Business contribution
-
-How can business associations contribute to public policy?
-
-A. By replacing elected and regulatory authorities.
-B. By issuing binding tax rules to their members.
-C. By proving that consumer and labour consultation is unnecessary.
-D. By aggregating sector concerns and supplying technical and implementation information.
+### Solution 24. Business contribution
 
 **Answer: D. By aggregating sector concerns and supplying technical and implementation information.**
 
@@ -492,14 +650,7 @@ D. By aggregating sector concerns and supplying technical and implementation inf
 
 **Examiner trap 24:** Expertise can improve feasibility without determining the public interest.
 
-### MCQ 25. Environmental role
-
-Which sequence best captures environmental pressure-group contribution?
-
-A. Research and affected-community voice -> awareness -> policy advocacy -> legal accountability.
-B. Publicity -> automatic judicial victory -> exclusive policy control.
-C. Foreign funding -> constitutional immunity.
-D. Protest -> elimination of every development trade-off.
+### Solution 25. Environmental role
 
 **Answer: A. Research and affected-community voice -> awareness -> policy advocacy -> legal accountability.**
 
@@ -512,14 +663,7 @@ D. Protest -> elimination of every development trade-off.
 
 **Examiner trap 25:** Do not award sole causal credit for multi-actor environmental outcomes.
 
-### MCQ 26. Neo-pluralism
-
-What does neo-pluralism add to a simple pluralist account?
-
-A. The claim that no groups ever compete.
-B. Attention to unequal resources, privileged access and a State with some autonomous preferences.
-C. A constitutional requirement of tripartite bargaining.
-D. The view that only social movements matter.
+### Solution 26. Neo-pluralism
 
 **Answer: B. Attention to unequal resources, privileged access and a State with some autonomous preferences.**
 
@@ -532,14 +676,7 @@ D. The view that only social movements matter.
 
 **Examiner trap 26:** Many groups do not imply equal power.
 
-### MCQ 27. Corporatism
-
-Corporatist consultation is best described as:
-
-A. Spontaneous mobilisation without organisation.
-B. Competition with no State role in selecting participants.
-C. State-structured bargaining with selected peak associations.
-D. Judicial appointment of every interest representative.
+### Solution 27. Corporatism
 
 **Answer: C. State-structured bargaining with selected peak associations.**
 
@@ -552,14 +689,7 @@ D. Judicial appointment of every interest representative.
 
 **Examiner trap 27:** Corporatist coordination carries an outsider-exclusion risk.
 
-### MCQ 28. Representativeness
-
-Which question most directly tests a pressure group's representativeness?
-
-A. Did its campaign trend online?
-B. Did it meet a minister?
-C. Did it secure a favourable headline?
-D. Who authorised its leaders, who participates, and which claimed constituents remain excluded?
+### Solution 28. Representativeness
 
 **Answer: D. Who authorised its leaders, who participates, and which claimed constituents remain excluded?**
 
@@ -572,14 +702,7 @@ D. Who authorised its leaders, who participates, and which claimed constituents 
 
 **Examiner trap 28:** Visibility and numerical claims require an internal-governance check.
 
-### MCQ 29. Federal variation
-
-Why may the same pressure group have different influence across India?
-
-A. Policy ownership, party competition, institutions and access differ across Union, State and local levels.
-B. Article 19 applies only at the Union level.
-C. Local bodies have no public-policy role.
-D. Every State uses identical consultation procedures.
+### Solution 29. Federal variation
 
 **Answer: A. Policy ownership, party competition, institutions and access differ across Union, State and local levels.**
 
@@ -592,14 +715,7 @@ D. Every State uses identical consultation procedures.
 
 **Examiner trap 29:** Do not write a Union-only account of organised influence.
 
-### MCQ 30. Marginalised voice
-
-Which reform best addresses collective-action barriers faced by marginalised groups?
-
-A. Invite only peak associations for efficiency.
-B. Provide notice, regional languages, accessible formats, participation support and publication of absent constituencies.
-C. Replace hearings with private meetings.
-D. Treat non-participation as consent.
+### Solution 30. Marginalised voice
 
 **Answer: B. Provide notice, regional languages, accessible formats, participation support and publication of absent constituencies.**
 
@@ -612,14 +728,7 @@ D. Treat non-participation as consent.
 
 **Examiner trap 30:** Inclusion requires design, not an open-door label alone.
 
-### MCQ 31. Revolving doors
-
-Which response most directly addresses revolving-door conflict risk?
-
-A. Ban every expert from public service permanently.
-B. Keep all meetings secret to protect privacy.
-C. Conflict disclosure, recusal and proportionate cooling-off rules.
-D. Assume professional expertise is corruption.
+### Solution 31. Revolving doors
 
 **Answer: C. Conflict disclosure, recusal and proportionate cooling-off rules.**
 
@@ -632,14 +741,7 @@ D. Assume professional expertise is corruption.
 
 **Examiner trap 31:** Regulate the conflict, not the existence of expertise.
 
-### MCQ 32. Protest reform
-
-Which protest-policy design is constitutionally strongest?
-
-A. A blanket citywide ban on demonstrations.
-B. Unreviewable police discretion.
-C. An unrestricted right to block emergency access.
-D. Clear time-place-manner rules, designated/facilitated venues, reasons, review and proportionate policing.
+### Solution 32. Protest reform
 
 **Answer: D. Clear time-place-manner rules, designated/facilitated venues, reasons, review and proportionate policing.**
 
@@ -652,6 +754,58 @@ D. Clear time-place-manner rules, designated/facilitated venues, reasons, review
 
 **Examiner trap 32:** Reject the false choice between absolute occupation and total prohibition.
 
+### Solution 33. Pre-legislative consultation
+
+**Answer: A. Apply transparent pre-legislative consultation, provide accessible routes for less-organised voices, disclose significant meetings and give reasoned responses.**
+
+**Option-specific explanations:**
+
+- **A:** Correct: the 2014 Pre-Legislative Consultation Policy supplies a benchmark; equitable access and reasons improve accountability.
+- **B:** Incorrect: resources and repeated access can distort representation.
+- **C:** Incorrect: consultation supplies evidence and voice, not a universal veto.
+- **D:** Incorrect: private lobbying alone excludes scrutiny and affected interests.
+
+**Examiner trap 33:** Publishing a draft is insufficient if access and responses remain selective.
+
+### Solution 34. Influence versus outcome
+
+**Answer: B. It obtained access, not necessarily agenda adoption, textual change, implementation or beneficiary gains.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: one meeting cannot prove realised policy benefits.
+- **B:** Correct: trace distinct policy stages and examine other causes before assigning effectiveness.
+- **C:** Incorrect: representation can be meaningful without immediate policy victory.
+- **D:** Incorrect: a policy decision does not imply judicial invalidity of a proposal.
+
+**Examiner trap 34:** Do not equate consultation, publicity or protest size with policy causation.
+
+### Solution 35. FCRA boundary
+
+**Answer: C. Examine applicable FCRA registration, permitted-use and disclosure requirements; distinguish regulated financing from a blanket ban on domestic civic speech.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: associational and expression freedoms coexist with valid financing rules.
+- **B:** Incorrect: policy criticism alone is not a universal dissolution trigger.
+- **C:** Correct: apply the particular foreign-contribution conditions and separate them from expression and election rules.
+- **D:** Incorrect: the Symbols Order regulates recognised parties, not NGO foreign funding.
+
+**Examiner trap 35:** Regulation of foreign contribution is not the same question as legitimacy of every policy submission.
+
+### Solution 36. Capture safeguards
+
+**Answer: D. Publish access and conflict records, disclose revolving-door interests, include affected rivals and consumers, and justify the evidence used.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: expertise remains useful if tested through open evidence and conflicts safeguards.
+- **B:** Incorrect: undisclosed selective access can create capture and public distrust.
+- **C:** Incorrect: one report does not cure concentrated influence or excluded interests.
+- **D:** Correct: inclusive records, conflict management and reasoned choices temper capture without suppressing representation.
+
+**Examiner trap 36:** Capture concerns skewed access and incentives; it is not established merely because a group succeeds.
+
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED RELEVANT UPSC PYQS
@@ -662,11 +816,11 @@ D. Clear time-place-manner rules, designated/facilitated venues, reasons, review
 
 **Question (official wording):** "What are the methods used by the farmer’s organizations to influence the policy-makers in India and how effective are these methods?"
 
-**Demand decode:** Address every operative phrase, use named Indian evidence, identify the authorised decision-maker and end with a qualified verdict.
+**Demand decode:** Name farmers' insider and outsider methods, then judge effectiveness rather than equating protest visibility with policy success.
 
 **Original model answer:**
 
-Farmer organisations influence policy through both insider and outsider methods. They submit memoranda on prices, procurement, credit, trade and inputs; meet ministries and commissions; build coalitions across unions and States; organise rallies, marches and dharnas; use media and digital communication; litigate justiciable issues; and signal electoral consequences in agrarian constituencies.
+Farmer organisations submit memoranda on prices, procurement and credit; meet ministries; build coalitions; organise marches and dharnas; use media; litigate justiciable issues; and signal electoral consequences.
 
 Their effectiveness depends on cohesion, geographic concentration, public legitimacy, timing and the feasibility of demands. The 2020-21 mobilisation combined negotiation, coalition-building, sustained protest and electoral salience. It contributed decisively to the political conditions preceding Parliament's Farm Laws Repeal Act, 2021, showing that organised pressure can alter the cost of a policy.
 
@@ -674,13 +828,13 @@ Effectiveness remains uneven. Agrarian interests differ by region, crop, class, 
 
 Thus, farmer groups are strongest when broad representation and calibrated methods convert numbers into reasoned bargaining, but they neither legally make policy nor represent all farmers automatically.
 
-**Examiner check:** Definition, methods/roles, named evidence, causal analysis and qualification are all present; no official descriptive key is claimed.
+**Examiner check:** The repeal example separates coalition pressure from Parliament's legal act; unequal representation limits the effectiveness claim. This is an original model, not an official descriptive key.
 
 ### DIRECT VERIFIED UPSC PYQ - 2021 GS-II Q5 - 10 marks - 150 words
 
 **Question (official wording):** "Pressure groups play a vital role in influencing public policy making in India. Explain how the business associations contribute to public policies."
 
-**Demand decode:** Address every operative phrase, use named Indian evidence, identify the authorised decision-maker and end with a qualified verdict.
+**Demand decode:** Explain what business associations actually supply to policy formulation and implementation, then test whose interests their submissions omit.
 
 **Original model answer:**
 
@@ -692,13 +846,13 @@ The democratic response is not exclusion of expertise. Government should publish
 
 Business associations therefore contribute information and coordination, while elected and statutory authorities must retain decision responsibility and make the public-interest reasons visible.
 
-**Examiner check:** Definition, methods/roles, named evidence, causal analysis and qualification are all present; no official descriptive key is claimed.
+**Examiner check:** FICCI, CII, ASSOCHAM and NASSCOM anchor the contribution; counter-voices and published reasons address the capture risk without treating consultation as wrongdoing. This is not an official descriptive key.
 
 ### DIRECT VERIFIED UPSC PYQ - 2025 GS-II Q15 - 15 marks - 250 words
 
 **Question (official wording):** "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India."
 
-**Demand decode:** Address every operative phrase, use named Indian evidence, identify the authorised decision-maker and end with a qualified verdict.
+**Demand decode:** Define environmental pressure groups and distinguish awareness-building, policy influence and legal advocacy using Indian examples.
 
 **Original model answer:**
 
@@ -714,7 +868,7 @@ These groups deepen environmental democracy by voicing diffuse, future and affec
 
 Therefore, environmental pressure groups are valuable intermediaries when they make neglected costs visible and public institutions answer with transparent, reasoned and inclusive decisions.
 
-**Examiner check:** Definition, methods/roles, named evidence, causal analysis and qualification are all present; no official descriptive key is claimed.
+**Examiner check:** Chipko, Silent Valley, NBA and CSE illustrate distinct roles without attributing multi-causal outcomes to one campaign; litigation is not a substitute for governmental decision. This is an original model.
 
 ### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODEL ANSWERS
 
@@ -738,7 +892,7 @@ Trade unions, professional bodies, think tanks and lobbies likewise overlap func
 
 **[ORIGINAL MAINS 1 MODEL ANSWER WORD COUNT: 148]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** The test is primary objective, not legal form: an NGO may advocate, a movement may institutionalise and a group may endorse candidates without becoming a party.
 
 ### ORIGINAL MAINS 2 - 10 marks - 150 words
 
@@ -756,9 +910,9 @@ A strike is distinct. Article 19(1)(c) protects association, but All India Bank 
 Thus, law protects peaceful dissent, regulates industrial action through statutes and denies constitutional shelter to violence, intimidation or compelled closure.
 <!-- ORIGINAL-MAINS-2-ANSWER-END -->
 
-**[ORIGINAL MAINS 2 MODEL ANSWER WORD COUNT: 150]**
+**[ORIGINAL MAINS 2 MODEL ANSWER WORD COUNT: 140]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** Articles 19(1)(a)-(b), Bharat Kumar and the employee-strike rulings support three distinct conclusions; neither a coercive bandh nor every strike is a protected peaceful assembly.
 
 ### ORIGINAL MAINS 3 - 15 marks - 250 words
 
@@ -784,7 +938,7 @@ A democratic policy cycle should publish consultations, significant meetings, su
 
 **[ORIGINAL MAINS 3 MODEL ANSWER WORD COUNT: 221]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** The farm-law repeal illustrates influence at adoption, not proof that groups enact legislation; the answer separately tests agenda, implementation and distributional outcomes.
 
 ### ORIGINAL MAINS 4 - 15 marks - 250 words
 
@@ -808,7 +962,7 @@ India is therefore neither purely pluralist nor corporatist. A complete analysis
 
 **[ORIGINAL MAINS 4 MODEL ANSWER WORD COUNT: 218]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** Each lens identifies a different mechanism—competition, unequal access, selective bargaining or social framing—and the Indian verdict resists treating consultation alone as capture.
 
 ### ORIGINAL MAINS 5 - 20 marks - 250 words
 
@@ -828,9 +982,9 @@ Public hearings need regional languages, accessible formats and participation su
 Thus, democratic legitimacy rests on lawful methods, credible evidence, internal representation, transparent access and fair distribution - not on organisational visibility alone.
 <!-- ORIGINAL-MAINS-5-ANSWER-END -->
 
-**[ORIGINAL MAINS 5 MODEL ANSWER WORD COUNT: 245]**
+**[ORIGINAL MAINS 5 MODEL ANSWER WORD COUNT: 248]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** The reform package responds to specific asymmetries: disclosure for insider access, multilingual hearings for excluded constituencies and proportionate rules for outsider mobilisation.
 
 ### ORIGINAL MAINS 6 - 20 marks - 250 words
 
@@ -850,6 +1004,6 @@ CPI(M) v Bharat Kumar justifies action against compelled closure and intimidatio
 The framework should also support regional-language and disability access, countervailing submissions and public data. Its objective is transparent persuasion and proportionate coexistence, not State licensing of acceptable political belief.
 <!-- ORIGINAL-MAINS-6-ANSWER-END -->
 
-**[ORIGINAL MAINS 6 MODEL ANSWER WORD COUNT: 233]**
+**[ORIGINAL MAINS 6 MODEL ANSWER WORD COUNT: 228]**
 
-**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
+**Examiner check:** The proposed register excludes ordinary petitions; protest rules require usable venues and review, while strikes remain a separate labour-law question.

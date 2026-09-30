@@ -25,707 +25,587 @@ generated_on: 2026-09-10
 
 ### Practice design
 
-- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
-- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
-- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
-- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
-- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
+Questions 1–24 test distinct evidence routes; 25–32 test interdisciplinary boundary cases. Questions precede the separate worked key. Correct options rotate A → B → C → D eight times. India-related cases are conceptual illustrations, not quantitative factual assertions.
+
+### Questions
 
 ### MCQ 1
 
-Which proposition is correctly associated with **Discipline**?
+An investigator borrows income data to ask who shapes welfare legislation. What makes the inquiry interdisciplinary rather than economic alone?
 
-- A. A branch or field of learning.
-- B. political order does not require a Weberian state.
-- C. Focus on values, prescriptions and what ought to be done.
-- D. Motives, attitudes, personality, propaganda and leadership appeal. (PDF pp.144-145)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Discipline.
-- **B:** B Attaches to Political anthropology, not Discipline.
-- **C:** C Attaches to Normative approach, not Discipline.
-- **D:** D Attaches to Psychology, not Discipline.
-
-> **Examiner trap:** Do not identify Discipline by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. An economic variable explains a specifically political decision
+- B. Any income dataset automatically becomes political science
+- C. Economics alone determines the morally correct law
+- D. Political institutions disappear when market data enter
 
 ### MCQ 2
 
-Which proposition is correctly associated with **Interdisciplinary approach**?
+Researchers add crowd-psychology findings to a study of protest regulation. When is borrowing purposeful?
 
-- A. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
-- B. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- C. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-- D. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Political sociology, not Interdisciplinary approach.
-- **B:** B States the source-recorded proposition for Interdisciplinary approach.
-- **C:** C Attaches to Auguste Comte, not Interdisciplinary approach.
-- **D:** D Attaches to Political economy, not Interdisciplinary approach.
-
-> **Examiner trap:** Do not identify Interdisciplinary approach by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Whenever the crowd dataset is large
+- B. When crowd mechanisms help explain public authority and policy response
+- C. Only if psychology replaces institutional analysis
+- D. Only if protesters share a personality type
 
 ### MCQ 3
 
-Which proposition is correctly associated with **Empirical approach**?
+A study predicts institutional resilience using literacy, incomes and family patterns. Which caution is essential?
 
-- A. Conceptual clarification, values, moral foundations and ends of public life.
-- B. Group life, institutions, status, attitudes, participation and political culture.
-- C. Focus on observable facts, explanation, correlation, generalization and prediction.
-- D. Insight into production, distribution, exchange, scarcity and economic conflict.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Philosophy, not Empirical approach.
-- **B:** B Attaches to Sociology, not Empirical approach.
-- **C:** C States the source-recorded proposition for Empirical approach.
-- **D:** D Attaches to Economics, not Empirical approach.
-
-> **Examiner trap:** Do not identify Empirical approach by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Income alone determines constitutional validity
+- B. Family pattern alone defines democratic justice
+- C. Correlations inform explanation but cannot alone establish legitimacy
+- D. The variables must be excluded because they are not legal texts
 
 ### MCQ 4
 
-Which proposition is correctly associated with **Normative approach**?
+Which use of a historical sequence is political analysis rather than bare chronicle?
 
-- A. Motives, attitudes, personality, propaganda and leadership appeal.
-- B. political order does not require a Weberian state.
-- C. Verification through past events, sequences and long-term causation.
-- D. Focus on values, prescriptions and what ought to be done.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Psychology, not Normative approach.
-- **B:** B Attaches to Political anthropology, not Normative approach.
-- **C:** C Attaches to History, not Normative approach.
-- **D:** D States the source-recorded proposition for Normative approach.
-
-> **Examiner trap:** Do not identify Normative approach by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Listing every event without a research question
+- B. Declaring the past morally superior to the present
+- C. Treating current constitutions as unchanged across time
+- D. Testing a claim about state formation against dated institutional change
 
 ### MCQ 5
 
-Which proposition is correctly associated with **Political economy**?
+A researcher explains a welfare dispute through ownership and resource distribution. Which lens contributes most directly?
 
-- A. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
-- B. the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
-- C. political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
-- D. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Political economy.
-- **B:** B Attaches to Aristotle, not Political economy.
-- **C:** C Attaches to Seymour Martin Lipset, not Political economy.
-- **D:** D Attaches to Auguste Comte, not Political economy.
-
-> **Examiner trap:** Do not identify Political economy by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Political economy connecting economic forces and policy conflict
+- B. Psychology alone proving the law just
+- C. Geography alone determining all party preferences
+- D. Philosophy alone estimating income shares
 
 ### MCQ 6
 
-Which proposition is correctly associated with **Political sociology**?
+A caste association mobilises voters despite a formal party manifesto. Which lens adds the missing mechanism?
 
-- A. Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- B. Study of political institutions, processes and ideologies in relation to social structures and modes of thought.
-- C. science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-- D. Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Interdisciplinary approach, not Political sociology.
-- **B:** B States the source-recorded proposition for Political sociology.
-- **C:** C Attaches to Auguste Comte, not Political sociology.
-- **D:** D Attaches to Political economy, not Political sociology.
-
-> **Examiner trap:** Do not identify Political sociology by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Law alone, because associations are written into every constitution
+- B. Political sociology of status, social structure and mobilisation
+- C. Economic calculation alone, because all identity is income
+- D. Moral philosophy alone, because mobilisation is necessarily just
 
 ### MCQ 7
 
-Which proposition is correctly associated with **Political psychology**?
+A campaign shifts support by framing a leader as trustworthy. Which contribution is most direct?
 
-- A. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-- B. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
-- C. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
-- D. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Heinz Eulau, not Political psychology.
-- **B:** B Attaches to Political philosophy, not Political psychology.
-- **C:** C States the source-recorded proposition for Political psychology.
-- **D:** D Attaches to Political geography, not Political psychology.
-
-> **Examiner trap:** Do not identify Political psychology by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Historical chronology alone
+- B. Legal doctrine alone
+- C. Political psychology of attitude, persuasion and leadership
+- D. Economic base alone
 
 ### MCQ 8
 
-Which proposition is correctly associated with **Political philosophy**?
+A policy delivers benefits yet excludes a vulnerable minority. What does philosophy add?
 
-- A. Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
-- B. studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
-- C. political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-- D. Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Political psychology, not Political philosophy.
-- **B:** B Attaches to Political geography, not Political philosophy.
-- **C:** C Attaches to Heinz Eulau, not Political philosophy.
-- **D:** D States the source-recorded proposition for Political philosophy.
-
-> **Examiner trap:** Do not identify Political philosophy by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. An exact headcount without fieldwork
+- B. A guarantee all traditions are morally identical
+- C. Proof that eligibility rules were followed
+- D. A test of fairness and political obligation beyond measured outcomes
 
 ### MCQ 9
 
-Which thinker/concept–proposition pair is correctly matched?
+Which claim correctly describes Gauba's relation between science and philosophy?
 
-- A. History — Verification through past events, sequences and long-term causation.
-- B. Psychology — Insight into production, distribution, exchange, scarcity and economic conflict.
-- C. Philosophy — Group life, institutions, status, attitudes, participation and political culture.
-- D. Normative approach — Focus on observable facts, explanation, correlation, generalization and prediction.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Faithful pairing: History is associated with this proposition.
-- **B:** B Source disagrees: Psychology is recorded with Motives, attitudes, personality, propaganda and leadership appeal.
-- **C:** C Wrong attachment: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
-- **D:** D Belongs elsewhere: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
-
-> **Examiner trap:** Keep the exact proposition attached to History; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Evidence helps assess outcomes while philosophy evaluates ends
+- B. Philosophy became irrelevant after behaviouralism
+- C. Philosophy alone predicts turnout
+- D. Science alone specifies the good life
 
 ### MCQ 10
 
-Which of the following pairs a name or concept with the proposition the source actually records for it?
+Which pairing of author and contribution survives attribution scrutiny?
 
-- A. Philosophy — Focus on values, prescriptions and what ought to be done.
-- B. Economics — Insight into production, distribution, exchange, scarcity and economic conflict.
-- C. Empirical approach — Motives, attitudes, personality, propaganda and leadership appeal.
-- D. Sociology — Verification through past events, sequences and long-term causation.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Source disagrees: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
-- **B:** B Kept where the source puts it: Economics is associated with this proposition.
-- **C:** C Belongs elsewhere: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
-- **D:** D Misplaced: Sociology is recorded with Group life, institutions, status, attitudes, participation and political culture.
-
-> **Examiner trap:** Keep the exact proposition attached to Economics; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Lipset: invented Easton's input-output system
+- B. Heinz Eulau: political behaviour unfolds in social, cultural and personal contexts
+- C. Comte: denied any relation between philosophy and science
+- D. Aristotle: contemporary survey technique
 
 ### MCQ 11
 
-In which pair does the proposition genuinely belong to the label placed against it?
+Which use of Lipset avoids an attribution trap?
 
-- A. Empirical approach — Motives, attitudes, personality, propaganda and leadership appeal.
-- B. Economics — Verification through past events, sequences and long-term causation.
-- C. Sociology — Group life, institutions, status, attitudes, participation and political culture.
-- D. Philosophy — Focus on values, prescriptions and what ought to be done.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
-- **B:** B Belongs elsewhere: Economics is recorded with Insight into production, distribution, exchange, scarcity and economic conflict.
-- **C:** C Kept where the source puts it: Sociology is associated with this proposition.
-- **D:** D Mismatched: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
-
-> **Examiner trap:** Keep the exact proposition attached to Sociology; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Political development follows solely from statutory wording
+- B. He reduces all politics to personality
+- C. Political development involves social mobilisation, value change, caste and class
+- D. He denies links between kinship and political development
 
 ### MCQ 12
 
-Only one pairing below reproduces the source's own association. Which is it?
+How should Marx and Engels be used in this chapter?
 
-- A. Philosophy — political order does not require a Weberian state.
-- B. History — Insight into production, distribution, exchange, scarcity and economic conflict.
-- C. Normative approach — Group life, institutions, status, attitudes, participation and political culture.
-- D. Psychology — Motives, attitudes, personality, propaganda and leadership appeal.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Philosophy is recorded with Conceptual clarification, values, moral foundations and ends of public life.
-- **B:** B Cross-attached: History is recorded with Verification through past events, sequences and long-term causation.
-- **C:** C Mismatched: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
-- **D:** D Matches the record: Psychology is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Psychology; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. As evidence all political institutions are economically identical
+- B. As authors of Deutsch's cybernetic lag
+- C. As founders of value-free survey research
+- D. As early interdisciplinary thinkers linking production and class to politics
 
 ### MCQ 13
 
-Identify the pair in which the recorded proposition matches its label exactly.
+A report describes territorial inequalities but predicts politics solely from a map. What is missing?
 
-- A. Philosophy — Conceptual clarification, values, moral foundations and ends of public life.
-- B. Economics — Verification through past events, sequences and long-term causation.
-- C. Sociology — Motives, attitudes, personality, propaganda and leadership appeal.
-- D. Empirical approach — Focus on values, prescriptions and what ought to be done.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Correct attachment: Philosophy is associated with this proposition.
-- **B:** B Mismatched: Economics is recorded with Insight into production, distribution, exchange, scarcity and economic conflict.
-- **C:** C Cross-attached: Sociology is recorded with Group life, institutions, status, attitudes, participation and political culture.
-- **D:** D Wrong attachment: Empirical approach is recorded with Focus on observable facts, explanation, correlation, generalization and prediction.
-
-> **Examiner trap:** Keep the exact proposition attached to Philosophy; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Geography must be paired with institutions, identity and economic claims
+- B. Political geography has no relevance to boundaries
+- C. All places with similar maps have identical policy
+- D. Normative claims follow directly from terrain
 
 ### MCQ 14
 
-Which one of the following label-proposition pairings survives a strict source check?
+A constitutional provision promises a right; local practice prevents access. What combination is needed?
 
-- A. Normative approach — A branch or field of learning.
-- B. Political anthropology — political order does not require a Weberian state.
-- C. Psychology — Conceptual clarification, values, moral foundations and ends of public life.
-- D. History — Insight into production, distribution, exchange, scarcity and economic conflict.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Normative approach is recorded with Focus on values, prescriptions and what ought to be done.
-- **B:** B Exact pair: Political anthropology is associated with this proposition.
-- **C:** C Wrong attachment: Psychology is recorded with Motives, attitudes, personality, propaganda and leadership appeal.
-- **D:** D Source disagrees: History is recorded with Verification through past events, sequences and long-term causation.
-
-> **Examiner trap:** Keep the exact proposition attached to Political anthropology; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Legal interpretation alone proves compliance
+- B. Legal text for formal entitlement and social evidence for implementation
+- C. Attitude survey alone establishes exact legal meaning
+- D. History alone makes current practice irrelevant
 
 ### MCQ 15
 
-Which pairing below would a careful source check leave standing?
+A non-state council mediates disputes through lineage authority. What does anthropology test?
 
-- A. Harold Lasswell's problem-solving model — (treating all politics as market bargaining or class interest) misses legitimacy.
-- B. David Easton's political-system framework — Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda. (PDF p.145)
-- C. Law/jurisprudence as a data source — distinct from the legal approach to studying politics (already covered under §8's traditional approaches).
-- D. Marx and Engels — political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Harold Lasswell's problem-solving model is recorded with is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
-- **B:** B Source disagrees: David Easton's political-system framework is recorded with is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback.
-- **C:** C Source-exact: Law/jurisprudence as a data source is associated with this proposition.
-- **D:** D Misplaced: Marx and Engels is recorded with Gauba credits them with an early systematic interdisciplinary approach by locating political behaviour in socio-economic factors such as production and class structure.
-
-> **Examiner trap:** Keep the exact proposition attached to Law/jurisprudence as a data source; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Whether every modern republic must copy the council
+- B. Whether constitutions are never political
+- C. Whether order and legitimacy can exist without a centralised state
+- D. Whether kinship proves all decisions are just
 
 ### MCQ 16
 
-Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
+Which distinction separates interdisciplinary legal evidence from the legal approach?
 
-- A. Heinz Eulau — political development cannot be studied without social mobilization, value change, kinship patterns, caste and class relations.
-- B. Political philosophy — the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
-- C. Political psychology — Analysis of political aspects of economic policy-making and of the mutual impact of economic forces and political decisions.
-- D. Political geography — studies the spatial dimension of politics — territory, boundaries, resource distribution, federalism and regional/electoral geography.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Wrong attachment: Heinz Eulau is recorded with political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-- **B:** B Source disagrees: Political philosophy is recorded with Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.
-- **C:** C Belongs elsewhere: Political psychology is recorded with Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
-- **D:** D Faithful pairing: Political geography is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Political geography; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. One uses law and the other prohibits all legal materials
+- B. Both establish actual compliance from text alone
+- C. The legal approach always excludes interpretation
+- D. Using judgments as evidence in a multi-lens political explanation versus analysing formal competence as the main question
 
 ### MCQ 17
 
-Consider the following statements:
-1. **Aristotle** is associated with: the classical approach treated politics as the "master science" and did not clearly separate normative from empirical analysis.
-2. **Seymour Martin Lipset** is associated with: (treating all politics as market bargaining or class interest) misses legitimacy, identity and normative claims that are not reducible to material interest.
-Which option is correct?
+A researcher identifies a weak feedback loop in a welfare system. Whose borrowed framework is being applied?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Aristotle does not validate the second pairing.
-
----
+- A. Easton's systems model: inputs, conversion, outputs and feedback
+- B. Lasswell's model of only economic bargaining
+- C. MacIntyre's internal goods
+- D. Taylor's recognition as a numerical feedback coefficient
 
 ### MCQ 18
 
-Consider the following statements:
-1. **Marx and Engels** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-2. **Auguste Comte** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-Which option is correct?
+Officials diagnose a public problem, compare alternatives and evaluate outcomes. Which borrowed model fits?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Marx and Engels does not validate the second pairing.
-
----
+- A. Elite theory as the only model of information flow
+- B. Lasswell-linked problem-solving and decision analysis
+- C. Comte's proposition that decisions need no evidence
+- D. Base-superstructure as a neutral recipe for all choices
 
 ### MCQ 19
 
-Consider the following statements:
-1. **Heinz Eulau** is associated with: political behaviour analysis must be interdisciplinary because political action occurs in a wider social, cultural and personal context.
-2. **David Easton's political-system framework** is associated with: is itself a borrowed model — Gauba notes it imports the "system" concept from sociology/general systems theory into political science, treating politics as inputs-conversion-outputs-feedback .
-Which option is correct?
+An analyst explains every policy solely as a market transaction. Which specific failure is present?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Heinz Eulau does not validate the second pairing.
-
----
+- A. Psychological reductionism about personality alone
+- B. Legal reductionism reading only statutes
+- C. Economic reductionism overlooking legitimacy and identity
+- D. Functional reductionism from social role alone
 
 ### MCQ 20
 
-Consider the following statements:
-1. **Seymour Martin Lipset** is associated with: is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
-2. **Harold Lasswell's problem-solving model** is associated with: Focus on observable facts, explanation, correlation, generalization and prediction.
-Which option is correct?
+An election is explained only by candidates' personalities despite entrenched party and resource differences. Which failure?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Seymour Martin Lipset does not validate the second pairing.
-
----
+- A. Legal reductionism from constitutional text alone
+- B. Geographic determinism from boundaries alone
+- C. Normative philosophy from duty alone
+- D. Psychological reductionism missing institutions and material constraints
 
 ### MCQ 21
 
-Consider the following statements:
-1. **Auguste Comte** is associated with: science itself is rooted in philosophy; Gauba uses Comte to question any rigid opposition between science and philosophy.
-2. **Economic reductionism** is associated with: Focus on values, prescriptions and what ought to be done.
-Which option is correct?
+A stability model treats dissent solely as system malfunction. What risk follows?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Auguste Comte does not validate the second pairing.
-
----
+- A. Sociological or functional reductionism obscures conflict and agency
+- B. An excess of class analysis of ownership
+- C. A purely historical chronicle without theory
+- D. A moral argument that all dissent is justified
 
 ### MCQ 22
 
-Consider the following statements:
-1. **David Easton's political-system framework** is associated with: A branch or field of learning.
-2. **Discipline** is associated with: A branch or field of learning.
-Which option is correct?
+A researcher equates legal validity with effective political power. Which reductionism?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with David Easton's political-system framework does not validate the second pairing.
-
----
+- A. Psychological reductionism privileging attitudes
+- B. Legal reductionism ignoring informal influence and non-compliance
+- C. Economic reductionism privileging markets
+- D. Geographic reductionism privileging terrain
 
 ### MCQ 23
 
-Consider the following statements:
-1. **Harold Lasswell's problem-solving model** is associated with: is cited by Gauba as an example of psychology and decision-theory feeding directly into political analysis, reframing political inquiry around identifying problems, generating alternatives and evaluating outcomes.
-2. **Interdisciplinary approach** is associated with: Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-Which option is correct?
+Gauba invokes Aristotle's idea of politics as master science. Which conclusion is safe?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Harold Lasswell's problem-solving model does not validate the second pairing.
-
----
+- A. Aristotle endorsed modern quantification of polling
+- B. Aristotle proved politics has no normative dimension
+- C. Classical politics linked ends and evidence without mapping directly onto modern disciplinary partitions
+- D. Every discipline today must merge into politics
 
 ### MCQ 24
 
-Consider the following statements:
-1. **Economic reductionism** is associated with: Focus on observable facts, explanation, correlation, generalization and prediction.
-2. **Empirical approach** is associated with: Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.
-Which option is correct?
+Gauba cites Comte against a rigid science/philosophy opposition. Why?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Economic reductionism does not validate the second pairing.
-
----
+- A. Comte's name proves every empirical result is just
+- B. Philosophy alone verifies observations
+- C. Comte banned science from political inquiry
+- D. Science's intellectual foundations do not erase conceptual and moral inquiry
 
 ### MCQ 25 — REMEDIAL
 
-Which correction is most defensible for the claim: **"Interdisciplinary study means political science has lost its identity."**?
+An integrated federalism study joins territorial patterns, group identity and transfers. What must stay central?
 
-- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
-- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- C. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
-- D. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146).
-- **B:** B Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"One discipline can fully explain politics."', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "Interdisciplinary study means political science has, not a different error from the same topic.
-
----
+- A. How public authority distributes powers and resources across territories
+- B. A map without any institutional analysis
+- C. An income dataset without territorial units
+- D. A claim that all regional groups have identical interests
 
 ### MCQ 26 — REMEDIAL
 
-Which correction is most defensible for the claim: **"Empirical political science made philosophy irrelevant."**?
+An analyst declares history and political science identical. What is the correction?
 
-- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
-- B. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-- C. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- D. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146).
-- **C:** C Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "Empirical political science made philosophy, not a different error from the same topic.
-
----
+- A. Past events have no political meaning
+- B. Historical evidence is selected and interpreted for a political question
+- C. Every chronological event must be reported
+- D. Politics is only normative and has no past
 
 ### MCQ 27 — REMEDIAL
 
-Which correction is most defensible for the claim: **"History and political science are the same thing."**?
+A political scientist uses an anthropological case of small-scale authority. What prevents overgeneralisation?
 
-- A. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-- B. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
-- C. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
-- D. Normative approach means Focus on values, prescriptions and what ought to be done; this option treats that proposition as the decisive account.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141).
-- **D:** D Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "History and political science are the same thing.", not a different error from the same topic.
-
----
+- A. Treat the council as a model every modern state must adopt
+- B. Reject the case because it lacks a centralised state
+- C. Explicitly test differences of scale and institutions before comparison
+- D. Infer democratic legitimacy from the mere existence of order
 
 ### MCQ 28 — REMEDIAL
 
-Which correction is most defensible for the claim: **"One discipline can fully explain politics."**?
+Which design best answers whether a welfare policy is legitimate and effective?
 
-- A. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- C. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
-- D. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146).
-
-> **Examiner trap:** Repair the exact overstatement about "One discipline can fully explain politics.", not a different error from the same topic.
-
----
+- A. Read only the statute and infer actual delivery
+- B. Count beneficiaries and infer justice automatically
+- C. Assess good intentions and ignore outcomes
+- D. Combine legal mandate, observed delivery, social access and a reasoned fairness criterion
 
 ### MCQ 29 — REMEDIAL
 
-Which correction is most defensible for the claim: **Discipline means Study of political institutions, processes and ideologies in relation to social structures and modes of thought.**?
+How can political science retain autonomy while borrowing psychology?
 
-- A. Discipline means A branch or field of learning.
-- B. Normative approach means Focus on values.
-- C. Empirical approach means Focus on observable facts, explanation.
-- D. Gauba treats this older formula as an oversimplification; history is used.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Discipline means A branch or field of learning.
-- **B:** B Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Discipline means Study of political institutions,, not a different error from the same topic.
-
----
+- A. Keep power, collective decision and public consequences as the target explanation
+- B. Allow attitude measures to define justice alone
+- C. Exclude all non-political measurements
+- D. Merge every question into personality theory
 
 ### MCQ 30 — REMEDIAL
 
-Which correction is most defensible for the claim: **Interdisciplinary approach means Use of psychological models and techniques to analyse political behaviour, attitudes, learning, socialization, leadership and propaganda.**?
+A survey reveals little trust in institutions. What inference is NOT warranted?
 
-- A. Gauba says political science remains focused on politics while using other disciplines for broader and better-grounded analysis. (PDF pp.137, 146)
-- B. Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- C. The chapter concludes that philosophical, historical, legal, economic, sociological and psychological approaches are partial when used alone. (PDF p.146)
-- D. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"Interdisciplinary study means political science has lost its identity."', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Interdisciplinary approach means Use of more than one discipline to study a problem, especially where common or overlapping phenomena are involved.
-- **C:** C Repairs a different misconception, '"One discipline can fully explain politics."', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Interdisciplinary approach means Use of, not a different error from the same topic.
-
----
+- A. The result may help explain compliance
+- B. The observation alone establishes every institution's legal invalidity
+- C. Other evidence is needed for causation
+- D. The finding can motivate a legitimacy inquiry
 
 ### MCQ 31 — REMEDIAL
 
-Which correction is most defensible for the claim: **Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.**?
+What is the best test of purported interdisciplinarity in a class-conflict study?
 
-- A. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF p.141)
-- B. Gauba says political philosophy regained prominence after post-behaviouralism and still helps define policy goals. (PDF pp.145-146)
-- C. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
-- D. Normative approach means Focus on values, prescriptions and what ought to be done.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, '"Empirical political science made philosophy irrelevant."', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
-- **D:** D Repairs a different misconception, 'Normative approach means Verification through past events, sequences and long-term causation.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Empirical approach means Inquiry into moral and, not a different error from the same topic.
-
----
+- A. List disciplines without connecting their evidence
+- B. Treat production as proof all citizens share preferences
+- C. Show how economic relations, group organisation and political decisions jointly explain an outcome
+- D. Replace class analysis with only moral labels
 
 ### MCQ 32 — REMEDIAL
 
-Which correction is most defensible for the claim: **Normative approach means Verification through past events, sequences and long-term causation.**?
+A policy argument claims its measured popularity proves its justice. Which repair is strongest?
 
-- A. Discipline means A branch or field of learning; this formulation is presented as sufficient for the classification.
-- B. Empirical approach means Focus on observable facts, explanation, correlation, generalization and prediction.
-- C. Gauba treats this older formula as an oversimplification; history is used selectively and critically. (PDF.
-- D. Normative approach means Focus on values, prescriptions and what ought to be done.
+- A. Ignore popularity because all surveys are unscientific
+- B. Assume philosophy predicts exact future votes
+- C. Collapse moral rights into present majority opinion
+- D. Separate empirical support from normative justification and test both
 
-**Answer: D**
+## Separate answer key and option-by-option explanations
 
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Discipline means Study of political institutions, processes and ideologies in relation to social structures and modes of thought.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Empirical approach means Inquiry into moral and substantive dimensions of politics, including values, obligation, good life and the worth of political systems.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"History and political science are the same thing."', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Normative approach means Focus on values, prescriptions and what ought to be done.
+### MCQ 1 — A
 
-> **Examiner trap:** Repair the exact overstatement about Normative approach means Verification through past, not a different error from the same topic.
+- **A:** Politics remains the organising question.
+- **B:** Data need an analytical political use.
+- **C:** Distribution data cannot establish justice unaided.
+- **D:** Borrowing is integration, not merger.
 
----
+> **Examiner trap:** Politics remains the organising question.
+
+### MCQ 2 — B
+
+- **A:** Volume does not establish relevance.
+- **B:** The donor model serves a political question.
+- **C:** Integration does not require substitution.
+- **D:** Psychological determinism is unwarranted.
+
+> **Examiner trap:** The donor model serves a political question.
+
+### MCQ 3 — C
+
+- **A:** Economic measures cannot interpret law.
+- **B:** Sociology is not a complete moral theory.
+- **C:** A political and normative judgement remains.
+- **D:** Political outcomes can depend on social context.
+
+> **Examiner trap:** A political and normative judgement remains.
+
+### MCQ 4 — D
+
+- **A:** Enumeration alone is not explanation.
+- **B:** Historical order does not justify a norm.
+- **C:** This ignores historical development.
+- **D:** The past serves a political causal proposition.
+
+> **Examiner trap:** The past serves a political causal proposition.
+
+### MCQ 5 — A
+
+- **A:** The question joins distribution to political choice.
+- **B:** Attitudes do not settle justice.
+- **C:** Territory does not fully explain ownership.
+- **D:** Moral analysis cannot substitute for measurements.
+
+> **Examiner trap:** The question joins distribution to political choice.
+
+### MCQ 6 — B
+
+- **A:** Formal text need not capture informal networks.
+- **B:** Formal party analysis misses group-based mediation.
+- **C:** Status cannot simply be reduced to earnings.
+- **D:** Description does not establish justification.
+
+> **Examiner trap:** Formal party analysis misses group-based mediation.
+
+### MCQ 7 — C
+
+- **A:** Chronology cannot directly model attitude change.
+- **B:** Formal powers do not explain persuasion.
+- **C:** Perception can shape political behaviour.
+- **D:** Resource structure may matter but not exhaust framing.
+
+> **Examiner trap:** Perception can shape political behaviour.
+
+### MCQ 8 — D
+
+- **A:** Normative analysis cannot supply missing counts.
+- **B:** Evaluation need not flatten differences.
+- **C:** Compliance is a legal or empirical question.
+- **D:** Empirical success cannot itself establish justice.
+
+> **Examiner trap:** Empirical success cannot itself establish justice.
+
+### MCQ 9 — A
+
+- **A:** Both contribute without identical methods.
+- **B:** Value questions persist.
+- **C:** Moral reasoning is not a survey.
+- **D:** Measurement cannot settle moral ends.
+
+> **Examiner trap:** Both contribute without identical methods.
+
+### MCQ 10 — B
+
+- **A:** The systems frame belongs to Easton.
+- **B:** He argues for interdisciplinary behavioural inquiry.
+- **C:** Gauba uses him to question that separation.
+- **D:** His master-science view is classical.
+
+> **Examiner trap:** He argues for interdisciplinary behavioural inquiry.
+
+### MCQ 11 — C
+
+- **A:** This erases social conditions.
+- **B:** His contribution spans social variables.
+- **C:** Lipset's analysis exceeds formal constitutional diagrams.
+- **D:** Kinship patterns are among the relevant conditions.
+
+> **Examiner trap:** Lipset's analysis exceeds formal constitutional diagrams.
+
+### MCQ 12 — D
+
+- **A:** Their model does not prove uniform outcomes.
+- **B:** Cybernetic vocabulary belongs to Deutsch.
+- **C:** Their class analysis is not behavioural pure science.
+- **D:** The socio-economic explanation crosses disciplinary boundaries.
+
+> **Examiner trap:** The socio-economic explanation crosses disciplinary boundaries.
+
+### MCQ 13 — A
+
+- **A:** Spatial location conditions but does not determine outcomes.
+- **B:** Boundaries are central spatial evidence.
+- **C:** This is geographic determinism.
+- **D:** Topography cannot settle fairness.
+
+> **Examiner trap:** Spatial location conditions but does not determine outcomes.
+
+### MCQ 14 — B
+
+- **A:** A right on paper need not be realised.
+- **B:** Validity and effective enjoyment are distinct.
+- **C:** Perception does not replace text.
+- **D:** Past context does not settle present access.
+
+> **Examiner trap:** Validity and effective enjoyment are distinct.
+
+### MCQ 15 — C
+
+- **A:** Small-scale structures do not transfer mechanically.
+- **B:** State law remains important elsewhere.
+- **C:** The case refines state-centred concepts.
+- **D:** Authority is not identical to moral legitimacy.
+
+> **Examiner trap:** The case refines state-centred concepts.
+
+### MCQ 16 — D
+
+- **A:** Both can use law.
+- **B:** Neither should infer practice automatically.
+- **C:** Legal analysis centrally interprets law.
+- **D:** A legal source can serve different research frames.
+
+> **Examiner trap:** A legal source can serve different research frames.
+
+### MCQ 17 — A
+
+- **A:** A general-systems idea is adapted to political decisions.
+- **B:** His problem-solving contribution is not identical to markets.
+- **C:** Virtue and practices do not supply this system chain.
+- **D:** Recognition is not cybernetic feedback.
+
+> **Examiner trap:** A general-systems idea is adapted to political decisions.
+
+### MCQ 18 — B
+
+- **A:** Elite analysis asks who governs, not this full sequence.
+- **B:** The stages focus on politically consequential choice.
+- **C:** Gauba invokes Comte for philosophy-science linkage.
+- **D:** Marxian analysis centres economic class relations.
+
+> **Examiner trap:** The stages focus on politically consequential choice.
+
+### MCQ 19 — C
+
+- **A:** The error here is market monocausality.
+- **B:** No exclusively textual method is used.
+- **C:** Material incentives cannot exhaust political obligation.
+- **D:** The mechanism invoked is exchange, not function.
+
+> **Examiner trap:** Material incentives cannot exhaust political obligation.
+
+### MCQ 20 — D
+
+- **A:** The explanation uses personality, not text.
+- **B:** The premise supplies no spatial cause.
+- **C:** No evaluation of just conduct is given.
+- **D:** Attitudes matter but do not explain the entire opportunity structure.
+
+> **Examiner trap:** Attitudes matter but do not explain the entire opportunity structure.
+
+### MCQ 21 — A
+
+- **A:** An equilibrium frame can privilege persistence over change.
+- **B:** The premise is about function and order.
+- **C:** A model is being used, albeit narrowly.
+- **D:** The model assumes the reverse.
+
+> **Examiner trap:** An equilibrium frame can privilege persistence over change.
+
+### MCQ 22 — B
+
+- **A:** The premise centres statutes, not minds.
+- **B:** Textual rules do not describe their full operation.
+- **C:** No market variable drives this inference.
+- **D:** Location is not the stated cause.
+
+> **Examiner trap:** Textual rules do not describe their full operation.
+
+### MCQ 23 — C
+
+- **A:** That projects a later technique backward.
+- **B:** The classical conception combines values and facts.
+- **C:** Classical context differs from current social-science division.
+- **D:** The contemporary conclusion is integration, not merger.
+
+> **Examiner trap:** Classical context differs from current social-science division.
+
+### MCQ 24 — D
+
+- **A:** Origin of science does not justify each result.
+- **B:** Empirical checking requires evidence.
+- **C:** The claim reverses his relevance.
+- **D:** Philosophy remains relevant to disciplinary questions.
+
+> **Examiner trap:** Philosophy remains relevant to disciplinary questions.
+
+### MCQ 25 — A
+
+- **A:** Spatial, sociological and economic evidence serves the political question.
+- **B:** Territory alone does not explain allocation.
+- **C:** That omits the federal spatial dimension.
+- **D:** Identity variation matters.
+
+> **Examiner trap:** Spatial, sociological and economic evidence serves the political question.
+
+### MCQ 26 — B
+
+- **A:** History can test political propositions.
+- **B:** Shared evidence does not erase distinct organising purposes.
+- **C:** Purposeful selection is essential.
+- **D:** Political claims can be historically checked.
+
+> **Examiner trap:** Shared evidence does not erase distinct organising purposes.
+
+### MCQ 27 — C
+
+- **A:** Contexts differ sharply.
+- **B:** Precisely this difference can test a state-centred concept.
+- **C:** Analogy refines a concept without mechanical transfer.
+- **D:** Order does not prove just rule.
+
+> **Examiner trap:** Analogy refines a concept without mechanical transfer.
+
+### MCQ 28 — D
+
+- **A:** Legal entitlement is not implementation evidence.
+- **B:** Magnitude alone cannot settle distributional fairness.
+- **C:** Moral aims alone cannot establish effectiveness.
+- **D:** Different lenses answer distinct parts of the question.
+
+> **Examiner trap:** Different lenses answer distinct parts of the question.
+
+### MCQ 29 — A
+
+- **A:** Disciplinary identity rests on the central question, not isolated data.
+- **B:** Psychology does not supply full normative warrant.
+- **C:** Borrowing can be relevant to politics.
+- **D:** Merger obscures institutions and structures.
+
+> **Examiner trap:** Disciplinary identity rests on the central question, not isolated data.
+
+### MCQ 30 — B
+
+- **A:** Attitudes can affect behaviour.
+- **B:** Perception and formal validity are distinct.
+- **C:** A survey association may be confounded.
+- **D:** Normative and empirical inquiry may interact.
+
+> **Examiner trap:** Perception and formal validity are distinct.
+
+### MCQ 31 — C
+
+- **A:** A catalogue is not an explanation.
+- **B:** Economic structure does not erase variation.
+- **C:** Distinct lenses contribute mechanisms without monocausal merger.
+- **D:** Normative condemnation does not reconstruct causes.
+
+> **Examiner trap:** Distinct lenses contribute mechanisms without monocausal merger.
+
+### MCQ 32 — D
+
+- **A:** Data can matter without dictating justice.
+- **B:** Evaluation cannot substitute for forecasting.
+- **C:** Rights claims may constrain popular choices.
+- **D:** Preference frequency does not establish a moral rule.
+
+> **Examiner trap:** Preference frequency does not establish a moral rule.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -739,13 +619,13 @@ No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Inte
 
 **Question:** Define interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred. Answer in 150 words.
 
-**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred in the opening line, carry the argument on Introduction, Interdisciplinary, Core and Politics, and reserve the closing sentences for the qualification that random accumulation of neighbouring knowledge produces diffusion rather than integration.
+**Demand decode:** Define purposeful borrowing and explain why the organising question remains authority and public decisions.
 
 **Model answer (144 words):**
 
 Introduction: Interdisciplinary political analysis uses evidence, concepts or models from more than one discipline to investigate overlapping social phenomena. Core analysis: Politics is embedded in economic, social, historical, psychological, legal and spatial environments. Political science therefore borrows when another discipline supplies evidence needed to explain a political question. History tests sequences, economics identifies material interests, sociology maps groups, psychology examines attitudes, and philosophy evaluates ends. Gauba's qualification is essential: labour relations, kinship or crowd behaviour enter political analysis only insofar as they illuminate power, authority, conflict, legitimacy or policy. Borrowing is purposeful when the political problem determines what is selected and how it is interpreted. Interdisciplinarity should widen verification and causal depth while keeping political judgment as the organising task. Conclusion: Interdisciplinarity deepens political explanation only when borrowed evidence answers a clearly political question; random accumulation of neighbouring knowledge produces diffusion rather than integration.
 
-**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinary, Core and Politics), converts that evidence into analysis of interdisciplinary political analysis and explain why borrowing must remain purposeful and politics-centred, and keeps the examiner-facing qualification that random accumulation of neighbouring knowledge produces diffusion rather than integration. At 144 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Gauba’s purposeful-borrowing criterion governs the distinct roles of history, economics, sociology, psychology and philosophy; the conclusion distinguishes integration from diffusion.
 
 ---
 
@@ -753,13 +633,13 @@ Introduction: Interdisciplinary political analysis uses evidence, concepts or mo
 
 **Question:** Explain how history and economics contribute differently to political analysis. Answer in 150 words.
 
-**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of how history and economics contribute differently to political analysis in the opening line, carry the argument on Introduction, History, Core and Economics, and reserve the closing sentences for the qualification that neither can independently settle legitimacy or justice.
+**Demand decode:** Distinguish what history can establish through sequence from what economics can establish about resources; neither settles justification alone.
 
 **Model answer (135 words):**
 
 Introduction: History and economics enrich political inquiry through different types of evidence and explanation. Core analysis: History supplies sequences, antecedents, comparisons and long-term patterns. It tests whether claims about democracy, state formation or conflict survive variation across time and cases, but becomes mere chronicle if events are not politically interpreted. Economics examines production, distribution, exchange, scarcity and incentives. Political economy uses these mechanisms to explain class conflict, welfare choices, public control and how economic demands shape state decisions. It exposes material constraints that formal institutional analysis may overlook. Critical evaluation: Neither discipline is sufficient alone. Political analysis must interpret historical evidence and economic mechanisms through institutions, power relations and normative standards. Conclusion: History tests political claims across time and sequence, while economics explains material incentives and distributional conflict; neither can independently settle legitimacy or justice.
 
-**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, History, Core and Economics), converts that evidence into analysis of how history and economics contribute differently to political analysis, and keeps the examiner-facing qualification that neither can independently settle legitimacy or justice. At 135 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Indian state reorganisation gives history a sequence to interpret, while welfare and distribution give economics a material mechanism; the answer explains why neither determines justice.
 
 ---
 
@@ -767,13 +647,13 @@ Introduction: History and economics enrich political inquiry through different t
 
 **Question:** Can political science be studied independently of the other social sciences? Discuss. Answer in 150 words.
 
-**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of political science be studied independently of the other social sciences? Discuss in the opening line, carry the argument on Introduction, Core, History and Behavioural, and reserve the closing sentences for the qualification that conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences.
+**Demand decode:** Discuss the distinctness of politics-centred questions amid shared social-science evidence, not disciplinary isolation.
 
 **Model answer (141 words):**
 
 Introduction: Political science has a distinct organising concern with power, authority, conflict and binding collective decisions, but its subject matter cannot be isolated from wider social life. Core analysis: Gauba identifies three interdisciplinary functions: political science uses findings from related disciplines, verifies its theories through their evidence and contributes political insight back to them. History supplies temporal testing; economics explains resources and incentives; sociology identifies groups and institutions; psychology studies attitudes and leadership; philosophy clarifies values and ends. Behavioural and systems approaches intensified this exchange by shifting attention from formal government to actors and to the political system's environment. The defensible position is autonomy through integration: a distinct political focus supported by multiple bodies of evidence. Conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences.
 
-**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, History and Behavioural), converts that evidence into analysis of political science be studied independently of the other social sciences? Discuss, and keeps the examiner-facing qualification that conclusion: Political science retains an autonomous organising question about power and authoritative allocation, but credible answers require evidence and models from the wider social sciences. At 141 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Gauba’s three-way exchange of findings, cross-verification and reciprocal contribution supports autonomy through a distinct question rather than isolation.
 
 ---
 
@@ -781,13 +661,13 @@ Introduction: Political science has a distinct organising concern with power, au
 
 **Question:** Examine the contributions and limits of sociology and psychology in political analysis. Answer in 250 words.
 
-**Demand decode:** the directive `examine` requires the answer to test the proposition rather than describe it, weighing what supports and what weakens it. Fix the boundary of the contributions and limits of sociology and psychology in political analysis in the opening line, carry the argument on Introduction, Sociology, Core and Eulau's, and reserve the closing sentences for the qualification that conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment.
+**Demand decode:** Examine social structures and individual attitudes as complementary explanations; neither can alone decide institutional validity or justice.
 
 **Model answer (243 words):**
 
 Introduction: Sociology and psychology correct institutional accounts by explaining the social structures and individual processes through which politics is lived. Core analysis: Political sociology studies groups, status, norms, participation, leadership, political culture and the relation between social structures and political institutions. It explains why similar constitutional forms may operate differently across societies. Political psychology studies attitudes, learning, personality, propaganda, public opinion and charismatic or extremist appeal. It helps reconstruct how citizens and leaders perceive choices and acquire political orientations. Eulau's contextual account and Lipset's emphasis on mobilisation, values, kinship and class illustrate why behaviour cannot be detached from its environment. Further development: Their explanatory levels can be connected through mechanisms. Social structures influence the identities, incentives and information available to actors; psychological processes shape how those conditions are perceived and acted upon; institutions then aggregate or constrain the resulting conduct. This sequence avoids simply listing variables. It also shows why neither approach can establish the legitimacy of an outcome: evaluation of domination, justice or responsibility requires political philosophy in addition to causal explanation. Critical evaluation: Sociological reductionism may turn politics into passive maintenance of social structure, underplaying agency and deliberate institutional change. Psychological reductionism may individualise outcomes produced by class, law or organisation. The two disciplines contribute most when linked to each other and to political institutions. Conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment.
 
-**Why this earns marks:** it obeys `examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Sociology, Core and Eulau's), converts that evidence into analysis of the contributions and limits of sociology and psychology in political analysis, and keeps the examiner-facing qualification that conclusion: Sociology and psychology reveal social structure and individual motivation respectively, but political explanation requires both levels to be connected to institutions, resources and normative judgment. At 243 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Eulau and Lipset ground the contextual account; social structures and attitudes are linked causally, then checked against sociological and psychological reductionism.
 
 ---
 
@@ -795,13 +675,13 @@ Introduction: Sociology and psychology correct institutional accounts by explain
 
 **Question:** Evaluate the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models. Answer in 250 words.
 
-**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models in the opening line, carry the argument on Introduction, Interdisciplinary, Core and History, and reserve the closing sentences for the qualification that conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre.
+**Demand decode:** Evaluate separate discipline-specific mechanisms, Easton’s and Lasswell’s borrowed models and risks of reductionism.
 
 **Model answer (223 words):**
 
 Introduction: Interdisciplinary political analysis responds to the fact that political action occurs within overlapping historical, economic, social, psychological and normative environments. Core analysis: History verifies claims through sequences and cases; economics reveals scarcity, production and distribution; sociology explains groups, norms and participation; psychology studies attitudes, learning and leadership; philosophy clarifies obligation, justice and policy ends. Anthropology tests state-centred assumptions through non-state authority, law supplies formal texts and judicial reasoning, and geography reveals the territorial distribution of power and resources. Political science also borrows models: Easton's system comes from general systems thinking, structural-functionalism from sociology and anthropology, Lasswell's problem-solving orientation from psychology and decision theory, and base-superstructure analysis from political economy. Further development: A full evaluation must distinguish data from models and explanation from evaluation. Literacy, income, kinship, attitudes, legal rules and regional distribution are data drawn from different disciplines; systems, structural-functional, market, elite and problem-solving frameworks organise causal interpretation. Philosophy then asks whether the resulting institutions and policies are justified. The approach is not automatically superior merely because it contains more variables. Explanations become incoherent when causal levels are mixed or evidence is imported without relevance. Gauba's remedy is integrated verification without merger and purposeful retention of the political question. Conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre.
 
-**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinary, Core and History), converts that evidence into analysis of the interdisciplinary approach to political analysis with reference to major disciplines and borrowed models, and keeps the examiner-facing qualification that conclusion: Interdisciplinary analysis is strongest as structured integration: multiple disciplines correct one another's blind spots while the political problem remains the organising centre. At 223 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Easton and Lasswell provide distinct borrowed models; anthropology, law and geography supplement Gauba’s five central contributors without confusing data with causal frames.
 
 ---
 
@@ -809,12 +689,12 @@ Introduction: Interdisciplinary political analysis responds to the fact that pol
 
 **Question:** Does interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss. Answer in 250 words.
 
-**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss in the opening line, carry the argument on Introduction, Interdisciplinarity, Core and History, and reserve the closing sentences for the qualification that yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged.
+**Demand decode:** Critically assess the subject-matter dissolution objection; show how integration without merger permits both cross-checking and autonomy.
 
-**Model answer (250 words):**
+**Model answer (244 words):**
 
-Introduction: Interdisciplinarity appears to threaten autonomy because political science borrows much of its evidence and many models from neighbouring disciplines. Core analysis: The threat is real when economics reduces politics to bargaining or class, psychology to personality, sociology to system maintenance, law to formal rules, or geography to spatial destiny. A discipline that merely aggregates these accounts loses a distinct explanatory task. Yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. History, economics, sociology, psychology, philosophy, anthropology, law and geography then become evidence routes organised around that problem. Borrowed models such as Easton's system or Lasswell's problem-solving framework remain political when adapted to political actors, institutions and consequences. Further development: The Indian application can remain conceptual. Analysis of democratic durability may combine historical institution-building, economic inequality, caste or community structures, mass attitudes, constitutional law and territorial diversity. The 29 June 2026 release of MoSPI's SDG National Indicator Framework Progress Report offers a current evidence anchor because it organises time-series indicators across all seventeen SDGs for monitoring and policy. Such a framework illustrates interdisciplinary evidence, not a self-interpreting political conclusion. Indicator selection, distributional priorities, accountability and the meaning of development still require political and philosophical judgment. Purposeful integration deepens political science; uncritical merger or single-discipline reduction threatens it. Conclusion: Interdisciplinarity deepens rather than dissolves political science when borrowing is selective, reductionism is resisted and the discipline retains responsibility for political explanation and evaluation.
+Introduction: Interdisciplinarity appears to threaten autonomy because political science borrows much of its evidence and many models from neighbouring disciplines. Core analysis: The threat is real when economics reduces politics to bargaining or class, psychology to personality, sociology to system maintenance, law to formal rules, or geography to spatial destiny. A discipline that merely aggregates these accounts loses a distinct explanatory task. Yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. History, economics, sociology, psychology, philosophy, anthropology, law and geography then become evidence routes organised around that problem. Borrowed models such as Easton's system or Lasswell's problem-solving framework remain political when adapted to political actors, institutions and consequences. Further development: The Indian application can remain conceptual. Analysis of democratic durability may combine historical institution-building, economic inequality, caste or community structures, mass attitudes, constitutional law and territorial diversity. An inter-state river-water dispute illustrates this method: geography maps the basin, economics assesses competing uses, law identifies formal claims and political analysis asks how authorities negotiate a binding settlement. None of these inputs alone determines whether the distribution is just. The example is analytical, not a claim about any particular dispute's outcome. Purposeful integration deepens political science; uncritical merger or single-discipline reduction threatens it. Conclusion: Interdisciplinarity deepens rather than dissolves political science when borrowing is selective, reductionism is resisted and the discipline retains responsibility for political explanation and evaluation.
 
-**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Interdisciplinarity, Core and History), converts that evidence into analysis of interdisciplinarity deepen or threaten the autonomy of political science? Critically discuss, and keeps the examiner-facing qualification that yet political science asks a question none of them settles alone: how power, authority and conflict produce collectively binding decisions and how those decisions should be judged. At 250 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Easton’s systems and Lasswell’s problem-solving remain political only when their borrowed tools explain authority; the Indian river-water illustration tests integrated explanation without alleging a specific outcome.
 
 ---

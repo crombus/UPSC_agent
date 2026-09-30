@@ -6,1137 +6,601 @@ topic_key: science-and-technology-09
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies AI-taxonomy boundary?
+### Unsolved questions — attempt all before opening the key
 
-A. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-B. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-C. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+### Q1. A multilingual farmer advisory predicts a pest outbreak from labelled past outbreaks. Which classification is most exact?
 
-**Answer: A.**
-**Explanation:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Supervised machine learning for prediction.
+B. Unsupervised clustering of unlabelled fields.
+C. Reinforcement learning from an agent's rewards.
+D. A generative model necessarily producing images.
 
-### Q2. Which option preserves the technical boundary of AI-taxonomy boundary?
+### Q2. A health chatbot writes a convincing but fabricated drug contraindication. What is the first epistemic safeguard?
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+A. Raise the sampling temperature to improve correctness.
+B. Ground each claim in checked clinical sources and retain clinician review.
+C. Use a larger GPU cluster so every answer becomes factual.
+D. Treat confident output as a medical record.
 
-**Answer: B.**
-**Explanation:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. A model scores highly on a hospital benchmark but performs badly after deployment in a district clinic. Which missing test best explains the gap?
 
-### Q3. Which statement uses AI-taxonomy boundary without changing its institution, unit or status?
+A. Another run on the identical benchmark split.
+B. More press coverage of the vendor's benchmark.
+C. External validation on local patients and workflow monitoring.
+D. Counting training accelerators instead of patient outcomes.
 
-A. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-B. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-C. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+### Q4. A model predicts welfare eligibility from income proxies. Why should a public authority not treat a high score as causal proof?
 
-**Answer: C.**
-**Explanation:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Correlation establishes the legal basis for denying a benefit.
+B. A probability is the same as observed income.
+C. Any score above one-half establishes fairness across groups.
+D. Proxy correlations may encode exclusion; reasons and human review remain necessary.
 
-### Q4. Which option avoids the standard UPSC close-option trap about AI-taxonomy boundary?
+### Q5. One pre-trained model is adapted to several Indian-language services. Which risk travels across products?
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-C. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-D. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
+A. Shared training-data bias and licensing problems can propagate downstream.
+B. Every downstream interface inherits identical user consent automatically.
+C. All downstream uses become legally exempt once the model is trained.
+D. Adaptation erases the pre-training provenance.
 
-**Answer: D.**
-**Explanation:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. A procurement file says a model was 'selected' for a village grievance pilot. What may be concluded?
 
-### Q5. Which statement correctly identifies Capability-deployment boundary?
+A. The entire district's appeals are already automated.
+B. Selection occurred; functioning deployment and grievance outcomes need separate evidence.
+C. The model is legally binding because it was shortlisted.
+D. Selection certifies its accuracy for every Indian language.
 
-A. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-B. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-C. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+### Q7. Which actor is properly matched to the IndiaAI Mission's implementation?
 
-**Answer: A.**
-**Explanation:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. NITI Aayog as the mission's statutory regulator.
+B. The OECD as operator of India's compute procurement.
+C. IndiaAI, an Independent Business Division of Digital India Corporation, under MeitY.
+D. Every commercial model vendor as the mission's rule-maker.
 
-### Q6. Which option preserves the technical boundary of Capability-deployment boundary?
+### Q8. Which event corresponds to 7 March 2024 in the audited IndiaAI chronology?
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-C. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-D. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
+A. Promulgation of a standalone Indian Artificial Intelligence Act.
+B. Commissioning of every announced compute unit at every institution.
+C. Opening of every AIKosh dataset without licensing conditions.
+D. Union Cabinet approval of the IndiaAI Mission with an outlay of ₹10,371.92 crore.
 
-**Answer: B.**
-**Explanation:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. An exam claims the IndiaAI Innovation Centre and AIKosh are interchangeable. What is the correction?
 
-### Q7. Which statement uses Capability-deployment boundary without changing its institution, unit or status?
+A. Innovation Centre concerns model innovation; AIKosh is the data-platform pillar.
+B. Both are names for the national cyber-incident response agency.
+C. AIKosh alone enacts enforceable AI regulations.
+D. Innovation Centre is the legal consent manager under DPDP.
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-C. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-D. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
+### Q10. A researcher cites an IndiaAI headline of '18,000+ affordable AI compute units' as proof of exactly 18,000 deployed GPUs. What is wrong?
 
-**Answer: C.**
-**Explanation:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. The official target was exactly 18,000 foundational models.
+B. Compute units and GPUs are not equivalent measures, and availability is not proof of every deployment.
+C. An RFE is the same as 18,000 verified installations.
+D. An outlay in rupees can be read as a GPU inventory.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Capability-deployment boundary?
+### Q11. The IndiaAI compute RFE was issued on 16 August 2024; financial bids opened on 22 January 2025. What follows?
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-C. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
+A. All proposed models entered production on the RFE date.
+B. Bids constitute proof of end-user AI safety.
+C. Procurement advanced through distinct stages; neither date proves universal operational use.
+D. The consultation on governance thereby became binding law.
 
-**Answer: D.**
-**Explanation:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. A public developer downloads a dataset listed on AIKosh. Which inference is unwarranted?
 
-### Q9. Which statement correctly identifies Prediction-causation boundary?
+A. That its provenance and licence should be checked.
+B. That representativeness should be tested against target users.
+C. That access conditions may differ by dataset.
+D. That listing confers unrestricted reuse of all personal information for any purpose.
 
-A. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-B. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-C. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+### Q13. A state buys a Hindi-language foundation model to triage appeals. Which element belongs to the application rather than the model alone?
 
-**Answer: A.**
-**Explanation:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Case intake, human escalation, audit logs and grievance handling.
+B. Only the pre-training objective and weights.
+C. Only accelerator memory on a training cluster.
+D. Only the count of tokens used in pre-training.
 
-### Q10. Which option preserves the technical boundary of Prediction-causation boundary?
+### Q14. An official relies on AI to recommend denial of a ration claim. Which governance design is best?
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-C. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-D. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
+A. Delete records to prevent any future challenge.
+B. Preserve reviewable reasons, human override and accessible appeal.
+C. Provide no review because the model is probabilistic.
+D. Use vendor accuracy claims as the sole reason for refusal.
 
-**Answer: B.**
-**Explanation:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. At which stages should an impact assessment address bias in a public facial-recognition deployment?
 
-### Q11. Which statement uses Prediction-causation boundary without changing its institution, unit or status?
+A. Only after a complaint has been rejected.
+B. Only while buying the GPU servers.
+C. Problem framing, data, testing, procurement, use and post-use drift.
+D. Only when the model is first announced.
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-C. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-D. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
+### Q16. A system's average error falls but rural-language errors rise. Which assessment is appropriate?
 
-**Answer: C.**
-**Explanation:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Declare the system fair because aggregate accuracy improved.
+B. Suppress rural samples to improve the reported average.
+C. Assume no rights issue because predictions are automated.
+D. Disaggregate error by affected groups and test harm in the intended setting.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Prediction-causation boundary?
+### Q17. A vendor encrypts health records but uses them for an unrelated advertising model. What failed?
 
-A. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
+A. Lawful purpose and privacy governance, despite a security control.
+B. Encryption itself necessarily creates valid consent.
+C. Only cybersecurity failed; purpose never matters.
+D. The AI model must be a reinforcement learner.
 
-**Answer: D.**
-**Explanation:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. An apparently authentic speech is generated with a leader's voice. Which pairing is accurate?
 
-### Q13. Which statement correctly identifies Foundation-model boundary?
+A. A watermark proves every proposition in the speech is true.
+B. Provenance and disclosure address synthetic-media identification; IT Rules obligations depend on the notified rule.
+C. All synthetic speech is automatically protected against misinformation.
+D. A consultation report creates criminal liability by itself.
 
-A. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-B. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-C. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-D. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
+### Q19. How should one classify the MeitY AI-governance consultation that closed on 27 February 2025?
 
-**Answer: A.**
-**Explanation:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A binding statute enacted by Parliament that day.
+B. An order transferring IndiaAI management to NITI Aayog.
+C. A subcommittee report for consultation, not a standalone enacted AI law.
+D. A declaration that all AI products are certified safe.
 
-### Q14. Which option preserves the technical boundary of Foundation-model boundary?
+### Q20. What changed on 10 February 2026 in the sourced regulatory chronology?
 
-A. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-B. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
+A. Parliament enacted a comprehensive India AI Act.
+B. All world AI agreements became enforceable domestic law.
+C. The AIKosh platform replaced the Information Technology Act.
+D. G.S.R. 120(E) notified an amendment to IT Rules, 2021 concerning synthetically generated information.
 
-**Answer: B.**
-**Explanation:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. An IndiaAI Safe & Trusted AI invitation on 20 December 2024 is best described as what?
 
-### Q15. Which statement uses Foundation-model boundary without changing its institution, unit or status?
+A. A call for proposals under a mission pillar, not proof every safety tool was deployed.
+B. A judicial order declaring all generative models trustworthy.
+C. Final nationwide approval of every hospital chatbot.
+D. A repeal of intermediary duties.
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-D. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
+### Q22. Which comparison of India's AI governance and the EU AI Act is justified by the source?
 
-**Answer: C.**
-**Explanation:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. India has automatically transposed every EU risk tier into a national AI Act.
+B. EU risk tiers are a comparator; India relies on its own existing laws, rules, sectoral governance and guidance.
+C. The EU AI Act is an IndiaAI mission pillar.
+D. OECD principles supersede domestic IT Rules.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Foundation-model boundary?
+### Q23. A report describes the 2018 #AIforAll strategy as an IndiaAI Mission approval. Which correction is precise?
 
-A. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-B. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
+A. NITI Aayog approved the mission in 2018.
+B. The two documents are the same notification.
+C. NITI Aayog's 2018 strategy preceded the Cabinet's 2024 mission approval.
+D. MeitY issued the 2018 strategy as a binding AI Act.
 
-**Answer: D.**
-**Explanation:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. A tech company says its language model has 'solved' citizen complaints after passing a test set. Which additional indicator matters most?
 
-### Q17. Which statement correctly identifies Hallucination-boundary?
+A. Peak token throughput in isolation.
+B. Number of social-media demonstrations.
+C. Press-release length.
+D. Observed resolution quality, appeal reversals and error patterns in real casework.
 
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
+### Q25. In AI-assisted GIS planning, why combine drone imagery with field surveys?
 
-**Answer: A.**
-**Explanation:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Georeferenced classifications require ground truth before locational decisions.
+B. Satellite and drone pixels establish land rights directly.
+C. A polygon boundary automatically proves a household's consent.
+D. Every prediction is a legally adopted master plan.
 
-### Q18. Which option preserves the technical boundary of Hallucination-boundary?
+### Q26. An LLM suggests a high-yield crop pattern; what does its output establish?
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-C. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-D. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
+A. A causal guarantee that yield will rise in every district.
+B. A model-generated proposal requiring agronomic, local and outcome validation.
+C. That training texts are complete field experiments.
+D. That a token probability equals farmer income.
 
-**Answer: B.**
-**Explanation:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. An agent drafts a permit, calls a database API and submits it without review. What makes it agentic rather than merely generative?
 
-### Q19. Which statement uses Hallucination-boundary without changing its institution, unit or status?
+A. The presence of grammatical sentences in the draft.
+B. Its use of Unicode for permit names.
+C. Goal-directed planning and multi-step tool action with feedback.
+D. Its reliance on a large text corpus alone.
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+### Q28. Which control most directly limits a permit-processing agent's misuse of external tools?
 
-**Answer: C.**
-**Explanation:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Unlimited API permissions to prevent timeouts.
+B. Removing logs so sensitive errors disappear.
+C. Treating the agent as legally responsible instead of the deployer.
+D. Least-privilege API access, approval gates and auditable action logs.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Hallucination-boundary?
+### Q29. A ministry announces access to compute for startups. Which separate bottleneck may still prevent useful Indian-language AI?
 
-A. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-D. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
+A. Curated lawful datasets, evaluation and skilled teams.
+B. A compulsory ban on all language testing.
+C. The abolition of every sectoral regulator.
+D. Automatic elimination of local dialect variation.
 
-**Answer: D.**
-**Explanation:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. A model vendor offers a universal accuracy number for a tribal-language helpline. Which procurement demand is strongest?
 
-### Q21. Which statement correctly identifies IndiaAI-mission boundary?
+A. Only the vendor's English benchmark result.
+B. Disaggregated local-language tests, documented failure handling and service-level monitoring.
+C. Only the number of accelerator cards.
+D. A guarantee that no complaint can ever be appealed.
 
-A. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-B. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-C. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-D. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
+### Q31. A database has many records but few from remote districts. Which claim is sound?
 
-**Answer: A.**
-**Explanation:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. The largest dataset is automatically representative.
+B. More rows remove every source-licence restriction.
+C. Quantity does not ensure coverage; sampling bias may harm remote-district predictions.
+D. Bias disappears once data are stored on AIKosh.
 
-### Q22. Which option preserves the technical boundary of IndiaAI-mission boundary?
+### Q32. Which inference from the India AI Impact Summit held in New Delhi on 19–20 February 2026 is safe?
 
-A. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-B. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
+A. Every summit speech became an enforceable national rule.
+B. The summit itself installed all mission compute units.
+C. Attendance amounted to approval of all AI models.
+D. The event took place; binding domestic obligations require separate legal evidence.
 
-**Answer: B.**
-**Explanation:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. A 2025 AI Action Summit question mentions the Grand Palais in Paris. What must the answerer avoid?
 
-### Q23. Which statement uses IndiaAI-mission boundary without changing its institution, unit or status?
+A. Confusing that summit with India's New Delhi event in February 2026.
+B. Separating international summit participation from domestic law.
+C. Checking the place and date in the routed source.
+D. Withholding an objective answer letter without a verified final key.
 
-A. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+### Q34. Which audit evidence best distinguishes an AI-enabled public service from a research prototype?
 
-**Answer: C.**
-**Explanation:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A technical paper reporting training loss only.
+B. Operational uptime, documented decisions, local error audits and an appeal pathway.
+C. An announcement of a model-selection committee.
+D. A one-off demo without affected-user feedback.
 
-### Q24. Which option avoids the standard UPSC close-option trap about IndiaAI-mission boundary?
+### Q35. A government team asks whether a model's outputs are 'explainable'. Which answer is most defensible?
 
-A. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-D. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
+A. Publish weights and waive individual review automatically.
+B. Claim explainability merely because text sounds persuasive.
+C. Supply traceable case reasons and test limitations; a generic model explanation alone may not justify a denial.
+D. Use correlations as statutory findings of misconduct.
 
-**Answer: D.**
-**Explanation:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. Which procurement clause best addresses drift after deploying an AI-assisted crop-warning tool?
 
-### Q25. Which statement correctly identifies Implementation-institution boundary?
+A. Freeze evaluation at the launch benchmark forever.
+B. Count only the initial contract value.
+C. Dismiss complaints if original training accuracy was high.
+D. Specify seasonal performance checks, revalidation triggers and human escalation.
 
-A. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-B. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-C. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+## MATCHED SOLVED KEY
 
-**Answer: A.**
-**Explanation:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+Each explanation addresses all four options in the printed order; no answer is encoded in the question heading.
 
-### Q26. Which option preserves the technical boundary of Implementation-institution boundary?
+### Q1 — A
 
-A. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-B. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-C. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-D. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
+- **A:** Known outbreak labels provide training targets.
+- **B:** Clustering does not require outbreak labels.
+- **C:** No reward-driven sequential agent is described.
+- **D:** Prediction need not generate synthetic content.
+- **Trap:** A use case does not identify the training paradigm; inspect the labels.
 
-**Answer: B.**
-**Explanation:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q2 — B
 
-### Q27. Which statement uses Implementation-institution boundary without changing its institution, unit or status?
+- **A:** More randomness can increase variation, not prove truth.
+- **B:** Source verification and professional review test claims independently.
+- **C:** Compute changes throughput, not epistemic validity.
+- **D:** Fluency and confidence are not clinical evidence.
+- **Trap:** Grounding reduces risk but never replaces clinical validation.
 
-A. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-B. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-C. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+### Q3 — C
 
-**Answer: C.**
-**Explanation:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Repeating the same split cannot detect new-site shift.
+- **B:** Publicity does not measure clinical errors.
+- **C:** Distribution shift and workflow errors demand local testing.
+- **D:** Compute supply is distinct from patient safety.
+- **Trap:** Benchmark accuracy is not a deployment licence.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Implementation-institution boundary?
+### Q4 — D
 
-A. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-D. MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
+- **A:** A statistical association is not a legal finding.
+- **B:** Predictions are not verified household facts.
+- **C:** Aggregate score thresholds do not establish group fairness.
+- **D:** Scores reflect learned associations and require an accountable decision.
+- **Trap:** Separate prediction, causal explanation and administrative justification.
 
-**Answer: D.**
-**Explanation:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q5 — A
 
-### Q29. Which statement correctly identifies Pillar-status boundary?
+- **A:** A common base may transmit upstream defects.
+- **B:** Consent is use- and purpose-specific, not inherited by interface.
+- **C:** Pre-training never creates a blanket legal exemption.
+- **D:** Adaptation does not undo the base model's origin.
+- **Trap:** Model, product, dataset and deployer are distinct units.
 
-A. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Pilot selection does not establish district-wide use.
+- **B:** Selection is a procurement rung, not measured operation.
+- **C:** A procurement choice is not a statute.
+- **D:** Language coverage requires validation data.
+- **Trap:** Do not turn proposal, selection or pilot into measured impact.
 
-### Q30. Which option preserves the technical boundary of Pillar-status boundary?
+### Q7 — C
 
-A. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-B. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-C. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+- **A:** NITI's 2018 strategy authorship is a different role.
+- **B:** OECD principles do not procure India's infrastructure.
+- **C:** The owner distinguishes MeitY and IndiaAI/DIC implementation.
+- **D:** Private vendors do not issue mission rules.
+- **Trap:** Distinguish authoring #AIforAll from implementing IndiaAI.
 
-**Answer: B.**
-**Explanation:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q8 — D
 
-### Q31. Which statement uses Pillar-status boundary without changing its institution, unit or status?
+- **A:** India has no standalone AI Act in the cited source.
+- **B:** Approval does not establish universal commissioning.
+- **C:** Mission approval does not eliminate data-access conditions.
+- **D:** The dated Cabinet approval and stated outlay are documented.
+- **Trap:** Outlay is approval, not expenditure or outcome.
 
-A. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+### Q9 — A
 
-**Answer: C.**
-**Explanation:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Separate pillars address innovation and datasets.
+- **B:** Neither is CERT-In.
+- **C:** A data platform does not make binding rules.
+- **D:** Consent manager is a separate privacy-law role.
+- **Trap:** Seven pillars are distinct functions, not seven synonyms.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Pillar-status boundary?
+### Q10 — B
 
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-C. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-D. A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
+- **A:** Model counts are a different dimension entirely.
+- **B:** Preserve the published unit and the announcement's status.
+- **C:** A request for empanelment is not installed equipment.
+- **D:** Money cannot substitute for a hardware count.
+- **Trap:** Compare the 10,000-GPU objective with compute-unit announcements only after checking units.
 
-**Answer: D.**
-**Explanation:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q11 — C
 
-### Q33. Which statement correctly identifies Compute-measure boundary?
+- **A:** RFE issuance does not demonstrate deployed models.
+- **B:** Bids do not evaluate downstream safety outcomes.
+- **C:** An RFE and bid opening are procurement events.
+- **D:** Procurement has no power to enact legal duties.
+- **Trap:** Read process dates as process, not performance.
 
-A. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+### Q12 — D
 
-**Answer: A.**
-**Explanation:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Provenance review is required for reliable model building.
+- **B:** Sampling bias affects local generalisation.
+- **C:** Access controls can be dataset-specific.
+- **D:** Platform listing cannot erase lawful-purpose and licence constraints.
+- **Trap:** Data availability is not permission to ignore privacy.
 
-### Q34. Which option preserves the technical boundary of Compute-measure boundary?
+### Q13 — A
 
-A. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-B. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-C. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+- **A:** A deployed service includes workflow and accountability controls.
+- **B:** Weights are model-level components.
+- **C:** Hardware memory describes compute, not appeal workflow.
+- **D:** Token count describes training scale, not grievance redress.
+- **Trap:** Do not equate a component with the full public service.
 
-**Answer: B.**
-**Explanation:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q14 — B
 
-### Q35. Which statement uses Compute-measure boundary without changing its institution, unit or status?
+- **A:** Destroying logs prevents audit.
+- **B:** Affected persons need contestability and traceable decisions.
+- **C:** Probabilistic uncertainty heightens need for review.
+- **D:** Population accuracy cannot justify an individual adverse decision.
+- **Trap:** Decision support does not shift the state's responsibility to code.
 
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-C. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+### Q15 — C
 
-**Answer: C.**
-**Explanation:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Post-complaint assessment misses prevention.
+- **B:** Hardware procurement is one part of a wider workflow.
+- **C:** Risk arises and changes over the full lifecycle.
+- **D:** Announcement does not reveal field performance.
+- **Trap:** Governance must continue after initial validation.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Compute-measure boundary?
+### Q16 — D
 
-A. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-B. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
+- **A:** Mean performance is not equal treatment.
+- **B:** Removing difficult cases hides, rather than solves, exclusion.
+- **C:** Automation does not immunise decisions from scrutiny.
+- **D:** Aggregate performance can hide unequal group harms.
+- **Trap:** Accuracy, fairness and privacy are separate questions.
 
-**Answer: D.**
-**Explanation:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q17 — A
 
-### Q37. Which statement correctly identifies AIKosh-data boundary?
+- **A:** Security against unauthorised access does not authorise secondary use.
+- **B:** Encryption does not establish lawful processing.
+- **C:** Purpose limitation concerns privacy, not just breaches.
+- **D:** Learning paradigm is irrelevant to lawful reuse.
+- **Trap:** Privacy and security are complementary, not interchangeable.
 
-A. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Watermarks address origin, not semantic truth.
+- **B:** Traceability and legal duties address distinct problems.
+- **C:** Synthetic output may be deceptive.
+- **D:** A non-binding consultation cannot create offences.
+- **Trap:** Check actual G.S.R. 120(E) text and effective date before claiming a particular duty.
 
-### Q38. Which option preserves the technical boundary of AIKosh-data boundary?
+### Q19 — C
 
-A. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-B. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
+- **A:** Reports are not Acts of Parliament.
+- **B:** Strategy authorship does not imply mission transfer.
+- **C:** Consultation status and enforceability are different.
+- **D:** Consultation provides no blanket product certification.
+- **Trap:** Distinguish principles, advisory, rules and primary legislation.
 
-**Answer: B.**
-**Explanation:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q20 — D
 
-### Q39. Which statement uses AIKosh-data boundary without changing its institution, unit or status?
+- **A:** No separate AI statute is evidenced.
+- **B:** International events do not legislate for India.
+- **C:** A dataset platform cannot repeal an Act.
+- **D:** The cited gazette instrument is subordinate legislation under the IT Act.
+- **Trap:** Notified amendment, reported effective 20 February, is not a new Act.
 
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-C. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-D. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
+### Q21 — A
 
-**Answer: C.**
-**Explanation:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** An EoI starts or advances project selection.
+- **B:** A call for proposals is not a court judgment.
+- **C:** It does not certify untested applications.
+- **D:** It does not repeal IT Rules.
+- **Trap:** Invitation, funding, prototype and adoption are separate stages.
 
-### Q40. Which option avoids the standard UPSC close-option trap about AIKosh-data boundary?
+### Q22 — B
 
-A. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
+- **A:** Comparative policy is not domestic enactment.
+- **B:** External approaches can inform analysis without changing domestic legal status.
+- **C:** EU legislation is not an IndiaAI pillar.
+- **D:** OECD principles do not repeal Indian rules.
+- **Trap:** Avoid jurisdictional transplants.
 
-**Answer: D.**
-**Explanation:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q23 — C
 
-### Q41. Which statement correctly identifies Use-case-model boundary?
+- **A:** Strategy authorship is not Cabinet approval.
+- **B:** A strategy and approval cannot be merged.
+- **C:** The strategy and Cabinet mission differ in author, date and status.
+- **D:** Neither establishes a 2018 AI statute.
+- **Trap:** Trace actor, instrument and year together.
 
-A. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-B. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+### Q24 — D
 
-**Answer: A.**
-**Explanation:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Throughput says little about correctness or recourse.
+- **B:** Demos are not field validation.
+- **C:** Length of announcement has no evaluative value.
+- **D:** Operational outcomes and harms test the actual claim.
+- **Trap:** Evaluation must match the claimed public outcome.
 
-### Q42. Which option preserves the technical boundary of Use-case-model boundary?
+### Q25 — A
 
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-C. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-D. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
+- **A:** On-ground checks validate changing or misclassified conditions.
+- **B:** Imagery does not decide property rights.
+- **C:** Geospatial geometry is not consent.
+- **D:** Prediction differs from statutory plan adoption.
+- **Trap:** GIS is an evidence layer, not a substitute for due process.
 
-**Answer: B.**
-**Explanation:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q26 — B
 
-### Q43. Which statement uses Use-case-model boundary without changing its institution, unit or status?
+- **A:** Causality needs appropriate evidence.
+- **B:** A plausible answer remains a hypothesis for field assessment.
+- **C:** Text corpora are not controlled local trials.
+- **D:** Model probabilities are not economic outcomes.
+- **Trap:** The 2026 objective demand tests probabilistic prediction versus verified results.
 
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-C. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
+### Q27 — C
 
-**Answer: C.**
-**Explanation:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Text generation alone does not execute the workflow.
+- **B:** Encoding is not agency.
+- **C:** Action loops and tool use change the operational risk.
+- **D:** Training scale is not autonomous execution.
+- **Trap:** Separate generation, planning and authorised action.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Use-case-model boundary?
+### Q28 — D
 
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-D. An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
+- **A:** Broad rights enlarge the blast radius.
+- **B:** Absent logs obstruct investigation.
+- **C:** The deploying institution retains accountability.
+- **D:** Permissions and oversight limit and trace consequential acts.
+- **Trap:** An agent's autonomy does not create legal personhood.
 
-**Answer: D.**
-**Explanation:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q29 — A
 
-### Q45. Which statement correctly identifies Decision-support boundary?
+- **A:** Compute alone cannot supply quality data and validation.
+- **B:** Banning tests reduces reliability.
+- **C:** Regulatory context still matters.
+- **D:** Linguistic variation remains a modelling challenge.
+- **Trap:** Treat compute, data, skills and deployment as separate constraints.
 
-A. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-B. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
+### Q30 — B
 
-**Answer: A.**
-**Explanation:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** English tests may miss relevant language shift.
+- **B:** Local testing and monitored redress address the target use.
+- **C:** Hardware inventory does not measure service quality.
+- **D:** Appeals must remain possible.
+- **Trap:** A single headline metric cannot certify equitable service.
 
-### Q46. Which option preserves the technical boundary of Decision-support boundary?
+### Q31 — C
 
-A. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-B. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-C. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-D. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
+- **A:** Size alone cannot repair missing subgroups.
+- **B:** Volume does not grant use rights.
+- **C:** Representativeness depends on the target population.
+- **D:** Storage location does not fix the sample.
+- **Trap:** Ask whose data are missing.
 
-**Answer: B.**
-**Explanation:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q32 — D
 
-### Q47. Which statement uses Decision-support boundary without changing its institution, unit or status?
+- **A:** Speeches are not automatically legislation.
+- **B:** Hosting does not prove infrastructure installation.
+- **C:** Attendance does not certify products.
+- **D:** The sourced date and venue support an event claim only.
+- **Trap:** Do not invent declaration clauses or outcomes.
 
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-D. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
+### Q33 — A
 
-**Answer: C.**
-**Explanation:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** The two events differ by location and year.
+- **B:** This is sound legal-status discipline, not a mistake.
+- **C:** Checking provenance prevents conflation.
+- **D:** A keyless PYQ should remain answer-free.
+- **Trap:** A verified event identity is not an official objective key.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Decision-support boundary?
+### Q34 — B
 
-A. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-D. AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
+- **A:** Training metrics do not show service reliability.
+- **B:** Production use needs measured operations and redress.
+- **C:** Selection is pre-deployment status.
+- **D:** A demo cannot establish citizen outcomes.
+- **Trap:** Name the maturity rung before citing impact.
 
-**Answer: D.**
-**Explanation:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q35 — C
 
-### Q49. Which statement correctly identifies Risk-lifecycle boundary?
+- **A:** Weights do not themselves give accessible reasons.
+- **B:** Persuasive prose may be fabricated.
+- **C:** Case-level intelligibility and due process matter beyond model introspection.
+- **D:** Statistical links cannot replace lawful findings.
+- **Trap:** Explainability is not the same as a reviewable administrative reason.
 
-A. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
+### Q36 — D
 
-**Answer: A.**
-**Explanation:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q50. Which option preserves the technical boundary of Risk-lifecycle boundary?
-
-A. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-B. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-C. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-
-**Answer: B.**
-**Explanation:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q51. Which statement uses Risk-lifecycle boundary without changing its institution, unit or status?
-
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-C. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-
-**Answer: C.**
-**Explanation:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Risk-lifecycle boundary?
-
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-C. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-D. AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-
-**Answer: D.**
-**Explanation:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q53. Which statement correctly identifies Bias-fairness boundary?
-
-A. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-B. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-C. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-
-**Answer: A.**
-**Explanation:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q54. Which option preserves the technical boundary of Bias-fairness boundary?
-
-A. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-B. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-C. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-D. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-
-**Answer: B.**
-**Explanation:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q55. Which statement uses Bias-fairness boundary without changing its institution, unit or status?
-
-A. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-B. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-C. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-D. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-
-**Answer: C.**
-**Explanation:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Bias-fairness boundary?
-
-A. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-B. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-C. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-D. Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-
-**Answer: D.**
-**Explanation:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Privacy-security boundary?
-
-A. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-B. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-C. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-
-**Answer: A.**
-**Explanation:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Privacy-security boundary?
-
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-C. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-D. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-
-**Answer: B.**
-**Explanation:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Privacy-security boundary without changing its institution, unit or status?
-
-A. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-B. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-C. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: C.**
-**Explanation:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Privacy-security boundary?
-
-A. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-D. Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-
-**Answer: D.**
-**Explanation:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Deepfake-instrument boundary?
-
-A. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-B. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-C. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-D. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-
-**Answer: A.**
-**Explanation:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Deepfake-instrument boundary?
-
-A. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-B. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-C. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-D. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-
-**Answer: B.**
-**Explanation:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Deepfake-instrument boundary without changing its institution, unit or status?
-
-A. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: C.**
-**Explanation:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Deepfake-instrument boundary?
-
-A. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-D. Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-
-**Answer: D.**
-**Explanation:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Guideline-law boundary?
-
-A. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-B. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-C. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: A.**
-**Explanation:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Guideline-law boundary?
-
-A. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-B. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-C. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-D. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-
-**Answer: B.**
-**Explanation:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Guideline-law boundary without changing its institution, unit or status?
-
-A. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-B. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-C. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-
-**Answer: C.**
-**Explanation:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Guideline-law boundary?
-
-A. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-B. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-C. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-D. An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-
-**Answer: D.**
-**Explanation:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Procurement-accountability boundary?
-
-A. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: A.**
-**Explanation:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Procurement-accountability boundary?
-
-A. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-B. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-C. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-
-**Answer: B.**
-**Explanation:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Procurement-accountability boundary without changing its institution, unit or status?
-
-A. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-B. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-C. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-D. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-
-**Answer: C.**
-**Explanation:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Procurement-accountability boundary?
-
-A. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-B. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-C. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-D. Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-
-**Answer: D.**
-**Explanation:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies Sectoral-governance boundary?
-
-A. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-B. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-C. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: A.**
-**Explanation:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of Sectoral-governance boundary?
-
-A. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-B. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-C. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-D. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-
-**Answer: B.**
-**Explanation:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses Sectoral-governance boundary without changing its institution, unit or status?
-
-A. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-B. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-C. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-
-**Answer: C.**
-**Explanation:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Sectoral-governance boundary?
-
-A. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-B. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-C. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-D. AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-
-**Answer: D.**
-**Explanation:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile-mission boundary?
-
-A. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-B. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-C. Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-
-**Answer: A.**
-**Explanation:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile-mission boundary?
-
-A. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-B. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-C. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-D. A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-
-**Answer: B.**
-**Explanation:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile-mission boundary without changing its institution, unit or status?
-
-A. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-B. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-C. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-D. AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-
-**Answer: C.**
-**Explanation:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile-mission boundary?
-
-A. IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-B. A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-C. Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-D. Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Answer: D.**
-**Explanation:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Launch performance cannot cover later seasons.
+- **B:** Spending measures neither drift nor safety.
+- **C:** Field reports can reveal distribution change.
+- **D:** Inputs and environment change, requiring ongoing assurance.
+- **Trap:** Public-sector accountability continues after purchase.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ DEMAND CARD — 2020 Prelims GS-I Q38 (objective; no final key held)
+**Demand:** Current AI capabilities in industry and society. **Direct concept solution:** Distinguish pattern classification/prediction, optimisation and robotic assistance from unverified universal claims of autonomy or truth. An example such as an industrial inspection classifier supports capability only where task and observed evidence match; it does not establish unrestricted legal or medical decision-making. Match each original statement against its exact wording and verified key before assigning any option. The 2018–2023 routing ledger has no official key here; no answer letter is supplied.
 
-Audited ledgers route the 2020 AI-capability objective concept, the 2023 clinical-diagnosis/privacy Mains demand and the 2025 AI-drones-GIS planning demand here. No objective key, model claim or summit outcome is invented.
+### PYQ DEMAND CARD — 2023 GS-III (clinical AI and privacy)
+**Demand:** Discuss AI in clinical diagnosis and threats to individual privacy. **Direct model:** Clinical AI can flag abnormalities in images, rank differential diagnoses and support triage; the clinician retains responsibility for confirmation and treatment. For instance, a district-hospital image classifier trained on urban data may miss local disease presentations or image quality: external validation, calibration and subgroup testing must precede use. Health records are sensitive in substance; access, purpose, retention and patient notice must be governed separately from accuracy. Encryption and restricted roles deter unauthorised access, but do not legitimate unrelated secondary training or discriminatory decisions. An audit trail, informed clinical review, correction of records, breach response and patient grievance route link technological benefit to accountability. Thus faster screening can expand capacity without converting a benchmark into a clinical licence or treating privacy as merely a cybersecurity problem.
 
-### PYQ DEMAND CARD 1 — 2020 Prelims GS-I
+### PYQ DEMAND CARD — 2025 GS-I Q15 (15 marks, 250 words)
+**Demand:** Discuss AI and drones with GIS/remote sensing in locational and areal planning. **Direct model:** Remote sensing provides repeated regional observations; drones can capture finer local imagery; GIS aligns these layers with land use, terrain and infrastructure. AI classifies cover or predicts growth from these inputs, allowing planners to compare flood exposure and service access before siting roads or clinics. In an Indian district, satellite flood maps and drone drainage observations could guide a proposed health-centre location. However, image resolution, seasonal change, georeferencing errors and biased training samples can misclassify informal settlements. Ground surveys and participatory mapping must verify model output. Legal land tenure, environmental approvals and distributional fairness remain administrative questions, not pixel labels. Maintain metadata, uncertainty maps, human review and appeals for affected residents. These tools improve the evidence base and speed of comparing alternatives, but the resulting plan must be checked and lawfully adopted by accountable authorities.
 
-**Demand:** Assess current AI capabilities across industry and society.
+### PYQ DEMAND CARD — 2026 GS-III Q16 (15 marks, 250 words)
+**Demand:** Define agentic AI; explain working, uses, benefits and risks. **Direct model:** Agentic AI pursues a human-set objective through a multi-step loop rather than merely answering one prompt. It perceives context, reasons over it, plans sub-tasks, invokes authorised tools/APIs, checks the outcome and revises the next action; persistent task memory may connect steps. An agent could retrieve missing forms, prepare a draft permit and route exceptions to an official. It can coordinate repetitive workflows and speed service, but bad instructions, unreliable retrieved data or a compromised tool may cascade into erroneous filings or unauthorised access. Restrict permissions, sandbox tools, log actions, test failures and require human approval for consequential steps. Responsibility remains with deployers and public authorities, not with the software agent. The routed official-paper question is descriptive; this is an independent model, not a claim to an official answer.
 
-**Status:** Verified routed objective concept; the official key was unavailable locally, so no answer letter is asserted.
-
-**Model solution:** **AI-taxonomy boundary:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2020 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **AI-taxonomy boundary:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess current AI capabilities across industry and society. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed objective concept; the official key was unavailable locally, so no answer letter is asserted. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **AI-taxonomy boundary:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 2 — 2023 GS-III
-
-**Demand:** Discuss AI in clinical diagnosis and threats to individual privacy.
-
-**Status:** Verified routed Mains demand; the solution separates decision support, privacy, safety and clinician accountability.
-
-**Model solution:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Privacy-security boundary:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Sectoral-governance boundary:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2023 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Privacy-security boundary:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Sectoral-governance boundary:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss AI in clinical diagnosis and threats to individual privacy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; the solution separates decision support, privacy, safety and clinician accountability. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Privacy-security boundary:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Sectoral-governance boundary:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2023 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### PYQ DEMAND CARD 3 — 2025 GS-I
-
-**Demand:** Discuss AI and drones with GIS and remote sensing in locational and areal planning.
-
-**Status:** Verified routed Mains demand; the solution treats AI as decision support and retains validation, ground-truth and public-accountability limits.
-
-**Model solution:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Risk-lifecycle boundary:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2025 GS-I”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Risk-lifecycle boundary:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss AI and drones with GIS and remote sensing in locational and areal planning. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; the solution treats AI as decision support and retains validation, ground-truth and public-accountability limits. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Capability-deployment boundary:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Prediction-causation boundary:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Use-case-model boundary:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Decision-support boundary:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Risk-lifecycle boundary:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2025 GS-I”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+### PYQ DEMAND CARDS — 2025 Prelims GS-I Q95; 2026 Prelims GS-I Q42 and Q65 (answer-free)
+**Demand and route:** Q95 distinguishes the Paris AI Action Summit (Grand Palais, February 2025) from domestic law; Q42 concerns probabilistic LLM prediction, optimisation and output bias; Q65 concerns the India AI Impact Summit 2026 and governance principles. The 2026 Set-A key held in the ledger is provisional. The documented New Delhi meeting on 19–20 February 2026 does not by itself verify any particular declaration clause. Apply the distinctions to the actual original statements; **no final objective answer or invented summit provision is asserted**.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish AI, machine learning, deep learning and generative AI. Answer in about 150 words.
+**Question:** Distinguish AI, machine learning, deep learning and generative AI in a district administration use case. Answer in 150 words.
 
-**Model thesis:** **Claim:** AI-taxonomy boundary. **Named evidence/example:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Prediction-causation boundary. **Named evidence/example:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Foundation-model boundary. **Named evidence/example:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hallucination-boundary. **Named evidence/example:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task.
-- AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification.
-- A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it.
-- Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary.
-
-**Qualified conclusion:** **Claim:** AI-taxonomy boundary. **Named evidence/example:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Prediction-causation boundary. **Named evidence/example:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Foundation-model boundary. **Named evidence/example:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hallucination-boundary. **Named evidence/example:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish AI, machine learning, deep learning and generative AI. Answer in about 150 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** AI-taxonomy boundary. **Named evidence/example:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Prediction-causation boundary. **Named evidence/example:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Foundation-model boundary. **Named evidence/example:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hallucination-boundary. **Named evidence/example:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** AI-taxonomy boundary. **Named evidence/example:** Artificial intelligence is the umbrella, machine learning learns patterns from data, deep learning uses multilayer neural networks and generative AI produces content; capability claims must identify the actual method and task. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Prediction-causation boundary. **Named evidence/example:** AI systems often generate probabilistic predictions or outputs from learned patterns; confidence and correlation do not establish verified truth, causation, fairness or legal justification. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Foundation-model boundary. **Named evidence/example:** A foundation model is pretrained for broad downstream adaptation, so data, licence, bias and safety failures can propagate to many applications; a model is not identical with every product built on it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hallucination-boundary. **Named evidence/example:** Generative AI can produce fluent false content because it predicts plausible continuations rather than retrieving verified truth; grounding, citations, human review and outcome monitoring remain necessary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish AI, machine learning, deep learning and generative AI. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Artificial intelligence is an umbrella for systems performing tasks associated with learning, inference or decision support; the categories are not four mutually exclusive laws. Machine learning fits patterns from data: a district crop-warning system may learn pest risk from labelled past outbreaks. Deep learning is machine learning using layered neural networks, for instance analysing a large set of field images. Generative AI creates new text, images or other content; a multilingual assistant might draft an advisory from retrieved agronomy guidance. The categories identify methods, not proof that the advisory is correct. A foundation model may be adapted across tasks, while an interface, verified local data, human agronomists and farmer feedback form the actual service. Ground the generated advice in checked sources, test errors by region and season and flag uncertainty before dissemination. Therefore administrative value turns on fit-for-purpose validation and accountable use, not merely whether a product bears the label 'AI'.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain why model capability is not the same as accountable deployment. Answer in about 150 words.
+**Question:** Explain why model capability is not equivalent to accountable welfare deployment. Answer in 150 words.
 
-**Model thesis:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-- An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-- AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-
-**Qualified conclusion:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why model capability is not the same as accountable deployment. Answer in about 150…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain why model capability is not the same as accountable deployment. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** A high benchmark score measures a model on a specified dataset; an operational welfare decision also requires a lawful workflow and accessible remedy. Consider a ration-claim classifier trained on city applications. Its accuracy may fall for remote households, where missing documents or language variations are common. Test on representative district cases, disaggregate error by group and check false denials before rollout. The public authority must define the legal decision criterion, record the input evidence, give intelligible reasons and allow an official to override erroneous recommendations. Procurement should specify audit access, security, drift monitoring and an appeal channel, while the vendor supplies technical evidence without inheriting the state's duty to decide fairly. Monitoring actual denials and reversal rates is stronger evidence than announcing a successful pilot. Thus model, dataset, application and accountable decision are distinct; assistance can improve speed but cannot make an adverse decision self-justifying. A wrong denial can be measured in reversed appeals, not just in a vendor's accuracy report.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Describe IndiaAI as a mission ecosystem while preserving pillar and implementation status. Answer in about 250 words.
+**Question:** Analyse how the seven IndiaAI pillars address different bottlenecks and why an approved outlay is not a measured outcome. Answer in 250 words.
 
-**Model thesis:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Pillar-status boundary. **Named evidence/example:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compute-measure boundary. **Named evidence/example:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-- MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-- A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence.
-- A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition.
-- AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-
-**Qualified conclusion:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Pillar-status boundary. **Named evidence/example:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compute-measure boundary. **Named evidence/example:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **describe** requires a direct position on “Describe IndiaAI as a mission ecosystem while preserving pillar and implementation status.…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Pillar-status boundary. **Named evidence/example:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compute-measure boundary. **Named evidence/example:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Pillar-status boundary. **Named evidence/example:** A mission pillar identifies an implementation domain, not a completed output; approval, expression of interest, empanelment, procurement, model proposal, deployment and measured outcome require separate evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compute-measure boundary. **Named evidence/example:** A GPU objective, empanelled capacity, affordable compute unit, booked service and physically deployed accelerator are different measures; no number can be converted into another without an official definition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Describe IndiaAI as a mission ecosystem while preserving pillar and implementation status.…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** IndiaAI is an ecosystem mission approved by the Union Cabinet on 7 March 2024 with a stated ₹10,371.92-crore outlay. MeitY anchors the programme; IndiaAI within Digital India Corporation implements it, unlike NITI Aayog's earlier #AIforAll strategy role. Its seven pillars address complementary but non-substitutable constraints. Compute Capacity tackles access to accelerators for training and inference; AIKosh concerns discoverable datasets, whose provenance and lawful access still require scrutiny. The Innovation Centre supports model development, while the Application Development Initiative links research to problem-specific solutions. Startup Financing eases capital constraints; FutureSkills develops human capability; Safe & Trusted AI addresses risk, standards and responsible use. A local-language health tool needs suitable compute, representative and permissioned data, validated models, clinical integration and safety assurance; one pillar cannot provide all five. Approval establishes an intended programme, not delivered GPUs, training outcomes or clinical impact. The original 10,000-GPU objective must not be conflated with the later official announcement of 18,000-plus affordable **compute units**. The August 2024 RFE and January 2025 bid opening document procurement stages, not a universal deployment. Assess progress through verified access conditions, local-language performance, equitable participation, audited deployment and harm redress, dated to the actual source. In short, IndiaAI can enlarge indigenous capability if complementary inputs are coordinated; neither outlay nor announced capacity alone proves societal benefit. A proposed rural agricultural assistant, for example, may have access to accelerators while still lacking dialect coverage and independently checked crop advice. Public value should therefore be evaluated at the service level, with a documented feedback mechanism and explicit responsibility for errors.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Analyse lifecycle risks in public-sector AI and the controls needed at each stage. Answer in about 250 words.
+**Question:** Discuss a governance framework for an AI-assisted clinical diagnosis service, separating privacy, security, bias and accountability. Answer in 250 words.
 
-**Model thesis:** **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Privacy-security boundary. **Named evidence/example:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-- AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-- AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-- Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-- Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability.
-
-**Qualified conclusion:** **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Privacy-security boundary. **Named evidence/example:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse lifecycle risks in public-sector AI and the controls needed at each stage. Answer in…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Privacy-security boundary. **Named evidence/example:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Privacy-security boundary. **Named evidence/example:** Privacy governs lawful data use and purpose, while security protects systems and data from compromise; both matter, but neither alone resolves bias, opacity, safety, misinformation or accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse lifecycle risks in public-sector AI and the controls needed at each stage. Answer in…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** AI image analysis may help a district hospital prioritise scans, but a probability of disease is neither a confirmed diagnosis nor a causal explanation. First specify the clinical task and decision boundary: the tool flags images; a qualified clinician confirms treatment. Validate on locally acquired images, diverse patients and varying devices; report sensitivity, missed cases and subgroup errors rather than one pooled accuracy number. Bias controls address differential false negatives; they do not by themselves establish permission to process records. Privacy controls specify purpose, permitted access and retention; encryption, role-based permissions and breach response are security controls that protect data but cannot legitimise unrelated use. Log model version, uncertainty and clinician overrides so an error can be reconstructed. Establish escalation for uncertain or anomalous cases, periodic drift checks and patient grievance channels. Procurement should require independent validation and auditable performance, while the hospital retains clinical and administrative responsibility. IndiaAI's Safe & Trusted AI pillar can support tools and governance practice, but a proposal under it does not certify the individual hospital product. Avoid treating a generative explanation as a medical record without verification. The balance is neither blanket rejection nor blind automation: decision support can expand reach where specialists are scarce, provided local testing, lawful data handling, safety monitoring and a responsible human decision-maker remain in the loop. Where records are shared across institutions, the hospital should document who may read them and for how long. An accurate diagnosis produced from unlawfully reused patient records would still fail the privacy test; an authorised dataset used in an unsafe model would fail the clinical test.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's AI-governance approach through legal instruments, sectoral duties and mission capability. Answer in about 300 words.
+**Question:** Evaluate the governance problems of foundation models and agentic AI in Indian public service delivery. Answer in 250 words.
 
-**Model thesis:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Deepfake-instrument boundary. **Named evidence/example:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Guideline-law boundary. **Named evidence/example:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-mission boundary. **Named evidence/example:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code.
-- MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making.
-- Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime.
-- An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record.
-- AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-- Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability.
-
-**Qualified conclusion:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Deepfake-instrument boundary. **Named evidence/example:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Guideline-law boundary. **Named evidence/example:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-mission boundary. **Named evidence/example:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's AI-governance approach through legal instruments, sectoral duties and…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Deepfake-instrument boundary. **Named evidence/example:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Guideline-law boundary. **Named evidence/example:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-mission boundary. **Named evidence/example:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** IndiaAI-mission boundary. **Named evidence/example:** IndiaAI is an ecosystem mission spanning compute, innovation, applications, AIKosh, startup finance, FutureSkills and Safe and Trusted AI; it is not a single model, company, subsidy or legal code. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Implementation-institution boundary. **Named evidence/example:** MeitY anchors policy and the IndiaAI Mission is implemented through IndiaAI within Digital India Corporation; NITI Aayog's earlier strategy role is distinct from mission implementation and rule-making. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Deepfake-instrument boundary. **Named evidence/example:** Synthetic-media harms may be addressed through intermediary rules, labelling, provenance and enforcement, but a rule on distribution is not the same as a comprehensive AI statute or model-safety regime. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Guideline-law boundary. **Named evidence/example:** An advisory, consultation report or governance guideline is non-binding unless supported by enforceable law, while notified rules under a parent Act create subordinate legislation; India has no standalone AI Act in the owner record. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-mission boundary. **Named evidence/example:** Mission outlay, compute count, model selection, model status, safety-institute status and summit outcomes require dated official IndiaAI or MeitY sources; announcements cannot be rewritten as deployed capability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate India's AI-governance approach through legal instruments, sectoral duties and…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Foundation models are broadly pretrained and adapted for many downstream tasks. An upstream data or licensing problem can therefore propagate across public applications. Agentic systems add another layer: after a human sets a goal, they plan sub-tasks, call tools, observe outcomes and act again. A multilingual grievance agent could classify a complaint, retrieve a record and draft a reply; an agent with unbounded permissions could also alter a record or release private details. Separate risks by layer. Audit pre-training provenance and local-language performance at model level; validate the complaint workflow and accessible explanations at service level; restrict API permissions, sandbox execution and require human approval for consequential actions at agent level. Log actions and provide rollback, monitoring and grievance redress. A confident generated account may be false, and benchmark accuracy cannot justify a denial of service. Developers can document capabilities and limits, vendors can submit audits, but the procuring department remains answerable for legal decisions. India's IndiaAI pillars seek capability and trust, while the MeitY consultation report is guidance work, not a substitute for enforceable duties under applicable law. Protecting access to compute alone does not fix data quality or accountability. A proportionate approach allows low-risk drafting with review while imposing stronger oversight on decisions affecting rights. The test of success is measured service quality and contestability, not model size or autonomous branding. For a high-stakes appeal, keep a human approval gate before the agent sends or files any external document. Test permissions through adversarial prompts and preserve rollback so errors can be corrected. Measured reductions in backlog matter only alongside fair outcomes for excluded groups.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Design an accountable public procurement framework for high-impact AI systems. Answer in about 300 words.
+**Question:** Examine India's evolving AI governance and distinguish dated mission, advisory, rule and summit claims. Answer in 250 words.
 
-**Model thesis:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Procurement-accountability boundary. **Named evidence/example:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting.
-- AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access.
-- An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress.
-- AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal.
-- AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle.
-- Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy.
-- Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability.
-- AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators.
-
-**Qualified conclusion:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Procurement-accountability boundary. **Named evidence/example:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an accountable public procurement framework for high-impact AI systems. Answer in…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Procurement-accountability boundary. **Named evidence/example:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Capability-deployment boundary. **Named evidence/example:** A model that demonstrates a capability or performs well on a benchmark is not automatically a validated, integrated or accountable deployment in health, welfare, policing, credit or another high-impact setting. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AIKosh-data boundary. **Named evidence/example:** AIKosh is the mission's dataset and model-resource platform layer; platform availability does not prove dataset representativeness, lawful provenance, suitability, quality or complete access. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Use-case-model boundary. **Named evidence/example:** An AI use case describes a problem and workflow, while a model is one component and deployment includes data pipelines, interfaces, human decisions, security, monitoring and grievance redress. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Decision-support boundary. **Named evidence/example:** AI can assist a public official or clinician without lawfully replacing accountable judgement; automated adverse decisions affecting rights require reasons, human oversight, contestability and appeal. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Risk-lifecycle boundary. **Named evidence/example:** AI risk enters through problem selection, data, training, evaluation, procurement, integration, use and post-deployment change; a generic ethics statement at the final stage cannot control the full lifecycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bias-fairness boundary. **Named evidence/example:** Bias may arise from representation, labels, proxies, optimisation or deployment context, and equal aggregate accuracy can conceal unequal group harm; fairness requires context-specific testing and remedy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Procurement-accountability boundary. **Named evidence/example:** Public procurement must specify data rights, evaluation, audit logs, human oversight, incident reporting, vendor change control and exit obligations; buying an AI service does not transfer constitutional accountability. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Sectoral-governance boundary. **Named evidence/example:** AI risk differs across health, finance, education, policing, welfare and low-risk productivity tools, so proportionate governance should combine horizontal principles with sectoral law and regulators. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Design an accountable public procurement framework for high-impact AI systems. Answer in…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** India's approach combines capacity-building with safeguards rather than a single comprehensive AI statute. NITI Aayog produced the #AIforAll strategy in 2018; Cabinet approval of the IndiaAI Mission on 7 March 2024 established a multi-pillar programme implemented through IndiaAI under Digital India Corporation and MeitY. A 20 December 2024 invitation under Safe & Trusted AI sought proposals; an invitation cannot establish completed safety infrastructure. The MeitY AI-governance subcommittee report went to consultation, which closed on 27 February 2025; guidance or a consultation report is not an Act. By contrast, G.S.R. 120(E), notified on 10 February 2026, amended the IT Rules, 2021 regarding synthetically generated information, under the existing IT Act; verify particular operative duties and the reported 20 February effective date in the gazette before application. For misleading media, trace provenance, disclosure and intermediary duties without assuming that labelling proves semantic truth. The Paris AI Action Summit of February 2025 and the New Delhi India AI Impact Summit of 19–20 February 2026 are distinct international events, not themselves domestic legislation or evidence that every announced programme is operational. Complement horizontal principles with sectoral scrutiny, local-language evaluation, privacy/security safeguards and reviewable decisions. Where public rights are affected, procurement, human oversight and appeal matter more than generic ethical declarations. Thus identify each claim's actor, instrument, date and maturity rung before drawing policy conclusions. International comparisons can inform policy, but an EU risk classification does not by itself impose Indian statutory duties. A source may establish the date of a summit without substantiating its alleged declaration; a compute target says nothing about citizen-level accuracy or measured bias.

@@ -12,827 +12,639 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+Select the best answer. Questions precede the separate matched key; MCQs 17–24 revisit common errors in new fact patterns.
+
 #### MCQ 1
 
-A revision note says the 2018 reform merely increased punishments while leaving the offence structure unchanged. Which set of structural changes disproves that claim? Which source-grounded ethical principle most precisely explains the case?
+A district licensing officer delays an eligible widow's certificate until she pays; a contractor separately pays for a knowingly false safety certificate. Which combined assessment is defensible?
 
-A. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-B. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-C. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-D. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-**Answer:** A
-**Explanation:** **The 2018 Amendment changed both reach and safeguards** is the controlling principle. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The first payer is potentially coerced; the contractor and certifying officer collude at public cost. The ARC's labels guide ethics, not the PC Act's express offence names.
+B. Both payers are equally willing beneficiaries because money changed hands.
+C. Both are coercion victims because a public servant asked for payment.
+D. The contractor alone commits corruption since public loss is required for every PC Act bribery offence.
 
 ---
 
 #### MCQ 2
 
-An answer calls the 2018 reform wholly pro-enforcement. Which simultaneous narrowing and approval safeguard require a more qualified assessment? Which source-grounded ethical principle most precisely explains the case?
+An answer claims the 2018 PC Act amendment was simply a harsher version of the earlier law. Which correction best survives close scrutiny?
 
-A. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-B. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-C. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-D. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-**Answer:** B
-**Explanation:** **The 2018 Amendment changed both reach and safeguards** is the controlling principle. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. It left Section 13's former general abuse-of-position head untouched while removing sanctions.
+B. It introduced standalone giver and commercial-organisation offences and Section 17A, but also narrowed criminal misconduct under Section 13 and omitted the old Section 24.
+C. It expressly enacted the ARC's distinct coercive and collusive offences and their separate sentencing scales.
+D. It replaced all criminal offences with disciplinary sanctions for bad decisions.
 
 ---
 
 #### MCQ 3
 
-A pensioner pays after an official threatens indefinite delay. How should the transaction be classified for ethical analysis without falsely claiming that the statute itself uses that label? Which source-grounded ethical principle most precisely explains the case?
+A tout charges applicants for 'access' to an officer who then accepts payments to suppress inspections. Applicants differ: some are entitled; another seeks illegal approval. What is the best charging and victim-sensitive route?
 
-A. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-B. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-C. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-D. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-**Answer:** C
-**Explanation:** **Coercive and collusive bribery are ARC categories** is the controlling principle. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Charge all applicants under Section 7A because they used an intermediary, without assessing coercion.
+B. Charge only the officer under Section 13's former abuse-of-position head.
+C. Test the officer under Section 7, the intermediary under Section 7A and any willing unlawful payer under Section 8; assess compelled applicants under Section 8's conditions.
+D. Treat the tout's fee as lawful if the officer did not receive that same currency.
 
 ---
 
 #### MCQ 4
 
-A contractor pays to secure acceptance of substandard work. Why is equal moral treatment of the contractor and the extorted pensioner analytically unsound? Which source-grounded ethical principle most precisely explains the case?
+A bidder promises a benefit to alter a tender decision; an unrelated complainant informs investigators before giving marked cash in a lawful trap. Which distinction is decisive?
 
-A. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-B. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-C. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-D. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-**Answer:** D
-**Explanation:** **Coercive and collusive bribery are ARC categories** is the controlling principle. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Both are automatically immune because neither has yet received the contract.
+B. Both are guilty under Section 7 because money concerns a public duty.
+C. The complainant must allege compulsion within seven days even where the prior-investigation exception applies.
+D. The bidder's promise can engage Section 8; the informed investigative cooperation is separately excepted, without requiring a seven-day coercion claim.
 
 ---
 
 #### MCQ 5
 
-An officer accepts money to suppress a mandatory inspection. Which PC Act provision directly addresses the public servant's acceptance? Which source-grounded ethical principle most precisely explains the case?
+A vendor forced to pay for an entitled registration reports the demand to an investigating agency two days later; another vendor seeks an unlawful permit and alleges coercion months after detection. How should Section 8 be applied?
 
-A. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-B. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-C. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-D. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-**Answer:** A
-**Explanation:** **Section 7 governs the public servant being bribed** is the controlling principle. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Verify compulsion and reporting within seven days for the first; neither a late bare assertion nor a hoped-for illegal benefit automatically protects the second.
+B. Immunise both because a public servant initiated the demand.
+C. Prosecute both regardless of coercion because the former Section 24 was omitted.
+D. Grant immunity only if payment was made before investigators were informed in advance.
 
 ---
 
 #### MCQ 6
 
-A policy choice benefits one firm but no undue advantage or corrupt exchange is shown. Why can Section 7 not be inferred from benefit alone? Which source-grounded ethical principle most precisely explains the case?
+A company uses an agent to bribe an inspector to retain a supply contract; its executives show a dormant signed policy but no training, due diligence or monitoring. Which is the strongest answer?
 
-A. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-B. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-C. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-D. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-**Answer:** B
-**Explanation:** **Section 7 governs the public servant being bribed** is the controlling principle. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Only the agent can be investigated because corporations cannot be liable for an associated person's bribery.
+B. Test Section 9's business-related associated-person offence; the company must substantiate adequate preventive procedures, not merely produce a policy.
+C. The policy automatically establishes the statutory defence, even if compliance never operated.
+D. Section 10 automatically convicts all directors solely from their job titles.
 
 ---
 
 #### MCQ 7
 
-A bidder promises payment so a tender evaluation will be dishonestly altered. Which standalone offence applies to the giver? Which source-grounded ethical principle most precisely explains the case?
+Emails show one director knowingly approved the agent's bribery scheme while a non-executive director had no involvement. What is the Section 10 limit?
 
-A. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-B. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-C. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-D. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-**Answer:** C
-**Explanation:** **Section 8 separately criminalises bribe-giving** is the controlling principle. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Convict all directors automatically once Section 9 liability is alleged.
+B. Exonerate the approving director because only public servants can commit PC Act offences.
+C. Investigate consent or connivance individually; approval evidence matters for one director, but board membership alone does not prove guilt for the other.
+D. Apply Section 13's illicit-enrichment presumption to both directors without evidence of public-servant status.
 
 ---
 
 #### MCQ 8
 
-A note states that only the public servant can commit a principal bribery offence. Which 2018 provision makes that proposition obsolete? Which source-grounded ethical principle most precisely explains the case?
+A stores officer sells entrusted relief supplies; a second officer's assets indicate intentional illicit enrichment; a third officer merely chose an unpopular but documented policy. Which classification fits current Section 13?
 
-A. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-B. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-C. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-D. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-**Answer:** D
-**Explanation:** **Section 8 separately criminalises bribe-giving** is the controlling principle. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. All three necessarily commit criminal misconduct whenever public anger is shown.
+B. Only the unpopular decision remains criminal misconduct under the former general abuse-of-position head.
+C. Neither diversion nor illicit enrichment is reachable because Section 13 was repealed in 2018.
+D. Entrusted-property misappropriation and intentional illicit enrichment are the surviving heads; an adverse policy outcome alone is neither.
 
 ---
 
 #### MCQ 9
 
-A citizen pays an extortionate demand for release of an entitled certificate and reports it two days later. Which statutory condition is central? Which source-grounded ethical principle most precisely explains the case?
+An officer favours a relative's bid without evidence of personal enrichment, while a separate audit finds falsified tender scores. Which response avoids over-criminalising a bad decision without ignoring wrongdoing?
 
-A. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-B. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-C. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-D. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-**Answer:** A
-**Explanation:** **Section 8's compulsion defence is conditional** is the controlling principle. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Preserve score sheets, check conflict and applicable disciplinary/procurement rules, and refer for offences only if their present elements can be evidenced.
+B. Invoke the deleted general abuse-of-position head of Section 13 as a conclusive charge.
+C. Close all proceedings because no cash payment was discovered.
+D. Publish a finding of PC Act guilt immediately based on the audit alone.
 
 ---
 
 #### MCQ 10
 
-A contractor voluntarily paid for an unlawful advantage and alleges coercion months after detection. Why does Section 8 not automatically protect that claim? Which source-grounded ethical principle most precisely explains the case?
+Police propose investigating a retired official's procurement recommendation. Separately an officer is caught accepting cash at the scene. Which Section 17A assessment is accurate?
 
-A. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-B. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-C. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-D. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-**Answer:** B
-**Explanation:** **Section 8's compulsion defence is conditional** is the controlling principle. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Seek approval only if the retired officer formerly held Joint Secretary rank.
+B. Test previous approval for the official-duty decision inquiry even though the officer retired; the on-the-spot acceptance arrest falls within the express exception.
+C. Require approval before arrest for any on-the-spot acceptance, without exception.
+D. Treat every allegation against any employee as requiring Section 17A approval even when unrelated to an official-duty decision.
 
 ---
 
 #### MCQ 11
 
-A complainant, acting after informing investigators, hands over marked currency in a lawful trap. Which Section 8 distinction prevents treating the complainant as an offender? Which source-grounded ethical principle most precisely explains the case?
+An authority has not decided a Section 17A request within the stated time. Investigators claim silence equals deemed consent; a prosecutor cites Section 19 instead. What should the file say?
 
-A. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-B. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-C. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-D. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-**Answer:** C
-**Explanation:** **Assisted investigative conduct has a separate Section 8 protection** is the controlling principle. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Proceed as if silence automatically approves investigation after three months.
+B. Treat Section 19 sanction as a substitute for any applicable pre-investigation approval.
+C. Record the statutory three-month period and reasoned one-month extension, seek a decision and do not invent deemed approval; Section 19 concerns later cognizance.
+D. Treat Section 17A as a permanent bar on investigation once a deadline is missed.
 
 ---
 
 #### MCQ 12
 
-Why should an answer separate prior investigative cooperation from a post-payment claim of compulsion? Which source-grounded ethical principle most precisely explains the case?
+A court considers taking cognizance of a qualifying Section 13 offence against a public servant; investigators previously examined a covered decision. Which stage map is accurate?
 
-A. PC Act s.8 punishes giving or promising an undue advantage with intent to induce improper performance of public duty or to reward such performance; after 2018, the giver's liability is therefore not confined to abetment of the public servant's offence.
-
-B. A person compelled to give an undue advantage can invoke s.8's statutory protection only if the matter is reported to a law-enforcement authority or investigating agency within seven days from giving it; this is narrower than a general immunity for every person who later claims pressure.
-
-C. PC Act s.7 covers a public servant who obtains, accepts or attempts to obtain an undue advantage with the required connection to improper or dishonest performance of public duty, including receipt as a reward; proof must satisfy the statutory ingredients rather than merely show an unpopular official decision.
-
-D. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso.
-
-**Answer:** D
-**Explanation:** **Assisted investigative conduct has a separate Section 8 protection** is the controlling principle. PC Act s.8 does not apply where, after informing a law-enforcement authority or investigating agency, a person gives or promises an undue advantage in order to assist that authority or agency in its investigation; this must not be confused with the seven-day compulsion proviso. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Section 19 is the permission required before any covered police inquiry, replacing Section 17A.
+B. Section 17A first applies when the court sentences the public servant.
+C. Sections 8 and 9 appear expressly on Section 19's list of public-servant offences.
+D. Section 17A governs covered police enquiry/inquiry/investigation; Section 19 sanction is tested before cognizance for its specified offences.
 
 ---
 
 #### MCQ 13
 
-An intermediary bribes a licensing officer to retain a company's contract. Which provision addresses organisational liability? Which source-grounded ethical principle most precisely explains the case?
+At trial for Section 7, acceptance of an undue advantage is proved but the accused offers rebuttal evidence. What does Section 20 do?
 
-A. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-B. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-C. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-D. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-**Answer:** A
-**Explanation:** **Section 9 creates commercial-organisation liability** is the controlling principle. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. It permits the statutorily specified rebuttable presumption about improper motive or reward once its foundational facts are proved.
+B. It irrebuttably convicts every person accused under any PC Act provision.
+C. It automatically substitutes for proving acceptance of the undue advantage.
+D. It operates only where an audit identifies unexplained wealth, regardless of charge.
 
 ---
 
 #### MCQ 14
 
-A company argues that only the individual intermediary can ever be liable. Which post-2018 offence defeats that categorical defence? Which source-grounded ethical principle most precisely explains the case?
+A former Section 24 protection is cited to excuse a business owner's current voluntary bribe; the owner says the 2018 change had no effect. Which reply is correct?
 
-A. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-B. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-C. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-D. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-**Answer:** B
-**Explanation:** **Section 9 creates commercial-organisation liability** is the controlling principle. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Old Section 24 permanently immunised all bribe-givers in all cases.
+B. Old Section 24 was limited to statements in proceedings and protection from Section 12 on that basis; it was omitted in 2018, while current Section 8 has defined exceptions.
+C. Section 8 applies only to public servants and never to business owners.
+D. The 2018 amendment abolished giver liability unless a public servant is convicted first.
 
 ---
 
 #### MCQ 15
 
-A company had risk-based controls, training, due diligence and enforced reporting systems before a rogue agent acted. Which defence must still be proved on evidence? Which source-grounded ethical principle most precisely explains the case?
+A prosecutor promises trial will finish exactly two years after filing because the PC Act says 'two years'. Which correction preserves the real statutory safeguard?
 
-A. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-B. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-C. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-D. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-**Answer:** C
-**Explanation:** **Adequate procedures belong to Section 9** is the controlling principle. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The Act guarantees acquittal if trial lasts longer than two years.
+B. Every case must be concluded by an ordinary civil court within two years.
+C. Special Judges try PC Act cases; proceedings should run day to day as practicable, with an endeavour to conclude in two years and extensions for recorded reasons, ordinarily within four years.
+D. Section 17A's approval clock is the same as the Special Judge's trial period.
 
 ---
 
 #### MCQ 16
 
-A dormant anti-bribery policy was ignored by management. Why does the mere existence of the document not settle the adequate-procedures question? Which source-grounded ethical principle most precisely explains the case?
+A vigilance audit finds an inspector suppressed reports; the criminal court later acquits for failure to prove bribery beyond reasonable doubt. What should the department do?
 
-A. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-B. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-C. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-D. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-**Answer:** D
-**Explanation:** **Adequate procedures belong to Section 9** is the controlling principle. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Dismiss immediately on the audit without notice or hearing.
+B. End every service proceeding because criminal acquittal necessarily proves exemplary conduct.
+C. Presume Section 7 guilt solely because the departmental threshold is lower.
+D. Assess service-rule misconduct on the applicable departmental standard and procedural fairness, without calling the audit a conviction or assuming acquittal automatically ends discipline.
 
 ---
 
-#### MCQ 17
+#### MCQ 17 — remedial
 
-Emails show a director approved an agent's bribery plan. Which personal-liability ingredient is engaged? Which source-grounded ethical principle most precisely explains the case?
+A concealed-property file involves a transaction alleged to predate the 2016 Benami reforms. Counsel quotes the 2022 Ganpati Dealcom merits ruling as a final present-day bar. Which reply is best?
 
-A. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-B. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-C. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-D. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-**Answer:** A
-**Explanation:** **Section 10 requires consent or connivance** is the controlling principle. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The Supreme Court recalled its 2022 decision in full in October 2024 and restored the appeal; evaluate present proceedings with legal advice rather than claiming either retrospective outcome settled.
+B. The 2024 recall conclusively authorised retrospective confiscation in all cases.
+C. The 2022 judgment remains binding in full despite its recall.
+D. The ARC's observation about missing early confiscation rules proves that all 2016 provisions apply retrospectively.
 
 ---
 
-#### MCQ 18
+#### MCQ 18 — remedial
 
-A remote officer had no knowledge, involvement or connivance. Why is hierarchy alone insufficient under Section 10? Which source-grounded ethical principle most precisely explains the case?
+An official calls 2014 whistleblower legislation a fully operational shield before reporting a dangerous procurement fraud. Which first correction matters?
 
-A. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-B. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-C. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-D. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-**Answer:** B
-**Explanation:** **Section 10 requires consent or connivance** is the controlling principle. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The Act's assent itself brought every protection into force immediately.
+B. The Act received assent but has not been brought into force; verify protected channels, evidence handling and safety rather than promising that uncommenced statutory relief.
+C. The 2015 Amendment Bill made the original Act operational despite lapse.
+D. PIDPI is identical in reach and remedies to a commenced comprehensive statute.
 
 ---
 
-#### MCQ 19
+#### MCQ 19 — remedial
 
-A public servant diverts entrusted relief material for connected private sale. Which current Section 13 head is directly relevant? Which source-grounded ethical principle most precisely explains the case?
+A central PSU employee has records implicating a superior; a colleague urges a public social-media post before any verification. What is the most defensible first course?
 
-A. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-B. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-C. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-D. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-**Answer:** C
-**Explanation:** **Post-2018 Section 13 has two criminal-misconduct heads** is the controlling principle. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Name the superior publicly at once to compel a response.
+B. Resign without reporting so the complaint cannot be traced.
+C. Secure verifiable records, use appropriate confidential CVO/CVC PIDPI channels and guard identity; consider any wider disclosure only after necessity, harm and legal risks are assessed.
+D. Send unverified originals to every contractor to maximise witnesses.
 
 ---
 
-#### MCQ 20
+#### MCQ 20 — remedial
 
-Assets become disproportionate to known lawful income and cannot be satisfactorily accounted for. Which current Section 13 concept is engaged? Which source-grounded ethical principle most precisely explains the case?
+A public authority receives a report that an inspector knowingly refused to record a mandatory violation; no cash trail is found. Which ethical and legal conclusion follows?
 
-A. PC Act s.9 permits the commercial organisation to prove that it had adequate procedures, compliant with prescribed guidelines, to prevent associated persons from undertaking the prohibited conduct; it is a statutory defence for the organisation, not automatic immunity created by a paper compliance manual.
-
-B. Where an s.9 offence is committed by a commercial organisation and is proved in court to have occurred with the consent or connivance of a director, manager, secretary or other officer, s.10 makes that officer personally guilty; it does not impose liability on every senior officer merely by designation.
-
-C. A commercial organisation is punishable with fine under s.9 when an associated person gives or promises an undue advantage intending to obtain or retain business, or an advantage in business, for that organisation, subject to the statutory adequate-procedures defence.
-
-D. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office.
-
-**Answer:** D
-**Explanation:** **Post-2018 Section 13 has two criminal-misconduct heads** is the controlling principle. PC Act s.13 now confines criminal misconduct to dishonest or fraudulent misappropriation or conversion of property entrusted to, or under the control of, a public servant, including allowing another person to do so, and intentional illicit enrichment during the period of office. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. All delayed inspections are Section 7 bribery even with no undue advantage.
+B. No cash trail makes intentional concealment ethically permissible.
+C. Every honest exercise of enforcement discretion is corruption under the ARC.
+D. Test wilful omission and service-rule duty with evidence of knowledge and harm; do not invent a standalone PC Act offence called non-performance.
 
 ---
 
-#### MCQ 21
+#### MCQ 21 — remedial
 
-An official arbitrarily favours a relative but personal enrichment and entrusted-property misappropriation are not proved. Why must an answer avoid citing the deleted provision? Which source-grounded ethical principle most precisely explains the case?
+An NGO largely funded by the state and a private utility are included in an ARC proposal to extend PC Act coverage. How should a candidate use this detail?
 
-A. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-B. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-C. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-D. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-**Answer:** A
-**Explanation:** **The abuse-of-position head was removed from Section 13** is the controlling principle. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Describe the extension and the ARC's proposed distinct collusive-bribery treatment as recommendations; check actual law separately before asserting liability.
+B. State that all such entities were automatically brought under a new ARC-created offence.
+C. Treat every contractor loss as conclusive statutory proof of collusive bribery.
+D. Exclude these entities from any conceivable accountability merely because a proposal is not enacted.
 
 ---
 
-#### MCQ 22
+#### MCQ 22 — remedial
 
-How does the narrowing protect good-faith policy discretion while potentially reducing reach against favouritism-based wrongdoing? Which source-grounded ethical principle most precisely explains the case?
+A procurement officer must choose between pausing a suspected compromised tender and continuing critical medicine deliveries. Which immediate safeguards best balance urgency and proof?
 
-A. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-B. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-C. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-D. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-**Answer:** B
-**Explanation:** **The abuse-of-position head was removed from Section 13** is the controlling principle. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Cancel all supplies indefinitely before checking allegations.
+B. Ring-fence the questioned award, preserve bids and audit trails, arrange lawful interim supply under recorded criteria and refer evidence through appropriate vigilance and criminal channels.
+C. Continue the disputed award secretly because the health need overrides fair procurement.
+D. Announce named suspects guilty from anonymous allegations and bypass tender review.
 
 ---
 
-#### MCQ 23
+#### MCQ 23 — remedial
 
-Investigators propose to examine a retired officer's official procurement decision. Which approval-stage provision must be tested? Which source-grounded ethical principle most precisely explains the case?
+An officer claims a generous gift from a bidder is harmless because no cash was delivered and no tender decision was changed yet. What is the correct inquiry?
 
-A. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-B. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-C. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-D. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-**Answer:** C
-**Explanation:** **Section 17A operates before specified investigation** is the controlling principle. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Section 7 applies to cash only after an improper order is signed.
+B. Any gift to any person necessarily proves Section 7 guilt.
+C. Examine whether an undue advantage was accepted or attempted with the required public-duty nexus; non-cash form and incomplete change do not by themselves decide Section 7.
+D. Section 13 automatically applies to all non-cash gifts.
 
 ---
 
-#### MCQ 24
+#### MCQ 24 — remedial
 
-An answer limits Section 17A to serving Joint Secretary-level officers. Which two statutory scope errors does it make? Which source-grounded ethical principle most precisely explains the case?
+A company argues its agent was neither an employee nor a director, but the agent bribed to obtain business for it. What should be investigated?
 
-A. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-B. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-C. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-D. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-**Answer:** D
-**Explanation:** **Section 17A operates before specified investigation** is the controlling principle. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Whether the agent held a permanent payroll ID; without it Section 9 cannot apply.
+B. Whether every director attended the meeting; their absence defeats Section 9 automatically.
+C. Whether the organisation signed any policy, however unenforced; that alone defeats liability.
+D. Whether the agent performed services for the organisation and bribed for a business advantage, and whether genuine adequate preventive procedures existed.
 
 ---
 
-#### MCQ 25
+### ANSWER KEY, OPTION DIAGNOSTICS AND REMEDIATION
 
-An officer is caught while accepting marked currency. Which express exception prevents Section 17A from becoming a shield against the immediate trap? Which source-grounded ethical principle most precisely explains the case?
+#### MCQ 1 — A
 
-A. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-B. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-C. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-D. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-**Answer:** A
-**Explanation:** **Section 17A contains a timeline and spot-arrest exception** is the controlling principle. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Entitlement and threatened delay distinguish the first payer; false certification benefits the second payer.
+- **B:** A payment does not establish the payer's freedom of choice.
+- **C:** The contractor obtains a fraudulent benefit, unlike the widow.
+- **D:** Section 7 does not require demonstrated public loss in every prosecution.
+- **Trap:** A payment does not establish the payer's freedom of choice. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-An authority remains silent beyond four months. Why should an answer mention breach or delay without inventing deemed approval? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-B. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-C. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-D. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-**Answer:** B
-**Explanation:** **Section 17A contains a timeline and spot-arrest exception** is the controlling principle. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The broad abuse-of-position head was removed, not retained.
+- **B:** Sections 8, 9 and 17A changed reach and procedure; the narrowed Section 13 qualifies any simple 'tougher' claim.
+- **C:** ARC classifications/recommendations are not themselves enacted offence categories.
+- **D:** Criminal offences remain, subject to their elements.
+- **Trap:** ARC classifications/recommendations are not themselves enacted offence categories. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-A court is asked to take cognizance of a qualifying Section 13 charge against a public servant. Which stage-specific safeguard must be satisfied? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-B. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-C. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-D. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-**Answer:** C
-**Explanation:** **Section 19 concerns court cognizance and prosecution sanction** is the controlling principle. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Payment by an applicant does not itself establish influence-selling by that applicant.
+- **B:** The old broad Section 13 head was removed; statutory elements still matter.
+- **C:** Section 7A reaches influence-selling intermediaries; Sections 7 and 8 address different actors and require proof.
+- **D:** Undue advantage is not confined to notes passed directly to an officer.
+- **Trap:** Undue advantage is not confined to notes passed directly to an officer. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-Why is it inaccurate to say Section 19 expressly lists Sections 8 and 9? Which source-grounded ethical principle most precisely explains the case?
-
-A. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-B. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-C. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-D. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-**Answer:** D
-**Explanation:** **Section 19 concerns court cognizance and prosecution sanction** is the controlling principle. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A completed award is not necessary to analyse a promise.
+- **B:** Section 7 addresses the public servant, not every giver.
+- **C:** Prior notice and post-payment compelled-payer reporting are distinct statutory routes.
+- **D:** A promise is covered; investigative assistance after informing authorities is a separate exception.
+- **Trap:** A completed award is not necessary to analyse a promise. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-An answer says prosecution sanction is always the first permission needed before any fact-finding. Which distinction corrects it? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-B. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-C. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-D. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-**Answer:** A
-**Explanation:** **Sections 17A and 19 guard different stages** is the controlling principle. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The compelled-payer protection has both a factual and a seven-day reporting condition.
+- **B:** Initiation by an officer is not conclusive proof of compulsion.
+- **C:** The 2018 omission did not eliminate Section 8's conditional protection.
+- **D:** The separate informed-investigation exception is not the compelled-payer test.
+- **Trap:** Initiation by an officer is not conclusive proof of compulsion. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-Why can a matter raise both Section 17A and Section 19 questions at different times? Which source-grounded ethical principle most precisely explains the case?
-
-A. The approving authority must convey its s.17A decision within three months, extendable by one month for reasons recorded in writing; previous approval is not required for cases involving on-the-spot arrest of a person accepting or attempting to accept an undue advantage.
-
-B. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other.
-
-C. PC Act s.19 bars a court from taking cognizance of specified offences alleged to have been committed by a public servant without previous sanction of the competent government or authority; the current list is Sections 7, 10, 11, 13 and 15, not every offence in the Act.
-
-D. PC Act s.17A requires previous approval before a police officer conducts an enquiry, inquiry or investigation into a PC Act offence alleged against a serving or former public servant where the allegation is relatable to a recommendation made or decision taken in discharge of official functions or duties.
-
-**Answer:** B
-**Explanation:** **Sections 17A and 19 guard different stages** is the controlling principle. PC Act s.17A addresses previous approval before specified enquiry, inquiry or investigation into an official-duty recommendation or decision, whereas s.19 addresses previous sanction before the court takes cognizance for listed offences; one safeguard cannot be described as merely another name for the other. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Individual agent liability does not exclude corporate exposure.
+- **B:** Section 9 reaches a commercial organisation and makes actual adequate procedures material.
+- **C:** An unimplemented document cannot by itself establish effective procedures.
+- **D:** Section 10 requires consent or connivance, not status alone.
+- **Trap:** An unimplemented document cannot by itself establish effective procedures. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-The prosecution proves acceptance of an undue advantage in a Section 7 trial. Which provision shifts the evidentiary burden without eliminating the chance of rebuttal? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-B. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-C. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-D. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-**Answer:** C
-**Explanation:** **Section 20 creates a rebuttable evidentiary presumption** is the controlling principle. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Corporate association is not a presumption of individual criminal intent.
+- **B:** Section 10 expressly addresses consenting or conniving officers.
+- **C:** Section 10 demands proof against the particular officer/director of the commercial organisation.
+- **D:** Section 13 concerns public-servant criminal misconduct; enrichment is not assumed.
+- **Trap:** Section 13 concerns public-servant criminal misconduct; enrichment is not assumed. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-Why is it wrong to describe Section 20 as an irrebuttable presumption of guilt for every PC Act offence? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-B. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-C. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-D. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-**Answer:** D
-**Explanation:** **Section 20 creates a rebuttable evidentiary presumption** is the controlling principle. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Unpopularity cannot replace the legal ingredients.
+- **B:** The general abuse-of-position head was removed.
+- **C:** Section 13 was narrowed, not abolished.
+- **D:** Section 13(1)(a) and (b) survive, with different proof; disapproval alone proves neither.
+- **Trap:** Unpopularity cannot replace the legal ingredients. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-A note states that old Section 24 permanently immunised every payer in every setting. Which two qualifications are missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-B. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-C. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-D. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-**Answer:** A
-**Explanation:** **Omitted Section 24 was limited even before omission** is the controlling principle. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Different legal and disciplinary tracks allow proportionate accountability without inventing a Section 13 head.
+- **B:** The former broad head cannot be revived by a suspicious outcome.
+- **C:** No payment does not foreclose misconduct or other offences.
+- **D:** Audit findings are evidence leads, not criminal verdicts.
+- **Trap:** The former broad head cannot be revived by a suspicious outcome. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-What replaced the earlier structure when Section 8 became a standalone giver offence? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-B. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-C. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-D. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-**Answer:** B
-**Explanation:** **Omitted Section 24 was limited even before omission** is the controlling principle. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** It is not limited by the suggested rank.
+- **B:** Section 17A is decision-linked and includes former officials; the spot-acceptance exception is express.
+- **C:** The specified trap exception prevents that blanket rule.
+- **D:** Its official-duty decision/recommendation nexus must be tested.
+- **Trap:** The specified trap exception prevents that blanket rule. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A candidate confuses investigation approval with the forum and pace of trial. Which Section 4 features should be separately stated? Which source-grounded ethical principle most precisely explains the case?
-
-A. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-B. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-C. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-D. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-**Answer:** C
-**Explanation:** **Special Judges and trial timelines remain distinct safeguards** is the controlling principle. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The text does not supply the asserted deemed-consent consequence.
+- **B:** Different stages and triggers cannot be collapsed.
+- **C:** Delay calls for accountable follow-up, not a fictitious statutory deeming rule.
+- **D:** A deadline breach does not make a protected suspect permanently immune.
+- **Trap:** A deadline breach does not make a protected suspect permanently immune. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-Why does the statutory trial endeavour not guarantee disposal in exactly two years? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-B. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-C. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-D. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-**Answer:** D
-**Explanation:** **Special Judges and trial timelines remain distinct safeguards** is the controlling principle. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Section 19 applies at cognizance, not as a universal initial police approval.
+- **B:** Section 17A precedes covered investigation, not sentencing.
+- **C:** Section 19 lists Sections 7, 10, 11, 13 and 15, not 8 and 9.
+- **D:** The two safeguards have different stages and triggers and may both arise on a single file.
+- **Trap:** Section 19 applies at cognizance, not as a universal initial police approval. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-Evidence fails to prove a PC Act offence beyond reasonable doubt, but service-rule misconduct remains supported on the applicable departmental standard. What distinction applies? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-B. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-C. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-D. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-**Answer:** A
-**Explanation:** **Criminal and departmental processes are not identical** is the controlling principle. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The predicate must be proved; the presumption is rebuttable and offence-specific.
+- **B:** The presumption is not universal or irrebuttable.
+- **C:** Foundational proof cannot be skipped.
+- **D:** Asset evidence and the Section 20 presumption are different questions.
+- **Trap:** The presumption is not universal or irrebuttable. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-Why must an audit or vigilance finding be treated as a lead rather than a criminal conviction? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-B. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-C. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-D. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-**Answer:** B
-**Explanation:** **Criminal and departmental processes are not identical** is the controlling principle. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The old protection was neither blanket nor still in force.
+- **B:** Former scope, omission and present standalone giver liability must be kept separate.
+- **C:** Section 8 directly addresses giving or promising an undue advantage.
+- **D:** The offence cannot be dismissed by assuming an antecedent conviction.
+- **Trap:** Section 8 directly addresses giving or promising an undue advantage. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-An answer treats the original 1988 confiscation provision as fully operational for the preceding eighteen years. Which ARC diagnosis and 2016 reform correct it? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-B. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-C. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-D. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-**Answer:** C
-**Explanation:** **The 2016 Benami regime strengthened asset recovery prospectively in form** is the controlling principle. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** No automatic acquittal follows from missing the endeavour.
+- **B:** The Act provides a Special Judge forum.
+- **C:** The timeline is an endeavour with specified extensions, not automatic termination.
+- **D:** Investigation approval and trial pacing are different stages.
+- **Trap:** Investigation approval and trial pacing are different stages. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-Which date marks commencement of the substantially strengthened 2016 regime? Which source-grounded ethical principle most precisely explains the case?
-
-A. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-B. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-C. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-D. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-**Answer:** D
-**Explanation:** **The 2016 Benami regime strengthened asset recovery prospectively in form** is the controlling principle. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** An audit is a lead and employee rights survive.
+- **B:** An acquittal does not mechanically resolve distinct misconduct allegations.
+- **C:** The lower standard cannot establish criminal guilt.
+- **D:** Parallel processes have different standards and purposes; fair process remains mandatory.
+- **Trap:** An audit is a lead and employee rights survive. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A candidate states that the 2022 bar on retrospective operation remains the Supreme Court's final word. Which 2024 procedural event defeats that statement? Which source-grounded ethical principle most precisely explains the case?
-
-A. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-B. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-C. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-D. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-**Answer:** A
-**Explanation:** **Ganpati Dealcom's 2022 judgment was recalled** is the controlling principle. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Recall removes the claimed settled holding but decides neither direction on the merits.
+- **B:** Recall does not establish the opposite holding.
+- **C:** A fully recalled judgment cannot be cited as a continuing final merits disposition.
+- **D:** The historical implementation gap cannot settle a current constitutional question.
+- **Trap:** Recall does not establish the opposite holding. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-Why does recall reopen the issue rather than establish the opposite merits conclusion? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-B. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-C. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-D. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-**Answer:** B
-**Explanation:** **Ganpati Dealcom's 2022 judgment was recalled** is the controlling principle. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Assent and commencement are distinct.
+- **B:** Commencement determines whether statutory mechanisms operate; plan safe reporting accordingly.
+- **C:** A lapsed bill did not commence the Act.
+- **D:** The central PIDPI administrative channel is narrower than a commenced statute.
+- **Trap:** A lapsed bill did not commence the Act. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-A public servant assumes the 2014 Act supplies an operational statutory shield today. Which commencement fact must be checked first? Which source-grounded ethical principle most precisely explains the case?
-
-A. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-B. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-C. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-D. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-**Answer:** C
-**Explanation:** **The Whistle Blowers Protection Act remains uncommenced** is the controlling principle. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Public accusation risks exposing identity and prejudicing a fair inquiry.
+- **B:** Leaving without using channels can abandon evidence and accountability.
+- **C:** Verification, authorised escalation and anti-retaliation precautions protect both investigation and reporter.
+- **D:** Broadcasting unverified material compromises confidentiality and integrity.
+- **Trap:** Broadcasting unverified material compromises confidentiality and integrity. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-What limited interim mechanism should be named without pretending that it equals a comprehensive commenced statute? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Benami Transactions (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the 1988 statute as the Prohibition of Benami Property Transactions Act, 1988, effective from 1 November 2016, with fuller definitions, adjudication, appeal and confiscation machinery.
-
-B. On 18 October 2024, the Supreme Court recalled its 23 August 2022 Ganpati Dealcom judgment and restored Civil Appeal No. 5783 of 2022 for fresh adjudication because constitutional validity had been decided without a lis and contest; the recalled 2022 conclusions must not be cited as the present settled merits position.
-
-C. The 2018 Amendment deleted the former broad s.13(1)(d) abuse-of-position route; favouritism or an indefensible decision may remain ethically, disciplinarily or under another offence legally wrongful, but it is not automatically current s.13 criminal misconduct without one of the surviving statutory heads.
-
-D. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism.
-
-**Answer:** D
-**Explanation:** **The Whistle Blowers Protection Act remains uncommenced** is the controlling principle. The Whistle Blowers Protection Act, 2014 received Presidential assent on 9 May 2014 but no commencement notification under s.1(3) has been issued; the 2015 Amendment Bill lapsed, while the 2004 PIDPI Resolution remains the interim central administrative mechanism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Section 7 requires an undue-advantage link with its statutory elements.
+- **B:** Service-rule and accountability questions can survive absent a bribe.
+- **C:** Bona fide judgment cannot be equated with deliberate concealment.
+- **D:** The ARC's wider ethical diagnosis does not replace the elements of criminal offences.
+- **Trap:** Section 7 requires an undue-advantage link with its statutory elements. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-An inspector knowingly suppresses a mandatory violation report to benefit a connected operator. How should the ethical failure be described without inventing a general PC Act offence? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-B. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-C. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-D. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-**Answer:** A
-**Explanation:** **Wilful non-performance is not automatically a PC Act offence** is the controlling principle. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A recommendation is useful as reform analysis, not as a substitute for enacted offence ingredients.
+- **B:** The ARC did not itself legislate.
+- **C:** Public loss alone cannot automatically prove each accused person's criminal ingredients.
+- **D:** Other extant laws and contract obligations may still apply.
+- **Trap:** The ARC did not itself legislate. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-A good-faith policy judgment later fails. Which bona-fides limit prevents every adverse outcome from being labelled corruption? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act offences are tried by Special Judges under s.4; trial should proceed day to day as far as practicable, with an endeavour to conclude within two years and recorded six-month extensions, while total trial time should not ordinarily exceed four years.
-
-B. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence.
-
-C. The same suspected misconduct may generate vigilance screening, departmental proceedings, criminal prosecution and civil or confiscation action, each with its own authority, purpose, standard and remedy; criminal acquittal does not mechanically end every departmental inquiry.
-
-D. In a trial for an offence punishable under s.7 or s.11, once acceptance, obtaining or attempted obtaining of an undue advantage by the accused public servant is proved, s.20 directs the court to presume the relevant corrupt motive, reward or absence/inadequacy of consideration unless the contrary is proved.
-
-**Answer:** B
-**Explanation:** **Wilful non-performance is not automatically a PC Act offence** is the controlling principle. The ARC's acts-of-omission analysis can treat wilful or grossly negligent non-performance that causes public harm or connected benefit as an ethical and disciplinary corruption failure, but criminal liability still requires proof of the ingredients of an applicable offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A total supply stoppage injures patients unnecessarily.
+- **B:** Separating emergency continuity from disputed procurement limits harm without sacrificing inquiry.
+- **C:** Urgency does not justify concealing a compromised award.
+- **D:** Allegations require verification and procedural rights.
+- **Trap:** Urgency does not justify concealing a compromised award. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-An answer claims every NGO receiving more than half its operating cost from government is already expressly covered by the cited ARC clause. What source-status error occurs? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-B. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-C. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-D. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-**Answer:** C
-**Explanation:** **ARC reform proposals must not be presented as enacted law** is the controlling principle. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The statute is not cash-only or invariably completion-dependent.
+- **B:** A gift without proved statutory connection does not automatically convict.
+- **C:** The offence has actor, undue-advantage and duty-related elements, including attempts.
+- **D:** Section 13 has distinct surviving misconduct heads.
+- **Trap:** Section 13 has distinct surviving misconduct heads. The answer must satisfy the scenario's actor, stage and proof constraints.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-How should the proposal for tougher collusive-bribery treatment be used in a Mains conclusion? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Employee status is not the sole association test.
+- **B:** Section 9 corporate exposure does not require all directors to attend.
+- **C:** Effective adequate procedures must be evidenced.
+- **D:** Section 9 uses an associated-person/services inquiry, not just an employment label.
+- **Trap:** Employee status is not the sole association test. The answer must satisfy the scenario's actor, stage and proof constraints.
 
-A. The Second Administrative Reforms Commission distinguishes coercive bribery, where an unwilling citizen pays for an entitlement or to avoid harassment, from collusive bribery, where giver and taker benefit while the state or public loses; these labels are analytical categories, not express classifications in the PC Act.
-
-B. Before 2018, s.24 protected a person from s.12 prosecution on the basis of a statement in proceedings against a public servant that the person had offered gratification; it was not blanket immunity for all bribe-givers, and the 2018 Amendment omitted it.
-
-C. The Prevention of Corruption (Amendment) Act, 2018 replaced the older gratification-centred s.7 with an undue-advantage formulation, created a standalone bribe-giving offence in s.8, added commercial-organisation liability, narrowed s.13, inserted s.17A and omitted s.24.
-
-D. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act.
-
-**Answer:** D
-**Explanation:** **ARC reform proposals must not be presented as enacted law** is the controlling principle. The ARC recommended a distinct and more severely punished collusive-bribery offence, a presumption where public loss is established, and extended coverage for specified public-utility providers and substantially government-funded NGOs; these are reform proposals, not descriptions of the current PC Act. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
+
+All practice prompts appear here before their separate matched model solutions. Where a question is labelled neutral routing, consult its cited official paper for the full original case wording.
+
+### VERIFIED / ROUTED PYQ QUESTIONS
 
 #### Solved PYQ 1 — 2018 — 20 marks
 
 **Question:** Neutral routing of GS-IV Q12: Edward Snowden disclosed classified information about government surveillance, claiming a moral duty to inform the public despite the Espionage Act. Were his actions ethically justified even if legally prohibited? Weigh the competing values. (250 words)
 
 **Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\GENERAL-STUDIES-PAPER-IV.pdf, page 11. The official paper contains the full case. Topic 19 uses it for the law-versus-whistleblowing boundary; Topic 22 owns complete case-study method.
+
+---
+
+#### Solved PYQ 2 — 2019 — 10 marks
+
+**Question:** GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. Topic 19 owns the distinction between the ARC's ethical acts-of-omission analysis and actual PC Act criminal ingredients.
+
+---
+
+#### Solved PYQ 3 — 2019 — 20 marks
+
+**Question:** GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption agencies. Suggest institutional measures for anticipating threats, strengthening ethical competence and developing integrity-promoting administrative processes. (250 words)
+
+**Source / ownership:** Faithful condensed routing verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 7. Topic 19 uses the legal-framework component; Topics 16 and 20 own codes and detailed institutional jurisdictions.
+
+---
+
+#### Solved PYQ 4 — 2021 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia supported by local functionaries, bribed and intimidated residents, compromised employees and a wider nexus. Examine the ethical issues and the appropriate official response. (250 words)
+
+**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, pages 4-5. The official paper contains the complete facts and sub-questions. Topic 19 uses it for bribery classification, evidence and legal-process boundaries; Topic 22 owns complete option analysis.
+
+---
+
+#### Solved PYQ 5 — 2022 — 10 marks
+
+**Question:** GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct risks exposure to grave danger, physical harm and victimisation by vested interests. What policy measures would strengthen the protection mechanism? (150 words)
+
+**Source / ownership:** English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. Minor punctuation is normalised from the official bilingual paper. This is Topic 19's direct whistleblower PYQ.
+
+---
+
+#### Solved PYQ 6 — 2022 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt officials, politicians and a conflicted media owner, but faces inducement and pressure to suppress the report. Evaluate the legal-ethical issues and the appropriate response. (250 words)
+
+**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. Topic 19 uses the corruption-law and whistleblower-protection dimensions; Topic 22 owns complete case method.
+
+---
+
+#### Solved PYQ 7 — 2023 — 10 marks
+
+**Question:** GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 19 supplies the law-and-incentive qualification; Topics 1 and 2 own general value formation.
+
+---
+
+#### Solved PYQ 8 — 2023 — 10 marks
+
+**Question:** GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 19 uses the distinction to clarify Section 8 compulsion; the PYQ's terms are not statutory labels for ARC coercive and collusive bribery.
+
+---
+
+#### Solved PYQ 9 — 2023 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video suggesting that the corporation's chairman demanded a bribe connected with a large tyre order and accelerated pending bills. What should the executive do and which ethical and legal concerns arise? (250 words)
+
+**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official case contains the full institutional and personal pressures. Topic 19 owns provision-level routing; Topic 22 owns complete case architecture.
+
+---
+
+#### Solved PYQ 10 — 2024 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district administration is corrupt and has been bribed by industries drawing groundwater, while closure threatens employment. Discuss the options, compatible stakeholder measures and the administrator's ethical dilemmas. (250 words)
+
+**Source / ownership:** Neutral demand faithfully routed from books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 9. The official case contains the full water-allocation facts and sub-questions. Topic 19 uses it for allegation, proof and legal-classification boundaries; Topic 22 owns complete case method.
+
+
+### ORIGINAL MAINS / CASE QUESTIONS
+
+#### Original Mains Practice 1 — 10 marks
+
+**Question:** Distinguish Section 17A approval from Section 19 sanction under the Prevention of Corruption Act. Why does the distinction matter? Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 2 — 10 marks
+
+**Question:** How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-collusive bribery distinction? Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 3 — 15 marks
+
+**Question:** The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-corruption law. Analyse with reference to Sections 7, 8, 9, 10 and 13. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 4 — 15 marks
+
+**Question:** Assess the two unresolved supporting gaps in India's anti-corruption legal framework: whistleblower protection and Benami-law retrospectivity. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 5 — 20 marks
+
+**Question:** Evaluate the internal architecture of the Prevention of Corruption Act after 2018, including offences, proof, investigation approval and prosecution sanction. Answer in about 250 words.
+
+---
+
+#### Original Mains Practice 6 — 20 marks
+
+**Question:** A company's agent pays an official to approve non-compliant goods; senior managers knew of the plan, and the official's assets later appear disproportionate. Identify the legal routes and safeguards without presuming guilt. Answer in about 250 words.
+
+
+### MATCHED MODEL SOLUTIONS — PYQS
+
+#### Solved PYQ 1 — 2018 — 20 marks
 
 **Model solution**
 
@@ -846,29 +658,12 @@ For Indian application, the answer should avoid claiming that the Whistle Blower
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q12: Edward Snowden disclosed classified information about…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: Edward Snowden disclosed classified information about government surveillance, claiming a moral duty to inform the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: Edward Snowden disclosed classified information about government surveillance, claiming a moral duty to inform the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q12: Edward Snowden disclosed classified information about…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 2 — 2019 — 10 marks
-
-**Question:** GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. Topic 19 owns the distinction between the ARC's ethical acts-of-omission analysis and actual PC Act criminal ingredients.
 
 **Model solution**
 
@@ -882,29 +677,12 @@ The legal boundary is essential: the PC Act does not create a general offence ca
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 3 — 2019 — 20 marks
-
-**Question:** GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption agencies. Suggest institutional measures for anticipating threats, strengthening ethical competence and developing integrity-promoting administrative processes. (250 words)
-
-**Source / ownership:** Faithful condensed routing verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 7. Topic 19 uses the legal-framework component; Topics 16 and 20 own codes and detailed institutional jurisdictions.
 
 **Model solution**
 
@@ -918,29 +696,12 @@ Whistleblower safety remains a gap because the 2014 Act is uncommenced; interim 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 4 — 2021 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia supported by local functionaries, bribed and intimidated residents, compromised employees and a wider nexus. Examine the ethical issues and the appropriate official response. (250 words)
-
-**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, pages 4-5. The official paper contains the complete facts and sub-questions. Topic 19 uses it for bribery classification, evidence and legal-process boundaries; Topic 22 owns complete option analysis.
 
 **Model solution**
 
@@ -954,29 +715,12 @@ Witness protection, confidential reporting, transparent permit and transport tra
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia supported by local functionaries, bribed and intimidated…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia supported by local functionaries, bribed and intimidated…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: a newly posted officer confronts an illegal sand-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 5 — 2022 — 10 marks
-
-**Question:** GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct risks exposure to grave danger, physical harm and victimisation by vested interests. What policy measures would strengthen the protection mechanism? (150 words)
-
-**Source / ownership:** English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. Minor punctuation is normalised from the official bilingual paper. This is Topic 19's direct whistleblower PYQ.
 
 **Model solution**
 
@@ -990,29 +734,12 @@ Reform should operationalise a balanced law with narrowly defined security exclu
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct risks exposure to grave danger, physical harm and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct risks exposure to grave danger, physical harm and…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 6 — 2022 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt officials, politicians and a conflicted media owner, but faces inducement and pressure to suppress the report. Evaluate the legal-ethical issues and the appropriate response. (250 words)
-
-**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. Topic 19 uses the corruption-law and whistleblower-protection dimensions; Topic 22 owns complete case method.
 
 **Model solution**
 
@@ -1026,29 +753,12 @@ The journalist cannot assume comprehensive protection under the uncommenced 2014
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt officials, politicians and a conflicted…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt officials, politicians and a conflicted…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 7 — 2023 — 10 marks
-
-**Question:** GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 19 supplies the law-and-incentive qualification; Topics 1 and 2 own general value formation.
 
 **Model solution**
 
@@ -1062,29 +772,12 @@ Punishment alone can produce fear without character; moral exhortation alone can
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 8 — 2023 — 10 marks
-
-**Question:** GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 19 uses the distinction to clarify Section 8 compulsion; the PYQ's terms are not statutory labels for ARC coercive and collusive bribery.
 
 **Model solution**
 
@@ -1098,29 +791,12 @@ For corruption law, precision matters. ARC's coercive-versus-collusive bribery d
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 9 — 2023 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video suggesting that the corporation's chairman demanded a bribe connected with a large tyre order and accelerated pending bills. What should the executive do and which ethical and legal concerns arise? (250 words)
-
-**Source / ownership:** Neutral demand faithfully routed from books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official case contains the full institutional and personal pressures. Topic 19 owns provision-level routing; Topic 22 owns complete case architecture.
 
 **Model solution**
 
@@ -1134,29 +810,12 @@ The executive's duty is lawful escalation, evidence protection and institutional
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video suggesting that the corporation's chairman demanded a bribe…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video suggesting that the corporation's chairman demanded a bribe…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q12: a public-sector executive receives documents and a video…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 10 — 2024 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district administration is corrupt and has been bribed by industries drawing groundwater, while closure threatens employment. Discuss the options, compatible stakeholder measures and the administrator's ethical dilemmas. (250 words)
-
-**Source / ownership:** Neutral demand faithfully routed from books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 9. The official case contains the full water-allocation facts and sub-questions. Topic 19 uses it for allegation, proof and legal-classification boundaries; Topic 22 owns complete case method.
 
 **Model solution**
 
@@ -1170,29 +829,13 @@ The ethical dilemma is not farmers versus workers alone; it is impartial scarcit
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
+---
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district administration is corrupt and has been bribed by industries…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district administration is corrupt and has been bribed by industries…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q11: farmers facing water scarcity allege that the district…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+### MATCHED MODEL SOLUTIONS — ORIGINAL MAINS / CASES
 
 #### Original Mains Practice 1 — 10 marks
-
-**Question:** Distinguish Section 17A approval from Section 19 sanction under the Prevention of Corruption Act. Why does the distinction matter? Answer in about 150 words.
 
 **Model solution**
 
@@ -1206,27 +849,12 @@ The distinction matters because conflation can either obstruct lawful preliminar
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Section 17A approval from Section 19 sanction under the Prevention of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish Section 17A approval from Section 19 sanction under the Prevention of Corruption Act. Why does the distinction matter? Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish Section 17A approval from Section 19 sanction under the Prevention of Corruption Act. Why does the distinction matter? Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish Section 17A approval from Section 19 sanction under the Prevention of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 2 — 10 marks
-
-**Question:** How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-collusive bribery distinction? Answer in about 150 words.
 
 **Model solution**
 
@@ -1240,28 +868,12 @@ Thus Section 8 moves toward the ARC's moral distinction but does not convert tha
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-collusive bribery distinction? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Thus Section 8 moves toward the ARC's moral distinction but does not convert that analytical framework into a complete statutory classification. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-collusive bribery distinction? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “How far does Section 8 of the Prevention of Corruption Act reflect the ARC's coercive-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 3 — 15 marks
-
-**Question:** The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-corruption law. Analyse with reference to Sections 7, 8, 9, 10 and 13. Answer in about 200 words.
 
 **Model solution**
 
@@ -1275,27 +887,12 @@ The correct assessment is therefore double-edged. The Amendment closes giver and
 
 ---
 
-**Demand decoding:** The directive **analyse** requires a direct position on “The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-corruption law. Analyse with reference to Sections 7, 8, 9,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-corruption law. Analyse with reference to Sections 7, 8, 9,…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “The 2018 Prevention of Corruption Amendment simultaneously strengthened and narrowed anti-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 4 — 15 marks
-
-**Question:** Assess the two unresolved supporting gaps in India's anti-corruption legal framework: whistleblower protection and Benami-law retrospectivity. Answer in about 200 words.
 
 **Model solution**
 
@@ -1309,27 +906,12 @@ India needs a balanced commenced whistleblower law with reviewable security excl
 
 ---
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the two unresolved supporting gaps in India's anti-corruption legal framework:…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Assess the two unresolved supporting gaps in India's anti-corruption legal framework: whistleblower protection and Benami-law retrospectivity. Answer…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Assess the two unresolved supporting gaps in India's anti-corruption legal framework: whistleblower protection and Benami-law retrospectivity. Answer…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Assess the two unresolved supporting gaps in India's anti-corruption legal framework:…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 5 — 20 marks
-
-**Question:** Evaluate the internal architecture of the Prevention of Corruption Act after 2018, including offences, proof, investigation approval and prosecution sanction. Answer in about 250 words.
 
 **Model solution**
 
@@ -1345,27 +927,12 @@ The architecture is defensible only if safeguards protect bona fide decisions wi
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the internal architecture of the Prevention of Corruption Act after 2018,…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the ethical demand in “Evaluate the internal architecture of the Prevention of Corruption Act after 2018, including offences, proof, investigation approval and prosecution…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Evaluate the internal architecture of the Prevention of Corruption Act after 2018, including offences, proof, investigation approval and prosecution…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Evaluate the internal architecture of the Prevention of Corruption Act after 2018,…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 6 — 20 marks
-
-**Question:** A company's agent pays an official to approve non-compliant goods; senior managers knew of the plan, and the official's assets later appear disproportionate. Identify the legal routes and safeguards without presuming guilt. Answer in about 250 words.
 
 **Model solution**
 
@@ -1379,20 +946,5 @@ Corporate, criminal, disciplinary, contractual and recovery processes should rem
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
-**Demand decoding:** The directive **answer** requires a direct position on “A company's agent pays an official to approve non-compliant goods; senior managers knew of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A company's agent pays an official to approve non-compliant goods; senior managers knew of the plan, and the official's assets later appear…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A company's agent pays an official to approve non-compliant goods; senior managers knew of the plan, and the official's assets later appear…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A company's agent pays an official to approve non-compliant goods; senior managers knew of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---

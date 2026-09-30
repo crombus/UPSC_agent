@@ -11,7 +11,7 @@ title: Directive Principles of State Policy - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a unique substantive explanation and every question ends with a unique question-specific Examiner trap.
+40 original questions. Attempt every question before the separate explained key; correct options rotate A → B → C → D. Objective PYQs retain separately documented key status.
 
 ### Q1. With reference to Articles 36 and 37, consider the following statements:
 
@@ -26,30 +26,12 @@ B. 2 only
 C. 1 and 2 only
 D. 1, 2 and 3
 
-**Answer: A.**
-
-- **A:** Correct: Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
-- **C:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
-- **D:** Incorrect: the proposition "1, 2 and 3" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
-
-**Examiner trap:** Article 36 imports the Part III meaning of State; it does not create a narrower Union-only addressee.
-
 ### Q2. Which one of the following most accurately describes the historical analogy used for DPSP?
 
 A. They convert conventions of Cabinet government into judicial remedies.
 B. They resemble the Instrument of Instructions under the Government of India Act, 1935, but are addressed to democratic legislative and executive authorities.
 C. They reproduce the enforceable social rights in the United States Bill of Rights.
 D. They are identical to Irish constitutional provisions and were copied without adaptation.
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "They convert conventions of Cabinet government into judicial remedies." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
-- **B:** Correct: Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "They reproduce the enforceable social rights in the United States Bill of Rights." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
-- **D:** Incorrect: the proposition "They are identical to Irish constitutional provisions and were copied without adaptation." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
-
-**Examiner trap:** Irish borrowing identifies the immediate model, while the Spanish antecedent and Indian adaptation prevent a photocopy claim.
 
 ### Q3. Consider the following pairs:
 
@@ -65,15 +47,6 @@ B. 1 and 2 only
 C. 1, 2 and 4 only
 D. 2, 3 and 4 only
 
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
-- **B:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
-- **C:** Correct: Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
-
-**Examiner trap:** Article 39(d), not Article 39(a) or 39(e), contains equal pay for equal work.
-
 ### Q4. Which directive contains an express qualification tied to the State's economic capacity and development?
 
 A. Article 42
@@ -81,30 +54,12 @@ B. Article 40
 C. Article 39A
 D. Article 41
 
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "Article 42" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
-- **B:** Incorrect: the proposition "Article 40" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
-- **C:** Incorrect: the proposition "Article 39A" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
-- **D:** Correct: Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development." This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** The capacity qualifier belongs expressly to Article 41; it cannot be silently added to every directive.
-
 ### Q5. Which classification statement is most accurate?
 
 A. Article 43 overlaps: living wage is commonly socialistic, while cottage industries give it a Gandhian dimension.
 B. Article 48A is constitutionally labelled Gandhian.
 C. Articles 47 and 48 can belong to only one scholarly category each.
 D. Article 44 is classified as socialistic by the constitutional text.
-
-**Answer: A.**
-
-- **A:** Correct: The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "Article 48A is constitutionally labelled Gandhian." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
-- **C:** Incorrect: the proposition "Articles 47 and 48 can belong to only one scholarly category each." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
-- **D:** Incorrect: the proposition "Article 44 is classified as socialistic by the constitutional text." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
-
-**Examiner trap:** A textbook category helps revision but cannot displace the constitutional wording of an overlapping Article.
 
 ### Q6. Consider the following amendment changes:
 
@@ -120,30 +75,12 @@ B. All four are correctly matched
 C. 2 and 3 only
 D. 1 and 4 only
 
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "1, 2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
-- **B:** Correct: The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
-- **D:** Incorrect: the proposition "1 and 4 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
-
-**Examiner trap:** Amendment questions test both insertion and recasting: Article 45 survived the Eighty-sixth Amendment in a new form.
-
 ### Q7. After *Union of India v. Rajendra N. Shah* (2021), which position is correct?
 
 A. The entire 97th Amendment, including Article 43B, is void.
 B. Parliament has no competence over multi-State co-operative societies.
 C. Part IXB is operative for multi-State co-operative societies, but its application to State co-operative societies failed for want of ratification; Article 43B remains.
 D. Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP.
-
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "The entire 97th Amendment, including Article 43B, is void." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
-- **B:** Incorrect: the proposition "Parliament has no competence over multi-State co-operative societies." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
-- **C:** Correct: The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
-
-**Examiner trap:** A welfare objective cannot cure failure to follow the State-ratification requirement under Article 368.
 
 ### Q8. Which statement about the current Article 31C is correct?
 
@@ -152,30 +89,12 @@ B. It was wholly erased when the 42nd Amendment extension was struck down.
 C. It prevents courts from examining whether a law genuinely implements Article 39(b) or (c).
 D. It protects genuine Article 39(b)/(c) laws against Articles 14 and 19, while judicial review of the nexus and basic structure remains.
 
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "It protects every law implementing any Directive Principle from every Fundamental Right." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
-- **B:** Incorrect: the proposition "It was wholly erased when the 42nd Amendment extension was struck down." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
-- **C:** Incorrect: the proposition "It prevents courts from examining whether a law genuinely implements Article 39(b) or (c)." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
-- **D:** Correct: This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** Minerva Mills invalidated the all-DPSP extension of Article 31C, not the surviving Article 39(b)/(c) shield.
-
 ### Q9. Under *Property Owners Association (2024)*, which formulation is correct?
 
 A. A privately owned resource may fall under Article 39(b) depending on its nature, community impact, scarcity, concentration and common-good dimension.
 B. Every private asset is automatically a material resource of the community.
 C. No privately owned resource can ever fall within Article 39(b).
 D. Article 39(b) applies only after the State has first nationalised the resource.
-
-**Answer: A.**
-
-- **A:** Correct: The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "Every private asset is automatically a material resource of the community." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
-- **C:** Incorrect: the proposition "No privately owned resource can ever fall within Article 39(b)." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
-- **D:** Incorrect: the proposition "Article 39(b) applies only after the State has first nationalised the resource." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
-
-**Examiner trap:** Property Owners Association rejects both automatic inclusion and automatic exclusion of privately owned resources.
 
 ### Q10. Arrange the following in correct constitutional sequence:
 
@@ -189,30 +108,12 @@ B. 1-2-4-3
 C. 1-4-2-3
 D. 2-4-1-3
 
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "2-1-4-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
-- **B:** Correct: 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "1-4-2-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
-- **D:** Incorrect: the proposition "2-4-1-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
-
-**Examiner trap:** The chronology is causal: Golaknath produced an amendment response before Kesavananda imposed the basic-structure limit.
-
 ### Q11. Which chain most accurately explains the constitutionalisation of education?
 
 A. Article 46 alone created the enforceable right for every age group.
 B. Article 45 directly became enforceable without amendment or legislation.
 C. Articles 41/45 informed *Unni Krishnan*; the 86th Amendment inserted Article 21A and recast Article 45; the RTE Act supplied a statutory mechanism.
 D. Article 21A was inserted by the 42nd Amendment and later removed from Part III.
-
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "Article 46 alone created the enforceable right for every age group." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
-- **B:** Incorrect: the proposition "Article 45 directly became enforceable without amendment or legislation." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
-- **C:** Correct: The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "Article 21A was inserted by the 42nd Amendment and later removed from Part III." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
-
-**Examiner trap:** Education became enforceable through interpretation, amendment and statute; Article 45 did not enforce itself.
 
 ### Q12. Which statement correctly distinguishes Article 40 and the 74th Amendment?
 
@@ -221,15 +122,6 @@ B. Article 40 expressly directs creation of Municipalities.
 C. Article 40 applies only to Parliament and not States.
 D. Article 40 expressly concerns village panchayats; Municipalities are separately constitutionalised in Part IXA.
 
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "The 74th Amendment repealed Article 40." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
-- **B:** Incorrect: the proposition "Article 40 expressly directs creation of Municipalities." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
-- **C:** Incorrect: the proposition "Article 40 applies only to Parliament and not States." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
-- **D:** Correct: Local-government implementation overlaps, but the Article's exact text must be preserved. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** Article 40 names village panchayats; municipalities have their separate Part IXA route.
-
 ### Q13. Which statement correctly describes Article 38(2)?
 
 A. It directs the State to minimise inequalities in income and endeavour to eliminate inequalities in status, facilities and opportunities among individuals and groups.
@@ -237,30 +129,12 @@ B. It is an original 1950 clause limited to inequality between citizens and non-
 C. It creates an immediately enforceable individual claim to identical income.
 D. It was inserted by the Forty-second Amendment together with Article 39A.
 
-**Answer: A.**
-
-- **A:** Correct: The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "It is an original 1950 clause limited to inequality between citizens and non-citizens." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
-- **C:** Incorrect: the proposition "It creates an immediately enforceable individual claim to identical income." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
-- **D:** Incorrect: the proposition "It was inserted by the Forty-second Amendment together with Article 39A." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
-
-**Examiner trap:** Article 38(2) reaches status, facilities and opportunities as well as income.
-
 ### Q14. Which is the correct legal-services institutional order from national to grassroots?
 
 A. NALSA -> DLSA -> SLSA -> Taluk Committee
 B. NALSA -> SLSA -> DLSA -> Taluk Legal Services Committee
 C. Supreme Court -> Parliament -> DLSA -> Gram Sabha
 D. NALSA -> Finance Commission -> High Court -> Lok Sabha
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "NALSA -> DLSA -> SLSA -> Taluk Committee" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
-- **B:** Correct: Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "Supreme Court -> Parliament -> DLSA -> Gram Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
-- **D:** Incorrect: the proposition "NALSA -> Finance Commission -> High Court -> Lok Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
-
-**Examiner trap:** The territorial legal-services chain is NALSA-SLSA-DLSA-Taluk; court committees form a parallel forum-specific layer.
 
 ### Q15. Consider the following regarding sections 12 and 13 of the Legal Services Authorities Act:
 
@@ -276,30 +150,12 @@ B. 1, 2, 3 and 4
 C. 1, 3 and 4 only
 D. 1 and 2 only
 
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
-- **B:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
-- **C:** Correct: OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
-
-**Examiner trap:** Section 12 category eligibility and section 13 prima-facie screening are distinct statutory questions.
-
 ### Q16. If an ordinary Lok Adalat fails to secure settlement in a pending court case, what follows?
 
 A. The dispute becomes non-justiciable.
 B. It must decide the dispute on merits.
 C. Its members may impose a compromise in the public interest.
 D. The record returns to the referring court, which continues from the stage reached before reference.
-
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "The dispute becomes non-justiciable." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
-- **B:** Incorrect: the proposition "It must decide the dispute on merits." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
-- **C:** Incorrect: the proposition "Its members may impose a compromise in the public interest." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
-- **D:** Correct: Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** An ordinary Lok Adalat cannot impose a merits decision when settlement fails.
 
 ### Q17. Which feature uniquely marks a Permanent Lok Adalat?
 
@@ -308,30 +164,12 @@ B. It can decide non-compoundable criminal offences.
 C. It is constitutionally created by Article 39A without statutory basis.
 D. It hears appeals from ordinary Lok Adalat awards.
 
-**Answer: A.**
-
-- **A:** Correct: Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "It can decide non-compoundable criminal offences." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
-- **C:** Incorrect: the proposition "It is constitutionally created by Article 39A without statutory basis." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
-- **D:** Incorrect: the proposition "It hears appeals from ordinary Lok Adalat awards." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
-
-**Examiner trap:** Permanent Lok Adalat merits power is confined to its pre-litigation public-utility statutory field.
-
 ### Q18. Which statement about Article 44 is correct?
 
 A. It applies only to criminal law, which remains non-uniform.
 B. It directs the State to endeavour to secure a UCC for citizens throughout India; personal-law subjects lie in Concurrent List Entry 5.
 C. It directs courts to enact a uniform code when Parliament fails.
 D. It is a Fundamental Duty enforceable through Article 32.
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "It applies only to criminal law, which remains non-uniform." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
-- **B:** Correct: Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "It directs courts to enact a uniform code when Parliament fails." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
-- **D:** Incorrect: the proposition "It is a Fundamental Duty enforceable through Article 32." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
-
-**Examiner trap:** Article 44 states a State endeavour; it neither creates an Article 32 remedy nor transfers legislation to courts.
 
 ### Q19. Which case-description pair is incorrectly stated?
 
@@ -340,30 +178,12 @@ B. *Sarla Mudgal* - conversion cannot be used to evade an existing marriage
 C. *Shayara Bano* - Supreme Court ordered Parliament to enact a UCC within a fixed period
 D. *Shah Bano* - secular maintenance law and an Article 44 observation
 
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "*John Vallamattom* - discriminatory succession restriction and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
-- **B:** Incorrect: the proposition "*Sarla Mudgal* - conversion cannot be used to evade an existing marriage" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
-- **C:** Correct: *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "*Shah Bano* - secular maintenance law and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
-
-**Examiner trap:** Judicial observations supporting reform are not equivalent to a mandamus directing Parliament to enact a UCC.
-
 ### Q20. Which statement correctly states the post-Eighty-sixth Amendment education arrangement?
 
 A. Article 45 alone guarantees free and compulsory education from birth to fourteen.
 B. Article 21A covers children below six, while Article 45 begins at six.
 C. Article 45 was repealed when Article 21A was inserted.
 D. Article 21A covers ages six to fourteen, while Article 45 directs early childhood care and education until completion of six years.
-
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "Article 45 alone guarantees free and compulsory education from birth to fourteen." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
-- **B:** Incorrect: the proposition "Article 21A covers children below six, while Article 45 begins at six." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
-- **C:** Incorrect: the proposition "Article 45 was repealed when Article 21A was inserted." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
-- **D:** Correct: The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** The Eighty-sixth Amendment divides the age field: Article 21A covers six to fourteen; Article 45 covers below six.
 
 ### Q21. Which set contains only directives outside Part IV?
 
@@ -372,30 +192,12 @@ B. Articles 44, 50 and 350A
 C. Articles 335, 43B and 351
 D. Articles 39A, 350A and 351
 
-**Answer: A.**
-
-- **A:** Correct: Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "Articles 44, 50 and 350A" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
-- **C:** Incorrect: the proposition "Articles 335, 43B and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
-- **D:** Incorrect: the proposition "Articles 39A, 350A and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
-
-**Examiner trap:** Articles 335, 350A and 351 are constitutional directions outside Part IV, not additional Articles within it.
-
 ### Q22. Which distinction is correct?
 
 A. Both Articles were inserted by the 97th Amendment.
 B. Article 48 combines scientific agriculture/animal husbandry with cattle protection; Article 48A concerns environment, forests and wildlife.
 C. Article 48A is a Fundamental Duty.
 D. Article 48A concerns scientific animal husbandry, while Article 48 concerns forests.
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "Both Articles were inserted by the 97th Amendment." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
-- **B:** Correct: Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "Article 48A is a Fundamental Duty." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
-- **D:** Incorrect: the proposition "Article 48A concerns scientific animal husbandry, while Article 48 concerns forests." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
-
-**Examiner trap:** Article 48 combines scientific husbandry and cattle protection; Article 48A separately covers environment, forests and wildlife.
 
 ### Q23. Consider the following:
 
@@ -410,30 +212,12 @@ B. 2 and 3 only
 C. 1, 2 and 3
 D. 1 and 2 only
 
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
-- **B:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
-- **C:** Correct: All reproduce often-neglected textual elements of Articles 49-51. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
-
-**Examiner trap:** Article 49 contains a Parliamentary-law declaration filter that a generic heritage option may omit.
-
 ### Q24. Which statement best captures Article 47?
 
 A. It only directs total prohibition and says nothing about nutrition.
 B. It creates an absolute Fundamental Right to health enforceable without legislation.
 C. It concerns animal husbandry and cattle breeds.
 D. It treats nutrition, standard of living and public health as primary duties and also directs prohibition of intoxicants injurious to health except medicinal use.
-
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "It only directs total prohibition and says nothing about nutrition." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
-- **B:** Incorrect: the proposition "It creates an absolute Fundamental Right to health enforceable without legislation." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
-- **C:** Incorrect: the proposition "It concerns animal husbandry and cattle breeds." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
-- **D:** Correct: Article 47 has both welfare/public-health and prohibition limbs. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** Article 47 combines nutrition, living standards, public health and a qualified prohibition direction.
 
 ### Q25. Which use of a named critic is most defensible?
 
@@ -442,30 +226,12 @@ B. Claim Ivor Jennings supported immediate judicial enforcement of every directi
 C. Attribute "Conscience of the Constitution" to K.T. Shah.
 D. Treat N. Srinivasan's classification as part of constitutional text.
 
-**Answer: A.**
-
-- **A:** Correct: Named quotations add value only when accurately attributed and connected to an argument and counterargument. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "Claim Ivor Jennings supported immediate judicial enforcement of every directive." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
-- **C:** Incorrect: the proposition "Attribute "Conscience of the Constitution" to K.T. Shah." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
-- **D:** Incorrect: the proposition "Treat N. Srinivasan's classification as part of constitutional text." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
-
-**Examiner trap:** Named criticism earns marks only when answered through Article 37, institutions and delivery evidence.
-
 ### Q26. Which explains why DPSP implementation varies across India?
 
 A. Courts allocate identical budgets for every State.
 B. Many directives concern State/Concurrent fields, and fiscal, institutional and administrative capacity differs across States.
 C. Every DPSP must be implemented only by constitutional amendment.
 D. Article 37 bars States from making welfare laws.
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "Courts allocate identical budgets for every State." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
-- **B:** Correct: Federal competence and capacity produce both innovation and unequal delivery. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "Every DPSP must be implemented only by constitutional amendment." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
-- **D:** Incorrect: the proposition "Article 37 bars States from making welfare laws." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
-
-**Examiner trap:** Federal variation explains uneven implementation but does not erase the constitutional direction.
 
 ### Q27. Which matching is correct?
 
@@ -478,30 +244,12 @@ B. 1 and 3 only
 C. 1, 2 and 3
 D. 2 and 3 only
 
-**Answer: C.**
-
-- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
-- **B:** Incorrect: the proposition "1 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
-- **C:** Correct: The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively. This option states the controlling rule without adding a wider immunity or remedy.
-- **D:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
-
-**Examiner trap:** Articles 43, 43A and 43B test three different ideas: worker welfare, industrial participation and co-operative governance.
-
 ### Q28. Parliament enacts a statute declaring that every privately owned urban flat is a material resource of the community, states that it implements every DPSP, and bars all court review. Which is the best constitutional assessment?
 
 A. The declaration conclusively activates Article 31C.
 B. Article 31C protects it from every Fundamental Right because housing is welfare-related.
 C. Courts cannot question resource classification or basic structure.
 D. The law must show a genuine 39(b)/(c) nexus; not every private asset qualifies automatically; the surviving shield is only against Articles 14/19 and judicial review cannot be ousted.
-
-**Answer: D.**
-
-- **A:** Incorrect: the proposition "The declaration conclusively activates Article 31C." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
-- **B:** Incorrect: the proposition "Article 31C protects it from every Fundamental Right because housing is welfare-related." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
-- **C:** Incorrect: the proposition "Courts cannot question resource classification or basic structure." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
-- **D:** Correct: The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof. This option states the controlling rule without adding a wider immunity or remedy.
-
-**Examiner trap:** A legislative declaration cannot make a weak Article 39(b)/(c) nexus conclusive or exclude basic-structure review.
 
 ### Q29. What is the most accurate DPSP-related significance of the Constitution (Fourth Amendment) Act, 1955?
 
@@ -510,30 +258,12 @@ B. It inserted Article 31C for every Directive Principle.
 C. It inserted Article 38(2) and Article 43B.
 D. It constitutionalised village panchayats in Part IX.
 
-**Answer: A.**
-
-- **A:** Correct: The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third. This option states the controlling rule without adding a wider immunity or remedy.
-- **B:** Incorrect: the proposition "It inserted Article 31C for every Directive Principle." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
-- **C:** Incorrect: the proposition "It inserted Article 38(2) and Article 43B." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
-- **D:** Incorrect: the proposition "It constitutionalised village panchayats in Part IX." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
-
-**Examiner trap:** The Fourth Amendment belongs to the land-reform/property-response phase; it did not insert Article 31C.
-
 ### Q30. Which sequence best represents accountability for a non-justiciable Directive Principle?
 
 A. Directive text -> automatic writ -> judicial budget -> uniform outcome
 B. Directive text -> competent law and appropriation -> administration -> audit, legislative scrutiny, public debate and elections
 C. Directive text -> executive announcement -> constitutional completion
 D. Directive text -> constitutional amendment in every case -> no subsequent review
-
-**Answer: B.**
-
-- **A:** Incorrect: the proposition "Directive text -> automatic writ -> judicial budget -> uniform outcome" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
-- **B:** Correct: Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries. This option states the controlling rule without adding a wider immunity or remedy.
-- **C:** Incorrect: the proposition "Directive text -> executive announcement -> constitutional completion" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
-- **D:** Incorrect: the proposition "Directive text -> constitutional amendment in every case -> no subsequent review" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
-
-**Examiner trap:** Part IV accountability runs through law, budget, administration, audit, political debate and elections, not courts alone.
 
 ### Q31. Which statement most precisely captures Article 51(c)?
 
@@ -542,7 +272,342 @@ B. It authorises courts to conclude treaties without executive action.
 C. It directs the State to foster respect for international law and treaty obligations in dealings of organised peoples, without itself making every treaty self-executing.
 D. It concerns only arbitration of international disputes.
 
-**Answer: C.**
+### Q32. A statute claims to implement Article 39(b), but its stated resource connection is remote and it bars all judicial scrutiny. Which position is correct?
+
+A. The statutory declaration conclusively activates Article 31C.
+B. Any welfare recital protects the law from every Fundamental Right.
+C. Article 31C ceased to exist after Minerva Mills.
+D. A court may test the real Article 39(b) nexus and basic-structure limits; Article 31C shields only a genuine implementing law from Articles 14 and 19.
+
+### Q33. A child aged five is denied State-supported early-childhood care. Which constitutional provision states the relevant directive?
+
+A. Article 45; Article 21A separately concerns ages six to fourteen
+B. Article 21A alone covers all children below six
+C. Article 50 converts preschool into an enforceable writ
+D. Article 43B governs elementary education
+
+### Q34. A law implementing Article 47 limits sale of intoxicants; a trader challenges it under Article 19. Which account of DPSP interaction is sound?
+
+A. Article 47 automatically cancels Article 19
+B. Article 47 informs evaluation of a properly grounded reasonable restriction; it is not a blanket override
+C. Only Articles 39(b) and (c) can ever inform statutory purpose
+D. Article 37 makes the directive judicially enforceable on its own
+
+### Q35. After the Ninety-seventh Amendment and the Rajendra N. Shah decision, which proposition about co-operatives is secure?
+
+A. All of Part IXB applies to State co-operatives regardless of ratification
+B. Article 43B was invalidated in its entirety
+C. Article 43B’s Part IV directive remains; invalidity of parts of Part IXB does not erase it
+D. Co-operatives are exclusively addressed under Article 44
+
+### Q36. Which Article 39 pairing correctly differentiates resource distribution from wealth concentration?
+
+A. Article 39(b) controls concentration; 39(c) requires child development
+B. Article 39(b) requires equal pay; 39(c) establishes panchayats
+C. Both are contained exclusively in Article 48A
+D. Article 39(b) distributes material resources for common good; 39(c) prevents concentration of wealth and production means
+
+### Q37. Which set correctly shows why the textbook classification of DPSPs is interpretive rather than watertight?
+
+A. Article 43 combines living-wage and cottage-industry themes; Article 47 combines health and temperance
+B. Each directive has an exclusive single category written into Article 37
+C. Article 48A is a Fundamental Duty rather than a Part IV directive
+D. Article 39A and Article 43A were repealed by the Forty-fourth Amendment
+
+### Q38. A person eligible for legal aid under the Legal Services Authorities Act approaches an authority. Is eligibility alone a guarantee of any desired litigation?
+
+A. Yes, aid must be granted for every claim without scrutiny
+B. No; statutory category and a prima facie case both matter under Sections 12–13
+C. No, because legal aid exists only for criminal accused persons
+D. Yes, Article 39A directly dictates success on the merits
+
+### Q39. A litigant cites Article 48A and Article 51A(g) against severe pollution. Which distinction is correct?
+
+A. Both clauses are identically worded enforceable rights
+B. Only the citizen’s duty exists; the State has no environment directive
+C. Article 48A directs State protection; Article 51A(g) states a citizen duty, while enforceable claims require an applicable legal/rights route
+D. Article 48A directs protection only of monuments
+
+### Q40. A government says that any privately owned asset is automatically distributable under Article 39(b) and immune via Article 31C. What is the careful response?
+
+A. Every private asset is categorically excluded from material resources
+B. All privately owned goods are automatically material resources
+C. The 2024 Court decision abolished the surviving Article 31C
+D. Some private assets may qualify contextually; the statute’s genuine nexus and the surviving limited Article 31C must be examined
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### 1 — **Correct: A.**
+
+- **A:** Correct: Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+- **C:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+- **D:** Incorrect: the proposition "1, 2 and 3" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+
+**Examiner trap:** Article 36 imports the Part III meaning of State; it does not create a narrower Union-only addressee.
+
+### 2 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "They convert conventions of Cabinet government into judicial remedies." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+- **B:** Correct: Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "They reproduce the enforceable social rights in the United States Bill of Rights." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+- **D:** Incorrect: the proposition "They are identical to Irish constitutional provisions and were copied without adaptation." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+
+**Examiner trap:** Irish borrowing identifies the immediate model, while the Spanish antecedent and Indian adaptation prevent a photocopy claim.
+
+### 3 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
+- **B:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
+- **C:** Correct: Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
+
+**Examiner trap:** Article 39(d), not Article 39(a) or 39(e), contains equal pay for equal work.
+
+### 4 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "Article 42" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **B:** Incorrect: the proposition "Article 40" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **C:** Incorrect: the proposition "Article 39A" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **D:** Correct: Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development." This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** The capacity qualifier belongs expressly to Article 41; it cannot be silently added to every directive.
+
+### 5 — **Correct: A.**
+
+- **A:** Correct: The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Article 48A is constitutionally labelled Gandhian." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+- **C:** Incorrect: the proposition "Articles 47 and 48 can belong to only one scholarly category each." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+- **D:** Incorrect: the proposition "Article 44 is classified as socialistic by the constitutional text." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+
+**Examiner trap:** A textbook category helps revision but cannot displace the constitutional wording of an overlapping Article.
+
+### 6 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "1, 2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
+- **B:** Correct: The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
+- **D:** Incorrect: the proposition "1 and 4 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
+
+**Examiner trap:** Amendment questions test both insertion and recasting: Article 45 survived the Eighty-sixth Amendment in a new form.
+
+### 7 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "The entire 97th Amendment, including Article 43B, is void." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+- **B:** Incorrect: the proposition "Parliament has no competence over multi-State co-operative societies." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+- **C:** Correct: The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+
+**Examiner trap:** A welfare objective cannot cure failure to follow the State-ratification requirement under Article 368.
+
+### 8 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "It protects every law implementing any Directive Principle from every Fundamental Right." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **B:** Incorrect: the proposition "It was wholly erased when the 42nd Amendment extension was struck down." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **C:** Incorrect: the proposition "It prevents courts from examining whether a law genuinely implements Article 39(b) or (c)." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **D:** Correct: This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** Minerva Mills invalidated the all-DPSP extension of Article 31C, not the surviving Article 39(b)/(c) shield.
+
+### 9 — **Correct: A.**
+
+- **A:** Correct: The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Every private asset is automatically a material resource of the community." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+- **C:** Incorrect: the proposition "No privately owned resource can ever fall within Article 39(b)." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+- **D:** Incorrect: the proposition "Article 39(b) applies only after the State has first nationalised the resource." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+
+**Examiner trap:** Property Owners Association rejects both automatic inclusion and automatic exclusion of privately owned resources.
+
+### 10 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "2-1-4-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+- **B:** Correct: 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "1-4-2-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+- **D:** Incorrect: the proposition "2-4-1-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+
+**Examiner trap:** The chronology is causal: Golaknath produced an amendment response before Kesavananda imposed the basic-structure limit.
+
+### 11 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "Article 46 alone created the enforceable right for every age group." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+- **B:** Incorrect: the proposition "Article 45 directly became enforceable without amendment or legislation." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+- **C:** Correct: The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "Article 21A was inserted by the 42nd Amendment and later removed from Part III." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+
+**Examiner trap:** Education became enforceable through interpretation, amendment and statute; Article 45 did not enforce itself.
+
+### 12 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "The 74th Amendment repealed Article 40." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **B:** Incorrect: the proposition "Article 40 expressly directs creation of Municipalities." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **C:** Incorrect: the proposition "Article 40 applies only to Parliament and not States." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **D:** Correct: Local-government implementation overlaps, but the Article's exact text must be preserved. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** Article 40 names village panchayats; municipalities have their separate Part IXA route.
+
+### 13 — **Correct: A.**
+
+- **A:** Correct: The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It is an original 1950 clause limited to inequality between citizens and non-citizens." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
+- **C:** Incorrect: the proposition "It creates an immediately enforceable individual claim to identical income." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
+- **D:** Incorrect: the proposition "It was inserted by the Forty-second Amendment together with Article 39A." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
+
+**Examiner trap:** Article 38(2) reaches status, facilities and opportunities as well as income.
+
+### 14 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "NALSA -> DLSA -> SLSA -> Taluk Committee" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+- **B:** Correct: Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Supreme Court -> Parliament -> DLSA -> Gram Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+- **D:** Incorrect: the proposition "NALSA -> Finance Commission -> High Court -> Lok Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+
+**Examiner trap:** The territorial legal-services chain is NALSA-SLSA-DLSA-Taluk; court committees form a parallel forum-specific layer.
+
+### 15 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+- **B:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+- **C:** Correct: OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+
+**Examiner trap:** Section 12 category eligibility and section 13 prima-facie screening are distinct statutory questions.
+
+### 16 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "The dispute becomes non-justiciable." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **B:** Incorrect: the proposition "It must decide the dispute on merits." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **C:** Incorrect: the proposition "Its members may impose a compromise in the public interest." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **D:** Correct: Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** An ordinary Lok Adalat cannot impose a merits decision when settlement fails.
+
+### 17 — **Correct: A.**
+
+- **A:** Correct: Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It can decide non-compoundable criminal offences." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+- **C:** Incorrect: the proposition "It is constitutionally created by Article 39A without statutory basis." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+- **D:** Incorrect: the proposition "It hears appeals from ordinary Lok Adalat awards." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+
+**Examiner trap:** Permanent Lok Adalat merits power is confined to its pre-litigation public-utility statutory field.
+
+### 18 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "It applies only to criminal law, which remains non-uniform." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+- **B:** Correct: Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "It directs courts to enact a uniform code when Parliament fails." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+- **D:** Incorrect: the proposition "It is a Fundamental Duty enforceable through Article 32." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+
+**Examiner trap:** Article 44 states a State endeavour; it neither creates an Article 32 remedy nor transfers legislation to courts.
+
+### 19 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "*John Vallamattom* - discriminatory succession restriction and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+- **B:** Incorrect: the proposition "*Sarla Mudgal* - conversion cannot be used to evade an existing marriage" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+- **C:** Correct: *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "*Shah Bano* - secular maintenance law and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+
+**Examiner trap:** Judicial observations supporting reform are not equivalent to a mandamus directing Parliament to enact a UCC.
+
+### 20 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "Article 45 alone guarantees free and compulsory education from birth to fourteen." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **B:** Incorrect: the proposition "Article 21A covers children below six, while Article 45 begins at six." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **C:** Incorrect: the proposition "Article 45 was repealed when Article 21A was inserted." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **D:** Correct: The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** The Eighty-sixth Amendment divides the age field: Article 21A covers six to fourteen; Article 45 covers below six.
+
+### 21 — **Correct: A.**
+
+- **A:** Correct: Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Articles 44, 50 and 350A" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+- **C:** Incorrect: the proposition "Articles 335, 43B and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+- **D:** Incorrect: the proposition "Articles 39A, 350A and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+
+**Examiner trap:** Articles 335, 350A and 351 are constitutional directions outside Part IV, not additional Articles within it.
+
+### 22 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "Both Articles were inserted by the 97th Amendment." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+- **B:** Correct: Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Article 48A is a Fundamental Duty." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+- **D:** Incorrect: the proposition "Article 48A concerns scientific animal husbandry, while Article 48 concerns forests." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+
+**Examiner trap:** Article 48 combines scientific husbandry and cattle protection; Article 48A separately covers environment, forests and wildlife.
+
+### 23 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
+- **B:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
+- **C:** Correct: All reproduce often-neglected textual elements of Articles 49-51. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
+
+**Examiner trap:** Article 49 contains a Parliamentary-law declaration filter that a generic heritage option may omit.
+
+### 24 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "It only directs total prohibition and says nothing about nutrition." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **B:** Incorrect: the proposition "It creates an absolute Fundamental Right to health enforceable without legislation." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **C:** Incorrect: the proposition "It concerns animal husbandry and cattle breeds." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **D:** Correct: Article 47 has both welfare/public-health and prohibition limbs. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** Article 47 combines nutrition, living standards, public health and a qualified prohibition direction.
+
+### 25 — **Correct: A.**
+
+- **A:** Correct: Named quotations add value only when accurately attributed and connected to an argument and counterargument. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Claim Ivor Jennings supported immediate judicial enforcement of every directive." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+- **C:** Incorrect: the proposition "Attribute "Conscience of the Constitution" to K.T. Shah." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+- **D:** Incorrect: the proposition "Treat N. Srinivasan's classification as part of constitutional text." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+
+**Examiner trap:** Named criticism earns marks only when answered through Article 37, institutions and delivery evidence.
+
+### 26 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "Courts allocate identical budgets for every State." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
+- **B:** Correct: Federal competence and capacity produce both innovation and unequal delivery. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Every DPSP must be implemented only by constitutional amendment." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
+- **D:** Incorrect: the proposition "Article 37 bars States from making welfare laws." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
+
+**Examiner trap:** Federal variation explains uneven implementation but does not erase the constitutional direction.
+
+### 27 — **Correct: C.**
+
+- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+- **B:** Incorrect: the proposition "1 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+- **C:** Correct: The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+
+**Examiner trap:** Articles 43, 43A and 43B test three different ideas: worker welfare, industrial participation and co-operative governance.
+
+### 28 — **Correct: D.**
+
+- **A:** Incorrect: the proposition "The declaration conclusively activates Article 31C." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **B:** Incorrect: the proposition "Article 31C protects it from every Fundamental Right because housing is welfare-related." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **C:** Incorrect: the proposition "Courts cannot question resource classification or basic structure." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **D:** Correct: The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** A legislative declaration cannot make a weak Article 39(b)/(c) nexus conclusive or exclude basic-structure review.
+
+### 29 — **Correct: A.**
+
+- **A:** Correct: The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It inserted Article 31C for every Directive Principle." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
+- **C:** Incorrect: the proposition "It inserted Article 38(2) and Article 43B." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
+- **D:** Incorrect: the proposition "It constitutionalised village panchayats in Part IX." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
+
+**Examiner trap:** The Fourth Amendment belongs to the land-reform/property-response phase; it did not insert Article 31C.
+
+### 30 — **Correct: B.**
+
+- **A:** Incorrect: the proposition "Directive text -> automatic writ -> judicial budget -> uniform outcome" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
+- **B:** Correct: Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Directive text -> executive announcement -> constitutional completion" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
+- **D:** Incorrect: the proposition "Directive text -> constitutional amendment in every case -> no subsequent review" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
+
+**Examiner trap:** Part IV accountability runs through law, budget, administration, audit, political debate and elections, not courts alone.
+
+### 31 — **Correct: C.**
 
 - **A:** Incorrect: the proposition "It makes every treaty automatically enforceable as domestic law." fails against the controlling rule. Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d).
 - **B:** Incorrect: the proposition "It authorises courts to conclude treaties without executive action." fails against the controlling rule. Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d).
@@ -551,14 +616,7 @@ D. It concerns only arbitration of international disputes.
 
 **Examiner trap:** Article 51(c) promotes respect for international law and treaty obligations; it does not make every treaty self-executing.
 
-### Q32. A statute claims to implement Article 39(b), but its stated resource connection is remote and it bars all judicial scrutiny. Which position is correct?
-
-A. The statutory declaration conclusively activates Article 31C.
-B. Any welfare recital protects the law from every Fundamental Right.
-C. Article 31C ceased to exist after Minerva Mills.
-D. A court may test the real Article 39(b) nexus and basic-structure limits; Article 31C shields only a genuine implementing law from Articles 14 and 19.
-
-**Answer: D.**
+### 32 — **Correct: D.**
 
 - **A:** Incorrect: the proposition "The statutory declaration conclusively activates Article 31C." fails against the controlling rule. Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield.
 - **B:** Incorrect: the proposition "Any welfare recital protects the law from every Fundamental Right." fails against the controlling rule. Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield.
@@ -566,6 +624,78 @@ D. A court may test the real Article 39(b) nexus and basic-structure limits; Art
 - **D:** Correct: Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield. This option states the controlling rule without adding a wider immunity or remedy.
 
 **Examiner trap:** Article 31C protects only genuine Article 39(b)/(c) laws against Articles 14 and 19; no broader immunity should be inferred.
+
+### 33 — **Correct: A.**
+
+- **A:** Post-Eighty-sixth Amendment Article 45 directs early-childhood care and education below age six.
+- **B:** Article 21A concerns free compulsory education for ages six to fourteen.
+- **C:** Article 50 concerns separating the judiciary from the executive.
+- **D:** Article 43B concerns cooperative societies.
+
+**Examiner trap:** Do not project the pre-amendment Article 45 text onto the current provision.
+
+### 34 — **Correct: B.**
+
+- **A:** Article 47 is not an automatic suspension of enforceable rights.
+- **B:** A public-health directive can illuminate reasonableness while Article 19 controls legality.
+- **C:** Other DPSPs may legitimately inform public purpose without Article 31C immunity.
+- **D:** Article 37 says directives are non-justiciable.
+
+**Examiner trap:** Legitimate purpose is not a substitute for a rights-compatible means.
+
+### 35 — **Correct: C.**
+
+- **A:** Part IXB’s State-co-operative application was constitutionally limited.
+- **B:** The Article 43B directive survived.
+- **C:** The Court’s federalism ruling on Part IXB did not remove Article 43B.
+- **D:** Article 44 concerns the Uniform Civil Code.
+
+**Examiner trap:** Keep a Part IV directive distinct from a separate institutional Part.
+
+### 36 — **Correct: D.**
+
+- **A:** The order is reversed: 39(b) distribution, 39(c) anti-concentration.
+- **B:** Equal pay is 39(d), panchayats are Article 40.
+- **C:** Article 48A concerns environmental protection.
+- **D:** The two clauses address distribution and concentration by different wording.
+
+**Examiner trap:** Article 31C names both clauses, but they are not textual synonyms.
+
+### 37 — **Correct: A.**
+
+- **A:** Article 43 straddles socialistic and Gandhian goals; Article 47 has health and temperance limbs.
+- **B:** The Constitution does not prescribe socialist/Gandhian/liberal bins.
+- **C:** Article 48A is a Directive Principle; Article 51A(g) is a related duty.
+- **D:** The Forty-second Amendment inserted Articles 39A and 43A.
+
+**Examiner trap:** Classification is a study aid, not enacted constitutional text.
+
+### 38 — **Correct: B.**
+
+- **A:** Section 13 additionally requires the authority’s prima facie-case assessment.
+- **B:** Section 12 category plus Section 13 prima facie assessment govern eligibility for services.
+- **C:** Categories under Section 12 are wider than criminal accused persons.
+- **D:** Article 39A does not guarantee success or a direct merits remedy.
+
+**Examiner trap:** Eligible person, aid entitlement and case outcome are three different issues.
+
+### 39 — **Correct: C.**
+
+- **A:** Article 48A and Article 51A(g) occupy different Parts and are not standalone rights.
+- **B:** The State duty is expressly included in Part IV.
+- **C:** State directive and citizen duty can inform environmental interpretation, including Article 21 claims.
+- **D:** Article 49 addresses monuments; Article 48A addresses environment, forests and wildlife.
+
+**Examiner trap:** Paired directive/duty is not two new stand-alone Fundamental Rights.
+
+### 40 — **Correct: D.**
+
+- **A:** A categorical exclusion also overreads the constitutional text.
+- **B:** The 2024 decision rejected an automatic-all-private-property approach.
+- **C:** The surviving shield for genuine 39(b)/(c) laws was affirmed.
+- **D:** A contextual resource inquiry and genuine implementation are necessary before immunity is asserted.
+
+**Examiner trap:** Neither blanket inclusion nor blanket exclusion is the holding.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -581,7 +711,7 @@ D. A court may test the real Article 39(b) nexus and basic-structure limits; Art
 
 **Assessment and conclusion:** The architecture is broad and decentralised, but low awareness, uneven panel-lawyer quality, weak client communication and disposal-centred metrics reduce effective access. NALSA should prioritise early advice, counsel-performance review, client feedback and local-language delivery so Article 39A becomes quality-assured access rather than nominal representation.
 
-**Why this earns marks:** It answers both limbs, accurately lists section 12 categories, adds section 13, names the full institutional chain and two cases, assesses achievements and delivery limits, and gives a reform-oriented verdict within a 10-marker structure.
+**Why this earns marks:** Section 12 identifies the eligible groups but Section 13's prima facie-case requirement prevents eligibility alone being mistaken for an automatic litigation entitlement. The Article 39A/21 link and NALSA-to-Taluk service chain answer how aid is delivered; *Hoskot*, *Hussainara Khatoon* and *Suhas Chakma* ground the fair-trial and prison-access dimensions. The assessment tests quality and early access, not merely the number of bodies or Lok Adalat disposals.
 
 **How to improve this answer:** Replace one older case reference with *Suhas Chakma v. Union of India* (2024) and its Jail Visiting Lawyer/NALSA monitoring directions; compress the eligibility list into four clusters to preserve space for a sharper assessment.
 
@@ -763,7 +893,7 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 
 **Way forward:** early advice, counsel-performance review, client feedback, local-language access, stronger Taluk clinics and outcome-based evaluation.
 
-**Conclusion:** Article 39A is institutionally realised but not uniformly experienced; the next reform is quality assurance and last-mile trust.
+A prison clinic that merely posts a volunteer roster has not demonstrated accessible representation: a detainee must learn of the service, communicate privately with counsel and receive timely follow-up. NALSA’s coordination should therefore measure effective advice and case progress, not only settlement counts or outreach events. **Conclusion:** Article 39A is institutionally realised but not uniformly experienced; the next reform is quality assurance and last-mile trust.
 
 **Why this earns marks:** It accurately separates eligibility, institutions, ordinary/Permanent Lok Adalat powers, Article 21 cases, achievement and implementation limits, and proposes reforms tied to the diagnosis.
 

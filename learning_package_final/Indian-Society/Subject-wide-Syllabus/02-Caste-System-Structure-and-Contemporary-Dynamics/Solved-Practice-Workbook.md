@@ -1,1263 +1,309 @@
----
-title: "Caste System: Structure and Contemporary Dynamics — Solved Practice Workbook"
-topic_key: indian-society-02
----
 # Caste System: Structure and Contemporary Dynamics — Solved Practice Workbook
+
+Sources: canonical Basic 02, Advanced 02, paired session and audited GS-I descriptive PYQ routing ledger. ✅ Source-grounded; ⚠️ bounded analysis. No nationally representative marriage rate or all-jati census result is inferred. No objective PYQ official key is claimed. Topic-specific OCR sociological book PDFs were not found locally; canonical Markdown remains the evidence base.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Varna as ideal type?
-
-A. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: A.**
-**Explanation:** Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Varna as ideal type?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-C. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-D. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Answer: B.**
-**Explanation:** Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Varna as ideal type?
-
-A. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-D. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Answer: C.**
-**Explanation:** Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Varna as ideal type?
-
-A. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-D. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-
-**Answer: D.**
-**Explanation:** Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Jati as the real unit?
-
-A. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: A.**
-**Explanation:** Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q6. Which chronology card should be filed under Jati as the real unit?
-
-A. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-B. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: B.**
-**Explanation:** Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q7. Which option preserves the source-bounded meaning of Jati as the real unit?
-
-A. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-B. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-C. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: C.**
-**Explanation:** Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q8. Which statement avoids a close-option trap about Jati as the real unit?
-
-A. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: D.**
-**Explanation:** Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q9. Which statement correctly identifies Four defining features?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Answer: A.**
-**Explanation:** Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q10. Which chronology card should be filed under Four defining features?
-
-A. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: B.**
-**Explanation:** Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Four defining features?
-
-A. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-D. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-
-**Answer: C.**
-**Explanation:** Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Four defining features?
-
-A. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-B. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-C. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-D. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-
-**Answer: D.**
-**Explanation:** Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Endogamy with gotra exogamy?
-
-A. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: A.**
-**Explanation:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Endogamy with gotra exogamy?
-
-A. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-B. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-
-**Answer: B.**
-**Explanation:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Endogamy with gotra exogamy?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-C. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-D. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-
-**Answer: C.**
-**Explanation:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Endogamy with gotra exogamy?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-D. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Answer: D.**
-**Explanation:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Locally variable hierarchy?
-
-A. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-B. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-
-**Answer: A.**
-**Explanation:** Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Locally variable hierarchy?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-C. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-D. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-
-**Answer: B.**
-**Explanation:** Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Locally variable hierarchy?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-D. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-
-**Answer: C.**
-**Explanation:** Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Locally variable hierarchy?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: D.**
-**Explanation:** Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Occupational decoupling?
-
-A. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-B. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-C. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-D. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-
-**Answer: A.**
-**Explanation:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Occupational decoupling?
-
-A. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-D. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-
-**Answer: B.**
-**Explanation:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Occupational decoupling?
-
-A. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-B. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-C. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-D. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-
-**Answer: C.**
-**Explanation:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Occupational decoupling?
-
-A. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-D. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-
-**Answer: D.**
-**Explanation:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Sanskritisation?
-
-A. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-D. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-
-**Answer: A.**
-**Explanation:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Sanskritisation?
-
-A. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-B. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-C. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-D. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-
-**Answer: B.**
-**Explanation:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Sanskritisation?
-
-A. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-B. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-C. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-D. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-
-**Answer: C.**
-**Explanation:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Sanskritisation?
-
-A. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-B. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-C. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-D. M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-
-**Answer: D.**
-**Explanation:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Westernisation?
-
-A. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-B. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-C. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-D. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-
-**Answer: A.**
-**Explanation:** Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Westernisation?
-
-A. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-B. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-C. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-D. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-
-**Answer: B.**
-**Explanation:** Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Westernisation?
-
-A. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-B. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-C. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-D. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-
-**Answer: C.**
-**Explanation:** Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Westernisation?
-
-A. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-B. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-C. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-D. Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-
-**Answer: D.**
-**Explanation:** Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Rampura fieldwork?
-
-A. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-B. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-C. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-D. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-
-**Answer: A.**
-**Explanation:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Rampura fieldwork?
-
-A. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-B. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-C. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-D. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-
-**Answer: B.**
-**Explanation:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Rampura fieldwork?
-
-A. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-B. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-C. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-D. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-
-**Answer: C.**
-**Explanation:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Rampura fieldwork?
-
-A. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-D. Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-
-**Answer: D.**
-**Explanation:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Dominant caste?
-
-A. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-B. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-C. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-D. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-
-**Answer: A.**
-**Explanation:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Dominant caste?
-
-A. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-B. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-C. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: B.**
-**Explanation:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Dominant caste?
-
-A. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: C.**
-**Explanation:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Dominant caste?
-
-A. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-B. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-C. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-D. A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-
-**Answer: D.**
-**Explanation:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Caste-class overlap and cross-cutting?
-
-A. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-B. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-C. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-D. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-
-**Answer: A.**
-**Explanation:** Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Caste-class overlap and cross-cutting?
-
-A. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-B. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-C. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: B.**
-**Explanation:** Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Caste-class overlap and cross-cutting?
-
-A. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-B. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-C. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: C.**
-**Explanation:** Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Caste-class overlap and cross-cutting?
-
-A. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-B. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-C. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-D. Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-
-**Answer: D.**
-**Explanation:** Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Caste associations?
-
-A. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: A.**
-**Explanation:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Caste associations?
-
-A. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-B. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-C. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-D. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-
-**Answer: B.**
-**Explanation:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Caste associations?
-
-A. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-D. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-
-**Answer: C.**
-**Explanation:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Caste associations?
-
-A. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-B. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-C. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-D. Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-
-**Answer: D.**
-**Explanation:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Caste is not ethnicity?
-
-A. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: A.**
-**Explanation:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Caste is not ethnicity?
-
-A. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-B. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-C. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-D. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-
-**Answer: B.**
-**Explanation:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Caste is not ethnicity?
-
-A. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-D. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-
-**Answer: C.**
-**Explanation:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Caste is not ethnicity?
-
-A. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-D. An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-
-**Answer: D.**
-**Explanation:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Fluid rank and rigid boundary?
-
-A. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-B. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-C. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-D. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-
-**Answer: A.**
-**Explanation:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Fluid rank and rigid boundary?
-
-A. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-B. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-C. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-D. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-
-**Answer: B.**
-**Explanation:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Fluid rank and rigid boundary?
-
-A. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-B. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-C. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-D. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-
-**Answer: C.**
-**Explanation:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Fluid rank and rigid boundary?
-
-A. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-D. Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-
-**Answer: D.**
-**Explanation:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Sect is not caste?
-
-A. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-D. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-
-**Answer: A.**
-**Explanation:** A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Sect is not caste?
-
-A. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-B. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-C. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-D. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-
-**Answer: B.**
-**Explanation:** A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Sect is not caste?
-
-A. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-B. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-C. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-D. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-
-**Answer: C.**
-**Explanation:** A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Sect is not caste?
-
-A. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-B. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-C. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-D. A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-
-**Answer: D.**
-**Explanation:** A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Arena-specific salience?
-
-A. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-D. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-
-**Answer: A.**
-**Explanation:** Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Arena-specific salience?
-
-A. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-B. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-C. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-D. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-
-**Answer: B.**
-**Explanation:** Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Arena-specific salience?
-
-A. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-B. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-C. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-D. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-
-**Answer: C.**
-**Explanation:** Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Arena-specific salience?
-
-A. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-B. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-C. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-D. Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-
-**Answer: D.**
-**Explanation:** Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Status-parity marriage mechanism?
-
-A. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-B. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-C. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-D. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-
-**Answer: A.**
-**Explanation:** Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Status-parity marriage mechanism?
-
-A. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-B. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-C. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-D. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-
-**Answer: B.**
-**Explanation:** Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Status-parity marriage mechanism?
-
-A. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-B. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-C. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-D. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-
-**Answer: C.**
-**Explanation:** Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Status-parity marriage mechanism?
-
-A. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-D. Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-
-**Answer: D.**
-**Explanation:** Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Special Marriage Act civil route?
-
-A. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-B. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-C. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-D. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-
-**Answer: A.**
-**Explanation:** The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Special Marriage Act civil route?
-
-A. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-B. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-C. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: B.**
-**Explanation:** The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Special Marriage Act civil route?
-
-A. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-B. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-C. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-D. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-
-**Answer: C.**
-**Explanation:** The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Special Marriage Act civil route?
-
-A. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-D. The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-
-**Answer: D.**
-**Explanation:** The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Caste-census measurement status?
-
-A. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-B. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-C. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-D. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-
-**Answer: A.**
-**Explanation:** The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Caste-census measurement status?
-
-A. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-B. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-C. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: B.**
-**Explanation:** The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Caste-census measurement status?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-C. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: C.**
-**Explanation:** The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Caste-census measurement status?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-C. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-D. The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count.
-
-**Answer: D.**
-**Explanation:** The Press Information Bureau announcement of 30 April 2025 confirms caste enumeration in Census 2027 and Gazette S.O. 2681(E) fixes its reference dates; the operation is prospective, no caste count exists to quote, and post-Independence Censuses not enumerating all castes does not make this India's first historical caste count. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-B. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-C. Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-D. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-
-**Answer: A.**
-**Explanation:** Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-C. Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-D. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Answer: B.**
-**Explanation:** Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-B. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-C. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-D. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-
-**Answer: C.**
-**Explanation:** Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
-B. Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-C. Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-D. Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15.
-
-**Answer: D.**
-**Explanation:** Five direct General Studies Paper-I demands are verified for this owner: 2024 on intercaste versus interreligious marriage worth 10 marks, 2018 on caste assuming new identities and associational forms worth 10, 2020 on caste's relevance in a multi-cultural society worth 10, 2022 on the salience of sect worth 15 and 2023 on caste identity being both fluid and static worth 15. The remaining options belong to different chronology, actor or analytical categories.
+Attempt every original question before reading the separate key.
+
+### Q1. A survey treats the four-fold textual ordering as four marriage networks in every district. What is wrong?
+A. Varna is an ideal scheme; endogamous jatis are lived units.
+B. Jati is an ideal scheme; varna governs local marriages.
+C. Every jati occupies the same rank in all Indian villages.
+D. Local occupation necessarily identifies a separate religion.
+
+### Q2. Partners belong to one jati but different gotras. Which norms can this satisfy?
+A. Jati exogamy and compulsory same-gotra marriage.
+B. Jati endogamy alongside clan/gotra exogamy.
+C. Varna exogamy alongside mandatory same-gotra marriage.
+D. Sect exogamy alongside compulsory occupational matching.
+
+### Q3. A household changes profession but rejects matches outside its jati. Which boundary persists?
+A. Inherited occupation as sole determining feature.
+B. Ritual rank as a nationwide constant.
+C. Endogamy as intergenerational reproduction.
+D. Jajmani patronage as a universal wage form.
+
+### Q4. A jati is ranked differently on either side of a state boundary. Which explanation fits?
+A. Varna necessarily changes upon migration.
+B. The Census fixes national caste rank.
+C. All sub-jatis are merely occupations.
+D. Jati rank is locally negotiated, not a uniform national ladder.
+
+### Q5. A former hereditary service provider now earns cash wages. What follows?
+A. Occupational linkage can loosen while caste persists.
+B. Cash wages prove all occupational stigma has vanished.
+C. Jajmani remains the sole contract in Indian cities.
+D. Endogamy automatically ends with wage work.
+
+### Q6. A jati emulates locally prestigious rituals but is not accepted as higher. Which term applies?
+A. Guaranteed structural uplift through emulation.
+B. Sanskritisation as a status claim, not assured acceptance.
+C. Immediate religious conversion of its members.
+D. Westernisation through technological change alone.
+
+### Q7. A town adopts rights-based education and imitates high-status ritual customs. Analyse.
+A. Both processes refer to precisely the same mechanism.
+B. One process necessarily excludes the other.
+C. Westernisation and Sanskritisation can coexist yet differ.
+D. Neither process can be considered social change.
+
+### Q8. A landowning middling-ranked jati controls Panchayat networks. Explain its dominance.
+A. Ritual purity alone predicts every elected outcome.
+B. The case establishes that varna equals jati.
+C. Its wealth guarantees all members equal influence.
+D. Numerical, landed and political power converge locally.
+
+### Q9. A reserved Panchayat seat changes office-holding but land remains concentrated. Infer.
+A. Formal representation may challenge without ending older power.
+B. Reservation necessarily transfers all private land.
+C. Dominance follows the office-holder's ritual rank.
+D. Landholding never shapes decisions or credit access.
+
+### Q10. Which claim respects Srinivas's Rampura-based work?
+A. Village jati rankings are identical throughout India.
+B. Sanskritisation and dominant caste draw on local observation.
+C. Western education and ritual emulation are synonyms.
+D. Dominance is determined solely by priestly privilege.
+
+### Q11. A city professional finds housing through a jati association. What survives?
+A. Hereditary occupation throughout all city professions.
+B. Mandatory rural jajmani service in urban housing.
+C. Network capital despite occupational decoupling.
+D. Complete disappearance of ritual discrimination.
+
+### Q12. Two households of one jati have very different assets. What is refuted?
+A. Caste and class sometimes overlap in a locality.
+B. Class differentiation can emerge within one jati.
+C. An association can contain unequal members.
+D. Caste rank fixes every member's economic class.
+
+### Q13. A Dumont-only account predicts that ritually highest jatis hold every Panchayat office. What is missing?
+A. Béteille's separation of caste, class and power.
+B. Ambedkar's claim that occupation alone reproduces caste.
+C. Proof that elections never affect local allocation.
+D. A national fixed ladder covering every jati.
+
+### Q14. Which claim reflects Ambedkar's insight into caste reproduction?
+A. Occupation alone maintains group boundaries.
+B. Endogamous marriage reproduces boundaries across generations.
+C. Ritual imitation abolishes discriminatory institutions.
+D. Each sect must become a locally ranked jati.
+
+### Q15. Members of several jatis share a guru but marry within their jatis. What follows?
+A. Sect and jati are identical endogamous birth groups.
+B. Religious following fixes hereditary landholding.
+C. Sect affiliation can cross jati without ending endogamy.
+D. Shared devotion removes all status differences.
+
+### Q16. In a shrine dispute, which axis may dominate without universally outranking jati?
+A. Biological race derived from mother tongue.
+B. Varna as a universal guru-initiation rule.
+C. Occupation as sole predictor of pilgrimage.
+D. Sect as a devotional and doctrinal following.
+
+### Q17. Equal-resource intercaste families accept a match while interreligious families resist. Why?
+A. Parity may ease caste barriers; belonging can remain salient.
+B. Income parity guarantees acceptance of every union.
+C. No civil marriage route exists in Indian law.
+D. The case proves endogamy has disappeared.
+
+### Q18. What does the Special Marriage Act civil route show?
+A. Law can compel private kinship approval.
+B. Legal availability does not ensure social acceptance.
+C. No lawful interreligious route exists.
+D. Ritual belonging can never matter to families.
+
+### Q19. Why is “to some extent” in the 2024 PYQ important?
+A. It gives a precise district-by-district marriage rate.
+B. It establishes identical opposition in every region.
+C. It provides no national prevalence series to extrapolate.
+D. It confines the question to Census coding rules.
+
+### Q20. A jati association offers scholarships but polices marriage. Assess.
+A. Welfare work proves endogamy has ceased.
+B. Marital control prevents any political activity.
+C. Welfare makes caste equivalent to ethnicity.
+D. Associational change can coexist with boundary enforcement.
+
+### Q21. A prosperous Dalit and poor member of a dominant caste are compared. Infer.
+A. Caste-class overlap is empirical rather than definitional.
+B. Prosperity proves no one experiences discrimination.
+C. Group dominance makes every member wealthy.
+D. Two cases erase historical patterns of exclusion.
+
+### Q22. What can be said of the announced Census 2027 caste enumeration?
+A. All jati-wise incomes have already been published.
+B. It concerns future visibility, not current results.
+C. It is India's first historical caste count.
+D. Its announcement proves present mobility rates.
+
+### Q23. Which pairing distinguishes political identity from ritual hierarchy?
+A. Association = purity scale; endogamy = election procedure.
+B. Sect = birth group; economic class = varna ideal.
+C. Coalition = organised interest; rank = local purity claim.
+D. Urban job = ritual rank; gotra = class ownership.
+
+### Q24. A single city shows more intercaste unions. How test wider applicability?
+A. Examine only one wealthy jati within that city.
+B. Replace marriage variables with guru affiliation.
+C. Generalise from a single resisting family.
+D. Compare by region, generation and class.
+
+### Q25. A caste changes ceremonial practices; another controls local land and office. Which distinction matters?
+A. Ritual mobility claims and structural power can diverge.
+B. Ritual change always transfers Panchayat office.
+C. Guru lineage alone allocates all village property.
+D. Distinct jatis necessarily share a marriage network.
+
+### Q26. Which contemporary claim is unsound?
+A. Education may weaken hereditary occupation.
+B. Urban jobs have ended caste discrimination everywhere.
+C. Associations connect people beyond a village.
+D. Marriage rules can outlast occupational allocation.
+
+### Q27. A village study ranks purity but ignores land and elected office. Improve it.
+A. Assume identical class positions within each jati.
+B. Replace all land comparisons with sect divisions.
+C. Study caste, class and power as distinct related axes.
+D. Replace fieldwork with the four-varna text.
+
+### Q28. How should a Society answer refer to reservation and atrocity law?
+A. Invent statutory thresholds and case holdings.
+B. Infer national jati shares from future counts.
+C. Ignore caste disadvantage in public institutions.
+D. Identify remedies; leave detailed doctrine to Polity/Social Justice.
+
+### Separate answer key and four-way explanations
+
+| Q | Key | Correct mechanism; three distractor traps |
+|---|---|---|
+| 1 | A | Varna is textual, jati local; B reverses them, C invents uniform rank, D confuses faith with occupation. |
+| 2 | B | Within-jati/outside-gotra can coexist; A reverses the rules, C confuses varna and jati, D adds sect and work restrictions. |
+| 3 | C | Marriage reproduces group boundaries; A makes occupation sufficient, B invents national rank, D universalises jajmani. |
+| 4 | D | Jati hierarchy is locally negotiated; A treats migration as textual change, B invents Census rank, C denies sub-jati endogamy. |
+| 5 | A | Wage work can decouple occupation; B assumes stigma vanished, C universalises jajmani, D assumes marriage changes automatically. |
+| 6 | B | Sanskritisation seeks recognition; A promises economic gain, C invents conversion, D mistakes emulation for Westernisation. |
+| 7 | C | New rights and local emulation can coincide; A conflates them, B falsely excludes coexistence, D denies change. |
+| 8 | D | Numbers, land and influence define dominance; A equates rank with power, B equates varna and jati, C universalises member wealth. |
+| 9 | A | Formal office and informal assets can diverge; B invents land transfer, C equates office with ritual rank, D ignores land. |
+| 10 | B | Rampura grounds Srinivas's concepts; A universalises rank, C conflates change routes, D substitutes priesthood for power. |
+| 11 | C | Caste networks persist beyond hereditary work; A and B universalise old ties, D asserts unsupported total absence. |
+| 12 | D | Within-jati asset variation defeats a perfect mapping; A, B and C remain possible and do not fit a refutation. |
+| 13 | A | Ritual lens misses class and power; B misstates Ambedkar, C denies elections, D asserts uniform ranking. |
+| 14 | B | Endogamy reproduces membership; A reduces caste to work, C equates imitation with abolition, D conflates sect and jati. |
+| 15 | C | Devotion can cross jati; A confuses membership rules, B invents land rules, D assumes devotional unity erases hierarchy. |
+| 16 | D | Shrine politics may foreground sect; A invents race, B universalises varna, C reduces devotion to occupation. |
+| 17 | A | Parity addresses status costs but not belonging; B guarantees consent, C denies civil route, D announces caste extinction. |
+| 18 | B | Civil legality differs from familial assent; A compels consent, C denies the Act, D denies identity constraints. |
+| 19 | C | The PYQ gives a qualified premise, not a rate; A fabricates one, B universalises, D changes the subject. |
+| 20 | D | Associations may aid and police; A and B falsely exclude coexistence, C erases hierarchy/endogamy. |
+| 21 | A | Overlap does not equate caste and class; B denies exclusion, C generalises group power, D overreads two cases. |
+| 22 | B | Enumeration is prospective; A fabricates outcomes, C denies historical counts, D infers mobility without data. |
+| 23 | C | Mobilisation differs from purity rank; A reverses categories, B misclassifies sect/class, D confuses work/gotra. |
+| 24 | D | Regional and cohort disaggregation tests scope; A narrows further, B omits marriage, C treats one case as a rate. |
+| 25 | A | Ritual claims may not yield land or office; B promises transfer, C reduces land to lineage, D assumes jatis merge. |
+| 26 | B | Universal end of discrimination is unsupported; A, C and D are bounded possible changes. |
+| 27 | C | Béteille separates three axes; A assumes uniform class, B substitutes sect, D replaces observation with ideology. |
+| 28 | D | Society owns mechanisms, other subjects own detailed doctrine; A invents law, B invents counts, C dismisses exclusion. |
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+The audited Mains ledger routes 2018 Q8, 2020 Q8, 2022 Q18, 2023 Q19 and 2024 Q9 here. A Core-file later summary conflicts with the ledger on some question numbers; use ledger metadata, not a fabricated answer key. Models below are independent and not official solutions.
 
-Five direct General Studies Paper-I demands are verified for this owner. The 2024 demand is routed in the audited 2024-2025 ledger to the Basic owner; the 2018, 2020, 2022 and 2023 demands are routed in the audited 2018-2023 ledger to the Advanced owner, and the Core owner records that Core routing supersedes so that all five are answerable from the Basic spine. Every wording reproduced below was confirmed against the locally held official General Studies Paper-I question papers. No additional caste question, marking scheme or official key is invented, and no objective item is converted into a solved answer.
+### Verified descriptive PYQ — 2024 GS-I Q9 (10 marks; 150 words)
+**Demand:** Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Model answer:** Marriage remains a site of family status and community reproduction. Where partners from different jatis have comparable education and resources, some families may perceive less threat to their prestige or property arrangements. “To some extent” matters: continuing endogamy and regional variation forbid a blanket claim that caste barriers have fallen.
 
-#### 5. Indian applications and PYQ mapping
+Interreligious unions may engage religious belonging, rituals, children's upbringing and community scrutiny. Income parity need not settle these questions. The Special Marriage Act, 1954 supplies a civil route; it cannot compel kin approval, so personal-law plurality alone cannot explain every rejection. Nor do all families respond alike: generation, urban exposure and local support matter. Thus the two boundaries can loosen at different rates because status parity addresses only one obstacle. The PYQ offers a qualified contrast, not a national prevalence estimate or proof that either identity has disappeared.
 
-- ✅ **2024 GS-I PYQ (10 marks, verbatim):** "Intercaste marriages between castes which have
-  socio-economic parity have increased, to some extent, but this is less true of
-  interreligious marriages. Discuss." The expected answer: intercaste marriage between
-  castes of similar socio-economic standing is increasingly tolerated because it does not
-  threaten either family's status or resource base, whereas interreligious marriage crosses
-  a boundary tied to community identity, personal law and often deeper social sanction,
-  making it far less accepted even when economic parity exists — caste boundary-crossing is
-  becoming a status-parity question, while religious boundary-crossing remains an
-  identity-and-belonging question.
-- ⚠️ A locally dominant landholding caste retaining political control of a Panchayat despite
-  a numerically larger but dispersed lower-caste population illustrates the dominant-caste
-  concept in practice.
+### Verified descriptive PYQ — 2018 GS-I Q8 (10 marks; 150 words)
+**Demand:** Caste is assuming new identities and associational forms. Comment.
 
-#### 9. PYQ application
+**Model answer:** Caste has changed its public register rather than vanished. Urban education and non-farm work loosen hereditary occupation; wages can replace some jajmani-linked service ties. Yet jati associations fund schooling, broker employment and organise electoral claims, converting inherited membership into network capital. The same organisations may continue to regulate marriage.
 
-- ✅ **2024 GS-I (10 marks):** answer structure — define the caste-marriage vs
-  religion-marriage boundary distinction, give the socio-economic-parity condition for
-  intercaste acceptance, explain why religious boundary-crossing carries added
-  identity/personal-law weight, and conclude with the differential-pace observation.
+Srinivas's dominant-caste concept shows why political influence cannot be read directly from ritual rank: land, local numbers and Panchayat access matter. A professional who relies on a jati housing network despite choosing an unrelated occupation illustrates new and old forms together. These networks also vary internally: poorer members and women may have less voice in association leadership. While public purity restrictions may weaken, endogamy and discrimination in intimate spheres can persist. Therefore an associational form does not prove caste has become mere ethnicity; it remains an unequal social relation as well as a mobilised identity.
 
-#### Recent PYQ Integration (2024-2025)
+### Verified descriptive PYQ — 2020 GS-I Q8 (10 marks; 150 words)
+**Demand:** How does caste remain relevant to understanding multi-cultural Indian society? Elaborate with illustrations.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+**Model answer:** Multi-cultural difference is not simply a catalogue of languages and faiths: cultural groups also occupy unequal positions. Varna is a textual four-fold ideal; jati is the lived, locally ranked and often endogamous unit. Families sharing a religion may resist marriage outside a jati. Historical service relations tied some jatis to landholding patrons, while wage employment may loosen this relation without removing inequality.
 
-- **Years represented:** 2024
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
+The dominant-caste concept supplies an illustration of political power: in a village, a numerous landholding jati may shape Panchayat decisions despite middling ritual rank. In cities a jati association may provide housing contacts or scholarships after occupational change. Thus caste matters in marriage, economy, politics and ritual. Yet jati members differ in gender, class and locality, and a devotional sect may span multiple jatis. Treating cultural plurality as equal status would conceal precisely the stratification that caste analysis reveals.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-I | 9 | Intercaste versus interreligious marriages | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+### Verified descriptive PYQ — 2022 GS-I Q18 (15 marks; 250 words)
+**Demand:** Analyse the salience of sect in Indian society vis-à-vis caste, region and religion.
 
-##### What this owner must now support
+**Model answer:** A sect is a devotional or doctrinal following often centred on a teacher, lineage or practice. Jati denotes a birth-linked, frequently endogamous group; religion is a wider faith community, and region a territorial-cultural identity. These axes overlap but their importance changes with the social arena.
 
-- Intercaste versus interreligious marriages
+At a shrine, devotion and leadership may make sect affiliation immediately salient. Devotees of several jatis might participate in the same practice. In marriage negotiations, however, families may still prioritise jati or sub-jati boundaries over a common guru. When distributing village resources, landholding and elected office can make caste and class more consequential than sect. Religious belonging can be mobilised around interreligious unions, while a regional claim may dominate a dispute over territorial development. A migrant in a city might seek both a regional network and a sectarian congregation; neither affiliation mechanically erases the other.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+Shared devotion therefore offers opportunities for contact without proving equal power at the shrine or freedom from endogamy outside it. A shared Sufi devotional space, for example, cannot establish that all worshippers exercise identical authority. Nor is a sect merely another word for religion: several sects may exist within a faith, and practices may cross religious boundaries. Evaluate who controls an institution and who can enter it, including gender and class variation. There is no permanent national ranking of sect, caste, region and religion. A strong answer specifies whether the question concerns ritual, marriage, elections or resource distribution before judging relative salience.
 
-#### 10. PYQ-based analytical application
+### Verified descriptive PYQ — 2023 GS-I Q19 (15 marks; 250 words)
+**Demand:** Why is caste identity in India both fluid and static?
 
-- ✅ **2024 GS-I (10 marks, verbatim):** "Intercaste marriages between castes which have
-  socio-economic parity have increased, to some extent, but this is less true of
-  interreligious marriages. Discuss." Analytical route: (a) apply the status-parity versus
-  community-boundary distinction; (b) explain why parity may matter for some intercaste
-  matches without universalising it; (c) explain interreligious resistance through
-  community-belonging and kinship boundaries while noting the Special Marriage Act's civil
-  route; (d) conclude that the qualified pattern needs region- and class-sensitive
-  evidence, not a uniform “modernisation” story.
+**Model answer:** The apparent contradiction dissolves when changing status is separated from the reproduction of group membership. Jati is inherited and commonly endogamous: even as occupations change, marriage negotiations and kin networks can sustain its boundary. Ambedkar's emphasis on endogamy explains why a professional's promotion cannot by itself dismantle unequal treatment of their group.
 
-#### Historical PYQ Integration (2018-2023)
+Fluidity has distinct sources. Srinivas's Sanskritisation describes adoption of locally prestigious practices to claim rank; acceptance and material gain remain uncertain. His dominant-caste concept explains another form: land, numbers and Panchayat influence can give a middling-ranked jati power without ritual ascent. Schooling, migration and non-farm work weaken inherited occupational allocation; associations can convert jati ties into welfare and electoral leverage. Béteille's caste–class–power distinction clarifies why ritual, material and political gains need not move together: wealthy disadvantaged-caste members and poor locally dominant-caste members are possible without negating patterned exclusion.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+Rank, occupation and political influence can thus move in particular places, whereas hereditary membership and intimate marital boundaries change more slowly. Neither side is absolute: the qualified 2024 marriage PYQ notes that parity can ease some intercaste matches. Extent varies by locality, gender, class and generation; a future caste enumeration supplies no present mobility rate. Caste is both a changing distribution of power and a repeatedly reproduced relation of kinship and unequal status. Its fluid and static features operate at different analytical levels.
 
-- **Years represented:** 2018, 2020, 2022, 2023
-- **Paper(s):** GS-I
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-I | 8 | Caste assuming new identities and associational forms | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-I | 8 | Relevance of caste in understanding multi-cultural Indian society | Elaborate with illustrations · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-I | 18 | Salience of sect in Indian society against caste region and religion | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-I | 19 | Caste identity in India as both fluid and static | Why · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Caste assuming new identities and associational forms
-- Relevance of caste in understanding multi-cultural Indian society
-- Salience of sect in Indian society against caste region and religion
-- Caste identity in India as both fluid and static
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2024 GS-I Q9
-
-**Demand:** Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss. (Answer in 150 words) 10 marks.
-
-**Status:** Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2024 General Studies Paper-I.
-
-**Model solution:** Frame the divergence rather than marriage change in general. Claim one: parity loosens the caste boundary, because where two jatis are of similar socio-economic standing an alliance threatens neither family's status nor resource base, which converts caste boundary-crossing into a status calculation; the qualification is that the premise is explicitly hedged as increasing only to some extent and is not a national prevalence series. Claim two: belonging holds the religious boundary, because interreligious marriage engages community identity, kinship networks and family sanction that economic parity does not remove; the named evidence that personal-law plurality alone is insufficient is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance must be social rather than merely legal. Add the reproduction point that endogamy remains the least-changed of the four defining features, so neither trend implies that caste is dissolving. Qualify explicitly against the marriage-trend generalisation risk: the premise is hedged as increasing only to some extent and is not a national prevalence series. Conclude that the two boundaries erode at different speeds because they are guarded by different things: status and resources on one side, identity and belonging on the other. Why this earns marks: it answers the comparative demand, supplies the mechanism for each side, names the civil route that defeats the lazy personal-law explanation, and keeps the qualified premise intact.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Frame the divergence rather than marriage change in general. Claim one: parity loosens the caste boundary, because where two jatis are of similar socio-economic standing an alliance threatens neither family's status nor resource base, which converts caste boundary-crossing into a status calculation; the qualification is that the premise is explicitly hedged as increasing only to some extent and is not a national prevalence series. Claim two: belonging holds the religious boundary, because interreligious marriage engages community identity, kinship networks and family sanction that economic parity does not remove; the named evidence that personal-law plurality alone is insufficient is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance must be social rather than merely legal. Add the reproduction point that endogamy remains the least-changed of the four defining features, so neither trend implies that caste is dissolving. Qualify explicitly against the marriage-trend generalisation risk: the premise is hedged as increasing only to some extent and is not a national prevalence series. Conclude that the two boundaries erode at different speeds because they are guarded by different things: status and resources on one side, identity and belonging on the other. Why this earns marks: it answers the comparative demand, supplies the mechanism for each side, names the civil route that defeats the lazy personal-law explanation, and keeps the qualified premise intact.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2024 General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Frame the divergence rather than marriage change in general. Claim one: parity loosens the caste boundary, because where two jatis are of similar socio-economic standing an alliance threatens neither family's status nor resource base, which converts caste boundary-crossing into a status calculation; the qualification is that the premise is explicitly hedged as increasing only to some extent and is not a national prevalence series. Claim two: belonging holds the religious boundary, because interreligious marriage engages community identity, kinship networks and family sanction that economic parity does not remove; the named evidence that personal-law plurality alone is insufficient is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance must be social rather than merely legal. Add the reproduction point that endogamy remains the least-changed of the four defining features, so neither trend implies that caste is dissolving. Qualify explicitly against the marriage-trend generalisation risk: the premise is hedged as increasing only to some extent and is not a national prevalence series. Conclude that the two boundaries erode at different speeds because they are guarded by different things: status and resources on one side, identity and belonging on the other. Why this earns marks: it answers the comparative demand, supplies the mechanism for each side, names the civil route that defeats the lazy personal-law explanation, and keeps the qualified premise intact.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 2 — 2018 GS-I Q8
-
-**Demand:** "Caste system is assuming new identities and associational forms. Hence, caste system cannot be eradicated in India." Comment. (Answer in 150 words) 10 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Open by accepting the observation and contesting the inference. Claim one: the register has changed, because occupational allocation, service ties and public purity enforcement have weakened under urbanisation, schooling and non-farm employment, which proves that the ritual-economic scaffolding is not what now carries caste; the qualification is that stigmatised occupations and their inheritance persist. Claim two: the replacement is organisational, because caste associations and jati panchayats arbitrate disputes, enforce endogamy norms, run welfare and educational trusts and organise electoral mobilisation, which proves caste re-entering public life as network and interest rather than as ritual rank; the qualification is that this does not make caste equivalent to ethnicity, since hierarchy and endogamy persist. Claim three: what did not change is endogamy and intimate-sphere discrimination, which is why associational vitality coexists with an unbroken marriage boundary. Comment on the inference: the premise supports the conclusion that caste is not disappearing, but eradication is a normative-institutional question rather than an empirical prediction, and reservation and atrocity-protection doctrine belongs to Polity and Social Justice rather than to a Society answer. Why this earns marks: it separates observation from inference, gives old form, replacement and residue in order, and refuses both the disappearance and the fatalism thesis.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2018 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open by accepting the observation and contesting the inference. Claim one: the register has changed, because occupational allocation, service ties and public purity enforcement have weakened under urbanisation, schooling and non-farm employment, which proves that the ritual-economic scaffolding is not what now carries caste; the qualification is that stigmatised occupations and their inheritance persist. Claim two: the replacement is organisational, because caste associations and jati panchayats arbitrate disputes, enforce endogamy norms, run welfare and educational trusts and organise electoral mobilisation, which proves caste re-entering public life as network and interest rather than as ritual rank; the qualification is that this does not make caste equivalent to ethnicity, since hierarchy and endogamy persist. Claim three: what did not change is endogamy and intimate-sphere discrimination, which is why associational vitality coexists with an unbroken marriage boundary. Comment on the inference: the premise supports the conclusion that caste is not disappearing, but eradication is a normative-institutional question rather than an empirical prediction, and reservation and atrocity-protection doctrine belongs to Polity and Social Justice rather than to a Society answer. Why this earns marks: it separates observation from inference, gives old form, replacement and residue in order, and refuses both the disappearance and the fatalism thesis.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: "Caste system is assuming new identities and associational forms. Hence, caste system cannot be eradicated in India." Comment. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open by accepting the observation and contesting the inference. Claim one: the register has changed, because occupational allocation, service ties and public purity enforcement have weakened under urbanisation, schooling and non-farm employment, which proves that the ritual-economic scaffolding is not what now carries caste; the qualification is that stigmatised occupations and their inheritance persist. Claim two: the replacement is organisational, because caste associations and jati panchayats arbitrate disputes, enforce endogamy norms, run welfare and educational trusts and organise electoral mobilisation, which proves caste re-entering public life as network and interest rather than as ritual rank; the qualification is that this does not make caste equivalent to ethnicity, since hierarchy and endogamy persist. Claim three: what did not change is endogamy and intimate-sphere discrimination, which is why associational vitality coexists with an unbroken marriage boundary. Comment on the inference: the premise supports the conclusion that caste is not disappearing, but eradication is a normative-institutional question rather than an empirical prediction, and reservation and atrocity-protection doctrine belongs to Polity and Social Justice rather than to a Society answer. Why this earns marks: it separates observation from inference, gives old form, replacement and residue in order, and refuses both the disappearance and the fatalism thesis.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2018 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 3 — 2020 GS-I Q8
-
-**Demand:** Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (Answer in 150 words) 10 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Answer that caste has not lost relevance because it is the axis on which India's plurality is stratified rather than merely differentiated, and elaborate across four arenas. Marriage: endogamy remains the most consistently observed defining feature and operates with gotra exogamy, which proves that the most intimate arena is still caste-governed. Ritual and stigma: locally ranked purity and pollution notions still order interaction in many settings, with the qualification that rank order varies regionally and cannot be stated as one national ladder. Economy: occupational decoupling is real under urban and non-farm employment, yet caste-class overlap persists unevenly and cross-cutting differentiation now appears inside single castes, which proves relevance without determinism. Politics: caste associations and dominant castes convert numbers, land and office into local authority, which proves that caste organises interest as well as status. Conclude that caste is analytically indispensable for a multi-cultural society precisely because plurality without stratification would be a different problem, while conceding that its form has shifted from allocation to association. Why this earns marks: it uses four illustrated arenas rather than assertions, concedes the genuine change, and states the exact reason relevance survives.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2020 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Answer that caste has not lost relevance because it is the axis on which India's plurality is stratified rather than merely differentiated, and elaborate across four arenas. Marriage: endogamy remains the most consistently observed defining feature and operates with gotra exogamy, which proves that the most intimate arena is still caste-governed. Ritual and stigma: locally ranked purity and pollution notions still order interaction in many settings, with the qualification that rank order varies regionally and cannot be stated as one national ladder. Economy: occupational decoupling is real under urban and non-farm employment, yet caste-class overlap persists unevenly and cross-cutting differentiation now appears inside single castes, which proves relevance without determinism. Politics: caste associations and dominant castes convert numbers, land and office into local authority, which proves that caste organises interest as well as status. Conclude that caste is analytically indispensable for a multi-cultural society precisely because plurality without stratification would be a different problem, while conceding that its form has shifted from allocation to association. Why this earns marks: it uses four illustrated arenas rather than assertions, concedes the genuine change, and states the exact reason relevance survives.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Answer that caste has not lost relevance because it is the axis on which India's plurality is stratified rather than merely differentiated, and elaborate across four arenas. Marriage: endogamy remains the most consistently observed defining feature and operates with gotra exogamy, which proves that the most intimate arena is still caste-governed. Ritual and stigma: locally ranked purity and pollution notions still order interaction in many settings, with the qualification that rank order varies regionally and cannot be stated as one national ladder. Economy: occupational decoupling is real under urban and non-farm employment, yet caste-class overlap persists unevenly and cross-cutting differentiation now appears inside single castes, which proves relevance without determinism. Politics: caste associations and dominant castes convert numbers, land and office into local authority, which proves that caste organises interest as well as status. Conclude that caste is analytically indispensable for a multi-cultural society precisely because plurality without stratification would be a different problem, while conceding that its form has shifted from allocation to association. Why this earns marks: it uses four illustrated arenas rather than assertions, concedes the genuine change, and states the exact reason relevance survives.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2020 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 4 — 2022 GS-I Q18
-
-**Demand:** Analyse the salience of 'sect' in Indian society vis-a-vis caste, region and religion. (Answer in 250 words) 15 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Begin by refusing a single national ranking and defining the units precisely. A sect, whether panth or sampradaya, is a religious following constituted by doctrine, guru lineage and initiation; a jati is a birth-ascribed endogamous group; a religion is a faith community; a region is a territorial-cultural group. Analyse arena by arena. Marriage and local status: jati and sub-jati decide the boundary through endogamy, so sect salience is low here even when a jati is concentrated in one sect. Devotional life and shrine politics: sect is decisive, because doctrine, lineage and sacred-site control organise the arena. Electoral mobilisation: jati clusters and religion usually dominate, with sect entering where a sacred site or lineage becomes a political resource. Development grievance: region and language dominate, which is why sect rarely frames disparity claims. Add the overlap caution that a jati concentrated in a sect does not make the two the same kind of unit, since one is a birth-and-marriage axis and the other a voluntary or inherited following. Conclude that sect is a real but arena-bounded axis whose salience rises in ritual and sacred-site contexts and falls in marriage and disparity contexts, so the correct verdict is contextual salience rather than a hierarchy of identities. Why this earns marks: it defines four competing units, ranks them by arena with reasons, resists a false single ranking, and supplies the overlap caution examiners look for.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2022 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin by refusing a single national ranking and defining the units precisely. A sect, whether panth or sampradaya, is a religious following constituted by doctrine, guru lineage and initiation; a jati is a birth-ascribed endogamous group; a religion is a faith community; a region is a territorial-cultural group. Analyse arena by arena. Marriage and local status: jati and sub-jati decide the boundary through endogamy, so sect salience is low here even when a jati is concentrated in one sect. Devotional life and shrine politics: sect is decisive, because doctrine, lineage and sacred-site control organise the arena. Electoral mobilisation: jati clusters and religion usually dominate, with sect entering where a sacred site or lineage becomes a political resource. Development grievance: region and language dominate, which is why sect rarely frames disparity claims. Add the overlap caution that a jati concentrated in a sect does not make the two the same kind of unit, since one is a birth-and-marriage axis and the other a voluntary or inherited following. Conclude that sect is a real but arena-bounded axis whose salience rises in ritual and sacred-site contexts and falls in marriage and disparity contexts, so the correct verdict is contextual salience rather than a hierarchy of identities. Why this earns marks: it defines four competing units, ranks them by arena with reasons, resists a false single ranking, and supplies the overlap caution examiners look for.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Analyse the salience of 'sect' in Indian society vis-a-vis caste, region and religion. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin by refusing a single national ranking and defining the units precisely. A sect, whether panth or sampradaya, is a religious following constituted by doctrine, guru lineage and initiation; a jati is a birth-ascribed endogamous group; a religion is a faith community; a region is a territorial-cultural group. Analyse arena by arena. Marriage and local status: jati and sub-jati decide the boundary through endogamy, so sect salience is low here even when a jati is concentrated in one sect. Devotional life and shrine politics: sect is decisive, because doctrine, lineage and sacred-site control organise the arena. Electoral mobilisation: jati clusters and religion usually dominate, with sect entering where a sacred site or lineage becomes a political resource. Development grievance: region and language dominate, which is why sect rarely frames disparity claims. Add the overlap caution that a jati concentrated in a sect does not make the two the same kind of unit, since one is a birth-and-marriage axis and the other a voluntary or inherited following. Conclude that sect is a real but arena-bounded axis whose salience rises in ritual and sacred-site contexts and falls in marriage and disparity contexts, so the correct verdict is contextual salience rather than a hierarchy of identities. Why this earns marks: it defines four competing units, ranks them by arena with reasons, resists a false single ranking, and supplies the overlap caution examiners look for.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2022 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 5 — 2023 GS-I Q19
-
-**Demand:** Why is caste identity in India both fluid and static? (Answer in 250 words) 15 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Open with the level thesis: caste is fluid in rank and static in boundary. Build the static layer first. Endogamy is the most consistently observed defining feature and, with gotra exogamy, reproduces the group every generation; hereditary membership and residential and marital segregation reinforce it; this proves that the mechanism of reproduction has changed least. Build the fluid layer next. Sanskritisation, described by M.N. Srinivas from Rampura fieldwork in Karnataka, lets a jati claim higher local rank by adopting the practices of a locally higher-status caste, with the qualification that it is a claim rather than proof of acceptance; dominance built on numbers, land and office allows a middle-ranked jati to exercise local power above its ritual rank; urban labour markets recruit on credentials and have broken most hereditary occupational allocation; caste associations reinvent the group as an electoral and welfare network. Give the explanation the directive demands: rank is negotiable because it is locally constructed and locally contested, whereas the boundary is not, because it is reproduced through marriage rather than through opinion. Add the measurement point that no all-India jati count may be quoted and that the Census 2027 caste enumeration announced on 30 April 2025 is prospective. Conclude that fluidity and rigidity are not a contradiction but a division of labour between status and reproduction. Why this earns marks: it explains rather than lists, separates two layers with named evidence, and answers the why directive with a mechanism.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2023 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open with the level thesis: caste is fluid in rank and static in boundary. Build the static layer first. Endogamy is the most consistently observed defining feature and, with gotra exogamy, reproduces the group every generation; hereditary membership and residential and marital segregation reinforce it; this proves that the mechanism of reproduction has changed least. Build the fluid layer next. Sanskritisation, described by M.N. Srinivas from Rampura fieldwork in Karnataka, lets a jati claim higher local rank by adopting the practices of a locally higher-status caste, with the qualification that it is a claim rather than proof of acceptance; dominance built on numbers, land and office allows a middle-ranked jati to exercise local power above its ritual rank; urban labour markets recruit on credentials and have broken most hereditary occupational allocation; caste associations reinvent the group as an electoral and welfare network. Give the explanation the directive demands: rank is negotiable because it is locally constructed and locally contested, whereas the boundary is not, because it is reproduced through marriage rather than through opinion. Add the measurement point that no all-India jati count may be quoted and that the Census 2027 caste enumeration announced on 30 April 2025 is prospective. Conclude that fluidity and rigidity are not a contradiction but a division of labour between status and reproduction. Why this earns marks: it explains rather than lists, separates two layers with named evidence, and answers the why directive with a mechanism.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Why is caste identity in India both fluid and static? (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open with the level thesis: caste is fluid in rank and static in boundary. Build the static layer first. Endogamy is the most consistently observed defining feature and, with gotra exogamy, reproduces the group every generation; hereditary membership and residential and marital segregation reinforce it; this proves that the mechanism of reproduction has changed least. Build the fluid layer next. Sanskritisation, described by M.N. Srinivas from Rampura fieldwork in Karnataka, lets a jati claim higher local rank by adopting the practices of a locally higher-status caste, with the qualification that it is a claim rather than proof of acceptance; dominance built on numbers, land and office allows a middle-ranked jati to exercise local power above its ritual rank; urban labour markets recruit on credentials and have broken most hereditary occupational allocation; caste associations reinvent the group as an electoral and welfare network. Give the explanation the directive demands: rank is negotiable because it is locally constructed and locally contested, whereas the boundary is not, because it is reproduced through marriage rather than through opinion. Add the measurement point that no all-India jati count may be quoted and that the Census 2027 caste enumeration announced on 30 April 2025 is prospective. Conclude that fluidity and rigidity are not a contradiction but a division of labour between status and reproduction. Why this earns marks: it explains rather than lists, separates two layers with named evidence, and answers the why directive with a mechanism.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2023 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
+### Original Mains 1 — 10 marks
 **Question:** Explain how caste is assuming new identities and associational forms in contemporary India. Answer in about 150 words.
 
-**Model thesis:** Caste is changing register rather than disappearing: ritual allocation and public purity enforcement have weakened while association, network capital and political mobilisation have expanded, and endogamy has changed least.
+**Model answer:** Contemporary caste operates in new arenas even when older boundaries remain. Education and non-farm work can loosen the association between jati and inherited occupation. A graduate in Bengaluru may no longer serve a village patron, yet may seek housing or employment contacts through a jati association. Such associations may offer scholarships, negotiate political representation and organise collective claims; electoral mobilisation can make caste visible where public purity rules have weakened.
 
-**Claim → named evidence → analysis → qualification:**
+The change is uneven. A dominant landowning jati can still convert land and numerical strength into Panchayat influence, while poorer members may not share that power. Associations may defend dignity but also enforce endogamy or exclude women from leadership. Calling them merely ethnic clubs misses the continuing hierarchy and marriage boundary. Srinivas's local-power framework cautions against reading office or wealth from ritual rank alone. The defensible conclusion is change of organisational form, not uniform disappearance of caste inequality.
 
-- Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates.
-- Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-- Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-- An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-- Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
-
-**Qualified conclusion:** Caste is changing register rather than disappearing: ritual allocation and public purity enforcement have weakened while association, network capital and political mobilisation have expanded, and endogamy has changed least.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how caste is assuming new identities and associational forms in contemporary India.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Caste is changing register rather than disappearing: ritual allocation and public purity enforcement have weakened while association, network capital and political mobilisation have expanded, and endogamy has changed least.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Endogamy, hierarchy, hereditary membership and traditional occupational linkage are the four classically cited defining features of caste, and they weaken at very different rates. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Caste is changing register rather than disappearing: ritual allocation and public purity enforcement have weakened while association, network capital and political mobilisation have expanded, and endogamy has changed least.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain how caste is assuming new identities and associational forms in contemporary India.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
+### Original Mains 2 — 10 marks
 **Question:** Distinguish Sanskritisation from Westernisation with Indian examples. Answer in about 150 words.
 
-**Model thesis:** Sanskritisation is upward emulation inside an existing local hierarchy while Westernisation introduces new values that can subvert that hierarchy, so the two processes can coexist in one community without being the same thing.
+**Model answer:** M.N. Srinivas described Sanskritisation as a jati's attempt to claim higher local standing by adopting the diet, ritual or marital practices of a higher-status group. A village association changing ceremonial customs can assert a new rank while retaining the principle of hierarchy. Whether other jatis accept the claim, or whether land and schooling improve, remains a separate issue.
 
-**Claim → named evidence → analysis → qualification:**
+Westernisation describes change from sustained contact with Western-origin education, technology, law and values. A school emphasising individual legal equality rather than inherited status illustrates a different normative route. A household can pursue English-language credentials while simultaneously emulating prestigious local rituals; these are not mutually exclusive descriptions of a whole community. Neither process proves all urban Indians are equal, and modernisation's broader institutional changes should not be reduced to either one. The distinction is between mobility claimed inside a local prestige order and an incoming set of values that may challenge it.
 
-- M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-- Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy.
-- Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-
-**Qualified conclusion:** Sanskritisation is upward emulation inside an existing local hierarchy while Westernisation introduces new values that can subvert that hierarchy, so the two processes can coexist in one community without being the same thing.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Sanskritisation from Westernisation with Indian examples. Answer in about 150…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Sanskritisation is upward emulation inside an existing local hierarchy while Westernisation introduces new values that can subvert that hierarchy, so the two processes can coexist in one community without being the same thing.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Srinivas's Westernisation is change arising from sustained contact with Western, particularly British, values, technology and institutions, introducing new values such as equality and rationality instead of emulating an existing local hierarchy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Sanskritisation is upward emulation inside an existing local hierarchy while Westernisation introduces new values that can subvert that hierarchy, so the two processes can coexist in one community without being the same thing.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish Sanskritisation from Westernisation with Indian examples. Answer in about 150…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
+### Original Mains 3 — 15 marks
 **Question:** Why is caste identity in India simultaneously negotiable in rank and rigid in boundary? Answer in about 250 words.
 
-**Model thesis:** Rank is negotiable because it is locally constructed through emulation, land, office and market position, while the boundary is rigid because marriage reproduces it, which is why rising intercaste marriage and undiminished caste identity can coexist.
+**Model answer:** Caste has two levels that are easily confused. The locally perceived standing of a jati can change; birth membership and permitted marriage partners are more durable. Varna offers a broad textual ideal, not a nationwide register fixing every jati's rank. Local hierarchy is interpreted and contested through power and recognition.
 
-**Claim → named evidence → analysis → qualification:**
+Srinivas's Sanskritisation captures one negotiation: a group adopts prestigious ritual or dietary practices to seek improved status, but needs local acceptance and does not thereby gain land. A numerous landowning jati can instead gain Panchayat and electoral influence without the highest ritual rank. Schooling and city employment add class mobility. Béteille's caste–class–power distinction prevents treating these gains as one ascent.
 
-- Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
-- M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows.
-- A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-- Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared.
-- Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory.
+Marriage reproduces another boundary. Endogamy keeps alliances, recognition and sometimes property within approved circles despite professional change; gotra exogamy may coexist with jati endogamy. Jati associations can simultaneously fund education and monitor marriage. Ambedkar's insight about reproduction thus remains pertinent after hereditary service ties weaken. A high-status claim also need not remove exclusion faced by Dalit households.
 
-**Qualified conclusion:** Rank is negotiable because it is locally constructed through emulation, land, office and market position, while the boundary is rigid because marriage reproduces it, which is why rising intercaste marriage and undiminished caste identity can coexist.
+Rigidity must not be made absolute. The qualified 2024 marriage PYQ allows some parity-conditioned acceptance of intercaste matches. Regional, gender and generational differences matter, and planned census enumeration provides no present marriage rate. Rank is negotiable because local valuation changes; boundaries persist because families reproduce them through intimate choices across generations. Access to office and land may move on separate tracks.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is caste identity in India simultaneously negotiable in rank and rigid in boundary?…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Rank is negotiable because it is locally constructed through emulation, land, office and market position, while the boundary is rigid because marriage reproduces it, which is why rising intercaste marriage and undiminished caste identity can coexist.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** M.N. Srinivas's Sanskritisation is the process by which a lower or middle caste adopts the dietary, ritual and marriage practices of a locally higher-status caste to claim higher local status; it is a claim to mobility rather than proof that acceptance or material mobility follows. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Urbanisation, schooling and non-farm employment have broken most hereditary occupational allocation, making the caste-occupation link the weakest joint of the system, although stigmatised occupations and their inheritance have not disappeared. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Endogamy is the most consistently observed feature and operates together with gotra exogamy, which forbids marriage within the same clan lineage, so the two rules are complementary rather than contradictory. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Rank is negotiable because it is locally constructed through emulation, land, office and market position, while the boundary is rigid because marriage reproduces it, which is why rising intercaste marriage and undiminished caste identity can coexist.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Why is caste identity in India simultaneously negotiable in rank and rigid in boundary?…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
+### Original Mains 4 — 15 marks
 **Question:** Assess the dominant caste as a tool for analysing local power in India. Answer in about 250 words.
 
-**Model thesis:** The dominant caste explains everyday authority better than ritual rank because it fuses numbers, land and office, but reserved representation and market differentiation now contest it without eliminating it.
+**Model answer:** M.N. Srinivas's dominant caste is not simply a high-varna caste. Local numerical strength, substantial landholding and political influence make a jati consequential. His Rampura work shows why office or everyday authority cannot be read from ritual purity alone.
 
-**Claim → named evidence → analysis → qualification:**
+Land offers leverage over credit and work; numbers supply votes; Panchayat office and informal alliances help translate both into decisions about facilities and disputes. A middling-ranked landowning group can thus outweigh a smaller ritually prestigious one. Caste associations can amplify such claims without changing birth membership or marriage norms. A village study that counts only ritual precedence misses land and elected access; one counting only seats may miss informal control.
 
-- A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank.
-- Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs.
-- Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment.
-- Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
+“Dominant” nonetheless describes a local configuration, not every household's advantage. Land-poor members, women and different hamlets may share benefits unequally. Reserved Panchayat seats can contest older power but formal representation does not automatically redistribute land. Cash employment, migration and urban markets can alter dependency, so caste–class overlap is not immutable. A case observed in one village cannot be transferred wholesale to a state; planned all-caste enumeration gives no present local income measure.
 
-**Qualified conclusion:** The dominant caste explains everyday authority better than ritual rank because it fuses numbers, land and office, but reserved representation and market differentiation now contest it without eliminating it.
+The concept is strongest alongside Béteille's separation of caste, class and power and evidence about who owns, decides and speaks. It explains divergence between political and ritual rank while obliging us to investigate variation within a supposedly dominant group and the constraints on its power.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the dominant caste as a tool for analysing local power in India. Answer in about 250…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The dominant caste explains everyday authority better than ritual rank because it fuses numbers, land and office, but reserved representation and market differentiation now contest it without eliminating it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A dominant caste is numerically strong, owns a significant share of local land and wields political influence in a locality, whether or not it ranks highest ritually, so dominance is a better predictor of everyday local power than ritual rank. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Srinivas derived both Sanskritisation and the dominant caste from fieldwork in Rampura village, Karnataka, which supplies the named-scholar spine every caste-mobility answer needs. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Overlap describes localities where caste rank and economic class coincide, while cross-cutting describes class differentiation inside a single caste, which is increasingly common with urban and market employment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The dominant caste explains everyday authority better than ritual rank because it fuses numbers, land and office, but reserved representation and market differentiation now contest it without eliminating it.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the dominant caste as a tool for analysing local power in India. Answer in about 250…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
+### Original Mains 5 — 20 marks
 **Question:** Evaluate whether caste today is best understood as hierarchy, as identity or as network. Answer in about 300 words.
 
-**Model thesis:** No single reading covers all four arenas, because hierarchy still governs marriage and stigma, identity governs mobilisation, and network governs urban opportunity, so the honest verdict is arena-specific rather than a single definition.
+**Model answer:** Each lens captures a different arena; no single one describes contemporary caste. Hierarchy concerns locally ranked jatis and inherited status. Dumont's purity-pollution account illuminates ritual precedence, while Ambedkar's focus on endogamy explains how membership can persist through marriage. The four-fold varna ideal is not an empirical inventory of local jatis.
 
-**Claim → named evidence → analysis → qualification:**
+Identity explains assertion and demands for dignity. Associations can organise scholarships and political representation, turning inherited membership into a public claim. Srinivas's dominant-caste concept limits a ritual-only reading: a middling-ranked, numerous landholding group can wield Panchayat influence. Yet political visibility does not mean every member holds comparable assets or voice.
 
-- Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit.
-- Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework.
-- An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis.
-- Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance.
-- Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual.
-- Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder.
+Network describes referrals, matrimonial searches, housing and business ties. A city professional working outside an inherited occupation may still use a caste-linked housing contact. Such connections can assist mobility while restricting outsiders; poorer members and women may receive less benefit. Caste cannot be reduced to ethnicity or class: birth and endogamy distinguish the former, while economic class varies within a jati. Béteille's caste–class–power distinction keeps resources and ritual position analytically separate.
 
-**Qualified conclusion:** No single reading covers all four arenas, because hierarchy still governs marriage and stigma, identity governs mobilisation, and network governs urban opportunity, so the honest verdict is arena-specific rather than a single definition.
+Institutions matter across all three registers. Public equality and affirmative protection contest inherited exclusion, while urban labour markets diversify opportunities; detailed reservation and atrocity-law doctrine belongs to Polity and Social Justice. The Special Marriage Act offers a civil route, not family consent. Census 2027 caste enumeration remains prospective, not a source of present results. The best explanation therefore tests hierarchy in ritual and marriage, identity in electoral organisation, and networks in work and urban life. Their relative importance varies by region, generation, gender and assets, rather than following one universal trajectory from tradition to disappearance. Policy must assess these arenas independently before assuming a legal reform has altered everyday life.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate whether caste today is best understood as hierarchy, as identity or as network.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** No single reading covers all four arenas, because hierarchy still governs marriage and stigma, identity governs mobilisation, and network governs urban opportunity, so the honest verdict is arena-specific rather than a single definition.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Varna is the four-fold classical order of Brahmin, Kshatriya, Vaishya and Shudra described in ancient texts; it is a normative ideological template rather than a directly observable social unit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Jati is the actual local, endogamous, birth-ascribed group that functions as India's real social unit of caste, and thousands of locally ranked jatis operate within or alongside the varna framework. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** An ethnic framing of caste drops hierarchy and endogamy, the two features that make caste analytically distinct, so caste-as-identity analysis supplements rather than replaces caste-as-hierarchy analysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Identity salience is arena-specific: jati dominates marriage and local status, sect dominates devotional and shrine politics, jati clusters and religion dominate electoral mobilisation, and region dominates development grievance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Jati-level associations and caste panchayats arbitrate disputes, enforce endogamy norms and organise political mobilisation, which is how caste re-enters public life as organisation and network rather than as ritual. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** Jatis are ranked locally by notions of purity and pollution, and the exact rank order can differ from region to region, which is why caste hierarchy is not a single pan-Indian ladder. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** No single reading covers all four arenas, because hierarchy still governs marriage and stigma, identity governs mobilisation, and network governs urban opportunity, so the honest verdict is arena-specific rather than a single definition.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate whether caste today is best understood as hierarchy, as identity or as network.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
+### Original Mains 6 — 20 marks
 **Question:** Examine why the caste boundary and the religious boundary in marriage erode at different speeds. Answer in about 300 words.
 
-**Model thesis:** Parity is loosening the caste boundary because it protects status and resources, while belonging holds the religious boundary because it protects community identity, and the availability of a civil route shows that legal plurality alone is not the explanation.
+**Model answer:** The 2024 GS-I question proposes a qualified contrast, not a measured nationwide trend. Jati endogamy traditionally reproduces status and kinship ties. An intercaste union between families with comparable schooling, property and social standing may be seen as less threatening to each side's resource expectations. Yet parity cannot guarantee approval: locality, sub-jati norms and gendered family control all matter.
 
-**Claim → named evidence → analysis → qualification:**
+An interreligious union crosses another dimension of community belonging. Families may disagree over ceremonies, children's upbringing and participation in ritual networks. Neighbourhood scrutiny or organised sanction can deepen resistance despite comparable earnings. These factors are not reducible to personal-law difference: the Special Marriage Act, 1954 offers a civil route. Legal availability cannot guarantee social acceptance or effortless access to that route.
 
-- Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings.
-- The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead.
-- A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit.
-- Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations.
+The distinction is not “caste only economic, religion only cultural.” Equally resourced caste groups may still enforce endogamy and discriminate; religious groups have their own class and caste divisions. Schooling, migration and mixed urban employment create ties across both boundaries, whereas local power, gender norms and fear of lost kin support may restrain them. One accepted equal-status intercaste match contrasted with one resisted interreligious match illustrates a possible mechanism, not national prevalence. Reverse experiences elsewhere would not refute the PYQ's cautious “to some extent” premise.
 
-**Qualified conclusion:** Parity is loosening the caste boundary because it protects status and resources, while belonging holds the religious boundary because it protects community identity, and the availability of a civil route shows that legal plurality alone is not the explanation.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine why the caste boundary and the religious boundary in marriage erode at different…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Parity is loosening the caste boundary because it protects status and resources, while belonging holds the religious boundary because it protects community identity, and the availability of a civil route shows that legal plurality alone is not the explanation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Where two jatis are of similar socio-economic standing, an alliance threatens neither family's status nor resource base, which is the mechanism behind rising acceptance of intercaste marriage in those settings. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Special Marriage Act, 1954 supplies a civil route across religions, so personal-law plurality alone cannot explain the lower acceptance of interreligious marriage, and family sanction, kinship networks and community identity must be argued instead. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A sect, whether panth or sampradaya, is a religious following defined by doctrine, guru lineage and initiation rather than by birth-endogamy, so a sect can overlap with a jati without being the same kind of unit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Caste rank is negotiable because it is locally constructed through emulation, market position and political assertion, while the marriage boundary is not, because endogamy is the mechanism that reproduces caste across generations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Parity is loosening the caste boundary because it protects status and resources, while belonging holds the religious boundary because it protects community identity, and the availability of a civil route shows that legal plurality alone is not the explanation.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine why the caste boundary and the religious boundary in marriage erode at different…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+A strong explanation identifies what a marriage alliance puts at stake for particular households, contrasts legal route and lived practice, and tests socio-economic parity against community sanctions with regionally disaggregated evidence. Boundaries can loosen differently because they are guarded by partly different institutions; neither erodes at a single fixed pace across all of India. Local evidence of accepted and rejected matches is necessary to test the pattern.

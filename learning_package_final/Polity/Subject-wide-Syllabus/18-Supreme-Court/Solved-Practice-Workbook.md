@@ -6,9 +6,9 @@ topic_key: polity-18
 
 ## BASIC MCQS / REMEDIATION
 
-### 32 original MCQs
+### 40 original MCQs — attempt all before consulting the separate solved key
 
-**Answer rotation:** ABCD repeated eight times. Each question contains four substantive option-specific explanations and one unique question-specific Examiner trap.
+Complete all forty questions before turning to the separate solved key. Each solution explains all four options and a question-specific examiner trap.
 
 #### MCQ 1. Integrated judiciary
 
@@ -18,6 +18,361 @@ A. One integrated hierarchy administers both Union and State law.
 B. Separate federal and State systems end in different apex courts.
 C. High Courts are administrative branches of the Supreme Court.
 D. State law is outside Supreme Court interpretation.
+
+#### MCQ 2. Seat under Article 130
+
+Under Article 130, which statement is correct?
+
+A. The Court must sit annually in every State capital.
+B. The Court sits in Delhi, while the CJI may appoint another place with presidential approval.
+C. The collegium may permanently shift the seat.
+D. Parliament must approve each circuit sitting by constitutional amendment.
+
+#### MCQ 3. Constitution Bench
+
+Article 145(3) requires at least five judges when the Court decides:
+
+A. every Fundamental Rights petition.
+B. every appeal from a High Court.
+C. a substantial question of law as to constitutional interpretation or an Article 143 reference.
+D. every case in which Union and State governments disagree.
+
+#### MCQ 4. Sanctioned and working strength
+
+Which statement was accurate on the official control date of 7 September 2026?
+
+A. The Constitution permanently fixed 38 judges.
+B. The 2019 Act still fixed the total at 34.
+C. Working strength necessarily equalled sanctioned strength.
+D. Act 14 of 2026 sanctioned 38 including the CJI, while the official roster listed 34 sitting judges.
+
+#### MCQ 5. Qualifications
+
+Which person satisfies an express Article 124 qualification route, assuming Indian citizenship?
+
+A. A distinguished jurist in the President's opinion.
+B. Any advocate with five years' practice.
+C. Any district judge with three years' service.
+D. Any legal academic regardless of citizenship.
+
+#### MCQ 6. CJI seniority convention
+
+Appointment of the senior-most Supreme Court judge considered fit as CJI is best classified as:
+
+A. a rule inserted by the 99th Amendment.
+B. a constitutional convention reflected in appointment practice, not express Article 124 text.
+C. a requirement of the Judges (Inquiry) Act, 1968.
+D. a decision made by all High Court Chief Justices.
+
+#### MCQ 7. Third Judges Case
+
+For a Supreme Court appointment, the 1998 Presidential Reference requires consultation within a collegium comprising:
+
+A. the CJI acting alone.
+B. the CJI and two senior-most Supreme Court judges.
+C. the CJI and four senior-most Supreme Court judges.
+D. the CJI, Law Minister and two eminent persons.
+
+#### MCQ 8. NJAC boundary
+
+Which statement most accurately describes the 2015 NJAC judgment?
+
+A. It upheld the 99th Amendment but invalidated only rules.
+B. It held that appointments can never involve any non-judge.
+C. It converted the collegium into express constitutional text.
+D. It struck down the 99th Amendment and NJAC Act for damaging judicial independence, without declaring every possible commission unconstitutional.
+
+#### MCQ 9. Removal
+
+A Supreme Court judge may be removed after:
+
+A. each House adopts an address in the same session by the prescribed special majority on proved misbehaviour or incapacity, followed by a presidential order.
+B. a simple-majority joint sitting.
+C. a collegium finding of ethical impropriety.
+D. a Supreme Court Bar Association resolution.
+
+#### MCQ 10. Financial independence
+
+Which provision protects a sitting Supreme Court judge's allowances and pension rights from disadvantageous variation after appointment, subject to the Financial Emergency exception?
+
+A. Article 121
+B. Article 125
+C. Article 129
+D. Article 146(3)
+
+#### MCQ 11. Temporary judges
+
+Which matching is constitutionally correct?
+
+A. Article 126—retired judge; 127—acting CJI; 128—ad hoc judge.
+B. Article 126—ad hoc judge; 127—retired judge; 128—acting CJI.
+C. Article 126—acting CJI; 127—ad hoc judge; 128—retired judge sitting.
+D. All three concern permanent appointments.
+
+#### MCQ 12. Post-retirement practice
+
+Article 124(7) provides that a former Supreme Court judge:
+
+A. cannot hold any public office.
+B. cannot teach or publish.
+C. automatically joins an arbitral panel.
+D. cannot plead or act before any court or authority within India.
+
+#### MCQ 13. Article 131
+
+Article 131 principally confers:
+
+A. exclusive original jurisdiction over specified Union-State or State-State disputes involving a legal right.
+B. general original jurisdiction over all government contracts.
+C. automatic jurisdiction over inter-State river-water disputes.
+D. exclusive jurisdiction over every election petition.
+
+#### MCQ 14. Articles 32 and 226
+
+Which comparison is correct?
+
+A. Article 32 covers every legal right and Article 226 only Fundamental Rights.
+B. Article 32 is itself a Fundamental Right; Article 226 is wider in purpose because it also reaches other legal rights.
+C. Article 226 has nationwide territorial reach while Article 32 is State-bound.
+D. High Courts cannot issue quo warranto.
+
+#### MCQ 15. Transfer of cases
+
+Article 139A enables the Supreme Court, in the specified circumstances, to:
+
+A. appoint additional High Court judges.
+B. adjudicate judicial misconduct complaints.
+C. withdraw cases involving the same or substantially the same substantial legal questions and transfer cases between High Courts.
+D. change the principal seat without presidential approval.
+
+#### MCQ 16. Special leave
+
+Article 136 special leave is:
+
+A. a guaranteed appeal after every High Court order.
+B. limited to civil matters.
+C. available from Armed-Forces courts without exception.
+D. an extraordinary discretionary route from courts or tribunals, excluding those constituted under Armed-Forces law.
+
+#### MCQ 17. Review
+
+Article 137 authorises the Supreme Court to:
+
+A. review its own judgments or orders subject to parliamentary law and Court rules.
+B. reopen every dismissed SLP as of right.
+C. review only advisory opinions.
+D. transfer every review to a High Court.
+
+#### MCQ 18. Curative petition
+
+The curative petition recognised in Rupa Ashok Hurra (2002) is:
+
+A. a statutory appeal under the CPC.
+B. an exceptional post-review remedy against gross miscarriage, subject to strict screening.
+C. an Article 143 reference.
+D. a remedy available before ordinary review.
+
+#### MCQ 19. Advisory jurisdiction
+
+Which statement about Article 143 is correct?
+
+A. A private party may demand an advisory opinion.
+B. Every opinion binds future benches exactly like Article 141 precedent.
+C. The President refers; an Article 143(1) opinion is advisory and the Court may decline to answer.
+D. The Court may grant deemed assent to legislation through every reference.
+
+#### MCQ 20. Contempt
+
+Which proposition is constitutionally accurate?
+
+A. The 1971 Act creates the whole contempt power.
+B. Fair criticism always amounts to criminal contempt.
+C. Parliament may abolish Article 129 by ordinary law.
+D. Article 129 is the constitutional source; the 1971 Act regulates but cannot extinguish that power.
+
+#### MCQ 21. Article 141
+
+Article 141 means that:
+
+A. the law declared by the Supreme Court binds all courts in India, with ratio and bench strength controlling.
+B. every factual observation in every order is binding law.
+C. a smaller bench may overrule a larger bench.
+D. Parliament is bound as though every judgment amended the Constitution.
+
+#### MCQ 22. Article 142
+
+The safest statement of Article 142 is:
+
+A. it authorises permanent law-making whenever equity favours it.
+B. it permits complete-justice orders in a pending cause but cannot violate Fundamental Rights or supplant substantive law.
+C. it is confined to advisory references.
+D. it allows any statutory prohibition to be ignored.
+
+#### MCQ 23. Article 144
+
+Article 144 requires:
+
+A. only subordinate courts to follow Supreme Court procedure.
+B. the Union Cabinet to approve every decree.
+C. all civil and judicial authorities in India to act in aid of the Supreme Court.
+D. the Court to seek State consent before enforcement.
+
+#### MCQ 24. Article 145
+
+Article 145 primarily concerns:
+
+A. the retirement age of judges.
+B. federal original jurisdiction.
+C. the statutory strength of the Court.
+D. Supreme Court rules of practice/procedure and specified bench requirements.
+
+#### MCQ 25. Judicial review
+
+Which statement best captures judicial review?
+
+A. It tests constitutional validity of legislative and executive action and is part of the basic structure.
+B. It permits courts to replace any policy they consider unwise.
+C. It exists only under Article 32.
+D. It makes every Ninth Schedule law automatically void.
+
+#### MCQ 26. Tribunal review
+
+L. Chandra Kumar (1997) held that:
+
+A. tribunals may finally exclude all High Court review.
+B. tribunal decisions remain subject to Articles 226/227 review, with constitutional judicial review preserved as basic structure.
+C. every tribunal order goes directly to a Constitution Bench.
+D. tribunals themselves form the basic structure.
+
+#### MCQ 27. PIL standing
+
+S.P. Gupta (1981) is important to PIL because it:
+
+A. abolished the need for legal injury in every case.
+B. created the National Legal Services Authority.
+C. widened representative standing for bona fide public-interest claims involving persons unable to approach the Court.
+D. made every letter a mandatory writ petition.
+
+#### MCQ 28. Judicial legislation
+
+Vishaka (1997) is best understood as:
+
+A. a permanent judicial takeover of workplace regulation.
+B. a declaration that treaties automatically override statutes.
+C. a contempt case.
+D. rights-based interim guidelines in a legislative vacuum, later superseded by the 2013 statute.
+
+#### MCQ 29. Recusal
+
+Which proposition best describes Supreme Court recusal practice?
+
+A. The impartiality principle is judicially recognised, but no single exhaustive statutory recusal code compels public reasons in every case.
+B. A litigant may choose the replacement judge.
+C. Every allegation automatically disqualifies the judge.
+D. Recusal is decided by Parliament.
+
+#### MCQ 30. Attorney-General interface
+
+Which Supreme Court-related statement about the Attorney-General is correct?
+
+A. The Attorney-General appoints Advocates-on-Record.
+B. The Attorney-General has a right of audience in all courts in India and may assist the Supreme Court, but is not the Court's administrative officer.
+C. The Attorney-General is a member of the collegium.
+D. The Attorney-General decides Article 131 disputes.
+
+#### MCQ 31. Live streaming
+
+Swapnil Tripathi (2018) is associated with:
+
+A. abolition of open-court hearings.
+B. mandatory broadcast of every trial without exception.
+C. recognition and guidelines for live streaming proceedings of constitutional/national importance, subject to safeguards.
+D. replacement of court records by video archives.
+
+#### MCQ 32. e-Courts reform
+
+Which reform package best addresses Supreme Court access without technological overclaim?
+
+A. Only more livestream cameras.
+B. Only a higher sanctioned strength.
+C. Only compulsory virtual hearings.
+D. e-filing and hybrid access plus physical assistance, translation, legal aid, case management, cybersecurity and stronger High Courts.
+
+#### MCQ 33. Disputes between governments
+
+State X sues the Union over the extent of a constitutional power. Which feature is necessary for the Supreme Court's Article 131 route?
+
+A. The dispute concerns a question on which the existence or extent of a legal right depends.
+B. The State disagrees with a Union policy, even though no legal right is in issue.
+C. A private company is added as a joint plaintiff to establish the dispute's importance.
+D. The parties first obtain an advisory opinion from the President under Article 143.
+
+#### MCQ 34. Writ boundaries
+
+A citizen alleges a statutory legal-right violation without alleging breach of a Fundamental Right. Which comparison is accurate?
+
+A. Article 32 and Article 226 offer identical writ scopes in this situation.
+B. The High Court's Article 226 jurisdiction can reach other legal rights; Article 32 is tied to Fundamental Rights enforcement.
+C. Article 32 is wider because the Supreme Court is the apex court.
+D. Neither court can exercise writ jurisdiction for a statutory right.
+
+#### MCQ 35. Refusal of special leave
+
+The Supreme Court declines special leave against a High Court judgment without deciding the merits. Which inference is safest?
+
+A. The High Court's reasoning has become a Supreme Court declaration of law under Article 141.
+B. The High Court judgment is automatically set aside despite refusal of leave.
+C. Refusal of leave alone does not make every proposition in the lower judgment binding Supreme Court law.
+D. Article 136 requires the Court to give a reasoned merits judgment on every petition.
+
+#### MCQ 36. Ninth Schedule scrutiny
+
+A post-24 April 1973 statute is added to the Ninth Schedule and challenged for damaging the basic structure. Which position aligns with judicial review doctrine?
+
+A. Every Ninth Schedule insertion is immune regardless of date.
+B. Ninth Schedule inclusion automatically invalidates the statute.
+C. The challenge is reviewable only if the President asks for an advisory opinion.
+D. Inclusion does not itself bar basic-structure scrutiny of the post-cut-off amendment.
+
+#### MCQ 37. Independence and removal
+
+A proposal claims that any legislative criticism of a sitting judge is forbidden, and therefore no judge can ever be removed. What is the sound correction?
+
+A. Discussion of a judge's conduct is restricted except on a removal motion; a constitutionally prescribed removal procedure exists.
+B. All criticism is unrestricted and removal needs only an ordinary vote of one House.
+C. Judicial independence exempts judges from any constitutional removal process.
+D. Only the Supreme Court itself may remove one of its sitting judges by contempt order.
+
+#### MCQ 38. Complete justice and law
+
+Which proposition best describes the Article 142 power?
+
+A. It authorises the Court to disregard every express substantive statute whenever equitable.
+B. It permits orders for complete justice in a pending cause, subject to constitutional and substantive-law limits.
+C. It is an original jurisdiction to adjudicate any federal disagreement.
+D. It replaces all appeals under Articles 132–136.
+
+#### MCQ 39. Tribunal decision and constitutional control
+
+An enactment declares tribunal decisions immune from High Court scrutiny, leaving only a direct appeal to the Supreme Court. Which defect is most relevant?
+
+A. A tribunal can never decide any question involving constitutional law.
+B. Any tribunal decision is necessarily an executive act, not a judicial act.
+C. The exclusion conflicts with the constitutional High Court judicial-review role affirmed in *L. Chandra Kumar*.
+D. Direct appeal to the Supreme Court automatically expands High Court jurisdiction.
+
+#### MCQ 40. Constitutional question on appeal
+
+A substantial question of law concerning interpretation of the Constitution arises in a civil appeal. What determines whether a Constitution Bench is required?
+
+A. The civil label excludes a larger Bench even for constitutional interpretation.
+B. Any factual disagreement compels at least five judges.
+C. The Chief Justice's personal interest in the subject alone fixes Bench size.
+D. Article 145(3) requires at least five judges for a case involving such a substantial constitutional-interpretation question.
+
+### Separate solved key — MCQs 1–40
+
+#### MCQ 1 — Integrated judiciary
 
 **Answer: A.**
 
@@ -29,14 +384,7 @@ D. State law is outside Supreme Court interpretation.
 
 **Examiner trap 1:** Integrated hierarchy means legal unity, not unitary administrative control.
 
-#### MCQ 2. Seat under Article 130
-
-Under Article 130, which statement is correct?
-
-A. The Court must sit annually in every State capital.
-B. The Court sits in Delhi, while the CJI may appoint another place with presidential approval.
-C. The collegium may permanently shift the seat.
-D. Parliament must approve each circuit sitting by constitutional amendment.
+#### MCQ 2 — Seat under Article 130
 
 **Answer: B.**
 
@@ -48,14 +396,7 @@ D. Parliament must approve each circuit sitting by constitutional amendment.
 
 **Examiner trap 2:** A demand for regional benches is a reform proposal, not proof that Article 130 already mandates them.
 
-#### MCQ 3. Constitution Bench
-
-Article 145(3) requires at least five judges when the Court decides:
-
-A. every Fundamental Rights petition.
-B. every appeal from a High Court.
-C. a substantial question of law as to constitutional interpretation or an Article 143 reference.
-D. every case in which Union and State governments disagree.
+#### MCQ 3 — Constitution Bench
 
 **Answer: C.**
 
@@ -67,14 +408,7 @@ D. every case in which Union and State governments disagree.
 
 **Examiner trap 3:** A constitutional argument is not enough; the interpretive question must be substantial and arise for decision.
 
-#### MCQ 4. Sanctioned and working strength
-
-Which statement was accurate on the official control date of 7 September 2026?
-
-A. The Constitution permanently fixed 38 judges.
-B. The 2019 Act still fixed the total at 34.
-C. Working strength necessarily equalled sanctioned strength.
-D. Act 14 of 2026 sanctioned 38 including the CJI, while the official roster listed 34 sitting judges.
+#### MCQ 4 — Sanctioned and working strength
 
 **Answer: D.**
 
@@ -86,14 +420,7 @@ D. Act 14 of 2026 sanctioned 38 including the CJI, while the official roster lis
 
 **Examiner trap 4:** Always separate statutory ceiling, dated working strength and resulting vacancy count.
 
-#### MCQ 5. Qualifications
-
-Which person satisfies an express Article 124 qualification route, assuming Indian citizenship?
-
-A. A distinguished jurist in the President's opinion.
-B. Any advocate with five years' practice.
-C. Any district judge with three years' service.
-D. Any legal academic regardless of citizenship.
+#### MCQ 5 — Qualifications
 
 **Answer: A.**
 
@@ -105,14 +432,7 @@ D. Any legal academic regardless of citizenship.
 
 **Examiner trap 5:** The Constitution prescribes no minimum appointment age, but it does prescribe citizenship and professional routes.
 
-#### MCQ 6. CJI seniority convention
-
-Appointment of the senior-most Supreme Court judge considered fit as CJI is best classified as:
-
-A. a rule inserted by the 99th Amendment.
-B. a constitutional convention reflected in appointment practice, not express Article 124 text.
-C. a requirement of the Judges (Inquiry) Act, 1968.
-D. a decision made by all High Court Chief Justices.
+#### MCQ 6 — CJI seniority convention
 
 **Answer: B.**
 
@@ -124,14 +444,7 @@ D. a decision made by all High Court Chief Justices.
 
 **Examiner trap 6:** Convention may be settled and important without becoming constitutional text.
 
-#### MCQ 7. Third Judges Case
-
-For a Supreme Court appointment, the 1998 Presidential Reference requires consultation within a collegium comprising:
-
-A. the CJI acting alone.
-B. the CJI and two senior-most Supreme Court judges.
-C. the CJI and four senior-most Supreme Court judges.
-D. the CJI, Law Minister and two eminent persons.
+#### MCQ 7 — Third Judges Case
 
 **Answer: C.**
 
@@ -143,14 +456,7 @@ D. the CJI, Law Minister and two eminent persons.
 
 **Examiner trap 7:** Remember the Supreme Court appointment collegium as five judges in total.
 
-#### MCQ 8. NJAC boundary
-
-Which statement most accurately describes the 2015 NJAC judgment?
-
-A. It upheld the 99th Amendment but invalidated only rules.
-B. It held that appointments can never involve any non-judge.
-C. It converted the collegium into express constitutional text.
-D. It struck down the 99th Amendment and NJAC Act for damaging judicial independence, without declaring every possible commission unconstitutional.
+#### MCQ 8 — NJAC boundary
 
 **Answer: D.**
 
@@ -162,14 +468,7 @@ D. It struck down the 99th Amendment and NJAC Act for damaging judicial independ
 
 **Examiner trap 8:** Do not overclaim the judgment as an eternal ban on appointment commissions.
 
-#### MCQ 9. Removal
-
-A Supreme Court judge may be removed after:
-
-A. each House adopts an address in the same session by the prescribed special majority on proved misbehaviour or incapacity, followed by a presidential order.
-B. a simple-majority joint sitting.
-C. a collegium finding of ethical impropriety.
-D. a Supreme Court Bar Association resolution.
+#### MCQ 9 — Removal
 
 **Answer: A.**
 
@@ -181,14 +480,7 @@ D. a Supreme Court Bar Association resolution.
 
 **Examiner trap 9:** The Constitution uses 'removal', while public discussion often inaccurately says 'impeachment'.
 
-#### MCQ 10. Financial independence
-
-Which provision protects a sitting Supreme Court judge's allowances and pension rights from disadvantageous variation after appointment, subject to the Financial Emergency exception?
-
-A. Article 121
-B. Article 125
-C. Article 129
-D. Article 146(3)
+#### MCQ 10 — Financial independence
 
 **Answer: B.**
 
@@ -200,14 +492,7 @@ D. Article 146(3)
 
 **Examiner trap 10:** Salary expenditure and Court administrative expenditure are protected through related but distinct provisions.
 
-#### MCQ 11. Temporary judges
-
-Which matching is constitutionally correct?
-
-A. Article 126—retired judge; 127—acting CJI; 128—ad hoc judge.
-B. Article 126—ad hoc judge; 127—retired judge; 128—acting CJI.
-C. Article 126—acting CJI; 127—ad hoc judge; 128—retired judge sitting.
-D. All three concern permanent appointments.
+#### MCQ 11 — Temporary judges
 
 **Answer: C.**
 
@@ -219,14 +504,7 @@ D. All three concern permanent appointments.
 
 **Examiner trap 11:** The three Articles differ in trigger, eligible person and consent route.
 
-#### MCQ 12. Post-retirement practice
-
-Article 124(7) provides that a former Supreme Court judge:
-
-A. cannot hold any public office.
-B. cannot teach or publish.
-C. automatically joins an arbitral panel.
-D. cannot plead or act before any court or authority within India.
+#### MCQ 12 — Post-retirement practice
 
 **Answer: D.**
 
@@ -238,14 +516,7 @@ D. cannot plead or act before any court or authority within India.
 
 **Examiner trap 12:** The practice bar should not be inflated into a prohibition on every post-retirement assignment.
 
-#### MCQ 13. Article 131
-
-Article 131 principally confers:
-
-A. exclusive original jurisdiction over specified Union-State or State-State disputes involving a legal right.
-B. general original jurisdiction over all government contracts.
-C. automatic jurisdiction over inter-State river-water disputes.
-D. exclusive jurisdiction over every election petition.
+#### MCQ 13 — Article 131
 
 **Answer: A.**
 
@@ -257,14 +528,7 @@ D. exclusive jurisdiction over every election petition.
 
 **Examiner trap 13:** Test parties, legal right and exclusions before calling a dispute federal original jurisdiction.
 
-#### MCQ 14. Articles 32 and 226
-
-Which comparison is correct?
-
-A. Article 32 covers every legal right and Article 226 only Fundamental Rights.
-B. Article 32 is itself a Fundamental Right; Article 226 is wider in purpose because it also reaches other legal rights.
-C. Article 226 has nationwide territorial reach while Article 32 is State-bound.
-D. High Courts cannot issue quo warranto.
+#### MCQ 14 — Articles 32 and 226
 
 **Answer: B.**
 
@@ -276,14 +540,7 @@ D. High Courts cannot issue quo warranto.
 
 **Examiner trap 14:** Wider in purpose and wider in territory are different comparisons.
 
-#### MCQ 15. Transfer of cases
-
-Article 139A enables the Supreme Court, in the specified circumstances, to:
-
-A. appoint additional High Court judges.
-B. adjudicate judicial misconduct complaints.
-C. withdraw cases involving the same or substantially the same substantial legal questions and transfer cases between High Courts.
-D. change the principal seat without presidential approval.
+#### MCQ 15 — Transfer of cases
 
 **Answer: C.**
 
@@ -295,14 +552,7 @@ D. change the principal seat without presidential approval.
 
 **Examiner trap 15:** Separate Article 139A constitutional transfer from statutory criminal/civil transfer powers.
 
-#### MCQ 16. Special leave
-
-Article 136 special leave is:
-
-A. a guaranteed appeal after every High Court order.
-B. limited to civil matters.
-C. available from Armed-Forces courts without exception.
-D. an extraordinary discretionary route from courts or tribunals, excluding those constituted under Armed-Forces law.
+#### MCQ 16 — Special leave
 
 **Answer: D.**
 
@@ -314,14 +564,7 @@ D. an extraordinary discretionary route from courts or tribunals, excluding thos
 
 **Examiner trap 16:** Breadth of jurisdiction does not convert discretion into a regular fourth appeal.
 
-#### MCQ 17. Review
-
-Article 137 authorises the Supreme Court to:
-
-A. review its own judgments or orders subject to parliamentary law and Court rules.
-B. reopen every dismissed SLP as of right.
-C. review only advisory opinions.
-D. transfer every review to a High Court.
+#### MCQ 17 — Review
 
 **Answer: A.**
 
@@ -333,14 +576,7 @@ D. transfer every review to a High Court.
 
 **Examiner trap 17:** Review is narrower than appeal and cannot be argued as a second merits hearing.
 
-#### MCQ 18. Curative petition
-
-The curative petition recognised in Rupa Ashok Hurra (2002) is:
-
-A. a statutory appeal under the CPC.
-B. an exceptional post-review remedy against gross miscarriage, subject to strict screening.
-C. an Article 143 reference.
-D. a remedy available before ordinary review.
+#### MCQ 18 — Curative petition
 
 **Answer: B.**
 
@@ -352,14 +588,7 @@ D. a remedy available before ordinary review.
 
 **Examiner trap 18:** Curative relief is not a routine second review.
 
-#### MCQ 19. Advisory jurisdiction
-
-Which statement about Article 143 is correct?
-
-A. A private party may demand an advisory opinion.
-B. Every opinion binds future benches exactly like Article 141 precedent.
-C. The President refers; an Article 143(1) opinion is advisory and the Court may decline to answer.
-D. The Court may grant deemed assent to legislation through every reference.
+#### MCQ 19 — Advisory jurisdiction
 
 **Answer: C.**
 
@@ -371,14 +600,7 @@ D. The Court may grant deemed assent to legislation through every reference.
 
 **Examiner trap 19:** Authoritative constitutional advice remains distinct from binding adjudication.
 
-#### MCQ 20. Contempt
-
-Which proposition is constitutionally accurate?
-
-A. The 1971 Act creates the whole contempt power.
-B. Fair criticism always amounts to criminal contempt.
-C. Parliament may abolish Article 129 by ordinary law.
-D. Article 129 is the constitutional source; the 1971 Act regulates but cannot extinguish that power.
+#### MCQ 20 — Contempt
 
 **Answer: D.**
 
@@ -390,14 +612,7 @@ D. Article 129 is the constitutional source; the 1971 Act regulates but cannot e
 
 **Examiner trap 20:** The object is administration of justice, not protection from every reputational injury.
 
-#### MCQ 21. Article 141
-
-Article 141 means that:
-
-A. the law declared by the Supreme Court binds all courts in India, with ratio and bench strength controlling.
-B. every factual observation in every order is binding law.
-C. a smaller bench may overrule a larger bench.
-D. Parliament is bound as though every judgment amended the Constitution.
+#### MCQ 21 — Article 141
 
 **Answer: A.**
 
@@ -409,14 +624,7 @@ D. Parliament is bound as though every judgment amended the Constitution.
 
 **Examiner trap 21:** Identify the ratio and the authoritative bench rather than citing a case name alone.
 
-#### MCQ 22. Article 142
-
-The safest statement of Article 142 is:
-
-A. it authorises permanent law-making whenever equity favours it.
-B. it permits complete-justice orders in a pending cause but cannot violate Fundamental Rights or supplant substantive law.
-C. it is confined to advisory references.
-D. it allows any statutory prohibition to be ignored.
+#### MCQ 22 — Article 142
 
 **Answer: B.**
 
@@ -428,14 +636,7 @@ D. it allows any statutory prohibition to be ignored.
 
 **Examiner trap 22:** Use 'supplement, not supplant' and avoid calling Article 142 unlimited.
 
-#### MCQ 23. Article 144
-
-Article 144 requires:
-
-A. only subordinate courts to follow Supreme Court procedure.
-B. the Union Cabinet to approve every decree.
-C. all civil and judicial authorities in India to act in aid of the Supreme Court.
-D. the Court to seek State consent before enforcement.
+#### MCQ 23 — Article 144
 
 **Answer: C.**
 
@@ -447,14 +648,7 @@ D. the Court to seek State consent before enforcement.
 
 **Examiner trap 23:** Article 144 is the implementation bridge, not the source of appellate jurisdiction.
 
-#### MCQ 24. Article 145
-
-Article 145 primarily concerns:
-
-A. the retirement age of judges.
-B. federal original jurisdiction.
-C. the statutory strength of the Court.
-D. Supreme Court rules of practice/procedure and specified bench requirements.
+#### MCQ 24 — Article 145
 
 **Answer: D.**
 
@@ -466,14 +660,7 @@ D. Supreme Court rules of practice/procedure and specified bench requirements.
 
 **Examiner trap 24:** Rules require presidential approval, but the President does not decide individual bench composition.
 
-#### MCQ 25. Judicial review
-
-Which statement best captures judicial review?
-
-A. It tests constitutional validity of legislative and executive action and is part of the basic structure.
-B. It permits courts to replace any policy they consider unwise.
-C. It exists only under Article 32.
-D. It makes every Ninth Schedule law automatically void.
+#### MCQ 25 — Judicial review
 
 **Answer: A.**
 
@@ -485,14 +672,7 @@ D. It makes every Ninth Schedule law automatically void.
 
 **Examiner trap 25:** Constitutional supremacy differs from judicial policy supremacy.
 
-#### MCQ 26. Tribunal review
-
-L. Chandra Kumar (1997) held that:
-
-A. tribunals may finally exclude all High Court review.
-B. tribunal decisions remain subject to Articles 226/227 review, with constitutional judicial review preserved as basic structure.
-C. every tribunal order goes directly to a Constitution Bench.
-D. tribunals themselves form the basic structure.
+#### MCQ 26 — Tribunal review
 
 **Answer: B.**
 
@@ -504,14 +684,7 @@ D. tribunals themselves form the basic structure.
 
 **Examiner trap 26:** Specialised first-instance adjudication and constitutional supervision can coexist.
 
-#### MCQ 27. PIL standing
-
-S.P. Gupta (1981) is important to PIL because it:
-
-A. abolished the need for legal injury in every case.
-B. created the National Legal Services Authority.
-C. widened representative standing for bona fide public-interest claims involving persons unable to approach the Court.
-D. made every letter a mandatory writ petition.
+#### MCQ 27 — PIL standing
 
 **Answer: C.**
 
@@ -523,14 +696,7 @@ D. made every letter a mandatory writ petition.
 
 **Examiner trap 27:** Public interest is a gateway for genuine collective injury, not publicity-interest litigation.
 
-#### MCQ 28. Judicial legislation
-
-Vishaka (1997) is best understood as:
-
-A. a permanent judicial takeover of workplace regulation.
-B. a declaration that treaties automatically override statutes.
-C. a contempt case.
-D. rights-based interim guidelines in a legislative vacuum, later superseded by the 2013 statute.
+#### MCQ 28 — Judicial legislation
 
 **Answer: D.**
 
@@ -542,14 +708,7 @@ D. rights-based interim guidelines in a legislative vacuum, later superseded by 
 
 **Examiner trap 28:** Defensible judicial legislation is temporary, rights-anchored and yielding to valid statute.
 
-#### MCQ 29. Recusal
-
-Which proposition best describes Supreme Court recusal practice?
-
-A. The impartiality principle is judicially recognised, but no single exhaustive statutory recusal code compels public reasons in every case.
-B. A litigant may choose the replacement judge.
-C. Every allegation automatically disqualifies the judge.
-D. Recusal is decided by Parliament.
+#### MCQ 29 — Recusal
 
 **Answer: A.**
 
@@ -561,14 +720,7 @@ D. Recusal is decided by Parliament.
 
 **Examiner trap 29:** Balance actual/apparent impartiality against strategic bench-shopping.
 
-#### MCQ 30. Attorney-General interface
-
-Which Supreme Court-related statement about the Attorney-General is correct?
-
-A. The Attorney-General appoints Advocates-on-Record.
-B. The Attorney-General has a right of audience in all courts in India and may assist the Supreme Court, but is not the Court's administrative officer.
-C. The Attorney-General is a member of the collegium.
-D. The Attorney-General decides Article 131 disputes.
+#### MCQ 30 — Attorney-General interface
 
 **Answer: B.**
 
@@ -580,14 +732,7 @@ D. The Attorney-General decides Article 131 disputes.
 
 **Examiner trap 30:** Separate the Union's chief legal adviser from the Court, BCI and SCBA.
 
-#### MCQ 31. Live streaming
-
-Swapnil Tripathi (2018) is associated with:
-
-A. abolition of open-court hearings.
-B. mandatory broadcast of every trial without exception.
-C. recognition and guidelines for live streaming proceedings of constitutional/national importance, subject to safeguards.
-D. replacement of court records by video archives.
+#### MCQ 31 — Live streaming
 
 **Answer: C.**
 
@@ -599,14 +744,7 @@ D. replacement of court records by video archives.
 
 **Examiner trap 31:** Open justice supports streaming, but privacy and fair-trial interests still govern exclusions.
 
-#### MCQ 32. e-Courts reform
-
-Which reform package best addresses Supreme Court access without technological overclaim?
-
-A. Only more livestream cameras.
-B. Only a higher sanctioned strength.
-C. Only compulsory virtual hearings.
-D. e-filing and hybrid access plus physical assistance, translation, legal aid, case management, cybersecurity and stronger High Courts.
+#### MCQ 32 — e-Courts reform
 
 **Answer: D.**
 
@@ -618,6 +756,101 @@ D. e-filing and hybrid access plus physical assistance, translation, legal aid, 
 
 **Examiner trap 32:** Technology is an enabling layer, not a substitute for human assistance and institutional reform.
 
+#### MCQ 33 — Disputes between governments
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: parties of the required governmental description and a legal-right issue ground Article 131 original jurisdiction.
+- **B:** Incorrect: a political disagreement without a legal-right issue is insufficient.
+- **C:** Incorrect: adding a private litigant does not create an Article 131 government-to-government dispute.
+- **D:** Incorrect: Article 143 reference is a different jurisdiction, not a precondition.
+
+**Examiner trap 33:** Original jurisdiction is not an open forum for every federal policy disagreement.
+
+#### MCQ 34 — Writ boundaries
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the jurisdictions differ in subject-matter scope.
+- **B:** Correct: Article 226 reaches Fundamental Rights and other purposes; Article 32 protects Fundamental Rights.
+- **C:** Incorrect: superior appellate position does not enlarge Article 32's writ subject matter.
+- **D:** Incorrect: other legal rights may be vindicated in a High Court under Article 226.
+
+**Examiner trap 34:** Constitutional placement and width of writ subject matter are different questions.
+
+#### MCQ 35 — Refusal of special leave
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: a non-merits refusal cannot mechanically transform lower-court reasoning into apex-court precedent.
+- **B:** Incorrect: refusing leave does not overturn the challenged judgment.
+- **C:** Correct: the leave stage and a decision declaring law are distinct.
+- **D:** Incorrect: Article 136 is discretionary, not a compulsory second appeal.
+
+**Examiner trap 35:** Distinguish a refused gateway from an appellate judgment on law.
+
+#### MCQ 36 — Ninth Schedule scrutiny
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: *I.R. Coelho* rejects blanket post-cut-off immunity.
+- **B:** Incorrect: inclusion alone is not proof of substantive damage.
+- **C:** Incorrect: constitutional review is not dependent on Article 143 reference.
+- **D:** Correct: the basic-structure test remains available for qualifying post-cut-off insertions.
+
+**Examiner trap 36:** The test is damage to basic structure, not automatic validity or invalidity by schedule label.
+
+#### MCQ 37 — Independence and removal
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 121 protects judicial independence while the Article 124 removal route supplies exceptional accountability.
+- **B:** Incorrect: it disregards both the restriction on House discussion and the special removal threshold.
+- **C:** Incorrect: secure tenure is not irremovability.
+- **D:** Incorrect: the constitutional route involves an address of both Houses and a presidential order, not contempt.
+
+**Examiner trap 37:** Protection from routine political pressure and removal for proved grounds are compatible.
+
+#### MCQ 38 — Complete justice and law
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: complete justice is not a general licence to override substantive legal constraints.
+- **B:** Correct: the power is remedial and cause-bound, not an unlimited law-making jurisdiction.
+- **C:** Incorrect: government-to-government original jurisdiction has its own Article 131 gate.
+- **D:** Incorrect: a remedial power does not displace jurisdictional appeal routes.
+
+**Examiner trap 38:** Remedy within a case is not a new route for getting any case before the Court.
+
+#### MCQ 39 — Tribunal decision and constitutional control
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: tribunals may decide questions subject to constitutional judicial review.
+- **B:** Incorrect: their adjudicative function cannot be dismissed by this categorical label.
+- **C:** Correct: tribunalisation cannot altogether exclude the High Courts' review jurisdiction under Articles 226/227.
+- **D:** Incorrect: an appellate route elsewhere cannot itself supply the excluded High Court review.
+
+**Examiner trap 39:** Alternative appeal is not a universal substitute for constitutionally protected review.
+
+#### MCQ 40 — Constitutional question on appeal
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: subject-matter classification does not defeat the constitutional-question threshold.
+- **B:** Incorrect: factual disputes alone do not trigger Article 145(3).
+- **C:** Incorrect: bench constitution operates within constitutional requirements, not personal preference.
+- **D:** Correct: the substantial interpretive question, not the appeal's civil label, activates the minimum.
+
+**Examiner trap 40:** Do not equate every constitutional mention with a substantial interpretation question.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -926,6 +1159,8 @@ Explain how Article 131 makes the Supreme Court a federal umpire while preservin
 
 **Analysis:** Direct apex adjudication prevents one constituent government from being forced into another's ordinary courts and authoritatively protects the federal distribution of power.
 
+**Application:** A Union act infringing a State's legal authority may qualify; political disagreement over a scheme alone cannot.
+
 **Qualification:** A private party, policy disagreement or political grievance without a legal-right issue does not become an Article 131 dispute.
 
 **Verdict:** The provision is powerful because it is bounded: it judicialises genuine federal legality without converting the Court into a general political mediator.
@@ -942,6 +1177,8 @@ How do Article 141 and bench-strength discipline promote legal certainty without
 
 **Analysis:** This hierarchy allows citizens and institutions to plan around stable rules while preventing fragmented constitutional meanings across an integrated judiciary.
 
+**Application:** A coordinate bench doubting precedent should seek reference, not silently treat its ratio as optional.
+
 **Qualification:** The Supreme Court is not absolutely bound by its own precedent: review, curative safeguards and a properly constituted larger bench permit principled correction.
 
 **Verdict:** Article 141 therefore balances certainty with learning—precedent governs until an institutionally competent bench changes the law through reasons.
@@ -957,6 +1194,8 @@ The collegium protects judicial independence but suffers an accountability defic
 **Named evidence:** Article 124 originally used consultation. *S.P. Gupta* (1981) favoured executive primacy; *Supreme Court Advocates-on-Record Association* (1993) created judicial primacy; the 1998 Presidential Reference required the CJI plus four senior-most judges for Supreme Court appointments. The 99th Amendment and NJAC Act, 2014 were invalidated in 2015 because the enacted design impaired judicial independence, a basic-structure value.
 
 **Analysis:** Judicial control reduces the danger that the government rewards compliant judges. Collegial consultation also pools professional knowledge. However, unpublished or thinly reasoned criteria, weak diversity disclosure, delay and perceived favouritism reduce public confidence and blur responsibility between Court and executive.
+
+**Institutional tension:** Independence requires protecting the final selection from partisan bargaining; accountability requires an intelligible basis for shortlisting, consultation and departures from seniority or diversity goals. A published, privacy-conscious process could make both values compatible without exposing confidential candidate assessments in full. The executive's lawful role in processing recommendations should be distinguished from a power to select politically congenial judges.
 
 **Qualification:** The NJAC ruling did not prohibit every commission model, and criticism of opacity does not justify executive primacy.
 
@@ -976,6 +1215,8 @@ Article 142 is indispensable for complete justice but dangerous when detached fr
 
 **Analysis:** Flexibility is valuable in complex litigation, restitution and institutional deadlock. But an unbounded equity claim would make outcomes bench-dependent and disturb separation of powers.
 
+**Judicial method:** Before invoking complete justice, identify the pending cause, the enforceable rights, the ordinary remedy and the gap that makes tailored relief necessary. An order addressing that gap may have broad practical effects, yet its breadth does not remove the duty to justify limits in the underlying law. This method distinguishes enforcement from judicial authorship of a replacement statutory regime.
+
 **Qualification:** The 2025 opinion is advisory and issue-specific; it did not generally curtail Article 142 or overrule the April 2025 Tamil Nadu judgment.
 
 **Verdict:** Article 142 remains legitimate when relief is case-linked, rights-consistent, reasoned and supplementary to law.
@@ -991,6 +1232,8 @@ Has PIL made the Supreme Court excessively powerful? Analyse through access, rem
 **Named evidence:** *Hussainara Khatoon* (1979) connected Article 21 with speedy trial. *S.P. Gupta* (1981) widened representative standing for those unable to approach courts. Epistolary jurisdiction reduced formality, while *Vineet Narain* (1998) illustrates continuing mandamus. Article 141 gives declared law national reach and Article 142 enables complete justice.
 
 **Analysis:** These tools opened constitutional courts to bonded labourers, under-trials and environmentally affected groups; they also enabled monitoring where executive inertia made a one-time order ineffective. The same design can overload the docket, reward publicity litigation and turn judges into continuing administrators lacking budgetary or technical capacity.
+
+**Threshold control:** A petitioner should show genuine public injury and why affected persons cannot obtain timely ordinary relief. Courts should hear affected communities, demand verifiable evidence and define a workable endpoint for monitoring. Where an accountable department is already acting lawfully, institutional restraint protects administrative expertise without abandoning rights review.
 
 **Named boundary:** *Vishaka* (1997) is defensible gap filling because its workplace safeguards were rights-based, temporary and superseded by the 2013 statute. Article 142 remains supplementary, not supplanting.
 
@@ -1010,9 +1253,10 @@ Judicial independence is a prerequisite of democracy, but accountability and acc
 
 **Analysis:** These safeguards reduce retaliation by political branches. Yet the extreme Article 124(4) removal threshold leaves a gap below removal. The 1997 Restatement, 1999 in-house procedure, recusals, asset disclosure and collegium resolutions are important but largely non-statutory or unevenly reasoned. Pendency, cost, language and digital exclusion can make formal independence irrelevant to ordinary litigants.
 
+**Connection to access:** A right declared after years of delay may offer little effective protection. Strengthening judicial vacancies and case management therefore complements, rather than threatens, decisional independence. Equally, publishing aggregate appointment information and giving parties reasoned recusal decisions can improve confidence without allowing the government to dictate judicial outcomes.
+
 **Qualification:** External control may become political pressure; complete self-regulation may become opacity.
 
 **Reforms:** Establish a permanent appointments secretariat, published criteria, reasoned recusal practice, fair graded complaints procedure, timely vacancy processing, stronger High Courts and legal aid, disciplined SLP admission, case-flow management, translation, accessible e-filing and privacy-secure hybrid hearings.
 
 **Verdict:** Democracy needs independent decisions, accountable process and practical access—the three are complements, not rivals.
-

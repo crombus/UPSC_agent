@@ -6,835 +6,351 @@ topic_key: indian-society-09
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Capability deprivation?
+All original questions precede a separately matched key. No unverified objective PYQ answer is asserted.
 
-A. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
+### Q1. A household's income clears a threshold, but local health care and schooling are inaccessible. What remains possible?
 
-**Answer: A.**
-**Explanation:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. The remaining options belong to different chronology, actor or analytical categories.
+A. Capability deprivation despite non-poor income classification
+B. A definitive proof of full development
+C. Guaranteed social participation
+D. Automatic equality of life chances
 
-### Q2. Which chronology card should be filed under Capability deprivation?
+### Q2. A community loses labour-market opportunities through caste-based exclusion. Which dimension is best captured?
 
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
+A. Relational social exclusion that can compound income deprivation
+B. A change in the poverty-line formula
+C. A voluntary cultural preference for unemployment
+D. Proof that every member has identical income
 
-**Answer: B.**
-**Explanation:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. Which contrast of absolute and relative poverty is defensible?
 
-### Q3. Which option preserves the source-bounded meaning of Capability deprivation?
+A. Relative poverty always proves starvation
+B. Absolute poverty uses a basic-needs threshold; relative poverty concerns position against a social standard
+C. Both are identical to consumption inequality
+D. Absolute poverty measures only informal employment
 
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
+### Q4. A family's income falls below a threshold briefly after illness, then recovers. Which category fits?
 
-**Answer: C.**
-**Explanation:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. The remaining options belong to different chronology, actor or analytical categories.
+A. Permanently inherited poverty
+B. No economic vulnerability
+C. A transient spell plus vulnerability to future shocks
+D. Chronic poverty by definition
 
-### Q4. Which statement avoids a close-option trap about Capability deprivation?
+### Q5. Two districts have identical poverty headcounts but poor households in one have much larger shortfalls. Which measure is missing?
 
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-C. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-D. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
+A. Depth of poverty, not merely incidence
+B. The number of officially notified minorities
+C. Population density alone
+D. The date on a conservation order
 
-**Answer: D.**
-**Explanation:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. What distinguishes poverty severity from simple headcount?
 
-### Q5. Which statement correctly identifies Social exclusion?
+A. Severity weights deeper shortfalls more; headcount counts incidence
+B. Severity ignores differences among poor households
+C. Headcount alone measures inequality among the poor
+D. Severity is identical to the number of job applicants
 
-A. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
+### Q7. What does the National Multidimensional Poverty Index principally illuminate?
 
-**Answer: A.**
-**Explanation:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. The remaining options belong to different chronology, actor or analytical categories.
+A. Individual voting freedom
+B. Deprivations across selected non-monetary dimensions, not household consumption alone
+C. The exact official consumption-poverty headcount
+D. Every scheme's causal impact
 
-### Q6. Which chronology card should be filed under Social exclusion?
+### Q8. NITI Aayog's January 2024 discussion paper estimated 11.28% multidimensional poverty for 2022–23. What status must be stated?
 
-A. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
+A. An official current household roster
+B. A direct 2022–23 NFHS enumeration
+C. A dated extrapolative estimate beyond the last underlying NFHS actuals
+D. A 2026 census enumeration
 
-**Answer: B.**
-**Explanation:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. The same discussion paper estimated about 24.82 crore exits between 2013–14 and 2022–23. Which interpretation is justified?
 
-### Q7. Which option preserves the source-bounded meaning of Social exclusion?
+A. A paper-specific estimate for that period, not proof one programme caused exits
+B. The number of households legally granted land titles
+C. A verified 2026 poverty count
+D. A measure of annual NGO employment
 
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
+### Q10. What does MoSPI's HCES 2023–24 directly provide?
 
-**Answer: C.**
-**Explanation:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. The remaining options belong to different chronology, actor or analytical categories.
+A. Consumption survey evidence for August 2023–July 2024, requiring a specified method to derive a poverty line
+B. A universally adopted official poverty headcount
+C. A measure of capability freedom in every village
+D. A causal evaluation of all food schemes
 
-### Q8. Which statement avoids a close-option trap about Social exclusion?
+### Q11. Oscar Lewis's culture-of-poverty thesis is best described as what?
 
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-C. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-D. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
+A. A legal presumption of personal fault
+B. A contested account of intergenerationally reproduced coping orientations
+C. The sole accepted economic poverty measure
+D. A statistical proof that exclusion never matters
 
-**Answer: D.**
-**Explanation:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. A household makes short-term spending choices because earnings are uncertain. What is the strongest sociological counter to a culture-only explanation?
 
-### Q9. Which statement correctly identifies The culture of poverty?
+A. Preferences explain all unequal landholding
+B. Only school lessons are required
+C. Short horizons may be adaptive to insecurity rather than an independent inherited cause
+D. Saving is always impossible for everyone
 
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-C. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-D. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
+### Q13. Which pairing distinguishes economic growth from human development?
 
-**Answer: A.**
-**Explanation:** The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere. The remaining options belong to different chronology, actor or analytical categories.
+A. Growth concerns aggregate production; human development includes health, education and living standards
+B. Both are identical to a single poverty headcount
+C. Human development is only factory output
+D. Growth requires every household's equal income
 
-### Q10. Which chronology card should be filed under The culture of poverty?
+### Q14. A pandemic closes urban workplaces; migrant workers lose wages and housing security. Which analysis is strongest?
 
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-B. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-C. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-D. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
+A. Informal earnings and insecure tenure transmit a class-differentiated shock
+B. All social groups experience the same loss
+C. A local example proves a precise national poverty increase
+D. Only cultural attitudes explain the disruption
 
-**Answer: B.**
-**Explanation:** The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of The culture of poverty?
-
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-C. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-D. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-
-**Answer: C.**
-**Explanation:** The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about The culture of poverty?
-
-A. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-B. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-
-**Answer: D.**
-**Explanation:** The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies The structural critique?
-
-A. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-
-**Answer: A.**
-**Explanation:** The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under The structural critique?
-
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-B. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-C. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-D. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-
-**Answer: B.**
-**Explanation:** The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of The structural critique?
-
-A. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-B. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-
-**Answer: C.**
-**Explanation:** The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about The structural critique?
-
-A. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-B. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-C. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-D. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-
-**Answer: D.**
-**Explanation:** The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Short-horizon decision-making?
-
-A. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-C. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-D. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-
-**Answer: A.**
-**Explanation:** Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Short-horizon decision-making?
-
-A. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-D. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-
-**Answer: B.**
-**Explanation:** Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Short-horizon decision-making?
-
-A. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-B. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-C. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-D. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-
-**Answer: C.**
-**Explanation:** Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Short-horizon decision-making?
-
-A. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-B. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-
-**Answer: D.**
-**Explanation:** Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies The measurement boundary?
-
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-
-**Answer: A.**
-**Explanation:** The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under The measurement boundary?
-
-A. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-B. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-
-**Answer: B.**
-**Explanation:** The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of The measurement boundary?
-
-A. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-B. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-C. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: C.**
-**Explanation:** The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about The measurement boundary?
-
-A. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-B. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-C. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-D. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-
-**Answer: D.**
-**Explanation:** The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Dated multidimensional anchor?
-
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-B. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-C. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-D. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-
-**Answer: A.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Dated multidimensional anchor?
-
-A. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-
-**Answer: B.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Dated multidimensional anchor?
-
-A. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-B. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: C.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Dated multidimensional anchor?
-
-A. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-B. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-C. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
-
-**Answer: D.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Persistence despite programmes?
-
-A. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-B. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-
-**Answer: A.**
-**Explanation:** Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Persistence despite programmes?
-
-A. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-B. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-C. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: B.**
-**Explanation:** Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Persistence despite programmes?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-C. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-D. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-
-**Answer: C.**
-**Explanation:** Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Persistence despite programmes?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-C. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-D. Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-
-**Answer: D.**
-**Explanation:** Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Class-differentiated shock transmission?
-
-A. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-B. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-C. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: A.**
-**Explanation:** Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Class-differentiated shock transmission?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-C. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: B.**
-**Explanation:** Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Class-differentiated shock transmission?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-C. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-D. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-
-**Answer: C.**
-**Explanation:** Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Class-differentiated shock transmission?
-
-A. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-B. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-C. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-D. Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-
-**Answer: D.**
-**Explanation:** Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies The development-livelihood conflict?
-
-A. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-B. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-C. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: A.**
-**Explanation:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under The development-livelihood conflict?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-C. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-D. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-
-**Answer: B.**
-**Explanation:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of The development-livelihood conflict?
-
-A. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-B. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-C. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-D. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-
-**Answer: C.**
-**Explanation:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about The development-livelihood conflict?
-
-A. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-B. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-C. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-D. The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-
-**Answer: D.**
-**Explanation:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Two development conflicts kept apart?
-
-A. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-B. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-C. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-D. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-
-**Answer: A.**
-**Explanation:** Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Two development conflicts kept apart?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-C. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-D. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-
-**Answer: B.**
-**Explanation:** Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Two development conflicts kept apart?
-
-A. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-B. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-C. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-D. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-
-**Answer: C.**
-**Explanation:** Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Two development conflicts kept apart?
-
-A. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-B. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-C. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-D. Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-
-**Answer: D.**
-**Explanation:** Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Two conservation designs?
-
-A. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-B. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-C. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-D. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-
-**Answer: A.**
-**Explanation:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Two conservation designs?
-
-A. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-B. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-C. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-D. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-
-**Answer: B.**
-**Explanation:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Two conservation designs?
-
-A. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-B. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-C. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-D. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-
-**Answer: C.**
-**Explanation:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Two conservation designs?
-
-A. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-B. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-
-**Answer: D.**
-**Explanation:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Reduction rather than elimination?
-
-A. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-B. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-C. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-D. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-
-**Answer: A.**
-**Explanation:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Reduction rather than elimination?
-
-A. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-B. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-C. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-D. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-
-**Answer: B.**
-**Explanation:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Reduction rather than elimination?
-
-A. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-B. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-C. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-D. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-
-**Answer: C.**
-**Explanation:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Reduction rather than elimination?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-
-**Answer: D.**
-**Explanation:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Three-actor comparative advantage?
-
-A. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-B. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-C. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-D. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-
-**Answer: A.**
-**Explanation:** The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Three-actor comparative advantage?
-
-A. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-B. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-
-**Answer: B.**
-**Explanation:** The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Three-actor comparative advantage?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-C. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-D. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-
-**Answer: C.**
-**Explanation:** The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Three-actor comparative advantage?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-
-**Answer: D.**
-**Explanation:** The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Complementary collaboration?
-
-A. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-B. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-C. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-D. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-
-**Answer: A.**
-**Explanation:** Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Complementary collaboration?
-
-A. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-B. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-C. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-D. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-
-**Answer: B.**
-**Explanation:** Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Complementary collaboration?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-C. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: C.**
-**Explanation:** Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Complementary collaboration?
-
-A. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-B. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-C. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-D. Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-
-**Answer: D.**
-**Explanation:** Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Culture-only misdiagnosis?
-
-A. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-B. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-
-**Answer: A.**
-**Explanation:** A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Culture-only misdiagnosis?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-C. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-D. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-
-**Answer: B.**
-**Explanation:** A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Culture-only misdiagnosis?
-
-A. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-B. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-C. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: C.**
-**Explanation:** A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Culture-only misdiagnosis?
-
-A. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-
-**Answer: D.**
-**Explanation:** A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Structural intervention?
-
-A. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-B. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-C. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-D. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-
-**Answer: A.**
-**Explanation:** A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Structural intervention?
-
-A. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-B. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-
-**Answer: B.**
-**Explanation:** A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Structural intervention?
-
-A. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-B. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-C. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-D. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-
-**Answer: C.**
-**Explanation:** A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Structural intervention?
-
-A. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-B. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-C. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-D. A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
-
-**Answer: D.**
-**Explanation:** A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Conservation implementation contrast?
-
-A. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-B. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: A.**
-**Explanation:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Conservation implementation contrast?
-
-A. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-B. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: B.**
-**Explanation:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Conservation implementation contrast?
-
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-D. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-
-**Answer: C.**
-**Explanation:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Conservation implementation contrast?
-
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-C. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-D. A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-
-**Answer: D.**
-**Explanation:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Three standing trade-offs?
-
-A. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: A.**
-**Explanation:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Three standing trade-offs?
-
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-
-**Answer: B.**
-**Explanation:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Three standing trade-offs?
-
-A. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-
-**Answer: C.**
-**Explanation:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Three standing trade-offs?
-
-A. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-B. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-
-**Answer: D.**
-**Explanation:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-B. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-C. Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-
-**Answer: A.**
-**Explanation:** Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-B. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-C. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-
-**Answer: B.**
-**Explanation:** Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-B. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-C. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-D. The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-
-**Answer: C.**
-**Explanation:** Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-B. The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-C. Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-D. Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner.
-
-**Answer: D.**
-**Explanation:** Four direct General Studies Paper-I demands are carried by this owner: the 2018 demand on the persistence of poverty despite eradication programmes worth 10 marks and the 2020 demand on the pandemic, class inequalities and poverty worth 10 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with Core routing superseding, the 2024 demand on government, non-governmental and private collaboration worth 10 marks whose ledger row names the Governance civil-society owner while this owner's table claims it, and the 2025 demand on sustainable growth against the needs of the poor worth 15 marks routed in the ledger to this Basic owner. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. After a pandemic, a digital-only benefit process excludes people with limited connectivity. What additional mechanism is shown?
+
+A. A universal preference against welfare
+B. A digital service-access divide layered onto livelihood loss
+C. Proof that no one benefits from digital services
+D. A change in forest ecology
+
+### Q16. A programme disburses transfers but recipients still lack reliable health care and land access. What should be inferred?
+
+A. Every recipient is equally deprived
+B. All deprivation has ended
+C. One income input has improved while other capability and asset barriers may remain
+D. Transfers are never useful
+
+### Q17. Which three-actor division best fits the 2024 GS-I collaboration demand?
+
+A. State: regulation and scale; NGOs: local trust; firms: technology or resources with shared accountability
+B. State: no duty; NGOs: all regulation; firms: public audit alone
+C. All three: indistinguishable duties without reporting
+D. Firms: constitutional legislation; NGOs: taxation; state: charity only
+
+### Q18. Who must retain public accountability when government contracts out a service?
+
+A. Government, with clear standards and independently reviewable monitoring
+B. Only the local NGO
+C. Only the technology supplier
+D. No actor if each shares informal responsibility
+
+### Q19. A protected forest bans collection of forest produce without an alternative. Which harm can occur without physical relocation?
+
+A. A recorded change in district boundaries
+B. Loss of subsistence access even if households remain in place
+C. Only a land-acquisition payment
+D. No livelihood loss unless houses are demolished
+
+### Q20. How can a conservation plan reduce, but not necessarily erase, conflict with poor people's needs?
+
+A. Ban all grazing while promising no alternatives
+B. Assume ecological goals are always compatible with existing use
+C. Provide genuine co-management, sustainable-use rules and viable alternatives
+D. Treat resource users as obstacles and exclude them
+
+### Q21. Why is strict conservation not automatically anti-poor?
+
+A. Benefits and costs depend on ecological condition, dependence and who shapes access rules
+B. Biodiversity has no livelihood significance
+C. All forest households have identical needs
+D. Participation guarantees zero ecological trade-offs
+
+### Q22. Which evaluation of a community ecotourism proposal is toughest?
+
+A. Test who receives earnings, whether access remains and whether ecology is protected
+B. Count project announcements as successful jobs
+C. Presume every participant gains equal income
+D. Treat tourism as a synonym for land rights
+
+### Q23. A conservation plan is jointly monitored by an NGO, a firm and officials. What is the governance trap?
+
+A. Funding never affects design
+B. Unclear monitoring roles may diffuse responsibility even where each actor adds value
+C. No partners can provide local knowledge
+D. Community consent is unnecessary if an NGO exists
+
+### Q24. An analyst attributes poverty reduction entirely to a new cash programme from two cross-sectional MPI estimates. What is wrong?
+
+A. The programme could never help anyone
+B. All recipients must remain poor
+C. An aggregate before-and-after comparison cannot isolate the programme's causal contribution
+D. MPI cannot measure any deprivation
+
+### Separate objective answer key and option-by-option solutions
+
+**Q1 — A.**
+- **A (correct):** Income and real freedom can diverge in Sen's framework.
+- **B (incorrect):** Income above a line does not settle service access.
+- **C (incorrect):** The case supplies no participation evidence.
+- **D (incorrect):** Opportunities depend on conversion conditions.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q2 — B.**
+- **A (incorrect):** No formula change is described.
+- **B (correct):** Access to institutions and networks can be structured by social relations.
+- **C (incorrect):** Blocked opportunity is not evidence of preference.
+- **D (incorrect):** Group members' incomes may differ.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q3 — C.**
+- **A (incorrect):** Income distribution and poverty overlap but differ.
+- **B (incorrect):** Relative position cannot directly establish calorie deprivation.
+- **C (correct):** Different thresholds answer different deprivation questions.
+- **D (incorrect):** Absolute deprivation is not a labour-status category.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q4 — D.**
+- **A (incorrect):** A short episode need not be chronic.
+- **B (incorrect):** No intergenerational evidence is given.
+- **C (incorrect):** A temporary exit does not erase future risk.
+- **D (correct):** Duration and exposure matter separately from a one-time poverty observation.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q5 — A.**
+- **A (correct):** Headcount identifies how many fall below a line, not how far below it.
+- **B (incorrect):** Notification does not measure shortfall.
+- **C (incorrect):** Density alone does not measure poverty gap.
+- **D (incorrect):** A conservation date is unrelated.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q6 — B.**
+- **A (incorrect):** The point is sensitivity to depth.
+- **B (correct):** Different distributions below the line can have the same headcount.
+- **C (incorrect):** Headcount misses intensity.
+- **D (incorrect):** Employment applicants are not a poverty measure.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q7 — C.**
+- **A (incorrect):** No official consumption estimate follows merely from an MPI value.
+- **B (incorrect):** MPI cannot measure each person's agency.
+- **C (correct):** MPI and consumption lines are different constructs.
+- **D (incorrect):** Aggregate change is not intervention-level causal proof.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q8 — D.**
+- **A (incorrect):** It is not a 2026 Census stock.
+- **B (incorrect):** An estimate is not a registry of households.
+- **C (incorrect):** The paper extrapolates beyond survey actuals.
+- **D (correct):** Source, method and reference period limit interpretation.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q9 — A.**
+- **A (correct):** The estimate has a dated period and cannot assign unique causality.
+- **B (incorrect):** Exits are not land-title issuance.
+- **C (incorrect):** Its endpoint is not 2026.
+- **D (incorrect):** This is not a staffing indicator.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q10 — B.**
+- **A (incorrect):** Survey output needs a poverty estimation method.
+- **B (correct):** Consumption observations are not in themselves an official headcount.
+- **C (incorrect):** Consumption is not agency itself.
+- **D (incorrect):** Observations alone do not attribute causal impact.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q11 — C.**
+- **A (incorrect):** It is sociological, not a poverty line.
+- **B (incorrect):** The thesis is not a statutory rule.
+- **C (correct):** Lewis's thesis concerns learned patterns and is criticised for downplaying structures.
+- **D (incorrect):** No such structural refutation follows.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q12 — D.**
+- **A (incorrect):** There is no universal impossibility of saving.
+- **B (incorrect):** Land relations require structural analysis.
+- **C (incorrect):** Education alone cannot remove income volatility.
+- **D (correct):** Causal direction cannot be inferred from observed coping.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q13 — A.**
+- **A (correct):** Different outcome spaces mean one can rise while the other lags.
+- **B (incorrect):** Neither collapses into incidence alone.
+- **C (incorrect):** Human development includes non-income dimensions.
+- **D (incorrect):** Aggregate output need not be equally distributed.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q14 — B.**
+- **A (incorrect):** Work security varies.
+- **B (correct):** Work and housing conditions explain unequal exposure without inventing a nationwide rate.
+- **C (incorrect):** One example is not a representative series.
+- **D (incorrect):** Institutional and labour channels are directly relevant.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q15 — C.**
+- **A (incorrect):** Digital access can help some people.
+- **B (incorrect):** Failure to connect is not evidence of preference.
+- **C (correct):** Connectivity and documentation can mediate the ability to receive support.
+- **D (incorrect):** No ecological mechanism is supplied.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q16 — D.**
+- **A (incorrect):** Income support can be valuable.
+- **B (incorrect):** Circumstances vary across households.
+- **C (incorrect):** Receipt is not complete capability.
+- **D (correct):** Multiple deprivation dimensions must be tested separately.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
+
+**Q17 — A.**
+- **A (correct):** Complementary roles and joint monitoring prevent diffusion of responsibility.
+- **B (incorrect):** Public accountability cannot simply be ceded.
+- **C (incorrect):** Duplicate duties without coordination risk gaps.
+- **D (incorrect):** Private firms cannot legislate.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q18 — B.**
+- **A (incorrect):** NGOs cannot replace the state's mandate.
+- **B (correct):** Delegation of delivery does not erase public obligations.
+- **C (incorrect):** Suppliers are not sole public guarantors.
+- **D (incorrect):** Diffusion is precisely the failure mode.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q19 — C.**
+- **A (incorrect):** There is no necessary acquisition award.
+- **B (incorrect):** Administrative boundaries are not the mechanism.
+- **C (correct):** Conservation access restriction is distinct from project displacement.
+- **D (incorrect):** Physical relocation is not necessary.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q20 — D.**
+- **A (incorrect):** Exclusion may intensify harm.
+- **B (incorrect):** Uncompensated bans sharpen the conflict.
+- **C (incorrect):** Trade-offs still require negotiation.
+- **D (correct):** Participation and livelihood options change distribution of costs while ecological limits remain.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q21 — A.**
+- **A (correct):** Outcomes are context-dependent; commons can support long-term resilience.
+- **B (incorrect):** Ecological health matters.
+- **C (incorrect):** Neither tribe nor poverty implies uniform needs.
+- **D (incorrect):** Some restrictions may still be necessary.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q22 — B.**
+- **A (incorrect):** Announcements are inputs.
+- **B (correct):** Livelihood and conservation outcomes must both be measured, with distribution.
+- **C (incorrect):** Benefits may be unequally distributed.
+- **D (incorrect):** Tourism cannot substitute automatically for tenure.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q23 — C.**
+- **A (incorrect):** NGOs can supply local knowledge.
+- **B (incorrect):** Incentives and funding may shape practice.
+- **C (correct):** Role division and public accountability prevent partnership from becoming evasion.
+- **D (incorrect):** NGO presence is not consent.
+**Trap:** Separate livelihood access, unequal exposure and institutional roles instead of assuming universal effects.
+
+**Q24 — D.**
+- **A (incorrect):** MPI does measure selected deprivations.
+- **B (incorrect):** The error is overconfident attribution, not impossibility.
+- **C (incorrect):** Receipt alone does not fix every condition.
+- **D (correct):** Other changes and methodology may influence measured trends; use a comparison design.
+**Trap:** A dated estimate or one input does not measure every dimension or establish causal impact.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified descriptive PYQ ownership and evidence limits
 
-Four direct General Studies Paper-I Mains demands are carried by this owner and each is recorded with its exact routing status. The 2018 Q9 demand on the persistence of poverty despite eradication programmes and the 2020 Q9 demand on the pandemic, class inequalities and poverty are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes, so both are answered here from the Basic spine. The locally held official question papers for 2018 and 2020 are scanned images from which reliable text cannot be extracted, so the audited ledger's neutral demand rendering is used for those two years and no verbatim wording is claimed. The 2024 Q10 demand on collaboration between government, non-governmental organisations and the private sector is routed in the audited 2024-2025 ledger to the Governance civil-society owner while this owner's own table claims it as a core route, and that cross-owner conflict is recorded openly here. The 2025 Q19 demand on sustainable growth against the needs of the poor is routed in the same ledger to this Basic owner. The wording of the 2024 and 2025 demands was confirmed in the locally held official question papers for those years. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Four routed GS-I descriptive demands follow. The 2018 and 2020 headings are neutral ledger renderings, not verbatim text from scanned papers. The 2024 wording is confirmed in the local official paper but Governance is its routed owner; this answer limits itself to social development. The 2025 wording is confirmed and routed here. Models are independent practice solutions, not UPSC marking keys; no unverified objective PYQ key is supplied or pending here.
 
 ### OWNER PYQ LEDGER EXTRACTS
 
@@ -926,345 +442,114 @@ Four direct General Studies Paper-I Mains demands are carried by this owner and 
 
 ### PYQ DEMAND CARD 1 — 2018 GS-I Q9
 
-**Demand:** Audited ledger demand rendering: the persistence of poverty despite eradication programmes. Explain by giving reasons, 10 marks, 150 words.
+**Demand:** Audited neutral demand: Explain why poverty persists despite eradication programmes (10 marks, 150 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2018 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** The directive asks for reasons, so the answer must be a chain of mechanisms and not a catalogue of programmes. Begin by fixing what persists: poverty is capability deprivation and social exclusion, so a household can cross an income threshold while remaining unable to be schooled, treated or heard, which is why a programme can succeed on its own indicator and fail on the condition it was created to end. Give the first reason as a conversion problem: coverage, access and use are three different things, and an entitlement that formally covers a household can still fail on distance, cost, documentation, information or last-mile delivery capacity. Give the second reason as an asset and market problem: without land, credit, secure tenure or a stable wage relation, a transfer smooths consumption without changing the household's opportunity set, so deprivation returns with the next shock. Give the third reason as exclusion: caste, gender, religion and region shape which households are reached first and which are reached last, and the same delivery system therefore produces unequal results without any explicit discrimination. Give the fourth reason as short horizons: chronic insecurity forces survival-first decisions that suppress investment in schooling and savings, and this is a consequence of constrained choice rather than a cultural failing, which is the point at which weak answers slide into blaming the poor. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and those are estimates for a stated period that neither prove nor disprove a particular programme's effect. Conclude that persistence is a conversion and exclusion problem, so convergence, accountability and asset access matter more than adding another announcement, and route poverty-line methodology to Economy and entitlement design to Social Justice.
+Poverty can persist despite programmes because a delivered benefit addresses only one part of deprivation. A transfer may ease a household's immediate consumption yet leave poor schooling, insecure work, illness or lack of land unchanged. Sen's capability approach asks whether people can actually achieve health, education and social participation, not merely whether a payment reached them.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The directive asks for reasons, so the answer must be a chain of mechanisms and not a catalogue of programmes. Begin by fixing what persists: poverty is capability deprivation and social exclusion, so a household can cross an income threshold while remaining unable to be schooled, treated or heard, which is why a programme can succeed on its own indicator and fail on the condition it was created to end. Give the first reason as a conversion problem: coverage, access and use are three different things, and an entitlement that formally covers a household can still fail on distance, cost, documentation, information or last-mile delivery capacity. Give the second reason as an asset and market problem: without land, credit, secure tenure or a stable wage relation, a transfer smooths consumption without changing the household's opportunity set, so deprivation returns with the next shock. Give the third reason as exclusion: caste, gender, religion and region shape which households are reached first and which are reached last, and the same delivery system therefore produces unequal results without any explicit discrimination. Give the fourth reason as short horizons: chronic insecurity forces survival-first decisions that suppress investment in schooling and savings, and this is a consequence of constrained choice rather than a cultural failing, which is the point at which weak answers slide into blaming the poor. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and those are estimates for a stated period that neither prove nor disprove a particular programme's effect. Conclude that persistence is a conversion and exclusion problem, so convergence, accountability and asset access matter more than adding another announcement, and route poverty-line methodology to Economy and entitlement design to Social Justice.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: the persistence of poverty despite eradication programmes. Explain by giving reasons, 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The directive asks for reasons, so the answer must be a chain of mechanisms and not a catalogue of programmes. Begin by fixing what persists: poverty is capability deprivation and social exclusion, so a household can cross an income threshold while remaining unable to be schooled, treated or heard, which is why a programme can succeed on its own indicator and fail on the condition it was created to end. Give the first reason as a conversion problem: coverage, access and use are three different things, and an entitlement that formally covers a household can still fail on distance, cost, documentation, information or last-mile delivery capacity. Give the second reason as an asset and market problem: without land, credit, secure tenure or a stable wage relation, a transfer smooths consumption without changing the household's opportunity set, so deprivation returns with the next shock. Give the third reason as exclusion: caste, gender, religion and region shape which households are reached first and which are reached last, and the same delivery system therefore produces unequal results without any explicit discrimination. Give the fourth reason as short horizons: chronic insecurity forces survival-first decisions that suppress investment in schooling and savings, and this is a consequence of constrained choice rather than a cultural failing, which is the point at which weak answers slide into blaming the poor. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and those are estimates for a stated period that neither prove nor disprove a particular programme's effect. Conclude that persistence is a conversion and exclusion problem, so convergence, accountability and asset access matter more than adding another announcement, and route poverty-line methodology to Economy and entitlement design to Social Justice.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Exclusion also weakens conversion: a worker facing discrimination may be unable to turn new skills into secure employment; distance and information barriers may prevent a remote family from using public services. Administrative errors and fragmented last-mile delivery can amplify these constraints. None applies uniformly to all disadvantaged households. NITI Aayog's later multidimensional estimates describe a dated trend but cannot identify which programme failed or succeeded. Effective poverty reduction needs reliable benefits plus schooling, health care, asset access, fair labour markets and accountable implementation. Poverty's persistence therefore signals interacting structural and delivery barriers, not an inherent failure of poor people to plan.
 
 ### PYQ DEMAND CARD 2 — 2020 GS-I Q9
 
-**Demand:** Audited ledger demand rendering: the COVID-19 pandemic, class inequalities and poverty in India. Comment, 10 marks, 150 words.
+**Demand:** Audited neutral demand: Comment on the COVID-19 pandemic, class inequalities and poverty in India (10 marks, 150 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2020 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed. No pandemic-period poverty, migration or employment figure is asserted anywhere in this package.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Comment invites a considered judgement, so state the analytical position first: a shock is not itself an equaliser or a leveller, it is transmitted through pre-existing class positions, and the answer's task is to name the transmission channels rather than to assert a magnitude. Channel one is work. Precarious informal employment without contracts, notice or paid leave converts a suspension of activity directly into a loss of income, while secure salaried work converts it into an inconvenience. Channel two is housing and health. Dense, poorly serviced housing raises exposure and makes isolation impracticable, so the same public-health measure imposes very different costs by class. Channel three is savings and social protection. Thin buffers force distress borrowing or asset sale, and where entitlement is tied to place of registration rather than to the person, mobility itself becomes a reason for exclusion from relief. Channel four is services and connectivity. Where schooling, work and relief move to digital delivery, unequal device and internet access converts a temporary disruption into a durable learning and earnings loss. Add the relational layer: caste, gender and location intersect these channels, so aggregate statements conceal which group actually bore the cost. State the evidentiary limit explicitly, because it is part of a good comment: this package holds no pandemic-period poverty or migration figure and asserts none, and the NITI Aayog 2024 estimate covers 2022-23 rather than the shock period. Conclude that class inequality determined the depth of the shock more than the shock determined class inequality, and that the policy implication is portable entitlement, universal basic services and resilience for informal workers rather than a one-time relief narrative.
+The COVID-19 shock reached Indians through unequal work and living conditions. Workers with insecure informal earnings could lose income immediately when activity stopped, while those able to work remotely had a different degree of protection. In crowded housing, distancing and isolation were harder; migrants separated from local support could also face obstacles to services. Digitised access widened some services yet excluded households with limited devices or connectivity.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2020 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Comment invites a considered judgement, so state the analytical position first: a shock is not itself an equaliser or a leveller, it is transmitted through pre-existing class positions, and the answer's task is to name the transmission channels rather than to assert a magnitude. Channel one is work. Precarious informal employment without contracts, notice or paid leave converts a suspension of activity directly into a loss of income, while secure salaried work converts it into an inconvenience. Channel two is housing and health. Dense, poorly serviced housing raises exposure and makes isolation impracticable, so the same public-health measure imposes very different costs by class. Channel three is savings and social protection. Thin buffers force distress borrowing or asset sale, and where entitlement is tied to place of registration rather than to the person, mobility itself becomes a reason for exclusion from relief. Channel four is services and connectivity. Where schooling, work and relief move to digital delivery, unequal device and internet access converts a temporary disruption into a durable learning and earnings loss. Add the relational layer: caste, gender and location intersect these channels, so aggregate statements conceal which group actually bore the cost. State the evidentiary limit explicitly, because it is part of a good comment: this package holds no pandemic-period poverty or migration figure and asserts none, and the NITI Aayog 2024 estimate covers 2022-23 rather than the shock period. Conclude that class inequality determined the depth of the shock more than the shock determined class inequality, and that the policy implication is portable entitlement, universal basic services and resilience for informal workers rather than a one-time relief narrative.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: the COVID-19 pandemic, class inequalities and poverty in India. Comment, 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Comment invites a considered judgement, so state the analytical position first: a shock is not itself an equaliser or a leveller, it is transmitted through pre-existing class positions, and the answer's task is to name the transmission channels rather than to assert a magnitude. Channel one is work. Precarious informal employment without contracts, notice or paid leave converts a suspension of activity directly into a loss of income, while secure salaried work converts it into an inconvenience. Channel two is housing and health. Dense, poorly serviced housing raises exposure and makes isolation impracticable, so the same public-health measure imposes very different costs by class. Channel three is savings and social protection. Thin buffers force distress borrowing or asset sale, and where entitlement is tied to place of registration rather than to the person, mobility itself becomes a reason for exclusion from relief. Channel four is services and connectivity. Where schooling, work and relief move to digital delivery, unequal device and internet access converts a temporary disruption into a durable learning and earnings loss. Add the relational layer: caste, gender and location intersect these channels, so aggregate statements conceal which group actually bore the cost. State the evidentiary limit explicitly, because it is part of a good comment: this package holds no pandemic-period poverty or migration figure and asserts none, and the NITI Aayog 2024 estimate covers 2022-23 rather than the shock period. Conclude that class inequality determined the depth of the shock more than the shock determined class inequality, and that the policy implication is portable entitlement, universal basic services and resilience for informal workers rather than a one-time relief narrative.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2020 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+These channels help explain why an identical public-health restriction need not impose equal economic costs. However, one migrant's experience cannot represent all low-income households, and a specific pandemic-period poverty increase requires comparable dated data that this demand does not itself provide. Portable support, accessible health services and resilient livelihoods can moderate uneven shocks. The class argument concerns exposure, capacity to absorb losses and pace of recovery—not the unverified assertion that every poor person experienced the same outcome.
 
 ### PYQ DEMAND CARD 3 — 2024 GS-I Q10
 
-**Demand:** In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs and private sector would be most productive? (Answer in 150 words) 10 marks.
+**Demand:** In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs and private sector would be most productive? (10 marks, 150 words; official-paper wording).
 
-**Status:** Wording confirmed in the locally held official 2024 General Studies Paper-I. The audited 2024-2025 Mains ledger routes this row to the Governance civil-society owner while this owner's own answer-architecture table claims it; the conflict is recorded openly and this answer supplies the sociological role-division argument without claiming the Governance owner's institutional-mechanism material.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Answer the word most productive directly by naming a form of collaboration rather than praising cooperation in general: the productive form is complementary, in which each actor performs the function it is best placed to perform under a single joint monitoring arrangement. Set out the comparative advantages. Government supplies regulatory authority, funding at scale, statutory backing and final accountability, none of which the other two can substitute. Non-governmental organisations supply grassroots trust, knowledge of community-specific constraints and last-mile delivery into households that a formal system reaches late or not at all. Private actors supply technology, logistics, efficiency and resources, particularly where delivery must scale or a supply chain must be built. Then state the failure mode, which is what converts this from a list into an argument: where roles are not divided, the same function is attempted twice, coverage still fails at the margin, and responsibility for a poor outcome is diffused across three actors so that none of them owns it. That is why joint monitoring, a single accountable outcome owner and transparent role definition matter more than the number of partners. Qualify the recommendation honestly: collaboration cannot substitute for the conversion factors that decide whether an entitlement is usable, namely schooling, information, distance and stigma, and no partnership arrangement should be credited with an outcome that this package cannot evidence. Conclude that the most productive collaboration is comparative-advantage division plus joint accountability, and route detailed civil-society and partnership-institution theory to the Governance owner rather than restating it.
+The most productive partnership assigns complementary tasks and a common, publicly accountable result. Government supplies regulation, funding at scale and responsibility for equitable access. An NGO may identify barriers through local trust and help communities participate; a private provider can supply technology, logistics or investment under agreed standards. For instance, in a rural health-access initiative, local outreach can identify who cannot reach services while public authorities set access guarantees and a contracted supplier maintains equipment.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2024 GS-I Q10”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Answer the word most productive directly by naming a form of collaboration rather than praising cooperation in general: the productive form is complementary, in which each actor performs the function it is best placed to perform under a single joint monitoring arrangement. Set out the comparative advantages. Government supplies regulatory authority, funding at scale, statutory backing and final accountability, none of which the other two can substitute. Non-governmental organisations supply grassroots trust, knowledge of community-specific constraints and last-mile delivery into households that a formal system reaches late or not at all. Private actors supply technology, logistics, efficiency and resources, particularly where delivery must scale or a supply chain must be built. Then state the failure mode, which is what converts this from a list into an argument: where roles are not divided, the same function is attempted twice, coverage still fails at the margin, and responsibility for a poor outcome is diffused across three actors so that none of them owns it. That is why joint monitoring, a single accountable outcome owner and transparent role definition matter more than the number of partners. Qualify the recommendation honestly: collaboration cannot substitute for the conversion factors that decide whether an entitlement is usable, namely schooling, information, distance and stigma, and no partnership arrangement should be credited with an outcome that this package cannot evidence. Conclude that the most productive collaboration is comparative-advantage division plus joint accountability, and route detailed civil-society and partnership-institution theory to the Governance owner rather than restating it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs and private sector would be most productive? (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Answer the word most productive directly by naming a form of collaboration rather than praising cooperation in general: the productive form is complementary, in which each actor performs the function it is best placed to perform under a single joint monitoring arrangement. Set out the comparative advantages. Government supplies regulatory authority, funding at scale, statutory backing and final accountability, none of which the other two can substitute. Non-governmental organisations supply grassroots trust, knowledge of community-specific constraints and last-mile delivery into households that a formal system reaches late or not at all. Private actors supply technology, logistics, efficiency and resources, particularly where delivery must scale or a supply chain must be built. Then state the failure mode, which is what converts this from a list into an argument: where roles are not divided, the same function is attempted twice, coverage still fails at the margin, and responsibility for a poor outcome is diffused across three actors so that none of them owns it. That is why joint monitoring, a single accountable outcome owner and transparent role definition matter more than the number of partners. Qualify the recommendation honestly: collaboration cannot substitute for the conversion factors that decide whether an entitlement is usable, namely schooling, information, distance and stigma, and no partnership arrangement should be credited with an outcome that this package cannot evidence. Conclude that the most productive collaboration is comparative-advantage division plus joint accountability, and route detailed civil-society and partnership-institution theory to the Governance owner rather than restating it.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2024 GS-I Q10”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Roles must not become excuses for evasion. Published targets, accessible grievance channels, joint monitoring and independent evaluation can test both service quality and who is excluded. The state cannot transfer its public duty to a vendor; NGO presence does not automatically establish community consent, and technology alone cannot fix remoteness or stigma. The collaboration succeeds when it converts resources into usable capabilities for disadvantaged people, not merely when three logos appear on a project.
 
 ### PYQ DEMAND CARD 4 — 2025 GS-I Q19
 
-**Demand:** Achieving sustainable growth with emphasis on environmental protection could come into conflict with poor people's needs in a country like India. Comment. (Answer in 250 words) 15 marks.
+**Demand:** Achieving sustainable growth with emphasis on environmental protection could come into conflict with poor people's needs in a country like India. Comment. (15 marks, 250 words; official-paper wording).
 
-**Status:** Wording confirmed in the locally held official 2025 General Studies Paper-I and routed in the audited 2024-2025 Mains ledger to this Basic owner.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Affirm the conflict without surrendering to it, because comment rewards a graded judgement rather than either denial or despair. State the mechanism first: where a forest, wetland or grazing common is designated for strict protection, the households that depended on grazing, fuelwood or non-timber forest produce lose an alternative-free subsistence base, so the conservation objective is achieved and the livelihood cost is imposed at the same time on the poorest users. Distinguish this from the adjacent mechanism at once, because merging them is the commonest error: conservation restriction curtails access without moving anyone, whereas project-driven displacement physically relocates a community and is owned by the tribal-society topic. Now make the analytical move that the directive rewards: the severity of the conflict is a function of implementation design rather than an unavoidable law of development. Exclusionary conservation closes access entirely and transfers the whole adjustment cost to local users. Participatory conservation grants co-management rights, recognises use rights and supplies alternative livelihood such as value chains in non-timber produce or ecotourism in exchange for sustainable-use commitments, which substantially reduces the conflict. Keep the qualification honest: participatory design rarely eliminates the conflict, because some restriction on prior open access is normally still required, and it may be slower and permit more resource use than strict exclusion, which is a genuine effectiveness-against-equity trade-off rather than an administrative inconvenience. Add the deprivation frame: poverty here is capability deprivation and social exclusion, so an answer that measures only income loss understates what is removed. Conclude that sustainable growth conflicts with the needs of the poor whenever the poor bear the adjustment cost without voice or compensation, and that the resolution is participatory design, secure use rights and alternative livelihood rather than an assumption that conservation and poverty reduction are automatically compatible. Assert no displacement count, no protected-area figure and no poverty rate.
+The conflict is real when environmental protection changes access to a resource on which a household depends. A protected-area restriction on grazing or collection of forest produce may safeguard an ecosystem yet remove subsistence options for nearby forest-dependent households, even without physically displacing them. A family with savings or alternative employment can absorb such a rule differently from one reliant on daily collection. Conservation's immediate costs are therefore socially distributed.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2025 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+This does not make environmental protection inherently hostile to poor people. Degraded commons also damage livelihoods and resilience. The issue is who designs the rules, who bears restrictions and who shares benefits. Exclusionary conservation without consultation or viable alternatives can deepen deprivation and erode local cooperation; community co-management, carefully specified sustainable-use access and credible alternative income can improve both legitimacy and ecological compliance. Ecotourism or produce value chains may help in some places but require evidence that earnings reach affected households and that ecological limits are respected.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Affirm the conflict without surrendering to it, because comment rewards a graded judgement rather than either denial or despair. State the mechanism first: where a forest, wetland or grazing common is designated for strict protection, the households that depended on grazing, fuelwood or non-timber forest produce lose an alternative-free subsistence base, so the conservation objective is achieved and the livelihood cost is imposed at the same time on the poorest users. Distinguish this from the adjacent mechanism at once, because merging them is the commonest error: conservation restriction curtails access without moving anyone, whereas project-driven displacement physically relocates a community and is owned by the tribal-society topic. Now make the analytical move that the directive rewards: the severity of the conflict is a function of implementation design rather than an unavoidable law of development. Exclusionary conservation closes access entirely and transfers the whole adjustment cost to local users. Participatory conservation grants co-management rights, recognises use rights and supplies alternative livelihood such as value chains in non-timber produce or ecotourism in exchange for sustainable-use commitments, which substantially reduces the conflict. Keep the qualification honest: participatory design rarely eliminates the conflict, because some restriction on prior open access is normally still required, and it may be slower and permit more resource use than strict exclusion, which is a genuine effectiveness-against-equity trade-off rather than an administrative inconvenience. Add the deprivation frame: poverty here is capability deprivation and social exclusion, so an answer that measures only income loss understates what is removed. Conclude that sustainable growth conflicts with the needs of the poor whenever the poor bear the adjustment cost without voice or compensation, and that the resolution is participatory design, secure use rights and alternative livelihood rather than an assumption that conservation and poverty reduction are automatically compatible. Assert no displacement count, no protected-area figure and no poverty rate.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Achieving sustainable growth with emphasis on environmental protection could come into conflict with poor people's needs in a country like India. Comment. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Wording confirmed in the locally held official 2025 General Studies Paper-I and routed in the audited 2024-2025 Mains ledger to this Basic owner. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Affirm the conflict without surrendering to it, because comment rewards a graded judgement rather than either denial or despair. State the mechanism first: where a forest, wetland or grazing common is designated for strict protection, the households that depended on grazing, fuelwood or non-timber forest produce lose an alternative-free subsistence base, so the conservation objective is achieved and the livelihood cost is imposed at the same time on the poorest users. Distinguish this from the adjacent mechanism at once, because merging them is the commonest error: conservation restriction curtails access without moving anyone, whereas project-driven displacement physically relocates a community and is owned by the tribal-society topic. Now make the analytical move that the directive rewards: the severity of the conflict is a function of implementation design rather than an unavoidable law of development. Exclusionary conservation closes access entirely and transfers the whole adjustment cost to local users. Participatory conservation grants co-management rights, recognises use rights and supplies alternative livelihood such as value chains in non-timber produce or ecotourism in exchange for sustainable-use commitments, which substantially reduces the conflict. Keep the qualification honest: participatory design rarely eliminates the conflict, because some restriction on prior open access is normally still required, and it may be slower and permit more resource use than strict exclusion, which is a genuine effectiveness-against-equity trade-off rather than an administrative inconvenience. Add the deprivation frame: poverty here is capability deprivation and social exclusion, so an answer that measures only income loss understates what is removed. Conclude that sustainable growth conflicts with the needs of the poor whenever the poor bear the adjustment cost without voice or compensation, and that the resolution is participatory design, secure use rights and alternative livelihood rather than an assumption that conservation and poverty reduction are automatically compatible. Assert no displacement count, no protected-area figure and no poverty rate.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2025 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+A distinct route—physical displacement by a development project—requires separate rehabilitation analysis; it should not be confused with restricted access while families remain in place. Neither “all use must continue unchanged” nor “ban all local use” resolves the trade-off. Public authorities must uphold ecological standards and rights, consult users and monitor livelihoods and habitats together. The qualified answer is participatory, evidence-based conservation: it can substantially reduce conflict, but cannot promise that every ecological limit is costless or that all communities have identical needs.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain by giving reasons why poverty persists in India despite eradication programmes. Answer in about 150 words.
 
-**Model thesis:** Poverty persists where coverage exists but access, capability and social recognition do not, so the reasons must be given as conversion and delivery mechanisms rather than as a list of schemes or a single income statistic.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+A poverty programme may improve consumption without changing the structures that reproduce deprivation. Landlessness, insecure wages and illness limit a household's buffer against shocks; inaccessible schools and clinics obstruct its ability to turn assistance into future opportunities. Caste- or gender-linked exclusion can further restrict access to jobs and institutions. Under Sen's capability approach, these are deficits in real freedoms alongside income shortfall.
 
-- Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names.
-- Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-- Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-- The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology.
-
-**Qualified conclusion:** Poverty persists where coverage exists but access, capability and social recognition do not, so the reasons must be given as conversion and delivery mechanisms rather than as a list of schemes or a single income statistic.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain by giving reasons why poverty persists in India despite eradication programmes.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Poverty persists where coverage exists but access, capability and social recognition do not, so the reasons must be given as conversion and delivery mechanisms rather than as a list of schemes or a single income statistic.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Persistence despite programmes is the gap between coverage, access and actual use, in which an entitlement exists on paper while asset deficits, exclusion, distance, information failure and last-mile delivery weaknesses stop it from reaching or being usable by the household it names. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The measurement boundary of this owner is that the Tendulkar and Rangarajan poverty-line formulae and the construction of the multidimensional poverty index belong to Economy, while welfare entitlement and scheme detail belong to Social Justice, so a sociological answer explains deprivation mechanisms rather than restating another owner's methodology. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Poverty persists where coverage exists but access, capability and social recognition do not, so the reasons must be given as conversion and delivery mechanisms rather than as a list of schemes or a single income statistic.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain by giving reasons why poverty persists in India despite eradication programmes.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Design and delivery matter as well: information gaps, weak last-mile services or a digital-only application can keep an eligible household from usable support. Beneficiary totals measure coverage, not whether education, security or agency improved. These barriers differ across rural and urban settings and among households; blaming a common “culture” ignores that variation. A stronger response converges reliable income support with good services, secure work and accessible redress. Persistence does not prove that every programme is ineffective, only that no single transfer can be equated with an exit from multidimensional poverty.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Discuss the collaboration between government, non-governmental organisations and the private sector that would be most productive for socio-economic development. Answer in about 150 words.
 
-**Model thesis:** Productive collaboration divides roles by comparative advantage under joint monitoring, because each actor holds a different strength and undivided roles convert cooperation into duplication and diffused accountability.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Development partnerships work when comparative advantages are specified and outcomes remain publicly accountable. Government can establish entitlements, finance and regulate delivery at scale. NGOs can use local relationships to identify households missed by standard procedures and support meaningful participation. Firms can contribute technology, supplies or distribution capacity subject to service and accessibility standards.
 
-- The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths.
-- Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability.
-- Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-
-**Qualified conclusion:** Productive collaboration divides roles by comparative advantage under joint monitoring, because each actor holds a different strength and undivided roles convert cooperation into duplication and diffused accountability.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the collaboration between government, non-governmental organisations and the private…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Productive collaboration divides roles by comparative advantage under joint monitoring, because each actor holds a different strength and undivided roles convert cooperation into duplication and diffused accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The three-actor comparative-advantage model holds that government supplies regulatory authority, funding at scale and final accountability, non-governmental organisations supply grassroots trust, local knowledge and last-mile delivery, and private actors supply technology, efficiency and resources, so no single actor ordinarily holds all three strengths. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Complementary collaboration is a role division in which each actor performs the function it is best placed to perform under joint monitoring, and the Advanced owner contrasts it under the label complementary vs overlapping collaboration with an arrangement in which undivided roles produce duplication, coordination failure and diffused accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Productive collaboration divides roles by comparative advantage under joint monitoring, because each actor holds a different strength and undivided roles convert cooperation into duplication and diffused accountability.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Discuss the collaboration between government, non-governmental organisations and the private…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Consider a district programme improving access to schooling: officials maintain universal duties and funding, community organisations identify attendance obstacles, and contracted suppliers provide usable infrastructure. Shared monitoring should disaggregate participation and learning, not merely count deliveries. If roles overlap without agreement, people may be sent between providers with no accountable decision-maker. NGO affiliation is no substitute for consent, and private efficiency cannot justify excluding costly-to-reach households. The most productive arrangement couples public responsibility with community knowledge and appropriately regulated resources; its success is demonstrated by effective access and outcomes, not the existence of a memorandum.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Comment on the claim that a pandemic shock deepened class inequalities and poverty in India. Answer in about 250 words.
 
-**Model thesis:** A shock becomes class-differentiated through named channels of work, housing, health exposure, savings and service access, so the defensible comment traces those channels and states its evidentiary limits instead of asserting a magnitude.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+The claim is sociologically plausible because a shock passes through pre-existing inequalities in jobs, housing, savings and access to services. During COVID-19 restrictions, a worker dependent on daily informal earnings could lose income immediately, whereas a salaried worker able to work remotely faced a different risk. Crowded housing made safe isolation more difficult; households with limited savings had less time to absorb lost work or health costs. Migrants could encounter interruptions when local support and employment disappeared at once.
 
-- Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience.
-- Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express.
-- Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold.
-- The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change.
+The digital divide added another channel. Remote education and online applications preserved access for some but could leave families without devices or connectivity behind. Care demands also varied among households, affecting paid work and schooling in ways an income measure alone may miss. These mechanisms do not mean every informal worker or migrant suffered identically, nor that each pre-existing class difference increased everywhere.
 
-**Qualified conclusion:** A shock becomes class-differentiated through named channels of work, housing, health exposure, savings and service access, so the defensible comment traces those channels and states its evidentiary limits instead of asserting a magnitude.
-
-**Demand decoding:** The directive **comment** requires a direct position on “Comment on the claim that a pandemic shock deepened class inequalities and poverty in India.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** A shock becomes class-differentiated through named channels of work, housing, health exposure, savings and service access, so the defensible comment traces those channels and states its evidentiary limits instead of asserting a magnitude.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Class-differentiated shock transmission is the process by which a common shock produces unequal outcomes through precarious informal work and income loss, dense housing and health exposure, thin savings and social-protection portability, and unequal digital and service access, so the shock is a channel structure rather than one uniform experience. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Social exclusion is deprivation compounded by exclusion from social networks, institutions and opportunity structures on grounds of caste, gender, religion or region, and it is a relational condition that an aggregate income statistic cannot express. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Capability deprivation is the condition in which a person cannot achieve basic valued functionings such as being nourished, being educated, being healthy and participating in social life, which is why Amartya Sen's approach measures poverty directly against those freedoms rather than inferring them from an income threshold. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or evidence that a named programme caused the change. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** A shock becomes class-differentiated through named channels of work, housing, health exposure, savings and service access, so the defensible comment traces those channels and states its evidentiary limits instead of asserting a magnitude.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Comment on the claim that a pandemic shock deepened class inequalities and poverty in India.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The empirical claim requires caution. A specific change in national poverty cannot be inferred from a vivid example or from a later NITI Aayog multidimensional estimate without attention to its reference period and method. Likewise, a class association alone does not identify the effect of one restriction or support measure. Still, the transmission channels justify portable social protection, accessible health care, continuity of learning and livelihood security for those least able to absorb shocks. The balanced comment is that pandemic measures and disease interacted with unequal material starting points; credible disaggregated evidence is needed to quantify how much class inequality and poverty changed.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Comment on the claim that achieving sustainable growth with environmental protection can conflict with the needs of the poor. Answer in about 250 words.
 
-**Model thesis:** The conflict is real because restriction removes an alternative-free subsistence base, but its severity is set by whether design excludes communities or shares voice, livelihood and benefit with them.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Environmental protection and the poor's needs can conflict because conservation changes who may use land, water and forest commons. If a protected forest is closed to grazing or non-timber produce collection without an alternative, nearby dependent households lose livelihood access despite staying in their homes. An ecosystem gain can thus carry an immediate, uneven cost. The same community may also benefit from healthier commons over time; a simplistic anti-conservation conclusion would miss that possibility.
 
-- The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
-- Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic.
-- Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-- Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-- A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
+Implementation changes the distribution of costs. Exclusionary rules made without users' participation can undermine subsistence and cooperation. Joint management, locally negotiated sustainable-use limits and viable supplementary income can reduce conflict. Ecotourism is not a universal remedy: earnings may be seasonal or captured by better-positioned actors, while habitat protection still requires enforceable boundaries. A poor fisher, forest-product collector and landless grazer need not have identical claims.
 
-**Qualified conclusion:** The conflict is real because restriction removes an alternative-free subsistence base, but its severity is set by whether design excludes communities or shares voice, livelihood and benefit with them.
-
-**Demand decoding:** The directive **comment** requires a direct position on “Comment on the claim that achieving sustainable growth with environmental protection can…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The conflict is real because restriction removes an alternative-free subsistence base, but its severity is set by whether design excludes communities or shares voice, livelihood and benefit with them.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Conservation restriction and project displacement are different mechanisms, a distinction the Advanced owner labels development-conservation conflict vs development-displacement conflict: the first curtails grazing, fuelwood or produce collection without moving anyone, while the second physically relocates a community and is owned by the tribal-society topic. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The conflict is real because restriction removes an alternative-free subsistence base, but its severity is set by whether design excludes communities or shares voice, livelihood and benefit with them.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Comment on the claim that achieving sustainable growth with environmental protection can…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Physical relocation for a dam or mining project is a related but distinct development-displacement question; this argument concerns access restrictions that can harm people without relocation. Environmental authorities should examine dependence, consult affected users and monitor both ecological condition and livelihood security. Sometimes strict limits remain necessary, and support cannot fully replace a commons. The qualified verdict is therefore not automatic harmony but a design obligation: distribute conservation costs fairly, protect essential capabilities and ensure affected communities have an effective voice within ecological constraints.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Critically examine the culture-of-poverty thesis and its sociological critique. Answer in about 300 words.
 
-**Model thesis:** The dispute is about the direction of causation rather than about whether coping behaviour exists, and because the answer decides whether policy corrects material conditions or attitudes, the critical verdict must favour structural intervention while refusing to deny lived adaptation.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Oscar Lewis's culture-of-poverty thesis proposes that prolonged deprivation can foster orientations and coping practices reproduced across generations. It asks a legitimate question about how experience may shape expectations and choices. But observing short-term decision-making among poor households does not show that an autonomous culture caused their poverty.
 
-- The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere.
-- The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected.
-- Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame.
-- A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation.
-- A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do.
+Consider a family that avoids long-term investment because income is irregular and illness may force immediate spending. Calling this deficient planning mistakes a response to risk for an explanation of landlessness, insecure wages or weak clinics. Labour discrimination, unequal schooling and limited credit alter the feasible choices available to the family. Sen's capability approach redirects analysis from supposed attitudes to real freedoms to be healthy, educated and socially involved. These explanations differ in causal direction: do behaviours produce poverty independently, or does insecurity shape behaviours?
 
-**Qualified conclusion:** The dispute is about the direction of causation rather than about whether coping behaviour exists, and because the answer decides whether policy corrects material conditions or attitudes, the critical verdict must favour structural intervention while refusing to deny lived adaptation.
+The structural critique must also be qualified. Individuals do develop habits and social networks that matter, and good information or financial skills can help some households. Yet such interventions will have limited effect if people lack stable earnings or usable banking services. No single claim about “the poor” can account for differences of region, caste, gender, disability, assets or stage of life. Nor can a multidimensional-poverty estimate tell us whether a named behaviour or programme caused a change.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the culture-of-poverty thesis and its sociological critique. Answer in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The dispute is about the direction of causation rather than about whether coping behaviour exists, and because the answer decides whether policy corrects material conditions or attitudes, the critical verdict must favour structural intervention while refusing to deny lived adaptation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The culture of poverty is Oscar Lewis's contested thesis that persistent poverty can generate values, attitudes and behaviour that are reproduced across generations, and it arose from particular ethnographic settings rather than as a complete explanation of poverty anywhere. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The structural or institutional critique holds that the behaviours Lewis described are better read as rational adaptations to chronic insecurity, unequal land and credit access and weak public services, so the direction of causation is the entire dispute and a policy that corrects culture while leaving material conditions untouched is misdirected. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Short-horizon decision-making is the prioritising of immediate survival over long-term investment in schooling or savings, and it is evidence of a constrained opportunity set rather than proof of an independent cultural cause, which is why coping behaviour must be described without being converted into blame. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A financial-literacy programme that assumes poor households merely need to be taught to plan better, while leaving income insecurity and asset exclusion untouched, illustrates the risk of treating a contested cultural account as a complete causal explanation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A land-titling and credit-access programme that directly expands a poor household's real opportunity set illustrates the capability-consistent alternative, because it changes what the household can subsequently do rather than what it is told to do. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The dispute is about the direction of causation rather than about whether coping behaviour exists, and because the answer decides whether policy corrects material conditions or attitudes, the critical verdict must favour structural intervention while refusing to deny lived adaptation.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Critically examine the culture-of-poverty thesis and its sociological critique. Answer in…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The policy test is demanding: secure essential services, fair employment and access to assets while assessing whether optional behavioural support improves decisions under those conditions. Lewis remains useful as a contested account of adaptation, not as a universal diagnosis or moral judgement. The stronger sociological conclusion is that explanations must test material constraints and institutional exclusion before attributing persistent poverty to inherited preferences; both lived agency and structural opportunity belong in the analysis.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Evaluate how conservation design decides whether environmental protection deepens or relieves poverty. Answer in about 300 words.
 
-**Model thesis:** Design rather than intention determines the welfare sign of conservation, so the evaluation compares exclusionary and participatory implementation on livelihood, voice and ecological outcome and closes with an explicit effectiveness-against-equity trade-off.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Conservation can safeguard the commons on which livelihoods depend, yet can also deprive people of those commons. Its poverty effects depend on baseline dependence, rules of access, distribution of costs and the presence of credible alternatives. An exclusionary protected-area rule stopping grazing or forest-produce collection may immediately reduce food, fuel or earnings for households with few substitutes, even if nobody is physically relocated. That access loss must not be confused with project-driven displacement and resettlement.
 
-- Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation.
-- Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved.
-- A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved.
-- Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns.
-- The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication.
+Participatory design offers a different path. If forest users help set sustainable collection rules and monitor ecological conditions, conservation can build legitimacy; investment in value addition to non-timber produce or other viable work may reduce dependence on damaging extraction. But participation is not satisfied by merely inviting a local leader: women collectors, landless users and households with different resource needs require meaningful voice. Ecotourism may distribute income unevenly and fluctuate seasonally, so proposed alternatives need a household-level viability test.
 
-**Qualified conclusion:** Design rather than intention determines the welfare sign of conservation, so the evaluation compares exclusionary and participatory implementation on livelihood, voice and ecological outcome and closes with an explicit effectiveness-against-equity trade-off.
+Ecological limits cannot simply be negotiated away. A degraded habitat may require genuine restrictions; even well-designed limits may impose temporary costs. Conversely, failing to protect a forest or water source may damage poor households' long-term capabilities. Authorities should establish ecological objectives, map users and entitlements, assess livelihood losses, negotiate feasible use and support, and review ecological and distributional outcomes together. NGOs may supply local knowledge and private partners logistical resources, but government retains public accountability; unclear division of tasks invites gaps in compensation and monitoring.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate how conservation design decides whether environmental protection deepens or relieves…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Design rather than intention determines the welfare sign of conservation, so the evaluation compares exclusionary and participatory implementation on livelihood, voice and ecological outcome and closes with an explicit effectiveness-against-equity trade-off.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Exclusionary conservation restricts local access entirely in order to protect an ecosystem while participatory conservation gives local communities a formal stake, co-management rights and alternative livelihood support in exchange for sustainable-use commitments, a design choice the Advanced owner labels participatory conservation vs exclusionary conservation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Participatory design substantially reduces the conservation-livelihood conflict without eliminating it, because some restriction on prior open access is usually still required, so the honest verdict describes severity as a function of design rather than declaring the conflict solved. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A protected-area notification that bans all local resource use without alternative livelihood provision illustrates the sharpest form of the conflict, while a community granted co-management rights and an alternative income stream illustrates the same conflict substantially, though not perfectly, resolved. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Three trade-offs run through the topic: participatory conservation can be slower and may permit more resource use than strict exclusion, distributing roles across three actors improves capability matching while diffusing accountability if outcomes fail, and structural reforms such as land access and schooling quality address root causes but show results far more slowly than transfers or awareness campaigns. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The development-livelihood conflict is the tension that arises when environmental conservation or sustainable-development measures restrict access to land, forest or water resources on which poor communities directly depend for subsistence, and it is a genuine trade-off rather than a failure of communication. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Design rather than intention determines the welfare sign of conservation, so the evaluation compares exclusionary and participatory implementation on livelihood, voice and ecological outcome and closes with an explicit effectiveness-against-equity trade-off.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate how conservation design decides whether environmental protection deepens or relieves…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The verdict is conditional rather than celebratory. Conservation relieves poverty where ecosystem recovery and fair access yield durable capabilities; it deepens poverty where the poorest absorb uncompensated costs or lose voice. Judge the design by both habitat condition and the security of those who depend on it, not by notification or visitor revenue alone.

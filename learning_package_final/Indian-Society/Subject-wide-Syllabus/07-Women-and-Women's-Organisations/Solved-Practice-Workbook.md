@@ -6,835 +6,351 @@ topic_key: indian-society-07
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Layered organisational history?
+All questions precede the separately matched key. These are original practice questions, not verified objective PYQs.
 
-A. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-D. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
+### Q1. Which account of Indian women's organising is historically sound?
 
-**Answer: A.**
-**Explanation:** Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement. The remaining options belong to different chronology, actor or analytical categories.
+A. Reform associations, rights bodies, unions and federated SHGs coexist
+B. Each later wave legally dissolved its predecessor
+C. SEWA was the first nineteenth-century reform association
+D. The earliest SHGs established the All India Women's Conference
 
-### Q2. Which chronology card should be filed under Layered organisational history?
+### Q2. An exam note calls AIWC India's first women's association because of its 1927 foundation. Correct it.
 
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-C. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-D. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
+A. The Women's Indian Association preceded AIWC
+B. AIWC was created after SEWA
+C. AIWC began as a national SHG federation
+D. NFIW was the nineteenth-century antecedent
 
-**Answer: B.**
-**Explanation:** Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. A group founded in 1927 initially promoted women's education and later legal reform. Identify it.
 
-### Q3. Which option preserves the source-bounded meaning of Layered organisational history?
+A. NFIW
+B. All India Women's Conference
+C. SEWA
+D. A federated SHG
 
-A. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-B. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-C. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-D. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
+### Q4. Which institutional pairing is best supported?
 
-**Answer: C.**
-**Explanation:** Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement. The remaining options belong to different chronology, actor or analytical categories.
+A. AIWC—SHG federation; NFIW—cooperative bank
+B. SEWA—education-only association; WIA—gig-worker body
+C. NFIW—wage and anti-dowry advocacy; SEWA—informal-worker organising
+D. WIA—platform union; SEWA—franchise association
 
-### Q4. Which statement avoids a close-option trap about Layered organisational history?
+### Q5. A Gujarat association of self-employed women uses collective bargaining and cooperatives. What is its form?
 
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
+A. SEWA's worker trade-union model
+B. A constitutional commission
+C. A village SHG federation by definition
+D. An individual welfare benefit
 
-**Answer: D.**
-**Explanation:** Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. Trust within a savings group is followed by connections among groups and then ties to banks. Which order applies?
 
-### Q5. Which statement correctly identifies Women's Indian Association precedence?
+A. Bonding, bridging, linking
+B. Linking, bonding, bridging
+C. Bridging, linking, bonding
+D. Bonding, linking, bonding
 
-A. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-B. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-C. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-D. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
+### Q7. A training scheme has identical eligibility for all, but unsafe travel prevents attendance. What is lacking?
 
-**Answer: A.**
-**Explanation:** The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries. The remaining options belong to different chronology, actor or analytical categories.
+A. A registration target
+B. Equitable implementation addressing mobility
+C. Formal notification
+D. A second identical eligibility rule
 
-### Q6. Which chronology card should be filed under Women's Indian Association precedence?
+### Q8. Childcare and accessible meeting hours are introduced for a women's collective. What is the best classification?
 
-A. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-B. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-C. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-D. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
+A. A withdrawal of equal rights
+B. Proof that discrimination has ended
+C. Equity measures addressing time poverty
+D. Guaranteed empowerment
 
-**Answer: B.**
-**Explanation:** The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. A woman uses a bank account, but another person determines how her earnings are spent. Which inference survives?
 
-### Q7. Which option preserves the source-bounded meaning of Women's Indian Association precedence?
+A. Financial access exists; independent financial control is not established
+B. Account use proves bargaining power
+C. Bank-use measures all unpaid work
+D. No organisation could ever improve her agency
 
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-C. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-D. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
+### Q10. A worker negotiates prices and independently directs the proceeds of her work. What is directly observed?
 
-**Answer: C.**
-**Explanation:** The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries. The remaining options belong to different chronology, actor or analytical categories.
+A. Exercised economic agency in this case
+B. A universal impact of SEWA membership
+C. A national estimate of women's autonomy
+D. Proof that law and practice are identical
 
-### Q8. Which statement avoids a close-option trap about Women's Indian Association precedence?
+### Q11. Female labour-force participation rises in a district. Which conclusion is warranted?
 
-A. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-B. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
+A. All jobs are secure
+B. Measured participation changed; job quality and care remain separate questions
+C. Unpaid care has vanished
+D. Each woman controls workplace decisions
 
-**Answer: D.**
-**Explanation:** The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. How should rights advocacy and livelihood organising be compared?
 
-### Q9. Which statement correctly identifies All India Women's Conference, 1927?
+A. Legal reform always excludes informal workers
+B. Worker unions cannot influence law
+C. Distinct mechanisms may be complementary without being interchangeable
+D. Only union members count as women organisers
 
-A. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-B. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-C. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-D. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
+### Q13. How should nineteenth-century reform be characterised?
 
-**Answer: A.**
-**Explanation:** The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work. The remaining options belong to different chronology, actor or analytical categories.
+A. Advocacy against harms was often elite-led, not equivalent to mass women's membership
+B. Women had no role anywhere in reform
+C. Reform was solely federated microcredit
+D. Later unions dissolved reform bodies
 
-### Q10. Which chronology card should be filed under All India Women's Conference, 1927?
+### Q14. What does citing anti-arrack mobilisation alongside women's Chipko participation demonstrate?
 
-A. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
+A. Issue-based collective action extended beyond national-association history
+B. All participants shared one caste location
+C. The campaigns were founded as one 1927 body
+D. Environmental activism was the entire women's movement
 
-**Answer: B.**
-**Explanation:** The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of All India Women's Conference, 1927?
-
-A. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-B. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-C. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-D. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-
-**Answer: C.**
-**Explanation:** The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about All India Women's Conference, 1927?
-
-A. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-B. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-
-**Answer: D.**
-**Explanation:** The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies National Federation of Indian Women?
-
-A. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-B. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-C. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-D. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-
-**Answer: A.**
-**Explanation:** The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under National Federation of Indian Women?
-
-A. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-B. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-
-**Answer: B.**
-**Explanation:** The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of National Federation of Indian Women?
-
-A. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-B. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-C. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-D. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-
-**Answer: C.**
-**Explanation:** The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about National Federation of Indian Women?
-
-A. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-B. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-C. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-D. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-
-**Answer: D.**
-**Explanation:** The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Self Employed Women's Association?
-
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-C. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-D. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-
-**Answer: A.**
-**Explanation:** The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Self Employed Women's Association?
-
-A. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-B. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-C. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-D. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-
-**Answer: B.**
-**Explanation:** The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Self Employed Women's Association?
-
-A. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-B. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-C. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-D. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-
-**Answer: C.**
-**Explanation:** The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Self Employed Women's Association?
-
-A. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-B. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-C. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-D. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-
-**Answer: D.**
-**Explanation:** The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Self-help group federations?
-
-A. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-B. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-C. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: A.**
-**Explanation:** Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Self-help group federations?
-
-A. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-B. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-C. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-D. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-
-**Answer: B.**
-**Explanation:** Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Self-help group federations?
-
-A. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-B. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-C. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: C.**
-**Explanation:** Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Self-help group federations?
-
-A. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-B. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-C. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-D. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-
-**Answer: D.**
-**Explanation:** Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Gender equality?
-
-A. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-B. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-C. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: A.**
-**Explanation:** Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Gender equality?
-
-A. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-B. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-C. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: B.**
-**Explanation:** Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Gender equality?
-
-A. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-B. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-C. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-D. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-
-**Answer: C.**
-**Explanation:** Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Gender equality?
-
-A. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-B. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-C. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-D. Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-
-**Answer: D.**
-**Explanation:** Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Gender equity?
-
-A. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-B. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-C. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: A.**
-**Explanation:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Gender equity?
-
-A. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-B. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-C. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: B.**
-**Explanation:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Gender equity?
-
-A. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-B. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-C. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-D. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-
-**Answer: C.**
-**Explanation:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Gender equity?
-
-A. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-B. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-C. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-D. Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-
-**Answer: D.**
-**Explanation:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Women's empowerment?
-
-A. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-B. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-C. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-D. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-
-**Answer: A.**
-**Explanation:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Women's empowerment?
-
-A. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-B. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-C. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: B.**
-**Explanation:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Women's empowerment?
-
-A. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-B. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-C. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: C.**
-**Explanation:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Women's empowerment?
-
-A. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-B. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-C. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-D. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-
-**Answer: D.**
-**Explanation:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Interaction rather than a sequence?
-
-A. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-B. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-C. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: A.**
-**Explanation:** Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Interaction rather than a sequence?
-
-A. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-B. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-C. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: B.**
-**Explanation:** Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Interaction rather than a sequence?
-
-A. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-B. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-C. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-D. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-
-**Answer: C.**
-**Explanation:** Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Interaction rather than a sequence?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-
-**Answer: D.**
-**Explanation:** Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Membership against substantive voice?
-
-A. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-B. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-C. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: A.**
-**Explanation:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Membership against substantive voice?
-
-A. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-B. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-
-**Answer: B.**
-**Explanation:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Membership against substantive voice?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-C. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-D. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-
-**Answer: C.**
-**Explanation:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Membership against substantive voice?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-
-**Answer: D.**
-**Explanation:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Time poverty and the care burden?
-
-A. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-B. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-
-**Answer: A.**
-**Explanation:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Time poverty and the care burden?
-
-A. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-B. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-
-**Answer: B.**
-**Explanation:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Time poverty and the care burden?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-D. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-
-**Answer: C.**
-**Explanation:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Time poverty and the care burden?
-
-A. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-B. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-C. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-D. Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Answer: D.**
-**Explanation:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Mobility, safety and contested space?
-
-A. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-B. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-C. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-D. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-
-**Answer: A.**
-**Explanation:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Mobility, safety and contested space?
-
-A. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-B. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-C. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-D. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-
-**Answer: B.**
-**Explanation:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Mobility, safety and contested space?
-
-A. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-B. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-C. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-D. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-
-**Answer: C.**
-**Explanation:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Mobility, safety and contested space?
-
-A. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-B. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-C. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-D. Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-
-**Answer: D.**
-**Explanation:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Dated access indicators?
-
-A. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-
-**Answer: A.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Dated access indicators?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-C. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-D. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-
-**Answer: B.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Dated access indicators?
-
-A. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-B. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-C. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-D. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-
-**Answer: C.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Dated access indicators?
-
-A. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-B. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-C. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-D. The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-
-**Answer: D.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Intersectionality critique?
-
-A. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-D. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-
-**Answer: A.**
-**Explanation:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Intersectionality critique?
-
-A. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-B. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-C. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: B.**
-**Explanation:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Intersectionality critique?
-
-A. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-B. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-C. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: C.**
-**Explanation:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Intersectionality critique?
-
-A. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-B. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-C. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-D. The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
-
-**Answer: D.**
-**Explanation:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Equality without equity?
-
-A. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: A.**
-**Explanation:** A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Equality without equity?
-
-A. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-B. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-C. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: B.**
-**Explanation:** A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Equality without equity?
-
-A. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-B. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-C. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-D. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-
-**Answer: C.**
-**Explanation:** A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Equality without equity?
-
-A. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-B. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-C. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-D. A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-
-**Answer: D.**
-**Explanation:** A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Equity without empowerment?
-
-A. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-B. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-C. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-D. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-
-**Answer: A.**
-**Explanation:** A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Equity without empowerment?
-
-A. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-B. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-C. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-D. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-
-**Answer: B.**
-**Explanation:** A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Equity without empowerment?
-
-A. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-B. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-C. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-D. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-
-**Answer: C.**
-**Explanation:** A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Equity without empowerment?
-
-A. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-B. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-C. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-D. A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-
-**Answer: D.**
-**Explanation:** A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Full chain and compounded disadvantage?
-
-A. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-B. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-C. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: A.**
-**Explanation:** A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Full chain and compounded disadvantage?
-
-A. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-B. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-C. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-D. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-
-**Answer: B.**
-**Explanation:** A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Full chain and compounded disadvantage?
-
-A. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-D. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-
-**Answer: C.**
-**Explanation:** A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Full chain and compounded disadvantage?
-
-A. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-B. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-C. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-D. A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
-
-**Answer: D.**
-**Explanation:** A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Gig-economy boundary?
-
-A. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-B. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-C. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-D. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-
-**Answer: A.**
-**Explanation:** Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Gig-economy boundary?
-
-A. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-B. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-C. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-D. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-
-**Answer: B.**
-**Explanation:** Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Gig-economy boundary?
-
-A. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-D. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-
-**Answer: C.**
-**Explanation:** Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Gig-economy boundary?
-
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-D. Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-
-**Answer: D.**
-**Explanation:** Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Evidence restraint and verified direct Mains demands?
-
-A. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-B. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-C. Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-D. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-
-**Answer: A.**
-**Explanation:** Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Evidence restraint and verified direct Mains demands?
-
-A. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-B. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-C. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-D. The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-
-**Answer: B.**
-**Explanation:** Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Evidence restraint and verified direct Mains demands?
-
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-C. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-D. The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-
-**Answer: C.**
-**Explanation:** Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Evidence restraint and verified direct Mains demands?
-
-A. The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-B. The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-C. Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-D. Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-
-**Answer: D.**
-**Explanation:** Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. A generic women's credit programme ignores caste-linked wage discrimination among agricultural workers. What is the strongest critique?
+
+A. Gender alone explains every worker's position
+B. Intersectional programme design must examine gender and caste-linked labour constraints
+C. Credit automatically removes caste barriers
+D. All Dalit workers face identical household conditions
+
+### Q16. An SHG federation reports growing membership. What additional test best measures empowerment?
+
+A. The total number of monthly meetings
+B. Its annual number of accounts
+C. Whether members influence collective and household decisions
+D. The federation's registration date
+
+### Q17. A platform worker selects hours but faces opaque task allocation and volatile pay. What follows?
+
+A. Flexibility can coexist with insecurity; assess income, safety and voice
+B. Flexibility eliminates unpaid care
+C. App registration guarantees social security
+D. All platform workers have identical experiences
+
+### Q18. NFHS-5 reported 78.6% of women aged 15–49 using their own bank/savings account. Which annotation is sound?
+
+A. It is a 2019–21 historical access indicator, not a control measure
+B. It is an NFHS-6 estimate of control in 2026
+C. It is a Census workforce stock
+D. It proves SHGs caused increased use
+
+### Q19. NFHS-5 recorded 33.3% of women aged 15–49 had ever used the internet. Which interpretation is invalid?
+
+A. The age group matters to interpretation
+B. It directly establishes autonomous digital control today
+C. The indicator refers to a historical survey round
+D. Ever-use is different from digital safety
+
+### Q20. A committee has equal numbers of women and men. What further question tests substantive representation?
+
+A. Its meeting room's street address
+B. Whether all seats are statutory
+C. Whether women can shape agendas and decisions
+D. Whether numerical parity exists
+
+### Q21. Which approach to a reported rise in suicide among young women is responsible?
+
+A. Investigate multiple social and health pathways without assigning one cause from an aggregate
+B. Attribute all cases to a single family custom
+C. Infer a national rate from local SHG attendance
+D. Treat the age-and-gender category as a clinical diagnosis
+
+### Q22. What does India's National Suicide Prevention Strategy (2022) establish for a GS-I answer?
+
+A. A prevention framework covering surveillance, services and community resilience
+B. A verified causal estimate for gig work
+C. A guarantee that reported deaths declined
+D. That only one stressor matters
+
+### Q23. Access to a programme improves, but independent use does not. What redesign is most defensible?
+
+A. Stop monitoring after disbursement
+B. Identify decision barriers and measure agency after uptake
+C. Count every registration as empowerment
+D. Assume beneficiaries control all programme resources
+
+### Q24. A study credits all growth in bank-use between two NFHS rounds to SHGs. Identify the error.
+
+A. SHGs cannot affect any financial decision
+B. Bank-use must decrease after union activity
+C. Round-on-round association alone cannot identify SHG-specific causation
+D. Surveys cannot describe access
+
+### Separate objective answer key and option-by-option solutions
+
+**Q1 — A.**
+- **A (correct):** Organisational forms overlap, with distinct agendas and mechanisms.
+- **B (incorrect):** No universal succession or dissolution occurred.
+- **C (incorrect):** SEWA belongs to later informal-worker organising.
+- **D (incorrect):** AIWC preceded contemporary federated SHGs.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q2 — B.**
+- **A (incorrect):** SEWA is a later worker union.
+- **B (correct):** The earlier WIA defeats the first-association claim without denying AIWC's importance.
+- **C (incorrect):** AIWC initially focused on education, not SHG credit.
+- **D (incorrect):** NFIW is post-Independence.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q3 — C.**
+- **A (incorrect):** SEWA is an informal-worker union.
+- **B (incorrect):** NFIW belongs to the post-Independence rights stream.
+- **C (correct):** This is AIWC's dated trajectory.
+- **D (incorrect):** A grassroots savings federation is not the 1927 association.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q4 — D.**
+- **A (incorrect):** WIA predates platform work.
+- **B (incorrect):** Neither AIWC nor NFIW fits these labels.
+- **C (incorrect):** SEWA organises workers, not education alone.
+- **D (correct):** NFIW and SEWA show different rights and labour emphases.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q5 — A.**
+- **A (correct):** SEWA is a workers' union with associated cooperatives, distinct from a savings federation.
+- **B (incorrect):** A commission has a public statutory mandate, not worker membership.
+- **C (incorrect):** An SHG federation is a different organisational form.
+- **D (incorrect):** Collective bargaining is not an individual payment.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q6 — B.**
+- **A (incorrect):** Bank ties are linking, not the first internal trust relationship.
+- **B (correct):** Internal trust, horizontal networks and institutional ties define this analytical order.
+- **C (incorrect):** Connections among groups are bridging, not the starting group trust.
+- **D (incorrect):** Repeating bonding misses institutional access.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q7 — C.**
+- **A (incorrect):** Notification cannot itself make travel safe.
+- **B (incorrect):** Registrations do not measure usable access.
+- **C (correct):** Effective access requires a response to unequal starting conditions.
+- **D (incorrect):** Duplicating the same rule cannot remove the barrier.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q8 — D.**
+- **A (incorrect):** A design input does not establish agency.
+- **B (incorrect):** Support need not cancel equal legal rights.
+- **C (incorrect):** The intervention cannot establish an end to all exclusion.
+- **D (correct):** These are responsive means, not evidence that members exercise independent choice.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q9 — A.**
+- **A (correct):** Access does not prove decision-making control.
+- **B (incorrect):** The stated counterexample defeats this claim.
+- **C (incorrect):** An account indicator does not enumerate care work.
+- **D (incorrect):** The case cannot disprove all possible collective effects.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q10 — B.**
+- **A (incorrect):** One case cannot establish a population-level effect.
+- **B (correct):** Observed choice is closer to empowerment than nominal participation.
+- **C (incorrect):** No representative denominator is supplied.
+- **D (incorrect):** Legal status cannot substitute for lived control.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q11 — C.**
+- **A (incorrect):** Paid work can coexist with care burdens.
+- **B (incorrect):** Participation does not ensure decent wages or protection.
+- **C (correct):** Participation alone does not measure unpaid care, conditions or agency.
+- **D (incorrect):** An aggregate cannot describe each worker.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q12 — D.**
+- **A (incorrect):** Rights-based organising is also women's organising.
+- **B (incorrect):** No automatic exclusion follows from advocacy.
+- **C (incorrect):** Economic organisations may also seek legal change.
+- **D (correct):** AIWC/NFIW-style advocacy and SEWA/SHG economic organising can reinforce one another.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q13 — A.**
+- **A (correct):** Reform precedes modern federations and often involved advocates speaking for women.
+- **B (incorrect):** The absolute erases women's participation.
+- **C (incorrect):** Savings federations are a later organisational model.
+- **D (incorrect):** There is no such formal dissolution.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q14 — B.**
+- **A (incorrect):** Community membership cannot be homogenised.
+- **B (correct):** Local issue-based action broadens, rather than replaces, the organisational account.
+- **C (incorrect):** These are distinct mobilisations.
+- **D (incorrect):** Rights, work and other issues also mattered.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q15 — C.**
+- **A (incorrect):** Access to loans is not a wage remedy by itself.
+- **B (incorrect):** Other axes alter effective access.
+- **C (correct):** The example illustrates compounded barriers without essentialising a community.
+- **D (incorrect):** The critique rejects, rather than asserts, uniform experience.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q16 — D.**
+- **A (incorrect):** The date reveals no voice.
+- **B (incorrect):** Attendance is not authority.
+- **C (incorrect):** Account totals show access, not who decides.
+- **D (correct):** Membership is an input; exercised voice tests substantive agency.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q17 — A.**
+- **A (correct):** The enabling and constraining mechanisms must be evaluated together.
+- **B (incorrect):** Flexible hours do not redistribute household work.
+- **C (incorrect):** No current legal-benefit verification is supplied.
+- **D (incorrect):** Occupations and working conditions vary.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q18 — B.**
+- **A (incorrect):** It is neither NFHS-6 nor a 2026 observation.
+- **B (correct):** NFHS-5's dated denominator and indicator describe use, not autonomous decisions.
+- **C (incorrect):** NFHS is a survey and this measure concerns account use.
+- **D (incorrect):** Descriptive survey data do not identify a single causal driver.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q19 — C.**
+- **A (incorrect):** NFHS-5 is historical.
+- **B (incorrect):** The population universe is explicit.
+- **C (correct):** Ever-use neither proves present independence nor current-round access.
+- **D (incorrect):** Use does not establish safety.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q20 — D.**
+- **A (incorrect):** The question already establishes parity.
+- **B (incorrect):** A room address does not measure voice.
+- **C (incorrect):** Seat status alone cannot establish deliberative influence.
+- **D (correct):** Descriptive presence does not automatically confer effective voice.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q21 — A.**
+- **A (correct):** Social explanation needs disaggregated evidence and must not diagnose individuals.
+- **B (incorrect):** A universal social cause is unsupported.
+- **C (incorrect):** An attendance record has no population denominator.
+- **D (incorrect):** A demographic label cannot diagnose a person.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q22 — B.**
+- **A (incorrect):** No gig-work causal estimate follows.
+- **B (correct):** The strategy guides prevention rather than proving effectiveness or a unique cause.
+- **C (incorrect):** Adoption does not establish outcomes.
+- **D (incorrect):** Prevention must address multiple pathways.
+**Trap:** Separate a neighbouring institution, chronology or mechanism from the specific evidence asked for.
+
+**Q23 — C.**
+- **A (incorrect):** Registrations are input counts.
+- **B (incorrect):** Following through is essential to the claim.
+- **C (correct):** Design and evaluation must separate access, uptake and effective choice.
+- **D (incorrect):** Disbursement is not control.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
+
+**Q24 — D.**
+- **A (incorrect):** Surveys do offer descriptive indicators.
+- **B (incorrect):** The error is over-attribution, not impossibility.
+- **C (incorrect):** There is no such mechanical inverse relation.
+- **D (correct):** A credible comparison is needed amid other simultaneous changes.
+**Trap:** An input or association is not automatically exercised agency or causal proof.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified PYQ ownership and evidence limits
 
-Five direct General Studies Paper-I Mains demands are carried by this owner and each is recorded with its exact routing status. The 2018 Q18 demand on the women's movement and women of lower social strata, the 2019 Q19 demand on continued challenges for women against time and space, the 2021 Q10 demand on the gig economy and women's empowerment and the 2023 Q9 demand on rising suicide among young women are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes those pointers, so all four are answered here from the Basic spine. The locally held official question papers for 2018, 2019, 2021 and 2023 are scanned images from which reliable text cannot be extracted, so the audited ledger's neutral demand rendering is used for those four years and no verbatim wording is claimed. The 2024 Q8 demand on gender equality, gender equity and women's empowerment is routed in the audited 2024-2025 ledger to this Basic owner and its wording was confirmed in the locally held official 2024 General Studies Paper-I, including a printed irregularity in the second sentence that is reproduced rather than silently corrected. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Five audited GS-I descriptive demands (2018, 2019, 2021, 2023, 2024) are answered below. The first four use neutral ledger renderings because scanned official papers did not permit reliable text extraction; 2024 reproduces its printed irregularity. Models are independently authored practice answers, never official UPSC descriptive keys. No unverified objective PYQ key is supplied or pending here.
 
 ### OWNER PYQ LEDGER EXTRACTS
 
@@ -922,378 +438,126 @@ Five direct General Studies Paper-I Mains demands are carried by this owner and 
 
 ### PYQ DEMAND CARD 1 — 2018 GS-I Q18
 
-**Demand:** Audited ledger demand rendering: the women's movement and women of lower social strata. Substantiate your view, 15 marks, 250 words.
+**Demand:** Audited neutral demand: Women's movement and women of lower social strata; substantiate your view (15 marks, 250 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2018 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Substantiate means take a position and prove it, so state the view first: the Indian women's movement produced real gains but its successive organisational forms reached women of the lower social strata unevenly, and the evidence for that is organisational rather than rhetorical. Build the evidence in order. Social-reform-era advocacy was largely elite-led and spoke about women rather than organising them. The Women's Indian Association and the All India Women's Conference founded in 1927 created sustained national platforms for education, franchise and legal reform, which mattered enormously but centred concerns that were legible to educated, largely urban members; the precedence point also matters here because the 1927 body followed the earlier association and is not the movement's origin. The National Federation of Indian Women extended the agenda to wages and anti-dowry mobilisation, moving it closer to working women. The Self Employed Women's Association, registered in Gujarat as a trade union of self-employed women workers, shifted the centre of gravity to informal-sector economic rights, credit access and collective bargaining, which is the point at which lower-strata women became the organisational subject rather than the beneficiary. Self-help group federations then scaled savings-and-credit organising to a mass grassroots level. Now prove the unevenness directly: Dalit and tribal women's organisations emerged separately precisely because caste-based violence, wage discrimination and land questions were not centred by mainstream bodies, and that emergence is a corrective to reach rather than a fragmentation of the movement. Add the measurement caution that membership counts are input measures and cannot stand as proof of voice. Conclude with a qualified verdict: the movement's legal-rights achievements were broad, its economic-organisational achievements were narrower and later, and its record with lower-strata women improves exactly where organisation gave them assets, bargaining power and their own platform.
+India's women's movement enlarged rights, but inclusion of women in lower social strata was uneven; its changing organisational forms substantiate both sides of that judgement. Nineteenth-century reform addressed widowhood and child marriage, yet much advocacy was elite-led. The Women's Indian Association and the All India Women's Conference (1927) made education, franchise and reform visible nationally; AIWC was not the first women's organisation. Their gains in legal language were significant, but national representation did not automatically place agricultural or informal workers in command of agendas.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Post-Independence bodies such as the National Federation of Indian Women connected rights to wages and anti-dowry mobilisation. SEWA's Gujarat-based self-employed workers' union and cooperatives organised women as workers bargaining over livelihood, rather than simply as welfare beneficiaries. Federated self-help groups expanded collective savings and access to institutions. These are channels through which women with limited assets can gain leverage, although a credit account or group membership alone cannot demonstrate control over earnings.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Substantiate means take a position and prove it, so state the view first: the Indian women's movement produced real gains but its successive organisational forms reached women of the lower social strata unevenly, and the evidence for that is organisational rather than rhetorical. Build the evidence in order. Social-reform-era advocacy was largely elite-led and spoke about women rather than organising them. The Women's Indian Association and the All India Women's Conference founded in 1927 created sustained national platforms for education, franchise and legal reform, which mattered enormously but centred concerns that were legible to educated, largely urban members; the precedence point also matters here because the 1927 body followed the earlier association and is not the movement's origin. The National Federation of Indian Women extended the agenda to wages and anti-dowry mobilisation, moving it closer to working women. The Self Employed Women's Association, registered in Gujarat as a trade union of self-employed women workers, shifted the centre of gravity to informal-sector economic rights, credit access and collective bargaining, which is the point at which lower-strata women became the organisational subject rather than the beneficiary. Self-help group federations then scaled savings-and-credit organising to a mass grassroots level. Now prove the unevenness directly: Dalit and tribal women's organisations emerged separately precisely because caste-based violence, wage discrimination and land questions were not centred by mainstream bodies, and that emergence is a corrective to reach rather than a fragmentation of the movement. Add the measurement caution that membership counts are input measures and cannot stand as proof of voice. Conclude with a qualified verdict: the movement's legal-rights achievements were broad, its economic-organisational achievements were narrower and later, and its record with lower-strata women improves exactly where organisation gave them assets, bargaining power and their own platform.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: the women's movement and women of lower social strata. Substantiate your view, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Substantiate means take a position and prove it, so state the view first: the Indian women's movement produced real gains but its successive organisational forms reached women of the lower social strata unevenly, and the evidence for that is organisational rather than rhetorical. Build the evidence in order. Social-reform-era advocacy was largely elite-led and spoke about women rather than organising them. The Women's Indian Association and the All India Women's Conference founded in 1927 created sustained national platforms for education, franchise and legal reform, which mattered enormously but centred concerns that were legible to educated, largely urban members; the precedence point also matters here because the 1927 body followed the earlier association and is not the movement's origin. The National Federation of Indian Women extended the agenda to wages and anti-dowry mobilisation, moving it closer to working women. The Self Employed Women's Association, registered in Gujarat as a trade union of self-employed women workers, shifted the centre of gravity to informal-sector economic rights, credit access and collective bargaining, which is the point at which lower-strata women became the organisational subject rather than the beneficiary. Self-help group federations then scaled savings-and-credit organising to a mass grassroots level. Now prove the unevenness directly: Dalit and tribal women's organisations emerged separately precisely because caste-based violence, wage discrimination and land questions were not centred by mainstream bodies, and that emergence is a corrective to reach rather than a fragmentation of the movement. Add the measurement caution that membership counts are input measures and cannot stand as proof of voice. Conclude with a qualified verdict: the movement's legal-rights achievements were broad, its economic-organisational achievements were narrower and later, and its record with lower-strata women improves exactly where organisation gave them assets, bargaining power and their own platform.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Dalit and Adivasi women's organising has also brought caste-based violence, land rights and wage discrimination into view where an undifferentiated notion of “women's issues” might miss them. This is a critique of unequal voice within a movement, not a claim that every national organisation ignored working women or every member of a community had the same experience. The strongest verdict is therefore conditional: formal rights made a common platform possible, while self-organisation, bargaining power and agenda-setting by disadvantaged women determine whether that platform becomes substantive empowerment.
 
 ### PYQ DEMAND CARD 2 — 2019 GS-I Q19
 
-**Demand:** Audited ledger demand rendering: continued challenges for women against time and space. What are the challenges, 15 marks, 250 words.
+**Demand:** Audited neutral demand: Challenges facing women across time and space (15 marks, 250 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2019 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Read the demand structurally rather than thematically: time and space are two distinct constraint systems and the answer must give each its own evidence instead of letting one stand for the other. Take time first. Unpaid care and domestic work impose a continuing claim on women's hours that compresses schooling continuity, paid-work participation, skill acquisition, travel range and the ability to attend an organisation's meetings at all, which means a programme designed on the assumption of equally available time excludes the very women it names; the qualification is that this is a structural time constraint and no time-use figure is asserted here beyond what the owner carries. Take space second. Women's presence in public space, workplace space and digital space is conditioned by mobility limits, harassment and safety concerns, so distance, route, timing and the reception a woman meets on arrival all convert a nominal opportunity into an unusable one. Bring the dated evidence with its status attached: the National Family Health Survey round five, covering 2019-21, recorded 78.6 per cent of women aged 15-49 with a bank or savings account they themselves used and 33.3 per cent who had ever used the internet, and after the release of round six on 29 May 2026 these remain dated access indicators of reach rather than measures of control. Add the intersectional layer, because caste, class, tribe and location change both constraints simultaneously and a Dalit agricultural labourer's time and space are not an urban middle-class woman's. Add the measurement point that membership or coverage counts are inputs, not agency. Conclude that the challenge is not a shortage of rights but the conversion of rights into usable time and reachable space, and that programme design must therefore be tested against care burden, travel, safety and digital access rather than against eligibility alone.
+Time and space are not neutral resources for women: their unequal distribution conditions education, paid work and public participation. Within a day, unpaid care can restrict the hours available for employment or attending an SHG meeting. Across a lifetime, interruptions to education and paid work may compound disadvantages in income and authority. Counting only labour-force participation therefore misses unpaid work and the quality of available jobs.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Space presents a related constraint. Unsafe travel routes or distant service centres can make a formally equal entitlement inaccessible. Digital services may widen reach, yet a shared device or controlled login can reproduce dependence in a new setting. NFHS-5 (2019–21) recorded bank-account use and internet ever-use among women aged 15–49; these dated access indicators cannot tell us who controls money, devices or decisions. NFHS-6 is a separate, later round and should not be conflated with them.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Read the demand structurally rather than thematically: time and space are two distinct constraint systems and the answer must give each its own evidence instead of letting one stand for the other. Take time first. Unpaid care and domestic work impose a continuing claim on women's hours that compresses schooling continuity, paid-work participation, skill acquisition, travel range and the ability to attend an organisation's meetings at all, which means a programme designed on the assumption of equally available time excludes the very women it names; the qualification is that this is a structural time constraint and no time-use figure is asserted here beyond what the owner carries. Take space second. Women's presence in public space, workplace space and digital space is conditioned by mobility limits, harassment and safety concerns, so distance, route, timing and the reception a woman meets on arrival all convert a nominal opportunity into an unusable one. Bring the dated evidence with its status attached: the National Family Health Survey round five, covering 2019-21, recorded 78.6 per cent of women aged 15-49 with a bank or savings account they themselves used and 33.3 per cent who had ever used the internet, and after the release of round six on 29 May 2026 these remain dated access indicators of reach rather than measures of control. Add the intersectional layer, because caste, class, tribe and location change both constraints simultaneously and a Dalit agricultural labourer's time and space are not an urban middle-class woman's. Add the measurement point that membership or coverage counts are inputs, not agency. Conclude that the challenge is not a shortage of rights but the conversion of rights into usable time and reachable space, and that programme design must therefore be tested against care burden, travel, safety and digital access rather than against eligibility alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: continued challenges for women against time and space. What are the challenges, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Read the demand structurally rather than thematically: time and space are two distinct constraint systems and the answer must give each its own evidence instead of letting one stand for the other. Take time first. Unpaid care and domestic work impose a continuing claim on women's hours that compresses schooling continuity, paid-work participation, skill acquisition, travel range and the ability to attend an organisation's meetings at all, which means a programme designed on the assumption of equally available time excludes the very women it names; the qualification is that this is a structural time constraint and no time-use figure is asserted here beyond what the owner carries. Take space second. Women's presence in public space, workplace space and digital space is conditioned by mobility limits, harassment and safety concerns, so distance, route, timing and the reception a woman meets on arrival all convert a nominal opportunity into an unusable one. Bring the dated evidence with its status attached: the National Family Health Survey round five, covering 2019-21, recorded 78.6 per cent of women aged 15-49 with a bank or savings account they themselves used and 33.3 per cent who had ever used the internet, and after the release of round six on 29 May 2026 these remain dated access indicators of reach rather than measures of control. Add the intersectional layer, because caste, class, tribe and location change both constraints simultaneously and a Dalit agricultural labourer's time and space are not an urban middle-class woman's. Add the measurement point that membership or coverage counts are inputs, not agency. Conclude that the challenge is not a shortage of rights but the conversion of rights into usable time and reachable space, and that programme design must therefore be tested against care burden, travel, safety and digital access rather than against eligibility alone.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Constraints also vary by social position. An informal worker navigating volatile wages, a Dalit agricultural labourer facing caste-linked exclusion, and a woman with disabilities negotiating inaccessible transport encounter distinct barriers; none stands for all members of her group. SEWA's worker organisation, federated SHGs and rights advocacy provide complementary collective routes to credit, voice and safer access, but membership alone is not an outcome. Programmes should accommodate care schedules, accessible mobility and confidential support, then evaluate whether women exercise choice. The continuing challenge is to turn equal legal standing into usable time, safe space and decision-making power without presuming a single Indian woman's experience.
 
 ### PYQ DEMAND CARD 3 — 2021 GS-I Q10
 
-**Demand:** Audited ledger demand rendering: the gig economy in the process of empowerment of women. Examine, 10 marks, 150 words.
+**Demand:** Audited neutral demand: Examine gig economy in empowerment of women (10 marks, 150 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2021 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Examine requires both sides tested against a stated criterion, so name the criterion first: empowerment means expanded agency, capability, resources and voice, which is why participation in a market is not by itself the answer. State the affirmative case. Platform and gig work lower entry barriers, allow work to be fitted around an unequal care burden, can supply independent earnings without a gatekeeping employer relationship, and give some women a first documented income stream; that combination touches equity, because flexible entry partially offsets the time constraint that ordinarily excludes them. State the negative case with equal precision. Earnings are volatile, task allocation and rating systems place control in an algorithm rather than in a negotiable relationship, safety exposure rises with travel and customer contact, and social protection is thin, so the same flexibility that widens entry can also transfer risk to the worker. Add the boundary that this owner respects: the legal status of platform workers and their social-security architecture belong to Social Justice, so no benefit delivery, code status or coverage claim is asserted here. Conclude with a conditional verdict rather than a position: gig work advances empowerment where earnings, safety and collective voice improve together, and it merely relocates precarity where participation rises while control and protection do not, which is why the collective-bargaining model of organised informal-sector women workers remains the relevant comparator.
+Gig work may enable women to enter paid markets on flexible schedules, including through app-mediated services. Flexibility can help a worker combine earning with care, and digital connections may widen customers beyond a local intermediary. But freedom over hours is not necessarily freedom over work: platforms may set prices, allocate tasks algorithmically and expose workers to unpredictable earnings or unsafe travel. Household control over a woman's phone or income can further limit her own choice.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2021 GS-I Q10”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Examine requires both sides tested against a stated criterion, so name the criterion first: empowerment means expanded agency, capability, resources and voice, which is why participation in a market is not by itself the answer. State the affirmative case. Platform and gig work lower entry barriers, allow work to be fitted around an unequal care burden, can supply independent earnings without a gatekeeping employer relationship, and give some women a first documented income stream; that combination touches equity, because flexible entry partially offsets the time constraint that ordinarily excludes them. State the negative case with equal precision. Earnings are volatile, task allocation and rating systems place control in an algorithm rather than in a negotiable relationship, safety exposure rises with travel and customer contact, and social protection is thin, so the same flexibility that widens entry can also transfer risk to the worker. Add the boundary that this owner respects: the legal status of platform workers and their social-security architecture belong to Social Justice, so no benefit delivery, code status or coverage claim is asserted here. Conclude with a conditional verdict rather than a position: gig work advances empowerment where earnings, safety and collective voice improve together, and it merely relocates precarity where participation rises while control and protection do not, which is why the collective-bargaining model of organised informal-sector women workers remains the relevant comparator.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: the gig economy in the process of empowerment of women. Examine, 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Examine requires both sides tested against a stated criterion, so name the criterion first: empowerment means expanded agency, capability, resources and voice, which is why participation in a market is not by itself the answer. State the affirmative case. Platform and gig work lower entry barriers, allow work to be fitted around an unequal care burden, can supply independent earnings without a gatekeeping employer relationship, and give some women a first documented income stream; that combination touches equity, because flexible entry partially offsets the time constraint that ordinarily excludes them. State the negative case with equal precision. Earnings are volatile, task allocation and rating systems place control in an algorithm rather than in a negotiable relationship, safety exposure rises with travel and customer contact, and social protection is thin, so the same flexibility that widens entry can also transfer risk to the worker. Add the boundary that this owner respects: the legal status of platform workers and their social-security architecture belong to Social Justice, so no benefit delivery, code status or coverage claim is asserted here. Conclude with a conditional verdict rather than a position: gig work advances empowerment where earnings, safety and collective voice improve together, and it merely relocates precarity where participation rises while control and protection do not, which is why the collective-bargaining model of organised informal-sector women workers remains the relevant comparator.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2021 GS-I Q10”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+SEWA's collective-bargaining model suggests why worker voice matters alongside access to work. By contrast, registrations on an app, like SHG enrolment, count participation rather than decision-making power. The legal status and delivery of platform-worker protections require separate dated verification; neither comprehensive coverage nor universal exclusion follows merely from the label “gig”. The gig economy advances empowerment where women can retain earnings, negotiate conditions and work safely; where flexibility shifts risk onto workers without voice, the outcome remains uncertain.
 
 ### PYQ DEMAND CARD 4 — 2023 GS-I Q9
 
-**Demand:** Audited ledger demand rendering: rising suicide among young women in Indian society. Explain why, 10 marks, 150 words.
+**Demand:** Audited neutral demand: Explain concerns about rising suicide among young women (10 marks, 150 words).
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2023 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed. No self-harm rate, trend value or disaggregated figure is asserted anywhere in this package.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Open by fixing the evidentiary rules, because this demand punishes speculation more than any other in the owner: a reported category records an outcome and cannot by itself establish a cause, so the answer analyses candidate pathways and refuses monocausal attribution. Present the pathways as social stressors rather than explanations. Early or unwanted marriage decisions and constrained autonomy over education and work concentrate life-defining choices in a short period and in other people's hands. Unpaid care and domestic obligation compress time, mobility and independent income, which narrows exit options in a distressing household situation. Harassment and safety exposure in public, workplace and digital space add a continuous stressor that is spatial rather than episodic. Caste, class and location intersect with all of these, so aggregated reporting can conceal which group is actually affected. Economic precarity and dependence reduce the capacity to leave, seek help or absorb a shock. State the reporting caution explicitly: aggregation, definitional and registration practices shape reported categories, so a trend claim requires a current, disaggregated and official source that this package does not hold. Close with the named prevention frame rather than a diagnosis: the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022 organises response around surveillance, health-service capacity, community resilience and evidence, which supplies a legitimate policy conclusion built on support access, mental-health service availability and non-stigmatising discussion instead of on an asserted social cause.
+A reported rise in suicide among young women demands a careful social and public-health explanation, not an attribution to one community or cause. Young women may face interacting pressures from household expectations, educational or employment uncertainty, violence, isolation and barriers to seeking mental-health care. The strength and interaction of these pathways differ by location, class, disability and available support; no demographic label diagnoses an individual case.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2023 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open by fixing the evidentiary rules, because this demand punishes speculation more than any other in the owner: a reported category records an outcome and cannot by itself establish a cause, so the answer analyses candidate pathways and refuses monocausal attribution. Present the pathways as social stressors rather than explanations. Early or unwanted marriage decisions and constrained autonomy over education and work concentrate life-defining choices in a short period and in other people's hands. Unpaid care and domestic obligation compress time, mobility and independent income, which narrows exit options in a distressing household situation. Harassment and safety exposure in public, workplace and digital space add a continuous stressor that is spatial rather than episodic. Caste, class and location intersect with all of these, so aggregated reporting can conceal which group is actually affected. Economic precarity and dependence reduce the capacity to leave, seek help or absorb a shock. State the reporting caution explicitly: aggregation, definitional and registration practices shape reported categories, so a trend claim requires a current, disaggregated and official source that this package does not hold. Close with the named prevention frame rather than a diagnosis: the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022 organises response around surveillance, health-service capacity, community resilience and evidence, which supplies a legitimate policy conclusion built on support access, mental-health service availability and non-stigmatising discussion instead of on an asserted social cause.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: rising suicide among young women in Indian society. Explain why, 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open by fixing the evidentiary rules, because this demand punishes speculation more than any other in the owner: a reported category records an outcome and cannot by itself establish a cause, so the answer analyses candidate pathways and refuses monocausal attribution. Present the pathways as social stressors rather than explanations. Early or unwanted marriage decisions and constrained autonomy over education and work concentrate life-defining choices in a short period and in other people's hands. Unpaid care and domestic obligation compress time, mobility and independent income, which narrows exit options in a distressing household situation. Harassment and safety exposure in public, workplace and digital space add a continuous stressor that is spatial rather than episodic. Caste, class and location intersect with all of these, so aggregated reporting can conceal which group is actually affected. Economic precarity and dependence reduce the capacity to leave, seek help or absorb a shock. State the reporting caution explicitly: aggregation, definitional and registration practices shape reported categories, so a trend claim requires a current, disaggregated and official source that this package does not hold. Close with the named prevention frame rather than a diagnosis: the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022 organises response around surveillance, health-service capacity, community resilience and evidence, which supplies a legitimate policy conclusion built on support access, mental-health service availability and non-stigmatising discussion instead of on an asserted social cause.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2023 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The same event can also be recorded differently across systems, so any claim about a trend needs a dated, comparable and disaggregated source. Neither NFHS access measures nor a local anecdote identifies the causes of suicide. India's National Suicide Prevention Strategy (2022) provides a more defensible response framework: improve surveillance and service capacity, strengthen supportive communities and address barriers to help without stigma. Prevention should couple accessible, confidential care with action on social stresses and careful evidence; causal certainty or a single policy cure cannot be claimed from an aggregate report.
 
 ### PYQ DEMAND CARD 5 — 2024 GS-I Q8
 
-**Demand:** Distinguish between gender equality, gender equity and women's empowerment. What is it important to take gender concerns into account in programme design and implementation? (Answer in 150 words) 10 marks. The second sentence is reproduced exactly as printed in the official paper, including its printed irregularity.
+**Demand:** Official-paper wording as recorded: Distinguish between gender equality, gender equity and women's empowerment. What is it important to take gender concerns into account in programme design and implementation? (10 marks, 150 words; printed irregularity retained).
 
-**Status:** Wording confirmed in the locally held official 2024 General Studies Paper-I and routed in the audited 2024-2025 Mains ledger to this Basic owner.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Give the three definitions first, in one line each, because the directive is distinguish and a blurred opening loses the marks the question is designed to test. Gender equality is equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in outcomes. Gender equity is context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility or childcare support and collective bargaining, and it is a means toward fair substantive equality rather than a privilege. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, established by exercised choice and recognised authority rather than by a legal right or a coverage figure. Now show the relation, which is the analytical half: the three interact rather than forming a mechanical ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached. Answer the design question with mechanisms, not sentiment. Programme design must map the unequal starting conditions that equal rules ignore, namely the unpaid care burden that compresses available time, mobility and safety constraints that make a nominally open service unreachable, asset and account control that determines whether a transfer is usable, and caste, class and location that differentiate all three. Prove it with the owner's own boundary cases: full legal rights without income or mobility support produce equality without equity, and credit received while loan use is controlled by another produces equity without empowerment. Add the measurement rule that implementation must track uptake and decision-making rather than enrolment, and cite the dated access indicators of the National Family Health Survey round five, 78.6 per cent account use and 33.3 per cent ever internet use, only as reach rather than control. Conclude that gender concerns enter design because identical rules applied to unequal time, mobility and assets reproduce the gap they were written to close.
+Gender equality denotes equal rights, status and opportunities; equity denotes differentiated responses to unequal starting conditions; empowerment concerns women's exercised agency, resources and voice. Equal eligibility for a training programme, for example, need not yield equal access when unpaid care or unsafe travel prevents attendance. Childcare, convenient schedules and safe transport are equity measures. Whether participants subsequently decide how to use new income tests empowerment, not simply enrolment.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2024 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Give the three definitions first, in one line each, because the directive is distinguish and a blurred opening loses the marks the question is designed to test. Gender equality is equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in outcomes. Gender equity is context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility or childcare support and collective bargaining, and it is a means toward fair substantive equality rather than a privilege. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, established by exercised choice and recognised authority rather than by a legal right or a coverage figure. Now show the relation, which is the analytical half: the three interact rather than forming a mechanical ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached. Answer the design question with mechanisms, not sentiment. Programme design must map the unequal starting conditions that equal rules ignore, namely the unpaid care burden that compresses available time, mobility and safety constraints that make a nominally open service unreachable, asset and account control that determines whether a transfer is usable, and caste, class and location that differentiate all three. Prove it with the owner's own boundary cases: full legal rights without income or mobility support produce equality without equity, and credit received while loan use is controlled by another produces equity without empowerment. Add the measurement rule that implementation must track uptake and decision-making rather than enrolment, and cite the dated access indicators of the National Family Health Survey round five, 78.6 per cent account use and 33.3 per cent ever internet use, only as reach rather than control. Conclude that gender concerns enter design because identical rules applied to unequal time, mobility and assets reproduce the gap they were written to close.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Status: Wording confirmed in the locally held official 2024 General Studies Paper-I and routed in the audited 2024-2025 Mains ledger to this Basic owner. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Give the three definitions first, in one line each, because the directive is distinguish and a blurred opening loses the marks the question is designed to test. Gender equality is equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in outcomes. Gender equity is context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility or childcare support and collective bargaining, and it is a means toward fair substantive equality rather than a privilege. Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, established by exercised choice and recognised authority rather than by a legal right or a coverage figure. Now show the relation, which is the analytical half: the three interact rather than forming a mechanical ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached. Answer the design question with mechanisms, not sentiment. Programme design must map the unequal starting conditions that equal rules ignore, namely the unpaid care burden that compresses available time, mobility and safety constraints that make a nominally open service unreachable, asset and account control that determines whether a transfer is usable, and caste, class and location that differentiate all three. Prove it with the owner's own boundary cases: full legal rights without income or mobility support produce equality without equity, and credit received while loan use is controlled by another produces equity without empowerment. Add the measurement rule that implementation must track uptake and decision-making rather than enrolment, and cite the dated access indicators of the National Family Health Survey round five, 78.6 per cent account use and 33.3 per cent ever internet use, only as reach rather than control. Conclude that gender concerns enter design because identical rules applied to unequal time, mobility and assets reproduce the gap they were written to close.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2024 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Indian organising illustrates the distinction: AIWC historically advanced education and legal reform, while SEWA linked informal workers to bargaining and economic opportunity; neither model alone guarantees decision-making in every household. Women also face different caste, class, disability and location constraints, so a generic design may serve some better than others. Programme planning must consult intended users, adapt delivery to actual barriers and track uptake and independent decisions separately. Equal rules supply the baseline; responsive design and accountable implementation make substantive equality more likely without presuming agency from coverage.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Distinguish gender equality, gender equity and women's empowerment, and explain why gender concerns must enter programme design. Answer in about 150 words.
 
-**Model thesis:** The three terms name a rights baseline, a constraint-removing instrument and an agency outcome, and programme design must map unequal starting conditions because equal rules applied to unequal time, mobility and assets reproduce the gap they claim to close.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Equality is equal entitlement and status; equity is context-sensitive removal of obstacles; empowerment is an expansion of women's effective choices and voice. They reinforce one another, but form no automatic ladder. A woman entitled to credit on the same terms as men has formal equality; if travel, collateral or care duties block access, adapted procedures and support are equity interventions. Even disbursement does not establish her control of the loan.
 
-- Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured.
-- Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-- Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-- Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries.
-- Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-
-**Qualified conclusion:** The three terms name a rights baseline, a constraint-removing instrument and an agency outcome, and programme design must map unequal starting conditions because equal rules applied to unequal time, mobility and assets reproduce the gap they claim to close.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish gender equality, gender equity and women's empowerment, and explain why gender…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The three terms name a rights baseline, a constraint-removing instrument and an agency outcome, and programme design must map unequal starting conditions because equal rules applied to unequal time, mobility and assets reproduce the gap they claim to close.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Gender equality means equal rights, status and opportunity regardless of gender, covering formal equality before the law and the pursuit of substantive equality in lived outcomes, and it is the rights baseline against which the other two terms are measured. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Equality, equity and empowerment interact rather than forming a mechanical one-way ladder, because coverage without uptake and uptake without follow-through support both stall the chain before agency is reached, which is exactly the testing point the trichotomy demand carries. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The three terms name a rights baseline, a constraint-removing instrument and an agency outcome, and programme design must map unequal starting conditions because equal rules applied to unequal time, mobility and assets reproduce the gap they claim to close.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish gender equality, gender equity and women's empowerment, and explain why gender…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+SEWA's worker bargaining and federated SHG savings offer contrasting collective channels, but group rolls record membership rather than household authority. Women of different caste, occupation and location encounter different starting conditions, so uniform service hours can reproduce inequality. A well-designed programme identifies barriers through consultation, provides safe and accessible delivery, and measures control over decisions after uptake. The exam distinction is between entitlement, enabling instrument and agency outcome: success requires evidence at all three levels, not a registration total.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Examine whether the gig economy advances the empowerment of women. Answer in about 150 words.
 
-**Model thesis:** Platform work can widen entry and flexibility while carrying volatility, algorithmic control and thin protection, so it advances empowerment only where earnings, safety and voice improve together rather than wherever participation rises.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Platform work can lower entry barriers for women seeking income and permit flexible scheduling. A self-employed worker who connects to customers through an app may gain a market previously mediated by others. Yet flexibility may conceal low or variable pay, algorithmic allocation and unsafe travel; unpaid care still claims time, while a household member may control the worker's phone or earnings.
 
-- Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here.
-- Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege.
-- Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme.
-- Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-
-**Qualified conclusion:** Platform work can widen entry and flexibility while carrying volatility, algorithmic control and thin protection, so it advances empowerment only where earnings, safety and voice improve together rather than wherever participation rises.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine whether the gig economy advances the empowerment of women. Answer in about 150 words.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Platform work can widen entry and flexibility while carrying volatility, algorithmic control and thin protection, so it advances empowerment only where earnings, safety and voice improve together rather than wherever participation rises.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Platform and gig work can widen entry and offer flexible hours while simultaneously carrying income volatility, algorithmic control and weak social protection, so it is neither automatic liberation nor automatic exploitation, and the legal status and social-security architecture of platform workers is owned by Social Justice and is not claimed here. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Gender equity means context-responsive measures that address structural disadvantage and unequal starting conditions, such as credit access, mobility support, childcare or collective bargaining, and it is a means toward fair substantive equality rather than a synonym for privilege. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Women's empowerment is the process and outcome of expanded agency, capability, resources and voice, so it is established by evidence of exercised choice and recognised authority and never by the existence of a legal right or the coverage of a programme. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Platform work can widen entry and flexibility while carrying volatility, algorithmic control and thin protection, so it advances empowerment only where earnings, safety and voice improve together rather than wherever participation rises.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine whether the gig economy advances the empowerment of women. Answer in about 150 words.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The contrast with SEWA is instructive: organising self-employed women as workers creates a route to collective bargaining, which app registration alone does not provide. Empowerment requires the capacity to choose work, retain earnings and contest conditions, not merely inclusion in a labour count. Experiences vary by occupation and location; platform status by itself proves neither exploitation nor protection, and legal coverage needs current verification. Gig work is thus an opportunity only where reliable incomes, safety, care support and worker voice accompany access.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Substantiate the view that the Indian women's movement has not served women of the lower social strata equally. Answer in about 250 words.
 
-**Model thesis:** The movement's successive organisational forms each carried a distinct mechanism and a distinct reach, and the emergence of Dalit and tribal women's organisations is direct evidence that mainstream bodies did not centre caste-linked constraints.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+The record supports an unequal-reach argument, not the proposition that lower-strata women were absent from India's women's movement. Reform-era campaigns questioned harmful practices, but leadership and agenda-setting were often concentrated among educated groups. Early associations including the Women's Indian Association and the All India Women's Conference (1927) widened national advocacy over education and law. The benefits of rights reform could be broad, yet a legal platform did not by itself address a daily-wage worker's access to land or bargaining power.
 
-- Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement.
-- The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries.
-- The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work.
-- The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model.
-- The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone.
-- The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
+Later organisational forms show how that gap was contested. The National Federation of Indian Women placed wages and anti-dowry work alongside rights claims. Gujarat-based SEWA made self-employed women collective economic actors through union and cooperative organising. SHG federations offered savings networks and institutional links at grassroots level. Each expands possible participation, but a loan in a woman's name is not proof that she controls its use.
 
-**Qualified conclusion:** The movement's successive organisational forms each carried a distinct mechanism and a distinct reach, and the emergence of Dalit and tribal women's organisations is direct evidence that mainstream bodies did not centre caste-linked constraints.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Substantiate the view that the Indian women's movement has not served women of the lower…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The movement's successive organisational forms each carried a distinct mechanism and a distinct reach, and the emergence of Dalit and tribal women's organisations is direct evidence that mainstream bodies did not centre caste-linked constraints.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Women's organising in India runs through social reform, early national bodies, post-Independence rights mobilisation, informal-sector labour organising and savings-and-credit federations, and these streams overlap and coexist rather than replacing one another in a single linear movement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Women's Indian Association preceded the All India Women's Conference, which is why the later body may be called an influential pan-Indian organisation but never the first women's organisation in India, and this precedence rule is one of the sharpest close-option distinctions the owner carries. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The All India Women's Conference was founded in 1927, focused initially on women's education and later extended into legal and social reform advocacy, giving the movement a sustained national platform for franchise and law-reform work. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The National Federation of Indian Women is a post-Independence organisation associated with the broader left movement that mobilised around legal rights, wages and anti-dowry campaigns, which places it in the rights-and-wage organisational model rather than the economic-participation model. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The Self Employed Women's Association, founded in Gujarat, is registered as a trade union of self-employed women workers and functions with cooperative institutions, organising informal-sector women around economic rights, credit access and collective bargaining rather than legal advocacy alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The movement's successive organisational forms each carried a distinct mechanism and a distinct reach, and the emergence of Dalit and tribal women's organisations is direct evidence that mainstream bodies did not centre caste-linked constraints.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Substantiate the view that the Indian women's movement has not served women of the lower…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Dalit and Adivasi women's organisations have insisted that caste-based violence, dispossession and wage exclusion cannot be folded uncritically into a universal account of gender disadvantage. Anti-arrack mobilisation and women's involvement in Chipko likewise show locally rooted agendas beyond the dominant national-association story. However, neither Dalit nor Adivasi women have a single experience; geography, class and disability also alter needs and access. Overall, the movement won important common rights but unevenly distributed voice. Substantiating inclusion requires asking whose concerns shaped campaigns and whether disadvantaged women gained resources and decision-making authority, rather than measuring equality by organisational reach alone.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Examine the challenges that Indian women continue to face across time and space. Answer in about 250 words.
 
-**Model thesis:** Unpaid care compresses the time available for schooling, work and organisation while mobility limits, harassment and unequal digital access compress the space available, so the two constraints must be answered together rather than one standing for the other.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Indian women's challenges persist not because law has no value but because equal status does not allocate time, safety and resources equally. Unpaid care reduces hours for education, work and organising; this time poverty can accumulate across a life course as interrupted employment weakens earnings and future bargaining power. Counting women outside paid employment as inactive hides the work they already perform.
 
-- Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-- Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-- Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-- The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
+Spatial inequality multiplies that burden. A distant bank or poorly connected training centre makes a nominally open programme hard to use; fear of harassment changes how and when women travel. Online access is not an uncomplicated substitute: shared phones and controlled passwords can restrict digital independence. NFHS-5 (2019–21) bank-use and internet ever-use measures describe historical access among women aged 15–49, not current control over resources, nor the effects of any one programme.
 
-**Qualified conclusion:** Unpaid care compresses the time available for schooling, work and organisation while mobility limits, harassment and unequal digital access compress the space available, so the two constraints must be answered together rather than one standing for the other.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the challenges that Indian women continue to face across time and space. Answer in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Unpaid care compresses the time available for schooling, work and organisation while mobility limits, harassment and unequal digital access compress the space available, so the two constraints must be answered together rather than one standing for the other.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Unpaid care compresses the time available for schooling, work and organisation while mobility limits, harassment and unequal digital access compress the space available, so the two constraints must be answered together rather than one standing for the other.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the challenges that Indian women continue to face across time and space. Answer in…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Social position changes these pathways. Women with disabilities may face inaccessible transport; a Dalit agricultural worker may encounter caste- and gender-based wage barriers; an urban platform worker may confront opaque task allocation. None of these examples should be universalised to an entire group. AIWC's advocacy, SEWA's collective bargaining and SHG federations' institutional links illustrate different possible responses, but membership totals cannot substitute for voice. Gender-sensitive implementation should coordinate safe mobility, care-compatible schedules, usable financial and digital access and grievance channels; evaluation should ask who participates, on what terms, and who decides afterwards. The qualified verdict is that formal rights are necessary, while equitable access to time and space and effective agency remain the unfinished work.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Assess whether organisational membership can be treated as evidence of women's empowerment. Answer in about 300 words.
 
-**Model thesis:** Membership is an input measure and empowerment is an agency outcome, so the honest assessment tests whether an instrument reached the woman, whether she used it and whether the use changed a recognised decision.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Membership is evidence of contact with an institution, not sufficient evidence of empowerment. Empowerment entails expanded capability and exercised agency: the capacity to choose, influence collective decisions and control resources. Counting enrolled women confuses an input with these outcomes.
 
-- Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here.
-- Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment.
-- The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions.
-- A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer.
-- A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer.
-- A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage.
+Organisations nevertheless create real possibilities. AIWC offered a national forum for education and legal reform; NFIW pressed rights and wage concerns; SEWA's trade-union and cooperative organising of self-employed women can strengthen bargaining with markets. SHG federations may build trust among members, scale links across groups and connect them to banks or public institutions. Each mechanism could widen a woman's options, yet the strength of that link depends on how groups operate and who speaks for them. An SHG loan controlled by another family member, for instance, records access without autonomous financial decision-making. Equally, a woman may exercise substantial voice in informal community action without joining a registered body.
 
-**Qualified conclusion:** Membership is an input measure and empowerment is an agency outcome, so the honest assessment tests whether an instrument reached the woman, whether she used it and whether the use changed a recognised decision.
+Measurement must follow the causal chain. Record entry, attendance and actual use of group resources as separate variables; then investigate who sets agendas, speaks in meetings, decides on loans and retains proceeds. Combine member interviews with observation of collective decisions and disaggregate findings by caste, class, disability, region and occupation. NFHS-5's historical bank-account-use and internet ever-use indicators show why access measures must not be mistaken for current control; even improvements over survey rounds cannot be attributed solely to group membership without a credible comparison.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess whether organisational membership can be treated as evidence of women's empowerment.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Membership is an input measure and empowerment is an agency outcome, so the honest assessment tests whether an instrument reached the woman, whether she used it and whether the use changed a recognised decision.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Self-help group federations are savings-and-credit groups that federate upward into larger bodies and have become the most widespread contemporary grassroots women's organisational form, and the bonding, bridging and linking social-capital mechanism that explains their effectiveness is owned by Governance and cross-linked rather than re-derived here. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Formal membership of a women's organisation or a self-help group is an input and coverage measure, while substantive voice requires that economic participation be converted into recognised decision-making inside the household and community, so enrolment counts can overstate empowerment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The National Family Health Survey round five, covering 2019-21, recorded that 78.6 per cent of women aged 15-49 had a bank or savings account that they themselves used and that 33.3 per cent had ever used the internet, and after the release of the sixth round on 29 May 2026 these remain dated access indicators that measure reach rather than control over assets, income or decisions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A woman with full legal voting and property rights but no independent income, childcare support or mobility support illustrates equality existing without equity and therefore without empowerment, which is the boundary case that defeats a rights-only answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A self-help group member who receives credit while her husband continues to control loan-use decisions illustrates an equity instrument reaching a woman without translating into substantive agency, which is the boundary case that defeats a coverage-only answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** A Self Employed Women's Association member who gains credit, joins collective bargaining and then takes an independent decision about her own enterprise shows the full chain completing, and the contrasting case of a Dalit woman agricultural labourer facing caste-based wage discrimination alongside gender constraints shows why a generic non-intersectional programme can miss compounded disadvantage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Membership is an input measure and empowerment is an agency outcome, so the honest assessment tests whether an instrument reached the woman, whether she used it and whether the use changed a recognised decision.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess whether organisational membership can be treated as evidence of women's empowerment.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Affiliation can itself lower isolation and enable solidarity before measurable income changes. That is a plausible intermediate gain, not a warrant to declare every member empowered. Organisational membership is a useful starting indicator; empowerment is established only when members acquire and exercise voice, bargaining power and control in their particular contexts.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Evaluate the evidentiary limits of explaining a reported rise in self-harm among young women through a single social cause. Answer in about 300 words.
 
-**Model thesis:** Reported categories describe outcomes rather than causes, so a defensible answer analyses stressors as candidate pathways, refuses monocausal attribution and closes with a prevention frame that is named, official and non-stigmatising.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+A reported rise in self-harm among young women cannot be explained responsibly by choosing one social cause from an aggregate category. First establish what is being counted: attempts, deaths and service contacts are different measures, while classification, reporting and population denominators may change over time. A dated, comparable, disaggregated source is required before asserting the size or direction of any trend. NFHS financial or digital indicators cannot supply that missing evidence.
 
-- Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024.
-- Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach.
-- Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly.
-- The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement.
+Social mechanisms can be explored without diagnosing individuals. Unequal household expectations may limit autonomy; educational or employment uncertainty can add pressure; violence, stigma and weak access to confidential care may compound risk. Such pressures can interact, but no listed stressor proves that a particular woman harmed herself. Variation by disability, region, household resources and age within the category of “young women” matters. A single local experience cannot represent a national population, and a correlation between an indicator and a reported trend cannot identify a cause without appropriate study design.
 
-**Qualified conclusion:** Reported categories describe outcomes rather than causes, so a defensible answer analyses stressors as candidate pathways, refuses monocausal attribution and closes with a prevention frame that is named, official and non-stigmatising.
+Nor should restraint mean inaction. The Ministry of Health and Family Welfare's National Suicide Prevention Strategy (2022) provides a framework for better surveillance, accessible health services and community resilience. In practice, confidential, non-stigmatising support and timely referral can be paired with efforts to reduce violence and improve social protection. These are prevention directions, not evidence that the strategy has already lowered a measured rate. Ethical communication should avoid sensational detail and avoid blaming families or communities as homogeneous units.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the evidentiary limits of explaining a reported rise in self-harm among young women…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Reported categories describe outcomes rather than causes, so a defensible answer analyses stressors as candidate pathways, refuses monocausal attribution and closes with a prevention frame that is named, official and non-stigmatising.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Any answer about reported self-harm among young women must use the Ministry of Health and Family Welfare National Suicide Prevention Strategy of 2022, which frames prevention around surveillance, health-service capacity, community resilience and evidence, and must refuse to convert a reported category into a single social cause; five direct General Studies Paper-I demands are carried by this owner across 2018, 2019, 2021, 2023 and 2024. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Unpaid care and domestic work impose a time constraint that limits schooling, paid work, mobility and organisational participation, which is why a programme that assumes equal available time silently excludes the women it is meant to reach. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Women's presence in public, workplace and digital space is conditioned by mobility limits, harassment and safety concerns, so the challenge is spatial as well as temporal and any answer about women across time and space must treat both dimensions explicitly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The intersectionality critique raised by Dalit and tribal women's organisations holds that caste, class, tribe and religion shape women's experience differently, so a strategy effective for urban middle-class women may not address a Dalit agricultural labourer's constraints, and the emergence of separate organisations is a corrective rather than a fragmentation of the movement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Reported categories describe outcomes rather than causes, so a defensible answer analyses stressors as candidate pathways, refuses monocausal attribution and closes with a prevention frame that is named, official and non-stigmatising.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate the evidentiary limits of explaining a reported rise in self-harm among young women…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The balanced conclusion is methodological and humane: test multiple plausible pathways against reliable data and lived context while investing in support. A reported demographic rise can justify urgent inquiry and prevention, but neither the label nor a compelling social narrative establishes a unique cause or an individual diagnosis.

@@ -4,1091 +4,640 @@ topic_key: science-and-technology-04
 ---
 # Nuclear Power and the Three-Stage Programme — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+Sources: `upsc-ai-kit/knowledge/Science-and-Technology/basic/04_Nuclear-Power-and-Three-Stage-Programme.md`, paired Learning-Session and routed PYQ evidence. Reactor, law and fleet statuses are historical to the cited source dates; do not infer current operation.
 
-### Q1. Which statement correctly identifies Fission-power chain?
+## Applied MCQs — questions only
 
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-C. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-D. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
+### Q1. A natural-uranium reactor needs efficient neutron economy without enrichment. Which design fits Stage 1?
 
-**Answer: A.**
-**Explanation:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Heavy-water moderated and cooled PHWR
+B. Light-water PWR with natural uranium by default
+C. Unmoderated sodium fast breeder as Stage 1
+D. Thorium-only thermal reactor without a driver
 
-### Q2. Which option preserves the technical boundary of Fission-power chain?
+### Q2. A Stage-1 PHWR discharges irradiated fuel. What material bridge to Stage 2 is envisaged?
 
-A. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-B. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-C. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-D. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
+A. Feed raw thorium directly into a turbine
+B. Recover plutonium-bearing material through reprocessing for breeder fuel
+C. Convert coolant into enriched uranium
+D. Reuse spent fuel unchanged in any fast reactor
 
-**Answer: B.**
-**Explanation:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. Which nuclide is fertile rather than directly fissile with slow neutrons?
 
-### Q3. Which statement uses Fission-power chain without changing its institution, unit or status?
+A. Uranium-235
+B. Plutonium-239
+C. Thorium-232
+D. Uranium-233
 
-A. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-B. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-C. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-D. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
+### Q4. Which chain captures Stage-3 thorium utilisation?
 
-**Answer: C.**
-**Explanation:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Th-232 spontaneously powers an unstarted reactor
+B. U-233 is converted into thorium by steam pressure
+C. Heavy water alone changes thorium into a turbine
+D. Th-232 captures neutrons and ultimately produces fissile U-233
 
-### Q4. Which option avoids the standard UPSC close-option trap about Fission-power chain?
+### Q5. What is the Stage-2 physical objective of a fast breeder?
 
-A. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-B. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-C. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-D. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
+A. Use fissile fuel and fertile blankets to grow fissile inventory
+B. Eliminate all fuel reprocessing
+C. Burn only raw thorium with no initial fissile feed
+D. Use a moderator to slow all neutrons
 
-**Answer: D.**
-**Explanation:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. What does a U-238 fertile blanket produce through neutron capture and decay?
 
-### Q5. Which statement correctly identifies Criticality boundary?
+A. Thorium-232
+B. Plutonium-239
+C. Stable light water
+D. Pure uranium-235 without irradiation
 
-A. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-D. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
+### Q7. What can a thorium blanket breed in the longer-term programme?
 
-**Answer: A.**
-**Explanation:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Natural heavy water
+B. Uranium-238
+C. Uranium-233
+D. Sodium coolant
 
-### Q6. Which option preserves the technical boundary of Criticality boundary?
+### Q8. Why does a fast breeder avoid a moderator?
 
-A. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-B. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-C. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-D. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
+A. Sodium automatically replaces control rods
+B. A fast spectrum makes containment unnecessary
+C. Thorium itself slows neutrons
+D. Slowing neutrons would defeat its intended fast spectrum
 
-**Answer: B.**
-**Explanation:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. What coolant is associated with the prototype fast breeder in the source?
 
-### Q7. Which statement uses Criticality boundary without changing its institution, unit or status?
+A. Liquid sodium
+B. Heavy water as both moderator and coolant
+C. Pressurised light water
+D. Air alone
 
-A. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-B. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-C. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-D. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
+### Q10. A sodium leak meets water. What design risk matters?
 
-**Answer: C.**
-**Explanation:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Sodium is an inert noble gas
+B. Strong chemical reaction demands isolation and careful sodium-system engineering
+C. Mixing with water safely moderates all fission
+D. Chemical reactivity is irrelevant to plant safety
 
-### Q8. Which option avoids the standard UPSC close-option trap about Criticality boundary?
+### Q11. A physics report says the effective multiplication factor is exactly unity. What condition is described?
 
-A. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-B. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-C. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-D. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
+A. Commercial electricity sales
+B. Cold shutdown with no chain reaction
+C. Criticality: a self-sustaining controlled chain reaction
+D. Installed capacity at full output
 
-**Answer: D.**
-**Explanation:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. The chain reaction grows with time. Which relation is relevant?
 
-### Q9. Which statement correctly identifies Control-safety boundary?
+A. Effective multiplication factor below one
+B. Factor exactly zero means full output
+C. Installed MW is the multiplication factor
+D. Effective multiplication factor greater than one
 
-A. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-D. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
+### Q13. Which component directly absorbs neutrons to regulate power?
 
-**Answer: A.**
-**Explanation:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Control rods
+B. Containment shell alone
+C. Steam turbine
+D. Cooling tower
 
-### Q10. Which option preserves the technical boundary of Control-safety boundary?
+### Q14. Which component slows neutrons in a PHWR?
 
-A. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-B. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-C. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-D. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
+A. Heat-removal coolant solely because it carries heat
+B. Heavy-water moderator
+C. Containment vessel
+D. Generator rotor
 
-**Answer: B.**
-**Explanation:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. Which component moves core heat to the steam-generation system?
 
-### Q11. Which statement uses Control-safety boundary without changing its institution, unit or status?
+A. Control rods
+B. Concrete containment
+C. Coolant
+D. Electrical switchyard
 
-A. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-B. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-C. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+### Q16. What turns reactor thermal energy into delivered electricity?
 
-**Answer: C.**
-**Explanation:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Direct conversion of every neutron into grid voltage
+B. Only fuel fabrication
+C. Only nuclear safeguards inspection
+D. Heat removal, steam production and turbine-generator work
 
-### Q12. Which option avoids the standard UPSC close-option trap about Control-safety boundary?
+### Q17. A boiling-water unit sends steam from the reactor vessel to the turbine. What is the type?
 
-A. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-B. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-C. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-D. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
+A. BWR
+B. PWR with a separate steam generator
+C. Unmoderated fast breeder
+D. AHWR solely by definition
 
-**Answer: D.**
-**Explanation:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. A light-water unit maintains pressure so primary coolant does not boil and a separate steam loop runs the turbine. What is it?
 
-### Q13. Which statement correctly identifies Thermal-fast boundary?
+A. BWR direct steam cycle
+B. PWR
+C. Natural-uranium PHWR by definition
+D. Sodium-cooled FBR
 
-A. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-B. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-C. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-D. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
+### Q19. Which pairing describes the thorium-oriented AHWR design rather than a functioning plant?
 
-**Answer: A.**
-**Explanation:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Sodium coolant and proven commercial fleet
+B. Ordinary BWR already fueled exclusively with raw thorium
+C. Heavy-water moderation, light-water cooling and R&D design status
+D. A running fusion plant
 
-### Q14. Which option preserves the technical boundary of Thermal-fast boundary?
+### Q20. What did PFBR first criticality on 6 April 2026 establish in the dated DAE source?
 
-A. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-D. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
+A. Electricity already sold at nameplate output
+B. An operating national breeder fleet
+C. Successful thorium-only reactor fuel cycle
+D. A controlled self-sustaining chain reaction, not grid or commercial operation
 
-**Answer: B.**
-**Explanation:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. Who designed PFBR's fast-reactor technology in the canonical account?
 
-### Q15. Which statement uses Thermal-fast boundary without changing its institution, unit or status?
+A. IGCAR
+B. NPCIL's retail customer office
+C. IREL beach-sand unit
+D. Airports Authority of India
 
-A. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-B. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-C. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-D. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
+### Q22. Who executes and is assigned operation of the PFBR project?
 
-**Answer: C.**
-**Explanation:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. IGCAR solely as national electricity utility
+B. BHAVINI
+C. AERB as plant owner
+D. NFC as safety regulator
 
-### Q16. Which option avoids the standard UPSC close-option trap about Thermal-fast boundary?
+### Q23. Which institution develops and operates commercial civilian nuclear-power plants?
 
-A. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-B. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-C. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-D. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
+A. AERB
+B. IREL
+C. NPCIL
+D. UCIL
 
-**Answer: D.**
-**Explanation:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. Which institution reviews nuclear siting and safety compliance?
 
-### Q17. Which statement correctly identifies Fissile-fertile boundary?
+A. NPCIL as sole independent regulator
+B. IREL monazite processor
+C. NFC fuel bundle factory
+D. AERB
 
-A. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-B. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-C. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+### Q25. Which body leads nuclear policy and overall strategic direction?
 
-**Answer: A.**
-**Explanation:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. DAE
+B. BARC as parliamentary ministry
+C. BHAVINI as supreme regulator
+D. UCIL as treaty negotiator
 
-### Q18. Which option preserves the technical boundary of Fissile-fertile boundary?
+### Q26. Which organisation concentrates advanced reactor and reprocessing research?
 
-A. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-B. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-C. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+A. NPCIL alone as all research labs
+B. BARC
+C. IREL as fast-reactor designer
+D. NSIL as fuel fabricator
 
-**Answer: B.**
-**Explanation:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. Who fabricates fuel assemblies and zirconium components?
 
-### Q19. Which statement uses Fissile-fertile boundary without changing its institution, unit or status?
+A. UCIL mines alone
+B. AERB
+C. NFC
+D. IAEA
 
-A. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-B. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-C. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+### Q28. Which pairing correctly identifies fuel-resource chains?
 
-**Answer: C.**
-**Explanation:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. IREL fabricates every PHWR assembly; AERB mines uranium
+B. NPCIL mines monazite; BHAVINI owns all uranium mines
+C. IAEA processes Indian beach sands
+D. UCIL mines/mills uranium; IREL processes monazite associated with thorium
 
-### Q20. Which option avoids the standard UPSC close-option trap about Fissile-fertile boundary?
+### Q29. A thorium advocate says deposits can power Stage 3 immediately. What is missing?
 
-A. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-B. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-C. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-D. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
+A. Fissile starter inventory, irradiation, reprocessing and remote U-233 fabrication
+B. Only construction of transmission lines
+C. Simply pouring monazite into the coolant
+D. Eliminating all safeguards
 
-**Answer: D.**
-**Explanation:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. Why is U-233 remote fuel handling especially challenging?
 
-### Q21. Which statement correctly identifies Stage-1 boundary?
+A. U-233 is inherently a liquid coolant
+B. U-232 contamination leads to intense gamma-emitting decay products
+C. Heavy water turns all gamma rays off
+D. Thorium must remain at room temperature to be fissile
 
-A. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-B. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-C. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-D. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
+### Q31. What does a closed fuel cycle require beyond reactor operation?
 
-**Answer: A.**
-**Explanation:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Disposal of every spent assembly without recovery
+B. Only a new turbine
+C. Cooling, reprocessing, refabrication, reuse and waste management
+D. Only reactor siting paperwork
 
-### Q22. Which option preserves the technical boundary of Stage-1 boundary?
+### Q32. A plant reaches first criticality but has not connected to the grid. Which measure is still unavailable?
 
-A. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-B. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-C. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+A. Existence of a controlled chain reaction
+B. Knowledge of reactor location
+C. Completion of some commissioning tests
+D. Verified electricity exported through grid synchronisation
 
-**Answer: B.**
-**Explanation:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. A table equates installed MW with annual electricity output. What is the mistake?
 
-### Q23. Which statement uses Stage-1 boundary without changing its institution, unit or status?
+A. Capacity is rated power; generation measures energy delivered over time
+B. Installed MW always equals MWh over any period
+C. Criticality fixes annual generation automatically
+D. A turbine is irrelevant to energy output
 
-A. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-B. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-C. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-D. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
+### Q34. Which status accurately describes BSR and BSMR-200 in the canonical source dated March 2026?
 
-**Answer: C.**
-**Explanation:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Two names for the operational PFBR
+B. Distinct small-reactor concepts or approvals, neither constructed and commissioned then
+C. Both already operating as fusion plants
+D. Both are thorium-only commercial fleets
 
-### Q24. Which option avoids the standard UPSC close-option trap about Stage-1 boundary?
+### Q35. The SHANTI Act is enacted but commencement was not established by the source date. What follows for applicable law?
 
-A. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-B. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
+A. All earlier statutes vanished when the Bill was mentioned
+B. A Cabinet plan directly repeals every liability provision
+C. Check commencement; the Atomic Energy Act and CLND Act remain operative until replacement provisions take effect
+D. AERB alone can announce statutory commencement
 
-**Answer: D.**
-**Explanation:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. What controversy attaches to Section 17(b) of the CLND Act?
 
-### Q25. Which statement correctly identifies Plutonium-stream boundary?
+A. It abolishes all nuclear liability
+B. It makes thorium fissile
+C. It is the IAEA safeguards agreement
+D. Operator recourse against suppliers under specified conditions
 
-A. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-B. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-C. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-D. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
+### Q37. Which civil-nuclear diplomatic pair is correctly distinguished?
 
-**Answer: A.**
-**Explanation:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Indo-US 123 Agreement is bilateral; 2008 NSG waiver enabled trade despite India's non-NPT status
+B. 123 Agreement made India an NPT party
+C. NSG waiver is an Indian PHWR design
+D. IAEA safeguards apply automatically to every Indian strategic reactor
 
-### Q26. Which option preserves the technical boundary of Plutonium-stream boundary?
+### Q38. A claim says imported civilian fuel makes every domestic military facility safeguarded. Why incorrect?
 
-A. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-B. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
+A. All Indian facilities automatically enter IAEA safeguards
+B. India distinguishes designated civilian facilities under safeguards from its strategic facilities
+C. A waiver abolishes all international verification
+D. Safeguards replace physical containment
 
-**Answer: B.**
-**Explanation:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q39. Why does nuclear firm power not remove waste and water policy needs?
 
-### Q27. Which statement uses Plutonium-stream boundary without changing its institution, unit or status?
+A. Fission produces no radioactive residues
+B. Every reactor needs no water or land
+C. Low-carbon output coexists with spent-fuel, siting, cooling-water and public-acceptance burdens
+D. Climate benefit establishes automatic safety approval
 
-A. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-B. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-C. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+### Q40. What proof would justify calling Stage 2 a deployed fleet?
 
-**Answer: C.**
-**Explanation:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. One PFBR first-criticality note
+B. A thorium reserve estimate
+C. A conceptual AHWR design
+D. Multiple commissioned, operating breeders with dated production and fuel-cycle evidence
 
-### Q28. Which option avoids the standard UPSC close-option trap about Plutonium-stream boundary?
+## Separate answer key and worked solutions
 
-A. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-B. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
+### Q1 — A
 
-**Answer: D.**
-**Explanation:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Heavy-water moderated and cooled PHWR. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Light-water PWR with natural uranium by default. This fails because heavy water and natural uranium are linked by neutron economy.
+- **C:** Incorrect — Unmoderated sodium fast breeder as Stage 1. This fails because heavy water and natural uranium are linked by neutron economy.
+- **D:** Incorrect — Thorium-only thermal reactor without a driver. This fails because heavy water and natural uranium are linked by neutron economy.
+**Trap:** Heavy water and natural uranium are linked by neutron economy.
 
-### Q29. Which statement correctly identifies Stage-2 boundary?
+### Q2 — B
 
-A. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-B. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
+- **A:** Incorrect — Feed raw thorium directly into a turbine. This fails because spent fuel is not immediately fabricated breeder fuel.
+- **B:** Correct — Recover plutonium-bearing material through reprocessing for breeder fuel. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Convert coolant into enriched uranium. This fails because spent fuel is not immediately fabricated breeder fuel.
+- **D:** Incorrect — Reuse spent fuel unchanged in any fast reactor. This fails because spent fuel is not immediately fabricated breeder fuel.
+**Trap:** Spent fuel is not immediately fabricated breeder fuel.
 
-**Answer: A.**
-**Explanation:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3 — C
 
-### Q30. Which option preserves the technical boundary of Stage-2 boundary?
+- **A:** Incorrect — Uranium-235. This fails because fertile inventory needs irradiation and a fissile driver.
+- **B:** Incorrect — Plutonium-239. This fails because fertile inventory needs irradiation and a fissile driver.
+- **C:** Correct — Thorium-232. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Uranium-233. This fails because fertile inventory needs irradiation and a fissile driver.
+**Trap:** Fertile inventory needs irradiation and a fissile driver.
 
-A. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-B. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
+### Q4 — D
 
-**Answer: B.**
-**Explanation:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Th-232 spontaneously powers an unstarted reactor. This fails because thorium abundance cannot bypass breeding and fabrication.
+- **B:** Incorrect — U-233 is converted into thorium by steam pressure. This fails because thorium abundance cannot bypass breeding and fabrication.
+- **C:** Incorrect — Heavy water alone changes thorium into a turbine. This fails because thorium abundance cannot bypass breeding and fabrication.
+- **D:** Correct — Th-232 captures neutrons and ultimately produces fissile U-233. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Thorium abundance cannot bypass breeding and fabrication.
 
-### Q31. Which statement uses Stage-2 boundary without changing its institution, unit or status?
+### Q5 — A
 
-A. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-D. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
+- **A:** Correct — Use fissile fuel and fertile blankets to grow fissile inventory. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Eliminate all fuel reprocessing. This fails because breeding depends on feedstock, conversion and recovered product.
+- **C:** Incorrect — Burn only raw thorium with no initial fissile feed. This fails because breeding depends on feedstock, conversion and recovered product.
+- **D:** Incorrect — Use a moderator to slow all neutrons. This fails because breeding depends on feedstock, conversion and recovered product.
+**Trap:** Breeding depends on feedstock, conversion and recovered product.
 
-**Answer: C.**
-**Explanation:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6 — B
 
-### Q32. Which option avoids the standard UPSC close-option trap about Stage-2 boundary?
+- **A:** Incorrect — Thorium-232. This fails because blanket products must not be confused with initial fuel.
+- **B:** Correct — Plutonium-239. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Stable light water. This fails because blanket products must not be confused with initial fuel.
+- **D:** Incorrect — Pure uranium-235 without irradiation. This fails because blanket products must not be confused with initial fuel.
+**Trap:** Blanket products must not be confused with initial fuel.
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-D. Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
+### Q7 — C
 
-**Answer: D.**
-**Explanation:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Natural heavy water. This fails because separate fertile blanket from fissile product.
+- **B:** Incorrect — Uranium-238. This fails because separate fertile blanket from fissile product.
+- **C:** Correct — Uranium-233. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Sodium coolant. This fails because separate fertile blanket from fissile product.
+**Trap:** Separate fertile blanket from fissile product.
 
-### Q33. Which statement correctly identifies PFBR-status boundary?
+### Q8 — D
 
-A. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-B. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+- **A:** Incorrect — Sodium automatically replaces control rods. This fails because coolant and moderator functions differ.
+- **B:** Incorrect — A fast spectrum makes containment unnecessary. This fails because coolant and moderator functions differ.
+- **C:** Incorrect — Thorium itself slows neutrons. This fails because coolant and moderator functions differ.
+- **D:** Correct — Slowing neutrons would defeat its intended fast spectrum. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Coolant and moderator functions differ.
 
-**Answer: A.**
-**Explanation:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9 — A
 
-### Q34. Which option preserves the technical boundary of PFBR-status boundary?
+- **A:** Correct — Liquid sodium. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Heavy water as both moderator and coolant. This fails because sodium coolant does not imply thermal moderation.
+- **C:** Incorrect — Pressurised light water. This fails because sodium coolant does not imply thermal moderation.
+- **D:** Incorrect — Air alone. This fails because sodium coolant does not imply thermal moderation.
+**Trap:** Sodium coolant does not imply thermal moderation.
 
-A. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-B. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-C. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-D. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
+### Q10 — B
 
-**Answer: B.**
-**Explanation:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Sodium is an inert noble gas. This fails because fast-reactor thermal hydraulics has chemical constraints.
+- **B:** Correct — Strong chemical reaction demands isolation and careful sodium-system engineering. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Mixing with water safely moderates all fission. This fails because fast-reactor thermal hydraulics has chemical constraints.
+- **D:** Incorrect — Chemical reactivity is irrelevant to plant safety. This fails because fast-reactor thermal hydraulics has chemical constraints.
+**Trap:** Fast-reactor thermal hydraulics has chemical constraints.
 
-### Q35. Which statement uses PFBR-status boundary without changing its institution, unit or status?
+### Q11 — C
 
-A. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-D. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
+- **A:** Incorrect — Commercial electricity sales. This fails because criticality is a physics state, not commercial status.
+- **B:** Incorrect — Cold shutdown with no chain reaction. This fails because criticality is a physics state, not commercial status.
+- **C:** Correct — Criticality: a self-sustaining controlled chain reaction. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Installed capacity at full output. This fails because criticality is a physics state, not commercial status.
+**Trap:** Criticality is a physics state, not commercial status.
 
-**Answer: C.**
-**Explanation:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12 — D
 
-### Q36. Which option avoids the standard UPSC close-option trap about PFBR-status boundary?
+- **A:** Incorrect — Effective multiplication factor below one. This fails because reactor power change and nameplate capacity differ.
+- **B:** Incorrect — Factor exactly zero means full output. This fails because reactor power change and nameplate capacity differ.
+- **C:** Incorrect — Installed MW is the multiplication factor. This fails because reactor power change and nameplate capacity differ.
+- **D:** Correct — Effective multiplication factor greater than one. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Reactor power change and nameplate capacity differ.
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-D. The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
+### Q13 — A
 
-**Answer: D.**
-**Explanation:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Control rods. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Containment shell alone. This fails because containment protects against release; it does not control neutron balance.
+- **C:** Incorrect — Steam turbine. This fails because containment protects against release; it does not control neutron balance.
+- **D:** Incorrect — Cooling tower. This fails because containment protects against release; it does not control neutron balance.
+**Trap:** Containment protects against release; it does not control neutron balance.
 
-### Q37. Which statement correctly identifies Stage-3 boundary?
+### Q14 — B
 
-A. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-B. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-C. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+- **A:** Incorrect — Heat-removal coolant solely because it carries heat. This fails because do not equate moderation with heat extraction.
+- **B:** Correct — Heavy-water moderator. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Containment vessel. This fails because do not equate moderation with heat extraction.
+- **D:** Incorrect — Generator rotor. This fails because do not equate moderation with heat extraction.
+**Trap:** Do not equate moderation with heat extraction.
 
-**Answer: A.**
-**Explanation:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15 — C
 
-### Q38. Which option preserves the technical boundary of Stage-3 boundary?
+- **A:** Incorrect — Control rods. This fails because heat transfer and neutron absorption are separate roles.
+- **B:** Incorrect — Concrete containment. This fails because heat transfer and neutron absorption are separate roles.
+- **C:** Correct — Coolant. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Electrical switchyard. This fails because heat transfer and neutron absorption are separate roles.
+**Trap:** Heat transfer and neutron absorption are separate roles.
 
-A. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-B. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+### Q16 — D
 
-**Answer: B.**
-**Explanation:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Direct conversion of every neutron into grid voltage. This fails because fission heat must pass through a power-conversion chain.
+- **B:** Incorrect — Only fuel fabrication. This fails because fission heat must pass through a power-conversion chain.
+- **C:** Incorrect — Only nuclear safeguards inspection. This fails because fission heat must pass through a power-conversion chain.
+- **D:** Correct — Heat removal, steam production and turbine-generator work. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Fission heat must pass through a power-conversion chain.
 
-### Q39. Which statement uses Stage-3 boundary without changing its institution, unit or status?
+### Q17 — A
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-D. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
+- **A:** Correct — BWR. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — PWR with a separate steam generator. This fails because where boiling happens distinguishes light-water designs.
+- **C:** Incorrect — Unmoderated fast breeder. This fails because where boiling happens distinguishes light-water designs.
+- **D:** Incorrect — AHWR solely by definition. This fails because where boiling happens distinguishes light-water designs.
+**Trap:** Where boiling happens distinguishes light-water designs.
 
-**Answer: C.**
-**Explanation:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18 — B
 
-### Q40. Which option avoids the standard UPSC close-option trap about Stage-3 boundary?
+- **A:** Incorrect — BWR direct steam cycle. This fails because primary versus secondary loops matter.
+- **B:** Correct — PWR. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Natural-uranium PHWR by definition. This fails because primary versus secondary loops matter.
+- **D:** Incorrect — Sodium-cooled FBR. This fails because primary versus secondary loops matter.
+**Trap:** Primary versus secondary loops matter.
 
-A. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-B. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
+### Q19 — C
 
-**Answer: D.**
-**Explanation:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Sodium coolant and proven commercial fleet. This fails because design features do not establish commercial deployment.
+- **B:** Incorrect — Ordinary BWR already fueled exclusively with raw thorium. This fails because design features do not establish commercial deployment.
+- **C:** Correct — Heavy-water moderation, light-water cooling and R&D design status. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — A running fusion plant. This fails because design features do not establish commercial deployment.
+**Trap:** Design features do not establish commercial deployment.
 
-### Q41. Which statement correctly identifies Thorium-U233 boundary?
+### Q20 — D
 
-A. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+- **A:** Incorrect — Electricity already sold at nameplate output. This fails because a prototype physics milestone has a limited scope.
+- **B:** Incorrect — An operating national breeder fleet. This fails because a prototype physics milestone has a limited scope.
+- **C:** Incorrect — Successful thorium-only reactor fuel cycle. This fails because a prototype physics milestone has a limited scope.
+- **D:** Correct — A controlled self-sustaining chain reaction, not grid or commercial operation. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** A prototype physics milestone has a limited scope.
 
-**Answer: A.**
-**Explanation:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21 — A
 
-### Q42. Which option preserves the technical boundary of Thorium-U233 boundary?
+- **A:** Correct — IGCAR. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — NPCIL's retail customer office. This fails because design R&D and project execution are not synonyms.
+- **C:** Incorrect — IREL beach-sand unit. This fails because design R&D and project execution are not synonyms.
+- **D:** Incorrect — Airports Authority of India. This fails because design R&D and project execution are not synonyms.
+**Trap:** Design R&D and project execution are not synonyms.
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-C. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-D. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
+### Q22 — B
 
-**Answer: B.**
-**Explanation:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — IGCAR solely as national electricity utility. This fails because developer/operator and designer have different remits.
+- **B:** Correct — BHAVINI. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — AERB as plant owner. This fails because developer/operator and designer have different remits.
+- **D:** Incorrect — NFC as safety regulator. This fails because developer/operator and designer have different remits.
+**Trap:** Developer/operator and designer have different remits.
 
-### Q43. Which statement uses Thorium-U233 boundary without changing its institution, unit or status?
+### Q23 — C
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
+- **A:** Incorrect — AERB. This fails because power utility must not be confused with safety reviewer.
+- **B:** Incorrect — IREL. This fails because power utility must not be confused with safety reviewer.
+- **C:** Correct — NPCIL. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — UCIL. This fails because power utility must not be confused with safety reviewer.
+**Trap:** Power utility must not be confused with safety reviewer.
 
-**Answer: C.**
-**Explanation:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24 — D
 
-### Q44. Which option avoids the standard UPSC close-option trap about Thorium-U233 boundary?
+- **A:** Incorrect — NPCIL as sole independent regulator. This fails because regulatory review differs from commercial ownership.
+- **B:** Incorrect — IREL monazite processor. This fails because regulatory review differs from commercial ownership.
+- **C:** Incorrect — NFC fuel bundle factory. This fails because regulatory review differs from commercial ownership.
+- **D:** Correct — AERB. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Regulatory review differs from commercial ownership.
 
-A. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-B. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-C. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-D. Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
+### Q25 — A
 
-**Answer: D.**
-**Explanation:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — DAE. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — BARC as parliamentary ministry. This fails because government umbrella and laboratory R&D differ.
+- **C:** Incorrect — BHAVINI as supreme regulator. This fails because government umbrella and laboratory R&D differ.
+- **D:** Incorrect — UCIL as treaty negotiator. This fails because government umbrella and laboratory R&D differ.
+**Trap:** Government umbrella and laboratory R&D differ.
 
-### Q45. Which statement correctly identifies Closed-cycle boundary?
+### Q26 — B
 
-A. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
+- **A:** Incorrect — NPCIL alone as all research labs. This fails because r&D is not identical with fleet operation.
+- **B:** Correct — BARC. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — IREL as fast-reactor designer. This fails because r&D is not identical with fleet operation.
+- **D:** Incorrect — NSIL as fuel fabricator. This fails because r&D is not identical with fleet operation.
+**Trap:** R&D is not identical with fleet operation.
 
-**Answer: A.**
-**Explanation:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27 — C
 
-### Q46. Which option preserves the technical boundary of Closed-cycle boundary?
+- **A:** Incorrect — UCIL mines alone. This fails because mining and fuel fabrication are distinct steps.
+- **B:** Incorrect — AERB. This fails because mining and fuel fabrication are distinct steps.
+- **C:** Correct — NFC. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — IAEA. This fails because mining and fuel fabrication are distinct steps.
+**Trap:** Mining and fuel fabrication are distinct steps.
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-C. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
+### Q28 — D
 
-**Answer: B.**
-**Explanation:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — IREL fabricates every PHWR assembly; AERB mines uranium. This fails because raw resource, processed feed and reactor fuel differ.
+- **B:** Incorrect — NPCIL mines monazite; BHAVINI owns all uranium mines. This fails because raw resource, processed feed and reactor fuel differ.
+- **C:** Incorrect — IAEA processes Indian beach sands. This fails because raw resource, processed feed and reactor fuel differ.
+- **D:** Correct — UCIL mines/mills uranium; IREL processes monazite associated with thorium. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Raw resource, processed feed and reactor fuel differ.
 
-### Q47. Which statement uses Closed-cycle boundary without changing its institution, unit or status?
+### Q29 — A
 
-A. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-B. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-C. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-D. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
+- **A:** Correct — Fissile starter inventory, irradiation, reprocessing and remote U-233 fabrication. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Only construction of transmission lines. This fails because fertile material is not self-starting fissile fuel.
+- **C:** Incorrect — Simply pouring monazite into the coolant. This fails because fertile material is not self-starting fissile fuel.
+- **D:** Incorrect — Eliminating all safeguards. This fails because fertile material is not self-starting fissile fuel.
+**Trap:** Fertile material is not self-starting fissile fuel.
 
-**Answer: C.**
-**Explanation:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30 — B
 
-### Q48. Which option avoids the standard UPSC close-option trap about Closed-cycle boundary?
+- **A:** Incorrect — U-233 is inherently a liquid coolant. This fails because breeding success does not eliminate fabrication hazards.
+- **B:** Correct — U-232 contamination leads to intense gamma-emitting decay products. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Heavy water turns all gamma rays off. This fails because breeding success does not eliminate fabrication hazards.
+- **D:** Incorrect — Thorium must remain at room temperature to be fissile. This fails because breeding success does not eliminate fabrication hazards.
+**Trap:** Breeding success does not eliminate fabrication hazards.
 
-A. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-B. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-C. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-D. A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
+### Q31 — C
 
-**Answer: D.**
-**Explanation:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Disposal of every spent assembly without recovery. This fails because material-loop infrastructure conditions scale-up.
+- **B:** Incorrect — Only a new turbine. This fails because material-loop infrastructure conditions scale-up.
+- **C:** Correct — Cooling, reprocessing, refabrication, reuse and waste management. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Only reactor siting paperwork. This fails because material-loop infrastructure conditions scale-up.
+**Trap:** Material-loop infrastructure conditions scale-up.
 
-### Q49. Which statement correctly identifies DAE-BARC boundary?
+### Q32 — D
 
-A. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
+- **A:** Incorrect — Existence of a controlled chain reaction. This fails because physics and electrical delivery milestones differ.
+- **B:** Incorrect — Knowledge of reactor location. This fails because physics and electrical delivery milestones differ.
+- **C:** Incorrect — Completion of some commissioning tests. This fails because physics and electrical delivery milestones differ.
+- **D:** Correct — Verified electricity exported through grid synchronisation. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Physics and electrical delivery milestones differ.
 
-**Answer: A.**
-**Explanation:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33 — A
 
-### Q50. Which option preserves the technical boundary of DAE-BARC boundary?
+- **A:** Correct — Capacity is rated power; generation measures energy delivered over time. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — Installed MW always equals MWh over any period. This fails because power and energy use different units and reporting windows.
+- **C:** Incorrect — Criticality fixes annual generation automatically. This fails because power and energy use different units and reporting windows.
+- **D:** Incorrect — A turbine is irrelevant to energy output. This fails because power and energy use different units and reporting windows.
+**Trap:** Power and energy use different units and reporting windows.
 
-A. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-B. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-C. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
+### Q34 — B
 
-**Answer: B.**
-**Explanation:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Two names for the operational PFBR. This fails because proposals and in-principle design approval are not operating units.
+- **B:** Correct — Distinct small-reactor concepts or approvals, neither constructed and commissioned then. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — Both already operating as fusion plants. This fails because proposals and in-principle design approval are not operating units.
+- **D:** Incorrect — Both are thorium-only commercial fleets. This fails because proposals and in-principle design approval are not operating units.
+**Trap:** Proposals and in-principle design approval are not operating units.
 
-### Q51. Which statement uses DAE-BARC boundary without changing its institution, unit or status?
+### Q35 — C
 
-A. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-B. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-C. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-D. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
+- **A:** Incorrect — All earlier statutes vanished when the Bill was mentioned. This fails because enactment and legal commencement are separate events.
+- **B:** Incorrect — A Cabinet plan directly repeals every liability provision. This fails because enactment and legal commencement are separate events.
+- **C:** Correct — Check commencement; the Atomic Energy Act and CLND Act remain operative until replacement provisions take effect. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — AERB alone can announce statutory commencement. This fails because enactment and legal commencement are separate events.
+**Trap:** Enactment and legal commencement are separate events.
 
-**Answer: C.**
-**Explanation:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36 — D
 
-### Q52. Which option avoids the standard UPSC close-option trap about DAE-BARC boundary?
+- **A:** Incorrect — It abolishes all nuclear liability. This fails because liability allocation is not reactor fuel physics.
+- **B:** Incorrect — It makes thorium fissile. This fails because liability allocation is not reactor fuel physics.
+- **C:** Incorrect — It is the IAEA safeguards agreement. This fails because liability allocation is not reactor fuel physics.
+- **D:** Correct — Operator recourse against suppliers under specified conditions. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Liability allocation is not reactor fuel physics.
 
-A. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-B. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-C. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-D. DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
+### Q37 — A
 
-**Answer: D.**
-**Explanation:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Indo-US 123 Agreement is bilateral; 2008 NSG waiver enabled trade despite India's non-NPT status. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **B:** Incorrect — 123 Agreement made India an NPT party. This fails because cooperation and safeguards involve different legal layers.
+- **C:** Incorrect — NSG waiver is an Indian PHWR design. This fails because cooperation and safeguards involve different legal layers.
+- **D:** Incorrect — IAEA safeguards apply automatically to every Indian strategic reactor. This fails because cooperation and safeguards involve different legal layers.
+**Trap:** Cooperation and safeguards involve different legal layers.
 
-### Q53. Which statement correctly identifies Operator-regulator boundary?
+### Q38 — B
 
-A. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-D. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
+- **A:** Incorrect — All Indian facilities automatically enter IAEA safeguards. This fails because designation matters; trade does not erase civil-strategic separation.
+- **B:** Correct — India distinguishes designated civilian facilities under safeguards from its strategic facilities. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **C:** Incorrect — A waiver abolishes all international verification. This fails because designation matters; trade does not erase civil-strategic separation.
+- **D:** Incorrect — Safeguards replace physical containment. This fails because designation matters; trade does not erase civil-strategic separation.
+**Trap:** Designation matters; trade does not erase civil-strategic separation.
 
-**Answer: A.**
-**Explanation:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q39 — C
 
-### Q54. Which option preserves the technical boundary of Operator-regulator boundary?
+- **A:** Incorrect — Fission produces no radioactive residues. This fails because energy-system value must be weighed with full lifecycle burdens.
+- **B:** Incorrect — Every reactor needs no water or land. This fails because energy-system value must be weighed with full lifecycle burdens.
+- **C:** Correct — Low-carbon output coexists with spent-fuel, siting, cooling-water and public-acceptance burdens. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+- **D:** Incorrect — Climate benefit establishes automatic safety approval. This fails because energy-system value must be weighed with full lifecycle burdens.
+**Trap:** Energy-system value must be weighed with full lifecycle burdens.
 
-A. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-B. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-C. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-D. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
+### Q40 — D
 
-**Answer: B.**
-**Explanation:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — One PFBR first-criticality note. This fails because prototype criticality is not industrial-scale programme completion.
+- **B:** Incorrect — A thorium reserve estimate. This fails because prototype criticality is not industrial-scale programme completion.
+- **C:** Incorrect — A conceptual AHWR design. This fails because prototype criticality is not industrial-scale programme completion.
+- **D:** Correct — Multiple commissioned, operating breeders with dated production and fuel-cycle evidence. This follows the fuel, neutron-spectrum and project-status chain in the stem.
+**Trap:** Prototype criticality is not industrial-scale programme completion.
 
-### Q55. Which statement uses Operator-regulator boundary without changing its institution, unit or status?
+## Routed PYQ — independent conceptual model
 
-A. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-B. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-C. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
+### 2020 Prelims GS-I — IAEA safeguards and domestic/imported reactor fuel
+**Provenance:** Original workbook and paired ledger route this objective concept; exact official stem/options and answer letter are not reproduced or inferred.
+**Model solution:** India designates certain civilian nuclear facilities for IAEA safeguards while maintaining a civil–strategic separation; neither indigenous manufacture nor imported fuel by itself proves that every reactor is safeguarded or that none is. The Indo-US 123 Agreement is a bilateral cooperation framework, the 2008 NSG waiver concerns international civil-nuclear commerce, and India is not an NPT party. To adjudicate a specific facility, consult its dated safeguards designation and the verified original question, not a generic rule derived from PHWR or PWR fuel type. Safeguards, domestic safety regulation, plant operation and supplier liability are different legal categories.
 
-**Answer: C.**
-**Explanation:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+## Six original Mains questions with independent solved models
 
-### Q56. Which option avoids the standard UPSC close-option trap about Operator-regulator boundary?
-
-A. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-B. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-C. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-D. NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-
-**Answer: D.**
-**Explanation:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies IGCAR-BHAVINI boundary?
-
-A. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-B. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-C. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-
-**Answer: A.**
-**Explanation:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of IGCAR-BHAVINI boundary?
-
-A. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-B. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-C. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-
-**Answer: B.**
-**Explanation:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses IGCAR-BHAVINI boundary without changing its institution, unit or status?
-
-A. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-
-**Answer: C.**
-**Explanation:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about IGCAR-BHAVINI boundary?
-
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-C. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-D. IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-
-**Answer: D.**
-**Explanation:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Fuel-chain boundary?
-
-A. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-B. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-C. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-D. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-
-**Answer: A.**
-**Explanation:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Fuel-chain boundary?
-
-A. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-B. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-C. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-D. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-
-**Answer: B.**
-**Explanation:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Fuel-chain boundary without changing its institution, unit or status?
-
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-C. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-D. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-
-**Answer: C.**
-**Explanation:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Fuel-chain boundary?
-
-A. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-D. UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-
-**Answer: D.**
-**Explanation:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Reactor-type boundary?
-
-A. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-B. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-C. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-D. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-
-**Answer: A.**
-**Explanation:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Reactor-type boundary?
-
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-C. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-
-**Answer: B.**
-**Explanation:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Reactor-type boundary without changing its institution, unit or status?
-
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-D. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-
-**Answer: C.**
-**Explanation:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Reactor-type boundary?
-
-A. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-B. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-C. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-D. PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-
-**Answer: D.**
-**Explanation:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Capacity-generation boundary?
-
-A. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-
-**Answer: A.**
-**Explanation:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Capacity-generation boundary?
-
-A. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-B. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-C. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-D. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-
-**Answer: B.**
-**Explanation:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Capacity-generation boundary without changing its institution, unit or status?
-
-A. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-B. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-C. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-D. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-
-**Answer: C.**
-**Explanation:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Capacity-generation boundary?
-
-A. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-D. Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-
-**Answer: D.**
-**Explanation:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies Legal-status boundary?
-
-A. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-D. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-
-**Answer: A.**
-**Explanation:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of Legal-status boundary?
-
-A. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-B. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-C. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-D. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-
-**Answer: B.**
-**Explanation:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses Legal-status boundary without changing its institution, unit or status?
-
-A. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-B. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-C. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-D. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-
-**Answer: C.**
-**Explanation:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Legal-status boundary?
-
-A. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-B. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-C. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-D. Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-
-**Answer: D.**
-**Explanation:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile nuclear boundary?
-
-A. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-B. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-C. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-D. Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-
-**Answer: A.**
-**Explanation:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile nuclear boundary?
-
-A. Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-B. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-C. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-D. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-
-**Answer: B.**
-**Explanation:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile nuclear boundary without changing its institution, unit or status?
-
-A. Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-D. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-
-**Answer: C.**
-**Explanation:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile nuclear boundary?
-
-A. U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-B. Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-C. Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-D. Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-
-**Answer: D.**
-**Explanation:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-## PYQS AND ANSWER PRACTICE
-
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
-
-Audited ledgers route a 2020 IAEA-safeguards objective concept here. The package adds original practice but invents no direct Mains PYQ or objective key.
-
-### PYQ DEMAND CARD 1 — 2020 Prelims GS-I
-
-**Demand:** IAEA safeguards on domestic and imported nuclear reactors.
-
-**Status:** Verified routed objective concept; no unavailable answer key is inferred.
-
-**Model solution:** **DAE-BARC boundary:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Operator-regulator boundary:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Legal-status boundary:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Volatile nuclear boundary:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2020 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **DAE-BARC boundary:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Operator-regulator boundary:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Legal-status boundary:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Volatile nuclear boundary:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: IAEA safeguards on domestic and imported nuclear reactors. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed objective concept; no unavailable answer key is inferred. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **DAE-BARC boundary:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Operator-regulator boundary:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Legal-status boundary:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Volatile nuclear boundary:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
+### Original Mains 1 — 10 marks
 **Question:** Distinguish first criticality, grid synchronisation, installed capacity and generation. Answer in about 150 words.
+**Model answer:** First criticality is a controlled, self-sustaining fission chain reaction: effective neutron multiplication is approximately one. It is a commissioning milestone, not the start of electricity sales. Grid synchronisation occurs when the plant’s generator is matched and connected to the electrical network. Installed capacity, expressed in MW, is the rated instantaneous power of the plant; it is not proof that the reactor has operated at that level. Generation, measured as energy over a stated interval, depends on actual output and time. The dated DAE account records PFBR first criticality on 6 April 2026; it does not establish synchronisation or commercial service. Similarly, a fleet capacity quoted from a dated parliamentary reply is not a statement of electricity generated that year. An accurate answer identifies the date, plant and unit alongside the milestone. Confusing physics, grid delivery, nameplate rating and actual energy misrepresents the pace of India’s breeder programme.
 
-**Model thesis:** **Claim:** Fission-power chain. **Named evidence/example:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
+### Original Mains 2 — 10 marks
+**Question:** Explain the fissile-fertile distinction in India’s three-stage programme. Answer in about 150 words.
+**Model answer:** Fissile materials such as U-235, Pu-239 and U-233 can sustain a chain reaction with slow neutrons. Fertile U-238 and Th-232 need neutron capture and subsequent nuclear transformations to become useful fissile material. Stage 1 Indian PHWRs use natural uranium with heavy-water moderation and generate electricity while producing plutonium-bearing spent fuel. Reprocessing can recover material for Stage 2 plutonium-fuelled fast breeders; their U-238 blankets can generate additional plutonium. A thorium blanket can yield U-233, creating feedstock for the long-term thorium-linked Stage 3. This does not mean that mined thorium is ready-made fuel: a fissile starter, adequate neutron supply, chemical processing and remote fabrication are necessary. U-232 contamination makes recovered U-233 difficult to handle. The distinction explains the sequence of the three stages and why India’s thorium resource advantage is strategic potential, not evidence of an operating thorium fleet.
 
-**Claim → named evidence → analysis → qualification:**
-
-- Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation.
-- Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-- The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-- Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-
-**Qualified conclusion:** **Claim:** Fission-power chain. **Named evidence/example:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish first criticality, grid synchronisation, installed capacity and generation.…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fission-power chain. **Named evidence/example:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Fission-power chain. **Named evidence/example:** Nuclear fission splits a heavy nucleus, releases heat and neutrons, transfers heat through coolant, makes steam and drives a turbine-generator; installed reactor capacity is not electrical generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish first criticality, grid synchronisation, installed capacity and generation.…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain the fissile-fertile distinction in India's three-stage programme. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-- Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-- Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-- Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-- Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-
-**Qualified conclusion:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the fissile-fertile distinction in India's three-stage programme. Answer in about 150…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain the fissile-fertile distinction in India's three-stage programme. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
+### Original Mains 3 — 15 marks
 **Question:** Explain how Stage 1 creates the material bridge to Stage 2. Answer in about 250 words.
+**Model answer:** The three-stage strategy is a materials pathway, not three interchangeable reactor labels. In Stage 1, pressurised heavy-water reactors use natural uranium, with heavy water helping preserve neutron economy through moderation and cooling. U-235 supports fission and electricity production while some fertile U-238 absorbs neutrons and produces plutonium in the irradiated fuel. Spent assemblies, however, are not fresh breeder fuel. They must be cooled, safely transported and reprocessed to recover suitable fissile streams, then fabricated into fuel appropriate for a fast reactor. Stage 2 uses plutonium-bearing driver fuel and a fast-neutron spectrum, deliberately omitting a moderator. Fertile blankets can absorb neutrons and produce more fissile material, including Pu-239 from U-238 and potentially U-233 from thorium. That conversion depends on neutron economy, actual breeding performance and subsequent chemical recovery. PFBR at Kalpakkam was designed by IGCAR and built by BHAVINI; its dated first criticality in April 2026 demonstrated a controlled chain reaction, not commercial electricity delivery or an operational breeder fleet. Supply-chain roles include UCIL for uranium mining, NFC for fuel fabrication, BARC and IGCAR for research, and BHAVINI for project execution. Reprocessing capacity, sodium safety, fabrication and waste handling make the bridge technically and institutionally demanding. Without these facilities and demonstrated repeated cycles, Stage-1 plutonium production alone cannot guarantee a scalable Stage-2 programme.
 
-**Model thesis:** **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-- Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-- Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-- A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-
-**Qualified conclusion:** **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how Stage 1 creates the material bridge to Stage 2. Answer in about 250 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain how Stage 1 creates the material bridge to Stage 2. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
+### Original Mains 4 — 15 marks
 **Question:** Assess PFBR as a Stage-2 milestone without overstating deployment. Answer in about 250 words.
+**Model answer:** The Prototype Fast Breeder Reactor at Kalpakkam is central to India’s proposed expansion of fissile resources after natural-uranium PHWR operation. Its fast-neutron design has no moderator; liquid sodium removes heat while fertile blankets can breed additional fissile nuclides. The project differentiates institutional tasks: IGCAR developed its fast-reactor design and sodium expertise, whereas BHAVINI builds and is assigned operation of PFBR. The official DAE source reports first criticality on 6 April 2026, a genuinely important demonstration of a controlled self-sustaining chain reaction. That physics event does not by itself show turbine operation, grid synchronisation, commercial generation or a fleet of breeders. Each would require separate dated evidence. Technical scaling faces sodium’s chemical reactivity with air and water, materials durability, fuel fabrication and reprocessing. Producing fissile material in blankets is useful only when recovered, qualified and returned through a safe fuel cycle. Regulatory review, emergency preparedness, costs and waste handling also determine whether a prototype can become repeatable capacity. PFBR therefore represents a Stage-2 commissioning milestone rather than completed Stage 2 or automatically realised thorium utilisation. Its importance is the opportunity to validate reactor physics and integrated engineering; its limitations are the unproven subsequent operational and material-cycle steps in the cited record.
 
-**Model thesis:** **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
+### Original Mains 5 — 20 marks
+**Question:** Evaluate India’s three-stage programme as a closed fuel-cycle strategy. Answer in about 250 words.
+**Model answer:** Homi Bhabha’s strategy responds to India’s uranium constraints and relatively strong thorium potential by linking materials across reactor generations. Stage 1 natural-uranium PHWRs produce firm electricity and plutonium-bearing spent fuel. Cooling and reprocessing recover material for Stage 2 fast breeders, which use a plutonium-based fissile driver and fertile blankets to enlarge fissile inventory. A U-238 blanket can yield Pu-239; thorium irradiation can eventually yield U-233 for Stage 3. Thorium itself is fertile, not self-sustaining fissile feed. A credible closed cycle thus needs irradiated-fuel handling, chemical separation, remote fuel fabrication, qualified reactor reuse and waste management. U-232 impurities in the U-233 stream create intense gamma-handling challenges. Fast sodium cooling introduces fire and materials constraints; fuel-cycle loss and high capital costs may limit scale. The reactor fleet also needs safety oversight and reliable electrical delivery, not just physics demonstrations. PFBR first criticality in April 2026 is a Stage-2 prototype milestone; it does not prove grid sales or mass breeding. AHWR remains a thorium-oriented design rather than an operating Stage-3 unit in the canonical source. Judge the programme by verified fissile production, safe reprocessing, commissioned facilities and actual energy generation at dated milestones. This avoids both dismissing long-term resource strategy and presenting a fertile mineral deposit as immediately usable electricity.
 
-**Claim → named evidence → analysis → qualification:**
-
-- Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation.
-- Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-- Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-- The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation.
-- IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-- Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-
-**Qualified conclusion:** **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess PFBR as a Stage-2 milestone without overstating deployment. Answer in about 250 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Criticality boundary. **Named evidence/example:** Criticality means a self-sustaining controlled chain reaction with effective neutron multiplication near unity; first criticality is not grid synchronisation, rated power or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** PFBR-status boundary. **Named evidence/example:** The 500 MWe PFBR at Kalpakkam was designed by IGCAR, built and commissioned by BHAVINI, and attained first criticality on 6 April 2026; the fetched DAE source did not establish grid or commercial operation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Assess PFBR as a Stage-2 milestone without overstating deployment. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate India's three-stage programme as a closed fuel-cycle strategy. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Fuel-chain boundary. **Named evidence/example:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel.
-- Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy.
-- Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states.
-- Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet.
-- Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium.
-- Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints.
-- A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop.
-- UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages.
-
-**Qualified conclusion:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Fuel-chain boundary. **Named evidence/example:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's three-stage programme as a closed fuel-cycle strategy. Answer in about 300…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Fuel-chain boundary. **Named evidence/example:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Fissile-fertile boundary. **Named evidence/example:** U-235, Pu-239 and U-233 are fissile, while U-238 and Th-232 are fertile materials that can breed fissile nuclides; fertile material is not ready-to-use fissile fuel. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-1 boundary. **Named evidence/example:** Stage 1 centres on Pressurised Heavy Water Reactors using natural uranium and heavy water, producing electricity and plutonium-bearing spent fuel for the closed-cycle strategy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Plutonium-stream boundary. **Named evidence/example:** Plutonium used for the breeder bridge is recovered from irradiated Stage-1 fuel through reprocessing; spent fuel, separated fissile material and fresh reactor fuel are distinct material states. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-2 boundary. **Named evidence/example:** Stage 2 centres on fast breeder reactors using plutonium-bearing fuel and fertile blankets to expand fissile resources; one prototype milestone is not an operational breeder fleet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Stage-3 boundary. **Named evidence/example:** Stage 3 is the long-term thorium-U-233 utilisation horizon; it depends on prior fissile inventory, irradiation, reprocessing and fuel fabrication rather than direct burning of mined thorium. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thorium-U233 boundary. **Named evidence/example:** Th-232 absorbs a neutron and ultimately yields fissile U-233, while U-232 contamination complicates handling through intense gamma-emitting decay products; thorium abundance does not remove engineering constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Closed-cycle boundary. **Named evidence/example:** A closed fuel cycle links irradiation, cooling, reprocessing, remote fuel fabrication, reactor reuse and waste management; breeder scaling depends on the whole material loop. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Fuel-chain boundary. **Named evidence/example:** UCIL mines and mills uranium, NFC fabricates fuel and reactor components, and IREL processes monazite associated with thorium and rare earths; resource, fabrication and reactor operation are separate stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate India's three-stage programme as a closed fuel-cycle strategy. Answer in about 300…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Analyse nuclear expansion through reactor choice, institutions, regulation and legal-status discipline. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Control-safety boundary. **Named evidence/example:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DAE-BARC boundary. **Named evidence/example:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Operator-regulator boundary. **Named evidence/example:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Reactor-type boundary. **Named evidence/example:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Legal-status boundary. **Named evidence/example:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile nuclear boundary. **Named evidence/example:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable.
-- Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast.
-- DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct.
-- NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged.
-- IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR.
-- PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant.
-- Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones.
-- Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect.
-- Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone.
-
-**Qualified conclusion:** **Claim:** Control-safety boundary. **Named evidence/example:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DAE-BARC boundary. **Named evidence/example:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Operator-regulator boundary. **Named evidence/example:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Reactor-type boundary. **Named evidence/example:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Legal-status boundary. **Named evidence/example:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile nuclear boundary. **Named evidence/example:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse nuclear expansion through reactor choice, institutions, regulation and legal-status…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Control-safety boundary. **Named evidence/example:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DAE-BARC boundary. **Named evidence/example:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Operator-regulator boundary. **Named evidence/example:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Reactor-type boundary. **Named evidence/example:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Legal-status boundary. **Named evidence/example:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile nuclear boundary. **Named evidence/example:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-9. **Claim and named evidence:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Control-safety boundary. **Named evidence/example:** Control rods absorb neutrons to regulate the reaction, a moderator slows neutrons in thermal reactors, coolant removes heat, and containment limits release; these functions are not interchangeable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Thermal-fast boundary. **Named evidence/example:** Thermal reactors use moderated slower neutrons, whereas fast breeder reactors deliberately avoid a moderator and retain a fast-neutron spectrum; coolant choice does not itself make a reactor thermal or fast. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DAE-BARC boundary. **Named evidence/example:** DAE provides the governmental policy and strategic umbrella, while BARC performs reactor, fuel-cycle and advanced-concept R&D; policy direction and laboratory execution are distinct. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Operator-regulator boundary. **Named evidence/example:** NPCIL develops and operates commercial civilian nuclear plants, while AERB performs safety review and regulatory oversight; operator and regulator must never be merged. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IGCAR-BHAVINI boundary. **Named evidence/example:** IGCAR is the fast-reactor and sodium-technology R&D and design centre, while BHAVINI is the public-sector project execution and operating company for PFBR. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Reactor-type boundary. **Named evidence/example:** PHWR, PWR, BWR, FBR, AHWR and small-reactor concepts differ in moderator, coolant, fuel, neutron spectrum and development status; a design concept is not an operating plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Capacity-generation boundary. **Named evidence/example:** Installed megawatt capacity, first criticality, grid synchronisation, commercial operation and electricity generated over time are different measures and milestones. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Legal-status boundary. **Named evidence/example:** Atomic-energy ownership, civil liability and safety regulation are different legal domains; an enacted replacement framework does not repeal existing law until its commencement provisions take effect. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile nuclear boundary. **Named evidence/example:** Fleet size, capacity, generation, fuel inventory, reactor status, legal commencement, cost and schedule require dated DAE, NPCIL, AERB or statutory evidence and must not be inferred from a milestone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse nuclear expansion through reactor choice, institutions, regulation and legal-status…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+### Original Mains 6 — 20 marks
+**Question:** Analyse nuclear expansion through reactor choice, institutions, regulation and legal-status discipline. Answer in about 250 words.
+**Model answer:** Indian nuclear expansion combines current reactor production with a longer-term fuel-cycle ambition. Natural-uranium PHWRs anchor the indigenous fleet; BWR and PWR designs use different light-water circuits and fuel requirements, while a sodium-cooled, unmoderated fast breeder serves a separate Stage-2 objective. AHWR is a thorium-oriented design; BSR and BSMR-200 were distinct developmental small-reactor pathways, not completed plants in the source. DAE provides policy direction, BARC and IGCAR research, UCIL mining, NFC fabrication, BHAVINI PFBR execution and NPCIL commercial nuclear generation. AERB reviews plant safety, although its institutional independence has faced criticism. Internationally, the 123 Agreement and 2008 NSG waiver facilitate civilian cooperation, with IAEA safeguards applying to designated civilian facilities rather than every strategic installation. Legal reform must be stated precisely: the Atomic Energy Act 1962 and Civil Liability for Nuclear Damage Act 2010 remain operative until replacement provisions are commenced; Section 17(b) supplier recourse is a separate liability question. A newly enacted instrument without proven commencement cannot be treated as having already displaced existing law. Nuclear power provides firm low-carbon electricity but entails capital cost, water and site needs, waste and public confidence. State plant counts, capacity, first criticality, grid connection and generation with dates and inclusion rules. An expansion strategy depends on proven performance and public safety, not a prototype or statutory announcement alone.

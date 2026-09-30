@@ -4,7 +4,7 @@
 
 ## BASIC MCQS / REMEDIATION
 
-**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers follow `ABCD` repeated eight times. Every option has a substantive, option-specific explanation and every question has a unique examiner trap.
+**Practice:** Attempt all 32 original questions before consulting the separate explanatory key. Correct positions rotate A → B → C → D.
 
 ### MCQ 1
 
@@ -14,6 +14,289 @@ A fall in the inflation rate from 8 per cent to 5 per cent while the CPI still r
 - B. deflation
 - C. reflation
 - D. hyperinflation
+
+### MCQ 2
+
+Which description is most accurate?
+
+- A. Reflation is any increase in inflation
+- B. Stagflation combines inflation with weak growth or high unemployment
+- C. Deflation means slower inflation
+- D. Hyperinflation is a one-off food spike
+
+### MCQ 3
+
+A broad rise in wages and mark-ups after repeated food shocks is best described as
+
+- A. a pure base effect
+- B. deflationary adjustment
+- C. second-round or built-in inflation
+- D. a change in GDP accounting
+
+### MCQ 4
+
+Which statement about core inflation is correct?
+
+- A. It is always below headline inflation
+- B. It is MoSPI's only legally targeted index
+- C. It excludes every service price
+- D. It is an analytical exclusion measure whose definition must be stated
+
+### MCQ 5
+
+Under MoSPI's current CPI series introduced on 12 February 2026, the base is
+
+- A. 2024=100
+- B. 2012=100
+- C. 2022-23=100
+- D. 2016=100
+
+### MCQ 6
+
+The expenditure weights of CPI 2024 are primarily derived from
+
+- A. Annual Survey of Industries 2023-24
+- B. Household Consumption Expenditure Survey 2023-24
+- C. National Accounts Supply Table 2022-23
+- D. Working Class Family Income and Expenditure Survey 2016
+
+### MCQ 7
+
+Which combination states MoSPI's CPI 2024 aggregation methods correctly?
+
+- A. Arithmetic mean at every level
+- B. Paasche below and Fisher above
+- C. Jevons at elementary level and Young/Modified Laspeyres at higher level
+- D. GDP deflator below and WPI above
+
+### MCQ 8
+
+CPI Combined is produced by
+
+- A. using only urban outlets
+- B. adding CPI Rural and Urban without weights
+- C. using WPI weights for common commodities
+- D. combining rural and urban indices with their corresponding weights
+
+### MCQ 9
+
+The Consumer Food Price Index is best understood as
+
+- A. a food-focused index within the consumer-price system
+- B. WPI Food Index under a different name
+- C. core inflation excluding services
+- D. a GDP-deflator component
+
+### MCQ 10
+
+Which pairing is correct as checked on 9 September 2026?
+
+- A. CPI-IW: MoSPI, base 2024
+- B. CPI-IW: Labour Bureau, base 2016
+- C. CPI-AL: RBI, base 2019
+- D. CPI-RL: OEA, base 2022-23
+
+### MCQ 11
+
+What distinguishes CPI-AL from CPI-RL?
+
+- A. One contains only food and the other only services
+- B. One is monthly and the other annual
+- C. They represent agricultural-labour and broader rural-labour household baskets respectively
+- D. They use WPI commodity weights
+
+### MCQ 12
+
+Why can CPI-IW-linked dearness allowance fail to protect every worker?
+
+- A. CPI-IW contains no food
+- B. It is a wholesale index
+- C. It has no base year
+- D. Coverage, basket and indexation apply mainly to specified organised groups, not all informal workers
+
+### MCQ 13
+
+Which institution compiles India's WPI?
+
+- A. Office of Economic Adviser, DPIIT
+- B. National Statistical Office alone
+- C. Reserve Bank of India
+- D. Labour Bureau
+
+### MCQ 14
+
+Under the WPI 2022-23 series released for May 2026, which major group has the largest weight?
+
+- A. Primary Articles
+- B. Manufactured Products
+- C. Fuel and Power
+- D. Services
+
+### MCQ 15
+
+Which statement about WPI is correct?
+
+- A. It is the household cost-of-living index
+- B. It includes all services through Service PPI
+- C. It is a goods-only wholesale/basic-price architecture and Service PPIs are separate
+- D. It is the statutory inflation target
+
+### MCQ 16
+
+The official 15 June 2026 transition statement implies that
+
+- A. WPI ceased immediately in May 2026
+- B. only the old WPI base remains valid
+- C. PPI was abandoned
+- D. WPI and PPI coexist for five years before the announced WPI discontinuation
+
+### MCQ 17
+
+The GDP deflator is calculated as
+
+- A. nominal GDP divided by real GDP, multiplied by 100
+- B. CPI divided by WPI
+- C. real GDP divided by nominal GDP
+- D. exports divided by imports
+
+### MCQ 18
+
+Which item is directly outside the GDP deflator's domestic-production boundary?
+
+- A. A domestically produced exported machine
+- B. An imported final consumer good
+- C. A government-produced service
+- D. A domestically produced construction service
+
+### MCQ 19
+
+A Laspeyres price index uses
+
+- A. current quantities in both periods
+- B. no quantity weights
+- C. base-period quantities as weights
+- D. the geometric mean of two price indices by definition
+
+### MCQ 20
+
+The Fisher ideal index equals
+
+- A. Laspeyres minus Paasche
+- B. Paasche divided by Laspeyres
+- C. the arithmetic mean of current and base prices
+- D. the square root of the product of Laspeyres and Paasche
+
+### MCQ 21
+
+A standard substitution-bias concern with a fixed base basket is that it may
+
+- A. miss consumers shifting away from relatively costlier items
+- B. exclude all services automatically
+- C. convert retail prices into wholesale prices
+- D. make the index equal the GDP deflator
+
+### MCQ 22
+
+A favourable base effect can reduce year-on-year inflation even when
+
+- A. the current price index is zero
+- B. the current month's price level has not fallen
+- C. all item weights are removed
+- D. nominal GDP equals real GDP
+
+### MCQ 23
+
+Which is a quality-change problem for inflation measurement?
+
+- A. A policy-rate vote
+- B. A fiscal deficit
+- C. A new phone model offers much greater capability at a higher price
+- D. A fall in unemployment
+
+### MCQ 24
+
+Why should old-base and new-base index levels not be directly spliced?
+
+- A. Because inflation cannot be measured after rebasing
+- B. Because every rebasing lowers inflation
+- C. Because official back series are illegal
+- D. Because baskets, weights and methods can differ across the series break
+
+### MCQ 25
+
+Using the Fisher approximation, an 8 per cent nominal interest rate and 5 per cent expected inflation imply an ex ante real rate of about
+
+- A. 3 per cent
+- B. 13 per cent
+- C. 5 per cent
+- D. -3 per cent
+
+### MCQ 26
+
+Unexpected inflation under a fixed-rate nominal loan generally
+
+- A. benefits the lender because money gains purchasing power
+- B. reduces the real burden on the borrower and the real return to the lender
+- C. leaves both parties unaffected
+- D. guarantees the borrower a higher income
+
+### MCQ 27
+
+Inflation tax most directly describes
+
+- A. a statutory surcharge on capital gains
+- B. every increase in indirect tax
+- C. erosion of the real value of non-interest-bearing money balances
+- D. the RBI's policy rate
+
+### MCQ 28
+
+Which statement about indexed contracts is strongest?
+
+- A. They eliminate every distributional effect of inflation
+- B. They always use WPI
+- C. They guarantee a positive real return
+- D. They reduce exposure to the named index but retain basis, lag and coverage risks
+
+### MCQ 29
+
+The expectations-augmented Phillips curve implies that
+
+- A. a short-run trade-off may exist, but it cannot be permanently exploited after expectations adjust
+- B. higher inflation permanently fixes structural unemployment
+- C. supply shocks always reduce inflation
+- D. the long-run curve is horizontal
+
+### MCQ 30
+
+NAIRU is best described as
+
+- A. the legally mandated minimum unemployment rate
+- B. an estimated unemployment rate consistent with non-accelerating inflation
+- C. the unemployment rate at every trough
+- D. the same as zero unemployment
+
+### MCQ 31
+
+Which phase sequence is a valid stylised business cycle?
+
+- A. Peak -> expansion -> recovery -> trough
+- B. Recovery -> recession -> expansion -> peak
+- C. Trough -> recovery -> expansion -> peak -> contraction
+- D. Inflation -> CPI -> WPI -> GDP
+
+### MCQ 32
+
+Why is the two-negative-quarter rule insufficient by itself for India?
+
+- A. India has no quarterly GDP estimates
+- B. Only WPI can date a recession
+- C. Annual growth can never be used
+- D. Seasonal adjustment, breadth, revisions and the absence of one statutory dating committee require a wider dashboard
+
+## ORIGINAL MCQ EXPLANATORY KEY
+
+### MCQ 1 — solution
 
 **Answer: A.**
 
@@ -26,14 +309,7 @@ A fall in the inflation rate from 8 per cent to 5 per cent while the CPI still r
 
 **Examiner trap 1:** A lower inflation rate is not a lower price level.
 
-### MCQ 2
-
-Which description is most accurate?
-
-- A. Reflation is any increase in inflation
-- B. Stagflation combines inflation with weak growth or high unemployment
-- C. Deflation means slower inflation
-- D. Hyperinflation is a one-off food spike
+### MCQ 2 — solution
 
 **Answer: B.**
 
@@ -46,14 +322,7 @@ Which description is most accurate?
 
 **Examiner trap 2:** Stagflation invalidates the assumption that inflation always signals excess demand.
 
-### MCQ 3
-
-A broad rise in wages and mark-ups after repeated food shocks is best described as
-
-- A. a pure base effect
-- B. deflationary adjustment
-- C. second-round or built-in inflation
-- D. a change in GDP accounting
+### MCQ 3 — solution
 
 **Answer: C.**
 
@@ -66,14 +335,7 @@ A broad rise in wages and mark-ups after repeated food shocks is best described 
 
 **Examiner trap 3:** Separate the first-round commodity shock from second-round generalisation.
 
-### MCQ 4
-
-Which statement about core inflation is correct?
-
-- A. It is always below headline inflation
-- B. It is MoSPI's only legally targeted index
-- C. It excludes every service price
-- D. It is an analytical exclusion measure whose definition must be stated
+### MCQ 4 — solution
 
 **Answer: D.**
 
@@ -86,14 +348,7 @@ Which statement about core inflation is correct?
 
 **Examiner trap 4:** Never use core inflation without specifying what has been excluded.
 
-### MCQ 5
-
-Under MoSPI's current CPI series introduced on 12 February 2026, the base is
-
-- A. 2024=100
-- B. 2012=100
-- C. 2022-23=100
-- D. 2016=100
+### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -106,14 +361,7 @@ Under MoSPI's current CPI series introduced on 12 February 2026, the base is
 
 **Examiner trap 5:** Keep CPI, WPI and labour-index base years separate.
 
-### MCQ 6
-
-The expenditure weights of CPI 2024 are primarily derived from
-
-- A. Annual Survey of Industries 2023-24
-- B. Household Consumption Expenditure Survey 2023-24
-- C. National Accounts Supply Table 2022-23
-- D. Working Class Family Income and Expenditure Survey 2016
+### MCQ 6 — solution
 
 **Answer: B.**
 
@@ -126,14 +374,7 @@ The expenditure weights of CPI 2024 are primarily derived from
 
 **Examiner trap 6:** A base year and a weight-reference survey are related but distinct facts.
 
-### MCQ 7
-
-Which combination states MoSPI's CPI 2024 aggregation methods correctly?
-
-- A. Arithmetic mean at every level
-- B. Paasche below and Fisher above
-- C. Jevons at elementary level and Young/Modified Laspeyres at higher level
-- D. GDP deflator below and WPI above
+### MCQ 7 — solution
 
 **Answer: C.**
 
@@ -146,14 +387,7 @@ Which combination states MoSPI's CPI 2024 aggregation methods correctly?
 
 **Examiner trap 7:** Do not replace the official two-level formula with a generic textbook label.
 
-### MCQ 8
-
-CPI Combined is produced by
-
-- A. using only urban outlets
-- B. adding CPI Rural and Urban without weights
-- C. using WPI weights for common commodities
-- D. combining rural and urban indices with their corresponding weights
+### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -166,14 +400,7 @@ CPI Combined is produced by
 
 **Examiner trap 8:** Combined does not mean a simple arithmetic average.
 
-### MCQ 9
-
-The Consumer Food Price Index is best understood as
-
-- A. a food-focused index within the consumer-price system
-- B. WPI Food Index under a different name
-- C. core inflation excluding services
-- D. a GDP-deflator component
+### MCQ 9 — solution
 
 **Answer: A.**
 
@@ -186,14 +413,7 @@ The Consumer Food Price Index is best understood as
 
 **Examiner trap 9:** CFPI and WPI Food Index belong to different price stages and baskets.
 
-### MCQ 10
-
-Which pairing is correct as checked on 9 September 2026?
-
-- A. CPI-IW: MoSPI, base 2024
-- B. CPI-IW: Labour Bureau, base 2016
-- C. CPI-AL: RBI, base 2019
-- D. CPI-RL: OEA, base 2022-23
+### MCQ 10 — solution
 
 **Answer: B.**
 
@@ -206,14 +426,7 @@ Which pairing is correct as checked on 9 September 2026?
 
 **Examiner trap 10:** Match each specialised CPI to its compiler and reference population.
 
-### MCQ 11
-
-What distinguishes CPI-AL from CPI-RL?
-
-- A. One contains only food and the other only services
-- B. One is monthly and the other annual
-- C. They represent agricultural-labour and broader rural-labour household baskets respectively
-- D. They use WPI commodity weights
+### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -226,14 +439,7 @@ What distinguishes CPI-AL from CPI-RL?
 
 **Examiner trap 11:** Similar rural names do not make the reference populations identical.
 
-### MCQ 12
-
-Why can CPI-IW-linked dearness allowance fail to protect every worker?
-
-- A. CPI-IW contains no food
-- B. It is a wholesale index
-- C. It has no base year
-- D. Coverage, basket and indexation apply mainly to specified organised groups, not all informal workers
+### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -246,14 +452,7 @@ Why can CPI-IW-linked dearness allowance fail to protect every worker?
 
 **Examiner trap 12:** An indexation mechanism protects only those covered by its contract and lag.
 
-### MCQ 13
-
-Which institution compiles India's WPI?
-
-- A. Office of Economic Adviser, DPIIT
-- B. National Statistical Office alone
-- C. Reserve Bank of India
-- D. Labour Bureau
+### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -266,14 +465,7 @@ Which institution compiles India's WPI?
 
 **Examiner trap 13:** Policy user and statistical compiler are different roles.
 
-### MCQ 14
-
-Under the WPI 2022-23 series released for May 2026, which major group has the largest weight?
-
-- A. Primary Articles
-- B. Manufactured Products
-- C. Fuel and Power
-- D. Services
+### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -286,14 +478,7 @@ Under the WPI 2022-23 series released for May 2026, which major group has the la
 
 **Examiner trap 14:** A goods-only index can still have a dominant manufactured-products weight.
 
-### MCQ 15
-
-Which statement about WPI is correct?
-
-- A. It is the household cost-of-living index
-- B. It includes all services through Service PPI
-- C. It is a goods-only wholesale/basic-price architecture and Service PPIs are separate
-- D. It is the statutory inflation target
+### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -306,14 +491,7 @@ Which statement about WPI is correct?
 
 **Examiner trap 15:** Do not smuggle separate PPI services into the WPI basket.
 
-### MCQ 16
-
-The official 15 June 2026 transition statement implies that
-
-- A. WPI ceased immediately in May 2026
-- B. only the old WPI base remains valid
-- C. PPI was abandoned
-- D. WPI and PPI coexist for five years before the announced WPI discontinuation
+### MCQ 16 — solution
 
 **Answer: D.**
 
@@ -326,14 +504,7 @@ The official 15 June 2026 transition statement implies that
 
 **Examiner trap 16:** State an announced transition as dated status, not as a completed future event.
 
-### MCQ 17
-
-The GDP deflator is calculated as
-
-- A. nominal GDP divided by real GDP, multiplied by 100
-- B. CPI divided by WPI
-- C. real GDP divided by nominal GDP
-- D. exports divided by imports
+### MCQ 17 — solution
 
 **Answer: A.**
 
@@ -346,14 +517,7 @@ The GDP deflator is calculated as
 
 **Examiner trap 17:** Use consistent current-price and constant-price GDP vintages.
 
-### MCQ 18
-
-Which item is directly outside the GDP deflator's domestic-production boundary?
-
-- A. A domestically produced exported machine
-- B. An imported final consumer good
-- C. A government-produced service
-- D. A domestically produced construction service
+### MCQ 18 — solution
 
 **Answer: B.**
 
@@ -366,14 +530,7 @@ Which item is directly outside the GDP deflator's domestic-production boundary?
 
 **Examiner trap 18:** The GDP deflator follows production, not residents' purchases.
 
-### MCQ 19
-
-A Laspeyres price index uses
-
-- A. current quantities in both periods
-- B. no quantity weights
-- C. base-period quantities as weights
-- D. the geometric mean of two price indices by definition
+### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -386,14 +543,7 @@ A Laspeyres price index uses
 
 **Examiner trap 19:** The basket period, not merely the price period, identifies the formula.
 
-### MCQ 20
-
-The Fisher ideal index equals
-
-- A. Laspeyres minus Paasche
-- B. Paasche divided by Laspeyres
-- C. the arithmetic mean of current and base prices
-- D. the square root of the product of Laspeyres and Paasche
+### MCQ 20 — solution
 
 **Answer: D.**
 
@@ -406,14 +556,7 @@ The Fisher ideal index equals
 
 **Examiner trap 20:** Fisher's symmetry comes with greater current-quantity data needs.
 
-### MCQ 21
-
-A standard substitution-bias concern with a fixed base basket is that it may
-
-- A. miss consumers shifting away from relatively costlier items
-- B. exclude all services automatically
-- C. convert retail prices into wholesale prices
-- D. make the index equal the GDP deflator
+### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -426,14 +569,7 @@ A standard substitution-bias concern with a fixed base basket is that it may
 
 **Examiner trap 21:** Substitution bias is about behaviour after relative-price change.
 
-### MCQ 22
-
-A favourable base effect can reduce year-on-year inflation even when
-
-- A. the current price index is zero
-- B. the current month's price level has not fallen
-- C. all item weights are removed
-- D. nominal GDP equals real GDP
+### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -446,14 +582,7 @@ A favourable base effect can reduce year-on-year inflation even when
 
 **Examiner trap 22:** Base arithmetic changes a rate, not the accumulated cost of living.
 
-### MCQ 23
-
-Which is a quality-change problem for inflation measurement?
-
-- A. A policy-rate vote
-- B. A fiscal deficit
-- C. A new phone model offers much greater capability at a higher price
-- D. A fall in unemployment
+### MCQ 23 — solution
 
 **Answer: C.**
 
@@ -466,14 +595,7 @@ Which is a quality-change problem for inflation measurement?
 
 **Examiner trap 23:** A new product's higher sticker price is not automatically pure inflation.
 
-### MCQ 24
-
-Why should old-base and new-base index levels not be directly spliced?
-
-- A. Because inflation cannot be measured after rebasing
-- B. Because every rebasing lowers inflation
-- C. Because official back series are illegal
-- D. Because baskets, weights and methods can differ across the series break
+### MCQ 24 — solution
 
 **Answer: D.**
 
@@ -486,14 +608,7 @@ Why should old-base and new-base index levels not be directly spliced?
 
 **Examiner trap 24:** A base revision is a measurement update, not a price shock.
 
-### MCQ 25
-
-Using the Fisher approximation, an 8 per cent nominal interest rate and 5 per cent expected inflation imply an ex ante real rate of about
-
-- A. 3 per cent
-- B. 13 per cent
-- C. 5 per cent
-- D. -3 per cent
+### MCQ 25 — solution
 
 **Answer: A.**
 
@@ -506,14 +621,7 @@ Using the Fisher approximation, an 8 per cent nominal interest rate and 5 per ce
 
 **Examiner trap 25:** Ex ante real interest uses expected, not necessarily realised, inflation.
 
-### MCQ 26
-
-Unexpected inflation under a fixed-rate nominal loan generally
-
-- A. benefits the lender because money gains purchasing power
-- B. reduces the real burden on the borrower and the real return to the lender
-- C. leaves both parties unaffected
-- D. guarantees the borrower a higher income
+### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -526,14 +634,7 @@ Unexpected inflation under a fixed-rate nominal loan generally
 
 **Examiner trap 26:** The redistribution result changes for floating-rate or indexed contracts.
 
-### MCQ 27
-
-Inflation tax most directly describes
-
-- A. a statutory surcharge on capital gains
-- B. every increase in indirect tax
-- C. erosion of the real value of non-interest-bearing money balances
-- D. the RBI's policy rate
+### MCQ 27 — solution
 
 **Answer: C.**
 
@@ -546,14 +647,7 @@ Inflation tax most directly describes
 
 **Examiner trap 27:** Inflation tax is an economic incidence, not necessarily a tax statute.
 
-### MCQ 28
-
-Which statement about indexed contracts is strongest?
-
-- A. They eliminate every distributional effect of inflation
-- B. They always use WPI
-- C. They guarantee a positive real return
-- D. They reduce exposure to the named index but retain basis, lag and coverage risks
+### MCQ 28 — solution
 
 **Answer: D.**
 
@@ -566,14 +660,7 @@ Which statement about indexed contracts is strongest?
 
 **Examiner trap 28:** Indexation transfers index-design risk into the contract.
 
-### MCQ 29
-
-The expectations-augmented Phillips curve implies that
-
-- A. a short-run trade-off may exist, but it cannot be permanently exploited after expectations adjust
-- B. higher inflation permanently fixes structural unemployment
-- C. supply shocks always reduce inflation
-- D. the long-run curve is horizontal
+### MCQ 29 — solution
 
 **Answer: A.**
 
@@ -586,14 +673,7 @@ The expectations-augmented Phillips curve implies that
 
 **Examiner trap 29:** Short-run non-neutrality does not imply a permanent policy menu.
 
-### MCQ 30
-
-NAIRU is best described as
-
-- A. the legally mandated minimum unemployment rate
-- B. an estimated unemployment rate consistent with non-accelerating inflation
-- C. the unemployment rate at every trough
-- D. the same as zero unemployment
+### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -606,14 +686,7 @@ NAIRU is best described as
 
 **Examiner trap 30:** NAIRU is uncertain and can change with labour-market structure.
 
-### MCQ 31
-
-Which phase sequence is a valid stylised business cycle?
-
-- A. Peak -> expansion -> recovery -> trough
-- B. Recovery -> recession -> expansion -> peak
-- C. Trough -> recovery -> expansion -> peak -> contraction
-- D. Inflation -> CPI -> WPI -> GDP
+### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -626,14 +699,7 @@ Which phase sequence is a valid stylised business cycle?
 
 **Examiner trap 31:** Actual cycles are irregular even when the teaching sequence is stylised.
 
-### MCQ 32
-
-Why is the two-negative-quarter rule insufficient by itself for India?
-
-- A. India has no quarterly GDP estimates
-- B. Only WPI can date a recession
-- C. Annual growth can never be used
-- D. Seasonal adjustment, breadth, revisions and the absence of one statutory dating committee require a wider dashboard
+### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -646,18 +712,17 @@ Why is the two-negative-quarter rule insufficient by itself for India?
 
 **Examiner trap 32:** State whether growth is year-on-year or seasonally adjusted quarter-on-quarter.
 
-
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED PYQ ROUTES AND KEY DISCIPLINE
 
-The following seven demands are retained from the repository's audited routing ledgers and local official-paper OCR. No final official/local answer key is available here for the four objective questions, and UPSC does not publish official model answers for the three descriptive questions. Therefore every verified PYQ carries the exact withholding sentence rather than an inferred official answer.
+The following seven demands are retained from repository routing ledgers and locally held official papers. Final official keys for the four objective questions have not been verified here and are withheld; the three descriptive questions receive original practice model answers, not official UPSC keys.
 
 #### PYQ 1 - UPSC Mains 2019, GS Paper III, Question 2
 
 **Question:** Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments. (Answer in 150 words)
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** Steady real GDP growth alongside moderate inflation is favourable: higher output expands fiscal resources, while more stable prices protect real incomes and facilitate investment. It is not, however, a sufficient test of economic health. Growth can be concentrated in capital-intensive sectors while job creation and real wages lag. Low headline inflation may conceal high food prices for poorer households or reflect weak demand rather than productive supply gains. Stressed household balance sheets, weak private investment and financial-sector vulnerabilities can undermine future growth even as current aggregates appear sound. A stronger assessment would compare employment and labour participation, investment, credit quality, food and core inflation, real wages and regional distribution with output data. India must also assess whether public health, education and infrastructure convert expansion into productivity and capabilities. Thus the combination is necessary evidence of macroeconomic stability, not proof of inclusive or resilient growth.
 
 **Answer route:** Define the apparent favourable combination; test employment, investment, credit, distribution and sectoral balance; distinguish cyclical low inflation from demand weakness; conclude that headline aggregates require a broader macro dashboard.
 
@@ -726,7 +791,11 @@ Answer withheld pending official UPSC key.
 
 **Question:** Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. (Answer in 250 words)
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** Welfare transfers protect vulnerable households after a shock, but durable poverty reduction also requires stable purchasing power and remunerative work. Food inflation cuts the real income of poorer households disproportionately because necessities absorb a large budget share and informal wages rarely adjust immediately. Unemployment or underemployment removes both income and opportunities to acquire skills; a worker with a job but insufficient hours remains vulnerable.
+
+Policy must identify the source of inflation. A demand boom may call for calibrated fiscal and monetary restraint; a crop failure, fuel shock or distribution bottleneck needs storage, logistics, credible trade management and supply repair. RBI can anchor expectations and check second-round price rises but high rates alone cannot grow vegetables or mend cold chains. Excessively abrupt disinflation could also suppress job creation.
+
+Labour-intensive manufacturing and services, MSME credit with sound underwriting, skills matched to vacancies, women's access to work, and investment in basic infrastructure can raise employment and productive supply together. Targeted food and income protection can cushion the transition without replacing these macro and structural policies. Assess results using food and core inflation, real wages, employment quality and disaggregated poverty, not only a headline GDP or CPI rate. The required management is therefore complementary: stabilise prices without sacrificing the productive jobs on which sustained inclusion depends.
 
 **Answer route:** Link food-weighted real-income loss, unindexed informal work, the employment cost of blunt disinflation, supply repair, labour-intensive growth, skills and targeted protection.
 
@@ -734,7 +803,7 @@ Answer withheld pending official UPSC key.
 
 **Question:** What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation. (Answer in 150 words)
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** Persistent food inflation can arise from weather-driven crop losses, climate volatility, poor storage and cold-chain capacity, fragmented supply chains, volatile imports and inputs, and demand shifting toward products whose supply adjusts slowly. Repeated shocks can pass from food to wages and other prices through expectations. RBI's interest-rate policy can restrain general demand and keep those second-round effects from becoming entrenched; credible communication also helps anchor expected inflation. But a repo-rate increase does not directly restore a damaged crop or remove transport bottlenecks, and excessive tightening may weaken employment and farm investment. Price stability therefore requires coordinated supply measures—better storage and market access, productivity and irrigation, timely transparent trade policy and targeted support for those facing food-price shocks—alongside proportionate monetary action. Judge success by sustained food-price moderation without destabilising wider growth, not by assuming that a single interest-rate decision controls every food item.
 
 **Answer route:** Classify production, climate, storage, logistics, trade, imported-input and expectation channels; credit RBI for anchoring second-round effects but assign physical bottlenecks to fiscal and supply policy.
 

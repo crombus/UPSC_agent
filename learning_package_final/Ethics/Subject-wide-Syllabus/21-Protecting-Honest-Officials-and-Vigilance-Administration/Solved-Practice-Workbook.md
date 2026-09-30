@@ -12,827 +12,539 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+Choose the best response. All questions appear before the separately matched key. The last quarter comprises remedial applications.
+
 #### MCQ 1
 
-A loan approved after documented due diligence later defaults because of an unforeseen market shock. Which test prevents outcome bias from becoming a vigilance charge? Which source-grounded ethical principle most precisely explains the case?
+A bank officer approves a loan after documented due diligence, risk limits and committee review. The borrower later fails due to a sudden market shock. A rival demands a vigilance prosecution. What is the first ethical test?
 
-A. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-B. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-C. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-D. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-**Answer:** A
-**Explanation:** **A bad outcome does not by itself prove misconduct** is the controlling principle. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply the ARC's contemporary common-prudence, rules and organisational-interest test; an adverse result alone establishes no vigilance angle.
+B. Treat any monetary loss as conclusive evidence of corrupt intent.
+C. Exempt every loan decision categorically because commercial discretion is never reviewable.
+D. Demand the officer prove no future default was foreseeable under any circumstances.
 
 ---
 
 #### MCQ 2
 
-An officer bypasses mandatory checks to favour a connected borrower and later cites commercial risk. Which feature defeats a claim of bona fides? Which source-grounded ethical principle most precisely explains the case?
+A second loan was approved without mandatory checks; the approving officer concealed a relative's stake and invokes the same bona fides shield. Which approach best separates the two loans?
 
-A. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-B. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-C. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-D. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-**Answer:** B
-**Explanation:** **A bad outcome does not by itself prove misconduct** is the controlling principle. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply immunity to both officers because their approvals were formally signed.
+B. Verify the conflict, deviation and contemporaneous knowledge before action, while leaving the properly documented first loan outside suspicion based solely on default.
+C. Presume criminal guilt in both files because each produced loss.
+D. Ignore the undeclared relative because an officer's claimed good motive is sufficient.
 
 ---
 
 #### MCQ 3
 
-A department punishes every innovative decision that produces a loss. Which vigilance purpose identified by the Commission has been reversed? Which source-grounded ethical principle most precisely explains the case?
+An anonymous letter alleges an officer is corrupt without an identifiable transaction. Another complaint identifies a file, benefit trail, witnesses and date. How should vigilance screening differ?
 
-A. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-B. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-C. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-D. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-**Answer:** C
-**Explanation:** **Risk-taking is compatible with vigilance** is the controlling principle. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publicly charge the first officer because anonymity proves fear and therefore guilt.
+B. Reject the second complaint solely because it has not yet produced a conviction.
+C. Test specificity, credibility and verifiability; discretely check the second while refusing to treat a vague letter as proof or publish either as established guilt.
+D. Publish witnesses' identities to encourage more letters before checking records.
 
 ---
 
 #### MCQ 4
 
-A review distinguishes documented risk from concealed conflict and deliberate deviation. Which calibrated approach is being applied? Which source-grounded ethical principle most precisely explains the case?
+An office opens a very public corruption inquiry before securing tenders; staff stop processing citizens' applications and suspects remove records. Which alternative protects both investigation and continuity?
 
-A. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-B. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-C. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-D. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-**Answer:** D
-**Explanation:** **Risk-taking is compatible with vigilance** is the controlling principle. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Shut the whole office indefinitely until every employee is cleared.
+B. Keep the file secretly unresolved for years with no review.
+C. Announce guilt immediately to reassure citizens that action was taken.
+D. Authorise time-bounded confidential preliminary verification, secure records and maintain lawful service through untainted staff under documented safeguards.
 
 ---
 
 #### MCQ 5
 
-An officer claims good intent but kept no reasons and concealed a relative's interest. Which evidentiary weakness matters most? Which source-grounded ethical principle most precisely explains the case?
+An investigator evaluating a complex bridge design alleges conspiracy by everyone who signed the report after a collapse. What inquiry design is preferable?
 
-A. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-B. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-C. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-D. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-**Answer:** A
-**Explanation:** **Process evidence is central to bona fides** is the controlling principle. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use impartial technical experts and reconstruct each signatory's knowledge, duty, deviation, benefit and causal role before attributing misconduct.
+B. Impute identical criminal intent to all signatories solely from signatures.
+C. Allow the builder alone to choose the expert who determines every officer's liability.
+D. Close the case because technical decisions cannot ever conceal a bribe.
 
 ---
 
 #### MCQ 6
 
-A file records alternatives, expert advice, risk limits and dissent before the decision. How does this support honest decision-making? Which source-grounded ethical principle most precisely explains the case?
+Investigators seek police inquiry into a former officer's official-duty recommendation; after investigation, a court considers cognizance of a listed PC Act charge. What safeguard sequence applies?
 
-A. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-B. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-C. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-D. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-**Answer:** B
-**Explanation:** **Process evidence is central to bona fides** is the controlling principle. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply Section 19 before all information-gathering and disregard Section 17A.
+B. Test decision-linked Section 17A approval at enquiry/inquiry/investigation and separately test Section 19 sanction at the cognizance stage.
+C. Use Section 17A only after the court has convicted the officer.
+D. Exempt all former officers from both requirements regardless of facts.
 
 ---
 
 #### MCQ 7
 
-A rule shields senior officers from scrutiny but exposes junior officers for identical conduct. Which equality defect is present? Which source-grounded ethical principle most precisely explains the case?
+An investigator says every Joint Secretary remains protected by the rank-based DSPE Section 6A single directive, regardless of conduct. What correction is strongest?
 
-A. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-B. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-C. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-D. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-**Answer:** C
-**Explanation:** **Protection follows good faith, not hierarchy** is the controlling principle. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The former directive remains fully operative because CVC was created after it.
+B. Section 17A protects only Joint Secretaries and above.
+C. The old rank-based Section 6A was struck down under Article 14 in 2014; assess present Section 17A by official-duty decision/recommendation nexus, not rank alone.
+D. All junior officers automatically face prosecution without statutory process.
 
 ---
 
 #### MCQ 8
 
-A rank-neutral process screens allegations by conduct, evidence and official-duty nexus. Which protective principle does it better reflect? Which source-grounded ethical principle most precisely explains the case?
+A report says the Supreme Court finally and unanimously invalidated Section 17A in January 2026. Which treatment of that order avoids misinformation?
 
-A. The Second Administrative Reforms Commission states that vigilance should enhance, not reduce, managerial efficiency; legitimate commercial or administrative risk must remain possible while corrupt motive and reckless rule evasion receive scrutiny.
-
-B. Contemporaneous reasons, consultation, disclosed conflicts, applicable rules, available information and equal treatment are stronger evidence of good faith than a later assertion that the official merely intended a public benefit.
-
-C. The bona fides test asks whether a person of common prudence, acting within prescribed rules and for the organisation's genuine interest, could have taken the decision in the circumstances then known.
-
-D. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined.
-
-**Answer:** D
-**Explanation:** **Protection follows good faith, not hierarchy** is the controlling principle. Honest-official protection is justified by lawful good-faith decision-making rather than seniority, status or institutional prestige; corruption control loses legitimacy when rank alone determines whether credible allegations may be examined. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Present one opinion as the unanimous binding merits result.
+B. Assert the referral automatically repealed the enacted section.
+C. Treat the unresolved constitutional question as a licence to disregard every statutory requirement.
+D. Describe the divergent opinions and operative referral for consideration by an appropriate Bench; do not claim a settled final validity ruling.
 
 ---
 
 #### MCQ 9
 
-An anonymous complaint identifies no act, date, benefit or record, yet immediately triggers public accusation. Which threshold safeguard was omitted? Which source-grounded ethical principle most precisely explains the case?
+A competent authority delays an adequately documented sanction request until records go stale. Which reform best avoids both harassment and impunity?
 
-A. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-B. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-C. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-D. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-**Answer:** A
-**Explanation:** **Allegations require threshold screening** is the controlling principle. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Require a time-bound reasoned decision, preserve evidence and enable independent review of unjustified delay without eliminating legitimate procedural protection.
+B. Grant blanket immunity to everyone whose file is delayed.
+C. Automatically prosecute every officer before testing bona fides.
+D. Disallow recording reasons because transparency slows the authority.
 
 ---
 
 #### MCQ 10
 
-A complaint names the transaction, decision trail, alleged benefit and checkable documents. Why is it suitable for preliminary verification? Which source-grounded ethical principle most precisely explains the case?
+A civil servant is moved the day after refusing a politically favoured bidder, with no file reason. Which response addresses the transfer industry's coercive effect?
 
-A. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-B. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-C. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-D. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-**Answer:** B
-**Explanation:** **Allegations require threshold screening** is the controlling principle. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Refuse any future transfer, including a well-founded transfer to prevent evidence tampering.
+B. Record the pressure and reasons, seek review under tenure/transfer rules, protect procurement records and continue lawful duties pending decision.
+C. Destroy notes to protect the relationship with the Minister.
+D. Make an unverified public criminal allegation against the posting authority immediately.
 
 ---
 
 #### MCQ 11
 
-A false allegation is discreetly checked and closed without publicity. Which legitimate function of secrecy is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A manager invokes fixed tenure to retain an officer caught interfering with witnesses. How should the protection be qualified?
 
-A. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-B. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-C. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-D. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-**Answer:** C
-**Explanation:** **Secret verification has a limited protective purpose** is the controlling principle. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Fixed tenure renders any transfer unlawful even to protect an inquiry.
+B. Any rumour of interference justifies unrecorded midnight transfer.
+C. A documented evidence-risk or misconduct ground can justify a reviewable transfer under competent rules; guard against retaliation without giving the officer immunity.
+D. Leave the officer in charge of the same witnesses until a criminal conviction.
 
 ---
 
 #### MCQ 12
 
-A credible complaint remains secretly pending for years without reasons or review. Which abuse of the same safeguard appears? Which source-grounded ethical principle most precisely explains the case?
+A Minister orally asks a procurement officer to shortlist a nonqualified bidder and threatens transfer. Which first response creates an auditable ethical dissent?
 
-A. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-B. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-C. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-D. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-**Answer:** D
-**Explanation:** **Secret verification has a limited protective purpose** is the controlling principle. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Comply orally now and object only after the award becomes public.
+B. Resign instantly and destroy file copies before any authorised report.
+C. Post the bidder's alleged criminal guilt online without checking facts.
+D. File-note the request, applicable criteria and risk; ask for written instruction, refuse illegal deviation, propose lawful evaluation and escalate if pressure persists.
 
 ---
 
 #### MCQ 13
 
-A technically complex procurement decision is judged only by an investigator unfamiliar with the sector. Which Commission safeguard is missing? Which source-grounded ethical principle most precisely explains the case?
+A central PSU employee has checkable proof of bid manipulation; a colleague urges publication on social media as the first step. Which reporting order protects public interest?
 
-A. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-B. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-C. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-D. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-**Answer:** A
-**Explanation:** **Competence and impartiality determine evaluation quality** is the controlling principle. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Preserve evidence, use authorised CVO/CVC PIDPI channel with identity safeguards, monitor retaliation and consider external disclosure only after serious necessity and legal review.
+B. Publish raw confidential bids and personal identifiers immediately.
+C. Use a pseudonymous PIDPI submission while expecting full formal confidentiality benefits.
+D. Resign without lodging an evidence-backed complaint.
 
 ---
 
 #### MCQ 14
 
-An independent team obtains engineering and financial advice before fixing responsibility. Which evaluation principle is satisfied? Which source-grounded ethical principle most precisely explains the case?
+An officer fears retaliation despite identity being concealed in a vigilance complaint; access logs show only two supervisors know the identity. Which additional safeguard matters?
 
-A. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-B. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-C. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-D. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-**Answer:** B
-**Explanation:** **Competence and impartiality determine evaluation quality** is the controlling principle. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume secrecy alone rules out indirect identification and do nothing.
+B. Restrict and audit identity access, review punitive postings independently and monitor threats while giving the accused fair access to the allegation at the proper stage.
+C. Reveal the complainant publicly so retaliation becomes visible.
+D. Suppress all investigation to ensure the whistleblower is never exposed.
 
 ---
 
 #### MCQ 15
 
-Investigators implicate everyone who signed a file without identifying knowledge, benefit or agreement. Which overbroad method is being criticised? Which source-grounded ethical principle most precisely explains the case?
+An influential builder threatens a fabricated sexual-harassment allegation if a municipal official pursues unsafe construction. Which response is fair to both possible victims?
 
-A. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-B. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-C. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-D. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-**Answer:** C
-**Explanation:** **Strong evidence should precede prosecution** is the controlling principle. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume any harassment complainant is lying because the builder made a threat.
+B. Drop the building-safety investigation until the workplace matter concludes.
+C. Preserve building evidence and refer it independently; ensure any harassment complaint goes through the competent POSH Internal Committee with confidentiality and a fair inquiry.
+D. Have the same interested builder choose the IC members and control its finding.
 
 ---
 
-#### MCQ 16
+#### MCQ 16 — remedial
 
-The inquiry identifies the actual beneficiary, concealed communication and deliberate rule evasion before prosecution. Which calibrated standard is shown? Which source-grounded ethical principle most precisely explains the case?
+Management offers an employee money to withdraw a workplace harassment complaint and sign a declaration that the respondent is innocent. What should the employee or employer do?
 
-A. Confidential preliminary verification can protect an innocent official's reputation and preserve evidence, but it must not become an indefinite, unreviewed device for burying a specific and credible complaint.
-
-B. Complex commercial, technical and financial decisions should be evaluated by honest and impartial personnel who understand the domain and consult experts, because ignorance can misclassify ordinary risk as corrupt conduct.
-
-C. Before formal inquiry, the Second Administrative Reforms Commission recommends testing each corruption allegation for specificity, credibility and verifiability so that vague hostility does not automatically become coercive process.
-
-D. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent.
-
-**Answer:** D
-**Explanation:** **Strong evidence should precede prosecution** is the controlling principle. Protecting honest officials does not mean suppressing investigation; it means narrowing coercive action toward persons against whom evidence is strong while separating error, negligence, poor judgment and corrupt intent. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Declare innocence upon payment without investigating.
+B. Publish the employee's identity to deter allegedly false claims.
+C. Treat an IC proceeding as automatically barring any separate criminal complaint.
+D. Reject coerced exoneration, preserve records, enable the statutory Internal Committee's independent hearing and permit parallel criminal-law recourse where applicable.
 
 ---
 
-#### MCQ 17
+#### MCQ 17 — remedial
 
-A candidate describes Section 17A only as permission for a court to begin trial. Which stage has been confused? Which source-grounded ethical principle most precisely explains the case?
+A POSH committee receives a written complaint within the prescribed filing period, but management insists it can ignore it until a corruption case is concluded. Which deadline and process distinction matters?
 
-A. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-B. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-C. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-D. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-**Answer:** A
-**Explanation:** **Section 17A operates before specified investigative steps** is the controlling principle. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The IC should inquire independently, normally within 90 days, with employer action on its report within 60 days; the complaint period is normally three months with limited extension.
+B. An IC inquiry has no time frame when a respondent is also in a vigilance case.
+C. The CVO must decide sexual-harassment facts instead of the IC.
+D. A missed complaint deadline automatically proves the accused innocent without examining available extension grounds.
 
 ---
 
-#### MCQ 18
+#### MCQ 18 — remedial
 
-An allegation concerns a recorded policy recommendation rather than an on-the-spot bribe. Which approval question ordinarily arises first? Which source-grounded ethical principle most precisely explains the case?
+A vigilance team has caught one official soliciting payments for licensing; the agency removes them but leaves unpublished queues and a fixed officer-to-file arrangement. What residual-risk intervention fits?
 
-A. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-B. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-C. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-D. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-**Answer:** B
-**Explanation:** **Section 17A operates before specified investigative steps** is the controlling principle. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume prosecution of one person permanently removes incentives for others.
+B. Combine lawful case referral with rotated sensitive posts, random or committee file assignment, surprise checks and transparent pendency/timelines.
+C. Close the licensing desk indefinitely as a deterrent.
+D. Delete all application logs to avoid reputational harm.
 
 ---
 
-#### MCQ 19
+#### MCQ 19 — remedial
 
-An answer treats sanction for cognizance as identical to approval before inquiry. Which two statutory stages must be separated? Which source-grounded ethical principle most precisely explains the case?
+An internal committee unanimously finds a bank's commercial loss has no vigilance angle, while a separate procurement file shows deliberate concealed benefit. What does a calibrated design require?
 
-A. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-B. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-C. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-D. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-**Answer:** C
-**Explanation:** **Section 19 is a prosecution-cognizance safeguard** is the controlling principle. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Automatically clear both because both involved decisions rather than cash.
+B. Charge both criminally simply because financial loss exists.
+C. Assess each on documented bona fides; route disagreements through the designated CVO/CVC process while escalating credible intentional misconduct.
+D. Suppress the second case so the first officer does not feel discouraged.
 
 ---
 
-#### MCQ 20
+#### MCQ 20 — remedial
 
-Investigation is completed and the court is asked to take cognizance. Which safeguard becomes directly relevant at this point? Which source-grounded ethical principle most precisely explains the case?
+A reform proposes abolishing all investigation approval and sanction gates after one corrupt official used them to delay inquiry. Which response addresses the two-sided failure?
 
-A. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-B. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-C. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-D. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-**Answer:** D
-**Explanation:** **Section 19 is a prosecution-cognizance safeguard** is the controlling principle. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Grant all officers permanent immunity from enquiry.
+B. Treat any allegation as proof and publish guilt before verification.
+C. Replace expert evidence evaluation with automatic prosecution of every signatory.
+D. Keep narrowly triggered safeguards for bona fide decisions, demand timely recorded reasons and independent scrutiny of investigators and authorities who misuse the gates.
 
 ---
 
-#### MCQ 21
+### MATCHED ANSWER KEY — FOUR OPTION DIAGNOSTICS
 
-A note says senior rank alone still activates the old single directive. Which constitutional development corrects it? Which source-grounded ethical principle most precisely explains the case?
+#### MCQ 1 — A
 
-A. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-B. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-C. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-D. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-**Answer:** A
-**Explanation:** **The former single directive is not current law** is the controlling principle. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Bona fides is assessed at decision time from process and available evidence, not hindsight.
+- **B:** Outcome bias does not prove misconduct.
+- **C:** A concealed interest or rule evasion could still warrant inquiry.
+- **D:** No decision-maker can guarantee absence of all commercial risk.
+- **Trap to avoid:** Outcome bias does not prove misconduct. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 22
+#### MCQ 2 — B
 
-A current analysis instead asks whether alleged conduct is linked to an official-duty decision. Which change in legal framing is recognised? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-B. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-C. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-D. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-**Answer:** B
-**Explanation:** **The former single directive is not current law** is the controlling principle. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A signature does not cure concealment or non-compliance.
+- **B:** Concealed conflict and deliberate evasion supply evidence the honest-loss example lacks.
+- **C:** A loss alone cannot convict either officer.
+- **D:** Self-described intent cannot replace objective process evidence.
+- **Trap to avoid:** A loss alone cannot convict either officer. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 23
+#### MCQ 3 — C
 
-A writer claims the January 2026 order unanimously invalidated Section 17A. Which feature of the official order disproves the claim? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-B. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-C. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-D. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-**Answer:** C
-**Explanation:** **The 2026 Section 17A case produced no common final holding** is the controlling principle. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Anonymous suspicion is not criminal proof.
+- **B:** An inquiry does not require an existing conviction.
+- **C:** ARC 7.9 starts with checkable allegations and proportionate preliminary verification.
+- **D:** Disclosure exposes witnesses and compromises investigation.
+- **Trap to avoid:** Disclosure exposes witnesses and compromises investigation. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 24
+#### MCQ 4 — D
 
-An answer labels the judgment a split decision referred for fresh consideration. Why is that the accurate current anchor? Which source-grounded ethical principle most precisely explains the case?
-
-A. PC Act 19 requires previous sanction before a court takes cognizance of specified Prevention of Corruption Act offences against a covered public servant; it is distinct from PC Act 17A's earlier investigative-stage approval.
-
-B. The rank-based Delhi Special Police Establishment Act provision requiring approval to investigate Joint Secretary-level and equivalent officers was struck down in 2014 for violating Article 14; it must not be presented as operative.
-
-C. PC Act 17A concerns prior approval before enquiry, inquiry or investigation into an alleged Prevention of Corruption Act offence relatable to an official-duty recommendation or decision, subject to its statutory on-the-spot exception.
-
-D. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order.
-
-**Answer:** D
-**Explanation:** **The 2026 Section 17A case produced no common final holding** is the controlling principle. On 13 January 2026, two Supreme Court judges expressed divergent opinions on PC Act 17A and directed that the matter be placed before the Chief Justice for an appropriate Bench, leaving the constitutional issue unresolved by that order. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Collective stoppage transfers the wrongdoer's costs to citizens.
+- **B:** Secrecy needs time limits and independent oversight.
+- **C:** Public announcement without testing evidence violates fairness.
+- **D:** Secret verification can prevent evidence loss and reputational harm without suspending entitlements.
+- **Trap to avoid:** Collective stoppage transfers the wrongdoer's costs to citizens. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 25
+#### MCQ 5 — A
 
-An agency insists that scrutiny of investigators always destroys independence. Which Commission recommendation answers that position? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-B. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-C. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-D. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-**Answer:** A
-**Explanation:** **Investigators require accountability too** is the controlling principle. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Competence and individual attribution protect honest experts while locating knowing wrongdoing.
+- **B:** Participation in a file is not proof of agreement or knowledge.
+- **C:** Interested unilateral expert selection threatens independence.
+- **D:** Technical complexity is a reason for expertise, not categorical immunity.
+- **Trap to avoid:** Participation in a file is not proof of agreement or knowledge. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 26
+#### MCQ 6 — B
 
-A separate competent body examines fabricated evidence and retaliatory investigation. Which watch-the-watchers principle is applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-B. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-C. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-D. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-**Answer:** B
-**Explanation:** **Investigators require accountability too** is the controlling principle. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Sanction for cognizance cannot automatically substitute for prior approval.
+- **B:** Different stages and statutory triggers can apply to the same alleged transaction.
+- **C:** Pre-investigation protection cannot begin after conviction.
+- **D:** Former status does not automatically erase decision-linked protection.
+- **Trap to avoid:** Pre-investigation protection cannot begin after conviction. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 27
+#### MCQ 7 — C
 
-Every signatory is accused of conspiracy solely because a project failed. Which two-sided vigilance failure mode appears? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-B. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-C. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-D. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-**Answer:** C
-**Explanation:** **Over-suspicion can weaken anti-corruption outcomes** is the controlling principle. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The 2014 constitutional decision invalidated that provision.
+- **B:** Section 17A is not a senior-rank privilege.
+- **C:** Rank-neutral, conduct-specific safeguards are distinct from the invalid old rank rule.
+- **D:** General due process and relevant sanctions may protect junior officers too.
+- **Trap to avoid:** General due process and relevant sanctions may protect junior officers too. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 28
+#### MCQ 8 — D
 
-Investigators isolate who knew, benefited, concealed and deliberately deviated. How does this improve both fairness and enforcement? Which source-grounded ethical principle most precisely explains the case?
-
-A. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-B. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-C. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-D. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-**Answer:** D
-**Explanation:** **Over-suspicion can weaken anti-corruption outcomes** is the controlling principle. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** An individual opinion cannot be elevated to a unanimous order.
+- **B:** Referral is not legislative repeal.
+- **C:** Investigators must seek current legal guidance, not assume non-application.
+- **D:** A split and referral do not conclusively settle constitutional validity.
+- **Trap to avoid:** An individual opinion cannot be elevated to a unanimous order. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 29
+#### MCQ 9 — A
 
-An officer is moved immediately after refusing political favour, without stated administrative grounds. Which harassment mechanism is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-B. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-C. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-D. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-**Answer:** A
-**Explanation:** **The transfer industry is soft retaliation** is the controlling principle. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Reviewable deadlines protect genuine decisions and constrain deliberate stalling.
+- **B:** Delay should not become permanent impunity.
+- **C:** Accusation is not guilt; protective gates serve a legitimate role.
+- **D:** Written reasons facilitate rather than frustrate review.
+- **Trap to avoid:** Delay should not become permanent impunity. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 30
+#### MCQ 10 — B
 
-A published policy requires reasons, tenure norms and review of premature transfer. Which corrective architecture is present? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-B. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-C. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-D. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-**Answer:** B
-**Explanation:** **The transfer industry is soft retaliation** is the controlling principle. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Tenure protection cannot freeze necessary justified action.
+- **B:** Reason-giving and review distinguish retaliatory transfer from genuine administrative need.
+- **C:** Destruction sacrifices both proof and officer protection.
+- **D:** Due-process channels should test the allegation.
+- **Trap to avoid:** Destruction sacrifices both proof and officer protection. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 31
+#### MCQ 11 — C
 
-A tenure rule prevents moving an officer who is tampering with a live inquiry. Which qualification has been ignored? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-B. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-C. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-D. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-**Answer:** C
-**Explanation:** **Tenure protection needs justified exceptions** is the controlling principle. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Tenure norms have lawful exceptions.
+- **B:** Untested rumour and no reasons invite retaliatory misuse.
+- **C:** Protection against arbitrary transfers coexists with documented public-interest exceptions.
+- **D:** Witness safety may require proportionate interim separation.
+- **Trap to avoid:** Witness safety may require proportionate interim separation. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 32
+#### MCQ 12 — D
 
-A premature transfer order records evidence risk and receives independent review. Which balance is being maintained? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Commission warned that assuming every wrong decision implies corruption and implicating the entire decision chain can demoralise honest officials, lower precision, waste capacity and allow actual wrongdoers to escape.
-
-B. Arbitrary transfer can punish an honest officer without formal disciplinary action, destabilise professional independence and convert postings into transactions; transparent policy and minimum tenure are therefore integrity safeguards.
-
-C. The Second Administrative Reforms Commission proposed a specialised unit linked to the proposed Lok Pal or State Lokayukta to examine corruption by investigating agencies and allegations that investigators themselves harassed officials.
-
-D. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable.
-
-**Answer:** D
-**Explanation:** **Tenure protection needs justified exceptions** is the controlling principle. Minimum tenure should reduce punitive transfers, yet urgent reassignment may remain legitimate where continued posting creates conflict, evidence risk or serious operational harm; any exception should be narrow, recorded and reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Late objection cannot undo a knowingly unlawful award.
+- **B:** Early resignation can abandon the reporting route.
+- **C:** Public guilt claims need evidence and appropriate process.
+- **D:** Contemporaneous reasoned dissent both clarifies duties and preserves evidence.
+- **Trap to avoid:** Late objection cannot undo a knowingly unlawful award. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 33
+#### MCQ 13 — A
 
-A superior orally orders favour to a bidder and the officer obeys without noting objection. Which protective step was missed? Which source-grounded ethical principle most precisely explains the case?
-
-A. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-B. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-C. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-D. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-**Answer:** A
-**Explanation:** **Written dissent converts conscience into an administrative record** is the controlling principle. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Protected authorised escalation should precede exceptional, proportionate external release.
+- **B:** Raw release may harm witnesses and procurement fairness.
+- **C:** Anonymity and PIDPI confidentiality are not interchangeable.
+- **D:** Resignation does not itself remedy the corrupt process.
+- **Trap to avoid:** Raw release may harm witnesses and procurement fairness. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 34
+#### MCQ 14 — B
 
-The officer records the direction, relevant rule, public risk and lawful alternative. What ethical function does this dissent serve? Which source-grounded ethical principle most precisely explains the case?
-
-A. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-B. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-C. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-D. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-**Answer:** B
-**Explanation:** **Written dissent converts conscience into an administrative record** is the controlling principle. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A narrow access trail can still identify the source.
+- **B:** Protection also requires tracking indirect retaliation, not just withholding the name.
+- **C:** Disclosure magnifies the danger.
+- **D:** Safety and accountable investigation must run together.
+- **Trap to avoid:** Disclosure magnifies the danger. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 35
+#### MCQ 15 — C
 
-An officer uploads unverified allegations before using any protected channel. Which sequencing problem does this create? Which source-grounded ethical principle most precisely explains the case?
-
-A. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-B. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-C. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-D. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-**Answer:** C
-**Explanation:** **Escalation should ordinarily begin through authorised channels** is the controlling principle. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The threatened misuse does not discredit every later complainant.
+- **B:** The public-safety file should not be extinguished by pressure.
+- **C:** Separate pathways permit safety enforcement and genuine harassment protection simultaneously.
+- **D:** IC independence and proper constitution are critical.
+- **Trap to avoid:** IC independence and proper constitution are critical. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 36
+#### MCQ 16 — D
 
-Records are secured, the CVO is approached and an independent authority is used after internal capture. Which ladder is followed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-B. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-C. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-D. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-**Answer:** D
-**Explanation:** **Escalation should ordinarily begin through authorised channels** is the controlling principle. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A purchased statement cannot substitute for factual determination.
+- **B:** Confidentiality and protection of participants matter.
+- **C:** Workplace inquiry and criminal avenues are distinct.
+- **D:** Voluntary settlement cannot be manufactured to suppress evidence and process.
+- **Trap to avoid:** A purchased statement cannot substitute for factual determination. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 37
+#### MCQ 17 — A
 
-An officer resigns before preserving evidence of procurement manipulation. Which public-duty concern arises? Which source-grounded ethical principle most precisely explains the case?
-
-A. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-B. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-C. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-D. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-**Answer:** A
-**Explanation:** **Resignation is usually not the first ethical response** is the controlling principle. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The workplace track has its own competent forum and timelines.
+- **B:** A parallel vigilance case cannot erase the IC's duties.
+- **C:** Vigilance screening is not POSH inquiry.
+- **D:** The Act allows limited extension for sufficient reason.
+- **Trap to avoid:** A parallel vigilance case cannot erase the IC's duties. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 38
+#### MCQ 18 — B
 
-The officer refuses illegality, records reasons and activates oversight while remaining available for lawful implementation. Which approach is stronger? Which source-grounded ethical principle most precisely explains the case?
-
-A. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-B. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-C. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-D. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-**Answer:** B
-**Explanation:** **Resignation is usually not the first ethical response** is the controlling principle. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A replacement can occupy the same rent-seeking position.
+- **B:** Preventive controls change the opportunity structure left after an individual case.
+- **C:** Citizens retain their entitlement to timely service.
+- **D:** Logs enable detection and procedural fairness.
+- **Trap to avoid:** Citizens retain their entitlement to timely service. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 39
+#### MCQ 19 — C
 
-A complainant's name is hidden, but a punitive transfer follows without review. Which safeguard remains incomplete? Which source-grounded ethical principle most precisely explains the case?
-
-A. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-B. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-C. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-D. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-**Answer:** C
-**Explanation:** **Confidentiality must accompany anti-retaliation** is the controlling principle. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A 'decision' label does not immunise hidden collusion.
+- **B:** Loss is not enough for guilt.
+- **C:** A structured preliminary filter protects honest risk while identifying actual deviations.
+- **D:** Protecting honest officers does not justify impunity for another.
+- **Trap to avoid:** Protecting honest officers does not justify impunity for another. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 40
+#### MCQ 20 — D
 
-Access logs, safety assessment and independent review of adverse action accompany confidential reporting. Which design is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The whistleblowing ladder begins with evidence preservation and internal or authorised vigilance reporting, then uses higher independent channels if capture persists; public disclosure is reserved for grave residual harm and lawful necessity.
-
-B. Immediate resignation may abandon records, institutional duty and affected citizens; the official should first document, dissent, escalate, seek protection and reduce harm unless continued service itself requires direct illegality.
-
-C. When pressured to act improperly, an official should seek written instructions, record facts and reasons, state a reasoned dissent and preserve the decision trail rather than rely on oral refusal or silent compliance.
-
-D. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible.
-
-**Answer:** D
-**Explanation:** **Confidentiality must accompany anti-retaliation** is the controlling principle. A protected reporting system needs restricted identity access, secure records, retaliation monitoring, interim safety measures and review of adverse postings; secrecy alone is inadequate if reprisals remain easy and invisible. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Blanket immunity shields real corruption.
+- **B:** Unchecked accusations chill public-service judgment.
+- **C:** Overbreadth misses culpable actors and harms innocent ones.
+- **D:** A safeguard can prevent political harassment while still requiring oversight against obstruction.
+- **Trap to avoid:** Blanket immunity shields real corruption. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
-
-#### MCQ 41
-
-A builder threatens a fabricated workplace complaint to stop a corruption inquiry. Which dual-process response is required? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-B. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-C. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-D. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-**Answer:** A
-**Explanation:** **POSH inquiry is distinct from corruption vigilance** is the controlling principle. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 42
-
-The corruption evidence is preserved while an independent Internal Committee fairly examines the separate complaint. Which boundary is respected? Which source-grounded ethical principle most precisely explains the case?
-
-A. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-B. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-C. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-D. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-**Answer:** B
-**Explanation:** **POSH inquiry is distinct from corruption vigilance** is the controlling principle. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 43
-
-Management pays a complainant to withdraw and declare the respondent innocent. Which institutional duties are defeated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-B. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-C. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-D. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-**Answer:** C
-**Explanation:** **POSH protection does not erase respondent due process** is the controlling principle. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 44
-
-The committee protects participants, tests evidence and gives both sides procedural fairness. Which balanced standard is applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-B. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-C. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-D. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-**Answer:** D
-**Explanation:** **POSH protection does not erase respondent due process** is the controlling principle. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 45
-
-A competent authority ignores a complete evidence file until limitation risks arise. Which safeguard misuse is present? Which source-grounded ethical principle most precisely explains the case?
-
-A. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-B. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-C. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-D. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-**Answer:** A
-**Explanation:** **Safeguards cannot become shields for corruption** is the controlling principle. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 46
-
-A time-bound reasoned decision distinguishes bona fide judgment from concealed benefit. Which protective balance is achieved? Which source-grounded ethical principle most precisely explains the case?
-
-A. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-B. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-C. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-D. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-**Answer:** B
-**Explanation:** **Safeguards cannot become shields for corruption** is the controlling principle. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 47
-
-A reform proposal only increases immunity for officials. Which half of the symmetric design is missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-B. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-C. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-D. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-**Answer:** C
-**Explanation:** **Protection without impunity needs symmetric design** is the controlling principle. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 48
-
-Another proposal abolishes every safeguard and equates accusation with guilt. Which opposite failure does it create? Which source-grounded ethical principle most precisely explains the case?
-
-A. A credible sexual-harassment system must enable complaint, confidentiality, assistance and protection from victimisation while also providing an impartial inquiry, defined allegations, opportunity to respond and reasoned recommendations.
-
-B. Approval, sanction, confidentiality and tenure rules are legitimate only when applied promptly, independently and with recorded reasons; indefinite delay or partisan control converts protection of honest action into impunity for misconduct.
-
-C. The Internal Committee conducts workplace due process for sexual-harassment complaints, while vigilance machinery examines corruption-related misconduct; neither route should be manipulated to suppress the other or prejudge criminal responsibility.
-
-D. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability.
-
-**Answer:** D
-**Explanation:** **Protection without impunity needs symmetric design** is the controlling principle. A credible vigilance system filters malice, protects lawful risk-taking and checks investigator abuse, yet also preserves evidence, reviews refusals, prosecutes strong cases and prevents hierarchy or procedure from blocking accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
 
 ## PYQS AND ANSWER PRACTICE
+
+All practice prompts appear here before their separate matched model solutions. Where a question is labelled neutral routing, consult its cited official paper for the full original case wording.
+
+### VERIFIED / ROUTED PYQ QUESTIONS
 
 #### Solved PYQ 1 — 2019 — 20 marks
 
 **Question:** GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of any strong organization. In line of duty, they take various decisions, at times some become bonafide mistakes. As long as such decisions are not taken intentionally and do not benefit personally, the officer cannot be said to be guilty. Though such decisions may, at times, lead to unforeseen adverse consequences in the long-term. In the recent past, a few instances have surfaced wherein civil servants have been implicated for bonafide mistakes. They have often been prosecuted and even imprisoned. These instances have greatly rattled the moral fibre of the civil servants. How does this trend affect the functioning of the civil services? What measures can be taken to ensure that honest civil servants are not implicated for bonafide mistakes on their part? Justify your answer. (250 words)
 
 **Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 5. The official paper uses the spelling 'bonafide'; the model answer retains the question while applying ARC's bona fides test.
+
+---
+
+#### Solved PYQ 2 — 2019 — 20 marks
+
+**Question:** GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a woman employee of workplace sexual harassment. Management initially ignores her grievance and later offers money for withdrawal of both the complaint and FIR, along with a written declaration exonerating the executive. Identify the ethical issues and the options available to the woman employee. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 5. The official stem is longer; this entry preserves its parties, pressure, complaint, FIR and demands without claiming verbatim reproduction.
+
+---
+
+#### Solved PYQ 3 — 2020 — 20 marks
+
+**Question:** GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse and finds poor material, unauthorised construction, inspection failures and a prima facie official-builder nexus. Colleagues press for delay, the influential builder offers a bribe, and a threatened POSH complaint is used to demand silence. Discuss the ethical issues, options and selected course of action. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\more_previous_papers\Gen_St_P4.pdf, pages 8-9. The official multi-paragraph stem and final demand control; this entry condenses the facts for Topic 21's protection, dissent and POSH-process route.
+
+---
+
+#### Solved PYQ 4 — 2021 — 20 marks
+
+**Question:** GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia supported by local functionaries and insiders, faces threats to himself and surveillance of his family. Identify his options, critically evaluate them, and select the most appropriate course of action. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, pages 4-5. The official paper supplies the complete case; this routing retains the nexus, threats, family risk and three-part demand.
+
+---
+
+#### Solved PYQ 5 — 2022 — 10 marks
+
+**Question:** GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by the vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (Answer in 150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4.
+
+---
+
+#### Solved PYQ 6 — 2022 — 20 marks
+
+**Question:** GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a confidential report on illegal migrant infiltration and forged documents. A superior orders withdrawal and threatens loss of his capital posting and promotion. Examine his options, preferred course, ethical dilemmas and relevant policy measures. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, pages 8-9. The official paper contains the complete factual narrative and five-part demand.
+
+---
+
+#### Solved PYQ 7 — 2023 — 20 marks
+
+**Question:** GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road Transport Corporation after six transfers in three years, receives documents and a video alleging bribery by the politically powerful Chairman. The opposition source offers future career support, while exposure may cause another transfer. Evaluate Vinod's options and the ethical issues arising from politicisation of bureaucracy. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official stem controls; this entry preserves the transfers, evidence, political incentives and two-part demand.
+
+---
+
+#### Solved PYQ 8 — 2024 — 20 marks
+
+**Question:** GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts online recruitment of unemployed youth by a global terrorist group. State intelligence indicates targeting of a particular community and extremist social-media activity. Examine his options, measures to strengthen the existing setup and an action plan for better intelligence gathering. (250 words)
+
+**Source / ownership:** Neutral routing verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, pages 5-6. The official paper provides the complete case. Topic 21 uses it for calibrated screening, investigator accountability and protection against indiscriminate suspicion.
+
+
+### ORIGINAL MAINS / CASE QUESTIONS
+
+#### Original Mains Practice 1 — 10 marks
+
+**Question:** Explain how the bona fides test protects honest administrative risk-taking without creating immunity for negligent or corrupt decisions. Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 2 — 10 marks
+
+**Question:** Why do specificity screening and secret preliminary verification need both confidentiality and external accountability? Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 3 — 15 marks
+
+**Question:** Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess the significance of the Supreme Court's split decision of 13 January 2026. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 4 — 15 marks
+
+**Question:** Investigator accountability and protection against arbitrary transfers are complementary requirements of ethical vigilance administration. Discuss. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 5 — 20 marks
+
+**Question:** A procurement officer is orally directed by a Minister to favour an unqualified bidder and is threatened with transfer. Design the officer's written-dissent and whistleblowing response. Answer in about 250 words.
+
+---
+
+#### Original Mains Practice 6 — 20 marks
+
+**Question:** Design a vigilance system that protects honest officials, fairly handles POSH complaints and prevents procedural safeguards from becoming impunity. Answer in about 250 words.
+
+
+### MATCHED MODEL SOLUTIONS — PYQS
+
+#### Solved PYQ 1 — 2019 — 20 marks
 
 **Model solution**
 
@@ -848,30 +560,9 @@ The aim is neither official immunity nor accusation-based punishment. A calibrat
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The aim is neither official immunity nor accusation-based punishment. A calibrated system protects good-faith risk-taking while pursuing strong evidence against actual misconduct. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 2 — 2019 — 20 marks
-
-**Question:** GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a woman employee of workplace sexual harassment. Management initially ignores her grievance and later offers money for withdrawal of both the complaint and FIR, along with a written declaration exonerating the executive. Identify the ethical issues and the options available to the woman employee. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 5. The official stem is longer; this entry preserves its parties, pressure, complaint, FIR and demands without claiming verbatim reproduction.
 
 **Model solution**
 
@@ -887,29 +578,9 @@ Her strongest course is to reject coercive withdrawal, document the offer, use t
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a woman employee of workplace sexual harassment. Management…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a woman employee of workplace sexual harassment. Management…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q9 case study: A successful marketing executive in an apparel company is accused by a…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Solved PYQ 3 — 2020 — 20 marks
-
-**Question:** GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse and finds poor material, unauthorised construction, inspection failures and a prima facie official-builder nexus. Colleagues press for delay, the influential builder offers a bribe, and a threatened POSH complaint is used to demand silence. Discuss the ethical issues, options and selected course of action. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\more_previous_papers\Gen_St_P4.pdf, pages 8-9. The official multi-paragraph stem and final demand control; this entry condenses the facts for Topic 21's protection, dissent and POSH-process route.
 
 **Model solution**
 
@@ -925,29 +596,9 @@ The Commissioner should issue reasoned directions, resist transfer or career thr
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse and finds poor material, unauthorised construction,…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse and finds poor material, unauthorised construction,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q10 case study: An honest Municipal Commissioner investigates a fatal mall collapse…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Solved PYQ 4 — 2021 — 20 marks
-
-**Question:** GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia supported by local functionaries and insiders, faces threats to himself and surveillance of his family. Identify his options, critically evaluate them, and select the most appropriate course of action. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, pages 4-5. The official paper supplies the complete case; this routing retains the nexus, threats, family risk and three-part demand.
 
 **Model solution**
 
@@ -963,29 +614,9 @@ The course combines courage with prudence. Integrity does not require reckless m
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia supported by local functionaries and insiders, faces…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia supported by local functionaries and insiders, faces…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q7 case study: Sunil, a young civil servant confronting an illegal sand-mining mafia…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Solved PYQ 5 — 2022 — 10 marks
-
-**Question:** GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by the vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (Answer in 150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4.
 
 **Model solution**
 
@@ -999,30 +630,9 @@ Finally, publish anonymised outcomes, impose personal consequences for identity 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): Whistle-blower, who reports corruption and illegal activities, wrongdoing and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 6 — 2022 — 20 marks
-
-**Question:** GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a confidential report on illegal migrant infiltration and forged documents. A superior orders withdrawal and threatens loss of his capital posting and promotion. Examine his options, preferred course, ethical dilemmas and relevant policy measures. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, pages 8-9. The official paper contains the complete factual narrative and five-part demand.
 
 **Model solution**
 
@@ -1038,30 +648,9 @@ Policy measures include secure border systems, document-authentication audits, s
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a confidential report on illegal migrant infiltration and…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Source / ownership: Neutral routing verified against books\more previous papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, pages 8-9. The official paper contains the complete factual narrative and five-part demand. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-2. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a confidential report on illegal migrant infiltration and…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q8 case study: Ramesh, a State Civil Services officer in a border State, submits a…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Solved PYQ 7 — 2023 — 20 marks
-
-**Question:** GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road Transport Corporation after six transfers in three years, receives documents and a video alleging bribery by the politically powerful Chairman. The opposition source offers future career support, while exposure may cause another transfer. Evaluate Vinod's options and the ethical issues arising from politicisation of bureaucracy. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official stem controls; this entry preserves the transfers, evidence, political incentives and two-part demand.
 
 **Model solution**
 
@@ -1077,30 +666,9 @@ Vinod must be non-partisan in method and fearless in substance. Evidence, not th
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road Transport Corporation after six transfers in three years,…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Vinod must be non-partisan in method and fearless in substance. Evidence, not the source's electoral interest or the Chairman's proximity to power, should determine action. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-2. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road Transport Corporation after six transfers in three years,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q10 case study: Vinod, an honest IAS officer and Managing Director of a State Road…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Solved PYQ 8 — 2024 — 20 marks
-
-**Question:** GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts online recruitment of unemployed youth by a global terrorist group. State intelligence indicates targeting of a particular community and extremist social-media activity. Examine his options, measures to strengthen the existing setup and an action plan for better intelligence gathering. (250 words)
-
-**Source / ownership:** Neutral routing verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, pages 5-6. The official paper provides the complete case. Topic 21 uses it for calibrated screening, investigator accountability and protection against indiscriminate suspicion.
 
 **Model solution**
 
@@ -1116,29 +684,10 @@ The ethics of honest-official protection applies to investigators too: clear rul
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts online recruitment of unemployed youth by a global terrorist…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts online recruitment of unemployed youth by a global terrorist…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q8 case study: Raman, a newly posted State Director General of Police, confronts…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+### MATCHED MODEL SOLUTIONS — ORIGINAL MAINS / CASES
 
 #### Original Mains Practice 1 — 10 marks
-
-**Question:** Explain how the bona fides test protects honest administrative risk-taking without creating immunity for negligent or corrupt decisions. Answer in about 150 words.
 
 **Model solution**
 
@@ -1152,27 +701,9 @@ The test is therefore neither subjective intention nor blanket immunity. Screeni
 
 ---
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how the bona fides test protects honest administrative risk-taking without creating…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain how the bona fides test protects honest administrative risk-taking without creating immunity for negligent or corrupt decisions. Answer in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain how the bona fides test protects honest administrative risk-taking without creating immunity for negligent or corrupt decisions. Answer in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain how the bona fides test protects honest administrative risk-taking without creating…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 2 — 10 marks
-
-**Question:** Why do specificity screening and secret preliminary verification need both confidentiality and external accountability? Answer in about 150 words.
 
 **Model solution**
 
@@ -1186,28 +717,9 @@ The correct design separates privacy from invisibility. Verification should be d
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why do specificity screening and secret preliminary verification need both confidentiality…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why do specificity screening and secret preliminary verification need both confidentiality and external accountability? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The correct design separates privacy from invisibility. Verification should be discreet enough to protect persons and evidence, but accountable enough to prevent secrecy from becoming impunity. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why do specificity screening and secret preliminary verification need both confidentiality and external accountability? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why do specificity screening and secret preliminary verification need both confidentiality…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 3 — 15 marks
-
-**Question:** Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess the significance of the Supreme Court's split decision of 13 January 2026. Answer in about 200 words.
 
 **Model solution**
 
@@ -1223,28 +735,9 @@ The ethical verdict remains calibrated: honest decisions need protection, but ap
 
 ---
 
-**Demand decoding:** The directive **assess** requires a direct position on “Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess the significance of the Supreme Court's split decision of 13…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The ethical verdict remains calibrated: honest decisions need protection, but approval must be prompt, independent, reasoned and reviewable so that procedure does not become a shield for corruption. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess the significance of the Supreme Court's split decision of 13…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Differentiate Section 17A and Section 19 of the Prevention of Corruption Act, and assess…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 4 — 15 marks
-
-**Question:** Investigator accountability and protection against arbitrary transfers are complementary requirements of ethical vigilance administration. Discuss. Answer in about 200 words.
 
 **Model solution**
 
@@ -1260,28 +753,9 @@ Together, accountable investigation and fair postings protect lawful courage whi
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Investigator accountability and protection against arbitrary transfers are complementary…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Investigator accountability and protection against arbitrary transfers are complementary requirements of ethical vigilance administration. Discuss.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Together, accountable investigation and fair postings protect lawful courage while preserving consequences for misconduct. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Investigator accountability and protection against arbitrary transfers are complementary requirements of ethical vigilance administration. Discuss.…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Investigator accountability and protection against arbitrary transfers are complementary…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 5 — 20 marks
-
-**Question:** A procurement officer is orally directed by a Minister to favour an unqualified bidder and is threatened with transfer. Design the officer's written-dissent and whistleblowing response. Answer in about 250 words.
 
 **Model solution**
 
@@ -1297,27 +771,9 @@ Safeguards must not become self-exoneration. An independent body should verify t
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “A procurement officer is orally directed by a Minister to favour an unqualified bidder and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A procurement officer is orally directed by a Minister to favour an unqualified bidder and is threatened with transfer. Design the officer's written-…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A procurement officer is orally directed by a Minister to favour an unqualified bidder and is threatened with transfer. Design the officer's written-…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A procurement officer is orally directed by a Minister to favour an unqualified bidder and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 6 — 20 marks
-
-**Question:** Design a vigilance system that protects honest officials, fairly handles POSH complaints and prevents procedural safeguards from becoming impunity. Answer in about 250 words.
 
 **Model solution**
 
@@ -1332,21 +788,3 @@ Published transfer policy, minimum tenure, reasons for premature movement, prote
 The final principle is protection without impunity: honest risk receives fair screening and defence, complainants receive safety and voice, investigators receive operational space, and every actor remains answerable through reasons, evidence and independent review.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a vigilance system that protects honest officials, fairly handles POSH complaints…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design a vigilance system that protects honest officials, fairly handles POSH complaints and prevents procedural safeguards from becoming impunity.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design a vigilance system that protects honest officials, fairly handles POSH complaints and prevents procedural safeguards from becoming impunity.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design a vigilance system that protects honest officials, fairly handles POSH complaints…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

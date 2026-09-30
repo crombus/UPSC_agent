@@ -1,559 +1,1059 @@
 # Economy Topic 28: Solved Practice Workbook
 
-**Status cutoff:** 10 September 2026. Exact answer rotation is ABCD repeated eight times.
+**Status cutoff:** 10 September 2026. Questions precede a separate solved key; correct letters rotate A-B-C-D.
 
-## MCQs
+## 40 MCQ QUESTIONS
 
-### Q1. Which statement best defines economic incidence?
+### MCQ 01
+
+**Question:** Which statement best defines economic incidence?
 
 A. The final distribution of benefit after price and quantity adjustments
+
 B. The ministry named in the scheme
+
 C. The first account receiving payment
+
 D. The amount printed in the Budget
 
-**Answer: A**
+### MCQ 02
 
-**Option explanations:**
-- A. Correct: The final distribution of benefit after price and quantity adjustments; incidence follows market adjustment, not administrative routing.
-- B. Incorrect: The ministry named in the scheme; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
-- C. Incorrect: The first account receiving payment; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
-- D. Incorrect: The amount printed in the Budget; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
-
-**UPSC trap:** Trap 1: The ministry or first payee is not the final economic beneficiary.
-
-### Q2. Which pairing is correct?
+**Question:** Which pairing is correct?
 
 A. All direct support is off-budget
+
 B. Direct support and explicit support are different classification axes
+
 C. All indirect support is implicit
+
 D. All explicit support reaches farmers in cash
 
-**Answer: B**
+### MCQ 03
 
-**Option explanations:**
-- A. Incorrect: All direct support is off-budget; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
-- B. Correct: Direct support and explicit support are different classification axes; direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
-- C. Incorrect: All indirect support is implicit; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
-- D. Incorrect: All explicit support reaches farmers in cash; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
-
-**UPSC trap:** Trap 2: Direct-indirect and explicit-implicit are two axes, not interchangeable pairs.
-
-### Q3. Fertiliser DBT primarily means
+**Question:** Fertiliser DBT primarily means
 
 A. Unconditional cash to every cultivator
+
 B. Inclusion of urea in NBS
+
 C. Company subsidy release linked to PoS-recorded retail sale
+
 D. Replacement of all fertiliser price rules
 
-**Answer: C**
+### MCQ 04
 
-**Option explanations:**
-- A. Incorrect: Unconditional cash to every cultivator; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
-- B. Incorrect: Inclusion of urea in NBS; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
-- C. Correct: Company subsidy release linked to PoS-recorded retail sale; the official DBT architecture reimburses firms after verified sales.
-- D. Incorrect: Replacement of all fertiliser price rules; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
-
-**UPSC trap:** Trap 3: The letters DBT do not prove that cash reaches a farmer.
-
-### Q4. Under current official architecture, NBS covers
+**Question:** Under current official architecture, NBS covers
 
 A. Only urea
+
 B. Electricity supplied to pump sets
+
 C. All farm machinery
+
 D. Notified phosphatic and potassic fertiliser grades
 
-**Answer: D**
+### MCQ 05
 
-**Option explanations:**
-- A. Incorrect: Only urea; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
-- B. Incorrect: Electricity supplied to pump sets; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
-- C. Incorrect: All farm machinery; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
-- D. Correct: Notified phosphatic and potassic fertiliser grades; NBS is the nutrient-rate framework for notified P&K grades.
-
-**UPSC trap:** Trap 4: Urea must not be placed inside the NBS basket.
-
-### Q5. A Budget Estimate is
+**Question:** A Budget Estimate is
 
 A. A planned provision for the financial year
+
 B. Audited final expenditure
+
 C. A WTO notification value
+
 D. The producer's net benefit
 
-**Answer: A**
+### MCQ 06
 
-**Option explanations:**
-- A. Correct: A planned provision for the financial year; BE must not be confused with Actual or incidence.
-- B. Incorrect: Audited final expenditure; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
-- C. Incorrect: A WTO notification value; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
-- D. Incorrect: The producer's net benefit; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
-
-**UPSC trap:** Trap 5: A Budget Estimate is neither audited spending nor measured welfare.
-
-### Q6. Why can a quantity-linked input subsidy be regressive?
+**Question:** Why can a quantity-linked input subsidy be regressive?
 
 A. Every recipient receives identical value
+
 B. Larger users may capture more total benefit
+
 C. It always excludes landowners
+
 D. Its fiscal cost is always zero
 
-**Answer: B**
+### MCQ 07
 
-**Option explanations:**
-- A. Incorrect: Every recipient receives identical value; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
-- B. Correct: Larger users may capture more total benefit; benefit rises with subsidised quantity and access.
-- C. Incorrect: It always excludes landowners; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
-- D. Incorrect: Its fiscal cost is always zero; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
-
-**UPSC trap:** Trap 6: Equal subsidy per unit can create unequal total gains across farm sizes.
-
-### Q7. The water-energy-crop loop describes
+**Question:** The water-energy-crop loop describes
 
 A. Only monsoon forecasting
+
 B. A WTO tariff quota
+
 C. Interacting power, groundwater and crop-price incentives
+
 D. A crop-insurance claim cycle
 
-**Answer: C**
+### MCQ 08
 
-**Option explanations:**
-- A. Incorrect: Only monsoon forecasting; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
-- B. Incorrect: A WTO tariff quota; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
-- C. Correct: Interacting power, groundwater and crop-price incentives; joint incentives can lock in extraction and crop choice.
-- D. Incorrect: A crop-insurance claim cycle; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
-
-**UPSC trap:** Trap 7: Power, water and crop incentives interact; isolating one misses the loop.
-
-### Q8. Which is not automatically proved by digital authentication?
+**Question:** Which is not automatically proved by digital authentication?
 
 A. A transaction can be logged
+
 B. Duplicate detection may improve
+
 C. An audit trail can be created
+
 D. Zero exclusion and zero leakage
 
-**Answer: D**
+### MCQ 09
 
-**Option explanations:**
-- A. Incorrect: A transaction can be logged; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
-- B. Incorrect: Duplicate detection may improve; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
-- C. Incorrect: An audit trail can be created; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
-- D. Correct: Zero exclusion and zero leakage; digitisation can reduce some errors while creating others.
-
-**UPSC trap:** Trap 8: Authentication can reduce duplicates while still excluding genuine users.
-
-### Q9. PM-KISAN is best classified as
+**Question:** PM-KISAN is best classified as
 
 A. Eligible-family income support subject to scheme rules
+
 B. A fertiliser-company reimbursement
+
 C. A guaranteed procurement contract
+
 D. An export subsidy
 
-**Answer: A**
+### MCQ 10
 
-**Option explanations:**
-- A. Correct: Eligible-family income support subject to scheme rules; its legal form is an income transfer rather than input-price reimbursement.
-- B. Incorrect: A fertiliser-company reimbursement; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
-- C. Incorrect: A guaranteed procurement contract; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
-- D. Incorrect: An export subsidy; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
-
-**UPSC trap:** Trap 9: PM-KISAN is income support, not a fertiliser reimbursement or procurement right.
-
-### Q10. Interest subvention lowers
+**Question:** Interest subvention lowers
 
 A. The WTO tariff binding
+
 B. The effective borrowing cost for eligible credit
+
 C. The crop's rainfall risk directly
+
 D. The consumer food price by definition
 
-**Answer: B**
+### MCQ 11
 
-**Option explanations:**
-- A. Incorrect: The WTO tariff binding; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
-- B. Correct: The effective borrowing cost for eligible credit; subvention changes financing cost, not every other farm risk.
-- C. Incorrect: The crop's rainfall risk directly; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
-- D. Incorrect: The consumer food price by definition; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
-
-**UPSC trap:** Trap 10: Interest subsidy is not the principal amount of agricultural credit.
-
-### Q11. Premium subsidy under crop insurance
+**Question:** Premium subsidy under crop insurance
 
 A. Guarantees payment for every reported loss
+
 B. Equals total insured sum
+
 C. Shares the cost of an insurance contract
+
 D. Eliminates basis risk
 
-**Answer: C**
+### MCQ 12
 
-**Option explanations:**
-- A. Incorrect: Guarantees payment for every reported loss; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
-- B. Incorrect: Equals total insured sum; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
-- C. Correct: Shares the cost of an insurance contract; premium support does not remove trigger and assessment conditions.
-- D. Incorrect: Eliminates basis risk; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
-
-**UPSC trap:** Trap 11: Premium support neither guarantees a claim nor eliminates basis risk.
-
-### Q12. MSP announcement differs from procurement because
+**Question:** MSP announcement differs from procurement because
 
 A. MSP is a WTO Green Box category
+
 B. Procurement is always equal to subsidy
+
 C. MSP is a consumer transfer
+
 D. Procurement is an actual purchase operation
 
-**Answer: D**
+### MCQ 13
 
-**Option explanations:**
-- A. Incorrect: MSP is a WTO Green Box category; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
-- B. Incorrect: Procurement is always equal to subsidy; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
-- C. Incorrect: MSP is a consumer transfer; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
-- D. Correct: Procurement is an actual purchase operation; price announcement and realised purchase are distinct events.
-
-**UPSC trap:** Trap 12: An announced MSP and an actual government purchase are different facts.
-
-### Q13. The WTO Agreement on Agriculture has which three pillars?
+**Question:** The WTO Agreement on Agriculture has which three pillars?
 
 A. Market access, domestic support and export competition
+
 B. Tariffs, services and intellectual property
+
 C. Currency, debt and reserves
+
 D. Procurement, PDS and irrigation
 
-**Answer: A**
+### MCQ 14
 
-**Option explanations:**
-- A. Correct: Market access, domestic support and export competition; the AoA's official architecture is the three-pillar framework.
-- B. Incorrect: Tariffs, services and intellectual property; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
-- C. Incorrect: Currency, debt and reserves; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
-- D. Incorrect: Procurement, PDS and irrigation; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
-
-**UPSC trap:** Trap 13: Domestic-support boxes are only one of the AoA's three pillars.
-
-### Q14. Tariff-rate quotas belong primarily to
+**Question:** Tariff-rate quotas belong primarily to
 
 A. Green Box
+
 B. Market access
+
 C. Article 6.2
+
 D. Export subsidy elimination
 
-**Answer: B**
+### MCQ 15
 
-**Option explanations:**
-- A. Incorrect: Green Box; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
-- B. Correct: Market access; TRQs are border instruments rather than domestic-support boxes.
-- C. Incorrect: Article 6.2; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
-- D. Incorrect: Export subsidy elimination; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
-
-**UPSC trap:** Trap 14: A tariff-rate quota is a border instrument, not a domestic-support box.
-
-### Q15. Green Box means
+**Question:** Green Box means
 
 A. Any environmentally beneficial subsidy
+
 B. Any subsidy below 10 percent
+
 C. Support meeting Annex 2 general and policy-specific criteria
+
 D. Any payment to a developing country
 
-**Answer: C**
+### MCQ 16
 
-**Option explanations:**
-- A. Incorrect: Any environmentally beneficial subsidy; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
-- B. Incorrect: Any subsidy below 10 percent; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
-- C. Correct: Support meeting Annex 2 general and policy-specific criteria; Green status follows legal criteria, not colour or size.
-- D. Incorrect: Any payment to a developing country; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
-
-**UPSC trap:** Trap 15: Green Box is a legal Annex 2 category, not an environmental label.
-
-### Q16. Blue Box requires, among other things
+**Question:** Blue Box requires, among other things
 
 A. An export contingency
+
 B. A fertiliser PoS transaction
+
 C. A public-stockholding notification only
+
 D. A qualifying production-limiting direct-payment design
 
-**Answer: D**
+### MCQ 17
 
-**Option explanations:**
-- A. Incorrect: An export contingency; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
-- B. Incorrect: A fertiliser PoS transaction; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
-- C. Incorrect: A public-stockholding notification only; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
-- D. Correct: A qualifying production-limiting direct-payment design; Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
-
-**UPSC trap:** Trap 16: A direct payment is Blue only when production-limiting conditions are met.
-
-### Q17. Amber Box support is
+**Question:** Amber Box support is
 
 A. Non-exempt trade- or production-distorting domestic support counted in AMS
+
 B. Automatically prohibited expenditure
+
 C. All public agricultural spending
+
 D. Only consumer food subsidy
 
-**Answer: A**
+### MCQ 18
 
-**Option explanations:**
-- A. Correct: Non-exempt trade- or production-distorting domestic support counted in AMS; Amber is a residual domestic-support category subject to commitments and exemptions.
-- B. Incorrect: Automatically prohibited expenditure; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
-- C. Incorrect: All public agricultural spending; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
-- D. Incorrect: Only consumer food subsidy; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
-
-**UPSC trap:** Trap 17: Amber support is counted and disciplined; it is not automatically prohibited.
-
-### Q18. For a developing member, product-specific de minimis is generally tested against
+**Question:** For a developing member, product-specific de minimis is generally tested against
 
 A. Total government expenditure
+
 B. That product's value of production
+
 C. Total exports
+
 D. Procurement value only
 
-**Answer: B**
+### MCQ 19
 
-**Option explanations:**
-- A. Incorrect: Total government expenditure; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
-- B. Correct: That product's value of production; Article 6.4 uses the product's production value denominator.
-- C. Incorrect: Total exports; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
-- D. Incorrect: Procurement value only; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
-
-**UPSC trap:** Trap 18: Use the product's production value, not procurement value, as the denominator.
-
-### Q19. Product-specific and non-product-specific de minimis tests are
+**Question:** Product-specific and non-product-specific de minimis tests are
 
 A. Added into one 20 percent allowance
+
 B. Both based on procurement value
+
 C. Separate tests
+
 D. Unavailable to developing members
 
-**Answer: C**
+### MCQ 20
 
-**Option explanations:**
-- A. Incorrect: Added into one 20 percent allowance; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
-- B. Incorrect: Both based on procurement value; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
-- C. Correct: Separate tests; the two categories have separate numerators and denominators.
-- D. Incorrect: Unavailable to developing members; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
-
-**UPSC trap:** Trap 19: The two developing-country 10 percent tests cannot be pooled into 20 percent.
-
-### Q20. Article 6.2 can exempt
+**Question:** Article 6.2 can exempt
 
 A. Every agricultural measure without conditions
+
 B. All export subsidies
+
 C. All administered prices
+
 D. Specified developing-country investment and qualifying input subsidies
 
-**Answer: D**
+### MCQ 21
 
-**Option explanations:**
-- A. Incorrect: Every agricultural measure without conditions; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
-- B. Incorrect: All export subsidies; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
-- C. Incorrect: All administered prices; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
-- D. Correct: Specified developing-country investment and qualifying input subsidies; the development provision is limited by member and measure conditions.
-
-**UPSC trap:** Trap 20: Developing-country status does not exempt every input subsidy under Article 6.2.
-
-### Q21. The AoA market-price-support formula uses
+**Question:** The AoA market-price-support formula uses
 
 A. Administered price minus fixed external reference price, times eligible production
+
 B. Budget outlay times procurement price
+
 C. Market price minus MSP, times exports
+
 D. Tariff rate times imports
 
-**Answer: A**
+### MCQ 22
 
-**Option explanations:**
-- A. Correct: Administered price minus fixed external reference price, times eligible production; Annex 3 uses the administered-reference price gap and eligible production.
-- B. Incorrect: Budget outlay times procurement price; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
-- C. Incorrect: Market price minus MSP, times exports; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
-- D. Incorrect: Tariff rate times imports; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
-
-**UPSC trap:** Trap 21: WTO market-price support is a formula, not the procurement bill.
-
-### Q22. The fixed external reference price generally relates to
+**Question:** The fixed external reference price generally relates to
 
 A. The latest Budget year
+
 B. The 1986-88 base period
+
 C. The last three crop seasons automatically
+
 D. The current world spot price
 
-**Answer: B**
+### MCQ 23
 
-**Option explanations:**
-- A. Incorrect: The latest Budget year; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
-- B. Correct: The 1986-88 base period; the historical fixed base is central to the inflation debate.
-- C. Incorrect: The last three crop seasons automatically; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
-- D. Incorrect: The current world spot price; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
-
-**UPSC trap:** Trap 22: The fixed reference price is historical, not the latest world-market quotation.
-
-### Q23. Eligible production necessarily equals actual procurement
+**Question:** Eligible production necessarily equals actual procurement
 
 A. Yes, in every programme
+
 B. Yes, but only for exports
+
 C. No; the legal eligibility concept may differ
+
 D. No, because quantity is never used
 
-**Answer: C**
+### MCQ 24
 
-**Option explanations:**
-- A. Incorrect: Yes, in every programme; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
-- B. Incorrect: Yes, but only for exports; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
-- C. Correct: No; the legal eligibility concept may differ; programme coverage and legal availability determine eligible production.
-- D. Incorrect: No, because quantity is never used; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
-
-**UPSC trap:** Trap 23: Eligible production cannot automatically be replaced by procured quantity.
-
-### Q24. The Bali public-stockholding decision dates from
+**Question:** The Bali public-stockholding decision dates from
 
 A. 1 April 2010
+
 B. 19 December 2015
+
 C. 10 September 2026
+
 D. 7 December 2013
 
-**Answer: D**
+### MCQ 25
 
-**Option explanations:**
-- A. Incorrect: 1 April 2010; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
-- B. Incorrect: 19 December 2015; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
-- C. Incorrect: 10 September 2026; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
-- D. Correct: 7 December 2013; the ministerial decision was adopted at Bali in December 2013.
-
-**UPSC trap:** Trap 24: Do not confuse the 2013 Bali decision with the later 2014 extension.
-
-### Q25. WT/L/939 provides that the interim mechanism lasts
+**Question:** WT/L/939 provides that the interim mechanism lasts
 
 A. Until a permanent solution is agreed and adopted
+
 B. Only until MC11
+
 C. For one financial year
+
 D. Until domestic stocks are exhausted
 
-**Answer: A**
+### MCQ 26
 
-**Option explanations:**
-- A. Correct: Until a permanent solution is agreed and adopted; the 2014 General Council decision removed a fixed ministerial expiry.
-- B. Incorrect: Only until MC11; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
-- C. Incorrect: For one financial year; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
-- D. Incorrect: Until domestic stocks are exhausted; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
-
-**UPSC trap:** Trap 25: The interim mechanism did not expire merely because MC11 passed.
-
-### Q26. The peace clause is best understood as
+**Question:** The peace clause is best understood as
 
 A. A permanent amendment deleting AMS rules
+
 B. Conditional due restraint for qualifying programmes
+
 C. A universal exemption for all farm support
+
 D. A waiver of notification duties
 
-**Answer: B**
+### MCQ 27
 
-**Option explanations:**
-- A. Incorrect: A permanent amendment deleting AMS rules; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
-- B. Correct: Conditional due restraint for qualifying programmes; scope, transparency and safeguards remain material.
-- C. Incorrect: A universal exemption for all farm support; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
-- D. Incorrect: A waiver of notification duties; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
-
-**UPSC trap:** Trap 26: Due restraint is conditional and does not erase notification obligations.
-
-### Q27. Which distinction is correct?
+**Question:** Which distinction is correct?
 
 A. Every duty remission is an export subsidy
+
 B. Every export promotion measure is legal
+
 C. Export contingency is central to identifying an export subsidy
+
 D. Domestic input subsidy and export subsidy are identical
 
-**Answer: C**
+### MCQ 28
 
-**Option explanations:**
-- A. Incorrect: Every duty remission is an export subsidy; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
-- B. Incorrect: Every export promotion measure is legal; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
-- C. Correct: Export contingency is central to identifying an export subsidy; legal classification examines contingency and excess benefit.
-- D. Incorrect: Domestic input subsidy and export subsidy are identical; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
-
-**UPSC trap:** Trap 27: A valid tax remission is not automatically an export subsidy.
-
-### Q28. Nairobi's 2015 agricultural export decision addressed
+**Question:** Nairobi's 2015 agricultural export decision addressed
 
 A. Creation of NBS
+
 B. Adoption of PM-KISAN
+
 C. Replacement of the AoA
+
 D. Export-subsidy elimination and related export-competition disciplines
 
-**Answer: D**
+### MCQ 29
 
-**Option explanations:**
-- A. Incorrect: Creation of NBS; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
-- B. Incorrect: Adoption of PM-KISAN; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
-- C. Incorrect: Replacement of the AoA; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
-- D. Correct: Export-subsidy elimination and related export-competition disciplines; the ministerial outcome tightened export-competition rules.
-
-**UPSC trap:** Trap 28: Nairobi disciplines extend beyond a simplistic ban-label comparison.
-
-### Q29. A sound cross-country subsidy comparison uses
+**Question:** A sound cross-country subsidy comparison uses
 
 A. A common metric, period, currency basis and denominator
+
 B. Raw budget totals alone
+
 C. One country's AMS and another's total procurement
+
 D. Undated scheme announcements
 
-**Answer: A**
+### MCQ 30
 
-**Option explanations:**
-- A. Correct: A common metric, period, currency basis and denominator; unmatched definitions create false comparisons.
-- B. Incorrect: Raw budget totals alone; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
-- C. Incorrect: One country's AMS and another's total procurement; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
-- D. Incorrect: Undated scheme announcements; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
-
-**UPSC trap:** Trap 29: Raw national outlays are incomparable when definition and denominator differ.
-
-### Q30. Decoupled support aims to
+**Question:** Decoupled support aims to
 
 A. Increase subsidy per unit of fertiliser
+
 B. Reduce linkage to current input use or output
+
 C. Guarantee procurement of all output
+
 D. Remove all income protection
 
-**Answer: B**
+### MCQ 31
 
-**Option explanations:**
-- A. Incorrect: Increase subsidy per unit of fertiliser; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
-- B. Correct: Reduce linkage to current input use or output; weaker current-production linkage usually lowers production distortion.
-- C. Incorrect: Guarantee procurement of all output; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
-- D. Incorrect: Remove all income protection; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
-
-**UPSC trap:** Trap 30: Cash can remain coupled through current production, land or input conditions.
-
-### Q31. A credible subsidy reform package should include
+**Question:** A credible subsidy reform package should include
 
 A. Abrupt universal withdrawal only
+
 B. Permanent compensation without review
+
 C. Sequencing, transition protection and outcome evaluation
+
 D. App counts as the sole success metric
 
-**Answer: C**
+### MCQ 32
 
-**Option explanations:**
-- A. Incorrect: Abrupt universal withdrawal only; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
-- B. Incorrect: Permanent compensation without review; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
-- C. Correct: Sequencing, transition protection and outcome evaluation; distribution and implementation determine reform durability.
-- D. Incorrect: App counts as the sole success metric; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
-
-**UPSC trap:** Trap 31: Efficiency reform without transition protection can be inequitable and unstable.
-
-### Q32. Which is the best Mains conclusion?
+**Question:** Which is the best Mains conclusion?
 
 A. All subsidies should continue unchanged
+
 B. WTO rules make food security impossible
+
 C. Only cash can solve every farm problem
+
 D. Targeted support, public goods, corrected incentives and WTO transparency should be combined
 
-**Answer: D**
+### MCQ 33
 
-**Option explanations:**
-- A. Incorrect: All subsidies should continue unchanged; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
-- B. Incorrect: WTO rules make food security impossible; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
-- C. Incorrect: Only cash can solve every farm problem; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
-- D. Correct: Targeted support, public goods, corrected incentives and WTO transparency should be combined; a balanced package addresses income, productivity, ecology and compliance.
+**Question:** A hypothetical product has value of production Rs 2,000 crore and calculated product-specific AMS Rs 170 crore. For a developing member applying the ordinary 10% de minimis test, what follows before considering any other exemptions?
 
-**UPSC trap:** Trap 32: A balanced conclusion should not demand either blanket retention or abolition.
+A. Rs 170 crore is below the Rs 200 crore product threshold
+
+B. Rs 170 crore must be compared against the value of total agricultural output
+
+C. The 10% threshold equals Rs 20 crore
+
+D. De minimis applies only to export subsidies
+
+### MCQ 34
+
+**Question:** For a hypothetical qualifying administered-price programme, the applied price is Rs 2,300 and fixed external reference price Rs 1,800 per quintal; eligible output is 12 lakh quintals. What is the formula-based market-price support?
+
+A. Rs 27.6 billion
+
+B. Rs 60 crore
+
+C. Rs 500 crore
+
+D. Rs 2,160 crore
+
+### MCQ 35
+
+**Question:** A fertiliser company receives reimbursement after retail PoS sale and farmers pay a subsidised price. Which analytical classification is soundest?
+
+A. It is a direct cash transfer to farmers because the label says DBT
+
+B. Government reimbursement automatically measures each farmer's net welfare gain
+
+C. The statutory recipient is the firm; ultimate farmer benefit depends on price pass-through, availability and use
+
+D. It is outside all fiscal accounts because beneficiaries are farmers
+
+### MCQ 36
+
+**Question:** A developing member invokes the Bali public-stockholding due-restraint mechanism. Which claim is least defensible?
+
+A. Transparency and anti-circumvention safeguards matter
+
+B. The programme's crop and timing eligibility must be checked
+
+C. The mechanism is interim pending a permanent solution
+
+D. It permanently erases domestic-support limits for every future procurement scheme
+
+### MCQ 37
+
+**Question:** A state replaces free pump electricity with reliable metered supply and an income transfer, but tenants cannot register for the transfer. What is the most serious distributional flaw?
+
+A. Tenant farmers may pay the higher energy charge without receiving compensating support
+
+B. Metering automatically destroys all groundwater monitoring
+
+C. The shift necessarily increases urea subsidy spending
+
+D. Reliable supply is irrelevant to water use
+
+### MCQ 38
+
+**Question:** Under the WTO Agreement on Agriculture, which comparison correctly distinguishes Green Box from Article 6.2?
+
+A. Both automatically exempt every developing-country cash subsidy
+
+B. Green Box has Annex 2 conditions; Article 6.2 addresses specified developing-country investment and input support
+
+C. Green Box is the same as the 10% de minimis test
+
+D. Article 6.2 covers any export-linked farm payment
+
+### MCQ 39
+
+**Question:** A procurement policy raises the administered price while eligible production stays constant. What is the direct effect on formula-based AoA MPS, holding the fixed external reference price unchanged?
+
+A. MPS falls because the Budget may spend less
+
+B. No change until export proceeds are measured
+
+C. MPS rises by price increase times eligible production
+
+D. Only actual procurement price, never eligible output, is relevant
+
+### MCQ 40
+
+**Question:** A government compares its nominal fertiliser subsidy with another country's differently dated farm-support aggregate. Which normalization makes a meaningful comparison possible?
+
+A. Compare raw figures at their own exchange rates without dates
+
+B. Compare only the names of beneficiary ministries
+
+C. Use one country's total procurement as the other's input subsidy denominator
+
+D. Specify coverage, common period, price/currency convention and proportionate output or farm-income denominator
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** Final benefit depends on market adjustment and incidence.
+
+- **Option B:** A ministry administers rather than necessarily benefits.
+
+- **Option C:** First payee is a statutory recipient, not necessarily final beneficiary.
+
+- **Option D:** An appropriation records fiscal provision, not net household gain.
+
+**Unique trap:** Trap 1: The ministry or first payee is not the final economic beneficiary.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** Direct transfers may be explicitly budgeted.
+
+- **Option B:** Delivery route and accounting visibility are independent axes.
+
+- **Option C:** Indirectly delivered fertiliser support may be explicit spending.
+
+- **Option D:** Budgeted support can reimburse a firm or utility.
+
+**Unique trap:** Trap 2: Direct-indirect and explicit-implicit are two axes, not interchangeable pairs.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** PM-KISAN pays eligible families; fertiliser DBT does not.
+
+- **Option B:** Urea retains a separate regime from NBS.
+
+- **Option C:** Companies receive subsidy against PoS-recorded retail sales.
+
+- **Option D:** PoS-linked reimbursement coexists with administered product pricing.
+
+**Unique trap:** Trap 3: The letters DBT do not prove that cash reaches a farmer.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** Urea falls outside NBS.
+
+- **Option B:** Farm electricity follows state tariff policy, not fertiliser NBS.
+
+- **Option C:** Capital machinery grants are not nutrient subsidies.
+
+- **Option D:** NBS specifies support for notified P&K grades.
+
+**Unique trap:** Trap 4: Urea must not be placed inside the NBS basket.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** BE sets proposed provision before the year's outcome.
+
+- **Option B:** Audited expenditure is an ex-post account.
+
+- **Option C:** WTO notifications measure support under treaty rules.
+
+- **Option D:** Producer benefit requires incidence and cost analysis.
+
+**Unique trap:** Trap 5: A Budget Estimate is neither audited spending nor measured welfare.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** Per-unit equality does not imply equal quantities accessed.
+
+- **Option B:** Greater land or pump access can raise total captured subsidy.
+
+- **Option C:** Owners can capture large gains, rather than always being excluded.
+
+- **Option D:** Subsidies have fiscal or opportunity costs.
+
+**Unique trap:** Trap 6: Equal subsidy per unit can create unequal total gains across farm sizes.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** Rainfall matters but does not capture price-induced pumping.
+
+- **Option B:** TRQs regulate import access, not aquifer use.
+
+- **Option C:** Cheap power, extraction and crop incentives reinforce one another.
+
+- **Option D:** Crop insurance compensates specified risk, not the nexus.
+
+**Unique trap:** Trap 7: Power, water and crop incentives interact; isolating one misses the loop.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** Logs can document an authenticated sale.
+
+- **Option B:** Identity checks can help detect duplicate claims.
+
+- **Option C:** Transaction records can improve auditability.
+
+- **Option D:** Wrongful exclusion, proxy sales and diversion can persist.
+
+**Unique trap:** Trap 8: Authentication can reduce duplicates while still excluding genuine users.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** PM-KISAN transfers income subject to family eligibility.
+
+- **Option B:** Fertiliser reimbursement goes to companies.
+
+- **Option C:** Income transfer does not promise crop purchase.
+
+- **Option D:** PM-KISAN does not depend on exporting crops.
+
+**Unique trap:** Trap 9: PM-KISAN is income support, not a fertiliser reimbursement or procurement right.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** Interest support does not alter bound customs duties.
+
+- **Option B:** Subvention reduces eligible borrowers' effective interest charge.
+
+- **Option C:** Cheaper credit does not change rainfall directly.
+
+- **Option D:** Food retail prices depend on supply chains and pass-through.
+
+**Unique trap:** Trap 10: Interest subsidy is not the principal amount of agricultural credit.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** Indemnity depends on insured event and contract conditions.
+
+- **Option B:** Sum insured is exposure, not the premium subsidy.
+
+- **Option C:** Government shares the cost of the insurance premium.
+
+- **Option D:** Area-yield and individual loss can still diverge.
+
+**Unique trap:** Trap 11: Premium support neither guarantees a claim nor eliminates basis risk.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** MSP is administered-price policy, not automatically Green Box.
+
+- **Option B:** Procurement spending and measured support are distinct.
+
+- **Option C:** MSP supports producers rather than being itself a consumer transfer.
+
+- **Option D:** Purchasing and holding produce requires an actual transaction.
+
+**Unique trap:** Trap 12: An announced MSP and an actual government purchase are different facts.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** AoA disciplines market access, domestic support and export competition.
+
+- **Option B:** Services/IP are covered by separate WTO agreements.
+
+- **Option C:** Currency and debt are macroeconomic, not AoA pillars.
+
+- **Option D:** PDS and irrigation are programmes, not treaty pillars.
+
+**Unique trap:** Trap 13: Domestic-support boxes are only one of the AoA's three pillars.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** Green Box classifies qualifying domestic support.
+
+- **Option B:** Tariff-rate quotas specify in-quota and out-of-quota access.
+
+- **Option C:** Article 6.2 concerns exempt developing-member domestic support.
+
+- **Option D:** Export-competition disciplines concern exports, not import quotas.
+
+**Unique trap:** Trap 14: A tariff-rate quota is a border instrument, not a domestic-support box.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** Environmental labels alone do not satisfy Annex 2.
+
+- **Option B:** De minimis is a separate AMS exemption test.
+
+- **Option C:** Green Box requires general and applicable policy-specific Annex 2 conditions.
+
+- **Option D:** Member income status alone never confers Green Box treatment.
+
+**Unique trap:** Trap 15: Green Box is a legal Annex 2 category, not an environmental label.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** Export-contingent incentives raise export-subsidy concerns.
+
+- **Option B:** PoS receipts document fertiliser sales, not production limiting.
+
+- **Option C:** Stockholding notification invokes a different treaty process.
+
+- **Option D:** Blue Box has qualifying direct payments under production-limiting programmes.
+
+**Unique trap:** Trap 16: A direct payment is Blue only when production-limiting conditions are met.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** Amber denotes non-exempt support included in AMS.
+
+- **Option B:** AMS commitments and de minimis exceptions mean not all such outlays are prohibited.
+
+- **Option C:** Research/public services may qualify for Green Box treatment.
+
+- **Option D:** Consumer food aid has distinct treatment from producer Amber support.
+
+**Unique trap:** Trap 17: Amber support is counted and disciplined; it is not automatically prohibited.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** Budget spending is not the product-specific denominator.
+
+- **Option B:** The support is compared with the product's value of production.
+
+- **Option C:** Exports do not define domestic product-specific de minimis.
+
+- **Option D:** Procured quantity need not equal value of total production.
+
+**Unique trap:** Trap 18: Use the product's production value, not procurement value, as the denominator.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** Two 10% tests cannot simply be pooled into 20%.
+
+- **Option B:** Non-product-specific support uses total farm production value, not procurement.
+
+- **Option C:** Product and non-product-specific support are tested separately.
+
+- **Option D:** Developing members have distinct de minimis thresholds.
+
+**Unique trap:** Trap 19: The two developing-country 10 percent tests cannot be pooled into 20 percent.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** Article 6.2 has eligibility and policy conditions.
+
+- **Option B:** Export subsidies are governed by export-competition rules.
+
+- **Option C:** Administered prices require separate support measurement.
+
+- **Option D:** Certain investment and low-income/resource-poor input measures may qualify.
+
+**Unique trap:** Trap 20: Developing-country status does not exempt every input subsidy under Article 6.2.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** Annex 3 uses the applied-price gap times eligible output.
+
+- **Option B:** A Budget purchase allocation is not the treaty MPS formula.
+
+- **Option C:** Observed market price and exports are not its prescribed inputs.
+
+- **Option D:** A border tariff is not domestic administered-price support.
+
+**Unique trap:** Trap 21: WTO market-price support is a formula, not the procurement bill.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** The latest Budget is an expenditure document, not reference price vintage.
+
+- **Option B:** The fixed external reference generally draws on 1986-88.
+
+- **Option C:** A rolling three-season average is not the prescribed fixed base.
+
+- **Option D:** Current spot quotations do not replace the fixed reference.
+
+**Unique trap:** Trap 22: The fixed reference price is historical, not the latest world-market quotation.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** Programme eligibility may cover output beyond purchased stocks.
+
+- **Option B:** Export status does not determine eligibility.
+
+- **Option C:** Text and design of the programme determine eligible output.
+
+- **Option D:** Eligible quantity is a crucial multiplier in MPS computation.
+
+**Unique trap:** Trap 23: Eligible production cannot automatically be replaced by procured quantity.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** 2010 predates the Bali ministerial decision.
+
+- **Option B:** 2015 marks Nairobi, not the original Bali decision.
+
+- **Option C:** A 2026 document cutoff does not date the WTO decision.
+
+- **Option D:** Bali's public-stockholding interim arrangement dates to December 2013.
+
+**Unique trap:** Trap 24: Do not confuse the 2013 Bali decision with the later 2014 extension.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** The 2014 General Council decision continues due restraint until a permanent solution.
+
+- **Option B:** MC11 is not the automatic expiry date.
+
+- **Option C:** It is not a single-year domestic Budget provision.
+
+- **Option D:** Physical stocks running out is not its legal sunset condition.
+
+**Unique trap:** Trap 25: The interim mechanism did not expire merely because MC11 passed.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** The conditional decision did not delete AMS disciplines.
+
+- **Option B:** Qualifying existing programmes obtain due restraint subject to safeguards.
+
+- **Option C:** Coverage is not a blanket exemption for any farm payment.
+
+- **Option D:** Transparency and notification remain among the conditions.
+
+**Unique trap:** Trap 26: Due restraint is conditional and does not erase notification obligations.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** Duty remission avoiding excess may be permitted rather than a subsidy.
+
+- **Option B:** Export-contingent benefits need examination under specific rules.
+
+- **Option C:** Conditioning a benefit on exports is a key classification test.
+
+- **Option D:** Domestic input support and export-conditioned support have different legal triggers.
+
+**Unique trap:** Trap 27: A valid tax remission is not automatically an export subsidy.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** NBS governs nutrient support, not Nairobi's export agreement.
+
+- **Option B:** PM-KISAN is an Indian income support scheme.
+
+- **Option C:** The AoA was not abolished at Nairobi.
+
+- **Option D:** Nairobi disciplines agricultural export subsidies and related competition instruments.
+
+**Unique trap:** Trap 28: Nairobi disciplines extend beyond a simplistic ban-label comparison.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** Normalize currency, vintage and denominator before drawing comparisons.
+
+- **Option B:** Budget totals conceal farm-sector size and scheme scope.
+
+- **Option C:** AMS and procurement represent different measures.
+
+- **Option D:** Announcements are neither dated expenditure nor comparable support.
+
+**Unique trap:** Trap 29: Raw national outlays are incomparable when definition and denominator differ.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** Higher fertiliser use ties aid more tightly to current input use.
+
+- **Option B:** Decoupling weakens current production/input incentive linkage.
+
+- **Option C:** Unconditional crop purchase would directly affect output incentives.
+
+- **Option D:** Income protection can be designed without current-output linkage.
+
+**Unique trap:** Trap 30: Cash can remain coupled through current production, land or input conditions.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** Sudden removal risks a livelihood shock and political reversal.
+
+- **Option B:** Open-ended compensation cannot reveal whether reform works.
+
+- **Option C:** Sequencing and measurement balance security with changed incentives.
+
+- **Option D:** App adoption measures neither welfare nor ecological outcomes.
+
+**Unique trap:** Trap 31: Efficiency reform without transition protection can be inequitable and unstable.
+
+### MCQ 32 - D
+
+**Correct answer:** D
+
+- **Option A:** Unchanged policy can perpetuate resource and distributional distortions.
+
+- **Option B:** WTO rules constrain designs but allow qualifying flexibilities.
+
+- **Option C:** Cash alone cannot deliver research, storage or food access.
+
+- **Option D:** Combine targeted insurance/income support, public goods, better incentives and transparent classification.
+
+**Unique trap:** Trap 32: A balanced conclusion should not demand either blanket retention or abolition.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** Ten per cent of this product's Rs 2,000 crore production value is Rs 200 crore.
+
+- **Option B:** Total production value applies to non-product-specific support.
+
+- **Option C:** One per cent of 2,000 crore is Rs 20 crore; ten per cent is Rs 200 crore.
+
+- **Option D:** The test concerns domestic support measured for AMS.
+
+**Unique trap:** The product-specific denominator cannot be replaced by total farm output.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** Rs 2,300 multiplied by output uses the whole price rather than the gap.
+
+- **Option B:** Rs 500 per quintal times 12 lakh quintals equals Rs 60 crore.
+
+- **Option C:** Rs 500 is the per-quintal gap, not aggregate support.
+
+- **Option D:** Multiplying the reference price by eligible volume is not the MPS gap calculation.
+
+**Unique trap:** MPS is a price GAP multiplied by eligible, not necessarily procured, output.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** Farmers purchase a lower-priced product, not receive this reimbursement in cash.
+
+- **Option B:** Fiscal payment differs from incidence and ignores distortions.
+
+- **Option C:** Recipient, price transmission and final incidence should be measured separately.
+
+- **Option D:** Company reimbursements involve recorded government expenditure.
+
+**Unique trap:** Administrative DBT terminology cannot settle economic incidence.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** The decision imposes disclosure and safeguard conditions.
+
+- **Option B:** Not all future programmes are automatically covered.
+
+- **Option C:** The General Council continued the interim approach pending permanent agreement.
+
+- **Option D:** Due restraint for qualifying cases is not a permanent unconditional amendment of AMS law.
+
+**Unique trap:** A peace clause is conditional litigation restraint, not treaty-wide exemption.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** Registration tied to ownership can separate new costs from cash protection.
+
+- **Option B:** Metering can improve measurement when designed fairly.
+
+- **Option C:** Fertiliser costs do not mechanically follow the power tariff change.
+
+- **Option D:** Supply quality changes pumping incentives and farm risk.
+
+**Unique trap:** Transition protection must reach actual cultivators, not just registered owners.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** Both routes have distinct eligibility requirements.
+
+- **Option B:** Legal criteria and the development flexibility must be tested separately.
+
+- **Option C:** De minimis is an AMS threshold, not Annex 2 exemption.
+
+- **Option D:** Export contingency raises separate disciplines.
+
+**Unique trap:** Different exemption routes cannot be inferred from a scheme's pro-farmer label.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Budgetary purchases and treaty MPS need not covary.
+
+- **Option B:** Export receipts do not enter this domestic-support formula.
+
+- **Option C:** The price gap increases by the administered-price increment.
+
+- **Option D:** Eligible production is explicitly the quantity multiplier.
+
+**Unique trap:** Do not infer AMS movement from procurement expenditure alone.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** Unaligned units and vintages make magnitude comparisons unreliable.
+
+- **Option B:** Administrative names do not determine incidence or size.
+
+- **Option C:** Procurement and support aggregates measure different objects.
+
+- **Option D:** Comparable scope and denominators avoid spurious rankings.
+
+**Unique trap:** Large nominal totals are not evidence of proportionately larger farm support.
 
 ## VERIFIED PYQ ROUTING
 
 ### UPSC CSE Mains GS-III 2023
 **Question:** What are the direct and indirect subsidies provided to farm sector in India? Discuss the issues raised by the World Trade Organization in relation to agricultural subsidies.
 
-**Model approach:** Define both categories; map fertiliser, power, irrigation, credit, insurance, income and price support; trace incidence and externalities; then apply AoA pillars, AMS, de minimis, boxes, Article 6.2 and the conditional public-stockholding mechanism. Conclude with transparent, targeted and transition-safe reform.
+**Model solution:** Direct farm support transfers a specified benefit to eligible producers: PM-KISAN supplements income, while capital grants, interest relief and insurance-premium contributions support investment and risk-bearing. Indirect support reduces an input cost or supports an output price: fertiliser-company reimbursement linked to PoS retail sales, concessional power and irrigation, and MSP-backed procurement are examples. The administrative recipient and economic beneficiary differ: cheaper power benefits pump owners most, while land-record-based transfers can exclude tenant cultivators. Nor is all procurement spending a WTO subsidy.
+
+The WTO Agreement on Agriculture disciplines market access, domestic support and export competition. Its non-exempt Amber support enters the Aggregate Measurement of Support (AMS); for developing countries, product-specific support below 10% of the product's value of production and non-product-specific support below 10% of total agricultural production are tested separately. Annex 2 Green Box support must meet general and policy-specific conditions. Article 6.2 exempts certain developing-country investment subsidies and generally available input subsidies for low-income or resource-poor producers; Blue Box requires qualifying production-limiting payments. WTO market-price support uses the administered price minus a fixed 1986-88 external reference price, multiplied by eligible production rather than automatically by procured quantity. This dated reference may inflate measured support despite food-security objectives. Bali's conditional interim due restraint for qualifying public-stockholding programmes requires transparency and safeguards and was continued in 2014 until a permanent solution. India should document support honestly, improve tenant inclusion, redirect harmful input incentives toward public goods and defend a workable permanent stockholding solution.
 
 ### UPSC CSE Prelims 2020: fertiliser concepts
 Use the official paper and key for scoring. The verified conceptual route is: distinguish administered from market-determined pricing; recognise natural gas as a major feedstock for ammonia/urea; and verify industrial by-product chains before accepting a raw-material statement. This workbook does not invent an official key where the authenticated key text is not embedded.

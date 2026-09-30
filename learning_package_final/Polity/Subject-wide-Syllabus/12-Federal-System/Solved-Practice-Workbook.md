@@ -4,20 +4,266 @@ topic_key: polity-12
 ---
 # Federal System - Solved Practice Workbook
 
-> Constitution, official judgments, audited UPSC paper routes and current federal sources checked through 7 September 2026. Exactly 32 original MCQs precede ten audited direct/shared PYQs and six original Mains solutions. Unavailable historical official objective keys are explicitly withheld.
+> Constitution, official judgments, audited UPSC paper routes and current federal sources checked through 7 September 2026. Exactly 40 original MCQs precede ten audited direct/shared PYQs and six original Mains solutions. Unavailable historical official objective keys are explicitly withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** follow. Q1-Q24 diagnose the full syllabus spine; Q25-Q32 remediate close distinctions. Correct options follow `ABCD` eight times. Every option has a question-specific explanation and every question ends with a unique trap.
+Exactly **40 original MCQs** follow. Q1-Q24 diagnose the full syllabus spine; Q25-Q32 remediate close distinctions. Correct options follow `ABCD` eight times. Every option has a question-specific explanation and every question ends with a unique trap.
+
+
+All questions are presented before the separate solved key; the rotation applies to original questions only, not to the independently audited UPSC PYQs.
 
 ### Q1. Which proposition most accurately identifies the federal principle?
 
-A. The Constitution protects authority of general and regional governments in assigned spheres.  
-B. Every regional authority must possess a unilateral right to secede.  
-C. A national government is federal only when it is institutionally weak.  
-D. A federation necessarily maintains two completely separate court systems.  
+- A. The Constitution protects authority of general and regional governments in assigned spheres.
+- B. Every regional authority must possess a unilateral right to secede.
+- C. A national government is federal only when it is institutionally weak.
+- D. A federation necessarily maintains two completely separate court systems.
+### Q2. With reference to Articles 1 and 3, which statement is most accurate?
 
-**Answer: A.**
+- A. Every alteration of a State boundary requires that State legislature's consent.
+- B. India is a Union of States, and Parliament may reorganise States after seeking the affected State legislature's views.
+- C. Article 3 gives States a constitutional right to secede after consultation.
+- D. A law under Article 3 must always satisfy the special amendment procedure in Article 368.
+### Q3. Which statement about the Government of India Act, 1935 is correct?
+
+- A. Its All-India Federation began operating immediately in 1937.
+- B. It abolished provincial autonomy and restored dyarchy in every provincial subject.
+- C. It proposed an All-India Federation, introduced provincial autonomy and used a three-List distribution, but the federation did not operate.
+- D. It vested residuary power permanently in elected provincial legislatures.
+### Q4. Which combination most directly secures a classical federal distribution in India?
+
+- A. Single citizenship, All-India Services and emergency powers
+- B. Governor appointment, integrated audit and Article 3
+- C. Parliamentary government, Fundamental Duties and universal franchise
+- D. A written supreme Constitution, divided legislative fields, selective rigidity and independent judicial review
+### Q5. Which statement about Rajya Sabha is correct?
+
+- A. It represents States in Parliament, but its seats are not distributed equally among all States.
+- B. Every State has the same number of Rajya Sabha members.
+- C. Only State legislatures may initiate constitutional amendments affecting federal provisions.
+- D. Rajya Sabha alone can enact a law altering State boundaries.
+### Q6. Residuary legislative power under the Indian Constitution primarily belongs to:
+
+- A. State legislatures through State List Entry 1.
+- B. Parliament under Article 248 read with Union List Entry 97.
+- C. The Inter-State Council under Article 263.
+- D. The Supreme Court through Article 131.
+### Q7. Article 246A is best understood as:
+
+- A. a new entry added to the Concurrent List.
+- B. a power allowing only Parliament to legislate on all GST supplies.
+- C. a special constitutional grant of simultaneous GST competence, with a distinct rule for inter-State supplies.
+- D. a provision making GST Council recommendations automatically enforceable.
+### Q8. Which statement correctly describes Article 254?
+
+- A. It resolves every constitutional disagreement between the Union and a State.
+- B. It always invalidates a State law once Parliament legislates on any subject.
+- C. Presidential assent makes a State law permanently immune from later parliamentary law.
+- D. It principally governs repugnancy on Concurrent subjects, with a State-specific assent exception that Parliament may later override.
+### Q9. Parliament's power under Article 249 is activated by:
+
+- A. a Rajya Sabha resolution supported by two-thirds of members present and voting that national interest requires parliamentary legislation.
+- B. a simple majority resolution of Lok Sabha declaring any subject important.
+- C. identical resolutions of every State legislature.
+- D. a declaration by the Finance Commission.
+### Q10. Which proposition about Article 250 is correct?
+
+- A. It operates whenever President's Rule exists in any State.
+- B. It permits Parliament to legislate on State subjects while a National Emergency is in operation, with the law continuing for six months after the Emergency ends.
+- C. It requires prior resolutions from two State legislatures.
+- D. It permanently transfers the subject from List II to List I.
+### Q11. A law made by Parliament under Article 252:
+
+- A. automatically applies to every State from enactment.
+- B. may be repealed independently by each requesting State legislature.
+- C. applies to requesting or later-adopting States, while Parliament retains amendment and repeal power.
+- D. requires a prior National Emergency.
+### Q12. Article 253 enables Parliament to:
+
+- A. abolish judicial review whenever an international agreement is signed.
+- B. alter a State boundary without following Article 3.
+- C. legislate only after every affected State grants consent.
+- D. implement treaties, agreements, conventions or international decisions even when legislation touches a State subject.
+### Q13. Articles 256 and 257 are most accurately described as:
+
+- A. text-bounded Union coordination and direction powers concerning compliance and non-impediment.
+- B. a general transfer of all State executive power to the Union.
+- C. judicial provisions authorising the Supreme Court to issue advisory opinions.
+- D. fiscal provisions distributing the divisible pool.
+### Q14. Which statement about Article 263 is correct?
+
+- A. It automatically creates a permanent court for all inter-State disputes.
+- B. It enables the President to establish a council for inquiry, discussion and recommendation on intergovernmental questions.
+- C. It makes every council recommendation binding on Parliament and States.
+- D. It concerns only the distribution of tax revenues.
+### Q15. Which constitutional statement about All-India Services is correct?
+
+- A. They can be created by an ordinary executive order of the Union Cabinet.
+- B. Every State legislature must pass an identical law before creation.
+- C. Article 312 requires a Rajya Sabha national-interest resolution by two-thirds of members present and voting before Parliament creates a new service.
+- D. Their officers are accountable only to the Union while serving in State cadres.
+### Q16. Which relationship between Articles 355 and 356 is most accurate?
+
+- A. Every Article 355 concern automatically compels President's Rule.
+- B. Article 355 itself transfers State legislative power to Parliament.
+- C. Article 356 is immune from judicial review because Article 355 imposes a Union duty.
+- D. Article 355 states a Union duty, while Article 356 supplies an exceptional, separately conditioned and reviewable remedy.
+### Q17. Which amendment proposition best protects the federal compact?
+
+- A. Specified federal changes under Article 368 require a parliamentary special majority and ratification by at least half of State legislatures.
+- B. Every constitutional amendment requires ratification by all States.
+- C. State legislatures may introduce Article 368 amendment Bills.
+- D. A Governor's assent is required for a State ratification resolution.
+### Q18. What is the safest use of *State of West Bengal v. Union of India* (1963)?
+
+- A. It recognised a unilateral State right to secede from India.
+- B. It rejected sovereign-compact immunity of States from constitutionally valid Union power.
+- C. It held that State legislative fields are merely administrative delegations.
+- D. It made Article 3 dependent on unanimous State consent.
+### Q19. Which proposition follows most directly from *S.R. Bommai v. Union of India* (1994)?
+
+- A. Article 356 can be invoked only after a constitutional amendment.
+- B. States possess sovereignty equal to the Union in international law.
+- C. Federalism is a basic feature, Article 356 material is reviewable and disputed majority ordinarily belongs on the Assembly floor.
+- D. The Governor's report conclusively binds Parliament and courts.
+### Q20. What does *Kuldip Nayar v. Union of India* (2006) most safely establish for this topic?
+
+- A. Rajya Sabha has ceased to represent States.
+- B. Every federation must require equal seats and State domicile.
+- C. Open ballot and residence rules are irrelevant to constitutional review.
+- D. A State residence requirement for Rajya Sabha candidature is not indispensable to India's distinctive federal design.
+### Q21. After *Union of India v. Mohit Minerals* (2022), GST Council recommendations are:
+
+- A. persuasive products of collaborative dialogue, not binding commands to the Union or State legislatures.
+- B. binding only on States and optional for Parliament.
+- C. equivalent to constitutional amendments once adopted by vote.
+- D. unenforceable suggestions with no constitutional significance.
+### Q22. Which statement best describes the GST Council's federal design?
+
+- A. Every State has a constitutional veto over each recommendation.
+- B. Weighted voting requires both Union and collective State participation for the prescribed majority.
+- C. The Union's vote alone satisfies the constitutional decision threshold.
+- D. The Council replaces Parliament and State legislatures as the taxing authority.
+### Q23. The Finance Commission under Article 280 is:
+
+- A. a permanent chamber representing States equally.
+- B. an executive council whose directions bind State budgets.
+- C. a periodic constitutional body recommending tax distribution and grants.
+- D. the adjudicator of all disputes under Article 131.
+### Q24. Which pairing is correct?
+
+- A. Vertical imbalance — unequal fiscal capacity among States
+- B. Horizontal imbalance — mismatch between Union revenue and State expenditure responsibilities
+- C. Vertical imbalance — only differences in population size
+- D. Horizontal imbalance — differences in fiscal capacity and expenditure need among States
+### Q25. Which distinction between the Fifth and Sixth Schedules is accurate?
+
+- A. The Sixth Schedule creates autonomous district and regional councils in specified tribal areas, while the Fifth Schedule uses a different Scheduled Area and Tribes Advisory Council framework.
+- B. Both Schedules apply uniformly to every tribal area in India.
+- C. The Fifth Schedule gives each Scheduled Area a separate State constitution.
+- D. The Sixth Schedule abolishes the authority of the concerned State legislature.
+### Q26. Article 239AA illustrates asymmetrical federalism because it:
+
+- A. makes Delhi a full State with authority over every State List subject.
+- B. creates an elected legislature and ministry for NCT Delhi while reserving public order, police and land outside its ordinary field.
+- C. gives the Lieutenant Governor an unrestricted personal veto over all administration.
+- D. removes Parliament's legislative competence concerning the National Capital Territory.
+### Q27. Which statement about Articles 371 to 371J is correct?
+
+- A. They create a single identical package of powers for every State.
+- B. They grant separate national citizenship to their beneficiary populations.
+- C. They contain differentiated State-specific arrangements responding to distinct historical and regional needs.
+- D. They operate only during a National Emergency.
+### Q28. Which statement most accurately reflects the 11 December 2023 Article 370 judgment?
+
+- A. It restored the former Article 370 arrangement and the separate J&K Constitution.
+- B. It fixed a legally binding calendar date for restoration of J&K statehood.
+- C. It held that Ladakh could not remain a Union Territory.
+- D. It upheld the 2019 constitutional changes, accepted Ladakh's Union Territory status and recorded an assurance of J&K statehood restoration without deciding the reorganisation issue finally.
+### Q29. What principle is most closely associated with the 10 November 2023 Punjab Governor judgment?
+
+- A. A Governor cannot indefinitely obstruct the normal legislative process and must act within the constitutional scheme.
+- B. A Governor may create an unlimited pocket veto over every State Bill.
+- C. The Speaker's conduct is controlled personally by the Governor.
+- D. Every Bill automatically becomes law if the Governor does not act within one month.
+### Q30. Which pairing best distinguishes territorial and functional federalism?
+
+- A. Territorial federalism concerns only municipal boundaries; functional federalism concerns secession.
+- B. Territorial federalism allocates authority by level and territory; functional federalism coordinates governments around cross-cutting tasks.
+- C. Territorial federalism is constitutional; functional federalism abolishes the Constitution.
+- D. Functional federalism makes every intergovernmental body a sovereign tier.
+### Q31. Which statement about local governments in Indian federalism is correct?
+
+- A. The Seventy-third and Seventy-fourth Amendments made local bodies sovereign constituent units equal to States.
+- B. Parliament directly assigns every local function throughout India.
+- C. Local bodies are constitutionally recognised, but Articles 243G and 243W depend on State legislation for devolution of powers.
+- D. Municipalities may invalidate State laws within their territory.
+### Q32. Which conclusion is most defensible about Indian federalism?
+
+- A. India is purely unitary because Parliament can reorganise States.
+- B. India is purely federal because State List competence exists.
+- C. One scholarly label conclusively settles the constitutional classification.
+- D. India is constitutionally federal, Union-weighted and asymmetrical; cooperative, competitive and bargaining labels describe changing modes of operation.
+### Q33. Rajya Sabha passes an Article 249 resolution on a State List matter. Which qualification prevents a permanent central takeover?
+
+- A. The resolution needs two-thirds of members present and voting; parliamentary law remains subject to the Article 249 time and post-resolution survival rules.
+- B. A simple Lok Sabha vote permanently transfers the subject to the Union List.
+- C. The resolution requires prior approval from all State legislatures.
+- D. State List laws are void immediately on the resolution, even before Parliament legislates.
+
+### Q34. Two States consent under Article 252 to Parliament legislating on a State List matter; another State later adopts the Act. Which institution may amend that Act?
+
+- A. The Supreme Court must rewrite the Act whenever a State requests changes.
+- B. Parliament, not the adopting State legislature; subsequent adoption extends the parliamentary enactment to that State.
+- C. Each consenting State legislature may amend its own copy at will.
+- D. The Governor alone may amend it on recommendation of the Inter-State Council.
+
+### Q35. A State law conflicts with an earlier parliamentary law on a Concurrent List subject. It receives Presidential assent and operates within the State. What remains true?
+
+- A. The earlier parliamentary law is permanently repealed throughout India.
+- B. Presidential assent is irrelevant in every case of repugnancy.
+- C. Article 254(2) may preserve that State law locally, but Parliament may later override it by legislating on the same matter.
+- D. Assent turns the State law into a Union law applicable nationwide.
+
+### Q36. A State argues that GST Council recommendations bind its legislature because the Council voted on a rate. Which proposition fits *Mohit Minerals*?
+
+- A. Every recommendation automatically amends State GST legislation.
+- B. The Council is merely a private advisory association outside Article 279A.
+- C. GST removed all concurrent Union-State legislative authority in Article 246A.
+- D. Recommendations carry persuasive cooperative-federal weight, not generally binding legislative force; specific constitutional and statutory provisions still govern GST.
+
+### Q37. Which description distinguishes the Finance Commission from the GST Council without treating either as an elected legislature?
+
+- A. Article 280 provides a periodic constitutional Finance Commission to recommend fiscal distribution; Article 279A provides the Union-State GST Council for GST coordination.
+- B. The Finance Commission alone enacts every State budget.
+- C. The GST Council replaces Article 280 for all tax devolution.
+- D. Both institutions may independently amend the Seventh Schedule.
+
+### Q38. A proclamation under Article 356 is defended only by the Governor's assertion that a majority has vanished; the Assembly can still meet. Which safeguard matters most?
+
+- A. A Rajya Sabha resolution under Article 249 is the only confidence test.
+- B. *S.R. Bommai* requires judicially reviewable material and ordinarily favours testing a disputed majority on the Assembly floor.
+- C. The Governor's satisfaction is conclusively immune from judicial review.
+- D. Article 355 automatically dissolves every State Assembly.
+
+### Q39. Which pair illustrates two *different* asymmetries rather than one uniform exemption from Union law?
+
+- A. NCT Delhi enjoys every State List power including public order, police and land.
+- B. Article 371 provisions give every State identical tribal autonomy.
+- C. Fifth/Sixth Schedule tribal arrangements and Article 239AA's NCT Delhi design have different territorial and institutional premises.
+- D. All Fifth Schedule areas possess Sixth Schedule district councils by default.
+
+### Q40. Parliament invokes Article 253 to implement a treaty touching a State List field. Which conclusion best captures India's federal allocation?
+
+- A. An executive treaty alone automatically repeals conflicting State statutes without implementing law.
+- B. Article 253 requires every State's legislative ratification before Parliament may act.
+- C. The State List ceases to exist permanently once an agreement is signed.
+- D. The treaty-implementation route confers parliamentary legislative competence notwithstanding ordinary State List allocation; enacted law remains constitutionally reviewable.
+
+## SOLVED KEY TO ORIGINAL MCQS
+
+### Q1 — A
 
 - **A:** Correct. Constitutional allocation gives both levels direct authority and distinguishes federal self-rule from revocable administrative delegation.
 - **B:** Incorrect. A federation normally forms one constitutional order; secession is not an essential feature of federalism.
@@ -26,14 +272,7 @@ D. A federation necessarily maintains two completely separate court systems.
 
 **Examiner trap:** Do not substitute a textbook institutional form for the controlling test of constitutionally protected divided authority.
 
-### Q2. With reference to Articles 1 and 3, which statement is most accurate?
-
-A. Every alteration of a State boundary requires that State legislature's consent.  
-B. India is a Union of States, and Parliament may reorganise States after seeking the affected State legislature's views.  
-C. Article 3 gives States a constitutional right to secede after consultation.  
-D. A law under Article 3 must always satisfy the special amendment procedure in Article 368.  
-
-**Answer: B.**
+### Q2 — B
 
 - **A:** Incorrect. The President must refer the proposal for views, but the affected legislature's consent does not bind Parliament.
 - **B:** Correct. The Union is not a compact with secession, while territorial change follows the consultative Article 3 process.
@@ -42,14 +281,7 @@ D. A law under Article 3 must always satisfy the special amendment procedure in 
 
 **Examiner trap:** State consultation under Article 3 is mandatory as a step, but State approval is not a constitutional veto.
 
-### Q3. Which statement about the Government of India Act, 1935 is correct?
-
-A. Its All-India Federation began operating immediately in 1937.  
-B. It abolished provincial autonomy and restored dyarchy in every provincial subject.  
-C. It proposed an All-India Federation, introduced provincial autonomy and used a three-List distribution, but the federation did not operate.  
-D. It vested residuary power permanently in elected provincial legislatures.  
-
-**Answer: C.**
+### Q3 — C
 
 - **A:** Incorrect. The accession condition for the princely States was not fulfilled, so the proposed federal centre never commenced.
 - **B:** Incorrect. The Act replaced provincial dyarchy with provincial autonomy, although safeguards and gubernatorial powers remained extensive.
@@ -58,14 +290,7 @@ D. It vested residuary power permanently in elected provincial legislatures.
 
 **Examiner trap:** Differentiate 'provided for a federation' from 'brought the federation into operation'.
 
-### Q4. Which combination most directly secures a classical federal distribution in India?
-
-A. Single citizenship, All-India Services and emergency powers  
-B. Governor appointment, integrated audit and Article 3  
-C. Parliamentary government, Fundamental Duties and universal franchise  
-D. A written supreme Constitution, divided legislative fields, selective rigidity and independent judicial review  
-
-**Answer: D.**
+### Q4 — D
 
 - **A:** Incorrect. These are principally integrating or centralising features rather than the safeguards of divided competence.
 - **B:** Incorrect. The group illustrates Union influence and territorial flexibility, not the core federal protection package.
@@ -74,14 +299,7 @@ D. A written supreme Constitution, divided legislative fields, selective rigidit
 
 **Examiner trap:** A feature may be democratic or constitutional without being specifically federal.
 
-### Q5. Which statement about Rajya Sabha is correct?
-
-A. It represents States in Parliament, but its seats are not distributed equally among all States.  
-B. Every State has the same number of Rajya Sabha members.  
-C. Only State legislatures may initiate constitutional amendments affecting federal provisions.  
-D. Rajya Sabha alone can enact a law altering State boundaries.  
-
-**Answer: A.**
+### Q5 — A
 
 - **A:** Correct. The Fourth Schedule differentiates State representation broadly by population while retaining a federal chamber.
 - **B:** Incorrect. Equal State representation is a feature of some federations, not the Indian Council of States.
@@ -90,14 +308,7 @@ D. Rajya Sabha alone can enact a law altering State boundaries.
 
 **Examiner trap:** State representation and equal State representation are different propositions.
 
-### Q6. Residuary legislative power under the Indian Constitution primarily belongs to:
-
-A. State legislatures through State List Entry 1.  
-B. Parliament under Article 248 read with Union List Entry 97.  
-C. The Inter-State Council under Article 263.  
-D. The Supreme Court through Article 131.  
-
-**Answer: B.**
+### Q6 — B
 
 - **A:** Incorrect. State List Entry 1 concerns public order and does not supply a general residuary competence.
 - **B:** Correct. Article 248 and Entry 97 allocate unenumerated legislative matters and residuary taxation to Parliament, subject to later GST design.
@@ -106,14 +317,7 @@ D. The Supreme Court through Article 131.
 
 **Examiner trap:** Do not import the American allocation of residue to constituent units into the Indian scheme.
 
-### Q7. Article 246A is best understood as:
-
-A. a new entry added to the Concurrent List.  
-B. a power allowing only Parliament to legislate on all GST supplies.  
-C. a special constitutional grant of simultaneous GST competence, with a distinct rule for inter-State supplies.  
-D. a provision making GST Council recommendations automatically enforceable.  
-
-**Answer: C.**
+### Q7 — C
 
 - **A:** Incorrect. Article 246A is a standalone constitutional competence provision rather than a Seventh Schedule entry.
 - **B:** Incorrect. State legislatures also possess GST competence, while Parliament has the specified exclusive inter-State role.
@@ -122,14 +326,7 @@ D. a provision making GST Council recommendations automatically enforceable.
 
 **Examiner trap:** Special concurrent competence under Article 246A is not the same as placing GST in List III.
 
-### Q8. Which statement correctly describes Article 254?
-
-A. It resolves every constitutional disagreement between the Union and a State.  
-B. It always invalidates a State law once Parliament legislates on any subject.  
-C. Presidential assent makes a State law permanently immune from later parliamentary law.  
-D. It principally governs repugnancy on Concurrent subjects, with a State-specific assent exception that Parliament may later override.  
-
-**Answer: D.**
+### Q8 — D
 
 - **A:** Incorrect. Many disputes concern competence, executive power or constitutional rights and never enter Article 254.
 - **B:** Incorrect. Parliamentary priority depends on the constitutional field and an actual repugnancy, not mere legislative activity.
@@ -138,14 +335,7 @@ D. It principally governs repugnancy on Concurrent subjects, with a State-specif
 
 **Examiner trap:** Repugnancy is narrower than overlap: first identify the field and attempt harmonious operation.
 
-### Q9. Parliament's power under Article 249 is activated by:
-
-A. a Rajya Sabha resolution supported by two-thirds of members present and voting that national interest requires parliamentary legislation.  
-B. a simple majority resolution of Lok Sabha declaring any subject important.  
-C. identical resolutions of every State legislature.  
-D. a declaration by the Finance Commission.  
-
-**Answer: A.**
+### Q9 — A
 
 - **A:** Correct. The Council of States supplies the special federal trigger and the resolution operates for a limited renewable period.
 - **B:** Incorrect. Article 249 deliberately assigns the triggering role to Rajya Sabha and prescribes a special present-and-voting threshold.
@@ -154,14 +344,7 @@ D. a declaration by the Finance Commission.
 
 **Examiner trap:** Article 249 is the national-interest route through Rajya Sabha, not a general Lok Sabha override.
 
-### Q10. Which proposition about Article 250 is correct?
-
-A. It operates whenever President's Rule exists in any State.  
-B. It permits Parliament to legislate on State subjects while a National Emergency is in operation, with the law continuing for six months after the Emergency ends.  
-C. It requires prior resolutions from two State legislatures.  
-D. It permanently transfers the subject from List II to List I.  
-
-**Answer: B.**
+### Q10 — B
 
 - **A:** Incorrect. President's Rule is governed by Articles 356-357; Article 250 is tied to Article 352 National Emergency.
 - **B:** Correct. The power and the six-month survival rule are temporary consequences of an operating National Emergency.
@@ -170,14 +353,7 @@ D. It permanently transfers the subject from List II to List I.
 
 **Examiner trap:** Match the emergency correctly: Article 250 follows Article 352, not every proclamation in Part XVIII.
 
-### Q11. A law made by Parliament under Article 252:
-
-A. automatically applies to every State from enactment.  
-B. may be repealed independently by each requesting State legislature.  
-C. applies to requesting or later-adopting States, while Parliament retains amendment and repeal power.  
-D. requires a prior National Emergency.  
-
-**Answer: C.**
+### Q11 — C
 
 - **A:** Incorrect. The law initially binds the States whose legislatures requested parliamentary action.
 - **B:** Incorrect. Once enacted under Article 252, amendment or repeal belongs to Parliament rather than an individual participating State.
@@ -186,14 +362,7 @@ D. requires a prior National Emergency.
 
 **Examiner trap:** State consent initiates and expands Article 252, but it does not leave unilateral State repeal power.
 
-### Q12. Article 253 enables Parliament to:
-
-A. abolish judicial review whenever an international agreement is signed.  
-B. alter a State boundary without following Article 3.  
-C. legislate only after every affected State grants consent.  
-D. implement treaties, agreements, conventions or international decisions even when legislation touches a State subject.  
-
-**Answer: D.**
+### Q12 — D
 
 - **A:** Incorrect. Treaty implementation remains subject to Fundamental Rights, judicial review and other constitutional limitations.
 - **B:** Incorrect. Territorial reorganisation continues to be governed by Articles 2-4.
@@ -202,14 +371,7 @@ D. implement treaties, agreements, conventions or international decisions even w
 
 **Examiner trap:** Article 253 widens legislative reach for implementation; it does not suspend the Constitution.
 
-### Q13. Articles 256 and 257 are most accurately described as:
-
-A. text-bounded Union coordination and direction powers concerning compliance and non-impediment.  
-B. a general transfer of all State executive power to the Union.  
-C. judicial provisions authorising the Supreme Court to issue advisory opinions.  
-D. fiscal provisions distributing the divisible pool.  
-
-**Answer: A.**
+### Q13 — A
 
 - **A:** Correct. They connect State administration to applicable Union law and protect Union executive power from obstruction.
 - **B:** Incorrect. States retain executive authority; directions must rest on the constitutional purposes and fields specified.
@@ -218,14 +380,7 @@ D. fiscal provisions distributing the divisible pool.
 
 **Examiner trap:** A constitutional direction power is not a standing licence for central administration of every State subject.
 
-### Q14. Which statement about Article 263 is correct?
-
-A. It automatically creates a permanent court for all inter-State disputes.  
-B. It enables the President to establish a council for inquiry, discussion and recommendation on intergovernmental questions.  
-C. It makes every council recommendation binding on Parliament and States.  
-D. It concerns only the distribution of tax revenues.  
-
-**Answer: B.**
+### Q14 — B
 
 - **A:** Incorrect. Article 263 is enabling and consultative; adjudicatory routes arise from other constitutional or statutory provisions.
 - **B:** Correct. The provision can support investigation, discussion and recommendations to improve coordination.
@@ -234,14 +389,7 @@ D. It concerns only the distribution of tax revenues.
 
 **Examiner trap:** Consultation, adjudication and legislation are distinct functions even when all address intergovernmental conflict.
 
-### Q15. Which constitutional statement about All-India Services is correct?
-
-A. They can be created by an ordinary executive order of the Union Cabinet.  
-B. Every State legislature must pass an identical law before creation.  
-C. Article 312 requires a Rajya Sabha national-interest resolution by two-thirds of members present and voting before Parliament creates a new service.  
-D. Their officers are accountable only to the Union while serving in State cadres.  
-
-**Answer: C.**
+### Q15 — C
 
 - **A:** Incorrect. A new All-India Service requires the Article 312 parliamentary route, not executive instruction alone.
 - **B:** Incorrect. The constitutional trigger is a special Rajya Sabha resolution rather than identical State statutes.
@@ -250,14 +398,7 @@ D. Their officers are accountable only to the Union while serving in State cadre
 
 **Examiner trap:** Article 312 uses Rajya Sabha as a federal gate; it does not require unanimous State consent.
 
-### Q16. Which relationship between Articles 355 and 356 is most accurate?
-
-A. Every Article 355 concern automatically compels President's Rule.  
-B. Article 355 itself transfers State legislative power to Parliament.  
-C. Article 356 is immune from judicial review because Article 355 imposes a Union duty.  
-D. Article 355 states a Union duty, while Article 356 supplies an exceptional, separately conditioned and reviewable remedy.  
-
-**Answer: D.**
+### Q16 — D
 
 - **A:** Incorrect. Internal difficulty or a protection duty does not by itself prove constitutional government has become impossible.
 - **B:** Incorrect. Parliamentary exercise of State legislative power arises through Articles 356-357 after a valid proclamation.
@@ -266,14 +407,7 @@ D. Article 355 states a Union duty, while Article 356 supplies an exceptional, s
 
 **Examiner trap:** Never use Article 355 as a shortcut around the distinct Article 356 threshold.
 
-### Q17. Which amendment proposition best protects the federal compact?
-
-A. Specified federal changes under Article 368 require a parliamentary special majority and ratification by at least half of State legislatures.  
-B. Every constitutional amendment requires ratification by all States.  
-C. State legislatures may introduce Article 368 amendment Bills.  
-D. A Governor's assent is required for a State ratification resolution.  
-
-**Answer: A.**
+### Q17 — A
 
 - **A:** Correct. The proviso to Article 368 gives States a limited but real role over enumerated federal subjects.
 - **B:** Incorrect. Most amendments do not require State ratification, and the federal category requires at least half rather than unanimity.
@@ -282,14 +416,7 @@ D. A Governor's assent is required for a State ratification resolution.
 
 **Examiner trap:** Selective rigidity protects named federal matters; it is not a universal State veto over amendment.
 
-### Q18. What is the safest use of *State of West Bengal v. Union of India* (1963)?
-
-A. It recognised a unilateral State right to secede from India.  
-B. It rejected sovereign-compact immunity of States from constitutionally valid Union power.  
-C. It held that State legislative fields are merely administrative delegations.  
-D. It made Article 3 dependent on unanimous State consent.  
-
-**Answer: B.**
+### Q18 — B
 
 - **A:** Incorrect. The Constitution creates an indestructible Union without a unilateral State secession right.
 - **B:** Correct. The case supports the strong-Union proposition that States are not sovereign entities outside the constitutional order.
@@ -298,14 +425,7 @@ D. It made Article 3 dependent on unanimous State consent.
 
 **Examiner trap:** The case denies sovereign State immunity; it does not deny constitutional federalism.
 
-### Q19. Which proposition follows most directly from *S.R. Bommai v. Union of India* (1994)?
-
-A. Article 356 can be invoked only after a constitutional amendment.  
-B. States possess sovereignty equal to the Union in international law.  
-C. Federalism is a basic feature, Article 356 material is reviewable and disputed majority ordinarily belongs on the Assembly floor.  
-D. The Governor's report conclusively binds Parliament and courts.  
-
-**Answer: C.**
+### Q19 — C
 
 - **A:** Incorrect. Article 356 remains an operative constitutional power subject to its own procedure and judicial review.
 - **B:** Incorrect. Indian States exercise constitutional autonomy within one sovereign Union and do not conduct independent foreign relations.
@@ -314,14 +434,7 @@ D. The Governor's report conclusively binds Parliament and courts.
 
 **Examiner trap:** Bommai constitutionalises restraint; it neither abolishes Article 356 nor creates co-equal sovereign States.
 
-### Q20. What does *Kuldip Nayar v. Union of India* (2006) most safely establish for this topic?
-
-A. Rajya Sabha has ceased to represent States.  
-B. Every federation must require equal seats and State domicile.  
-C. Open ballot and residence rules are irrelevant to constitutional review.  
-D. A State residence requirement for Rajya Sabha candidature is not indispensable to India's distinctive federal design.  
-
-**Answer: D.**
+### Q20 — D
 
 - **A:** Incorrect. Rajya Sabha remains constitutionally designated as the Council of States.
 - **B:** Incorrect. Classical models inform comparison but do not rigidly determine every Indian federal institution.
@@ -330,14 +443,7 @@ D. A State residence requirement for Rajya Sabha candidature is not indispensabl
 
 **Examiner trap:** Use *Kuldip Nayar* to qualify textbook federalism, not to erase Rajya Sabha's federal role.
 
-### Q21. After *Union of India v. Mohit Minerals* (2022), GST Council recommendations are:
-
-A. persuasive products of collaborative dialogue, not binding commands to the Union or State legislatures.  
-B. binding only on States and optional for Parliament.  
-C. equivalent to constitutional amendments once adopted by vote.  
-D. unenforceable suggestions with no constitutional significance.  
-
-**Answer: A.**
+### Q21 — A
 
 - **A:** Correct. The judgment preserves legislative autonomy while recognising the Council's constitutional and practical importance.
 - **B:** Incorrect. The Court did not create an asymmetric rule binding States alone.
@@ -346,14 +452,7 @@ D. unenforceable suggestions with no constitutional significance.
 
 **Examiner trap:** Non-binding does not mean meaningless; influential consultation and legal compulsion are different.
 
-### Q22. Which statement best describes the GST Council's federal design?
-
-A. Every State has a constitutional veto over each recommendation.  
-B. Weighted voting requires both Union and collective State participation for the prescribed majority.  
-C. The Union's vote alone satisfies the constitutional decision threshold.  
-D. The Council replaces Parliament and State legislatures as the taxing authority.  
-
-**Answer: B.**
+### Q22 — B
 
 - **A:** Incorrect. Individual States participate, but Article 279A does not grant each one a unilateral veto.
 - **B:** Correct. The weight structure makes shared participation necessary and encourages negotiated outcomes.
@@ -362,14 +461,7 @@ D. The Council replaces Parliament and State legislatures as the taxing authorit
 
 **Examiner trap:** Council voting coordinates governments; it does not transfer legislative sovereignty to the Council.
 
-### Q23. The Finance Commission under Article 280 is:
-
-A. a permanent chamber representing States equally.  
-B. an executive council whose directions bind State budgets.  
-C. a periodic constitutional body recommending tax distribution and grants.  
-D. the adjudicator of all disputes under Article 131.  
-
-**Answer: C.**
+### Q23 — C
 
 - **A:** Incorrect. Rajya Sabha is the continuing parliamentary chamber; the Finance Commission is periodically constituted.
 - **B:** Incorrect. It recommends fiscal arrangements and does not administer every State budget.
@@ -378,14 +470,7 @@ D. the adjudicator of all disputes under Article 131.
 
 **Examiner trap:** Do not confuse recommendatory fiscal equalisation with binding executive control.
 
-### Q24. Which pairing is correct?
-
-A. Vertical imbalance — unequal fiscal capacity among States  
-B. Horizontal imbalance — mismatch between Union revenue and State expenditure responsibilities  
-C. Vertical imbalance — only differences in population size  
-D. Horizontal imbalance — differences in fiscal capacity and expenditure need among States  
-
-**Answer: D.**
+### Q24 — D
 
 - **A:** Incorrect. Differences among States define the horizontal dimension rather than the vertical Union-State mismatch.
 - **B:** Incorrect. Revenue-expenditure mismatch between governmental levels is vertical imbalance.
@@ -394,14 +479,7 @@ D. Horizontal imbalance — differences in fiscal capacity and expenditure need 
 
 **Examiner trap:** Vertical compares levels; horizontal compares constituent units.
 
-### Q25. Which distinction between the Fifth and Sixth Schedules is accurate?
-
-A. The Sixth Schedule creates autonomous district and regional councils in specified tribal areas, while the Fifth Schedule uses a different Scheduled Area and Tribes Advisory Council framework.  
-B. Both Schedules apply uniformly to every tribal area in India.  
-C. The Fifth Schedule gives each Scheduled Area a separate State constitution.  
-D. The Sixth Schedule abolishes the authority of the concerned State legislature.  
-
-**Answer: A.**
+### Q25 — A
 
 - **A:** Correct. The two schedules embody different institutional techniques and different territorial coverage.
 - **B:** Incorrect. Their application is constitutionally specified and neither is a universal tribal-governance code.
@@ -410,14 +488,7 @@ D. The Sixth Schedule abolishes the authority of the concerned State legislature
 
 **Examiner trap:** Asymmetry requires clause-by-clause precision; Fifth and Sixth Schedule institutions are not interchangeable.
 
-### Q26. Article 239AA illustrates asymmetrical federalism because it:
-
-A. makes Delhi a full State with authority over every State List subject.  
-B. creates an elected legislature and ministry for NCT Delhi while reserving public order, police and land outside its ordinary field.  
-C. gives the Lieutenant Governor an unrestricted personal veto over all administration.  
-D. removes Parliament's legislative competence concerning the National Capital Territory.  
-
-**Answer: B.**
+### Q26 — B
 
 - **A:** Incorrect. Delhi remains a Union Territory with a special constitutional arrangement rather than full State status.
 - **B:** Correct. The design combines representative government with constitutionally excluded subjects and continuing parliamentary authority.
@@ -426,14 +497,7 @@ D. removes Parliament's legislative competence concerning the National Capital T
 
 **Examiner trap:** Delhi is neither an ordinary Union Territory nor a full State; answer through its specific text.
 
-### Q27. Which statement about Articles 371 to 371J is correct?
-
-A. They create a single identical package of powers for every State.  
-B. They grant separate national citizenship to their beneficiary populations.  
-C. They contain differentiated State-specific arrangements responding to distinct historical and regional needs.  
-D. They operate only during a National Emergency.  
-
-**Answer: C.**
+### Q27 — C
 
 - **A:** Incorrect. The clauses differ substantially in subject, institution and territorial application.
 - **B:** Incorrect. India retains single citizenship; special governance arrangements do not create separate nationality.
@@ -442,14 +506,7 @@ D. They operate only during a National Emergency.
 
 **Examiner trap:** Never compress the Article 371 family into one uniform privilege.
 
-### Q28. Which statement most accurately reflects the 11 December 2023 Article 370 judgment?
-
-A. It restored the former Article 370 arrangement and the separate J&K Constitution.  
-B. It fixed a legally binding calendar date for restoration of J&K statehood.  
-C. It held that Ladakh could not remain a Union Territory.  
-D. It upheld the 2019 constitutional changes, accepted Ladakh's Union Territory status and recorded an assurance of J&K statehood restoration without deciding the reorganisation issue finally.  
-
-**Answer: D.**
+### Q28 — D
 
 - **A:** Incorrect. The Court upheld the application of the Constitution of India without the former special arrangement.
 - **B:** Incorrect. It directed Assembly elections by a date but did not prescribe a date for restoration of statehood.
@@ -458,14 +515,7 @@ D. It upheld the 2019 constitutional changes, accepted Ladakh's Union Territory 
 
 **Examiner trap:** Separate the Article 370 holding, Ladakh's status, the election direction and the un-fixed statehood question.
 
-### Q29. What principle is most closely associated with the 10 November 2023 Punjab Governor judgment?
-
-A. A Governor cannot indefinitely obstruct the normal legislative process and must act within the constitutional scheme.  
-B. A Governor may create an unlimited pocket veto over every State Bill.  
-C. The Speaker's conduct is controlled personally by the Governor.  
-D. Every Bill automatically becomes law if the Governor does not act within one month.  
-
-**Answer: A.**
+### Q29 — A
 
 - **A:** Correct. The Court stressed constitutional action and rejected use of an unelected office to thwart ordinary lawmaking.
 - **B:** Incorrect. Indefinite inaction is inconsistent with the constitutional role and representative government.
@@ -474,14 +524,7 @@ D. Every Bill automatically becomes law if the Governor does not act within one 
 
 **Examiner trap:** Reject both extremes: indefinite obstruction and invented automatic assent.
 
-### Q30. Which pairing best distinguishes territorial and functional federalism?
-
-A. Territorial federalism concerns only municipal boundaries; functional federalism concerns secession.  
-B. Territorial federalism allocates authority by level and territory; functional federalism coordinates governments around cross-cutting tasks.  
-C. Territorial federalism is constitutional; functional federalism abolishes the Constitution.  
-D. Functional federalism makes every intergovernmental body a sovereign tier.  
-
-**Answer: B.**
+### Q30 — B
 
 - **A:** Incorrect. Territorial federalism includes the Union-State constitutional map, not merely local boundaries.
 - **B:** Correct. The distinction separates jurisdictional allocation from collaborative performance of interdependent functions.
@@ -490,14 +533,7 @@ D. Functional federalism makes every intergovernmental body a sovereign tier.
 
 **Examiner trap:** A function may cross jurisdictions without dissolving the underlying territorial allocation.
 
-### Q31. Which statement about local governments in Indian federalism is correct?
-
-A. The Seventy-third and Seventy-fourth Amendments made local bodies sovereign constituent units equal to States.  
-B. Parliament directly assigns every local function throughout India.  
-C. Local bodies are constitutionally recognised, but Articles 243G and 243W depend on State legislation for devolution of powers.  
-D. Municipalities may invalidate State laws within their territory.  
-
-**Answer: C.**
+### Q31 — C
 
 - **A:** Incorrect. Constitutional recognition created a third level of governance, not a third co-sovereign federal order.
 - **B:** Incorrect. State legislatures occupy the central constitutional role in endowing panchayats and municipalities with powers.
@@ -506,14 +542,7 @@ D. Municipalities may invalidate State laws within their territory.
 
 **Examiner trap:** Use 'third tier of governance' without claiming a third constituent sovereignty.
 
-### Q32. Which conclusion is most defensible about Indian federalism?
-
-A. India is purely unitary because Parliament can reorganise States.  
-B. India is purely federal because State List competence exists.  
-C. One scholarly label conclusively settles the constitutional classification.  
-D. India is constitutionally federal, Union-weighted and asymmetrical; cooperative, competitive and bargaining labels describe changing modes of operation.  
-
-**Answer: D.**
+### Q32 — D
 
 - **A:** Incorrect. Article 3 is a centralising feature, but it coexists with protected legislative and executive State competence.
 - **B:** Incorrect. State competence establishes a federal core but does not erase residuary, emergency and coordinating Union powers.
@@ -521,6 +550,78 @@ D. India is constitutionally federal, Union-weighted and asymmetrical; cooperati
 - **D:** Correct. The formulation integrates legal structure, asymmetry and changing intergovernmental behaviour without an absolute label.
 
 **Examiner trap:** A high-scoring verdict weighs structure, tilt and operation instead of choosing an unqualified binary label.
+
+### Q33 — A
+
+- **A:** Correct: Article 249 opens temporary legislative competence and does not rewrite the Seventh Schedule.
+- **B:** Incorrect: The triggering resolution is in Rajya Sabha and does not transfer the List entry.
+- **C:** Incorrect: State-ratification is not an Article 249 condition.
+- **D:** Incorrect: A resolution enables Parliament to legislate; it is not itself a replacement statute.
+
+**Examiner trap:** A competence-expanding resolution is not a constitutional amendment reallocating a List entry.
+
+### Q34 — B
+
+- **A:** Incorrect: Courts decide legality rather than perform parliamentary amendment.
+- **B:** Correct: Article 252(2) reserves amendment or repeal of such a parliamentary Act to Parliament.
+- **C:** Incorrect: Consent or adoption does not confer State power to amend the resulting parliamentary law.
+- **D:** Incorrect: Governors do not legislate the amendment unilaterally.
+
+**Examiner trap:** State consent to initial legislation does not entail State authority to amend the parliamentary product.
+
+### Q35 — C
+
+- **A:** Incorrect: The Union law is not repealed everywhere by local assent.
+- **B:** Incorrect: Assent is central to the Article 254(2) exception.
+- **C:** Correct: The exception is territorial and defeasible by later parliamentary law.
+- **D:** Incorrect: Assent does not change the State enactment's legislative source or territory.
+
+**Examiner trap:** Presidential assent is not an irrevocable State veto over subsequent Parliament.
+
+### Q36 — D
+
+- **A:** Incorrect: Recommendations do not amend statutes without legislative action.
+- **B:** Incorrect: The Council is constituted under Article 279A.
+- **C:** Incorrect: Article 246A gives concurrent GST power subject to its stated inter-State qualification.
+- **D:** Correct: The Court rejected a generally binding reading while acknowledging constitutional coordination.
+
+**Examiner trap:** Separate recommendatory GST Council decisions from enacted laws and constitutional competence.
+
+### Q37 — A
+
+- **A:** Correct: They are distinct constitutional bodies with different fiscal functions.
+- **B:** Incorrect: Budgets are authorised by legislatures, not enacted by the Finance Commission.
+- **C:** Incorrect: GST coordination did not repeal Finance Commission devolution.
+- **D:** Incorrect: Neither institution has constituent amendment power.
+
+**Examiner trap:** Fiscal federalism includes both transfer recommendations and tax-policy coordination, not an interchangeable body.
+
+### Q38 — B
+
+- **A:** Incorrect: Article 249 concerns legislation on State List matters, not ministry confidence.
+- **B:** Correct: Constitutional breakdown cannot be presumed from untested subjective claims about numbers.
+- **C:** Incorrect: Bommai rejected absolute immunity of the proclamation.
+- **D:** Incorrect: Article 355 states a Union duty, not automatic dissolution machinery.
+
+**Examiner trap:** Distinguish Union duty to protect States from an unreviewable power to replace elected governments.
+
+### Q39 — C
+
+- **A:** Incorrect: Article 239AA expressly excludes public order, police and land from Delhi Assembly competence.
+- **B:** Incorrect: Article 371 variants are differentiated, not uniformly identical.
+- **C:** Correct: Tribal protection and NCT legislative/executive design are distinct constitutional accommodations.
+- **D:** Incorrect: The two Schedules have different territorial reach and institutional mechanisms.
+
+**Examiner trap:** Asymmetry identifies a specific constitutional accommodation; it is not a blanket State-sovereignty claim.
+
+### Q40 — D
+
+- **A:** Incorrect: Domestic alteration generally needs valid legislative action, not merely signature.
+- **B:** Incorrect: Article 253 does not prescribe universal State ratification.
+- **C:** Incorrect: A competence exception does not abolish the State List.
+- **D:** Correct: The constitutional power is a subject-specific exception to ordinary federal legislative distribution.
+
+**Examiner trap:** Distinguish treaty-making by the executive from domestic implementation through constitutionally competent legislation.
 
 ## PYQS AND ANSWER PRACTICE
 

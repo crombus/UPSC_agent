@@ -5,1234 +5,481 @@ topic_key: indian-society-12
 # Social Change and Modernisation — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
+Attempt the full question set before consulting the separate key. Options test causal mechanisms, boundary conditions and evidence—not vocabulary matching.
 
-### Q1. Which statement correctly identifies Social change as a multi-theory question?
+### Q1. A village family moves to an urban rental unit but continues regular care for elders in its home village. What does a functional reading emphasise?
 
-A. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-B. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
+A. Residence changes while kin support is reorganised rather than necessarily lost.
+B. All functions of kinship vanish at the moment the family changes residence.
+C. Continued support means the family has not undergone any social change.
+D. Rental housing automatically creates identical authority relations in every household.
 
-**Answer: A.**
-**Explanation:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Lower-caste organisers contest exclusion from a village water source despite elite assurances of harmony. What does conflict theory foreground?
 
-### Q2. Which chronology card should be filed under Social change as a multi-theory question?
+A. The mere existence of a village network as proof that every household agrees.
+B. Collective struggle over unequal power rather than an automatic return to equilibrium.
+C. A ritual imitation strategy as necessarily ending all water-access discrimination.
+D. A claim that the dispute cannot involve social institutions because it is local.
 
-A. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-B. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
+### Q3. A jati adopts the rituals of a locally powerful caste while its landholding remains unchanged. Which inference is warranted?
 
-**Answer: B.**
-**Explanation:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. The remaining options belong to different chronology, actor or analytical categories.
+A. The adoption proves equal redistribution of agricultural land.
+B. Ritual emulation establishes the end of all local caste ranking.
+C. Sanskritisation may advance a status claim without altering the material hierarchy.
+D. This is necessarily institutional secularisation of the village council.
 
-### Q3. Which option preserves the source-bounded meaning of Social change as a multi-theory question?
+### Q4. A community promotes equal inheritance rights while retaining locally prestigious rituals. Which pair best describes its simultaneous shifts?
 
-A. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-B. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-C. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-D. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+A. Two identical instances of modernisation measured solely by new equipment.
+B. A conclusive finding that all kinship obligations have been abolished.
+C. Only parochialisation, because legal equality cannot coexist with ritual practice.
+D. A Westernisation-associated rights vocabulary alongside a separate Sanskritising status strategy.
 
-**Answer: C.**
-**Explanation:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. A family enters formal salaried work without changing its rituals. What does this case most clearly refute?
 
-### Q4. Which statement avoids a close-option trap about Social change as a multi-theory question?
+A. The claim that structural modernisation must be accompanied by Sanskritisation.
+B. The proposition that occupations can change without new caste rituals.
+C. The possibility that an employer uses rational-legal work rules.
+D. The observation that a family can retain inherited practices.
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
+### Q6. An orally transmitted village festival becomes recognised beyond its region and enters wider textual narratives. What is the direction?
 
-**Answer: D.**
-**Explanation:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. The remaining options belong to different chronology, actor or analytical categories.
+A. Parochialisation from a pan-Indian textual ritual toward a village adaptation.
+B. Universalisation from Little Tradition toward wider Great-Tradition recognition.
+C. Desacralisation through the loss of meaning attached to sacred observance.
+D. Administrative reclassification of the village as a statutory urban centre.
 
-### Q5. Which statement correctly identifies Structural-functionalism?
+### Q7. A pan-Indian textual rite is simplified into local-language observance by one community. Which concept fits?
 
-A. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-B. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
+A. Universalisation of an originally village-exclusive deity to national prominence.
+B. An evolutionary claim that every community passes through one compulsory stage.
+C. Parochialisation of a Great-Tradition form within a Little-Tradition setting.
+D. A constitutional amendment altering the state-religion relationship.
 
-**Answer: A.**
-**Explanation:** Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. School contracts become governed by general law while household rituals remain strong. Which distinction is essential?
 
-### Q6. Which chronology card should be filed under Structural-functionalism?
+A. Constitutional secularism requires abolition of every household ritual.
+B. Formal contracts conclusively show religion has vanished from all public discussion.
+C. Continued worship proves that schooling cannot use non-religious rules.
+D. Institutional secularisation may occur without a decline in personal religious commitment.
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
+### Q9. A cultural site loses its perceived sacred significance but remains under the same state law. Which concept is nearest?
 
-**Answer: B.**
-**Explanation:** Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led. The remaining options belong to different chronology, actor or analytical categories.
+A. Desacralisation at the experiential-symbolic level rather than constitutional secularism.
+B. Parochialisation of a national rite into a village variant.
+C. Ritual-status emulation by a caste seeking local mobility.
+D. Mandatory privatisation of all religious institutions.
 
-### Q7. Which option preserves the source-bounded meaning of Structural-functionalism?
+### Q10. Two districts adopt the same schooling policy but show different caste mobility. What is the best methodological response?
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-C. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-D. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
+A. Treat policy text as sufficient proof of identical behavioural change.
+B. Separate policy adoption from access, resources and local power before attributing outcomes.
+C. Assume education cannot interact with pre-existing caste hierarchies.
+D. Infer each district's intergenerational mobility rate from the title of NEP 2020.
 
-**Answer: C.**
-**Explanation:** Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. One writer describes all social change as a march through identical stages toward progress. Which critique fits?
 
-### Q8. Which statement avoids a close-option trap about Structural-functionalism?
+A. A stage sequence is guaranteed by the existence of village-to-city migration.
+B. Every change caused by conflict must restore the previous status hierarchy.
+C. Unilinear evolution overlooks multiple pathways, reversals and regional variation.
+D. A cyclical interpretation would mean historical events never differ at all.
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-C. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-D. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
+### Q12. A new farm technique spreads from one region to another without a prescribed societal ladder. What is the closer mechanism?
 
-**Answer: D.**
-**Explanation:** Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led. The remaining options belong to different chronology, actor or analytical categories.
+A. An internally generated universal evolutionary stage for every household.
+B. A guarantee that all adopters have the same caste status.
+C. A proof that innovation has removed religious authority from state institutions.
+D. Diffusion of a practice across contexts, with local adoption still contingent.
 
-### Q9. Which statement correctly identifies Conflict theory?
+### Q13. An educated professional retains low recognition in a local ritual hierarchy. What does this illustrate?
 
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
+A. Status inconsistency when structural opportunity and local ritual recognition advance at different speeds.
+B. Conclusive evidence that salaried employment is not structural change.
+C. Automatic equality of ritual status following all forms of education.
+D. A fall in the village's population required by cyclic social theory.
 
-**Answer: A.**
-**Explanation:** Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. A village caste restriction is successfully challenged. Which evidence would discriminate functional from conflict accounts?
 
-### Q10. Which chronology card should be filed under Conflict theory?
+A. Only the final rule, without information about the struggle leading to it.
+B. Records of organisers' demands and elite resistance alongside subsequent institutional adjustment.
+C. Only a statement that society is an interconnected system.
+D. Only the claim that all social reforms reflect consensus by definition.
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-C. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-D. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
+### Q15. A teacher calls Sanskritisation equivalent to Westernisation because both modify values. What correction matters?
 
-**Answer: B.**
-**Explanation:** Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode. The remaining options belong to different chronology, actor or analytical categories.
+A. Any ritual change necessarily redistributes political power equally.
+B. Both terms necessarily refer to an identical compulsory stage of modernisation.
+C. Ritual emulation within local hierarchy differs from rights and institutions associated with Western contact.
+D. Westernisation can only describe adoption of global fast-food menus.
 
-### Q11. Which option preserves the source-bounded meaning of Conflict theory?
+### Q16. A scholar treats constitutional secularism as proof of declining private belief. Where is the category error?
 
-A. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-D. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+A. A constitutional doctrine is a direct household survey of personal worship.
+B. Institutional differentiation always abolishes religious festivals.
+C. Private belief automatically identifies how courts implement constitutional guarantees.
+D. A legal-political doctrine about state-religion relations cannot establish sociological belief trends.
 
-**Answer: C.**
-**Explanation:** Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. A family retains a regional festival while younger members migrate and use digital media. What does this demonstrate?
 
-### Q12. Which statement avoids a close-option trap about Conflict theory?
+A. Selective continuity and reinterpretation can accompany occupational and technological change.
+B. Preservation of a festival proves migration and digital exposure never occurred.
+C. Use of a smartphone logically requires abandonment of local identity.
+D. Any ritual continuity shows that political and gender relations are unchanged.
 
-A. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-D. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
+### Q18. A legislator says a reform is complete because the rule is enacted. What should a social-change analysis request?
 
-**Answer: D.**
-**Explanation:** Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode. The remaining options belong to different chronology, actor or analytical categories.
+A. The date of enactment as sufficient proof of uniform changes in every household.
+B. Evidence about compliance, access, resistance and differential lived outcomes over time.
+C. A theory that the written rule cannot ever influence norms.
+D. An assumption that formal inclusion erases local status inequalities instantly.
 
-### Q13. Which statement correctly identifies Choosing the better-supported reading?
+### Q19. Cryptocurrency promises access to cross-border payment yet some users face scams. Which Society-level question is appropriate?
 
-A. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+A. What its current rupee price is, asserted without a dated exchange source.
+B. Which exact legal classification all tokens have in every Indian jurisdiction.
+C. How trust, information inequality and regulation mediate participation and exposure to loss.
+D. How much electricity each Indian user consumed, inferred from the technology's name.
 
-**Answer: A.**
-**Explanation:** The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. Health warnings increase while fast-food orders persist in an urban neighbourhood. Which social-change mechanism is testable?
 
-### Q14. Which chronology card should be filed under Choosing the better-supported reading?
+A. Awareness alone determines every daily food purchase independently of price.
+B. Industry growth is logically impossible whenever any consumer knows a health risk.
+C. One international chain can account for every domestic food seller's sales.
+D. Time scarcity, delivery infrastructure and aspiration can mediate choices despite awareness.
 
-A. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-B. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-C. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-D. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+## SEPARATE ANSWER KEY AND ELIMINATION
 
-**Answer: B.**
-**Explanation:** The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies. The remaining options belong to different chronology, actor or analytical categories.
+### Q1 — A
 
-### Q15. Which option preserves the source-bounded meaning of Choosing the better-supported reading?
+- **A:** Correct: examine adaptation of functions across institutions.
+- **B:** Change of residence need not erase care.
+- **C:** Persistent functions can have new forms.
+- **D:** Tenure does not settle family authority.
+- **Trap:** “All functions of kinship vanish at the moment the family changes residence.” — Change of residence need not erase care.
 
-A. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-B. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
+### Q2 — B
 
-**Answer: C.**
-**Explanation:** The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Formal harmony may hide exclusion.
+- **B:** Correct: identify interests, mobilisation and contested control.
+- **C:** Status emulation does not guarantee service equality.
+- **D:** Local disputes can be structural.
+- **Trap:** “A ritual imitation strategy as necessarily ending all water-access discrimination.” — Status emulation does not guarantee service equality.
 
-### Q16. Which statement avoids a close-option trap about Choosing the better-supported reading?
+### Q3 — C
 
-A. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-B. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-C. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-D. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
+- **A:** No land transfer is described.
+- **B:** Hierarchy can persist beneath new claims.
+- **C:** Correct: distinguish position claims from structural transformation.
+- **D:** Ritual imitation is not institutional differentiation.
+- **Trap:** “This is necessarily institutional secularisation of the village council.” — Ritual imitation is not institutional differentiation.
 
-**Answer: D.**
-**Explanation:** The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies. The remaining options belong to different chronology, actor or analytical categories.
+### Q4 — D
 
-### Q17. Which statement correctly identifies Evolutionary and cyclical accounts?
+- **A:** Rights and ritual are distinct from technology.
+- **B:** No abolition of kinship is given.
+- **C:** Great/Little cultural transfer is not established.
+- **D:** Correct: different axes can proceed at once and in tension.
+- **Trap:** “Two identical instances of modernisation measured solely by new equipment.” — Rights and ritual are distinct from technology.
 
-A. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-B. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-C. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-D. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
+### Q5 — A
 
-**Answer: A.**
-**Explanation:** Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: the axes are independent.
+- **B:** The case supports, rather than refutes, this proposition.
+- **C:** Salaried employment is compatible with such rules.
+- **D:** Ritual continuity is explicitly observed.
+- **Trap:** “The proposition that occupations can change without new caste rituals.” — The case supports, rather than refutes, this proposition.
 
-### Q18. Which chronology card should be filed under Evolutionary and cyclical accounts?
+### Q6 — B
 
-A. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-B. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-C. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
+- **A:** The opposite direction is described.
+- **B:** Correct: the starting point is local and the reach expands.
+- **C:** Wider recognition need not erode sacred meaning.
+- **D:** No settlement boundary change occurs.
+- **Trap:** “Desacralisation through the loss of meaning attached to sacred observance.” — Wider recognition need not erode sacred meaning.
 
-**Answer: B.**
-**Explanation:** Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form. The remaining options belong to different chronology, actor or analytical categories.
+### Q7 — C
 
-### Q19. Which option preserves the source-bounded meaning of Evolutionary and cyclical accounts?
+- **A:** That is the reverse movement.
+- **B:** No unilinear stages are described.
+- **C:** Correct: adaptation moves from wider textual repertoire to local practice.
+- **D:** The rite is not a legal amendment.
+- **Trap:** “A constitutional amendment altering the state-religion relationship.” — The rite is not a legal amendment.
 
-A. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-B. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
+### Q8 — D
 
-**Answer: C.**
-**Explanation:** Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** The doctrine is not abolition of worship.
+- **B:** One institution cannot prove society-wide disappearance.
+- **C:** Personal practice can coexist with formal rules.
+- **D:** Correct: differentiation and personal belief are different outcomes.
+- **Trap:** “Constitutional secularism requires abolition of every household ritual.” — The doctrine is not abolition of worship.
 
-### Q20. Which statement avoids a close-option trap about Evolutionary and cyclical accounts?
+### Q9 — A
 
-A. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-B. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
+- **A:** Correct: changed sense of sacredness is not a legal settlement.
+- **B:** No adaptation of a rite is specified.
+- **C:** No caste position claim is present.
+- **D:** Experience does not imply a transfer of ownership.
+- **Trap:** “Parochialisation of a national rite into a village variant.” — No adaptation of a rite is specified.
 
-**Answer: D.**
-**Explanation:** Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form. The remaining options belong to different chronology, actor or analytical categories.
+### Q10 — B
 
-### Q21. Which statement correctly identifies Diffusionist explanation?
+- **A:** Implementation may diverge.
+- **B:** Correct: institutional input is not an outcome.
+- **C:** Resources and caste can interact.
+- **D:** Policy context is not measured mobility.
+- **Trap:** “Assume education cannot interact with pre-existing caste hierarchies.” — Resources and caste can interact.
 
-A. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
+### Q11 — C
 
-**Answer: A.**
-**Explanation:** A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Mobility establishes no fixed stages.
+- **B:** Conflict can challenge a hierarchy.
+- **C:** Correct: context and nonlinearity challenge a universal ladder.
+- **D:** Cycles are not exact repetition.
+- **Trap:** “A cyclical interpretation would mean historical events never differ at all.” — Cycles are not exact repetition.
 
-### Q22. Which chronology card should be filed under Diffusionist explanation?
+### Q12 — D
 
-A. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-B. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-C. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
+- **A:** Transmission is observed, not stage necessity.
+- **B:** Technical use does not fix status.
+- **C:** Farm technology is not secularisation evidence.
+- **D:** Correct: geographic spread differs from a unilinear developmental law.
+- **Trap:** “An internally generated universal evolutionary stage for every household.” — Transmission is observed, not stage necessity.
 
-**Answer: B.**
-**Explanation:** A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts. The remaining options belong to different chronology, actor or analytical categories.
+### Q13 — A
 
-### Q23. Which option preserves the source-bounded meaning of Diffusionist explanation?
+- **A:** Correct: axes can be misaligned and generate tension.
+- **B:** Work can change materially.
+- **C:** Recognition need not follow formal credentials.
+- **D:** No demographic cycle is described.
+- **Trap:** “Conclusive evidence that salaried employment is not structural change.” — Work can change materially.
 
-A. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-B. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-C. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
+### Q14 — B
 
-**Answer: C.**
-**Explanation:** A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** A common outcome fits rival causes.
+- **B:** Correct: process evidence tests whether struggle or adaptation drove change.
+- **C:** A theory label supplies no empirical mechanism.
+- **D:** Consensus cannot be assumed.
+- **Trap:** “Only a statement that society is an interconnected system.” — A theory label supplies no empirical mechanism.
 
-### Q24. Which statement avoids a close-option trap about Diffusionist explanation?
+### Q15 — C
 
-A. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-B. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+- **A:** Status claims need not redistribute power.
+- **B:** The axes can diverge.
+- **C:** Correct: direction and mechanism of value change differ.
+- **D:** The concept extends beyond consumption.
+- **Trap:** “Westernisation can only describe adoption of global fast-food menus.” — The concept extends beyond consumption.
 
-**Answer: D.**
-**Explanation:** A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts. The remaining options belong to different chronology, actor or analytical categories.
+### Q16 — D
 
-### Q25. Which statement correctly identifies Sanskritisation?
+- **A:** Legal text does not survey belief.
+- **B:** Differentiation can coexist with practice.
+- **C:** Belief cannot determine implementation alone.
+- **D:** Correct: doctrine, institutional process and belief are distinct.
+- **Trap:** “A constitutional doctrine is a direct household survey of personal worship.” — Legal text does not survey belief.
 
-A. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-B. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-C. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
+### Q17 — A
 
-**Answer: A.**
-**Explanation:** Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: change is multi-axial rather than all-or-nothing.
+- **B:** The other changes are stipulated.
+- **C:** Technology and regional identity can coexist.
+- **D:** One practice does not settle all relationships.
+- **Trap:** “Preservation of a festival proves migration and digital exposure never occurred.” — The other changes are stipulated.
 
-### Q26. Which chronology card should be filed under Sanskritisation?
+### Q18 — B
 
-A. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-B. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-C. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-D. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
+- **A:** Text is not implementation.
+- **B:** Correct: legal change may precede or lag behavioural change.
+- **C:** Rules can shape incentives.
+- **D:** Status and resources can continue to differ.
+- **Trap:** “A theory that the written rule cannot ever influence norms.” — Rules can shape incentives.
 
-**Answer: B.**
-**Explanation:** Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic. The remaining options belong to different chronology, actor or analytical categories.
+### Q19 — C
 
-### Q27. Which option preserves the source-bounded meaning of Sanskritisation?
+- **A:** No market quotation is sourced.
+- **B:** Legal treatment needs current technical evidence.
+- **C:** Correct: trace social access and unequal risk; instrument facts require other owners.
+- **D:** A label cannot yield energy data.
+- **Trap:** “How much electricity each Indian user consumed, inferred from the technology's name.” — A label cannot yield energy data.
 
-A. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-B. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-C. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-D. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
+### Q20 — D
 
-**Answer: C.**
-**Explanation:** Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Sanskritisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-
-**Answer: D.**
-**Explanation:** Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Westernisation?
-
-A. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-B. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-
-**Answer: A.**
-**Explanation:** Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Westernisation?
-
-A. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-B. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-C. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-D. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-
-**Answer: B.**
-**Explanation:** Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Westernisation?
-
-A. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-B. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-C. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-D. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-
-**Answer: C.**
-**Explanation:** Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Westernisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-C. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-D. Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-
-**Answer: D.**
-**Explanation:** Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Modernisation?
-
-A. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-B. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-
-**Answer: A.**
-**Explanation:** Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Modernisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-
-**Answer: B.**
-**Explanation:** Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Modernisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-C. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-D. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-
-**Answer: C.**
-**Explanation:** Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Modernisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-C. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-D. Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-
-**Answer: D.**
-**Explanation:** Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Three axes, not one scale?
-
-A. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-B. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-C. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-D. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-
-**Answer: A.**
-**Explanation:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Three axes, not one scale?
-
-A. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-B. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-C. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-D. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-
-**Answer: B.**
-**Explanation:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Three axes, not one scale?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-C. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-D. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-
-**Answer: C.**
-**Explanation:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Three axes, not one scale?
-
-A. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-B. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-C. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-D. Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-
-**Answer: D.**
-**Explanation:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Status inconsistency as a change engine?
-
-A. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-B. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-C. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-D. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-
-**Answer: A.**
-**Explanation:** Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Status inconsistency as a change engine?
-
-A. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-B. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-C. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-D. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-
-**Answer: B.**
-**Explanation:** Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Status inconsistency as a change engine?
-
-A. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-B. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-C. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-D. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-
-**Answer: C.**
-**Explanation:** Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Status inconsistency as a change engine?
-
-A. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-B. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-C. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-D. Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-
-**Answer: D.**
-**Explanation:** Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Great Tradition and Little Tradition?
-
-A. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-B. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-C. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-D. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-
-**Answer: A.**
-**Explanation:** Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Great Tradition and Little Tradition?
-
-A. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-B. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-C. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-D. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-
-**Answer: B.**
-**Explanation:** Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Great Tradition and Little Tradition?
-
-A. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-B. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-C. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-D. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-
-**Answer: C.**
-**Explanation:** Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Great Tradition and Little Tradition?
-
-A. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-B. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-
-**Answer: D.**
-**Explanation:** Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Universalisation?
-
-A. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-B. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-C. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-D. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-
-**Answer: A.**
-**Explanation:** Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Universalisation?
-
-A. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-B. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-C. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-D. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-
-**Answer: B.**
-**Explanation:** Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Universalisation?
-
-A. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-B. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-C. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-D. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-
-**Answer: C.**
-**Explanation:** Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Universalisation?
-
-A. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-
-**Answer: D.**
-**Explanation:** Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Parochialisation?
-
-A. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-B. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-C. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-D. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-
-**Answer: A.**
-**Explanation:** Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Parochialisation?
-
-A. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-B. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-
-**Answer: B.**
-**Explanation:** Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Parochialisation?
-
-A. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-B. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-C. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-D. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-
-**Answer: C.**
-**Explanation:** Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Parochialisation?
-
-A. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-C. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-D. Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-
-**Answer: D.**
-**Explanation:** Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Secularisation as a sociological process?
-
-A. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-B. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-C. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-D. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-
-**Answer: A.**
-**Explanation:** Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Secularisation as a sociological process?
-
-A. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-B. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-C. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-D. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-
-**Answer: B.**
-**Explanation:** Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Secularisation as a sociological process?
-
-A. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-B. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-D. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-
-**Answer: C.**
-**Explanation:** Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Secularisation as a sociological process?
-
-A. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-D. Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-
-**Answer: D.**
-**Explanation:** Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Secularisation, secularism and desacralisation?
-
-A. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-
-**Answer: A.**
-**Explanation:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Secularisation, secularism and desacralisation?
-
-A. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-B. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: B.**
-**Explanation:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Secularisation, secularism and desacralisation?
-
-A. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-D. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-
-**Answer: C.**
-**Explanation:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Secularisation, secularism and desacralisation?
-
-A. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-B. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-D. Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-
-**Answer: D.**
-**Explanation:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Continuity alongside change?
-
-A. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: A.**
-**Explanation:** Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Continuity alongside change?
-
-A. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-B. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-C. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-
-**Answer: B.**
-**Explanation:** Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Continuity alongside change?
-
-A. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-B. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-C. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-D. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: C.**
-**Explanation:** Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Continuity alongside change?
-
-A. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-B. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-C. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-D. Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-
-**Answer: D.**
-**Explanation:** Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Custom, reason and obscurantism?
-
-A. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-B. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-D. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-
-**Answer: A.**
-**Explanation:** A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Custom, reason and obscurantism?
-
-A. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-B. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-C. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-
-**Answer: B.**
-**Explanation:** A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Custom, reason and obscurantism?
-
-A. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-B. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-C. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-D. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-
-**Answer: C.**
-**Explanation:** A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Custom, reason and obscurantism?
-
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-C. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-D. A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
-
-**Answer: D.**
-**Explanation:** A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Technology as a social-change question?
-
-A. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-B. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-C. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-
-**Answer: A.**
-**Explanation:** A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Technology as a social-change question?
-
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-C. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-D. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-
-**Answer: B.**
-**Explanation:** A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Technology as a social-change question?
-
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-C. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-D. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-
-**Answer: C.**
-**Explanation:** A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Technology as a social-change question?
-
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-C. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-D. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-
-**Answer: D.**
-**Explanation:** A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands and one ownership conflict?
-
-A. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-C. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-D. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-
-**Answer: A.**
-**Explanation:** Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands and one ownership conflict?
-
-A. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-B. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-
-**Answer: B.**
-**Explanation:** Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands and one ownership conflict?
-
-A. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-B. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-C. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-
-**Answer: C.**
-**Explanation:** Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands and one ownership conflict?
-
-A. Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
-B. A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
-C. The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-D. Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: D.**
-**Explanation:** Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Prices and time also influence choices.
+- **B:** Intention can diverge from choice.
+- **C:** Domestic suppliers need separate analysis.
+- **D:** Correct: track situated behaviour, not a presumed awareness-to-action identity.
+- **Trap:** “Awareness alone determines every daily food purchase independently of price.” — Prices and time also influence choices.
 
 ## PYQS AND ANSWER PRACTICE
-
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Four direct General Studies Paper-I Mains demands are routed to this topic and each is recorded with its exact routing status. The 2020 Q19 demand on whether customs and traditions suppress reason leading to obscurantism and the 2021 Q20 demand on the continuity of traditional social values amid social change are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes those pointers, so both are answered here from the Basic spine. The 2021 Q19 cryptocurrency demand is recorded in the same ledger as cross-cutting: the instrument route terminates in the answer-complete Economy digital-economy owner while this owner is retained as the society-effect owner, so the answer below is written strictly on the society layer and asserts no price, legal status or adoption figure. The locally held official question papers for 2020 and 2021 are scanned images from which reliable English text cannot be extracted, so the audited ledger's neutral demand rendering is used for those two years and no verbatim wording is claimed. The 2025 Q18 demand on the growth of fast-food industries amid rising health concerns is routed in the audited 2024-2025 ledger to this Basic owner and its wording was confirmed in the locally held official 2025 General Studies Paper-I; the Globalisation owner's own answer-architecture table also claims that demand, and this cross-owner conflict is stated openly rather than resolved by an unsupported analytical claim. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ No direct 2024/2025 GS-I Mains PYQ targets this topic specifically; when a social-
-  change-theory question does appear, anchor the answer in the
-  Sanskritisation-Westernisation-Modernisation triad and the Great Tradition-Little
-  Tradition framework, which remain the syllabus's core testable content here.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
-
-- **Years represented:** 2025
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-I | 18 | Growth of fast-food industries amid rising health concerns | Illustrate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Growth of fast-food industries amid rising health concerns
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ No direct 2024/2025 GS-I Mains PYQ targets social-change theory as a standalone
-  question; this is stated honestly. When such a question does appear (a recurring
-  older-pattern theme), the expected analytical route is: select the appropriate macro-
-  theory (structural-functional or conflict) for the specific change episode cited, apply
-  the Sanskritisation-Westernisation-Modernisation triad with axis-specific precision, and,
-  where cultural transmission is at issue, apply universalisation/parochialisation rather
-  than a simple elite-imposition model.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2020, 2021
-- **Paper(s):** GS-I
-- **Routed question demands:** 3
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-I | 19 | Customs and traditions suppressing reason and obscurantism | Do you agree · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-I | 19 | Cryptocurrency and its effect on global and Indian society | What is and How does it affect · 15 marks · 250 words | Cross-cutting; Economy instrument route terminates in answer-complete Core; society-effect owner retained | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-I | 20 | Continuity of traditional social values amid social change | Enumerate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Customs and traditions suppressing reason and obscurantism
-- Cryptocurrency and its effect on global and Indian society
-- Continuity of traditional social values amid social change
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+The labels and route statuses below follow the audited local ledgers. Descriptive PYQs have model answers, not purported official UPSC solutions; no unverified objective key is supplied.
 
 ### PYQ DEMAND CARD 1 — 2020 GS-I Q19
 
-**Demand:** Audited ledger demand rendering: customs and traditions suppressing reason and leading to obscurantism. Do you agree, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: do customs and traditions suppress reason and lead to obscurantism? Do you agree? 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2020 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral demand rendering, not claimed verbatim.
 
-**Model solution:** Refuse the blanket proposition and replace it with a test, because a do-you-agree directive on this subject is lost either by wholesale defence of custom or by wholesale condemnation of it. State the premise correction first: a custom is not irrational merely because it is old, since custom also transmits socialisation, memory and belonging, and this is exactly the persistence mechanism the continuity literature identifies. Then supply the test that earns the marks. A practice becomes obscurantist in its effect when a particular application blocks inquiry, blocks equal agency or blocks evidence-based choice, so the analysis attaches to the application and the mechanism, never to a community. Show the mechanism working through the vocabulary this owner owns. Sanskritisation demonstrates that ritual practice can be adopted to claim status within an unchanged hierarchy, which is precisely how a practice can be reproduced for reasons that have nothing to do with belief in its content; Westernisation demonstrates that contact with education, law and institutions introduces equality, individual rights and rationality as competing values; and modernisation demonstrates that rational-legal institutions and differentiated occupational roles change the structure in which the practice sits. Name the change mechanisms the directive expects. Formal education and codified law are the institutional channels through which structural modernisation is transmitted across generations, and internal dissent within a community is the mechanism that distinguishes reform from external imposition. Add the two-way cultural qualification so the answer is not a modernisation sermon. Universalisation carries local practice upward into pan-Indian recognition and parochialisation adapts pan-Indian practice to local form, so cultural change in India is negotiated rather than replaced, and reform that ignores this is usually rejected. Conclude that customs neither uniformly suppress reason nor are immune from it, that the defensible position is application-specific and evidence-led, and that no community may be characterised as inherently irrational in an answer of this kind.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2020 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+I agree only conditionally. A custom is a transmitted way of acting, not by definition an enemy of reason. Its effects depend on whether it permits criticism and equal agency or is defended as unquestionable authority. In India, a caste rule denying access to a common water source can reproduce domination when inherited rank is treated as justification; the problem is the rule and its power relation, not a community's inherent irrationality.
 
-**Detailed examiner-grade model answer:**
+M.N. Srinivas's account of Sanskritisation shows that imitating dominant-caste ritual may claim higher local status while leaving hierarchy's logic intact. This is change in position, not necessarily an emancipatory challenge to unequal relations. Conversely, rights-oriented arguments and social reform can question inherited exclusion. The constitutional abolition of untouchability under Article 17 offers a normative counterpoint, but legal prohibition alone cannot prove a change in every village practice. Education, collective organisation and institutional accountability shape whether reasoning changes lived outcomes.
 
-**Introduction and thesis:** Refuse the blanket proposition and replace it with a test, because a do-you-agree directive on this subject is lost either by wholesale defence of custom or by wholesale condemnation of it. State the premise correction first: a custom is not irrational merely because it is old, since custom also transmits socialisation, memory and belonging, and this is exactly the persistence mechanism the continuity literature identifies. Then supply the test that earns the marks. A practice becomes obscurantist in its effect when a particular application blocks inquiry, blocks equal agency or blocks evidence-based choice, so the analysis attaches to the application and the mechanism, never to a community. Show the mechanism working through the vocabulary this owner owns. Sanskritisation demonstrates that ritual practice can be adopted to claim status within an unchanged hierarchy, which is precisely how a practice can be reproduced for reasons that have nothing to do with belief in its content; Westernisation demonstrates that contact with education, law and institutions introduces equality, individual rights and rationality as competing values; and modernisation demonstrates that rational-legal institutions and differentiated occupational roles change the structure in which the practice sits. Name the change mechanisms the directive expects. Formal education and codified law are the institutional channels through which structural modernisation is transmitted across generations, and internal dissent within a community is the mechanism that distinguishes reform from external imposition. Add the two-way cultural qualification so the answer is not a modernisation sermon. Universalisation carries local practice upward into pan-Indian recognition and parochialisation adapts pan-Indian practice to local form, so cultural change in India is negotiated rather than replaced, and reform that ignores this is usually rejected. Conclude that customs neither uniformly suppress reason nor are immune from it, that the defensible position is application-specific and evidence-led, and that no community may be characterised as inherently irrational in an answer of this kind.
+Some traditions transmit cooperation, mutual aid and cultural memory; dismissing them wholesale can erase local knowledge and the agency of people who reinterpret practices. Robert Redfield and McKim Marriott's Great/Little Tradition framework demonstrates that cultural forms travel between local and wider settings rather than remaining frozen. Yet adaptation can also conserve unequal authority, so continuity must be evaluated by effects on dissenters and vulnerable groups.
 
-**Analytical body:**
+The appropriate test asks: who interprets the custom, who may challenge it, whose access or dignity changes, and what evidence supports claimed benefits? Reason need not replace every inheritance; it requires public justification and a capacity for revision. Customs become obscurantist when they foreclose that scrutiny or defend avoidable harm.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: customs and traditions suppressing reason and leading to obscurantism. Do you agree, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Refuse the blanket proposition and replace it with a test, because a do-you-agree directive on this subject is lost either by wholesale defence of custom or by wholesale condemnation of it. State the premise correction first: a custom is not irrational merely because it is old, since custom also transmits socialisation, memory and belonging, and this is exactly the persistence mechanism the continuity literature identifies. Then supply the test that earns the marks. A practice becomes obscurantist in its effect when a particular application blocks inquiry, blocks equal agency or blocks evidence-based choice, so the analysis attaches to the application and the mechanism, never to a community. Show the mechanism working through the vocabulary this owner owns. Sanskritisation demonstrates that ritual practice can be adopted to claim status within an unchanged hierarchy, which is precisely how a practice can be reproduced for reasons that have nothing to do with belief in its content; Westernisation demonstrates that contact with education, law and institutions introduces equality, individual rights and rationality as competing values; and modernisation demonstrates that rational-legal institutions and differentiated occupational roles change the structure in which the practice sits. Name the change mechanisms the directive expects. Formal education and codified law are the institutional channels through which structural modernisation is transmitted across generations, and internal dissent within a community is the mechanism that distinguishes reform from external imposition. Add the two-way cultural qualification so the answer is not a modernisation sermon. Universalisation carries local practice upward into pan-Indian recognition and parochialisation adapts pan-Indian practice to local form, so cultural change in India is negotiated rather than replaced, and reform that ignores this is usually rejected. Conclude that customs neither uniformly suppress reason nor are immune from it, that the defensible position is application-specific and evidence-led, and that no community may be characterised as inherently irrational in an answer of this kind.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Direct conditional verdict, named sociological and constitutional evidence, agency and limits of legal change.
 
 ### PYQ DEMAND CARD 2 — 2021 GS-I Q19
 
-**Demand:** Audited ledger demand rendering: cryptocurrency and its effect on global and Indian society. What is it and how does it affect society, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: what is cryptocurrency and how does it affect global and Indian society? 15 marks, 250 words.
 
-**Status:** Recorded in the audited 2018-2023 Mains ledger as cross-cutting. The instrument route terminates in the answer-complete Economy digital-economy owner while this owner is retained as the society-effect owner, so the answer is written only on the society layer. The locally held official 2021 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; instrument details cross-owned by Economy/Science; no unsourced market or legal claim.
 
-**Model solution:** Declare the division of labour in the opening line, because this demand is failed by borrowing facts that this owner does not hold. The instrument's definition in technical and monetary terms, its regulatory position and any market data belong to the Economy digital-economy owner and to Science and Technology, and this answer therefore asserts no price, no legal status and no adoption figure. Establish the society-layer principle. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, which means the same instrument can widen capability for one group and concentrate risk on another. Work the four society channels in order. Access first: participation in any platform-mediated instrument is stratified by the digital divide across income, gender, region and generation, so an apparently open technology reaches the already better positioned first. Trust second: where an instrument is not intermediated by familiar institutions, social trust is transferred to informal networks and intermediaries, which changes who bears the cost of a failure. Work and identity third: platform-mediated activity reorganises occupational roles and self-description, which is the differentiation that modernisation as structural change describes. Unequal risk fourth: households with thin buffers absorb a loss differently from households with deep ones, so the same nominal exposure is not the same social exposure. Locate the whole discussion in the theory this owner owns. Diffusionist explanation accounts for how such an instrument spreads across societies, while modernisation accounts for the structural shift it interacts with, and neither licenses a claim that the technology itself causes a social outcome. Conclude that the honest society-layer verdict is conditional: the social effect follows access, regulation and use, and any stronger claim requires the instrument evidence that this owner deliberately does not hold.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2021 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Cryptocurrency is a digital token whose transfers can be recorded on a distributed ledger rather than a single conventional account book. Its precise technical variants and current Indian legal or tax treatment require dated Economy and technology sources. For Society, the important question is how access, trust and risk are reorganised when financial activity uses such networks.
 
-**Detailed examiner-grade model answer:**
+Globally, border-crossing communities may see opportunities to transfer value and experiment with new forms of coordination. The advertised availability of a digital market does not guarantee that every participant has a reliable device, connectivity or the knowledge to verify claims. Intermediaries may still control entry points and information; a decentralised ledger does not itself decentralise economic power. Fraud or price volatility can expose less-informed users to disproportionate losses, while early, well-resourced participants may capture benefits.
 
-**Introduction and thesis:** Declare the division of labour in the opening line, because this demand is failed by borrowing facts that this owner does not hold. The instrument's definition in technical and monetary terms, its regulatory position and any market data belong to the Economy digital-economy owner and to Science and Technology, and this answer therefore asserts no price, no legal status and no adoption figure. Establish the society-layer principle. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, which means the same instrument can widen capability for one group and concentrate risk on another. Work the four society channels in order. Access first: participation in any platform-mediated instrument is stratified by the digital divide across income, gender, region and generation, so an apparently open technology reaches the already better positioned first. Trust second: where an instrument is not intermediated by familiar institutions, social trust is transferred to informal networks and intermediaries, which changes who bears the cost of a failure. Work and identity third: platform-mediated activity reorganises occupational roles and self-description, which is the differentiation that modernisation as structural change describes. Unequal risk fourth: households with thin buffers absorb a loss differently from households with deep ones, so the same nominal exposure is not the same social exposure. Locate the whole discussion in the theory this owner owns. Diffusionist explanation accounts for how such an instrument spreads across societies, while modernisation accounts for the structural shift it interacts with, and neither licenses a claim that the technology itself causes a social outcome. Conclude that the honest society-layer verdict is conditional: the social effect follows access, regulation and use, and any stronger claim requires the instrument evidence that this owner deliberately does not hold.
+In India, a prospective user with access to a phone but no trusted advice illustrates the difference between technical access and informed choice. Social networks and online influencers can spread enthusiasm rapidly; they can also amplify misinformation. Household attitudes to saving and risk, unequal digital skills and the capacity of institutions to respond to complaints influence actual uptake and harm. Cross-border platforms also raise questions of accountability when disputes cross jurisdictions. None of these observations establishes the prevalence of adoption, the size of losses or a universal legal category.
 
-**Analytical body:**
+Evaluation should compare financial capability, information asymmetry and available redress for different groups, not mistake an instrument's label for its social outcome. Cryptocurrency may broaden some forms of participation while generating unequal exposure to risk; its effects depend on use, safeguards and social power.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: cryptocurrency and its effect on global and Indian society. What is it and how does it affect society, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Declare the division of labour in the opening line, because this demand is failed by borrowing facts that this owner does not hold. The instrument's definition in technical and monetary terms, its regulatory position and any market data belong to the Economy digital-economy owner and to Science and Technology, and this answer therefore asserts no price, no legal status and no adoption figure. Establish the society-layer principle. A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, which means the same instrument can widen capability for one group and concentrate risk on another. Work the four society channels in order. Access first: participation in any platform-mediated instrument is stratified by the digital divide across income, gender, region and generation, so an apparently open technology reaches the already better positioned first. Trust second: where an instrument is not intermediated by familiar institutions, social trust is transferred to informal networks and intermediaries, which changes who bears the cost of a failure. Work and identity third: platform-mediated activity reorganises occupational roles and self-description, which is the differentiation that modernisation as structural change describes. Unequal risk fourth: households with thin buffers absorb a loss differently from households with deep ones, so the same nominal exposure is not the same social exposure. Locate the whole discussion in the theory this owner owns. Diffusionist explanation accounts for how such an instrument spreads across societies, while modernisation accounts for the structural shift it interacts with, and neither licenses a claim that the technology itself causes a social outcome. Conclude that the honest society-layer verdict is conditional: the social effect follows access, regulation and use, and any stronger claim requires the instrument evidence that this owner deliberately does not hold.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2021 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Defines the instrument sufficiently, then answers both global and Indian social effects without inventing price, adoption or legal status.
 
 ### PYQ DEMAND CARD 3 — 2021 GS-I Q20
 
-**Demand:** Audited ledger demand rendering: continuity of traditional social values amid social change. Enumerate, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: enumerate the continuities of traditional social values amid change. 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2021 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral demand rendering.
 
-**Model solution:** Treat the enumerate directive literally and give the examiner a numbered mechanism list, but pair each mechanism with the change pressure it is resisting, because a list of unchanged customs without that pairing is the standard low-scoring answer. Mechanism one is family and kin socialisation, which transmits value, obligation and role expectation across generations; the parallel pressure is migration and education, which move members out of daily supervision and into new normative environments. Mechanism two is ritual and festival life, which renews shared meaning at fixed intervals and keeps practice collective rather than private; the parallel pressure is media and market, which commercialise and standardise some of that practice. Mechanism three is language and regional culture, which carry idiom, memory and local identity; the parallel pressure is standardisation through schooling, administration and national media. Mechanism four is adaptation itself, described in this owner as universalisation, by which a local deity, festival or practice rises into pan-Indian recognition, and parochialisation, by which a pan-Indian textual practice is adapted, simplified or reinterpreted into local form; the parallel pressure is codified law, which converts some customary expectations into formal entitlement. Add the analytical point that lifts the list into an argument. Continuity in India is not the absence of change but a negotiated outcome, because the same institutions that transmit tradition are also the institutions through which Westernisation and modernisation arrive, and a group can accordingly modernise structurally through education and salaried employment while retaining ritual practice. Attach the theory qualification. Structural-functionalism reads this persistence as institutions renegotiating function, while conflict theory reads it as contested ground in which subordinate groups also use tradition to press claims, and the evidence in a given case decides between them. Conclude that traditional values persist because they are actively reproduced and adapted, so continuity and change are simultaneous rather than sequential.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2021 GS-I Q20”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Continuity does not mean that institutions are unchanged. Traditional values may persist because they are taught, reinterpreted and practised through changing social settings. Several mechanisms explain continuity in India.
 
-**Detailed examiner-grade model answer:**
+First, kin obligations may survive a move to an urban nuclear household: remittances and care for elders retain familial reciprocity despite altered residence. Yet who performs unpaid care can shift with women's paid work. Second, festivals and rituals renew belonging across generations; local-language family observances can continue even when schooling and employment become more mobile. Persistence of a ritual, however, does not establish unchanged authority within a household.
 
-**Introduction and thesis:** Treat the enumerate directive literally and give the examiner a numbered mechanism list, but pair each mechanism with the change pressure it is resisting, because a list of unchanged customs without that pairing is the standard low-scoring answer. Mechanism one is family and kin socialisation, which transmits value, obligation and role expectation across generations; the parallel pressure is migration and education, which move members out of daily supervision and into new normative environments. Mechanism two is ritual and festival life, which renews shared meaning at fixed intervals and keeps practice collective rather than private; the parallel pressure is media and market, which commercialise and standardise some of that practice. Mechanism three is language and regional culture, which carry idiom, memory and local identity; the parallel pressure is standardisation through schooling, administration and national media. Mechanism four is adaptation itself, described in this owner as universalisation, by which a local deity, festival or practice rises into pan-Indian recognition, and parochialisation, by which a pan-Indian textual practice is adapted, simplified or reinterpreted into local form; the parallel pressure is codified law, which converts some customary expectations into formal entitlement. Add the analytical point that lifts the list into an argument. Continuity in India is not the absence of change but a negotiated outcome, because the same institutions that transmit tradition are also the institutions through which Westernisation and modernisation arrive, and a group can accordingly modernise structurally through education and salaried employment while retaining ritual practice. Attach the theory qualification. Structural-functionalism reads this persistence as institutions renegotiating function, while conflict theory reads it as contested ground in which subordinate groups also use tradition to press claims, and the evidence in a given case decides between them. Conclude that traditional values persist because they are actively reproduced and adapted, so continuity and change are simultaneous rather than sequential.
+Third, regional languages and community associations provide identity to migrants in cities; digital media can circulate familiar forms through new technology. Fourth, Robert Redfield's Great Tradition–Little Tradition framework, developed for Indian villages by McKim Marriott, explains adaptive persistence: universalisation can carry a local practice to wider recognition, while parochialisation reshapes a pan-Indian textual rite into local observance. Cultural forms endure through exchange rather than by isolation. Fifth, inherited status values may also persist despite formal equality. M.N. Srinivas's Sanskritisation describes local status emulation that can reproduce hierarchy even where education and salaried work modernise other aspects of life.
 
-**Analytical body:**
+Continuity is not always desirable: caste exclusion cannot be excused simply because it is old. Nor does a new law automatically replace everyday norms. Enumerating specific channels—family, ritual, language, cultural translation and status relations—shows why change may proceed at different speeds by caste, class, gender and region. The balanced conclusion is selective adaptation, not an untouched tradition or complete rupture.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: continuity of traditional social values amid social change. Enumerate, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Treat the enumerate directive literally and give the examiner a numbered mechanism list, but pair each mechanism with the change pressure it is resisting, because a list of unchanged customs without that pairing is the standard low-scoring answer. Mechanism one is family and kin socialisation, which transmits value, obligation and role expectation across generations; the parallel pressure is migration and education, which move members out of daily supervision and into new normative environments. Mechanism two is ritual and festival life, which renews shared meaning at fixed intervals and keeps practice collective rather than private; the parallel pressure is media and market, which commercialise and standardise some of that practice. Mechanism three is language and regional culture, which carry idiom, memory and local identity; the parallel pressure is standardisation through schooling, administration and national media. Mechanism four is adaptation itself, described in this owner as universalisation, by which a local deity, festival or practice rises into pan-Indian recognition, and parochialisation, by which a pan-Indian textual practice is adapted, simplified or reinterpreted into local form; the parallel pressure is codified law, which converts some customary expectations into formal entitlement. Add the analytical point that lifts the list into an argument. Continuity in India is not the absence of change but a negotiated outcome, because the same institutions that transmit tradition are also the institutions through which Westernisation and modernisation arrive, and a group can accordingly modernise structurally through education and salaried employment while retaining ritual practice. Attach the theory qualification. Structural-functionalism reads this persistence as institutions renegotiating function, while conflict theory reads it as contested ground in which subordinate groups also use tradition to press claims, and the evidence in a given case decides between them. Conclude that traditional values persist because they are actively reproduced and adapted, so continuity and change are simultaneous rather than sequential.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2021 GS-I Q20”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Enumerates independent mechanisms with named theory, specific Indian settings and critical evaluation.
 
 ### PYQ DEMAND CARD 4 — 2025 GS-I Q18
 
-**Demand:** How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience. (Answer in 250 words) 15 marks.
+**Demand:** How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience. (15 marks; 250 words.)
 
-**Status:** Wording confirmed in the locally held official 2025 General Studies Paper-I. Routed in the audited 2024-2025 Mains ledger to this Basic owner. The Globalisation owner's own answer-architecture table also claims this demand, and that cross-owner conflict is stated openly here rather than resolved by assertion.
+**Verification / routing:** Official 2025 GS-I wording held locally; audited 2024–2025 ledger routes this demand to this Basic owner.
 
-**Model solution:** Name the paradox exactly before explaining it, because the demand supplies the tension and expects it to be taken seriously rather than dissolved: health concern is genuinely rising and the fast-food industry is genuinely growing, and an answer that denies either half has not begun. Account for the growth through mechanisms rather than through a single cause. The first mechanism is time. Dual-income urban households face real constraints on home cooking, so convenience acquires a practical value that has nothing to do with a view about nutrition. The second mechanism is price and delivery. Platform logistics lower the effective cost of convenience and extend it beyond the household's immediate neighbourhood, which converts an occasional choice into a routine one. The third mechanism is aspiration. Branded consumption operates as a marker of urban modern identity, and this is cultural consumerism, the symbolic status meaning attached to consumption, working independently of the structural expansion of purchasing capacity. The fourth mechanism is adaptation. Glocalisation, the adaptation of global products to local tastes and norms, lowers the cultural barrier to adoption through locally customised menus, which widens the addressable market beyond what an unmodified global menu could reach. Illustrate with the Indian experience honestly. The Indian case is not only a story about global chains, because domestic chains and food-delivery ecosystems carry much of the growth, so attributing the whole trend to globalisation misreads the market. Offer one behavioural lens and bound it. Bounded rationality explains how convenience, present-oriented choice and status motives can outweigh long-run health considerations in an actual purchase, but it is a lens rather than proof that one motive dominates every purchase. Conclude that the paradox is a structural trade-off between time-poverty-driven convenience and long-run public-health outcomes, not an awareness gap that better messaging alone would close, and quote no consumption or market figure that this owner does not hold.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2025 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Growth of fast-food industries despite health concern illustrates that social change is not a single linear shift from knowledge to behaviour. Awareness is one input; household time, price, aspiration and supply infrastructure shape actual meals. An urban dual-income household that uses delivery after a long commute illustrates the convenience mechanism, though it cannot represent all Indian consumers.
 
-**Detailed examiner-grade model answer:**
+Delivery platforms reduce search and travel costs; promotions can make prepared meals attractive at the moment of purchase. Branded outlets can make dining out a marker of sociability and modern aspiration. Meanwhile Indian food businesses and international chains both adapt menus to vegetarian and regional tastes. Globalised service formats and local food preferences interact rather than one simply eliminating the other. The growth of domestic prepared-food businesses also prevents us from attributing the whole trend to foreign brands.
 
-**Introduction and thesis:** Name the paradox exactly before explaining it, because the demand supplies the tension and expects it to be taken seriously rather than dissolved: health concern is genuinely rising and the fast-food industry is genuinely growing, and an answer that denies either half has not begun. Account for the growth through mechanisms rather than through a single cause. The first mechanism is time. Dual-income urban households face real constraints on home cooking, so convenience acquires a practical value that has nothing to do with a view about nutrition. The second mechanism is price and delivery. Platform logistics lower the effective cost of convenience and extend it beyond the household's immediate neighbourhood, which converts an occasional choice into a routine one. The third mechanism is aspiration. Branded consumption operates as a marker of urban modern identity, and this is cultural consumerism, the symbolic status meaning attached to consumption, working independently of the structural expansion of purchasing capacity. The fourth mechanism is adaptation. Glocalisation, the adaptation of global products to local tastes and norms, lowers the cultural barrier to adoption through locally customised menus, which widens the addressable market beyond what an unmodified global menu could reach. Illustrate with the Indian experience honestly. The Indian case is not only a story about global chains, because domestic chains and food-delivery ecosystems carry much of the growth, so attributing the whole trend to globalisation misreads the market. Offer one behavioural lens and bound it. Bounded rationality explains how convenience, present-oriented choice and status motives can outweigh long-run health considerations in an actual purchase, but it is a lens rather than proof that one motive dominates every purchase. Conclude that the paradox is a structural trade-off between time-poverty-driven convenience and long-run public-health outcomes, not an awareness gap that better messaging alone would close, and quote no consumption or market figure that this owner does not hold.
+Health concern may produce healthier selections on some occasions and convenience-driven choices on others. Work schedules, lack of cooking facilities and household bargaining help explain variation by class and gender. Calling consumers irrational evades the constraints they face; conversely, assuming that every fast-food meal has the same nutritional profile or that higher sales prove specific disease outcomes exceeds the evidence. Such claims require dated dietary and clinical studies.
 
-**Analytical body:**
+An adequate response includes affordable healthier options, usable labelling and attention to long commutes and work conditions, alongside public health information. The Indian experience thus shows selective adaptation: health norms change while time-poor urban lifestyles and locally adapted food markets continue to sustain demand.
 
-1. **Claim and named evidence:** Demand: How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Name the paradox exactly before explaining it, because the demand supplies the tension and expects it to be taken seriously rather than dissolved: health concern is genuinely rising and the fast-food industry is genuinely growing, and an answer that denies either half has not begun. Account for the growth through mechanisms rather than through a single cause. The first mechanism is time. Dual-income urban households face real constraints on home cooking, so convenience acquires a practical value that has nothing to do with a view about nutrition. The second mechanism is price and delivery. Platform logistics lower the effective cost of convenience and extend it beyond the household's immediate neighbourhood, which converts an occasional choice into a routine one. The third mechanism is aspiration. Branded consumption operates as a marker of urban modern identity, and this is cultural consumerism, the symbolic status meaning attached to consumption, working independently of the structural expansion of purchasing capacity. The fourth mechanism is adaptation. Glocalisation, the adaptation of global products to local tastes and norms, lowers the cultural barrier to adoption through locally customised menus, which widens the addressable market beyond what an unmodified global menu could reach. Illustrate with the Indian experience honestly. The Indian case is not only a story about global chains, because domestic chains and food-delivery ecosystems carry much of the growth, so attributing the whole trend to globalisation misreads the market. Offer one behavioural lens and bound it. Bounded rationality explains how convenience, present-oriented choice and status motives can outweigh long-run health considerations in an actual purchase, but it is a lens rather than proof that one motive dominates every purchase. Conclude that the paradox is a structural trade-off between time-poverty-driven convenience and long-run public-health outcomes, not an awareness gap that better messaging alone would close, and quote no consumption or market figure that this owner does not hold.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2025 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Uses social-change mechanisms and Indian domestic/global supply, with a clear evidence boundary and response.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish Sanskritisation, Westernisation and modernisation as three axes of social change. Answer in about 150 words.
+**Demand:** Distinguish Sanskritisation, Westernisation and modernisation as three axes of social change. About 150 words.
 
-**Model thesis:** The three concepts move on the separate axes of status, values and structure, so they can advance at different speeds inside the same community and may never be arranged as stages of one ladder.
+**Verification / routing:** Original practice; applies M.N. Srinivas's vocabulary with different measures of change.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic.
-- Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy.
-- Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community.
-- Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
+M.N. Srinivas's Sanskritisation describes a group's emulation of a locally dominant caste's rituals to claim higher status; it may alter rank claims without challenging the hierarchy itself. Westernisation concerns values and institutions associated with Western contact, such as rights-oriented education and new legal ideals. Modernisation denotes structural change toward differentiated occupations, technology and rational-legal organisation; it need not copy Western lifestyles or involve ritual emulation.
 
-**Qualified conclusion:** The three concepts move on the separate axes of status, values and structure, so they can advance at different speeds inside the same community and may never be arranged as stages of one ladder.
+Imagine a village family that adopts prestigious caste rituals, sends daughters to school and enters salaried employment. These could represent status emulation, changing values and institutional-economic change respectively, but none follows automatically from the others. In fact, formal employment may expand while ritual recognition remains low, producing status inconsistency. Class, caste and region affect their pace. The distinction prevents exam answers from treating all change as a single tradition-to-modernity ladder and asks what specifically changed: status position, normative commitments or social structure.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Sanskritisation, Westernisation and modernisation as three axes of social change.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The three concepts move on the separate axes of status, values and structure, so they can advance at different speeds inside the same community and may never be arranged as stages of one ladder.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Sanskritisation, in M. N. Srinivas's formulation, is the emulation of a locally dominant caste's ritual practice by another jati in order to claim higher local status, and it changes a group's position within the hierarchy without altering the hierarchy's own logic. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Westernisation is the adoption of new values from contact with Western education, law and institutions, including equality, individual rights and rationality, and unlike Sanskritisation it can subvert rather than merely reposition a group within the existing hierarchy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Modernisation is structural change toward rational-legal institutions, technology and differentiated occupational roles, and it is analytically distinct from both Sanskritisation and Westernisation even though all three often occur together in one community. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The three concepts move on the separate axes of status, values and structure, so they can advance at different speeds inside the same community and may never be arranged as stages of one ladder.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish Sanskritisation, Westernisation and modernisation as three axes of social change.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Defines all three axes and tests their independence with one Indian case and status inconsistency.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Distinguish secularisation as a sociological process from secularism as a constitutional doctrine. Answer in about 150 words.
+**Demand:** Distinguish secularisation as a sociological process from secularism as a constitutional doctrine. About 150 words.
 
-**Model thesis:** Secularisation is an institutional description that can coexist with intense religious identity while secularism is a normative doctrine about the state, and only the first belongs to a society answer.
+**Verification / routing:** Original practice; doctrinal detail remains with Polity.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism.
-- Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
-- This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
+Secularisation in sociology concerns differentiation of institutions: a school or workplace may increasingly follow general professional and legal rules rather than direction by religious authorities. This does not require individuals to cease worship. An Indian employee can use formal contract law at work and maintain family religious observances at home; the example shows differentiation without proving a nationwide decline in belief.
 
-**Qualified conclusion:** Secularisation is an institutional description that can coexist with intense religious identity while secularism is a normative doctrine about the state, and only the first belongs to a society answer.
+Secularism is instead a legal-political doctrine regulating the relation between the state and religions, with Indian constitutional provisions such as freedom of religion under Articles 25–28. The existence of those rules neither surveys household belief nor establishes that religious authorities have ceased to influence social life. Desacralisation, a change in the felt sacredness of an activity, is a third, experiential category. A Mains answer must therefore specify whether it is analysing institutional roles, constitutional obligations or personal meaning. None of the three automatically entails the other.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish secularisation as a sociological process from secularism as a constitutional…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Secularisation is an institutional description that can coexist with intense religious identity while secularism is a normative doctrine about the state, and only the first belongs to a society answer.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Secularisation describes the differentiation of religious authority from economic, political and other institutions, sometimes accompanied by declining religious control in particular domains, and it is neither a universal linear disappearance of religion nor the constitutional doctrine of secularism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Secularisation is an institutional description that can coexist with intense religious identity while secularism is a normative doctrine about the state, and only the first belongs to a society answer.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish secularisation as a sociological process from secularism as a constitutional…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Separates institutional, legal and experiential levels without claiming doctrinal text proves social results.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Examine the claim that structural-functional and conflict readings of the same social change are interchangeable. Answer in about 250 words.
+**Demand:** Examine the claim that structural-functional and conflict readings of the same social change are interchangeable. About 250 words.
 
-**Model thesis:** The two lenses attribute the same outcome to different mechanisms, so an answer earns its marks by naming which mechanism the evidence supports rather than by reciting both and choosing neither.
+**Verification / routing:** Original practice; theory comparison through a concrete Indian exclusion case.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led.
-- Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode.
-- The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies.
-- Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form.
+Structural-functional and conflict readings may examine the same outcome but make different causal claims. Consider a village rule allowing previously excluded households to use a common water source. A functional account asks how institutions adjust to tension and reorganise relationships to maintain workable cooperation. A conflict account asks which excluded households mobilised, how dominant interests resisted and what shift in power made the rule change possible. Neither the existence of a new rule nor the desirability of equal access establishes which mechanism operated.
 
-**Qualified conclusion:** The two lenses attribute the same outcome to different mechanisms, so an answer earns its marks by naming which mechanism the evidence supports rather than by reciting both and choosing neither.
+Evidence matters. Minutes documenting organised demands, a boycott and resistance would strengthen a struggle-centred explanation; negotiated adaptation without such mobilisation might support a functional reading. Both mechanisms could also interact: collective action can force an institutional settlement. However, calling both descriptions interchangeable would erase the question of who had power to set the original rule and who bore its costs. A consensus narrative may prematurely declare harmony; a pure conflict story may neglect sustained cooperation needed to implement change.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the claim that structural-functional and conflict readings of the same social change…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+M.N. Srinivas's Sanskritisation supplies a second boundary case. A group's adoption of high-status rituals may be read as integration within local ranking, but the persistence of hierarchy invites a conflict question about excluded alternatives. Legal reform adds another complication: Article 17 prohibits untouchability, but its existence is not evidence that each locality complies. We need observe behaviour and access, not only declarations.
 
-**Detailed examiner-grade model answer:**
+These theories are useful alternative lenses, not interchangeable explanations. Select or combine them according to process evidence, explain institutional adaptation and contested interests separately, and qualify any claim about change where implementation is uneven.
 
-**Introduction and thesis:** The two lenses attribute the same outcome to different mechanisms, so an answer earns its marks by naming which mechanism the evidence supports rather than by reciting both and choosing neither.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Structural-functionalism views society as an interconnected system of institutions whose adaptations can restore or renegotiate equilibrium after disruption, and it is one analytical lens rather than a claim that all change is smooth or consensus-led. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Conflict theory, Marxian in influence, views social change as arising from structural contradictions and struggle between groups with opposed interests rather than from consensus-seeking adaptation, and it offers a genuinely different causal account of the same episode. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The ending of an untouchability practice in a village can be read functionally as a system reducing disruptive tension and through conflict theory as the outcome of sustained lower-caste mobilisation, so a strong answer states which mechanism the available evidence better supports instead of asserting that only one theory ever applies. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Evolutionary theory explains change as internally generated unilinear development while cyclical theory describes civilisational rise and fall, and modern sociology generally prefers multi-linear, context-specific accounts to either pure form. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The two lenses attribute the same outcome to different mechanisms, so an answer earns its marks by naming which mechanism the evidence supports rather than by reciting both and choosing neither.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the claim that structural-functional and conflict readings of the same social change…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Contrasts causes rather than labels, names evidence that could discriminate and acknowledges interaction.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Examine the Great Tradition and Little Tradition framework as an account of two-way cultural change in India. Answer in about 250 words.
+**Demand:** Examine the Great Tradition and Little Tradition framework as an account of two-way cultural change in India. About 250 words.
 
-**Model thesis:** Universalisation and parochialisation run in opposite directions, which is why the framework refutes a purely top-down diffusion model of Indian cultural change.
+**Verification / routing:** Original practice; uses Redfield and Marriott's two directional mechanisms.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation.
-- Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk.
-- Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange.
-- A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts.
+Robert Redfield's Great Tradition–Little Tradition framework distinguishes a wider, often textual and reflective cultural stream from local, frequently oral and community-embedded practices. McKim Marriott applied it to Indian village society through two directions of exchange; the categories identify a relationship, not a ranking of a culture's worth.
 
-**Qualified conclusion:** Universalisation and parochialisation run in opposite directions, which is why the framework refutes a purely top-down diffusion model of Indian cultural change.
+Universalisation occurs when a local folk practice gains wider recognition, perhaps through pilgrimage and incorporation into a pan-Indian narrative. A regional deity becoming known beyond its original village illustrates the route, but it is a hypothetical mechanism unless a particular cult and its history are documented. Parochialisation is the reverse: a pan-Indian textual rite is adapted into a village's own language, resources and seasonal calendar. Here a locally simplified ritual does not mean ignorance of a supposedly superior form; it reflects active reinterpretation.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the Great Tradition and Little Tradition framework as an account of two-way cultural…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The framework rejects a simple elite-to-folk diffusion model. Local practice may reshape wider tradition just as wider forms enter a village. Migration, mass media and schooling can accelerate both flows: a community's festival may reach urban relatives through digital media while changing to fit their new routines. Yet the framework alone does not explain who funds publicity, whose voice counts as authoritative or how caste and gender structure participation. A tradition may gain recognition without distributing authority equally among its practitioners.
 
-**Detailed examiner-grade model answer:**
+An exam-grade application should specify the starting tradition, transmission mechanism, resulting adaptation and limits of the evidence. Indian cultural continuity is therefore not stasis; it emerges through bidirectional circulation under unequal social conditions. The Great/Little framework is valuable for tracing that circulation, provided power and local diversity are not read out of the account.
 
-**Introduction and thesis:** Universalisation and parochialisation run in opposite directions, which is why the framework refutes a purely top-down diffusion model of Indian cultural change.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Robert Redfield's Great Tradition and Little Tradition framework, developed for Indian village society by McKim Marriott, distinguishes the pan-Indian, textual and reflective cultural stream from the local, oral and folk stream, and the two interact continuously rather than existing in isolation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Universalisation is the movement of a local folk deity, festival or practice upward into pan-Indian recognition through pilgrimage networks, textual incorporation or patronage, and it demonstrates that cultural flow in India is not only downward from elite to folk. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Parochialisation is the adaptation, simplification or reinterpretation of a pan-Indian textual practice into local folk form to fit regional resources, language and social structure, and together with universalisation it makes Indian cultural change a genuine two-way exchange. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A diffusionist explanation attributes change to the spread of practices, technology or ideas from one society or region to another, which is how Western-origin institutions are usually said to have entered Indian society, and it complements rather than replaces internal-development accounts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Universalisation and parochialisation run in opposite directions, which is why the framework refutes a purely top-down diffusion model of Indian cultural change.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the Great Tradition and Little Tradition framework as an account of two-way cultural…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Explains each direction and named theorists with mechanism illustrations and a power-sensitive limitation.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Assess the mechanisms through which traditional values persist while Indian society changes. Answer in about 300 words.
+**Demand:** Assess the mechanisms through which traditional values persist while Indian society changes. About 300 words.
 
-**Model thesis:** Persistence is produced by identifiable mechanisms of socialisation, ritual, language and adaptation, each of which meets a named change pressure, so continuity is an active process rather than the absence of change.
+**Verification / routing:** Original practice; includes theory, family, ritual, law and unintended persistence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law.
-- Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change.
-- Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error.
-- A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational.
+Traditional values can survive institutional change because people teach, reinterpret and use them in new settings. Persistence is neither proof that nothing changed nor evidence that every inheritance deserves preservation. The first mechanism is socialisation: urban workers may support parents in a home village through remittances and visits even when residence shifts from extended to nuclear households. Kin reciprocity endures in a reorganised form, while the distribution of unpaid care may change.
 
-**Qualified conclusion:** Persistence is produced by identifiable mechanisms of socialisation, ritual, language and adaptation, each of which meets a named change pressure, so continuity is an active process rather than the absence of change.
+The second mechanism is ritual and community association. A regional festival celebrated in an Indian city can reproduce language and belonging among migrants, but its practice, gender roles and public scale may differ from the rural version. Third, Robert Redfield's Great Tradition–Little Tradition framework, applied by McKim Marriott, traces universalisation of local forms into wider recognition and parochialisation of pan-Indian forms into local adaptation. Transmission is bidirectional, not simply the imposition of elite norms.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the mechanisms through which traditional values persist while Indian society changes.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Fourth, power can conserve values. M.N. Srinivas's Sanskritisation allows a group to claim higher status by adopting dominant-caste practice without necessarily undermining ranking itself. New schooling or urban salaried work may modernise roles while local ritual status lags, creating inconsistency and potential struggle. Formal prohibitions, including Article 17's abolition of untouchability, create a countervailing legal norm, but enacted rules and everyday compliance must be measured separately. Reform and collective mobilisation can make inherited values objects of dispute rather than passive legacies.
 
-**Detailed examiner-grade model answer:**
+Fifth, communication technologies can recirculate familiar practices through new media. A digitally shared vernacular story may reach a new generation yet change in performance and ownership; identical names do not prove identical meanings. Caste, class, gender, religion and region influence who can preserve or contest a practice. Indian social change is thus selective adaptation and conflict: continuity rests on socialisation, institution building and cultural translation, but evaluation must distinguish supportive reciprocity from inherited exclusion.
 
-**Introduction and thesis:** Persistence is produced by identifiable mechanisms of socialisation, ritual, language and adaptation, each of which meets a named change pressure, so continuity is an active process rather than the absence of change.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Traditional values persist through family and kin socialisation, ritual and festival life, language and regional culture, and adaptation through universalisation and parochialisation, and each of these mechanisms operates against a parallel change pressure from education, migration, media and law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Where Westernisation and modernisation advance while local ritual-status recognition lags, a group can hold new values and a new structural position without matching status, and that inconsistency itself generates further pressure for social change. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Sanskritisation operates on status, Westernisation on values and modernisation on structure, so a group can modernise structurally through formal education and salaried employment without Sanskritising ritually, and treating the three as points on a single scale of progress is the standard error. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A custom is not automatically irrational, so the examinable question is when a particular application of a practice blocks inquiry, equal agency or evidence-based choice, and the answer must name reform, education and internal dissent as change mechanisms without describing any community as inherently irrational. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Persistence is produced by identifiable mechanisms of socialisation, ritual, language and adaptation, each of which meets a named change pressure, so continuity is an active process rather than the absence of change.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the mechanisms through which traditional values persist while Indian society changes.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Explains five persistence mechanisms, names both frameworks and balances social value against reproduced power.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Assess how a society answer should analyse a new technology's social effect without borrowing another owner's facts. Answer in about 300 words.
+**Demand:** Assess how a society answer should analyse a new technology's social effect without borrowing another owner's facts. About 300 words.
 
-**Model thesis:** The society layer of access, trust, work, identity and unequal risk is fully answerable without asserting a price, a legal status or an adoption figure, and stating that boundary is itself part of the answer's quality.
+**Verification / routing:** Original practice; bounded technology example responds to the cross-owned cryptocurrency PYQ.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology.
-- This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity.
-- Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-- Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error.
+A Society answer must define the instrument sufficiently to identify the interaction, then analyse changing relations, norms and inequalities without pretending to know unverified technical statistics. Cryptocurrency provides a test case. It refers broadly to digital tokens transferred using ledger arrangements; present exchange prices, tax treatment and technical energy estimates require dated Economy or Science and Technology sources. Those details cannot be reconstructed from the name of the technology.
 
-**Qualified conclusion:** The society layer of access, trust, work, identity and unequal risk is fully answerable without asserting a price, a legal status or an adoption figure, and stating that boundary is itself part of the answer's quality.
+Social mechanisms begin with access. A young Indian with a smartphone may enter a cross-border market, while someone lacking reliable connectivity, suitable language information or financial literacy faces higher barriers. Access to an app is not informed participation. Trust then matters: peer recommendations and influencers can speed adoption but can also spread misinformation; platform and intermediary power persists even where the ledger is decentralised. Risks such as fraud, volatility or weak redress can be distributed unequally, so an answer needs to ask who captures gains, who carries losses and which institution resolves disputes.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess how a society answer should analyse a new technology's social effect without borrowing…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Next consider agency and continuity. A technology can modify savings aspirations, household bargaining and cross-border networks without replacing older trust relationships overnight. A comparable Indian social-change illustration is food delivery: it changes household time allocation and vendor access, while price, regional cuisine and health concern continue to shape choices. These are distinct mechanisms; food-delivery experience cannot establish cryptocurrency adoption or technical effects.
 
-**Detailed examiner-grade model answer:**
+Evidence should match each claim: a dated, defined survey for access, qualitative interviews for decision-making and verified regulatory or transaction evidence for instrument-specific assertions. Beware an aggregate correlation masquerading as causation or an urban sample standing in for all of India. A society answer earns depth by tracing access → incentives and power → differentiated social outcomes → institutional response, while referring specialised factual claims to their rightful source rather than inventing them.
 
-**Introduction and thesis:** The society layer of access, trust, work, identity and unequal risk is fully answerable without asserting a price, a legal status or an adoption figure, and stating that boundary is itself part of the answer's quality.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A technology's societal effect depends on access, regulation, use and unequal risk rather than on the technology's label, so a cryptocurrency or platform demand is answered on the society layer of access, trust, work, identity and risk while the instrument's macroeconomic and technical facts are cross-linked to Economy and to Science and Technology. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** This owner treats social change as a question answered with several complementary lenses rather than one master theory, combining evolutionary, cyclical, structural-functional and conflict accounts with an India-specific vocabulary, while socio-religious reform chronology remains with Modern Indian History and constitutional secularism remains with Polity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Four General Studies Paper-I demands are routed to this topic, with the 2020 obscurantism demand, the 2021 traditional-values demand and the society half of the 2021 cryptocurrency demand routed in the audited 2018-2023 ledger to the Advanced owner, and the 2025 fast-food demand routed in the audited 2024-2025 ledger to this Basic owner even though the Globalisation owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Secularisation operates at the institutional level, secularism at the legal and political level as state neutrality toward religion, and desacralisation at the experiential level as a declining sense of the sacred in particular practices or spaces, and conflating any two of the three is a frequent Mains error. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The society layer of access, trust, work, identity and unequal risk is fully answerable without asserting a price, a legal status or an adoption figure, and stating that boundary is itself part of the answer's quality.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess how a society answer should analyse a new technology's social effect without borrowing…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Demonstrates an executable answer method, bounded instrument definition and India-specific mechanisms without speculative figures.

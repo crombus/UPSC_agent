@@ -6,1141 +6,595 @@ topic_key: science-and-technology-11
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Value-chain boundary?
+### Unsolved questions — attempt all before opening the key
 
-A. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-B. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-C. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
+### Q1. An Indian firm licenses a processor design but contracts another firm to make wafers. Which stage is missing domestically?
 
-**Answer: A.**
-**Explanation:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Front-end wafer fabrication.
+B. Chip architecture and IP design.
+C. Product marketing to device makers.
+D. Circuit specification.
 
-### Q2. Which option preserves the technical boundary of Value-chain boundary?
+### Q2. Which operation is characteristic of front-end fabrication rather than ATMP?
 
-A. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-B. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-C. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-D. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
+A. Dicing completed wafers and wire-bonding dies.
+B. Patterning transistor layers on silicon wafers by lithography and related steps.
+C. Encapsulating tested chips in packages.
+D. Final electrical screening of packaged parts.
 
-**Answer: B.**
-**Explanation:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. Why does photolithography require stringent contamination control?
 
-### Q3. Which statement uses Value-chain boundary without changing its institution, unit or status?
+A. Dust automatically increases good-die count.
+B. Circuit design eliminates all physical defects.
+C. Small defects in patterned layers can degrade wafer yield.
+D. Packaging can always repair a faulty transistor.
 
-A. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-B. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
+### Q4. A fab advertises high wafer starts but few qualified good dies. Which distinction explains the gap?
 
-**Answer: C.**
-**Explanation:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Wafer starts are by definition accepted retail chips.
+B. Equipment installation automatically certifies every design.
+C. A press release serves as a reliability test.
+D. Capacity is input throughput; yield and customer qualification govern saleable output.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Value-chain boundary?
+### Q5. A 28-nm process node is cited. What should one NOT assume?
 
-A. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-B. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-C. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-D. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
+A. Every measured transistor feature is literally 28 nm.
+B. Nodes label process generations.
+C. Mature nodes can serve automotive electronics.
+D. Node size alone does not establish commercial yield.
 
-**Answer: D.**
-**Explanation:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. Why can mature-node capacity be strategically important?
 
-### Q5. Which statement correctly identifies Fabless-foundry-IDM boundary?
+A. Only cutting-edge processors consume semiconductors.
+B. Power, industrial and automotive devices need reliability and supply, not always leading-edge density.
+C. Older nodes cannot support any defence electronics.
+D. Node labels decide export rules automatically.
 
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-C. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-D. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
+### Q7. Which facility type is mainly associated with outsourced assembly and test?
 
-**Answer: A.**
-**Explanation:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Wafer-fabrication cleanroom by definition.
+B. EDA-only design bureau.
+C. OSAT.
+D. Silicon mine.
 
-### Q6. Which option preserves the technical boundary of Fabless-foundry-IDM boundary?
+### Q8. A packaged chip contains several connected dies. Which observation is sound?
 
-A. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-B. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-C. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-D. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
+A. Packaging means the wafers were necessarily fabricated locally.
+B. Chiplets eliminate all interconnect losses.
+C. Multiple dies prove each one is leading-edge.
+D. Advanced packaging can improve integration without shrinking every die's process node.
 
-**Answer: B.**
-**Explanation:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. An imported wafer is tested and packaged at Sanand. Which claim is justified?
 
-### Q7. Which statement uses Fabless-foundry-IDM boundary without changing its institution, unit or status?
+A. A domestic back-end operation, not necessarily domestic wafer fabrication.
+B. India made the silicon transistors on that wafer.
+C. The facility manufactured every upstream lithography tool.
+D. The device passed every customer's qualification.
 
-A. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-B. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-C. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-D. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
+### Q10. Which item is a compound semiconductor example relevant to power electronics?
 
-**Answer: C.**
-**Explanation:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Pure elemental silicon used as a compound by definition.
+B. Silicon carbide (SiC).
+C. Silicon photonics as a chemical compound.
+D. An EDA design file.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Fabless-foundry-IDM boundary?
+### Q11. What is an appropriate example of silicon photonics?
 
-A. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-B. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
+A. A synonym for gallium nitride crystal growth.
+B. Proof every optical link is quantum key distribution.
+C. Optical interconnect components on a silicon-based platform.
+D. A packaging subsidy code.
 
-**Answer: D.**
-**Explanation:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. Why is design strength insufficient by itself for semiconductor supply resilience?
 
-### Q9. Which statement correctly identifies Front-end-back-end boundary?
+A. An IP portfolio physically supplies every chip.
+B. EDA licences produce wafers without equipment.
+C. Design renders logistics irrelevant.
+D. Fabrication, materials, packaging, tools and qualification remain separate dependencies.
 
-A. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-B. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-C. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-D. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
+### Q13. A fab requires ultrapure water and continuous electricity. What does that show?
 
-**Answer: A.**
-**Explanation:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Infrastructure reliability is a production constraint alongside incentives.
+B. Tax support automatically provides reliable process utilities.
+C. Water quality has no relation to yield.
+D. Assembly plants and fabs have identical utility loads.
 
-### Q10. Which option preserves the technical boundary of Front-end-back-end boundary?
+### Q14. How should a semiconductor project announcement be described?
 
-A. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-B. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
+A. As commercial operation on the date of announcement.
+B. As approval until agreement, construction, qualification and sale are separately evidenced.
+C. As proven high yield before installing tools.
+D. As confirmation of node and output even if unspecified.
 
-**Answer: B.**
-**Explanation:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. A fiscal-support agreement for a fab is signed. Which rung has been reached?
 
-### Q11. Which statement uses Front-end-back-end boundary without changing its institution, unit or status?
+A. Universal production across every wafer line.
+B. Proof all imported materials have been replaced.
+C. Financing-related agreement, not evidence of customer-qualified chips.
+D. Measured annual chip exports.
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-C. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-D. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
+### Q16. What does presentation of a first set of chips most directly establish?
 
-**Answer: C.**
-**Explanation:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. High-volume yield sustained for years.
+B. Sale of all design variants worldwide.
+C. Completion of every front-end fab.
+D. A reported sample milestone, not verified commercial-scale customer qualification.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Front-end-back-end boundary?
+### Q17. A new plant is 'inaugurated'. What further proof is needed for a commercial-supply claim?
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
+A. Sustained output, yield, customer qualification and deliveries.
+B. Only the inauguration venue.
+C. Only the number of invited speakers.
+D. Only the original Cabinet approval.
 
-**Answer: D.**
-**Explanation:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. Which pairing is reported in official 2024 semiconductor material?
 
-### Q13. Which statement correctly identifies ATMP-OSAT boundary?
+A. Morigaon as India's only operating leading-edge fab.
+B. Dholera fab; Morigaon and Sanand OSAT/ATMP projects.
+C. Dholera as a purely software design bureau.
+D. Sanand as a satellite QKD hub.
 
-A. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-B. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
+### Q19. How should Micron's Sanand facility on 28 February 2026 be labelled from the cited record?
 
-**Answer: A.**
-**Explanation:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. An already certified front-end wafer fab.
+B. A newly enacted semiconductor law.
+C. ATMP facility inaugurated; commercial scale needs further evidence.
+D. A guaranteed source of every Indian chip.
 
-### Q14. Which option preserves the technical boundary of ATMP-OSAT boundary?
+### Q20. A cited 31 March 2026 Kaynes Sanand milestone is best read as what?
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
+A. Proof all customers completed qualification.
+B. Evidence every device uses a 2-nm node.
+C. Termination of India's semiconductor mission.
+D. Facility inauguration rather than automatic verified high-volume output.
 
-**Answer: B.**
-**Explanation:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. What is the safest status claim for CG Semi at Sanand on 4 July 2026 in the owner?
 
-### Q15. Which statement uses ATMP-OSAT boundary without changing its institution, unit or status?
+A. OSAT facility inaugurated, without assuming saleable high-volume yield.
+B. Completed universal front-end fab self-sufficiency.
+C. Legally binding replacement of all OSAT competitors.
+D. A finished 1,000-qubit quantum processor.
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-C. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-D. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
+### Q22. What is the reported 15 July 2026 Semicon 2.0 milestone?
 
-**Answer: C.**
-**Explanation:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Verified spending of the entire outlay.
+B. Cabinet approval of a ₹1,27,500-crore outlay and broader ecosystem emphasis.
+C. A single plant's commercial yield certificate.
+D. A repeal of design-linked support schemes.
 
-### Q16. Which option avoids the standard UPSC close-option trap about ATMP-OSAT boundary?
+### Q23. Which policy distinction is accurate?
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-D. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
+A. SPECS is simply another name for every fab.
+B. Electronics PLI itself certifies wafer yield.
+C. ISM targets semiconductor ecosystem; SPECS and electronics/IT hardware PLI complement it as separate instruments.
+D. All industrial schemes are one legal notification.
 
-**Answer: D.**
-**Explanation:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. What does design-linked incentive chiefly address?
 
-### Q17. Which statement correctly identifies Process-node boundary?
+A. Instant fabrication without masks or wafers.
+B. An exemption from all IP licences.
+C. The final packing of every imported chip.
+D. Domestic chip-design capability and associated product development.
 
-A. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-B. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-C. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-D. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
+### Q25. A company announces a GaN device project. Which sectoral application is technically plausible?
 
-**Answer: A.**
-**Explanation:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. High-frequency or power electronics subject to product validation.
+B. Automatic replacement of all silicon memory chips.
+C. Guarantee of unlimited device lifetime.
+D. Proof that optical interconnects are GaN by definition.
 
-### Q18. Which option preserves the technical boundary of Process-node boundary?
+### Q26. Why does customer qualification follow first working samples?
 
-A. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-B. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
+A. Samples already prove every lifetime requirement.
+B. Buyers must validate reliability and specifications across relevant conditions.
+C. Qualification is simply another word for Cabinet approval.
+D. Package artwork is enough to establish device performance.
 
-**Answer: B.**
-**Explanation:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. What should a 'domestic chip' claim specify?
 
-### Q19. Which statement uses Process-node boundary without changing its institution, unit or status?
+A. Only where the press event occurred.
+B. That every machine was made in the same state.
+C. Which value-chain stages and inputs were actually performed or sourced domestically.
+D. That no imported material could have been used.
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-D. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
+### Q28. DHRUV64 appears in the 2026 objective ledger. What belongs to this owner's boundary?
 
-**Answer: C.**
-**Explanation:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Assume processor design establishes a commercial fab.
+B. Assert an unverified ordinal under DIR-V as final fact.
+C. Use provisional key as official final confirmation.
+D. Separate indigenous processor design claims from domestic wafer manufacturing claims.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Process-node boundary?
+### Q29. Which indicator best measures semiconductor ecosystem depth?
 
-A. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-B. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-C. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-D. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
+A. Verified design, fab/ATMP, input suppliers, skills and actual customer-qualified output.
+B. A count of foundation-stone ceremonies alone.
+C. Only one facility's stated capital cost.
+D. The largest advertised process-node number.
 
-**Answer: D.**
-**Explanation:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. A chip plant names a design capacity but not realised wafer starts. Which claim is unsound?
 
-### Q21. Which statement correctly identifies DUV-EUV boundary?
+A. That the capacity is an engineering objective.
+B. That rated capacity proves current production.
+C. That yield must be measured separately.
+D. That qualified deliveries need distinct evidence.
 
-A. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-B. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-C. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-D. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
+### Q31. What is a defensible supply-chain policy response to imported process chemicals?
 
-**Answer: A.**
-**Explanation:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Conclude every imported chemical is already domestically made.
+B. Close fabs until all inputs are locally sourced.
+C. Support verified domestic materials and diversify suppliers without assuming immediate substitution.
+D. Treat the chip-design team as a chemical plant.
 
-### Q22. Which option preserves the technical boundary of DUV-EUV boundary?
+### Q32. How can semiconductor packaging add resilience without domestic leading-edge lithography?
 
-A. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-B. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-C. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-D. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
+A. Packaging makes wafer origin legally irrelevant.
+B. It automatically yields cutting-edge transistors.
+C. It abolishes demand for EDA tools.
+D. Local test, assembly and heterogeneous integration create alternative chain capacity.
 
-**Answer: B.**
-**Explanation:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. Why does an industrial chip require different assurance than a phone benchmark?
 
-### Q23. Which statement uses DUV-EUV boundary without changing its institution, unit or status?
+A. Long service life, temperature and reliability requirements vary by end use.
+B. All chips share one universal qualification test.
+C. Marketing popularity substitutes for stress testing.
+D. Node shrink alone determines field safety.
 
-A. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-B. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-C. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-D. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
+### Q34. An official reports several 'approved' semiconductor units. What is the best follow-up question?
 
-**Answer: C.**
-**Explanation:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. How many speeches accompanied each announcement?
+B. Which units have reached agreements, construction, samples, qualification and deliveries?
+C. Which project title is longest?
+D. Can approval be counted as sales revenue?
 
-### Q24. Which option avoids the standard UPSC close-option trap about DUV-EUV boundary?
+### Q35. What does a Dholera front-end plus Morigaon back-end portfolio illustrate?
 
-A. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-D. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
+A. Two names for the same physical wafer line.
+B. Proof all stages run at identical yields.
+C. Complementary but distinct manufacturing stages in different locations.
+D. That chip architecture research is unnecessary.
 
-**Answer: D.**
-**Explanation:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. Which verdict on Indian semiconductor policy avoids exaggeration?
 
-### Q25. Which statement correctly identifies Advanced-packaging boundary?
+A. Declare full self-sufficiency from project approvals.
+B. Infer leading-edge nodes from city names.
+C. Call inaugurated OSATs completed national fabs.
+D. Judge announced support against independently evidenced capability, yield and deliveries.
 
-A. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-D. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
+## MATCHED SOLVED KEY
 
-**Answer: A.**
-**Explanation:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+Each explanation addresses all four options in the printed order; no answer is encoded in the question heading.
 
-### Q26. Which option preserves the technical boundary of Advanced-packaging boundary?
+### Q1 — A
 
-A. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-B. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-C. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-D. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
+- **A:** Fabrication builds transistor structures on wafers.
+- **B:** The firm already performs architecture/design.
+- **C:** Sales are downstream, not missing fabrication.
+- **D:** Specification belongs to design.
+- **Trap:** Chip design is not physical production.
 
-**Answer: B.**
-**Explanation:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q2 — B
 
-### Q27. Which statement uses Advanced-packaging boundary without changing its institution, unit or status?
+- **A:** Dicing and bonding are back-end operations.
+- **B:** Front-end creates devices/interconnects on wafers.
+- **C:** Encapsulation is packaging.
+- **D:** Post-package testing is back-end.
+- **Trap:** Fab and packaging facilities should not be conflated.
 
-A. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-B. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-C. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-D. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
+### Q3 — C
 
-**Answer: C.**
-**Explanation:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Particles cause rather than cure flaws.
+- **B:** Digital designs cannot remove physical contamination.
+- **C:** Defect density directly affects good dies.
+- **D:** Packaging does not rewrite failed devices.
+- **Trap:** Yield is a production outcome, not capacity.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Advanced-packaging boundary?
+### Q4 — D
 
-A. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-B. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-C. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-D. Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
+- **A:** Starts include wafers that may fail.
+- **B:** Equipment cannot establish design-specific quality.
+- **C:** Publicity is not reliability evidence.
+- **D:** Die defects and qualification mediate output.
+- **Trap:** Separate nominal capacity, actual yield and sales.
 
-**Answer: D.**
-**Explanation:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q5 — A
 
-### Q29. Which statement correctly identifies Compound-photonics boundary?
+- **A:** Modern node naming does not literally specify all geometry.
+- **B:** Generation label is the relevant use.
+- **C:** Mature nodes remain useful.
+- **D:** Production evidence is independent of node label.
+- **Trap:** Avoid equating node number with every physical length.
 
-A. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-D. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
+### Q6 — B
 
-**Answer: A.**
-**Explanation:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Many chips are not leading-edge CPUs.
+- **B:** End-use and qualification vary by device.
+- **C:** Mature processes can support strategic systems.
+- **D:** Export restrictions require legal analysis.
+- **Trap:** Leading edge is not synonymous with useful.
 
-### Q30. Which option preserves the technical boundary of Compound-photonics boundary?
+### Q7 — C
 
-A. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-B. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-C. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-D. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
+- **A:** Fab is front-end process creation.
+- **B:** EDA supports design.
+- **C:** OSAT denotes outsourced semiconductor assembly and testing.
+- **D:** Raw extraction is upstream materials.
+- **Trap:** ATMP and OSAT are back-end, not proof of domestic front-end.
 
-**Answer: B.**
-**Explanation:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q8 — D
 
-### Q31. Which statement uses Compound-photonics boundary without changing its institution, unit or status?
+- **A:** Die origin must be checked separately.
+- **B:** Interfaces still have power and latency costs.
+- **C:** Die count does not determine process generation.
+- **D:** Heterogeneous integration can add value at back-end.
+- **Trap:** Back-end engineering has independent technological depth.
 
-A. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-B. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-C. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-D. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
+### Q9 — A
 
-**Answer: C.**
-**Explanation:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Location of packaging is not wafer origin.
+- **B:** Imported wafers were fabbed elsewhere.
+- **C:** Equipment supply is a separate chain.
+- **D:** Testing a sample differs from all-customer approval.
+- **Trap:** Label the value-chain stage precisely.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Compound-photonics boundary?
+### Q10 — B
 
-A. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-B. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-C. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-D. Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
+- **A:** Elemental Si is not a compound.
+- **B:** SiC combines elements and serves high-power applications.
+- **C:** Silicon photonics is a platform, not itself a compound.
+- **D:** A file is not semiconductor material.
+- **Trap:** Differentiate SiC/GaN from silicon photonics.
 
-**Answer: D.**
-**Explanation:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q11 — C
 
-### Q33. Which statement correctly identifies EDA-design-IP boundary?
+- **A:** GaN is a distinct compound semiconductor.
+- **B:** Photonics need not be QKD.
+- **C:** Optical functionality can be integrated on silicon.
+- **D:** Policy codes are not devices.
+- **Trap:** Classify by material platform and function.
 
-A. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-B. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-C. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-D. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
+### Q12 — D
 
-**Answer: A.**
-**Explanation:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Intellectual property is not production.
+- **B:** Design software needs fab equipment for wafers.
+- **C:** Inputs and shipping still matter.
+- **D:** A multi-stage chain can fail at any chokepoint.
+- **Trap:** Resilience is not a single national-origin label.
 
-### Q34. Which option preserves the technical boundary of EDA-design-IP boundary?
+### Q13 — A
 
-A. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-B. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-C. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-D. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
+- **A:** Contamination and interruptions affect processes.
+- **B:** Finance cannot substitute for actual services.
+- **C:** Impurities can damage devices.
+- **D:** Facility stages differ in requirements.
+- **Trap:** Industrial policy must finance ecosystem complements.
 
-**Answer: B.**
-**Explanation:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q14 — B
 
-### Q35. Which statement uses EDA-design-IP boundary without changing its institution, unit or status?
+- **A:** Approval does not create shipped parts.
+- **B:** Each milestone needs a distinct source and verb.
+- **C:** Yield requires running lines.
+- **D:** Absent specifications cannot be invented.
+- **Trap:** Approval is the first rung, not the last.
 
-A. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-D. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
+### Q15 — C
 
-**Answer: C.**
-**Explanation:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Production needs commissioning and process qualification.
+- **B:** Local sourcing requires independent evidence.
+- **C:** Agreement is contractual progress.
+- **D:** Trade outcomes require observed sales.
+- **Trap:** Financing closure differs from physical output.
 
-### Q36. Which option avoids the standard UPSC close-option trap about EDA-design-IP boundary?
+### Q16 — D
 
-A. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-D. Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
+- **A:** Long-run yield requires production records.
+- **B:** Customer and product coverage cannot be assumed.
+- **C:** Samples may come from other value-chain stages.
+- **D:** Demonstrated samples have narrower evidentiary scope.
+- **Trap:** Name the origin and the evidence rung.
 
-**Answer: D.**
-**Explanation:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q17 — A
 
-### Q37. Which statement correctly identifies Utility-yield boundary?
+- **A:** Operations and buyers need independent confirmation.
+- **B:** Ceremony location says nothing about sales.
+- **C:** Audience does not test yield.
+- **D:** Initial approval is earlier status.
+- **Trap:** Inaugurated is not synonymous with ramped production.
 
-A. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-B. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-C. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-D. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
+### Q18 — B
 
-**Answer: A.**
-**Explanation:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** No such completed leading-edge claim is sourced.
+- **B:** The listed places reflect different stages.
+- **C:** Dholera is described as a fab project.
+- **D:** QKD belongs to quantum communications.
+- **Trap:** Place plus project type plus dated status.
 
-### Q38. Which option preserves the technical boundary of Utility-yield boundary?
+### Q19 — C
 
-A. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-B. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-C. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-D. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
+- **A:** ATMP is back-end, not a wafer fab.
+- **B:** A facility event is not legislation.
+- **C:** The cited event is an ATMP inauguration.
+- **D:** One facility cannot supply every category.
+- **Trap:** Preserve the event verb.
 
-**Answer: B.**
-**Explanation:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q20 — D
 
-### Q39. Which statement uses Utility-yield boundary without changing its institution, unit or status?
+- **A:** Qualification is separate.
+- **B:** No such node follows from ceremony.
+- **C:** An inauguration does not terminate policy.
+- **D:** The source supports an inaugurated facility.
+- **Trap:** Do not upgrade opening to yield.
 
-A. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
+### Q21 — A
 
-**Answer: C.**
-**Explanation:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** The dated milestone is an OSAT inauguration.
+- **B:** Back-end capacity does not cover whole chain.
+- **C:** A private plant does not enact monopoly.
+- **D:** A quantum processor is unrelated.
+- **Trap:** Do not conflate industry labels.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Utility-yield boundary?
+### Q22 — B
 
-A. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-B. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-C. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-D. A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
+- **A:** Approval is not expenditure.
+- **B:** The owner records approval and scope.
+- **C:** A programme is not quality certification.
+- **D:** The source does not report repeal.
+- **Trap:** Fiscal promise and execution differ.
 
-**Answer: D.**
-**Explanation:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q23 — C
 
-### Q41. Which statement correctly identifies ISM-institution boundary?
+- **A:** Component support is not a fab identity.
+- **B:** Incentives do not certify technology performance.
+- **C:** Separate programmes support linked chain stages.
+- **D:** Policy instruments retain distinct purposes.
+- **Trap:** Do not merge schemes for convenience.
 
-A. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-D. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
+### Q24 — D
 
-**Answer: A.**
-**Explanation:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Physical wafer processing remains necessary.
+- **B:** IP rights do not vanish with incentives.
+- **C:** Packaging is not chip architecture design.
+- **D:** Design support is a separate policy lever.
+- **Trap:** Design and manufacturing incentives target different bottlenecks.
 
-### Q42. Which option preserves the technical boundary of ISM-institution boundary?
+### Q25 — A
 
-A. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-B. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-C. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
+- **A:** GaN is used in RF and power contexts.
+- **B:** Device properties vary; universal replacement is unsupported.
+- **C:** Reliability needs testing.
+- **D:** Photonics on silicon is a different category.
+- **Trap:** Material capability does not prove a plant is producing.
 
-**Answer: B.**
-**Explanation:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q26 — B
 
-### Q43. Which statement uses ISM-institution boundary without changing its institution, unit or status?
+- **A:** A sample may fail later reliability tests.
+- **B:** Commercial buyers require repeated testing.
+- **C:** Policy decisions do not certify devices.
+- **D:** Art does not measure electronics.
+- **Trap:** Laboratory output is not contracted supply.
 
-A. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-B. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-C. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
+### Q27 — C
 
-**Answer: C.**
-**Explanation:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Event venue is not manufacture origin.
+- **B:** Equipment origin needs evidence.
+- **C:** Provenance should follow process stages.
+- **D:** Imports can coexist with local assembly.
+- **Trap:** Made-in-India is not proof of end-to-end autarky.
 
-### Q44. Which option avoids the standard UPSC close-option trap about ISM-institution boundary?
+### Q28 — D
 
-A. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-B. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-C. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-D. India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
+- **A:** A chip design cannot alone show local fab.
+- **B:** The source flags ordinal verification limits.
+- **C:** Provisional answer evidence is not final.
+- **D:** Design and production are independent capabilities.
+- **Trap:** Cross-owner computing facts require verified routing.
 
-**Answer: D.**
-**Explanation:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q29 — A
 
-### Q45. Which statement correctly identifies Semicon-one architecture?
+- **A:** Multiple linked capabilities plus deliveries matter.
+- **B:** Ceremonies report intentions.
+- **C:** Capex does not measure quality or self-sufficiency.
+- **D:** Node labels alone hide production maturity.
+- **Trap:** Value chain beats a single-stage headline.
 
-A. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-D. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
+### Q30 — B
 
-**Answer: A.**
-**Explanation:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Rated capacity is a valid planning measure.
+- **B:** Designed throughput is not actual use.
+- **C:** Yield is distinct from capacity.
+- **D:** Commercial output demands its own proof.
+- **Trap:** Never convert a nameplate into shipments.
 
-### Q46. Which option preserves the technical boundary of Semicon-one architecture?
+### Q31 — C
 
-A. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-B. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-C. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-D. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
+- **A:** Import substitution must be evidenced.
+- **B:** Autarky is not required for staged resilience.
+- **C:** Materials are a specialised upstream bottleneck.
+- **D:** Design does not synthesize process inputs.
+- **Trap:** Diversification and capability building can proceed together.
 
-**Answer: B.**
-**Explanation:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q32 — D
 
-### Q47. Which statement uses Semicon-one architecture without changing its institution, unit or status?
+- **A:** Traceability still matters.
+- **B:** Front-end node is unchanged by packaging.
+- **C:** Design software remains needed.
+- **D:** Back-end strengthens a particular stage.
+- **Trap:** Back-end gains do not imply complete self-reliance.
 
-A. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-B. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-C. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-D. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
+### Q33 — A
 
-**Answer: C.**
-**Explanation:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Application environment drives qualification.
+- **B:** Device tests are application-specific.
+- **C:** Popularity does not certify endurance.
+- **D:** Geometry is only one factor.
+- **Trap:** Match technical criteria to use case.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Semicon-one architecture?
+### Q34 — B
 
-A. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-B. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-C. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-D. Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
+- **A:** Speeches are not production metrics.
+- **B:** Track the downstream evidence ladder unit by unit.
+- **C:** Length of title is irrelevant.
+- **D:** Approval has no sales amount by itself.
+- **Trap:** Counts need dated, stage-specific denominators.
 
-**Answer: D.**
-**Explanation:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q35 — C
 
-### Q49. Which statement correctly identifies DLI-boundary?
+- **A:** Facilities differ in stage and geography.
+- **B:** Yield must be measured at each stage.
+- **C:** The chain combines fabs and assembly/test.
+- **D:** Design is a separate prerequisite.
+- **Trap:** A portfolio is not a single integrated operating line.
 
-A. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-D. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
+### Q36 — D
 
-**Answer: A.**
-**Explanation:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q50. Which option preserves the technical boundary of DLI-boundary?
-
-A. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-B. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-C. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-
-**Answer: B.**
-**Explanation:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q51. Which statement uses DLI-boundary without changing its institution, unit or status?
-
-A. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-B. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-C. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-D. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-
-**Answer: C.**
-**Explanation:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about DLI-boundary?
-
-A. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-B. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-C. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-D. Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-
-**Answer: D.**
-**Explanation:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q53. Which statement correctly identifies Semicon-two boundary?
-
-A. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-B. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-C. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-
-**Answer: A.**
-**Explanation:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q54. Which option preserves the technical boundary of Semicon-two boundary?
-
-A. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-B. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-C. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-D. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-
-**Answer: B.**
-**Explanation:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q55. Which statement uses Semicon-two boundary without changing its institution, unit or status?
-
-A. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-B. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-C. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-D. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-
-**Answer: C.**
-**Explanation:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Semicon-two boundary?
-
-A. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-B. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-C. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-D. Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-
-**Answer: D.**
-**Explanation:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Electronics-incentive boundary?
-
-A. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-B. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-C. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-D. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-
-**Answer: A.**
-**Explanation:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Electronics-incentive boundary?
-
-A. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-B. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-C. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-D. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-
-**Answer: B.**
-**Explanation:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Electronics-incentive boundary without changing its institution, unit or status?
-
-A. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-B. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-C. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-D. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-
-**Answer: C.**
-**Explanation:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Electronics-incentive boundary?
-
-A. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-B. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-
-**Answer: D.**
-**Explanation:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Facility-status boundary?
-
-A. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-B. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-C. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-D. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-
-**Answer: A.**
-**Explanation:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Facility-status boundary?
-
-A. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-B. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-C. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-D. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-
-**Answer: B.**
-**Explanation:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Facility-status boundary without changing its institution, unit or status?
-
-A. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-B. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-C. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-D. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-
-**Answer: C.**
-**Explanation:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Facility-status boundary?
-
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-C. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-D. Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-
-**Answer: D.**
-**Explanation:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Official-location boundary?
-
-A. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-B. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-C. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-D. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-
-**Answer: A.**
-**Explanation:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Official-location boundary?
-
-A. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-B. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-
-**Answer: B.**
-**Explanation:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Official-location boundary without changing its institution, unit or status?
-
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-C. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-D. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-
-**Answer: C.**
-**Explanation:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Official-location boundary?
-
-A. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-B. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-C. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-D. Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-
-**Answer: D.**
-**Explanation:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Commissioning-evidence boundary?
-
-A. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-B. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-
-**Answer: A.**
-**Explanation:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Commissioning-evidence boundary?
-
-A. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-B. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-C. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-D. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-
-**Answer: B.**
-**Explanation:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Commissioning-evidence boundary without changing its institution, unit or status?
-
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-C. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-
-**Answer: C.**
-**Explanation:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Commissioning-evidence boundary?
-
-A. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-B. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-C. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-D. Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-
-**Answer: D.**
-**Explanation:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies Processor-fabrication boundary?
-
-A. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-B. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-
-**Answer: A.**
-**Explanation:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of Processor-fabrication boundary?
-
-A. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-B. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-C. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-D. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-
-**Answer: B.**
-**Explanation:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses Processor-fabrication boundary without changing its institution, unit or status?
-
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-C. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-
-**Answer: C.**
-**Explanation:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Processor-fabrication boundary?
-
-A. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-B. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-C. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-D. The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability.
-
-**Answer: D.**
-**Explanation:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile-claim boundary?
-
-A. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-B. The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-C. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-
-**Answer: A.**
-**Explanation:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile-claim boundary?
-
-A. A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-B. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-C. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-D. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-
-**Answer: B.**
-**Explanation:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile-claim boundary without changing its institution, unit or status?
-
-A. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-B. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-C. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-D. Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-
-**Answer: C.**
-**Explanation:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile-claim boundary?
-
-A. A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-B. Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-C. ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-D. Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-
-**Answer: D.**
-**Explanation:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Approval does not eliminate external dependencies.
+- **B:** Geography cannot establish node size.
+- **C:** OSAT and fab are different stages.
+- **D:** Performance and status require dated proof.
+- **Trap:** Be precise about verbs and value-chain boundaries.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ DEMAND CARD — 2025 GS-III Q16 (15 marks, 250 words)
+**Demand:** Analyse challenges faced by India's semiconductor industry and salient features of India Semiconductor Mission. **Direct model:** Semiconductor capability comprises chip design/IP, wafer fabrication, ATMP/OSAT, input materials, equipment and downstream electronics. India has design talent and demand, but fab construction needs stable high-quality power and water, cleanroom equipment, patient capital and qualified supply chains; customer reliability and yields are later hurdles. ISM promotes a domestic ecosystem through support to manufacturing and design-linked activity, with 2024-approved Dholera fab and Morigaon/Sanand back-end projects illustrating complementary stages. Related SPECS and electronics PLI measures support components and demand but are not the ISM itself. An agreement, foundation stone or inauguration establishes a milestone, not commercially accepted chips. Build materials, skills, trusted supplier diversification and demand alongside fabs; assess success through measured yield and customer-qualified deliveries. This answer addresses both 'challenges' and 'Mission response' rather than reciting a scheme list.
 
-Audited ledgers route the 2025 GS-III semiconductor-challenges and India Semiconductor Mission demand plus provisional 2026 processor and plant-location concepts here. The cards preserve official verbs and do not invent an answer letter, project total, node size or commercial-production claim.
+### PYQ DEMAND CARD — 2026 Prelims GS-I Q79 (objective; provisional key)
+**Demand:** DHRUV64 processor and DIR-V programme. **Concept solution:** Keep architecture/processor-design claims separate from local wafer manufacture, and do not assert the processor's ordinal place in DIR-V: the cited owner flags lack of accessible primary confirmation for that proposition. No final objective letter is inferred from a provisional Set-A key.
 
-### PYQ DEMAND CARD 1 — 2025 GS-III
-
-**Demand:** Analyse challenges faced by India's semiconductor industry and mention the salient features of the India Semiconductor Mission.
-
-**Status:** Audited routed Mains demand; the card covers the complete value chain, ISM architecture and implementation constraints without treating later developments as part of the original official model answer.
-
-**Model solution:** **Value-chain boundary:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **DUV-EUV boundary:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Utility-yield boundary:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **ISM-institution boundary:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Semicon-one architecture:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **DLI-boundary:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Semicon-two boundary:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2025 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Value-chain boundary:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **DUV-EUV boundary:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Utility-yield boundary:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **ISM-institution boundary:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Semicon-one architecture:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **DLI-boundary:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Semicon-two boundary:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Analyse challenges faced by India's semiconductor industry and mention the salient features of the India Semiconductor Mission. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Audited routed Mains demand; the card covers the complete value chain, ISM architecture and implementation constraints without treating later developments as part of the original official model answer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Value-chain boundary:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **DUV-EUV boundary:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Utility-yield boundary:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **ISM-institution boundary:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Semicon-one architecture:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **DLI-boundary:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Semicon-two boundary:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2025 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### PYQ DEMAND CARD 2 — 2026 Prelims GS-I
-
-**Demand:** Assess DHRUV64 processor, DIR-V programme and indigenous computing-capability statements.
-
-**Status:** Provisional routed objective concept; DHRUV64's audited processor description is retained, but the unverified DIR-V ordinal proposition and answer letter are not asserted.
-
-**Model solution:** **EDA-design-IP boundary:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Processor-fabrication boundary:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 2 — 2026 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **EDA-design-IP boundary:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Processor-fabrication boundary:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess DHRUV64 processor, DIR-V programme and indigenous computing-capability statements. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Provisional routed objective concept; DHRUV64's audited processor description is retained, but the unverified DIR-V ordinal proposition and answer letter are not asserted. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **EDA-design-IP boundary:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Processor-fabrication boundary:** The audited owner identifies DHRUV64 as a homegrown 1.0-GHz, 64-bit dual-core microprocessor linked to India's RISC-V and processor-IP effort, but a processor design headline does not prove domestic fabrication, volume production or deployed capability. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2026 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 3 — 2026 Prelims GS-I
-
-**Demand:** Match Indian semiconductor projects or plants with their announced state-level locations.
-
-**Status:** Provisional routed objective concept; official location and status distinctions are taught without inferring an answer letter, aggregate project count or commercial production.
-
-**Model solution:** **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Official-location boundary:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Commissioning-evidence boundary:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 3 — 2026 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Official-location boundary:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Commissioning-evidence boundary:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Match Indian semiconductor projects or plants with their announced state-level locations. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Provisional routed objective concept; official location and status distinctions are taught without inferring an answer letter, aggregate project count or commercial production. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Facility-status boundary:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Official-location boundary:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Commissioning-evidence boundary:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Volatile-claim boundary:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2026 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
+### PYQ DEMAND CARD — 2026 Prelims GS-I Q83 (objective; provisional key)
+**Demand:** Match plant locations to announced manufacturing projects. **Concept solution:** Official 2024 material places a front-end fab project at Dholera and OSAT/ATMP projects at Morigaon and Sanand; later announcements must be dated and identified by facility and milestone. A correct state match does not establish operational production. Check every statement against the original paper and current official record; no final letter is supplied.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish semiconductor design, wafer fabrication and ATMP or OSAT. Answer in about 150 words.
+**Question:** Distinguish semiconductor design, wafer fabrication and ATMP/OSAT with an Indian example. Answer in 150 words.
 
-**Model thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Front-end-back-end boundary. **Named evidence/example:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATMP-OSAT boundary. **Named evidence/example:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-- Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity.
-- ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical.
-- Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Front-end-back-end boundary. **Named evidence/example:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATMP-OSAT boundary. **Named evidence/example:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish semiconductor design, wafer fabrication and ATMP or OSAT. Answer in about 150…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Front-end-back-end boundary. **Named evidence/example:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATMP-OSAT boundary. **Named evidence/example:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Front-end-back-end boundary. **Named evidence/example:** Wafer fabrication is the front-end creation of transistor and interconnect layers, while ATMP or OSAT is the back-end assembly, testing, marking and packaging of diced dies; packaging capacity is not wafer-fabrication capacity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATMP-OSAT boundary. **Named evidence/example:** ATMP names assembly, testing, marking and packaging process steps, whereas OSAT names the outsourced service model that performs such back-end work; the terms overlap operationally but are not identical. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish semiconductor design, wafer fabrication and ATMP or OSAT. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Design specifies chip architecture and intellectual property; electronic design automation translates requirements into a layout. A front-end fab patterns transistor and interconnect layers on a wafer through tightly controlled steps such as lithography and deposition. Back-end assembly, testing and packaging cut and connect dies, verify them and deliver usable components. These functions can occur in different firms and countries. Official 2024 Indian material identified a proposed Dholera fab and assembly/test projects at Morigaon and Sanand. Their coexistence is a portfolio, not proof that every locally packaged device was fabricated locally. Front-end work needs cleanrooms, stable utilities and costly specialised equipment; back-end operations need packaging engineering and customer qualification. India must build suppliers, skills and demand alongside projects. Report each facility by actual stage and milestone; an approved fab and an inaugurated OSAT are not interchangeable evidence of commercially shipped, locally fabricated chips. A customer may source the same design from one country and package the resulting dies in another; provenance should specify each stage explicitly.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Differentiate a fab, foundry, fabless company and integrated device manufacturer. Answer in about 150 words.
+**Question:** Explain why a smaller process-node label does not by itself measure semiconductor self-reliance. Answer in 150 words.
 
-**Model thesis:** **Claim:** Fabless-foundry-IDM boundary. **Named evidence/example:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym.
-
-**Qualified conclusion:** **Claim:** Fabless-foundry-IDM boundary. **Named evidence/example:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate a fab, foundry, fabless company and integrated device manufacturer. Answer in…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fabless-foundry-IDM boundary. **Named evidence/example:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Fabless-foundry-IDM boundary. **Named evidence/example:** A fabless firm designs chips and outsources wafer manufacture, a foundry manufactures to customers' designs, and an integrated device manufacturer designs and fabricates its own products; a fab is the plant and is not itself a business-model synonym. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Differentiate a fab, foundry, fabless company and integrated device manufacturer. Answer in…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** A node is a process-generation label linked to design rules, density and performance, not a literal measurement of every transistor feature. A smaller label can matter for selected high-performance designs, but other chips require durable, qualified supply more than leading-edge density. Power control, industrial, automotive and defence uses can rely on mature nodes. More importantly, a quoted node tells us neither how many good dies are produced nor whether customers have approved the device. India may design a processor at home while using foreign wafers, tools or chemicals, then package and test it locally. Track the share of domestic design, verified fab output, yield, materials, packaging and delivered products separately. A factory announcement is another distinct maturity rung. Resilience is selective capability across the value chain, including credible supply for applications, rather than winning a one-number geometry race. That distinction prevents public funds from rewarding a nominally advanced node that cannot supply reliable chips for an identified customer.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain why advanced packaging and compound semiconductors can form a strategic capability route for India. Answer in about 250 words.
+**Question:** Analyse the semiconductor value chain and assess the limits of a packaging-first strategy. Answer in 250 words.
 
-**Model thesis:** **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-- Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-- A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-
-**Qualified conclusion:** **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why advanced packaging and compound semiconductors can form a strategic capability…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain why advanced packaging and compound semiconductors can form a strategic capability…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Semiconductor production is not a single operation. Design/IP and EDA define a device; a fab patterns wafers through deposition, lithography and etching; assembly, test and packaging turn dies into usable components; boards and finished electronics create demand. A packaging-first pathway can train workers, build test capacity, encourage chiplets and reduce dependence on overseas back-end facilities while India develops more difficult front-end capacity. Official 2024 material pairing a Dholera fab project with Morigaon and Sanand OSAT/ATMP projects illustrates this complementary portfolio. However, packaging imported wafers is not domestic transistor fabrication, and it does not automatically deliver local materials, lithography equipment or customer-qualified yield. Advanced packaging itself requires reliable substrates, interconnects, process controls and buyers. FAB construction also demands clean water, uninterrupted electricity, huge capital and sustained process-learning cycles. Policy should connect design-linked support and ISM project incentives to materials, skills and downstream electronics demand; distinguish complementary SPECS and PLI schemes. Success cannot be read off approvals or first samples. Specify where the wafers originated, whether the plant is approved, under construction or inaugurated, and whether chips passed qualification and entered commercial supply. Packaging creates real value and learning but must be reported as back-end progress within a broader manufacturing strategy. A chiplet package may create new local engineering expertise, but imported dies remain imported. Conversely, domestic design can have commercial value while a local fab is still under construction. The sensible metric is the verified contribution of each stage, rather than an all-or-nothing origin claim.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Describe the institutional and scheme architecture of India's semiconductor mission. Answer in about 250 words.
+**Question:** Discuss how public incentives and supporting infrastructure interact in India's semiconductor mission. Answer in 250 words.
 
-**Model thesis:** **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-- Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-- Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-- Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-- SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-
-**Qualified conclusion:** **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **describe** requires a direct position on “Describe the institutional and scheme architecture of India's semiconductor mission. Answer…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Describe the institutional and scheme architecture of India's semiconductor mission. Answer…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** India Semiconductor Mission addresses high entry costs and coordination failures across fab, design and ATMP activities. Fiscal support can improve investor confidence, but a fab cannot turn an approved allocation into good dies without clean utilities, imported and domestic specialty materials, technicians, precision tools and stable customers. A process interruption may ruin wafers; defect density lowers yield even when rated wafer-start capacity appears impressive. Dholera's announced fab and Morigaon/Sanand back-end units show why different stages require distinct infrastructure and qualification standards. Design-linked initiatives build intellectual property; SPECS and electronics/IT-hardware PLI instruments can complement demand and component supply but remain separate schemes. An investment approval is earlier than a support agreement, ground-breaking, installation, sample production, customer acceptance and commercial deliveries. Official reporting of first chips or a plant inauguration should retain precisely those verbs. Government should measure power/water reliability, trained engineers, process yields, domestic supplier qualification and paying customers, with clear dated provenance for each metric. Build cluster benefits where they lower coordination costs but diversify bottleneck inputs to avoid a new single point of failure. Incentives are necessary to attract first movers in a capital-intensive industry, but their development value lies in eventually verified production and upstream/downstream capability, not the cumulative face value of announcements. A district-level cluster near a fab should plan wastewater treatment and equipment servicing, not just a power connection. Qualification by an automotive or power-system customer may require many stress cycles. Therefore milestone reporting should move from committed investment to stable process output.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Analyse the challenges faced by India's semiconductor industry and the response of the India Semiconductor Mission. Answer in about 300 words.
+**Question:** Analyse semiconductor industry challenges and the response of the India Semiconductor Mission, with attention to 2026 status evidence. Answer in 250 words.
 
-**Model thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DUV-EUV boundary. **Named evidence/example:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-- Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source.
-- Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies.
-- A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-- India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives.
-- Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support.
-- Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance.
-- Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent.
-- Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-- Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DUV-EUV boundary. **Named evidence/example:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the challenges faced by India's semiconductor industry and the response of the India…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DUV-EUV boundary. **Named evidence/example:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-9. **Claim and named evidence:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-10. **Claim and named evidence:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DUV-EUV boundary. **Named evidence/example:** Deep-ultraviolet lithography supports mature and mid-range manufacturing, while extreme-ultraviolet lithography is a leading-edge chokepoint concentrated in one global supplier and exposed to export controls; a smaller-node claim requires an explicit official source. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** EDA-design-IP boundary. **Named evidence/example:** Electronic Design Automation tools support architecture, verification, layout and tape-out, while reusable design intellectual property supplies circuit blocks; design capability can exist without domestic wafer fabrication and still retain external tool-chain dependencies. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ISM-institution boundary. **Named evidence/example:** India Semiconductor Mission is the MeitY-linked implementing agency for semiconductor and display ecosystem schemes; it is distinct from the Semicon India scheme package and from separate electronics-manufacturing incentives. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-one architecture. **Named evidence/example:** Semicon India 1.0 has a Rs 76,000 crore umbrella covering semiconductor fabs, display fabs, compound-semiconductor or silicon-photonics or sensor fabs plus ATMP-OSAT, and Design Linked Incentive support. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DLI-boundary. **Named evidence/example:** Design Linked Incentive supports domestic chip design, design infrastructure, startups and productisation; it is not a direct wafer-fab subsidy and does not establish fabrication self-reliance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Semicon-two boundary. **Named evidence/example:** Semicon 2.0 was approved by the Union Cabinet on 15 July 2026 with a Rs 1,27,500 crore outlay and an official ecosystem emphasis spanning design, machines and materials, more fabs, ATMP or OSAT, research and development, and talent. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse the challenges faced by India's semiconductor industry and the response of the India…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Semiconductor sovereignty is a value-chain objective, not the existence of a building marked 'fab'. India has design capability and large electronics demand, but front-end production faces expensive equipment, specialised chemicals, stable ultrapure water and power, long learning cycles and uncertain yields. Back-end operations face substrate, testing and buyer-qualification challenges. The India Semiconductor Mission supports investment and design-linked capabilities; approved projects such as the Dholera fab and Morigaon and Sanand assembly/test facilities span distinct stages. The 12 March 2025 Tata fab fiscal-support agreement marked financing progress. A September 2025 presentation of first chips was a demonstration milestone, not a guarantee of sustained commercial sales. Official sources record the inauguration of Micron ATMP at Sanand on 28 February 2026, Kaynes there on 31 March and CG Semi OSAT there on 4 July; an inauguration alone does not establish full yield or local wafer origin. Cabinet approval of Semicon 2.0 on 15 July 2026 expanded the announced ecosystem ambition, including machines, materials, R&D and talent; approval is not spending. Distinguish ISM from complementary SPECS and electronics PLI instruments. Prioritise dependable infrastructure, skill building, supplier depth and realistic demand alongside incentives. Evaluate independent customer qualification and repeated deliveries rather than inferring success from approvals, samples or ribbon-cutting. A DHRUV64 design headline should be treated separately: it says nothing on its own about the origin of the wafers. The official 2026 objective ledger has a provisional key; do not invent its final letter or an unverified processor ordinal under the DIR-V programme.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Evaluate India's semiconductor strategy through value-chain depth, facility status, electronics demand and selective resilience. Answer in about 300 words.
+**Question:** Evaluate India's semiconductor strategy through design, compound devices, packaging, fabrication and downstream electronics. Answer in 250 words.
 
-**Model thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Process-node boundary. **Named evidence/example:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Official-location boundary. **Named evidence/example:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commissioning-evidence boundary. **Named evidence/example:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage.
-- A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications.
-- Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step.
-- Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor.
-- A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes.
-- SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme.
-- Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one.
-- Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat.
-- Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale.
-- Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Process-node boundary. **Named evidence/example:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Official-location boundary. **Named evidence/example:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commissioning-evidence boundary. **Named evidence/example:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's semiconductor strategy through value-chain depth, facility status,…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Process-node boundary. **Named evidence/example:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Official-location boundary. **Named evidence/example:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commissioning-evidence boundary. **Named evidence/example:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-9. **Claim and named evidence:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-10. **Claim and named evidence:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Value-chain boundary. **Named evidence/example:** The semiconductor chain runs from design and intellectual property through wafer fabrication, assembly, testing and packaging to boards, modules and finished electronics; strength at one stage does not establish control of every stage. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Process-node boundary. **Named evidence/example:** A process node is now largely a generation label associated with density and performance rather than a literal transistor dimension; mature nodes remain strategically useful for automotive, industrial, power and defence applications. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Advanced-packaging boundary. **Named evidence/example:** Chiplets, 2.5D and 3D integration, through-silicon vias and heterogeneous integration can improve system performance without leading-edge lithography, making advanced packaging a capability route rather than a trivial final assembly step. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Compound-photonics boundary. **Named evidence/example:** Compound semiconductors such as GaN, GaAs, InP and SiC combine multiple elements for power, radio-frequency or optoelectronic uses, while silicon photonics is a silicon platform for optical interconnects and is not a compound semiconductor. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Utility-yield boundary. **Named evidence/example:** A competitive fab needs ultra-clean facilities, reliable power, ultra-pure water, specialty gases and chemicals, process control, sustained yield learning and customer qualification; inauguration alone proves none of these operating outcomes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Electronics-incentive boundary. **Named evidence/example:** SPECS and electronics or IT-hardware PLI instruments complement semiconductor policy through component and downstream manufacturing incentives, but they are separate from ISM and cannot be merged into one scheme. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Facility-status boundary. **Named evidence/example:** Official semiconductor evidence must preserve the ladder of approval, fiscal-support agreement, groundbreaking, inauguration, demonstrated output, customer qualification and commercial supply; no earlier rung proves a later one. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Official-location boundary. **Named evidence/example:** Official 2024 material identifies a Dholera fab and OSAT or ATMP units at Morigaon and Sanand, while the 5 May 2026 official update identifies Crystal Matrix's integrated compound-semiconductor fabrication plus ATMP project in Dholera and Suchi Semicon's OSAT unit in Surat. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commissioning-evidence boundary. **Named evidence/example:** Official records identify Micron ATMP at Sanand as inaugurated on 28 February 2026, Kaynes Semicon at Sanand on 31 March 2026 and CG Semi OSAT at Sanand on 4 July 2026; these verbs do not establish node, yield or commercial-scale sale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-claim boundary. **Named evidence/example:** Project counts, node sizes, capacities, yields, investment realised, commissioning, commercial output and event outcomes require a dated official source; the provisional 2026 questions and keys supply demands, not answer letters or independent proof of their propositions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate India's semiconductor strategy through value-chain depth, facility status,…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** A balanced semiconductor strategy matches applications to different technological bottlenecks. Domestic chip design creates IP and integrates engineering with electronics demand, but designers still need wafers, process tools and reliable foundries. A wafer fab can anchor front-end learning yet requires sustained capital, power, ultrapure water and low-defect materials. ATMP/OSAT and advanced packaging can add test capacity and combine chiplets; they do not retroactively make imported wafers locally fabricated. Compound materials such as SiC and GaN serve power and radio-frequency applications, while silicon photonics enables optical functions on a silicon platform and is not itself a compound semiconductor. Mature nodes may be highly relevant to vehicles and industrial equipment even when headline attention goes to leading-edge computing. India Semiconductor Mission support, design-linked incentives and complementary SPECS/PLI measures must be assessed as different policy levers. Official 2024 Dholera, Morigaon and Sanand project announcements, 2026 Sanand inaugurations and Semicon 2.0 approval represent progress at different rungs, not an end-to-end self-sufficiency certificate. Judge facilities against measured yield, product reliability, customer qualification, supplier diversification and downstream orders. Integration across stages increases resilience, while continued imports may remain economically rational. The strategic objective is dependable selective capability and learning, not an unverified claim that every chip, node and input is already indigenous. Chip-industry policy must also avoid concentrating every input in one untested supplier. Public reporting should distinguish design capacity from actual wafer starts, acceptable dies and booked sales. Such indicators turn selective strategic autonomy from a slogan into an auditable development outcome.

@@ -6,1117 +6,437 @@ topic_key: science-and-technology-17
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Patent bargain and criteria?
+### Question bank — 40 original applied MCQs (answers in separate key)
+### Q1. A lab finds a naturally occurring antimicrobial molecule. What alone would qualify for a patent inquiry?
 
-A. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-B. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-C. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-D. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
+A. An engineered, non-obvious industrially applicable process for making it
+B. Discovery of the molecule in a forest sample
+C. Publication of its previously unknown natural location
+D. Registration of the molecule as a regional brand
 
-**Answer: A.**
-**Explanation:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q2. A claimed device is new but obvious to a skilled engineer. What fails?
 
-### Q2. Which option preserves the technical boundary of Patent bargain and criteria?
+A. Disclosure because it is written up
+B. Inventive step despite novelty
+C. Novelty because it is new
+D. Industrial applicability because it can be made
 
-A. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-B. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-C. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-D. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
+### Q3. A company files a new but useless industrial process. Which criterion is in doubt?
 
-**Answer: B.**
-**Explanation:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Brand distinctiveness
+B. Renewal of trademark registration
+C. Capability of industrial application
+D. Territoriality of a granted patent
 
-### Q3. Which statement uses Patent bargain and criteria without changing its institution, unit or status?
+### Q4. A manufacturer changes only the synthesis route to an already patented drug. What is the safest conclusion?
 
-A. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-B. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
+A. The drug automatically becomes a novel product
+B. A process application cancels the prior product patent
+C. Any new manufacturing route escapes all product claims
+D. A qualifying new process may be separately claimed, subject to existing product rights
 
-**Answer: C.**
-**Explanation:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q5. For a standard Indian patent filed in a particular year, the general term is measured from which event?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Patent bargain and criteria?
+A. Filing, for twenty years
+B. Commercial launch, for twenty years
+C. Grant, for ten renewable years
+D. First export, for ten renewable years
 
-A. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
+### Q6. An Indian patent is granted and a firm plans sales in Kenya. Which inquiry comes first?
 
-**Answer: D.**
-**Explanation:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Whether filing alone secured identical rights worldwide
+B. Whether enforceable protection exists in that foreign jurisdiction
+C. Whether WIPO has automatically granted a world patent
+D. Whether India has renewed its trademark registration
 
-### Q5. Which statement correctly identifies Invention-discovery boundary?
+### Q7. A startup submits a complete patent application but has not requested examination. Its current status is best described as?
 
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
+A. Revoked because examination was not automatic
+B. Licensed because the specification is public
+C. Filed, not yet granted merely by filing
+D. Granted because publication follows filing
 
-**Answer: A.**
-**Explanation:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(c) supplies a specific known-substance filter. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q8. Before grant, a patient group finds earlier public disclosure undermining a drug claim. Which route fits?
 
-### Q6. Which option preserves the technical boundary of Invention-discovery boundary?
+A. Post-grant opposition limited to an interested person
+B. Section 84 licence three years from filing
+C. Automatic cancellation by the TKDL
+D. Pre-grant opposition under section 25(1) by any person
 
-A. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-B. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-C. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-D. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
+### Q9. An interested competitor challenges a recently granted Indian patent within a year. What mechanism matches?
 
-**Answer: B.**
-**Explanation:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(c) supplies a specific known-substance filter. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Post-grant opposition under section 25(2)
+B. Pre-grant opposition under section 25(1)
+C. PCT international examination as a court judgment
+D. Routine patent renewal as an invalidity proceeding
 
-### Q7. Which statement uses Invention-discovery boundary without changing its institution, unit or status?
+### Q10. A new use is discovered for a known pharmaceutical substance. Which section 3(d) reading holds?
 
-A. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-B. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-C. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-D. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
+A. A brand registration makes the use novel
+B. The mere new-use claim is not an invention under its distinct limb
+C. Higher sales alone cure the new-use exclusion
+D. Efficacy exception for new forms automatically rescues every new use
 
-**Answer: C.**
-**Explanation:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(b) supplies a specific known-substance filter. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q11. A salt of a known drug improves shelf stability but not therapeutic efficacy. Which caution applies?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Invention-discovery boundary?
+A. Section 84 automatically grants a patent for affordable prices
+B. A known compound gains protection through PCT filing
+C. A new-form claim needs significant difference in efficacy, not stability alone
+D. Any physical difference proves a wholly new invention
 
-A. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-B. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-C. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-D. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
+### Q12. A lab asserts better therapeutic efficacy for a new form of a known substance. What follows?
 
-**Answer: D.**
-**Explanation:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A patent is automatically granted without examination
+B. The rule also patents a mere new use
+C. The claim is necessarily excluded simply for being pharmaceutical
+D. Assess evidence of significant efficacy difference plus other patent conditions
 
-### Q9. Which statement correctly identifies Product-process boundary?
+### Q13. An Indian patent for a medicine was granted two years ago, with poor access. Is an ordinary section 84 application yet available?
 
-A. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
+A. Not on the ordinary three-years-from-grant route
+B. Yes, because two years from filing are sufficient
+C. Yes, any high price cancels the three-year condition
+D. No, because compulsory licensing is never permitted
 
-**Answer: A.**
-**Explanation:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q14. Three years after a medicine patent grant, it is not reasonably affordable. Which claim is defensible?
 
-### Q10. Which option preserves the technical boundary of Product-process boundary?
+A. A private pharmacy may ignore the patent immediately
+B. Section 84 supplies a ground to apply, not an automatic licence
+C. The patent expires automatically on an affordability complaint
+D. Section 92 requires three years from grant too
 
-A. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-B. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
+### Q15. Government notifies a public-health emergency for a patented medicine. What route differs from ordinary section 84?
 
-**Answer: B.**
-**Explanation:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Section 3(d) automatic royalty-free use
+B. PCT filing as an emergency import authorisation
+C. Section 92 notified emergency/public non-commercial-use route
+D. Section 84 only after three years from filing
 
-### Q11. Which statement uses Product-process boundary without changing its institution, unit or status?
+### Q16. How should the 2012 Natco–Bayer sorafenib matter be classified?
 
-A. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-D. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
+A. A section 92 notification that abolished drug patents
+B. A trademark dispute over regional reputation
+C. A universal rule that every high-price drug receives a licence
+D. A granted section 84 compulsory-licence example
 
-**Answer: C.**
-**Explanation:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q17. A generic firm conducts experiments solely to submit regulatory data before patent expiry. Which boundary applies?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Product-process boundary?
+A. Section 107A Bolar exemption for reasonably related regulatory submissions
+B. All commercial production is exempt merely if labelled research
+C. A compulsory licence follows automatically from experiments
+D. Post-grant opposition is identical to regulatory approval
 
-A. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-B. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
+### Q18. An importer buys patented goods from a person duly authorised abroad under applicable law. Which Indian-law provision is relevant?
 
-**Answer: D.**
-**Explanation:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A compulsory PCT global patent
+B. The parallel-import limb of section 107A
+C. Section 3(j) plant exclusion
+D. Section 25 pre-grant opposition
 
-### Q13. Which statement correctly identifies Term-territoriality boundary?
+### Q19. A regional producer body seeks to protect Darjeeling Tea as a place-linked collective good. Best instrument?
 
-A. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-B. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
+A. Single merchant trademark as replacement for regional identity
+B. Copyright over the flavour of every harvest
+C. Geographical indication with origin-linked authorised users
+D. Product patent over all tea made anywhere
 
-**Answer: A.**
-**Explanation:** The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q20. A GI is registered, but a farmer wants to assert producer rights. What additional status matters?
 
-### Q14. Which option preserves the technical boundary of Term-territoriality boundary?
+A. Inventor naming on a patent
+B. Purchase of the geographic place
+C. Copyright assignment from the GI Registry
+D. Eligible authorised-user registration
 
-A. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-B. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
+### Q21. An enterprise wants indefinite renewability for a distinctive product name. Which instrument fits?
 
-**Answer: B.**
-**Explanation:** The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Trademark renewed in ten-year blocks
+B. Patent renewed indefinitely in twenty-year blocks
+C. Industrial design renewed indefinitely every year
+D. PCT grant renewed at WIPO every decade
 
-### Q15. Which statement uses Term-territoriality boundary without changing its institution, unit or status?
+### Q22. A craft producer wants protection for a novel ornamental shape rather than its operating mechanism. Which claim type aligns?
 
-A. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-D. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
+A. Trade secret once the shape is publicly displayed
+B. Industrial design for visual features
+C. Patent automatically for artistic shape
+D. GI because ornament is always regional
 
-**Answer: C.**
-**Explanation:** The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q23. A researcher writes original source code and another copies its expression. Which baseline right is pertinent?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Term-territoriality boundary?
+A. GI for a file stored in India
+B. Patent because copyright must first be registered
+C. Copyright in expression, not the underlying idea
+D. Patent over every software-labelled algorithm automatically
 
-A. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-D. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
+### Q24. A chip maker creates an integrated-circuit layout. What special Indian route is identified by the owner?
 
-**Answer: D.**
-**Explanation:** The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Patent solely because the layout is original
+B. GI for the factory district
+C. PPV&FR Act for silicon varieties
+D. Semiconductor Integrated Circuits Layout-Design Act, 2000
 
-### Q17. Which statement correctly identifies Application-publication-examination-grant ladder?
+### Q25. A seed breeder claims a plant variety as an ordinary Indian patent. Which boundary matters?
 
-A. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
+A. Section 3(j) exclusion and PPV&FR sui generis route
+B. Section 107A regulatory-data exemption
+C. PCT international grant over all seeds
+D. GI registration as exclusive breeder right
 
-**Answer: A.**
-**Explanation:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q26. A microbiology team seeks an Indian patent on a microorganism-based invention. Which answer is least overbroad?
 
-### Q18. Which option preserves the technical boundary of Application-publication-examination-grant ladder?
+A. All plant seeds can be patented if deposited
+B. Micro-organisms are excepted from the section 3(j) plant/animal exclusion but all other criteria still apply
+C. All living material is always excluded
+D. Depositing a sample automatically grants a patent
 
-A. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-B. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
+### Q27. A farmer saves and exchanges seed of a protected variety, but offers branded seed as breeder seed. Which distinction is essential?
 
-**Answer: B.**
-**Explanation:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A patent on a seed always defeats farmers’ rights
+B. GI registration decides whether farm-saved seed may be sold
+C. PPV&FR farmers’ seed rights do not extend to branded sale as breeder seed
+D. All seed exchange is barred after registration
 
-### Q19. Which statement uses Application-publication-examination-grant ladder without changing its institution, unit or status?
+### Q28. An examiner consults codified Ayurveda prior art in TKDL. What function does this serve?
 
-A. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-B. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
+A. Automatic positive patent over traditional knowledge
+B. Royalty collection for every herbal formulation
+C. Revocation without any patent procedure
+D. Defensive search against wrongful novelty claims
 
-**Answer: C.**
-**Explanation:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q29. A traditional medicinal claim was already publicly known. What is the primary patent objection?
 
-### Q20. Which option avoids the standard UPSC close-option trap about Application-publication-examination-grant ladder?
+A. Lack of novelty supported by prior-art evidence
+B. A compulsory licence from a granted patent
+C. GI renewal for a place name
+D. Automatic copyright in a medicinal idea
 
-A. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-B. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-C. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-D. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
+### Q30. An Indian team files via WIPO’s PCT and announces “a world patent”. Which correction is sound?
 
-**Answer: D.**
-**Explanation:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Paris priority creates automatic exclusive rights everywhere
+B. PCT consolidates filing; national/regional decisions grant enforceable rights
+C. WIPO gives identical claims enforceable in every state
+D. TRIPS itself grants a patent on filing
 
-### Q21. Which statement correctly identifies Controller and Patent Office roles?
+### Q31. A dispute concerns minimum IP standards and public-health flexibilities in WTO rules. Which treaty fits?
 
-A. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
+A. Berne, which grants Indian medicine patents
+B. Madrid, which licences pharmaceutical imports
+C. TRIPS, with Doha public-health interpretation
+D. PCT, which governs WTO dispute settlement
 
-**Answer: A.**
-**Explanation:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q32. A client seeks cross-border trademark registration rather than a patent filing. Which international route is pertinent?
 
-### Q22. Which option preserves the technical boundary of Controller and Patent Office roles?
+A. PCT international phase
+B. Budapest microorganism deposit
+C. Doha Declaration alone
+D. Madrid Protocol
 
-A. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-D. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
+### Q33. An innovator cites the Paris Convention for patent filing abroad. What does it primarily assist?
 
-**Answer: B.**
-**Explanation:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Priority and national-treatment principles, not a global grant
+B. Indefinite worldwide patent renewal
+C. International copyright registration only
+D. Emergency compulsory licence without state action
 
-### Q23. Which statement uses Controller and Patent Office roles without changing its institution, unit or status?
+### Q34. A ministry claims CGPDTM registers every Indian IP type, including plant varieties. Which correction is needed?
 
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-D. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
+A. WTO examines individual Indian patents
+B. PPV&FR Authority handles varieties; CGPDTM administers patents, designs, marks and GIs
+C. WIPO directly grants all Indian plant rights
+D. GI Registry administers literary copyright
 
-**Answer: C.**
-**Explanation:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q35. A report from IP India shows more filings. Which conclusion follows without overclaim?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Controller and Patent Office roles?
+A. Every granted patent is commercially licensed
+B. Filing growth proves falling medicine prices
+C. Application activity rose; grant quality and market uptake need separate evidence
+D. Every filing became a granted patent
 
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-C. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-D. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
+### Q36. A 2019 PYQ mentions the Intellectual Property Appellate Board. How should it be answered?
 
-**Answer: D.**
-**Explanation:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. As if it never existed in 2019
+B. As if it still hears all IP appeals today
+C. As if WIPO replaced it by treaty
+D. At the question date it existed; abolition came in 2021
 
-### Q25. Which statement correctly identifies Compulsory-licensing boundary?
+### Q37. A public university has a granted biotech patent but no pilot plant. What is the nearest commercialisation bottleneck?
 
-A. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-B. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-C. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-D. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
+A. Scale-up and technology-transfer capability, not patent validity alone
+B. A patent automatically builds manufacturing capacity
+C. TRIPS itself orders Indian firms to license
+D. A patent grant certifies market demand
 
-**Answer: A.**
-**Explanation:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q38. A GI registration is celebrated while producers lack quality control and distribution. What follows?
 
-### Q26. Which option preserves the technical boundary of Compulsory-licensing boundary?
+A. A patent monopoly automatically covers the good
+B. Registration alone cannot ensure producer incomes
+C. Registration guarantees export demand
+D. The GI becomes assignable to any outside firm
 
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-C. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-D. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
+### Q39. A startup hides a manufacturing recipe instead of disclosing it in a patent. What risk is characteristic?
 
-**Answer: B.**
-**Explanation:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. An employee leak is always cured by PCT filing
+B. Trade secrets must be renewed with the GI Registry
+C. Trade-secret protection depends on maintaining secrecy
+D. Secret recipes receive twenty-year patents without application
 
-### Q27. Which statement uses Compulsory-licensing boundary without changing its institution, unit or status?
+### Q40. A funder wants to count an opposition filing as a revoked patent. What should an auditor say?
 
-A. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-B. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-C. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-D. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
+A. A challenge automatically cancels every granted claim
+B. Opposition is identical to a commercial licence
+C. A filing proves a court has upheld the grant
+D. Opposition is a challenge; outcome and patent status need separate proof
 
-**Answer: C.**
-**Explanation:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Matched answer key — option-specific reasoning and remediation
 
-### Q28. Which option avoids the standard UPSC close-option trap about Compulsory-licensing boundary?
+**Q1 — A.** **A:** The process may be an invention if novel and not excluded. **B:** Discovery by itself is not an invention. **C:** A location report cannot establish inventive step. **D:** A trademark distinguishes origin, not technical invention. **Unique trap:** Discovery is not the same as a technically claimed invention.
 
-A. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-B. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-C. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-D. Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
+**Q2 — B.** **A:** Description alone cannot cure obviousness. **B:** Obviousness defeats the inventive-step limb. **C:** Newness supports novelty, not non-obviousness. **D:** Manufacturability can coexist with obviousness. **Unique trap:** Three patentability limbs are cumulative, not substitutes.
 
-**Answer: D.**
-**Explanation:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q3 — C.** **A:** Trademark law tests commercial signs, not processes. **B:** Trademark renewability cannot validate an invention. **C:** The claim must have an industrially applicable use. **D:** Territoriality concerns geographic enforceability. **Unique trap:** Industrial applicability is not proved by filing.
 
-### Q29. Which statement correctly identifies Section 3(d) two-limb filter?
+**Q4 — D.** **A:** An old molecule does not become new by changing route. **B:** An application does not revoke a grant. **C:** Product claims may still constrain sale of the product. **D:** Process scope differs from product scope; clearance still matters. **Unique trap:** Process innovation does not itself create freedom to operate.
 
-A. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-D. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
+**Q5 — A.** **A:** The patent term runs from filing. **B:** Commercialisation may never occur. **C:** Grant is not the term starting event. **D:** Export does not determine statutory term. **Unique trap:** Patent term is not a trademark-like renewable period.
 
-**Answer: A.**
-**Explanation:** Section 3(c) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q6 — B.** **A:** An Indian filing alone does not grant all national rights. **B:** Patents are territorial; foreign protection needs the relevant route. **C:** WIPO PCT facilitates filing, not a global grant. **D:** Domestic marks do not extend patent coverage abroad. **Unique trap:** Do not convert international filing into global exclusivity.
 
-### Q30. Which option preserves the technical boundary of Section 3(d) two-limb filter?
+**Q7 — C.** **A:** No examination request does not itself equal revocation. **B:** Publication does not create a licence. **C:** Request, examination and grant are distinct steps. **D:** Publication is disclosure, not allowance. **Unique trap:** Applications are not granted patents.
 
-A. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-B. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
+**Q8 — D.** **A:** Post-grant requires grant and interested-person standing. **B:** Section 84 measures time from grant and is licensing. **C:** TKDL supplies prior art; it does not itself adjudicate. **D:** Pre-grant opposition has broad standing. **Unique trap:** Standing and timing change across opposition stages.
 
-**Answer: B.**
-**Explanation:** Section 3(c) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q9 — A.** **A:** Post-grant challenge has an interested-person and time limit. **B:** Pre-grant requires that grant has not happened. **C:** PCT is not an Indian invalidity ruling. **D:** Fees do not adjudicate validity. **Unique trap:** Do not carry pre-grant standing across the grant boundary.
 
-### Q31. Which statement uses Section 3(d) two-limb filter without changing its institution, unit or status?
+**Q10 — B.** **A:** Trademarks cannot alter technical patentability. **B:** The new-use limb excludes a mere newly discovered use. **C:** Sales measure markets, not invention. **D:** New-form efficacy exception is not the new-use test. **Unique trap:** Never transfer the new-form exception to a new-use claim.
 
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-C. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
+**Q11 — C.** **A:** Licensing is not a patentability criterion. **B:** PCT filing cannot override Indian exclusions. **C:** Novartis reads efficacy therapeutically in this setting. **D:** Physical change by itself cannot meet the specific test. **Unique trap:** Physical properties and therapeutic efficacy must be separated.
 
-**Answer: C.**
-**Explanation:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q12 — D.** **A:** Evidence is evaluated in examination, not self-certified. **B:** New use and new form are separate limbs. **C:** Section 3(d) does not ban all pharmaceutical innovation. **D:** The exception requires evidence and does not waive other criteria. **Unique trap:** Passing one exclusion filter is not automatic grant.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Section 3(d) two-limb filter?
+**Q13 — A.** **A:** Section 84 ordinarily begins after three years from grant. **B:** Filing date is not the section 84 clock. **C:** Affordability is a ground, not automatic clock waiver. **D:** Indian law retains a specific licensing mechanism. **Unique trap:** Check the grant-based clock and distinguish section 92.
 
-A. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-B. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-C. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-D. Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
+**Q14 — B.** **A:** An application is not blanket permission to infringe. **B:** Affordability is one statutory ground; an authority decides. **C:** Affordability does not revoke or expire the patent. **D:** Section 92 serves separately notified circumstances. **Unique trap:** Ground to seek a licence is not licence already issued.
 
-**Answer: D.**
-**Explanation:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q15 — C.** **A:** Section 3(d) assesses claims, not emergency licences. **B:** International filing does not authorise public-health use. **C:** Section 92 addresses specified notified circumstances. **D:** Section 84 uses a grant-based threshold. **Unique trap:** Emergency licensing is not ordinary post-grant timing.
 
-### Q33. Which statement correctly identifies Bolar and research discipline?
+**Q16 — D.** **A:** It was not a general section 92 repeal. **B:** Regional marks are unrelated. **C:** One decision is not an automatic decision in every case. **D:** It is the named Indian section 84 example. **Unique trap:** Cite the case without inventing a general grant policy.
 
-A. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-B. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-C. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-D. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
+**Q17 — A.** **A:** Reasonable connection to regulatory information is essential. **B:** The exemption is not unrestricted commercial supply. **C:** Regulatory experiments do not grant a licence. **D:** Opposition tests validity; regulator assesses approval. **Unique trap:** Bolar is not a blanket exemption for any research label.
 
-**Answer: A.**
-**Explanation:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q18 — B.** **A:** PCT cannot create worldwide import rights. **B:** Section 107A also addresses authorised-source imports. **C:** Section 3(j) governs subject matter. **D:** Opposition challenges patent claims. **Unique trap:** Do not reduce section 107A only to Bolar trials.
 
-### Q34. Which option preserves the technical boundary of Bolar and research discipline?
+**Q19 — C.** **A:** A private mark does not establish collective origin rights. **B:** Copyright concerns expression, not taste. **C:** GI law protects attributable geographic quality/reputation. **D:** Patent law requires invention, not geographic reputation. **Unique trap:** GI registration does not mean one company owns the region.
 
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
+**Q20 — D.** **A:** A GI is not a technical invention. **B:** GI origin is not privately purchased. **C:** Copyright assignment is a different IP route. **D:** Producer-level authorised-user route supports enforcement. **Unique trap:** Registry entry and individual producer status are distinct.
 
-**Answer: B.**
-**Explanation:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q21 — A.** **A:** Trademark registration has renewable ten-year terms. **B:** Patent statutory term is limited. **C:** Design protection is time bounded. **D:** PCT is not a substantive global grant. **Unique trap:** Term logic differs from technical exclusivity.
 
-### Q35. Which statement uses Bolar and research discipline without changing its institution, unit or status?
+**Q22 — B.** **A:** Public appearance cannot be confidential. **B:** Design law targets appearance, not function. **C:** A patent needs a qualifying technical invention. **D:** Origin must be proven for a GI. **Unique trap:** Visual appearance and technical function follow different routes.
 
-A. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
+**Q23 — C.** **A:** A storage address is not geographic product quality. **B:** Copyright protection is not contingent on patent registration. **C:** Original expression is the copyright concern. **D:** Software patentability requires separate claim analysis. **Unique trap:** Ideas and their expression are separate.
 
-**Answer: C.**
-**Explanation:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q24 — D.** **A:** Originality alone does not guarantee patentability. **B:** Factory location does not make a circuit a GI. **C:** Plant-variety legislation does not govern chips. **D:** Sui generis layout-design protection exists. **Unique trap:** A specialised layout right is not interchangeable with patents.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Bolar and research discipline?
+**Q25 — A.** **A:** Plants/varieties are excluded; variety rights use a separate law. **B:** Bolar addresses regulatory submission activities. **C:** International filing cannot erase domestic exclusions. **D:** Origin-linked producer identity is different from breeder rights. **Unique trap:** Do not confuse breeder rights with patents or GIs.
 
-A. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-B. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-C. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-D. Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
+**Q26 — B.** **A:** Plant seed exclusion is not removed by deposit. **B:** Exception leaves novelty, inventive step and other tests. **C:** Section 3(j) explicitly treats microorganisms differently. **D:** Budapest deposit is procedural evidence, not grant. **Unique trap:** An exception to one bar does not waive every other bar.
 
-**Answer: D.**
-**Explanation:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q27 — C.** **A:** Varieties follow PPV&FR rather than ordinary plant patents. **B:** GI addresses geographic reputation. **C:** The law reserves farm-saved use and exchange with branded-sale limit. **D:** Farmer protections expressly exist. **Unique trap:** The branded-seed exception must remain visible.
 
-### Q37. Which statement correctly identifies PCT-WIPO boundary?
+**Q28 — D.** **A:** TKDL is not a patent grant. **B:** Defensive documentation is not universal monetisation. **C:** An examiner uses prior art within legal procedures. **D:** CSIR–Ayush TKDL makes prior art searchable. **Unique trap:** Documenting knowledge is not acquiring exclusive ownership.
 
-A. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-B. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
+**Q29 — A.** **A:** Prior public disclosure defeats newness. **B:** Licensing assumes an existing patent. **C:** GI renewal cannot adjudicate invention. **D:** Copyright does not monopolise an idea. **Unique trap:** TKDL supports prior-art review, not automatic licensing.
 
-**Answer: A.**
-**Explanation:** The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q30 — B.** **A:** Priority preserves filing claims, not automatic grants. **B:** International filing is procedural, grants remain territorial. **C:** WIPO does not grant a single world patent. **D:** TRIPS sets trade-law standards. **Unique trap:** One application is not one worldwide grant.
 
-### Q38. Which option preserves the technical boundary of PCT-WIPO boundary?
+**Q31 — C.** **A:** Berne concerns copyright. **B:** Madrid is a trademark-registration route. **C:** WTO TRIPS provides minimum standards and flexibilities. **D:** PCT is WIPO patent-filing procedure. **Unique trap:** WIPO treaties and WTO obligations serve different functions.
 
-A. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-B. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
+**Q32 — D.** **A:** PCT concerns patent applications. **B:** Budapest concerns microorganism deposits. **C:** Doha clarifies TRIPS and public health. **D:** Madrid concerns trademarks. **Unique trap:** Choose the treaty by protected subject matter.
 
-**Answer: B.**
-**Explanation:** The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q33 — A.** **A:** Paris supports priority across industrial-property filings. **B:** It does not issue one global right. **C:** Berne is the main copyright treaty. **D:** Emergency licensing has domestic legal conditions. **Unique trap:** Priority is procedural, not worldwide ownership.
 
-### Q39. Which statement uses PCT-WIPO boundary without changing its institution, unit or status?
+**Q34 — B.** **A:** WTO sets obligations, not individual examination. **B:** Institutional competences must be separated. **C:** WIPO treaty administration is not Indian variety registration. **D:** Copyright Office is separate. **Unique trap:** The administrative apex does not own all IP portfolios.
 
-A. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
-D. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
+**Q35 — C.** **A:** Grant does not itself establish licensing. **B:** Prices have multiple determinants. **C:** Filing measures applications only. **D:** Examination may reject filings. **Unique trap:** Never infer market success from application counts.
 
-**Answer: C.**
-**Explanation:** The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q36 — D.** **A:** The 2021 change cannot rewrite 2019 facts. **B:** Current jurisdiction must reflect abolition. **C:** WIPO did not succeed the domestic tribunal. **D:** Use historical status for the old question. **Unique trap:** Historical question date and current status must not be conflated.
 
-### Q40. Which option avoids the standard UPSC close-option trap about PCT-WIPO boundary?
+**Q37 — A.** **A:** Moving from proof of concept to viable deployment needs capital and partners. **B:** A grant is a legal status, not a factory. **C:** TRIPS does not compel an individual licence. **D:** Examination tests claims, not customer adoption. **Unique trap:** Legal right and successful product are different rungs.
 
-A. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant.
+**Q38 — B.** **A:** A regional reputation is not a patented invention. **B:** Branding, assurance and access are additional needs. **C:** Demand cannot be inferred from a certificate. **D:** GI is origin-linked and collective. **Unique trap:** GI award and realised rural income differ.
 
-**Answer: D.**
-**Explanation:** The Patent Cooperation Treaty is administered by WIPO and provides a common international filing, search, publication and optional preliminary-examination route; national or regional offices retain control over substantive grant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q39 — C.** **A:** PCT filing can destroy secrecy, not restore it. **B:** GI registration covers place-linked goods. **C:** Confidentiality is the practical foundation. **D:** Patent bargain involves disclosure and formal grant. **Unique trap:** Secret and disclosed-invention strategies trade off.
 
-### Q41. Which statement correctly identifies TRIPS-WTO boundary?
-
-A. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-
-**Answer: A.**
-**Explanation:** TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q42. Which option preserves the technical boundary of TRIPS-WTO boundary?
-
-A. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-B. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-C. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-D. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-
-**Answer: B.**
-**Explanation:** TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q43. Which statement uses TRIPS-WTO boundary without changing its institution, unit or status?
-
-A. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-D. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-
-**Answer: C.**
-**Explanation:** TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about TRIPS-WTO boundary?
-
-A. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-B. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-C. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-D. TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents.
-
-**Answer: D.**
-**Explanation:** TRIPS is the WTO minimum-standards and flexibilities framework for intellectual property, backed by WTO monitoring and dispute settlement; it neither receives ordinary patent applications nor grants patents. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q45. Which statement correctly identifies Traditional knowledge and TKDL?
-
-A. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-B. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-
-**Answer: A.**
-**Explanation:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q46. Which option preserves the technical boundary of Traditional knowledge and TKDL?
-
-A. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-B. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-
-**Answer: B.**
-**Explanation:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q47. Which statement uses Traditional knowledge and TKDL without changing its institution, unit or status?
-
-A. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-B. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-C. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-D. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-
-**Answer: C.**
-**Explanation:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Traditional knowledge and TKDL?
-
-A. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-B. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-C. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-D. The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-
-**Answer: D.**
-**Explanation:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q49. Which statement correctly identifies IP-instrument boundary?
-
-A. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-D. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-
-**Answer: A.**
-**Explanation:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q50. Which option preserves the technical boundary of IP-instrument boundary?
-
-A. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-B. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-
-**Answer: B.**
-**Explanation:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q51. Which statement uses IP-instrument boundary without changing its institution, unit or status?
-
-A. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-B. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-C. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-D. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-
-**Answer: C.**
-**Explanation:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about IP-instrument boundary?
-
-A. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-B. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-C. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-D. Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-
-**Answer: D.**
-**Explanation:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q53. Which statement correctly identifies Life-material patentability boundary?
-
-A. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-B. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-
-**Answer: A.**
-**Explanation:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q54. Which option preserves the technical boundary of Life-material patentability boundary?
-
-A. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-B. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-C. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-D. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-
-**Answer: B.**
-**Explanation:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q55. Which statement uses Life-material patentability boundary without changing its institution, unit or status?
-
-A. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-B. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-C. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: C.**
-**Explanation:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Life-material patentability boundary?
-
-A. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-D. Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-
-**Answer: D.**
-**Explanation:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Software-claim discipline?
-
-A. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-B. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-C. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: A.**
-**Explanation:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Software-claim discipline?
-
-A. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-B. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-C. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-D. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-
-**Answer: B.**
-**Explanation:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Software-claim discipline without changing its institution, unit or status?
-
-A. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-B. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-C. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: C.**
-**Explanation:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Software-claim discipline?
-
-A. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-B. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-
-**Answer: D.**
-**Explanation:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Access-innovation balance?
-
-A. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: A.**
-**Explanation:** Patents can support disclosure, investment and technology transfer, while Section 3(b), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Access-innovation balance?
-
-A. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-B. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-C. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-D. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-
-**Answer: B.**
-**Explanation:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Access-innovation balance without changing its institution, unit or status?
-
-A. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-D. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-
-**Answer: C.**
-**Explanation:** Patents can support disclosure, investment and technology transfer, while Section 3(a), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Access-innovation balance?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-
-**Answer: D.**
-**Explanation:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Commercialisation-chain boundary?
-
-A. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: A.**
-**Explanation:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Commercialisation-chain boundary?
-
-A. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-B. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-
-**Answer: B.**
-**Explanation:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Commercialisation-chain boundary without changing its institution, unit or status?
-
-A. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-B. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-C. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-D. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-
-**Answer: C.**
-**Explanation:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Commercialisation-chain boundary?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-
-**Answer: D.**
-**Explanation:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Opposition-revocation-status boundary?
-
-A. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-D. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-
-**Answer: A.**
-**Explanation:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Opposition-revocation-status boundary?
-
-A. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-B. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-C. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-D. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-
-**Answer: B.**
-**Explanation:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Opposition-revocation-status boundary without changing its institution, unit or status?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-C. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-D. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-
-**Answer: C.**
-**Explanation:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Opposition-revocation-status boundary?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-C. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-D. Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-
-**Answer: D.**
-**Explanation:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies IPAB date discipline?
-
-A. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-B. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-C. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-D. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-
-**Answer: A.**
-**Explanation:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of IPAB date discipline?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-C. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-D. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-
-**Answer: B.**
-**Explanation:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses IPAB date discipline without changing its institution, unit or status?
-
-A. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-B. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-C. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-D. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-
-**Answer: C.**
-**Explanation:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about IPAB date discipline?
-
-A. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-B. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-C. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-D. The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-
-**Answer: D.**
-**Explanation:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Evidence and status firewall?
-
-A. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-B. A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-C. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-D. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-
-**Answer: A.**
-**Explanation:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Evidence and status firewall?
-
-A. Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-B. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-C. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-D. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-
-**Answer: B.**
-**Explanation:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Evidence and status firewall without changing its institution, unit or status?
-
-A. A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-B. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-C. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-D. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-
-**Answer: C.**
-**Explanation:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Evidence and status firewall?
-
-A. The patent term is 20 years from filing and is not indefinitely renewable; protection is territorial, so an Indian grant is not a world right and foreign protection requires national or regional routes.
-B. The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-C. Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-D. Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-
-**Answer: D.**
-**Explanation:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Q40 — D.** **A:** Challenges can fail. **B:** Licensing is a different legal relation. **C:** Filing does not demonstrate a final judgment. **D:** Procedure and decision are different evidence rungs. **Unique trap:** A procedural event is not its adjudicated outcome.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Audited PYQ demand routes and independently written models
 
-Audited ledgers route the 2019 Prelims demand on the Indian Patents Act and IPAB, the 2019 GS-III traditional-knowledge protection demand and the 2024 GS-III life-material IPR and commercialisation demand to this owner. Three representative cards preserve those routes without inventing an objective key, a patent count or a case outcome.
+### PYQ — 2019 Prelims GS-I — Indian Patents Act and IPAB
 
-### PYQ DEMAND CARD 1 — 2019 Prelims GS-I
+**Provenance and demand:** Audited routed objective demand: test statements on the Patents Act and the Intellectual Property Appellate Board. Official option-to-key mapping is not available in the paired record; no official letter is supplied.
 
-**Demand:** Assess the routed statements concerning the Indian Patents Act and the Intellectual Property Appellate Board.
+**Independent written model:** At the 2019 examination date, the Intellectual Property Appellate Board existed as a statutory appellate institution. It was abolished through the Tribunals Reforms Act, 2021, with functions transferred to courts. Thus a present-tense assertion about its 2019 existence must be evaluated at 2019, not by silently importing today’s institutional position. The Patents Act, 1970 differentiates inventions, application, publication, request for examination and grant. A filing or patent publication does not by itself establish a granted or commercially worked invention. For a multiple-statement item, independently test each statement against the precise wording and date before selecting a combination; neither an unverified original option nor an official answer letter may be invented. This is a reasoned demand model, not an asserted official key.
 
-**Status:** The official objective key is unavailable locally. The card preserves the PYQ-date distinction: IPAB existed in 2019 but was abolished in 2021; no option letter is asserted.
+### PYQ — 2019 GS-III — traditional medicinal knowledge
 
-**Model solution:** **Controller and Patent Office roles:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **IPAB date discipline:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Provenance and demand:** Verified descriptive PYQ: discuss how India protects traditional knowledge of medicine from pharmaceutical patenting (15 marks, 250 words).
 
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2019 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
+**Independent written model:** Traditional medicine is vulnerable when codified prior knowledge is mistaken for a novel pharmaceutical invention. India’s CSIR and Ministry of Ayush developed the Traditional Knowledge Digital Library (TKDL) to translate and classify codified knowledge for prior-art searches by patent examiners, including foreign offices. It does not itself create a patent over community knowledge. Where a claimed formulation was already disclosed, the examiner can reject the novelty claim; opposition under section 25 offers pre-grant and post-grant challenge routes with different standing. The Patents Act additionally distinguishes an inventive product or process from mere discovery. Section 3(d) treats a mere new use of a known substance as no invention and tests new forms of known substances for significantly improved efficacy; a genuinely new invention is not automatically barred. Patent law alone cannot secure equitable community returns. Access-and-benefit-sharing under biodiversity governance, community documentation, consent where applicable and benefit-flow monitoring complement defensive prior art. TKDL coverage is limited to documented knowledge, and recording knowledge is not the same as securing community agency. The appropriate policy is quality-controlled examination plus rights-sensitive benefit sharing, not a blanket ban on traditional-medicine research.
 
-**Detailed examiner-grade model answer:**
+### PYQ — 2024 GS-III — life materials and patent commercialisation
 
-**Introduction and thesis:** **Controller and Patent Office roles:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **IPAB date discipline:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Provenance and demand:** Verified descriptive PYQ (10 marks, 150 words). Its global filing-rank wording is treated as the question’s premise, not as a current verified statistic.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess the routed statements concerning the Indian Patents Act and the Intellectual Property Appellate Board. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: The official objective key is unavailable locally. The card preserves the PYQ-date distinction: IPAB existed in 2019 but was abolished in 2021; no option letter is asserted. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Controller and Patent Office roles:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **IPAB date discipline:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 2 — 2019 GS-III
-
-**Demand:** Discuss how India protects traditional knowledge of medicine from pharmaceutical patenting.
-
-**Status:** Verified routed Mains demand, 15 marks and 250 words; the route connects prior art, TKDL, patent-quality filters, institutions, limits and benefit-sharing concerns without inventing a case outcome.
-
-**Model solution:** **Invention-discovery boundary:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Section 3(d) two-limb filter:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Traditional knowledge and TKDL:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Access-innovation balance:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Invention-discovery boundary:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Section 3(d) two-limb filter:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Traditional knowledge and TKDL:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Access-innovation balance:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss how India protects traditional knowledge of medicine from pharmaceutical patenting. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand, 15 marks and 250 words; the route connects prior art, TKDL, patent-quality filters, institutions, limits and benefit-sharing concerns without inventing a case outcome. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Invention-discovery boundary:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Section 3(d) two-limb filter:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Traditional knowledge and TKDL:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Access-innovation balance:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### PYQ DEMAND CARD 3 — 2024 GS-III
-
-**Demand:** Explain the world scenario of IPR for life materials and the reasons for low commercialisation of Indian patents.
-
-**Status:** Verified routed Mains demand, 10 marks and 150 words; the question's filing-rank premise is not repeated as a verified current statistic, and no patent count is supplied.
-
-**Model solution:** **Life-material patentability boundary:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Software-claim discipline:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Commercialisation-chain boundary:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2024 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Life-material patentability boundary:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Software-claim discipline:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Commercialisation-chain boundary:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explain the world scenario of IPR for life materials and the reasons for low commercialisation of Indian patents. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand, 10 marks and 150 words; the question's filing-rank premise is not repeated as a verified current statistic, and no patent count is supplied. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Life-material patentability boundary:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Software-claim discipline:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Commercialisation-chain boundary:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Evidence and status firewall:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2024 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Independent written model:** Life-material protection differs across jurisdictions rather than following a single world patent rule. TRIPS Article 27.3(b) permits specified plant and animal exclusions but requires plant-variety protection through patents, an effective sui generis regime or both. In India section 3(j) excludes plants and animals, including seeds, varieties and essentially biological processes, except microorganisms; the PPV&FR Act protects varieties while safeguarding farmers’ rights. Biological-diversity benefit sharing and traditional-knowledge prior art add separate safeguards. An Indian filing or grant is not commercialisation. University research may lack market validation and proof-of-concept capital; thin technology-transfer offices and uncertain licensing terms impede industry uptake; pilots, scale-up finance, regulatory clearance and enforcement can delay launch. Better incentives for patent quality, shared test facilities and enforceable benefit-sharing/licensing agreements would help bridge the lab-to-market gap. The numerical ranking in the question must not be repeated as a verified current measurement.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain the patentability criteria and distinguish an invention from a discovery. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Invention-discovery boundary. **Named evidence/example:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-- Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter.
-
-**Qualified conclusion:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Invention-discovery boundary. **Named evidence/example:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the patentability criteria and distinguish an invention from a discovery. Answer in…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Invention-discovery boundary. **Named evidence/example:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Invention-discovery boundary. **Named evidence/example:** Patent law protects a qualifying new product or process, not a bare discovery; finding a natural fact, known property or known use does not by itself establish an invention, and Section 3(d) supplies a specific known-substance filter. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain the patentability criteria and distinguish an invention from a discovery. Answer in…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Independent model answer:** An Indian patent exchanges a time-bound exclusion for enabling disclosure of a qualifying invention. The Patents Act asks whether the claimed product or process is novel, involves inventive step and can be applied industrially; sections 3 and 4 impose additional exclusions. Novelty asks if the claimed matter has already entered prior art. Inventive step asks whether a skilled person would find the technical advance or economic significance non-obvious. Industrial applicability asks whether it can actually be made or used in industry. An Indian laboratory identifying a naturally occurring medicinal property has discovered a fact, not necessarily invented a product. If the team devises a novel and non-obvious industrial process, that process must be independently assessed; discovery does not confer monopoly on the natural substance. Section 3(d) further separates mere new use of a known substance from a new form tested for significantly improved efficacy. Disclosure alone, funding or a paper publication does not establish a granted patent. This threshold protects genuine innovation while leaving pre-existing knowledge available.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Differentiate product and process patents and trace the application-to-grant ladder. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Product-process boundary. **Named evidence/example:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Application-publication-examination-grant ladder. **Named evidence/example:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005.
-- Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs.
-
-**Qualified conclusion:** **Claim:** Product-process boundary. **Named evidence/example:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Application-publication-examination-grant ladder. **Named evidence/example:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Differentiate product and process patents and trace the application-to-grant ladder. Answer…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Product-process boundary. **Named evidence/example:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Application-publication-examination-grant ladder. **Named evidence/example:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Product-process boundary. **Named evidence/example:** A product patent protects the claimed product, whereas a process patent protects the claimed method; India used process-only protection for pharmaceuticals, food and chemicals from 1970 to 2004 and restored product patents from 1 January 2005. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Application-publication-examination-grant ladder. **Named evidence/example:** Filing creates an application, publication discloses it, examination occurs on request, opposition may test it, and grant follows only if the legal requirements are met; application, publication, examination and grant are not interchangeable status verbs. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Differentiate product and process patents and trace the application-to-grant ladder. Answer…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Independent model answer:** A product patent protects the claimed substance or article; a process patent protects a specified way of producing it. A new manufacturing method for an existing pharmaceutical may qualify as a process claim without turning the old molecule into a new product. India permitted only process patents for pharmaceuticals, food and chemicals from 1970 to 2004, aiding generic process innovation; pharmaceutical product protection returned on 1 January 2005, alongside exclusions and public-interest safeguards. The Indian patent ladder is filing, publication, request for examination, examination of claims and possible opposition, then grant if statutory tests are met. Before grant any person may oppose under section 25(1); after grant an interested person may oppose within the prescribed one-year window under section 25(2). The Controller/Patent Office handles patent administration. A published application is not a granted right, and grant does not prove commercial sales or freedom to operate under another’s product claim. Statutory term generally runs twenty years from filing, not from market entry, subject to maintenance.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Examine Section 3(d), compulsory licensing and the Bolar provision as calibrated public-interest safeguards. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Compulsory-licensing boundary. **Named evidence/example:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Section 3(d) two-limb filter. **Named evidence/example:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bolar and research discipline. **Named evidence/example:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
+**Independent model answer:** Public access and innovation incentives need not be treated as opposites: Indian patent law differentiates claim quality, access after grant and preparatory regulatory work. Section 3(d) operates at the patentability stage. Mere discovery of a new property or use of a known substance is not an invention under its first limb. A new form of a known substance requires significant difference in properties with regard to efficacy; Novartis (2013) read drug efficacy as therapeutic efficacy. Better shelf life alone cannot be casually substituted for that test. Genuine new medicines are not categorically excluded.
 
-**Claim → named evidence → analysis → qualification:**
+Sections 84 and 92 concern authorised use of an existing patent, not whether the claim was inventive. Under section 84 a person may apply after three years from grant if reasonable public requirements are unmet, a reasonably affordable price is absent or the invention is not worked in India. The Natco–Bayer sorafenib licence in 2012 illustrates the route, not an automatic licence for every costly drug. Section 92 addresses government-notified emergencies, extreme urgency or public non-commercial use; it must not be collapsed into the ordinary section 84 clock.
 
-- Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances.
-- Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim.
-- Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research.
-- Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-
-**Qualified conclusion:** **Claim:** Compulsory-licensing boundary. **Named evidence/example:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Section 3(d) two-limb filter. **Named evidence/example:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bolar and research discipline. **Named evidence/example:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine Section 3(d), compulsory licensing and the Bolar provision as calibrated public-…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Compulsory-licensing boundary. **Named evidence/example:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Section 3(d) two-limb filter. **Named evidence/example:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bolar and research discipline. **Named evidence/example:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Compulsory-licensing boundary. **Named evidence/example:** Section 84 permits an application after three years from grant where public requirements are unmet, the invention is not reasonably affordable or it is not worked in India; Section 92 covers notified emergency, extreme-urgency or public non-commercial-use circumstances. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Section 3(d) two-limb filter. **Named evidence/example:** Section 3(d) treats a new property or new use of a known substance as no invention and allows a new form of a known substance only where it differs significantly in properties with regard to efficacy; enhanced efficacy does not rescue a mere new-use claim. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Bolar and research discipline. **Named evidence/example:** Section 107A permits acts solely and reasonably related to developing and submitting regulatory information and also covers the owner-supported parallel-import limb; the Bolar route must not be inflated into an unlimited exemption for every activity labelled research. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Examine Section 3(d), compulsory licensing and the Bolar provision as calibrated public-…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+Section 107A permits acts reasonably related to developing and submitting regulatory information and authorised-source parallel imports. A generic producer can prepare for expiry, but cannot invoke Bolar as an unlimited commercial sales exemption. Opposition also checks patent quality. Together these distinct tools can support disclosure, competition and health access. Their effectiveness depends on evidence, due process, regulatory capability and incentives for genuine R&D; maximal exclusivity or automatic compulsory licensing would each miss the statutory balance.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Distinguish patents, GIs, copyright, trademarks and designs, and explain TKDL's defensive role. Answer in about 250 words.
+**Question:** Distinguish patents, GIs, copyright, trademarks and designs, and explain TKDL’s defensive role. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Traditional knowledge and TKDL. **Named evidence/example:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IP-instrument boundary. **Named evidence/example:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
+**Independent model answer:** The word “IP” conceals different protected interests. An Indian patent is a disclosed, novel, inventive and industrially applicable technical claim, subject to exclusions, usually limited to twenty years from filing. A trademark distinguishes the commercial source of goods or services; registration may be renewed in ten-year blocks. A geographical indication (GI) identifies goods whose quality or reputation is attributable to place: Darjeeling Tea is not one company’s monopoly over every tea. Producer eligibility and authorised-user registration matter, and registration alone cannot guarantee higher incomes. Copyright protects original expression rather than an underlying idea and ordinarily arises without patent examination. Industrial design protects the visual shape or pattern of an article, not how a machine works. Confidential know-how may instead be kept as a trade secret, but secrecy must be maintained.
 
-**Claim → named evidence → analysis → qualification:**
-
-- The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge.
-- Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function.
-
-**Qualified conclusion:** **Claim:** Traditional knowledge and TKDL. **Named evidence/example:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IP-instrument boundary. **Named evidence/example:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish patents, GIs, copyright, trademarks and designs, and explain TKDL's defensive…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Traditional knowledge and TKDL. **Named evidence/example:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IP-instrument boundary. **Named evidence/example:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Traditional knowledge and TKDL. **Named evidence/example:** The Traditional Knowledge Digital Library, built by CSIR with the Ministry of Ayush, makes codified traditional medicinal knowledge available as searchable prior art for defensive protection against wrongful patent claims; it is not a patent over the knowledge. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IP-instrument boundary. **Named evidence/example:** Patents protect qualifying inventions, copyright protects original expression rather than ideas, trademarks identify commercial source, GIs protect collective origin-linked goods, and designs protect visual appearance rather than technical function. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish patents, GIs, copyright, trademarks and designs, and explain TKDL's defensive…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+These differences matter for traditional medicine. The CSIR–Ministry of Ayush Traditional Knowledge Digital Library translates and classifies codified medicinal knowledge so examiners can identify prior art and resist wrongful novelty claims, including abroad. It is defensive documentation, not a patent or a royalty system. Pre-grant and post-grant opposition, section 3 exclusions and benefit-sharing governance serve different functions. WIPO’s PCT streamlines international patent filings but does not grant worldwide protection; the WTO’s TRIPS framework sets minimum standards with public-interest flexibilities. An effective Indian strategy combines examination quality, producer market access, respect for community knowledge and affordable enforcement rather than applying one exclusive-right model to all knowledge.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Analyse patentability and governance issues concerning life materials, biotechnology and software-labelled claims in India. Answer in about 300 words.
+**Question:** Analyse patentability and governance issues concerning life materials, biotechnology and software-labelled claims in India. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Life-material patentability boundary. **Named evidence/example:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Software-claim discipline. **Named evidence/example:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
+**Independent model answer:** India separates biological invention from ownership of living systems. Section 3(j) excludes plants and animals in whole or part, including seeds and varieties, and essentially biological production processes; microorganisms are expressly excepted from that exclusion, not automatically patentable. Every permitted claim still faces novelty, inventive step, industrial applicability and other statutory bars. The Protection of Plant Varieties and Farmers’ Rights Act, 2001 offers a separate breeder-and-farmer framework: farm-saved seed rights must not be misrepresented as a licence to sell protected breeder-branded seed. This follows the flexibility in TRIPS Article 27.3(b), which permits a sui generis variety route.
 
-**Claim → named evidence → analysis → qualification:**
+Biotechnology adds overlapping but distinct questions: access to biological resources, fair benefit sharing, traditional-knowledge prior art and laboratory-to-market financing. TKDL enables prior-art searching; it does not assign ownership over all medicinal practices. The Budapest Treaty concerns microorganism deposit for patent procedure, not a worldwide biological patent. International divergence on life-material claims makes territorial examination central.
 
-- A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4.
-- Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership.
-- The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding.
-- Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-- Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-
-**Qualified conclusion:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Life-material patentability boundary. **Named evidence/example:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Software-claim discipline. **Named evidence/example:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse patentability and governance issues concerning life materials, biotechnology and…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Life-material patentability boundary. **Named evidence/example:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Software-claim discipline. **Named evidence/example:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Patent bargain and criteria. **Named evidence/example:** A patent is a limited statutory exclusion granted in exchange for disclosure; the claimed invention must be novel, involve an inventive step, be capable of industrial application and avoid the exclusions in sections 3 and 4. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Life-material patentability boundary. **Named evidence/example:** Section 3(j) excludes plants and animals in whole or part other than micro-organisms, including seeds, varieties, species and essentially biological processes; plant varieties follow the PPV&FR Act, 2001 sui-generis route rather than ordinary patent ownership. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Software-claim discipline. **Named evidence/example:** The audited owners link software ecosystems to IPR but do not support a blanket proposition that every software-labelled claim is patentable or unpatentable; classify the claimed technical subject matter under the applicable patent criteria and exclusions before concluding. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse patentability and governance issues concerning life materials, biotechnology and…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+Software-labelled inventions likewise require claim-by-claim classification against Indian criteria and exclusions: neither “all code is patentable” nor “no software-connected device can qualify” is a sound blanket rule. Copyright protects original code expression, not a monopoly on its underlying concept; semiconductor layouts have a distinct sui generis route. Policy should support real technical advances and technology transfer while resisting claims that merely repackage known substances, natural facts or abstract descriptions. A filed claim, valid grant, licensed technology and deployed product are different evidentiary states.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Evaluate India's IPR architecture through innovation incentives, access, technology commercialisation, opposition, revocation and institutional status discipline. Answer in about 300 words.
+**Question:** Evaluate India’s IPR architecture through innovation incentives, access, technology commercialisation, opposition, revocation and institutional status discipline. Answer in about 250 words.
 
-**Model thesis:** **Claim:** Controller and Patent Office roles. **Named evidence/example:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commercialisation-chain boundary. **Named evidence/example:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Opposition-revocation-status boundary. **Named evidence/example:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IPAB date discipline. **Named evidence/example:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
+**Independent model answer:** India’s IPR regime should reward genuine technical risk-taking without treating every application as a socially useful monopoly. Patents exchange disclosure for a limited territorial right; trademark and GI protect brand and collective geographical reputation respectively. The National IPR Policy 2016 also addresses awareness, administration and commercialisation. CGPDTM administers patents, designs, trademarks and GIs, not copyright or plant-variety rights; DPIIT coordinates policy, while WIPO facilitates treaty procedures and WTO/TRIPS sets trade-law obligations.
 
-**Claim → named evidence → analysis → qualification:**
+At examination, novelty, inventive step, industrial utility and sections 3(d) and 3(j) filter weak or excluded claims. Section 25’s pre-grant and post-grant opposition allow different challengers at different stages. An opposition filing is not itself revocation; a granted patent may still face challenge, maintenance obligations or expiry. After grant, section 84 offers three specific public-interest grounds after three years, while section 92 handles notified emergency situations. Section 107A preserves regulatory-data preparation and authorised parallel imports. These mechanisms constrain exclusion without abolishing invention incentives.
 
-- The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights.
-- Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy.
-- A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements.
-- Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing.
-- The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date.
-- Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung.
-
-**Qualified conclusion:** **Claim:** Controller and Patent Office roles. **Named evidence/example:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commercialisation-chain boundary. **Named evidence/example:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Opposition-revocation-status boundary. **Named evidence/example:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IPAB date discipline. **Named evidence/example:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's IPR architecture through innovation incentives, access, technology…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Controller and Patent Office roles. **Named evidence/example:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commercialisation-chain boundary. **Named evidence/example:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Opposition-revocation-status boundary. **Named evidence/example:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IPAB date discipline. **Named evidence/example:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Controller and Patent Office roles. **Named evidence/example:** The Controller General of Patents, Designs and Trade Marks is the administrative apex for patents, designs, trade marks and GIs, while the Indian Patent Office handles patent administration; CGPDTM does not administer copyright or plant-variety rights. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Access-innovation balance. **Named evidence/example:** Patents can support disclosure, investment and technology transfer, while Section 3(d), compulsory licensing, opposition, Bolar use and TRIPS flexibilities protect competition, public health and access; neither maximal exclusivity nor routine override is a complete policy. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Commercialisation-chain boundary. **Named evidence/example:** A filing or grant is only an input: commercialisation also requires market validation, proof of concept, technology-transfer capacity, pilot and scale-up finance, industry absorption, regulatory pathways and enforceable licensing arrangements. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Opposition-revocation-status boundary. **Named evidence/example:** Pre-grant opposition under Section 25(1), post-grant opposition under Section 25(2) and revocation are challenge routes with different timing and legal consequences; none should be confused with rejection, expiry, lapse, compulsory licence or voluntary licensing. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IPAB date discipline. **Named evidence/example:** The Intellectual Property Appellate Board was a statutory appellate body when the 2019 Prelims question was asked, but the Tribunals Reforms Act, 2021 abolished specified appellate bodies including IPAB and transferred functions to courts; answer old questions at their date. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Evidence and status firewall. **Named evidence/example:** Application, publication, examination request, opposition, grant, working statement, licence, commercialisation, revocation and expiry are separate evidence rungs; no patent count, case outcome, market success or current legal status should be inferred from another rung. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate India's IPR architecture through innovation incentives, access, technology…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+Commercialisation requires more than filed applications or grants: a university patent needs validation, pilot facilities, risk capital, capable transfer offices, negotiated licences, industry absorption and sometimes regulatory approval. IP India’s FY 2024–25 annual reporting can document administrative activity, but application totals alone cannot prove product sales or affordable access. Strengthen patent quality and low-cost enforcement, build institutional technology-transfer capacity and assess health outcomes separately. Date every statistic and distinguish application, grant, licensed use and actual deployment before drawing conclusions.

@@ -11,7 +11,7 @@ last_reviewed: 2026-09-10
 **Subject:** Ethics · **Section:** Subject-wide Syllabus · **Paper:** GS-IV  
 **Companion:** `learning_package_final\Ethics\Subject-wide-Syllabus\01-Ethics-and-Human-Interface\Learning-Session.md`
 
-**How this workbook is built.** It contains exactly **32 original questions before the PYQ section** — 24 core drills numbered 1–24 and 8 remedial drills numbered 25–32 that target the predictable mistakes recorded in the learning session's trap boxes. The answer key runs in the strict rotation `A → B → C → D` repeated eight times: `ABCDABCDABCDABCDABCDABCDABCDABCD`, eight of each option. Every question carries four options, a separate question-specific explanation for **each** of the four options, and its own unique examiner trap. Formats are deliberately varied: two- and three-statement evaluation, matching, elimination, chronology, application, evidence-attribution and inference.
+**How this workbook is built.** It contains 24 core drills, 8 remedial drills and 8 additional conflict-and-inference drills. Attempt **all questions first**; the complete keyed explanations and individual traps follow in a separate section. Correct choices rotate `A → B → C → D` throughout. The four-level ethics taxonomy and the working decision dimensions are analytical teaching frameworks, not lists claimed to be official ARC classifications.
 
 **Source discipline.** Every factual option is traceable to the 2nd ARC, 4th Report, *Ethics in Governance* (January 2007), Chapter 1, paragraphs 1.1–1.22 and Box 2.3, read directly from `books\ethics4.pdf`; to the canonical Basic and Advanced owners; to the routed PYQ ledgers; or to a dated official source. Nothing is invented.
 
@@ -27,17 +27,6 @@ The Second ARC's Fourth Report defines ethics and then immediately qualifies the
 - **B.** Ethical behaviour follows automatically once a comprehensive code of conduct has been notified for every organ of government, because a standard published in the official gazette both informs officials of their obligations and supplies the disciplinary authority with a ready basis for action in every case of deviation.
 - **C.** Ethics is a purely private matter of conscience, so public standards can only describe conduct and never improve it.
 - **D.** Standards guarantee ethical behaviour provided that the society enforcing them is economically developed.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** ARC 1.1 states that ethics is "a set of standards that society places on itself", then warns that "standards do not, by themselves, ensure ethical behaviour; that requires a robust culture of integrity", and locates the crux in adoption in action, sanctions, competent disciplinary bodies acting quickly, and a culture of integrity. All four elements appear in this option.
-- **B — wrong.** Notification of a code is exactly the "bold words and expressions enshrined as standards" that ARC 1.1 says is *not* the crux. The report's whole point is that a notified code without enforcement machinery changes nothing.
-- **C — wrong.** The ARC's definition is explicitly social, not private: standards are what "society places on itself". Treating ethics as purely private contradicts the definition in the first sentence of the chapter.
-- **D — wrong.** The report attaches no economic precondition to ethical behaviour. It attaches an institutional one — sanctions and disciplinary machinery — and it separately argues that ethical governance itself raises growth, which is the reverse of this option's causal order.
-
-> **Trap:** The stem asks for the *qualification*, not the definition. Candidates who scan for the familiar phrase "standards that society places on itself" pick a definitional option and lose the mark that the second half of ARC 1.1 was set to test.
 
 ---
 
@@ -55,17 +44,6 @@ Which of the statements is/are correct?
 - **C.** 2 only
 - **D.** Neither 1 nor 2
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** Statement 1 is correct, but rejecting statement 2 discards the second half of ARC 1.2, which gives *corruptus* precisely the sense "to break or destroy".
-- **B — correct.** ARC 1.2 supplies both derivations in a single sentence, and then uses them together: because ethics arises from habit, the report calls it "unfortunate that corruption has, for many, become a matter of habit".
-- **C — wrong.** Statement 2 alone is incomplete; the Greek derivation in statement 1 is equally the report's own and is the one that carries the analytical weight about habituation.
-- **D — wrong.** Both derivations are stated verbatim in ARC 1.2, so rejecting both contradicts the primary source.
-
-> **Trap:** Two-statement questions in this area often reverse the languages, attaching Latin to "ethics" and Greek to "corrupt". Fix the pairing by meaning: *habit* is Greek, *breaking* is Latin.
-
 ---
 
 #### MCQ 3
@@ -76,17 +54,6 @@ The Second ARC's terms of reference on ethics in governance covered three heads.
 - **B.** Only the head on codes of conduct was examined, and the other two were dropped entirely.
 - **C.** Vigilance and corruption and codes of conduct were examined in considerable detail, while the political executive–permanent civil service relationship was deferred to the report on Civil Services Reforms.
 - **D.** The relationship between the political executive and the permanent civil service was the sole subject examined in detail.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.19 says the opposite: two of the three heads were examined "in considerable detail" in this very Report.
-- **B — wrong.** Vigilance and corruption was examined too. This option drops head A, which supplies the entire anti-corruption architecture of the report.
-- **C — correct.** ARC 1.18 lists the three heads — (A) Vigilance and Corruption, (B) Relationship between Political Executive and Permanent Civil Service, (C) Code of Conduct for different organs of Government — and ARC 1.19 states that "items A & C" were examined in considerable detail while "item B will be dealt with comprehensively in the ARC's report on Civil Services Reforms".
-- **D — wrong.** Head B is exactly the one that was *not* examined here. This option inverts the report's own statement.
-
-> **Trap:** The deferred head is the politically most interesting one, which is why candidates assume it was the report's centrepiece. Remember the pairing: A and C were done here; B went to Civil Services Reforms.
 
 ---
 
@@ -104,17 +71,6 @@ Arrange the following in correct chronological order.
 - **C.** 1 – 2 – 4 – 3
 - **D.** 4 – 2 – 3 – 1
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** It places the UNCAC adoption of October 2003 before the ADB-OECD endorsement of 30 November 2001, reversing the first two events.
-- **B — wrong.** It puts the January 2007 report before the October 2003 adoption of UNCAC, although the report itself cites that adoption at paragraph 1.14 as an existing instrument.
-- **C — wrong.** It places India's ratification first. Ratification occurred on 9 May 2011, after every other event in the list.
-- **D — correct.** ADB-OECD endorsement, 30 November 2001; UNCAC adopted by the UN General Assembly, 31 October 2003; the Second ARC's Fourth Report, January 2007; India's ratification of UNCAC, 9 May 2011.
-
-> **Trap:** India *signed* UNCAC on 9 December 2005 but *ratified* it only on 9 May 2011, which is why the report speaks of a convention India had joined without India being a full party. Treating signature as ratification collapses two events six years apart.
-
 ---
 
 #### MCQ 5
@@ -125,17 +81,6 @@ A state training institute reports that a large share of field staff regard smal
 - **B.** A meta-ethical claim about the meaning of "wrong" has been mistaken for an empirical survey result.
 - **C.** An applied-ethics conclusion has been drawn without first settling a question of moral semantics.
 - **D.** The officer has correctly applied normative ethics but has used an inadequate sample.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** The survey establishes what staff in fact believe, which is descriptive ethics. The officer's conclusion is about what may be done, which is normative. Moving from the first to the second without a justifying standard is the is–ought error.
-- **B — wrong.** No claim about the meaning or truth-status of moral language has been made. Meta-ethics is not engaged at any point in the scenario.
-- **C — wrong.** Applied ethics does not require moral semantics to be settled first; the ARC itself proceeds directly to administrative application without any meta-ethical preliminary.
-- **D — wrong.** The defect is logical, not statistical. Even a perfectly representative sample of belief would establish nothing about what ought to be done.
-
-> **Trap:** The word "therefore" is the whole question. Candidates who focus on the plausibility of facilitation payments miss that the stem is testing the inference, not the practice.
 
 ---
 
@@ -148,17 +93,6 @@ Two probationers argue about whether the word "integrity" can be true or false i
 - **C.** Applied ethics
 - **D.** Normative ethics
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** Descriptive ethics would require them to be reporting what some group actually believes about integrity, which is not what the stem describes.
-- **B — correct.** They are debating the meaning and truth-status of a moral term, which is exactly the meta-ethical question of whether moral language states facts or expresses attitudes.
-- **C — wrong.** Applied ethics requires a concrete field and a live decision. The stem expressly removes any pending decision.
-- **D — wrong.** Normative ethics would require them to be arguing what someone ought to do and on what ground; they are arguing about what a word does.
-
-> **Trap:** Meta-ethics feels like the "deepest" level and is therefore over-selected in questions where a decision is actually at stake. Use the reverse test as well: when a live administrative decision is present, meta-ethics is almost never the answer.
-
 ---
 
 #### MCQ 7
@@ -169,17 +103,6 @@ A hospital administrator must decide whether to publish a surgery waiting list d
 - **B.** Meta-ethics, because the meaning of fairness is contested.
 - **C.** Applied ethics, because a normative standard of fairness and transparency is being worked out for a specific institutional decision.
 - **D.** None, because the question is purely administrative rather than ethical.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** Staff discomfort is a fact in the background of the decision, not the object of the enquiry. She is not conducting a survey.
-- **B — wrong.** She is applying a standard of fairness, not analysing what the word "fairness" means or whether it can be true.
-- **C — correct.** Applied ethics is normative theory worked out for a definite field — here, medical and administrative practice — by testing a concrete decision rather than by naming a theory.
-- **D — wrong.** The decision allocates a scarce public good and affects identifiable persons unequally, which makes it ethical as well as administrative; the two are not alternatives.
-
-> **Trap:** "Purely administrative" is a standing distractor in GS-IV. Almost every allocation decision carries duty, fairness and accountability dimensions, so the option that denies an ethical question is nearly always wrong.
 
 ---
 
@@ -199,17 +122,6 @@ Match each dimension of a public decision with the failure it is designed to cat
 - **C.** 1-iv, 2-i, 3-ii, 4-iii
 - **D.** 1-iii, 2-i, 3-ii, 4-iv
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** It attaches unequal treatment to the consequences dimension. Unequal treatment is caught by justice and fairness, which asks whether like cases are treated alike.
-- **B — wrong.** It makes accountability responsible for detecting unequal treatment. Accountability tests whether reasons can be stated publicly and reviewed; fairness tests the distribution itself.
-- **C — wrong.** It assigns non-reviewability to the consequences dimension, whereas foreseeable harm is precisely what consequence-reasoning exists to detect.
-- **D — correct.** Consequences catch foreseeable harm despite good intentions; justice and fairness catch unexplained unequal treatment; care and empathy catch procedural correctness that is blind to the vulnerable; accountability catches decisions that survive only in the absence of scrutiny.
-
-> **Trap:** Matching questions on dimensions punish candidates who memorise the list without the function of each item. Learn each dimension by the *failure it detects*, not by its name.
-
 ---
 
 #### MCQ 9
@@ -220,17 +132,6 @@ A procurement officer attends a lavish private dinner hosted by a firm bidding f
 - **B.** No ethical issue arises, because ethical assessment begins only after a rule has been breached.
 - **C.** The conduct is unethical only if the officer subjectively feels influenced by the hospitality.
 - **D.** The conduct is automatically criminal because any hospitality from a bidder is an illegal gratification.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** Legality, morality and propriety are separate tests. Propriety asks what the office and occasion make appropriate, and its remedies are disclosure, recusal and avoidance rather than punishment.
-- **B — wrong.** This is the equation that ARC Box 2.3 exists to reject, quoting the warning that "morality has become identical with legality" in public life.
-- **C — wrong.** The public test is not the officer's private feeling but whether a reasonable citizen who lost the contract could regard the decision as impartial. Subjective confidence is unverifiable.
-- **D — wrong.** Criminality requires the elements of the relevant offence to be made out. Asserting automatic criminality both overstates the law and, by making the bar impossibly high, would in practice acquit most improper conduct.
-
-> **Trap:** The stem deliberately removes both payment and rule-breach so that the only available failure is propriety. Candidates who look for a bribe find none and wrongly conclude that nothing is wrong.
 
 ---
 
@@ -243,17 +144,6 @@ Box 2.3 of the Second ARC's Fourth Report quotes a warning about public integrit
 - **C.** It quotes Aleksandr Solzhenitsyn on the line between good and evil passing through every human heart.
 - **D.** It reproduces the Nolan Committee's seven principles of public life in full — selflessness, integrity, objectivity, accountability, openness, honesty and leadership — and presents them as the model code that the Commission recommends for adoption by every organ of government in India.
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** The Gandhi passage on remaking ourselves does appear in the Report, but in the Preface, not in Box 2.3, and it makes no claim about the letter and spirit of law.
-- **B — correct.** Box 2.3, "Need for Ethical Code", reproduces Senator Fulbright's questions about those who "under the guise of friendship, accept favors, which offend the spirit of the law but do not violate its letter", and his warning that "among so many influential people, morality has become identical with legality". The cited source is the Senate Ethics Manual, 2003 edition, page 6.
-- **C — wrong.** The Solzhenitsyn line about the line between good and evil is quoted in the Report's Preface, in a different argument about the limits of rules.
-- **D — wrong.** The Nolan principles appear in the surrounding text of the same chapter, not inside Box 2.3, and they are owned by Topic 09 rather than by this legality-versus-propriety argument.
-
-> **Trap:** Several memorable quotations sit close together in the Report. Anchor Box 2.3 by its subject — the letter-versus-spirit gap — rather than by a general impression that it is "the famous ethics box".
-
 ---
 
 #### MCQ 11
@@ -264,17 +154,6 @@ Which statement most accurately reproduces the Second ARC's account of how incen
 - **B.** Corruption is best explained by the personality traits of a small deviant minority acting alone.
 - **C.** Where good behaviour is not rewarded but is "fraught with difficulties", and bad behaviour is not punished but is "often extravagantly rewarded", "the bulk of the people tend to stray from the honourable path".
 - **D.** Punishment alone determines conduct, and reward structures are ethically irrelevant.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** The report's argument runs the other way: incentives matter for everyone and are "critical in dealing with the army of public servants — elected or appointed".
-- **B — wrong.** The deviant-minority account is one of two approaches the ARC *describes* at 1.4 and then declines to adopt on its own at 1.5.
-- **C — correct.** This is ARC 1.4's conditional in the report's own words, and it is the sentence that carries the incentive argument into the values-and-institutions synthesis of 1.5.
-- **D — wrong.** The same passage gives reward and punishment equal weight — "good behaviour is consistently rewarded and bad behaviour consistently punished" — so treating reward as irrelevant halves the mechanism.
-
-> **Trap:** The passage is often remembered only in its punitive half. The examinable proposition is symmetric: unrewarded honesty is as corrosive as unpunished dishonesty.
 
 ---
 
@@ -287,17 +166,6 @@ Which formulation best states the Second ARC's own resolution of the values-vers
 - **C.** Values and institutions are alternatives, and a society with limited administrative and fiscal capacity must choose which of the two to invest in first, the Commission's advice being that value formation should precede institutional redesign wherever a sense of right and wrong is already widespread.
 - **D.** Both matter: values serve as guiding stars and exist in abundance, but "values without institutional support will soon be weakened and dissipated", because "institutions provide the container, which gives shape and content to values".
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** The report says the opposite: values are abundant *and* perishable, which is exactly why institutional containment is required.
-- **B — wrong.** ARC 1.5 insists values are "needed to serve as guiding stars"; dismissing them as decorative contradicts the first half of the paragraph.
-- **C — wrong.** The paragraph opens with "In the real world, both values and institutions matter", which forecloses any either/or framing.
-- **D — correct.** It reproduces both halves of ARC 1.5, including the container metaphor that the Commission calls "the basis of all statecraft and laws and institutions".
-
-> **Trap:** The container metaphor is frequently misquoted as values containing institutions. The direction matters: institutions are the container; values are what is contained.
-
 ---
 
 #### MCQ 13
@@ -308,17 +176,6 @@ Which set correctly names the three factors by which, according to the Second AR
 - **B.** Illiteracy; linguistic diversity; and federal division of powers.
 - **C.** Judicial delay in the disposal of corruption trials; a media unable to sustain investigative reporting; and low public expenditure on education, which together are identified in Chapter 1 as the three factors that have most aggravated corruption and abuse of office in Indian society.
 - **D.** Population growth; urbanisation; and the absence of a written code of conduct.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** ARC 1.6 names the colonial legacy of "unchallenged authority and propensity to exercise power arbitrarily" and the "enormous asymmetry of power", and ARC 1.7 adds the early-decades policy choice of over-regulation, excessive state control, near-monopoly and an economy of scarcity.
-- **B — wrong.** None of these three appears in the report's aggravator list. Illiteracy figures only as background to the asymmetry argument, not as an independent aggravator.
-- **C — wrong.** Judicial delay and weak enforcement are treated elsewhere in the report as failures of the anti-corruption machinery, not as the three aggravating factors identified in Chapter 1.
-- **D — wrong.** The absence of a code is not the diagnosis; ARC 1.1 has already said that codes alone do not ensure ethical behaviour, so this option contradicts the report's opening argument.
-
-> **Trap:** Plausible-sounding governance problems are inserted as distractors. The examinable list is fixed and short — colonial legacy, asymmetry of power, over-regulation and scarcity — and comes from two consecutive paragraphs.
 
 ---
 
@@ -331,17 +188,6 @@ Consider the following statement: "Nearly 90% of our people are in the unorganiz
 - **C.** As a projection of future employment patterns endorsed by the Commission.
 - **D.** As evidence that public employment should be reduced.
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** Official publication does not make a figure current. The percentages are illustrative and belong to the report's January 2007 vantage point.
-- **B — correct.** The figures support ARC 1.6's mechanism — that asymmetry "reduces societal pressure to conform to ethical behaviour" — and must be cited with their date, with current data supplied separately for any contemporary claim.
-- **C — wrong.** The report makes no projection at all here; it describes a contemporary imbalance to explain why citizens lacked leverage.
-- **D — wrong.** The ARC draws no such policy conclusion from the figures. Its inference is about societal pressure and bargaining power, not about the size of public employment.
-
-> **Trap:** Quoting the percentages without the year is one of the most reliable ways to lose credibility in an otherwise good answer. The safe formulation is "the ARC's 2007 illustrative framing".
-
 ---
 
 #### MCQ 15
@@ -352,17 +198,6 @@ Which statement most accurately reproduces the Second ARC's account of the effec
 - **B.** The policies were adopted with the deliberate intention of enriching public servants and of creating a permanent class of intermediaries, and the Commission accordingly describes the licensing regime of the early decades as a designed rather than an accidental source of rent, recommending that responsibility be fixed for that choice.
 - **C.** Over-regulation, excessive state control and a scarcity economy, combined with subsidies under conditions of power asymmetry, "converted the public servant into patron and master and reduced most citizens into mendicants", raising corruption opportunities and reducing the citizen's "capacity to resist extortionary demands".
 - **D.** The policies had no measurable effect on corruption because corruption is determined solely by individual character.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.7 says the opposite: under power asymmetry, subsidies and beneficiary programmes *increased* the citizen's dependence.
-- **B — wrong.** The report is explicit that the consequence was "unintended". Imputing corrupt intent to the policy choice misrepresents the source and weakens an answer's credibility.
-- **C — correct.** This reproduces ARC 1.7's mechanism, including its two-sided effect on opportunity and on the citizen's capacity to resist.
-- **D — wrong.** A character-only account is one of the two approaches the ARC sets out at 1.4 and declines to adopt alone at 1.5; the whole of 1.7 is a structural explanation.
-
-> **Trap:** "Unintended consequence" is the phrase that keeps this answer accurate. Candidates who dramatise the passage into a charge of deliberate design cross from analysis into assertion.
 
 ---
 
@@ -375,17 +210,6 @@ Which set of sectors does the Second ARC name as having seen enhanced supply and
 - **C.** Land records, policing, taxation and municipal licensing
 - **D.** Telephones, steel, cement, sugar and two-wheelers
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** These are administered or licence-heavy sectors that the report does not cite as liberalisation successes; several of them illustrate the opposite, where discretion persisted.
-- **B — wrong.** Although liberalised, these sectors are not the ones named in ARC 1.8. Inventing a plausible list is the commonest way this question is lost.
-- **C — wrong.** These are precisely the natural-monopoly and discretionary domains to which ARC 1.12 warns corruption migrates, not the sectors where it fell.
-- **D — correct.** ARC 1.8 names "Telephones, steel, cement, sugar and even two-wheelers", and separately cites railway reservation and driving licences as services improved by computerisation and access to information.
-
-> **Trap:** Sugar and two-wheelers are the two items candidates drop. Reproducing the complete five-item list, plus the two computerised services, is what separates a sourced answer from a remembered one.
-
 ---
 
 #### MCQ 17
@@ -396,17 +220,6 @@ Which statement best captures the Second ARC's argument about over-centralisatio
 - **B.** Centralisation improves ethics because senior officers are less exposed to local pressure.
 - **C.** The report treats centralisation as ethically neutral, observing that a compact decision-making structure shortens files and reduces the number of officials able to extract a payment, and it therefore confines its criticism in this chapter to the demand for illegitimate funds generated by political competition.
 - **D.** Over-centralisation is a problem only in federal systems with weak state governments.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** This reproduces ARC 1.9, including the observation about the smallest number of final decision makers, the failure of local government "to take root", and the net result of "weakened citizenry and mounting corruption".
-- **B — wrong.** The report records no such protective effect. Distance from local pressure is offset by distance from accountability, which is the paragraph's actual finding.
-- **C — wrong.** Political funding is the separate argument of ARC 1.12. Paragraph 1.9 is an explicit criticism of centralisation as a corruption-increasing factor.
-- **D — wrong.** The argument is about the distance between power and people, not about federal structure. The report criticises concentration "both horizontally and vertically".
-
-> **Trap:** The phrase "smallest number of final decision makers" sounds like praise for efficiency. In context it is a criticism: too few decision points for too large a democracy, with too many intermediaries in between.
 
 ---
 
@@ -419,17 +232,6 @@ The Second ARC names several instruments of accountability that "dramatically cu
 - **C.** Lokpal, Lokayukta, the Central Vigilance Commission and departmental vigilance officers.
 - **D.** Judicial review of administrative action, parliamentary questions and debates, and the Comptroller and Auditor General's statutory audit of receipts and expenditure, which the Commission identifies as the instruments through which citizens hold those in authority to account in a parliamentary democracy.
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** It names two of six. The four omitted instruments — charters, proactive-citizen incentives, stakeholder involvement and public consultation — each correct a different component of the asymmetry.
-- **B — correct.** This is ARC 1.10's complete list, in the order the paragraph gives it, and the paragraph's own verdict is that these instruments "dramatically curbed corruption".
-- **C — wrong.** These are anti-corruption *institutions*, owned by Topic 20, not the citizen-empowerment instruments named at 1.10.
-- **D — wrong.** These are constitutional and parliamentary oversight mechanisms. They are accountability instruments in a general sense, but they are not the citizen-empowerment set the paragraph enumerates.
-
-> **Trap:** The question rewards completeness. Because RTI is the most familiar item, partial-list options are chosen far more often than they should be; count the instruments before answering.
-
 ---
 
 #### MCQ 19
@@ -440,17 +242,6 @@ Which statement most accurately reflects the Second ARC's position on prevention
 - **B.** Punishment is the only reliable instrument, and preventive redesign is a distraction.
 - **C.** Enforcement of the rule of law and deterrent punishment are critical to build an ethically sound society, and the report simultaneously demands "a detailed analysis of our anti-corruption mechanisms and the causes of their failure".
 - **D.** The report recommends replacing disciplinary proceedings with ethics training.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.11 states that enforcement and deterrent punishment "are critical", so prevention cannot render them unnecessary. The corrective is preventive **and** punitive.
-- **B — wrong.** The report's entire structural diagnosis at 1.6–1.10 is preventive. Treating prevention as a distraction contradicts the majority of the chapter.
-- **C — correct.** It combines the two halves of ARC 1.11: the necessity of enforcement, and the self-critical demand that the failure of existing machinery itself be analysed before strengthening it.
-- **D — wrong.** No such substitution is recommended anywhere in Chapter 1; ARC 1.1 in fact requires "competent disciplinary bodies" that act quickly.
-
-> **Trap:** Options A and B are the two symmetrical extremes, and both are set because candidates who have absorbed the structural argument over-correct into "prevention is enough". Quote both halves of 1.11 and neither extreme is tempting.
 
 ---
 
@@ -463,17 +254,6 @@ According to the Second ARC, what happens when competition and decentralisation 
 - **C.** Corruption declines uniformly across all sectors at a slower rate.
 - **D.** Other avenues "will be forcibly opened up", so that corruption shifts to other, sometimes more dangerous, areas in which competition cannot be introduced and the state exercises a natural monopoly.
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.12 expressly denies this: reducing opportunity in one sector does not reduce demand, and unmet demand relocates rather than evaporates.
-- **B — wrong.** The paragraph's whole argument is that political demand drives administrative supply, so independence between the two is exactly what the report rejects.
-- **C — wrong.** The predicted pattern is not uniform decline but redistribution, with some sectors improving while others deteriorate.
-- **D — correct.** This is ARC 1.12's migration finding, and it is why the report calls for "corresponding political and governance reform" alongside liberalisation.
-
-> **Trap:** This is the qualification that converts a good answer into a graded one. Candidates who have just learned ARC 1.8's liberalisation success are precisely the ones most likely to pick option A.
-
 ---
 
 #### MCQ 21
@@ -485,17 +265,6 @@ A widow's sanctioned pension is withheld by a clerk until a payment is made. Whi
 - **C.** Neither category applies, because no contract or procurement is involved.
 - **D.** Collusive corruption, because the citizen has voluntarily paid and is therefore an accomplice.
 
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** ARC 1.13 defines coercive corruption as extraction for a service to which the citizen is entitled and calls the payer "an unwilling victim"; the remedies follow from the fact that the victim has both an interest and a motive to complain.
-- **B — wrong.** The passing of money does not by itself make a transaction collusive. Collusion requires that both parties gain at society's cost, which is absent where the payer receives only what she was already owed.
-- **C — wrong.** ARC 1.13 places the "vast majority of cases of bribery" in the coercive category and does not confine corruption to contracts or procurement.
-- **D — wrong.** Voluntariness in the formal sense is not the test; the report explains that citizens pay because resistance costs them "much more", which is coercion, not complicity.
-
-> **Trap:** The presence of a payment invites automatic classification as collusion. Classify by *who gains*: if the payer gets only her entitlement, the transaction is extortion.
-
 ---
 
 #### MCQ 22
@@ -506,17 +275,6 @@ Which statement correctly combines the Second ARC's examples of collusive corrup
 - **B.** Collusive corruption includes awarding of contracts for public works, procurement of goods and services, recruitment of employees, evasion of taxes, substandard projects, collusive violation of regulations, adulteration of foods and drugs, obstruction of justice and doctoring of evidence; and as the economy is freed from state controls, extortionary corruption declines while collusive corruption tends to increase.
 - **C.** Collusive corruption always produces a complainant, which makes it easier to detect than extortion.
 - **D.** Collusive and coercive corruption are legally and ethically identical and require the same remedy.
-
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** Both halves fail: the report's example list extends well beyond procurement, and its stated trend is that collusive corruption *increases* with liberalisation.
-- **B — correct.** It reproduces ARC 1.13's full example list and its trend statement, together with the report's warning that collusive corruption is "undermining the very foundations of our democracy".
-- **C — wrong.** The defining feature of collusion is that both parties benefit, which removes the complainant and makes detection harder, not easier.
-- **D — wrong.** The report distinguishes them precisely because they are not identical; the victim, the evidence problem and the remedy all differ.
-
-> **Trap:** The long option is correct here, which is why option-length heuristics fail on this item. Verify against the source list rather than against option length.
 
 ---
 
@@ -533,17 +291,6 @@ Which of the following did the Second ARC's Fourth Report identify at paragraph 
 - **C.** 1, 2 and 3
 - **D.** 3 only
 
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** It omits the strengthening of the investigative framework and exemplary punishment, which the paragraph explicitly links to "raising the risk associated with corrupt behaviour".
-- **B — wrong.** It omits forfeiture, which the paragraph names first in the context of black money, serious economic offences, fraud and money laundering.
-- **C — correct.** All three appear in ARC 1.16, and all three are stated as things that "need to be" or "have to be" done — that is, as recommendations of January 2007, not as existing law at that date.
-- **D — wrong.** Reducing the paragraph to enforcement alone discards its asset-recovery and whistleblower-protection components.
-
-> **Trap:** The status word is the examinable point. These were recommendations in 2007; later statutory developments belong to Topics 19 and 21 and must be dated separately rather than credited to the report.
-
 ---
 
 #### MCQ 24
@@ -555,22 +302,7 @@ Which statement most accurately reflects the Second ARC's view of the scope of e
 - **C.** The report recommends that ethical standards be applied to business alone, because commercial actors are the principal source of bribes.
 - **D.** Ethics in governance "has a much wider import" and an across-the-board effort must include corporate ethics and a shift from "business ethics" to "ethics in business", ethics in every profession, voluntary organisation and civil society structure, and ethics in citizen behaviour, which "impinges directly on ethics in government and administration".
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.17 opens by rejecting exactly this confinement: ethics in governance "has a much wider import than what happens in the different arms of the government".
-- **B — wrong.** The paragraph does the opposite: it ends by insisting that "there should be ethics in citizen behaviour". The victim framing at 1.13 applies to coerced payers, not to the citizen's role generally.
-- **C — wrong.** Business is one of four named domains. Professions, voluntary organisations and civil society structures, and citizen behaviour, are the other three.
-- **D — correct.** It reproduces ARC 1.17 in full, including the demanded "paradigm shift from the pejorative 'business ethics' to 'ethics in business'" and the closing clause on citizen behaviour.
-
-> **Trap:** ARC 1.13's "unwilling victim" and ARC 1.17's citizen duty sit four paragraphs apart and appear to conflict. They do not: coercion excuses the extorted payer, while 1.17 addresses the citizen's general ethical role, including collusive conduct.
-
 ---
-
-### REMEDIAL DRILLS 25–32
-
-*Each remedial drill targets one predictable error recorded in the learning session's trap boxes.*
 
 #### MCQ 25
 
@@ -582,17 +314,6 @@ Which statement gives the most precise distinction available on demand?
 - **B.** Ethics applies to public life and morality applies only to private life.
 - **C.** Ethics is codified in law, whereas morality is never written down.
 - **D.** Morality is superior to ethics because it is derived from religious and community teaching tested over centuries, whereas ethics is a modern academic construction that produces argument without obligation and therefore cannot bind an officer who remains unpersuaded by the reasoning offered.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** The distinction is between a reasoned standard and a held practice. It is available on demand without denying that the words are used interchangeably in ordinary Mains prose.
-- **B — wrong.** Both terms operate in both domains. A private promise raises an ethical question; a public office raises moral ones. The public/private line is a different distinction, addressed in the private-versus-public relationships session.
-- **C — wrong.** Ethics is not defined by codification. Codes of ethics exist, but so do unwritten ethical standards, and much morality is in fact written down in religious and community codes.
-- **D — wrong.** Ranking the two is not a distinction, and grounding morality solely in religion ignores its social, familial and professional sources.
-
-> **Trap:** The error is over-correction. Having learned that the terms differ, candidates then deny that they ever overlap, which produces an equally inaccurate answer.
 
 ---
 
@@ -607,17 +328,6 @@ Which reading of the report is accurate?
 - **C.** The report rejects values entirely and treats corruption as purely a design problem.
 - **D.** The report treats the two explanations as identical restatements of a single theory.
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** The decline-of-values position is described at 1.4 as an "overemphasis on values and character"; the word "overemphasis" is the report's own evaluation.
-- **B — correct.** ARC 1.4 presents both approaches and 1.5 supplies the synthesis, including the guiding-stars and container formulations.
-- **C — wrong.** ARC 1.5 states that values "are needed to serve as guiding stars" and "exist in abundance in our society", which is the opposite of rejection.
-- **D — wrong.** The report calls them "two, somewhat contrary, approaches"; one locates the cause in character, the other in a deviant minority requiring deterrence.
-
-> **Trap:** Chapter 1 spends more words describing the two approaches than stating the synthesis, so a skim leaves the impression that the report endorses whichever approach was read last.
-
 ---
 
 #### MCQ 27
@@ -630,17 +340,6 @@ Which statement is most consistent with the Second ARC's analysis?
 - **B.** The citizen's culpability depends only on the amount paid.
 - **C.** In the vast majority of bribery cases the citizen is a victim of extortion compelled to pay for an entitled service, and the report notes that citizens "often end up losing much more by resisting corruption"; culpability attaches with full force in collusive cases, where both parties gain.
 - **D.** Citizens are never culpable in any corruption transaction.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.13 explicitly describes the extorted payer as "an unwilling victim", and lists the costs of resistance — delay, harassment, lost wages, even danger to life or limb — that make formal voluntariness meaningless.
-- **B — wrong.** The amount is irrelevant to the classification. What matters is whether the payer received an entitlement or an irregular advantage.
-- **C — correct.** It preserves both halves of the report: protection for the coerced, and full culpability in collusion, where "both parties benefit at immense cost to society".
-- **D — wrong.** This over-corrects. ARC 1.13's collusive category and 1.17's demand for "ethics in citizen behaviour" both make citizens duty-bearers.
-
-> **Trap:** The two errors are symmetrical — blaming every payer, or exonerating every payer. The classification test is *who gains*, and it must be applied transaction by transaction.
 
 ---
 
@@ -655,17 +354,6 @@ Which response is best supported by the Second ARC's own material?
 - **C.** Ethical evaluation applies only where a court has already found a violation.
 - **D.** Legality, morality and propriety are three separate tests; ARC Box 2.3 quotes the warning that "morality has become identical with legality" precisely in order to reject that equation, and describes favours that "offend the spirit of the law but do not violate its letter".
 
-**Answer:** D
-
-**Option-by-option explanation**
-
-- **A — wrong.** This is the very position Box 2.3 was included to criticise, and it is described there as a "tragic plight" for public life.
-- **B — wrong.** The Fulbright passage concerns public officials and official favours, so the divergence is illustrated in official life, not excluded from it.
-- **C — wrong.** Making judicial finding a precondition would postpone ethical evaluation until after litigation, which is both impractical and contrary to the preventive logic of the whole report.
-- **D — correct.** It states the three-test separation and supplies the report's own authority for it, with the letter-versus-spirit formulation.
-
-> **Trap:** Candidates who know the three tests still choose a legality-first option when the stem describes conduct that is clearly lawful. The correct move is to name propriety as the failing test and prescribe disclosure or recusal.
-
 ---
 
 #### MCQ 29
@@ -678,17 +366,6 @@ Which statement holds both halves of the Second ARC's position together?
 - **B.** Liberalisation is an economic policy with no ethical consequences whatever.
 - **C.** Liberalisation eliminated corruption in India across all sectors.
 - **D.** Liberalisation increased corruption everywhere by weakening state supervision.
-
-**Answer:** A
-
-**Option-by-option explanation**
-
-- **A — correct.** It joins ARC 1.8's sectoral finding to ARC 1.12's migration warning, which is exactly the balanced position the report holds.
-- **B — wrong.** ARC 1.8 attributes a measurable fall in corruption to competition and choice, so denying any ethical consequence contradicts the report directly.
-- **C — wrong.** ARC 1.12 states that corruption "shifts to other, sometimes more dangerous, areas", which forecloses any claim of elimination.
-- **D — wrong.** The report records reductions, not universal increases. It does warn of new risks, but as relocation rather than as an across-the-board rise.
-
-> **Trap:** The two errors sit on opposite sides, and a candidate correcting one usually falls into the other. Write both sentences — the sectoral gain and the migration caveat — in that order.
 
 ---
 
@@ -703,17 +380,6 @@ Which qualification is best supported?
 - **C.** Decentralisation guarantees accountability because local officials are personally known to the citizens they serve, are answerable at village or ward meetings, and can be confronted immediately about a delayed file, which removes the anonymity on which extraction at a distant office depends.
 - **D.** Decentralisation is undesirable because it multiplies the number of decision-makers.
 
-**Answer:** B
-
-**Option-by-option explanation**
-
-- **A — wrong.** ARC 1.9 treats over-centralisation as a corruption-increasing factor, so proximity of power is not ethically neutral.
-- **B — correct.** It preserves the benefit the report identifies while adding the capacity, transparency and audit conditions without which local discretion simply replaces central discretion.
-- **C — wrong.** Personal acquaintance can as easily produce local capture and pressure as accountability; familiarity is not a substitute for a record and a review route.
-- **D — wrong.** ARC 1.9 in fact criticises India for having "probably the smallest number of final decision makers" for a large democracy, so multiplying decision points is not itself the problem.
-
-> **Trap:** Distance and accountability are two different variables. Decentralisation reliably reduces the first; it improves the second only when capacity, transparency and audit accompany it.
-
 ---
 
 #### MCQ 31
@@ -726,17 +392,6 @@ An answer written today needs to establish that unequal bargaining power still w
 - **B.** Omit the asymmetry argument altogether, because its supporting figures are dated.
 - **C.** State the ARC's mechanism with its 2007 date, and support any present-day quantitative claim with a current, independently verified source such as the latest Economic Survey's formalisation data.
 - **D.** Update the figures yourself to plausible current values so that the argument reads as contemporary.
-
-**Answer:** C
-
-**Option-by-option explanation**
-
-- **A — wrong.** Official provenance does not confer currency. The percentages are the report's illustrative framing of January 2007.
-- **B — wrong.** The mechanism — that asymmetry "reduces societal pressure to conform to ethical behaviour" — remains valid and is the analytically valuable part; discarding it loses a diagnosed cause.
-- **C — correct.** Date the report's claim, keep the mechanism, and attach current verified data for any contemporary quantitative assertion.
-- **D — wrong.** Adjusting figures without a source is fabrication, which is the single most damaging thing a candidate can do in a sourced answer.
-
-> **Trap:** The temptation is to keep a memorable number at the cost of accuracy. The mechanism, not the percentage, is what earns the mark.
 
 ---
 
@@ -751,9 +406,442 @@ Which framing is most defensible in a GS-IV answer?
 - **C.** Ethics contributes to Comprehensive National Power only by improving a country's international image.
 - **D.** Comprehensive National Power is composite — economic, military or strategic, socio-cultural or soft, technological and diplomatic — and ethics acts as a credibility multiplier on each component, with social harmony as the component to which it contributes most directly.
 
-**Answer:** D
+---
 
-**Option-by-option explanation**
+#### MCQ 33
+
+A district officer finds an eligible household excluded from a flood-relief list because its application was recorded late after the only bridge washed out. The rules permit a reasoned exception, but a local party worker offers to identify "deserving" families privately. Which course best reconciles care, fairness and accountability?
+
+- **A.** Verify the disruption and eligibility against the same published exception criteria for all similarly placed households, record reasons and offer review; decline the party worker's private list.
+- **B.** Add this household quietly because compassionate relief is more important than consistently applying criteria to other late applicants.
+- **C.** Refuse every late application because allowing any exception necessarily violates fairness, even when the rule expressly permits one.
+- **D.** Accept the party worker's list because local familiarity substitutes for documented eligibility checks during an emergency.
+
+#### MCQ 34
+
+A revenue officer is offered a gift by a neighbour whose land appeal the officer will hear tomorrow. No statute explicitly prohibits this particular gift. Which distinction does the situation most sharply test?
+
+- **A.** Descriptive ethics alone: whether gift-giving is customary settles the appeal's fairness.
+- **B.** Legality is not the ceiling: office-related appearance of partiality requires disclosure, refusal and appropriate recusal or reassignment despite an unproved offence.
+- **C.** A moral belief against all gifts entails permanent exclusion of the officer from every land case.
+- **D.** Since the appeal outcome is not yet known, the officer cannot have a conflict of interest.
+
+#### MCQ 35
+
+In a ration office, an official demands money to release an already-sanctioned benefit. In a separate procurement, an engineer and supplier jointly approve defective stock. Which inference about evidence and response is strongest?
+
+- **A.** Both are collusive because money changes hands; prosecute the beneficiaries rather than examine administrative power.
+- **B.** Both are coercive because government is a party; grievance channels alone will uncover concealed quality defects.
+- **C.** The first is coercive and needs protected service access and complaint channels; the second is collusive and needs independent quality checks and investigation.
+- **D.** The first is harmless if the ration reaches the recipient, and the second is harmless if the price was lowest.
+
+#### MCQ 36
+
+A licensing department publishes all applications online but leaves one officer free to give unexplained approvals, and applicants lack a remedy for delay. Which assessment best follows from the Second ARC's *standards plus institutions* argument?
+
+- **A.** Disclosure alone creates a robust culture of integrity regardless of unexplained discretion.
+- **B.** Replacing the officer with a more virtuous one permanently eliminates the procedural defect.
+- **C.** Publishing decisions is unnecessary because disciplinary sanctions operate without reasons or evidence.
+- **D.** Transparency helps, but reasons, fixed timelines, accessible review and enforceable sanctions are needed to prevent discretion from becoming an extraction point.
+
+#### MCQ 37
+
+After digitising permits, a district reports fewer payments at counters, yet agents now charge villagers for login access and officials can secretly override rejections. Which conclusion is defensible?
+
+- **A.** A reduced face-to-face bottleneck can lower one opportunity for extortion, but digital exclusion and opaque overrides can relocate it; audit overrides and provide assisted access.
+- **B.** Digitisation has failed in principle, so the district must restore discretionary manual approvals without checking their effects.
+- **C.** Fewer counter payments establish that corruption has ended across the whole service.
+- **D.** The agents' charges are necessarily lawful and ethical because the software itself is publicly operated.
+
+#### MCQ 38
+
+An officer argues: "Most clerks in my survey accept festival hospitality from applicants, therefore accepting it is ethically required." Which two distinct questions must be kept apart?
+
+- **A.** Whether the survey is recent and whether hospitality increases productivity; ethics has no further role.
+- **B.** What officials in fact do (descriptive) and whether a publicly defensible duty or standard permits it (normative/applied).
+- **C.** Whether the word "hospitality" can be true or false (meta-ethical) and whether civil service rules are written in English.
+- **D.** Whether an applicant approves the gift and whether the officer's colleagues also approve it; majority consent determines propriety.
+
+#### MCQ 39
+
+A Panchayat delegates selection of beneficiaries to a village committee but neither publishes criteria nor hears rejected applicants. A critic says decentralisation *always* cures the accountability gap. Which is the best reply?
+
+- **A.** Centralising every decision automatically removes elite capture because distance ensures neutrality.
+- **B.** Local decisions are immune from public scrutiny because elected bodies already embody citizens' preferences.
+- **C.** Bringing authority closer can shorten the citizen–decision-maker gap, but local capture can recreate discretion; publish criteria, hear objections and enable independent review.
+- **D.** Since discrimination is possible, no village-level authority should ever take part in implementation.
+
+#### MCQ 40
+
+A defence procurement officer rejects a higher-performing compliant bid in favour of a connected low-quality supplier, insisting that ethical governance strengthens only social harmony, not strategic capacity. What is the strongest response?
+
+- **A.** Ethical conduct alone produces military capability even without equipment quality or training.
+- **B.** Procurement integrity matters only for diplomatic reputation; performance is a purely technical consideration.
+- **C.** Social harmony is irrelevant to national power, so corruption in defence is a private moral failing.
+- **D.** Integrity changes the quality and credibility of strategic procurement, but cannot replace material capability; ethics multiplies rather than substitutes for capacity.
+
+### ANSWER KEY AND ROTATION AUDIT
+
+| Q | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Key** | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D |
+
+| Q | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Key** | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D |
+
+**Rotation string:** `ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD` — 40 questions, 10 of each option.
+
+### KEYED EXPLANATIONS AND EXAMINER TRAPS
+
+#### MCQ 1 — A
+
+- **A — correct.** ARC 1.1 states that ethics is "a set of standards that society places on itself", then warns that "standards do not, by themselves, ensure ethical behaviour; that requires a robust culture of integrity", and locates the crux in adoption in action, sanctions, competent disciplinary bodies acting quickly, and a culture of integrity. All four elements appear in this option.
+- **B — wrong.** Notification of a code is exactly the "bold words and expressions enshrined as standards" that ARC 1.1 says is *not* the crux. The report's whole point is that a notified code without enforcement machinery changes nothing.
+- **C — wrong.** The ARC's definition is explicitly social, not private: standards are what "society places on itself". Treating ethics as purely private contradicts the definition in the first sentence of the chapter.
+- **D — wrong.** The report attaches no economic precondition to ethical behaviour. It attaches an institutional one — sanctions and disciplinary machinery — and it separately argues that ethical governance itself raises growth, which is the reverse of this option's causal order.
+
+> **Trap:** The stem asks for the *qualification*, not the definition. Candidates who scan for the familiar phrase "standards that society places on itself" pick a definitional option and lose the mark that the second half of ARC 1.1 was set to test.
+
+---
+
+#### MCQ 2 — B
+
+- **A — wrong.** Statement 1 is correct, but rejecting statement 2 discards the second half of ARC 1.2, which gives *corruptus* precisely the sense "to break or destroy".
+- **B — correct.** ARC 1.2 supplies both derivations in a single sentence, and then uses them together: because ethics arises from habit, the report calls it "unfortunate that corruption has, for many, become a matter of habit".
+- **C — wrong.** Statement 2 alone is incomplete; the Greek derivation in statement 1 is equally the report's own and is the one that carries the analytical weight about habituation.
+- **D — wrong.** Both derivations are stated verbatim in ARC 1.2, so rejecting both contradicts the primary source.
+
+> **Trap:** Two-statement questions in this area often reverse the languages, attaching Latin to "ethics" and Greek to "corrupt". Fix the pairing by meaning: *habit* is Greek, *breaking* is Latin.
+
+---
+
+#### MCQ 3 — C
+
+- **A — wrong.** ARC 1.19 says the opposite: two of the three heads were examined "in considerable detail" in this very Report.
+- **B — wrong.** Vigilance and corruption was examined too. This option drops head A, which supplies the entire anti-corruption architecture of the report.
+- **C — correct.** ARC 1.18 lists the three heads — (A) Vigilance and Corruption, (B) Relationship between Political Executive and Permanent Civil Service, (C) Code of Conduct for different organs of Government — and ARC 1.19 states that "items A & C" were examined in considerable detail while "item B will be dealt with comprehensively in the ARC's report on Civil Services Reforms".
+- **D — wrong.** Head B is exactly the one that was *not* examined here. This option inverts the report's own statement.
+
+> **Trap:** The deferred head is the politically most interesting one, which is why candidates assume it was the report's centrepiece. Remember the pairing: A and C were done here; B went to Civil Services Reforms.
+
+---
+
+#### MCQ 4 — D
+
+- **A — wrong.** It places the UNCAC adoption of October 2003 before the ADB-OECD endorsement of 30 November 2001, reversing the first two events.
+- **B — wrong.** It puts the January 2007 report before the October 2003 adoption of UNCAC, although the report itself cites that adoption at paragraph 1.14 as an existing instrument.
+- **C — wrong.** It places India's ratification first. Ratification occurred on 9 May 2011, after every other event in the list.
+- **D — correct.** ADB-OECD endorsement, 30 November 2001; UNCAC adopted by the UN General Assembly, 31 October 2003; the Second ARC's Fourth Report, January 2007; India's ratification of UNCAC, 9 May 2011.
+
+> **Trap:** India *signed* UNCAC on 9 December 2005 but *ratified* it only on 9 May 2011, which is why the report speaks of a convention India had joined without India being a full party. Treating signature as ratification collapses two events six years apart.
+
+---
+
+#### MCQ 5 — A
+
+- **A — correct.** The survey establishes what staff in fact believe, which is descriptive ethics. The officer's conclusion is about what may be done, which is normative. Moving from the first to the second without a justifying standard is the is–ought error.
+- **B — wrong.** No claim about the meaning or truth-status of moral language has been made. Meta-ethics is not engaged at any point in the scenario.
+- **C — wrong.** Applied ethics does not require moral semantics to be settled first; the ARC itself proceeds directly to administrative application without any meta-ethical preliminary.
+- **D — wrong.** The defect is logical, not statistical. Even a perfectly representative sample of belief would establish nothing about what ought to be done.
+
+> **Trap:** The word "therefore" is the whole question. Candidates who focus on the plausibility of facilitation payments miss that the stem is testing the inference, not the practice.
+
+---
+
+#### MCQ 6 — B
+
+- **A — wrong.** Descriptive ethics would require them to be reporting what some group actually believes about integrity, which is not what the stem describes.
+- **B — correct.** They are debating the meaning and truth-status of a moral term, which is exactly the meta-ethical question of whether moral language states facts or expresses attitudes.
+- **C — wrong.** Applied ethics requires a concrete field and a live decision. The stem expressly removes any pending decision.
+- **D — wrong.** Normative ethics would require them to be arguing what someone ought to do and on what ground; they are arguing about what a word does.
+
+> **Trap:** Meta-ethics feels like the "deepest" level and is therefore over-selected in questions where a decision is actually at stake. Use the reverse test as well: when a live administrative decision is present, meta-ethics is almost never the answer.
+
+---
+
+#### MCQ 7 — C
+
+- **A — wrong.** Staff discomfort is a fact in the background of the decision, not the object of the enquiry. She is not conducting a survey.
+- **B — wrong.** She is applying a standard of fairness, not analysing what the word "fairness" means or whether it can be true.
+- **C — correct.** Applied ethics is normative theory worked out for a definite field — here, medical and administrative practice — by testing a concrete decision rather than by naming a theory.
+- **D — wrong.** The decision allocates a scarce public good and affects identifiable persons unequally, which makes it ethical as well as administrative; the two are not alternatives.
+
+> **Trap:** "Purely administrative" is a standing distractor in GS-IV. Almost every allocation decision carries duty, fairness and accountability dimensions, so the option that denies an ethical question is nearly always wrong.
+
+---
+
+#### MCQ 8 — D
+
+- **A — wrong.** It attaches unequal treatment to the consequences dimension. Unequal treatment is caught by justice and fairness, which asks whether like cases are treated alike.
+- **B — wrong.** It makes accountability responsible for detecting unequal treatment. Accountability tests whether reasons can be stated publicly and reviewed; fairness tests the distribution itself.
+- **C — wrong.** It assigns non-reviewability to the consequences dimension, whereas foreseeable harm is precisely what consequence-reasoning exists to detect.
+- **D — correct.** Consequences catch foreseeable harm despite good intentions; justice and fairness catch unexplained unequal treatment; care and empathy catch procedural correctness that is blind to the vulnerable; accountability catches decisions that survive only in the absence of scrutiny.
+
+> **Trap:** Matching questions on dimensions punish candidates who memorise the list without the function of each item. Learn each dimension by the *failure it detects*, not by its name.
+
+---
+
+#### MCQ 9 — A
+
+- **A — correct.** Legality, morality and propriety are separate tests. Propriety asks what the office and occasion make appropriate, and its remedies are disclosure, recusal and avoidance rather than punishment.
+- **B — wrong.** This is the equation that ARC Box 2.3 exists to reject, quoting the warning that "morality has become identical with legality" in public life.
+- **C — wrong.** The public test is not the officer's private feeling but whether a reasonable citizen who lost the contract could regard the decision as impartial. Subjective confidence is unverifiable.
+- **D — wrong.** Criminality requires the elements of the relevant offence to be made out. Asserting automatic criminality both overstates the law and, by making the bar impossibly high, would in practice acquit most improper conduct.
+
+> **Trap:** The stem deliberately removes both payment and rule-breach so that the only available failure is propriety. Candidates who look for a bribe find none and wrongly conclude that nothing is wrong.
+
+---
+
+#### MCQ 10 — B
+
+- **A — wrong.** The Gandhi passage on remaking ourselves does appear in the Report, but in the Preface, not in Box 2.3, and it makes no claim about the letter and spirit of law.
+- **B — correct.** Box 2.3, "Need for Ethical Code", reproduces Senator Fulbright's questions about those who "under the guise of friendship, accept favors, which offend the spirit of the law but do not violate its letter", and his warning that "among so many influential people, morality has become identical with legality". The cited source is the Senate Ethics Manual, 2003 edition, page 6.
+- **C — wrong.** The Solzhenitsyn line about the line between good and evil is quoted in the Report's Preface, in a different argument about the limits of rules.
+- **D — wrong.** The Nolan principles appear in the surrounding text of the same chapter, not inside Box 2.3, and they are owned by Topic 09 rather than by this legality-versus-propriety argument.
+
+> **Trap:** Several memorable quotations sit close together in the Report. Anchor Box 2.3 by its subject — the letter-versus-spirit gap — rather than by a general impression that it is "the famous ethics box".
+
+---
+
+#### MCQ 11 — C
+
+- **A — wrong.** The report's argument runs the other way: incentives matter for everyone and are "critical in dealing with the army of public servants — elected or appointed".
+- **B — wrong.** The deviant-minority account is one of two approaches the ARC *describes* at 1.4 and then declines to adopt on its own at 1.5.
+- **C — correct.** This is ARC 1.4's conditional in the report's own words, and it is the sentence that carries the incentive argument into the values-and-institutions synthesis of 1.5.
+- **D — wrong.** The same passage gives reward and punishment equal weight — "good behaviour is consistently rewarded and bad behaviour consistently punished" — so treating reward as irrelevant halves the mechanism.
+
+> **Trap:** The passage is often remembered only in its punitive half. The examinable proposition is symmetric: unrewarded honesty is as corrosive as unpunished dishonesty.
+
+---
+
+#### MCQ 12 — D
+
+- **A — wrong.** The report says the opposite: values are abundant *and* perishable, which is exactly why institutional containment is required.
+- **B — wrong.** ARC 1.5 insists values are "needed to serve as guiding stars"; dismissing them as decorative contradicts the first half of the paragraph.
+- **C — wrong.** The paragraph opens with "In the real world, both values and institutions matter", which forecloses any either/or framing.
+- **D — correct.** It reproduces both halves of ARC 1.5, including the container metaphor that the Commission calls "the basis of all statecraft and laws and institutions".
+
+> **Trap:** The container metaphor is frequently misquoted as values containing institutions. The direction matters: institutions are the container; values are what is contained.
+
+---
+
+#### MCQ 13 — A
+
+- **A — correct.** ARC 1.6 names the colonial legacy of "unchallenged authority and propensity to exercise power arbitrarily" and the "enormous asymmetry of power", and ARC 1.7 adds the early-decades policy choice of over-regulation, excessive state control, near-monopoly and an economy of scarcity.
+- **B — wrong.** None of these three appears in the report's aggravator list. Illiteracy figures only as background to the asymmetry argument, not as an independent aggravator.
+- **C — wrong.** Judicial delay and weak enforcement are treated elsewhere in the report as failures of the anti-corruption machinery, not as the three aggravating factors identified in Chapter 1.
+- **D — wrong.** The absence of a code is not the diagnosis; ARC 1.1 has already said that codes alone do not ensure ethical behaviour, so this option contradicts the report's opening argument.
+
+> **Trap:** Plausible-sounding governance problems are inserted as distractors. The examinable list is fixed and short — colonial legacy, asymmetry of power, over-regulation and scarcity — and comes from two consecutive paragraphs.
+
+---
+
+#### MCQ 14 — B
+
+- **A — wrong.** Official publication does not make a figure current. The percentages are illustrative and belong to the report's January 2007 vantage point.
+- **B — correct.** The figures support ARC 1.6's mechanism — that asymmetry "reduces societal pressure to conform to ethical behaviour" — and must be cited with their date, with current data supplied separately for any contemporary claim.
+- **C — wrong.** The report makes no projection at all here; it describes a contemporary imbalance to explain why citizens lacked leverage.
+- **D — wrong.** The ARC draws no such policy conclusion from the figures. Its inference is about societal pressure and bargaining power, not about the size of public employment.
+
+> **Trap:** Quoting the percentages without the year is one of the most reliable ways to lose credibility in an otherwise good answer. The safe formulation is "the ARC's 2007 illustrative framing".
+
+---
+
+#### MCQ 15 — C
+
+- **A — wrong.** ARC 1.7 says the opposite: under power asymmetry, subsidies and beneficiary programmes *increased* the citizen's dependence.
+- **B — wrong.** The report is explicit that the consequence was "unintended". Imputing corrupt intent to the policy choice misrepresents the source and weakens an answer's credibility.
+- **C — correct.** This reproduces ARC 1.7's mechanism, including its two-sided effect on opportunity and on the citizen's capacity to resist.
+- **D — wrong.** A character-only account is one of the two approaches the ARC sets out at 1.4 and declines to adopt alone at 1.5; the whole of 1.7 is a structural explanation.
+
+> **Trap:** "Unintended consequence" is the phrase that keeps this answer accurate. Candidates who dramatise the passage into a charge of deliberate design cross from analysis into assertion.
+
+---
+
+#### MCQ 16 — D
+
+- **A — wrong.** These are administered or licence-heavy sectors that the report does not cite as liberalisation successes; several of them illustrate the opposite, where discretion persisted.
+- **B — wrong.** Although liberalised, these sectors are not the ones named in ARC 1.8. Inventing a plausible list is the commonest way this question is lost.
+- **C — wrong.** These are precisely the natural-monopoly and discretionary domains to which ARC 1.12 warns corruption migrates, not the sectors where it fell.
+- **D — correct.** ARC 1.8 names "Telephones, steel, cement, sugar and even two-wheelers", and separately cites railway reservation and driving licences as services improved by computerisation and access to information.
+
+> **Trap:** Sugar and two-wheelers are the two items candidates drop. Reproducing the complete five-item list, plus the two computerised services, is what separates a sourced answer from a remembered one.
+
+---
+
+#### MCQ 17 — A
+
+- **A — correct.** This reproduces ARC 1.9, including the observation about the smallest number of final decision makers, the failure of local government "to take root", and the net result of "weakened citizenry and mounting corruption".
+- **B — wrong.** The report records no such protective effect. Distance from local pressure is offset by distance from accountability, which is the paragraph's actual finding.
+- **C — wrong.** Political funding is the separate argument of ARC 1.12. Paragraph 1.9 is an explicit criticism of centralisation as a corruption-increasing factor.
+- **D — wrong.** The argument is about the distance between power and people, not about federal structure. The report criticises concentration "both horizontally and vertically".
+
+> **Trap:** The phrase "smallest number of final decision makers" sounds like praise for efficiency. In context it is a criticism: too few decision points for too large a democracy, with too many intermediaries in between.
+
+---
+
+#### MCQ 18 — B
+
+- **A — wrong.** It names two of six. The four omitted instruments — charters, proactive-citizen incentives, stakeholder involvement and public consultation — each correct a different component of the asymmetry.
+- **B — correct.** This is ARC 1.10's complete list, in the order the paragraph gives it, and the paragraph's own verdict is that these instruments "dramatically curbed corruption".
+- **C — wrong.** These are anti-corruption *institutions*, owned by Topic 20, not the citizen-empowerment instruments named at 1.10.
+- **D — wrong.** These are constitutional and parliamentary oversight mechanisms. They are accountability instruments in a general sense, but they are not the citizen-empowerment set the paragraph enumerates.
+
+> **Trap:** The question rewards completeness. Because RTI is the most familiar item, partial-list options are chosen far more often than they should be; count the instruments before answering.
+
+---
+
+#### MCQ 19 — C
+
+- **A — wrong.** ARC 1.11 states that enforcement and deterrent punishment "are critical", so prevention cannot render them unnecessary. The corrective is preventive **and** punitive.
+- **B — wrong.** The report's entire structural diagnosis at 1.6–1.10 is preventive. Treating prevention as a distraction contradicts the majority of the chapter.
+- **C — correct.** It combines the two halves of ARC 1.11: the necessity of enforcement, and the self-critical demand that the failure of existing machinery itself be analysed before strengthening it.
+- **D — wrong.** No such substitution is recommended anywhere in Chapter 1; ARC 1.1 in fact requires "competent disciplinary bodies" that act quickly.
+
+> **Trap:** Options A and B are the two symmetrical extremes, and both are set because candidates who have absorbed the structural argument over-correct into "prevention is enough". Quote both halves of 1.11 and neither extreme is tempting.
+
+---
+
+#### MCQ 20 — D
+
+- **A — wrong.** ARC 1.12 expressly denies this: reducing opportunity in one sector does not reduce demand, and unmet demand relocates rather than evaporates.
+- **B — wrong.** The paragraph's whole argument is that political demand drives administrative supply, so independence between the two is exactly what the report rejects.
+- **C — wrong.** The predicted pattern is not uniform decline but redistribution, with some sectors improving while others deteriorate.
+- **D — correct.** This is ARC 1.12's migration finding, and it is why the report calls for "corresponding political and governance reform" alongside liberalisation.
+
+> **Trap:** This is the qualification that converts a good answer into a graded one. Candidates who have just learned ARC 1.8's liberalisation success are precisely the ones most likely to pick option A.
+
+---
+
+#### MCQ 21 — A
+
+- **A — correct.** ARC 1.13 defines coercive corruption as extraction for a service to which the citizen is entitled and calls the payer "an unwilling victim"; the remedies follow from the fact that the victim has both an interest and a motive to complain.
+- **B — wrong.** The passing of money does not by itself make a transaction collusive. Collusion requires that both parties gain at society's cost, which is absent where the payer receives only what she was already owed.
+- **C — wrong.** ARC 1.13 places the "vast majority of cases of bribery" in the coercive category and does not confine corruption to contracts or procurement.
+- **D — wrong.** Voluntariness in the formal sense is not the test; the report explains that citizens pay because resistance costs them "much more", which is coercion, not complicity.
+
+> **Trap:** The presence of a payment invites automatic classification as collusion. Classify by *who gains*: if the payer gets only her entitlement, the transaction is extortion.
+
+---
+
+#### MCQ 22 — B
+
+- **A — wrong.** Both halves fail: the report's example list extends well beyond procurement, and its stated trend is that collusive corruption *increases* with liberalisation.
+- **B — correct.** It reproduces ARC 1.13's full example list and its trend statement, together with the report's warning that collusive corruption is "undermining the very foundations of our democracy".
+- **C — wrong.** The defining feature of collusion is that both parties benefit, which removes the complainant and makes detection harder, not easier.
+- **D — wrong.** The report distinguishes them precisely because they are not identical; the victim, the evidence problem and the remedy all differ.
+
+> **Trap:** The long option is correct here, which is why option-length heuristics fail on this item. Verify against the source list rather than against option length.
+
+---
+
+#### MCQ 23 — C
+
+- **A — wrong.** It omits the strengthening of the investigative framework and exemplary punishment, which the paragraph explicitly links to "raising the risk associated with corrupt behaviour".
+- **B — wrong.** It omits forfeiture, which the paragraph names first in the context of black money, serious economic offences, fraud and money laundering.
+- **C — correct.** All three appear in ARC 1.16, and all three are stated as things that "need to be" or "have to be" done — that is, as recommendations of January 2007, not as existing law at that date.
+- **D — wrong.** Reducing the paragraph to enforcement alone discards its asset-recovery and whistleblower-protection components.
+
+> **Trap:** The status word is the examinable point. These were recommendations in 2007; later statutory developments belong to Topics 19 and 21 and must be dated separately rather than credited to the report.
+
+---
+
+#### MCQ 24 — D
+
+- **A — wrong.** ARC 1.17 opens by rejecting exactly this confinement: ethics in governance "has a much wider import than what happens in the different arms of the government".
+- **B — wrong.** The paragraph does the opposite: it ends by insisting that "there should be ethics in citizen behaviour". The victim framing at 1.13 applies to coerced payers, not to the citizen's role generally.
+- **C — wrong.** Business is one of four named domains. Professions, voluntary organisations and civil society structures, and citizen behaviour, are the other three.
+- **D — correct.** It reproduces ARC 1.17 in full, including the demanded "paradigm shift from the pejorative 'business ethics' to 'ethics in business'" and the closing clause on citizen behaviour.
+
+> **Trap:** ARC 1.13's "unwilling victim" and ARC 1.17's citizen duty sit four paragraphs apart and appear to conflict. They do not: coercion excuses the extorted payer, while 1.17 addresses the citizen's general ethical role, including collusive conduct.
+
+---
+
+### REMEDIAL DRILLS 25–32
+
+*Each remedial drill targets one predictable error recorded in the learning session's trap boxes.*
+
+---
+
+#### MCQ 25 — A
+
+- **A — correct.** The distinction is between a reasoned standard and a held practice. It is available on demand without denying that the words are used interchangeably in ordinary Mains prose.
+- **B — wrong.** Both terms operate in both domains. A private promise raises an ethical question; a public office raises moral ones. The public/private line is a different distinction, addressed in the private-versus-public relationships session.
+- **C — wrong.** Ethics is not defined by codification. Codes of ethics exist, but so do unwritten ethical standards, and much morality is in fact written down in religious and community codes.
+- **D — wrong.** Ranking the two is not a distinction, and grounding morality solely in religion ignores its social, familial and professional sources.
+
+> **Trap:** The error is over-correction. Having learned that the terms differ, candidates then deny that they ever overlap, which produces an equally inaccurate answer.
+
+---
+
+#### MCQ 26 — B
+
+- **A — wrong.** The decline-of-values position is described at 1.4 as an "overemphasis on values and character"; the word "overemphasis" is the report's own evaluation.
+- **B — correct.** ARC 1.4 presents both approaches and 1.5 supplies the synthesis, including the guiding-stars and container formulations.
+- **C — wrong.** ARC 1.5 states that values "are needed to serve as guiding stars" and "exist in abundance in our society", which is the opposite of rejection.
+- **D — wrong.** The report calls them "two, somewhat contrary, approaches"; one locates the cause in character, the other in a deviant minority requiring deterrence.
+
+> **Trap:** Chapter 1 spends more words describing the two approaches than stating the synthesis, so a skim leaves the impression that the report endorses whichever approach was read last.
+
+---
+
+#### MCQ 27 — C
+
+- **A — wrong.** ARC 1.13 explicitly describes the extorted payer as "an unwilling victim", and lists the costs of resistance — delay, harassment, lost wages, even danger to life or limb — that make formal voluntariness meaningless.
+- **B — wrong.** The amount is irrelevant to the classification. What matters is whether the payer received an entitlement or an irregular advantage.
+- **C — correct.** It preserves both halves of the report: protection for the coerced, and full culpability in collusion, where "both parties benefit at immense cost to society".
+- **D — wrong.** This over-corrects. ARC 1.13's collusive category and 1.17's demand for "ethics in citizen behaviour" both make citizens duty-bearers.
+
+> **Trap:** The two errors are symmetrical — blaming every payer, or exonerating every payer. The classification test is *who gains*, and it must be applied transaction by transaction.
+
+---
+
+#### MCQ 28 — D
+
+- **A — wrong.** This is the very position Box 2.3 was included to criticise, and it is described there as a "tragic plight" for public life.
+- **B — wrong.** The Fulbright passage concerns public officials and official favours, so the divergence is illustrated in official life, not excluded from it.
+- **C — wrong.** Making judicial finding a precondition would postpone ethical evaluation until after litigation, which is both impractical and contrary to the preventive logic of the whole report.
+- **D — correct.** It states the three-test separation and supplies the report's own authority for it, with the letter-versus-spirit formulation.
+
+> **Trap:** Candidates who know the three tests still choose a legality-first option when the stem describes conduct that is clearly lawful. The correct move is to name propriety as the failing test and prescribe disclosure or recusal.
+
+---
+
+#### MCQ 29 — A
+
+- **A — correct.** It joins ARC 1.8's sectoral finding to ARC 1.12's migration warning, which is exactly the balanced position the report holds.
+- **B — wrong.** ARC 1.8 attributes a measurable fall in corruption to competition and choice, so denying any ethical consequence contradicts the report directly.
+- **C — wrong.** ARC 1.12 states that corruption "shifts to other, sometimes more dangerous, areas", which forecloses any claim of elimination.
+- **D — wrong.** The report records reductions, not universal increases. It does warn of new risks, but as relocation rather than as an across-the-board rise.
+
+> **Trap:** The two errors sit on opposite sides, and a candidate correcting one usually falls into the other. Write both sentences — the sectoral gain and the migration caveat — in that order.
+
+---
+
+#### MCQ 30 — B
+
+- **A — wrong.** ARC 1.9 treats over-centralisation as a corruption-increasing factor, so proximity of power is not ethically neutral.
+- **B — correct.** It preserves the benefit the report identifies while adding the capacity, transparency and audit conditions without which local discretion simply replaces central discretion.
+- **C — wrong.** Personal acquaintance can as easily produce local capture and pressure as accountability; familiarity is not a substitute for a record and a review route.
+- **D — wrong.** ARC 1.9 in fact criticises India for having "probably the smallest number of final decision makers" for a large democracy, so multiplying decision points is not itself the problem.
+
+> **Trap:** Distance and accountability are two different variables. Decentralisation reliably reduces the first; it improves the second only when capacity, transparency and audit accompany it.
+
+---
+
+#### MCQ 31 — C
+
+- **A — wrong.** Official provenance does not confer currency. The percentages are the report's illustrative framing of January 2007.
+- **B — wrong.** The mechanism — that asymmetry "reduces societal pressure to conform to ethical behaviour" — remains valid and is the analytically valuable part; discarding it loses a diagnosed cause.
+- **C — correct.** Date the report's claim, keep the mechanism, and attach current verified data for any contemporary quantitative assertion.
+- **D — wrong.** Adjusting figures without a source is fabrication, which is the single most damaging thing a candidate can do in a sourced answer.
+
+> **Trap:** The temptation is to keep a memorable number at the cost of accuracy. The mechanism, not the percentage, is what earns the mark.
+
+---
+
+#### MCQ 32 — D
 
 - **A — wrong.** It collapses a composite concept into one component and then removes the ethical dimension that procurement integrity and civil–military trust supply even within that component.
 - **B — wrong.** Reducing the ethical channel to tax compliance ignores contract enforcement, predictability and non-expropriation, which the report's own Preface links to growth.
@@ -764,17 +852,81 @@ Which framing is most defensible in a GS-IV answer?
 
 ---
 
-### ANSWER KEY AND ROTATION AUDIT
+### ADDITIONAL CONFLICT-AND-INFERENCE DRILLS 33–40
 
-| Q | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Key** | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D |
+---
 
-| Q | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Key** | A | B | C | D | A | B | C | D | A | B | C | D | A | B | C | D |
+#### MCQ 33 — A
 
-**Rotation string:** `ABCDABCDABCDABCDABCDABCDABCDABCD` — 32 questions, 8 of each option, strict `A → B → C → D` repeated eight times.
+- **A — correct.** Documented common criteria protect both the excluded household and similarly situated applicants; review and reasons keep compassion accountable.
+- **B — wrong.** Secret inclusion does nothing for other late applicants and converts care into arbitrary favour.
+- **C — wrong.** A permitted, reasoned exception is not rule-breaking; automatic refusal defeats the rule's own design.
+- **D — wrong.** Local intelligence may trigger verification but cannot substitute for it or give a party worker private allocation power.
+
+> **Trap:** Emergency discretion is neither a blank cheque nor a ban on exceptions; compare like cases openly.
+
+#### MCQ 34 — B
+
+- **A — wrong.** A description of custom cannot justify a conflict in an adjudicative role.
+- **B — correct.** The gift's link to tomorrow's appeal creates apparent partiality even without proof of a statutory breach; disclose, refuse and follow the applicable recusal process.
+- **C — wrong.** Proportionality and nexus matter; this case does not disqualify the officer from unrelated work indefinitely.
+- **D — wrong.** Conflicts concern the incentive and reasonable perception before a decision, not only demonstrated biased outcomes.
+
+> **Trap:** Do not equate absence of proved bribery with absence of an office-related propriety problem.
+
+#### MCQ 35 — C
+
+- **A — wrong.** The beneficiary is seeking an existing entitlement under pressure, not a shared improper gain.
+- **B — wrong.** The engineer and supplier benefit jointly while the public bears the loss; a victim complaint may never arise.
+- **C — correct.** Different stakeholder positions generate different evidence sources and safeguards: safe access for the extorted beneficiary, technical audit for secret collusion.
+- **D — wrong.** Eventual delivery does not erase extortion, and low price does not validate defective stock.
+
+> **Trap:** Classify by who gains and who is coerced, not by the mere presence of a payment.
+
+#### MCQ 36 — D
+
+- **A — wrong.** Disclosure of applications does not constrain unexplained approval or remedy delayed cases.
+- **B — wrong.** Good character cannot make an unreviewable process permanently safe against a successor's misuse.
+- **C — wrong.** Sanctions need records, grounds and a competent process; secrecy makes deviations harder to test.
+- **D — correct.** It combines preventive checks on discretion with review and credible enforcement, the values-and-institutions synthesis of ARC 1.1 and 1.5.
+
+> **Trap:** Transparency is an input into accountability, not accountability's complete substitute.
+
+#### MCQ 37 — A
+
+- **A — correct.** The changed interface can remove a counter-level bottleneck yet create access rents and hidden overrides; both accessibility and override audit are required.
+- **B — wrong.** The new risks require redesign, not restoration of the old monopoly.
+- **C — wrong.** One measured channel of payments cannot establish the absence of off-platform extraction.
+- **D — wrong.** Ownership of the portal does not settle the ethics of private intermediation or official overrides.
+
+> **Trap:** Judge digitisation by the whole citizen journey, including assisted access and exceptions, not counter statistics alone.
+
+#### MCQ 38 — B
+
+- **A — wrong.** Recency and output do not supply a duty permitting a potentially compromising gift.
+- **B — correct.** A survey tells us what happens; public justification requires a separate normative standard applied to this officer–applicant relationship.
+- **C — wrong.** The example is not a debate over the meaning or truth-status of moral vocabulary.
+- **D — wrong.** Approval by interested or similarly situated persons cannot establish public-office propriety.
+
+> **Trap:** Even perfect empirical evidence cannot bridge the is–ought gap without an argued standard.
+
+#### MCQ 39 — C
+
+- **A — wrong.** Remote authority can reproduce the original accountability gap, not automatically remove capture.
+- **B — wrong.** Representation does not excuse unpublished criteria or denied hearings.
+- **C — correct.** Decentralisation changes distance, not incentives by itself; reasons, participation and appeal restrain local monopolies.
+- **D — wrong.** The presence of risk warrants safeguards, not wholesale denial of local participation.
+
+> **Trap:** "Closer" is a potential benefit, not proof that the resulting decision is fair.
+
+#### MCQ 40 — D
+
+- **A — wrong.** No norm can substitute for equipment, skills and logistical capacity.
+- **B — wrong.** Biased equipment selection directly affects readiness and quality, not just external reputation.
+- **C — wrong.** Strategic effectiveness and public trust are both damaged by corrupt procurement.
+- **D — correct.** Integrity improves what capability is purchased and makes institutions trustworthy; material capacity remains necessary.
+
+> **Trap:** Ethics is a mechanism affecting national power, neither a decorative slogan nor a magical replacement for resources.
 
 ---
 

@@ -11,7 +11,7 @@ title: Union and Territory - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a question-specific substantive explanation; every item ends with a distinct examiner trap.
+40 original questions. Complete this section before opening the separate answer key; answers rotate A → B → C → D.
 
 ### Q1. Article 1(1) primarily settles which two issues together?
 
@@ -20,30 +20,12 @@ B. The capital city and the official language
 C. The citizenship rules and the anthem
 D. The emergency powers and amendment process
 
-**Answer: A.**
-
-- **A:** Correct: Article 1(1) joins the constitutional name 'India, that is Bharat' to the description 'Union of States'.
-- **B:** Capitals and official languages are supplied through other constitutional or statutory arrangements, not Article 1(1).
-- **C:** Citizenship begins in Part II, while national-symbol status is not the paired subject of Article 1.
-- **D:** Emergency and amendment powers belong principally to Parts XVIII and XX, not the opening territorial clause.
-
-**Examiner trap:** Article 1 tests two linked ideas—name and polity—not a miscellaneous pair of national facts.
-
 ### Q2. Which statement best captures the difference between the Union of India and the Territory of India?
 
 A. The Union of India includes only Parliament, while the Territory of India includes Parliament and the States
 B. The Union of India refers to the States as federal members, while the Territory of India also includes Union Territories and acquired territories
 C. The Union of India means the Union executive, while the Territory of India means the Union judiciary
 D. The two expressions are exact constitutional synonyms
-
-**Answer: B.**
-
-- **A:** Parliament is an institution; the expression 'Union of India' here identifies the State-members of the federation, not Parliament alone.
-- **B:** Correct: the territory of India adds Union Territories and acquired territories to the territories of the States.
-- **C:** The distinction concerns federal membership and territorial reach, not a division between executive and judiciary.
-- **D:** Article 1(3)'s three-part enumeration prevents the two expressions from being exact synonyms.
-
-**Examiner trap:** Membership of the federation and reach of Indian sovereignty are overlapping but unequal sets.
 
 ### Q3. Article 2 is conceptually different from Article 3 because Article 2 deals with
 
@@ -52,30 +34,12 @@ B. creation of legislative councils in States
 C. admission into the Union or establishment of new States not already part of the existing Union
 D. cession of Indian territory to a foreign State
 
-**Answer: C.**
-
-- **A:** Renaming an existing State is expressly an Article 3(e) operation.
-- **B:** Legislative councils are governed by Article 169, not the admission power.
-- **C:** Correct: Article 2 addresses admission into the Union or establishment of new States, conventionally contrasted with Article 3's internal reorganisation.
-- **D:** Foreign cession is controlled by Article 368 after *Berubari*, not by Article 2.
-
-**Examiner trap:** Use the Constitution's verbs before relying on the convenient 'outside/inside' mnemonic.
-
 ### Q4. Which one of the following is NOT one of the express Article 3 operations?
 
 A. Increasing the area of a State
 B. Altering the name of a State
 C. Altering the boundaries of a State
 D. Ceding accepted Indian territory to a foreign State
-
-**Answer: D.**
-
-- **A:** Increasing State area is expressly listed in Article 3(b).
-- **B:** Changing a State's name is expressly authorised by Article 3(e).
-- **C:** Altering State boundaries falls within Article 3(d).
-- **D:** Correct: surrender of accepted Indian territory abroad is cession and lies outside Article 3.
-
-**Examiner trap:** A power to diminish State area is not a power to diminish Indian sovereignty abroad.
 
 ### Q5. Before an Article 3 bill is introduced in Parliament, what is constitutionally necessary?
 
@@ -84,30 +48,12 @@ B. Prior ratification by at least half the States
 C. A joint sitting of both Houses
 D. Approval by the Supreme Court under Article 143
 
-**Answer: A.**
-
-- **A:** Correct: presidential recommendation is a condition before introduction of an Article 3 Bill.
-- **B:** Half-State ratification belongs to specified Article 368 amendments, not territorial reorganisation under Article 3.
-- **C:** A joint sitting is neither an introduction condition nor the ordinary mechanism for such a Bill.
-- **D:** Article 143 advisory jurisdiction does not replace the President's Article 3 recommendation.
-
-**Examiner trap:** Do not import Article 368 ratification or Article 143 review into Article 3's introduction stage.
-
 ### Q6. The legislature of the affected State, when consulted under Article 3, has
 
 A. a suspensive veto that can be overridden only in a joint sitting
 B. a right to express its views, but no veto over Parliament's final decision
 C. a binding veto unless the Supreme Court permits otherwise
 D. a co-equal decision-making role with Parliament
-
-**Answer: B.**
-
-- **A:** The State legislature has no suspensive veto under the proviso.
-- **B:** Correct: it may communicate views, but Parliament may accept, reject or depart from them.
-- **C:** Neither State consent nor Supreme Court permission is constitutionally required.
-- **D:** Final law-making authority remains with Parliament; the affected legislature is consultative.
-
-**Examiner trap:** Reference creates a hearing, not a veto; 'consulted' is not 'consenting'.
 
 ### Q7. Explanation I to Article 3 matters because it states that
 
@@ -116,30 +62,12 @@ B. States and UTs have identical representation in Rajya Sabha
 C. for clauses (a) to (e), 'State' includes a Union Territory, but not in the proviso requiring legislature-reference
 D. the President may abolish a State by ordinance
 
-**Answer: C.**
-
-- **A:** Explanation I does not make Union Territories States for every constitutional purpose.
-- **B:** Rajya Sabha representation is governed separately, including by the Fourth Schedule.
-- **C:** Correct: inclusion applies to clauses (a)-(e), while the proviso's legislature-reference excludes a Union Territory.
-- **D:** Nothing in Explanation I creates an ordinance power to abolish States.
-
-**Examiner trap:** Explanation I changes meaning between the substantive clauses and the proviso.
-
 ### Q8. Article 4 keeps reorganisation laws outside Article 368 because such laws are
 
 A. automatically approved by the Supreme Court
 B. valid only for five years unless renewed
 C. treated as Money Bills
 D. not deemed constitutional amendments for the purposes of Article 368
-
-**Answer: D.**
-
-- **A:** Judicial approval is not what removes these laws from Article 368.
-- **B:** Article 4 laws do not lapse after five years.
-- **C:** Territorial reorganisation Bills are not converted into Money Bills.
-- **D:** Correct: Article 4(2) expressly says they are not deemed constitutional amendments for Article 368.
-
-**Examiner trap:** Ordinary voting threshold does not make territorial legislation constitutionally trivial.
 
 ### Q9. The First Schedule is constitutionally important because it
 
@@ -148,30 +76,12 @@ B. contains the amendment procedure
 C. allocates Lok Sabha seats among constituencies
 D. lists the official languages of every State
 
-**Answer: A.**
-
-- **A:** Correct: the First Schedule identifies States and Union Territories and describes their territories.
-- **B:** The amendment procedure is contained in Article 368.
-- **C:** Constituency allocation and delimitation are not the First Schedule's central function.
-- **D:** Official languages are principally addressed in Part XVII and the Eighth Schedule.
-
-**Examiner trap:** First Schedule is territorial; Fourth Schedule is Rajya Sabha; Seventh Schedule distributes subjects.
-
 ### Q10. Which one of the following most accurately states Berubari Union (1960)?
 
 A. Any change in a State boundary requires prior consent of that State
 B. Cession of accepted Indian territory to a foreign State requires a constitutional amendment
 C. No Indian territory can ever be ceded under the Constitution
 D. Parliament cannot alter a State's name without Article 368
-
-**Answer: B.**
-
-- **A:** *Berubari* did not create a State-consent requirement for internal boundary changes.
-- **B:** Correct: ceding territory India accepts as its own requires constitutional amendment under Article 368.
-- **C:** The Court did not hold that cession was constitutionally impossible; it identified the valid route.
-- **D:** State renaming remains possible by Article 3(e) read with Article 4.
-
-**Examiner trap:** *Berubari* prescribes the route for cession; it does not constitutionally freeze every border.
 
 ### Q11. The Supreme Court's 1969 boundary-settlement ruling is mainly remembered for holding that
 
@@ -180,30 +90,12 @@ B. the Union cannot acquire State property
 C. boundary settlement or ascertainment without cession does not automatically require Article 368
 D. Article 3 and Article 4 are unconstitutional
 
-**Answer: C.**
-
-- **A:** Article 143 reference is not compulsory for every boundary agreement.
-- **B:** The case was not a ruling on Union acquisition of State property.
-- **C:** Correct: genuine ascertainment or implementation of a disputed boundary may proceed without Article 368 because no accepted Indian territory is ceded.
-- **D:** The judgment did not invalidate Articles 3 or 4.
-
-**Examiner trap:** Ask whether title is surrendered or an uncertain line is merely identified.
-
 ### Q12. Which constitutional amendment implemented the India-Bangladesh enclave exchange and related territorial adjustments?
 
 A. The Ninth Constitutional Amendment Act, 1960
 B. The Seventh Constitutional Amendment Act, 1956
 C. The Thirty-Sixth Constitutional Amendment Act, 1975
 D. The 100th Constitutional Amendment Act, 2015
-
-**Answer: D.**
-
-- **A:** The Ninth Amendment supplied the route for the earlier India-Pakistan Berubari arrangement, not the 2015 enclave exchange.
-- **B:** The Seventh Amendment accompanied the 1956 internal reorganisation.
-- **C:** The Thirty-Sixth Amendment made Sikkim a full State in 1975.
-- **D:** Correct: the 100th Amendment implemented the India-Bangladesh Land Boundary Agreement framework and changed relevant First Schedule entries.
-
-**Examiner trap:** Ninth Amendment and 100th Amendment concern different India-Pakistan/Bangladesh territorial settlements.
 
 ### Q13. Which sequence is correct for the linguistic-reorganisation debate?
 
@@ -212,30 +104,12 @@ B. JVP Committee -> Dhar Commission -> Fazl Ali / SRC -> Andhra State -> Seventh
 C. Andhra State -> Dhar Commission -> JVP Committee -> Fazl Ali / SRC -> States Reorganisation Act
 D. Fazl Ali / SRC -> Dhar Commission -> JVP Committee -> Andhra State -> States Reorganisation Act
 
-**Answer: A.**
-
-- **A:** Correct: Dhar preceded JVP; Andhra came in 1953; the SRC followed; the 1956 Act implemented the settlement.
-- **B:** This wrongly places JVP before Dhar and the SRC before Andhra.
-- **C:** Andhra cannot precede the 1948 Dhar and 1949 JVP stages.
-- **D:** The Fazl Ali Commission was the later response, not the opening event.
-
-**Examiner trap:** Chronology is the elimination tool: Dhar → JVP → Andhra → Fazl Ali/SRC → 1956.
-
 ### Q14. What was the decisive political trigger for the creation of Andhra State in 1953?
 
 A. A Presidential reference under Article 143
 B. The prolonged fast and death of Potti Sriramulu
 C. The demand of the JVP Committee
 D. The Ninth Amendment Act
-
-**Answer: B.**
-
-- **A:** No Article 143 reference caused Andhra State's creation.
-- **B:** Correct: Potti Sriramulu's fast and death generated the decisive political pressure for Andhra in 1953.
-- **C:** The JVP Committee had resisted immediate linguistic reorganisation rather than demanded Andhra.
-- **D:** The Ninth Amendment concerned foreign territorial cession, not Andhra.
-
-**Examiner trap:** The political catalyst and the later legal instrument are related but not identical.
 
 ### Q15. The States Reorganisation Act, 1956 together with the Seventh Amendment created
 
@@ -244,30 +118,12 @@ B. 28 States and 8 Union Territories
 C. 14 States and 6 Union Territories
 D. 15 States and 5 Union Territories
 
-**Answer: C.**
-
-- **A:** The enacted 1956 settlement did not produce 16 States and 3 UTs.
-- **B:** The familiar constitutional count is not 15 and 7.
-- **C:** Correct: the States Reorganisation Act and Seventh Amendment produced 14 States and 6 Union Territories on 1 November 1956.
-- **D:** The Part A-B-C-D categories were abolished rather than retained with 27 States.
-
-**Examiner trap:** The exact 1956 output is a favourite count trap: 14 States and 6 UTs.
-
 ### Q16. Which one of the following pairs is correctly matched?
 
 A. Nagaland - Statehood through the Ninth Amendment
 B. Goa - Statehood through the 100th Amendment
 C. Telangana - created by the Seventh Amendment
 D. Sikkim - full Statehood through the 36th Amendment after the brief associate-State experiment
-
-**Answer: D.**
-
-- **A:** Nagaland became a State in 1963 through the State of Nagaland Act, accompanied by the Thirteenth Amendment; the Ninth Amendment concerned territorial cession.
-- **B:** Goa attained Statehood in 1987; the 100th Amendment dealt with the India-Bangladesh land-boundary settlement.
-- **C:** Telangana was created under the Andhra Pradesh Reorganisation Act, 2014, not the Seventh Amendment.
-- **D:** Correct: the 36th Amendment made Sikkim a full State in 1975 after its brief associate-State arrangement under the 35th Amendment.
-
-**Examiner trap:** Formation dates and later State-number labels should not be mixed.
 
 ### Q17. The present practical count of Union Territories as of 7 Sep 2026 is
 
@@ -276,30 +132,12 @@ B. 6
 C. 7
 D. 9
 
-**Answer: A.**
-
-- **A:** Correct: after the 26 January 2020 merger of Dadra and Nagar Haveli with Daman and Diu, India has eight Union Territories.
-- **B:** Six was the Union Territory count produced by the 1956 settlement, not the current count.
-- **C:** Seven understates the operative First Schedule list by one.
-- **D:** Nine was the short-lived count after the J&K reorganisation and before the 2020 merger.
-
-**Examiner trap:** Always date the count: 9 UTs briefly existed after 31 October 2019; 8 after 26 January 2020.
-
 ### Q18. Which sequence of Statehood is correct?
 
 A. Arunachal Pradesh 1963; Nagaland 1972; Tripura 1987
 B. Nagaland 1963; Tripura 1972; Arunachal Pradesh 1987
 C. Tripura 1963; Arunachal Pradesh 1972; Nagaland 1987
 D. Nagaland, Tripura and Arunachal Pradesh all in 1972
-
-**Answer: B.**
-
-- **A:** Arunachal Pradesh did not become a State before Tripura.
-- **B:** Correct: Nagaland (1963) preceded Tripura (1972), which preceded Arunachal Pradesh (1987).
-- **C:** Tripura did not precede Nagaland's 1963 Statehood.
-- **D:** This reverses both Nagaland-Tripura and Tripura-Arunachal chronology.
-
-**Examiner trap:** UPSC's 2025 triad turns on 1963, 1972 and 1987.
 
 ### Q19. Which one of the following correctly describes the 1950 map?
 
@@ -308,30 +146,12 @@ B. Delhi was the sole Part D territory
 C. Part A had 9 units, Part B 9, Part C 10, and Andaman and Nicobar Islands alone formed Part D
 D. Hyderabad was a Part A State
 
-**Answer: C.**
-
-- **A:** Part A units were former Governors' Provinces, not all princely unions.
-- **B:** Part B included major former princely units; it was not limited to centrally administered territories.
-- **C:** Correct: the commencement map comprised 9 Part A, 9 Part B, 10 Part C units and the sole Part D territory, Andaman and Nicobar Islands.
-- **D:** Manipur and Tripura were Part C units, not Part D.
-
-**Examiner trap:** Part C and Part D were not synonyms; Andaman and Nicobar Islands alone formed Part D.
-
 ### Q20. Sikkim's constitutional sequence was
 
 A. full Statehood in 1974 followed by associate status in 1975
 B. UT status under the Seventh Amendment followed by Article 3 Statehood
 C. associate status under the 36th Amendment followed by Statehood under the 35th
 D. associate-State status through the 35th Amendment in 1974, followed by full Statehood through the 36th Amendment in 1975
-
-**Answer: D.**
-
-- **A:** Sikkim was not admitted directly as a full State in 1950.
-- **B:** The 35th and 36th Amendments, not the 7th and 9th, control Sikkim's sequence.
-- **C:** There was an associate-State stage before full Statehood.
-- **D:** Correct: the 35th Amendment created associate status in 1974; the 36th Amendment made Sikkim a State in 1975 and removed the temporary arrangement.
-
-**Examiner trap:** Sikkim's short associate-State phase is the close-option hinge.
 
 ### Q21. With reference to the India-Bangladesh Land Boundary Agreement, which is correct?
 
@@ -340,30 +160,12 @@ B. India transferred 51 enclaves and received 111 under the Ninth Amendment alon
 C. The First Schedule did not require amendment
 D. Only West Bengal's territorial entry was affected
 
-**Answer: A.**
-
-- **A:** Correct: the 100th Amendment implemented the LBA framework; India transferred 111 enclaves and received 51.
-- **B:** This reverses the enclave figures and wrongly treats the Ninth Amendment as the complete 2015 route.
-- **C:** The constitutional exchange required changes to First Schedule territorial descriptions.
-- **D:** Assam, West Bengal, Meghalaya and Tripura were involved; the amendment was not confined to West Bengal.
-
-**Examiner trap:** Enclave numbers run in opposite directions: India transferred 111 and received 51.
-
 ### Q22. On the official record located through 7 September 2026, the correct J&K position is
 
 A. Statehood was automatically restored by the 2023 judgment
 B. J&K remains a UT with Legislature; restoration was directed and assured but had not been legally completed
 C. J&K and Ladakh have recombined into a State
 D. Ladakh is a State without Legislature
-
-**Answer: B.**
-
-- **A:** The 2023 judgment urged early restoration but did not itself convert J&K into a State.
-- **B:** Correct: the operative position checked through 7 September 2026 remains J&K as a UT with Legislature, with restoration not yet completed by operative law.
-- **C:** The 2019 creation of two UTs has not been reversed by a recombination law.
-- **D:** Ladakh remains a Union Territory without Legislature, not a State.
-
-**Examiner trap:** Judicial direction or political assurance is not an appointed-day notification.
 
 ### Q23. In the 2023 Article 370 judgment, the Supreme Court
 
@@ -372,30 +174,12 @@ B. restored J&K Statehood with immediate effect
 C. upheld carving out Ladakh, treated State views as recommendatory, but did not finally decide the broader whole-State-to-UT issue because of the restoration assurance
 D. held Article 3 inapplicable to Union Territories
 
-**Answer: C.**
-
-- **A:** The Court did not hold all State-to-UT conversion categorically unconstitutional.
-- **B:** It did not restore J&K Statehood by judicial decree on judgment day.
-- **C:** Correct: it upheld Ladakh's carving under Article 3 and left the broader whole-State conversion issue unresolved in light of the restoration assurance.
-- **D:** It did not convert State-legislature views into a binding veto.
-
-**Examiner trap:** The 2023 judgment's narrow Ladakh holding must not be expanded into a universal conversion rule.
-
 ### Q24. Which criterion set is most defensible for evaluating a smaller-State demand?
 
 A. Population and language alone
 B. Political mobilisation alone
 C. Consent of the parent State alone
 D. Administrative access, fiscal viability, transition costs, resource division, minority safeguards, democratic support and inter-State effects
-
-**Answer: D.**
-
-- **A:** Identity alone cannot test fiscal or institutional viability.
-- **B:** Population and area alone omit administration, resources, minorities and transition.
-- **C:** Party advantage is constitutionally and analytically inadequate.
-- **D:** Correct: democratic support, access, fiscal capacity, assets, minorities, security and alternatives form a defensible decision matrix.
-
-**Examiner trap:** A Statehood demand needs both democratic legitimacy and a workable institutional transition.
 
 ### Q25. Which one of the following is correctly matched?
 
@@ -404,30 +188,12 @@ B. Mysore -> Tamil Nadu, 1973
 C. Orissa -> Odisha, 2000
 D. Pondicherry -> Lakshadweep, 2006
 
-**Answer: A.**
-
-- **A:** Correct: United Provinces was renamed Uttar Pradesh in 1950.
-- **B:** Madras became Tamil Nadu in 1969, not 1973.
-- **C:** Mysore became Karnataka in 1973, not 1969.
-- **D:** Orissa became Odisha in 2011, not 2006.
-
-**Examiner trap:** Renaming years are designed for swaps: Tamil Nadu 1969, Karnataka 1973, Odisha 2011.
-
 ### Q26. The enacted result of the 1956 settlement was
 
 A. 16 States and 3 UTs
 B. 14 States and 6 UTs
 C. 28 States and 8 UTs
 D. 9 Part A and 9 Part B States
-
-**Answer: B.**
-
-- **A:** Sixteen States and three UTs is not the enacted 1956 count.
-- **B:** Correct: the 1956 Act and Seventh Amendment produced 14 States and 6 Union Territories and ended the Part A-B-C-D structure.
-- **C:** Twenty-eight States and eight UTs is the current post-2020 count, not the 1956 settlement.
-- **D:** Nine Part A and nine Part B units describe part of the 1950 transitional classification.
-
-**Examiner trap:** Do not confuse the Commission's recommendations with the enacted 1956 map.
 
 ### Q27. Which statement is correct about Ladakh's current demand?
 
@@ -436,30 +202,12 @@ B. Sixth Schedule status automatically followed the 2025 regulations
 C. Official PIB releases recorded Statehood/Sixth-Schedule demands and continuing safeguard dialogue, but no territorial-status change
 D. Ladakh became a State through the 100th Amendment
 
-**Answer: C.**
-
-- **A:** A political demand does not itself amend the First Schedule.
-- **B:** The 2023 judgment did not create Ladakh Statehood.
-- **C:** Correct: Statehood or constitutional-protection demands remain political claims unless translated into operative constitutional or statutory change.
-- **D:** The Article 3 proviso does not give a UT legislature a constitutional veto.
-
-**Examiner trap:** Demand, negotiation, Bill, enactment and commencement are five different legal statuses.
-
 ### Q28. Which statement best explains why Article 3 is often cited as proof of India's strong-Centre bias?
 
 A. States cannot legislate on the Concurrent List
 B. every State law needs Presidential approval
 C. Rajya Sabha seats are equal across States
 D. Parliament may reorganise States without needing their consent
-
-**Answer: D.**
-
-- **A:** Article 3 does not abolish the constitutional distribution of powers.
-- **B:** The President cannot reorganise States by personal decree; Parliament must enact the law.
-- **C:** A State legislature is consulted, but it cannot block the measure.
-- **D:** Correct: Parliament may alter a State's area, boundary or name without its consent, showing pronounced central power over the internal map.
-
-**Examiner trap:** Strong-Centre bias here means control of territorial identity, not absence of federalism.
 
 ### Q29. Article 4 expressly enables a law under Articles 2 or 3 to amend which Schedules as necessary?
 
@@ -468,30 +216,12 @@ B. The Fifth and Sixth Schedules
 C. The Seventh and Eighth Schedules
 D. The Ninth and Tenth Schedules
 
-**Answer: A.**
-
-- **A:** Correct: Article 4 expressly permits consequential amendment of the First and Fourth Schedules.
-- **B:** The Fifth and Sixth Schedules concern scheduled and tribal-area governance.
-- **C:** The Seventh distributes legislative subjects and the Eighth lists recognised languages.
-- **D:** The Ninth and Tenth Schedules concern protected laws and anti-defection, not Article 4's express pair.
-
-**Examiner trap:** Article 4's express schedule pair is First + Fourth.
-
 ### Q30. Parliament materially amends an Article 3 Bill after the affected State legislature has sent its views. Which statement is correct?
 
 A. The Bill automatically lapses
 B. A fresh State-legislature reference is not constitutionally required for every amendment
 C. The State legislature acquires a veto over the amended clauses
 D. The Supreme Court must approve the amended Bill before passage
-
-**Answer: B.**
-
-- **A:** Parliamentary alteration after consultation does not automatically lapse the Bill.
-- **B:** Correct: the Constitution does not require a fresh State-legislature reference for every parliamentary amendment.
-- **C:** The affected State never acquires a veto over the original or amended proposal.
-- **D:** Pre-enactment Supreme Court approval is not an Article 3 procedural condition.
-
-**Examiner trap:** The State comments on the referred proposal; it does not co-draft every parliamentary amendment.
 
 ### Q31. Historical polity texts list conquest among modes of territorial acquisition. A current answer should add that
 
@@ -500,7 +230,342 @@ B. the President may validate acquisition by ordinance
 C. contemporary international law and the UN Charter sharply constrain acquisition by force
 D. acquired territory must immediately become a full State
 
-**Answer: C.**
+### Q32. *State of West Bengal v. Union of India* is relevant to this topic chiefly because it
+
+A. created Andhra State
+B. authorised foreign cession under Article 3
+C. made State consent compulsory
+D. supports the strong-Centre proposition that Indian States are not classical compact-sovereigns
+
+### Q33. A river boundary between two existing States is revised, without changing India’s external border. Which route applies?
+
+A. Article 3 law with Article 4 schedule effects
+B. Article 368 amendment and State ratification
+C. Executive treaty alone
+D. Article 2 admission and referendum
+
+### Q34. A proposal changes only the name of an existing State. Which procedure applies?
+
+A. A Union gazette notification alone
+B. An Article 3 Bill recommended by the President after State views
+C. A binding State assembly resolution
+D. An Article 368 amendment ratified by States
+
+### Q35. When only a Union Territory is affected by an Article 3 formation, which proposition is safest?
+
+A. Its administrator vetoes the Bill
+B. Its legislature must ratify the Bill
+C. The State-legislature reference proviso is not triggered merely by UT involvement
+D. Article 4 bars First Schedule updates
+
+### Q36. Which comparison correctly distinguishes the 1956 internal reorganisation from the 2015 land-boundary settlement?
+
+A. Both were ordinary Article 3 laws
+B. Both required Article 368 merely because schedules changed
+C. The former was executive, the latter judicial
+D. The former used Articles 3–4; external cession required constitutional amendment
+
+### Q37. What was the States Reorganisation Commission’s approach to language?
+
+A. Language mattered alongside unity, viability and welfare
+B. Language alone compelled one State per language
+C. Language had no relevance at all
+D. Plebiscites replaced Parliament’s Article 3 power
+
+### Q38. A new State is formed from areas of two States. Whose legislative views must the President seek?
+
+A. Only the larger contributing State
+B. Both affected State legislatures
+C. Neither if the States agree
+D. Only the new State’s provisional legislature
+
+### Q39. Which sequence explains Sikkim becoming a full State?
+
+A. The 1956 Part B classification
+B. An automatic UT conversion under Article 3
+C. Associate-state stage under the Thirty-fifth Amendment, then full Statehood under the Thirty-sixth
+D. A mere executive change to the First Schedule
+
+### Q40. Did the 2023 Article 370 judgment finally uphold converting any whole State into a UT?
+
+A. Yes, it approved every such conversion
+B. Yes, it made Article 3 nonjusticiable
+C. No, it invalidated Ladakh’s UT status
+D. No; it upheld Ladakh but did not finally decide the general whole-State-to-UT question
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### 1 — **Correct: A.**
+
+- **A:** Correct: Article 1(1) joins the constitutional name 'India, that is Bharat' to the description 'Union of States'.
+- **B:** Capitals and official languages are supplied through other constitutional or statutory arrangements, not Article 1(1).
+- **C:** Citizenship begins in Part II, while national-symbol status is not the paired subject of Article 1.
+- **D:** Emergency and amendment powers belong principally to Parts XVIII and XX, not the opening territorial clause.
+
+**Examiner trap:** Article 1 tests two linked ideas—name and polity—not a miscellaneous pair of national facts.
+
+### 2 — **Correct: B.**
+
+- **A:** Parliament is an institution; the expression 'Union of India' here identifies the State-members of the federation, not Parliament alone.
+- **B:** Correct: the territory of India adds Union Territories and acquired territories to the territories of the States.
+- **C:** The distinction concerns federal membership and territorial reach, not a division between executive and judiciary.
+- **D:** Article 1(3)'s three-part enumeration prevents the two expressions from being exact synonyms.
+
+**Examiner trap:** Membership of the federation and reach of Indian sovereignty are overlapping but unequal sets.
+
+### 3 — **Correct: C.**
+
+- **A:** Renaming an existing State is expressly an Article 3(e) operation.
+- **B:** Legislative councils are governed by Article 169, not the admission power.
+- **C:** Correct: Article 2 addresses admission into the Union or establishment of new States, conventionally contrasted with Article 3's internal reorganisation.
+- **D:** Foreign cession is controlled by Article 368 after *Berubari*, not by Article 2.
+
+**Examiner trap:** Use the Constitution's verbs before relying on the convenient 'outside/inside' mnemonic.
+
+### 4 — **Correct: D.**
+
+- **A:** Increasing State area is expressly listed in Article 3(b).
+- **B:** Changing a State's name is expressly authorised by Article 3(e).
+- **C:** Altering State boundaries falls within Article 3(d).
+- **D:** Correct: surrender of accepted Indian territory abroad is cession and lies outside Article 3.
+
+**Examiner trap:** A power to diminish State area is not a power to diminish Indian sovereignty abroad.
+
+### 5 — **Correct: A.**
+
+- **A:** Correct: presidential recommendation is a condition before introduction of an Article 3 Bill.
+- **B:** Half-State ratification belongs to specified Article 368 amendments, not territorial reorganisation under Article 3.
+- **C:** A joint sitting is neither an introduction condition nor the ordinary mechanism for such a Bill.
+- **D:** Article 143 advisory jurisdiction does not replace the President's Article 3 recommendation.
+
+**Examiner trap:** Do not import Article 368 ratification or Article 143 review into Article 3's introduction stage.
+
+### 6 — **Correct: B.**
+
+- **A:** The State legislature has no suspensive veto under the proviso.
+- **B:** Correct: it may communicate views, but Parliament may accept, reject or depart from them.
+- **C:** Neither State consent nor Supreme Court permission is constitutionally required.
+- **D:** Final law-making authority remains with Parliament; the affected legislature is consultative.
+
+**Examiner trap:** Reference creates a hearing, not a veto; 'consulted' is not 'consenting'.
+
+### 7 — **Correct: C.**
+
+- **A:** Explanation I does not make Union Territories States for every constitutional purpose.
+- **B:** Rajya Sabha representation is governed separately, including by the Fourth Schedule.
+- **C:** Correct: inclusion applies to clauses (a)-(e), while the proviso's legislature-reference excludes a Union Territory.
+- **D:** Nothing in Explanation I creates an ordinance power to abolish States.
+
+**Examiner trap:** Explanation I changes meaning between the substantive clauses and the proviso.
+
+### 8 — **Correct: D.**
+
+- **A:** Judicial approval is not what removes these laws from Article 368.
+- **B:** Article 4 laws do not lapse after five years.
+- **C:** Territorial reorganisation Bills are not converted into Money Bills.
+- **D:** Correct: Article 4(2) expressly says they are not deemed constitutional amendments for Article 368.
+
+**Examiner trap:** Ordinary voting threshold does not make territorial legislation constitutionally trivial.
+
+### 9 — **Correct: A.**
+
+- **A:** Correct: the First Schedule identifies States and Union Territories and describes their territories.
+- **B:** The amendment procedure is contained in Article 368.
+- **C:** Constituency allocation and delimitation are not the First Schedule's central function.
+- **D:** Official languages are principally addressed in Part XVII and the Eighth Schedule.
+
+**Examiner trap:** First Schedule is territorial; Fourth Schedule is Rajya Sabha; Seventh Schedule distributes subjects.
+
+### 10 — **Correct: B.**
+
+- **A:** *Berubari* did not create a State-consent requirement for internal boundary changes.
+- **B:** Correct: ceding territory India accepts as its own requires constitutional amendment under Article 368.
+- **C:** The Court did not hold that cession was constitutionally impossible; it identified the valid route.
+- **D:** State renaming remains possible by Article 3(e) read with Article 4.
+
+**Examiner trap:** *Berubari* prescribes the route for cession; it does not constitutionally freeze every border.
+
+### 11 — **Correct: C.**
+
+- **A:** Article 143 reference is not compulsory for every boundary agreement.
+- **B:** The case was not a ruling on Union acquisition of State property.
+- **C:** Correct: genuine ascertainment or implementation of a disputed boundary may proceed without Article 368 because no accepted Indian territory is ceded.
+- **D:** The judgment did not invalidate Articles 3 or 4.
+
+**Examiner trap:** Ask whether title is surrendered or an uncertain line is merely identified.
+
+### 12 — **Correct: D.**
+
+- **A:** The Ninth Amendment supplied the route for the earlier India-Pakistan Berubari arrangement, not the 2015 enclave exchange.
+- **B:** The Seventh Amendment accompanied the 1956 internal reorganisation.
+- **C:** The Thirty-Sixth Amendment made Sikkim a full State in 1975.
+- **D:** Correct: the 100th Amendment implemented the India-Bangladesh Land Boundary Agreement framework and changed relevant First Schedule entries.
+
+**Examiner trap:** Ninth Amendment and 100th Amendment concern different India-Pakistan/Bangladesh territorial settlements.
+
+### 13 — **Correct: A.**
+
+- **A:** Correct: Dhar preceded JVP; Andhra came in 1953; the SRC followed; the 1956 Act implemented the settlement.
+- **B:** This wrongly places JVP before Dhar and the SRC before Andhra.
+- **C:** Andhra cannot precede the 1948 Dhar and 1949 JVP stages.
+- **D:** The Fazl Ali Commission was the later response, not the opening event.
+
+**Examiner trap:** Chronology is the elimination tool: Dhar → JVP → Andhra → Fazl Ali/SRC → 1956.
+
+### 14 — **Correct: B.**
+
+- **A:** No Article 143 reference caused Andhra State's creation.
+- **B:** Correct: Potti Sriramulu's fast and death generated the decisive political pressure for Andhra in 1953.
+- **C:** The JVP Committee had resisted immediate linguistic reorganisation rather than demanded Andhra.
+- **D:** The Ninth Amendment concerned foreign territorial cession, not Andhra.
+
+**Examiner trap:** The political catalyst and the later legal instrument are related but not identical.
+
+### 15 — **Correct: C.**
+
+- **A:** The enacted 1956 settlement did not produce 16 States and 3 UTs.
+- **B:** The familiar constitutional count is not 15 and 7.
+- **C:** Correct: the States Reorganisation Act and Seventh Amendment produced 14 States and 6 Union Territories on 1 November 1956.
+- **D:** The Part A-B-C-D categories were abolished rather than retained with 27 States.
+
+**Examiner trap:** The exact 1956 output is a favourite count trap: 14 States and 6 UTs.
+
+### 16 — **Correct: D.**
+
+- **A:** Nagaland became a State in 1963 through the State of Nagaland Act, accompanied by the Thirteenth Amendment; the Ninth Amendment concerned territorial cession.
+- **B:** Goa attained Statehood in 1987; the 100th Amendment dealt with the India-Bangladesh land-boundary settlement.
+- **C:** Telangana was created under the Andhra Pradesh Reorganisation Act, 2014, not the Seventh Amendment.
+- **D:** Correct: the 36th Amendment made Sikkim a full State in 1975 after its brief associate-State arrangement under the 35th Amendment.
+
+**Examiner trap:** Formation dates and later State-number labels should not be mixed.
+
+### 17 — **Correct: A.**
+
+- **A:** Correct: after the 26 January 2020 merger of Dadra and Nagar Haveli with Daman and Diu, India has eight Union Territories.
+- **B:** Six was the Union Territory count produced by the 1956 settlement, not the current count.
+- **C:** Seven understates the operative First Schedule list by one.
+- **D:** Nine was the short-lived count after the J&K reorganisation and before the 2020 merger.
+
+**Examiner trap:** Always date the count: 9 UTs briefly existed after 31 October 2019; 8 after 26 January 2020.
+
+### 18 — **Correct: B.**
+
+- **A:** Arunachal Pradesh did not become a State before Tripura.
+- **B:** Correct: Nagaland (1963) preceded Tripura (1972), which preceded Arunachal Pradesh (1987).
+- **C:** Tripura did not precede Nagaland's 1963 Statehood.
+- **D:** This reverses both Nagaland-Tripura and Tripura-Arunachal chronology.
+
+**Examiner trap:** UPSC's 2025 triad turns on 1963, 1972 and 1987.
+
+### 19 — **Correct: C.**
+
+- **A:** Part A units were former Governors' Provinces, not all princely unions.
+- **B:** Part B included major former princely units; it was not limited to centrally administered territories.
+- **C:** Correct: the commencement map comprised 9 Part A, 9 Part B, 10 Part C units and the sole Part D territory, Andaman and Nicobar Islands.
+- **D:** Manipur and Tripura were Part C units, not Part D.
+
+**Examiner trap:** Part C and Part D were not synonyms; Andaman and Nicobar Islands alone formed Part D.
+
+### 20 — **Correct: D.**
+
+- **A:** Sikkim was not admitted directly as a full State in 1950.
+- **B:** The 35th and 36th Amendments, not the 7th and 9th, control Sikkim's sequence.
+- **C:** There was an associate-State stage before full Statehood.
+- **D:** Correct: the 35th Amendment created associate status in 1974; the 36th Amendment made Sikkim a State in 1975 and removed the temporary arrangement.
+
+**Examiner trap:** Sikkim's short associate-State phase is the close-option hinge.
+
+### 21 — **Correct: A.**
+
+- **A:** Correct: the 100th Amendment implemented the LBA framework; India transferred 111 enclaves and received 51.
+- **B:** This reverses the enclave figures and wrongly treats the Ninth Amendment as the complete 2015 route.
+- **C:** The constitutional exchange required changes to First Schedule territorial descriptions.
+- **D:** Assam, West Bengal, Meghalaya and Tripura were involved; the amendment was not confined to West Bengal.
+
+**Examiner trap:** Enclave numbers run in opposite directions: India transferred 111 and received 51.
+
+### 22 — **Correct: B.**
+
+- **A:** The 2023 judgment urged early restoration but did not itself convert J&K into a State.
+- **B:** Correct: the operative position checked through 7 September 2026 remains J&K as a UT with Legislature, with restoration not yet completed by operative law.
+- **C:** The 2019 creation of two UTs has not been reversed by a recombination law.
+- **D:** Ladakh remains a Union Territory without Legislature, not a State.
+
+**Examiner trap:** Judicial direction or political assurance is not an appointed-day notification.
+
+### 23 — **Correct: C.**
+
+- **A:** The Court did not hold all State-to-UT conversion categorically unconstitutional.
+- **B:** It did not restore J&K Statehood by judicial decree on judgment day.
+- **C:** Correct: it upheld Ladakh's carving under Article 3 and left the broader whole-State conversion issue unresolved in light of the restoration assurance.
+- **D:** It did not convert State-legislature views into a binding veto.
+
+**Examiner trap:** The 2023 judgment's narrow Ladakh holding must not be expanded into a universal conversion rule.
+
+### 24 — **Correct: D.**
+
+- **A:** Identity alone cannot test fiscal or institutional viability.
+- **B:** Population and area alone omit administration, resources, minorities and transition.
+- **C:** Party advantage is constitutionally and analytically inadequate.
+- **D:** Correct: democratic support, access, fiscal capacity, assets, minorities, security and alternatives form a defensible decision matrix.
+
+**Examiner trap:** A Statehood demand needs both democratic legitimacy and a workable institutional transition.
+
+### 25 — **Correct: A.**
+
+- **A:** Correct: United Provinces was renamed Uttar Pradesh in 1950.
+- **B:** Madras became Tamil Nadu in 1969, not 1973.
+- **C:** Mysore became Karnataka in 1973, not 1969.
+- **D:** Orissa became Odisha in 2011, not 2006.
+
+**Examiner trap:** Renaming years are designed for swaps: Tamil Nadu 1969, Karnataka 1973, Odisha 2011.
+
+### 26 — **Correct: B.**
+
+- **A:** Sixteen States and three UTs is not the enacted 1956 count.
+- **B:** Correct: the 1956 Act and Seventh Amendment produced 14 States and 6 Union Territories and ended the Part A-B-C-D structure.
+- **C:** Twenty-eight States and eight UTs is the current post-2020 count, not the 1956 settlement.
+- **D:** Nine Part A and nine Part B units describe part of the 1950 transitional classification.
+
+**Examiner trap:** Do not confuse the Commission's recommendations with the enacted 1956 map.
+
+### 27 — **Correct: C.**
+
+- **A:** A political demand does not itself amend the First Schedule.
+- **B:** The 2023 judgment did not create Ladakh Statehood.
+- **C:** Correct: Statehood or constitutional-protection demands remain political claims unless translated into operative constitutional or statutory change.
+- **D:** The Article 3 proviso does not give a UT legislature a constitutional veto.
+
+**Examiner trap:** Demand, negotiation, Bill, enactment and commencement are five different legal statuses.
+
+### 28 — **Correct: D.**
+
+- **A:** Article 3 does not abolish the constitutional distribution of powers.
+- **B:** The President cannot reorganise States by personal decree; Parliament must enact the law.
+- **C:** A State legislature is consulted, but it cannot block the measure.
+- **D:** Correct: Parliament may alter a State's area, boundary or name without its consent, showing pronounced central power over the internal map.
+
+**Examiner trap:** Strong-Centre bias here means control of territorial identity, not absence of federalism.
+
+### 29 — **Correct: A.**
+
+- **A:** Correct: Article 4 expressly permits consequential amendment of the First and Fourth Schedules.
+- **B:** The Fifth and Sixth Schedules concern scheduled and tribal-area governance.
+- **C:** The Seventh distributes legislative subjects and the Eighth lists recognised languages.
+- **D:** The Ninth and Tenth Schedules concern protected laws and anti-defection, not Article 4's express pair.
+
+**Examiner trap:** Article 4's express schedule pair is First + Fourth.
+
+### 30 — **Correct: B.**
+
+- **A:** Parliamentary alteration after consultation does not automatically lapse the Bill.
+- **B:** Correct: the Constitution does not require a fresh State-legislature reference for every parliamentary amendment.
+- **C:** The affected State never acquires a veto over the original or amended proposal.
+- **D:** Pre-enactment Supreme Court approval is not an Article 3 procedural condition.
+
+**Examiner trap:** The State comments on the referred proposal; it does not co-draft every parliamentary amendment.
+
+### 31 — **Correct: C.**
 
 - **A:** Article 3 cannot legalise forcible external acquisition, and modern international law rejects conquest as an unrestricted title.
 - **B:** A presidential ordinance cannot cure an unlawful use of force or settle sovereign title by itself.
@@ -509,14 +574,7 @@ D. acquired territory must immediately become a full State
 
 **Examiner trap:** Historical modes of acquisition must be filtered through contemporary international law.
 
-### Q32. *State of West Bengal v. Union of India* is relevant to this topic chiefly because it
-
-A. created Andhra State
-B. authorised foreign cession under Article 3
-C. made State consent compulsory
-D. supports the strong-Centre proposition that Indian States are not classical compact-sovereigns
-
-**Answer: D.**
+### 32 — **Correct: D.**
 
 - **A:** The case did not require State consent for Article 3 reorganisation.
 - **B:** It was not the controlling foreign-cession ruling; *Berubari* fills that role.
@@ -524,6 +582,78 @@ D. supports the strong-Centre proposition that Indian States are not classical c
 - **D:** Correct: it denied classical coordinate sovereignty to States and supports the strong-Union background of territorial federalism.
 
 **Examiner trap:** Use *West Bengal v Union* for State sovereignty status, not as a substitute for Article 3 or *Berubari*.
+
+### 33 — **Correct: A.**
+
+- **A:** Internal State-boundary change belongs to Article 3; Article 4 permits schedule updates.
+- **B:** Article 368 ratification is not required for ordinary internal reorganisation.
+- **C:** An executive treaty alone cannot reorganise States.
+- **D:** Article 2 concerns admission or establishment, not this internal change.
+
+**Examiner trap:** Internal boundary change is not foreign cession.
+
+### 34 — **Correct: B.**
+
+- **A:** A gazette notification cannot replace parliamentary legislation.
+- **B:** Article 3(e) covers name changes; the President refers the Bill for views, not binding consent.
+- **C:** State assembly approval is not a constitutional veto.
+- **D:** Article 4 keeps Article 3 laws outside Article 368.
+
+**Examiner trap:** A symbolic name change still uses Article 3.
+
+### 35 — **Correct: C.**
+
+- **A:** UT administrators have no constitutional veto.
+- **B:** The State-legislature proviso does not confer UT ratification.
+- **C:** The State reference requirement protects affected States, not every UT.
+- **D:** Article 4 expressly permits consequential First Schedule changes.
+
+**Examiner trap:** Do not silently equate a UT legislature with a State legislature.
+
+### 36 — **Correct: D.**
+
+- **A:** Foreign cession cannot be accomplished under Article 3 alone.
+- **B:** Schedule changes alone do not determine the constitutional route.
+- **C:** Neither settlement was a substitute for legislation.
+- **D:** Articles 3–4 cover internal rearrangement; the 100th Amendment enabled the Bangladesh land-boundary exchange.
+
+**Examiner trap:** Ask whether accepted sovereign territory was transferred abroad.
+
+### 37 — **Correct: A.**
+
+- **A:** The Fazl Ali Commission balanced language with security, economic-administrative viability and welfare.
+- **B:** The Commission rejected one-language–one-State.
+- **C:** Unlike the earlier Dhar Commission, it recognised language as relevant.
+- **D:** The Commission did not displace Article 3.
+
+**Examiner trap:** Language is a factor, not a sufficient test.
+
+### 38 — **Correct: B.**
+
+- **A:** Contribution size does not waive the smaller affected State’s reference right.
+- **B:** Every State whose area or boundary is affected must receive the Bill for views within the stipulated period.
+- **C:** Even consensus does not remove the Article 3 procedural requirement.
+- **D:** A future State legislature cannot replace existing affected legislatures.
+
+**Examiner trap:** Views do not amount to ratification.
+
+### 39 — **Correct: C.**
+
+- **A:** Sikkim did not become a Part B State in 1956.
+- **B:** It did not enter by automatic conversion of a UT.
+- **C:** The two amendments marked distinct constitutional stages of integration.
+- **D:** Executive editing cannot itself effect Statehood.
+
+**Examiner trap:** External accession is not an internal 1956 carve-out.
+
+### 40 — **Correct: D.**
+
+- **A:** The Court did not issue unlimited approval for all State-to-UT conversions.
+- **B:** Article 3 was not declared immune from all review.
+- **C:** Ladakh’s UT creation was upheld.
+- **D:** The wider whole-State-to-UT issue was left open in light of the Statehood assurance.
+
+**Examiner trap:** Do not turn an expressly reserved issue into a holding.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -562,10 +692,9 @@ How many of the above pairs are correctly matched?
 - **Pair III:** Tripura was a Part C unit, became a Union Territory in the 1956 arrangement and attained
   full Statehood in 1972.
 
-> Why this earns marks: it follows the official key, tests every pair independently, and explains why
+> Why this earns marks: it follows the official key, tests every pair independently, and explains why an ordinary Statehood Act and an accompanying constitutional amendment are not mutually exclusive.
 
 **How to improve this answer:** Reproduce the three-pair logic, distinguish Nagaland’s Statehood Act from the accompanying Thirteenth Amendment, and explicitly anchor the result to the official UPSC key.
-> an ordinary Statehood Act and an accompanying constitutional amendment are not mutually exclusive.
 
 ### PYQ 2. Mains 2018, GS Paper I, Question 12 — owner-verified exact text
 
@@ -596,10 +725,9 @@ improves access and is supported by viable finances, accountable institutions an
 transition. New States can be economically beneficial, but Article 3 is a constitutional instrument,
 not a self-executing development policy.
 
-> Why this earns marks: the answer follows the economic directive, uses four named State examples,
+> Why this earns marks: the answer follows the economic directive, uses four named State examples links each example to a mechanism, presents transition costs and ends with a conditional verdict.
 
 **How to improve this answer:** Use the exact economic demand, organise gains and costs under capacity, fiscal viability and transition, and add a measurable indicator rather than assuming smallness proves benefit.
-> links each example to a mechanism, presents transition costs and ends with a conditional verdict.
 
 ### PYQ 3. Mains 2022, GS Paper I, Question 11 — owner-verified exact text
 
@@ -632,10 +760,9 @@ The continuity lies in the recurring search for congruence between identity, adm
 and national unity. Article 3 constitutionalised that adaptability, though democratic legitimacy
 still depends on consultation and fair transition.
 
-> Why this earns marks: it respects the mid-nineteenth-century time span, uses chronology as analysis,
+> Why this earns marks: it respects the mid-nineteenth-century time span, uses chronology as analysis names examples across every phase and closes by identifying the continuing constitutional mechanism.
 
 **How to improve this answer:** Open with a mid-nineteenth/colonial boundary example, then structure colonial, integration, linguistic and post-1956 phases so continuity is demonstrated across the full period.
-> names examples across every phase and closes by identifying the continuing constitutional mechanism.
 
 ### Six original Mains questions with complete model solutions
 
@@ -647,19 +774,25 @@ still depends on consultation and fair transition.
 
 ### Original Mains model 2 — 10 marks: Distinguish cession of Indian territory from settlement of a boundary dispute.
 
-**Model answer.** [CLAIM] The Constitution treats cession and boundary settlement differently because only the former parts with accepted sovereign territory. [EVIDENCE] *Berubari Union (1960)* held that ceding accepted Indian territory to a foreign State cannot be done under Article 3 and requires constitutional amendment under Article 368. [MECHANISM] Cession changes the sovereign content of the Constitution's territorial ledger. By contrast, the Supreme Court's later 1969 ruling held that where the issue is ascertainment or implementation of an existing disputed boundary, and not transfer of accepted Indian territory, executive action need not be preceded by Article 368. [ANALYSIS] The test is not whether another country is involved, but whether India is surrendering what it accepts as its own territory. [LIMIT] A boundary-settlement label cannot disguise actual cession. [VERDICT] Cession changes sovereignty and needs amendment; boundary settlement clarifies or implements an existing line and need not. **Why this earns marks:** it identifies the controlling test, uses the safely verified case/principle and converts the distinction into a usable constitutional rule.
+**Model answer.** [CLAIM] The Constitution treats cession and boundary settlement differently because only the former parts with accepted sovereign territory. [EVIDENCE] *Berubari Union (1960)* held that ceding accepted Indian territory to a foreign State cannot be done under Article 3 and requires constitutional amendment under Article 368. [MECHANISM] Cession changes the sovereign content of the Constitution's territorial ledger. By contrast, the Supreme Court's later 1969 ruling held that where the issue is ascertainment or implementation of an existing disputed boundary, and not transfer of accepted Indian territory, executive action need not be preceded by Article 368. [ANALYSIS] The test is not whether another country is involved, but whether India is surrendering what it accepts as its own territory. [LIMIT] A boundary-settlement label cannot disguise actual cession. The statutory boundary or schedule record should be checked against the treaty description before choosing either procedure.
+
+[VERDICT] Cession changes sovereignty and needs amendment; boundary settlement clarifies or implements an existing line and need not. **Why this earns marks:** it identifies the controlling test, uses the safely verified case/principle and converts the distinction into a usable constitutional rule.
 
 **How to improve this answer:** State the accepted-territory test and sequence Berubari Union (1960), Maganbhai and the 100th Amendment without implying that the Ninth Amendment completed every contemplated transfer.
 
 ### Original Mains model 3 — 15 marks: 'India is an indestructible Union of destructible States.' Examine with special reference to Article 3.
 
-**Model answer.** [CLAIM] The phrase captures the asymmetry built into Indian federalism: the Union's continuity is entrenched, but State boundaries are not. [EVIDENCE] Article 1 names India a Union of States, while Article 3 empowers Parliament to form new States, increase or diminish their area, alter boundaries and alter names. [MECHANISM] An Article 3 bill requires the President's prior recommendation and reference to the affected State legislature for views, but those views are non-binding. Article 4 then keeps the reorganisation law outside Article 368, allowing ordinary-majority change. [ANALYSIS] This makes the Indian federation unlike a compact federation such as the United States, where State consent is structurally stronger. Yet the same flexibility enabled linguistic reorganisation, small-State creation and administrative adaptation without constitutional deadlock. [EVIDENCE] Andhra (1953), the 1956 settlement, and later creations such as Chhattisgarh, Jharkhand and Telangana show the practical utility of this power. [LIMIT] The design can create a democratic-consent deficit when major territorial change proceeds over sharp regional opposition. [VERDICT] India is indestructible because no State can claim a right to continued boundaries or secession; the States are destructible only in the constitutional sense that Parliament may reorganise them, not in the sense of lawless central arbitrariness. **Why this earns marks:** it ties the famous formula to the exact procedural mechanics of Article 3 and balances national flexibility with federal criticism.
+**Model answer.** [CLAIM] The phrase captures the asymmetry built into Indian federalism: the Union's continuity is entrenched, but State boundaries are not. [EVIDENCE] Article 1 names India a Union of States, while Article 3 empowers Parliament to form new States, increase or diminish their area, alter boundaries and alter names. [MECHANISM] An Article 3 bill requires the President's prior recommendation and reference to the affected State legislature for views, but those views are non-binding. Article 4 then keeps the reorganisation law outside Article 368, allowing ordinary-majority change. [ANALYSIS] This makes the Indian federation unlike a compact federation such as the United States, where State consent is structurally stronger. Yet the same flexibility enabled linguistic reorganisation, small-State creation and administrative adaptation without constitutional deadlock. [EVIDENCE] Andhra (1953), the 1956 settlement, and later creations such as Chhattisgarh, Jharkhand and Telangana show the practical utility of this power. [LIMIT] The design can create a democratic-consent deficit when major territorial change proceeds over sharp regional opposition. A proposed merger of two States therefore does not require both legislatures to pass approving resolutions; the President must solicit the views of each affected legislature, within the specified period. This is an important participation safeguard, even though Parliament retains the final decision. The safeguard should be distinguished from the separate parliamentary debate and enactment stage.
+
+[VERDICT] India is indestructible because no State can claim a right to continued boundaries or secession; the States are destructible only in the constitutional sense that Parliament may reorganise them, not in the sense of lawless central arbitrariness. **Why this earns marks:** it ties the famous formula to the exact procedural mechanics of Article 3 and balances national flexibility with federal criticism.
 
 **How to improve this answer:** List the Article 3 operations and UT/proviso nuance precisely, then use only a short qualified comparative-federalism contrast tied to consent.
 
 ### Original Mains model 4 — 15 marks: Demands for smaller States should be decided through governance criteria, not identity alone. Discuss.
 
-**Model answer.** [CLAIM] Identity can establish democratic urgency, but it cannot by itself prove that a new State will govern better. [EVIDENCE] Uttarakhand, Chhattisgarh and Jharkhand were created in 2000 to address distinct regional geographies and developmental claims; Telangana followed in 2014 after sustained regional mobilisation. [ANALYSIS] Smaller units may improve administrative access, policy focus and accountability. [QUALIFICATION] Statehood also creates new capital, cadre and institutional costs; weak revenue bases can deepen grant dependence; water, power, debt and assets can generate inter-State disputes; and a new regional majority may create a new minority. Jharkhand's institutional instability and Andhra-Telangana transition disputes show that Statehood is not a self-executing development policy. [CURRENT EVIDENCE] J&K restoration remains a law-versus-assurance test: the Supreme Court urged early restoration, but the official-source check located no operative restoration law or appointed-day notification through 7 September 2026. [VERDICT] Parliament should use Article 3 after transparent viability studies, broad consultation and negotiated transition, treating Statehood as a governance instrument rather than a reward for mobilisation. **Why this earns marks:** it uses four named examples, connects each claim to a mechanism, includes present debates and supplies operational decision criteria.
+**Model answer.** [CLAIM] Identity can establish democratic urgency, but it cannot by itself prove that a new State will govern better. [EVIDENCE] Uttarakhand, Chhattisgarh and Jharkhand were created in 2000 to address distinct regional geographies and developmental claims; Telangana followed in 2014 after sustained regional mobilisation. [ANALYSIS] Smaller units may improve administrative access, policy focus and accountability. [QUALIFICATION] Statehood also creates new capital, cadre and institutional costs; weak revenue bases can deepen grant dependence; water, power, debt and assets can generate inter-State disputes; and a new regional majority may create a new minority. Jharkhand's institutional instability and Andhra-Telangana transition disputes show that Statehood is not a self-executing development policy. [CURRENT EVIDENCE] J&K restoration remains a law-versus-assurance test: the Supreme Court urged early restoration, but the official-source check located no operative restoration law or appointed-day notification through 7 September 2026. A practical viability assessment should examine the proposed capital and judiciary, population access, district-to-capital travel, own-tax potential, transition of employees and debt, and protection of linguistic and tribal minorities. For a mineral-rich State, Jharkhand illustrates why extraction receipts alone do not establish equitable service delivery. For a mountain State, Uttarakhand shows why geography and disaster costs can defeat a population-only metric. The outcome requires continued review of service access after formation, not only a ceremonial inauguration.
+
+[VERDICT] Parliament should use Article 3 after transparent viability studies, broad consultation and negotiated transition, treating Statehood as a governance instrument rather than a reward for mobilisation. **Why this earns marks:** it uses four named examples, connects each claim to a mechanism, includes present debates and supplies operational decision criteria.
 
 **How to improve this answer:** Turn the criteria into an ex-ante decision matrix and add one ex-post counterexample showing why identity or size alone cannot guarantee capacity.
 

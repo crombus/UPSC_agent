@@ -2,22 +2,306 @@
 
 **Subject:** Polity | **Control date:** 8 September 2026
 
-**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 unique option-specific explanations; 32 unique examiner traps; verified-PYQ wording and official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original four-option questions; nine uninterrupted `ABCD` rotations; separate solved key with four option-specific explanations and a unique trap for each; audited PYQs and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique examiner trap.
+All 36 answer-free question stems precede the separately headed solved key. Correct options rotate A → B → C → D.
 
 ### MCQ 1. Legal status
 
-Which description of NITI Aayog is correct?
+An official proposes treating NITI's policy advice as a statutory order solely because it is issued by a national institution. What legal status must be checked before relying on that advice?
 
 A. An executive, non-constitutional and non-statutory policy institution
 B. A constitutional commission under Article 280
 C. A statutory authority created by the NITI Aayog Act, 2015
 D. A parliamentary committee of both Houses
+### MCQ 2. Institutional replacement
 
-**Answer: A.**
+In a comparison of executive planning bodies, a student substitutes the Finance Commission for the body superseded in 2015. Which predecessor should appear in the comparison?
+
+A. The Finance Commission
+B. The Planning Commission
+C. The National Development Council
+D. The Inter-State Council
+### MCQ 3. No constitutional amendment
+
+If both old and new planning bodies arose by executive resolution, what legal instrument explains the 2015 replacement without inventing a constitutional amendment or an Act?
+
+A. The Constitution inserted a new Part on national planning.
+B. Parliament enacted an ordinary statute abolishing the Planning Commission.
+C. Executive action replaced one executive policy body with another.
+D. The Supreme Court ordered creation of NITI Aayog.
+### MCQ 4. Power boundary
+
+A State asks NITI for a strategic report, performance evaluation, intergovernmental discussion and a binding statute. Which requested output exceeds NITI's own legal competence?
+
+A. Publish a policy strategy
+B. Convene Union-State policy dialogue
+C. Evaluate a programme
+D. Enact a binding law for all States
+### MCQ 5. Chairperson
+
+Who is Chairperson of NITI Aayog?
+
+A. The Prime Minister
+B. The President
+C. The Union Finance Minister
+D. The Vice-Chairperson
+### MCQ 6. Governing Council
+
+A forum claims to represent the States in NITI but seats only Union Ministers. Which membership rule shows why that forum cannot be the Governing Council?
+
+A. Only Union Ministers and NITI members
+B. Chief Ministers of all States and Union Territories with legislatures, and Lieutenant Governors of other Union Territories
+C. All Members of Parliament from the States
+D. Finance Commission members and State Finance Ministers
+### MCQ 7. Regional Council
+
+A NITI Regional Council is best described as
+
+A. a permanent constitutional chamber
+B. a statutory Zonal Council
+C. a specified-tenure forum for a particular issue affecting more than one State or a region
+D. a tribunal deciding inter-State water disputes
+### MCQ 8. Ex-officio category
+
+Four Union ministers nominated by the Prime Minister sit in NITI without becoming its full-time members. To which founding-Resolution membership category does the numerical cap attach?
+
+A. full-time members
+B. Regional Councils
+C. special invitees
+D. ex-officio members from the Union Council of Ministers nominated by the Prime Minister
+### MCQ 9. Part-time members
+
+A research-university leader is invited to join NITI on rotation, but an adviser insists only serving Governors may fill part-time slots. Which founding-design rule decides the issue?
+
+A. Up to two may be drawn on rotation from leading universities, research organisations and other relevant innovative organisations.
+B. They must be serving Governors.
+C. They are elected by the Governing Council.
+D. They are constitutionally guaranteed a six-year term.
+### MCQ 10. Chief Executive Officer
+
+Under the foundational design, the CEO is
+
+A. elected by Chief Ministers
+B. appointed by the Prime Minister for a fixed tenure in the rank of Secretary to the Government of India
+C. appointed by the CAG
+D. a constitutional officer under Article 324
+### MCQ 11. Two hubs
+
+Which pair is correctly associated with NITI's institutional design?
+
+A. Finance Hub and Audit Hub
+B. Legislative Hub and Judicial Hub
+C. Team India Hub and Knowledge and Innovation Hub
+D. Tax Hub and Grants Hub
+### MCQ 12. Bottom-up planning
+
+The official bottom-up aspiration most directly means
+
+A. all national policy must be approved by Gram Sabhas
+B. district rankings become binding on States
+C. Parliament delegates taxation to villages
+D. credible plans should develop from village level and aggregate upward
+### MCQ 13. Planning Commission status
+
+The Planning Commission and NITI share executive origins, but the former could leverage plan-era funds. Which description captures that predecessor's planning and fiscal role rather than merely repeating its legal label?
+
+A. an executive body linking centralised Five-Year planning to plan-era allocation leverage
+B. a constitutional Article 263 council with binding interstate adjudication
+C. a statutory Finance Commission distributing Union taxes under Article 280
+D. a judicial commission enforcing mandatory district-level plans
+### MCQ 14. National Development Council
+
+A memorandum calls the plan-era National Development Council a constitutional tax-sharing body and equates it with today's NITI Governing Council. Which institutional history corrects both errors?
+
+A. It is Article 279A's constitutional council.
+B. It was a separate executive plan-era forum whose approval/coordination role was tied to the old planning architecture.
+C. It is another name for NITI's Governing Council.
+D. It determines the divisible pool under Article 280.
+### MCQ 15. Plan/non-plan distinction
+
+The plan/non-plan expenditure distinction was ended through
+
+A. the 2015 NITI founding Resolution
+B. an Article 280 recommendation automatically amending the Constitution
+C. the Union Budget 2017-18 reform
+D. a judgment converting plan expenditure into capital expenditure
+### MCQ 16. Cooperative federalism
+
+States attend a Governing Council meeting but their objections are neither answered nor supported in implementation. What evidence beyond mere attendance would demonstrate substantive cooperation?
+
+A. Whether NITI can command every State
+B. Whether every meeting ends in unanimity
+C. Whether the Governing Council becomes a second chamber
+D. Whether States receive meaningful voice, reasoned response and implementation support
+### MCQ 17. Competitive federalism
+
+Which tool most directly exemplifies competitive federalism?
+
+A. Comparable indicators and public benchmarking among jurisdictions
+B. A binding NITI decree
+C. CAG certification of every rank
+D. A constitutional tax surcharge imposed by NITI
+### MCQ 18. SDG India Index
+
+A State's SDG ranking falls, and a minister treats the index as a constitutionally binding reduction in its tax devolution. What function does the index actually serve?
+
+A. a Finance Commission award formula
+B. a benchmarking and localisation instrument for State and UT SDG performance
+C. a binding compliance code
+D. a CAG audit report
+### MCQ 19. Aspirational model
+
+Several departments and local partners pool work while comparable districts learn from public results. Which three mechanisms describe that Aspirational Districts design?
+
+A. command, control and compliance
+B. capital, courts and cesses
+C. convergence, collaboration and competition
+D. consultation, codification and conviction
+### MCQ 20. Delta ranking
+
+District X has lower absolute service coverage than Y but improves faster between reporting periods. Why might X obtain the higher delta rank?
+
+A. constitutional powers
+B. absolute population
+C. the total number of schemes
+D. incremental improvement over a period
+### MCQ 21. Aspirational Blocks Programme
+
+A proposal labels the Aspirational Blocks Programme a constitutional tier displacing Panchayats. Which characterisation preserves its actual scale and policy status?
+
+A. A 2023 programme applying a related outcome-oriented approach at block scale
+B. A constitutional amendment creating block governments
+C. A Finance Commission grant category
+D. A replacement for Panchayats
+### MCQ 22. DMEO
+
+DMEO is
+
+A. a department of the CAG
+B. an attached office of NITI Aayog supporting monitoring and evaluation
+C. the GST Council's audit wing
+D. a constitutional tribunal
+### MCQ 23. Atal Innovation Mission
+
+Atal Innovation Mission is best classified as
+
+A. a constitutional commission
+B. a statutory market regulator
+C. an initiative under NITI Aayog supporting innovation and entrepreneurship
+D. a ministry controlling all research expenditure
+### MCQ 24. Finance Commission
+
+In a dispute about the tax-sharing formula, a chief minister asks NITI to make constitutionally specified distribution and grant recommendations. Which institution has that constitutional remit instead?
+
+A. NITI Aayog
+B. Governing Council
+C. National Development Council
+D. Finance Commission under Article 280
+### MCQ 25. Inter-State Council
+
+The Inter-State Council differs from NITI because it is
+
+A. a council contemplated by Article 263 for specified inquiry, discussion and advice functions
+B. NITI's permanent Regional Council
+C. a statutory tax tribunal
+D. the body that audits Union accounts
+### MCQ 26. GST Council
+
+Which body is created by Article 279A?
+
+A. Finance Commission
+B. GST Council
+C. NITI Governing Council
+D. National Development Council
+### MCQ 27. Ministries
+
+After NITI recommends a policy requiring expenditure or rules, the ordinary next step is
+
+A. automatic legal enforcement
+B. implementation by NITI against unwilling States
+C. decision, budgeting and legal/administrative action by the competent government or ministry
+D. certification by the Election Commission
+### MCQ 28. CAG boundary
+
+An evaluation office measures programme outcomes while a separate constitutional institution audits public accounts. Which distinction prevents a DMEO dashboard from being presented as an Article 151 audit?
+
+A. NITI submits constitutional audit reports under Article 151.
+B. DMEO certifies net proceeds under Article 279.
+C. NITI removes the CAG for poor evaluation.
+D. CAG performs constitutionally grounded public audit; NITI/DMEO monitor and evaluate policy performance.
+### MCQ 29. Institutional strength
+
+Which is NITI's most defensible comparative strength?
+
+A. Flexible convening of governments and expertise around cross-sector policy problems
+B. Power to override State legislation
+C. Exclusive authority to approve every public project
+D. Judicial enforcement of development targets
+### MCQ 30. Accountability reform
+
+Which reform best fits NITI's advisory character?
+
+A. Give every recommendation immediate legal force
+B. Publish agenda access, recommendation-response tracking and methods while retaining implementation authority with competent governments
+C. Transfer Article 280 to NITI by executive order
+D. Allow rankings to replace legislative budget scrutiny
+### MCQ 31. Data risk
+
+When an indicator becomes a high-stakes target, the principal governance risk is
+
+A. that constitutional articles disappear
+B. that every data point becomes secret
+C. gaming or tunnel vision may improve the metric without improving the underlying outcome
+D. that NITI gains criminal jurisdiction
+### MCQ 32. Integrated proposition
+
+A proposed reform would let NITI legislate, adjudicate disputes and redistribute constitutionally mandated tax shares because it already convenes States. Which description separates its actual advisory toolkit from these claimed powers?
+
+A. NITI is constitutional and allocates tax devolution.
+B. NITI is statutory and its Governing Council enacts binding plans.
+C. NITI is a CAG-supervised tribunal for State disputes.
+D. NITI is an executive advisory institution that convenes federal dialogue, supports strategy and evaluation, but cannot legislate, adjudicate or constitutionally allocate funds.
+### MCQ 33. Funding and advice in a federal dispute
+
+A State objects to a NITI ranking and asks it to amend the Finance Commission's devolution recommendation. Which response respects both institutions?
+
+A. NITI may publish and correct an index's methods or data, but Article 280 Finance Commission recommendations and the budgetary process are institutionally distinct from its advisory work.
+B. The Governing Council must revise the Finance Commission's formula because it includes Chief Ministers.
+C. A NITI Regional Council may order Parliament to increase a State's tax share.
+D. Every index rank directly determines a State's constitutional grant entitlement.
+### MCQ 34. Intent, output and impact
+
+A district dashboard reports more facility visits after an Aspirational Districts intervention. What is the strongest responsible evaluation claim without further evidence?
+
+A. The extra visits prove that the NITI programme alone reduced mortality.
+B. Visits are a measured service-use signal; independently check data quality, baseline and comparison before attributing durable health outcomes to the programme.
+C. A higher delta rank proves that the district has the highest absolute health level in India.
+D. Programme intent is sufficient proof of implementation even if field data contradict it.
+### MCQ 35. Need-based intergovernmental forum
+
+Several neighbouring States need a temporary policy forum on a common water-management problem. Which NITI instrument fits without confusing it with a constitutional body?
+
+A. An Article 263 Inter-State Council constituted automatically by a NITI Vice-Chairperson.
+B. The Article 280 Finance Commission chaired ex officio by the Prime Minister.
+C. A need-based Regional Council under the 2015 founding resolution, convened for a specific issue and tenure; its advice does not adjudicate inter-State rights.
+D. A statutory Zonal Council with a binding power to allocate river water under NITI's resolution.
+### MCQ 36. Innovation ownership and budget accountability
+
+Atal Innovation Mission is described as an initiative under NITI Aayog. What follows when a ministry adopts a NITI innovation recommendation?
+
+A. NITI's recommendation alone creates statutory spending authority.
+B. NITI acquires the same constitutional audit mandate as the CAG.
+C. State legislatures lose their power to scrutinise implementing budgets.
+D. Institutional hosting and policy advice must be distinguished from the implementing body's lawful budget, decision and accountability chain.
+
+## SEPARATE SOLVED MCQ KEY
+
+### MCQ 1 — Answer A
+
+A.**
 
 **Option-specific explanations:**
 
@@ -28,16 +312,9 @@ D. A parliamentary committee of both Houses
 
 **Examiner trap 1:** The word 'national' does not imply constitutional status.
 
-### MCQ 2. Institutional replacement
+### MCQ 2 — Answer B
 
-NITI Aayog directly replaced which institution?
-
-A. The Finance Commission
-B. The Planning Commission
-C. The National Development Council
-D. The Inter-State Council
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -48,16 +325,9 @@ D. The Inter-State Council
 
 **Examiner trap 2:** Replacement of one executive institution did not abolish every plan-era forum.
 
-### MCQ 3. No constitutional amendment
+### MCQ 3 — Answer C
 
-Which statement best describes the 2015 transition?
-
-A. The Constitution inserted a new Part on national planning.
-B. Parliament enacted an ordinary statute abolishing the Planning Commission.
-C. Executive action replaced one executive policy body with another.
-D. The Supreme Court ordered creation of NITI Aayog.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -68,16 +338,9 @@ D. The Supreme Court ordered creation of NITI Aayog.
 
 **Examiner trap 3:** Separate legal source from political importance.
 
-### MCQ 4. Power boundary
+### MCQ 4 — Answer D
 
-Which action can NITI Aayog NOT perform by its own authority?
-
-A. Publish a policy strategy
-B. Convene Union-State policy dialogue
-C. Evaluate a programme
-D. Enact a binding law for all States
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -88,16 +351,9 @@ D. Enact a binding law for all States
 
 **Examiner trap 4:** A policy recommendation does not become law merely because the Prime Minister chairs NITI.
 
-### MCQ 5. Chairperson
+### MCQ 5 — Answer A
 
-Who is Chairperson of NITI Aayog?
-
-A. The Prime Minister
-B. The President
-C. The Union Finance Minister
-D. The Vice-Chairperson
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -108,16 +364,9 @@ D. The Vice-Chairperson
 
 **Examiner trap 5:** Chairperson and Vice-Chairperson are not interchangeable.
 
-### MCQ 6. Governing Council
+### MCQ 6 — Answer B
 
-Which description correctly identifies the Governing Council?
-
-A. Only Union Ministers and NITI members
-B. Chief Ministers of all States and Union Territories with legislatures, and Lieutenant Governors of other Union Territories
-C. All Members of Parliament from the States
-D. Finance Commission members and State Finance Ministers
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -128,16 +377,9 @@ D. Finance Commission members and State Finance Ministers
 
 **Examiner trap 6:** Use the officially specified CM/LG formula rather than saying vaguely 'all States'.
 
-### MCQ 7. Regional Council
+### MCQ 7 — Answer C
 
-A NITI Regional Council is best described as
-
-A. a permanent constitutional chamber
-B. a statutory Zonal Council
-C. a specified-tenure forum for a particular issue affecting more than one State or a region
-D. a tribunal deciding inter-State water disputes
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -148,16 +390,9 @@ D. a tribunal deciding inter-State water disputes
 
 **Examiner trap 7:** Time-bound NITI Regional Councils and permanent statutory Zonal Councils are different.
 
-### MCQ 8. Ex-officio category
+### MCQ 8 — Answer D
 
-The founding Resolution permits a maximum of four
-
-A. full-time members
-B. Regional Councils
-C. special invitees
-D. ex-officio members from the Union Council of Ministers nominated by the Prime Minister
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -168,16 +403,9 @@ D. ex-officio members from the Union Council of Ministers nominated by the Prime
 
 **Examiner trap 8:** Attach each numerical cap to the correct membership category.
 
-### MCQ 9. Part-time members
+### MCQ 9 — Answer A
 
-Which statement about part-time members is correct?
-
-A. Up to two may be drawn on rotation from leading universities, research organisations and other relevant innovative organisations.
-B. They must be serving Governors.
-C. They are elected by the Governing Council.
-D. They are constitutionally guaranteed a six-year term.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -188,16 +416,9 @@ D. They are constitutionally guaranteed a six-year term.
 
 **Examiner trap 9:** The 'up to two' cap belongs to part-time members, not all experts.
 
-### MCQ 10. Chief Executive Officer
+### MCQ 10 — Answer B
 
-Under the foundational design, the CEO is
-
-A. elected by Chief Ministers
-B. appointed by the Prime Minister for a fixed tenure in the rank of Secretary to the Government of India
-C. appointed by the CAG
-D. a constitutional officer under Article 324
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -208,16 +429,9 @@ D. a constitutional officer under Article 324
 
 **Examiner trap 10:** Fixed tenure in an executive resolution is not constitutional tenure.
 
-### MCQ 11. Two hubs
+### MCQ 11 — Answer C
 
-Which pair is correctly associated with NITI's institutional design?
-
-A. Finance Hub and Audit Hub
-B. Legislative Hub and Judicial Hub
-C. Team India Hub and Knowledge and Innovation Hub
-D. Tax Hub and Grants Hub
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -228,16 +442,9 @@ D. Tax Hub and Grants Hub
 
 **Examiner trap 11:** Do not substitute generic government functions for the named two-hub design.
 
-### MCQ 12. Bottom-up planning
+### MCQ 12 — Answer D
 
-The official bottom-up aspiration most directly means
-
-A. all national policy must be approved by Gram Sabhas
-B. district rankings become binding on States
-C. Parliament delegates taxation to villages
-D. credible plans should develop from village level and aggregate upward
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -248,36 +455,22 @@ D. credible plans should develop from village level and aggregate upward
 
 **Examiner trap 12:** Bottom-up planning is an aspiration and process, not automatic fiscal devolution.
 
-### MCQ 13. Planning Commission status
+### MCQ 13 — Answer A
 
-The Planning Commission was
-
-A. an executive, non-constitutional and non-statutory body
-B. a constitutional body under Article 263
-C. a statutory body under the Finance Commission Act
-D. a judicial commission
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
-- **A:** It was created by Government Resolution in 1950.
-- **B:** Article 263 concerns an inter-State council route.
-- **C:** The Finance Commission's legal framework is unrelated.
-- **D:** The body did not exercise judicial power.
+- **A:** The executive Planning Commission combined centralised Five-Year planning with plan-era allocation leverage, unlike NITI's advisory model.
+- **B:** Article 263 concerns an Inter-State Council, not a plan-era adjudicator.
+- **C:** Article 280 concerns the distinct Finance Commission, not the Planning Commission's plan-fund role.
+- **D:** The Commission was not a court and did not judicially compel district plans.
 
-**Examiner trap 13:** NITI differs from the Planning Commission mainly in role and principle, not broad legal status.
+**Examiner trap 13:** Shared executive status does not imply that the old fund-leveraging planner and today's advisory think tank have the same powers.
 
-### MCQ 14. National Development Council
+### MCQ 14 — Answer B
 
-Which statement about the NDC is safest?
-
-A. It is Article 279A's constitutional council.
-B. It was a separate executive plan-era forum whose approval/coordination role was tied to the old planning architecture.
-C. It is another name for NITI's Governing Council.
-D. It determines the divisible pool under Article 280.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -288,16 +481,9 @@ D. It determines the divisible pool under Article 280.
 
 **Examiner trap 14:** Say the plan-era role lapsed; do not claim a constitutional abolition without evidence.
 
-### MCQ 15. Plan/non-plan distinction
+### MCQ 15 — Answer C
 
-The plan/non-plan expenditure distinction was ended through
-
-A. the 2015 NITI founding Resolution
-B. an Article 280 recommendation automatically amending the Constitution
-C. the Union Budget 2017-18 reform
-D. a judgment converting plan expenditure into capital expenditure
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -308,36 +494,22 @@ D. a judgment converting plan expenditure into capital expenditure
 
 **Examiner trap 15:** Do not collapse NITI's creation and the later budget reform into one act.
 
-### MCQ 16. Cooperative federalism
+### MCQ 16 — Answer D
 
-Which is the best test of substantive cooperative federalism in NITI?
-
-A. Whether NITI can command every State
-B. Whether States receive meaningful voice, reasoned response and implementation support
-C. Whether the Governing Council becomes a second chamber
-D. Whether every meeting ends in unanimity
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
 - **A:** Command would contradict the advisory federal design.
-- **B:** Voice, response and capacity test the quality of cooperation.
+- **B:** Unanimity is unnecessary: reasoned disagreement can coexist with cooperation.
 - **C:** The Council is not Parliament.
-- **D:** Federal cooperation can include reasoned disagreement.
+- **D:** Meaningful voice, reasoned response and implementation support test cooperation even without unanimity.
 
 **Examiner trap 16:** Attendance is evidence of a forum, not proof of meaningful cooperation.
 
-### MCQ 17. Competitive federalism
+### MCQ 17 — Answer A
 
-Which tool most directly exemplifies competitive federalism?
-
-A. Comparable indicators and public benchmarking among jurisdictions
-B. A binding NITI decree
-C. CAG certification of every rank
-D. A constitutional tax surcharge imposed by NITI
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -348,16 +520,9 @@ D. A constitutional tax surcharge imposed by NITI
 
 **Examiner trap 17:** Competition operates through information and reputation, not coercion.
 
-### MCQ 18. SDG India Index
+### MCQ 18 — Answer B
 
-The SDG India Index is best understood as
-
-A. a Finance Commission award formula
-B. a benchmarking and localisation instrument for State and UT SDG performance
-C. a binding compliance code
-D. a CAG audit report
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -368,16 +533,9 @@ D. a CAG audit report
 
 **Examiner trap 18:** A composite score is neither a legal entitlement nor a causal finding.
 
-### MCQ 19. Aspirational model
+### MCQ 19 — Answer C
 
-The core '3C' mechanism of the Aspirational Districts approach is
-
-A. command, control and compliance
-B. capital, courts and cesses
-C. convergence, collaboration and competition
-D. consultation, codification and conviction
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -388,16 +546,9 @@ D. consultation, codification and conviction
 
 **Examiner trap 19:** Remember the mechanism, not volatile district counts.
 
-### MCQ 20. Delta ranking
+### MCQ 20 — Answer D
 
-Delta ranking primarily measures
-
-A. constitutional powers
-B. absolute population
-C. the total number of schemes
-D. incremental improvement over a period
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -408,16 +559,9 @@ D. incremental improvement over a period
 
 **Examiner trap 20:** Delta performance and absolute development level answer different questions.
 
-### MCQ 21. Aspirational Blocks Programme
+### MCQ 21 — Answer A
 
-Which description is correct?
-
-A. A 2023 programme applying a related outcome-oriented approach at block scale
-B. A constitutional amendment creating block governments
-C. A Finance Commission grant category
-D. A replacement for Panchayats
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -428,16 +572,9 @@ D. A replacement for Panchayats
 
 **Examiner trap 21:** A programme scale is not a new tier of government.
 
-### MCQ 22. DMEO
+### MCQ 22 — Answer B
 
-DMEO is
-
-A. a department of the CAG
-B. an attached office of NITI Aayog supporting monitoring and evaluation
-C. the GST Council's audit wing
-D. a constitutional tribunal
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -448,16 +585,9 @@ D. a constitutional tribunal
 
 **Examiner trap 22:** Functional autonomy should not be inflated into constitutional independence.
 
-### MCQ 23. Atal Innovation Mission
+### MCQ 23 — Answer C
 
-Atal Innovation Mission is best classified as
-
-A. a constitutional commission
-B. a statutory market regulator
-C. an initiative under NITI Aayog supporting innovation and entrepreneurship
-D. a ministry controlling all research expenditure
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -468,16 +598,9 @@ D. a ministry controlling all research expenditure
 
 **Examiner trap 23:** Programme ownership does not imply regulatory monopoly.
 
-### MCQ 24. Finance Commission
+### MCQ 24 — Answer D
 
-Which body is constitutionally constituted to make specified recommendations on Union-State tax distribution and grants?
-
-A. NITI Aayog
-B. Governing Council
-C. National Development Council
-D. Finance Commission under Article 280
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -488,16 +611,9 @@ D. Finance Commission under Article 280
 
 **Examiner trap 24:** Do not assign the divisible pool to NITI.
 
-### MCQ 25. Inter-State Council
+### MCQ 25 — Answer A
 
-The Inter-State Council differs from NITI because it is
-
-A. a council contemplated by Article 263 for specified inquiry, discussion and advice functions
-B. NITI's permanent Regional Council
-C. a statutory tax tribunal
-D. the body that audits Union accounts
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -508,16 +624,9 @@ D. the body that audits Union accounts
 
 **Examiner trap 25:** Constitutionally enabled does not mean the Council adjudicates every dispute.
 
-### MCQ 26. GST Council
+### MCQ 26 — Answer B
 
-Which body is created by Article 279A?
-
-A. Finance Commission
-B. GST Council
-C. NITI Governing Council
-D. National Development Council
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -528,16 +637,9 @@ D. National Development Council
 
 **Examiner trap 26:** Shared federal membership does not make two councils legally identical.
 
-### MCQ 27. Ministries
+### MCQ 27 — Answer C
 
-After NITI recommends a policy requiring expenditure or rules, the ordinary next step is
-
-A. automatic legal enforcement
-B. implementation by NITI against unwilling States
-C. decision, budgeting and legal/administrative action by the competent government or ministry
-D. certification by the Election Commission
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -548,16 +650,9 @@ D. certification by the Election Commission
 
 **Examiner trap 27:** Follow the authority chain beyond the recommendation.
 
-### MCQ 28. CAG boundary
+### MCQ 28 — Answer D
 
-Which statement correctly distinguishes DMEO/NITI from the CAG?
-
-A. NITI submits constitutional audit reports under Article 151.
-B. DMEO certifies net proceeds under Article 279.
-C. NITI removes the CAG for poor evaluation.
-D. CAG performs constitutionally grounded public audit; NITI/DMEO monitor and evaluate policy performance.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -568,16 +663,9 @@ D. CAG performs constitutionally grounded public audit; NITI/DMEO monitor and ev
 
 **Examiner trap 28:** Evaluation and constitutional audit may use evidence, but they are not interchangeable.
 
-### MCQ 29. Institutional strength
+### MCQ 29 — Answer A
 
-Which is NITI's most defensible comparative strength?
-
-A. Flexible convening of governments and expertise around cross-sector policy problems
-B. Power to override State legislation
-C. Exclusive authority to approve every public project
-D. Judicial enforcement of development targets
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -588,16 +676,9 @@ D. Judicial enforcement of development targets
 
 **Examiner trap 29:** Judge NITI against its catalytic role, not powers it does not possess.
 
-### MCQ 30. Accountability reform
+### MCQ 30 — Answer B
 
-Which reform best fits NITI's advisory character?
-
-A. Give every recommendation immediate legal force
-B. Publish agenda access, recommendation-response tracking and methods while retaining implementation authority with competent governments
-C. Transfer Article 280 to NITI by executive order
-D. Allow rankings to replace legislative budget scrutiny
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -608,16 +689,9 @@ D. Allow rankings to replace legislative budget scrutiny
 
 **Examiner trap 30:** Accountability reform should clarify responsibility, not centralise power.
 
-### MCQ 31. Data risk
+### MCQ 31 — Answer C
 
-When an indicator becomes a high-stakes target, the principal governance risk is
-
-A. that constitutional articles disappear
-B. that every data point becomes secret
-C. gaming or tunnel vision may improve the metric without improving the underlying outcome
-D. that NITI gains criminal jurisdiction
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -628,16 +702,9 @@ D. that NITI gains criminal jurisdiction
 
 **Examiner trap 31:** Always pair league tables with data-quality checks and evaluation.
 
-### MCQ 32. Integrated proposition
+### MCQ 32 — Answer D
 
-Which combined statement is correct?
-
-A. NITI is constitutional and allocates tax devolution.
-B. NITI is statutory and its Governing Council enacts binding plans.
-C. NITI is a CAG-supervised tribunal for State disputes.
-D. NITI is an executive advisory institution that convenes federal dialogue, supports strategy and evaluation, but cannot legislate, adjudicate or constitutionally allocate funds.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -648,16 +715,68 @@ D. NITI is an executive advisory institution that convenes federal dialogue, sup
 
 **Examiner trap 32:** In a composite option, verify every clause rather than accepting one true phrase.
 
+### MCQ 33 — Answer A
+
+A.**
+
+**Option-specific explanations:**
+
+- **A:** Method correction lies within NITI's informational function; constitutional devolution does not transfer to it.
+- **B:** Territorial representation in NITI is not Article 280 appointment or fiscal jurisdiction.
+- **C:** An issue-specific consultative council cannot bind Parliament's budget decisions.
+- **D:** A comparative indicator does not legally create an automatic entitlement to a transfer.
+
+**Examiner trap 33:** Do not infer fiscal competence merely from federal membership or policy influence.
+
+### MCQ 34 — Answer B
+
+B.**
+
+**Option-specific explanations:**
+
+- **A:** Association between monitoring and visits does not identify the cause of mortality change.
+- **B:** It separates observed intermediate output from causal impact and specifies verification conditions.
+- **C:** Delta change measures movement, not absolute rank or comprehensive health outcomes.
+- **D:** Announced aims cannot replace field-level measurement and independent validation.
+
+**Examiner trap 34:** A dashboard observation is neither a counterfactual evaluation nor a guarantee of welfare impact.
+
+### MCQ 35 — Answer C
+
+C.**
+
+**Option-specific explanations:**
+
+- **A:** Article 263 has a different constitutional basis and cannot be created by a NITI office-holder.
+- **B:** Finance Commission membership and functions do not make it NITI's regional policy forum.
+- **C:** This matches the issue-specific Regional Council design while respecting advisory limits.
+- **D:** Statutory Zonal Councils are distinct and the resolution does not confer binding river adjudication.
+
+**Examiner trap 35:** Similar intergovernmental vocabulary conceals different legal sources and remedial powers.
+
+### MCQ 36 — Answer D
+
+D.**
+
+**Option-specific explanations:**
+
+- **A:** Advisory recommendations cannot independently authorise expenditure without competent approval.
+- **B:** The CAG's constitutional audit function is not transferred by hosting a programme.
+- **C:** State budget scrutiny persists when States implement schemes or related policies.
+- **D:** NITI's innovation platform may shape choices, but adoption and expenditure require accountable government action.
+
+**Examiner trap 36:** Do not mistake programme association for legislative appropriation or executive implementation.
+
 ## PYQS AND ANSWER PRACTICE
 
 ### Verified PYQ source and official-key discipline
 
-- **2018 GS-III Q11:** the audited local routing ledger securely establishes the year, paper, question number, directive, marks, word limit and demand concerning principles followed by NITI Aayog versus the erstwhile Planning Commission. The controlled local set does not preserve an independently verified exact official stem, so the workbook uses a neutral rendering rather than quotation. UPSC publishes no official Mains model answer; the model below is examiner-grade, not official.
-- **2019 Prelims GS-I Q19:** the audited local routing ledger establishes an objective demand on the institutional setup of Atal Innovation Mission. A verified local official key and exact controlled stem/options are unavailable, so no option or official answer is reconstructed.
+- **2018 GS-III Q11:** the audited local routing ledger establishes year, paper, number, marks, word limit and demand; the companion complete-topic package reproduces the verified question wording below. UPSC publishes no official Mains model answer; the model below is independent, not official.
+- **2019 Prelims GS-I Q19:** the audited local routing ledger establishes an objective demand on the institutional setup of Atal Innovation Mission. The companion topic package records the stem and options below, but no locally verified official key; no answer letter is asserted.
 
 ### Verified routed PYQ 1 - UPSC GS-III 2018, Q11 - 15 marks, 250 words
 
-> **Neutral audited rendering:** Discuss how the principles followed by NITI Aayog differ from those followed by the erstwhile Planning Commission.
+> **Question as verified in the companion topic package:** “How are the principles followed by the NITI Aayog different from those followed by the erstwhile Planning Commission in India?”
 
 **Demand:** same legal footing + different planning principles, federal method, instruments and fiscal leverage + balanced effectiveness judgment.
 
@@ -671,11 +790,13 @@ The change improves flexibility, peer learning and separation of advice from fis
 
 Thus the difference is not constitutional status but operating philosophy: directive plan-and-allocation gave way to persuasive strategy-and-coordination. Effectiveness depends on whether transparent evidence and genuine State voice can compensate for the loss of fiscal power.
 
-### Verified routed PYQ 2 - UPSC Prelims GS-I 2019, Q19 - demand only
+### Verified routed PYQ 2 - UPSC Prelims GS-I 2019, Q19 - source wording; official key not held
 
-**Audited demand:** institutional setup arrangement of Atal Innovation Mission.
+**Question as reproduced in the companion topic package:** “Atal Innovation Mission is set up under the: (a) Department of Science and Technology; (b) Ministry of Labour and Employment; (c) NITI Aayog; (d) Ministry of Skill Development and Entrepreneurship.”
 
-**Safe learning result:** Atal Innovation Mission is an initiative under NITI Aayog. It is not a constitutional commission, statutory regulator or ministry. Because the exact controlled stem/options and a verified official key are unavailable locally, this workbook does not invent a solved option.
+**Provenance limit:** Companion package reports verified stem/options; the audited local official-key ledger has no held key. No official answer letter is claimed.
+
+**Safe learning result:** Atal Innovation Mission is an initiative under NITI Aayog. It is not a constitutional commission, statutory regulator or ministry. This institutional fact is not represented as a verified official answer letter.
 
 ### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODELS
 

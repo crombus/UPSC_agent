@@ -6,7 +6,7 @@ topic_key: economy-topic-12
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+40 original questions (32 foundation plus eight integrative challenges) precede the separate solved key. Correct options rotate A → B → C → D throughout.
 
 ### MCQ 1
 
@@ -17,16 +17,6 @@ B. It is a statutory monthly income paid to every farmer.
 C. It is FCI's total economic cost.
 D. It is the retail price charged at every fair-price shop.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The definition preserves crop, season and procurement boundaries. The option states: It is a pre-season administered price signal for specified crops, not automatic universal purchase.
-- **B - Incorrect:** Income support is a different instrument. The option states: It is a statutory monthly income paid to every farmer.
-- **C - Incorrect:** Economic cost includes acquisition and distribution components. The option states: It is FCI's total economic cost.
-- **D - Incorrect:** PDS issue policy is separate from farm price policy. The option states: It is the retail price charged at every fair-price shop.
-
-**Examiner trap 1:** Announcement does not prove procurement.
-
 ### MCQ 2
 
 What is CACP's institutional role?
@@ -35,16 +25,6 @@ A. It takes the final Cabinet decision.
 B. It recommends MSPs after examining costs and wider market-policy factors.
 C. It procures all notified crops.
 D. It administers NFSA ration cards.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** CCEA takes the final Union decision. The option states: It takes the final Cabinet decision.
-- **B - Correct:** CACP is the expert advisory stage. The option states: It recommends MSPs after examining costs and wider market-policy factors.
-- **C - Incorrect:** Designated agencies procure. The option states: It procures all notified crops.
-- **D - Incorrect:** States manage beneficiary identification and cards. The option states: It administers NFSA ration cards.
-
-**Examiner trap 2:** Recommendation is not decision.
 
 ### MCQ 3
 
@@ -55,16 +35,6 @@ B. Sugarcane is one of the 22 crops under the same MSP mechanism.
 C. MSP covers 22 mandated crops, with derived prices for toria and de-husked coconut; sugarcane uses FRP.
 D. Only wheat and paddy receive any announced support price.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Coverage is a specified list. The option states: MSP is legally fixed for every crop grown in India.
-- **B - Incorrect:** Sugarcane pricing follows a separate FRP route. The option states: Sugarcane is one of the 22 crops under the same MSP mechanism.
-- **C - Correct:** The answer matches the official crop and FRP distinction. The option states: MSP covers 22 mandated crops, with derived prices for toria and de-husked coconut; sugarcane uses FRP.
-- **D - Incorrect:** The announced list is broader than two cereals. The option states: Only wheat and paddy receive any announced support price.
-
-**Examiner trap 3:** Price-policy coverage is not procurement coverage.
-
 ### MCQ 4
 
 A2 cost primarily includes:
@@ -73,16 +43,6 @@ A. Only imputed family labour.
 B. Owned-land rent and fixed-capital interest but no paid expenses.
 C. FCI storage and transport costs.
 D. Actual paid-out cultivation expenses in cash or kind under the CACP method.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Family labour is added in A2+FL. The option states: Only imputed family labour.
-- **B - Incorrect:** Those imputed items enter C2. The option states: Owned-land rent and fixed-capital interest but no paid expenses.
-- **C - Incorrect:** FCI logistics are not farm production cost. The option states: FCI storage and transport costs.
-- **D - Correct:** A2 is the explicit paid-out cost concept. The option states: Actual paid-out cultivation expenses in cash or kind under the CACP method.
-
-**Examiner trap 4:** A2 is narrower than A2+FL.
 
 ### MCQ 5
 
@@ -93,16 +53,6 @@ B. C2 minus every paid-out expense.
 C. MSP plus procurement incidentals.
 D. A2 plus FCI carrying cost.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The formula recognises family labour's opportunity cost. The option states: A2 plus the imputed value of unpaid family labour.
-- **B - Incorrect:** C2 contains A2 rather than removing it. The option states: C2 minus every paid-out expense.
-- **C - Incorrect:** This defines acquisition elements, not farm cost. The option states: MSP plus procurement incidentals.
-- **D - Incorrect:** Public stock cost is unrelated to FL. The option states: A2 plus FCI carrying cost.
-
-**Examiner trap 5:** FL means family labour, not freight.
-
 ### MCQ 6
 
 C2 adds which items to A2+FL?
@@ -111,16 +61,6 @@ A. Only marketable surplus.
 B. Imputed rent on owned land and interest on owned fixed capital.
 C. Only hired labour already included in A2.
 D. Food-subsidy reimbursement.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Marketed output is not a cost item. The option states: Only marketable surplus.
-- **B - Correct:** C2 broadens the opportunity-cost base. The option states: Imputed rent on owned land and interest on owned fixed capital.
-- **C - Incorrect:** Hired labour is a paid-out cost. The option states: Only hired labour already included in A2.
-- **D - Incorrect:** Subsidy reimbursement belongs to public accounts. The option states: Food-subsidy reimbursement.
-
-**Examiner trap 6:** C2 is not the official 1.5-times base.
 
 ### MCQ 7
 
@@ -131,16 +71,6 @@ B. One and a half times FCI economic cost.
 C. At least 1.5 times the all-India weighted average A2+FL cost.
 D. A State-specific legal profit guarantee.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** C2-plus-50 is a separate demand. The option states: Exactly C2 plus 50 per cent for every farm.
-- **B - Incorrect:** FCI cost is downstream. The option states: One and a half times FCI economic cost.
-- **C - Correct:** Official seasonal tables use the A2+FL average. The option states: At least 1.5 times the all-India weighted average A2+FL cost.
-- **D - Incorrect:** Farm costs and procurement vary. The option states: A State-specific legal profit guarantee.
-
-**Examiner trap 7:** Name the denominator.
-
 ### MCQ 8
 
 Which comparison of price and income support is correct?
@@ -149,16 +79,6 @@ A. Both necessarily require physical procurement.
 B. Income support always raises one crop's market price.
 C. Price support has no production effect.
 D. Price support changes the commodity-price incentive; income support transfers purchasing power.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Transfers need not purchase output. The option states: Both necessarily require physical procurement.
-- **B - Incorrect:** Income support can be crop-neutral. The option states: Income support always raises one crop's market price.
-- **C - Incorrect:** Expected prices influence sowing. The option states: Price support has no production effect.
-- **D - Correct:** The mechanisms and incidence differ. The option states: Price support changes the commodity-price incentive; income support transfers purchasing power.
-
-**Examiner trap 8:** Do not merge transfer and price instruments.
 
 ### MCQ 9
 
@@ -169,16 +89,6 @@ B. CACP publishes a recommendation.
 C. A crop appears in the MSP list.
 D. A household receives an NFSA ration card.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Physical purchase creates payment and stock obligations. The option states: A designated agency actually purchases eligible produce under specified operational conditions.
-- **B - Incorrect:** Advice is not purchase. The option states: CACP publishes a recommendation.
-- **C - Incorrect:** Announcement is not purchase. The option states: A crop appears in the MSP list.
-- **D - Incorrect:** Ration entitlement is consumer-side. The option states: A household receives an NFSA ration card.
-
-**Examiner trap 9:** Procurement is a transaction.
-
 ### MCQ 10
 
 Open-ended procurement correctly means:
@@ -187,16 +97,6 @@ A. Every crop is purchased everywhere without conditions.
 B. Conforming paddy or wheat offered within an operating procurement system is bought without a preset aggregate cap.
 C. Oilseeds are legally unlimited in every State.
 D. Quality standards cannot be applied.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Coverage is not universal. The option states: Every crop is purchased everywhere without conditions.
-- **B - Correct:** The term is bounded by crop, quality, place and period. The option states: Conforming paddy or wheat offered within an operating procurement system is bought without a preset aggregate cap.
-- **C - Incorrect:** PSS operations are conditional. The option states: Oilseeds are legally unlimited in every State.
-- **D - Incorrect:** FAQ remains relevant. The option states: Quality standards cannot be applied.
-
-**Examiner trap 10:** Always state the operating boundary.
 
 ### MCQ 11
 
@@ -207,16 +107,6 @@ B. MSP mechanically equalises every farm price.
 C. Agency presence, crop, quality, market arrivals and State infrastructure differ.
 D. Only soil quality matters.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Procurement is concentrated. The option states: All States procure identical shares.
-- **B - Incorrect:** Market outcomes vary. The option states: MSP mechanically equalises every farm price.
-- **C - Correct:** Operational access determines realised support. The option states: Agency presence, crop, quality, market arrivals and State infrastructure differ.
-- **D - Incorrect:** Institutions matter with agro-climate. The option states: Only soil quality matters.
-
-**Examiner trap 11:** Announced support is not realised support.
-
 ### MCQ 12
 
 Under decentralised procurement, participating States generally:
@@ -225,16 +115,6 @@ A. Abolish the central pool.
 B. Set WTO support rules.
 C. Replace NFSA with APMC trading.
 D. Procure, store and distribute their NFSA requirement with central-pool adjustment and approved reimbursement.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The central pool remains. The option states: Abolish the central pool.
-- **B - Incorrect:** WTO rules are multilateral. The option states: Set WTO support rules.
-- **C - Incorrect:** Market regulation is Topic 13. The option states: Replace NFSA with APMC trading.
-- **D - Correct:** DCP reallocates operations within a national framework. The option states: Procure, store and distribute their NFSA requirement with central-pool adjustment and approved reimbursement.
-
-**Examiner trap 12:** Decentralisation is not withdrawal of Union support.
 
 ### MCQ 13
 
@@ -245,16 +125,6 @@ B. Only grain physically inside an FCI-owned godown.
 C. Private trader inventory.
 D. An accounting name for MSP recommendations.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Ownership and public purpose define the pool. The option states: Public foodgrain stock procured for NFSA, welfare, buffer, emergency and market-management uses.
-- **B - Incorrect:** State-procured grain can enter it. The option states: Only grain physically inside an FCI-owned godown.
-- **C - Incorrect:** Private stocks are separate. The option states: Private trader inventory.
-- **D - Incorrect:** Recommendations create no grain. The option states: An accounting name for MSP recommendations.
-
-**Examiner trap 13:** Storage location alone does not define ownership.
-
 ### MCQ 14
 
 FCI's mandate includes:
@@ -263,16 +133,6 @@ A. Fixing State beneficiary lists.
 B. Procurement support, storage, movement, distribution and buffer management.
 C. Adjudicating WTO disputes.
 D. Regulating APMC licences.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** States identify beneficiaries. The option states: Fixing State beneficiary lists.
-- **B - Correct:** FCI is the central logistics and stock institution. The option states: Procurement support, storage, movement, distribution and buffer management.
-- **C - Incorrect:** WTO bodies handle disputes. The option states: Adjudicating WTO disputes.
-- **D - Incorrect:** APMC regulation is State marketing law. The option states: Regulating APMC licences.
-
-**Examiner trap 14:** FCI does not perform every food-policy function.
 
 ### MCQ 15
 
@@ -283,16 +143,6 @@ B. MSP minus procurement incidentals.
 C. Acquisition cost plus distribution cost.
 D. NFSA entitlement multiplied by coverage.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** MSP omits incidentals and distribution. The option states: MSP alone.
-- **B - Incorrect:** Incidentals add to acquisition. The option states: MSP minus procurement incidentals.
-- **C - Correct:** Economic cost includes purchase and logistics. The option states: Acquisition cost plus distribution cost.
-- **D - Incorrect:** Entitlement arithmetic is not cost accounting. The option states: NFSA entitlement multiplied by coverage.
-
-**Examiner trap 15:** Use the two-step formula.
-
 ### MCQ 16
 
 Carrying cost rises principally with:
@@ -301,16 +151,6 @@ A. Only the number of MSP crops.
 B. Only NFSA's rural coverage ceiling.
 C. Only the CACP recommendation date.
 D. The quantity and duration of stock plus financing, storage, handling and preservation costs.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Crop count does not measure storage burden. The option states: Only the number of MSP crops.
-- **B - Incorrect:** Coverage is consumer-side. The option states: Only NFSA's rural coverage ceiling.
-- **C - Incorrect:** Advice date is not a carrying-cost input. The option states: Only the CACP recommendation date.
-- **D - Correct:** Stocks create time-dependent fiscal and quality costs. The option states: The quantity and duration of stock plus financing, storage, handling and preservation costs.
-
-**Examiner trap 16:** A stock is an asset with maintenance cost.
 
 ### MCQ 17
 
@@ -321,16 +161,6 @@ B. The 1 July norm applies unchanged every day.
 C. A stock above norm is automatically waste.
 D. Norms contain rice but never wheat.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Norms and actual inventory are distinct. The option states: The norm is a dated minimum benchmark; actual stocks may be above or below it.
-- **B - Incorrect:** Quarterly seasonality matters. The option states: The 1 July norm applies unchanged every day.
-- **C - Incorrect:** Pipeline and obligations matter. The option states: A stock above norm is automatically waste.
-- **D - Incorrect:** Both rice and wheat are included. The option states: Norms contain rice but never wheat.
-
-**Examiner trap 17:** Compare dates and units.
-
 ### MCQ 18
 
 OMSS(D) differs from NFSA release because OMSS:
@@ -339,16 +169,6 @@ A. Creates a household legal entitlement.
 B. Sells specified central stock into market channels to influence supply and prices.
 C. Sets MSP for the next crop season.
 D. Identifies AAY households.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** NFSA creates entitlement. The option states: Creates a household legal entitlement.
-- **B - Correct:** OMSS is a market-release mechanism. The option states: Sells specified central stock into market channels to influence supply and prices.
-- **C - Incorrect:** CCEA decides MSP. The option states: Sets MSP for the next crop season.
-- **D - Incorrect:** States identify households. The option states: Identifies AAY households.
-
-**Examiner trap 18:** Market sale is not ration entitlement.
 
 ### MCQ 19
 
@@ -359,16 +179,6 @@ B. Determines NFSA coverage percentages.
 C. Supports interventions or buffers for selected commodities under a different institutional route.
 D. Computes C2 cost.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** FCI norms are separate. The option states: Is another name for FCI's rice-wheat quarterly norm.
-- **B - Incorrect:** Coverage comes from NFSA. The option states: Determines NFSA coverage percentages.
-- **C - Correct:** Commodity and agency architecture differs. The option states: Supports interventions or buffers for selected commodities under a different institutional route.
-- **D - Incorrect:** C2 is a farm-cost concept. The option states: Computes C2 cost.
-
-**Examiner trap 19:** Price stabilisation is an objective, not one universal scheme.
-
 ### MCQ 20
 
 Food security has which four dimensions?
@@ -377,16 +187,6 @@ A. Procurement, milling, export and taxation only.
 B. Calories, MSP, C2 and APMC.
 C. Production, imports, godowns and roads only.
 D. Availability, access, utilisation and stability.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The list omits household outcomes. The option states: Procurement, milling, export and taxation only.
-- **B - Incorrect:** These mix unrelated concepts. The option states: Calories, MSP, C2 and APMC.
-- **C - Incorrect:** Infrastructure alone is incomplete. The option states: Production, imports, godowns and roads only.
-- **D - Correct:** The four dimensions cover supply, affordability, nutrition and resilience. The option states: Availability, access, utilisation and stability.
-
-**Examiner trap 20:** Cereal availability is only one dimension.
 
 ### MCQ 21
 
@@ -397,16 +197,6 @@ B. Universal automatic coverage of every resident.
 C. A 75 kilogram rural entitlement.
 D. CACP identification of ration households.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The figures are population coverage ceilings. The option states: Up to 75 per cent rural and 50 per cent urban coverage, with State identification within ceilings.
-- **B - Incorrect:** NFSA remains targeted. The option states: Universal automatic coverage of every resident.
-- **C - Incorrect:** Percentages are not kilograms. The option states: A 75 kilogram rural entitlement.
-- **D - Incorrect:** States identify eligible households. The option states: CACP identification of ration households.
-
-**Examiner trap 21:** Coverage is not entitlement quantity.
-
 ### MCQ 22
 
 Which entitlement pair is correct?
@@ -415,16 +205,6 @@ A. PHH: 35 kg per person; AAY: 5 kg per household.
 B. PHH: 5 kg per person per month; AAY: 35 kg per household per month.
 C. Both: 5 kg per household.
 D. Both: 35 kg per person.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The quantities and units are reversed. The option states: PHH: 35 kg per person; AAY: 5 kg per household.
-- **B - Correct:** The unit differs between categories. The option states: PHH: 5 kg per person per month; AAY: 35 kg per household per month.
-- **C - Incorrect:** AAY has a household entitlement. The option states: Both: 5 kg per household.
-- **D - Incorrect:** PHH is person-based. The option states: Both: 35 kg per person.
-
-**Examiner trap 22:** Do not swap person and household units.
 
 ### MCQ 23
 
@@ -435,16 +215,6 @@ B. The arrangement ended in December 2023.
 C. NFSA entitlements are supplied free under PMGKAY from 1 January 2024 through December 2028.
 D. Only AAY receives free grain.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Price policy can change. The option states: Free supply is a permanent unamendable NFSA clause.
-- **B - Incorrect:** It was extended beyond 2023. The option states: The arrangement ended in December 2023.
-- **C - Correct:** The five-year executive arrangement covers both PHH and AAY entitlements. The option states: NFSA entitlements are supplied free under PMGKAY from 1 January 2024 through December 2028.
-- **D - Incorrect:** Both NFSA categories are covered. The option states: Only AAY receives free grain.
-
-**Examiner trap 23:** Date the free arrangement.
-
 ### MCQ 24
 
 Which responsibility principally belongs to States under NFSA delivery?
@@ -453,16 +223,6 @@ A. Approving national MSPs.
 B. Calculating WTO AMS for India.
 C. Creating the FCI central corporation.
 D. Identifying eligible households and managing ration cards and fair-price-shop delivery.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** CCEA approves MSP. The option states: Approving national MSPs.
-- **B - Incorrect:** WTO notification is Union-level. The option states: Calculating WTO AMS for India.
-- **C - Incorrect:** FCI is a Union statutory corporation. The option states: Creating the FCI central corporation.
-- **D - Correct:** States control key targeting and last-mile functions. The option states: Identifying eligible households and managing ration cards and fair-price-shop delivery.
-
-**Examiner trap 24:** Assign failures to the responsible tier.
 
 ### MCQ 25
 
@@ -473,16 +233,6 @@ B. Universal ration eligibility for non-beneficiaries.
 C. Automatic doubling of monthly entitlement.
 D. MSP procurement from any mandi.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Portability follows the beneficiary, not a new entitlement. The option states: Portability of an identified NFSA entitlement across interoperable State systems.
-- **B - Incorrect:** Identification remains required. The option states: Universal ration eligibility for non-beneficiaries.
-- **C - Incorrect:** Quantity does not automatically double. The option states: Automatic doubling of monthly entitlement.
-- **D - Incorrect:** Procurement is unrelated. The option states: MSP procurement from any mandi.
-
-**Examiner trap 25:** Portability is not universality.
-
 ### MCQ 26
 
 What is the correct digitisation safeguard?
@@ -491,16 +241,6 @@ A. A failed biometric proves ineligibility.
 B. Authentication failures require lawful fallback and grievance mechanisms for genuine beneficiaries.
 C. De-duplication eliminates all exclusion risk.
 D. ePoS replaces food stocks.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Device failure is not status proof. The option states: A failed biometric proves ineligibility.
-- **B - Correct:** Technology must improve integrity without causing denial. The option states: Authentication failures require lawful fallback and grievance mechanisms for genuine beneficiaries.
-- **C - Incorrect:** Record cleaning can wrongly delete. The option states: De-duplication eliminates all exclusion risk.
-- **D - Incorrect:** Delivery still requires physical grain. The option states: ePoS replaces food stocks.
-
-**Examiner trap 26:** Authentication is evidence, not entitlement.
 
 ### MCQ 27
 
@@ -511,16 +251,6 @@ B. Exclusion is always fiscally beneficial.
 C. Exclusion denies an eligible person; inclusion covers an ineligible record; leakage diverts entitled grain.
 D. Leakage occurs only before procurement.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** They require different remedies. The option states: All three mean the same missing stock.
-- **B - Incorrect:** Exclusion can create severe welfare loss. The option states: Exclusion is always fiscally beneficial.
-- **C - Correct:** The categories locate different failures. The option states: Exclusion denies an eligible person; inclusion covers an ineligible record; leakage diverts entitled grain.
-- **D - Incorrect:** Leakage can occur across delivery. The option states: Leakage occurs only before procurement.
-
-**Examiner trap 27:** Deletion counts do not prove successful targeting.
-
 ### MCQ 28
 
 A cash-transfer alternative to in-kind PDS is most defensible when:
@@ -529,16 +259,6 @@ A. Food-price inflation is ignored.
 B. Remote markets have no supply.
 C. Household control over cash never matters.
 D. Transfers are timely and indexed and local food markets and banking access are reliable.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Indexation is necessary. The option states: Food-price inflation is ignored.
-- **B - Incorrect:** Cash cannot buy unavailable grain. The option states: Remote markets have no supply.
-- **C - Incorrect:** Intra-household incidence matters. The option states: Household control over cash never matters.
-- **D - Correct:** Cash shifts price and market risk to households. The option states: Transfers are timely and indexed and local food markets and banking access are reliable.
-
-**Examiner trap 28:** DBT is a trade-off, not an automatic upgrade.
 
 ### MCQ 29
 
@@ -549,16 +269,6 @@ B. Only the size of FCI stocks.
 C. Only wheat and rice calories.
 D. Only the retail price of one grain.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Nutrition depends on diet and health conditions. The option states: Dietary diversity, micronutrients, protein and biological utilisation.
-- **B - Incorrect:** Stocks mainly address availability. The option states: Only the size of FCI stocks.
-- **C - Incorrect:** Calories alone are incomplete. The option states: Only wheat and rice calories.
-- **D - Incorrect:** One price cannot measure utilisation. The option states: Only the retail price of one grain.
-
-**Examiner trap 29:** A full godown does not prove good nutrition.
-
 ### MCQ 30
 
 Under WTO AoA, market price support is broadly calculated using:
@@ -567,16 +277,6 @@ A. MSP minus the current market price, multiplied by procurement only in every c
 B. Administered price minus the fixed 1986-88 reference price, multiplied by eligible production.
 C. FCI economic cost minus NFSA price.
 D. C2 minus A2+FL.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Current market price is not the stated reference. The option states: MSP minus the current market price, multiplied by procurement only in every case.
-- **B - Correct:** The official WTO formula uses a historical external reference price. The option states: Administered price minus the fixed 1986-88 reference price, multiplied by eligible production.
-- **C - Incorrect:** This is domestic subsidy accounting. The option states: FCI economic cost minus NFSA price.
-- **D - Incorrect:** Farm-cost differences are not AMS. The option states: C2 minus A2+FL.
-
-**Examiner trap 30:** WTO accounting is not budget accounting.
 
 ### MCQ 31
 
@@ -587,16 +287,6 @@ B. Removes transparency obligations.
 C. Provides conditional interim protection from specified WTO challenge for covered developing-country programmes.
 D. Applies automatically to every future programme without conditions.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Price support is not reclassified wholesale. The option states: Permanently places all MSP procurement in the Green Box.
-- **B - Incorrect:** Notification and safeguards remain. The option states: Removes transparency obligations.
-- **C - Correct:** The protection is conditional and interim pending a permanent solution. The option states: Provides conditional interim protection from specified WTO challenge for covered developing-country programmes.
-- **D - Incorrect:** Programme coverage conditions matter. The option states: Applies automatically to every future programme without conditions.
-
-**Examiner trap 31:** Peace clause is not unlimited exemption.
-
 ### MCQ 32
 
 Which syllabus boundary is correct?
@@ -606,15 +296,559 @@ B. NFSA belongs to Topic 13.
 C. Buffer stocks are solely a crop-production topic.
 D. APMC, e-NAM, FPOs and general supply-chain regulation belong to Topic 13.
 
+### MCQ 33
+
+A CACP estimate lists A2=100, unpaid family labour=20, imputed owned-land rent=15 and owned-capital interest=5 (same units). Which cost triple follows?
+
+A. A2=100; A2+FL=120; C2=140.
+B. A2=120; A2+FL=140; C2=100.
+C. A2=100; A2+FL=140; C2=120.
+D. A2=140; A2+FL=120; C2=100.
+
+### MCQ 34
+
+A rice-growing State receives an NFSA allocation, withdraws part from the central pool and a fair-price-shop household takes less than its entitlement. Which sequence tracks the three different measures?
+
+A. Delivery; allocation; offtake.
+B. Allocation; offtake; actual household receipt.
+C. Procurement; food subsidy; MSP.
+D. Stock norm; FCI cost; issue price.
+
+### MCQ 35
+
+Consider a migrant PHH beneficiary authenticating at a host-State fair-price shop. Which safeguards preserve ONORC benefit when biometrics or connectivity fail?
+
+A. Delete the home-State ration card and issue a new one only after migration.
+B. Refuse grain until Aadhaar seeding is perfect.
+C. Maintain alternate verification and grievance routes while reconciling portable transactions.
+D. Convert all portable entitlements to market-priced cash.
+
+### MCQ 36
+
+Which pair correctly distinguishes a buffer norm from an open-market intervention?
+
+A. Norm = inventory currently in FCI depots; OMSS = NFSA household delivery.
+B. Norm = all procured paddy; OMSS = AAY entitlement.
+C. Norm = permanent legal ceiling; OMSS = free grain at FPS.
+D. Norm = benchmark for adequate operational/strategic stock; OMSS = release through market sales.
+
+### MCQ 37
+
+A very high central-pool stock is held in the wrong region while grain elsewhere deteriorates. Which inference is justified?
+
+A. Aggregate excess does not establish usable local surplus; location, quality and committed obligations matter.
+B. Any amount above the norm must be destroyed immediately.
+C. No shortage can occur when national inventory exceeds a buffer norm.
+D. OMSS automatically pays every farmer at MSP.
+
+### MCQ 38
+
+A household receives the legal grain quota but has poor micronutrient intake and recurrent illness. Which food-security dimension is most directly unresolved?
+
+A. Availability only.
+B. Utilisation/nutrition, which also depends on diet, water and health.
+C. MSP announcement alone.
+D. CACP cost estimation.
+
+### MCQ 39
+
+A proposed policy guarantees an unlimited nationwide oilseed purchase at the listed support price because an MSP is announced. Identify the defect.
+
+A. CACP has no advisory role in crop prices.
+B. Every oilseed is sold through the NFSA fair-price-shop network.
+C. Announcement and actual purchase differ by eligible crop, grade, season, agency and local operations.
+D. Oilseeds cannot be cultivated in monsoon conditions.
+
+### MCQ 40
+
+Compare in-kind PDS with a cash pilot in a region with high food-price volatility and unreliable banking. What is the strongest qualified answer?
+
+A. Cash always protects real food entitlement regardless of inflation.
+B. In-kind grain can never leak because shops are publicly licensed.
+C. A cash pilot conclusively demonstrates nationwide replacement feasibility.
+D. Cash may reduce handling cost but can shift inflation and access risks onto households; preserve a credible in-kind fallback.
+
+### SEPARATE SOLVED KEY — ORIGINAL MCQS
+
+### KEY 1
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The definition preserves crop, season and procurement boundaries.
+- **B - Incorrect:** Income support is a different instrument.
+- **C - Incorrect:** Economic cost includes acquisition and distribution components.
+- **D - Incorrect:** PDS issue policy is separate from farm price policy.
+
+**Examiner trap 1:** Announcement does not prove procurement.
+
+### KEY 2
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** CCEA takes the final Union decision.
+- **B - Correct:** CACP is the expert advisory stage.
+- **C - Incorrect:** Designated agencies procure.
+- **D - Incorrect:** States manage beneficiary identification and cards.
+
+**Examiner trap 2:** Recommendation is not decision.
+
+### KEY 3
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Coverage is a specified list.
+- **B - Incorrect:** Sugarcane pricing follows a separate FRP route.
+- **C - Correct:** The answer matches the official crop and FRP distinction.
+- **D - Incorrect:** The announced list is broader than two cereals.
+
+**Examiner trap 3:** Price-policy coverage is not procurement coverage.
+
+### KEY 4
+
 **Answer: D.**
 
 **Option-wise explanation:**
-- **A - Incorrect:** Marketing institutions are separately owned. The option states: Topic 12 must reproduce all mandi-law details.
-- **B - Incorrect:** NFSA is central to Topic 12. The option states: NFSA belongs to Topic 13.
-- **C - Incorrect:** Buffers link distribution and stabilisation. The option states: Buffer stocks are solely a crop-production topic.
-- **D - Correct:** The boundary preserves food management here and markets there. The option states: APMC, e-NAM, FPOs and general supply-chain regulation belong to Topic 13.
+- **A - Incorrect:** Family labour is added in A2+FL.
+- **B - Incorrect:** Those imputed items enter C2.
+- **C - Incorrect:** FCI logistics are not farm production cost.
+- **D - Correct:** A2 is the explicit paid-out cost concept.
+
+**Examiner trap 4:** A2 is narrower than A2+FL.
+
+### KEY 5
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The formula recognises family labour's opportunity cost.
+- **B - Incorrect:** C2 contains A2 rather than removing it.
+- **C - Incorrect:** This defines acquisition elements, not farm cost.
+- **D - Incorrect:** Public stock cost is unrelated to FL.
+
+**Examiner trap 5:** FL means family labour, not freight.
+
+### KEY 6
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Marketed output is not a cost item.
+- **B - Correct:** C2 broadens the opportunity-cost base.
+- **C - Incorrect:** Hired labour is a paid-out cost.
+- **D - Incorrect:** Subsidy reimbursement belongs to public accounts.
+
+**Examiner trap 6:** C2 is not the official 1.5-times base.
+
+### KEY 7
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** C2-plus-50 is a separate demand.
+- **B - Incorrect:** FCI cost is downstream.
+- **C - Correct:** Official seasonal tables use the A2+FL average.
+- **D - Incorrect:** Farm costs and procurement vary.
+
+**Examiner trap 7:** Name the denominator.
+
+### KEY 8
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Transfers need not purchase output.
+- **B - Incorrect:** Income support can be crop-neutral.
+- **C - Incorrect:** Expected prices influence sowing.
+- **D - Correct:** The mechanisms and incidence differ.
+
+**Examiner trap 8:** Do not merge transfer and price instruments.
+
+### KEY 9
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Physical purchase creates payment and stock obligations.
+- **B - Incorrect:** Advice is not purchase.
+- **C - Incorrect:** Announcement is not purchase.
+- **D - Incorrect:** Ration entitlement is consumer-side.
+
+**Examiner trap 9:** Procurement is a transaction.
+
+### KEY 10
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Coverage is not universal.
+- **B - Correct:** The term is bounded by crop, quality, place and period.
+- **C - Incorrect:** PSS operations are conditional.
+- **D - Incorrect:** FAQ remains relevant.
+
+**Examiner trap 10:** Always state the operating boundary.
+
+### KEY 11
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Procurement is concentrated.
+- **B - Incorrect:** Market outcomes vary.
+- **C - Correct:** Operational access determines realised support.
+- **D - Incorrect:** Institutions matter with agro-climate.
+
+**Examiner trap 11:** Announced support is not realised support.
+
+### KEY 12
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The central pool remains.
+- **B - Incorrect:** WTO rules are multilateral.
+- **C - Incorrect:** Market regulation is Topic 13.
+- **D - Correct:** DCP reallocates operations within a national framework.
+
+**Examiner trap 12:** Decentralisation is not withdrawal of Union support.
+
+### KEY 13
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Ownership and public purpose define the pool.
+- **B - Incorrect:** State-procured grain can enter it.
+- **C - Incorrect:** Private stocks are separate.
+- **D - Incorrect:** Recommendations create no grain.
+
+**Examiner trap 13:** Storage location alone does not define ownership.
+
+### KEY 14
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** States identify beneficiaries.
+- **B - Correct:** FCI is the central logistics and stock institution.
+- **C - Incorrect:** WTO bodies handle disputes.
+- **D - Incorrect:** APMC regulation is State marketing law.
+
+**Examiner trap 14:** FCI does not perform every food-policy function.
+
+### KEY 15
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** MSP omits incidentals and distribution.
+- **B - Incorrect:** Incidentals add to acquisition.
+- **C - Correct:** Economic cost includes purchase and logistics.
+- **D - Incorrect:** Entitlement arithmetic is not cost accounting.
+
+**Examiner trap 15:** Use the two-step formula.
+
+### KEY 16
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Crop count does not measure storage burden.
+- **B - Incorrect:** Coverage is consumer-side.
+- **C - Incorrect:** Advice date is not a carrying-cost input.
+- **D - Correct:** Stocks create time-dependent fiscal and quality costs.
+
+**Examiner trap 16:** A stock is an asset with maintenance cost.
+
+### KEY 17
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Norms and actual inventory are distinct.
+- **B - Incorrect:** Quarterly seasonality matters.
+- **C - Incorrect:** Pipeline and obligations matter.
+- **D - Incorrect:** Both rice and wheat are included.
+
+**Examiner trap 17:** Compare dates and units.
+
+### KEY 18
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** NFSA creates entitlement.
+- **B - Correct:** OMSS is a market-release mechanism.
+- **C - Incorrect:** CCEA decides MSP.
+- **D - Incorrect:** States identify households.
+
+**Examiner trap 18:** Market sale is not ration entitlement.
+
+### KEY 19
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** FCI norms are separate.
+- **B - Incorrect:** Coverage comes from NFSA.
+- **C - Correct:** Commodity and agency architecture differs.
+- **D - Incorrect:** C2 is a farm-cost concept.
+
+**Examiner trap 19:** Price stabilisation is an objective, not one universal scheme.
+
+### KEY 20
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The list omits household outcomes.
+- **B - Incorrect:** These mix unrelated concepts.
+- **C - Incorrect:** Infrastructure alone is incomplete.
+- **D - Correct:** The four dimensions cover supply, affordability, nutrition and resilience.
+
+**Examiner trap 20:** Cereal availability is only one dimension.
+
+### KEY 21
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The figures are population coverage ceilings.
+- **B - Incorrect:** NFSA remains targeted.
+- **C - Incorrect:** Percentages are not kilograms.
+- **D - Incorrect:** States identify eligible households.
+
+**Examiner trap 21:** Coverage is not entitlement quantity.
+
+### KEY 22
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The quantities and units are reversed.
+- **B - Correct:** The unit differs between categories.
+- **C - Incorrect:** AAY has a household entitlement.
+- **D - Incorrect:** PHH is person-based.
+
+**Examiner trap 22:** Do not swap person and household units.
+
+### KEY 23
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Price policy can change.
+- **B - Incorrect:** It was extended beyond 2023.
+- **C - Correct:** The five-year executive arrangement covers both PHH and AAY entitlements.
+- **D - Incorrect:** Both NFSA categories are covered.
+
+**Examiner trap 23:** Date the free arrangement.
+
+### KEY 24
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** CCEA approves MSP.
+- **B - Incorrect:** WTO notification is Union-level.
+- **C - Incorrect:** FCI is a Union statutory corporation.
+- **D - Correct:** States control key targeting and last-mile functions.
+
+**Examiner trap 24:** Assign failures to the responsible tier.
+
+### KEY 25
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Portability follows the beneficiary, not a new entitlement.
+- **B - Incorrect:** Identification remains required.
+- **C - Incorrect:** Quantity does not automatically double.
+- **D - Incorrect:** Procurement is unrelated.
+
+**Examiner trap 25:** Portability is not universality.
+
+### KEY 26
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Device failure is not status proof.
+- **B - Correct:** Technology must improve integrity without causing denial.
+- **C - Incorrect:** Record cleaning can wrongly delete.
+- **D - Incorrect:** Delivery still requires physical grain.
+
+**Examiner trap 26:** Authentication is evidence, not entitlement.
+
+### KEY 27
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** They require different remedies.
+- **B - Incorrect:** Exclusion can create severe welfare loss.
+- **C - Correct:** The categories locate different failures.
+- **D - Incorrect:** Leakage can occur across delivery.
+
+**Examiner trap 27:** Deletion counts do not prove successful targeting.
+
+### KEY 28
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Indexation is necessary.
+- **B - Incorrect:** Cash cannot buy unavailable grain.
+- **C - Incorrect:** Intra-household incidence matters.
+- **D - Correct:** Cash shifts price and market risk to households.
+
+**Examiner trap 28:** DBT is a trade-off, not an automatic upgrade.
+
+### KEY 29
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Nutrition depends on diet and health conditions.
+- **B - Incorrect:** Stocks mainly address availability.
+- **C - Incorrect:** Calories alone are incomplete.
+- **D - Incorrect:** One price cannot measure utilisation.
+
+**Examiner trap 29:** A full godown does not prove good nutrition.
+
+### KEY 30
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Current market price is not the stated reference.
+- **B - Correct:** The official WTO formula uses a historical external reference price.
+- **C - Incorrect:** This is domestic subsidy accounting.
+- **D - Incorrect:** Farm-cost differences are not AMS.
+
+**Examiner trap 30:** WTO accounting is not budget accounting.
+
+### KEY 31
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Price support is not reclassified wholesale.
+- **B - Incorrect:** Notification and safeguards remain.
+- **C - Correct:** The protection is conditional and interim pending a permanent solution.
+- **D - Incorrect:** Programme coverage conditions matter.
+
+**Examiner trap 31:** Peace clause is not unlimited exemption.
+
+### KEY 32
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Marketing institutions are separately owned.
+- **B - Incorrect:** NFSA is central to Topic 12.
+- **C - Incorrect:** Buffers link distribution and stabilisation.
+- **D - Correct:** The boundary preserves food management here and markets there.
 
 **Examiner trap 32:** Cross-link markets without duplicating Topic 13.
+
+### KEY 33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Add family labour after paid-out cost, then rent and fixed-capital interest.
+- **B - Incorrect:** Unpaid family labour cannot be counted in paid-out A2.
+- **C - Incorrect:** C2 includes both rent and interest above A2+FL.
+- **D - Incorrect:** C2 is the broadest, not the narrowest, cost concept.
+
+**Examiner trap 33:** A claimed margin must always state the denominator.
+
+### KEY 34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Allocation is the authorisation, not the first actual delivery.
+- **B - Correct:** The three are distinct stages with potentially different quantities.
+- **C - Incorrect:** These are policy instruments, not the specified flow measures.
+- **D - Incorrect:** A norm and costs cannot measure household receipt.
+
+**Examiner trap 34:** An allocation statistic is not proof of household access.
+
+### KEY 35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Portability is meant to avoid re-registration on every move.
+- **B - Incorrect:** Failing authentication must not automatically nullify an entitlement.
+- **C - Correct:** Delivery plus fallback controls leakage without making technical failure dispositive.
+- **D - Incorrect:** Cash is a debated alternative, not an automatic portability prerequisite.
+
+**Examiner trap 35:** Aadhaar-based portability must not become Aadhaar-only exclusion.
+
+### KEY 36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** A benchmark and observed inventory need not coincide.
+- **B - Incorrect:** The benchmark is not total procurement; OMSS is not an AAY entitlement.
+- **C - Incorrect:** Seasonal norms can vary, and market sale is not FPS allocation.
+- **D - Correct:** Norms guide stock management while OMSS targets wider market supply.
+
+**Examiner trap 36:** Do not confuse normative, observed and released quantities.
+
+### KEY 37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Stocks must be evaluated by physical movement and viable rotation, not only totals.
+- **B - Incorrect:** Destruction wastes grain and ignores distribution possibilities.
+- **C - Incorrect:** Location and logistics mediate availability.
+- **D - Incorrect:** Market releases sell inventory; they are not procurement.
+
+**Examiner trap 37:** Subtracting a norm from aggregate inventory is not a logistics plan.
+
+### KEY 38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Grain receipt shows some access but not a complete health outcome.
+- **B - Correct:** Biological use and dietary quality extend beyond calories.
+- **C - Incorrect:** An administered farm price cannot diagnose micronutrient status.
+- **D - Incorrect:** Cost surveys do not measure household utilisation.
+
+**Examiner trap 38:** Quantity entitlement is necessary for many households but not sufficient for nutrition.
+
+### KEY 39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** CACP advises on MSP.
+- **B - Incorrect:** PDS delivery is distinct from oilseed procurement.
+- **C - Correct:** A price signal does not itself create unlimited operational procurement.
+- **D - Incorrect:** Growing season varies by crop and agro-climate.
+
+**Examiner trap 39:** Do not import the paddy–wheat procurement experience into all oilseeds.
+
+### KEY 40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The real value of cash declines if food prices rise without indexation.
+- **B - Incorrect:** Diversion and targeting failures can occur in in-kind systems.
+- **C - Incorrect:** A pilot cannot prove universal feasibility across different market conditions.
+- **D - Correct:** This assesses both cost saving and beneficiary protection.
+
+**Examiner trap 40:** Fiscal efficiency and household food-price insurance are different metrics.
 
 ## PYQS AND ANSWER PRACTICE
 

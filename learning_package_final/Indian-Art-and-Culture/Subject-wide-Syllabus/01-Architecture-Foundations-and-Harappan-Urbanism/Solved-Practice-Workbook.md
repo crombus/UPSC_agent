@@ -13,280 +13,224 @@ topic_key: indian-art-and-culture-01
 A. Mohenjo-daro - Great Bath and integrated drainage emphasis  
 B. Lothal - securely identified royal palace  
 C. Dholavira - absence of reservoirs  
-D. Kalibangan - exact copy of Mohenjo-daro in all details  
+D. Kalibangan - exact copy of Mohenjo-daro in all details
 
-**Answer: A.**  
-**Explanation:** Mohenjo-daro is the classic site for the Great Bath and strong drainage evidence. Lothal's famous basin is debated, Dholavira is well known for reservoirs, and Kalibangan represents regional variation rather than perfect duplication.
 
 ### Q2. Which sequence keeps archaeological phase history separate from modern recovery history?
 
 A. Early Harappan -> 1921 Harappa excavation -> Mature Urban phase -> 2021 UNESCO  
 B. Early Harappan -> Mature Urban phase -> Late/Post-Urban change; separately, 1853 seal notice -> 1921 Harappa excavation -> 2021 UNESCO  
 C. 1921 Harappa excavation -> Late Harappan phase -> 1853 seal notice  
-D. UNESCO 2021 -> Early Harappan -> Cunningham 1853  
+D. UNESCO 2021 -> Early Harappan -> Cunningham 1853
 
-**Answer: B.**  
-**Explanation:** The first chain is the civilisation's own chronology; the second is the modern discovery and heritage chronology. The other options collapse two different timelines into one.
 
 ### Q3. Which of the following best represents the classification given for Harappan buildings in this topic?
 
 A. Stupas, monasteries and chaityas  
 B. Temples, tanks and gopurams  
 C. Dwelling houses, public buildings and public baths  
-D. Palaces, pyramids and ziggurats  
+D. Palaces, pyramids and ziggurats
 
-**Answer: C.**  
-**Explanation:** The Harappan classification in the core source is exactly this three-part division. The other options belong to later Indian architecture or other Bronze Age civilisations.
 
 ### Q4. A grid of streets meeting at right angles most safely supports which inference?
 
 A. One named Harappan king is known.  
 B. Every Harappan town had identical size.  
 C. Harappan religion is fully recoverable.  
-D. The settlements were pre-planned rather than organically accumulated.  
+D. The settlements were pre-planned rather than organically accumulated.
 
-**Answer: D.**  
-**Explanation:** Right-angled street planning is strong evidence of prior layout. It does not, by itself, identify rulers, theology or identical city size.
 
 ### Q5. Which statement about the citadel-lower town distinction is most defensible?
 
 A. It suggests functional zoning within a planned settlement.  
 B. It proves a fully known caste hierarchy.  
 C. It proves a palace-temple state.  
-D. It shows that the lower town lacked planned houses.  
+D. It shows that the lower town lacked planned houses.
 
-**Answer: A.**  
-**Explanation:** Functional zoning is the safest inference. The other options overread the evidence or directly contradict the planned nature of Harappan settlements.
 
 ### Q6. Which material wording is safest after the reopened factual correction?
 
 A. All Harappan construction is best described only through gypsum mortar.  
 B. Harappan architecture shows standardised baked-brick construction; technical mortar or waterproofing details should stay context-specific.  
 C. Stone was the normal Harappan material.  
-D. Harappans avoided brick in public works.  
+D. Harappans avoided brick in public works.
 
-**Answer: B.**  
-**Explanation:** The safe general claim is standardised baked-brick construction. The source line on gypsum mortar should not be inflated into a universal formula for every structure.
 
 ### Q7. Which sequence best captures the drainage logic?
 
 A. Great Bath -> granary -> stepwell -> temple tank  
 B. reservoir -> palace -> shrine -> moat  
 C. house drain -> covered street drain -> cleaning point / cesspit  
-D. private well -> inscription -> fort wall -> dock  
+D. private well -> inscription -> fort wall -> dock
 
-**Answer: C.**  
-**Explanation:** The Harappan drainage system is meaningful because household outflow linked into a larger street network with built-in maintenance points.
 
 ### Q8. Which statement is least acceptable in a careful answer on the Great Bath?
 
 A. It is a major public water structure at Mohenjo-daro.  
 B. It is surrounded by associated rooms and galleries.  
 C. It may support an inference of ritual cleansing.  
-D. It is inscriptionally confirmed as a royal temple-tank of a named priesthood.  
+D. It is inscriptionally confirmed as a royal temple-tank of a named priesthood.
 
-**Answer: D.**  
-**Explanation:** The Great Bath's ritual meaning is inferential, not inscriptionally proven, and neither a named priesthood nor a secure temple label is available.
 
 ### Q9. What is the safest way to use the word "granary" in Topic 1?
 
 A. As a conventional archaeological label supported by storage-friendly form but still open to caution  
 B. As a securely deciphered Harappan self-name  
 C. As proof of a known royal tax office  
-D. As identical in meaning at every site and phase  
+D. As identical in meaning at every site and phase
 
-**Answer: A.**  
-**Explanation:** Raised platforms and ventilation support a storage interpretation, but "granary" remains a modern label rather than a deciphered ancient building name.
 
 ### Q10. What does the finding "no confirmed palace or temple" most directly imply?
 
 A. Harappans had no religion.  
 B. Harappan authority and belief are not monumentally named in the surviving architectural record.  
 C. Harappans had no authority.  
-D. Egyptian and Mesopotamian evidence is irrelevant.  
+D. Egyptian and Mesopotamian evidence is irrelevant.
 
-**Answer: B.**  
-**Explanation:** The absence is an evidentiary limit, not a proof of cultural emptiness. It sharpens the comparison with cultures where royal-sacred monuments are explicitly identifiable.
 
 ### Q11. Why is Dholavira indispensable in a serious Topic 1 answer?
 
 A. It proves every Harappan city was identical.  
 B. It replaces the need to discuss Mohenjo-daro.  
 C. It shows standardisation through regional adaptation, especially via fortifications and reservoirs.  
-D. It disproves Harappan drainage.  
+D. It disproves Harappan drainage.
 
-**Answer: C.**  
-**Explanation:** Dholavira broadens the civilisation-wide thesis from simple uniformity to shared planning norms solved differently in different ecological settings.
 
 ### Q12. Which statement about Lothal is safest?
 
 A. It is irrelevant to Harappan architecture.  
 B. It had no connection with water questions.  
 C. It proves a deciphered maritime bureaucracy.  
-D. It contains a basin conventionally called a dockyard, but the exact function remains debated.  
+D. It contains a basin conventionally called a dockyard, but the exact function remains debated.
 
-**Answer: D.**  
-**Explanation:** Lothal matters, but the architecture answer must preserve the debated status of the basin's function.
 
 ### Q13. Which statement about domestic architecture is correct?
 
 A. Private wells, designated bathing areas and some stairways show planning reached ordinary houses.  
 B. Domestic architecture was architecturally insignificant.  
 C. Every Harappan house was identical in size and status.  
-D. Domestic evidence exists only at Dholavira.  
+D. Domestic evidence exists only at Dholavira.
 
-**Answer: A.**  
-**Explanation:** The sources use household wells, bathing spaces and stairs to show that water and planning were distributed into domestic life, though houses did vary.
 
 ### Q14. Which statement about Meluha is most careful?
 
 A. Meluha is the deciphered Harappan word for their own state.  
 B. Many scholars connect Meluha with the civilisation through Mesopotamian references and seal finds, but it remains an interpretive identification.  
 C. Meluha proves a temple economy.  
-D. Meluha is irrelevant to Harappan urbanism.  
+D. Meluha is irrelevant to Harappan urbanism.
 
-**Answer: B.**  
-**Explanation:** Trade contact is well supported, but the name remains interpretive rather than a securely recovered self-description from a deciphered Harappan text.
 
 ### Q15. Which statement most accurately reflects the script ceiling?
 
 A. The undeciphered script lets us confidently name Harappan rulers.  
 B. The script ceiling applies only to sculpture, not architecture.  
 C. The undeciphered script is a major reason architecture cannot by itself settle questions of religion, polity or named institutions.  
-D. The script has no importance for interpretive caution.  
+D. The script has no importance for interpretive caution.
 
-**Answer: C.**  
-**Explanation:** Architecture gives strong formal evidence, but the unread script and unnamed buildings sharply limit what can be claimed about institutions, kingship and worship.
 
 ### Q16. Which comparison is sharpest for a Mains answer?
 
 A. Harappan cities had nothing impressive because they lacked pyramids.  
 B. Egypt and Mesopotamia had no planning at all.  
 C. Harappan and Egyptian architecture were identical civic systems.  
-D. Harappan visible surplus is strongest in civic works, whereas Egyptian and Mesopotamian evidence foregrounds royal-sacred monumentality.  
+D. Harappan visible surplus is strongest in civic works, whereas Egyptian and Mesopotamian evidence foregrounds royal-sacred monumentality.
 
-**Answer: D.**  
-**Explanation:** This is the comparative point that turns description into analysis without making false civilisational judgments.
 
 ### Q17. Which statement best preserves the water-architecture firewall?
 
 A. Harappan civic water systems and later stepwells or temple tanks should be kept distinct because similar concern with water does not prove one uninterrupted architectural lineage.  
 B. Harappan drains evolved directly into every later Indian stepwell.  
 C. Rani-ki-Vav is a Harappan monument.  
-D. Temple tanks are identical in function to covered street drains.  
+D. Temple tanks are identical in function to covered street drains.
 
-**Answer: A.**  
-**Explanation:** The key is functional distinction: civic sanitation and settlement-wide water planning are not the same as much later ritual, commemorative or patron-centred water architecture.
 
 ### Q18. Which is locally verified for Rani-ki-Vav in this topic's approved source bank?
 
 A. Exact step count, depth and sculptural programme  
 B. It is a stepwell in Gujarat and a UNESCO World Heritage property  
 C. Full construction date and patron with inscription  
-D. Its direct descent from Harappan drainage  
+D. Its direct descent from Harappan drainage
 
-**Answer: B.**  
-**Explanation:** The local approved knowledge bank deliberately limits the safe facts here to stepwell, Gujarat and UNESCO status, precisely to avoid invention.
 
 ### Q19. Which feature is specifically attached to Modhera's Surya Kund in the approved source bank?
 
 A. It is a Mauryan reservoir repaired by Skandagupta.  
 B. It is a Harappan household well.  
 C. It is a step tank near the temple and a distinctive feature of the Solanki school.  
-D. It is the debated basin at Lothal.  
+D. It is the debated basin at Lothal.
 
-**Answer: C.**  
-**Explanation:** Modhera's Surya Kund belongs to a much later temple setting and is explicitly presented as a school-defining step tank in the approved Nitin bank.
 
 ### Q20. Why is the Junagadh/Sudarshana lake record useful in an expanded water answer?
 
 A. It proves Harappan script decipherment.  
 B. It turns every reservoir into a temple tank.  
 C. It removes the need for Dholavira.  
-D. It gives a long inscription-based history of construction and repair across dynasties, showing water maintenance as a durable state concern.  
+D. It gives a long inscription-based history of construction and repair across dynasties, showing water maintenance as a durable state concern.
 
-**Answer: D.**  
-**Explanation:** The Junagadh record is valuable because it provides rare long-duration evidence for water works as maintained public obligations, though it belongs to a different chronology from Harappan urbanism.
 
 ### Q21. Which statement about late/post-urban change is safest for Topic 1?
 
 A. Urban planning features weaken, but Topic 1 should not become a single-cause decline argument.  
 B. Late/post-urban change proves one invasion theory.  
 C. The late phase is irrelevant to architecture.  
-D. The late phase makes early and mature distinctions useless.  
+D. The late phase makes early and mature distinctions useless.
 
-**Answer: A.**  
-**Explanation:** The topic may note weakening of the classic urban package, but full decline debates belong elsewhere and should not dominate an architecture answer.
 
 ### Q22. Which opening line best fits the verified 2025 PYQ?
 
 A. Harappan trade with Mesopotamia proves a merchant monarchy.  
 B. Harappan architecture is salient because planned grids, zoned settlement, maintainable drains and standardised baked-brick construction together reveal advanced civic urbanism.  
 C. Harappan seals alone explain the architecture.  
-D. The safest answer is to ignore site names entirely.  
+D. The safest answer is to ignore site names entirely.
 
-**Answer: B.**  
-**Explanation:** This line selects the main architectural features, frames them analytically and stays inside the evidence.
 
 ### Q23. Which keyword bundle is most useful to memorise for a direct 10-mark answer?
 
 A. Gopuram, shikhara, mandapa, pradakshina  
 B. horde, janapada, mahajanapada, sangha  
 C. rectangular grid, functional zoning, maintainable drainage, standardised baked-brick construction, evidentiary caution  
-D. cave chaitya, vihara, stupa, torana  
+D. cave chaitya, vihara, stupa, torana
 
-**Answer: C.**  
-**Explanation:** This set belongs precisely to Harappan architecture and already builds description plus conclusion into the answer plan.
 
 ### Q24. Which order best represents the paragraph-building method used in the repaired learning session?
 
 A. Qualification -> Claim -> Evidence -> Analysis  
 B. Analysis -> Evidence -> Qualification -> Claim  
 C. Evidence -> Qualification -> Claim -> Analysis  
-D. Claim -> Evidence -> Analysis -> Qualification/Link  
+D. Claim -> Evidence -> Analysis -> Qualification/Link
 
-**Answer: D.**  
-**Explanation:** This sequence helps the student move from a defensible point to named support, then to significance, and finally to a careful limit or direct link to the demand.
 
 ### Q25. Which modern-recovery statement is correct?
 
 A. Cunningham noticed a Harappan seal in 1853, and Daya Ram Sahni began excavating Harappa in 1921.  
 B. UNESCO discovered Harappa in 2021.  
 C. Dholavira was first excavated by Banerjee in 1921.  
-D. Marshall noticed the first seal before Cunningham.  
+D. Marshall noticed the first seal before Cunningham.
 
-**Answer: A.**  
-**Explanation:** This is the core discovery-history pair the student must remember; the other options distort recovery chronology.
 
 ### Q26. Which statement about Dholavira's official heritage anchor is correct?
 
 A. UNESCO's official note treats Dholavira only as a temple complex.  
 B. UNESCO's official note recognises Dholavira as a Harappan city with planned urban areas, reservoirs and all three Harappan phases.  
 C. UNESCO says Dholavira belongs only to the late phase.  
-D. UNESCO rejects its water-management significance.  
+D. UNESCO rejects its water-management significance.
 
-**Answer: B.**  
-**Explanation:** The official UNESCO page highlights planned areas, fortifications, reservoirs and early, mature and late Harappan phases.
 
 ### Q27. Which evidence set most directly supports the civic-priority thesis?
 
 A. Pyramids, imperial inscriptions and royal tombs  
 B. only seals and figurines  
 C. right-angled streets, covered drains, wells, the Great Bath and Dholavira reservoirs  
-D. only the debated basin at Lothal  
+D. only the debated basin at Lothal
 
-**Answer: C.**  
-**Explanation:** This set shows why Harappan visible investment appears strongest in the organisation of urban life rather than in named royal-sacred monumentality.
 
 ### Q28. Which statement should stay outside the core architectural answer unless the question explicitly asks for it?
 
 A. The Great Bath is a public structure whose ritual meaning is inferential.  
 B. Dholavira shows regional adaptation within shared Harappan norms.  
 C. The drainage system is maintainable and city-linked.  
-D. A fully developed single-cause decline theory with detailed political history.  
+D. A fully developed single-cause decline theory with detailed political history.
 
-**Answer: D.**  
-**Explanation:** Decline theories and extended political chronology belong to other topic boundaries unless the wording specifically demands them.
 
 ### REMEDIAL PRACTICE - TRAP-FOCUSED DRILLS
 
@@ -295,40 +239,517 @@ D. A fully developed single-cause decline theory with detailed political history
 A. Replace it with "the citadel-lower town split is best read as functional zoning."  
 B. Replace it with "the citadel proves a single universal monarchy."  
 C. Replace it with "the citadel is useless evidence."  
-D. Replace it with "the citadel proves temple domination."  
+D. Replace it with "the citadel proves temple domination."
 
-**Answer: A.**  
-**Explanation:** The corrected line preserves the strength of the evidence without forcing it into a rigid social map.
 
 #### Drill 2. What is the best repair for the claim "The Great Bath proves a known priesthood"?
 
 A. Keep it unchanged because the ritual role is certain.  
 B. Repair it to: "The Great Bath is a major public water structure; ritual cleansing is plausible, not inscriptionally confirmed."  
 C. Repair it to: "The Great Bath had no public role at all."  
-D. Repair it to: "The Great Bath was definitely a palace moat."  
+D. Repair it to: "The Great Bath was definitely a palace moat."
 
-**Answer: B.**  
-**Explanation:** This is the disciplined way to preserve both the structure and the inferential limit.
 
 #### Drill 3. What is the best repair for the claim "All Harappan construction can be described through gypsum mortar"?
 
 A. Replace it with "all Harappan construction was stone-built."  
 B. Replace it with "brick evidence is unimportant."  
 C. Replace it with "standardised baked-brick construction is the safe general claim; technical mortar or waterproofing detail must remain context-specific."  
-D. Replace it with "gypsum mortar proves a named dynasty."  
+D. Replace it with "gypsum mortar proves a named dynasty."
 
-**Answer: C.**  
-**Explanation:** The reopened correction specifically requires the general claim to remain on brick standardisation, not on universalised mortar language.
 
 #### Drill 4. What is the best repair for the claim "Stepwells continue Harappan drains directly"?
 
 A. Replace it with "all later tanks are Harappan."  
 B. Replace it with "Rani-ki-Vav is a Harappan bath."  
 C. Replace it with "water architecture is not worth comparing."  
-D. Replace it with "Harappan and later water structures answer related but distinct problems and should not be merged into one unbroken lineage."  
+D. Replace it with "Harappan and later water structures answer related but distinct problems and should not be merged into one unbroken lineage."
 
-**Answer: D.**  
-**Explanation:** The correction preserves comparative value while restoring the functional firewall between civic Harappan systems and later ritual or patron-driven structures.
+### HARD SOURCE-EVIDENCE MCQS
+
+### Q29. A repeated brick module appears at distant sites. What follows without overclaim?
+
+A. Shared technical practice is likely; a named central authority is not established
+B. Every house had equal floor area and an identical well
+C. A deciphered tax schedule governed all building projects
+D. Ecological adaptation in urban water works was impossible
+
+### Q30. Consider: 1. Raised platforms and ventilation are observable. 2. "Granary" is a deciphered Harappan term. 3. Storage is a plausible interpretation. Which are defensible?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+### Q31. Which site–water set survives both attribution and chronology checks?
+
+A. Mohenjo-daro—dams; Dholavira—Great Bath; Modhera—bauli
+B. Harappa—Surya Kund; Lothal—proven port; Gaya—Harappan well
+C. Mohenjo-daro—Great Bath; Dholavira—reservoirs; Modhera—temple step tank
+D. Rani-ki-Vav—Harappan drain; Mandu—Great Bath; Kalibangan—temple tank
+
+### Q32. Similar streets but different water-storage strategies at two sites best support which reading?
+
+A. A known monarch ordered identical streets in a single year
+B. Different storage disproves a common Harappan technical culture
+C. Street grids reveal named religious officials at both sites
+D. Shared planning conventions coexist with ecological adaptation; governance remains inferential
+
+### Q33. Rank these inferences: I. Right-angle roads imply planned layout; II. Varied house sizes suggest differentiation; III. Citadel elevation proves a fixed varna order.
+
+A. I strong; II guarded; III unsupported
+B. I unsupported; II caste proven; III guarded
+C. I and III strong; II unsupported
+D. All three equally strong
+
+### Q34. Which pair correctly distinguishes identically named Surya Kund references?
+
+A. Both are one Harappan basin at Lothal
+B. Modhera has a Solanki-school step tank; Gaya has a separate reservoir near the Dakshinaarka Temple
+C. Gaya has a Hoysala kalyani; Modhera is in Mandu
+D. Modhera’s tank is the Junagadh Sudarshana lake
+
+### Q35. What can the Junagadh/Sudarshana record establish for a cross-period water answer?
+
+A. Mauryan officials built the reservoirs at Dholavira
+B. The Great Bath was a named temple tank in Harappan script
+C. Construction and repair of a later reservoir are recorded across regimes; it is not a Harappan building
+D. All Indian temple tanks were maintained by one dynasty
+
+### Q36. The Great Bath has associated rooms but the script remains undeciphered. Which inference exceeds the evidence?
+
+A. Collective access or ceremony is plausible
+B. Built water control shows engineering investment
+C. Ritual cleansing is possible without identified officiants
+D. Its priesthood had a known hereditary succession and official title
+
+### MATCHING ANSWER KEY — OPTION-BY-OPTION REASONING
+
+Attempt every MCQ and remedial drill before consulting this separate key.
+
+#### Q1 — A
+
+- **A:** Correct. Mohenjo-daro is the classic site for the Great Bath and strong drainage evidence. Lothal's famous basin is debated, Dholavira is well known for reservoirs, and Kalibangan represents regional variation rather than perfect duplication.
+- **B:** Incorrect — palace not confirmed at Lothal.
+- **C:** Incorrect — Dholavira has reservoirs.
+- **D:** Incorrect — Kalibangan is distinct.
+
+**Original explanation:** Mohenjo-daro is the classic site for the Great Bath and strong drainage evidence. Lothal's famous basin is debated, Dholavira is well known for reservoirs, and Kalibangan represents regional variation rather than perfect duplication.
+
+**Trap:** Palace not confirmed at Lothal.
+
+#### Q2 — B
+
+- **A:** Incorrect — excavation is modern.
+- **B:** Correct. The first chain is the civilisation's own chronology; the second is the modern discovery and heritage chronology. The other options collapse two different timelines into one.
+- **C:** Incorrect — 1853 precedes 1921.
+- **D:** Incorrect — UNESCO listing is modern.
+
+**Original explanation:** The first chain is the civilisation's own chronology; the second is the modern discovery and heritage chronology. The other options collapse two different timelines into one.
+
+**Trap:** Excavation is modern.
+
+#### Q3 — C
+
+- **A:** Incorrect — stupas are later.
+- **B:** Incorrect — gopurams are later.
+- **C:** Correct. The Harappan classification in the core source is exactly this three-part division. The other options belong to later Indian architecture or other Bronze Age civilisations.
+- **D:** Incorrect — palaces/pyramids are unconfirmed.
+
+**Original explanation:** The Harappan classification in the core source is exactly this three-part division. The other options belong to later Indian architecture or other Bronze Age civilisations.
+
+**Trap:** Stupas are later.
+
+#### Q4 — D
+
+- **A:** Incorrect — no named king.
+- **B:** Incorrect — not identical sizes.
+- **C:** Incorrect — cannot decode religion.
+- **D:** Correct. Right-angled street planning is strong evidence of prior layout. It does not, by itself, identify rulers, theology or identical city size.
+
+**Original explanation:** Right-angled street planning is strong evidence of prior layout. It does not, by itself, identify rulers, theology or identical city size.
+
+**Trap:** No named king.
+
+#### Q5 — A
+
+- **A:** Correct. Functional zoning is the safest inference. The other options overread the evidence or directly contradict the planned nature of Harappan settlements.
+- **B:** Incorrect — no proven caste.
+- **C:** Incorrect — no confirmed temple.
+- **D:** Incorrect — lower houses were planned.
+
+**Original explanation:** Functional zoning is the safest inference. The other options overread the evidence or directly contradict the planned nature of Harappan settlements.
+
+**Trap:** No proven caste.
+
+#### Q6 — B
+
+- **A:** Incorrect — not universal mortar.
+- **B:** Correct. The safe general claim is standardised baked-brick construction. The source line on gypsum mortar should not be inflated into a universal formula for every structure.
+- **C:** Incorrect — stone not general.
+- **D:** Incorrect — brick was central.
+
+**Original explanation:** The safe general claim is standardised baked-brick construction. The source line on gypsum mortar should not be inflated into a universal formula for every structure.
+
+**Trap:** Not universal mortar.
+
+#### Q7 — C
+
+- **A:** Incorrect — wrong periods.
+- **B:** Incorrect — no palace scheme.
+- **C:** Correct. The Harappan drainage system is meaningful because household outflow linked into a larger street network with built-in maintenance points.
+- **D:** Incorrect — inscriptions are not drains.
+
+**Original explanation:** The Harappan drainage system is meaningful because household outflow linked into a larger street network with built-in maintenance points.
+
+**Trap:** Wrong periods.
+
+#### Q8 — D
+
+- **A:** Incorrect — Bath is observed.
+- **B:** Incorrect — rooms observed.
+- **C:** Incorrect — ritual is qualified.
+- **D:** Correct. The Great Bath's ritual meaning is inferential, not inscriptionally proven, and neither a named priesthood nor a secure temple label is available.
+
+**Original explanation:** The Great Bath's ritual meaning is inferential, not inscriptionally proven, and neither a named priesthood nor a secure temple label is available.
+
+**Trap:** Bath is observed.
+
+#### Q9 — A
+
+- **A:** Correct. Raised platforms and ventilation support a storage interpretation, but "granary" remains a modern label rather than a deciphered ancient building name.
+- **B:** Incorrect — no deciphered name.
+- **C:** Incorrect — no proven tax office.
+- **D:** Incorrect — no uniform function.
+
+**Original explanation:** Raised platforms and ventilation support a storage interpretation, but "granary" remains a modern label rather than a deciphered ancient building name.
+
+**Trap:** No deciphered name.
+
+#### Q10 — B
+
+- **A:** Incorrect — not proof of no religion.
+- **B:** Correct. The absence is an evidentiary limit, not a proof of cultural emptiness. It sharpens the comparison with cultures where royal-sacred monuments are explicitly identifiable.
+- **C:** Incorrect — not proof of no authority.
+- **D:** Incorrect — comparison useful.
+
+**Original explanation:** The absence is an evidentiary limit, not a proof of cultural emptiness. It sharpens the comparison with cultures where royal-sacred monuments are explicitly identifiable.
+
+**Trap:** Not proof of no religion.
+
+#### Q11 — C
+
+- **A:** Incorrect — not identical.
+- **B:** Incorrect — complements other sites.
+- **C:** Correct. Dholavira broadens the civilisation-wide thesis from simple uniformity to shared planning norms solved differently in different ecological settings.
+- **D:** Incorrect — reservoirs do not negate drains.
+
+**Original explanation:** Dholavira broadens the civilisation-wide thesis from simple uniformity to shared planning norms solved differently in different ecological settings.
+
+**Trap:** Not identical.
+
+#### Q12 — D
+
+- **A:** Incorrect — basin is relevant.
+- **B:** Incorrect — function debated.
+- **C:** Incorrect — no named bureaucracy.
+- **D:** Correct. Lothal matters, but the architecture answer must preserve the debated status of the basin's function.
+
+**Original explanation:** Lothal matters, but the architecture answer must preserve the debated status of the basin's function.
+
+**Trap:** Basin is relevant.
+
+#### Q13 — A
+
+- **A:** Correct. The sources use household wells, bathing spaces and stairs to show that water and planning were distributed into domestic life, though houses did vary.
+- **B:** Incorrect — domestic design matters.
+- **C:** Incorrect — houses varied.
+- **D:** Incorrect — other sites have houses.
+
+**Original explanation:** The sources use household wells, bathing spaces and stairs to show that water and planning were distributed into domestic life, though houses did vary.
+
+**Trap:** Domestic design matters.
+
+#### Q14 — B
+
+- **A:** Incorrect — not self-name.
+- **B:** Correct. Trade contact is well supported, but the name remains interpretive rather than a securely recovered self-description from a deciphered Harappan text.
+- **C:** Incorrect — trade is not temple finance.
+- **D:** Incorrect — external evidence relevant.
+
+**Original explanation:** Trade contact is well supported, but the name remains interpretive rather than a securely recovered self-description from a deciphered Harappan text.
+
+**Trap:** Not self-name.
+
+#### Q15 — C
+
+- **A:** Incorrect — cannot name ruler.
+- **B:** Incorrect — also limits architecture.
+- **C:** Correct. Architecture gives strong formal evidence, but the unread script and unnamed buildings sharply limit what can be claimed about institutions, kingship and worship.
+- **D:** Incorrect — script limit matters.
+
+**Original explanation:** Architecture gives strong formal evidence, but the unread script and unnamed buildings sharply limit what can be claimed about institutions, kingship and worship.
+
+**Trap:** Cannot name ruler.
+
+#### Q16 — D
+
+- **A:** Incorrect — pyramids not only achievement.
+- **B:** Incorrect — others had planning.
+- **C:** Incorrect — not identical.
+- **D:** Correct. This is the comparative point that turns description into analysis without making false civilisational judgments.
+
+**Original explanation:** This is the comparative point that turns description into analysis without making false civilisational judgments.
+
+**Trap:** Pyramids not only achievement.
+
+#### Q17 — A
+
+- **A:** Correct. The key is functional distinction: civic sanitation and settlement-wide water planning are not the same as much later ritual, commemorative or patron-centred water architecture.
+- **B:** Incorrect — no direct descent.
+- **C:** Incorrect — later stepwell.
+- **D:** Incorrect — different function.
+
+**Original explanation:** The key is functional distinction: civic sanitation and settlement-wide water planning are not the same as much later ritual, commemorative or patron-centred water architecture.
+
+**Trap:** No direct descent.
+
+#### Q18 — B
+
+- **A:** Incorrect — step count absent.
+- **B:** Correct. The local approved knowledge bank deliberately limits the safe facts here to stepwell, Gujarat and UNESCO status, precisely to avoid invention.
+- **C:** Incorrect — patron/date not verified here.
+- **D:** Incorrect — no direct descent.
+
+**Original explanation:** The local approved knowledge bank deliberately limits the safe facts here to stepwell, Gujarat and UNESCO status, precisely to avoid invention.
+
+**Trap:** Step count absent.
+
+#### Q19 — C
+
+- **A:** Incorrect — Junagadh distinct.
+- **B:** Incorrect — Modhera later.
+- **C:** Correct. Modhera's Surya Kund belongs to a much later temple setting and is explicitly presented as a school-defining step tank in the approved Nitin bank.
+- **D:** Incorrect — Lothal distinct.
+
+**Original explanation:** Modhera's Surya Kund belongs to a much later temple setting and is explicitly presented as a school-defining step tank in the approved Nitin bank.
+
+**Trap:** Junagadh distinct.
+
+#### Q20 — D
+
+- **A:** Incorrect — does not decipher script.
+- **B:** Incorrect — not all reservoirs ritual.
+- **C:** Incorrect — does not replace Dholavira.
+- **D:** Correct. The Junagadh record is valuable because it provides rare long-duration evidence for water works as maintained public obligations, though it belongs to a different chronology from Harappan urbanism.
+
+**Original explanation:** The Junagadh record is valuable because it provides rare long-duration evidence for water works as maintained public obligations, though it belongs to a different chronology from Harappan urbanism.
+
+**Trap:** Does not decipher script.
+
+#### Q21 — A
+
+- **A:** Correct. The topic may note weakening of the classic urban package, but full decline debates belong elsewhere and should not dominate an architecture answer.
+- **B:** Incorrect — no single invasion proof.
+- **C:** Incorrect — late phase relevant.
+- **D:** Incorrect — phases useful.
+
+**Original explanation:** The topic may note weakening of the classic urban package, but full decline debates belong elsewhere and should not dominate an architecture answer.
+
+**Trap:** No single invasion proof.
+
+#### Q22 — B
+
+- **A:** Incorrect — trade not monarchy.
+- **B:** Correct. This line selects the main architectural features, frames them analytically and stays inside the evidence.
+- **C:** Incorrect — seals omit architecture.
+- **D:** Incorrect — site names help.
+
+**Original explanation:** This line selects the main architectural features, frames them analytically and stays inside the evidence.
+
+**Trap:** Trade not monarchy.
+
+#### Q23 — C
+
+- **A:** Incorrect — later temple terms.
+- **B:** Incorrect — political terms.
+- **C:** Correct. This set belongs precisely to Harappan architecture and already builds description plus conclusion into the answer plan.
+- **D:** Incorrect — later Buddhist terms.
+
+**Original explanation:** This set belongs precisely to Harappan architecture and already builds description plus conclusion into the answer plan.
+
+**Trap:** Later temple terms.
+
+#### Q24 — D
+
+- **A:** Incorrect — qualification follows claim.
+- **B:** Incorrect — analysis follows evidence.
+- **C:** Incorrect — evidence follows claim.
+- **D:** Correct. This sequence helps the student move from a defensible point to named support, then to significance, and finally to a careful limit or direct link to the demand.
+
+**Original explanation:** This sequence helps the student move from a defensible point to named support, then to significance, and finally to a careful limit or direct link to the demand.
+
+**Trap:** Qualification follows claim.
+
+#### Q25 — A
+
+- **A:** Correct. This is the core discovery-history pair the student must remember; the other options distort recovery chronology.
+- **B:** Incorrect — UNESCO not excavation.
+- **C:** Incorrect — Banerjee not Dholavira.
+- **D:** Incorrect — Marshall later than Cunningham.
+
+**Original explanation:** This is the core discovery-history pair the student must remember; the other options distort recovery chronology.
+
+**Trap:** UNESCO not excavation.
+
+#### Q26 — B
+
+- **A:** Incorrect — not a temple.
+- **B:** Correct. The official UNESCO page highlights planned areas, fortifications, reservoirs and early, mature and late Harappan phases.
+- **C:** Incorrect — multiple phases.
+- **D:** Incorrect — water highlighted.
+
+**Original explanation:** The official UNESCO page highlights planned areas, fortifications, reservoirs and early, mature and late Harappan phases.
+
+**Trap:** Not a temple.
+
+#### Q27 — C
+
+- **A:** Incorrect — pyramids elsewhere.
+- **B:** Incorrect — seals alone insufficient.
+- **C:** Correct. This set shows why Harappan visible investment appears strongest in the organisation of urban life rather than in named royal-sacred monumentality.
+- **D:** Incorrect — one basin insufficient.
+
+**Original explanation:** This set shows why Harappan visible investment appears strongest in the organisation of urban life rather than in named royal-sacred monumentality.
+
+**Trap:** Pyramids elsewhere.
+
+#### Q28 — D
+
+- **A:** Incorrect — Bath relevant.
+- **B:** Incorrect — variation relevant.
+- **C:** Incorrect — drains relevant.
+- **D:** Correct. Decline theories and extended political chronology belong to other topic boundaries unless the wording specifically demands them.
+
+**Original explanation:** Decline theories and extended political chronology belong to other topic boundaries unless the wording specifically demands them.
+
+**Trap:** Bath relevant.
+
+#### Remedial drill 1 — A
+
+- **A:** Correct. The corrected line preserves the strength of the evidence without forcing it into a rigid social map.
+- **B:** Incorrect — not proof of monarchy.
+- **C:** Incorrect — citadel is evidence.
+- **D:** Incorrect — no temple proof.
+
+**Original explanation:** The corrected line preserves the strength of the evidence without forcing it into a rigid social map.
+
+**Trap:** Not proof of monarchy.
+
+#### Remedial drill 2 — B
+
+- **A:** Incorrect — ritual not certain.
+- **B:** Correct. This is the disciplined way to preserve both the structure and the inferential limit.
+- **C:** Incorrect — public role exists.
+- **D:** Incorrect — not palace moat.
+
+**Original explanation:** This is the disciplined way to preserve both the structure and the inferential limit.
+
+**Trap:** Ritual not certain.
+
+#### Remedial drill 3 — C
+
+- **A:** Incorrect — stone not general.
+- **B:** Incorrect — brick matters.
+- **C:** Correct. The reopened correction specifically requires the general claim to remain on brick standardisation, not on universalised mortar language.
+- **D:** Incorrect — mortar not dynasty.
+
+**Original explanation:** The reopened correction specifically requires the general claim to remain on brick standardisation, not on universalised mortar language.
+
+**Trap:** Stone not general.
+
+#### Remedial drill 4 — D
+
+- **A:** Incorrect — later works distinct.
+- **B:** Incorrect — stepwell later.
+- **C:** Incorrect — comparison useful.
+- **D:** Correct. The correction preserves comparative value while restoring the functional firewall between civic Harappan systems and later ritual or patron-driven structures.
+
+**Original explanation:** The correction preserves comparative value while restoring the functional firewall between civic Harappan systems and later ritual or patron-driven structures.
+
+**Trap:** Later works distinct.
+
+#### Q29 — A
+
+- **A:** Correct — Repetition supports a common norm, not a named state.
+- **B:** Incorrect — Module similarity does not measure equal house sizes.
+- **C:** Incorrect — No deciphered Harappan tax schedule exists.
+- **D:** Incorrect — Dholavira shows local water solutions despite shared norms.
+
+**Trap:** Uniform technique is not proof of a unitary empire.
+
+#### Q30 — B
+
+- **A:** Incorrect — Statement 2 is not a deciphered self-name.
+- **B:** Correct — Observed form plus qualified interpretation are defensible.
+- **C:** Incorrect — Statement 2 cannot be rescued by plausible storage.
+- **D:** Incorrect — Undeciphered script rules out a verified indigenous building label.
+
+**Trap:** A modern functional label is not an ancient inscription.
+
+#### Q31 — C
+
+- **A:** Incorrect — The Bath belongs to Mohenjo-daro and the named bauli to Mandu.
+- **B:** Incorrect — Surya Kund is later and Lothal basin function remains debated.
+- **C:** Correct — All three named structures match their distinct sourced settings.
+- **D:** Incorrect — These pairings wrongly transfer sites and periods.
+
+**Trap:** Match structure, site and period before inferring function.
+
+#### Q32 — D
+
+- **A:** Incorrect — Neither king nor construction date follows from similarity.
+- **B:** Incorrect — Regional solutions do not erase shared planning practices.
+- **C:** Incorrect — Roads do not name cult officials.
+- **D:** Correct — This preserves both common urban norms and distinct local responses.
+
+**Trap:** Shared norms do not entail identical cities.
+
+#### Q33 — A
+
+- **A:** Correct — Road geometry is direct; house-size inference is qualified; varna is unsupported.
+- **B:** Incorrect — Streets are direct evidence and size does not prove caste.
+- **C:** Incorrect — Elevation cannot establish varna.
+- **D:** Incorrect — Archaeological inferences have unequal evidentiary strength.
+
+**Trap:** Differentiate observation, plausible inference and unsupported social identification.
+
+#### Q34 — B
+
+- **A:** Incorrect — Neither location is the Lothal basin.
+- **B:** Correct — The sources identify two different temple-water settings.
+- **C:** Incorrect — Kalyani and Mandu bauli name different contexts.
+- **D:** Incorrect — Junagadh is a separate reservoir and epigraphic record.
+
+**Trap:** Shared names do not equate sites or patrons.
+
+#### Q35 — C
+
+- **A:** Incorrect — The inscription cannot assign Dholavira’s prehistoric builders.
+- **B:** Incorrect — It is not a deciphered Harappan description of Mohenjo-daro.
+- **C:** Correct — Epigraphic repair evidence applies to a distinct reservoir.
+- **D:** Incorrect — A multi-period lake record cannot govern all temple tanks.
+
+**Trap:** Epigraphic certainty does not transfer across sites or ages.
+
+#### Q36 — D
+
+- **A:** Incorrect — This remains a qualified possibility rather than proof.
+- **B:** Incorrect — The structure itself supplies material evidence of engineering.
+- **C:** Incorrect — This reading explicitly leaves ritual officers unnamed.
+- **D:** Correct — Neither built form nor unread writing yields hereditary offices.
+
+**Trap:** Possible ritual use is not a named priesthood.
 
 ## PYQS AND ANSWER PRACTICE
 

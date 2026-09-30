@@ -12,827 +12,639 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+Choose the best response. All questions appear before the separately matched key. The last quarter comprises remedial applications.
+
 #### MCQ 1
 
-An answer praises personal courage but proposes no secure channel, anti-retaliation measure or investigation route. What essential institutional lesson is missing? Which source-grounded ethical principle most precisely explains the case?
+An NHAI engineer reports road-construction wrongdoing and an IOC officer resists petrol adulteration; both are murdered. A candidate concludes that their courage alone solved the problem. Which correction is necessary?
 
-A. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-B. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-C. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-D. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-**Answer:** A
-**Explanation:** **Manjunath and Dubey reveal an unresolved protection gap** is the controlling principle. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use Satyendra Dubey and Manjunath Shanmugam to show why secure reporting, independent follow-up and anti-retaliation institutions matter; note the 2014 Act remains uncommenced.
+B. Claim the deaths demonstrate that no officer ever tried to report corruption.
+C. State the Whistle Blowers Protection Act entered into force automatically upon assent.
+D. Use the cases solely as proof that publicity is safer than a confidential channel.
 
 ---
 
 #### MCQ 2
 
-A department separates the informer's identity, assesses threats, preserves evidence and routes the allegation independently. Which case-derived mechanism is being applied? Which source-grounded ethical principle most precisely explains the case?
+A CVC complaint preserves the sender's name in a public attachment despite hiding it on the portal screen. What is the operational PIDPI lesson?
 
-A. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-B. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-C. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-D. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-**Answer:** B
-**Explanation:** **Manjunath and Dubey reveal an unresolved protection gap** is the controlling principle. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Conclude that removing the name from the web form eliminates identification risk.
+B. Restrict all identity-bearing attachments and access logs, preserve originals securely and investigate independently without publishing an untested accusation.
+C. Permit the accused's office to receive unredacted originals to save investigator time.
+D. Declare the accused guilty because a protected disclosure was submitted.
 
 ---
 
 #### MCQ 3
 
-A candidate says the 2014 enactment immediately supplied every whistleblower with an operational statutory remedy. Which legal-status distinction defeats the claim? Which source-grounded ethical principle most precisely explains the case?
+Parliament expels a member after an externally supplied sting shows paid questions. A reformer claims this proves its own committees discover corruption proactively. Which comparison is sound?
 
-A. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-B. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-C. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-D. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-**Answer:** C
-**Explanation:** **The 2014 protection statute is not operational merely because enacted** is the controlling principle. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Parliamentary privilege makes any internal discipline impossible.
+B. External exposure is proof there was never any misconduct.
+C. The Mudgal and 2005 cash-for-questions examples show disciplinary capacity when evidence emerges, but outside triggering makes detection largely reactive; add prospective ethics monitoring.
+D. The cases establish that every undetected conflict has already been prevented.
 
 ---
 
 #### MCQ 4
 
-An answer distinguishes enacted text, commencement and the interim administrative route. Which form of legal precision does this demonstrate? Which source-grounded ethical principle most precisely explains the case?
+A village hears rumours of fictitious public-works employees; it can inspect muster rolls and payment vouchers. Which MKSS Jan Sunwai design makes scrutiny evidentiary?
 
-A. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-B. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-C. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-D. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-**Answer:** D
-**Explanation:** **The 2014 protection statute is not operational merely because enacted** is the controlling principle. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Hold a rally without obtaining or examining the payment documents.
+B. Ask an interested contractor privately to certify his own muster roll.
+C. Treat every missing worker at one meeting as automatic proof of all officials' guilt.
+D. Cross-check official registers against workers' testimony publicly, document mismatches and route verified discrepancies to accountable authorities.
 
 ---
 
 #### MCQ 5
 
-A portal hides the complainant's name on screen but circulates an identifiable attachment to the accused chain. Which protection failure remains? Which source-grounded ethical principle most precisely explains the case?
+Fair-price-shop beneficiaries suspect ration diversion. Which Parivartan-style action tests the allegation without prejudging the dealer?
 
-A. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-B. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-C. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-D. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-**Answer:** A
-**Explanation:** **Confidentiality is a process, not a slogan** is the controlling principle. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use lawful information access to reconcile stock registers, allotments and beneficiary receipts, then submit checkable discrepancies for review.
+B. Publish the dealer's criminal conviction before looking at distribution records.
+C. Survey only opinions about corruption without obtaining stock or issue data.
+D. Close all fair-price shops immediately and leave beneficiaries without rations.
 
 ---
 
 #### MCQ 6
 
-Only a designated cell can decrypt identity data, and every access is logged and reviewable. Which practical safeguard is illustrated? Which source-grounded ethical principle most precisely explains the case?
+Two districts purchase identical kiosks. In one, people obtain certified copies and track grievances without brokers; in the other, an officer still controls every approval invisibly. What determines whether Gyandoot-style digitisation cuts rents?
 
-A. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-B. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-C. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-D. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-**Answer:** B
-**Explanation:** **Confidentiality is a process, not a slogan** is the controlling principle. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The number of computers alone, regardless of who controls outcomes.
+B. The redesign of citizen contact and discretion, with usable access and a trackable grievance path, rather than computer purchases alone.
+C. Mandatory disclosure of all personal data to every broker.
+D. Removing every human appeal even when the digital system rejects a valid application.
 
 ---
 
 #### MCQ 7
 
-An agency publicly condemns an official solely because a protected complaint was filed. Which due-process error has occurred? Which source-grounded ethical principle most precisely explains the case?
+Karnataka's Bhoomi generates mutation notices and a defined objection window; a registration office merely scans deeds but leaves valuation control opaque. Which inference respects the ARC's CARD finding?
 
-A. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-B. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-C. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-D. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-**Answer:** C
-**Explanation:** **A whistleblower allegation still requires fair verification** is the controlling principle. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Any digital scan necessarily reduces bribery to zero.
+B. CARD proved Bhoomi's recorded improvements never happened.
+C. Digitising storage is not equivalent to automating or constraining discretionary decision points; evaluate corruption at the transaction, not only file retrieval.
+D. Eliminating objections would make a mutation system automatically fairer.
 
 ---
 
 #### MCQ 8
 
-Identity protection operates alongside independent evidence testing and a fair hearing. Which balanced rule follows from the named whistleblower cases? Which source-grounded ethical principle most precisely explains the case?
+A rural land-record office proposes removing manual delays but has no way to notify neighbours of a mutation. Which Bhoomi element should it preserve?
 
-A. The Whistle Blowers Protection Act received assent in 2014 but requires a commencement notification; an official Lok Sabha answer in 2025 stated that it had not been brought into force, while the administrative PIDPI route continued.
-
-B. Effective whistleblower protection requires restricted identity access, secure evidence storage, retaliation monitoring, emergency risk measures and independent review; merely labelling a complaint confidential does not control who can trace or punish the informant.
-
-C. Manjunath Shanmugam and Satyendra Dubey exposed serious wrongdoing and were killed, but their ethical significance lies in the continuing need for safe reporting, identity protection, risk response and credible follow-up rather than martyrdom alone.
-
-D. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum.
-
-**Answer:** D
-**Explanation:** **A whistleblower allegation still requires fair verification** is the controlling principle. The public value of disclosure does not convert allegation into guilt; institutions must protect the informant while authenticating records, defining the charge, hearing affected persons and leaving final responsibility to the competent forum. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Silent mutation without notice because automation guarantees consent.
+B. Unlimited discretionary delay without status information.
+C. Replace records with oral assurances from the revenue inspector.
+D. Automatic notice with a defined opportunity to object, a traceable approval decision and accessible records, not instantaneous unreviewable mutation.
 
 ---
 
 #### MCQ 9
 
-A legislator claims parliamentary privilege prevents the House from responding to proven paid advocacy by a member. Which precedent answers the claim? Which source-grounded ethical principle most precisely explains the case?
+A State imports only Hong Kong ICAC's enforcement wing and omits preventive review and education. Which feature of that named model is lost?
 
-A. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-B. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-C. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-D. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-**Answer:** A
-**Explanation:** **Mudgal established a parliamentary corrective precedent** is the controlling principle. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Its three-pronged operations, corruption prevention and community-relations design that also changes social tolerance of bribery.
+B. Its rule that every suspect is guilty on complaint.
+C. Its identical territorial structure to each Indian district.
+D. Its supposed ban on teaching citizens about integrity.
 
 ---
 
 #### MCQ 10
 
-The House acts on a committee's evidence and protects the integrity of representation. Which institutional capacity is shown? Which source-grounded ethical principle most precisely explains the case?
+A ministry cites an ARC-era Singapore penalty as if it were current and uses its old confiscation law. What provenance discipline should the answer follow?
 
-A. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-B. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-C. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-D. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-**Answer:** B
-**Explanation:** **Mudgal established a parliamentary corrective precedent** is the controlling principle. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a 2007 annexure as automatically updating subsequent statutes.
+B. Date the ARC's historical claim; distinguish currently stated Singapore PC Act penalties and the replacement confiscation regime before drawing lessons for India.
+C. Assert Singapore has never criminalised private-sector bribery.
+D. Import a fine in Singapore dollars into an Indian criminal judgment without legislation.
 
 ---
 
 #### MCQ 11
 
-An answer cites the expulsions as proof that internal ethics systems automatically detect all misconduct. Which limitation has been ignored? Which source-grounded ethical principle most precisely explains the case?
+An essay repeats an ARC annexure's claim that a Korean dismissed official's grandchildren automatically face today's legal penalty. What is the source-status problem?
 
-A. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-B. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-C. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-D. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-**Answer:** C
-**Explanation:** **Cash-for-questions confirms power but also reactivity** is the controlling principle. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The claim is confirmed merely because an annexure uses the word 'Korea'.
+B. The present Korean ACRC's existence validates every historical family-liability detail.
+C. The family/recommender extension lacks independent corroboration; attribute it specifically to the ARC and discuss hypothetical fairness without presenting it as verified current law.
+D. Any uncertainty requires dropping all comparative evidence, including corroborated re-employment restrictions.
 
 ---
 
 #### MCQ 12
 
-A reform retains expulsion for proved misconduct but adds disclosure analytics and proactive ethics monitoring. Which gap is it addressing? Which source-grounded ethical principle most precisely explains the case?
+A commentator says severe statutory penalties alone guarantee low corruption and cites Thailand; another says Finland has no bribery crimes. Which correction uses both cases accurately?
 
-A. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-B. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-C. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-D. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-**Answer:** D
-**Explanation:** **Cash-for-questions confirms power but also reactivity** is the controlling principle. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Thailand proves law enforcement is ethically irrelevant in every setting.
+B. Finland's lack of a standalone statute means bribery is lawful there.
+C. Higher sentences always override enforcement quality, trust and transparency.
+D. The ARC's Thailand comparison cautions against single-lever deterrence; Finland lacks a separate anti-corruption statute but does have Criminal Code bribery offences and stronger institutional culture.
 
 ---
 
 #### MCQ 13
 
-A social audit meeting gathers grievances without obtaining the underlying records. Which distinctive evidentiary element of Jan Sunwai is absent? Which source-grounded ethical principle most precisely explains the case?
+In a workplace harassment case an employer cites Vishaka as the only operative law and chooses the respondent's business partner to chair the IC. What is the accurate framework?
 
-A. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-B. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-C. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-D. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-**Answer:** A
-**Explanation:** **MKSS Jan Sunwai converts records into public proof** is the controlling principle. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Vishaka supplied interim constitutional guidelines; the 2013 POSH Act now requires a properly constituted, impartial IC and a fair protected inquiry.
+B. Vishaka permanently displaces any later enacted statute.
+C. A conflicted presiding officer is safe if the employer believes the respondent.
+D. A complainant's submission itself proves the respondent guilty.
 
 ---
 
 #### MCQ 14
 
-Villagers compare muster-roll names with actual workers and publicly record contradictions. Which accountability mechanism is operating? Which source-grounded ethical principle most precisely explains the case?
+A biomedical participant signs a technical consent form after being told treatment will be denied if she refuses a trial. Which ICMR-guideline principle is most directly endangered?
 
-A. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-B. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-C. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-D. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-**Answer:** B
-**Explanation:** **MKSS Jan Sunwai converts records into public proof** is the controlling principle. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. A signature automatically establishes free choice regardless of pressure.
+B. Voluntary, comprehensible informed consent, with additional safeguards for vulnerable participants and independent ethics review of adverse data.
+C. A sponsor may omit unfavourable safety findings to protect recruitment.
+D. The 2017 ethical guidance makes every Institutional Ethics Committee a single central police agency.
 
 ---
 
 #### MCQ 15
 
-Residents complain of shortages but cannot inspect stock or issue records. Which information bridge would the Parivartan example recommend? Which source-grounded ethical principle most precisely explains the case?
+A trial committee has approved a protocol but subsequently learns adverse-event data were excluded. What must the named-evidence method show?
 
-A. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-B. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-C. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-D. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-**Answer:** C
-**Explanation:** **Parivartan made PDS diversion testable through RTI** is the controlling principle. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Prior approval permanently extinguishes all monitoring duty.
+B. Submit only favourable outcomes because consent has been obtained.
+C. Under ICMR guidance, restore the complete data for meaningful continuing IEC review and pause compromised recruitment pending its decision.
+D. Publicly name all participants before independently confirming the error.
 
 ---
 
 #### MCQ 16
 
-A community reconciles shop registers, beneficiary accounts and physical delivery before seeking action. Which case mechanism is replicated? Which source-grounded ethical principle most precisely explains the case?
+Threatened Chakma/Hajong families in India seek protection from mob violence; officials answer that Article 21 covers citizens only. Which case supplies the precise correction?
 
-A. The 2005 cash-for-questions episode led to expulsion of ten Lok Sabha members and one Rajya Sabha member, yet the process followed external exposure; it proves corrective capacity more clearly than proactive detection.
-
-B. MKSS combined official muster rolls, vouchers, beneficiary lists and completion certificates with community-witnessed public hearings, allowing villagers to cross-check paper claims against work, payment and local knowledge.
-
-C. The 1951 H.G. Mudgal case showed that the House could treat proven acceptance of benefits for parliamentary favours as conduct incompatible with membership and use expulsion as institutional self-discipline.
-
-D. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim.
-
-**Answer:** D
-**Explanation:** **Parivartan made PDS diversion testable through RTI** is the controlling principle. Parivartan used access to fair-price-shop stock registers to compare recorded grain and oil with actual distribution, turning diffuse suspicion of diversion into a transaction-level accountability claim. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Article 21 cannot apply to anyone who lacks Indian citizenship.
+B. The judgment awarded permanent citizenship to every foreign entrant without process.
+C. A later interim deportation order nullified all constitutional protection against violence.
+D. NHRC v. State of Arunachal Pradesh protects the life and liberty of every person and required State protection, without creating an automatic indefinite right of residence.
 
 ---
 
 #### MCQ 17
 
-A district buys computers but citizens still require a broker to obtain every certified record. Which Gyandoot design objective remains unmet? Which source-grounded ethical principle most precisely explains the case?
+A district cites the Salimullah interim order as a final universal ruling that every refugee must be deported. What is the defensible reading?
 
-A. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-B. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-C. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-D. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-**Answer:** A
-**Explanation:** **Gyandoot reduced costly human intermediation** is the controlling principle. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. It declined interim stay for a specific group subject to legal process; it did not finally resolve the underlying customary non-refoulement debate or erase Article 21 protections.
+B. The order permanently decided every asylum claim on its merits.
+C. No lawful removal can ever occur after NHRC v. Arunachal Pradesh.
+D. Treat non-citizen safety as optional pending a later court ruling.
 
 ---
 
 #### MCQ 18
 
-Village kiosks publish service access, fees and grievance registration without repeated office visits. Which mechanism is illustrated? Which source-grounded ethical principle most precisely explains the case?
+Communal rumours spread before a sensitive procession. An officer proposes appointing an inquiry commission but no immediate prevention. What do Bhagalpur and later commission examples actually teach?
 
-A. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-B. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-C. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-D. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-**Answer:** B
-**Explanation:** **Gyandoot reduced costly human intermediation** is the controlling principle. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. A commission's future report can prevent violence without any field action.
+B. Commissions can establish later facts and accountability; protect people now through verified information, proportionate policing and local dialogue with records preserved.
+C. Suppress all communication for an unlimited period without review.
+D. Use mob accusations as substitutes for individual legal evidence.
 
 ---
 
-#### MCQ 19
+#### MCQ 19 — remedial
 
-An office scans records but preserves an undefined approval queue controlled by one official. Why is this unlike the strongest Bhoomi lesson? Which source-grounded ethical principle most precisely explains the case?
+A State restricts communications during unrest but hides its order and gives no end date. Which Anuradha Bhasin lesson applies?
 
-A. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-B. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-C. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-D. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-**Answer:** C
-**Explanation:** **Bhoomi changed the mutation workflow** is the controlling principle. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. All restrictions are automatically unconstitutional regardless of danger.
+B. Secrecy makes an indefinite order more proportionate.
+C. Publish reasoned orders, use the least restrictive suitable measure, limit duration and provide periodic review so affected persons can challenge it.
+D. Only the executive may see the grounds because public challenge is irrelevant.
 
 ---
 
-#### MCQ 20
+#### MCQ 20 — remedial
 
-A mutation request automatically generates notice, deadline and auditable status. Which anti-corruption design principle is applied? Which source-grounded ethical principle most precisely explains the case?
+Police arrest a suspect accused of grave corruption and omit the arrest memo and family notice on the theory that guilt is obvious. Which named authority answers them?
 
-A. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-B. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-C. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-D. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-**Answer:** D
-**Explanation:** **Bhoomi changed the mutation workflow** is the controlling principle. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. A serious allegation permits unrecorded custody indefinitely.
+B. An arrest memo is necessary only after acquittal.
+C. Independent medical review is itself proof the suspect is innocent.
+D. D.K. Basu requires recorded arrest and detention safeguards, including notice and medical checks; seriousness of suspicion does not nullify Article 21/22 protections.
 
 ---
 
-#### MCQ 21
+#### MCQ 21 — remedial
 
-A ministry claims any database conversion necessarily lowers bribery. Which named comparison directly challenges that inference? Which source-grounded ethical principle most precisely explains the case?
+A biometric welfare system denies a household food after failed authentication. What is the lesson of rule-case comparison?
 
-A. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-B. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-C. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-D. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-**Answer:** A
-**Explanation:** **CARD is the necessary digital-government counter-example** is the controlling principle. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply entitlement and due-process principles to provide authorised alternative verification, delivery with audit and an appeal, rather than treating machine failure as fraud.
+B. Let the algorithm make an unreviewable final moral judgment.
+C. Release every household record publicly to find the cause.
+D. End every eligibility check permanently.
 
 ---
 
-#### MCQ 22
+#### MCQ 22 — remedial
 
-A project evaluation asks whether approval discretion, valuation opacity and citizen dependence actually changed. Which CARD-derived test is being used? Which source-grounded ethical principle most precisely explains the case?
+A policing algorithm predicts danger in one ethnic neighbourhood; officers propose detention without individual grounds. Which combined comparison is apt?
 
-A. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-B. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-C. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-D. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-**Answer:** B
-**Explanation:** **CARD is the necessary digital-government counter-example** is the controlling principle. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume the model's score itself supplies lawful individual suspicion.
+B. Use equality and liberty limits with individual evidence, bias testing, transparent review and safeguards against surveillance spillover.
+C. Ban every analytic tool without evaluating whether it can be made lawful.
+D. Publish residents' risk scores to encourage community compliance.
 
 ---
 
-#### MCQ 23
+#### MCQ 23 — remedial
 
-Two portals use similar software but only one removes manual discretion. What variable should an ethical evaluation prioritise? Which source-grounded ethical principle most precisely explains the case?
+A candidate quotes Dubey, Bhoomi, Finland and D.K. Basu in one paragraph but states no mechanism or limit. How can the examples become evidence?
 
-A. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-B. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-C. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-D. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-**Answer:** C
-**Explanation:** **Technology must be tied to the corruption mechanism** is the controlling principle. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Increase the number of names while leaving causal links unexplained.
+B. Treat every foreign institution as directly binding Indian law.
+C. For each, identify the verified rule or event, the causal mechanism, the implementation boundary and the specific decision to which it applies.
+D. Claim a single successful case proves universal success without counterevidence.
 
 ---
 
-#### MCQ 24
+#### MCQ 24 — remedial
 
-A reform maps each bribery opportunity to a redesigned step and measurable citizen outcome. Which comparative lesson is followed? Which source-grounded ethical principle most precisely explains the case?
+A public official seeks to adapt ICAC education, Singapore deterrence and participatory audit to a large Indian federal State. Which design respects comparative limitations?
 
-A. Bhoomi did more than digitise land records: automatic mutation notices, a defined objection period and kiosk access altered the workflow and reduced the revenue official's discretionary gatekeeping over routine transactions.
-
-B. The ARC-cited evaluation of Andhra Pradesh's CARD project found no significant corruption difference between computerised and non-computerised Sub-Registrar Offices, warning that digitised records alone may leave discretionary decisions intact.
-
-C. Gyandoot used locally operated kiosks to provide land records, market rates, applications, grievances and benefit information; its anti-corruption value arose from accessible services and reduced dependence on discretionary intermediaries.
-
-D. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity.
-
-**Answer:** D
-**Explanation:** **Technology must be tied to the corruption mechanism** is the controlling principle. Bhoomi and CARD should be compared through the decision process: automation, notice, deadlines and auditability can reduce gatekeeping, while digitising storage without changing approval power may reproduce the same rent opportunity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Copy Hong Kong's administrative geography without State roles.
+B. Adopt only maximum punishments while discarding complaint safety and prevention.
+C. Use Korean family punishment as verified current law without checking attribution.
+D. Pilot district-level education and document-based social audits, align competent State/Union investigations and publish testable outcome measures with due-process review.
 
 ---
 
-#### MCQ 25
+### MATCHED ANSWER KEY — FOUR OPTION DIAGNOSTICS
 
-A government copies only investigative powers and omits prevention review and public education. Which part of the ICAC mechanism has been lost? Which source-grounded ethical principle most precisely explains the case?
+#### MCQ 1 — A
 
-A. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-B. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-C. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-D. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-**Answer:** A
-**Explanation:** **Hong Kong ICAC uses three mutually supporting prongs** is the controlling principle. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The ARC names both cases as evidence of an institutional protection gap still relevant today.
+- **B:** Both officers resisted or exposed wrongdoing.
+- **C:** Assent is not commencement.
+- **D:** Uncontrolled exposure can magnify danger.
+- **Trap to avoid:** Both officers resisted or exposed wrongdoing. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-Investigators pursue offences while specialists redesign procedures and educators build public resistance to bribery. Which model is represented? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-B. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-C. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-D. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-**Answer:** B
-**Explanation:** **Hong Kong ICAC uses three mutually supporting prongs** is the controlling principle. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Metadata and attachments can identify a source.
+- **B:** Confidentiality must survive transmission and verification, not merely interface design.
+- **C:** Unredacted circulation invites retaliation.
+- **D:** Disclosure is an allegation, not a verdict.
+- **Trap to avoid:** Unredacted circulation invites retaliation. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-An answer repeats the lower fine printed in the ARC's 2007 annexure as present law. Which source-handling error has occurred? Which source-grounded ethical principle most precisely explains the case?
-
-A. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-B. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-C. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-D. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-**Answer:** C
-**Explanation:** **Singapore penalties must use current official figures** is the controlling principle. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The Houses did act on documented misconduct.
+- **B:** External evidence does not exonerate.
+- **C:** Sanction after public exposure does not prove proactive detection.
+- **D:** Undetected breaches cannot be inferred away.
+- **Trap to avoid:** Undetected breaches cannot be inferred away. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A candidate dates the ARC figure, then cites CPIB's current maximum separately. Which comparative practice is correct? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-B. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-C. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-D. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-**Answer:** D
-**Explanation:** **Singapore penalties must use current official figures** is the controlling principle. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A meeting without records cannot test false entries.
+- **B:** A conflicted self-certification lacks independent checking.
+- **C:** Absence alone needs context and a fair verification process.
+- **D:** Document access plus community-witnessed verification distinguishes social audit from slogan.
+- **Trap to avoid:** A meeting without records cannot test false entries. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-A student states that modern Korean law automatically punishes an offender's grandchildren. Which evidentiary caveat is missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-B. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-C. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-D. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-**Answer:** A
-**Explanation:** **Korea's wider liability claim requires attribution** is the controlling principle. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The Delhi example's causal lever is inspectable records tested against actual delivery.
+- **B:** Suspicion cannot replace a trial.
+- **C:** Perceptions alone do not prove diversion.
+- **D:** Blanket closure punishes beneficiaries.
+- **Trap to avoid:** Suspicion cannot replace a trial. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-An essay uses the claim hypothetically, identifies its ARC attribution and examines individual fairness. Which disciplined use is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-B. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-C. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-D. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-**Answer:** B
-**Explanation:** **Korea's wider liability claim requires attribution** is the controlling principle. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Hardware does not by itself remove gatekeeping.
+- **B:** Access and decision-stage changes determine reduced dependence on intermediaries.
+- **C:** Privacy breaches are not a remedy for opacity.
+- **D:** Human review remains necessary for errors.
+- **Trap to avoid:** Privacy breaches are not a remedy for opacity. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-A proposal assumes harsher punishment mechanically produces a cleaner administration. Which current comparison supplies a caution? Which source-grounded ethical principle most precisely explains the case?
-
-A. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-B. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-C. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-D. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-**Answer:** C
-**Explanation:** **Finland and Thailand defeat single-lever explanations** is the controlling principle. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Computerisation does not guarantee changed incentives.
+- **B:** Different findings can both stand in their contexts.
+- **C:** Bhoomi's notice and process controls matter; CARD's comparison limits technology determinism.
+- **D:** An objection window guards affected landowners.
+- **Trap to avoid:** An objection window guards affected landowners. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-An answer links sanctions with rule of law, enforcement, transparency and culture. Which multi-causal conclusion follows? Which source-grounded ethical principle most precisely explains the case?
-
-A. Singapore's CPIB states that the current general maximum is S$100,000 or five years' imprisonment or both per count, rising to seven years where corruption concerns a Government or public-body contract.
-
-B. The ARC annexure attributes family and recommender consequences to Korea's 1975 reform, but independent corroboration for that extension is lacking; it should be presented as the ARC's account, not verified current Korean law.
-
-C. Hong Kong's ICAC links law enforcement, corruption prevention and community education through specialised departments; the model treats punishment, system repair and social norms as complements rather than interchangeable substitutes.
-
-D. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity.
-
-**Answer:** D
-**Explanation:** **Finland and Thailand defeat single-lever explanations** is the controlling principle. CPI 2025 placed Finland at 88 and rank 2, while Thailand stood at 33 and rank 116 of 182; paired with their legal contexts, the figures caution against equating statutory severity alone with integrity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Notice is a fairness safeguard.
+- **B:** Opacity recreates rents.
+- **C:** Unrecorded assurances undermine auditability.
+- **D:** Automation should constrain gatekeeping while retaining affected-party process.
+- **Trap to avoid:** Notice is a fairness safeguard. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-An employer in 2005 argues that no duty existed because Parliament had not legislated. Which judicial mechanism defeats the claim? Which source-grounded ethical principle most precisely explains the case?
-
-A. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-B. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-C. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-D. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-**Answer:** A
-**Explanation:** **Vishaka was binding interim judicial law** is the controlling principle. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** ICAC's comparative value combines deterrence with opportunity and norm change.
+- **B:** Complaint-based guilt is not its design.
+- **C:** Indian federal scale calls for adaptation, not identity.
+- **D:** Education is one of the model's actual functions.
+- **Trap to avoid:** Complaint-based guilt is not its design. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-A present answer cites the 2013 statute while using Vishaka for its constitutional foundation. Which historical sequence is correct? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-B. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-C. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-D. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-**Answer:** B
-**Explanation:** **Vishaka was binding interim judicial law** is the controlling principle. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** An annexure cannot update itself.
+- **B:** Historical comparison and present law require separate sources and dates.
+- **C:** CPIB's regime covers public and private cases.
+- **D:** Foreign penalties do not apply automatically in India.
+- **Trap to avoid:** CPIB's regime covers public and private cases. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-The presiding officer is the respondent's direct business partner but refuses recusal because the committee exists by law. Which limitation is exposed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-B. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-C. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-D. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-**Answer:** C
-**Explanation:** **A statutory committee is not automatically impartial** is the controlling principle. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Single-source assertion is not independent corroboration.
+- **B:** A modern institution cannot prove that older detail.
+- **C:** Attribution marks the limit of verification while retaining a legitimate analytical question.
+- **D:** Source discipline permits using the verified parts.
+- **Trap to avoid:** Source discipline permits using the verified parts. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-An alternate unconflicted process preserves the complainant's safety and the respondent's hearing. Which rule-case balance is achieved? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-B. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-C. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-D. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-**Answer:** D
-**Explanation:** **A statutory committee is not automatically impartial** is the controlling principle. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Deterrence still matters among several levers.
+- **B:** Criminal Code offences remain.
+- **C:** Severity without credible enforcement may be weak.
+- **D:** Neither penalties alone nor precise standalone drafting substitutes for effective institutions.
+- **Trap to avoid:** Deterrence still matters among several levers. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-A poor participant signs a technical form after being told treatment depends on joining. Which research-ethics defects remain? Which source-grounded ethical principle most precisely explains the case?
-
-A. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-B. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-C. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-D. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-**Answer:** A
-**Explanation:** **ICMR ethics makes consent an ongoing protection** is the controlling principle. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Chronology and actual committee independence both matter.
+- **B:** The interim guidelines were followed by legislation.
+- **C:** An interested chair undermines process legitimacy.
+- **D:** Allegations still require evidence and hearing.
+- **Trap to avoid:** The interim guidelines were followed by legislation. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-The committee reviews recruitment pressure, translated information, withdrawal rights and adverse events. Which ethical framework is operating? Which source-grounded ethical principle most precisely explains the case?
-
-A. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-B. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-C. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-D. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-**Answer:** B
-**Explanation:** **ICMR ethics makes consent an ongoing protection** is the controlling principle. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Formal paperwork cannot cure coercion.
+- **B:** Threatened loss of care vitiates meaningful choice; oversight must see complete evidence.
+- **C:** Selective reporting conceals risk.
+- **D:** Institution-level IEC oversight is not one nationwide police body.
+- **Trap to avoid:** Selective reporting conceals risk. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-A committee routinely approves sponsor submissions without reading adverse-event data. Which implementation limitation is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-B. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-C. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-D. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-**Answer:** C
-**Explanation:** **Guidelines depend on institutional enforcement quality** is the controlling principle. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Approval does not erase new evidence.
+- **B:** Missing harms undermine consent and safety.
+- **C:** The instrument's mechanism is continuing independent review, not one-off approval.
+- **D:** Confidentiality still applies.
+- **Trap to avoid:** Confidentiality still applies. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-Independent members demand complete safety data and suspend recruitment pending clarification. Which oversight responsibility is fulfilled? Which source-grounded ethical principle most precisely explains the case?
-
-A. The workplace statute mandates an Internal Committee and procedural timelines, but formal constitution cannot cure a personal conflict, employer capture or unsafe reporting culture; fair composition and reasoned process remain essential.
-
-B. The ICMR 2017 guidelines require comprehensible voluntary consent, added safeguards for vulnerable participants and continuing Ethics Committee oversight; a signed form cannot validate concealment, coercion or distorted safety reporting.
-
-C. Vishaka treated workplace sexual harassment as violating constitutional guarantees and issued binding guidelines until legislation; the 2013 workplace statute later created a detailed preventive and redress framework.
-
-D. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture.
-
-**Answer:** D
-**Explanation:** **Guidelines depend on institutional enforcement quality** is the controlling principle. ICMR guidance supplies substantive standards, but site-level protection depends on an independent and competent Ethics Committee that reviews risk, consent, vulnerability, safety reporting and protocol deviations without sponsor capture. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The judgment explicitly addressed non-citizens.
+- **B:** Life protection is not automatic citizenship.
+- **C:** Interim reasoning cannot erase Article 21's basic reach.
+- **D:** Article 21 protection and immigration status are distinct.
+- **Trap to avoid:** The judgment explicitly addressed non-citizens. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A mob threatens non-citizens while officials treat nationality as a reason for inaction. Which constitutional precedent requires protection? Which source-grounded ethical principle most precisely explains the case?
-
-A. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-B. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-C. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-D. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-**Answer:** A
-**Explanation:** **NHRC v Arunachal Pradesh protects every person's life** is the controlling principle. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Interim posture, procedural conditions and unresolved issues must all be stated.
+- **B:** A narrow interim disposition is not universal merits precedent.
+- **C:** Article 21 does not itself grant a general right to remain.
+- **D:** Authorities retain the duty to protect life and due process.
+- **Trap to avoid:** A narrow interim disposition is not universal merits precedent. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-Police prevent violence and authorities process claims lawfully without promising permanent residence. Which precise duty is respected? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-B. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-C. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-D. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-**Answer:** B
-**Explanation:** **NHRC v Arunachal Pradesh protects every person's life** is the controlling principle. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Delayed findings do not stop an imminent attack.
+- **B:** Post-facto inquiry cannot substitute for timely lawful prevention.
+- **C:** Restrictions require a reasoned and reviewable scope.
+- **D:** Collective blame increases violence and injustice.
+- **Trap to avoid:** Restrictions require a reasoned and reviewable scope. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-An answer calls the interim order a final universal rejection of refugee protection. Which precedential overstatement is present? Which source-grounded ethical principle most precisely explains the case?
-
-A. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-B. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-C. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-D. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-**Answer:** C
-**Explanation:** **Salimullah is an interim-order authority with limits** is the controlling principle. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Lawful temporary restrictions remain possible.
+- **B:** Unreviewable indefinite restriction fails the discipline.
+- **C:** The decision lays down proportionality and procedural review, not a universal ban.
+- **D:** Publication permits meaningful challenge.
+- **Trap to avoid:** Publication permits meaningful challenge. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-A decision protects Article 21 process while separately examining lawful removal authority. Which paired reading with NHRC is appropriate? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-B. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-C. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-D. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-**Answer:** D
-**Explanation:** **Salimullah is an interim-order authority with limits** is the controlling principle. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Unrecorded custody increases abuse risk.
+- **B:** Safeguards are contemporaneous.
+- **C:** Medical checks protect against abuse without deciding guilt.
+- **D:** Due-process safeguards apply even during robust lawful investigation.
+- **Trap to avoid:** Unrecorded custody increases abuse risk. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-A district delays preventive action because a future commission can investigate later. Which mechanism limitation has been misunderstood? Which source-grounded ethical principle most precisely explains the case?
-
-A. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-B. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-C. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-D. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-**Answer:** A
-**Explanation:** **Bhagalpur and Nanavati are retrospective accountability tools** is the controlling principle. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The named-rights method connects legal floor to practical workaround and limits.
+- **B:** System error is not culpability.
+- **C:** Mass publication violates privacy.
+- **D:** Audit controls still matter.
+- **Trap to avoid:** System error is not culpability. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-Administration acts immediately, preserves records and later cooperates with independent inquiry. Which complementary design is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-B. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-C. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-D. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-**Answer:** B
-**Explanation:** **Bhagalpur and Nanavati are retrospective accountability tools** is the controlling principle. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Group statistics are not individualized grounds.
+- **B:** Prediction requires a rights-constrained decision process, not automated detention.
+- **C:** Proportionate, accountable tools may still aid analysis.
+- **D:** Public scores stigmatise innocent residents.
+- **Trap to avoid:** Proportionate, accountable tools may still aid analysis. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-Police omit the arrest memo because they consider the suspect obviously guilty. Which constitutional error does the precedent expose? Which source-grounded ethical principle most precisely explains the case?
-
-A. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-B. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-C. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-D. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-**Answer:** C
-**Explanation:** **D.K. Basu safeguards operate before guilt is known** is the controlling principle. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A longer list is not analysis.
+- **B:** Comparative models are not domestic statutes.
+- **C:** Rule → mechanism → application → limitation avoids decorative case-dropping.
+- **D:** CARD and protection gaps warn against universal inferences.
+- **Trap to avoid:** CARD and protection gaps warn against universal inferences. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-Officers document custody and medical condition while continuing a lawful investigation. Which rule-case mechanism is applied? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Federal scale differs from a compact jurisdiction.
+- **B:** Punishment alone overlooks culture and evidence.
+- **C:** Unverified family liability raises source and fairness problems.
+- **D:** Selective adaptation combines mechanisms and tests their effects under India's institutional constraints.
+- **Trap to avoid:** Federal scale differs from a compact jurisdiction. The preferred response meets the scenario's competing duties and evidence threshold.
 
-A. Mohammad Salimullah's 8 April 2021 order declined interim protection against deportation, required lawful procedure and discussed citizen-only residence rights; it did not finally determine every customary non-refoulement argument in the underlying dispute.
-
-B. The Bhagalpur and Nanavati inquiries can identify causes, responsibility and institutional failure after communal violence, but their fact-finding cannot substitute for timely intelligence, lawful crowd control, protection and confidence-building during a crisis.
-
-C. NHRC v State of Arunachal Pradesh applied Article 21 to Chakma and Hajong refugees and required State protection from forcible eviction and violence, demonstrating that life and personal liberty are not confined to citizens.
-
-D. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted.
-
-**Answer:** D
-**Explanation:** **D.K. Basu safeguards operate before guilt is known** is the controlling principle. D.K. Basu made arrest documentation, communication, medical examination, custody records and magisterial visibility procedural safeguards against abuse; compliance is required independently of whether the detainee is later convicted. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
+
+All practice prompts appear here before their separate matched model solutions. Where a question is labelled neutral routing, consult its cited official paper for the full original case wording.
+
+### VERIFIED / ROUTED PYQ QUESTIONS
 
 #### Solved PYQ 1 — 2018 — 20 marks
 
 **Question:** GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released confidential Government documents to the press about Government surveillance programmes. Do you agree that Snowden's actions were ethically justified even if legally prohibited? Why or why not? Make an argument by weighing the competing values in this case. (250 words)
 
 **Source / ownership:** Faithful condensed routing verified against books\more_previous_papers\GENERAL-STUDIES-PAPER-IV.pdf, page 11. The official printed stem is longer and controls exact wording; this entry preserves its actor, act, demand and word limit.
+
+---
+
+#### Solved PYQ 2 — 2019 — 10 marks
+
+**Question:** "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 2.
+
+---
+
+#### Solved PYQ 3 — 2019 — 10 marks
+
+**Question:** What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 3.
+
+---
+
+#### Solved PYQ 4 — 2021 — 10 marks
+
+**Question:** An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate. (Answer in 150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3.
+
+---
+
+#### Solved PYQ 5 — 2022 — 10 marks
+
+**Question:** Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (Answer in 150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4.
+
+---
+
+#### Solved PYQ 6 — 2023 — 10 marks
+
+**Question:** "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (Answer in 150 words)
+
+**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2.
+
+---
+
+#### Solved PYQ 7 — 2024 — 10 marks
+
+**Question:** The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in operation, whereas code of ethics is not yet put in place. Suggest a suitable model for code of ethics to maintain integrity, probity and transparency in governance. (Answer in 150 words)
+
+**Source / ownership:** Exact English wording, with punctuation normalised, verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4.
+
+---
+
+#### Solved PYQ 8 — 2024 — 10 marks
+
+**Question:** In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has been steadily increasing over the years. Examine the gender-specific challenges faced by female public servants and suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity. (Answer in 150 words)
+
+**Source / ownership:** Exact English wording verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4.
+
+---
+
+#### Solved PYQ 9 — 2025 — 10 marks
+
+**Question:** "Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law." Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. (Answer in 150 words)
+
+**Source / ownership:** Exact English wording, with the paper's spelling normalised, verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2.
+
+---
+
+#### Solved PYQ 10 — 2022 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt police and civil officials and a politically connected media owner, while inducement and pressure are used to suppress publication. Evaluate the options, ethical dilemmas and appropriate response. (250 words)
+
+**Source / ownership:** Neutral demand routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. The official multi-part case stem controls its complete facts and wording.
+
+
+### ORIGINAL MAINS / CASE QUESTIONS
+
+#### Original Mains Practice 1 — 10 marks
+
+**Question:** Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without reducing either case to a hero story. Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 2 — 10 marks
+
+**Question:** What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and what do they fail to establish? Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 3 — 15 marks
+
+**Question:** Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are they more than generic examples of activism? Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 4 — 15 marks
+
+**Question:** Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it merely computerises an existing problem. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 5 — 20 marks
+
+**Question:** Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB regime, the Korea attribution caveat, and the Finland-Thailand comparison. Answer in about 250 words.
+
+---
+
+#### Original Mains Practice 6 — 20 marks
+
+**Question:** Apply the rule-case mechanism and limitation method to workplace harassment, research ethics, refugee protection, communal violence and custodial justice. Answer in about 250 words.
+
+
+### MATCHED MODEL SOLUTIONS — PYQS
+
+#### Solved PYQ 1 — 2018 — 20 marks
 
 **Model solution**
 
@@ -846,29 +658,9 @@ Therefore legality is morally relevant but not conclusive. Disclosure is stronge
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released confidential Government documents to the press about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released confidential Government documents to the press about…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 2 — 2019 — 10 marks
-
-**Question:** "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 2.
 
 **Model solution**
 
@@ -882,30 +674,9 @@ The test should identify a clear duty, knowledge, ability to act, motive, benefi
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Non-performance of duty by a public servant is a form of corruption". Do you agree with…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Non-performance of duty by a public servant is a form of corruption". Do you agree with…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 3 — 2019 — 10 marks
-
-**Question:** What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 3.
 
 **Model solution**
 
@@ -919,31 +690,9 @@ Hong Kong's ICAC adds a useful synthesis: enforcement, prevention and community 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “What do you understand by probity in governance? Based on your understanding of the term,…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 3. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Hong Kong's ICAC adds a useful synthesis: enforcement, prevention and community education should reinforce one another. Probity is sustained when ethical culture, auditable process and fair consequence operate together. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “What do you understand by probity in governance? Based on your understanding of the term,…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 4 — 2021 — 10 marks
-
-**Question:** An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate. (Answer in 150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3.
 
 **Model solution**
 
@@ -957,31 +706,9 @@ Thus social audit should produce verified evidence and institutional learning, t
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “An independent and empowered social audit mechanism is an absolute must in every sphere of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Thus social audit should produce verified evidence and institutional learning, then route misconduct to the competent forum. It strengthens accountability without replacing investigation or adjudication. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “An independent and empowered social audit mechanism is an absolute must in every sphere of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 5 — 2022 — 10 marks
-
-**Question:** Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed to grave danger, physical harm and victimization by vested interests, accused persons and his team. What policy measures would you suggest to strengthen protection mechanism to safeguard the whistle-blower? (Answer in 150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4.
 
 **Model solution**
 
@@ -995,31 +722,9 @@ Protection should coexist with good-faith thresholds and fair verification. The 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 4. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Protection should coexist with good-faith thresholds and fair verification. The informant is protected from retaliation; the accused is protected from allegation-based guilt. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to the concerned authorities, runs the risk of being exposed…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Whistle-blower, who reports corruption and illegal activities, wrongdoing and misconduct to…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 6 — 2023 — 10 marks
-
-**Question:** "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core values in the society? (Answer in 150 words)
-
-**Source / ownership:** Exact English wording verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2.
 
 **Model solution**
 
@@ -1033,31 +738,9 @@ Core values rise when ethical conduct is socially respected, administratively fe
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Corruption is the manifestation of the failure of core values in the society." In your…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Core values rise when ethical conduct is socially respected, administratively feasible and fairly enforced consistently. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift the core…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Corruption is the manifestation of the failure of core values in the society." In your…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 7 — 2024 — 10 marks
-
-**Question:** The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in operation, whereas code of ethics is not yet put in place. Suggest a suitable model for code of ethics to maintain integrity, probity and transparency in governance. (Answer in 150 words)
-
-**Source / ownership:** Exact English wording, with punctuation normalised, verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4.
 
 **Model solution**
 
@@ -1071,30 +754,9 @@ Enforcement must be proportionate and reviewable. Mudgal shows meaningful conseq
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in operation,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording, with punctuation normalised, verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 4. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in operation,…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 8 — 2024 — 10 marks
-
-**Question:** In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has been steadily increasing over the years. Examine the gender-specific challenges faced by female public servants and suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity. (Answer in 150 words)
-
-**Source / ownership:** Exact English wording verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4.
 
 **Model solution**
 
@@ -1108,31 +770,9 @@ As ICMR ethics shows in another domain, vulnerable-position safeguards need cont
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “In Indian culture and value system, an equal opportunity has been provided irrespective of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 4. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** As ICMR ethics shows in another domain, vulnerable-position safeguards need continuing oversight, not one-time paper compliance. Equality, safety and impartial process enable both efficiency and probity. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “In Indian culture and value system, an equal opportunity has been provided irrespective of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 9 — 2025 — 10 marks
-
-**Question:** "Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law." Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. (Answer in 150 words)
-
-**Source / ownership:** Exact English wording, with the paper's spelling normalised, verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2.
 
 **Model solution**
 
@@ -1146,31 +786,9 @@ Thus civil education teaches the values, but institutions make them habitual. Co
 
 ---
 
-**Demand decoding:** The directive **examine** requires a direct position on “"Constitutional morality is not a natural sentiment but a product of civil education and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law." Examine the significance of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording, with the paper's spelling normalised, verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Thus civil education teaches the values, but institutions make them habitual. Constitutional morality restrains majoritarian impulse and official convenience while keeping accountability evidence-based and reviewable. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law." Examine the significance of…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Constitutional morality is not a natural sentiment but a product of civil education and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 10 — 2022 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt police and civil officials and a politically connected media owner, while inducement and pressure are used to suppress publication. Evaluate the options, ethical dilemmas and appropriate response. (250 words)
-
-**Source / ownership:** Neutral demand routed from books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. The official multi-part case stem controls its complete facts and wording.
 
 **Model solution**
 
@@ -1186,30 +804,10 @@ The long-term remedy is network-focused: protect witnesses, reconcile extraction
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt police and civil officials and a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand routed from books\more previous papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. The official multi-part case stem controls its complete facts and wording. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia involving corrupt police and civil officials and a…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+### MATCHED MODEL SOLUTIONS — ORIGINAL MAINS / CASES
 
 #### Original Mains Practice 1 — 10 marks
-
-**Question:** Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without reducing either case to a hero story. Answer in about 150 words.
 
 **Model solution**
 
@@ -1223,27 +821,9 @@ The limitation is equally important: protection cannot make an allegation self-p
 
 ---
 
-**Demand decoding:** The directive **compare** requires an executable decision on “Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without reducing either case to a hero story. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without reducing either case to a hero story. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Compare the ethical significance of Manjunath Shanmugam and Satyendra Dubey without…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Original Mains Practice 2 — 10 marks
-
-**Question:** What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and what do they fail to establish? Answer in about 150 words.
 
 **Model solution**
 
@@ -1257,27 +837,9 @@ Reform should preserve fair committee inquiry and decisive consequence while add
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and what do they fail to establish? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and what do they fail to establish? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “What do the Mudgal and cash-for-questions cases establish about parliamentary ethics, and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 3 — 15 marks
-
-**Question:** Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are they more than generic examples of activism? Answer in about 200 words.
 
 **Model solution**
 
@@ -1291,27 +853,9 @@ The models have limits. They depend on organised citizens, record access, local 
 
 ---
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are they more than generic examples of activism? Answer in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are they more than generic examples of activism? Answer in…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Compare MKSS Jan Sunwai and Parivartan as civil-society accountability mechanisms. Why are…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 4 — 15 marks
-
-**Question:** Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it merely computerises an existing problem. Answer in about 200 words.
 
 **Model solution**
 
@@ -1327,27 +871,9 @@ The verdict is conditional: digitisation reduces corruption when it redesigns th
 
 ---
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it merely computerises an existing problem. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it merely computerises an existing problem. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Compare Bhoomi and CARD to explain when digital governance reduces corruption and when it…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 5 — 20 marks
-
-**Question:** Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB regime, the Korea attribution caveat, and the Finland-Thailand comparison. Answer in about 250 words.
 
 **Model solution**
 
@@ -1363,27 +889,9 @@ CPI 2025 placed Finland at 88 and rank 2 and Thailand at 33 and rank 116 of 182.
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB regime, the Korea attribution caveat, and the Finland-…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB regime, the Korea attribution caveat, and the Finland-…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an India-adapted anti-corruption strategy using Hong Kong's ICAC, Singapore's CPIB…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 6 — 20 marks
-
-**Question:** Apply the rule-case mechanism and limitation method to workplace harassment, research ethics, refugee protection, communal violence and custodial justice. Answer in about 250 words.
 
 **Model solution**
 
@@ -1398,21 +906,3 @@ Bhagalpur and Nanavati inquiries support retrospective truth and accountability 
 Thus named authority is useful only when linked to the decision mechanism and residual gap. The answer should move from rule to action, safeguard, review and qualified remedy, never from famous name to automatic conclusion. That discipline also prevents false equivalence across unlike institutional contexts.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires an executable decision on “Apply the rule-case mechanism and limitation method to workplace harassment, research…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Apply the rule-case mechanism and limitation method to workplace harassment, research ethics, refugee protection, communal violence and custodial…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Apply the rule-case mechanism and limitation method to workplace harassment, research ethics, refugee protection, communal violence and custodial…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Apply the rule-case mechanism and limitation method to workplace harassment, research…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.

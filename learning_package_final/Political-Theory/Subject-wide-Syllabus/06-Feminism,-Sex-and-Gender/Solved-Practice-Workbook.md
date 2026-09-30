@@ -14,718 +14,724 @@ generated_on: 2026-09-10
 
 ## WORKBOOK GUIDE
 
-- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
-- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
-- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- Attempt Questions 1–24 as hard diagnostics and Questions 25–32 as remedial traps; the separate key follows the complete question bank.
+- Eliminate each rival before consulting the separate option-by-option key.
+- The editorial key rotates A → B → C → D strictly; do not use rotation to guess answers.
 - For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
 - No direct owned Topic 06 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
 - The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
+
+
 ## BASIC MCQS / REMEDIATION
 
-### Practice design
+### Question bank (32 original items; 1–24 hard diagnostics, 25–32 remedial)
 
-- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
-- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
-- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
-- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
-- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
+Attempt all questions before opening the separate answer key. Each option tests a distinct nearby claim; no question is a verified UPSC PYQ.
 
 ### MCQ 1
 
-Which proposition is correctly associated with **Feminism**?
+A policy-maker infers that because women can bear children they should never lead a public office. Which distinction defeats that inference?
 
-- A. concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-- B. early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.
-- C. argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- D. radical feminist who ties women's subordination to reproductive biology and seeks release from that dependence through technological change.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Feminism.
-- **B:** B Attaches to Legal equality vs substantive equality, not Feminism.
-- **C:** C Attaches to Mary Wollstonecraft, not Feminism.
-- **D:** D Attaches to Shulamith Firestone, not Feminism.
-
-> **Examiner trap:** Do not identify Feminism by a neighbouring proposition merely because both occur in the same topic.
+- A. Biological sex does not determine culturally assigned gender status
+- B. Sex and gender are interchangeable descriptions of anatomy
+- C. Biology proves unequal political competence
+- D. Social roles are immutable wherever they are inherited
 
 ---
 
 ### MCQ 2
 
-Which proposition is correctly associated with **Patriarchy**?
+What makes patriarchy political rather than simply a name for a family arrangement?
 
-- A. radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- B. literally rule of the father, now used for wider male domination in household, labour market and social life.
-- C. argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- D. Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Kate Millett, not Patriarchy.
-- **B:** B States the source-recorded proposition for Patriarchy.
-- **C:** C Attaches to Mary Wollstonecraft, not Patriarchy.
-- **D:** D Attaches to Natural inequality vs conventional inequality, not Patriarchy.
-
-> **Examiner trap:** Do not identify Patriarchy by a neighbouring proposition merely because both occur in the same topic.
+- A. It applies only when a father signs a formal government decree
+- B. Male domination operates through labour, authority and status beyond the household
+- C. It means women's biology must be changed before institutions can change
+- D. It concerns only individual dislike of a male relative
 
 ---
 
 ### MCQ 3
 
-Which proposition is correctly associated with **Sex**?
+A school encourages boys to speak up and girls to remain quiet. What mechanism is directly shown?
 
-- A. argues that women are not inferior in talent and deserve full legal and political rights.
-- B. Women's oppression is primary and cannot be reduced to some deeper system alone.
-- C. biological difference, such as reproductive function and secondary characteristics.
-- D. a conventional or cultural inequality, hence open to criticism and change.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to J.S. Mill, not Sex.
-- **B:** B Attaches to Radical feminism, not Sex.
-- **C:** C States the source-recorded proposition for Sex.
-- **D:** D Attaches to Gender inequality, not Sex.
-
-> **Examiner trap:** Do not identify Sex by a neighbouring proposition merely because both occur in the same topic.
+- A. Reproductive sex itself determines classroom speech by natural law
+- B. Equal suffrage automatically eliminates early role training
+- C. Gendered socialisation turns contingent expectations into apparently natural traits
+- D. Capital ownership alone fully explains the assigned personality traits
 
 ---
 
 ### MCQ 4
 
-Which proposition is correctly associated with **Gender**?
+How does Rousseau's natural/conventional inequality distinction function in Gauba's account?
 
-- A. seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- B. argues that women are not inferior in talent and deserve full legal and political rights.
-- C. advocacy of equal rights for women and men with commitment to improve women's position in society.
-- D. culturally constructed images, expectations and status-distinctions attached to women and men.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Liberal feminism, not Gender.
-- **B:** B Attaches to J.S. Mill, not Gender.
-- **C:** C Attaches to Feminist theory, not Gender.
-- **D:** D States the source-recorded proposition for Gender.
-
-> **Examiner trap:** Do not identify Gender by a neighbouring proposition merely because both occur in the same topic.
+- A. Rousseau's distinction proves all bodily differences are fictitious
+- B. Natural inequality requires unequal political rights in every case
+- C. Conventional inequality is beyond law and collective action
+- D. Gender hierarchy is a changeable social inequality despite real bodily differences
 
 ---
 
 ### MCQ 5
 
-Which proposition is correctly associated with **Gender inequality**?
+A constitution removes formal exclusions while women retain most unpaid care responsibilities. What remains at issue?
 
-- A. a conventional or cultural inequality, hence open to criticism and change.
-- B. Women deserve equal opportunity and equal rights in all walks of life.
-- C. Women's oppression is primary and cannot be reduced to some deeper system alone.
-- D. biological difference, such as reproductive function and secondary characteristics.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Gender inequality.
-- **B:** B Attaches to Liberal feminism, not Gender inequality.
-- **C:** C Attaches to Radical feminism, not Gender inequality.
-- **D:** D Attaches to Sex, not Gender inequality.
-
-> **Examiner trap:** Do not identify Gender inequality by a neighbouring proposition merely because both occur in the same topic.
+- A. Substantive equality in time, work and influence beyond equal legal entitlement
+- B. The logical impossibility of any change in women's legal standing
+- C. Proof that care work is unrelated to political participation
+- D. Evidence that reproductive biology dictates all family work
 
 ---
 
 ### MCQ 6
 
-Which proposition is correctly associated with **Feminist theory**?
+Which thinker-rights association fits the source account?
 
-- A. seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- B. advocacy of equal rights for women and men with commitment to improve women's position in society.
-- C. radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- D. socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Liberal feminism, not Feminist theory.
-- **B:** B States the source-recorded proposition for Feminist theory.
-- **C:** C Attaches to Kate Millett, not Feminist theory.
-- **D:** D Attaches to Sheila Rowbotham, not Feminist theory.
-
-> **Examiner trap:** Do not identify Feminist theory by a neighbouring proposition merely because both occur in the same topic.
+- A. Firestone argued that suffrage alone cures reproductive dependence
+- B. Wollstonecraft defended women's rationality, education and civic standing
+- C. Millett founded Fabian gradual planning
+- D. Rowbotham held that class can never interact with women's oppression
 
 ---
 
 ### MCQ 7
 
-Which proposition is correctly associated with **Sex vs gender**?
+Which argument is safely attributed to J. S. Mill here?
 
-- A. Women deserve equal opportunity and equal rights in all walks of life.
-- B. Women's oppression is linked both to patriarchy and capitalism.
-- C. sex is natural/biological; gender is cultural/social.
-- D. a conventional or cultural inequality, hence open to criticism and change.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Liberal feminism, not Sex vs gender.
-- **B:** B Attaches to Socialist feminism, not Sex vs gender.
-- **C:** C States the source-recorded proposition for Sex vs gender.
-- **D:** D Attaches to Gender inequality, not Sex vs gender.
-
-> **Examiner trap:** Do not identify Sex vs gender by a neighbouring proposition merely because both occur in the same topic.
+- A. Women should be barred from voting because domestic roles are hereditary
+- B. The household is outside every question of justice by definition
+- C. Women's capacities cannot be assumed inferior; legal and political equality should follow
+- D. Gender is nothing but the ownership of factory machines
 
 ---
 
 ### MCQ 8
 
-Which proposition is correctly associated with **Natural inequality vs conventional inequality**?
+An employer opens every job to applicants, but workplace stereotyping and informal exclusion persist. Which limitation of a purely formal-rights strategy is exposed?
 
-- A. radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- B. literally rule of the father, now used for wider male domination in household, labour market and social life.
-- C. socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-- D. Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Kate Millett, not Natural inequality vs conventional inequality.
-- **B:** B Attaches to Patriarchy, not Natural inequality vs conventional inequality.
-- **C:** C Attaches to Sheila Rowbotham, not Natural inequality vs conventional inequality.
-- **D:** D States the source-recorded proposition for Natural inequality vs conventional inequality.
-
-> **Examiner trap:** Do not identify Natural inequality vs conventional inequality by a neighbouring proposition merely because both occur in the same topic.
+- A. The legal opening itself demonstrates that patriarchy is fictional
+- B. Only reproductive technology can prevent discrimination in hiring
+- C. Equal pay means all workers must own the factory collectively
+- D. Equal access in law can be undermined by discriminatory social norms
 
 ---
 
 ### MCQ 9
 
-Which thinker/concept–proposition pair is correctly matched?
+Which diagnosis most specifically marks radical feminism in Gauba's typology?
 
-- A. Legal equality vs substantive equality — early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone.
-- B. Feminism — argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- C. Shulamith Firestone — literally rule of the father, now used for wider male domination in household, labour market and social life.
-- D. Equal treatment vs compensatory support — Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Records the association: Legal equality vs substantive equality is associated with this proposition.
-- **B:** B Wrong attachment: Feminism is recorded with concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-- **C:** C Misplaced: Shulamith Firestone is recorded with radical feminist who ties women's subordination to reproductive biology and seeks release from that dependence through technological change.
-- **D:** D Belongs elsewhere: Equal treatment vs compensatory support is recorded with Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.
-
-> **Examiner trap:** Keep the exact proposition attached to Legal equality vs substantive equality; nearby thinkers may address the same debate from a different mechanism.
+- A. Patriarchal power over sexuality and reproduction is not reducible to class exclusion
+- B. Formal entry into professions is the sole feminist question
+- C. All gender hierarchy disappears with the abolition of wage labour
+- D. Gender roles are merely a preference of isolated individuals
 
 ---
 
 ### MCQ 10
 
-Which of the following pairs a name or concept with the proposition the source actually records for it?
+How are Firestone and Millett differentiated?
 
-- A. Legal equality vs substantive equality — argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- B. Equal treatment vs compensatory support — Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related.
-- C. Shulamith Firestone — (Justice, Gender, and the Family, 1989): Claim — theories of justice (she targets Rawls) wrongly treat the family as a pre-political.
-- D. Feminism — literally rule of the father, now used for wider male domination in household, labour market and social life; the other dimensions would remain secondary under this reading.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Source disagrees: Legal equality vs substantive equality is recorded with early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.
-- **B:** B Matches the record: Equal treatment vs compensatory support is associated with this proposition.
-- **C:** C Misplaced: Shulamith Firestone is recorded with radical feminist who ties women's subordination to reproductive biology and seeks release from that dependence through technological change.
-- **D:** D Cross-attached: Feminism is recorded with concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-
-> **Examiner trap:** Keep the exact proposition attached to Equal treatment vs compensatory support; nearby thinkers may address the same debate from a different mechanism.
+- A. Millett alone proposes an inexpensive mutual credit bank
+- B. Firestone stresses reproductive dependence and technological escape; Millett stresses sexual politics and ideological power
+- C. Firestone's only project is equal pay legislation
+- D. Both hold that women's subordination arises only from class exploitation
 
 ---
 
 ### MCQ 11
 
-In which pair does the proposition genuinely belong to the label placed against it?
+What is distinctive about Rowbotham in this source?
 
-- A. Kate Millett — advocacy of equal rights for women and men with commitment to improve women's position in society.
-- B. Patriarchy — socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-- C. Mary Wollstonecraft — argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- D. Natural inequality vs conventional inequality — concern with the status and role of women in relation to men.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Kate Millett is recorded with radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- **B:** B Belongs elsewhere: Patriarchy is recorded with literally rule of the father, now used for wider male domination in household, labour market and social life.
-- **C:** C Exact pair: Mary Wollstonecraft is associated with this proposition.
-- **D:** D Cross-attached: Natural inequality vs conventional inequality is recorded with Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-> **Examiner trap:** Keep the exact proposition attached to Mary Wollstonecraft; nearby thinkers may address the same debate from a different mechanism.
+- A. Sex differences automatically establish a natural hierarchy
+- B. Legal suffrage completes women's liberation without economic change
+- C. Women's emancipation must address both patriarchy and capitalism
+- D. Individual owners' benevolence alone abolishes the gendered division of work
 
 ---
 
 ### MCQ 12
 
-Only one pairing below reproduces the source's own association. Which is it?
+What is the best contrast between Marxist feminism and socialist feminism in the Basic extension?
 
-- A. Liberal feminism — radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- B. Gender — advocacy of equal rights for women and men with commitment to improve women's position in society.
-- C. Sex — Women's oppression is primary and cannot be reduced to some deeper system alone.
-- D. J.S. Mill — argues that women are not inferior in talent and deserve full legal and political rights.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Liberal feminism is recorded with seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- **B:** B Cross-attached: Gender is recorded with culturally constructed images, expectations and status-distinctions attached to women and men.
-- **C:** C Mismatched: Sex is recorded with biological difference, such as reproductive function and secondary characteristics.
-- **D:** D Matches the record: J.S. Mill is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to J.S. Mill; nearby thinkers may address the same debate from a different mechanism.
+- A. The former denies domestic labour exists; the latter studies only voting systems
+- B. The former is about the leader principle; the latter approves hierarchy
+- C. Both require the claim that patriarchy originated on a single verified date
+- D. The former foregrounds capitalism and unpaid reproduction of labour power; the latter explicitly joins class and autonomous patriarchy
 
 ---
 
 ### MCQ 13
 
-Identify the pair in which the recorded proposition matches its label exactly.
+Why does unpaid household labour matter to political economy?
 
-- A. Liberal feminism — seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- B. Gender — radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- C. Feminist theory — socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-- D. J.S. Mill — Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Source-exact: Liberal feminism is associated with this proposition.
-- **B:** B Mismatched: Gender is recorded with culturally constructed images, expectations and status-distinctions attached to women and men.
-- **C:** C Not this pair: Feminist theory is recorded with advocacy of equal rights for women and men with commitment to improve women's position in society.
-- **D:** D Cross-attached: J.S. Mill is recorded with argues that women are not inferior in talent and deserve full legal and political rights.
-
-> **Examiner trap:** Keep the exact proposition attached to Liberal feminism; nearby thinkers may address the same debate from a different mechanism.
+- A. It helps reproduce labour power even when it is unwaged and treated as private
+- B. It is irrelevant whenever household members do not receive a salary
+- C. It demonstrates that every caregiver is a factory owner
+- D. It proves patriarchal violence is entirely caused by wage contracts
 
 ---
 
 ### MCQ 14
 
-Which one of the following label-proposition pairings survives a strict source check?
+A writer treats “women” as a homogeneous group in a gender policy. Which challenge specifically asks whose experiences the claim excludes?
 
-- A. Equal treatment vs compensatory support — argues that women are rational individuals and should enjoy equal rights, education, property and civic standing.
-- B. Shulamith Firestone — radical feminist who ties women's subordination to reproductive biology and seeks release from that dependence through technological.
-- C. Legal equality vs substantive equality — literally rule of the father, now used for wider male domination in household, labour market and social life.
-- D. Feminism — Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category; the rival mechanism is treated as non-decisive in this account.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Equal treatment vs compensatory support is recorded with Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.
-- **B:** B Exact pair: Shulamith Firestone is associated with this proposition.
-- **C:** C Wrong attachment: Legal equality vs substantive equality is recorded with early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.
-- **D:** D Source disagrees: Feminism is recorded with concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-
-> **Examiner trap:** Keep the exact proposition attached to Shulamith Firestone; nearby thinkers may address the same debate from a different mechanism.
+- A. Liberal equal-rights analysis already guarantees identical experience for all women
+- B. Intersectionality asks how overlapping structures produce distinct disadvantages
+- C. Patriarchy is defined as a single individual woman's private preference
+- D. Biological sex determines identical class and caste positions
 
 ---
 
 ### MCQ 15
 
-Which pairing below would a careful source check leave standing?
+What was the problem in Crenshaw's employment-discrimination illustration?
 
-- A. Feminist theory — culturally constructed images, expectations and status-distinctions attached to women and men.
-- B. Sheila Rowbotham — seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- C. Kate Millett — radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- D. Natural inequality vs conventional inequality — literally rule of the father, now used for wider male domination in household.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Feminist theory is recorded with advocacy of equal rights for women and men with commitment to improve women's position in society.
-- **B:** B Wrong attachment: Sheila Rowbotham is recorded with socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-- **C:** C Records the association: Kate Millett is associated with this proposition.
-- **D:** D Misplaced: Natural inequality vs conventional inequality is recorded with Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-
-> **Examiner trap:** Keep the exact proposition attached to Kate Millett; nearby thinkers may address the same debate from a different mechanism.
+- A. Anti-discrimination reasoning must prohibit every combined category
+- B. Biological classification alone determines how courts must decide employment cases
+- C. Race-only and sex-only frames can each miss a distinct claim at their intersection
+- D. She proved that gender injustice ceases outside wage employment
 
 ---
 
 ### MCQ 16
 
-Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
+How should de Beauvoir's socially produced womanhood be used with this source?
 
-- A. Natural inequality vs conventional inequality — literally rule of the father, now used for wider male domination in household.
-- B. Kate Millett — seeks equality of opportunity, equal pay, removal of formal barriers and better representation.
-- C. Feminist theory — culturally constructed images, expectations and status-distinctions attached to women and men.
-- D. Sheila Rowbotham — socialist feminist linking women's liberation with struggle against capitalism and other oppressions.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Wrong attachment: Natural inequality vs conventional inequality is recorded with Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.
-- **B:** B Source disagrees: Kate Millett is recorded with radical feminist who interprets the relation between sexes as a power relation sustained by ideology.
-- **C:** C Misplaced: Feminist theory is recorded with advocacy of equal rights for women and men with commitment to improve women's position in society.
-- **D:** D Matches the record: Sheila Rowbotham is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Sheila Rowbotham; nearby thinkers may address the same debate from a different mechanism.
+- A. As proof Gauba wrote The Second Sex
+- B. As a claim that bodies never exist
+- C. As evidence that gender status must remain fixed
+- D. As a flagged extension to Gauba's sex/gender account, paraphrased rather than as an unverified verbatim quotation
 
 ---
 
 ### MCQ 17
 
-Consider the following statements:
-1. **Liberal feminism** is associated with: Women deserve equal opportunity and equal rights in all walks of life.
-2. **Simone de Beauvoir** is associated with: (Justice, Gender, and the Family, 1989): Claim — theories of justice (she targets Rawls) wrongly treat the family as a pre-political given rather than a site justice must examine.
-Which option is correct?
+Which description is closest to Oakley's role in the extension?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Liberal feminism does not validate the second pairing.
+- A. She is associated with popularising sex/gender terminology in sociology
+- B. She first established Mussolini's political leader principle
+- C. She proved that social roles are genetically transmitted
+- D. She invented the concept of social inequality single-handedly
 
 ---
 
 ### MCQ 18
 
-Consider the following statements:
-1. **Radical feminism** is associated with: (Sex, Gender and Society, 1972) is usually credited with popularising the working sex/gender terminology in sociology — sex as biological, gender as the culturally learned, historically variable content attached to that biology.
-2. **Ann Oakley** is associated with: (Sex, Gender and Society, 1972) is usually credited with popularising the working sex/gender terminology in sociology — sex as biological, gender as the culturally learned, historically variable content attached to that biology.
-Which option is correct?
+What does Rubin's sex/gender system add to a mere definition of gender?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Radical feminism does not validate the second pairing.
+- A. A proof that sex automatically yields an unchangeable social role
+- B. A mechanism through which social arrangements transform biological differences into gendered obligations
+- C. A claim that all public institutions disappear when roles change
+- D. An electoral scheme for communal ownership of factories
 
 ---
 
 ### MCQ 19
 
-Consider the following statements:
-1. **Socialist feminism** is associated with: Women's oppression is linked both to patriarchy and capitalism.
-2. **Gayle Rubin** is associated with: ("The Traffic in Women", 1975) supplies the mechanism often paired with the distinction: the "sex/gender system" — social arrangements that transform biological sex into a hierarchy of gendered obligation, kinship exchange and constrained sexuality. Rubin explains how sex becomes gender, which Gauba's chapter asserts but does not mechanise.
-Which option is correct?
+Why does Butler challenge the textbook sex/gender separation more radically?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Socialist feminism does not validate the second pairing.
+- A. She simply repeats the proposition that roles are voluntarily chosen each morning
+- B. She claims bodily materiality is literally nonexistent
+- C. Repeated norms constitute gendered identities and shape even how bodies are categorised
+- D. She treats all gender traits as biologically fixed
 
 ---
 
 ### MCQ 20
 
-Consider the following statements:
-1. **Simone de Beauvoir** is associated with: (The Sexual Contract, 1988): Claim — classical social-contract theory (Hobbes, Locke, Rousseau) silently assumes a prior "sexual contract" securing men's access to women's bodies and labour before the "original" social contract; the public contract of citizens rests on an unmentioned private contract of subordination.
-2. **Carole Pateman** is associated with: biological difference, such as reproductive function and secondary characteristics.
-Which option is correct?
+What is the category problem generated by a strong performativity thesis?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Simone de Beauvoir does not validate the second pairing.
+- A. Feminist organising must therefore legally forbid all group descriptions
+- B. Sex discrimination can only be addressed after all language disappears
+- C. The only solution is to declare every gender identity biologically identical
+- D. If “woman” is unstable, collective claims need revisable provisional categories
 
 ---
 
 ### MCQ 21
 
-Consider the following statements:
-1. **Ann Oakley** is associated with: (Sex, Gender and Society, 1972) is usually credited with popularising the working sex/gender terminology in sociology — sex as biological, gender as the culturally learned, historically variable content attached to that biology.
-2. **Susan Moller Okin** is associated with: culturally constructed images, expectations and status-distinctions attached to women and men.
-Which option is correct?
+Pateman calls attention to a “sexual contract” beneath the social contract. What kind of claim is this?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Ann Oakley does not validate the second pairing.
+- A. An interpretive critique of hidden domestic subordination underlying formally equal citizenship
+- B. A dated legal treaty found in an official archive
+- C. A proof that women cannot make contracts under any law
+- D. A proposal for mutual credit between producer guilds
 
 ---
 
 ### MCQ 22
 
-Consider the following statements:
-1. **Gayle Rubin** is associated with: concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-2. **Feminism** is associated with: concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-Which option is correct?
+Which concern makes Okin's family critique directly relevant to distributive justice?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Gayle Rubin does not validate the second pairing.
+- A. Justice can evaluate only public wages and never family roles
+- B. Unequal household responsibilities affect access to time, income and opportunities before people enter public competition
+- C. Rawls demonstrated that every family division is biologically mandated
+- D. Every intimate decision must be directly dictated by the state
 
 ---
 
 ### MCQ 23
 
-Consider the following statements:
-1. **Carole Pateman** is associated with: (The Sexual Contract, 1988): Claim — classical social-contract theory (Hobbes, Locke, Rousseau) silently assumes a prior "sexual contract" securing men's access to women's bodies and labour before the "original" social contract; the public contract of citizens rests on an unmentioned private contract of subordination.
-2. **Patriarchy** is associated with: literally rule of the father, now used for wider male domination in household, labour market and social life.
-Which option is correct?
+What distinguishes a feminist public/private critique from a demand to abolish personal privacy?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Carole Pateman does not validate the second pairing.
+- A. It requires a public officer at every conversation between family members
+- B. It accepts all domestic hierarchy as beyond political evaluation
+- C. It subjects domination and unequal care burdens to justice while retaining scope for intimacy and autonomy
+- D. It eliminates all social institutions outside legislatures
 
 ---
 
 ### MCQ 24
 
-Consider the following statements:
-1. **Susan Moller Okin** is associated with: biological difference, such as reproductive function and secondary characteristics.
-2. **Sex** is associated with: sex is natural/biological; gender is cultural/social.
-Which option is correct?
+Which classification best describes the relation between equal treatment and compensatory measures in the book?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Susan Moller Okin does not validate the second pairing.
+- A. Compensation follows logically only if women have no equal rights
+- B. Same rules always erase unequal care burdens immediately
+- C. Every differentiated measure must be a biological destiny law
+- D. They are competing approaches to securing equality, one favouring the same rules and the other addressing contextual disadvantage
 
 ---
 
 ### MCQ 25 — REMEDIAL
 
-Which correction is most defensible for the claim: **Sex and gender mean the same thing.**?
+Why might a feminist object to an employment policy framed around an “unencumbered worker”?
 
-- A. Gauba makes the distinction foundational: sex is biological, gender is cultural. (PDF pp.84-86)
-- B. Sex means biological difference, such as reproductive function and secondary characteristics.
-- C. Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
-- D. Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Gauba makes the distinction foundational: sex is biological, gender is cultural. (PDF pp.84-86).
-- **B:** B Repairs a different misconception, 'Sex means Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Gender inequality means Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Gender means early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Sex and gender mean the same thing, not a different error from the same topic.
+- A. It can silently assume someone else performs care work, reproducing unequal effective opportunity
+- B. It guarantees childcare is equally shared in every household
+- C. It proves women's exclusion is dictated by chromosomes
+- D. It describes only ownership of machines, not labour supply
 
 ---
 
 ### MCQ 26 — REMEDIAL
 
-Which correction is most defensible for the claim: **All feminism says women are biologically determined.**?
+A social movement widens representation, but leaders still exclude marginalised women from agenda setting. Which criticism goes beyond headcount?
 
-- A. Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-- B. Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89)
-- C. Patriarchy means literally rule of the father, now used for wider male domination in household, labour market and social life.
-- D. Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Gender means early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89).
-- **C:** C Repairs a different misconception, 'Patriarchy means sex is natural/biological; gender is cultural/social.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Gender inequality means Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about All feminism says women are biologically determined, not a different error from the same topic.
+- A. Formal representation guarantees identical substantive influence for all members
+- B. Intersectional analysis asks whose voice counts and which issues are defined as universal
+- C. Unequal agenda setting is purely a question of bodily reproduction
+- D. Representation cannot have any value until all differences vanish
 
 ---
 
 ### MCQ 27 — REMEDIAL
 
-Which correction is most defensible for the claim: **If women receive equal legal rights, feminism has no further issue.**?
+Which evaluation of the liberal, radical and socialist schools avoids caricature?
 
-- A. Feminism means concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-- B. Patriarchy means literally rule of the father, now used for wider male domination in household, labour market and social life.
-- C. Gauba shows later feminism asking about representation, social status and unequal participation in public power. (PDF pp.91-93)
-- D. Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Feminism means advocacy of equal rights for women and men with commitment to improve women's position in society.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Patriarchy means sex is natural/biological; gender is cultural/social.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba shows later feminism asking about representation, social status and unequal participation in public power. (PDF pp.91-93).
-- **D:** D Repairs a different misconception, 'All feminism says women are biologically determined.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about If women receive equal legal rights, feminism has no, not a different error from the same topic.
+- A. Every school regards suffrage as the sole necessary solution
+- B. All feminists agree reproductive technology alone will end subordination
+- C. Legal access, sexual power and class-plus-patriarchy diagnose different mechanisms and invite complementary but critical comparison
+- D. The socialist school denies either gender or capitalism has an effect
 
 ---
 
 ### MCQ 28 — REMEDIAL
 
-Which correction is most defensible for the claim: **Feminism means advocacy of equal rights for women and men with commitment to improve women's position in society.**?
+Which proposal best tests whether Firestone's account has been overgeneralised?
 
-- A. Patriarchy means literally rule of the father, now used for wider male domination in household, labour market and social life.
-- B. Gauba shows later feminism asking about representation, social status and unequal participation in public power. (PDF pp.91-93)
-- C. Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89)
-- D. Feminism means concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Patriarchy means sex is natural/biological; gender is cultural/social.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'If women receive equal legal rights, feminism has no further issue.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'All feminism says women are biologically determined.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Feminism means concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-
-> **Examiner trap:** Repair the exact overstatement about Feminism means advocacy of equal rights for women, not a different error from the same topic.
+- A. Call her account the unanimously accepted core of all feminism
+- B. Transfer her reproductive thesis to Wollstonecraft's eighteenth-century rights argument
+- C. Conclude reproductive difference morally entitles men to govern
+- D. Present technology as her specific response to reproductive dependence, then ask about economic and intersectional constraints
 
 ---
 
 ### MCQ 29 — REMEDIAL
 
-Which correction is most defensible for the claim: **Patriarchy means sex is natural/biological; gender is cultural/social.**?
+When a theory treats every woman's experiences as those of a single relatively privileged group, what is the most direct correction?
 
-- A. Patriarchy means literally rule of the father, now used for wider male domination in household, labour market and social life.
-- B. Gauba shows later feminism asking about representation, social status and unequal participation in public power. (PDF pp.91-93)
-- C. Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89)
-- D. Feminism means concern with the status and role of women in relation to men, combined with protest against injustice suffered because of sex.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Patriarchy means literally rule of the father, now used for wider male domination in household, labour market and social life.
-- **B:** B Repairs a different misconception, 'If women receive equal legal rights, feminism has no further issue.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'All feminism says women are biologically determined.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Feminism means advocacy of equal rights for women and men with commitment to improve women's position in society.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Patriarchy means sex is natural/biological; gender, not a different error from the same topic.
+- A. Crenshaw's intersectional method examines distinct combined disadvantages rather than an unmarked universal subject
+- B. Mill's legal equality proves every social position is already identical
+- C. Butler's performativity by itself supplies numerical evidence for all groups
+- D. The sex/gender distinction implies socioeconomic divisions never matter
 
 ---
 
 ### MCQ 30 — REMEDIAL
 
-Which correction is most defensible for the claim: **Sex means Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.**?
+Which historical-data practice is consistent with the canonical owner?
 
-- A. Gauba makes the distinction foundational: sex is biological, gender is cultural. (PDF pp.84-86)
-- B. Sex means biological difference, such as reproductive function and secondary characteristics.
-- C. Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
-- D. Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Sex and gender mean the same thing.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Sex means biological difference, such as reproductive function and secondary characteristics.
-- **C:** C Repairs a different misconception, 'Gender inequality means Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Gender means early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Sex means Gauba uses Rousseau's distinction to show, not a different error from the same topic.
+- A. Copy a 1980 illustration into a current-affairs answer without a date
+- B. Treat Gauba's late-twentieth-century UN and representation numbers only as dated illustrations, not current facts
+- C. Deduce today's rates from general feminist theory
+- D. Assume a book-period observation proves all inequalities have ended
 
 ---
 
 ### MCQ 31 — REMEDIAL
 
-Which correction is most defensible for the claim: **Gender means early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.**?
+What is the safest Indian conceptual application without importing unsupported legal claims?
 
-- A. Gauba makes the distinction foundational: sex is biological, gender is cultural. (PDF pp.84-86)
-- B. Firestone's reproductive-biology argument is one radical-feminist position, not feminism's consensus. (PDF p.89)
-- C. Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-- D. Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Sex and gender mean the same thing.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'All feminism says women are biologically determined.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-- **D:** D Repairs a different misconception, 'Gender inequality means Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Gender means early feminism attacked barriers to, not a different error from the same topic.
+- A. Invent an article number and present it as verified in Gauba's feminism chapter
+- B. Claim every caste and gender pattern has the same cause
+- C. Use women's education and gendered care as illustrations of socially allocated opportunity, while sourcing any exact statute or figure separately
+- D. Assert every Indian family distributes care identically
 
 ---
 
 ### MCQ 32 — REMEDIAL
 
-Which correction is most defensible for the claim: **Gender inequality means Gauba notes two broad views, one insisting on sameness of legal regime and another allowing maternity-related protections and compensatory measures.**?
+How should a candidate qualify the thesis that all gender is social?
 
-- A. Gender means culturally constructed images, expectations and status-distinctions attached to women and men.
-- B. Gauba makes the distinction foundational: sex is biological, gender is cultural. (PDF pp.84-86)
-- C. Sex means biological difference, such as reproductive function and secondary characteristics.
-- D. Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
+- A. Biological difference alone conclusively assigns public office
+- B. All bodies can be described only as legal fictions
+- C. Social roles cannot alter across time and institutions
+- D. Biological differences exist, but their translation into inferior civic status is conventional and contestable
 
-**Answer: D**
 
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Gender means early feminism attacked barriers to education, property and vote; later feminism asks whether equal law alone changes social power.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Sex and gender mean the same thing.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Sex means Gauba uses Rousseau's distinction to show that gender inequality belongs to the alterable second category.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Gender inequality means a conventional or cultural inequality, hence open to criticism and change.
+## ANSWER KEY AND OPTION-BY-OPTION REASONING
 
-> **Examiner trap:** Repair the exact overstatement about Gender inequality means Gauba notes two broad views,, not a different error from the same topic.
+### MCQ 1 — A
+
+- **A:** Reproductive capacity cannot itself justify exclusion from civic authority.
+- **B:** The inference rests precisely on conflating biology and social role.
+- **C:** No such conclusion follows from reproductive function.
+- **D:** Cultural conventions can be criticised and changed.
+
+> **Examiner trap:** Difference in bodily function is not evidence of inferior political capacity.
 
 ---
+
+### MCQ 2 — B
+
+- **A:** The theory is not restricted to public law or literal fathers.
+- **B:** The structure affects public opportunities as well as domestic decisions.
+- **C:** Patriarchal hierarchy is not justified by anatomy.
+- **D:** Structural power cannot be reduced to family sentiment.
+
+> **Examiner trap:** Trace institutions and power rather than the word's literal etymology.
+
+---
+
+### MCQ 3 — C
+
+- **A:** Anatomy does not necessitate the observed pedagogical practice.
+- **B:** Voting rights do not control every social norm.
+- **C:** Learned patterns can distribute confidence and future opportunity.
+- **D:** Economic context may matter, but the scenario explicitly concerns learned gender coding.
+
+> **Examiner trap:** Locate the cultural process instead of treating its product as innate.
+
+---
+
+### MCQ 4 — D
+
+- **A:** The argument does not deny sex differences.
+- **B:** Descriptive difference does not establish normative hierarchy.
+- **C:** Being conventional makes it contestable.
+- **D:** Conventional status is not a necessary consequence of sex.
+
+> **Examiner trap:** Never infer entitlement to power from a natural difference alone.
+
+---
+
+### MCQ 5 — A
+
+- **A:** Rights alone do not redistribute household burdens.
+- **B:** The stem explicitly says formal barriers were removed.
+- **C:** Time and dependence can constrain civic voice.
+- **D:** The assignment of care is a social division of labour.
+
+> **Examiner trap:** Equal wording in law does not guarantee equal effective freedom.
+
+---
+
+### MCQ 6 — B
+
+- **A:** Her radical claim addresses the sexual division of reproduction.
+- **B:** Her early rights-based case rejects presumed intellectual inferiority.
+- **C:** Her concern is sexual politics and male authority.
+- **D:** Her socialist account connects patriarchy with capitalism.
+
+> **Examiner trap:** Rights-based feminism is not identical to every later feminist diagnosis.
+
+---
+
+### MCQ 7 — C
+
+- **A:** This is the exclusion Mill challenges.
+- **B:** The feminist critique contests such exclusion.
+- **C:** Naturalised exclusion cannot be justified by unsupported claims of lesser talent.
+- **D:** Mill's argument is about women's legal and civic position.
+
+> **Examiner trap:** Avoid inventing a biological claim as Mill's defence of equality.
+
+---
+
+### MCQ 8 — D
+
+- **A:** Non-legal obstacles can remain.
+- **B:** This does not address the stated informal norms.
+- **C:** Pay and collective ownership are different remedies.
+- **D:** Liberal reform is necessary but may not exhaust patriarchal power.
+
+> **Examiner trap:** Keep reform's contribution while examining what it leaves intact.
+
+---
+
+### MCQ 9 — A
+
+- **A:** Sexual hierarchy needs analysis on its own terms.
+- **B:** That narrows the issue toward liberal access reform.
+- **C:** Radical feminism resists reducing patriarchy to class.
+- **D:** Systematic relations of power are its object.
+
+> **Examiner trap:** Primary patriarchal power is not identical to a universal biological fate.
+
+---
+
+### MCQ 10 — B
+
+- **A:** That is Proudhon's anarchist device, not sexual politics.
+- **B:** Both are radical feminists but identify distinguishable mechanisms.
+- **C:** Her account has a deeper reproductive-technology argument.
+- **D:** Radical accounts refuse that reduction.
+
+> **Examiner trap:** Never attribute Firestone's specific reproductive proposal to all radical feminists.
+
+---
+
+### MCQ 11 — C
+
+- **A:** Her project contests women's subordination.
+- **B:** The economic structure remains part of her concern.
+- **C:** Socialist feminism does not treat class and gender as interchangeable.
+- **D:** That would evade interlocking social relations.
+
+> **Examiner trap:** Avoid flattening a dual-system analysis into class-only determinism.
+
+---
+
+### MCQ 12 — D
+
+- **A:** Neither characterisation follows the extension.
+- **B:** Both labels refer to emancipatory feminism, not fascism.
+- **C:** No such date is established.
+- **D:** Overlap does not erase differences in explanatory emphasis.
+
+> **Examiner trap:** Specify whether class is treated as primary or as one interacting system.
+
+---
+
+### MCQ 13 — A
+
+- **A:** Production depends on work beyond the paid workplace.
+- **B:** Absence of wages is part of the analytical point.
+- **C:** Care does not confer ownership of means of production.
+- **D:** The extension warns against reducing every sex-power relation to class.
+
+> **Examiner trap:** Unpaid does not mean economically inconsequential.
+
+---
+
+### MCQ 14 — B
+
+- **A:** Formal sameness need not capture intersecting disadvantage.
+- **B:** Crenshaw's account contests single-axis models that miss differently situated women.
+- **C:** This ignores institutional differentiation.
+- **D:** Sex does not erase socioeconomic differences.
+
+> **Examiner trap:** Acknowledge caste in an Indian application as an analytic axis without importing unverified numbers.
+
+---
+
+### MCQ 15 — C
+
+- **A:** The illustration shows the harm of excluding combined positions.
+- **B:** Her argument concerns institutional single-axis framing.
+- **C:** Black women's disadvantage was not adequately captured by either unmarked comparator.
+- **D:** An employment example does not limit all intersectional analysis.
+
+> **Examiner trap:** Intersectionality is more than adding two independently calculated disadvantages.
+
+---
+
+### MCQ 16 — D
+
+- **A:** The work is attributed to de Beauvoir, not Gauba.
+- **B:** Social becoming does not require denying embodiment.
+- **C:** Social production supports criticism of fixed roles.
+- **D:** The canonical chapter does not independently source her exact words.
+
+> **Examiner trap:** Do not promote an extension thinker into a page-cited Gauba authority.
+
+---
+
+### MCQ 17 — A
+
+- **A:** The attribution concerns a later conceptual vocabulary, not authorship of Gauba's chapter.
+- **B:** This is unrelated to the feminist distinction.
+- **C:** The distinction separates biology and cultural learning.
+- **D:** The owner explicitly cautions against a single uncontested origin.
+
+> **Examiner trap:** Attribution of popularisation is weaker than an exclusive origin claim.
+
+---
+
+### MCQ 18 — B
+
+- **A:** The system names transformation, not inevitability.
+- **B:** Kinship and exchange practices help explain production of hierarchy.
+- **C:** This does not follow from her analytic framework.
+- **D:** That is not her account of social organisation of sexuality.
+
+> **Examiner trap:** A mechanism is not a synonym for either biology or assigned status alone.
+
+---
+
+### MCQ 19 — C
+
+- **A:** Performativity is constrained repetition, not unrestricted choice.
+- **B:** Her concern is the meaning and categorisation of bodies.
+- **C:** Her performativity account questions a wholly pre-discursive sex substrate.
+- **D:** This would reinstate the naturalism she challenges.
+
+> **Examiner trap:** Performance on stage is not the same as performativity under social norms.
+
+---
+
+### MCQ 20 — D
+
+- **A:** Provisional categories remain possible.
+- **B:** No such condition follows from Butler's analysis.
+- **C:** That avoids rather than resolves the conceptual problem.
+- **D:** Organising for rights requires practical membership without declaring an eternal essence.
+
+> **Examiner trap:** A strategic political category can be useful without being metaphysically fixed.
+
+---
+
+### MCQ 21 — A
+
+- **A:** It is not a record of a literal historical contract signed by all men.
+- **B:** The canonical extension warns against treating it as a documented event.
+- **C:** The critique concerns a structural silence, not a universal legal fact.
+- **D:** That belongs to Proudhon rather than feminist contract critique.
+
+> **Examiner trap:** Distinguish a philosophical reconstruction from a signed document.
+
+---
+
+### MCQ 22 — B
+
+- **A:** This is the exclusion Okin challenges.
+- **B:** Family arrangements shape the background conditions of justice.
+- **C:** Okin contests taking family arrangements for granted.
+- **D:** Background justice need not abolish privacy or autonomy.
+
+> **Examiner trap:** Protecting privacy need not mean immunising dependence from criticism.
+
+---
+
+### MCQ 23 — C
+
+- **A:** Justice-sensitive background conditions need not entail surveillance.
+- **B:** That repeats the boundary under critique.
+- **C:** The target is an unjust boundary, not all private life.
+- **D:** Families and associations can remain under fairer conditions.
+
+> **Examiner trap:** Private does not automatically mean beyond standards of non-domination.
+
+---
+
+### MCQ 24 — D
+
+- **A:** Specific support can coexist with equal status.
+- **B:** Formal uniformity cannot guarantee equal effects.
+- **C:** Provisions can correct social constraints without naturalising them.
+- **D:** Support for maternity-related measures is not a concession of lesser civic worth.
+
+> **Examiner trap:** Evaluate the effect of a measure, not just whether its text differs.
+
+---
+
+### MCQ 25 — A
+
+- **A:** Apparently neutral norms may embody gendered background arrangements.
+- **B:** No such distribution follows from the phrase.
+- **C:** The constraint is social organisation of care.
+- **D:** The issue concerns work capacity and time.
+
+> **Examiner trap:** Neutral language can conceal a non-neutral reference worker.
+
+---
+
+### MCQ 26 — B
+
+- **A:** Internal hierarchy can remain.
+- **B:** Membership totals alone do not secure power for differently situated women.
+- **C:** The issue is institutional voice and intersecting status.
+- **D:** Better representation matters even if insufficient.
+
+> **Examiner trap:** Ask about decision power and issue framing, not just presence.
+
+---
+
+### MCQ 27 — C
+
+- **A:** Radical and socialist strands reach beyond legal access.
+- **B:** Firestone's view is one radical variant.
+- **C:** None alone exhausts all women's circumstances.
+- **D:** It explicitly links the two.
+
+> **Examiner trap:** Compare mechanisms and limits rather than reciting labels.
+
+---
+
+### MCQ 28 — D
+
+- **A:** The source distinguishes competing schools.
+- **B:** These are different claims and thinkers.
+- **C:** This is the hierarchy feminism contests.
+- **D:** Other feminist schools do not inherit this cure automatically.
+
+> **Examiner trap:** A named intervention is not an entire movement's settled doctrine.
+
+---
+
+### MCQ 29 — A
+
+- **A:** Class, race and caste can change the form of exclusion.
+- **B:** Equal rights do not erase structural differences.
+- **C:** A conceptual account cannot fabricate statistics.
+- **D:** Distinguishing biology from roles does not erase class or caste.
+
+> **Examiner trap:** Do not mistake a corrective lens for a replacement for all structural analyses.
+
+---
+
+### MCQ 30 — B
+
+- **A:** That silently misrepresents old data as contemporary.
+- **B:** Present conditions need independent verification.
+- **C:** Concepts do not produce present-day numerical measurements.
+- **D:** Its historical scope cannot establish a present outcome.
+
+> **Examiner trap:** No invented contemporary percentage is needed for a strong theory answer.
+
+---
+
+### MCQ 31 — C
+
+- **A:** The chapter does not own that constitutional fact.
+- **B:** Intersecting hierarchies vary and need evidence.
+- **C:** The owner supports conceptual reasoning, not precise legal attribution.
+- **D:** The source supplies no universal household survey.
+
+> **Examiner trap:** Scope source ownership explicitly before making specific legal or statistical claims.
+
+---
+
+### MCQ 32 — D
+
+- **A:** That reintroduces precisely the naturalisation under critique.
+- **B:** Neither Gauba nor the qualified argument demands this.
+- **C:** Cultural construction entails historical variability.
+- **D:** The feminist argument rejects the inference from difference to hierarchy.
+
+> **Examiner trap:** Neither biological denial nor biological determinism is necessary.
+
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -739,13 +745,13 @@ No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Femi
 
 **Question:** Distinguish sex from gender and explain why the distinction matters politically. Answer in 150 words.
 
-**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of sex from gender and explain why the distinction matters politically in the opening line, carry the argument on Introduction, Sex, Core and Rousseau's, and reserve the closing sentences for the qualification that conclusion: The distinction is politically decisive because bodily difference does not entail social rank: once gender hierarchy is recognised as historically produced, it becomes open to criticism, collective action and institutional transformation.
+**Demand decode:** Distinguish biological characteristics from social roles, then explain why the passage from difference to inferiority is politically contestable.
 
-**Model answer (126 words):**
+**Model answer (147 words):**
 
-Introduction: Sex ordinarily refers to bodily and reproductive characteristics, whereas gender refers to the socially organised roles, expectations and status attached to perceived sex. Core analysis: The distinction explains how a biological difference becomes a political hierarchy. Gauba treats masculinity and femininity as culturally coded patterns rather than necessary consequences of anatomy. Rousseau's natural-conventional distinction then clarifies the normative point: even where bodily differences are real, unequal education, work, authority and citizenship are conventional arrangements. Feminism can therefore challenge the inference from difference to inferiority. This complication revises the framework without restoring biological destiny. Conclusion: The distinction is politically decisive because bodily difference does not entail social rank: once gender hierarchy is recognised as historically produced, it becomes open to criticism, collective action and institutional transformation.
+Introduction: Sex ordinarily refers to bodily and reproductive characteristics, whereas gender refers to the socially organised roles, expectations and status attached to perceived sex. Core analysis: The distinction explains how a biological difference becomes a political hierarchy. Gauba treats masculinity and femininity as culturally coded patterns rather than necessary consequences of anatomy. Rousseau's natural-conventional distinction then clarifies the normative point: even where bodily differences are real, unequal education, work, authority and citizenship are conventional arrangements. Feminism can therefore challenge the inference from difference to inferiority. For example, pregnancy is a bodily capacity, but assigning all care work to women or denying them leadership is a political choice; equal status requires examining those social rules. Conclusion: The distinction is politically decisive because bodily difference does not entail social rank: once gender hierarchy is recognised as historically produced, it becomes open to criticism, collective action and institutional transformation.
 
-**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Sex, Core and Rousseau's), converts that evidence into analysis of sex from gender and explain why the distinction matters politically, and keeps the examiner-facing qualification that conclusion: The distinction is politically decisive because bodily difference does not entail social rank: once gender hierarchy is recognised as historically produced, it becomes open to criticism, collective action and institutional transformation. At 126 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Gauba's socialisation and Rousseau's natural/conventional distinction turn definitions into an argument about alterable civic status.
 
 ---
 
@@ -753,13 +759,13 @@ Introduction: Sex ordinarily refers to bodily and reproductive characteristics, 
 
 **Question:** Why is patriarchy a political category rather than merely a description of family authority? Answer in 150 words.
 
-**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of is patriarchy a political category rather than merely a description of family authority in the opening line, carry the argument on Introduction, Patriarchy, Core and Gendered, and reserve the closing sentences for the qualification that introduction: Patriarchy literally evokes rule of the father, but feminist theory uses it for a wider structure of male domination extending beyond the household.
+**Demand decode:** Give mechanisms beyond literal father-rule: socialisation, paid/unpaid labour, sexuality and representation; test their effect on life chances.
 
-**Model answer (134 words):**
+**Model answer (150 words):**
 
-Introduction: Patriarchy literally evokes rule of the father, but feminist theory uses it for a wider structure of male domination extending beyond the household. Core analysis: It is political because it distributes power and life chances. Gendered socialisation shapes aspirations; the division of paid and unpaid labour shapes economic dependence; control over sexuality and reproduction shapes bodily autonomy; and unequal representation shapes public decision-making. Kate Millett therefore interprets relations between the sexes as power relations supported by ideology and authority. It is strongest when tied to identifiable mechanisms of unequal power rather than used as a slogan for every disadvantage. Conclusion: Patriarchy is political because it organises power, labour, status and voice across household and public institutions; feminist theory therefore makes domination within the so-called private sphere answerable to standards of freedom and justice.
+Introduction: Patriarchy literally evokes rule of the father, but feminist theory uses it for a wider structure of male domination extending beyond the household. Core analysis: It is political because it distributes power and life chances. Gendered socialisation shapes aspirations; the division of paid and unpaid labour shapes economic dependence; control over sexuality and reproduction shapes bodily autonomy; and unequal representation shapes public decision-making. Kate Millett therefore interprets relations between the sexes as power relations supported by ideology and authority. It is strongest when tied to identifiable mechanisms of unequal power rather than used as a slogan for every disadvantage. Equal formal rights alone may leave the household allocation of care and control of resources untouched. Conclusion: Patriarchy is political because it organises power, labour, status and voice across household and public institutions; feminist theory therefore makes domination within the so-called private sphere answerable to standards of freedom and justice.
 
-**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Patriarchy, Core and Gendered), converts that evidence into analysis of is patriarchy a political category rather than merely a description of family authority, and keeps the examiner-facing qualification that introduction: Patriarchy literally evokes rule of the father, but feminist theory uses it for a wider structure of male domination extending beyond the household. At 134 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Millett's power analysis supports the move from private authority to institutions, with a caution against using patriarchy as an empty label.
 
 ---
 
@@ -767,13 +773,13 @@ Introduction: Patriarchy literally evokes rule of the father, but feminist theor
 
 **Question:** Compare liberal, radical, Marxist and socialist feminism as explanations of women's subordination. Answer in 150 words.
 
-**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of liberal, radical, Marxist and socialist feminism as explanations of women's subordination in the opening line, carry the argument on Introduction, Feminist, Core and Liberal, and reserve the closing sentences for the qualification that conclusion: The four approaches are best treated as complementary but contestable lenses: rights, sexual power, capitalist reproduction and interacting systems each reveal a distinct mechanism that no single-axis explanation exhausts.
+**Demand decode:** Compare four causal accounts, not just four labels: blocked rights, sexual domination, unwaged reproduction and interacting patriarchy/class.
 
-**Model answer (148 words):**
+**Model answer (149 words):**
 
 Introduction: Feminist schools share opposition to unjust gender hierarchy but disagree over its principal mechanism and the institutional depth of the remedy. Core analysis: Liberal feminism locates the problem in discriminatory laws, blocked education, unequal opportunity and weak representation; Wollstonecraft and Mill support rights-based reform. Radical feminism treats patriarchal control of sexuality, reproduction and cultural meaning as a primary system not reducible to class; Millett and Firestone illustrate different versions. Marxist feminism explains how capitalism benefits from women's paid and unpaid reproductive labour. Socialist feminism, associated here with Rowbotham, rejects class reduction and analyses capitalism and patriarchy as distinct but mutually reinforcing structures. Further development: The remedies follow from the diagnoses. Comparison should identify what each explains best. Conclusion: The four approaches are best treated as complementary but contestable lenses: rights, sexual power, capitalist reproduction and interacting systems each reveal a distinct mechanism that no single-axis explanation exhausts.
 
-**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Feminist, Core and Liberal), converts that evidence into analysis of liberal, radical, Marxist and socialist feminism as explanations of women's subordination, and keeps the examiner-facing qualification that conclusion: The four approaches are best treated as complementary but contestable lenses: rights, sexual power, capitalist reproduction and interacting systems each reveal a distinct mechanism that no single-axis explanation exhausts. At 148 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Names Wollstonecraft/Mill, Millett/Firestone and Rowbotham without conflating Marxist and socialist feminism.
 
 ---
 
@@ -781,13 +787,13 @@ Introduction: Feminist schools share opposition to unjust gender hierarchy but d
 
 **Question:** Critically examine Judith Butler's account of gender performativity and the category problem it creates for feminism. Answer in 250 words.
 
-**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine Judith Butler's account of gender performativity and the category problem it creates for feminism in the opening line, carry the argument on Introduction, Judith Butler, Core and Performativity, and reserve the closing sentences for the qualification that conclusion: Butler strengthens feminism by exposing the repeated practices that naturalise gender, but political action still requires provisional categories whose strategic use must remain open to internal criticism and revision.
+**Demand decode:** Test Butler's repeated-norm thesis against material embodiment and the instability of the political subject 'woman'.
 
-**Model answer (247 words):**
+**Model answer (248 words):**
 
 Introduction: Judith Butler radicalises the sex-gender debate by treating gender as performative: repeated, socially compelled acts produce the appearance of a natural identity. Core analysis: Performativity does not mean a freely chosen theatrical performance, nor does it deny bodies. It argues that speech, dress, gesture and institutional classification repeatedly constitute intelligible gendered subjects. Because the norm requires repetition, failed or subversive repetition can disclose its contingency. This helps feminism explain why hierarchy survives without a single commanding patriarch and why apparently personal conduct is politically regulated. Further development: Butler also challenges the standard textbook picture in which a stable biological sex merely receives a cultural gender. The categories through which bodies are recognised are themselves organised by discourse and power. Critics reply that this approach may understate material constraints, reproductive embodiment and durable institutions. Butler's contribution remains strongest as an account of naturalisation: norms appear inevitable because repetition conceals their history. Political feminism can accept this insight while retaining empirically usable categories for law and mobilisation. The category must function as a revisable coalition rather than an essence that predetermines all members. Critical evaluation: The category problem is serious: if 'woman' is wholly an unstable effect of discourse, the subject of anti-discrimination claims appears to dissolve. Yet temporary categories can harden and exclude those who fit badly. Conclusion: Butler strengthens feminism by exposing the repeated practices that naturalise gender, but political action still requires provisional categories whose strategic use must remain open to internal criticism and revision.
 
-**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Judith Butler, Core and Performativity), converts that evidence into analysis of examine Judith Butler's account of gender performativity and the category problem it creates for feminism, and keeps the examiner-facing qualification that conclusion: Butler strengthens feminism by exposing the repeated practices that naturalise gender, but political action still requires provisional categories whose strategic use must remain open to internal criticism and revision. At 247 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Distinguishes constrained performativity from free performance and argues for revisable coalition categories.
 
 ---
 
@@ -795,13 +801,13 @@ Introduction: Judith Butler radicalises the sex-gender debate by treating gender
 
 **Question:** Evaluate the feminist critique of the public-private divide with reference to Carole Pateman and Susan Moller Okin. Answer in 250 words.
 
-**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of the feminist critique of the public-private divide with reference to Carole Pateman and Susan Moller Okin in the opening line, carry the argument on Introduction, Feminist, Core and Carole Pateman's, and reserve the closing sentences for the qualification that conclusion: Pateman and Okin show that public equality cannot rest on unexamined private subordination;.
+**Demand decode:** Evaluate whether formal civic equality is possible while household work and marital power remain beyond the scope of justice.
 
-**Model answer (238 words):**
+**Model answer (245 words):**
 
 Introduction: Feminist political theory argues that public freedom is incomplete when the household and intimate sphere are treated as naturally private and exempt from justice. Core analysis: Carole Pateman's *The Sexual Contract* reconstructs classical contract theory as resting on an unspoken structure of male access to women's bodies and labour. The thesis is interpretive, not a claim that an actual historical contract was signed. Susan Moller Okin argues that theories such as Rawls's insufficiently examine the family as a site where gendered labour produces unequal time, income and opportunity. The apparently neutral citizen entering public life may therefore carry resources made possible by another person's unpaid care and dependence. Further development: The critique also changes the meaning of citizenship. If one citizen's public participation depends on another's unequal domestic burden, formally identical rights conceal unequal effective freedom. Indian application should remain conceptual: women's education, property control, political representation and care work illustrate the conversion problem without importing unverified statistics or legal detail. Critics may defend family autonomy and warn against bureaucratic intrusion. The feminist reply is that autonomy itself requires non-domination, material exit and shared responsibility. The answer is not abolition of privacy, but justice-sensitive background conditions: freedom from violence, fair care burdens, economic security and genuine exit. Conclusion: Pateman and Okin show that public equality cannot rest on unexamined private subordination; a defensible settlement protects personal intimacy while subjecting coercive dependency and gendered background conditions to justice.
 
-**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Feminist, Core and Carole Pateman's), converts that evidence into analysis of the feminist critique of the public-private divide with reference to Carole Pateman and Susan Moller Okin, and keeps the examiner-facing qualification that conclusion: Pateman and Okin show that public equality cannot rest on unexamined private subordination;. At 238 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Distinguishes Pateman's interpretive contract critique from Okin's family-justice critique and answers the privacy objection.
 
 ---
 
@@ -809,12 +815,12 @@ Introduction: Feminist political theory argues that public freedom is incomplete
 
 **Question:** Is feminism best understood as a project of equality, empowerment or social transformation? Discuss. Answer in 250 words.
 
-**Demand decode:** the directive `is` requires the answer to take a side, defend it and concede the strongest point against it. Fix the boundary of feminism best understood as a project of equality, empowerment or social transformation? Discuss in the opening line, carry the argument on Introduction, Equality, Core and Empowerment, and reserve the closing sentences for the qualification that conclusion: Feminism is most adequately understood as an integrated project: equality supplies status and rights, empowerment supplies effective agency, and social transformation removes the institutions and norms that repeatedly reproduce subordination.
+**Demand decode:** Adjudicate between legal equality, effective agency and structural change rather than presenting these as mutually exclusive slogans.
 
-**Model answer (243 words):**
+**Model answer (246 words):**
 
 Introduction: Equality, empowerment and social transformation name different levels of the feminist project rather than mutually exclusive goals. Core analysis: Equality attacks unjust status distinctions through rights, education, property, work and representation. Empowerment asks whether women possess the resources, capabilities, voice and control needed to use formal rights. Transformation goes further by changing gendered socialisation, care arrangements, labour markets, family authority and cultural norms that reproduce dependence. Liberal feminism foregrounds equal access; radical feminism exposes sexual and reproductive power; Marxist and socialist feminism connect household labour with political economy; intersectionality asks which women benefit or remain marginalised. Further development: The historical sequence illustrates the integration. Early rights feminism removed formal exclusions; later movements showed that suffrage and legal personality did not automatically redistribute authority, labour or recognition. Pateman and Okin relocate justice within the background institutions of contract and family. Butler reveals the repeated norms through which identities are naturalised, while Crenshaw's intersectionality tests whether a universal category conceals differentiated disadvantage. A current comparative anchor also supports the distinction: the 2026 UN summary of the IPU's 2025 report found higher average women's representation in chambers with legislated quotas, but representation alone does not establish equal influence or freedom from intimidation. A defensible feminism therefore joins equal status, substantive capability and democratic transformation. Conclusion: Feminism is most adequately understood as an integrated project: equality supplies status and rights, empowerment supplies effective agency, and social transformation removes the institutions and norms that repeatedly reproduce subordination.
 
-**Why this earns marks:** it obeys `is` instead of drifting into description, attaches each claim to named evidence (Introduction, Equality, Core and Empowerment), converts that evidence into analysis of feminism best understood as a project of equality, empowerment or social transformation? Discuss, and keeps the examiner-facing qualification that conclusion: Feminism is most adequately understood as an integrated project: equality supplies status and rights, empowerment supplies effective agency, and social transformation removes the institutions and norms that repeatedly reproduce subordination. At 243 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Uses distinct schools and Crenshaw's corrective; the dated IPU illustration tests why numerical representation alone is insufficient.
 
 ---

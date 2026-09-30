@@ -12,819 +12,513 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Applied set:** 24 constructed administrative dilemmas. Attempt all questions before using the separate explanatory key.
+
 #### MCQ 1
 
-A state government designs a procurement system with mandatory dual-custody of financial approvals and automatic rotation of purchasing officers every two years. Which Indian moral thinker's structural premise most directly justifies this design over a purely pledge-based integrity programme? Which source-grounded ethical principle most precisely explains the case?
+A district redesigns procurement to split custody and reward staff who report irregularities. Which thinker best explains the design?
 
-A. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
+A. Kautilya: anticipate opportunity-driven temptation and reward honest stewardship.
+B. Gandhi: remove every audit because sincerity suffices.
+C. Basava: restrict procurement work to high-status castes.
+D. Buddha: postpone all purchasing to avoid extreme choices.
 
-B. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-C. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
-
-D. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-**Answer:** A
-**Explanation:** **Kautilya assumes temptation is structural** is the controlling principle. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 2
 
-A department head insists that good character training alone will eliminate corruption and resists instituting surprise audits. Which classical Indian passage warns that this reliance on moral goodwill alone is insufficient? Which source-grounded ethical principle most precisely explains the case?
+A vigilance unit audits every action equally and demoralises conscientious officers. What corrects a one-sided Kautilyan reading?
 
-A. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
+A. Replace evidence of wrongdoing with a leader's intuition.
+B. Risk-based checks plus fair rewards, review and public-service motivation.
+C. End every audit as intrinsically immoral.
+D. Treat all officials as presumptively corrupt.
 
-B. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
-
-C. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-D. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-**Answer:** B
-**Explanation:** **Kautilya assumes temptation is structural** is the controlling principle. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 3
 
-A senior district official leads by personal example, refusing gifts publicly and expecting subordinates to follow suit without any formal surveillance mechanism. Which Indian moral framework underpins this approach and what is its structural limitation? Which source-grounded ethical principle most precisely explains the case?
+A minister treats government vehicles and staff as personal entitlements. What Gandhian correction fits?
 
-A. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
+A. Sarvodaya gives ministers absolute property rights over state assets.
+B. Ends-means unity permits misuse if a scheme ultimately helps people.
+C. Public office is held in trust for citizens, not owned by its holder.
+D. Trusteeship entitles good officials to private perks.
 
-B. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
-
-C. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-D. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-**Answer:** C
-**Explanation:** **Gandhi assumes moral transformation through self-purification** is the controlling principle. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 4
 
-A civil servant argues that integrity pledges and public commitments by senior leaders are more effective than vigilance machinery in building a corruption-free organisation. Which thinker's idealist premise does this echo and what is the ARC's implicit caution? Which source-grounded ethical principle most precisely explains the case?
+An officer directs scarce water toward politically connected neighbourhoods. Which trusteeship act corrects both process and allocation?
 
-A. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
+A. Trust the officer's charitable intention without scrutiny.
+B. Transfer water rights permanently to political patrons.
+C. Allocate secretly to reduce public debate.
+D. Publish need-based criteria, disclose conflicts and prioritise vulnerable households.
 
-B. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-C. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
-
-D. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-**Answer:** D
-**Explanation:** **Gandhi assumes moral transformation through self-purification** is the controlling principle. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 5
 
-A Lokpal investigation relies on asset-declaration analysis and bank-transaction audits while the official campaign poster quotes Gandhian values. Which analytical claim about India's dual ethical heritage does this illustrate? Which source-grounded ethical principle most precisely explains the case?
+A civic forum uses the needs of the least served settlement to evaluate a policy. Which Gandhian test is closest?
 
-A. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
+A. The talisman or Antyodaya focus on the poorest and weakest.
+B. Kautilya's criterion of maximum treasury secrecy.
+C. Kayaka's claim that manual work is inherently low status.
+D. A claim that all private property automatically falls under Article 39(b).
 
-B. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
-
-C. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-D. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-**Answer:** A
-**Explanation:** **Modern anti-corruption is Kautilyan in design but Gandhian in aspiration** is the controlling principle. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 6
 
-A reform commission recommends both a statutory Lokpal with investigative powers and a Gandhian code-of-ethics module for all civil servants. Why does the commission's package embody a synthesis rather than a contradiction? Which source-grounded ethical principle most precisely explains the case?
+An officer says the Directive Principles make trusteeship identical to State ownership of all private property. What is the precise correction?
 
-A. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
+A. Trusteeship means property holders owe no public duties.
+B. Articles 39(b)–(c) are analogues, not a settled rule covering every private asset.
+C. Gandhi's trusteeship forbids State regulation of wealth.
+D. Article 39(b) is a personal permission for arbitrary confiscation.
 
-B. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
-
-C. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-D. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
-
-**Answer:** B
-**Explanation:** **Modern anti-corruption is Kautilyan in design but Gandhian in aspiration** is the controlling principle. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 7
 
-After a corruption scandal a state government introduces mandatory CCTV in every office, keystroke logging and weekly asset checks. Honest officers feel distrusted and begin avoiding any discretionary decision. Which analytical boundary explains this backfire? Which source-grounded ethical principle most precisely explains the case?
+A village policy honours generous donors but publicly humiliates poor recipients. Which thinker supplies the dignity objection?
 
-A. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
+A. Gandhi: unclean means are justified by generous ends.
+B. Guru Nanak: sharing must reinforce recipient inferiority.
+C. Vivekananda's Practical Vedanta: service to deprived persons is not condescending charity.
+D. Kautilya: public shame is necessary to protect the treasury.
 
-B. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
-
-C. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-D. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
-
-**Answer:** C
-**Explanation:** **A regime built entirely on surveillance demoralises honest officials** is the controlling principle. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 8
 
-A district collector pairs vigilance mechanisms with a mentoring programme, public recognition for exemplary service and protected dissent channels. Which synthesis principle is she applying to avoid the demoralisation risk? Which source-grounded ethical principle most precisely explains the case?
+A sanitation worker is refused a seat in a civic consultation because of caste. Which Basava concept challenges this?
 
-A. Gandhi's trusteeship and Satyagraha assume that moral transformation is possible through exemplar-based self-purification and non-violent persuasion; this idealist premise drives internal, character-based reform and contrasts with Kautilya's reliance on external control mechanisms.
+A. Dasoha denotes permanent caste separation.
+B. Anubhava Mantapa is proven to be the first modern parliament.
+C. Rajadharma requires ranked participation by birth.
+D. Kayaka upholds dignity of honest labour irrespective of caste.
 
-B. India's modern anti-corruption architecture is structurally closer to Kautilya's control-based realism (statutory controls, vigilance machinery, Lokpal) than to Gandhi's exemplar-based idealism, yet invokes Gandhian language of integrity as a civilisational value in its public rhetoric.
-
-C. Kautilya's Arthashastra treats official corruption as an opportunity-driven structural phenomenon rather than a personal moral failing; the honey-and-poison passage (Kangle 2.9.32, cited in ARC Annexure-I(2)) argues that an official dealing with the king's money can no more avoid tasting it than a tongue can avoid tasting honey or poison placed on its surface.
-
-D. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking.
-
-**Answer:** D
-**Explanation:** **A regime built entirely on surveillance demoralises honest officials** is the controlling principle. An anti-corruption regime built entirely on Kautilyan surveillance without any Gandhian or Vivekanandan appeal to service-motivation risks demoralising honest officials; the ARC cautions against excessive suspicion that discourages legitimate risk-taking. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 9
 
-A welfare officer treats slum-resettlement beneficiaries with the same courtesy and procedural care as elite applicants, viewing service to the poorest as an expression of devotion rather than bureaucratic obligation. Which thinker's framework best explains this orientation? Which source-grounded ethical principle most precisely explains the case?
+A labour cooperative pools earnings to support poorer workers after honest work. Which Basava pairing is most apt?
 
-A. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
+A. Kayaka for dignified labour and Dasoha for sharing surplus.
+B. Dasoha for contemplation and Kayaka for coercive work.
+C. Kirat Karo for political command and Naam Japna for taxation.
+D. Trusteeship for exempting wealthy officers from accountability.
 
-B. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-C. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
-
-D. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-**Answer:** A
-**Explanation:** **Vivekananda's Practical Vedanta makes service a spiritual duty** is the controlling principle. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 10
 
-A training module tells officers that public service is a job like any other and that emotional engagement with beneficiaries is unprofessional. Which Indian philosophical framework directly challenges this detachment model? Which source-grounded ethical principle most precisely explains the case?
+An audit chief takes a bribe then funds community meals. Which Guru Nanak principle remains violated?
 
-A. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
+A. Dasoha: surplus-sharing cancels crimes automatically.
+B. Kirat Karo: honest earning cannot be replaced by sharing stolen funds.
+C. Vand Chhako: sharing legalises any source of money.
+D. Naam Japna: contemplation makes audits unnecessary.
 
-B. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
-
-C. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-D. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-**Answer:** B
-**Explanation:** **Vivekananda's Practical Vedanta makes service a spiritual duty** is the controlling principle. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 11
 
-A municipality assigns street sweepers the same benefits, protective equipment and recognition ceremonies as administrative staff, citing equal dignity of all public service. Which 12th-century thinker's ethical principle most directly supports this policy? Which source-grounded ethical principle most precisely explains the case?
+A public hearing brings different caste and faith groups into shared decision-making. What kind of social capital is intentionally built?
 
-A. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
+A. A guarantee that any network is intrinsically inclusive.
+B. Financial capital deposited by an administrative officer.
+C. Bridging capital linking previously separated groups.
+D. Bonding capital confined to an existing insider network.
 
-B. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
-
-C. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-D. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-**Answer:** C
-**Explanation:** **Basava's Kayaka assigns equal spiritual worth to all honest labour** is the controlling principle. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 12
 
-A government office informally treats manual-labour roles as lower in dignity than desk-based roles, denying sanitation workers access to the common canteen. Which Indian moral thinker's core teaching does this workplace practice violate? Which source-grounded ethical principle most precisely explains the case?
+A strong caste network arranges jobs only for insiders. What limitation of social capital does this illustrate?
 
-A. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
+A. All local trust automatically improves impartiality.
+B. Bridging ties necessarily arise whenever people share caste.
+C. Public rules are redundant when people know one another.
+D. Bonding ties may facilitate exclusion and patronage.
 
-B. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-C. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
-
-D. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-**Answer:** D
-**Explanation:** **Basava's Kayaka assigns equal spiritual worth to all honest labour** is the controlling principle. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 13
 
-A finance officer designs a budget that prioritises revenue through transparent tax collection and allocates a disproportionately higher share to healthcare in underserved districts. Which Indian thinker's paired principles most closely map to this honest-collection-plus-equitable-expenditure ethic? Which source-grounded ethical principle most precisely explains the case?
+An officer punishes a minor paperwork lapse with total denial of an eligible entitlement. What Buddhist-inspired test is useful?
 
-A. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
+A. A proportionate Middle Path avoids harsh excess and negligent waiver alike.
+B. Always compromise between legality and bribery.
+C. Avoid making a firm decision until every party agrees.
+D. Ignore the Eightfold Path because balance means moral neutrality.
 
-B. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
-
-C. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-D. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-**Answer:** A
-**Explanation:** **Guru Nanak models honest earning plus equitable sharing** is the controlling principle. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 14
 
-A public servant earns an honest salary but opposes any redistribution of departmental resources toward weaker sections. Which component of the relevant Indian thinker's ethical framework is he partially embracing and which is he rejecting? Which source-grounded ethical principle most precisely explains the case?
+A land dispute mediator hears rival claims, but one party demands that consultation never end. How should Mahavir's many-sidedness be applied?
 
-A. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
+A. Give the loudest claimant the property.
+B. Consider relevant perspectives, then decide with evidence and a fair deadline.
+C. Treat all contradictory title claims as simultaneously legally valid.
+D. Refuse to listen to anyone to avoid indecision.
 
-B. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
-
-C. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-D. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
-
-**Answer:** B
-**Explanation:** **Guru Nanak models honest earning plus equitable sharing** is the controlling principle. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 15
 
-A welfare scheme requires beneficiaries to display their below-poverty-line status on public notice boards as a condition of receiving benefits. Which shared ethical principle among Vivekananda, Basava and Nanak does this stigmatising design violate? Which source-grounded ethical principle most precisely explains the case?
+An officer follows a party leader instead of constitutional safeguards for a disadvantaged community. Which Ambedkar warning is most relevant?
 
-A. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
+A. Formal equality alone cures caste disadvantage.
+B. Fraternity is a substitute for institutions and judicial review.
+C. Constitutional morality must constrain hero-worship and protect equality.
+D. Bhakti toward leaders always strengthens democracy.
 
-B. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
-
-C. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-D. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
-
-**Answer:** C
-**Explanation:** **All three refuse a charity model in favour of a dignity model** is the controlling principle. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth). The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 16
 
-A district redesigns its pension-delivery process so that elderly beneficiaries receive doorstep service without queuing or producing humiliating eligibility proof. Which convergence among three Indian thinkers is being operationalised? Which source-grounded ethical principle most precisely explains the case?
+A policy grants every voter a vote while excluding a group from meaningful schooling. Which Ambedkar diagnosis fits?
 
-A. Basava's principle Kayakave Kailasa holds that dignified, honest productive work is itself the divine abode; all honest labour, regardless of caste, carries equal spiritual and social worth, underpinning an anti-discrimination service ethic that anticipates Articles 17 and 23 of the Indian Constitution.
+A. A formal vote proves social equality is complete.
+B. Fraternity means one can abandon equal opportunity.
+C. The State can remedy inequality solely by moral exhortation.
+D. Political equality can coexist with social and economic inequality.
 
-B. Guru Nanak's Kirat Karo (earn through honest labour) and Vand Chhako (share with others) together model an ethic directly applicable to honest use of, and equitable sharing of, public resources; Kirat Karo opposes rent-seeking and corruption while Vand Chhako supports progressive, equity-oriented allocation.
-
-C. Vivekananda applies Advaita's non-dual metaphysics (the self in all beings is one) to ground an ethic of service: serving the deprived is serving the divine, collapsing the sacred-secular distinction in public-service motivation through the concept of Daridra Narayana.
-
-D. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth).
-
-**Answer:** D
-**Explanation:** **All three refuse a charity model in favour of a dignity model** is the controlling principle. Vivekananda's Daridra Narayana, Basava's Kayaka and Guru Nanak's Vand Chhako all refuse a charity model of welfare (in which the giver is superior to the receiver) in favour of a dignity model (in which service to the deprived, or the deprived's own labour, carries equal spiritual and civic worth). The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 17
 
-After food-safety violations at a single establishment, a district magistrate orders all restaurants in the city shut down for a month. A colleague suggests doing nothing because enforcement is unpopular. Which decision-procedure tests both responses against a principled standard? Which source-grounded ethical principle most precisely explains the case?
+A campaign quotes Ambedkar's 'grammar of anarchy' as an absolute ban on civil disobedience. What is missing?
 
-A. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
+A. His warning is conditional on genuine availability of constitutional methods.
+B. He denied any duty to use constitutional forums.
+C. He endorsed violence whenever social inequality exists.
+D. He held that all lawful protest is anarchy.
 
-B. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-C. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
-
-D. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-**Answer:** A
-**Explanation:** **Buddha's Middle Path is a decision-procedure, not a static virtue** is the controlling principle. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 18
 
-A civil servant facing a land dispute is told to 'be balanced' but receives no operational guidance on what balance means. Which Indian philosophical framework converts balance from a vague instruction into a testable procedure? Which source-grounded ethical principle most precisely explains the case?
+Petitions are repeatedly refused access while a peaceful movement protests exclusion. What must the State assess before invoking Ambedkar's warning?
 
-A. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
+A. Whether the protest inconveniences officials.
+B. Whether forums are genuinely accessible, effective and independent for the grievance.
+C. Whether protest leaders are personally popular.
+D. Whether any petition form exists on paper even if unusable.
 
-B. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
-
-C. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-D. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-**Answer:** B
-**Explanation:** **Buddha's Middle Path is a decision-procedure, not a static virtue** is the controlling principle. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 19
 
-A revenue officer mindfully reviews her own assumptions before rejecting a tribal land-claim application, ensuring that her decision is based on evidence rather than inherited prejudice. Which element of the Eightfold Path is she applying to her administrative role? Which source-grounded ethical principle most precisely explains the case?
+A peaceful protest occupies the only emergency access road indefinitely. Which response fits constitutional ethics?
 
-A. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
+A. Treat any disruption as authority to use indiscriminate force.
+B. Ignore injured residents' need for access.
+C. Enable alternative assembly, negotiate, publish proportionate restrictions and preserve emergency access.
+D. Prohibit all future dissent about the policy.
 
-B. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
-
-C. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-D. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-**Answer:** C
-**Explanation:** **The Eightfold Path maps to official conduct standards** is the controlling principle. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 20
 
-An officer accepts a posting in a department whose revenue-generation methods he considers unethical but takes no action to seek a transfer or raise the concern internally. Which Eightfold Path component is relevant to evaluating his occupational choice? Which source-grounded ethical principle most precisely explains the case?
+A state treats civil disobedience and a serving official's objection to an order as identical. Which distinction matters?
 
-A. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
+A. An officer should always break the law publicly before writing objections.
+B. A citizen protest must be kept entirely secret.
+C. An unconstitutional order becomes ethical if a superior gives it.
+D. Officials should first use documented institutional dissent; public civil disobedience is different.
 
-B. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-C. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
-
-D. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-**Answer:** D
-**Explanation:** **The Eightfold Path maps to official conduct standards** is the controlling principle. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 21
 
-A district collector mediating a land dispute between a tribal community, an industrial developer and an environmental group deliberately holds separate hearings with each before synthesising a decision. Which Indian thinker's epistemological doctrine supports this process? Which source-grounded ethical principle most precisely explains the case?
+A clerk truthful in private refuses to publish distribution criteria because beneficiaries 'can trust me'. Which trusteeship rung is missing?
 
-A. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
+A. Information accountability through proactive disclosure and reviewable criteria.
+B. Dasoha means all records are confidential.
+C. Honest personal intent eliminates public accountability.
+D. Antyodaya requires hiding beneficiaries' entitlements.
 
-B. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
-
-C. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-D. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-**Answer:** A
-**Explanation:** **Mahavir's Anekantavada supports multi-stakeholder consultation** is the controlling principle. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 22
 
-A policymaker dismisses minority objections to a highway project, saying the majority benefit is the only relevant perspective. Which Jain doctrine warns against this single-perspective approach? Which source-grounded ethical principle most precisely explains the case?
+An officer leaves no handover notes, claiming a welfare scheme belongs to her personally. Which trusteeship duty is violated?
 
-A. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
+A. Right Livelihood forbids replacing an officer.
+B. Succession: public records and services must survive the holder of office.
+C. Kautilyan rewards authorise destroying institutional memory.
+D. Sarvodaya treats public programmes as personal brands.
 
-B. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
-
-C. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-D. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
-
-**Answer:** B
-**Explanation:** **Mahavir's Anekantavada supports multi-stakeholder consultation** is the controlling principle. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 23
 
-After a viral social-media outrage, a state government demolishes an entire market complex for one building violation instead of issuing targeted notices. Which ethical decision-procedure would have prevented this disproportionate response? Which source-grounded ethical principle most precisely explains the case?
+A 2025 exam stem attributes a statement on law and public morality to Vivekananda, but the work cannot be traced. How should an answer handle it?
 
-A. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
+A. Treat every exam attribution as proof of original publication.
+B. Refuse to analyse the ethical claim at all.
+C. Analyse the supplied thought while separating exam attribution from verified primary authorship.
+D. Invent a chapter of the Complete Works to establish it.
 
-B. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
-
-C. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
-
-D. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
-
-**Answer:** C
-**Explanation:** **Proportionality prevents both populist crackdowns and inaction** is the controlling principle. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 24
 
-A sub-divisional magistrate knows that illegal sand mining is occurring but takes no action because previous enforcement led to political backlash. Which ethical framework identifies this as the opposite extreme that is equally problematic? Which source-grounded ethical principle most precisely explains the case?
+A government adopts Kautilyan audits but only exhortations on dignity in welfare offices. What synthesis is stronger?
 
-A. The Eightfold Path's Right Action, Right Livelihood and Right Mindfulness map onto lawful conduct, honest occupation and self-aware decision-making in public administration; the Middle Path counsels against both reckless discretion and paralytic over-caution in administrative choice.
+A. Replace audits entirely with inspirational banners.
+B. Remove every moral duty and monitor all staff without cause.
+C. Assume ancient concepts are identical to current statutes.
+D. Join enforceable controls with Gandhian stewardship and inclusive service standards.
 
-B. Mahavir's Anekantavada (many-sidedness of truth) holds that no single perspective captures the whole truth; administratively, this operationalises listening to competing legitimate viewpoints before deciding, supporting multi-stakeholder consultation in policy design.
 
-C. The Middle Path (Madhyama Pratipada) is best understood not as a static virtue of moderation but as a decision-procedure: before acting, test whether a contemplated administrative response is an over-reaction (excessive, punitive, populist crackdown) or an under-reaction (complacent inaction) and correct toward proportionality.
+### Separate answer key and option-by-option explanations
 
-D. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test.
+#### MCQ 1 — A
 
-**Answer:** D
-**Explanation:** **Proportionality prevents both populist crackdowns and inaction** is the controlling principle. The proportionality check, grounded in the Middle Path, prevents both populist crackdowns (over-reaction driven by short-term political pressure) and complacent inaction (under-reaction driven by risk-aversion or indifference); it maps directly onto the case-study method's proportionality test. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The Arthashastra links realistic control with just performance incentives.
+- **B:** Trusteeship does not entail abolishing controls.
+- **C:** Kayaka affirms dignity across caste.
+- **D:** The Middle Path does not require paralysis.
 
----
-
-#### MCQ 25
-
-A chief minister pressures a district magistrate to bypass environmental-clearance procedures for a politically important project. The officer insists on following the statutory process despite the pressure. Which concept from which Indian thinker grounds her refusal? Which source-grounded ethical principle most precisely explains the case?
-
-A. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-B. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-C. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-D. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-**Answer:** A
-**Explanation:** **Ambedkar's constitutional morality demands reverence for constitutional forms** is the controlling principle. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Kautilya is more than punitive surveillance.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-A citizen argues that constitutional morality means blind obedience to any law regardless of its content. Which dimension of Ambedkar's formulation, drawn from Grote, includes the right of unrestrained censure and thus contradicts this reading? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Intuition alone cannot establish misconduct.
+- **B:** Proportionate controls retain prevention without universal suspicion.
+- **C:** Zero oversight invites hidden misuse.
+- **D:** Presumed guilt damages trust and morale.
 
-A. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-B. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-C. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-D. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-**Answer:** B
-**Explanation:** **Ambedkar's constitutional morality demands reverence for constitutional forms** is the controlling principle. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Realism needs an institutional and moral counterweight.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-A district with universal adult franchise still has female literacy below 30 per cent and landless labourers comprising 60 per cent of the population. A civil servant designing welfare interventions invokes which Indian thinker's specific warning to justify targeted affirmative action? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Universal welfare differs from proprietary command.
+- **B:** A good end cannot cleanse misuse of means.
+- **C:** Fiduciary power cannot finance personal benefit.
+- **D:** Good intentions do not privatise office.
 
-A. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-B. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-C. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-D. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-**Answer:** C
-**Explanation:** **Ambedkar warned of a life of contradictions** is the controlling principle. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Translate trusteeship into a recorded spending decision.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A colleague argues that political equality through elections is sufficient for democracy and that social inequality is a private matter. Which specific constitutional-assembly speech refutes this claim and identifies the resulting risk? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Voluntary goodwill alone is not enforceable.
+- **B:** Patronage contradicts stewardship.
+- **C:** Secrecy erodes public accountability.
+- **D:** Open criteria and conflict management protect beneficiaries.
 
-A. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-B. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-C. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-D. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-**Answer:** D
-**Explanation:** **Ambedkar warned of a life of contradictions** is the controlling principle. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Trusteeship requires external audit as well as character.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-A state enforces anti-discrimination laws strictly but communities remain deeply segregated and hostile. A social reformer argues that legal enforcement alone is insufficient without a shared sense of belonging. Which Ambedkar concept does the reformer invoke? Which source-grounded ethical principle most precisely explains the case?
+- **A:** The allocation test asks whether a step helps the weakest.
+- **B:** The passage concerns official temptation and control.
+- **C:** Kayaka affirms rather than degrades labour.
+- **D:** That broad constitutional inference is unsafe.
 
-A. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-B. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-C. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-D. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-**Answer:** A
-**Explanation:** **Fraternity makes constitutional values self-sustaining** is the controlling principle. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** The test is substantive, not a licence to skip eligibility.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-A civil servant wonders why high rates of prosecution under atrocity-prevention laws have not reduced caste violence. Which Ambedkar principle explains why legal coercion without underlying social solidarity is structurally fragile? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Fiduciary responsibility is central.
+- **B:** The 2024 Property Owners' Association ruling requires nuance on scope.
+- **C:** The doctrine admits public regulation.
+- **D:** Directive principles do not confer personal confiscatory power.
 
-A. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-B. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-C. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-D. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-**Answer:** B
-**Explanation:** **Fraternity makes constitutional values self-sustaining** is the controlling principle. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not flatten constitutional analogy into property law.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-A parliamentary majority proposes to amend a fundamental right that protects religious minorities. An opposition member argues that the basic-structure doctrine exists precisely for such situations. Which Indian thinker's design philosophy does this argument reflect? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Ends-means integrity rejects degrading delivery.
+- **B:** Vand Chhako encourages sharing without hierarchy.
+- **C:** Daridra Narayana grounds equal dignity in service.
+- **D:** Detection of fraud does not justify humiliation.
 
-A. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-B. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-C. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-D. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-**Answer:** C
-**Explanation:** **Institutional safeguards embed distrust of majoritarian goodwill alone** is the controlling principle. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Service to people is not charity from above.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-A colleague says India should trust the goodwill of the majority to protect minority rights without needing constitutional safeguards. Which Indian thinker's explicit design rationale in the Constituent Assembly contradicts this position? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Dasoha means sharing, not exclusion.
+- **B:** The assembly is tradition-attested, not a modern parliament.
+- **C:** A ruler's protective duty does not justify birth hierarchy.
+- **D:** The dignity-of-work ethic resists caste stigma.
 
-A. In his Constituent Assembly speech of 25 November 1949, Ambedkar warned that India was entering a life of contradictions: political equality (one person, one vote) alongside continuing social and economic inequality; he cautioned that this contradiction must be removed at the earliest or those suffering from inequality will blow up the structure of political democracy.
-
-B. Ambedkar named fraternity — a sense of common brotherhood of all Indians — as necessary because liberty and equality without fraternity would need a policeman to enforce them; fraternity is what makes constitutional values self-sustaining rather than externally coerced.
-
-C. Ambedkar invoked constitutional morality in the Constituent Assembly on 4 November 1948, quoting historian George Grote: a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech and unrestrained censure of those very authorities as to all their public acts.
-
-D. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone.
-
-**Answer:** D
-**Explanation:** **Institutional safeguards embed distrust of majoritarian goodwill alone** is the controlling principle. Ambedkar's design philosophy embedded minority and SC-ST safeguards, judicial review and the fundamental-rights chapter precisely because he distrusted majoritarian goodwill alone to protect equality; durable ethical commitments need institutional containers, not moral exhortation alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Use historical parallels, not fabricated institutional identity.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-A candidate quotes 'pleasure without conscience' from Gandhi and is challenged by a peer who insists the ARC says 'leisure without conscience'. Which source caveat resolves this and what is the defensible exam approach? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Work and sharing are mutually reinforcing in Basava's ethic.
+- **B:** These descriptions invert both concepts.
+- **C:** Nanak's pillars do not mean those state powers.
+- **D:** Fiduciary stewardship does not exempt scrutiny.
 
-A. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-B. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-C. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-D. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-**Answer:** A
-**Explanation:** **Gandhi's Seven Social Sins: leisure versus pleasure wording split** is the controlling principle. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not mistake a thinker-parallel for textual identity.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-An ethics training module attributes the Seven Social Sins entirely to Gandhi's original formulation. Which provenance correction should the module make to be historically accurate? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Community benefit does not erase misappropriation.
+- **B:** Honest livelihood and sharing are jointly necessary.
+- **C:** Sharing cannot legitimise illicit acquisition.
+- **D:** Remembrance is not an anti-corruption exemption.
 
-A. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-B. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-C. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-D. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-**Answer:** B
-**Explanation:** **Gandhi's Seven Social Sins: leisure versus pleasure wording split** is the controlling principle. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Ends and resource provenance both matter.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A candidate writes that Basava 'established the world's first parliament in the 12th century.' Which specific attribution caution applies and how should the claim be restated for exam safety? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Networks can reproduce exclusions.
+- **B:** The concept denotes relationships rather than public money.
+- **C:** Cross-group trust supports collective participation.
+- **D:** Within-group ties alone need not include outsiders.
 
-A. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-B. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-C. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-D. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-**Answer:** C
-**Explanation:** **Anubhava Mantapa is tradition-attested, not securely dated** is the controlling principle. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Bonding can strengthen caste gatekeeping.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-A textbook describes the Anubhava Mantapa as a 'securely dated democratic institution founded in 1160 CE.' Which qualification is needed to make this historically defensible? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Trust is not automatically public-spirited.
+- **B:** Same-group networks are bonding, not bridging.
+- **C:** Formal accountability remains necessary.
+- **D:** Insider solidarity can undermine outsiders' access.
 
-A. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-B. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-C. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-D. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-**Answer:** D
-**Explanation:** **Anubhava Mantapa is tradition-attested, not securely dated** is the controlling principle. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Measure who is excluded from trust networks.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-A candidate attributes the exact phrase 'three pillars' to Guru Nanak as a direct quotation from the Guru Granth Sahib. Which provenance correction is needed? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Proportionate lawful verification rejects both rigid cruelty and abandon-all-checks.
+- **B:** An unethical option is not a legitimate midpoint.
+- **C:** Middle Path is not indefinite indecision.
+- **D:** Right Action and livelihood supply ethical boundaries.
 
-A. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-B. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-C. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-D. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-**Answer:** A
-**Explanation:** **Guru Nanak's three pillars is later pedagogical packaging** is the controlling principle. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** The Middle Path is not arithmetic compromise.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-An examiner asks whether Guru Nanak explicitly formulated a three-part ethical system. How should a candidate frame the answer to use the content accurately without fabricating a primary-source quotation? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Volume of advocacy is not entitlement.
+- **B:** Anekantavada supports deliberation without paralysis.
+- **C:** Epistemic humility does not dissolve evidence standards.
+- **D:** Silence denies legitimate viewpoints.
 
-A. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-B. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-C. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-D. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-**Answer:** B
-**Explanation:** **Guru Nanak's three pillars is later pedagogical packaging** is the controlling principle. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Plural perspectives do not entail endless indecision.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-A candidate writing a practice answer cites 'as Vivekananda said in his Complete Works' for the 2025 Q3(c) quotation. Which correction preserves exam utility without fabricating a primary source? Which source-grounded ethical principle most precisely explains the case?
+- **A:** One-person-one-vote does not remove social hierarchy.
+- **B:** Solidarity complements rights and safeguards.
+- **C:** Ambedkar cautioned against devotion in politics and unequal social reality.
+- **D:** Hero-worship risks authoritarianism.
 
-A. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-B. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-C. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-D. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-**Answer:** C
-**Explanation:** **2025 Vivekananda quotation not traceable to Complete Works** is the controlling principle. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Constitutional morality permits open criticism of authority.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-A coaching institute's handout lists the 2025 Q3(c) line as Volume III of the Complete Works. Which verification step should a student take before accepting this attribution? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Equal ballot power does not guarantee resources.
+- **B:** Fraternity supports rather than displaces equality.
+- **C:** Institutional measures remain important.
+- **D:** The 1949 life-of-contradictions warning separates formal and substantive equality.
 
-A. Basava (12th century, Kalachuri kingdom under Bijjala) is associated with the Anubhava Mantapa, an assembly of Lingayat sharanas for spiritual and social discourse open across caste and gender; it should be presented as a tradition-attested assembly, not as a securely dated founded institution, and the popular 'first parliament of the world' formulation must be avoided.
-
-B. Guru Nanak's three pillars — Naam Japna, Kirat Karo, Vand Chhako — have a firm scriptural basis in the Guru Granth Sahib (Angs 8 and 1245), but the 'three pillars' phrasing itself is later pedagogical packaging, not a verbatim triad of Guru Nanak's own words.
-
-C. Gandhi's Seven Social Sins as printed in ARC Box 2.8 include 'leisure without conscience'; however, the original Young India note of 22 October 1925 reads 'pleasure without conscience'. Gandhi received the list from a correspondent and published it without claiming personal authorship. Use the ARC wording in ARC-cited answers but note the discrepancy.
-
-D. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation.
-
-**Answer:** D
-**Explanation:** **2025 Vivekananda quotation not traceable to Complete Works** is the controlling principle. The 2025 GS-IV Q3(c) Vivekananda quotation on the strength of a society being in the morality of its people is attributed by UPSC but is not traceable to the Complete Works of Swami Vivekananda; it should be presented with an 'attributed by UPSC' caveat rather than as a verified primary-source quotation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Political equality is necessary but not sufficient.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A village where residents trust each other's testimony voluntarily participates in a social audit of MGNREGA works without any individual monetary incentive. Which concept explains why collective action occurs here without external enforcement? Which source-grounded ethical principle most precisely explains the case?
+- **A:** He allowed justification where constitutional routes were closed.
+- **B:** His argument prioritised open constitutional channels.
+- **C:** The passage does not give a violence licence.
+- **D:** Speech and peaceful assembly are protected with limits.
 
-A. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-B. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-C. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-D. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-**Answer:** A
-**Explanation:** **Social capital is networks of trust enabling collective action** is the controlling principle. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not truncate the conditional in the 1949 speech.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-In a neighbouring village with deep factional divisions, a government-mandated social audit fails because no witness trusts the process or each other. Which concept's absence explains the failure? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Administrative inconvenience is not the ethical test.
+- **B:** The availability condition must be substantive, not nominal.
+- **C:** Popularity does not determine the channel's efficacy.
+- **D:** A formal form may be inaccessible in practice.
 
-A. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-B. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-C. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-D. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-**Answer:** B
-**Explanation:** **Social capital is networks of trust enabling collective action** is the controlling principle. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Availability of remedy is an evidential question.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-A dominant-caste panchayat head uses strong community networks to secure development funds but channels them exclusively to his own community. Which analytical distinction explains why strong social capital here harms rather than helps governance? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Force must be lawful and proportionate.
+- **B:** Public rights include emergency passage.
+- **C:** Protect the right while regulating the manner with reasons.
+- **D:** A blanket ban overshoots legitimate safety needs.
 
-A. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-B. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-C. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-D. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-**Answer:** C
-**Explanation:** **Bridging social capital strengthens governance; bonding-only entrenches nepotism** is the controlling principle. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Distinguish grievance merits from protest method.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-An inter-community women's self-help-group federation monitors local school attendance across caste lines and reports irregularities to the block office. Which type of social capital is at work and why does it strengthen governance? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Professional dissent requires accountable steps first.
+- **B:** Public communication distinguishes civil disobedience.
+- **C:** Hierarchy cannot legalise a prohibited act.
+- **D:** Different roles have different lawful channels for contestation.
 
-A. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-B. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-C. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-D. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-**Answer:** D
-**Explanation:** **Bridging social capital strengthens governance; bonding-only entrenches nepotism** is the controlling principle. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not conflate citizen protest and civil-service procedure.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-A district officer establishes a common community kitchen (langar model) at the tehsil office where citizens from all communities share meals during waiting periods. Which two Indian thinkers' principles is this design drawing on as historical antecedents? Which source-grounded ethical principle most precisely explains the case?
+- **A:** A trustee owes reasons and information to beneficiaries.
+- **B:** Sharing is not secrecy.
+- **C:** Personal virtue cannot replace a forum for correction.
+- **D:** Targeted fairness benefits from open criteria.
 
-A. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-B. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-C. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-D. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-**Answer:** A
-**Explanation:** **Guru Nanak and Basava are classical antecedents of bridging social capital** is the controlling principle. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** The beneficiaries, not the officer, judge the trust.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-A scholar argues that bridging social capital is a purely Western concept with no Indian philosophical precedent. Which two classical Indian thinkers' principles serve as counter-examples? Which source-grounded ethical principle most precisely explains the case?
+- **A:** No Buddhist principle denies institutional continuity.
+- **B:** The scheme and files are held for beneficiaries across tenures.
+- **C:** Honest incentives do not justify destroyed records.
+- **D:** Welfare of all is not self-promotion.
 
-A. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-B. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-C. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-D. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-**Answer:** B
-**Explanation:** **Guru Nanak and Basava are classical antecedents of bridging social capital** is the controlling principle. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** A trustee hands the corpus over intact.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-A state replicates the MKSS social-audit model in a region with deep inter-community mistrust and finds that no villager testifies. Which underlying condition is missing and what must be built before the formal process can work? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Exam attribution differs from source verification.
+- **B:** Uncertain attribution does not erase examinable meaning.
+- **C:** The ethical demand can be answered without false bibliographic certainty.
+- **D:** Fabricated citation is unacceptable.
 
-A. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-B. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
-
-C. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-D. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-**Answer:** C
-**Explanation:** **MKSS social audits function because bridging social capital exists** is the controlling principle. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Never convert supplied attribution into invented primary evidence.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-A successful social audit in Rajasthan reveals significant MGNREGA fund diversion, with villagers freely testifying about irregularities. Which concept explains why the informal accountability mechanism succeeded here but fails elsewhere? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Exhortation alone cannot deter opportunities.
+- **B:** Surveillance alone can demoralise and miss purpose.
+- **C:** Ethical analogies do not prove legal descent.
+- **D:** External checks and internal dispositions address different failure modes.
 
-A. Bridging social capital (across different groups and communities) strengthens governance by enabling inclusive collective action; bonding social capital (within a close-knit group) can entrench nepotism and gatekeeping against outsiders, meaning social capital strengthens governance only when it is bridging and inclusive.
+**Trap:** Indian thinkers offer complementary, not interchangeable mechanisms.
 
-B. Guru Nanak's Vand Chhako (sharing with others beyond one's own group) and Basava's Dasoha (sharing surplus in community service through caste-blind assemblies) are classical Indian antecedents of bridging social capital, connecting the Indian moral-thought register to the modern governance concept.
-
-C. Social capital refers to the networks of trust, reciprocity and civic norms among citizens and between citizens and institutions that enable collective action without requiring constant external enforcement; associated in standard usage with Robert Putnam's distinction between bonding and bridging capital.
-
-D. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective.
-
-**Answer:** D
-**Explanation:** **MKSS social audits function because bridging social capital exists** is the controlling principle. MKSS-style social audits in Rajasthan and the broader jan sunwai (public hearing) model function precisely because a baseline of bridging social capital exists or is deliberately built; villagers trust the audit process and each other's testimony, making the informal complement to formal accountability architecture effective. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,23 +540,6 @@ The administrative implication is that a civil servant must invest in building c
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: Three quotations (Thiruvalluvar, William James, Vivekananda) and their…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations (Thiruvalluvar, William James, Vivekananda) and their present-day meaning.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations (Thiruvalluvar, William James, Vivekananda) and their present-day meaning.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: Three quotations (Thiruvalluvar, William James, Vivekananda) and their…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2025 — 10 marks
 
@@ -884,26 +561,6 @@ The limit: Anekantavada taken too far risks indecision. A wisdom-based cut-off p
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (b) Teachings of Mahavir and their relevance in the contemporary world.”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (b) Teachings of Mahavir and their relevance in the contemporary world.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2025 GS-IV Q4(b); neutral rendering used. Cross-linked from Topic 02 (Mahavir detail). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Syadvada also disciplines official communication: conclusions should identify their evidentiary conditions instead of presenting a partial administrative view as absolute truth to affected communities. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** The limit: Anekantavada taken too far risks indecision. A wisdom-based cut-off point for deliberation is still required. Mahavir's framework provides the consultative process, not the decision rule. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-4. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (b) Teachings of Mahavir and their relevance in the contemporary world.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (b) Teachings of Mahavir and their relevance in the contemporary world.”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2024 — 10 marks
 
@@ -923,23 +580,6 @@ The administrative lesson is calibrated adoption: study the mechanism, test it a
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: Three quotations of great thinkers and their present-day meaning.”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations of great thinkers and their present-day meaning.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations of great thinkers and their present-day meaning.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: Three quotations of great thinkers and their present-day meaning.”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2023 — 10 marks
 
@@ -961,26 +601,6 @@ The limit: Nanak's ethic is a normative ideal, not a self-enforcing mechanism. I
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (a) Major teachings of Guru Nanak and their contemporary relevance.”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (a) Major teachings of Guru Nanak and their contemporary relevance.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2023 GS-IV Q6(a); neutral rendering used. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Naam Japna adds an inward discipline: remembrance checks ego and keeps public authority oriented toward service rather than personal status. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** The limit: Nanak's ethic is a normative ideal, not a self-enforcing mechanism. It still requires institutional accountability architecture to translate into durable governance practice. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-4. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (a) Major teachings of Guru Nanak and their contemporary relevance.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (a) Major teachings of Guru Nanak and their contemporary relevance.”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2020 — 10 marks
 
@@ -1002,27 +622,6 @@ The limit: the Middle Path provides the procedure for evaluating proportionality
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (a) Most relevant teachings of Buddha today and why.”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (a) Most relevant teachings of Buddha today and why.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2020 GS-IV Q3(a); neutral rendering used. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** The Buddha's most administratively relevant teachings are the Middle Path (Madhyama Pratipada) and the Eightfold Path, particularly Right Action, Right Livelihood and Right Mindfulness. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Right Mindfulness requires self-aware decision-making: the officer examines her own biases before acting. Right Livelihood questions whether the means of governance are themselves ethical. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-4. **Claim and named evidence:** The limit: the Middle Path provides the procedure for evaluating proportionality but does not prescribe the substantive standard. That requires constitutional values and legal frameworks to supply the normative content. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-5. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (a) Most relevant teachings of Buddha today and why.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (a) Most relevant teachings of Buddha today and why.”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2020 — 10 marks
 
@@ -1044,25 +643,6 @@ The shared limit: selfless service is a motivational ideal, not an institutional
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: Three quotations: (a) Vivekananda on selfless service and brotherhood;…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2020 GS-IV Q6; neutral rendering used. Parts (a) and (b) both route to this topic. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Both therefore reject patronising charity: assistance must preserve agency, equality and the beneficiary's status as a rights-bearing citizen. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: Three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: Three quotations: (a) Vivekananda on selfless service and brotherhood;…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2018 — 10 marks
 
@@ -1082,24 +662,6 @@ The limit: Gandhi's idealism, taken alone, risks under-designing institutional s
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: Significance of Mahatma Gandhi's thought in present times.”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: Significance of Mahatma Gandhi's thought in present times.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2018 GS-I Q3 (cross-cutting: historical and ethical anchors both linked); neutral rendering used. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: Significance of Mahatma Gandhi's thought in present times.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: Significance of Mahatma Gandhi's thought in present times.”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2018 — 10 marks
 
@@ -1119,26 +681,96 @@ Both quotations converge on the same GS-IV answer logic: internal self-regulatio
 
 ---
 
+#### Solved PYQ 9 — 2026 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Section A Q3(a): Ambedkar warned against civil disobedience as the "grammar of anarchy" in a constitutional democracy. How should modern democracies handle social-justice movements opposing genuinely concerning policies?
+
+**Source / status:** Basic owner §10A and its pointer to the 2026 GS-IV Section-A ledger; neutral rendering, not a verbatim quote or official answer key.
+
+**Model solution**
+
+Ambedkar's warning in his 25 November 1949 Constituent Assembly speech was conditional: where constitutional methods are available, unconstitutional ones have no justification; he conceded justification where no such methods were open. This distinction prevents both the automatic criminalisation of social-justice dissent and the assumption that a just grievance validates every method. Today courts, peaceful assembly, elections and grievance processes exist, but their practical accessibility, cost and effectiveness must be assessed for the affected group. The administration should hear the policy grievance on its merits, keep negotiation open, facilitate lawful assembly, regulate its place and duration proportionately and record reasons for restrictions. It must distinguish violence from peaceful dissent and protect third parties' access to public services. Protesters, in turn, should pursue available forums in good faith and limit harm to others. The State earns the ability to invoke constitutional methods only when it keeps those methods genuinely open; conditional fidelity to institutions is not indifference to injustice.
+
+---
+
+#### Solved PYQ 10 — 2026 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Section A Q3(b): In what ways can an Indian Administrative Officer apply Gandhi's trusteeship to ensure fairness in governance?
+
+**Source / status:** Basic owner §10B and its pointer to the 2026 GS-IV Section-A ledger; neutral rendering, independently reasoned model, no official key claimed.
+
+**Model solution**
+
+Gandhian trusteeship treats authority and resources as held for society, not as an officer's property. An officer can refuse patronage-based postings and personal use of public facilities; allocate public funds with economy, equity and auditable sanctions; record reasons and recuse from interested decisions; publish criteria, waiting lists and expenditure for citizens to review; protect common resources and consider future users; apply transparent needs-based priority to the least served; and leave complete handover records instead of branding a public scheme as personal achievement. Articles 39(b)–(c) provide a directive-principle analogy concerning community resources and concentration of wealth, not a licence to assume every private asset is covered. Trusteeship alone relies heavily on goodwill and risks paternalism. Gandhi's internal standard therefore requires external audit, disclosure, grievance review and enforceable conflict rules. Fairness is demonstrated by the beneficiaries' access to accountable processes, not merely by the office-holder's claim to benevolence.
+
+---
+
+#### Solved PYQ 11 — 2023 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Q6(b): Explain social capital and its contribution to good governance.
+
+**Source / status:** Basic owner §11 and audited historical PYQ routing; neutral rendering; independently reasoned model rather than an official answer key.
+
+**Model solution**
+
+Social capital comprises networks of trust, reciprocity and civic norms that make collective action possible. Bridging ties connect different communities while bonding ties reinforce relationships within one group. In governance, inclusive trust can reduce the cost of cooperation, help citizens join public hearings, and make social audits more effective: MKSS-style public hearings in Rajasthan illustrate the value of trusting testimony across households. It also supports early reporting of misuse rather than reliance solely on inspectors. But strong bonding networks can enable caste-based gatekeeping or nepotism; informal trust is not a replacement for records, audit or legal remedies. A district officer should open meetings to excluded groups, publish information, verify claims independently and protect complainants. Social capital improves governance when it bridges groups and complements formal accountability, not when it shields insiders.
+
+---
+
+### Split-part PYQ remediation and ownership
+
+The original combined labels for 2025 Q3, 2024 Q3, 2020 Q6 and 2018 Q6 refer to multi-part paper questions, **not** to one 10-mark response covering all their parts. The retained models above answer respectively 2025 Q3(c), 2024 Q3(a), 2020 Q6(a)/(b) jointly, and 2018 Q6(b)/(c) jointly. The separate owner of 2025 Q3(b) is Ethics 07 (William James); 2024 Q3(b) is Ethics 02 (Patel), Q3(c) Ethics 07 (Kant); 2018 Q6(a) Ethics 07 (Lincoln); 2020 Q6(c) Ethics 07 (Socrates). These are cross-owned, not silently solved in this workbook. The following independently developed models repair the remaining Indian-thought subparts. Neutral renderings are not alleged verbatim stems or official answer keys.
+
+#### Solved PYQ 12 — 2025 — 10 marks (Q3(a), neutral rendering)
+
+**Question:** Reflect on Thiruvalluvar's teaching that those who remain untroubled in adversity can overcome trouble.
+
+**Source / status:** Audited 2025 GS-IV Q3(a) as rendered in the Ethics 02 Basic owner (Tirukkural 623); wording is a paper-attributed modern paraphrase, not a certified historic translation.
+
+**Model solution**
+
+The teaching prizes equanimity under adversity, not indifference to suffering. An administrator who recognises fear during a flood but regulates panic can take accurate stock, assign rescue tasks and communicate credible updates. Panic narrows judgment; calm allows scarce resources to be prioritised and exhausted colleagues to be supported. The claim is therefore operational rather than mystical: a composed response can prevent a difficulty from multiplying through rash orders or misleading assurance. Yet calm is insufficient without competent disaster planning and empathy for affected families; a serene officer who delays rescue has misunderstood the verse. Tirukkural 623 provides a literary anchor for steady action, not proof that individual poise can replace institutions. The ethical verdict is purposeful composure: attend to the danger fully, keep decisions reviewable and act promptly for those in greatest need.
+
+---
+
+#### Solved PYQ 13 — 2020 — 10 marks (Q6(b), neutral rendering)
+
+**Question:** Explain the present-day meaning of Gandhi's teaching about finding oneself through service to others.
+
+**Source / status:** Audited historical GS-IV Q6(b) demand in the Ethics 06 Basic owner; neutral rendering rather than an invented exact quotation.
+
+**Model solution**
+
+For Gandhi, service is not a transaction in which an official wins praise from beneficiaries. It turns attention away from ego and toward Sarvodaya, the welfare of all; meaningful work can shape the worker's character through the means used. A district officer who repairs inaccessible pension procedures rather than staging a one-time charity event serves citizens' agency and discovers purpose in durable public benefit. The claim does not excuse unpaid heroic overwork, personal publicity or discretionary favours. Trusteeship requires the official to treat funds and authority as entrusted to the public, with open criteria, audit and complaint review. Kautilya's concern about opportunity for misuse is a needed institutional counterpoint to voluntary moral transformation. Gandhi's insight thus joins inward service-motivation with outward accountability: self-realisation is credible when citizens, especially the least served, actually gain dignified and reviewable access.
+
+---
+
+#### Solved PYQ 14 — 2018 — 10 marks (Q6(b), neutral rendering)
+
+**Question:** Reflect on Gandhi's warning that anger and intolerance obstruct correct understanding.
+
+**Source / status:** Audited historical GS-IV Q6(b) in the Ethics 06 Basic owner; independent model, no fabricated full quotation.
+
+**Model solution**
+
+Anger may alert an official to injustice, but unexamined anger can turn a lawful protest into an imagined threat; intolerance prevents the official from hearing affected citizens' reasons. During a contentious local hearing a magistrate can pause, hear speakers of different communities, verify allegations and record the grounds of a proportionate decision. This converts emotion into evidence-seeking rather than retaliatory action. Gandhi's means-ends unity also matters: a public goal is damaged if sought through communal stereotyping or abusive force. Yet patience must not turn into delay where violence or urgent harm requires lawful intervention. Emotional self-regulation and institutional safeguards, such as written orders and review, are complementary; neither private calm nor an appeals office suffices alone. Correct understanding requires listening without surrendering responsibility to decide.
+
+---
+
+#### Solved PYQ 15 — 2018 — 10 marks (Q6(c), neutral rendering)
+
+**Question:** Reflect on the Tirukkural's connection between freedom from falsehood and unblemished good.
+
+**Source / status:** Audited historical GS-IV Q6(c) in the Ethics 06 Basic owner; neutral rendering, independently reasoned model rather than an official key.
+
+**Model solution**
+
+The ethical demand is not merely to avoid a direct lie; a public officer must keep reasons, records and assurances truthful so citizens can judge whether an apparently helpful decision is genuinely fair. A welfare official who hides an exclusion error while reporting a high enrollment rate claims a good outcome through misleading means. Correcting the figures, notifying affected applicants and providing a review channel better honours the Tirukkural's emphasis on truthfulness. The principle has a practical limit: confidentiality can protect personal records and lawful investigations, but confidentiality must be justified and must not become a pretext for fabricated statistics. Honesty also needs independent audit and protections for officials who report inconvenient findings. Unblemished public good requires accurate accounts as well as well-intended spending.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering: (b) Gandhi on anger and intolerance as enemies of understanding; (c)…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering: (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from 2018 GS-IV Q6 parts (b) and (c); neutral rendering used. Part (a) attribution unclear in OCR; stem verified against official scan; OCR artifact resolved. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering: (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering: (b) Gandhi on anger and intolerance as enemies of understanding; (c)…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1158,24 +790,6 @@ The limit: a purely surveillance-based regime risks demoralising honest official
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “How does Kautilya's structural theory of official temptation remain relevant to designing…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “How does Kautilya's structural theory of official temptation remain relevant to designing modern anti-corruption controls in India? Answer in 150…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Kautilya also prescribes positive incentives: those who increase the king's wealth in just ways should be made permanent in office. This is an early performance-and-integrity-linked personnel policy. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “How does Kautilya's structural theory of official temptation remain relevant to designing modern anti-corruption controls in India? Answer in 150…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “How does Kautilya's structural theory of official temptation remain relevant to designing…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1195,24 +809,6 @@ Administrative convergence: both reject stigmatising paperwork, public shaming o
 
 ---
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Vivekananda's Daridra Narayana and Basava's Kayaka as frameworks for dignified…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Compare Vivekananda's Daridra Narayana and Basava's Kayaka as frameworks for dignified welfare delivery. Answer in 150 words. Answer in about 150…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Both Vivekananda and Basava refuse a charity model of welfare in which the giver is superior to the receiver. Both insist on a dignity model. But they ground dignity differently. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Compare Vivekananda's Daridra Narayana and Basava's Kayaka as frameworks for dignified welfare delivery. Answer in 150 words. Answer in about 150…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Compare Vivekananda's Daridra Narayana and Basava's Kayaka as frameworks for dignified…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1234,24 +830,6 @@ The verdict: the Middle Path applied to vigilance design means matching the inte
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Using the Buddhist Middle Path as a decision-procedure, evaluate whether India's vigilance…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Using the Buddhist Middle Path as a decision-procedure, evaluate whether India's vigilance machinery risks demoralising honest officials through…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The under-reaction pole is a system that abolishes vigilance altogether, relying on moral suasion alone. Gandhi's idealism, taken without institutional support, risks precisely this under-design. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Using the Buddhist Middle Path as a decision-procedure, evaluate whether India's vigilance machinery risks demoralising honest officials through…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Using the Buddhist Middle Path as a decision-procedure, evaluate whether India's vigilance…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1273,23 +851,6 @@ The verdict: Ambedkar's warning converts affirmative action from an optional pol
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “How does Ambedkar's warning about a 'life of contradictions' — political equality alongside…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “How does Ambedkar's warning about a 'life of contradictions' — political equality alongside social inequality — guide a civil servant's approach to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “How does Ambedkar's warning about a 'life of contradictions' — political equality alongside social inequality — guide a civil servant's approach to…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “How does Ambedkar's warning about a 'life of contradictions' — political equality alongside…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1313,23 +874,6 @@ The verdict: the strongest GS-IV answer explicitly names the tension, assigns ea
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “'Indian moral thought is not monolithic — it contains an internal realist-idealist tension…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “'Indian moral thought is not monolithic — it contains an internal realist-idealist tension that durable governance ethics must hold together.'…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “'Indian moral thought is not monolithic — it contains an internal realist-idealist tension that durable governance ethics must hold together.'…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “'Indian moral thought is not monolithic — it contains an internal realist-idealist tension…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1350,23 +894,3 @@ Guru Nanak's Vand Chhako parallels progressive taxation and equitable allocation
 The verdict: Indian moral thinkers enrich governance ethics through disciplined analogy that shows continuity and precedent. They lose credibility when analogy becomes identity claim. The Mains-safe formulation is: 'X anticipates / parallels Y' rather than 'X is Y' or 'India invented Y in the 12th century.' Naming the gap explicitly is what makes the comparison intellectually honest and exam-safe.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “'Applying medieval and ancient Indian concepts to modern governance risks anachronistic…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “'Applying medieval and ancient Indian concepts to modern governance risks anachronistic claims.' Critically evaluate, distinguishing defensible…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The defensible method is disciplined analogy: identify a structural parallel while explicitly naming the historical gap. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Guru Nanak's Vand Chhako parallels progressive taxation and equitable allocation but is not a fiscal-policy prescription. The scriptural basis is firm; the 'three pillars' framing is later pedagogical packaging. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “'Applying medieval and ancient Indian concepts to modern governance risks anachronistic claims.' Critically evaluate, distinguishing defensible…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “'Applying medieval and ancient Indian concepts to modern governance risks anachronistic…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

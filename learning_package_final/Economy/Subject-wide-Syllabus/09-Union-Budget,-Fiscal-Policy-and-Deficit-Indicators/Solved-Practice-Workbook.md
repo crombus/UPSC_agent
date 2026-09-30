@@ -5,9 +5,17 @@ topic_key: economy-topic-09-union-budget-fiscal-policy-deficit-indicators
 
 # Union Budget, Fiscal Policy and Deficit Indicators — Solved Practice Workbook
 
+**Dated-figure control (checked 29 September 2026):** MCQs 29–30 refer only to
+Union Budget **2026–27 Budget Estimates**, not realised outcomes. Sources:
+[official FRBM statement](https://www.indiabudget.gov.in/doc/frbm1.pdf) and
+[official Budget at a Glance](https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf).
+Do not apply their debt-path aspiration as an already achieved statutory target.
+
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+The original 32 questions are retained; additional questions cover distinct fiscal and historical
+PYQ gaps. Attempt all questions before consulting the separate matching answer key. Keys rotate
+A → B → C → D.
 
 ### MCQ 1
 
@@ -17,6 +25,397 @@ A. The President causes the Annual Financial Statement to be laid before both Ho
 B. The Prime Minister constitutionally lays it before the Lok Sabha alone.
 C. It contains only charged expenditure.
 D. Its presentation itself appropriates money from the Consolidated Fund.
+
+### MCQ 2
+
+Which matching of account and rule is correct?
+
+A. Consolidated Fund — no parliamentary authority is needed for withdrawal.
+B. Public Account — money held in trust; repayment generally does not require parliamentary appropriation.
+C. Contingency Fund — ordinary annual departmental expenditure.
+D. Public Account — all tax revenue belongs permanently to government.
+
+### MCQ 3
+
+Consider the following: 1. Charged expenditure may be discussed. 2. It is not submitted to vote. 3. It needs no appropriation. Which is correct?
+
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+### MCQ 4
+
+Which sequence best describes ordinary Union expenditure authorisation?
+
+A. Finance Bill -> CAG audit -> Demand for Grant -> withdrawal
+B. Vote on Account -> Finance Commission -> Public Account -> withdrawal
+C. Budget speech -> immediate executive withdrawal -> later AFS
+D. Annual Financial Statement -> Demands for Grants -> Appropriation Bill -> withdrawal
+
+### MCQ 5
+
+Which is a revenue receipt?
+
+A. Interest received by government on loans it extended
+B. Fresh market borrowing
+C. Recovery of principal on a government loan
+D. Proceeds from disinvestment
+
+### MCQ 6
+
+Which is a non-debt capital receipt?
+
+A. Goods and Services Tax collection
+B. Recovery of loans granted by government
+C. Treasury-bill borrowing
+D. Dividend received from a public enterprise
+
+### MCQ 7
+
+Which expenditure is most directly classified as capital expenditure in government accounts?
+
+A. Interest payment on past debt
+B. Salary of an existing department
+C. Acquisition of a durable asset by the Union Government
+D. A routine operating subsidy
+
+### MCQ 8
+
+Effective capital expenditure equals:
+
+A. Revenue expenditure minus revenue receipts
+B. Capital receipts minus borrowings
+C. Fiscal deficit minus interest payments
+D. Capital expenditure plus grants-in-aid for creation of capital assets
+
+### MCQ 9
+
+Revenue deficit is:
+
+A. Revenue expenditure minus revenue receipts
+B. Total expenditure minus all receipts including borrowing
+C. Fiscal deficit minus interest payments
+D. Revenue deficit minus asset-creating grants
+
+### MCQ 10
+
+Effective revenue deficit is:
+
+A. Fiscal deficit minus capital expenditure
+B. Revenue deficit minus grants-in-aid for creation of capital assets
+C. Revenue receipts minus revenue expenditure
+D. Primary deficit plus interest payments
+
+### MCQ 11
+
+If total expenditure is 120, revenue receipts 80 and non-debt capital receipts 10, fiscal deficit is:
+
+A. 20
+B. 40
+C. 30
+D. 50
+
+### MCQ 12
+
+A fiscal deficit of 50 and interest payments of 12 imply a primary deficit of:
+
+A. 62
+B. 50
+C. 12
+D. 38
+
+### MCQ 13
+
+Which statement correctly preserves budget vintage?
+
+A. FY2026-27 BE is a forward estimate, FY2025-26 RE an updated estimate and FY2024-25 Actuals a realised figure in Budget 2026-27.
+B. All three are audited actual outcomes.
+C. RE is the next year's original Budget proposal.
+D. An Actual and a BE can be compared without stating their status.
+
+### MCQ 14
+
+Which distinction between the Finance Bill and Appropriation Bill is correct?
+
+A. Both solely authorise expenditure.
+B. The Finance Bill gives effect to tax proposals; the Appropriation Bill authorises withdrawal from the Consolidated Fund.
+C. The Appropriation Bill imposes taxes while the Finance Bill votes grants.
+D. Neither requires parliamentary passage.
+
+### MCQ 15
+
+Which statement about additional fiscal authorisation is correct?
+
+A. A supplementary grant is always for a wholly new service.
+B. A Vote on Account regularises past excess.
+C. An excess grant regularises expenditure already incurred beyond authorisation.
+D. An additional grant can never arise after the original Budget.
+
+### MCQ 16
+
+Which statement best distinguishes a Vote on Account from an interim budget?
+
+A. They are identical constitutional expressions.
+B. A Vote on Account permanently replaces the Appropriation Act.
+C. An interim budget can be presented only during war.
+D. A Vote on Account is Article 116 authority for an advance; interim budget is a broader political-practice label.
+
+### MCQ 17
+
+A token cut motion seeks to:
+
+A. Reduce a demand by Rs 100 to ventilate a specific grievance
+B. Reject the underlying policy by reducing the demand to Re 1
+C. Reduce expenditure by an exactly specified economy amount
+D. Convert charged expenditure into voted expenditure
+
+### MCQ 18
+
+Which is an automatic stabiliser during a downturn?
+
+A. Parliament enacts a new one-time stimulus package
+B. Tax collections fall under existing rules as incomes and profits decline
+C. Government announces a new infrastructure scheme
+D. A new tax surcharge is legislated after the shock
+
+### MCQ 19
+
+Why may a transfer have a high short-run fiscal multiplier?
+
+A. Every transfer directly creates a government asset
+B. Imports and saving always equal zero
+C. Liquidity-constrained recipients may spend a large share quickly
+D. Monetary policy never responds
+
+### MCQ 20
+
+Which is countercyclical fiscal action in a recession?
+
+A. Immediate across-the-board cuts despite idle capacity
+B. Permanent untargeted commitments without financing
+C. Concealing liabilities outside the Budget
+D. Temporary targeted support that cushions demand while preserving a credible exit
+
+### MCQ 21
+
+Public capex is most likely to crowd in private investment when it:
+
+A. Removes a binding infrastructure bottleneck and raises expected returns
+B. Absorbs scarce credit without increasing productive capacity
+C. Funds an incomplete low-use project
+D. Creates unpredictable arrears to contractors
+
+### MCQ 22
+
+In the simplified debt-dynamics relation, which combination improves the debt ratio, other things equal?
+
+A. Higher interest rate with unchanged growth and larger primary deficit
+B. Higher nominal growth relative to the effective interest rate and a stronger primary balance
+C. Shorter maturity and larger contingent liabilities
+D. Lower growth and persistent primary deficit
+
+### MCQ 23
+
+Which statement correctly distinguishes fiscal deficit and debt?
+
+A. Both are annual expenditure flows.
+B. Debt is always equal to the latest year's fiscal deficit.
+C. Fiscal deficit is a period flow; debt is an accumulated stock at a point in time.
+D. Fiscal deficit includes all future contingent liabilities.
+
+### MCQ 24
+
+Under FRBM section 4, which statement about the escape mechanism is correct?
+
+A. Any ministerial priority permits unlimited deviation.
+B. The clause permanently suspends all targets after one shock.
+C. It applies only when tax revenue declines.
+D. Enumerated grounds can permit deviation, capped at 0.5 percentage point of GDP in a year, with a return-path statement.
+
+### MCQ 25
+
+FRBM section 5 primarily establishes that:
+
+A. Routine direct Central Government borrowing from RBI is barred, subject to temporary advances and specified exceptions.
+B. RBI may never buy government securities
+C. All fiscal deficits must be monetised
+D. Ways and Means Advances are permanent budget resources
+
+### MCQ 26
+
+Which case most clearly represents off-budget borrowing risk?
+
+A. A ministry spends an appropriated grant shown in the AFS
+B. A public entity borrows, while principal and interest are contractually serviced from future Union Budgets.
+C. A household deposits money in a bank
+D. The government collects a disclosed user fee
+
+### MCQ 27
+
+Which statement about guarantees is correct?
+
+A. Every guarantee immediately equals fiscal deficit
+B. The FRBM 0.5% limit caps total outstanding guarantees
+C. A guarantee is contingent exposure; annual net addition, outstanding stock and invocation are different measures.
+D. A guaranteed PSU loan is always risk-free
+
+### MCQ 28
+
+Which Public Account statement is correct?
+
+A. It contains only voted expenditure
+B. All withdrawals require an Appropriation Act
+C. Its balances are identical to tax revenue
+D. It contains money held by government in trust and generally repayable to depositors or authorities.
+
+### MCQ 29
+
+According to official Union Budget 2026-27 documents dated 1 February 2026, which set is correct?
+
+A. FY2026-27 BE fiscal deficit 4.3% of GDP and capital expenditure about Rs 12.22 lakh crore
+B. FY2026-27 Actual fiscal deficit 4.3% and capex Rs 12.22 lakh crore
+C. FY2025-26 Actual fiscal deficit 4.3% and capex Rs 17.15 lakh crore
+D. FY2030-31 BE debt 55.6% and fiscal deficit 3%
+
+### MCQ 30
+
+Which correctly describes the current debt path in Union Budget 2026-27?
+
+A. The statutory 40% target is reported as achieved in FY2026-27
+B. Central debt is estimated at 55.6% of GDP in FY2026-27 BE, with a medium-term aim of 50 plus or minus 1% by FY2030-31.
+C. Debt is 4.3% of GDP because it equals fiscal deficit
+D. The 50 plus or minus 1% aim is an FY2026-27 Actual
+
+### MCQ 31
+
+Which institutional pairing is correct?
+
+A. CAG prepares the Union Budget and CGA votes grants
+B. RBI passes the Appropriation Bill
+C. CGA compiles Union accounts; CAG independently audits public accounts and reports.
+D. Finance Commission audits ministry expenditure
+
+### MCQ 32
+
+Which statement preserves the State-finance boundary?
+
+A. Article 280 makes every State deficit part of Union FD
+B. Finance Commission recommendations are identical to State budgets
+C. Article 281 authorises all State borrowing
+D. Union fiscal deficit must not be treated as the consolidated general-government deficit.
+
+### MCQ 33
+
+A Union Budget reports revenue deficit 80, grants to states earmarked for capital-asset creation 25 and its own capital expenditure 120 (all in identical units). Which pair is correct?
+
+A. Effective revenue deficit 55; effective capital expenditure 145
+B. Effective revenue deficit 105; effective capital expenditure 95
+C. Effective revenue deficit 55; effective capital expenditure 95
+D. Effective revenue deficit 80; effective capital expenditure 120
+
+### MCQ 34
+
+A government reports fiscal deficit 90 and interest outgo 90. Which statement is valid?
+
+A. The debt stock is necessarily zero at year end
+B. The primary deficit is zero, but borrowing and debt-service obligations may remain
+C. The revenue deficit must be zero
+D. Borrowing is excluded from the fiscal-deficit financing equation
+
+### MCQ 35
+
+Suppose nominal GDP growth exceeds the effective interest rate on public debt. Which conclusion about the debt-to-GDP ratio follows without knowing the primary balance?
+
+A. The debt ratio must fall whatever the primary deficit
+B. The debt ratio must rise because interest is positive
+C. Growth exerts downward pressure on the ratio, but a sufficiently large primary deficit can still raise it
+D. The interest-growth differential is irrelevant if all debt is domestic
+
+### MCQ 36
+
+Which statement best distinguishes fiscal impulse from the headline deficit?
+
+A. Any decline in the deficit implies a contractionary impulse regardless of the economic cycle
+B. Fiscal impulse is simply the accumulated public debt at a date
+C. Any rise in nominal public expenditure must raise the structural deficit
+D. Fiscal impulse tracks the change in discretionary or cyclically adjusted stance, not merely the level of the reported deficit
+
+### MCQ 37
+
+The state supplies a commodity free to a beneficiary. Which economic assessment remains necessary?
+
+A. The resource has an opportunity cost in alternative uses even when its price to the recipient is zero
+B. The state's procurement and delivery cost is necessarily zero
+C. All free provision is wasteful regardless of external benefits
+D. Opportunity cost exists only when the service generates a monetary profit
+
+### MCQ 38
+
+Which mechanism most directly links weaker household financial saving to crowding-out pressure, all else equal?
+
+A. Household saving mechanically becomes government-owned tax revenue
+B. A smaller domestic financial pool can make additional public borrowing compete more strongly with private credit
+C. Household saving counts as foreign-exchange reserves immediately
+D. Higher domestic borrowing always lowers market interest rates
+
+### MCQ 39
+
+Which account of Budget 2018's equity-tax changes is historically accurate rather than a claim about present law?
+
+A. It abolished all long-term capital-gains tax and introduced zero-rate dividends
+B. It introduced a flat tax on all dividends in the hands of shareholders while abolishing distribution tax
+C. It reintroduced a thresholded listed-equity long-term capital-gains charge and levied distribution tax on equity-oriented fund dividends, with grandfathering of earlier gains
+D. It imposed an unconditional tax on every gain accrued before the grandfathering date
+
+### MCQ 40
+
+An SOE borrows outside the Union Budget to discharge a subsidy bill, with debt service later shifted to the Union. Which fiscal interpretation is best?
+
+A. The expenditure is irrelevant to public-sector liabilities if absent from Union fiscal deficit
+B. The SOE borrowing is always an ordinary revenue receipt of the Union
+C. It automatically counts as audited Union capex on the borrowing date
+D. The narrow Union deficit may miss a real future fiscal claim; disclose off-budget exposures and compare on-budget treatment across years
+
+### MCQ 41
+
+Which example illustrates a tax-compliance channel through which undeclared income affects fiscal capacity?
+
+A. Concealment narrows the declared tax base and may weaken resource allocation and credible revenue forecasts
+B. Unreported income automatically raises the measured tax-to-GDP ratio
+C. Every informal transaction constitutes criminal black money
+D. Enforcement by itself makes evasion impossible regardless of administration
+
+### MCQ 42
+
+Which is the most defensible use of NITI Aayog's Fiscal Health Index?
+
+A. Rank states by one year's fiscal deficit alone and ignore inherited debt
+B. Diagnose expenditure quality, revenue effort, prudence and debt sustainability with comparable context and audited data
+C. Automatically substitute the index ranking for the Finance Commission's constitutional mandate
+D. Require every state to adopt identical expenditure shares regardless of demographics
+
+### MCQ 43
+
+Which Union-document pair correctly distinguishes economic assumptions from post-spending scrutiny?
+
+A. An Appropriation Act is the Macro Economic Framework Statement, while CAG prepares BE
+B. CAG sets tax proposals; the Finance Bill audits realised appropriation
+C. The Macro Economic Framework Statement explains macro assumptions, while CAG audit tests recorded public accounts after expenditure
+D. The Fiscal Health Index authorises withdrawal from the Consolidated Fund
+
+### MCQ 44
+
+Which statement describes the boundary between consumption and investment in fiscal assessment?
+
+A. All education spending is a Union-owned capital asset in government accounts
+B. All Union capital projects inevitably crowd in private investment
+C. Government final consumption expenditure and capital formation are interchangeable measures
+D. Teachers' salaries are ordinarily revenue expenditure yet can build human capability; capital works require quality and completion checks
+
+### MCQ ANSWER KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 1 — Answer and elimination
 
 **Answer: A.**
 
@@ -28,14 +427,7 @@ D. Its presentation itself appropriates money from the Consolidated Fund.
 
 **Examiner trap 1:** Do not replace the tested rule — The President causes the Annual Financial Statement to be laid before both Houses. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 2
-
-Which matching of account and rule is correct?
-
-A. Consolidated Fund — no parliamentary authority is needed for withdrawal.
-B. Public Account — money held in trust; repayment generally does not require parliamentary appropriation.
-C. Contingency Fund — ordinary annual departmental expenditure.
-D. Public Account — all tax revenue belongs permanently to government.
+### MCQ 2 — Answer and elimination
 
 **Answer: B.**
 
@@ -47,14 +439,7 @@ D. Public Account — all tax revenue belongs permanently to government.
 
 **Examiner trap 2:** Do not replace the tested rule — Public Account — money held in trust; repayment generally does not require parliamentary appropriation. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 3
-
-Consider the following: 1. Charged expenditure may be discussed. 2. It is not submitted to vote. 3. It needs no appropriation. Which is correct?
-
-A. 1 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+### MCQ 3 — Answer and elimination
 
 **Answer: C.**
 
@@ -66,14 +451,7 @@ D. 1, 2 and 3
 
 **Examiner trap 3:** Do not replace the tested rule — 1 and 2 only — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 4
-
-Which sequence best describes ordinary Union expenditure authorisation?
-
-A. Finance Bill -> CAG audit -> Demand for Grant -> withdrawal
-B. Vote on Account -> Finance Commission -> Public Account -> withdrawal
-C. Budget speech -> immediate executive withdrawal -> later AFS
-D. Annual Financial Statement -> Demands for Grants -> Appropriation Bill -> withdrawal
+### MCQ 4 — Answer and elimination
 
 **Answer: D.**
 
@@ -85,14 +463,7 @@ D. Annual Financial Statement -> Demands for Grants -> Appropriation Bill -> wit
 
 **Examiner trap 4:** Do not replace the tested rule — Annual Financial Statement -> Demands for Grants -> Appropriation Bill -> withdrawal — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 5
-
-Which is a revenue receipt?
-
-A. Interest received by government on loans it extended
-B. Fresh market borrowing
-C. Recovery of principal on a government loan
-D. Proceeds from disinvestment
+### MCQ 5 — Answer and elimination
 
 **Answer: A.**
 
@@ -104,14 +475,7 @@ D. Proceeds from disinvestment
 
 **Examiner trap 5:** Do not replace the tested rule — Interest received by government on loans it extended — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 6
-
-Which is a non-debt capital receipt?
-
-A. Goods and Services Tax collection
-B. Recovery of loans granted by government
-C. Treasury-bill borrowing
-D. Dividend received from a public enterprise
+### MCQ 6 — Answer and elimination
 
 **Answer: B.**
 
@@ -123,14 +487,7 @@ D. Dividend received from a public enterprise
 
 **Examiner trap 6:** Do not replace the tested rule — Recovery of loans granted by government — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 7
-
-Which expenditure is most directly classified as capital expenditure in government accounts?
-
-A. Interest payment on past debt
-B. Salary of an existing department
-C. Acquisition of a durable asset by the Union Government
-D. A routine operating subsidy
+### MCQ 7 — Answer and elimination
 
 **Answer: C.**
 
@@ -142,14 +499,7 @@ D. A routine operating subsidy
 
 **Examiner trap 7:** Do not replace the tested rule — Acquisition of a durable asset by the Union Government — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 8
-
-Effective capital expenditure equals:
-
-A. Revenue expenditure minus revenue receipts
-B. Capital receipts minus borrowings
-C. Fiscal deficit minus interest payments
-D. Capital expenditure plus grants-in-aid for creation of capital assets
+### MCQ 8 — Answer and elimination
 
 **Answer: D.**
 
@@ -161,14 +511,7 @@ D. Capital expenditure plus grants-in-aid for creation of capital assets
 
 **Examiner trap 8:** Do not replace the tested rule — Capital expenditure plus grants-in-aid for creation of capital assets — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 9
-
-Revenue deficit is:
-
-A. Revenue expenditure minus revenue receipts
-B. Total expenditure minus all receipts including borrowing
-C. Fiscal deficit minus interest payments
-D. Revenue deficit minus asset-creating grants
+### MCQ 9 — Answer and elimination
 
 **Answer: A.**
 
@@ -180,14 +523,7 @@ D. Revenue deficit minus asset-creating grants
 
 **Examiner trap 9:** Do not replace the tested rule — Revenue expenditure minus revenue receipts — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 10
-
-Effective revenue deficit is:
-
-A. Fiscal deficit minus capital expenditure
-B. Revenue deficit minus grants-in-aid for creation of capital assets
-C. Revenue receipts minus revenue expenditure
-D. Primary deficit plus interest payments
+### MCQ 10 — Answer and elimination
 
 **Answer: B.**
 
@@ -199,14 +535,7 @@ D. Primary deficit plus interest payments
 
 **Examiner trap 10:** Do not replace the tested rule — Revenue deficit minus grants-in-aid for creation of capital assets — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 11
-
-If total expenditure is 120, revenue receipts 80 and non-debt capital receipts 10, fiscal deficit is:
-
-A. 20
-B. 40
-C. 30
-D. 50
+### MCQ 11 — Answer and elimination
 
 **Answer: C.**
 
@@ -218,14 +547,7 @@ D. 50
 
 **Examiner trap 11:** Do not replace the tested rule — 30 — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 12
-
-A fiscal deficit of 50 and interest payments of 12 imply a primary deficit of:
-
-A. 62
-B. 50
-C. 12
-D. 38
+### MCQ 12 — Answer and elimination
 
 **Answer: D.**
 
@@ -237,14 +559,7 @@ D. 38
 
 **Examiner trap 12:** Do not replace the tested rule — 38 — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 13
-
-Which statement correctly preserves budget vintage?
-
-A. FY2026-27 BE is a forward estimate, FY2025-26 RE an updated estimate and FY2024-25 Actuals a realised figure in Budget 2026-27.
-B. All three are audited actual outcomes.
-C. RE is the next year's original Budget proposal.
-D. An Actual and a BE can be compared without stating their status.
+### MCQ 13 — Answer and elimination
 
 **Answer: A.**
 
@@ -256,14 +571,7 @@ D. An Actual and a BE can be compared without stating their status.
 
 **Examiner trap 13:** Do not replace the tested rule — FY2026-27 BE is a forward estimate, FY2025-26 RE an updated estimate and FY2024-25 Actuals a realised figure in Budget 2026-27. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 14
-
-Which distinction between the Finance Bill and Appropriation Bill is correct?
-
-A. Both solely authorise expenditure.
-B. The Finance Bill gives effect to tax proposals; the Appropriation Bill authorises withdrawal from the Consolidated Fund.
-C. The Appropriation Bill imposes taxes while the Finance Bill votes grants.
-D. Neither requires parliamentary passage.
+### MCQ 14 — Answer and elimination
 
 **Answer: B.**
 
@@ -275,14 +583,7 @@ D. Neither requires parliamentary passage.
 
 **Examiner trap 14:** Do not replace the tested rule — The Finance Bill gives effect to tax proposals; the Appropriation Bill authorises withdrawal from the Consolidated Fund. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 15
-
-Which statement about additional fiscal authorisation is correct?
-
-A. A supplementary grant is always for a wholly new service.
-B. A Vote on Account regularises past excess.
-C. An excess grant regularises expenditure already incurred beyond authorisation.
-D. An additional grant can never arise after the original Budget.
+### MCQ 15 — Answer and elimination
 
 **Answer: C.**
 
@@ -294,14 +595,7 @@ D. An additional grant can never arise after the original Budget.
 
 **Examiner trap 15:** Do not replace the tested rule — An excess grant regularises expenditure already incurred beyond authorisation. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 16
-
-Which statement best distinguishes a Vote on Account from an interim budget?
-
-A. They are identical constitutional expressions.
-B. A Vote on Account permanently replaces the Appropriation Act.
-C. An interim budget can be presented only during war.
-D. A Vote on Account is Article 116 authority for an advance; interim budget is a broader political-practice label.
+### MCQ 16 — Answer and elimination
 
 **Answer: D.**
 
@@ -313,14 +607,7 @@ D. A Vote on Account is Article 116 authority for an advance; interim budget is 
 
 **Examiner trap 16:** Do not replace the tested rule — A Vote on Account is Article 116 authority for an advance; interim budget is a broader political-practice label. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 17
-
-A token cut motion seeks to:
-
-A. Reduce a demand by Rs 100 to ventilate a specific grievance
-B. Reject the underlying policy by reducing the demand to Re 1
-C. Reduce expenditure by an exactly specified economy amount
-D. Convert charged expenditure into voted expenditure
+### MCQ 17 — Answer and elimination
 
 **Answer: A.**
 
@@ -332,14 +619,7 @@ D. Convert charged expenditure into voted expenditure
 
 **Examiner trap 17:** Do not replace the tested rule — Reduce a demand by Rs 100 to ventilate a specific grievance — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 18
-
-Which is an automatic stabiliser during a downturn?
-
-A. Parliament enacts a new one-time stimulus package
-B. Tax collections fall under existing rules as incomes and profits decline
-C. Government announces a new infrastructure scheme
-D. A new tax surcharge is legislated after the shock
+### MCQ 18 — Answer and elimination
 
 **Answer: B.**
 
@@ -351,14 +631,7 @@ D. A new tax surcharge is legislated after the shock
 
 **Examiner trap 18:** Do not replace the tested rule — Tax collections fall under existing rules as incomes and profits decline — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 19
-
-Why may a transfer have a high short-run fiscal multiplier?
-
-A. Every transfer directly creates a government asset
-B. Imports and saving always equal zero
-C. Liquidity-constrained recipients may spend a large share quickly
-D. Monetary policy never responds
+### MCQ 19 — Answer and elimination
 
 **Answer: C.**
 
@@ -370,14 +643,7 @@ D. Monetary policy never responds
 
 **Examiner trap 19:** Do not replace the tested rule — Liquidity-constrained recipients may spend a large share quickly — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 20
-
-Which is countercyclical fiscal action in a recession?
-
-A. Immediate across-the-board cuts despite idle capacity
-B. Permanent untargeted commitments without financing
-C. Concealing liabilities outside the Budget
-D. Temporary targeted support that cushions demand while preserving a credible exit
+### MCQ 20 — Answer and elimination
 
 **Answer: D.**
 
@@ -389,14 +655,7 @@ D. Temporary targeted support that cushions demand while preserving a credible e
 
 **Examiner trap 20:** Do not replace the tested rule — Temporary targeted support that cushions demand while preserving a credible exit — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 21
-
-Public capex is most likely to crowd in private investment when it:
-
-A. Removes a binding infrastructure bottleneck and raises expected returns
-B. Absorbs scarce credit without increasing productive capacity
-C. Funds an incomplete low-use project
-D. Creates unpredictable arrears to contractors
+### MCQ 21 — Answer and elimination
 
 **Answer: A.**
 
@@ -408,14 +667,7 @@ D. Creates unpredictable arrears to contractors
 
 **Examiner trap 21:** Do not replace the tested rule — Removes a binding infrastructure bottleneck and raises expected returns — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 22
-
-In the simplified debt-dynamics relation, which combination improves the debt ratio, other things equal?
-
-A. Higher interest rate with unchanged growth and larger primary deficit
-B. Higher nominal growth relative to the effective interest rate and a stronger primary balance
-C. Shorter maturity and larger contingent liabilities
-D. Lower growth and persistent primary deficit
+### MCQ 22 — Answer and elimination
 
 **Answer: B.**
 
@@ -427,14 +679,7 @@ D. Lower growth and persistent primary deficit
 
 **Examiner trap 22:** Do not replace the tested rule — Higher nominal growth relative to the effective interest rate and a stronger primary balance — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 23
-
-Which statement correctly distinguishes fiscal deficit and debt?
-
-A. Both are annual expenditure flows.
-B. Debt is always equal to the latest year's fiscal deficit.
-C. Fiscal deficit is a period flow; debt is an accumulated stock at a point in time.
-D. Fiscal deficit includes all future contingent liabilities.
+### MCQ 23 — Answer and elimination
 
 **Answer: C.**
 
@@ -446,14 +691,7 @@ D. Fiscal deficit includes all future contingent liabilities.
 
 **Examiner trap 23:** Do not replace the tested rule — Fiscal deficit is a period flow; debt is an accumulated stock at a point in time. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 24
-
-Under FRBM section 4, which statement about the escape mechanism is correct?
-
-A. Any ministerial priority permits unlimited deviation.
-B. The clause permanently suspends all targets after one shock.
-C. It applies only when tax revenue declines.
-D. Enumerated grounds can permit deviation, capped at 0.5 percentage point of GDP in a year, with a return-path statement.
+### MCQ 24 — Answer and elimination
 
 **Answer: D.**
 
@@ -465,14 +703,7 @@ D. Enumerated grounds can permit deviation, capped at 0.5 percentage point of GD
 
 **Examiner trap 24:** Do not replace the tested rule — Enumerated grounds can permit deviation, capped at 0.5 percentage point of GDP in a year, with a return-path statement. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 25
-
-FRBM section 5 primarily establishes that:
-
-A. Routine direct Central Government borrowing from RBI is barred, subject to temporary advances and specified exceptions.
-B. RBI may never buy government securities
-C. All fiscal deficits must be monetised
-D. Ways and Means Advances are permanent budget resources
+### MCQ 25 — Answer and elimination
 
 **Answer: A.**
 
@@ -484,14 +715,7 @@ D. Ways and Means Advances are permanent budget resources
 
 **Examiner trap 25:** Do not replace the tested rule — Routine direct Central Government borrowing from RBI is barred, subject to temporary advances and specified exceptions. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 26
-
-Which case most clearly represents off-budget borrowing risk?
-
-A. A ministry spends an appropriated grant shown in the AFS
-B. A public entity borrows, while principal and interest are contractually serviced from future Union Budgets.
-C. A household deposits money in a bank
-D. The government collects a disclosed user fee
+### MCQ 26 — Answer and elimination
 
 **Answer: B.**
 
@@ -503,14 +727,7 @@ D. The government collects a disclosed user fee
 
 **Examiner trap 26:** Do not replace the tested rule — A public entity borrows, while principal and interest are contractually serviced from future Union Budgets. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 27
-
-Which statement about guarantees is correct?
-
-A. Every guarantee immediately equals fiscal deficit
-B. The FRBM 0.5% limit caps total outstanding guarantees
-C. A guarantee is contingent exposure; annual net addition, outstanding stock and invocation are different measures.
-D. A guaranteed PSU loan is always risk-free
+### MCQ 27 — Answer and elimination
 
 **Answer: C.**
 
@@ -522,14 +739,7 @@ D. A guaranteed PSU loan is always risk-free
 
 **Examiner trap 27:** Do not replace the tested rule — A guarantee is contingent exposure; annual net addition, outstanding stock and invocation are different measures. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 28
-
-Which Public Account statement is correct?
-
-A. It contains only voted expenditure
-B. All withdrawals require an Appropriation Act
-C. Its balances are identical to tax revenue
-D. It contains money held by government in trust and generally repayable to depositors or authorities.
+### MCQ 28 — Answer and elimination
 
 **Answer: D.**
 
@@ -541,14 +751,7 @@ D. It contains money held by government in trust and generally repayable to depo
 
 **Examiner trap 28:** Do not replace the tested rule — It contains money held by government in trust and generally repayable to depositors or authorities. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 29
-
-According to official Union Budget 2026-27 documents dated 1 February 2026, which set is correct?
-
-A. FY2026-27 BE fiscal deficit 4.3% of GDP and capital expenditure about Rs 12.22 lakh crore
-B. FY2026-27 Actual fiscal deficit 4.3% and capex Rs 12.22 lakh crore
-C. FY2025-26 Actual fiscal deficit 4.3% and capex Rs 17.15 lakh crore
-D. FY2030-31 BE debt 55.6% and fiscal deficit 3%
+### MCQ 29 — Answer and elimination
 
 **Answer: A.**
 
@@ -560,14 +763,7 @@ D. FY2030-31 BE debt 55.6% and fiscal deficit 3%
 
 **Examiner trap 29:** Do not replace the tested rule — FY2026-27 BE fiscal deficit 4.3% of GDP and capital expenditure about Rs 12.22 lakh crore — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 30
-
-Which correctly describes the current debt path in Union Budget 2026-27?
-
-A. The statutory 40% target is reported as achieved in FY2026-27
-B. Central debt is estimated at 55.6% of GDP in FY2026-27 BE, with a medium-term aim of 50 plus or minus 1% by FY2030-31.
-C. Debt is 4.3% of GDP because it equals fiscal deficit
-D. The 50 plus or minus 1% aim is an FY2026-27 Actual
+### MCQ 30 — Answer and elimination
 
 **Answer: B.**
 
@@ -579,14 +775,7 @@ D. The 50 plus or minus 1% aim is an FY2026-27 Actual
 
 **Examiner trap 30:** Do not replace the tested rule — Central debt is estimated at 55.6% of GDP in FY2026-27 BE, with a medium-term aim of 50 plus or minus 1% by FY2030-31. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 31
-
-Which institutional pairing is correct?
-
-A. CAG prepares the Union Budget and CGA votes grants
-B. RBI passes the Appropriation Bill
-C. CGA compiles Union accounts; CAG independently audits public accounts and reports.
-D. Finance Commission audits ministry expenditure
+### MCQ 31 — Answer and elimination
 
 **Answer: C.**
 
@@ -598,14 +787,7 @@ D. Finance Commission audits ministry expenditure
 
 **Examiner trap 31:** Do not replace the tested rule — CGA compiles Union accounts; CAG independently audits public accounts and reports. — with a neighbouring legal, accounting, vintage or institutional category.
 
-### MCQ 32
-
-Which statement preserves the State-finance boundary?
-
-A. Article 280 makes every State deficit part of Union FD
-B. Finance Commission recommendations are identical to State budgets
-C. Article 281 authorises all State borrowing
-D. Union fiscal deficit must not be treated as the consolidated general-government deficit.
+### MCQ 32 — Answer and elimination
 
 **Answer: D.**
 
@@ -616,6 +798,150 @@ D. Union fiscal deficit must not be treated as the consolidated general-governme
 - **D - Correct:** The correct option maintains institutional perimeter.
 
 **Examiner trap 32:** Do not replace the tested rule — Union fiscal deficit must not be treated as the consolidated general-government deficit. — with a neighbouring legal, accounting, vintage or institutional category.
+
+### MCQ 33 — Answer and elimination
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Subtract asset-creating grants from revenue deficit; add them to own capital spending.
+- **B - Incorrect:** Both adjustments have the opposite sign to the identities.
+- **C - Incorrect:** The effective-capex identity adds rather than subtracts the grant.
+- **D - Incorrect:** Both effective indicators differ from their unadjusted counterparts.
+
+**Examiner trap 33:** The Centre books the grant as revenue expenditure even when a state creates the asset.
+
+### MCQ 34 — Answer and elimination
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The outstanding debt stock includes past obligations and is not erased by a zero primary deficit.
+- **B - Correct:** Primary deficit equals fiscal deficit minus interest; the fiscal deficit still represents a gap.
+- **C - Incorrect:** Revenue and primary deficits use different receipt and spending categories.
+- **D - Incorrect:** Borrowing broadly finances the fiscal gap; it is excluded only from non-debt receipts when measuring it.
+
+**Examiner trap 34:** A zero primary balance is not a zero debt or zero fiscal deficit.
+
+### MCQ 35 — Answer and elimination
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Large new primary borrowing can outweigh growth's denominator effect.
+- **B - Incorrect:** Growth may more than offset the ratio effect of debt interest.
+- **C - Correct:** Interest-growth arithmetic and the primary balance jointly determine the path.
+- **D - Incorrect:** Currency composition changes risks but not the core debt-dynamics identity.
+
+**Examiner trap 35:** Never infer a debt path from the sign of interest minus growth alone.
+
+### MCQ 36 — Answer and elimination
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Automatic revenue movements in a boom or recession change the headline without the same discretionary change.
+- **B - Incorrect:** Debt is a stock; impulse concerns a change in fiscal support.
+- **C - Incorrect:** Higher nominal spending can accompany higher revenues or GDP without a looser structural stance.
+- **D - Correct:** Separate the economic cycle and policy decision from the deficit's observed level.
+
+**Examiner trap 36:** A large inherited deficit need not mean fresh fiscal stimulus.
+
+### MCQ 37 — Answer and elimination
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Fiscal resources and physical inputs have alternative uses despite a zero user charge.
+- **B - Incorrect:** A zero price for a beneficiary says nothing about the budgetary cost.
+- **C - Incorrect:** Equity and positive externalities can justify subsidised provision.
+- **D - Incorrect:** Foregone alternative value does not require a cash profit.
+
+**Examiner trap 37:** Distinguish recipient price, fiscal cost and social opportunity cost.
+
+### MCQ 38 — Answer and elimination
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Household assets remain private claims, not automatic tax receipts.
+- **B - Correct:** Financing conditions depend on the supply of intermediated domestic savings.
+- **C - Incorrect:** Private saving and official foreign reserves are separate accounts.
+- **D - Incorrect:** Scarce lendable resources can put upward pressure on financing costs.
+
+**Examiner trap 38:** Crowding out is conditional, not an identity that every public investment displaces private investment.
+
+### MCQ 39 — Answer and elimination
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Budget 2018 reintroduced a specified listed-equity LTCG levy.
+- **B - Incorrect:** The subsequent shift from payer-level DDT to shareholder taxation was a later change.
+- **C - Correct:** The historic tax design included a threshold and grandfathering alongside equity-fund distribution tax.
+- **D - Incorrect:** Grandfathering was designed to protect pre-change accrued gains.
+
+**Examiner trap 39:** The 2018 design is not the tax law applicable to every later assessment year.
+
+### MCQ 40 — Answer and elimination
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Future Union servicing can create fiscal exposure despite narrow initial accounting.
+- **B - Incorrect:** Borrowing creates a liability; it is not a revenue receipt.
+- **C - Incorrect:** Financing a subsidy is not itself Union capital expenditure.
+- **D - Correct:** Historical FCI-NSSF financing illustrates why headline comparability and perimeter matter.
+
+**Examiner trap 40:** Do not double-count a historically off-budget item after it moves on-budget.
+
+### MCQ 41 — Answer and elimination
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Tax evasion removes taxable transactions from transparent budgeting and distorts allocation.
+- **B - Incorrect:** Unreported taxable income does not automatically increase measured collections.
+- **C - Incorrect:** Informality and unlawful tax concealment must not be conflated.
+- **D - Incorrect:** Credible compliance also requires administrative capacity and incentives.
+
+**Examiner trap 41:** Analyse both tax base and enforcement limitations without equating all cash transactions with crime.
+
+### MCQ 42 — Answer and elimination
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** A single deficit measure misses the Index's multiple fiscal dimensions.
+- **B - Correct:** Its diagnostic value depends on definitions, state circumstances and sound inputs.
+- **C - Incorrect:** An analytical ranking does not replace intergovernmental constitutional functions.
+- **D - Incorrect:** Need, inherited debt and capacity differ among states.
+
+**Examiner trap 42:** A league table is not a causal evaluation of service outcomes.
+
+### MCQ 43 — Answer and elimination
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Legal withdrawal authority is not the fiscal macro-assumption document.
+- **B - Incorrect:** Audit is a different function from tax-legislation proposals.
+- **C - Correct:** Ex ante assumptions and ex post independent scrutiny have different dates and purposes.
+- **D - Incorrect:** An analytical state-fiscal indicator cannot grant Union spending authority.
+
+**Examiner trap 43:** Do not treat Budget Estimates as audited spending outcomes.
+
+### MCQ 44 — Answer and elimination
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** A socially productive education service need not create a Union-owned asset.
+- **B - Incorrect:** Project selection and financing determine private-sector effects.
+- **C - Incorrect:** National-accounts consumption and formation track different output uses.
+- **D - Correct:** Accounting classification alone does not settle development value.
+
+**Examiner trap 44:** Compare economic outcomes as well as budget classification.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -679,6 +1005,7 @@ D. None of the above
 
 ### Historical objective routes without locally verified final official keys
 
+- **2026 Q94 — government borrowing, interest rates and crowding out:** **Answer withheld pending final official UPSC key** (locally available Set-A key is provisional). A larger public borrowing claim on available loanable funds can raise financing costs and displace private credit; it is conditional on savings, liquidity, monetary response and whether public capex raises private returns.
 - **2018 Q9 — FRBM Review Committee debt-GDP recommendations:** **Answer withheld pending official UPSC key.**
 - **2018 Q47 — opportunity cost of free public provision:** **Answer withheld pending official UPSC key.**
 - **2020 Q6 — legal mandate for the Macro-Economic Framework Statement:** **Answer withheld pending official UPSC key.**
@@ -688,6 +1015,15 @@ D. None of the above
 - **2022 Q10 — household financial savings and government internal debt:** **Answer withheld pending official UPSC key.**
 
 ### Descriptive PYQ routes and model frameworks
+
+#### 2018 GS-III Q2 — Long-term Capital Gains Tax and Dividend Distribution Tax
+**Verified routed demand (Comment, 10 marks, 150 words):** Comment on the implications of the 2018 Budget changes to the Long-term Capital Gains Tax and Dividend Distribution Tax.
+
+**Independent historical model answer (2018 policy context; not an official UPSC key):** Budget 2018 reintroduced tax on listed-equity and equity-oriented fund long-term capital gains above the announced annual exemption threshold, while grandfathering gains accrued up to 31 January 2018. It also introduced a distribution tax on dividends paid by equity-oriented mutual funds. These measures narrowed tax asymmetry between equity and other assets and between a fund's growth and dividend options. Grandfathering reduced retrospective disruption to existing holders.
+
+However, effective incidence depends on investor horizon, fund choice and compliance. Tax at distribution level can affect investors differently from tax on their own realised gains; investors might alter payout preferences or shift towards alternatives. Additional revenues cannot alone establish higher fairness if the burden on small savers or administrative complexity increases. Evaluate the changes against neutrality, predictability and revenue yield, not merely market reaction.
+
+**Why this earns marks:** It distinguishes the two distinct 2018 measures, identifies their incentives, explains the grandfathering qualification and does not misstate later abolition of distribution tax as applicable in 2018.
 
 #### 2019 GS-III Q12 — Public expenditure management
 **Verified routed demand:** Public expenditure management challenge in post-liberalisation budget making.

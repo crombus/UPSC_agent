@@ -4,1126 +4,448 @@ topic_key: geography-07
 ---
 # Arid Desert Landforms / Thar Desertification — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+## ORIGINAL MCQS — ANSWER ALL BEFORE CONSULTING THE KEY
 
-### Q1. Which statement correctly explains Concept boundary?
+Grounded in Core 07, Advanced 07, paired learning session and OCR-searchable Majid Husain *Indian and World Geography* (arid geomorphology); original, not PYQs.
 
-A. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-B. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-C. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
+### Q1. Which difference distinguishes a desert from a short drought?
 
-**Answer: A.**
-**Explanation:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. The other options describe different processes, locations, scales or governance categories.
+A. Desert denotes persistent aridity; drought is a temporary rainfall deficit
+B. Desert means a year without any rain
+C. Drought denotes a permanent sand sea
+D. Desertification is merely another word for drought
 
-### Q2. Which option is the safest spatial interpretation of Concept boundary?
+### Q2. A dry subtropical belt lies under sinking air. Why is rainfall suppressed?
 
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
+A. Subsiding air cools to saturation
+B. Subsiding air warms and inhibits condensation
+C. Only ocean tides set inland aridity
+D. Every subtropical location receives identical rainfall
 
-**Answer: B.**
-**Explanation:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. The other options describe different processes, locations, scales or governance categories.
+### Q3. A leeward valley is dry despite moist air reaching the windward slope. What is the mechanism?
 
-### Q3. Which statement preserves the process boundary for Concept boundary?
+A. Sea-floor spreading beneath the valley
+B. Downwind horns of a barchan
+C. Orographic rain shadow
+D. Deflation of the valley-floor pebbles
 
-A. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-B. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-C. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-D. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
+### Q4. Why can coarse, angular sediment be available for wind even without continuous strong winds?
 
-**Answer: C.**
-**Explanation:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. The other options describe different processes, locations, scales or governance categories.
+A. Every grain originates as loess
+B. Strong wind is the only agent of rock disintegration
+C. Rock in deserts never weathers chemically
+D. Thermal stress and episodic weathering supply loose fragments
 
-### Q4. Which option avoids the main UPSC trap concerning Concept boundary?
+### Q5. How do sand and fine dust commonly travel in a wind storm?
 
-A. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-B. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-C. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-D. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
+A. Sand by saltation and surface creep; fines in suspension
+B. Sand only in solution; dust in traction
+C. All pebbles by suspension for hundreds of kilometres
+D. Dust can only move by glacier ice
 
-**Answer: D.**
-**Explanation:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. The other options describe different processes, locations, scales or governance categories.
+### Q6. A blowout leaves a stony lag after loose fine grains are removed. What paired forms appear?
 
-### Q5. Which statement correctly explains Aridity controls?
+A. Cirque and glacial moraine
+B. Deflation hollow and desert pavement
+C. Meander and ox-bow lake
+D. Fjord and tidal inlet
 
-A. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-B. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-C. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-D. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
+### Q7. Ridges of softer rock are carved along prevailing wind while sand-blasted stones gain facets. Which pair?
 
-**Answer: A.**
-**Explanation:** Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. The other options describe different processes, locations, scales or governance categories.
+A. Barchans and cirques
+B. Eskers and ventifacts
+C. Yardangs and ventifacts
+D. Pediments and estuaries
 
-### Q6. Which option is the safest spatial interpretation of Aridity controls?
+### Q8. Which statement is safest for a mushroom rock undercut near ground level?
 
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-C. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
+A. Every pedestal rock is a depositional dune
+B. Its wider top proves coastal wave scour
+C. Wind alone necessarily built every mesa and inselberg
+D. Sand-laden winds can abrade its lower portion more strongly
 
-**Answer: B.**
-**Explanation:** Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. The other options describe different processes, locations, scales or governance categories.
+### Q9. Which barchan orientation diagnoses a prevailing wind direction?
 
-### Q7. Which statement preserves the process boundary for Aridity controls?
+A. Crescent horns point downwind
+B. Horns always point upwind
+C. Long axis must be perpendicular to each seasonal wind
+D. One photograph fixes all annual winds permanently
 
-A. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
+### Q10. A long narrow dune extends roughly with the prevailing wind. Which dune is most plausible?
 
-**Answer: C.**
-**Explanation:** Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. The other options describe different processes, locations, scales or governance categories.
+A. Barchan with two downwind horns
+B. Seif or longitudinal dune
+C. Glacial terminal moraine
+D. River natural levee
 
-### Q8. Which option avoids the main UPSC trap concerning Aridity controls?
+### Q11. Fine windblown silt accumulates far from its source. Identify the deposit.
 
-A. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-B. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-C. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-D. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
+A. Till
+B. Braided-channel gravel
+C. Loess
+D. Coral limestone
 
-**Answer: D.**
-**Explanation:** Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. The other options describe different processes, locations, scales or governance categories.
+### Q12. A flash flood emerges from a narrow dry valley onto a broad plain. What first depositional form is likely?
 
-### Q9. Which statement correctly explains Weathering in arid lands?
+A. Fjord at the mountain foot
+B. Barchan across the mouth of every valley
+C. Solution cave inside the fan
+D. Alluvial fan at the slope break
 
-A. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-B. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-C. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-D. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
+### Q13. A dry lake bed in a closed desert basin fills episodically then evaporates. Name the landform.
 
-**Answer: A.**
-**Explanation:** Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. The other options describe different processes, locations, scales or governance categories.
+A. Playa
+B. Yardang
+C. Hanging valley
+D. Marine estuary
 
-### Q10. Which option is the safest spatial interpretation of Weathering in arid lands?
+### Q14. Which inference about a pediment at a mountain front is least over-simplified?
 
-A. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-B. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-C. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-D. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
+A. It is always an aeolian sand dune
+B. Slope retreat and episodic sheetwash can shape a low-gradient rock surface
+C. It is only an overdeepened glacial lake bed
+D. It forms only at a river delta mouth
 
-**Answer: B.**
-**Explanation:** Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. The other options describe different processes, locations, scales or governance categories.
+### Q15. What best describes Thar surface geography?
 
-### Q11. Which statement preserves the process boundary for Weathering in arid lands?
+A. Only continuous barchans without settlements
+B. Only glacier-carved granite basins
+C. A mosaic of dunes, interdune plains, rocky ground and managed land
+D. Entirely irrigated cropland with no aeolian processes
 
-A. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-D. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
+### Q16. Irrigation locally greens a Thar tract. Which trade-off needs checking?
 
-**Answer: C.**
-**Explanation:** Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. The other options describe different processes, locations, scales or governance categories.
+A. Greening proves all regional drought risk has vanished
+B. Every plant cover gain is desertification
+C. Waterlogging must be glacial melt only
+D. Dune stabilisation against waterlogging and salinisation
 
-### Q12. Which option avoids the main UPSC trap concerning Weathering in arid lands?
+### Q17. Why can disturbance of Aravalli vegetation intensify arid-margin degradation?
 
-A. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
+A. Loss of cover exposes soil to wind and runoff erosion
+B. The hills physically block every desert wind without exception
+C. Removing cover makes all groundwater saline immediately
+D. Aravalli vegetation is a sea-ice stabiliser
 
-**Answer: D.**
-**Explanation:** Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. The other options describe different processes, locations, scales or governance categories.
+### Q18. Which statement defines land degradation neutrality as a planning goal?
 
-### Q13. Which statement correctly explains Aeolian transport?
+A. Replace every desert with permanent lakes
+B. Balance losses of productive land with gains through avoidance, reduction and restoration
+C. Treat more cropland area as proof soil quality has improved
+D. Calculate LDN only from wind speed
 
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
+### Q19. Can desertification occur outside the Thar?
 
-**Answer: A.**
-**Explanation:** Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. The other options describe different processes, locations, scales or governance categories.
+A. No, it is restricted to mobile dune crests
+B. Every humid-region erosion case is automatically UNCCD desertification
+C. Yes, land degradation in drylands can occur on vegetated arid or semi-arid land
+D. All drought events themselves are desertification
 
-### Q14. Which option is the safest spatial interpretation of Aeolian transport?
+### Q20. A district has bare soil from overgrazing plus variable rainfall. Which intervention is process-matched?
 
-A. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-B. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-C. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-D. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
+A. Build an estuarine tidal gate uphill
+B. Increase extraction regardless of recharge
+C. Plant one non-native species without soil or water assessment
+D. Manage stocking, restore cover and monitor soil condition
 
-**Answer: B.**
-**Explanation:** Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. The other options describe different processes, locations, scales or governance categories.
+### Q21. Which monitoring inference is sound for a greening image of Thar?
 
-### Q15. Which statement preserves the process boundary for Aeolian transport?
+A. Check season, rainfall, soil salinity and land use before claiming restored productivity
+B. One green pixel proves a whole desert has recovered
+C. A dry-season image proves all dunes are expanding
+D. A higher water table always implies better crop soil
 
-A. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-D. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
+### Q22. Which relation best distinguishes arid landforms from desertification?
 
-**Answer: C.**
-**Explanation:** Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. The other options describe different processes, locations, scales or governance categories.
+A. All natural barchans prove humans degraded land
+B. An arid surface can be naturally productive for its setting yet human pressure may degrade it
+C. All rain shadows are created by canal irrigation
+D. Restoration can abolish subtropical subsidence
 
-### Q16. Which option avoids the main UPSC trap concerning Aeolian transport?
+**Arid-basin transect for Q23–Q26 (not a keyed hint):**
 
-A. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-B. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-C. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-D. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
+```text
+mountain divide -> steep dry channel -> slope break -> piedmont -> enclosed low
+                    storm runoff       spreading flow      wind / water rework
+```
 
-**Answer: D.**
-**Explanation:** Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. The other options describe different processes, locations, scales or governance categories.
+### Q23. Which ordering connects arid hillslope supply to an ephemeral inland playa?
 
-### Q17. Which statement correctly explains Erosional landforms?
+A. Fan deposition; glacier calving; coastal estuary; evaporative salt pan
+B. Closed basin; wind produces tributary stream; ocean tide fills it; glacier scours a tarn
+C. Weathering; flash runoff down wadi; fan deposition; fine load reaches closed basin; evaporation
+D. Wadi runoff; permanent coastal reef; inland ice sheet; fan deposition
 
-A. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-B. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-C. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-D. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
+### Q24. Aerial imagery shows curved dunes and long straight ridges. Which combination uses geometry and wind direction correctly?
 
-**Answer: A.**
-**Explanation:** Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. The other options describe different processes, locations, scales or governance categories.
+A. Barchan horns upwind; seif perpendicular to all seasonal winds
+B. Both landforms are unsorted glacial till moraines
+C. Both features must be river-built natural levees
+D. Barchan horns downwind; longitudinal seif ridge broadly along the wind resultant
 
-### Q18. Which option is the safest spatial interpretation of Erosional landforms?
+### Q25. One Thar command area is greener but its soil becomes saline. Which paired diagnosis and remedy fits?
 
-A. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-B. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
+A. Vegetation index gain can mask waterlogging; improve irrigation and drainage monitoring
+B. Higher greenness proves soil quality and groundwater balance improved everywhere
+C. Salinity proves subtropical subsidence stopped causing aridity
+D. Canal irrigation is always irrelevant to shallow saline groundwater
 
-**Answer: B.**
-**Explanation:** Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. The other options describe different processes, locations, scales or governance categories.
+### Q26. Which two observations would most directly distinguish a yardang from an alluvial fan?
 
-### Q19. Which statement preserves the process boundary for Erosional landforms?
+A. A rounded grain at either site and no landform-scale mapping
+B. A streamlined erosional ridge aligned to wind versus a radiating runoff deposit at a slope break
+C. Both sites being in a region with low annual rainfall
+D. A nearby settlement and one image with dry vegetation
 
-A. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-B. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-C. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-D. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
+## ANSWER KEY AND ITEM-SPECIFIC REMEDIATION
 
-**Answer: C.**
-**Explanation:** Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. The other options describe different processes, locations, scales or governance categories.
+### Q1 — A
 
-### Q20. Which option avoids the main UPSC trap concerning Erosional landforms?
+- **A (correct):** A drought can occur even outside a desert.
+- **B (incorrect):** Deserts may receive episodic rainfall.
+- **C (incorrect):** Drought is a deviation from normal water availability.
+- **D (incorrect):** Land degradation involves vegetation, soil and land use as well as climate.
+- **Trap:** Do not use one dry season to classify a region.
 
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-C. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
+### Q2 — B
 
-**Answer: D.**
-**Explanation:** Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** Descent generally warms adiabatically.
+- **B (correct):** Stable descending air reduces uplift and cloud formation.
+- **C (incorrect):** Atmospheric circulation controls broad arid belts.
+- **D (incorrect):** Coasts, relief and currents modify subsidence effects.
+- **Trap:** Identify circulation before local modifiers.
 
-### Q21. Which statement correctly explains Dune anatomy?
+### Q3 — C
 
-A. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-B. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-C. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-D. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
+- **A (incorrect):** This does not explain windward precipitation contrast.
+- **B (incorrect):** A dune cannot cause regional rain shadow.
+- **C (correct):** Air loses moisture on uplift and warms during descent to leeward.
+- **D (incorrect):** Wind erosion follows aridity, not the cause of lee dryness.
+- **Trap:** Track air across the mountain, not sand across the valley.
 
-**Answer: A.**
-**Explanation:** A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes. The other options describe different processes, locations, scales or governance categories.
+### Q4 — D
 
-### Q22. Which option is the safest spatial interpretation of Dune anatomy?
+- **A (incorrect):** Loess is a fine deposit, not the sole source of coarse sand.
+- **B (incorrect):** Weathering and flash runoff also work in arid regions.
+- **C (incorrect):** Limited water can still support local chemical weathering.
+- **D (correct):** Large temperature range and sparse cover prepare erodible material.
+- **Trap:** Distinguish sediment production from its later transport.
 
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
+### Q5 — A
 
-**Answer: B.**
-**Explanation:** A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes. The other options describe different processes, locations, scales or governance categories.
+- **A (correct):** Particle size and wind energy determine transport mode.
+- **B (incorrect):** Solution is not wind transport of solid grains.
+- **C (incorrect):** Coarse particles mainly roll or remain as lag.
+- **D (incorrect):** Atmospheric suspension carries dust well beyond deserts.
+- **Trap:** Wind's transport modes are size dependent.
 
-### Q23. Which statement preserves the process boundary for Dune anatomy?
+### Q6 — B
 
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-C. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-D. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
+- **A (incorrect):** These are erosional and depositional ice features.
+- **B (correct):** Removal lowers loose surfaces and leaves resistant coarse particles.
+- **C (incorrect):** Those require river bend migration.
+- **D (incorrect):** Those involve glacial erosion and marine flooding.
+- **Trap:** A stony lag is not necessarily new gravel deposition.
 
-**Answer: C.**
-**Explanation:** A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes. The other options describe different processes, locations, scales or governance categories.
+### Q7 — C
 
-### Q24. Which option avoids the main UPSC trap concerning Dune anatomy?
+- **A (incorrect):** Barchans are dunes; cirques are ice-eroded hollows.
+- **B (incorrect):** Eskers are meltwater sediment ridges rather than wind-carved rock.
+- **C (correct):** Yardangs are streamlined ridges; ventifacts are individually faceted clasts.
+- **D (incorrect):** Neither specifically pairs a streamlined ridge with faceted pebble.
+- **Trap:** Pair the scale of each wind erosion product correctly.
 
-A. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-D. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
+### Q8 — D
 
-**Answer: D.**
-**Explanation:** A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** Rock erosion and sand deposition differ.
+- **B (incorrect):** An inland wind-eroded pedestal need not be marine.
+- **C (incorrect):** Structural resistance, runoff and slope retreat also matter.
+- **D (correct):** Near-surface grain flux can enhance differential abrasion.
+- **Trap:** Do not overclaim wind-only origin for all arid residuals.
 
-### Q25. Which statement correctly explains Water-built desert forms?
+### Q9 — A
 
-A. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-B. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
+- **A (correct):** Sand moves from stoss toward lee and extensions trail with wind.
+- **B (incorrect):** This reverses normal barchan orientation.
+- **C (incorrect):** A seif is a longitudinal ridge, not a barchan.
+- **D (incorrect):** Wind regimes vary across seasons and years.
+- **Trap:** Separate a dune orientation inference from a climate time series.
 
-**Answer: A.**
-**Explanation:** Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology. The other options describe different processes, locations, scales or governance categories.
+### Q10 — B
 
-### Q26. Which option is the safest spatial interpretation of Water-built desert forms?
+- **A (incorrect):** A barchan has a crescentic rather than long ridge planform.
+- **B (correct):** An elongated ridge may align along the resultant wind direction.
+- **C (incorrect):** A terminal moraine is ice-deposited till.
+- **D (incorrect):** A levee parallels a channel from overbank deposition.
+- **Trap:** Geometry alone still requires checking local wind regime.
 
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
+### Q11 — C
 
-**Answer: B.**
-**Explanation:** Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** Till is unsorted glacial debris.
+- **B (incorrect):** A high-energy stream deposits coarser load.
+- **C (correct):** Suspended dust settles and may form extensive porous silt sheets.
+- **D (incorrect):** Marine organism-built carbonate is not blown silt.
+- **Trap:** Loess can occur beyond the desert margin.
 
-### Q27. Which statement preserves the process boundary for Water-built desert forms?
+### Q12 — D
 
-A. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-B. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-C. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-D. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
+- **A (incorrect):** A fjord requires a marine-flooded glacial trough.
+- **B (incorrect):** Dune geometry depends on wind and sand supply.
+- **C (incorrect):** Soluble bedrock is not required by the runoff sequence.
+- **D (correct):** Loss of confinement and gradient spreads and deposits the episodic flow.
+- **Trap:** Water, not only wind, is a major arid-land agent.
 
-**Answer: C.**
-**Explanation:** Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology. The other options describe different processes, locations, scales or governance categories.
+### Q13 — A
 
-### Q28. Which option avoids the main UPSC trap concerning Water-built desert forms?
+- **A (correct):** Runoff can pond in an internally drained low and leave evaporite or fine sediment.
+- **B (incorrect):** Yardangs are wind-shaped elongated residual ridges.
+- **C (incorrect):** Differential glacier erosion leaves hanging tributaries.
+- **D (incorrect):** A closed inland depression is not a tidal river mouth.
+- **Trap:** Do not label every saline flat as a perennial lake.
 
-A. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
+### Q14 — B
 
-**Answer: D.**
-**Explanation:** Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** A pediment is a gently sloping erosional bedrock surface.
+- **B (correct):** Arid foothill surfaces have multiple formative processes.
+- **C (incorrect):** Neither ice excavation nor a lake is necessary.
+- **D (incorrect):** A mountain-front slope is different from a coastal mouth.
+- **Trap:** Use combined slope and runoff processes where evidence supports them.
 
-### Q29. Which statement correctly explains Thar spatial mosaic?
+### Q15 — C
 
-A. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-B. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-C. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-D. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
+- **A (incorrect):** Dunes and human land use vary spatially.
+- **B (incorrect):** The Thar is an arid region, not an active ice sheet.
+- **C (correct):** The Thar is not a uniform mobile sand sea.
+- **D (incorrect):** Irrigation does not eliminate all wind erosion.
+- **Trap:** Do not extrapolate one photograph to the whole region.
 
-**Answer: A.**
-**Explanation:** The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg. The other options describe different processes, locations, scales or governance categories.
+### Q16 — D
 
-### Q30. Which option is the safest spatial interpretation of Thar spatial mosaic?
+- **A (incorrect):** Local cover cannot establish basin-wide climate change.
+- **B (incorrect):** Cover gain alone is not land degradation.
+- **C (incorrect):** Irrigation and drainage can cause it in arid farmland.
+- **D (correct):** Water added in dry terrain may raise groundwater and salts.
+- **Trap:** Satellite greenness is not a complete soil-health assessment.
 
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-C. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-D. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
+### Q17 — A
 
-**Answer: B.**
-**Explanation:** The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg. The other options describe different processes, locations, scales or governance categories.
+- **A (correct):** Aravalli land cover helps regulate local sediment mobilisation.
+- **B (incorrect):** A ridge is no perfect climatic wall.
+- **C (incorrect):** Salinity depends on hydrology and management.
+- **D (incorrect):** The hills are inland, not polar marine ice.
+- **Trap:** Describe a specific ecological function, not a magical barrier.
 
-### Q31. Which statement preserves the process boundary for Thar spatial mosaic?
+### Q18 — B
 
-A. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-B. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-C. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-D. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
+- **A (incorrect):** Arid ecosystems themselves need not be converted.
+- **B (correct):** LDN is a target concerning land condition rather than a guarantee of no change anywhere.
+- **C (incorrect):** Area alone misses organic matter and salinity.
+- **D (incorrect):** Land cover, productivity and soil condition matter.
+- **Trap:** Neutrality is an accounting aspiration, not a field measurement by itself.
 
-**Answer: C.**
-**Explanation:** The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg. The other options describe different processes, locations, scales or governance categories.
+### Q19 — C
 
-### Q32. Which option avoids the main UPSC trap concerning Thar spatial mosaic?
+- **A (incorrect):** The term applies across dryland land-use types.
+- **B (incorrect):** The formal definition concerns drylands.
+- **C (correct):** A region need not be a sandy desert to degrade.
+- **D (incorrect):** A short climatic shock does not alone establish sustained degradation.
+- **Trap:** Keep dryland scope when using the UNCCD term.
 
-A. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
+### Q20 — D
 
-**Answer: D.**
-**Explanation:** The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** A tidal device does not restore dryland pasture.
+- **B (incorrect):** Unsustainable water removal can compound degradation.
+- **C (incorrect):** Site-specific ecology and maintenance govern restoration.
+- **D (correct):** Reducing vegetation pressure limits erosion while monitoring distinguishes rain variability.
+- **Trap:** Diagnose the driver before prescribing a project.
 
-### Q33. Which statement correctly explains Thar climate and ecology?
+### Q21 — A
 
-A. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-B. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-C. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-D. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
+- **A (correct):** Vegetation indices alone may reflect irrigation or seasonal pulses.
+- **B (incorrect):** A pixel cannot capture whole-region conditions.
+- **C (incorrect):** A single date cannot establish a trend.
+- **D (incorrect):** Shallow saline groundwater may reduce productivity.
+- **Trap:** Trend, scale and indicator choice matter more than a slogan.
 
-**Answer: A.**
-**Explanation:** Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods. The other options describe different processes, locations, scales or governance categories.
+### Q22 — B
 
-### Q34. Which option is the safest spatial interpretation of Thar climate and ecology?
+- **A (incorrect):** An aeolian dune can arise without anthropogenic pressure.
+- **B (correct):** Climate creates aridity, whereas degradation assesses change in land condition.
+- **C (incorrect):** Relief and atmospheric uplift create rain shadows.
+- **D (incorrect):** Land management cannot remove planetary circulation.
+- **Trap:** Separate physical desert genesis from human-amplified decline.
 
-A. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-B. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
 
-**Answer: B.**
-**Explanation:** Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods. The other options describe different processes, locations, scales or governance categories.
+### Q23 — C
 
-### Q35. Which statement preserves the process boundary for Thar climate and ecology?
+- **A (incorrect):** Neither glacial calving nor a marine estuary is required in the inland desert chain.
+- **B (incorrect):** A desert closed basin is not connected to coastal tides by definition.
+- **C (correct):** Infrequent flows can sort sediment at foothills and deliver fines to an evaporative low.
+- **D (incorrect):** Reef and ice-sheet processes are irrelevant to an ephemeral arid catchment.
+- **Trap:** Do not omit runoff simply because the landscape is arid.
 
-A. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-D. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
+### Q24 — D
 
-**Answer: C.**
-**Explanation:** Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** This reverses barchan horn orientation and overspecifies seif geometry.
+- **B (incorrect):** Neither dune is direct ice-deposited heterogeneous till.
+- **C (incorrect):** Natural levees parallel river banks and form during overbank floods.
+- **D (correct):** Crescent horns and elongate ridge provide distinct wind-regime clues.
+- **Trap:** Dune planform is evidence, not a timeless record of all winds.
 
-### Q36. Which option avoids the main UPSC trap concerning Thar climate and ecology?
+### Q25 — A
 
-A. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-B. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
+- **A (correct):** Irrigation raises cover while excess water and evaporation can concentrate salts.
+- **B (incorrect):** Greenness and soil quality are distinct measurements; a site does not represent the whole Thar.
+- **C (incorrect):** Regional atmospheric circulation is not inferred from soil salinity.
+- **D (incorrect):** Shallow groundwater can reflect excessive watering and inadequate drainage.
+- **Trap:** Always validate restoration using soil, water and cover indicators.
 
-**Answer: D.**
-**Explanation:** Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods. The other options describe different processes, locations, scales or governance categories.
+### Q26 — B
 
-### Q37. Which statement correctly explains Origin debate?
-
-A. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-D. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-
-**Answer: A.**
-**Explanation:** The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q38. Which option is the safest spatial interpretation of Origin debate?
-
-A. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-B. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-C. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-D. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-
-**Answer: B.**
-**Explanation:** The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q39. Which statement preserves the process boundary for Origin debate?
-
-A. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-B. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-C. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-D. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-
-**Answer: C.**
-**Explanation:** The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q40. Which option avoids the main UPSC trap concerning Origin debate?
-
-A. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-B. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-C. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-D. The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-
-**Answer: D.**
-**Explanation:** The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q41. Which statement correctly explains Natural susceptibility?
-
-A. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-
-**Answer: A.**
-**Explanation:** Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q42. Which option is the safest spatial interpretation of Natural susceptibility?
-
-A. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-B. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-C. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-D. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Answer: B.**
-**Explanation:** Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q43. Which statement preserves the process boundary for Natural susceptibility?
-
-A. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-B. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-C. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-D. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Answer: C.**
-**Explanation:** Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q44. Which option avoids the main UPSC trap concerning Natural susceptibility?
-
-A. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-D. Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-
-**Answer: D.**
-**Explanation:** Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q45. Which statement correctly explains Human accelerators?
-
-A. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-B. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-C. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-D. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-
-**Answer: A.**
-**Explanation:** Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds. The other options describe different processes, locations, scales or governance categories.
-
-### Q46. Which option is the safest spatial interpretation of Human accelerators?
-
-A. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-B. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-C. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-D. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Answer: B.**
-**Explanation:** Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds. The other options describe different processes, locations, scales or governance categories.
-
-### Q47. Which statement preserves the process boundary for Human accelerators?
-
-A. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-D. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-
-**Answer: C.**
-**Explanation:** Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds. The other options describe different processes, locations, scales or governance categories.
-
-### Q48. Which option avoids the main UPSC trap concerning Human accelerators?
-
-A. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-B. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-C. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-D. Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-
-**Answer: D.**
-**Explanation:** Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds. The other options describe different processes, locations, scales or governance categories.
-
-### Q49. Which statement correctly explains Aravalli function?
-
-A. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-B. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-C. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-D. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Answer: A.**
-**Explanation:** The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement. The other options describe different processes, locations, scales or governance categories.
-
-### Q50. Which option is the safest spatial interpretation of Aravalli function?
-
-A. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-B. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-C. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-D. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-
-**Answer: B.**
-**Explanation:** The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement. The other options describe different processes, locations, scales or governance categories.
-
-### Q51. Which statement preserves the process boundary for Aravalli function?
-
-A. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-B. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-C. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-D. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-
-**Answer: C.**
-**Explanation:** The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement. The other options describe different processes, locations, scales or governance categories.
-
-### Q52. Which option avoids the main UPSC trap concerning Aravalli function?
-
-A. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-D. The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-
-**Answer: D.**
-**Explanation:** The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement. The other options describe different processes, locations, scales or governance categories.
-
-### Q53. Which statement correctly explains Indira Gandhi Canal balance?
-
-A. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-D. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-
-**Answer: A.**
-**Explanation:** Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak. The other options describe different processes, locations, scales or governance categories.
-
-### Q54. Which option is the safest spatial interpretation of Indira Gandhi Canal balance?
-
-A. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-B. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-C. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-D. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-
-**Answer: B.**
-**Explanation:** Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak. The other options describe different processes, locations, scales or governance categories.
-
-### Q55. Which statement preserves the process boundary for Indira Gandhi Canal balance?
-
-A. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-B. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-C. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-D. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-
-**Answer: C.**
-**Explanation:** Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak. The other options describe different processes, locations, scales or governance categories.
-
-### Q56. Which option avoids the main UPSC trap concerning Indira Gandhi Canal balance?
-
-A. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-B. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-
-**Answer: D.**
-**Explanation:** Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak. The other options describe different processes, locations, scales or governance categories.
-
-### Q57. Which statement correctly explains Desertification beyond desert?
-
-A. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-D. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-
-**Answer: A.**
-**Explanation:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q58. Which option is the safest spatial interpretation of Desertification beyond desert?
-
-A. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-B. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-C. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-D. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-
-**Answer: B.**
-**Explanation:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q59. Which statement preserves the process boundary for Desertification beyond desert?
-
-A. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-B. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-C. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: C.**
-**Explanation:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q60. Which option avoids the main UPSC trap concerning Desertification beyond desert?
-
-A. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Answer: D.**
-**Explanation:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. The other options describe different processes, locations, scales or governance categories.
-
-### Q61. Which statement correctly explains LDN logic?
-
-A. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-B. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-
-**Answer: A.**
-**Explanation:** Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital. The other options describe different processes, locations, scales or governance categories.
-
-### Q62. Which option is the safest spatial interpretation of LDN logic?
-
-A. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-B. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-C. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-D. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-
-**Answer: B.**
-**Explanation:** Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital. The other options describe different processes, locations, scales or governance categories.
-
-### Q63. Which statement preserves the process boundary for LDN logic?
-
-A. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: C.**
-**Explanation:** Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital. The other options describe different processes, locations, scales or governance categories.
-
-### Q64. Which option avoids the main UPSC trap concerning LDN logic?
-
-A. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-D. Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-
-**Answer: D.**
-**Explanation:** Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital. The other options describe different processes, locations, scales or governance categories.
-
-### Q65. Which statement correctly explains Process-matched restoration?
-
-A. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-B. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-C. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-D. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-
-**Answer: A.**
-**Explanation:** Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process. The other options describe different processes, locations, scales or governance categories.
-
-### Q66. Which option is the safest spatial interpretation of Process-matched restoration?
-
-A. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-B. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: B.**
-**Explanation:** Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process. The other options describe different processes, locations, scales or governance categories.
-
-### Q67. Which statement preserves the process boundary for Process-matched restoration?
-
-A. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: C.**
-**Explanation:** Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process. The other options describe different processes, locations, scales or governance categories.
-
-### Q68. Which option avoids the main UPSC trap concerning Process-matched restoration?
-
-A. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-B. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-C. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-D. Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-
-**Answer: D.**
-**Explanation:** Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process. The other options describe different processes, locations, scales or governance categories.
-
-### Q69. Which statement correctly explains Monitoring discipline?
-
-A. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: A.**
-**Explanation:** Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact. The other options describe different processes, locations, scales or governance categories.
-
-### Q70. Which option is the safest spatial interpretation of Monitoring discipline?
-
-A. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-B. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-C. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-D. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-
-**Answer: B.**
-**Explanation:** Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact. The other options describe different processes, locations, scales or governance categories.
-
-### Q71. Which statement preserves the process boundary for Monitoring discipline?
-
-A. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-B. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-C. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-
-**Answer: C.**
-**Explanation:** Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact. The other options describe different processes, locations, scales or governance categories.
-
-### Q72. Which option avoids the main UPSC trap concerning Monitoring discipline?
-
-A. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-B. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-C. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-D. Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-
-**Answer: D.**
-**Explanation:** Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact. The other options describe different processes, locations, scales or governance categories.
-
-### Q73. Which statement correctly explains Verified PYQ boundary?
-
-A. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-B. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-C. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-D. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-
-**Answer: A.**
-**Explanation:** The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q73. Which statement correctly explains Verified PYQ boundary?”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q73. Which statement correctly explains Verified PYQ boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q73. Which statement correctly explains Verified PYQ boundary? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q73. Which statement correctly explains Verified PYQ boundary?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Q73. Which statement correctly explains Verified PYQ boundary?”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
-
-### Q74. Which option is the safest spatial interpretation of Verified PYQ boundary?
-
-A. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-B. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-C. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-
-**Answer: B.**
-**Explanation:** The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** Treat “Q74. Which option is the safest spatial interpretation of Verified PYQ boundary?” as a process, location, scale, terminology and status problem. Verify every statement independently.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q74. Which option is the safest spatial interpretation of Verified PYQ boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q74. Which option is the safest spatial interpretation of Verified PYQ boundary? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q74. Which option is the safest spatial interpretation of Verified PYQ boundary?”.
-
-**Executable exam-length answer / compression plan:** Fix the phenomenon and spatial setting; trace the controlling mechanism; test direction, sequence, threshold and India/world anchor; eliminate the closest term, map or causation distractor.
-
-**Why this earns marks:** It preserves exact process-to-pattern reasoning and prevents a familiar place-name or correlation from substituting for causation.
-
-**How to improve this answer:** For “Q74. Which option is the safest spatial interpretation of Verified PYQ boundary?”, state why the nearest distractor fails on process, direction, scale, location, terminology, date or official status.
-
-### Q75. Which statement preserves the process boundary for Verified PYQ boundary?
-
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-
-**Answer: C.**
-**Explanation:** The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q75. Which statement preserves the process boundary for Verified PYQ boundary?”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q75. Which statement preserves the process boundary for Verified PYQ boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q75. Which statement preserves the process boundary for Verified PYQ boundary? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q75. Which statement preserves the process boundary for Verified PYQ boundary?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Q75. Which statement preserves the process boundary for Verified PYQ boundary?”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
-
-### Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary?
-
-A. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-B. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-C. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-D. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only.
-
-**Answer: D.**
-**Explanation:** The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. The other options describe different processes, locations, scales or governance categories.
-
-### Q77. Which statement correctly explains Current evidence boundary?
-
-A. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-B. A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-C. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-D. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-
-**Answer: A.**
-**Explanation:** SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. The other options describe different processes, locations, scales or governance categories.
-
-### Q78. Which option is the safest spatial interpretation of Current evidence boundary?
-
-A. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-B. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-C. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-D. Subtropical subsidence, continentality, rain shadow, cold currents and polar cold can create deserts; heat alone is neither necessary nor sufficient.
-
-**Answer: B.**
-**Explanation:** SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. The other options describe different processes, locations, scales or governance categories.
-
-### Q79. Which statement preserves the process boundary for Current evidence boundary?
-
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-C. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-D. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-
-**Answer: C.**
-**Explanation:** SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. The other options describe different processes, locations, scales or governance categories.
-
-### Q80. Which option avoids the main UPSC trap concerning Current evidence boundary?
-
-A. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-B. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-C. A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-D. SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Answer: D.**
-**Explanation:** SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. The other options describe different processes, locations, scales or governance categories.
+- **A (incorrect):** One grain without geometry or context cannot assign a whole landform.
+- **B (correct):** Form and agent distinguish wind erosion from water deposition.
+- **C (incorrect):** Aridity permits both wind and ephemeral water processes.
+- **D (incorrect):** Land use and one dry image cannot resolve formative mechanism.
+- **Trap:** Desert landform diagnosis needs spatial pattern and sediment evidence.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary?” as a process, location, scale, terminology and status problem. Verify every statement independently.
+**Verified-route boundary:** The paired workbook and source owner do not provide a verified direct historical objective or descriptive PYQ for this topic. The six prompts below are explicitly original practice, not re-labelled PYQs; no official answer key is invented. The concepts also support related UPSC dryland and land-use demands without claiming question ownership.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. The central routing ledger assigns the 2020 desertification demand to Environment and Ecology, and the checked ledgers contain no direct Geography Topic 07 route; those questions remain cross-owner context only. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary?”.
-
-**Executable exam-length answer / compression plan:** Fix the phenomenon and spatial setting; trace the controlling mechanism; test direction, sequence, threshold and India/world anchor; eliminate the closest term, map or causation distractor.
-
-**Why this earns marks:** It preserves exact process-to-pattern reasoning and prevents a familiar place-name or correlation from substituting for causation.
-
-**How to improve this answer:** For “Q76. Which option avoids the main UPSC trap concerning Verified PYQ boundary?”, state why the nearest distractor fails on process, direction, scale, location, terminology, date or official status.
-
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
-
-TRANSPARENT ZERO-DIRECT-PYQ AUDIT: the central Mains ledger routes the 2020 desertification demand to Environment and Ecology, and no direct Topic 07 objective route appears in the checked central ledgers. Cross-owned questions remain conceptual context, not claimed Geography PYQs.
+## ORIGINAL MAINS PRACTICE — FULL MODEL ANSWERS
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Differentiate desert, aridity, drought, land degradation and desertification. Answer in about 150 words.
+**Question:** Differentiate desert, aridity, drought, land degradation and desertification. (10 marks; 150 words.)
 
-**Model thesis:** The concepts occupy different climatic, temporal and ecological levels; policy fails when they are collapsed.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-- The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-
-**Qualified conclusion:** The concepts occupy different climatic, temporal and ecological levels; policy fails when they are collapsed.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate desert, aridity, drought, land degradation and desertification. Answer in about…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The concepts occupy different climatic, temporal and ecological levels; policy fails when they are collapsed.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The concepts occupy different climatic, temporal and ecological levels; policy fails when they are collapsed.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Differentiate desert, aridity, drought, land degradation and desertification. Answer in about…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** A desert is a geographical environment of persistent water limitation; it need not consist only of sand. Aridity denotes a long-term climatic imbalance between available moisture and atmospheric demand, whereas drought is an abnormal, temporary deficit relative to a place’s normal conditions. Land degradation means decline in land condition or ecosystem productivity arising from interacting land use and environmental processes. Desertification is land degradation in drylands, not the outward march of all natural deserts. Thus an irrigated Thar field can green even as salinity or waterlogging damages its soil; conversely an undisturbed mobile dune is not necessarily proof of anthropogenic degradation. A rain shadow can create climatic aridity, but overgrazing can accelerate soil loss on its margin. Diagnosis needs rainfall history, land cover, soil condition and management, rather than a one-date vegetation image.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain how wind and episodic water jointly create arid landforms. Answer in about 150 words.
+**Question:** Explain how wind and episodic water jointly create arid landforms. (10 marks; 150 words.)
 
-**Model thesis:** Aeolian erosion and deposition interact with weathering, flash runoff, fan building, playa flooding and evaporation.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff.
-- Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces.
-- Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering.
-- A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes.
-- Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology.
-
-**Qualified conclusion:** Aeolian erosion and deposition interact with weathering, flash runoff, fan building, playa flooding and evaporation.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how wind and episodic water jointly create arid landforms. Answer in about 150 words.”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Aeolian erosion and deposition interact with weathering, flash runoff, fan building, playa flooding and evaporation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Large thermal ranges, salt crystallisation and episodic wetting weaken exposed rock, while sparse cover leaves debris available to wind and flash runoff. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Wind moves coarse particles mainly by surface creep, sand by saltation and fine dust by suspension; deflation removes loose material and abrasion sandblasts exposed surfaces. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Deflation hollows, desert pavement, ventifacts, yardangs, zeugens, rock pedestals and inselbergs reflect different combinations of wind, structure and weathering. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** A barchan has horns pointing downwind under limited sand and one prevailing wind; transverse, longitudinal, parabolic and star dunes indicate different sand, vegetation and wind regimes. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** Wadis, alluvial fans, bajadas, pediments, playas and salt flats show that episodic runoff and evaporation are integral to desert geomorphology. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Aeolian erosion and deposition interact with weathering, flash runoff, fan building, playa flooding and evaporation.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Explain how wind and episodic water jointly create arid landforms. Answer in about 150 words.”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** Weathering makes loose debris available. Wind deflates fine grains, leaving stony desert pavement or a blowout, and sand-laden air abrades ventifacts, yardangs and sometimes pedestal rocks. Grains creep or saltate near the ground while fine dust remains suspended and may settle as loess outside the desert. Where supply and wind regime permit, migrating sand forms downwind-horned barchans or longitudinal seif ridges. Yet even infrequent rain can generate powerful unconfined runoff on bare terrain. Flash floods scour wadis, spread alluvial fans where a valley opens onto a plain, and carry fines into closed basins, where playas form after evaporation. Mountain-front pediments can reflect slope retreat and sheetwash. Thus desert geomorphology is a coupled sediment cycle: wind redistributes dry material, while episodic water excavates, sorts and deposits it.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Describe the Thar as a dynamic geomorphic and livelihood mosaic rather than a uniform sand sea. Answer in about 250 words.
+**Question:** Describe the Thar as a dynamic geomorphic and livelihood mosaic. (15 marks; 250 words.)
 
-**Model thesis:** Dunes, pediments, playas, drainage, ecological pulses and human adaptation create regional diversity.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg.
-- Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods.
-- The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe.
-
-**Qualified conclusion:** Dunes, pediments, playas, drainage, ecological pulses and human adaptation create regional diversity.
-
-**Demand decoding:** The directive **describe** requires a direct position on “Describe the Thar as a dynamic geomorphic and livelihood mosaic rather than a uniform sand…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Dunes, pediments, playas, drainage, ecological pulses and human adaptation create regional diversity.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Thar includes dune fields, interdunes, rocky residuals, pediments, alluvium, playas, settlements and canal-modified tracts; it is not one continuous erg. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Highly variable rainfall, high evaporative demand, ephemeral drainage and pulse-based productivity support drought-adapted vegetation, pastoral mobility and risk-spreading livelihoods. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** The Thar is polygenetic: tectonic and drainage history, monsoon variability, wind reworking and human land use operated over different timescales; one-cause origin claims are unsafe. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Dunes, pediments, playas, drainage, ecological pulses and human adaptation create regional diversity.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Describe the Thar as a dynamic geomorphic and livelihood mosaic rather than a uniform sand…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** The Thar cannot be represented by one permanently mobile dune. Aeolian ridges and interdune flats alternate with rocky residuals, dry channels, settlements, grazing areas and irrigated fields. Desert climate reflects persistent water deficit, but monsoon variability controls vegetation and short-lived surface flow. Wind deflation, grain saltation and dune migration coexist with sudden runoff into channels and local depositional hollows. Soil, vegetation and land use therefore differ between sites. Pastoral movement and dryland cultivation are adapted to seasonal uncertainty; irrigation from the Indira Gandhi Canal can stabilise sand and support farms in suitable places, while poor drainage can raise the water table, cause waterlogging and concentrate salts. Disturbance of vegetation on the Aravalli margin can leave soil more exposed to wind and runoff. Satellite greening at one site is not proof that a whole region has ceased to be arid or that soil quality has recovered. Compare changes in cover, rain, salinity and groundwater by place and season. Protect native dryland ecosystems while targeting the actual local cause of degradation.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Assess the role of the Aravalli and the Indira Gandhi Canal in shaping desertification risk. Answer in about 250 words.
+**Question:** Assess Aravalli and Indira Gandhi Canal roles in desertification risk. (15 marks; 250 words.)
 
-**Model thesis:** Both alter spatial processes and livelihoods, but neither is a single-direction barrier or cure.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement.
-- Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak.
-
-**Qualified conclusion:** Both alter spatial processes and livelihoods, but neither is a single-direction barrier or cure.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the role of the Aravalli and the Indira Gandhi Canal in shaping desertification risk.…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Both alter spatial processes and livelihoods, but neither is a single-direction barrier or cure.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Aravalli influences relief, drainage, habitat connectivity and local erosion control, but it is not a complete wall that mechanically blocks all desert movement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Canal irrigation can support farming, water supply and settlement while seepage, waterlogging, salinity, invasive spread and crop-water mismatch create new risks where drainage is weak. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Both alter spatial processes and livelihoods, but neither is a single-direction barrier or cure.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Assess the role of the Aravalli and the Indira Gandhi Canal in shaping desertification risk.…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** The Aravalli landscape and canal irrigation affect land degradation by different pathways. Vegetation and intact soils on the Aravalli slopes and adjoining tracts reduce exposure of fine soil to wind and episodic runoff. Mining, grazing pressure and loss of cover may intensify erosion, but the hills are not a perfect wall that physically stops every desert wind. In western Rajasthan, Indira Gandhi Canal water can enable cultivation and local vegetative cover, stabilising some dunes and diversifying livelihoods. Nevertheless, heavy irrigation without suitable drainage can elevate groundwater, waterlog root zones and bring salts to the surface under high evaporation. Such deterioration can coexist with increased green cover. Conversely rainfall variation can also influence observed greenness. Land assessment should compare groundwater depth and quality, soil salinity, plant cover and productivity before and after change, not simply count irrigated area. Manage slope cover and extraction in the Aravalli; in command areas align application with water demand, monitor drainage and salts and protect natural arid habitats. Different mechanisms require different remedies.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate the drivers of Thar desertification and propose a process-matched restoration strategy. Answer in about 300 words.
+**Question:** Evaluate drivers of Thar desertification and design process-matched restoration. (20 marks; 300 words.)
 
-**Model thesis:** Natural susceptibility becomes degradation when pressures exceed recovery; responses must target cover, soil, water, salinity and institutions.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation.
-- Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds.
-- Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process.
-- Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact.
-
-**Qualified conclusion:** Natural susceptibility becomes degradation when pressures exceed recovery; responses must target cover, soil, water, salinity and institutions.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the drivers of Thar desertification and propose a process-matched restoration…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Natural susceptibility becomes degradation when pressures exceed recovery; responses must target cover, soil, water, salinity and institutions.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Low and variable rainfall, erodible sediment, strong winds, saline basins and slow biological recovery create susceptibility without proving degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Vegetation removal, poorly managed grazing, repeated tillage, groundwater stress, mining, infrastructure fragmentation and unsuitable irrigation can exceed recovery thresholds. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Dune stabilisation, shelterbelts, native grass and rangeland recovery, watershed treatment, drainage, salinity management and community institutions must match the diagnosed process. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** Land-cover change, vegetation productivity, soil carbon and field indicators need scale, baseline and causal interpretation; mapped degradation is not automatically current condition or programme impact. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Natural susceptibility becomes degradation when pressures exceed recovery; responses must target cover, soil, water, salinity and institutions.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Evaluate the drivers of Thar desertification and propose a process-matched restoration…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** First distinguish natural aridity and active aeolian forms from degradation of land condition. The Thar contains dune systems, rocky ground, pasture and irrigated tracts; a uniform intervention would obscure their different pressures. Grazing above local carrying capacity can remove cover and expose loose soil to saltation and runoff. Extraction or fragmentation of Aravalli-margin vegetation may accelerate erosion. Canal command areas can gain crop cover but develop waterlogging and salinity if application and drainage are mismanaged. Monsoon variability modifies each trend; a dry satellite image alone cannot establish permanent land loss. Match remedies to mechanisms: manage stocking and restore appropriate grassland on exposed pastures; protect soil and vegetation on vulnerable slopes; retain native dune ecology rather than stabilise every dune; schedule irrigation by demand and monitor groundwater, drainage and salts where the canal operates. Use seasonal, multi-year indicators of vegetation, soil productivity and soil condition to judge land degradation neutrality, while considering local livelihoods. Success means avoiding new degradation, reducing ongoing pressures and restoring already impaired sites, not replacing all drylands with cropland. Verify each intervention against water availability, maintenance and possible harm elsewhere.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Justify the proposition that desertification does not have simple climatic boundaries while retaining UNCCD precision. Answer in about 300 words.
+**Question:** Justify why desertification has no simple visual climatic boundary while retaining UNCCD precision. (20 marks; 300 words.)
 
-**Model thesis:** Use broad degradation mechanisms across climates, then explicitly preserve the Convention's dryland definition.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation.
-- The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation.
-- Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital.
-- SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome.
-
-**Qualified conclusion:** Use broad degradation mechanisms across climates, then explicitly preserve the Convention's dryland definition.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Justify the proposition that desertification does not have simple climatic boundaries while…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Use broad degradation mechanisms across climates, then explicitly preserve the Convention's dryland definition.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A desert is a climatic region, aridity a long-term moisture deficit, drought a temporary anomaly, land degradation a broad decline in condition, and desertification dryland degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** The 2020 GS-I wording invites examples beyond visible deserts, but strict UNCCD usage confines desertification to arid, semi-arid and dry sub-humid lands; humid cases are broader land degradation. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Land Degradation Neutrality seeks to balance anticipated losses with measures that avoid, reduce and reverse degradation while protecting land-based natural capital. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** SAC's Desertification Status Mapping Atlas is an official dated mapping baseline and UNCCD's 2026 material keeps restoration current; neither licenses an invented current Thar percentage or COP outcome. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Use broad degradation mechanisms across climates, then explicitly preserve the Convention's dryland definition.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Justify the proposition that desertification does not have simple climatic boundaries while…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+**Model answer:** Desertification is degradation of land in arid, semi-arid and dry sub-humid settings, not merely a mobile desert crossing a mapped frontier. Climatic water limitation creates susceptibility, but grazing, cultivation, fuel extraction and irrigation practice influence whether soils, vegetation and productivity actually worsen. Hence the edge of a sand dune is not a line separating healthy land from damaged land. A vegetated Thar site may suffer saline soil under irrigation, while a natural bare dune may be functioning as expected for its ecosystem. A drought may temporarily reduce cover without establishing persistent degradation; repeated pressures can make recovery harder. The phrase no simple climatic boundary means observed land response depends on rain, soils, land use and time, not that *all* humid-region degradation is automatically covered by the UNCCD definition. Assess multi-year land-cover, productivity and soil-carbon or soil-condition evidence with rainfall and groundwater context. Land degradation neutrality aims to balance losses by avoiding damage and restoring suitable sites within planning areas; it does not promise identical performance on every parcel. Target overgrazed pasture, disturbed slopes or salinised canal fields differently and avoid reporting a single greening percentage as recovery of the entire Thar.

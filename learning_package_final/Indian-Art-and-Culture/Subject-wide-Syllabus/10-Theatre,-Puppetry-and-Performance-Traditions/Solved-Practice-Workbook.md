@@ -4,7 +4,7 @@ topic_key: indian-art-and-culture-10
 ---
 # Theatre, Puppetry and Performance Traditions - Solved Practice Workbook
 
-> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, 2 objective/application PYQs with answer-key discipline, 4 direct solved Mains PYQs and 6 full original Mains answers.
+> This standalone workbook carries 44 original MCQs with strict ABCD rotation, 2 objective/application PYQs with answer-key discipline, 4 direct solved Mains PYQs and 6 full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -15,352 +15,436 @@ topic_key: indian-art-and-culture-10
 A. Natya Shastra is best treated as a composite dramaturgic framework joining text, enactment, music and rasa.  
 B. Natya Shastra should be defined only as a manual for later dance schools.  
 C. Natya Shastra is identical with the modern National School of Drama curriculum.  
-D. Natya Shastra proves that every later theatre form remained unchanged across centuries.  
-
-**Answer: A.**
-
-**Explanation:** A is correct because the source-owned bank presents Natya Veda as a composite performance system. B narrows theatre into dance alone, C confuses an ancient dramaturgic text with a modern institution, and D turns a layered textual tradition into an unsound continuity claim.
+D. Natya Shastra proves that every later theatre form remained unchanged across centuries.
 
 ### Q2. Which pair is correctly matched?
 
 A. Lokadharmi - wholly symbolic and stylised narration  
 B. Natyadharmi - conventional, stylised and symbolic narration  
 C. Lokadharmi - only temple ritual without dramatic representation  
-D. Natyadharmi - modern ticketed proscenium theatre  
-
-**Answer: B.**
-
-**Explanation:** B is correct. Lokadharmi refers to realistic depiction of life, whereas Natyadharmi denotes stylised, conventional narration. A reverses the pair, C invents a ritual restriction, and D confuses an ancient dramaturgic mode with a modern theatre economy.
+D. Natyadharmi - modern ticketed proscenium theatre
 
 ### Q3. Which option correctly preserves the source-owned ten-rupaka list?
 
 A. Nataka, Prakarana, Vilasa, Vithi, Rasaka, Uparupaka, Bhana, Natika, Chitra and Kavya  
 B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Natyam and Utsava  
 C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka  
-D. Nataka, Rupaka, Vidushaka, Nayaka, Nayika, Vithi, Dima, Samavakara, Geet and Nritya  
-
-**Answer: C.**
-
-**Explanation:** C is correct because it preserves the list carried in the topic bank. A and B insert forms not given there, while D mixes genre terms with stage roles and generic performance words.
+D. Nataka, Rupaka, Vidushaka, Nayaka, Nayika, Vithi, Dima, Samavakara, Geet and Nritya
 
 ### Q4. Which statement about the Sutradhar is correct?
 
 A. The Sutradhar is merely the hero's comic companion.  
 B. The Sutradhar is only the puppeteer's string and never a theatre figure.  
 C. The Sutradhar is the title of every Sanskrit play.  
-D. The Sutradhar conducts the opening threshold of the play and in puppetry the term can also evoke the holder of strings.  
-
-**Answer: D.**
-
-**Explanation:** D is correct. A describes the Vidusaka, B erases the classical stage role, and C confuses a functionary with the title of a play.
+D. The Sutradhar conducts the opening threshold of the play and in puppetry the term can also evoke the holder of strings.
 
 ### Q5. Which statement about character and language register in Sanskrit theatre is safest?
 
 A. The Vidusaka is a comic-satirical figure who traditionally speaks Prakrit while others use Sanskrit.  
 B. The Nayika is the stage manager who announces time and place.  
 C. The Nayaka is the leather shadow puppet projected against a lit screen.  
-D. Language register has no role in classical theatre according to the source bank.  
-
-**Answer: A.**
-
-**Explanation:** A is correct. B confuses Nayika with Sutradhar, C confuses a character category with puppetry, and D ignores the explicit Vidusaka/Prakrit clue.
+D. Language register has no role in classical theatre according to the source bank.
 
 ### Q6. Which statement about Sanskrit play conventions is safest?
 
 A. All Sanskrit plays were historical chronicles without codified dramatic structure.  
 B. The source records multi-act plays, rare tragedy, ordered dramatic progression and endings that restore success or order.  
 C. Masks were always mandatory in Bharata's stage prescription.  
-D. The stage had no ritual opening or framed entry.  
-
-**Answer: B.**
-
-**Explanation:** B is correct because it summarises the recorded conventions. A ignores dramaturgic codification, C reverses the source note that masks were not used in Bharata's prescription, and D erases the ritualised opening with the Sutradhar.
+D. The stage had no ritual opening or framed entry.
 
 ### Q7. Which statement about Sitabenga and Jogimara is safest for UPSC use?
 
 A. They prove beyond dispute the exact architectural form of every ancient Sanskrit theatre.  
 B. They are irrelevant because archaeology can never speak to performance history.  
 C. They are linked by some scholars to performance, but the popular 'world's oldest amphitheatre' claim should remain qualified, not asserted as settled fact.  
-D. They are the same as the Kerala koothambalam tradition.  
-
-**Answer: C.**
-
-**Explanation:** C is correct because it preserves the evidentiary limit. A overclaims, B swings to an opposite absolute, and D collapses unrelated performance contexts.
+D. They are the same as the Kerala koothambalam tradition.
 
 ### Q8. Which statement best identifies Kutiyattam?
 
 A. It is a Marathi commercial theatre of the Parsi era.  
 B. It is an Assamese one-act Vaishnavite play of Sankardeva's school.  
 C. It is a Gujarati pot-balancing folk theatre performed by the Nayaka.  
-D. It is a living Kerala Sanskrit-theatre lineage marked by multilingual performance, Nirvahana and instruments such as Mizhavu and Edakka.  
-
-**Answer: D.**
-
-**Explanation:** D is correct. A points to modern western-Indian commercial theatre, B to Ankia Naat/Bhaona, and C to Bhavai.
+D. It is a living Kerala Sanskrit-theatre lineage marked by multilingual performance, Nirvahana and instruments such as Mizhavu and Edakka.
 
 ### Q9. Which statement about the official UNESCO route for Kutiyattam is safest?
 
 A. UNESCO describes it as one of India's oldest living theatrical traditions and records its inscription in 2008 on the Representative List.  
 B. UNESCO treats it as proof that all Sanskrit theatre everywhere survives unchanged.  
 C. UNESCO uses Kutiyattam to create the ten-rupaka list.  
-D. UNESCO classifies it as a puppetry mechanism rather than theatre.  
-
-**Answer: A.**
-
-**Explanation:** A is correct and keeps the official page within bounds. B invents a continuity claim, C confuses inscription with dramaturgic theory, and D misclassifies the form entirely.
+D. UNESCO classifies it as a puppetry mechanism rather than theatre.
 
 ### Q10. Which sequence best captures the core folk-theatre arc in the source bank?
 
 A. Court tragedy -> museum display -> digital cinema  
 B. Devotional themes -> romance/local heroes -> social messages alongside entertainment  
 C. Ancient republic drama -> colonial bureaucracy -> postmodern absurdism  
-D. Only martial training -> only temple ritual -> only tourism  
-
-**Answer: B.**
-
-**Explanation:** B is correct because it follows the source-owned developmental arc. The other options invent trajectories that are not the topic's teaching spine.
+D. Only martial training -> only temple ritual -> only tourism
 
 ### Q11. Which pair is correctly matched?
 
 A. Yakshagana - a rod-puppet form of Bihar  
 B. Nautanki - a Kerala temple shadow theatre using oil lamps  
 C. Bhavai - a Gujarat folk theatre in which dance, semi-classical folk music and balancing vessels are major identifiers  
-D. Jatra - a glove-puppet form of Rajasthan  
-
-**Answer: C.**
-
-**Explanation:** C is correct. A confuses Yakshagana with rod puppetry, B mixes Nautanki with Tolpava Kuthu, and D misclassifies Jatra as puppetry.
+D. Jatra - a glove-puppet form of Rajasthan
 
 ### Q12. Which statement should be avoided in a theatre answer?
 
 A. Many folk theatres are rooted in locality, belief and custom.  
 B. Some current region labels are modern locators rather than ancient state proofs.  
 C. Folk theatre can carry devotional, romantic and social-message layers across time.  
-D. All folk theatre forms may safely be treated as unchanged ancient survivals with fixed modern-state identities.  
-
-**Answer: D.**
-
-**Explanation:** D is the unsafe statement because it collapses historical change and overprojects modern geography backwards. A, B and C are the safe analytical controls provided by the topic spine.
+D. All folk theatre forms may safely be treated as unchanged ancient survivals with fixed modern-state identities.
 
 ### Q13. Which statement about modern Indian theatre is correct?
 
 A. It grew in the colonial era as an urban hybrid influenced by Sanskrit and Western texts, especially in proscenium-style centres such as Calcutta and Madras.  
 B. It emerged only after 1947 and had no colonial background.  
 C. It developed only in temples and never on commercial stages.  
-D. It rejected social and political themes throughout the colonial period.  
-
-**Answer: A.**
-
-**Explanation:** A is correct because it captures the colonial-urban hybrid character of modern theatre. B, C and D contradict the source bank's account of commercial stages and politically sensitive themes.
+D. It rejected social and political themes throughout the colonial period.
 
 ### Q14. Which statement about Parsi theatre is safest?
 
 A. It belonged only to Assam's Vaishnavite monastery culture.  
 B. It flourished in western India from the 1850s to the 1920s, used colourful backdrops and music, and later fed into film-making.  
 C. It was the ancient Sanskrit stage described by Bharata.  
-D. It is another name for Bhavai's Nayaka-led folk theatre.  
-
-**Answer: B.**
-
-**Explanation:** B is correct. A confuses it with Assamese devotional theatre, C with classical Sanskrit dramaturgy, and D with Gujarati folk theatre.
+D. It is another name for Bhavai's Nayaka-led folk theatre.
 
 ### Q15. What is the safest significance of the Dramatic Performances Act, 1876 in this topic?
 
 A. It created the ten rupakas of Bharata.  
 B. It nationalised all folk theatre troupes.  
 C. It shows that theatre had become politically consequential enough for colonial regulation.  
-D. It marks UNESCO's inscription of Kutiyattam.  
-
-**Answer: C.**
-
-**Explanation:** C is correct. A and D confuse unrelated chronology, while B is a fabricated policy claim.
+D. It marks UNESCO's inscription of Kutiyattam.
 
 ### Q16. Which statement about post-Independence theatre organisation is correct?
 
 A. IPTA was a medieval Vaishnavite theatre school.  
 B. Prithvi Theatre began as a temple stage in Odisha.  
 C. The National School of Drama was the first Sanskrit theatre described by Bharata.  
-D. IPTA organised socially engaged theatre, Prithvi used a touring model, and institutions such as SNA and NSD helped consolidate theatre training after Independence.  
-
-**Answer: D.**
-
-**Explanation:** D is correct because it distinguishes three modern nodes properly. A, B and C each misplace a modern institution into an unrelated historical field.
+D. IPTA organised socially engaged theatre, Prithvi used a touring model, and institutions such as SNA and NSD helped consolidate theatre training after Independence.
 
 ### Q17. Which statement about Binodini Dasi is safest?
 
 A. She is a high-value example for Bengali theatre professionalism, the Star Theatre story and women's visibility on the modern stage.  
 B. She was the author of Natya Shastra.  
 C. She founded the Sangeet Natak Akademi in 1952.  
-D. She was the principal puppeteer of Kathputli in Rajasthan.  
-
-**Answer: A.**
-
-**Explanation:** A is correct. B, C and D attribute unrelated roles and institutions to Binodini Dasi.
+D. She was the principal puppeteer of Kathputli in Rajasthan.
 
 ### Q18. Which statement correctly identifies Badal Sircar's contribution?
 
 A. He created the leather shadow puppets of Ravana Chhaya.  
 B. He pioneered Third Theatre: small, experimental, socially conscious performance with minimalist staging and direct actor-audience interaction.  
 C. He led the Chakyar-Nambiar Kutiyattam lineage in Kerala.  
-D. He founded the Calcutta Theatre in 1775.  
-
-**Answer: B.**
-
-**Explanation:** B is correct. A belongs to shadow puppetry, C to Kutiyattam's hereditary performance world, and D to a much earlier venue chronology.
+D. He founded the Calcutta Theatre in 1775.
 
 ### Q19. Which classification best organises Indian puppetry?
 
 A. Temple, court, marketplace and cinema  
 B. Heroic, romantic, satirical and tragic  
 C. String, shadow, rod and glove  
-D. Sanskrit, Prakrit, Brajavali and Malayalam  
-
-**Answer: C.**
-
-**Explanation:** C is correct because mechanism is the formal classificatory basis used in the source. The other options sort by venue, theme or language rather than puppet control.
+D. Sanskrit, Prakrit, Brajavali and Malayalam
 
 ### Q20. Which regional-mechanism match is correct?
 
 A. Kundhei - glove puppetry of Kerala  
 B. Pavakoothu - shadow puppetry of Odisha  
 C. Ravana Chhaya - rod puppetry of Bihar  
-D. Kathputli - string puppetry of Rajasthan using legless dolls controlled by strings tied to the fingers  
-
-**Answer: D.**
-
-**Explanation:** D is correct. Kundhei is a string tradition of Odisha, Pavakoothu is a glove tradition of Kerala, and Ravana Chhaya is shadow puppetry of Odisha rather than rod puppetry of Bihar.
+D. Kathputli - string puppetry of Rajasthan using legless dolls controlled by strings tied to the fingers
 
 ### Q21. Which statement about shadow puppetry is correct?
 
 A. Shadow puppets are flat leather or opaque figures projected on a lit screen to create silhouettes.  
 B. Shadow puppets are always carved from a single block of wood and manipulated by waist rods.  
 C. Shadow puppets are necessarily legless marionettes controlled only by fingers.  
-D. Shadow puppetry has no role for light or screen.  
-
-**Answer: A.**
-
-**Explanation:** A is correct because light-screen projection is the defining mechanism. B describes a rod-puppet tendency, C string puppetry, and D erases the core technical basis of shadow theatre.
+D. Shadow puppetry has no role for light or screen.
 
 ### Q22. Which statement about rod, glove and hybrid puppetry is safest?
 
 A. Putul Nach is the Kerala glove tradition shaped by Kathakali.  
 B. Pavakoothu is the classic glove example, rod traditions such as Yampuri or Putul Nach scale the figure up, and Bommalattam is a useful hybrid caution because it mixes rod and string control.  
 C. All rod and glove forms are too small to need accompaniment or narration.  
-D. Bommalattam proves that the four basic mechanisms are false and meaningless.  
-
-**Answer: B.**
-
-**Explanation:** B is correct. A confuses Putul Nach with Pavakoothu, C ignores performance ecology, and D mistakes a hybrid exception for the collapse of the main classification.
+D. Bommalattam proves that the four basic mechanisms are false and meaningless.
 
 ### Q23. Which statement best captures puppetry as archive?
 
 A. Puppetry matters only as low-cost amusement with no intellectual or cultural transmission value.  
 B. Puppetry can be explained without reference to mechanism, narration or regional ecology.  
 C. Puppetry's links to epic references, Silappadikaram, the Bhagavad Gita's puppeteer metaphor and the Sutradhar idea let it be read as a transmission medium as well as performance.  
-D. Puppetry is a modern invention of film-era children's culture.  
-
-**Answer: C.**
-
-**Explanation:** C is correct because it keeps the topic's deeper interpretive value. A and D trivialise the form, while B removes the very features that make classification and interpretation possible.
+D. Puppetry is a modern invention of film-era children's culture.
 
 ### Q24. Which statement about the present condition of puppetry is safest?
 
 A. The source treats puppetry as a fully secure art with no present challenges.  
 B. The only valid response to puppetry is museum preservation because it is no longer performed.  
 C. Puppetry's difficulties are identical to the historical decline of Sanskrit theatre.  
-D. The source explicitly notes an ongoing funding-and-audience crisis in puppetry and therefore points toward living safeguarding, with Anupama Hoskere/Dhaatu as a named revival example.  
-
-**Answer: D.**
-
-**Explanation:** D is correct because it preserves the present-tense vulnerability and the named revival example. A denies the source, B erases living practice, and C confuses two different decline types.
+D. The source explicitly notes an ongoing funding-and-audience crisis in puppetry and therefore points toward living safeguarding, with Anupama Hoskere/Dhaatu as a named revival example.
 
 ### Q25. Which statement about Kalaripayattu is correct?
 
 A. It is a martial tradition associated especially with Kerala, marked by footwork, mock duels and a training-space logic implied by the word kalari.  
 B. It is a Vaishnavite shadow-puppet performance of coastal Karnataka.  
 C. It is a Gujarati folk theatre built around pot-balancing.  
-D. It is the same as the Prakrit-speaking Vidusaka role in Sanskrit theatre.  
-
-**Answer: A.**
-
-**Explanation:** A is correct. B confuses it with folk or puppetry forms, C with Bhavai, and D with a classical stage role.
+D. It is the same as the Prakrit-speaking Vidusaka role in Sanskrit theatre.
 
 ### Q26. Which statement correctly matches martial-performance traditions?
 
 A. Gatka belongs to the Chakyar temple-theatre lineage of Kerala.  
 B. Thang-ta is a Meitei martial tradition of Manipur centred on sword and spear, while Pari-khanda is associated with sword-and-shield practice in Bihar and has links to Chhau movement vocabulary.  
 C. Silambam is a rod-puppet form of eastern India.  
-D. Pari-khanda is a Marathi commercial theatre founded in 1944.  
-
-**Answer: B.**
-
-**Explanation:** B is correct because it preserves region and weapon logic. A misplaces Gatka, C confuses martial art with puppetry, and D turns a martial practice into a modern theatre company.
+D. Pari-khanda is a Marathi commercial theatre founded in 1944.
 
 ### Q27. Which statement best captures the ritual-devotional-public performance ecology of this topic?
 
 A. All performance traditions in Topic 10 are reducible to dance grammar and should be answered under Topic 09.  
 B. Any form with musical accompaniment automatically belongs to Topic 08 instead of theatre.  
 C. Forms may be ritual, devotional, satirical, martial or public-entertainment oriented; the safest answer identifies the dominant ecology before discussing borrowed movement or music.  
-D. Only Sanskrit theatre deserves analytical treatment; folk and ritual forms are too mixed to classify.  
-
-**Answer: C.**
-
-**Explanation:** C is correct because it provides the topic's functional classification rule. A and B erase ownership boundaries, while D ignores the whole folk-performance bank.
+D. Only Sanskrit theatre deserves analytical treatment; folk and ritual forms are too mixed to classify.
 
 ### Q28. Which statement should be avoided in a question on martial or ritual performance?
 
 A. A form may shift between combat training and choreographed public display.  
 B. Weapon, pedagogy and occasion are better discriminators than generic antiquity claims.  
 C. Borrowing movement from dance does not automatically convert a martial performance into a classical dance form.  
-D. Every martial or ritual performance may be written as the same timeless, unchanging ancient Indian art without separate regional grammar.  
-
-**Answer: D.**
-
-**Explanation:** D is the unsafe statement because it destroys regional and functional specificity. A, B and C are the safe control lines for this mixed performance field.
+D. Every martial or ritual performance may be written as the same timeless, unchanging ancient Indian art without separate regional grammar.
 
 ### Q29. Which boundary statement is safest?
 
 A. Topic 10 owns dramatic composition, stage relation and puppet mechanism, while music systems, dance grammar, literary history and the full UNESCO/SNA ledgers belong elsewhere.  
 B. Topic 10 should retell the whole history of raga and tala because theatre uses music.  
 C. Topic 10 must absorb every classical-dance technical question because some theatre forms use gesture.  
-D. Topic 10 is identical with Topic 11 because plays are written texts.  
-
-**Answer: A.**
-
-**Explanation:** A is correct because it preserves syllabus ownership and prevents duplication. B, C and D each erase necessary boundaries with Music, Dance or Literature.
+D. Topic 10 is identical with Topic 11 because plays are written texts.
 
 ### Q30. Which modern-theatre sequence is correctly ordered in broad terms?
 
 A. NSD independence -> Natya Shastra -> Calcutta Theatre -> Parsi theatre  
 B. Colonial urban proscenium -> commercial stage and censorship -> political and touring theatre -> post-Independence institutional consolidation  
 C. UNESCO inscription -> ten rupakas -> Bhakti-era Jatra -> Chakyar temple theatre  
-D. Puppetry decline -> Harappan origin -> Third Theatre -> Sanskrit stage  
-
-**Answer: B.**
-
-**Explanation:** B is correct because it follows the topic's actual chronology. The other options scramble chronology or merge unrelated subfields.
+D. Puppetry decline -> Harappan origin -> Third Theatre -> Sanskrit stage
 
 ### Q31. Which concluding statement about decline and safeguarding is safest?
 
 A. Sanskrit theatre and puppetry represent exactly the same kind of decline and therefore need the same answer.  
 B. Kutiyattam proves that no historical contraction of Sanskrit theatre ever took place.  
 C. The topic is analytically strongest when it separates the historical contraction of Sanskrit theatre from the ongoing audience-and-livelihood vulnerability of living puppetry and related performance traditions.  
-D. Once a form is old, safeguarding becomes irrelevant because age guarantees continuity.  
-
-**Answer: C.**
-
-**Explanation:** C is correct because it preserves the advanced distinction between completed historical contraction and ongoing living vulnerability. A, B and D each flatten a key analytical difference.
+D. Once a form is old, safeguarding becomes irrelevant because age guarantees continuity.
 
 ### Q32. Which final statement should be avoided?
 
 A. Use one discriminating feature to identify each theatre or puppetry form.  
 B. Keep present state labels as reference tools rather than ancient political certainties.  
 C. Treat living traditions as performance ecologies involving artists, audiences and institutions.  
-D. All folk, puppet and performance traditions may be safely reduced to colourful leftovers once Sanskrit theatre declined.  
+D. All folk, puppet and performance traditions may be safely reduced to colourful leftovers once Sanskrit theatre declined.
 
-**Answer: D.**
 
-**Explanation:** D is the false and unsafe conclusion because it trivialises living traditions and destroys the topic's analytical structure. A, B and C are safe closing controls.
+
+### Q33. Two depictions differ: one imitates ordinary life, the other relies on stylised stage convention. Which exact distinction applies?
+
+A. Lokadharmi for realistic depiction; Natyadharmi for stylised convention.
+
+B. Natyadharmi for daily life; Lokadharmi for stylised convention.
+
+C. Nirvahana for realistic staging; Purva-raga for stylised staging.
+
+D. Bhana for realistic staging; Prakarana for stylised staging.
+
+### Q34. Which stage detail should be attributed to Bharata’s PRESCRIPTION rather than asserted of every archaeological theatre?
+
+A. Every folk stage in India had identical two-storey architecture.
+
+B. An upper celestial and lower terrestrial stage, curtain and no masks in the prescribed setting.
+
+C. All Sanskrit performances prohibited a Sutradhar from appearing.
+
+D. Every theatre in antiquity has been excavated and dated to the Natya Shastra.
+
+### Q35. Which character–language evidence reveals socially marked speech on the Sanskrit stage?
+
+A. The Sutradhar always spoke only Persian and was a masked antagonist.
+
+B. Every Nayika spoke only French and excluded song.
+
+C. The Vidusaka comic friend traditionally spoke Prakrit while other characters spoke Sanskrit.
+
+D. The Nayaka was always a silent puppet speaking no language.
+
+### Q36. A Kerala theatre performer recalls the character’s past in Nirvahana with Mizhavu accompaniment. What is the identification?
+
+A. Jatra, the Bengali open-air theatrical circuit.
+
+B. Tamasha, Maharashtra’s Lavani-linked public theatre.
+
+C. Yakshagana, Karnataka’s regional dance-drama.
+
+D. Kutiyattam, a living multilingual Sanskrit-theatre lineage.
+
+### Q37. Which puppet tradition is correctly linked to BOTH its control and borrowed costume idiom?
+
+A. Karnataka Gombeyatta—strings and Yakshagana-style characters.
+
+B. Karnataka Gombeyatta—rods and Manipuri veils.
+
+C. Odisha Ravana Chhaya—glove puppets and Bhavai costume.
+
+D. Kerala Pavakoothu—shadows with Kathakali’s Attakkatha.
+
+### Q38. A lit screen, silhouette and leather cut-out are observed. Which same-mechanism cross-regional set fits?
+
+A. Kathputli—Rajasthan; Kundhei—Odisha; Gombeyatta—Karnataka.
+
+B. Tholu Bommalata—Andhra; Togalu Gombeyatta—Karnataka; Ravana Chhaya—Odisha.
+
+C. Putul Nach—Bengal; Yampuri—Bihar; Pavakoothu—Kerala.
+
+D. Pavakoothu—Kerala; Kathputli—Rajasthan; Yampuri—Bihar.
+
+### Q39. Which rod-versus-glove pairing is backed by the local mechanism table?
+
+A. Putul Nach—West Bengal strings; Pavakoothu—Kerala shadow.
+
+B. Yampuri—Bihar shadow; Pavakoothu—Kerala rods.
+
+C. Putul Nach—West Bengal rods; Pavakoothu—Kerala glove.
+
+D. Tholu Bommalata—Andhra glove; Ravana Chhaya—Odisha rods.
+
+### Q40. Which pairing separates martial technique and community from visually similar performance?
+
+A. Thang-ta—Tamil staff; Gatka—Kerala weapon system.
+
+B. Thang-ta—Maharashtra armed practice; Gatka—Assamese sattra drama.
+
+C. Thang-ta—Odisha rod puppetry; Gatka—Goa glove theatre.
+
+D. Thang-ta—Manipuri sword/spear; Gatka—Punjab Sikh martial practice.
+
+### Q41. An answer claims puppetry’s crisis and Sanskrit theatre’s contraction have the same documented cause. What correction follows?
+
+A. The Sanskrit stage historically contracted for several cited reasons; puppetry currently faces funding and audience deficits.
+
+B. Both collapsed only because cinemas appeared in the 1930s.
+
+C. Both were formally abolished by the Dramatic Performances Act of 1876.
+
+D. Both survive exclusively as texts and lack any living performers.
+
+### Q42. Which chronological bridge from colonial stage to political and experimental theatre is sound?
+
+A. IPTA 1943 → the Act of 1876 → commercial Parsi stage → Sanskrit Natya Shastra.
+
+B. Parsi commercial stage → Dramatic Performances Act 1876 → IPTA 1943 → Badal Sircar’s Third Theatre.
+
+C. Third Theatre → Star Theatre 1883 → Parsi stage of the 1850s → IPTA 1943.
+
+D. Prithvi permanent Mumbai venue 1978 → IPTA 1943 → colonial censorship 1876 → Calcutta Theatre 1775.
+
+### Q43. Which paired modern performance institution reflects distinct Manipur regional initiatives?
+
+A. Badal Sircar’s Kalakshetra Manipur (1943) and Tagore’s Chorus Repertory (1883).
+
+B. Ratan Thiyam’s Prithvi Theatre (1775) and Binodini’s NINASAM (1952).
+
+C. Heisnam Kanhailal’s Kalakshetra Manipur (1969) and Ratan Thiyam’s Chorus Repertory Theatre (1976).
+
+D. Kanhailal’s SNA (1976) and Prithviraj Kapoor’s Chorus Repertory (1944).
+
+### Q44. How does a puppet tradition operate as a performance archive without asserting uninterrupted stage identity?
+
+A. A Bhagavad Gita metaphor proves every present puppet design existed at Harappa.
+
+B. Ancient textual mentions prove all regional puppet mechanisms have identical origin dates.
+
+C. SNA recognition of a puppeteer proves every endangered troupe has a captive audience.
+
+D. Epic references and the puppeteer metaphor support transmission claims; present-day lineage and audience still need separate evidence.
+
+### ORIGINAL MCQ ANSWER KEY AND FOUR-OPTION REASONING
+
+**Q1 — A.** A is correct because the source-owned bank presents Natya Veda as a composite performance system. B narrows theatre into dance alone, C confuses an ancient dramaturgic text with a modern institution, and D turns a layered textual tradition into an unsound continuity claim. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q2 — B.** B is correct. Lokadharmi refers to realistic depiction of life, whereas Natyadharmi denotes stylised, conventional narration. A reverses the pair, C invents a ritual restriction, and D confuses an ancient dramaturgic mode with a modern theatre economy. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q3 — C.** C is correct because it preserves the list carried in the topic bank. A and B insert forms not given there, while D mixes genre terms with stage roles and generic performance words. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q4 — D.** D is correct. A describes the Vidusaka, B erases the classical stage role, and C confuses a functionary with the title of a play. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q5 — A.** A is correct. B confuses Nayika with Sutradhar, C confuses a character category with puppetry, and D ignores the explicit Vidusaka/Prakrit clue. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q6 — B.** B is correct because it summarises the recorded conventions. A ignores dramaturgic codification, C reverses the source note that masks were not used in Bharata's prescription, and D erases the ritualised opening with the Sutradhar. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q7 — C.** C is correct because it preserves the evidentiary limit. A overclaims, B swings to an opposite absolute, and D collapses unrelated performance contexts. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q8 — D.** D is correct. A points to modern western-Indian commercial theatre, B to Ankia Naat/Bhaona, and C to Bhavai. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q9 — A.** A is correct and keeps the official page within bounds. B invents a continuity claim, C confuses inscription with dramaturgic theory, and D misclassifies the form entirely. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q10 — B.** B is correct because it follows the source-owned developmental arc. The other options invent trajectories that are not the topic's teaching spine. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q11 — C.** C is correct. A confuses Yakshagana with rod puppetry, B mixes Nautanki with Tolpava Kuthu, and D misclassifies Jatra as puppetry. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q12 — D.** D is the unsafe statement because it collapses historical change and overprojects modern geography backwards. A, B and C are the safe analytical controls provided by the topic spine. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q13 — A.** A is correct because it captures the colonial-urban hybrid character of modern theatre. B, C and D contradict the source bank's account of commercial stages and politically sensitive themes. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q14 — B.** B is correct. A confuses it with Assamese devotional theatre, C with classical Sanskrit dramaturgy, and D with Gujarati folk theatre. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q15 — C.** C is correct. A and D confuse unrelated chronology, while B is a fabricated policy claim. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q16 — D.** D is correct because it distinguishes three modern nodes properly. A, B and C each misplace a modern institution into an unrelated historical field. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q17 — A.** A is correct. B, C and D attribute unrelated roles and institutions to Binodini Dasi. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q18 — B.** B is correct. A belongs to shadow puppetry, C to Kutiyattam's hereditary performance world, and D to a much earlier venue chronology. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q19 — C.** C is correct because mechanism is the formal classificatory basis used in the source. The other options sort by venue, theme or language rather than puppet control. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q20 — D.** D is correct. Kundhei is a string tradition of Odisha, Pavakoothu is a glove tradition of Kerala, and Ravana Chhaya is shadow puppetry of Odisha rather than rod puppetry of Bihar. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q21 — A.** A is correct because light-screen projection is the defining mechanism. B describes a rod-puppet tendency, C string puppetry, and D erases the core technical basis of shadow theatre. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q22 — B.** B is correct. A confuses Putul Nach with Pavakoothu, C ignores performance ecology, and D mistakes a hybrid exception for the collapse of the main classification. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q23 — C.** C is correct because it keeps the topic's deeper interpretive value. A and D trivialise the form, while B removes the very features that make classification and interpretation possible. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q24 — D.** D is correct because it preserves the present-tense vulnerability and the named revival example. A denies the source, B erases living practice, and C confuses two different decline types. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q25 — A.** A is correct. B confuses it with folk or puppetry forms, C with Bhavai, and D with a classical stage role. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q26 — B.** B is correct because it preserves region and weapon logic. A misplaces Gatka, C confuses martial art with puppetry, and D turns a martial practice into a modern theatre company. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q27 — C.** C is correct because it provides the topic's functional classification rule. A and B erase ownership boundaries, while D ignores the whole folk-performance bank. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q28 — D.** D is the unsafe statement because it destroys regional and functional specificity. A, B and C are the safe control lines for this mixed performance field. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q29 — A.** A is correct because it preserves syllabus ownership and prevents duplication. B, C and D each erase necessary boundaries with Music, Dance or Literature. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q30 — B.** B is correct because it follows the topic's actual chronology. The other options scramble chronology or merge unrelated subfields. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q31 — C.** C is correct because it preserves the advanced distinction between completed historical contraction and ongoing living vulnerability. A, B and D each flatten a key analytical difference. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q32 — D.** D is the false and unsafe conclusion because it trivialises living traditions and destroys the topic's analytical structure. A, B and C are safe closing controls. **Trap:** Check the specific mechanism and period, not generic art-form labels.
+
+**Q33 — A.** **A:** Correct — Core §13.4, Nitin PDF p.501 defines Lokadharmi and Natyadharmi by representational mode. **B:** Incorrect — Natyadharmi for daily life; Lokadharmi for stylised convention. This clashes with Core §13.4, Nitin PDF p.501 defines Lokadharmi and Natyadharmi by representational mode. **C:** Incorrect — Nirvahana for realistic staging; Purva-raga for stylised staging. This clashes with Core §13.4, Nitin PDF p.501 defines Lokadharmi and Natyadharmi by representational mode. **D:** Incorrect — Bhana for realistic staging; Prakarana for stylised staging. This clashes with Core §13.4, Nitin PDF p.501 defines Lokadharmi and Natyadharmi by representational mode. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q34 — B.** **A:** Incorrect — Every folk stage in India had identical two-storey architecture. This clashes with Core §13.4, Nitin PDF p.502 describes a textual staging prescription, not universal archaeological proof. **B:** Correct — Core §13.4, Nitin PDF p.502 describes a textual staging prescription, not universal archaeological proof. **C:** Incorrect — All Sanskrit performances prohibited a Sutradhar from appearing. This clashes with Core §13.4, Nitin PDF p.502 describes a textual staging prescription, not universal archaeological proof. **D:** Incorrect — Every theatre in antiquity has been excavated and dated to the Natya Shastra. This clashes with Core §13.4, Nitin PDF p.502 describes a textual staging prescription, not universal archaeological proof. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q35 — C.** **A:** Incorrect — The Sutradhar always spoke only Persian and was a masked antagonist. This clashes with Core §13.4, Nitin PDF pp.502-503 links Vidusaka to comic critique and Prakrit. **B:** Incorrect — Every Nayika spoke only French and excluded song. This clashes with Core §13.4, Nitin PDF pp.502-503 links Vidusaka to comic critique and Prakrit. **C:** Correct — Core §13.4, Nitin PDF pp.502-503 links Vidusaka to comic critique and Prakrit. **D:** Incorrect — The Nayaka was always a silent puppet speaking no language. This clashes with Core §13.4, Nitin PDF pp.502-503 links Vidusaka to comic critique and Prakrit. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q36 — D.** **A:** Incorrect — Jatra, the Bengali open-air theatrical circuit. This clashes with Core §13.4, Nitin PDF pp.503-504 records Kutiyattam, Nirvahana and Mizhavu. **B:** Incorrect — Tamasha, Maharashtra’s Lavani-linked public theatre. This clashes with Core §13.4, Nitin PDF pp.503-504 records Kutiyattam, Nirvahana and Mizhavu. **C:** Incorrect — Yakshagana, Karnataka’s regional dance-drama. This clashes with Core §13.4, Nitin PDF pp.503-504 records Kutiyattam, Nirvahana and Mizhavu. **D:** Correct — Core §13.4, Nitin PDF pp.503-504 records Kutiyattam, Nirvahana and Mizhavu. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q37 — A.** **A:** Correct — Core §13.6, Nitin PDF pp.540-548 places Gombeyatta in string puppetry with Yakshagana styling. **B:** Incorrect — Karnataka Gombeyatta—rods and Manipuri veils. This clashes with Core §13.6, Nitin PDF pp.540-548 places Gombeyatta in string puppetry with Yakshagana styling. **C:** Incorrect — Odisha Ravana Chhaya—glove puppets and Bhavai costume. This clashes with Core §13.6, Nitin PDF pp.540-548 places Gombeyatta in string puppetry with Yakshagana styling. **D:** Incorrect — Kerala Pavakoothu—shadows with Kathakali’s Attakkatha. This clashes with Core §13.6, Nitin PDF pp.540-548 places Gombeyatta in string puppetry with Yakshagana styling. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q38 — B.** **A:** Incorrect — Kathputli—Rajasthan; Kundhei—Odisha; Gombeyatta—Karnataka. This clashes with Core §13.6 lists the first three as shadow traditions; other sets combine string, rod or glove. **B:** Correct — Core §13.6 lists the first three as shadow traditions; other sets combine string, rod or glove. **C:** Incorrect — Putul Nach—Bengal; Yampuri—Bihar; Pavakoothu—Kerala. This clashes with Core §13.6 lists the first three as shadow traditions; other sets combine string, rod or glove. **D:** Incorrect — Pavakoothu—Kerala; Kathputli—Rajasthan; Yampuri—Bihar. This clashes with Core §13.6 lists the first three as shadow traditions; other sets combine string, rod or glove. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q39 — C.** **A:** Incorrect — Putul Nach—West Bengal strings; Pavakoothu—Kerala shadow. This clashes with Core §13.6 assigns Putul Nach to rods and Pavakoothu to the glove mechanism. **B:** Incorrect — Yampuri—Bihar shadow; Pavakoothu—Kerala rods. This clashes with Core §13.6 assigns Putul Nach to rods and Pavakoothu to the glove mechanism. **C:** Correct — Core §13.6 assigns Putul Nach to rods and Pavakoothu to the glove mechanism. **D:** Incorrect — Tholu Bommalata—Andhra glove; Ravana Chhaya—Odisha rods. This clashes with Core §13.6 assigns Putul Nach to rods and Pavakoothu to the glove mechanism. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q40 — D.** **A:** Incorrect — Thang-ta—Tamil staff; Gatka—Kerala weapon system. This clashes with Core §13.7, Nitin PDF pp.552-560 distinguishes region, weapon and community. **B:** Incorrect — Thang-ta—Maharashtra armed practice; Gatka—Assamese sattra drama. This clashes with Core §13.7, Nitin PDF pp.552-560 distinguishes region, weapon and community. **C:** Incorrect — Thang-ta—Odisha rod puppetry; Gatka—Goa glove theatre. This clashes with Core §13.7, Nitin PDF pp.552-560 distinguishes region, weapon and community. **D:** Correct — Core §13.7, Nitin PDF pp.552-560 distinguishes region, weapon and community. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q41 — A.** **A:** Correct — Core §§13.4,13.6 and Advanced §3 separate historical contraction from ongoing audience/funding vulnerability. **B:** Incorrect — Both collapsed only because cinemas appeared in the 1930s. This clashes with Core §§13.4,13.6 and Advanced §3 separate historical contraction from ongoing audience/funding vulnerability. **C:** Incorrect — Both were formally abolished by the Dramatic Performances Act of 1876. This clashes with Core §§13.4,13.6 and Advanced §3 separate historical contraction from ongoing audience/funding vulnerability. **D:** Incorrect — Both survive exclusively as texts and lack any living performers. This clashes with Core §§13.4,13.6 and Advanced §3 separate historical contraction from ongoing audience/funding vulnerability. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q42 — B.** **A:** Incorrect — IPTA 1943 → the Act of 1876 → commercial Parsi stage → Sanskrit Natya Shastra. This clashes with Core §13.5A provides those theatre developments and chronological anchors. **B:** Correct — Core §13.5A provides those theatre developments and chronological anchors. **C:** Incorrect — Third Theatre → Star Theatre 1883 → Parsi stage of the 1850s → IPTA 1943. This clashes with Core §13.5A provides those theatre developments and chronological anchors. **D:** Incorrect — Prithvi permanent Mumbai venue 1978 → IPTA 1943 → colonial censorship 1876 → Calcutta Theatre 1775. This clashes with Core §13.5A provides those theatre developments and chronological anchors. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q43 — C.** **A:** Incorrect — Badal Sircar’s Kalakshetra Manipur (1943) and Tagore’s Chorus Repertory (1883). This clashes with Core §13.5A, Nitin PDF p.538 gives founders and dates of the two Manipuri initiatives. **B:** Incorrect — Ratan Thiyam’s Prithvi Theatre (1775) and Binodini’s NINASAM (1952). This clashes with Core §13.5A, Nitin PDF p.538 gives founders and dates of the two Manipuri initiatives. **C:** Correct — Core §13.5A, Nitin PDF p.538 gives founders and dates of the two Manipuri initiatives. **D:** Incorrect — Kanhailal’s SNA (1976) and Prithviraj Kapoor’s Chorus Repertory (1944). This clashes with Core §13.5A, Nitin PDF p.538 gives founders and dates of the two Manipuri initiatives. **Trap:** Establish mechanism, region and period before choosing the performance label.
+
+**Q44 — D.** **A:** Incorrect — A Bhagavad Gita metaphor proves every present puppet design existed at Harappa. This clashes with Core §13.6 and Advanced §2 distinguish textual references, living performance and current safeguarding needs. **B:** Incorrect — Ancient textual mentions prove all regional puppet mechanisms have identical origin dates. This clashes with Core §13.6 and Advanced §2 distinguish textual references, living performance and current safeguarding needs. **C:** Incorrect — SNA recognition of a puppeteer proves every endangered troupe has a captive audience. This clashes with Core §13.6 and Advanced §2 distinguish textual references, living performance and current safeguarding needs. **D:** Correct — Core §13.6 and Advanced §2 distinguish textual references, living performance and current safeguarding needs. **Trap:** Establish mechanism, region and period before choosing the performance label.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -368,13 +452,15 @@ D. All folk, puppet and performance traditions may be safely reduced to colourfu
 
 #### PYQ 1. Which of the following statements about Binodini Dasi, a pioneering figure in Bengali theatre, in the late 19th and early 20th century is/are correct? 1. She was one of the prime movers behind the setting up of the Star Theatre (1883) in Calcutta. 2. She serialised her autobiography Amar Katha (My story) between 1910 and 1913. Select the correct answer using the code given below: (CAPF, 2018)
 
-**Answer withheld pending official UPSC key**
+#### PYQ 2. With reference to India's culture and tradition, what is 'Kalaripayattu'? (CSE, 2014) (a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India. (b) It is an ancient style bronze and brass work still found in Southern part of Coromandel area. (c) It is an ancient form of dance, drama and a living tradition in the Northern part of Malabar. (d) It is an ancient martial art and a living tradition in some parts of South India.
+
+### OBJECTIVE PYQ KEY STATUS AND CONCEPT SOLUTIONS
+
+**PYQ 1.** **Answer withheld pending official UPSC key**
 
 **Concept route:** The topic bank and Nitin clearly support Statement 1: Binodini Dasi contributed to founding the Star Theatre in Kolkata in 1883. The same source confirms that `Amar Katha` was published in 1913, but it does not independently verify the paper's precise serialisation wording used in Statement 2. Because no final official or local-official answer key for this exact UPSC objective item was independently verified in-session, the answer letter is withheld even though the conceptual route is recoverable.
 
-#### PYQ 2. With reference to India's culture and tradition, what is 'Kalaripayattu'? (CSE, 2014) (a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India. (b) It is an ancient style bronze and brass work still found in Southern part of Coromandel area. (c) It is an ancient form of dance, drama and a living tradition in the Northern part of Malabar. (d) It is an ancient martial art and a living tradition in some parts of South India.
-
-**Answer withheld pending official UPSC key**
+**PYQ 2.** **Answer withheld pending official UPSC key**
 
 **Concept route:** The conceptual elimination route is strong: Kalaripayattu belongs to the martial-performance field, especially Kerala and wider southern India, and not to a Bhakti cult, metal craft or a dance-drama label. However, because no final official or local-official key for the 2014 objective was independently verified inside the approved local key bank used in this repair session, the letter is withheld and only the concept route is printed.
 

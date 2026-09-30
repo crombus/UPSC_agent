@@ -14,724 +14,744 @@ generated_on: 2026-09-10
 
 ## WORKBOOK GUIDE
 
-- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
-- Record the reason for eliminating each wrong option before reading the four option-specific explanations.
-- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- Attempt Questions 1–24 as hard diagnostics and Questions 25–32 as remedial traps; the separate key follows the complete question bank.
+- Eliminate each rival before consulting the separate option-by-option key.
+- The editorial key rotates A → B → C → D strictly; do not use rotation to guess answers.
 - For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
 - No direct owned Topic 05 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
 - The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
+
+
 ## BASIC MCQS / REMEDIATION
 
-### Practice design
+### Question bank (32 original items; 1–24 hard diagnostics, 25–32 remedial)
 
-- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
-- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
-- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
-- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
-- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
+Attempt all questions before opening the separate answer key. Each option tests a distinct nearby claim; no question is a verified UPSC PYQ.
 
 ### MCQ 1
 
-Which proposition is correctly associated with **Evolutionary / democratic socialism**?
+A reform party accepts elections and aims to socialise major industries through legislation. Which tradition is it closest to?
 
-- A. socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-- B. examples of democratic/evolutionary socialism that revise Marxist expectations about class conflict and political method.
-- C. most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-- D. fascism exalts the state as an end and reduces the individual to a means, the reverse of the liberal individual-as-end premise.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Evolutionary / democratic socialism.
-- **B:** B Attaches to Lassalle and Bernstein, not Evolutionary / democratic socialism.
-- **C:** C Attaches to Anarchism vs disorder, not Evolutionary / democratic socialism.
-- **D:** D Attaches to Fascism vs liberalism, not Evolutionary / democratic socialism.
-
-> **Examiner trap:** Do not identify Evolutionary / democratic socialism by a neighbouring proposition merely because both occur in the same topic.
+- A. Democratic socialism
+- B. Revolutionary socialism
+- C. Fascism
+- D. Anarchism
 
 ---
 
 ### MCQ 2
 
-Which proposition is correctly associated with **Leader principle**?
+What makes socialism broader than Marxism in Gauba's account?
 
-- A. Test whether fascism belongs with the other three as an "equality-seeking" critique of capitalism, and show why it does not (§13 verdict, §17 Chain 3).
-- B. concentration of unconditional authority in a supreme leader/dictator whose will is treated as law, with the individual holding no rights against the state.
-- C. Those with advantage owe obligation to those without; social division is itself a threat to order, so amelioration is a conservative duty, not a socialist concession.
-- D. socialism is a wider family; Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian revolution.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to "Critically examine", not Leader principle.
-- **B:** B States the source-recorded proposition for Leader principle.
-- **C:** C Attaches to Paternalistic / "one nation", not Leader principle.
-- **D:** D Attaches to Socialism vs Marxism, not Leader principle.
-
-> **Examiner trap:** Do not identify Leader principle by a neighbouring proposition merely because both occur in the same topic.
+- A. It rejects public control of production altogether
+- B. It includes reformist and revolutionary routes to social control
+- C. It is identical to Italian fascism because both criticise liberalism
+- D. It always abolishes the state immediately
 
 ---
 
 ### MCQ 3
 
-Which proposition is correctly associated with **Socialism vs Marxism**?
+A politician proposes gradual legislation, administration and persuasion to reshape production. Which name best identifies the instrument?
 
-- A. Test whether fascism belongs with the other three as an "equality-seeking" critique of capitalism, and show why it does not (§13 verdict, §17 Chain 3).
-- B. concentration of unconditional authority in a supreme leader/dictator whose will is treated as law, with the individual holding no rights against the state.
-- C. socialism is a wider family; Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian revolution.
-- D. fascism exalts the state as an end and reduces the individual to a means, the reverse of the liberal individual-as-end premise.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to "Critically examine", not Socialism vs Marxism.
-- **B:** B Attaches to Leader principle, not Socialism vs Marxism.
-- **C:** C States the source-recorded proposition for Socialism vs Marxism.
-- **D:** D Attaches to Fascism vs liberalism, not Socialism vs Marxism.
-
-> **Examiner trap:** Do not identify Socialism vs Marxism by a neighbouring proposition merely because both occur in the same topic.
+- A. Bakunin's revolutionary anarchism
+- B. Mussolini's leader principle
+- C. Fabianism associated with Sydney Webb
+- D. Firestone's radical feminism
 
 ---
 
 ### MCQ 4
 
-Which proposition is correctly associated with **Evolutionary vs revolutionary socialism**?
+Which revision of Marxist expectation is most characteristic of Bernstein?
 
-- A. most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-- B. Gandhi's self-regulated order depends on moral discipline, not absence of social norms.
-- C. Scale the number of doctrines/thinkers cited and depth of objection-reply chain (§19).
-- D. one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Anarchism vs disorder, not Evolutionary vs revolutionary socialism.
-- **B:** B Attaches to Gandhian statelessness vs normlessness, not Evolutionary vs revolutionary socialism.
-- **C:** C Cross-attached: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-- **D:** D States the source-recorded proposition for Evolutionary vs revolutionary socialism.
-
-> **Examiner trap:** Do not identify Evolutionary vs revolutionary socialism by a neighbouring proposition merely because both occur in the same topic.
+- A. Class struggle must culminate in a leader's nationalist state
+- B. Mutual credit automatically abolishes all government
+- C. Non-violence alone substitutes for economic institutions
+- D. Socialism as an ongoing democratic movement rather than an inevitable apocalyptic end-state
 
 ---
 
 ### MCQ 5
 
-Which proposition is correctly associated with **Fascism vs liberalism**?
+Why is Lassalle not an exemplar of insurrectionary anarchism here?
 
-- A. fascism exalts the state as an end and reduces the individual to a means, the reverse of the liberal individual-as-end premise.
-- B. examples of democratic/evolutionary socialism that revise Marxist expectations about class conflict and political method.
-- C. socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-- D. most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Fascism vs liberalism.
-- **B:** B Attaches to Lassalle and Bernstein, not Fascism vs liberalism.
-- **C:** C Attaches to Evolutionary / democratic socialism, not Fascism vs liberalism.
-- **D:** D Attaches to Anarchism vs disorder, not Fascism vs liberalism.
-
-> **Examiner trap:** Do not identify Fascism vs liberalism by a neighbouring proposition merely because both occur in the same topic.
+- A. He favours suffrage and a constitutional path toward workers' political power
+- B. He asserts hierarchy is biologically fixed
+- C. He rejects any role for universal voting
+- D. He replaces political organisation with a mutual credit bank
 
 ---
 
 ### MCQ 6
 
-Which proposition is correctly associated with **Fascism vs Marxism**?
+Which comparison keeps evolutionary and revolutionary socialism distinct?
 
-- A. A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis on order, nation and traditional morality.
-- B. fascism denies the economic conception of history and class conflict, replacing it with the myth of an indivisible national interest.
-- C. fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider distribution of benefits to the masses.
-- D. Those with advantage owe obligation to those without; social division is itself a threat to order, so amelioration is a conservative duty, not a socialist concession.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to New Right (market + authority), not Fascism vs Marxism.
-- **B:** B States the source-recorded proposition for Fascism vs Marxism.
-- **C:** C Attaches to Fascism vs socialism/communism, not Fascism vs Marxism.
-- **D:** D Attaches to Paternalistic / "one nation", not Fascism vs Marxism.
-
-> **Examiner trap:** Do not identify Fascism vs Marxism by a neighbouring proposition merely because both occur in the same topic.
+- A. Both deny the existence of economic inequality
+- B. Both aim at altered control of production, but disagree on institutional continuity and class rupture
+- C. Only revolutionary socialism accepts collective welfare
+- D. Neither addresses ownership relations
 
 ---
 
 ### MCQ 7
 
-Which proposition is correctly associated with **Fascism vs socialism/communism**?
+A doctrine elevates one leader above rights, suppresses parties and treats the state as an end. Which ideological family is implicated?
 
-- A. A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis on order, nation and traditional morality.
-- B. Those with advantage owe obligation to those without; social division is itself a threat to order, so amelioration is a conservative duty, not a socialist concession.
-- C. fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider distribution of benefits.
-- D. fascism denies the economic conception of history and class conflict, replacing it with the myth of an indivisible national interest, whereas Marxism makes class conflict central.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to New Right (market + authority), not Fascism vs socialism/communism.
-- **B:** B Attaches to Paternalistic / "one nation", not Fascism vs socialism/communism.
-- **C:** C States the source-recorded proposition for Fascism vs socialism/communism.
-- **D:** D Attaches to Fascism vs Marxism, not Fascism vs socialism/communism.
-
-> **Examiner trap:** Do not identify Fascism vs socialism/communism by a neighbouring proposition merely because both occur in the same topic.
+- A. Democratic socialism
+- B. Anarchism
+- C. Fascism
+- D. Gandhism
 
 ---
 
 ### MCQ 8
 
-Which proposition is correctly associated with **Anarchism vs disorder**?
+Why is fascism not simply another egalitarian critique of capitalism?
 
-- A. one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-- B. socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-- C. examples of democratic/evolutionary socialism that revise Marxist expectations about class conflict and political method.
-- D. most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Evolutionary vs revolutionary socialism, not Anarchism vs disorder.
-- **B:** B Attaches to Evolutionary / democratic socialism, not Anarchism vs disorder.
-- **C:** C Attaches to Lassalle and Bernstein, not Anarchism vs disorder.
-- **D:** D States the source-recorded proposition for Anarchism vs disorder.
-
-> **Examiner trap:** Do not identify Anarchism vs disorder by a neighbouring proposition merely because both occur in the same topic.
+- A. It democratically socialises productive assets for the whole community
+- B. It abolishes all coercive hierarchy and funds mutual aid
+- C. It asks wealthy owners to accept voluntary trusteeship
+- D. It rejects equal moral and political status for hierarchy and subordinates labour to elite control
 
 ---
 
 ### MCQ 9
 
-Which thinker/concept–proposition pair is correctly matched?
+Which historical attribution is properly limited to the book-period discussion?
 
-- A. Gandhian statelessness vs normlessness — Gandhi's self-regulated order depends on moral discipline, not absence of social norms.
-- B. Mark-weight cue (10/15) — Presumptively legitimate until it demonstrably fails (§22.8 Chain 1); no additional distinction is made within this interpretation.
-- C. Evolutionary vs revolutionary socialism — most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-- D. Accuracy limit — A historically grown inheritance to be conserved and repaired; this option treats that proposition as the decisive account.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Records the association: Gandhian statelessness vs normlessness is associated with this proposition.
-- **B:** B Wrong attachment: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-- **C:** C Misplaced: Evolutionary vs revolutionary socialism is recorded with one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-- **D:** D Belongs elsewhere: Accuracy limit is recorded with do not claim Oakeshott defends a specific institutional programme, or that.
-
-> **Examiner trap:** Keep the exact proposition attached to Gandhian statelessness vs normlessness; nearby thinkers may address the same debate from a different mechanism.
+- A. Mussolini established Italian fascism in 1919; Nazi racial doctrine adds a distinct emphasis
+- B. Nazism and early Italian fascism had identical racial doctrines from their founding
+- C. Gandhi founded Mussolini's Italian party after the Second World War
+- D. The 1919 founding proves present-day party programmes unchanged
 
 ---
 
 ### MCQ 10
 
-Which of the following pairs a name or concept with the proposition the source actually records for it?
+Fascism invokes a unified national myth to deny class conflict. Which Marxist premise is it denying?
 
-- A. Evolutionary / democratic socialism — socialism is a wider family; Gauba's own exposition includes democratic, Fabian.
-- B. Lassalle and Bernstein — examples of democratic/evolutionary socialism that revise Marxist expectations about class conflict and political method.
-- C. Fascism vs liberalism — one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-- D. Anarchism vs disorder — Test whether fascism belongs with the other three as an "equality-seeking" critique of capitalism.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Evolutionary / democratic socialism is recorded with socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-- **B:** B Records the association: Lassalle and Bernstein is associated with this proposition.
-- **C:** C Belongs elsewhere: Fascism vs liberalism is recorded with fascism exalts the state as an end and reduces the individual to a means, the reverse of the liberal individual-as-end premise.
-- **D:** D Cross-attached: Anarchism vs disorder is recorded with most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-
-> **Examiner trap:** Keep the exact proposition attached to Lassalle and Bernstein; nearby thinkers may address the same debate from a different mechanism.
+- A. The anarchist premise of mutual credit and exchange
+- B. The materialist explanation of social antagonism through ownership and production
+- C. The Gandhian obligation of bread labour
+- D. The conservative defence of accumulated experience
 
 ---
 
 ### MCQ 11
 
-In which pair does the proposition genuinely belong to the label placed against it?
+How did fascism function as counter-revolution in Laski's analysis?
 
-- A. Warrant for change — Presumptively legitimate until it demonstrably fails (§22.8 Chain 1).
-- B. Technology / economy — do not claim Oakeshott defends a specific institutional programme, or that
-- C. Equality vs hierarchy — Seeks socio-economic equality through public control.
-- D. View of the state — Scale the number of doctrines/thinkers cited and depth of objection-reply chain (§19).
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Warrant for change is recorded with Demonstrated malfunction of a particular arrangement.
-- **B:** B Cross-attached: Technology / economy is recorded with Accepts modern productive organization but regulates it.
-- **C:** C Matches the record: Equality vs hierarchy is associated with this proposition.
-- **D:** D Mismatched: View of the state is recorded with A historically grown inheritance to be conserved and repaired.
-
-> **Examiner trap:** Keep the exact proposition attached to Equality vs hierarchy; nearby thinkers may address the same debate from a different mechanism.
+- A. It gave workers binding control of ownership through independent unions
+- B. It distributed wealth through voluntary Gandhian trusteeship
+- C. It removed democratic constraints, unions and criticism while protecting concentrated capital
+- D. It withdrew state force from social conflict entirely
 
 ---
 
 ### MCQ 12
 
-Only one pairing below reproduces the source's own association. Which is it?
+Which qualification belongs to Ebenstein rather than an automatic capitalism-causes-fascism claim?
 
-- A. View of the state — Scale the number of doctrines/thinkers cited and depth of objection-reply chain (§19).
-- B. Equality vs hierarchy — Presumptively legitimate until it demonstrably fails (§22.8 Chain 1).
-- C. Warrant for change — do not claim Oakeshott defends a specific institutional programme, or that
-- D. Technology / economy — Accepts modern productive organization but regulates it.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Belongs elsewhere: View of the state is recorded with A historically grown inheritance to be conserved and repaired.
-- **B:** B Cross-attached: Equality vs hierarchy is recorded with Seeks socio-economic equality through public control.
-- **C:** C Mismatched: Warrant for change is recorded with Demonstrated malfunction of a particular arrangement.
-- **D:** D Correct attachment: Technology / economy is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Technology / economy; nearby thinkers may address the same debate from a different mechanism.
+- A. Capitalism everywhere necessarily produces the same fascist regime
+- B. Fascism originates only from successful anarchist communes
+- C. Women voting is a necessary precondition for every dictatorship
+- D. Weak democracy combined with fear amid economic depression creates favourable conditions
 
 ---
 
 ### MCQ 13
 
-Identify the pair in which the recorded proposition matches its label exactly.
+Which pairing preserves the difference between liberal and Marxist criticisms of fascism?
 
-- A. "Critically examine" — Test whether fascism belongs with the other three as an "equality-seeking" critique of capitalism.
-- B. Leader principle — fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider.
-- C. Socialism vs Marxism — fascism exalts the state as an end and reduces the individual to a means, the reverse of the liberal individual-as-end premise.
-- D. Paternalistic / "one nation" — fascism denies the economic conception of history and class conflict, replacing it with the myth of an indivisible national.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Kept where the source puts it: "Critically examine" is associated with this proposition.
-- **B:** B Mismatched: Leader principle is recorded with concentration of unconditional authority in a supreme leader/dictator whose will is treated as law, with the individual holding no rights against the state.
-- **C:** C Not this pair: Socialism vs Marxism is recorded with socialism is a wider family; Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian revolution.
-- **D:** D Wrong attachment: Paternalistic / "one nation" is recorded with Those with advantage owe obligation to those without; social division is itself a threat to order, so amelioration is a conservative duty, not a socialist concession.
-
-> **Examiner trap:** Keep the exact proposition attached to "Critically examine"; nearby thinkers may address the same debate from a different mechanism.
+- A. Liberals stress destroyed liberty and constitutional pluralism; Marxists examine elite rule and class power
+- B. Liberals condemn only public ownership; Marxists celebrate the leader principle
+- C. Liberals endorse censorship; Marxists reject any concept of class
+- D. Both critics treat fascism as constitutionally accountable socialism
 
 ---
 
 ### MCQ 14
 
-Which one of the following label-proposition pairings survives a strict source check?
+Which statement about fascism as political pathology follows Gauba without glamorising it?
 
-- A. Evolutionary vs revolutionary socialism — A historically grown inheritance to be conserved and repaired.
-- B. Mark-weight cue (10/15) — Scale the number of doctrines/thinkers cited and depth of objection-reply chain (§19).
-- C. Gandhian statelessness vs normlessness — Presumptively legitimate until it demonstrably fails (§22.8 Chain 1).
-- D. Accuracy limit — most anarchists still recognize expert authority and morally binding collective decisions taken democratically.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Mismatched: Evolutionary vs revolutionary socialism is recorded with one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-- **B:** B Wrong attachment: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-- **C:** C Not this pair: Gandhian statelessness vs normlessness is recorded with Gandhi's self-regulated order depends on moral discipline, not absence of social norms.
-- **D:** D Source disagrees: Accuracy limit is recorded with do not claim Oakeshott defends a specific institutional programme, or that.
-
-> **Examiner trap:** Keep the exact proposition attached to Mark-weight cue (10/15); nearby thinkers may address the same debate from a different mechanism.
+- A. Its electoral success proves its normative equality principle
+- B. Its opportunistic bundle of myth, repression and hierarchy is not a coherent justification of justice
+- C. Its leader ideology deserves treatment as a neutral template for reform
+- D. Its violence is identical to all other doctrines' social aims
 
 ---
 
 ### MCQ 15
 
-Which pairing below would a careful source check leave standing?
+An association coordinates childcare and trade without sovereign enforcement. What makes this anarchist rather than chaotic?
 
-- A. Unit 2 — Claim — fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider.
-- B. Unit 6 — Claim — A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis.
-- C. Unit 1 — Claim — democracy can be redefined to include control over wealth production, achieved through existing constitutional machinery → Named: Sydney.
-- D. Unit 3 — Claim — fascism denies the economic conception of history and class conflict, replacing it with the myth of an indivisible national interest.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-- **B:** B Wrong attachment: Unit 6 — Claim is recorded with mutual aid and sociability, not competitive struggle, are the natural basis for cooperative order → Named: Peter Kropotkin → Significance: gives anarchism a positive, constructive account of how a stateless society could function, not merely a negative anti-state stance (Gauba, PDF p.75) → Limitation: critics say it is over-optimistic about human cooperation at large scale (Gauba, PDF p.78).
-- **C:** C Faithful pairing: Unit 1 — Claim is associated with this proposition.
-- **D:** D Source disagrees: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-
-> **Examiner trap:** Keep the exact proposition attached to Unit 1 — Claim; nearby thinkers may address the same debate from a different mechanism.
+- A. It has no norms, expertise or binding moral decisions
+- B. It must establish a supreme leader with unchecked orders
+- C. Voluntary federation supplies rules without the state's coercive command-right
+- D. It must nationalise all exchanges through a parliament
 
 ---
 
 ### MCQ 16
 
-Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
+Which description best fits Proudhon's mutualism?
 
-- A. Unit 6 — Claim — fascism denies the economic conception of history and class conflict, replacing it with the myth of an indivisible national interest.
-- B. Unit 3 — Claim — A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis.
-- C. Unit 1 — Claim — fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider.
-- D. Unit 2 — Claim — revolutionary trade unions and the general strike are the chief instrument of transformative struggle → Named: Georges Sorel → Significance:.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Wrong attachment: Unit 6 — Claim is recorded with mutual aid and sociability, not competitive struggle, are the natural basis for cooperative order → Named: Peter Kropotkin → Significance: gives anarchism a positive, constructive account of how a stateless society could function, not merely a negative anti-state stance (Gauba, PDF p.75) → Limitation: critics say it is over-optimistic about human cooperation at large scale (Gauba, PDF p.78).
-- **B:** B Source disagrees: this proposition is recorded elsewhere in the topic and is not the association the stem asks about.
-- **C:** C Belongs elsewhere: Unit 1 — Claim is recorded with democracy can be redefined to include control over wealth production, achieved through existing constitutional machinery → Named: Sydney Webb → Significance: gives Fabianism a precise reformist mechanism distinct from revolutionary Marxism (Gauba, PDF pp.58-59) → Limitation: relies on the patience and goodwill of gradual legislative majorities, which critics say can stall or reverse.
-- **D:** D Faithful pairing: Unit 2 — Claim is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Unit 2 — Claim; nearby thinkers may address the same debate from a different mechanism.
+- A. Centralised single-party production quotas under a supreme leader
+- B. Technology-enabled escape from reproductive dependence
+- C. Parliamentary planning by a Fabian ministry
+- D. Autonomous producer associations, equivalent exchange and mutual credit
 
 ---
 
 ### MCQ 17
 
-Consider the following statements:
-1. **Unit 3 — Claim** is associated with: love and non-obedience to immoral commands, not organized violence, should govern political relations → Named: Leo Tolstoy → Significance: supplies the clearest pacifist-Christian anarchist position and a widely attested influence on Gandhian non-violence (Gauba, PDF p.77; §12.3) → Limitation: as a purely moral-individual position, it offers little institutional guidance for large-scale collective coordination.
-2. **Paternalistic / "one nation"** is associated with: Presumptively legitimate until it demonstrably fails (§22.8 Chain 1).
-Which option is correct?
+A community allocates goods according to need and stresses sociability and mutual aid. Which anarchist thinker is closest?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Unit 3 — Claim does not validate the second pairing.
+- A. Kropotkin
+- B. Proudhon
+- C. Bakunin
+- D. Sydney Webb
 
 ---
 
 ### MCQ 18
 
-Consider the following statements:
-1. **Unit 6 — Claim** is associated with: A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis on order, nation and traditional morality.
-2. **New Right (market + authority)** is associated with: A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis on order, nation and traditional morality.
-Which option is correct?
+Which approach to ending state authority is most characteristic of Bakunin among the options?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Unit 6 — Claim does not validate the second pairing.
+- A. Gradual parliamentary permeation of administration
+- B. Revolutionary collectivism and insurrection against coercive authority
+- C. Pacifist-Christian refusal of immoral commands alone
+- D. A supreme leader's decree abolishing rights
 
 ---
 
 ### MCQ 19
 
-Consider the following statements:
-1. **Accuracy limit** is associated with: do not claim Oakeshott defends a specific institutional programme, or that
-2. **Warrant for change** is associated with: Demonstrated malfunction of a particular arrangement.
-Which option is correct?
+Why is it unsafe to label Sorel a full-fledged anarchist on Gauba's evidence?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Accuracy limit does not validate the second pairing.
+- A. His programme proves all trade unions are agents of Mussolini
+- B. He originated Proudhon's cheap-credit mutualism
+- C. His union-centred general strike is adjacent, but the source explicitly qualifies his anarchist classification
+- D. He demanded only Fabian electoral reform
 
 ---
 
 ### MCQ 20
 
-Consider the following statements:
-1. **Paternalistic / "one nation"** is associated with: A historically grown inheritance to be conserved and repaired.
-2. **View of the state** is associated with: socialism is a wider family; Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian revolution.
-Which option is correct?
+Which contrast between Tolstoy and Gandhi avoids false equivalence?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Paternalistic / "one nation" does not validate the second pairing.
+- A. Both promoted Bakunin's violent insurrection as their sole method
+- B. Gandhi denied the possibility of collective action
+- C. Tolstoy founded the Italian total state and Gandhi followed
+- D. Tolstoy's pacifist moral refusal informs a tradition; Gandhi adds organised satyagraha and constructive social economy
 
 ---
 
 ### MCQ 21
 
-Consider the following statements:
-1. **New Right (market + authority)** is associated with: A composite: market liberalism in economics (deregulation, privatisation, rolled-back state) combined with a socially authoritarian emphasis on order, nation and traditional morality.
-2. **View of inherited hierarchy** is associated with: one seeks gradual democratic transition; the other seeks revolutionary overthrow of capitalism.
-Which option is correct?
+What does Gandhi's trusteeship ask of owners?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with New Right (market + authority) does not validate the second pairing.
+- A. Hold property as a moral trust for the common good rather than an absolute entitlement
+- B. Transfer all land to a fascist leader's personal estate
+- C. Claim private title entitles them to ignore all social duties
+- D. Abolish every cooperative association immediately
 
 ---
 
 ### MCQ 22
 
-Consider the following statements:
-1. **Warrant for change** is associated with: socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-2. **Evolutionary / democratic socialism** is associated with: socialism pursued gradually, constitutionally and democratically rather than through wholesale revolutionary rupture.
-Which option is correct?
+Bread labour changes the meaning of equality how?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Warrant for change does not validate the second pairing.
+- A. Only lower-status groups must undertake manual tasks
+- B. Everyone's physical contribution can restore dignity to labour and erode status hierarchy
+- C. Machines should become the sovereign legislature
+- D. Wealth alone is sufficient to establish moral worth
 
 ---
 
 ### MCQ 23
 
-Consider the following statements:
-1. **View of the state** is associated with: A historically grown inheritance to be conserved and repaired.
-2. **Leader principle** is associated with: concentration of unconditional authority in a supreme leader/dictator whose will is treated as law, with the individual holding no rights against the state.
-Which option is correct?
+Which ordering accurately separates Gandhian method, economic ethic and social goal?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with View of the state does not validate the second pairing.
+- A. Sarvodaya as secret-police rule; trusteeship as an electoral system; satyagraha as wage arithmetic
+- B. Trusteeship as armed class war; Sarvodaya as supreme leader; satyagraha as public ownership
+- C. Satyagraha as non-violent action; trusteeship as stewardship; Sarvodaya as uplift of all
+- D. Satyagraha as state censorship; trusteeship as revolutionary strike; Sarvodaya as mutual credit
 
 ---
 
 ### MCQ 24
 
-Consider the following statements:
-1. **View of inherited hierarchy** is associated with: socialism is a wider family; Gauba's own exposition includes democratic, Fabian, revisionist and syndicalist variants beyond Marxian revolution.
-2. **Socialism vs Marxism** is associated with: fascism is counter-revolutionary and hierarchical, protecting concentrated capital, while communism (even when coercive) seeks wider distribution of benefits to the masses.
-Which option is correct?
+Why does Gandhian swaraj not mean normless withdrawal from politics?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with View of inherited hierarchy does not validate the second pairing.
+- A. Swaraj requires unquestioned obedience to a party dictator
+- B. Swaraj is merely a bank interest-rate formula
+- C. Swaraj proves social obligations can be dispensed with
+- D. Self-rule depends on truth, non-violence and disciplined responsibility
 
 ---
 
 ### MCQ 25 — REMEDIAL
 
-Which correction is most defensible for the claim: **Socialism is just another word for Marxism.**?
+Which comparison of Gandhi and Marx is most defensible?
 
-- A. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-- B. Gauba says most anarchists accept rational expert authority and moral authority of democratic collective decisions. (PDF p.74)
-- C. Gauba's comparison shows deep differences on religion, technology, class conflict, state and method. (PDF pp.82-83)
-- D. His stateless ideal depends on truth, non-violence, self-discipline and moral responsibility. (PDF pp.79-83)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63).
-- **B:** B Repairs a different misconception, 'Anarchism means chaos.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Gandhi and Marx are basically the same because both mention classless society.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Gandhi wanted no social norms at all.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Socialism is just another word for Marxism, not a different error from the same topic.
+- A. Both criticise capitalist inequality, but Gandhi emphasises non-violent moral conversion while Marxian transition emphasises class conflict and altered property relations
+- B. Both treat violence as the necessary test of genuine emancipation
+- C. Both insist industrial technology is the sole measure of liberation
+- D. Both make religious belief the same philosophical premise
 
 ---
 
 ### MCQ 26 — REMEDIAL
 
-Which correction is most defensible for the claim: **Fascism and socialism are both "collectivist," so they belong together.**?
+On property, which account preserves differences among all four traditions?
 
-- A. Gauba treats Nazism as fascism's chief variant sharing many features (leader principle, single party, anti-liberal/anti-Marxist stance) but adding a distinct.
-- B. Gauba is explicit that fascism rejects equality and substitutes hierarchy, while socialism (in all its variants) seeks equality through public control; the.
-- C. Gauba states fascism wove unrelated principles into an incoherent whole to meet political exigencies and never developed a consistent theory; it belongs to.
-- D. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Mussolini's Italy and Hitler's Germany were identical.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Gauba is explicit that fascism rejects equality and substitutes hierarchy, while socialism (in all its variants) seeks equality through public control; the two stand for opposite social values despite both criticizing unregulated capitalism. (PDF pp.55-56, 66).
-- **C:** C Repairs a different misconception, 'Fascism is a coherent political philosophy like liberalism or Marxism.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Fascism and socialism are both "collectivist," so, not a different error from the same topic.
+- A. Every tradition requires individual property to remain absolute
+- B. Socialists favour social control; anarchists differ among mutualist, communist and collectivist forms; Gandhi favours trusteeship; fascism protects concentrated elites
+- C. Every tradition demands Bakunin's identical collectivisation
+- D. Fascism adopts Kropotkin's need-based distribution
 
 ---
 
 ### MCQ 27 — REMEDIAL
 
-Which correction is most defensible for the claim: **Fascism is a coherent political philosophy like liberalism or Marxism.**?
+On freedom, which contrast is best supported?
 
-- A. Gauba is explicit that fascism rejects equality and substitutes hierarchy, while socialism (in all its variants) seeks equality through public control; the.
-- B. Gauba treats Nazism as fascism's chief variant sharing many features (leader principle, single party, anti-liberal/anti-Marxist stance) but adding a distinct.
-- C. Gauba states fascism wove unrelated principles into an incoherent whole to meet political exigencies and never developed a consistent theory; it belongs to.
-- D. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Fascism and socialism are both "collectivist," so they belong together.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Mussolini's Italy and Hitler's Germany were identical.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba states fascism wove unrelated principles into an incoherent whole to meet political exigencies and never developed a consistent theory; it belongs to the study of "political pathology." (PDF pp.64-65).
-- **D:** D Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Fascism is a coherent political philosophy like, not a different error from the same topic.
+- A. All four define freedom as unconditional service to one leader
+- B. All four treat the state as immediately dispensable
+- C. Socialists add material capacity; anarchists reject coercive sovereignty; Gandhi ties liberty to ethical self-rule; fascism subordinates it to leader and state
+- D. Anarchists and Gandhi endorse exploitation as a condition of autonomy
 
 ---
 
 ### MCQ 28 — REMEDIAL
 
-Which correction is most defensible for the claim: **Mussolini's Italy and Hitler's Germany were identical.**?
+A group praises strong nationalist identity but still maintains competing parties and rights. Which inference is unwarranted?
 
-- A. Gauba states fascism wove unrelated principles into an incoherent whole to meet political exigencies and never developed a consistent theory; it belongs to.
-- B. Gauba is explicit that fascism rejects equality and substitutes hierarchy, while socialism (in all its variants) seeks equality through public control; the.
-- C. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-- D. Gauba treats Nazism as fascism's chief variant sharing many features (leader principle, single party, anti-liberal/anti-Marxist stance) but adding a distinct.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Fascism is a coherent political philosophy like liberalism or Marxism.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Fascism and socialism are both "collectivist," so they belong together.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Gauba treats Nazism as fascism's chief variant sharing many features (leader principle, single party, anti-liberal/anti-Marxist stance) but adding a distinct racist doctrine that Italian fascism did not centre in the same way. (PDF pp.64, 69).
-
-> **Examiner trap:** Repair the exact overstatement about Mussolini's Italy and Hitler's Germany were identical, not a different error from the same topic.
+- A. Rights and plural institutions matter to classifying a regime
+- B. Gauba links fascism to single-party leader rule
+- C. Myth and suppression, if present, need specific evidence
+- D. National feeling alone establishes fascism regardless of institutions
 
 ---
 
 ### MCQ 29 — REMEDIAL
 
-Which correction is most defensible for the claim: **Anarchism means chaos.**?
+Which paired finding respects the authoritarianism/equality distinction?
 
-- A. Gauba says most anarchists accept rational expert authority and moral authority of democratic collective decisions. (PDF p.74)
-- B. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-- C. Gauba's comparison shows deep differences on religion, technology, class conflict, state and method. (PDF pp.82-83)
-- D. His stateless ideal depends on truth, non-violence, self-discipline and moral responsibility. (PDF pp.79-83)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Gauba says most anarchists accept rational expert authority and moral authority of democratic collective decisions. (PDF p.74).
-- **B:** B Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Gandhi and Marx are basically the same because both mention classless society.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Gandhi wanted no social norms at all.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Anarchism means chaos, not a different error from the same topic.
+- A. A coercive communist regime and a fascist regime may both suppress liberty yet have opposed stated distributive ends
+- B. Fascism and communism have the same objective of material equality by definition
+- C. All anti-capitalist programmes must suppress rights
+- D. Fascism always replaces private elites with free mutual associations
 
 ---
 
 ### MCQ 30 — REMEDIAL
 
-Which correction is most defensible for the claim: **Gandhi wanted no social norms at all.**?
+Why might an anarchist object to a benevolent socialist ministry?
 
-- A. Gauba says most anarchists accept rational expert authority and moral authority of democratic collective decisions. (PDF p.74)
-- B. His stateless ideal depends on truth, non-violence, self-discipline and moral responsibility. (PDF pp.79-83)
-- C. Gauba's comparison shows deep differences on religion, technology, class conflict, state and method. (PDF pp.82-83)
-- D. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Anarchism means chaos.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: His stateless ideal depends on truth, non-violence, self-discipline and moral responsibility. (PDF pp.79-83).
-- **C:** C Repairs a different misconception, 'Gandhi and Marx are basically the same because both mention classless society.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Gandhi wanted no social norms at all, not a different error from the same topic.
+- A. Anarchists hold that experts possess no knowledge worth using
+- B. Good distributive intentions do not remove the ministry's sovereign command-right
+- C. Socialists prohibit any community interest in production
+- D. The objection presupposes that the ministry is fascist
 
 ---
 
 ### MCQ 31 — REMEDIAL
 
-Which correction is most defensible for the claim: **Gandhi and Marx are basically the same because both mention classless society.**?
+Which challenge to trusteeship should an examiner expect in a critical answer?
 
-- A. His stateless ideal depends on truth, non-violence, self-discipline and moral responsibility. (PDF pp.79-83)
-- B. Gauba says most anarchists accept rational expert authority and moral authority of democratic collective decisions. (PDF p.74)
-- C. Gauba's comparison shows deep differences on religion, technology, class conflict, state and method. (PDF pp.82-83)
-- D. Gauba treats socialism as a wider family including evolutionary, Fabian, revisionist, syndicalist and other variants. (PDF pp.55-63)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Gandhi wanted no social norms at all.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Anarchism means chaos.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba's comparison shows deep differences on religion, technology, class conflict, state and method. (PDF pp.82-83).
-- **D:** D Repairs a different misconception, 'Socialism is just another word for Marxism.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Gandhi and Marx are basically the same because both, not a different error from the same topic.
+- A. Its unavoidable constitutional requirement of violent expropriation
+- B. Its necessary rejection of every form of manual labour
+- C. Reliance on voluntary change of heart may leave entrenched property power undisturbed
+- D. Its identification with fascist censorship
 
 ---
 
 ### MCQ 32 — REMEDIAL
 
-Which correction is most defensible for the claim: **Trap: "Gandhi appealed to village tradition, therefore Gandhi is a conservative."**?
+Which statement keeps conservatism's adjacent module distinct from the four-doctrine comparison?
 
-- A. Gauba says most anarchists accept.
-- B. His stateless ideal depends on.
-- C. Gauba's comparison shows deep.
-- D. Gandhi
+- A. All traditions concerned with continuity are identical to Mussolini's total state
+- B. Hayek's market liberalism is the definition of Gauba's fascism
+- C. Conservatism denies any reform in every circumstance
+- D. Burkean caution about inherited institutions supports prudential reform but does not make fascist hierarchy a legitimate conservative norm
 
-**Answer: D**
 
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Anarchism means chaos.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Gandhi wanted no social norms at all.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Gandhi and Marx are basically the same because both mention classless society.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Gandhi.
+## ANSWER KEY AND OPTION-BY-OPTION REASONING
 
-> **Examiner trap:** Repair the exact overstatement about Trap: "Gandhi appealed to village tradition,, not a different error from the same topic.
+### MCQ 1 — A
+
+- **A:** Public control sought through constitutional means is its characteristic combination.
+- **B:** That path expects a rupture with capitalist institutions rather than parliamentary transition.
+- **C:** A single-party leader state subordinates equality instead of democratising ownership.
+- **D:** It rejects coercive state authority rather than relying on the legislative state.
+
+> **Examiner trap:** Method matters as much as the common-welfare aim.
 
 ---
+
+### MCQ 2 — B
+
+- **A:** Public or community control defines the central socialist aim.
+- **B:** Fabian and revisionist programmes need not accept proletarian insurrection.
+- **C:** Fascism rejects egalitarian socialism and defends hierarchy.
+- **D:** Democratic socialists can treat state institutions as tools.
+
+> **Examiner trap:** Do not equate an ideological family with one revolutionary branch.
+
+---
+
+### MCQ 3 — C
+
+- **A:** Bakunin rejects the coercive state rather than using parliamentary administration.
+- **B:** That substitutes unconditional hierarchical command for reform through persuasion.
+- **C:** Existing democratic machinery becomes an instrument for social reform.
+- **D:** Her argument targets reproductive dependence, not this socialist institutional strategy.
+
+> **Examiner trap:** Reform by government is not the same thing as anti-statism.
+
+---
+
+### MCQ 4 — D
+
+- **A:** This invokes a fascist, anti-Marxist goal.
+- **B:** Mutualism is Proudhon's anarchist model.
+- **C:** Gandhian ethics differ from Bernstein's democratic revisionism.
+- **D:** Revisionism disputes automatic collapse and promotes reform.
+
+> **Examiner trap:** Do not confuse revisionism with renouncing equality.
+
+---
+
+### MCQ 5 — A
+
+- **A:** Electoral state action distinguishes him from the anti-state anarchist route.
+- **B:** His socialist reformism does not rest on fascist inequality.
+- **C:** His account specifically includes universal suffrage.
+- **D:** The bank is associated with Proudhon's mutualism.
+
+> **Examiner trap:** Workers' power can be pursued through institutions rather than their abolition.
+
+---
+
+### MCQ 6 — B
+
+- **A:** Socialism responds to material inequality.
+- **B:** Their end can overlap while the transition mechanism diverges.
+- **C:** Reformists also invoke collective benefit.
+- **D:** Their disagreement concerns how to transform such relations.
+
+> **Examiner trap:** A shared destination need not imply a shared road.
+
+---
+
+### MCQ 7 — C
+
+- **A:** It employs constitutional contestation rather than unconditional leader rule.
+- **B:** Abolition of coercive sovereign command is opposite to total-state glorification.
+- **C:** Leader-command and a total state subordinate individuals to hierarchy.
+- **D:** Self-rule and non-violence do not make the individual a mere means of a dictator.
+
+> **Examiner trap:** Do not file every collective-sounding programme under socialism.
+
+---
+
+### MCQ 8 — D
+
+- **A:** That describes socialist aspirations, not the fascist outcome.
+- **B:** This reverses the leader and state principle.
+- **C:** That is Gandhi's moral proposal rather than fascist property policy.
+- **D:** Criticism of liberal democracy does not mean commitment to equality.
+
+> **Examiner trap:** Test the hierarchy/equality axis, not just rhetoric about liberalism.
+
+---
+
+### MCQ 9 — A
+
+- **A:** These are historical distinctions in Gauba's treatment.
+- **B:** The canonical source distinguishes the Nazi racial myth.
+- **C:** This reverses actors and chronology.
+- **D:** A historical date cannot verify contemporary politics.
+
+> **Examiner trap:** Do not erase differences between Italian fascism and Nazism.
+
+---
+
+### MCQ 10 — B
+
+- **A:** Proudhon's mutualism is not the materialist history claim at stake.
+- **B:** An indivisible national interest suppresses analysis of opposed class positions.
+- **C:** Shared manual work is not Marx's class-conflict thesis.
+- **D:** Prudential reform is unrelated to this specific denial.
+
+> **Examiner trap:** Mythic unity does not resolve actual conflicts over production.
+
+---
+
+### MCQ 11 — C
+
+- **A:** The described repression of unions points in the opposite direction.
+- **B:** Moral custodianship is not Laski's fascism analysis.
+- **C:** Coercive political control insulated owners against redistributive challenge.
+- **D:** The fascist state used coercion extensively.
+
+> **Examiner trap:** Nationalising rhetoric need not imply egalitarian control.
+
+---
+
+### MCQ 12 — D
+
+- **A:** He rejects this automatic single-cause inference.
+- **B:** That is neither his causal setting nor the form of regime.
+- **C:** The source advances no such necessary condition.
+- **D:** Crisis and institutional vulnerability mediate fascist mobilisation.
+
+> **Examiner trap:** Conditions of emergence are not universal laws of capitalist development.
+
+---
+
+### MCQ 13 — A
+
+- **A:** These objections target distinct but compatible harms.
+- **B:** Neither is the canonical critical pairing.
+- **C:** This reverses both traditions.
+- **D:** Its dictatorship contradicts that description.
+
+> **Examiner trap:** Different critiques can reach a common adverse verdict without identical premises.
+
+---
+
+### MCQ 14 — B
+
+- **A:** Popularity cannot establish an equality principle it rejects.
+- **B:** Mobilising capacity is not philosophical defensibility.
+- **C:** Gauba's appraisal is expressly critical.
+- **D:** Fascism must not be equated with egalitarian aims.
+
+> **Examiner trap:** Explaining a movement's appeal does not endorse its claims.
+
+---
+
+### MCQ 15 — C
+
+- **A:** Anarchists may recognise moral and expert authority.
+- **B:** Leader rule is the inverse of anarchist non-coercion.
+- **C:** The objection is to imposed sovereignty, not to cooperation.
+- **D:** Parliamentary state administration is not the stated route.
+
+> **Examiner trap:** Authority of expertise is distinguishable from authority to command by force.
+
+---
+
+### MCQ 16 — D
+
+- **A:** This invokes total-state command.
+- **B:** That concerns Firestone's feminist account.
+- **C:** This uses state legislation rather than producer mutualism.
+- **D:** Reciprocal arrangements replace coercive state control.
+
+> **Examiner trap:** A mutual credit bank is not a compulsory nationalisation ministry.
+
+---
+
+### MCQ 17 — A
+
+- **A:** Communist anarchism emphasises cooperative mutual aid and needs-based distribution.
+- **B:** His mutualism focuses on equivalent exchange and cheap credit.
+- **C:** His revolutionary collectivism stresses insurrection rather than this allocation rule.
+- **D:** Fabian legislation uses the existing state, not communist anarchist federation.
+
+> **Examiner trap:** Different anarchists disagree about distribution, not merely tactics.
+
+---
+
+### MCQ 18 — B
+
+- **A:** This is the Fabian path.
+- **B:** Bakunin's route differs from Proudhon's peaceful mutualism.
+- **C:** This is closer to Tolstoy's moral anarchism.
+- **D:** This replicates fascist hierarchy.
+
+> **Examiner trap:** Anarchist anti-statism does not entail Gandhian non-violence for every school.
+
+---
+
+### MCQ 19 — C
+
+- **A:** That does not follow from his revolutionary-union emphasis.
+- **B:** These are distinct thinker-mechanism pairings.
+- **C:** Syndicalist tactics do not settle anti-state doctrine.
+- **D:** General-strike strategy is not gradual legislation.
+
+> **Examiner trap:** Neighbouring classification is not identity.
+
+---
+
+### MCQ 20 — D
+
+- **A:** Non-violence is central to both comparisons.
+- **B:** Satyagraha is a collective method.
+- **C:** Neither attribution corresponds to these figures.
+- **D:** A common ethical objection to violence does not make programmes identical.
+
+> **Examiner trap:** Influence is not equivalence in institutional programme.
+
+---
+
+### MCQ 21 — A
+
+- **A:** It seeks social stewardship by conversion, not forced expropriation as first principle.
+- **B:** It substitutes domination for custodianship.
+- **C:** This contradicts the fiduciary moral demand.
+- **D:** Trusteeship does not prohibit social cooperation.
+
+> **Examiner trap:** Identify both the proposed restraint and the risk of dependence on owners' goodwill.
+
+---
+
+### MCQ 22 — B
+
+- **A:** A universal duty is the opposite of caste-coded allocation.
+- **B:** Its demand extends beyond redistribution of monetary incomes.
+- **C:** Technology is not political authority in Gandhi's account.
+- **D:** The ethical appeal values productive bodily work.
+
+> **Examiner trap:** Universal means the privileged cannot exempt themselves.
+
+---
+
+### MCQ 23 — C
+
+- **A:** Every assignment misclassifies the terms.
+- **B:** The grouping negates Gandhian means and ends.
+- **C:** They perform different explanatory functions.
+- **D:** These correspond to neither Gauba's Gandhi nor his anarchists.
+
+> **Examiner trap:** Sarvodaya's separate anchor is cross-chapter, not invented from the ideology pages.
+
+---
+
+### MCQ 24 — D
+
+- **A:** That contradicts self-rule and ahimsa.
+- **B:** Mutual credit belongs to another doctrine.
+- **C:** Self-discipline presupposes obligations.
+- **D:** A self-regulated society needs moral capacities even with less state compulsion.
+
+> **Examiner trap:** Less coercive state does not mean less moral responsibility.
+
+---
+
+### MCQ 25 — A
+
+- **A:** Similar social goals do not cancel different methods.
+- **B:** Gandhi's means-end commitment rejects this.
+- **C:** Gandhi favours simpler, more dispersed production.
+- **D:** Marx and Gandhi differ sharply on religion.
+
+> **Examiner trap:** Do not infer identical doctrines from the phrase classless society.
+
+---
+
+### MCQ 26 — B
+
+- **A:** Socialism and Gandhian trusteeship both challenge that.
+- **B:** Identical anti-liberal labels hide opposed ownership aims.
+- **C:** Anarchism itself is internally plural.
+- **D:** Its hierarchical elite order has no such egalitarian basis.
+
+> **Examiner trap:** Ask who controls assets and for whose benefit.
+
+---
+
+### MCQ 27 — C
+
+- **A:** Only fascism takes this explicitly hierarchical route.
+- **B:** Socialists can use it for reform.
+- **C:** The first three have rival emancipatory grounds.
+- **D:** Neither grounding treats domination as freedom.
+
+> **Examiner trap:** Similar opposition to laissez-faire does not imply similar freedom.
+
+---
+
+### MCQ 28 — D
+
+- **A:** These constrain a totalitarian classification.
+- **B:** The package records these institutional criteria.
+- **C:** They should not be presumed from patriotic speech.
+- **D:** Fascism's leader, hierarchy and anti-pluralist mechanism cannot be inferred from one trait.
+
+> **Examiner trap:** Avoid labelling by one slogan rather than institutional structure.
+
+---
+
+### MCQ 29 — A
+
+- **A:** Similar methods do not prove identical justifications or outcomes.
+- **B:** Gauba explicitly distinguishes fascist hierarchy from communism's distributive aim.
+- **C:** Democratic socialism is a counterexample within the chapter.
+- **D:** That contradicts elite concentration and leader-state force.
+
+> **Examiner trap:** Do not excuse coercion in either case merely because goals differ.
+
+---
+
+### MCQ 30 — B
+
+- **A:** Many accept non-coercive expert authority.
+- **B:** Anti-statism concerns coercive authority even when policy is generous.
+- **C:** Common welfare motivates socialist control.
+- **D:** A democratic state can still exercise coercive legal power.
+
+> **Examiner trap:** Judge institutional authority separately from policy goals.
+
+---
+
+### MCQ 31 — C
+
+- **A:** Gandhi's mechanism specifically avoids that route.
+- **B:** Bread labour points the opposite way.
+- **C:** Moral appeal alone may fail to compel an unwilling owner.
+- **D:** Trusteeship offers no leader-led media control.
+
+> **Examiner trap:** Acknowledge the limitation without inventing an entirely different Gandhi.
+
+---
+
+### MCQ 32 — D
+
+- **A:** Conservative prudence and totalitarian leader rule are not equivalent.
+- **B:** This incorrectly fuses political economy and totalitarianism.
+- **C:** The basic owner instead discusses change for preservation.
+- **D:** A nearby debate about change is not an excuse to fold ideologies together.
+
+> **Examiner trap:** The fifth contextual doctrine is not licence to misclassify the four core ones.
+
 
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Socialism, Fascism, Anarchism and Gandhism** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
+No direct **owned** UPSC Prelims or General Studies Mains PYQ is verified for this Political Theory topic. The routed ledger does, however, record a related **2021 GS-I, Q13** descriptive demand under **World-History/advanced/12_Rise-of-Fascism-Italy-Germany-Japan**; the independent answer below is a cross-owned application, not a reassignment of ownership or a claim to verbatim official wording. The ledger also routes **2020 Prelims, Q14** (ideological common ground between Gandhism and Marxism) to **Modern-Indian-History/basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala**; its official option-to-key mapping is unavailable locally, so **no objective key is supplied or inferred**. The six subsequent questions are original GS Mains practice.
+
+### CROSS-OWNED VERIFIED DESCRIPTIVE PYQ DEMAND — 2021 GS-I, Q13
+
+**Ledger wording (neutral rendering, not verified verbatim):** Evaluate the challenge to the democratic state system between the two World Wars. **15 marks; 250-word demand.** Source: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, World History owner noted above.
+
+**Demand decode:** Evaluate *extent and causes* in the interwar window, not the philosophical definition of fascism alone. Compare distinct totalitarian challenges and note that democracy did not disappear everywhere; do not reduce the world-history question to Mussolini's intellectual influences.
+
+**Independent model answer:** Between the world wars, constitutional democracy faced a severe, though uneven, challenge. Economic dislocation, fear of revolution, nationalist grievance and weak parliamentary institutions gave authoritarian movements openings; these pressures explain opportunity, not an inevitable victory of dictatorship.
+
+In Italy, Mussolini's movement dismantled rival parties and subordinated parliament to a leader-led state. The political-theory mechanism matters: fascism rejected equal citizenship, justified hierarchy through the myth of an indivisible nation and controlled press and opposition. In Germany, Nazism similarly destroyed plural competition but made racial exclusion central to its own mobilisation. These were attacks not merely on a government in office but on the democratic principle that rulers can be challenged under law. Militarism and expansionism also turned domestic authoritarianism into a danger to international peace. The Soviet alternative challenged liberal-democratic pluralism from a different, revolutionary and avowedly egalitarian ideological starting point; it should not be called fascism simply because both restricted political competition.
+
+The crisis was not uniform. Constitutional politics survived in some states, showing that depression and war grievances did not mechanically produce one outcome. Moreover, welfare and parliamentary reform supplied alternative responses to social distress. Thus the interwar democratic state system was gravely threatened where institutional weakness met organised authoritarian mobilisation, but democracy was neither universally displaced nor challenged by only one ideology. Its survival depended on effective representation, rights and the capacity to address material insecurity without abandoning political pluralism.
+
+**Why this earns marks:** Italian and German mechanisms are distinguished; the Soviet challenge is not falsely equated with fascism; survival of constitutional democracy supplies the counter-case required by *evaluate*. The chronology stays between the wars, with a qualified verdict rather than a catalogue of dictators.
 
 ### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
@@ -739,13 +759,13 @@ No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Soci
 
 **Question:** Distinguish democratic socialism from revolutionary socialism. Answer in 150 words.
 
-**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of democratic socialism from revolutionary socialism in the opening line, carry the argument on Introduction, Core, Democratic and Fabianism, and reserve the closing sentences for the qualification that conclusion: Both seek social control of production, but democratic socialism treats constitutional reform as the route to equality whereas revolutionary socialism seeks a rupture with capitalist institutions.
+**Demand decode:** Distinguish shared social-ownership goals from the competing constitutional and revolutionary routes and their risks.
 
 **Model answer (150 words):**
 
 Introduction: Both democratic and revolutionary socialism seek social control of production for common welfare, but they differ over method and institutional continuity. Core analysis: Democratic socialism pursues gradual change through elections, legislation, administration, trade unions and public persuasion. Fabianism exemplifies this evolutionary strategy, while Lassalle and Bernstein revise revolutionary expectations in favour of constitutional reform. Revolutionary socialism holds that capitalist ownership and class power cannot be transformed adequately within existing institutions and therefore requires a decisive rupture. The disagreement concerns not the goal of overcoming exploitation alone, but whether the state and parliamentary system can become instruments of transition. Critical evaluation: Democratic socialism reduces coercive risk but may be absorbed by capitalism; revolutionary socialism targets structural power more directly but risks authoritarian concentration. Conclusion: Both seek social control of production, but democratic socialism treats constitutional reform as the route to equality whereas revolutionary socialism seeks a rupture with capitalist institutions.
 
-**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Democratic and Fabianism), converts that evidence into analysis of democratic socialism from revolutionary socialism, and keeps the examiner-facing qualification that conclusion: Both seek social control of production, but democratic socialism treats constitutional reform as the route to equality whereas revolutionary socialism seeks a rupture with capitalist institutions. At 150 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Fabianism, Lassalle and Bernstein exemplify gradual reform; the answer also recognises revolutionary concern about entrenched ownership.
 
 ---
 
@@ -753,13 +773,13 @@ Introduction: Both democratic and revolutionary socialism seek social control of
 
 **Question:** Why is anarchism a theory of non-coercive order rather than a defence of disorder? Answer in 150 words.
 
-**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of is anarchism a theory of non-coercive order rather than a defence of disorder in the opening line, carry the argument on Introduction, Anarchism, Core and Proudhon's, and reserve the closing sentences for the qualification that these challenge feasibility, but do not convert anarchism into a defence of chaos.
+**Demand decode:** Explain what anarchists abolish, then show how Proudhon, Kropotkin and Bakunin envision coordination without coercive sovereignty.
 
-**Model answer (147 words):**
+**Model answer (148 words):**
 
 Introduction: Anarchism rejects the coercive authority of the sovereign state, not every rule, association or form of coordination. Core analysis: Proudhon's mutualism envisages autonomous associations and reciprocal exchange; Kropotkin grounds cooperation in mutual aid and distribution by need; Bakunin favours revolutionary collectivism. These positions assume that social order can arise through voluntary federation, custom, reciprocity and democratically accepted obligation. Anarchists may also distinguish coercive command from expert authority, which is followed because of competence rather than a legal right to obedience. The doctrine is therefore a normative account of order without a coercive superior. Critical evaluation: Its unresolved problems are scale, public goods, security and hidden informal domination. These challenge feasibility, but do not convert anarchism into a defence of chaos. Conclusion: Anarchism rejects coercive sovereignty, not coordination itself; its viability therefore turns on whether voluntary association can meet the problems of scale, security and hidden authority.
 
-**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Anarchism, Core and Proudhon's), converts that evidence into analysis of is anarchism a theory of non-coercive order rather than a defence of disorder, and keeps the examiner-facing qualification that these challenge feasibility, but do not convert anarchism into a defence of chaos. At 147 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Uses differentiated institutional proposals and acknowledges the scale/security objection without describing anarchism as chaos.
 
 ---
 
@@ -767,13 +787,13 @@ Introduction: Anarchism rejects the coercive authority of the sovereign state, n
 
 **Question:** Critically examine fascism as a political pathology rather than a coherent political philosophy. Answer in 150 words.
 
-**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine fascism as a political pathology rather than a coherent political philosophy in the opening line, carry the argument on Introduction, Fascism, Core and Mussolini's Italian, and reserve the closing sentences for the qualification that conclusion: Fascism's cult of leadership, myth and violence can mobilise power, but its rejection of reason, liberty and equality prevents it from offering a defensible political philosophy.
+**Demand decode:** Test whether fascist political effectiveness constitutes philosophical coherence; judge leader rule, myth and suppressed rights against liberty and equality.
 
-**Model answer (139 words):**
+**Model answer (142 words):**
 
 Introduction: Fascism is better understood as a totalitarian mobilisation of power than as a systematic and defensible political philosophy. Core analysis: It combines extreme nationalism, hierarchy, the leader principle, single-party rule, myth over reason and violence as a political instrument. Mussolini's Italian fascism opposed liberalism, democracy and Marxism, while Nazism added an explicitly racial myth and should not be treated as identical in every respect. Fascism preserved concentrated capital while removing democratic and welfare restraints, destroyed plural institutions and reduced individuals to means of the total state. Critical evaluation: Its internal incoherence does not make it harmless: precisely because myth and authority replace rational justification, Gauba's description of political pathology is apt. Conclusion: Fascism's cult of leadership, myth and violence can mobilise power, but its rejection of reason, liberty and equality prevents it from offering a defensible political philosophy.
 
-**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Fascism, Core and Mussolini's Italian), converts that evidence into analysis of examine fascism as a political pathology rather than a coherent political philosophy, and keeps the examiner-facing qualification that conclusion: Fascism's cult of leadership, myth and violence can mobilise power, but its rejection of reason, liberty and equality prevents it from offering a defensible political philosophy. At 139 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** Separates historical capacity to mobilise from defensible principles, including the distinction between Italian fascism and Nazism.
 
 ---
 
@@ -781,13 +801,13 @@ Introduction: Fascism is better understood as a totalitarian mobilisation of pow
 
 **Question:** Evaluate Gandhi as a moral and decentralist anarchist. Answer in 250 words.
 
-**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of gandhi as a moral and decentralist anarchist in the opening line, carry the argument on Introduction, Gandhi, Core and Unlike Bakunin, and reserve the closing sentences for the qualification that conclusion: Gandhi is anarchist in his ideal of self-rule and minimal coercion, but reformist in method because satyagraha and constructive work replace insurrection.
+**Demand decode:** Evaluate anarchist affinities and limits of the comparison: non-coercive self-rule versus revolutionary abolition and Gandhi's constructive programme.
 
-**Model answer (219 words):**
+**Model answer (233 words):**
 
-Introduction: Gandhi has a strong anarchist affinity because swaraj ultimately means disciplined self-rule with the least possible dependence on coercive state authority. Core analysis: His preferred order rests on decentralised communities, voluntary cooperation, ahimsa and satyagraha. Unlike Bakunin, Gandhi rejects violent insurrection and insists that means must embody the desired end. Trusteeship seeks to transform property into social stewardship, bread labour affirms the dignity of productive work, and Sarvodaya directs politics toward the welfare of all, beginning with the weakest. The moral discipline of citizens, not normlessness, sustains order. Further development: The comparison with Tolstoy and classical anarchists clarifies the classification. Tolstoy's pacifist-Christian refusal of immoral commands influences Gandhi's moral anti-statism, while Proudhon, Kropotkin and Bakunin construct different institutional or revolutionary routes beyond the state. Gandhi adds disciplined non-violence, village self-government and a programme of social reconstruction. The qualification is decisive: he does not demand immediate abolition of every state function, and his economic transition relies more heavily on conversion and trusteeship than on coercive expropriation. Critical evaluation: Gandhi is therefore anarchist in the regulative ideal of a self-governing society but pragmatic and reformist in political method. Trusteeship's dependence on moral conversion remains its major weakness. Conclusion: Gandhi is anarchist in his ideal of self-rule and minimal coercion, but reformist in method because satyagraha and constructive work replace insurrection.
+Introduction: Gandhi has a strong anarchist affinity because swaraj ultimately means disciplined self-rule with the least possible dependence on coercive state authority. Core analysis: His preferred order rests on decentralised communities, voluntary cooperation, ahimsa and satyagraha. Unlike Bakunin, Gandhi rejects violent insurrection and insists that means must embody the desired end. Trusteeship seeks to transform property into social stewardship, bread labour affirms the dignity of productive work, and Sarvodaya directs politics toward the welfare of all, beginning with the weakest. The moral discipline of citizens, not normlessness, sustains order. Further development: The comparison with Tolstoy and classical anarchists clarifies the classification. Tolstoy's pacifist-Christian refusal of immoral commands influences Gandhi's moral anti-statism, while Proudhon, Kropotkin and Bakunin construct different institutional or revolutionary routes beyond the state. Gandhi adds disciplined non-violence, village self-government and a programme of social reconstruction. The qualification is decisive: he does not demand immediate abolition of every state function, and his economic transition relies more heavily on conversion and trusteeship than on coercive expropriation. Critical evaluation: Gandhi is therefore anarchist in the regulative ideal of a self-governing society but pragmatic and reformist in political method. Trusteeship's dependence on moral conversion remains its major weakness: an unwilling owner may continue exercising concentrated power despite moral exhortation. Conclusion: Gandhi is anarchist in his ideal of self-rule and minimal coercion, but reformist in method because satyagraha and constructive work replace insurrection.
 
-**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Gandhi, Core and Unlike Bakunin), converts that evidence into analysis of gandhi as a moral and decentralist anarchist, and keeps the examiner-facing qualification that conclusion: Gandhi is anarchist in his ideal of self-rule and minimal coercion, but reformist in method because satyagraha and constructive work replace insurrection. At 219 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Contrasts Gandhi with Bakunin and Tolstoy, and examines dependence of trusteeship on voluntary conversion.
 
 ---
 
@@ -795,13 +815,13 @@ Introduction: Gandhi has a strong anarchist affinity because swaraj ultimately m
 
 **Question:** Compare socialism, anarchism, Gandhism and fascism on liberty, equality, state and property. Answer in 250 words.
 
-**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of socialism, anarchism, Gandhism and fascism on liberty, equality, state and property in the opening line, carry the argument on Introduction, Core, Socialism and Anarchism, and reserve the closing sentences for the qualification that conclusion: Socialism, anarchism and Gandhism offer rival emancipatory responses to domination, whereas fascism is the outlier because it openly subordinates liberty and equality to hierarchy and the total state.
+**Demand decode:** Compare the four traditions on the same four axes: liberty, equality, state and productive property; explain why fascism is an outlier.
 
 **Model answer (241 words):**
 
 Introduction: The four doctrines respond to modern capitalism and political authority through sharply different moral priorities. Core analysis: Socialism seeks equality and common welfare through social ownership or control, with democratic and revolutionary variants differing over the state. Anarchism treats coercive authority as the principal domination and seeks voluntary federation, though its property positions vary. Gandhism combines self-rule, non-violence, trusteeship and decentralised production, making ethical means central to liberty and equality. Fascism instead subordinates the individual to the leader and total state, affirms hierarchy and preserves concentrated property under authoritarian control. Further development: The transition mechanisms also differ. Democratic socialism uses constitutional state power to socialise control; revolutionary socialism seeks rupture; anarchism replaces sovereignty with voluntary federation; Gandhism uses moral self-rule, constructive work and non-violent resistance; fascism concentrates power in leader and party. Their treatment of property follows the diagnosis of domination: social control for socialists, varied mutual or communal arrangements for anarchists, trusteeship for Gandhi, and concentrated private ownership under political subordination for fascism. The comparison must therefore avoid the superficial claim that all anti-liberal doctrines are alike. Critical evaluation: Socialism, anarchism and Gandhism can be compared as rival emancipatory projects. Fascism must remain the outlier because it rejects the equal moral standing that gives the other three their critical purpose. Conclusion: Socialism, anarchism and Gandhism offer rival emancipatory responses to domination, whereas fascism is the outlier because it openly subordinates liberty and equality to hierarchy and the total state.
 
-**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Socialism and Anarchism), converts that evidence into analysis of socialism, anarchism, Gandhism and fascism on liberty, equality, state and property, and keeps the examiner-facing qualification that conclusion: Socialism, anarchism and Gandhism offer rival emancipatory responses to domination, whereas fascism is the outlier because it openly subordinates liberty and equality to hierarchy and the total state. At 241 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Avoids the false collectivist equivalence by naming each distinct authority/property mechanism and fascism's explicit hierarchy.
 
 ---
 
@@ -809,12 +829,12 @@ Introduction: The four doctrines respond to modern capitalism and political auth
 
 **Question:** Critically analyse conservatism as prudential reform rather than resistance to all change. Answer in 250 words.
 
-**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of analyse conservatism as prudential reform rather than resistance to all change in the opening line, carry the argument on Introduction, Conservatism, Core and Burke's, and reserve the closing sentences for the qualification that conservatism is defensible only when gradualism remains open to evidence, rights and the claims of those burdened by tradition.
+**Demand decode:** Critically analyse Burke's and Oakeshott's epistemic prudence against Paine's challenge and the possibility of inherited injustice.
 
-**Model answer (245 words):**
+**Model answer (247 words):**
 
 Introduction: Conservatism is a disposition to preserve an inherited order through cautious change, not a doctrine that every existing institution must remain untouched. Core analysis: Burke's argument is that institutions embody accumulated experience, prescription and tacit social knowledge that abstract redesign cannot easily replace. Reform is justified when demonstrated malfunction threatens continuity: change is undertaken in order to conserve. Oakeshott adds an epistemic distinction between technical knowledge and practical knowledge embedded in tradition and judgment. Conservative strands nevertheless differ, from traditional hierarchy to paternalistic obligation and the market-oriented New Right. Further development: The internal strands reveal the limits of a single definition. Traditional conservatism emphasises authority and inherited order; paternalistic or One-Nation conservatism adds obligations toward social cohesion; the New Right combines market liberalism with conservative themes, though Hayek explicitly rejected the conservative label. Paine's counterargument remains powerful: inherited prescription cannot bind successors or legitimate injustice. The conservative reply is strongest as an epistemic caution about unintended consequences, not as proof that existing hierarchy is morally right. In the Indian context, prudence cannot excuse caste exclusion merely because it is historically embedded. Critical evaluation: Prudence can correct rationalist overconfidence, but it may also protect exclusion and inherited privilege. Conservatism is defensible only when gradualism remains open to evidence, rights and the claims of those burdened by tradition. Conclusion: Conservatism is most defensible when inherited institutions are treated as revisable stores of practical knowledge; it becomes indefensible when prudence is used to shield hierarchy or exclusion.
 
-**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Conservatism, Core and Burke's), converts that evidence into analysis of analyse conservatism as prudential reform rather than resistance to all change, and keeps the examiner-facing qualification that conservatism is defensible only when gradualism remains open to evidence, rights and the claims of those burdened by tradition. At 245 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** Distinguishes prudent revision from stasis and rejects using tradition alone as a defence of caste or exclusion.
 
 ---

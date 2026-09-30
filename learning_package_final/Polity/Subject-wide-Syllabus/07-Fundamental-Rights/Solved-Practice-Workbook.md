@@ -7,20 +7,295 @@ title: Fundamental Rights - Solved Practice Workbook
 
 # Fundamental Rights - Solved Practice Workbook
 
-> **Source and status control:** Constitution Part III; canonical Basic, Advanced and complete owners; audited PYQ ledgers; local OCR polity books; official judgments and legislation checked through 7 September 2026. Exactly 32 original MCQs appear before 21 audited PYQs. Only the held final local-official 2024 Q76 answer letter is printed; fourteen other objective letters are withheld.
+> **Source and status control:** Constitution Part III; canonical Basic, Advanced and complete owners; audited PYQ ledgers; local OCR polity books; official judgments and legislation checked through 7 September 2026. Exactly 40 original MCQs appear before 21 audited PYQs. Only the held final local-official 2024 Q76 answer letter is printed; fourteen other objective letters are withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a unique substantive explanation and every question ends with a unique question-specific Examiner trap.
+40 original questions. Complete the questions before opening the separate explained key; correct options rotate A → B → C → D. Verified PYQs retain independent provenance and key treatment.
 
-### Q1. With reference to the architecture of Part III, which statement is correct?
+### Q1. A coaching chart counts every provision in Articles 12–35 as a separate substantive Fundamental Right and places property and High Court writs in the same list. Which correction preserves the distinction between gateways, the six right-families and remedies?
 
-A. Articles 12-13 identify bound power and inconsistent law, Article 32 is itself a Fundamental Right, and Articles 31A-35 are bounded control provisions.  
-B. Every Article between 12 and 35 is separately counted among the six present Fundamental Rights.  
-C. Article 226 belongs to Part III and is itself a Fundamental Right.  
-D. Article 300A remains one of the six rights because it protects property.  
+A. Articles 12-13 identify bound power and inconsistent law, Article 32 is itself a Fundamental Right, and Articles 31A-35 are bounded control provisions.
+B. Every Article between 12 and 35 is separately counted among the six present Fundamental Rights.
+C. Article 226 belongs to Part III and is itself a Fundamental Right.
+D. Article 300A remains one of the six rights because it protects property.
 
-**Answer: A.**
+### Q2. A citizen challenges a private restaurant's caste exclusion and a foreign visitor claims the Article 19 freedoms. Which rights-map distinguishes who holds a guarantee from whether a private actor can directly violate it?
+
+A. Every right available to a person applies directly against every private actor.
+B. Article 15(2) directly reaches specified private exclusion of citizens; Article 17 also reaches private untouchability, whereas Article 19 freedoms belong to citizens.
+C. Article 17 is citizen-only because caste is a citizenship status.
+D. Article 19 protects all persons but is enforceable only against public corporations.
+
+### Q3. A government-financed society performs a function transferred from a department and is under pervasive administrative control. What is the best approach?
+
+A. Its registration as a society conclusively excludes Article 12.
+B. Only ownership of every share can make an entity State.
+C. Its cumulative financial, functional and administrative relationship may make it an instrumentality of the State.
+D. It automatically becomes Parliament for Part III purposes.
+
+### Q4. A court reviews an exclusionary custom having the force of law alongside a constitutional amendment passed under Article 368. Which treatment avoids putting both measures through the identical Article 13(2) test?
+
+A. Custom is excluded because only enacted measures are law.
+B. Every invalid provision necessarily destroys the entire enactment.
+C. A constitutional amendment is reviewed exactly like an ordinary notification under Article 13(2).
+D. Law includes custom or usage with the force of law, while constitutional amendments follow Article 368 and basic-structure review.
+
+### Q5. A pre-Constitution law conflicts with a Fundamental Right, but the offending shadow is later validly removed. Which combination is correct?
+
+A. Eclipse may permit revival; severability may preserve a separable valid remainder; waiver cannot validate unconstitutional State action.
+B. Repugnancy permits revival; colourable legislation preserves the remainder; waiver is always available.
+C. Eclipse automatically applies to every post-Constitution law and permanently erases the pre-Constitution enactment.
+D. Severability requires striking the whole Act whenever one clause is invalid.
+
+### Q6. Which sequence correctly states the amendment-Fundamental Rights relationship?
+
+A. Golaknath created the basic-structure doctrine and Kesavananda abolished amendment review.
+B. Golaknath restricted FR-amending power prospectively; the Twenty-fourth Amendment responded; Kesavananda allowed amendment subject to basic structure.
+C. Shankari Prasad held that every constitutional amendment is ordinary law under Article 13.
+D. Minerva Mills upheld Parliament's unlimited power to give every Directive Principle priority over every Fundamental Right.
+
+### Q7. A classification uses an intelligible criterion but the criterion has no relation to the law's objective. Under Article 14, it
+
+A. survives because intelligibility alone is sufficient.
+B. can be reviewed only if a citizen invokes Article 19.
+C. fails the rational-nexus limb, independently of any further arbitrariness inquiry.
+D. becomes valid if the legislature records a unanimous vote.
+
+### Q8. A privately owned well denies access on a prohibited ground; separately, an unaided non-minority college contests a reservation statute. Which pair of Article 15 clauses, and which institutional exception, determine the two disputes?
+
+A. Article 15(2) regulates only State-owned shops and wells.
+B. Article 15(5) abolishes Article 30 minority-institution protection.
+C. Article 15(4) was inserted by the 103rd Amendment to create EWS reservation.
+D. Article 15(2) directly bars specified access discrimination, while Article 15(5) enables admissions law for covered aided and unaided private institutions except Article 30(1) minority institutions.
+
+### Q9. An applicant demands an individual quota in a State cadre solely because her class is backward, without evidence about representation. Which Article 16 rule decides whether the State must reserve the post?
+
+A. Article 16(4) is an enabling power for backward classes inadequately represented in State services, not a guaranteed individual quota.
+B. Article 16(3) lets each State executive impose any residence requirement it prefers.
+C. Article 16(4A) applies to every backward class in all promotions without constitutional conditions.
+D. Article 16(4B) abolishes Article 335's efficiency consideration.
+
+### Q10. What is the exam-safe statement of the reservation ceiling after Indra Sawhney?
+
+A. Fifty per cent is an exceptionless constitutional number that no later text or extraordinary circumstance can qualify.
+B. It is the ordinary doctrinal ceiling, subject to carefully justified exceptional circumstances and text-specific constitutional developments.
+C. It applies only to EWS reservation and never to social and educational backwardness.
+D. It was deleted from doctrine by Article 335.
+
+### Q11. A State defends a new EWS admissions and appointments policy by citing the 103rd Amendment; a petitioner insists Janhit Abhiyan unanimously struck that amendment down. Which legal baseline should the court use?
+
+A. The 103rd Amendment created only Article 16(4A).
+B. Janhit Abhiyan unanimously invalidated economic reservation.
+C. Articles 15(6) and 16(6) authorise EWS measures, and a 3:2 majority in Janhit Abhiyan upheld the 103rd Amendment.
+D. EWS reservation constitutionally includes classes already covered by Article 15(4) as EWS for the same benefit.
+
+### Q12. After State of Punjab v. Davinder Singh (2024), which proposition is correct?
+
+A. States may rewrite the Presidential Scheduled Castes list.
+B. Every State is constitutionally required to create a sub-quota.
+C. One sub-class may receive the entire benefit without evidence or review.
+D. Evidence-based sub-classification within Scheduled Castes is permissible for distributing reservation benefits, without altering the Article 341 list.
+
+### Q13. A private club practises caste-based untouchability and an awardee styles a national honour as a hereditary prefix. Which distinction makes the first practice prohibited without making properly used national awards unconstitutional?
+
+A. Article 17 directly reaches private caste-based untouchability; Article 18 permits military and academic distinctions and properly used national awards.
+B. Article 17 protects only citizens against State action; Article 18 abolishes academic degrees.
+C. Article 17 belongs to the exploitation chapter; Article 18 applies only to hereditary citizens.
+D. National awards are always unconstitutional titles even when not used as prefixes or suffixes.
+
+### Q14. Which list contains all six current freedoms under Article 19(1)?
+
+A. Speech, assembly, association, property, movement and religion
+B. Speech, peaceful assembly, association, movement, residence and profession/trade/business
+C. Speech, privacy, education, movement, residence and constitutional remedies
+D. Assembly, association, equality, property, profession and conscience
+
+### Q15. Which freedom-restriction pairing is constitutionally correct?
+
+A. Movement - friendly relations with foreign States
+B. Profession - contempt of court
+C. Association - sovereignty and integrity, public order and morality
+D. Speech - protection of the interests of Scheduled Tribes
+
+### Q16. A lawyer argues that invalidation of section 66A also invalidated every safeguarded blocking power, and that protection of online expression amounts to an unlimited freestanding internet-access right. Which case-law account defeats those leaps without prejudging the distinct BNS section 152?
+
+A. Anuradha Bhasin created an unlimited standalone Fundamental Right to internet access and invalidated every shutdown.
+B. Shreya Singhal struck down section 69A but upheld section 66A.
+C. BNS section 152 is textually identical to IPC section 124A and has been finally upheld by the Supreme Court.
+D. Shreya Singhal invalidated section 66A but retained safeguarded blocking; Anuradha Bhasin protected speech/trade through the internet as a medium; section 152 has distinct ingredients and no located final merits ruling through 7 September 2026.
+
+### Q17. A penal law retroactively increases punishment, the State seeks a second prosecution for the same offence, and investigators compel testimonial self-incrimination. Which constitutional package addresses all three, rather than immunising every parallel disciplinary proceeding?
+
+A. It bars retrospective creation or enhancement of criminal liability, repeated prosecution and punishment for the same offence, and compelled testimonial self-incrimination.
+B. It protects only citizens and may be included in an Article 359 order.
+C. Article 20(2) bars every departmental proceeding following a criminal case.
+D. Article 20(3) prevents collection of all fingerprints, handwriting and bodily samples.
+
+### Q18. Which situation most directly attracts Article 20(3)?
+
+A. A lawfully obtained fingerprint sample from a person not accused of an offence
+B. Compelling an accused to communicate personal knowledge that is incriminating and testimonial
+C. A beneficial retrospective reduction of punishment
+D. A departmental inquiry after an acquittal where no second criminal prosecution occurs
+
+### Q19. Which sequence best describes Article 21's doctrinal evolution?
+
+A. Puttaswamy -> A.K. Gopalan -> Maneka Gandhi
+B. Maneka Gandhi -> R.C. Cooper -> A.K. Gopalan
+C. A.K. Gopalan's siloed procedure -> R.C. Cooper's effects approach -> Maneka Gandhi's fair, just and reasonable procedure
+D. Golaknath -> Indra Sawhney -> Minerva Mills
+
+### Q20. A petitioner combines a challenge to disproportionate State surveillance with a demand that recognition of consensual same-sex intimacy itself compel judicial rewriting of marriage legislation. Which account separates the protected interests from the remedy not granted?
+
+A. Puttaswamy made every privacy claim absolute.
+B. Navtej Singh Johar judicially created a Fundamental Right to same-sex marriage.
+C. Supriyo held that the Special Marriage Act must be rewritten by courts to recognise every union.
+D. Puttaswamy requires legality, legitimate aim, proportionality and safeguards; Navtej protects consensual adult same-sex intimacy, while Supriyo did not judicially create same-sex marriage and its review was dismissed in 2025.
+
+### Q21. Which Article 21A proposition is correct?
+
+A. It guarantees free and compulsory education for children aged six to fourteen, implemented through the RTE framework with a distinct Article 30 minority-institution boundary.
+B. It covers every person from birth through university.
+C. It repealed Article 45 and Article 51A(k).
+D. Pramati required the RTE obligation to override minority educational autonomy in all cases.
+
+### Q22. A preventive-detention statute purports to deny the ordinary arrestee's lawyer and production safeguards to everyone it reaches, while a guide says the proposed two-month constitutional ceiling is already operative. Which separation of arrest regimes and detention limit is valid?
+
+A. Every preventive detainee has the Article 22(1) lawyer and 24-hour production guarantees.
+B. Ordinary arrest carries clauses (1)-(2) safeguards; preventive detention follows clauses (4)-(7), and the operative no-Advisory-Board ceiling remains three months.
+C. The Forty-fourth Amendment's proposed two-month period is already the operative constitutional text.
+D. Preventive detention is punishment after conviction for completed conduct.
+
+### Q23. A private contractor exacts unpaid coerced labour from adults and deploys children below fourteen in a hazardous mine. Which constitutional guarantees reach the two harms despite the contractor's private status?
+
+A. Both Articles operate only against the State.
+B. Article 23 covers only trafficking across an international border.
+C. Article 23 reaches trafficking, begar and similar forced labour by public or private actors; Article 24 bars children below fourteen from factory, mine and hazardous employment.
+D. Article 24's constitutional wording is identical to every later statutory child-labour prohibition and exception.
+
+### Q24. An individual invokes freedom of conscience while a denomination asserts management of its own religious affairs against a secular-regulation law. Which allocation of rights and limits can a court apply to both claims?
+
+A. Article 25 protects denominations only, while Article 26 protects every individual's conscience.
+B. Both rights are absolute once a claimant labels conduct religious.
+C. Article 25(2) prevents all social-reform legislation.
+D. Article 25 protects individual conscience and profession, practice and propagation; Article 26 protects denominational affairs, both within stated limits and secular-regulation boundaries.
+
+### Q25. A State earmarks a tax for promoting one religion, while a recognised school claims that its status alone permits mandatory religious instruction. Which distinction between taxation, institution type and consent resolves the two challenges?
+
+A. Article 27 bars a specifically appropriated religion-promoting tax, while Article 28 distinguishes wholly State-maintained, trust-administered and aided or recognised institutions.
+B. Article 27 prohibits every regulatory fee connected with any religious institution.
+C. Article 28 forbids academic study about religion in every educational institution.
+D. Article 28 permits compulsory religious instruction in every aided institution without consent.
+
+### Q26. What is the most defensible use of the Essential Religious Practices doctrine?
+
+A. Any long-standing practice is automatically essential and immune.
+B. Use essentiality as a threshold within a text-first inquiry, then apply explicit limits, competing rights, reform power and proportionality with institutional caution.
+C. Courts must decide theology without examining public order, equality or harm.
+D. The doctrine has been formally deleted from all religious-freedom cases.
+
+### Q27. A section of citizens claims cultural protection although it is not a religious minority; a linguistic-minority college objects to regulation of standards. Which provision-and-beneficiary mapping avoids treating both rights as absolute minority-only privileges?
+
+A. Article 29 is available only to minorities and Article 30 to all cultural groups.
+B. Article 30 prevents every academic or administrative regulation.
+C. Article 29 protects specified interests of sections of citizens and admission non-discrimination; Article 30 protects religious and linguistic minority institutions, generally assessed State-wise.
+D. Article 29(2) permits denial of aided-institution admission solely on language.
+
+### Q28. A litigant seeks enforcement of a statutory public duty against a body outside Article 12. Why might the High Court entertain the writ even though direct Supreme Court relief under Article 32 is unavailable?
+
+A. Article 32 enforces every legal right, while Article 226 is confined to Fundamental Rights.
+B. Article 226 is unavailable against a non-State body performing a public duty.
+C. Article 32 is only a discretionary statutory appeal.
+D. Article 32 is itself a Fundamental Right for Part III enforcement; Article 226 is wider in subject matter and may reach public duties beyond Article 12 State status.
+
+### Q29. A tribunal is about to decide a matter outside its jurisdiction. Which writ and timing fit best?
+
+A. Prohibition, because it prevents threatened jurisdictional excess before the proceeding is completed.
+B. Certiorari, because it always operates prospectively before any order.
+C. Quo warranto, because every tribunal holds a public office unlawfully.
+D. Habeas corpus, because any jurisdictional error is a detention.
+
+### Q30. A land-reform law invokes Article 31A, a later Ninth Schedule insertion claims absolute immunity, another law invokes Article 39(b), and an owner pleads property as a Fundamental Right. Which combined analysis respects each provision's separate scope?
+
+A. Ninth Schedule insertion creates absolute immunity from all judicial review.
+B. Article 31A protects specified reform fields; post-24 April 1973 Ninth Schedule insertions face basic-structure review; original Article 31C is limited to genuine Article 39(b)-(c) laws; property now rests in Article 300A.
+C. Article 31C gives every Directive Principle automatic priority over all Fundamental Rights.
+D. Article 300A is a citizen-only Fundamental Right enforceable solely through Article 32.
+
+### Q31. Parliament tailors rights for the armed forces and considers indemnity for acts where martial law operated; an officer says a mere executive command suffices to extinguish all Part III rights. Which constitutional allocation rebuts that claim?
+
+A. Article 33 directly authorises every commander to cancel any right without law.
+B. Martial law and National Emergency are identical expressions for the same proclamation.
+C. Parliament may tailor rights for specified forces or services under Article 33; Article 34 concerns indemnity where martial law existed; Article 35 reserves listed Part III legislation to Parliament.
+D. Article 34 automatically suspends habeas corpus throughout India.
+
+### Q32. During a war-based National Emergency, a candidate claims every right's text disappears automatically and that a Presidential enforcement order can also name Articles 20 and 21. What are the distinct triggers and protected exceptions under Articles 358 and 359?
+
+A. Both automatically suspend every Fundamental Right during any Emergency.
+B. Article 359 deletes the text of every right named in a Presidential order.
+C. Article 358 applies to internal-disturbance Emergency and Article 359 may include Articles 20 and 21.
+D. Article 358 automatically affects Article 19 only in war or external-aggression Emergency within its conditions; Article 359 requires a Presidential order suspending specified enforcement and can never include Articles 20 or 21.
+
+### Q33. A privately owned restaurant denies a citizen entry solely on caste grounds. Which constitutional route directly addresses the act?
+
+A. Article 15(2), which reaches specified private access discrimination
+B. Article 15(1) alone, because every private business is “State”
+C. Article 19(1)(g) alone, because occupation overrides equality
+D. Article 29(2) alone, because every restaurant is a State-aided school
+
+### Q34. A law limits a citizen’s speech solely because criticism inconveniences a minister. Which restriction analysis applies?
+
+A. Any announced government reason suffices under Article 19(2)
+B. The restriction needs a specified Article 19(2) ground and must be reasonable
+C. Article 19(1)(a) never permits any restriction
+D. Article 19(6) is the speech-restriction clause
+
+### Q35. A police officer obtains a suspect’s thumb impression; a separate interrogation forces the suspect to explain an incriminating transaction. What is the Article 20(3) distinction?
+
+A. Both acts necessarily violate Article 20(3)
+B. Neither act can ever implicate Article 20(3)
+C. Compelled testimonial explanation is distinct from a physical identifying impression
+D. Article 20(3) is confined to witnesses other than the accused
+
+### Q36. An ordinary arrestee is denied grounds of arrest and prompt magistrate production. Which rights-map statement is accurate?
+
+A. Only Article 19 applies and it is citizen-only
+B. Article 22(3) always excludes every arrestee
+C. Only Article 21A regulates police custody
+D. Article 22(1)–(2) provides safeguards; preventive-detention and enemy-alien exceptions must be read precisely
+
+### Q37. A minority-run unaided institution challenges regulation of academic standards as an abolition of Article 30 rights. What is the calibrated response?
+
+A. Article 30 autonomy permits reasonable regulatory standards but forbids destruction of minority character
+B. Every quality regulation must be struck down irrespective of effect
+C. Article 29(2) gives an institution freedom to reject all State oversight
+D. Article 30 protects only institutions established by the Union
+
+### Q38. A High Court petition invokes a statutory entitlement but no Fundamental Right. Which jurisdictional distinction matters?
+
+A. Article 32 can enforce every statutory entitlement
+B. Article 226 reaches “any other purpose”; Article 32 protects Fundamental Rights
+C. Both Articles are confined to disputes between States
+D. Article 226 belongs to the Supreme Court alone
+
+### Q39. A Ninth Schedule statute is challenged on basic-structure grounds despite its asserted Article 31B protection. Which principle controls?
+
+A. Ninth Schedule placement is absolute immunity for all later insertions
+B. The basic-structure test is confined to ordinary administrative orders
+C. Post-Kesavananda Schedule insertions are reviewable for basic-structure damage under I.R. Coelho
+D. Every Ninth Schedule statute is void without further inquiry
+
+### Q40. During an Emergency proclaimed only for armed rebellion, which claim correctly separates Articles 358 and 359?
+
+A. Article 19 is automatically suspended under Article 358
+B. An Article 359 order can suspend remedies for Articles 20 and 21
+C. Both clauses permanently remove the rights themselves
+D. Article 358’s automatic Article 19 effect is confined to war/external aggression; Articles 20 and 21 remedies cannot be suspended under Article 359
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### 1 — **Correct: A.**
 
 - **A:** Correct: Part III combines gateway provisions, six present rights, a guaranteed Article 32 remedy and defined saving or special-control clauses.
 - **B:** Incorrect: the six-right catalogue does not count Articles 12-13 or 31A-35 as additional substantive right families.
@@ -29,30 +304,16 @@ D. Article 300A remains one of the six rights because it protects property.
 
 **Examiner trap:** The architecture question tests membership in Part III separately from membership in the six-right catalogue.
 
-### Q2. Which statement most precisely separates beneficiary language from horizontal application?
-
-A. Every right available to a person applies directly against every private actor.  
-B. Article 15 is citizen-specific; Article 15(2) directly reaches specified private exclusion, while Article 15(5) authorises law reaching covered private educational institutions.  
-C. Article 17 is citizen-only because caste is a citizenship status.  
-D. Article 19 protects all persons but is enforceable only against public corporations.  
-
-**Answer: B.**
+### 2 — **Correct: B.**
 
 - **A:** Incorrect: person-based beneficiary wording does not by itself convert every private dispute into a direct constitutional claim.
-- **B:** Correct: the Article 15 clauses show why holder, direct prohibition and legislation-mediated private reach must be analysed separately.
+- **B:** Correct: Article 15(2) covers specified citizen-access discrimination even by private actors, Article 17 directly reaches private untouchability, and Article 19 freedoms are citizen-specific.
 - **C:** Incorrect: Article 17 is framed as an absolute abolition and directly reaches caste-based untouchability regardless of the actor's private status.
 - **D:** Incorrect: Article 19 expressly protects citizens and primarily restrains State action; the option reverses both propositions.
 
-**Examiner trap:** A right's holder and its duty-bearer are two axes; collapsing them produces the closest distractor.
+**Examiner trap:** Private reach under Article 17 does not make every right horizontal, and person-rights cannot be silently exchanged for citizen-only freedoms.
 
-### Q3. A government-financed society performs a function transferred from a department and is under pervasive administrative control. What is the best approach?
-
-A. Its registration as a society conclusively excludes Article 12.  
-B. Only ownership of every share can make an entity State.  
-C. Its cumulative financial, functional and administrative relationship may make it an instrumentality of the State.  
-D. It automatically becomes Parliament for Part III purposes.  
-
-**Answer: C.**
+### 3 — **Correct: C.**
 
 - **A:** Incorrect: Ajay Hasia rejects form as conclusive; a society can satisfy the instrumentality test.
 - **B:** Incorrect: total ownership is neither constitutionally required nor a substitute for the cumulative domination inquiry.
@@ -61,14 +322,7 @@ D. It automatically becomes Parliament for Part III purposes.
 
 **Examiner trap:** Corporate or society form is evidence, not the constitutional answer.
 
-### Q4. Which statement about Article 13 is constitutionally accurate?
-
-A. Custom is excluded because only enacted measures are law.  
-B. Every invalid provision necessarily destroys the entire enactment.  
-C. A constitutional amendment is reviewed exactly like an ordinary notification under Article 13(2).  
-D. Law includes custom or usage with the force of law, while constitutional amendments follow Article 368 and basic-structure review.  
-
-**Answer: D.**
+### 4 — **Correct: D.**
 
 - **A:** Incorrect: Article 13(3)(a) expressly includes custom or usage having in India the force of law.
 - **B:** Incorrect: the phrase 'to the extent' supports severability where the valid remainder is workable and consistent with legislative intent.
@@ -77,14 +331,7 @@ D. Law includes custom or usage with the force of law, while constitutional amen
 
 **Examiner trap:** The question turns on two different meanings of law: Article 13 ordinary law and Article 368 constitutional amendment.
 
-### Q5. A pre-Constitution law conflicts with a Fundamental Right, but the offending shadow is later validly removed. Which combination is correct?
-
-A. Eclipse may permit revival; severability may preserve a separable valid remainder; waiver cannot validate unconstitutional State action.  
-B. Repugnancy permits revival; colourable legislation preserves the remainder; waiver is always available.  
-C. Eclipse automatically applies to every post-Constitution law and permanently erases the pre-Constitution enactment.  
-D. Severability requires striking the whole Act whenever one clause is invalid.  
-
-**Answer: A.**
+### 5 — **Correct: A.**
 
 - **A:** Correct: Bhikaji explains eclipse, severability follows 'to the extent', and Basheshar Nath treats rights as structural limits not disposable bargains.
 - **B:** Incorrect: repugnancy and colourable legislation concern different constitutional inquiries, and waiver does not cure unconstitutional public power.
@@ -93,14 +340,7 @@ D. Severability requires striking the whole Act whenever one clause is invalid.
 
 **Examiner trap:** The doctrines are not interchangeable labels; time of enactment and legal effect identify the correct one.
 
-### Q6. Which sequence correctly states the amendment-Fundamental Rights relationship?
-
-A. Golaknath created the basic-structure doctrine and Kesavananda abolished amendment review.  
-B. Golaknath restricted FR-amending power prospectively; the Twenty-fourth Amendment responded; Kesavananda allowed amendment subject to basic structure.  
-C. Shankari Prasad held that every constitutional amendment is ordinary law under Article 13.  
-D. Minerva Mills upheld Parliament's unlimited power to give every Directive Principle priority over every Fundamental Right.  
-
-**Answer: B.**
+### 6 — **Correct: B.**
 
 - **A:** Incorrect: Golaknath used prospective overruling but basic structure emerged in Kesavananda Bharati.
 - **B:** Correct: the sequence preserves the temporary Golaknath rule, Parliament's textual response and the enduring basic-structure limitation.
@@ -109,14 +349,7 @@ D. Minerva Mills upheld Parliament's unlimited power to give every Directive Pri
 
 **Examiner trap:** Case chronology is tested together with the proposition each case actually supplied.
 
-### Q7. A classification uses an intelligible criterion but the criterion has no relation to the law's objective. Under Article 14, it
-
-A. survives because intelligibility alone is sufficient.  
-B. can be reviewed only if a citizen invokes Article 19.  
-C. fails the rational-nexus limb, independently of any further arbitrariness inquiry.  
-D. becomes valid if the legislature records a unanimous vote.  
-
-**Answer: C.**
+### 7 — **Correct: C.**
 
 - **A:** Incorrect: reasonable classification requires both intelligible differentia and a rational relation to the objective.
 - **B:** Incorrect: Article 14 protects persons and supplies its own classification and anti-arbitrariness review.
@@ -125,14 +358,7 @@ D. becomes valid if the legislature records a unanimous vote.
 
 **Examiner trap:** The two limbs are cumulative, not alternative.
 
-### Q8. Which Article 15 proposition is correct?
-
-A. Article 15(2) regulates only State-owned shops and wells.  
-B. Article 15(5) abolishes Article 30 minority-institution protection.  
-C. Article 15(4) was inserted by the 103rd Amendment to create EWS reservation.  
-D. Article 15(2) directly bars specified access discrimination, while Article 15(5) enables admissions law for covered aided and unaided private institutions except Article 30(1) minority institutions.  
-
-**Answer: D.**
+### 8 — **Correct: D.**
 
 - **A:** Incorrect: Article 15(2) is a classic horizontal guarantee covering specified public-facing facilities irrespective of private ownership.
 - **B:** Incorrect: the text of Article 15(5) expressly excludes minority educational institutions protected by Article 30(1).
@@ -141,14 +367,7 @@ D. Article 15(2) directly bars specified access discrimination, while Article 15
 
 **Examiner trap:** Do not treat clauses (2) and (5) as identical mechanisms merely because both can affect private institutions.
 
-### Q9. Which statement about Article 16 is most accurate?
-
-A. Article 16(4) is an enabling power for backward classes inadequately represented in State services, not a guaranteed individual quota.  
-B. Article 16(3) lets each State executive impose any residence requirement it prefers.  
-C. Article 16(4A) applies to every backward class in all promotions without constitutional conditions.  
-D. Article 16(4B) abolishes Article 335's efficiency consideration.  
-
-**Answer: A.**
+### 9 — **Correct: A.**
 
 - **A:** Correct: the clause permits, but does not compel, representation-linked reservation in appointments or posts.
 - **B:** Incorrect: Article 16(3) assigns the residence-prescription power to Parliament, not an unrestricted State executive.
@@ -157,14 +376,7 @@ D. Article 16(4B) abolishes Article 335's efficiency consideration.
 
 **Examiner trap:** Enabling power is not the same as an enforceable claim to reservation in every cadre.
 
-### Q10. What is the exam-safe statement of the reservation ceiling after Indra Sawhney?
-
-A. Fifty per cent is an exceptionless constitutional number that no later text or extraordinary circumstance can qualify.  
-B. It is the ordinary doctrinal ceiling, subject to carefully justified exceptional circumstances and text-specific constitutional developments.  
-C. It applies only to EWS reservation and never to social and educational backwardness.  
-D. It was deleted from doctrine by Article 335.  
-
-**Answer: B.**
+### 10 — **Correct: B.**
 
 - **A:** Incorrect: the Court described an ordinary rule and recognised exceptional situations; later constitutional provisions also require their own analysis.
 - **B:** Correct: this avoids both casual ceiling evasion and the inaccurate claim of a universal mathematical command.
@@ -173,14 +385,7 @@ D. It was deleted from doctrine by Article 335.
 
 **Examiner trap:** The distractor turns a strong ordinary rule into an absolute textual prohibition.
 
-### Q11. Which statement correctly states the EWS position?
-
-A. The 103rd Amendment created only Article 16(4A).  
-B. Janhit Abhiyan unanimously invalidated economic reservation.  
-C. Articles 15(6) and 16(6) authorise EWS measures, and a 3:2 majority in Janhit Abhiyan upheld the 103rd Amendment.  
-D. EWS reservation constitutionally includes classes already covered by Article 15(4) as EWS for the same benefit.  
-
-**Answer: C.**
+### 11 — **Correct: C.**
 
 - **A:** Incorrect: Article 16(4A) came through the 77th Amendment and concerns SC/ST promotion reservation.
 - **B:** Incorrect: the decision was a divided 3:2 judgment upholding, not invalidating, the 103rd Amendment.
@@ -189,14 +394,7 @@ D. EWS reservation constitutionally includes classes already covered by Article 
 
 **Examiner trap:** Majority and unanimity are not interchangeable descriptions of Janhit Abhiyan.
 
-### Q12. After State of Punjab v. Davinder Singh (2024), which proposition is correct?
-
-A. States may rewrite the Presidential Scheduled Castes list.  
-B. Every State is constitutionally required to create a sub-quota.  
-C. One sub-class may receive the entire benefit without evidence or review.  
-D. Evidence-based sub-classification within Scheduled Castes is permissible for distributing reservation benefits, without altering the Article 341 list.  
-
-**Answer: D.**
+### 12 — **Correct: D.**
 
 - **A:** Incorrect: inclusion in or exclusion from the Article 341 list remains a constitutionally distinct parliamentary process.
 - **B:** Incorrect: the judgment permits sub-classification; it does not impose a nationwide mandatory policy.
@@ -205,14 +403,7 @@ D. Evidence-based sub-classification within Scheduled Castes is permissible for 
 
 **Examiner trap:** Permission to sub-classify is neither a power to amend the list nor a command to create a sub-quota.
 
-### Q13. Which combination correctly describes Articles 17 and 18?
-
-A. Article 17 directly reaches private caste-based untouchability; Article 18 permits military and academic distinctions and properly used national awards.  
-B. Article 17 protects only citizens against State action; Article 18 abolishes academic degrees.  
-C. Article 17 belongs to the exploitation chapter; Article 18 applies only to hereditary citizens.  
-D. National awards are always unconstitutional titles even when not used as prefixes or suffixes.  
-
-**Answer: A.**
+### 13 — **Correct: A.**
 
 - **A:** Correct: the pair combines horizontal abolition of caste untouchability with the text and Balaji Raghavan limits on titles.
 - **B:** Incorrect: Article 17 is not citizen-only or purely vertical, and Article 18 expressly preserves academic distinctions.
@@ -221,14 +412,7 @@ D. National awards are always unconstitutional titles even when not used as pref
 
 **Examiner trap:** The category label 'Right against Exploitation' is designed to lure candidates away from Article 17's actual placement.
 
-### Q14. Which list contains all six current freedoms under Article 19(1)?
-
-A. Speech, assembly, association, property, movement and religion  
-B. Speech, peaceful assembly, association, movement, residence and profession/trade/business  
-C. Speech, privacy, education, movement, residence and constitutional remedies  
-D. Assembly, association, equality, property, profession and conscience  
-
-**Answer: B.**
+### 14 — **Correct: B.**
 
 - **A:** Incorrect: property was removed from Article 19(1), and religion is principally protected by Articles 25-28.
 - **B:** Correct: the list tracks clauses (a), (b), (c), (d), (e) and (g) after deletion of former clause (f).
@@ -237,14 +421,7 @@ D. Assembly, association, equality, property, profession and conscience
 
 **Examiner trap:** Former property freedom and modern derived rights are the two most plausible additions to the six-item list.
 
-### Q15. Which freedom-restriction pairing is constitutionally correct?
-
-A. Movement - friendly relations with foreign States  
-B. Profession - contempt of court  
-C. Association - sovereignty and integrity, public order and morality  
-D. Speech - protection of the interests of Scheduled Tribes  
-
-**Answer: C.**
+### 15 — **Correct: C.**
 
 - **A:** Incorrect: friendly relations is an Article 19(2) speech ground, not an Article 19(5) movement ground.
 - **B:** Incorrect: contempt restricts speech; Article 19(6) uses general public interest, qualifications and State monopoly.
@@ -253,14 +430,7 @@ D. Speech - protection of the interests of Scheduled Tribes
 
 **Examiner trap:** Restriction grounds cannot be borrowed across clauses even when the public objective sounds plausible.
 
-### Q16. Which statement correctly combines modern speech doctrine?
-
-A. Anuradha Bhasin created an unlimited standalone Fundamental Right to internet access and invalidated every shutdown.  
-B. Shreya Singhal struck down section 69A but upheld section 66A.  
-C. BNS section 152 is textually identical to IPC section 124A and has been finally upheld by the Supreme Court.  
-D. Shreya Singhal invalidated section 66A but retained safeguarded blocking; Anuradha Bhasin protected speech/trade through the internet as a medium; section 152 has distinct ingredients and no located final merits ruling through 7 September 2026.  
-
-**Answer: D.**
+### 16 — **Correct: D.**
 
 - **A:** Incorrect: the Court protected existing freedoms exercised through the medium and required proportionate, published and reviewable orders.
 - **B:** Incorrect: the holding is reversed; section 66A fell for vagueness and overbreadth, while section 69A survived with safeguards.
@@ -269,14 +439,7 @@ D. Shreya Singhal invalidated section 66A but retained safeguarded blocking; Anu
 
 **Examiner trap:** A current-status option is wrong if it converts notice, medium or safeguard into a broader final holding.
 
-### Q17. Which statement about Article 20 is correct?
-
-A. It bars retrospective creation or enhancement of criminal liability, repeated prosecution and punishment for the same offence, and compelled testimonial self-incrimination.  
-B. It protects only citizens and may be included in an Article 359 order.  
-C. Article 20(2) bars every departmental proceeding following a criminal case.  
-D. Article 20(3) prevents collection of all fingerprints, handwriting and bodily samples.  
-
-**Answer: A.**
+### 17 — **Correct: A.**
 
 - **A:** Correct: the option states the three distinct person-protective criminal shields in clauses (1), (2) and (3).
 - **B:** Incorrect: Article 20 protects persons and, after the Forty-fourth Amendment, cannot be included in an Article 359 enforcement order.
@@ -285,14 +448,7 @@ D. Article 20(3) prevents collection of all fingerprints, handwriting and bodily
 
 **Examiner trap:** The repeated-proceeding distractor omits the conjunctive words 'prosecuted and punished'.
 
-### Q18. Which situation most directly attracts Article 20(3)?
-
-A. A lawfully obtained fingerprint sample from a person not accused of an offence  
-B. Compelling an accused to communicate personal knowledge that is incriminating and testimonial  
-C. A beneficial retrospective reduction of punishment  
-D. A departmental inquiry after an acquittal where no second criminal prosecution occurs  
-
-**Answer: B.**
+### 18 — **Correct: B.**
 
 - **A:** Incorrect: physical identifying evidence is not by itself compelled testimonial self-incrimination, and the accused-status gate is also absent.
 - **B:** Correct: Article 20(3) requires accused status, compulsion and testimonial communication exposing the person against self.
@@ -301,14 +457,7 @@ D. A departmental inquiry after an acquittal where no second criminal prosecutio
 
 **Examiner trap:** Test all three gates—accused, compulsion and testimonial character—rather than focusing only on incrimination.
 
-### Q19. Which sequence best describes Article 21's doctrinal evolution?
-
-A. Puttaswamy -> A.K. Gopalan -> Maneka Gandhi  
-B. Maneka Gandhi -> R.C. Cooper -> A.K. Gopalan  
-C. A.K. Gopalan's siloed procedure -> R.C. Cooper's effects approach -> Maneka Gandhi's fair, just and reasonable procedure  
-D. Golaknath -> Indra Sawhney -> Minerva Mills  
-
-**Answer: C.**
+### 19 — **Correct: C.**
 
 - **A:** Incorrect: the dates and doctrinal direction are reversed; privacy is a later application of the expanded liberty framework.
 - **B:** Incorrect: Maneka completed rather than preceded the Cooper-led weakening of the silo theory.
@@ -317,14 +466,7 @@ D. Golaknath -> Indra Sawhney -> Minerva Mills
 
 **Examiner trap:** The case names are familiar; only their chronological mechanism identifies the right answer.
 
-### Q20. Which statement most accurately states privacy and intimate-autonomy doctrine?
-
-A. Puttaswamy made every privacy claim absolute.  
-B. Navtej Singh Johar judicially created a Fundamental Right to same-sex marriage.  
-C. Supriyo held that the Special Marriage Act must be rewritten by courts to recognise every union.  
-D. Puttaswamy requires legality, legitimate aim, proportionality and safeguards; Navtej protects consensual adult same-sex intimacy, while Supriyo did not judicially create same-sex marriage and its review was dismissed in 2025.  
-
-**Answer: D.**
+### 20 — **Correct: D.**
 
 - **A:** Incorrect: privacy is fundamental but qualified through a structured justification test.
 - **B:** Incorrect: Navtej read down criminalisation of consensual adult intimacy; it did not decide a marriage-status entitlement.
@@ -333,14 +475,7 @@ D. Puttaswamy requires legality, legitimate aim, proportionality and safeguards;
 
 **Examiner trap:** Privacy, intimacy and civil status overlap factually but are not the same judicial holding.
 
-### Q21. Which Article 21A proposition is correct?
-
-A. It guarantees free and compulsory education for children aged six to fourteen, implemented through the RTE framework with a distinct Article 30 minority-institution boundary.  
-B. It covers every person from birth through university.  
-C. It repealed Article 45 and Article 51A(k).  
-D. Pramati required the RTE obligation to override minority educational autonomy in all cases.  
-
-**Answer: A.**
+### 21 — **Correct: A.**
 
 - **A:** Correct: the age band, statutory implementation and minority-institution qualification state the constitutional design precisely.
 - **B:** Incorrect: Article 21A is textually limited to children aged six to fourteen.
@@ -349,14 +484,7 @@ D. Pramati required the RTE obligation to override minority educational autonomy
 
 **Examiner trap:** The most common error expands the age band and then forgets the Article 30 boundary.
 
-### Q22. Which statement correctly distinguishes ordinary arrest from preventive detention?
-
-A. Every preventive detainee has the Article 22(1) lawyer and 24-hour production guarantees.  
-B. Ordinary arrest carries clauses (1)-(2) safeguards; preventive detention follows clauses (4)-(7), and the operative no-Advisory-Board ceiling remains three months.  
-C. The Forty-fourth Amendment's proposed two-month period is already the operative constitutional text.  
-D. Preventive detention is punishment after conviction for completed conduct.  
-
-**Answer: B.**
+### 22 — **Correct: B.**
 
 - **A:** Incorrect: Article 22(3) excludes preventive detention from the ordinary clauses (1)-(2), though other constitutional and statutory safeguards remain.
 - **B:** Correct: the option separates the two branches and states the current uncommenced-amendment trap accurately.
@@ -365,14 +493,7 @@ D. Preventive detention is punishment after conviction for completed conduct.
 
 **Examiner trap:** Do not transfer safeguards or time limits from one Article 22 branch into the other.
 
-### Q23. Which proposition about Articles 23 and 24 is correct?
-
-A. Both Articles operate only against the State.  
-B. Article 23 covers only trafficking across an international border.  
-C. Article 23 reaches trafficking, begar and similar forced labour by public or private actors; Article 24 bars children below fourteen from factory, mine and hazardous employment.  
-D. Article 24's constitutional wording is identical to every later statutory child-labour prohibition and exception.  
-
-**Answer: C.**
+### 23 — **Correct: C.**
 
 - **A:** Incorrect: both guarantees have horizontal reach against private exploitation.
 - **B:** Incorrect: Article 23 covers trafficking and forced-labour practices without an international-border requirement.
@@ -381,14 +502,7 @@ D. Article 24's constitutional wording is identical to every later statutory chi
 
 **Examiner trap:** The constitutional and statutory child-labour rules are related but not textually coextensive.
 
-### Q24. Which statement correctly compares Articles 25 and 26?
-
-A. Article 25 protects denominations only, while Article 26 protects every individual's conscience.  
-B. Both rights are absolute once a claimant labels conduct religious.  
-C. Article 25(2) prevents all social-reform legislation.  
-D. Article 25 protects individual conscience and profession, practice and propagation; Article 26 protects denominational affairs, both within stated limits and secular-regulation boundaries.  
-
-**Answer: D.**
+### 24 — **Correct: D.**
 
 - **A:** Incorrect: the option reverses the primary beneficiaries of the two provisions.
 - **B:** Incorrect: public order, morality, health and other constitutional controls remain relevant.
@@ -397,14 +511,7 @@ D. Article 25 protects individual conscience and profession, practice and propag
 
 **Examiner trap:** Individual and denominational rights overlap but cannot be swapped.
 
-### Q25. Which statement about Articles 27 and 28 is correct?
-
-A. Article 27 bars a specifically appropriated religion-promoting tax, while Article 28 distinguishes wholly State-maintained, trust-administered and aided or recognised institutions.  
-B. Article 27 prohibits every regulatory fee connected with any religious institution.  
-C. Article 28 forbids academic study about religion in every educational institution.  
-D. Article 28 permits compulsory religious instruction in every aided institution without consent.  
-
-**Answer: A.**
+### 25 — **Correct: A.**
 
 - **A:** Correct: the option preserves the fiscal-purpose test and all three institutional categories in Article 28.
 - **B:** Incorrect: tax purpose and appropriation must be distinguished from a regulatory fee or neutral general levy.
@@ -413,14 +520,7 @@ D. Article 28 permits compulsory religious instruction in every aided institutio
 
 **Examiner trap:** Tax versus fee and instruction versus academic study are separate close-option distinctions.
 
-### Q26. What is the most defensible use of the Essential Religious Practices doctrine?
-
-A. Any long-standing practice is automatically essential and immune.  
-B. Use essentiality as a threshold within a text-first inquiry, then apply explicit limits, competing rights, reform power and proportionality with institutional caution.  
-C. Courts must decide theology without examining public order, equality or harm.  
-D. The doctrine has been formally deleted from all religious-freedom cases.  
-
-**Answer: B.**
+### 26 — **Correct: B.**
 
 - **A:** Incorrect: antiquity alone does not establish theological essentiality or constitutional immunity.
 - **B:** Correct: this formulation captures both the doctrine's separating function and the criticism that judges may become theologians.
@@ -429,14 +529,7 @@ D. The doctrine has been formally deleted from all religious-freedom cases.
 
 **Examiner trap:** The qualified answer neither canonises nor invents the abolition of ERP.
 
-### Q27. Which statement about Articles 29 and 30 is accurate?
-
-A. Article 29 is available only to minorities and Article 30 to all cultural groups.  
-B. Article 30 prevents every academic or administrative regulation.  
-C. Article 29 protects specified interests of sections of citizens and admission non-discrimination; Article 30 protects religious and linguistic minority institutions, generally assessed State-wise.  
-D. Article 29(2) permits denial of aided-institution admission solely on language.  
-
-**Answer: C.**
+### 27 — **Correct: C.**
 
 - **A:** Incorrect: Article 29 is not minority-exclusive, while Article 30 specifically addresses religious and linguistic minorities.
 - **B:** Incorrect: minority autonomy does not include maladministration; regulations preserving excellence may survive if they do not destroy identity.
@@ -445,14 +538,7 @@ D. Article 29(2) permits denial of aided-institution admission solely on languag
 
 **Examiner trap:** The Articles are adjacent, but their beneficiary words and protected interests are not interchangeable.
 
-### Q28. Which proposition correctly compares Articles 32 and 226?
-
-A. Article 32 enforces every legal right, while Article 226 is confined to Fundamental Rights.  
-B. Article 226 is unavailable against a non-State body performing a public duty.  
-C. Article 32 is only a discretionary statutory appeal.  
-D. Article 32 is itself a Fundamental Right for Part III enforcement; Article 226 is wider in subject matter and may reach public duties beyond Article 12 State status.  
-
-**Answer: D.**
+### 28 — **Correct: D.**
 
 - **A:** Incorrect: the scopes are reversed; Article 32 requires a Fundamental-Rights claim, while Article 226 extends to other legal rights.
 - **B:** Incorrect: public-duty reach is a defining reason Article 226 can extend beyond the Article 12 classification.
@@ -461,14 +547,7 @@ D. Article 32 is itself a Fundamental Right for Part III enforcement; Article 22
 
 **Examiner trap:** Guaranteed status and wider subject-matter scope belong to different Articles.
 
-### Q29. A tribunal is about to decide a matter outside its jurisdiction. Which writ and timing fit best?
-
-A. Prohibition, because it prevents threatened jurisdictional excess before the proceeding is completed.  
-B. Certiorari, because it always operates prospectively before any order.  
-C. Quo warranto, because every tribunal holds a public office unlawfully.  
-D. Habeas corpus, because any jurisdictional error is a detention.  
-
-**Answer: A.**
+### 29 — **Correct: A.**
 
 - **A:** Correct: prohibition is the preventive writ directed at an inferior court or tribunal acting beyond jurisdiction.
 - **B:** Incorrect: certiorari ordinarily quashes a completed defective order rather than stopping the pending excess.
@@ -477,14 +556,7 @@ D. Habeas corpus, because any jurisdictional error is a detention.
 
 **Examiner trap:** Prohibition and certiorari are separated chiefly by the stage and remedial function.
 
-### Q30. Which statement correctly combines Articles 31A-31C and Article 300A?
-
-A. Ninth Schedule insertion creates absolute immunity from all judicial review.  
-B. Article 31A protects specified reform fields; post-24 April 1973 Ninth Schedule insertions face basic-structure review; original Article 31C is limited to genuine Article 39(b)-(c) laws; property now rests in Article 300A.  
-C. Article 31C gives every Directive Principle automatic priority over all Fundamental Rights.  
-D. Article 300A is a citizen-only Fundamental Right enforceable solely through Article 32.  
-
-**Answer: B.**
+### 30 — **Correct: B.**
 
 - **A:** Incorrect: Waman Rao and I.R. Coelho preserve review of later insertions for basic-structure damage.
 - **B:** Correct: the option distinguishes the three saving mechanisms and the post-Forty-fourth property location.
@@ -493,14 +565,7 @@ D. Article 300A is a citizen-only Fundamental Right enforceable solely through A
 
 **Examiner trap:** A single word—absolute—usually signals the false Ninth Schedule option.
 
-### Q31. Which proposition about Articles 33-35 and martial law is correct?
-
-A. Article 33 directly authorises every commander to cancel any right without law.  
-B. Martial law and National Emergency are identical expressions for the same proclamation.  
-C. Parliament may tailor rights for specified forces or services under Article 33; Article 34 concerns indemnity where martial law existed; Article 35 reserves listed Part III legislation to Parliament.  
-D. Article 34 automatically suspends habeas corpus throughout India.  
-
-**Answer: C.**
+### 31 — **Correct: C.**
 
 - **A:** Incorrect: Article 33 allocates the restriction or abrogation power to Parliament for constitutionally specified purposes and personnel.
 - **B:** Incorrect: martial law is an undefined local exceptional condition, while National Emergency is an express constitutional regime.
@@ -509,14 +574,7 @@ D. Article 34 automatically suspends habeas corpus throughout India.
 
 **Examiner trap:** Each of Articles 33, 34 and 35 answers a different question: personnel, indemnity and law-maker.
 
-### Q32. Which statement accurately distinguishes Articles 358 and 359 after the Forty-fourth Amendment?
-
-A. Both automatically suspend every Fundamental Right during any Emergency.  
-B. Article 359 deletes the text of every right named in a Presidential order.  
-C. Article 358 applies to internal-disturbance Emergency and Article 359 may include Articles 20 and 21.  
-D. Article 358 automatically affects Article 19 only in war or external-aggression Emergency within its conditions; Article 359 requires a Presidential order suspending specified enforcement and can never include Articles 20 or 21.  
-
-**Answer: D.**
+### 32 — **Correct: D.**
 
 - **A:** Incorrect: the provisions differ in trigger, right, mechanism and effect; neither erases the entire Part III catalogue automatically.
 - **B:** Incorrect: Article 359 suspends the right to move court for specified enforcement during the order; it does not repeal the right's text.
@@ -524,6 +582,78 @@ D. Article 358 automatically affects Article 19 only in war or external-aggressi
 - **D:** Correct: the option states the automatic narrow mechanism and the separate order-based enforcement mechanism precisely.
 
 **Examiner trap:** The exam hinge is automatic Article 19 displacement versus order-based enforcement suspension.
+
+### 33 — **Correct: A.**
+
+- **A:** Article 15(2) explicitly governs access to enumerated public facilities and reaches private actors.
+- **B:** Article 15(1) addresses State discrimination; private ownership alone does not make an entity Article 12 State.
+- **C:** Trade freedom cannot erase Article 15(2)’s access prohibition.
+- **D:** Article 29(2) concerns educational admissions, not restaurants.
+
+**Examiner trap:** Citizen-only eligibility is different from private horizontal reach.
+
+### 34 — **Correct: B.**
+
+- **A:** Government inconvenience by itself is not a listed restriction ground.
+- **B:** Article 19(2) supplies enumerated grounds and the reasonable-restriction standard.
+- **C:** Speech is protected, but subject to constitutionally specified restrictions.
+- **D:** Article 19(6) concerns profession and trade, not speech.
+
+**Examiner trap:** A compelling sounding policy goal is not automatically an enumerated ground.
+
+### 35 — **Correct: C.**
+
+- **A:** Article 20(3) doctrine distinguishes physical identifying samples from testimonial compulsion.
+- **B:** The compelled testimony can trigger the guarantee.
+- **C:** A physical identifying impression differs from compelled communicative testimony.
+- **D:** Article 20(3) protects an accused against self-incrimination.
+
+**Examiner trap:** Distinguish testimonial content from physical evidence.
+
+### 36 — **Correct: D.**
+
+- **A:** Arrest safeguards are not exhausted by Article 19.
+- **B:** Article 22(3) makes specified exceptions, not a blanket cancellation.
+- **C:** Article 21A protects education, not arrest procedure.
+- **D:** Article 22(1)–(2) includes communication of grounds, counsel and magistrate production subject to Article 22(3).
+
+**Examiner trap:** Never apply the preventive-detention exception to every arrest.
+
+### 37 — **Correct: A.**
+
+- **A:** The right to establish and administer does not immunise institutions from genuine standards regulation.
+- **B:** A blanket immunity would misread the qualified scope of administration.
+- **C:** Article 29(2) concerns discrimination in admission to State-maintained or aided institutions.
+- **D:** Article 30 speaks of minority educational institutions, not Union ownership.
+
+**Examiner trap:** Regulation and takeover of minority administration are not synonyms.
+
+### 38 — **Correct: B.**
+
+- **A:** Article 32 guarantees remedies for Part III rights, not every statutory claim.
+- **B:** High Court Article 226 jurisdiction can reach legal rights beyond Part III.
+- **C:** Writ jurisdiction is not confined to inter-State disputes.
+- **D:** High Courts exercise Article 226; the Supreme Court exercises Article 32.
+
+**Examiner trap:** Scope of writ jurisdiction differs from the right to seek a writ.
+
+### 39 — **Correct: C.**
+
+- **A:** Article 31B protection is not unlimited for later insertions.
+- **B:** A constitutional-amendment basic-structure issue is not confined to executive orders.
+- **C:** I.R. Coelho addresses Ninth Schedule insertions after Kesavananda’s basic-structure cut-off.
+- **D:** Reviewability does not mean automatic invalidity.
+
+**Examiner trap:** Neither automatic immunity nor automatic invalidity follows.
+
+### 40 — **Correct: D.**
+
+- **A:** The automatic Article 19 effect does not follow an armed-rebellion proclamation.
+- **B:** Article 359 expressly protects enforcement of Articles 20 and 21.
+- **C:** Suspension mechanisms are temporary and have different objects.
+- **D:** The Forty-fourth Amendment confined Article 358’s trigger and protected Articles 20 and 21.
+
+**Examiner trap:** Emergency category and rights-versus-remedies must both be checked.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -553,7 +683,7 @@ D. Article 358 automatically affects Article 19 only in war or external-aggressi
 
 **Model answer.** **Thesis:** France can learn from India that secularism in a deeply plural society may require principled engagement with religion rather than only a strict public-private wall. **Constitutional design:** Articles 25-26 protect individual conscience and denominational autonomy, while Articles 27-28 restrain religious taxation and instruction. Yet Article 25(2) allows regulation of secular activity and social reform; Article 17 abolishes untouchability. **Analysis:** This creates three lessons for French laicite. First, equal citizenship need not erase public religious identity. Second, accommodation - such as denomination-sensitive autonomy - can coexist with public order, health, morality and equality. Third, the State may intervene asymmetrically where reform is needed, while maintaining equal concern for all faiths. *S.R. Bommai* treats secularism as a basic feature, and *Shirur Mutt* distinguishes protected religious affairs from regulable secular administration. **Qualification:** India's model also risks selective intervention and judicial theology through the ERP test; France cannot transplant it without its own constitutional history. **Conclusion:** The transferable lesson is not State religiosity, but context-sensitive neutrality: protect conscience, regulate harm and preserve equal citizenship.
 
-**Why this earns marks:** It answers "what can learn," uses Articles 17 and 25-28 plus *Bommai* and *Shirur Mutt*, compares institutional logics, states a limitation and gives a graded conclusion.
+**Why this earns marks:** France's possible lesson is specified as conscience-protecting accommodation alongside Article 25(2) social reform, rather than abandoning state neutrality. Articles 25-28 and *Shirur Mutt* explain the Indian mechanism; *Bommai* supplies its secular constitutional limit. The caveat about selective intervention and France's different history prevents the comparison from becoming a prescription to copy Indian doctrine wholesale.
 
 **How to improve this answer:** In the final 30 seconds, add a two-column France/India contrast and name Article 25(2) as the reform lever; this prevents the answer from becoming a generic defence of Indian secularism.
 
@@ -774,7 +904,7 @@ What is the position of the Right to Property in India?
 
 **Answer withheld pending official UPSC key.**
 
-**Explanation:** Article 300A protects "no person," so it is not citizen-only. The technically fuller description is a constitutional right, not a Fundamental Right; among the options, B is correct.
+**Explanation:** Article 300A protects "no person," so it is not citizen-only. The technically fuller description is a constitutional right, not a Fundamental Right; the phrase “available to any person” reflects its beneficiary scope; the official answer letter is not asserted.
 
 ### Prelims PYQ 10. UPSC 2021 GS-I Q96 - Bharat Ratna and Padma Awards
 
@@ -926,7 +1056,7 @@ Under which of the following Articles of the Constitution of India has the Supre
 
 **Assessment:** Data prevents political assertion from replacing constitutional need; creamy layer guards capture; Article 335 requires capable administration. Yet "efficiency" cannot mean preserving historically exclusionary institutions.
 
-**Conclusion:** Reservation serves substantive equality when targeted, evidence-based, reviewable and combined with education/training rather than treated as either permanent patronage or an anti-merit exception.
+The ceiling is an ordinary doctrinal baseline rather than a mechanically absolute constitutional numeral; an asserted exception needs its own legal justification. Likewise, evidence for SC sub-classification must establish differential disadvantage within the existing list instead of assuming that all listed communities have identical access. **Conclusion:** Reservation serves substantive equality when targeted, evidence-based, reviewable and combined with education/training rather than treated as either permanent patronage or an anti-merit exception.
 
 **Why this earns marks:** It follows claim → provisions → amendment/case evidence → what each controls → qualification, includes 2024 law and gives a balanced understanding of efficiency.
 
@@ -946,7 +1076,7 @@ Under which of the following Articles of the Constitution of India has the Supre
 
 **Current criminal law:** BNS section 152 is a differently drafted successor focused on secession, rebellion, subversion and sovereignty; calling it a mere renaming obscures the new constitutional inquiry.
 
-**Conclusion:** Speech protection succeeds when grounds remain closed and State process is precise, published, proportionate and reviewable.
+For example, *Shreya Singhal* treats discussion and advocacy differently from incitement; that distinction tells a reviewing court to ask what harmful act the text actually targets. *Anuradha Bhasin* adds that access-restricting orders must be published for effective challenge. Neither case abolishes the State’s ability to regulate on a valid ground, but both require a defensible fit between risk and measure. **Conclusion:** Speech protection succeeds when grounds remain closed and State process is precise, published, proportionate and reviewable.
 
 **Why this earns marks:** It uses the historical sequence, exact doctrinal holdings, digital procedure, electoral transparency and current BNS control, while correcting two common overstatements.
 
@@ -984,7 +1114,7 @@ Under which of the following Articles of the Constitution of India has the Supre
 
 **Tensions:** Saving clauses can shield coercive redistribution; discipline can suppress dissent; emergency power can normalise exceptional rule. The answers are relation-to-purpose, recital, temporality, proportionality and basic-structure review.
 
-**Conclusion:** Part III reconciles transformation and necessity not by trusting the State, but by enumerating exceptional powers and keeping their boundaries judicially enforceable.
+The difference between the two emergency articles is operational: Article 358 changes the immediate Article 19 constraint on State action for a specified Emergency; Article 359 affects access to a judicial remedy only for rights identified in the Presidential order. The survival of Articles 20 and 21 means that even acute national danger does not erase the minimum procedural and criminal-law floor. **Conclusion:** Part III reconciles transformation and necessity not by trusting the State, but by enumerating exceptional powers and keeping their boundaries judicially enforceable.
 
 **Why this earns marks:** It integrates every requested Article family, uses *I.R. Coelho (2007)* and *Property Owners Association (2024)*, distinguishes martial law/Emergency and gives a mechanism-based evaluation.
 

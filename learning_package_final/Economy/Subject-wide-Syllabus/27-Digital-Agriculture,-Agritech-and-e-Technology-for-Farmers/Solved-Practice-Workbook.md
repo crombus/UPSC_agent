@@ -2,9 +2,9 @@
 
 **Current-source cutoff:** 10 September 2026.
 
-All 32 MCQs precede PYQs. Correct answers rotate A-B-C-D exactly eight times. Every option has a question-specific explanation and each item records a unique trap.
+All 40 MCQ questions precede their separate solved key and PYQs. Correct letters rotate A-B-C-D; dated numerical claims retain source period and estimate status.
 
-## 32 SOLVED MCQS
+## 40 MCQ QUESTIONS
 
 ### MCQ 01
 
@@ -18,20 +18,6 @@ C. Digital agriculture means mechanisation without data
 
 D. Both terms mean precision irrigation alone
 
-
-**Correct answer:** A
-
-- **Option A:** The first option preserves the narrower data-management concept and wider ecosystem boundary.
-
-- **Option B:** Private firms, devices and business models also belong to agritech.
-
-- **Option C:** Mechanisation may be non-digital and digital agriculture extends beyond machines.
-
-- **Option D:** Precision irrigation is one application, not the entire field.
-
-
-**Unique trap:** Do not reduce the topic to one portal or device.
-
 ### MCQ 02
 
 **Question:** Which sequence correctly represents the welfare transmission chain?
@@ -43,20 +29,6 @@ B. Reliable data to validated advice to feasible action to measured outcome
 C. Satellite image directly to higher income
 
 D. Farmer ID directly to land title
-
-
-**Correct answer:** B
-
-- **Option A:** Activity counts omit decision quality and implementation.
-
-- **Option B:** The complete chain includes validation, action and outcome feedback.
-
-- **Option C:** Imagery supplies evidence, not an automatic causal result.
-
-- **Option D:** A service identifier does not confer property rights.
-
-
-**Unique trap:** Data availability is not farmer welfare.
 
 ### MCQ 03
 
@@ -70,20 +42,6 @@ C. Spatially or temporally variable treatment based on measured need
 
 D. Universal ownership of advanced machinery
 
-
-**Correct answer:** C
-
-- **Option A:** A transfer can be digital but is not precision management.
-
-- **Option B:** A device does not establish variable treatment.
-
-- **Option C:** This is the defining management logic.
-
-- **Option D:** Shared services may be more economical than ownership.
-
-
-**Unique trap:** Precision is a treatment logic, not generic digitisation.
-
 ### MCQ 04
 
 **Question:** Which limitation most directly applies to remote sensing?
@@ -95,20 +53,6 @@ B. It is identical to field inspection
 C. It provides land title
 
 D. Cloud, resolution and crop similarity require ground truth
-
-
-**Correct answer:** D
-
-- **Option A:** Remote sensing is widely used for crop observation.
-
-- **Option B:** Field inspection and remote inference are complementary.
-
-- **Option C:** Imagery does not determine legal title.
-
-- **Option D:** These physical and classification limits justify validation.
-
-
-**Unique trap:** A scalable signal is not automatic ground truth.
 
 ### MCQ 05
 
@@ -122,20 +66,6 @@ C. NavIC is a crop-classification algorithm
 
 D. GPS is a cadastral land record
 
-
-**Correct answer:** A
-
-- **Option A:** The pair separates analysis from positioning.
-
-- **Option B:** NavIC, not GIS, is the Indian regional navigation system.
-
-- **Option C:** Navigation signals do not themselves classify crops.
-
-- **Option D:** GPS is a positioning system, not a legal record.
-
-
-**Unique trap:** GIS, GNSS and remote sensing have distinct functions.
-
 ### MCQ 06
 
 **Question:** An agricultural drone's task depends primarily on:
@@ -147,20 +77,6 @@ B. Payload, configuration, software and trained operation
 C. Farmer ID count
 
 D. The e-NAM commodity list
-
-
-**Correct answer:** B
-
-- **Option A:** Colour does not determine capability.
-
-- **Option B:** Mapping, sensing or spraying requires the relevant complete system.
-
-- **Option C:** A registry count is unrelated to aircraft function.
-
-- **Option D:** Market listings do not configure drones.
-
-
-**Unique trap:** The platform alone does not supply every capability.
 
 ### MCQ 07
 
@@ -174,20 +90,6 @@ C. IoT captures/exchanges data while AI infers or predicts from data
 
 D. They are legally identical
 
-
-**Correct answer:** C
-
-- **Option A:** A sensor is a data-capture device.
-
-- **Option B:** Connected devices need not automate action.
-
-- **Option C:** This preserves sensing and inference layers.
-
-- **Option D:** The technologies and accountability roles differ.
-
-
-**Unique trap:** Sensing, inference and control are separate layers.
-
 ### MCQ 08
 
 **Question:** A high aggregate AI accuracy rate is insufficient because:
@@ -199,20 +101,6 @@ B. All models are prohibited
 C. Only hardware matters
 
 D. Subgroup bias, drift and rare-event failure may remain
-
-
-**Correct answer:** D
-
-- **Option A:** Agriculture produces abundant but uneven data.
-
-- **Option B:** Models are not generally prohibited; their use needs safeguards.
-
-- **Option C:** Data and decision design matter alongside hardware.
-
-- **Option D:** Distributional and temporal performance can differ from the average.
-
-
-**Unique trap:** Accuracy does not equal fairness or robustness.
 
 ### MCQ 09
 
@@ -226,20 +114,6 @@ C. Its outlay equals certified expenditure
 
 D. It is one mobile application
 
-
-**Correct answer:** A
-
-- **Option A:** The dated official release records the approval and outlay.
-
-- **Option B:** IDEA was a 2021 blueprint, not nationwide completion.
-
-- **Option C:** Sanctioned outlay is not realised spending.
-
-- **Option D:** The Mission is an umbrella architecture.
-
-
-**Unique trap:** Approved, spent and achieved are different stages.
-
 ### MCQ 10
 
 **Question:** IDEA 2021 is best described as:
@@ -251,20 +125,6 @@ B. A digital-ecosystem design framework preceding the 2024 Mission
 C. An insurance claim formula
 
 D. An e-NAM settlement rule
-
-
-**Correct answer:** B
-
-- **Option A:** Coverage is a later implementation metric.
-
-- **Option B:** The chronology places blueprint before funded mission.
-
-- **Option C:** PMFBY rules govern insurance claims.
-
-- **Option D:** Market settlement has a separate architecture.
-
-
-**Unique trap:** A blueprint is not an operational outcome.
 
 ### MCQ 11
 
@@ -278,20 +138,6 @@ C. A federated Centre-state DPI built around farmer, map and crop registries
 
 D. A satellite constellation
 
-
-**Correct answer:** C
-
-- **Option A:** It is public digital infrastructure, not an input seller.
-
-- **Option B:** e-NAM and AgriStack have distinct functions.
-
-- **Option C:** This captures the official federated design.
-
-- **Option D:** It uses geospatial data but is not a space system.
-
-
-**Unique trap:** Federated does not automatically mean accurate or inclusive.
-
 ### MCQ 12
 
 **Question:** Farmer ID should not be treated as:
@@ -303,20 +149,6 @@ B. A state-maintained registry key
 C. A route to authorised verification
 
 D. Conclusive land title and guaranteed entitlement
-
-
-**Correct answer:** D
-
-- **Option A:** Reusable verification is an intended function.
-
-- **Option B:** States and UTs maintain the registry.
-
-- **Option C:** Services may request authorised verification.
-
-- **Option D:** Identity, title, cultivation and eligibility are distinct.
-
-
-**Unique trap:** Identity is not substantive eligibility.
 
 ### MCQ 13
 
@@ -330,20 +162,6 @@ C. Only satellite images without field capture
 
 D. Legal title transfers
 
-
-**Correct answer:** A
-
-- **Option A:** The mobile field workflow links parcel, crop and season.
-
-- **Option B:** Financial transactions are a different data class.
-
-- **Option C:** Remote sensing may complement field survey.
-
-- **Option D:** Revenue authorities and legal processes govern title.
-
-
-**Unique trap:** Surveyed plots are not automatically benefited farmers.
-
 ### MCQ 14
 
 **Question:** Krishi-DSS is best classified as:
@@ -355,20 +173,6 @@ B. A geospatial decision-support platform combining multiple datasets
 C. A drone licence
 
 D. A direct-income transfer
-
-
-**Correct answer:** B
-
-- **Option A:** Accountable institutions retain decision authority.
-
-- **Option B:** The platform integrates satellite, weather, soil, crop and water layers.
-
-- **Option C:** DGCA and aviation rules govern drone permissions.
-
-- **Option D:** PM-KISAN is a separate DBT scheme.
-
-
-**Unique trap:** Decision support is not automated legal authority.
 
 ### MCQ 15
 
@@ -382,20 +186,6 @@ C. Systems can interoperate under governed access rules
 
 D. Consent and security are unnecessary
 
-
-**Correct answer:** C
-
-- **Option A:** Openness of standards differs from public disclosure.
-
-- **Option B:** Open interfaces should reduce vendor dependence.
-
-- **Option C:** Technical compatibility operates with legal controls.
-
-- **Option D:** Privacy and security remain mandatory design questions.
-
-
-**Unique trap:** Interoperability is not unrestricted access.
-
 ### MCQ 16
 
 **Question:** What is the correct DPDP status by 10 September 2026?
@@ -407,20 +197,6 @@ B. All provisions commenced in August 2023
 C. Agriculture is entirely exempt
 
 D. Rules were notified 13 November 2025 with phased commencement
-
-
-**Correct answer:** D
-
-- **Option A:** The Act was enacted in 2023.
-
-- **Option B:** Enactment and operative commencement differ.
-
-- **Option C:** No blanket agriculture exemption follows.
-
-- **Option D:** The Gazette notifications use immediate, one-year and eighteen-month groups.
-
-
-**Unique trap:** Never merge enactment, notification and commencement.
 
 ### MCQ 17
 
@@ -434,20 +210,6 @@ C. Correct crop classification
 
 D. Automatic PM-KISAN payment
 
-
-**Correct answer:** A
-
-- **Option A:** The authentication perimeter is identity.
-
-- **Option B:** Land rights require revenue and legal evidence.
-
-- **Option C:** Crop survey and remote sensing establish crop information.
-
-- **Option D:** Scheme conditions and bank validation still apply.
-
-
-**Unique trap:** Authentication is only one verification layer.
-
 ### MCQ 18
 
 **Question:** The PM-KISAN portal's physical-verification warning shows that:
@@ -459,20 +221,6 @@ B. Digital checks require corrective field verification for suspected cases
 C. Every beneficiary is a tenant
 
 D. DBT itself determines eligibility
-
-
-**Correct answer:** B
-
-- **Option A:** The scheme uses extensive digital verification.
-
-- **Option B:** The portal explicitly withholds suspected cases pending verification.
-
-- **Option C:** Tenancy status varies and is not implied.
-
-- **Option D:** Entitlement rules precede payment execution.
-
-
-**Unique trap:** Digital delivery needs an exception-and-correction path.
 
 ### MCQ 19
 
@@ -486,20 +234,6 @@ C. A bank-credit workflow made more efficient by verified data
 
 D. A crop-insurance claim
 
-
-**Correct answer:** C
-
-- **Option A:** KCC is repayable credit.
-
-- **Option B:** Banks retain appraisal and borrower-protection duties.
-
-- **Option C:** This preserves digital efficiency and credit discipline.
-
-- **Option D:** Insurance is a separate risk-transfer product.
-
-
-**Unique trap:** Farmer ID does not guarantee sanction.
-
 ### MCQ 20
 
 **Question:** The central risk of alternative-data scoring is:
@@ -511,20 +245,6 @@ B. It eliminates information asymmetry completely
 C. It always lowers interest rates
 
 D. Proxy bias may cause exclusion or excessive lending
-
-
-**Correct answer:** D
-
-- **Option A:** Alternative data uses non-traditional signals.
-
-- **Option B:** Uncertainty and asymmetry remain.
-
-- **Option C:** Pricing depends on risk, competition and costs.
-
-- **Option D:** Biased proxies and aggressive offers can harm borrowers.
-
-
-**Unique trap:** Richer data can create new discrimination.
 
 ### MCQ 21
 
@@ -538,20 +258,6 @@ C. DGCA pilot licensing
 
 D. PM-KISAN land mutation
 
-
-**Correct answer:** A
-
-- **Option A:** The PMFBY framework uses technology for yield and weather evidence.
-
-- **Option B:** e-NAM concerns agricultural marketing.
-
-- **Option C:** DGCA governs aviation safety.
-
-- **Option D:** Revenue records and PM-KISAN verification are separate.
-
-
-**Unique trap:** Insurance technology does not eliminate basis risk.
-
 ### MCQ 22
 
 **Question:** Basis risk means:
@@ -563,20 +269,6 @@ B. Measured/index loss differs from the farmer's actual loss
 C. Every claim is fraudulent
 
 D. The premium is a land title
-
-
-**Correct answer:** B
-
-- **Option A:** Database quality is one operational issue.
-
-- **Option B:** This is the defining mismatch.
-
-- **Option C:** Disagreement may arise without fraud.
-
-- **Option D:** Premium and title are unrelated concepts.
-
-
-**Unique trap:** A faster model can still mismatch individual loss.
 
 ### MCQ 23
 
@@ -590,20 +282,6 @@ C. It is an SFAC-operated electronic market layer needing assaying, logistics an
 
 D. It guarantees a higher price
 
-
-**Correct answer:** C
-
-- **Option A:** State market frameworks continue.
-
-- **Option B:** Physical logistics remain separate.
-
-- **Option C:** This captures the digital-plus-physical model.
-
-- **Option D:** Price outcomes depend on competition, quality and execution.
-
-
-**Unique trap:** Online bidding alone is not a completed trade.
-
 ### MCQ 24
 
 **Question:** FPO digitalisation can raise bargaining power only when:
@@ -615,20 +293,6 @@ B. It avoids books and governance
 C. Every member owns a drone
 
 D. Aggregation, working capital, transparent governance and buyers function together
-
-
-**Correct answer:** D
-
-- **Option A:** Member agency remains essential.
-
-- **Option B:** Records and accountability support collective action.
-
-- **Option C:** Shared service may be preferable.
-
-- **Option D:** Digital tools need institutional and market complements.
-
-
-**Unique trap:** FPO registration is not active collective trade.
 
 ### MCQ 25
 
@@ -642,20 +306,6 @@ C. It makes maintenance unnecessary
 
 D. It guarantees year-round use
 
-
-**Correct answer:** A
-
-- **Option A:** Higher utilisation lowers cost per operation.
-
-- **Option B:** Aviation and application rules still apply.
-
-- **Option C:** Maintenance becomes a provider responsibility, not unnecessary.
-
-- **Option D:** Agricultural demand remains seasonal.
-
-
-**Unique trap:** Asset distribution and service utilisation differ.
-
 ### MCQ 26
 
 **Question:** Platform network effects may create which trade-off?
@@ -667,20 +317,6 @@ B. Better matching alongside concentration and lock-in risk
 C. All intermediaries disappear
 
 D. Competition law becomes irrelevant
-
-
-**Correct answer:** B
-
-- **Option A:** Users may gain from broader networks.
-
-- **Option B:** The same scale can improve service and gatekeeping power.
-
-- **Option C:** New digital intermediaries can emerge.
-
-- **Option D:** Competition remains relevant.
-
-
-**Unique trap:** Digital disintermediation can create a new intermediary.
 
 ### MCQ 27
 
@@ -694,20 +330,6 @@ C. Strong authentication, logs, backups, incident response and offline continuit
 
 D. Permanent storage of every field
 
-
-**Correct answer:** C
-
-- **Option A:** Outages would cause exclusion.
-
-- **Option B:** Shared credentials undermine accountability.
-
-- **Option C:** Layered resilience addresses prevention and recovery.
-
-- **Option D:** Data minimisation and retention limits remain important.
-
-
-**Unique trap:** Backend security must be joined to usable recovery.
-
 ### MCQ 28
 
 **Question:** The strongest evaluation metric is:
@@ -719,20 +341,6 @@ B. Number of messages sent
 C. Number of IDs created
 
 D. Verified change in net income, risk or resource use with distribution and cost
-
-
-**Correct answer:** D
-
-- **Option A:** Downloads do not prove use.
-
-- **Option B:** Delivery does not prove action.
-
-- **Option C:** IDs are infrastructure outputs.
-
-- **Option D:** Outcome, cost and distribution test welfare.
-
-
-**Unique trap:** Activity metrics are not impact metrics.
 
 ### MCQ 29
 
@@ -746,20 +354,6 @@ C. GIS creates water
 
 D. Every farmer abandons irrigation
 
-
-**Correct answer:** A
-
-- **Option A:** This is the rebound mechanism.
-
-- **Option B:** No such general legal requirement exists.
-
-- **Option C:** Spatial analysis does not create resources.
-
-- **Option D:** Behaviour varies.
-
-
-**Unique trap:** Per-hectare efficiency is not basin-level conservation.
-
 ### MCQ 30
 
 **Question:** Why is state capacity central to AgriStack?
@@ -771,20 +365,6 @@ B. States maintain key registries and field surveys within common standards
 C. e-NAM updates every cadastral map
 
 D. Private apps confer title
-
-
-**Correct answer:** B
-
-- **Option A:** Land and implementation roles are federal and state-linked.
-
-- **Option B:** This reflects the official federated architecture.
-
-- **Option C:** e-NAM is a market platform.
-
-- **Option D:** Private applications cannot create legal title.
-
-
-**Unique trap:** National launch is not uniform state implementation.
 
 ### MCQ 31
 
@@ -798,20 +378,6 @@ C. Aviation compliance plus trained operation and task/input-specific safety rul
 
 D. Only Farmer ID
 
-
-**Correct answer:** C
-
-- **Option A:** A phone is insufficient.
-
-- **Option B:** Market registration is unrelated.
-
-- **Option C:** The regulatory perimeters are cumulative.
-
-- **Option D:** Identity does not authorise flight or spraying.
-
-
-**Unique trap:** One certification does not replace another perimeter.
-
 ### MCQ 32
 
 **Question:** The best final test of digital agriculture is whether it:
@@ -824,6 +390,539 @@ C. Centralises every service
 
 D. Expands farmer capability, income and resilience with control and remedy
 
+### MCQ 33
+
+**Question:** A state registry recognises a plot owner but the actual cultivator is a tenant. Which service design minimises exclusion without treating an ID as land title?
+
+A. Allow verified cultivation claims, correction and appeal alongside ownership records
+
+B. Treat the registered owner's ID as conclusive proof of cultivation
+
+C. Delete all plot records before crop surveys
+
+D. Infer tenancy solely from satellite crop classification
+
+### MCQ 34
+
+**Question:** A precision service costs Rs 800 per acre and saves Rs 1,100 in inputs, but increases other annual farmer costs by Rs 450 per acre. Ignoring other benefits, what is the change in net return?
+
+A. Rs 300 gain
+
+B. Rs 150 loss
+
+C. Rs 650 gain
+
+D. Rs 450 loss
+
+### MCQ 35
+
+**Question:** An AI crop-disease model achieves 95% overall accuracy but misses most cases on rainfed millet farms. What is the priority audit?
+
+A. Only nationwide mean accuracy
+
+B. Replace extension workers with model output
+
+C. Disaggregated false-negative rates with representative field validation and appeal
+
+D. Increase the number of model advertisements
+
+### MCQ 36
+
+**Question:** Which sequence most accurately describes digitally enabled crop-insurance loss assessment?
+
+A. Satellite pixels alone legally establish every claimant's indemnity
+
+B. Aadhaar confirmation eliminates yield and damage assessment
+
+C. An algorithm's estimate cannot be contested after notification
+
+D. Weather and remote-sensing signals support verified assessment under scheme rules, followed by a claims and grievance route
+
+### MCQ 37
+
+**Question:** A platform subsidises farmer registration but then charges a commission and prevents sellers from transferring transaction histories. Which economic risk rises?
+
+A. Network-effect lock-in and reduced contestability despite low onboarding price
+
+B. Guaranteed increase in the farmer's net realised price
+
+C. Automatic elimination of information asymmetry
+
+D. Perfect competition among downstream buyers
+
+### MCQ 38
+
+**Question:** An e-NAM mandi posts bids but lacks assaying and reliable transport. Which complement most directly turns online discovery into realised inter-market trade?
+
+A. More dashboard page views alone
+
+B. Credible grades, physical aggregation, logistics and enforceable settlement
+
+C. Replace all wholesale markets with a single phone app
+
+D. Treat the highest quoted bid as net income regardless of costs
+
+### MCQ 39
+
+**Question:** A district's drip-irrigation adopters use less water per hectare but plant a larger irrigated area. Which metric tests the rebound effect?
+
+A. Number of drip applications downloaded
+
+B. Only percentage saving per irrigated hectare
+
+C. Total basin-level water extraction relative to baseline, with area and crop mix
+
+D. Average smartphone ownership alone
+
+### MCQ 40
+
+**Question:** A public agricultural data rail allows several advisory vendors to interoperate. Which safeguard best complements open technical standards?
+
+A. Unlimited resale of farmer records
+
+B. Exclusive mandatory attachment to one private application
+
+C. Permanently deny farmer access to transaction logs
+
+D. Purpose-limited sharing, consent where required, correction, auditability and grievance redress
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** The first option preserves the narrower data-management concept and wider ecosystem boundary.
+
+- **Option B:** Private firms, devices and business models also belong to agritech.
+
+- **Option C:** Mechanisation may be non-digital and digital agriculture extends beyond machines.
+
+- **Option D:** Precision irrigation is one application, not the entire field.
+
+**Unique trap:** Do not reduce the topic to one portal or device.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** Activity counts omit decision quality and implementation.
+
+- **Option B:** The complete chain includes validation, action and outcome feedback.
+
+- **Option C:** Imagery supplies evidence, not an automatic causal result.
+
+- **Option D:** A service identifier does not confer property rights.
+
+**Unique trap:** Data availability is not farmer welfare.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** A transfer can be digital but is not precision management.
+
+- **Option B:** A device does not establish variable treatment.
+
+- **Option C:** This is the defining management logic.
+
+- **Option D:** Shared services may be more economical than ownership.
+
+**Unique trap:** Precision is a treatment logic, not generic digitisation.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** Remote sensing is widely used for crop observation.
+
+- **Option B:** Field inspection and remote inference are complementary.
+
+- **Option C:** Imagery does not determine legal title.
+
+- **Option D:** These physical and classification limits justify validation.
+
+**Unique trap:** A scalable signal is not automatic ground truth.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** The pair separates analysis from positioning.
+
+- **Option B:** NavIC, not GIS, is the Indian regional navigation system.
+
+- **Option C:** Navigation signals do not themselves classify crops.
+
+- **Option D:** GPS is a positioning system, not a legal record.
+
+**Unique trap:** GIS, GNSS and remote sensing have distinct functions.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** Colour does not determine capability.
+
+- **Option B:** Mapping, sensing or spraying requires the relevant complete system.
+
+- **Option C:** A registry count is unrelated to aircraft function.
+
+- **Option D:** Market listings do not configure drones.
+
+**Unique trap:** The platform alone does not supply every capability.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** A sensor is a data-capture device.
+
+- **Option B:** Connected devices need not automate action.
+
+- **Option C:** This preserves sensing and inference layers.
+
+- **Option D:** The technologies and accountability roles differ.
+
+**Unique trap:** Sensing, inference and control are separate layers.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** Agriculture produces abundant but uneven data.
+
+- **Option B:** Models are not generally prohibited; their use needs safeguards.
+
+- **Option C:** Data and decision design matter alongside hardware.
+
+- **Option D:** Distributional and temporal performance can differ from the average.
+
+**Unique trap:** Accuracy does not equal fairness or robustness.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** The dated official release records the approval and outlay.
+
+- **Option B:** IDEA was a 2021 blueprint, not nationwide completion.
+
+- **Option C:** Sanctioned outlay is not realised spending.
+
+- **Option D:** The Mission is an umbrella architecture.
+
+**Unique trap:** Approved, spent and achieved are different stages.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** Coverage is a later implementation metric.
+
+- **Option B:** The chronology places blueprint before funded mission.
+
+- **Option C:** PMFBY rules govern insurance claims.
+
+- **Option D:** Market settlement has a separate architecture.
+
+**Unique trap:** A blueprint is not an operational outcome.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** It is public digital infrastructure, not an input seller.
+
+- **Option B:** e-NAM and AgriStack have distinct functions.
+
+- **Option C:** This captures the official federated design.
+
+- **Option D:** It uses geospatial data but is not a space system.
+
+**Unique trap:** Federated does not automatically mean accurate or inclusive.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** Reusable verification is an intended function.
+
+- **Option B:** States and UTs maintain the registry.
+
+- **Option C:** Services may request authorised verification.
+
+- **Option D:** Identity, title, cultivation and eligibility are distinct.
+
+**Unique trap:** Identity is not substantive eligibility.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** The mobile field workflow links parcel, crop and season.
+
+- **Option B:** Financial transactions are a different data class.
+
+- **Option C:** Remote sensing may complement field survey.
+
+- **Option D:** Revenue authorities and legal processes govern title.
+
+**Unique trap:** Surveyed plots are not automatically benefited farmers.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** Accountable institutions retain decision authority.
+
+- **Option B:** The platform integrates satellite, weather, soil, crop and water layers.
+
+- **Option C:** DGCA and aviation rules govern drone permissions.
+
+- **Option D:** PM-KISAN is a separate DBT scheme.
+
+**Unique trap:** Decision support is not automated legal authority.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** Openness of standards differs from public disclosure.
+
+- **Option B:** Open interfaces should reduce vendor dependence.
+
+- **Option C:** Technical compatibility operates with legal controls.
+
+- **Option D:** Privacy and security remain mandatory design questions.
+
+**Unique trap:** Interoperability is not unrestricted access.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** The Act was enacted in 2023.
+
+- **Option B:** Enactment and operative commencement differ.
+
+- **Option C:** No blanket agriculture exemption follows.
+
+- **Option D:** The Gazette notifications use immediate, one-year and eighteen-month groups.
+
+**Unique trap:** Never merge enactment, notification and commencement.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** The authentication perimeter is identity.
+
+- **Option B:** Land rights require revenue and legal evidence.
+
+- **Option C:** Crop survey and remote sensing establish crop information.
+
+- **Option D:** Scheme conditions and bank validation still apply.
+
+**Unique trap:** Authentication is only one verification layer.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** The scheme uses extensive digital verification.
+
+- **Option B:** The portal explicitly withholds suspected cases pending verification.
+
+- **Option C:** Tenancy status varies and is not implied.
+
+- **Option D:** Entitlement rules precede payment execution.
+
+**Unique trap:** Digital delivery needs an exception-and-correction path.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** KCC is repayable credit.
+
+- **Option B:** Banks retain appraisal and borrower-protection duties.
+
+- **Option C:** This preserves digital efficiency and credit discipline.
+
+- **Option D:** Insurance is a separate risk-transfer product.
+
+**Unique trap:** Farmer ID does not guarantee sanction.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** Alternative data uses non-traditional signals.
+
+- **Option B:** Uncertainty and asymmetry remain.
+
+- **Option C:** Pricing depends on risk, competition and costs.
+
+- **Option D:** Biased proxies and aggressive offers can harm borrowers.
+
+**Unique trap:** Richer data can create new discrimination.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** The PMFBY framework uses technology for yield and weather evidence.
+
+- **Option B:** e-NAM concerns agricultural marketing.
+
+- **Option C:** DGCA governs aviation safety.
+
+- **Option D:** Revenue records and PM-KISAN verification are separate.
+
+**Unique trap:** Insurance technology does not eliminate basis risk.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** Database quality is one operational issue.
+
+- **Option B:** This is the defining mismatch.
+
+- **Option C:** Disagreement may arise without fraud.
+
+- **Option D:** Premium and title are unrelated concepts.
+
+**Unique trap:** A faster model can still mismatch individual loss.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** State market frameworks continue.
+
+- **Option B:** Physical logistics remain separate.
+
+- **Option C:** This captures the digital-plus-physical model.
+
+- **Option D:** Price outcomes depend on competition, quality and execution.
+
+**Unique trap:** Online bidding alone is not a completed trade.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** Member agency remains essential.
+
+- **Option B:** Records and accountability support collective action.
+
+- **Option C:** Shared service may be preferable.
+
+- **Option D:** Digital tools need institutional and market complements.
+
+**Unique trap:** FPO registration is not active collective trade.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** Higher utilisation lowers cost per operation.
+
+- **Option B:** Aviation and application rules still apply.
+
+- **Option C:** Maintenance becomes a provider responsibility, not unnecessary.
+
+- **Option D:** Agricultural demand remains seasonal.
+
+**Unique trap:** Asset distribution and service utilisation differ.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** Users may gain from broader networks.
+
+- **Option B:** The same scale can improve service and gatekeeping power.
+
+- **Option C:** New digital intermediaries can emerge.
+
+- **Option D:** Competition remains relevant.
+
+**Unique trap:** Digital disintermediation can create a new intermediary.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** Outages would cause exclusion.
+
+- **Option B:** Shared credentials undermine accountability.
+
+- **Option C:** Layered resilience addresses prevention and recovery.
+
+- **Option D:** Data minimisation and retention limits remain important.
+
+**Unique trap:** Backend security must be joined to usable recovery.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** Downloads do not prove use.
+
+- **Option B:** Delivery does not prove action.
+
+- **Option C:** IDs are infrastructure outputs.
+
+- **Option D:** Outcome, cost and distribution test welfare.
+
+**Unique trap:** Activity metrics are not impact metrics.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** This is the rebound mechanism.
+
+- **Option B:** No such general legal requirement exists.
+
+- **Option C:** Spatial analysis does not create resources.
+
+- **Option D:** Behaviour varies.
+
+**Unique trap:** Per-hectare efficiency is not basin-level conservation.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** Land and implementation roles are federal and state-linked.
+
+- **Option B:** This reflects the official federated architecture.
+
+- **Option C:** e-NAM is a market platform.
+
+- **Option D:** Private applications cannot create legal title.
+
+**Unique trap:** National launch is not uniform state implementation.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** A phone is insufficient.
+
+- **Option B:** Market registration is unrelated.
+
+- **Option C:** The regulatory perimeters are cumulative.
+
+- **Option D:** Identity does not authorise flight or spraying.
+
+**Unique trap:** One certification does not replace another perimeter.
+
+### MCQ 32 - D
 
 **Correct answer:** D
 
@@ -835,8 +934,119 @@ D. Expands farmer capability, income and resilience with control and remedy
 
 - **Option D:** This balances outcomes and agency.
 
-
 **Unique trap:** Digitisation is a means, not the objective.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** Multiple evidence routes and contestable records can include cultivators without deciding title.
+
+- **Option B:** Ownership and cultivation are different legal and economic facts.
+
+- **Option C:** Removing location records also removes useful mapping and verification.
+
+- **Option D:** Imagery can identify crops but cannot establish who cultivated them.
+
+**Unique trap:** A digital farmer identifier does not resolve tenancy or confer legal title.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** This subtracts only the service fee and omits the other incremental cost.
+
+- **Option B:** Rs 1,100 minus Rs 800 minus Rs 450 equals minus Rs 150.
+
+- **Option C:** This subtracts only the Rs 450 extra cost from the savings.
+
+- **Option D:** Rs 450 is the extra cost, not the combined net effect.
+
+**Unique trap:** Adoption is rational only on net farmer gains, not headline input savings.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** A mean conceals subgroup-specific harm.
+
+- **Option B:** Human agronomy and local verification remain necessary.
+
+- **Option C:** Subgroup error, field ground truth and correction test actual deployment safety.
+
+- **Option D:** Marketing cannot correct dataset bias.
+
+**Unique trap:** Aggregate performance is not evidence of equitable agronomic reliability.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** Remote sensing requires ground checks and contract-specific methodology.
+
+- **Option B:** Identity authentication does not quantify insured losses.
+
+- **Option C:** Contestability is essential when model or field data are erroneous.
+
+- **Option D:** Assessment, rule-based indemnity and appeal are different steps.
+
+**Unique trap:** Technology accelerates evidence collection but does not replace claim rules or recourse.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** Non-portability raises switching costs even if initial entry is free.
+
+- **Option B:** The fee and buyer structure may reduce realisations.
+
+- **Option C:** Registration does not guarantee accurate grading or transparent prices.
+
+- **Option D:** A closed platform can entrench rather than diversify buyers.
+
+**Unique trap:** A free interface can conceal downstream extraction and data lock-in.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** Attention is not completion of a transaction.
+
+- **Option B:** Trusted quality and physical delivery make distant bids credible and executable.
+
+- **Option C:** Digital coordination does not eliminate physical infrastructure.
+
+- **Option D:** Net realisation deducts quality, fees, spoilage and logistics costs.
+
+**Unique trap:** An online price signal is not the same as a completed remunerative sale.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Downloads do not measure ecological outcomes.
+
+- **Option B:** Per-hectare efficiency can coincide with greater total withdrawal.
+
+- **Option C:** Aggregate extraction detects expansion and crop-switching responses.
+
+- **Option D:** Device access cannot measure groundwater depletion.
+
+**Unique trap:** Efficiency gains do not necessarily reduce absolute resource use.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** Interoperability does not license unrestricted exploitation.
+
+- **Option B:** Exclusive tying undercuts the point of interoperable public rails.
+
+- **Option C:** Farmers need visibility and correction rights for erroneous records.
+
+- **Option D:** Governance and contestability make the shared infrastructure trustworthy.
+
+**Unique trap:** Open APIs and accountable use of personal data are compatible, not substitutes.
 
 ## PYQS AND OFFICIAL-KEY DISCIPLINE
 

@@ -12,819 +12,618 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Applied set:** 29 constructed, distinct dilemmas. Attempt all questions before consulting the separate option-by-option key.
+
 #### MCQ 1
 
-A district magistrate diverts a relief vehicle to her native village because she sincerely fears for childhood neighbours, although another village has greater documented need. Which distinction prevents compassion alone from settling the ethical verdict? Which source-grounded ethical principle most precisely explains the case?
+An officer refuses to falsify compensation figures despite expected project gains. Which test is most directly deontological?
 
-A. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
+A. Whether falsification violates a duty of truthful treatment regardless of net gain.
+B. Whether project gains outweigh losses in aggregate.
+C. Whether the officer is habitually courageous.
+D. Whether villagers have strong personal ties to her.
 
-B. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-C. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
-
-D. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-**Answer:** A
-**Explanation:** **Motive concerns the reason moving the agent** is the controlling principle. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 2
 
-A municipal officer exposes a procurement irregularity mainly to damage a rival, but the disclosure is accurate and protects public money. Which object of moral appraisal captures the officer's rivalry without deciding the whole case? Which source-grounded ethical principle most precisely explains the case?
+A vaccination officer ranks options by expected lives saved, counting downstream harms. Which theory is primary?
 
-A. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
+A. Care ethics ignores the most dependent patients.
+B. Consequentialism compares overall outcomes across feasible alternatives.
+C. Deontology tests solely the officer's temperament.
+D. Virtue ethics is a fixed mathematical survival formula.
 
-B. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
-
-C. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-D. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-**Answer:** B
-**Explanation:** **Motive concerns the reason moving the agent** is the controlling principle. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 3
 
-A welfare officer wants to help vulnerable families but deliberately removes eligible migrant applicants from a list to reserve funds for local residents. Which concept identifies the exclusion she knowingly chose? Which source-grounded ethical principle most precisely explains the case?
+A relief commander asks what a just, courageous and prudent officer would do under uncertainty. Which lens is primary?
 
-A. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
+A. Act utilitarianism values intentions alone.
+B. Justice theory dispenses with fair procedures.
+C. Virtue ethics applies practical wisdom to context and character.
+D. Deontology adds all benefits into one welfare sum.
 
-B. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
-
-C. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-D. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-**Answer:** C
-**Explanation:** **Intention is the result deliberately chosen** is the controlling principle. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 4
 
-A police officer wishes to prevent violence and knowingly plans an unlawful collective punishment of an entire neighbourhood. Which element remains defective even if the underlying public-safety motive is sincere? Which source-grounded ethical principle most precisely explains the case?
+A worker feeds an elderly neighbour at minor cost but calls the omission morally harmless. What might Singer's moderate principle imply?
 
-A. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
+A. Only spectacular costly rescues can be duties.
+B. Distance from the neighbour determines the strength of duty.
+C. Existing welfare offices automatically extinguish personal duties.
+D. Preventing serious harm at low personal cost can be obligatory.
 
-B. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-C. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
-
-D. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-**Answer:** D
-**Explanation:** **Intention is the result deliberately chosen** is the controlling principle. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 5
 
-Two engineers approve equally well-tested flood barriers; an unforeseeable landslide destroys one while the other succeeds. Which distinction guards against treating the different outcomes as proof of different diligence? Which source-grounded ethical principle most precisely explains the case?
+A disaster officer intuitively distrusts a bidder but has no supporting documents. What is the defensible sequence?
 
-A. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
+A. Treat unease as a signal, test evidence and disclose reasons before deciding.
+B. Disqualify on unrecorded gut feeling.
+C. Ignore the intuition and never examine the file.
+D. Assume slow reasoning cannot itself rationalise bias.
 
-B. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
-
-C. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-D. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-**Answer:** A
-**Explanation:** **Expected and actual consequences must be separated** is the controlling principle. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 6
 
-A vaccination campaign produces a rare adverse event that was neither known nor reasonably predictable when approved. Which proposition requires judging the decision by expected risk as well as the realised harm? Which source-grounded ethical principle most precisely explains the case?
+A civil servant learns she can help elderly claimants through optional lawful assisted filing, though no rule requires it. What condition matters?
 
-A. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
+A. Reject the help because every good deed requires an explicit command.
+B. Apply the assistance consistently, record reasons and check delegated authority.
+C. Assist a personal acquaintance only, without a file note.
+D. Assume no express prohibition equals unlimited powers.
 
-B. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
-
-C. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-D. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
-
-**Answer:** B
-**Explanation:** **Expected and actual consequences must be separated** is the controlling principle. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 7
 
-A state proposes secretly intercepting every citizen's messages to locate a small terrorist cell. Which proposition explains why public safety cannot by itself settle the morality of indiscriminate surveillance? Which source-grounded ethical principle most precisely explains the case?
+An official wants to release classified records to expose surveillance. What must a Snowden-type analysis address?
 
-A. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
+A. Secrecy always trumps every public right.
+B. Any disclosure is justified whenever it wins applause.
+C. Public-interest necessity, proportionate disclosure and available protected channels.
+D. Conscience always trumps every secrecy obligation.
 
-B. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
-
-C. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-D. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
-
-**Answer:** C
-**Explanation:** **Good ends do not automatically cleanse bad means** is the controlling principle. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 8
 
-A block officer fabricates attendance records so that deserving labourers receive delayed MGNREGA wages. Which analytical claim requires separate scrutiny of the benevolent objective and the dishonest method? Which source-grounded ethical principle most precisely explains the case?
+A hospital has two equally eligible patients and one ventilator. Which design avoids VIP discretion while considering outcomes?
 
-A. Intention is the result an agent deliberately adopts, including the chosen means; a benevolent motive can coexist with an unlawful, discriminatory or otherwise defective intention.
+A. Let donors decide priority in private.
+B. Rank lives by social prestige.
+C. Use first-come ordering even when clinical need differs drastically.
+D. Published clinical priority followed by a fair tie-break among comparably situated patients.
 
-B. Ethical appraisal should distinguish expected consequences, reasonably foreseeable risks and actual outcomes, because the eventual result may include luck beyond the decision-maker's control.
-
-C. Motive is the background reason moving an agent, such as compassion, fear, loyalty or private gain; it helps evaluate character but does not by itself make the chosen administrative action right.
-
-D. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character.
-
-**Answer:** D
-**Explanation:** **Good ends do not automatically cleanse bad means** is the controlling principle. A good end does not automatically cleanse a wrongful means: act consequentialism may sometimes permit it, while deontology imposes side-constraints and virtue ethics examines what the choice reveals about character. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 9
 
-A licensing officer accepts one undisclosed gift because the application is otherwise meritorious and says no harm will follow. Which test asks what would happen to the practice if every officer adopted that maxim? Which source-grounded ethical principle most precisely explains the case?
+A clinic's published priority list denies care to one caste even though administrators predict faster aggregate throughput. What is the ethical floor?
 
-A. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
+A. Non-discrimination and equal dignity constrain efficiency calculations.
+B. Higher throughput automatically validates caste exclusion.
+C. The virtues of individual staff erase the rule's discrimination.
+D. Use an undisclosed caste exception only for connected applicants.
 
-B. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-C. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
-
-D. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-**Answer:** A
-**Explanation:** **Universalisation tests the operative maxim** is the controlling principle. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 10
 
-A tax official proposes lying to one taxpayer to secure quick payment while expecting citizens generally to trust official notices. Which Kantian test exposes the contradiction in the proposed maxim? Which source-grounded ethical principle most precisely explains the case?
+Two officers follow equal due diligence but one contractor fails after an unforeseeable shock. What is the moral-luck lesson?
 
-A. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
+A. Assume the successful officer was morally superior.
+B. Judge ex ante evidence, process and good faith as well as the bad outcome.
+C. Convict both because bad outcomes are always chosen.
+D. Ignore outcomes and all subsequent risk evidence.
 
-B. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
-
-C. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-D. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-**Answer:** B
-**Explanation:** **Universalisation tests the operative maxim** is the controlling principle. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 11
 
-A district plans a hazardous medical trial on poorly informed prisoners because the results could benefit millions. Which principle rejects using them merely as instruments for aggregate benefit? Which source-grounded ethical principle most precisely explains the case?
+An officer ignored a known warning before a project failed and calls it bad luck. Which objection is decisive?
 
-A. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
+A. Only the officer's initial motive can be assessed.
+B. A good outcome would prove the process sound.
+C. Foreseeable neglected risks indicate deficient process, not mere resultant luck.
+D. Every adverse outcome proves corruption.
 
-B. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
-
-C. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-D. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-**Answer:** C
-**Explanation:** **Humanity must never be treated merely as a means** is the controlling principle. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 12
 
-Officials publish identifiable medical details of welfare beneficiaries to demonstrate programme success. Which deontological principle requires informed respect for those citizens rather than using them as publicity material? Which source-grounded ethical principle most precisely explains the case?
+An officer posted during a rare epidemic faces choices colleagues never encounter. What type of luck is salient?
 
-A. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
+A. Resultant luck: the final effect of an action.
+B. Constitutive luck: inborn or shaped temperament.
+C. Causal luck: the whole antecedent causal chain.
+D. Circumstantial luck: exposure to a particular dilemma.
 
-B. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-C. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
-
-D. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-**Answer:** D
-**Explanation:** **Humanity must never be treated merely as a means** is the controlling principle. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 13
 
-A superior tells an accounts officer to alter one figure, warning that refusal will lead a less scrupulous colleague to falsify the entire statement. Which principle explains why the officer still has a personal duty not to falsify? Which source-grounded ethical principle most precisely explains the case?
+A policymaker applies the same administrative rule repeatedly because society benefits from its general observance. Which theory justifies the rule?
 
-A. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
+A. Rule utilitarianism grounds stable rules in long-run consequences.
+B. Act utilitarianism considers only a universal rule.
+C. Kantian duty is justified by total welfare alone.
+D. Virtue ethics demands uniform treatment with no contextual judgment.
 
-B. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
-
-C. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-D. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-**Answer:** A
-**Explanation:** **Some duties generate agent-relative restraints** is the controlling principle. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 14
 
-A jail superintendent is asked to torture one suspect because another agency may use harsher methods if she refuses. Which proposition rejects transferring moral responsibility to the predicted conduct of others? Which source-grounded ethical principle most precisely explains the case?
+A clerk rigidly enforces a deadline whose authorised exception was designed for persons hospitalised that day. What is the better rule-based response?
 
-A. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
+A. Waive every deadline for everyone without checking authority.
+B. Apply the existing exception transparently to all who qualify.
+C. Invent a hidden waiver for a friend.
+D. Refuse all exceptions because published purposes never matter.
 
-B. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
-
-C. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-D. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
-
-**Answer:** B
-**Explanation:** **Some duties generate agent-relative restraints** is the controlling principle. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 15
 
-During a riot, a magistrate must protect life while also respecting lawful assembly and proportional force. Which formulation allows consequences to inform implementation without making expected welfare the sole source of duty? Which source-grounded ethical principle most precisely explains the case?
+An administrator lets a contractor choose among vulnerable residents who will lose homes. What does care ethics foreground?
 
-A. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
+A. Only whether the officer personally obeys a maxim.
+B. Only an abstract average citizen's preferences.
+C. Dependency, voice and unequal burdens among affected people.
+D. Only total road traffic saved, without distribution.
 
-B. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
-
-C. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-D. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
-
-**Answer:** C
-**Explanation:** **Consequences inform planning but do not create duty** is the controlling principle. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 16
 
-A doctor in a government hospital faces duties of confidentiality and protection of an identifiable third party from serious harm. Which deontological approach requires reasoned prioritisation rather than mechanically repeating one rule? Which source-grounded ethical principle most precisely explains the case?
+A project promises high aggregate welfare but its benefits skip the community bearing displacement. Which justice question is primary?
 
-A. The humanity formula prohibits treating persons merely as instruments, establishing a dignity and rights floor below which aggregate welfare calculations cannot ordinarily descend.
+A. Can the minister emotionally relate to developers alone?
+B. Does the officer enjoy the prestige of completing it?
+C. Would a lucky outcome retroactively validate exclusion?
+D. Are burdens and remedies distributed fairly with voice and equal status?
 
-B. Deontological reasons are often agent-relative: an official's own duty not to falsify records remains binding even when another person might otherwise produce a worse outcome.
-
-C. Kantian universalisation asks whether the operative maxim could be consistently adopted by everyone, not merely whether the present exception benefits the individual decision-maker.
-
-D. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority.
-
-**Answer:** D
-**Explanation:** **Consequences inform planning but do not create duty** is the controlling principle. Deontology excludes consequences as the foundation of duty, not from practical planning; hard cases require identifying genuinely conflicting duties and giving a reasoned account of priority. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 17
 
-A city considers closing a polluting factory. Which approach requires comparing health gains, lost livelihoods, transition support, future investment signals and environmental effects across all realistic alternatives? Which source-grounded ethical principle most precisely explains the case?
+An officer claims morality varies by context, so torture of detainees can be locally approved. What is the flaw?
 
-A. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
+A. Context sensitivity does not erase fundamental dignity and legal prohibitions.
+B. Virtue ethics requires every local practice be accepted.
+C. Universalism means every administrative detail must be identical.
+D. Relativism and consequentialism are the same position.
 
-B. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-C. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
-
-D. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-**Answer:** A
-**Explanation:** **Consequentialism compares complete expected effects** is the controlling principle. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 18
 
-A collector considers waiving one documentation requirement for flood relief. Which theory demands attention not only to the immediate beneficiary but also to equal treatment, precedent and future trust? Which source-grounded ethical principle most precisely explains the case?
+A minister praises a harmful choice because its motive was kindness and its accidental result beneficial. Which analysis is precise?
 
-A. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
+A. Only consequences are relevant to every moral theory.
+B. Separate motive, intended means and actual consequences before judging.
+C. A good motive automatically makes the chosen means lawful.
+D. An accidental benefit proves the plan was prudent.
 
-B. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
-
-C. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-D. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-**Answer:** B
-**Explanation:** **Consequentialism compares complete expected effects** is the controlling principle. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 19
 
-An ambulance driver breaks a minor traffic restriction at an empty junction to save a critically injured child. Which version of utilitarianism focuses directly on the expected result of this individual exception? Which source-grounded ethical principle most precisely explains the case?
+A doctor lists medication risks honestly to a competent patient, who freely chooses medication. Which response is beneficence without hard paternalism?
 
-A. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
+A. Perform surgery without patient consent for her own good.
+B. Withhold long-term risks to avoid frightening her.
+C. Support informed choice, monitor risks and offer review of the decision.
+D. Persuade the family to reverse the patient's choice secretly.
 
-B. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
-
-C. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-D. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-**Answer:** C
-**Explanation:** **Act utilitarianism evaluates the particular act** is the controlling principle. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 20
 
-A disaster officer opens a locked public building without prior permission to shelter families during a cloudburst. Which approach asks whether this particular act maximises welfare compared with waiting? Which source-grounded ethical principle most precisely explains the case?
+A doctor convinces a patient's family before seeking the patient's reluctant surgery agreement. What factual uncertainty is crucial?
 
-A. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
+A. Whether any reluctant choice is automatically invalid.
+B. Whether the family's vote legally replaces her competent choice.
+C. Whether surgery has attractive projected aggregate outcomes alone.
+D. Whether her consent was informed and voluntary rather than induced by dependent-family pressure.
 
-B. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-C. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
-
-D. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-**Answer:** D
-**Explanation:** **Act utilitarianism evaluates the particular act** is the controlling principle. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 21
 
-A ration officer could favour one sympathetic family today, but widespread case-by-case favouritism would undermine queues and trust. Which theory evaluates the welfare effects of the general rule? Which source-grounded ethical principle most precisely explains the case?
+A family signs consent for an anaesthetised competent adult's non-emergency additional surgery. Which Indian case is the relevant warning?
 
-A. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
+A. Samira Kohli limits family substitution and stresses real informed patient consent.
+B. A UK disclosure decision is binding Indian consent law.
+C. A lawful benefit to the patient alone establishes authorisation.
+D. Any consent for a diagnostic procedure includes all further surgery.
 
-B. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
-
-C. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-D. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-**Answer:** A
-**Explanation:** **Rule utilitarianism evaluates general acceptance** is the controlling principle. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 22
 
-A procurement committee retains transparent bidding even though direct selection might be faster in one non-emergency purchase. Which approach emphasises the long-run gains of generally following a fair procedure? Which source-grounded ethical principle most precisely explains the case?
+A public service portal makes the welfare-improving option default with a genuine easy opt-out. Which classification fits?
 
-A. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
+A. Therapeutic privilege to conceal significant risks.
+B. A low-interference nudge that preserves autonomous refusal.
+C. Hard paternalism overriding an informed adult.
+D. Coercion through a credible threat of harm.
 
-B. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
-
-C. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-D. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
-
-**Answer:** B
-**Explanation:** **Rule utilitarianism evaluates general acceptance** is the controlling principle. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 23
 
-A dam appraisal counts electricity revenue but omits displacement, downstream ecology and tribal cultural loss. Which limitation exposes how selective framing can manufacture an apparently favourable net benefit? Which source-grounded ethical principle most precisely explains the case?
+A doctor supplies evidence directly to the patient, who is free to refuse; a colleague says all persuasion is coercion. What is wrong?
 
-A. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
+A. A threat and a reason are interchangeable.
+B. Patients must never hear medical advice before deciding.
+C. Reason-giving with a genuine choice differs from threat or undue influence.
+D. Clinical recommendation always voids consent.
 
-B. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
-
-C. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-D. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
-
-**Answer:** C
-**Explanation:** **Utility calculation contains framing and measurement risks** is the controlling principle. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 24
 
-An urban flyover saves commuters five minutes but imposes concentrated pollution on a low-income settlement. Which caution challenges aggregation that hides who receives benefits and who bears costs? Which source-grounded ethical principle most precisely explains the case?
+A person passes a shallow pond where a child faces grave danger; rescuing costs clean clothes. What does Singer infer?
 
-A. Act utilitarianism evaluates the particular choice and may support an exception when that act produces greater expected net welfare than every available alternative.
+A. Saving is optional because many others might help.
+B. The duty vanishes if the child lives far away.
+C. Rescue is forbidden unless a law commands it.
+D. Preventing grave harm at trivial cost is a duty, not merely praiseworthy charity.
 
-B. Rule utilitarianism evaluates the consequences of generally accepting a rule, explaining why predictable and non-arbitrary procedures may outperform locally attractive exceptions.
-
-C. Consequentialism compares feasible alternatives by their expected effects on everyone affected, including indirect harms, distribution, precedent, institutional trust and long-term consequences.
-
-D. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count.
-
-**Answer:** D
-**Explanation:** **Utility calculation contains framing and measurement risks** is the controlling principle. Consequentialist calculation remains vulnerable to uncertain forecasts, unequal distribution, disputed welfare measures and manipulation of whose interests or time horizon count. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 25
 
-An officer repeatedly behaves honestly even when audits are unlikely and no reward is available. Which ethical approach treats this reliable disposition, rather than isolated compliance, as central? Which source-grounded ethical principle most precisely explains the case?
+A parent must preserve necessary resources for dependants before helping distant strangers. Does this refute low-cost duty?
 
-A. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
+A. No; preserve special obligations, then assess aid from genuine surplus.
+B. Yes; parenthood eliminates all duties beyond the household.
+C. No; Singer requires sacrificing dependants for every request.
+D. Yes; only a legal tax can ground help to strangers.
 
-B. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-C. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
-
-D. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-**Answer:** A
-**Explanation:** **Virtue ethics evaluates stable character** is the controlling principle. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 26
 
-A police leader builds habits of restraint, courage and truthfulness throughout the force instead of relying only on manuals. Which theory most directly explains this character-forming strategy? Which source-grounded ethical principle most precisely explains the case?
+An officer argues that because the State should fund welfare, citizens have no moral obligation to help anyone cheaply. What is the best reply?
 
-A. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
+A. State failure proves beneficiaries are not entitled to help.
+B. Institutional duty and low-cost individual aid coexist, alongside reform of failed systems.
+C. Private donations alone replace rights-based State welfare.
+D. Every citizen must surrender all personal projects.
 
-B. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
-
-C. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-D. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-**Answer:** B
-**Explanation:** **Virtue ethics evaluates stable character** is the controlling principle. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 27
 
-A district magistrate facing communal violence rejects both reckless force and cowardly inaction, selecting firm proportionate measures. Which Aristotelian idea describes the appropriate response without averaging the two extremes? Which source-grounded ethical principle most precisely explains the case?
+A donor is praised for a dangerous high-cost rescue, but not blamed for having avoided it. What is the relevant moral category?
 
-A. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
+A. Perfect duty with no latitude and blame for omission.
+B. Morally neutral action with no ground for praise.
+C. Supererogation: valuable action beyond enforceable moral requirement.
+D. Forbidden conduct because risk is involved.
 
-B. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
-
-C. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-D. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-**Answer:** C
-**Explanation:** **The golden mean is context-relative appropriateness** is the controlling principle. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 28
 
-An officer is told to split the difference between complete secrecy and full publication in every information dispute. Which proposition explains why ethical balance cannot be reduced to a numerical midpoint? Which source-grounded ethical principle most precisely explains the case?
+A civil servant chooses to help some eligible residents personally but refuses all other assistance as optional. Which Kantian point challenges this?
 
-A. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
+A. Imperfect duty means aid is always entirely optional.
+B. Perfect duty allows unlimited exceptions in one's own favour.
+C. Positive duties automatically grant unlimited public spending authority.
+D. Beneficence is an imperfect duty: the end is required though manner permits latitude.
 
-B. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-C. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
-
-D. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-**Answer:** D
-**Explanation:** **The golden mean is context-relative appropriateness** is the controlling principle. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 29
 
-A revenue officer recognises that literal insistence on one certificate would defeat a pension rule's protective purpose, then records a lawful alternative verification. Which virtue-guided capacity is being exercised? Which source-grounded ethical principle most precisely explains the case?
+A state's development score is high but excluded groups lack appeal against arbitrary decisions. What additional ethical audit is needed?
 
-A. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
+A. Test procedural and recognitional justice alongside aggregate results.
+B. Declare efficient outcomes the only moral criterion.
+C. Replace all written appeals with discretionary sympathy.
+D. Assume the virtue of one senior official guarantees fair institutions.
 
-B. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
 
-C. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
+### Separate answer key and option-by-option explanations
 
-D. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
+#### MCQ 1 — A
 
-**Answer:** A
-**Explanation:** **Phronesis integrates purpose, perception and deliberation** is the controlling principle. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A duty-based objection does not depend on useful results.
+- **B:** This calculates consequences.
+- **C:** This assesses character.
+- **D:** This foregrounds relationships.
 
----
-
-#### MCQ 30
-
-A new collector knows every disaster manual but cannot recognise when frightened citizens need reassurance rather than another order. Which missing Aristotelian capacity links general knowledge to perceptive action? Which source-grounded ethical principle most precisely explains the case?
-
-A. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-B. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
-
-C. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-D. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
-
-**Answer:** B
-**Explanation:** **Phronesis integrates purpose, perception and deliberation** is the controlling principle. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** A good end cannot itself authorise falsification.
 
 ---
 
-#### MCQ 31
+#### MCQ 2 — B
 
-A judge must display impartiality and restraint where a private citizen may properly show personal loyalty. Which proposition explains why entrusted public roles alter the virtues ethically salient in action? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Care foregrounds vulnerability, not neglect.
+- **B:** The comparison turns on expected consequences.
+- **C:** Deontology centres on duties, not temperament.
+- **D:** Character judgment is not an algorithm.
 
-A. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
-
-B. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-C. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-D. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
-
-**Answer:** C
-**Explanation:** **Public roles shape the virtues demanded** is the controlling principle. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Expected effects differ from eventual outcomes.
 
 ---
 
-#### MCQ 32
+#### MCQ 3 — C
 
-A training note classifies every relationship-centred argument as Aristotelian virtue ethics. Which caution requires treating care ethics as adjacent but conceptually distinct? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Act utilitarianism examines outcomes.
+- **B:** Procedural fairness remains crucial.
+- **C:** Phronesis weighs the situation through trained virtues.
+- **D:** Aggregate comparison belongs to consequentialism.
 
-A. Aristotle's mean is context-relative practical appropriateness between excess and deficiency, not an arithmetic midpoint or a command always to choose moderation.
-
-B. Phronesis integrates ethical purpose, experience, perceptive attention and deliberation to identify which virtue and response are appropriate in a particular situation.
-
-C. Virtue ethics evaluates the character and stable dispositions expressed through action, not only compliance with rules or production of desirable outcomes.
-
-D. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype.
-
-**Answer:** D
-**Explanation:** **Public roles shape the virtues demanded** is the controlling principle. Public responsibility and entrusted power shape the virtues demanded by a role; care ethics is a neighbouring relational tradition, not simply an Aristotelian subtype. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Virtue is neither rule-recitation nor arithmetic.
 
 ---
 
-#### MCQ 33
+#### MCQ 4 — D
 
-A procurement officer feels that an apparently compliant bid is improper before she can identify why. Which concept describes this useful but not yet defensible ethical signal? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Low-cost ordinary aid can be morally required.
+- **B:** Location alone does not determine moral weight.
+- **C:** Institutional duty and individual duty can coexist.
+- **D:** A modest sacrifice may trigger a positive duty.
 
-A. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-B. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-C. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-D. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-**Answer:** A
-**Explanation:** **Moral intuition is a rapid ethical signal** is the controlling principle. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Distinguish moral duty from enforceable legal obligation.
 
 ---
 
-#### MCQ 34
+#### MCQ 5 — A
 
-A village official instinctively trusts applicants from his own community more than outsiders. Which feature explains why a strongly felt moral response still requires scrutiny? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Intuition alerts; reason makes a reviewable decision.
+- **B:** Feelings alone are not a lawful ground.
+- **C:** A genuine signal may warrant inquiry.
+- **D:** Deliberation can be biased and should be checked.
 
-A. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-B. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-C. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-D. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-**Answer:** B
-**Explanation:** **Moral intuition is a rapid ethical signal** is the controlling principle. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Neither intuition nor reasoning is infallible.
 
 ---
 
-#### MCQ 35
+#### MCQ 6 — B
 
-After feeling uneasy about a tender, an officer checks beneficial ownership, conflict rules, expected public loss and fairness before acting. Which process turns an intuition into an appeal-resistant decision? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Lawful initiative need not await a separate order.
+- **B:** Recorded general treatment protects initiative against favour.
+- **C:** Private selectivity undermines impartiality.
+- **D:** Silence does not remove implicit legal constraints.
 
-A. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-B. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-C. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-D. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-**Answer:** C
-**Explanation:** **Moral reasoning supplies publicly defensible tests** is the controlling principle. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Check legality and equal access, not just good intentions.
 
 ---
 
-#### MCQ 36
+#### MCQ 7 — C
 
-A disciplinary authority says only that dismissal 'felt right' and records no criteria. Which missing process would provide reasons capable of scrutiny by a court or reviewing authority? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Confidentiality is not an absolute moral answer.
+- **B:** Popularity does not establish necessity.
+- **C:** Competing public rights and security duties require a channel-first proportionality test.
+- **D:** Moral purpose alone is insufficient.
 
-A. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-B. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-C. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-D. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-**Answer:** D
-**Explanation:** **Moral reasoning supplies publicly defensible tests** is the controlling principle. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Neither blanket leak nor blanket silence solves a conflict.
 
 ---
 
-#### MCQ 37
+#### MCQ 8 — D
 
-Emergency movement restrictions justified during a lethal outbreak continue after the danger passes. Which principle explains how the same liberty value can require a different rule application when facts change? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Donor privilege displaces merit.
+- **B:** Social worth is not clinical prognosis.
+- **C:** Order of arrival can ignore relevant severity.
+- **D:** Clinical evidence plus equal process joins welfare and rights.
 
-A. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-B. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-C. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-D. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-**Answer:** A
-**Explanation:** **Context-sensitive justice retains stable values** is the controlling principle. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Triage rules require enforcement against queue-jumping.
 
 ---
 
-#### MCQ 38
+#### MCQ 9 — A
 
-A benefits algorithm once regarded as neutral is shown to exclude persons with disabilities. Which proposition requires revisiting the earlier practice without claiming that justice has no stable content? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Rights cannot be traded for administrative convenience.
+- **B:** Efficiency does not annul equal status.
+- **C:** Good character cannot fix a discriminatory policy.
+- **D:** Secret favour is not justice.
 
-A. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-B. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-C. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-D. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-**Answer:** B
-**Explanation:** **Context-sensitive justice retains stable values** is the controlling principle. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Rule-level unfairness must be corrected, not worked around.
 
 ---
 
-#### MCQ 39
+#### MCQ 10 — B
 
-A revenue officer accepts an alternative identity document from an elderly flood victim and records why the statute permits equivalent proof. Which principle distinguishes calibrated initiative from unauthorised benevolence? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Success may also owe something to chance.
+- **B:** Resultant luck can produce unequal outcomes from similar care.
+- **C:** Failure alone does not establish misconduct.
+- **D:** Outcomes remain evidence and feedback.
 
-A. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-B. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-C. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-D. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-**Answer:** C
-**Explanation:** **Good initiative requires authority and equal treatment** is the controlling principle. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Moral luck is not immunity for negligence.
 
 ---
 
-#### MCQ 40
+#### MCQ 11 — C
 
-A collector waives a requirement only for a politically connected applicant, arguing that no rule expressly forbids the waiver. Which proposition identifies the missing equality and reasons safeguards? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Motive does not erase foreseeable neglect.
+- **B:** Fortune cannot vindicate careless choice.
+- **C:** The correction applies to demonstrable good-faith diligence, not ignored warnings.
+- **D:** Bad performance has several possible causes.
 
-A. Moral reasoning makes a decision publicly defensible by testing facts and intuitions against duties, consequences, virtues, law and constitutional values.
-
-B. Context-sensitive justice retains stable values while adapting their application to changed facts, knowledge and burdens; it must not be confused with unrestricted ethical relativism.
-
-C. Moral intuition is a rapid, affective judgment that can provide an early warning but may also reproduce prejudice, familiarity bias or in-group loyalty.
-
-D. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form.
-
-**Answer:** D
-**Explanation:** **Good initiative requires authority and equal treatment** is the controlling principle. Doing good beyond express rules requires lawful authority, no express or implied prohibition, equal treatment, recorded reasons and fidelity to substance without arbitrary disregard of form. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Demand contemporaneous records, not retrospective excuses.
 
 ---
 
-#### MCQ 41
+#### MCQ 12 — D
 
-A government hospital has fewer ICU beds than eligible patients. Which framework supports clinical evidence while rejecting VIP preference and requiring transparent reviewable allocation criteria? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Resultant luck concerns outcome.
+- **B:** Constitutive luck concerns agent formation.
+- **C:** Causal luck is a deeper freedom question.
+- **D:** The question concerns which situation one faces.
 
-A. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-B. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-C. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-D. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-**Answer:** A
-**Explanation:** **Ethical triage requires a constrained hybrid** is the controlling principle. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Separate exposure from outcome.
 
 ---
 
-#### MCQ 42
+#### MCQ 13 — A
 
-After a cyclone, relief teams can immediately reach only three of six islands. Which proposition combines aggregate rescue impact with equal dignity, vulnerability and a public priority rule? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Consequences of general adoption motivate this rule.
+- **B:** Act utilitarianism evaluates each act's particular result.
+- **C:** Deontology's justification differs.
+- **D:** Practical wisdom remains context-sensitive.
 
-A. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-B. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-C. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-D. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-**Answer:** B
-**Explanation:** **Ethical triage requires a constrained hybrid** is the controlling principle. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Similar conduct can have different theoretical grounds.
 
 ---
 
-#### MCQ 43
+#### MCQ 14 — B
 
-An intelligence analyst discovers unlawful mass surveillance and considers uploading an entire classified archive without first using protected oversight channels. Which principle requires a narrower, channel-sensitive ethical assessment? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Blanket waiver exceeds the specified rule.
+- **B:** An authorised, reviewable exception serves the rule's purpose.
+- **C:** Selective secrecy undermines fairness.
+- **D:** Mechanical worship can defeat legitimate policy design.
 
-A. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-B. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-C. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-D. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-**Answer:** C
-**Explanation:** **Disclosure requires necessity and proportionality** is the controlling principle. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** An exception inside a rule is not arbitrary disregard.
 
 ---
 
-#### MCQ 44
+#### MCQ 15 — C
 
-A government engineer leaks only the documents necessary to prove concealed dam-safety risks after documented internal escalation fails. Which framework assesses whether the disclosure is ethically defensible despite a secrecy duty? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Duty matters but alone may miss care relationships.
+- **B:** Averages can silence dependants.
+- **C:** Relational vulnerabilities require hearing displaced households.
+- **D:** Aggregate benefit can hide unequal costs.
 
-A. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-B. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-C. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-D. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-**Answer:** D
-**Explanation:** **Disclosure requires necessity and proportionality** is the controlling principle. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Care needs justice safeguards to avoid personal favour.
 
 ---
 
-#### MCQ 45
+#### MCQ 16 — D
 
-Two equally diligent officers face different outcomes, while only one happened to be posted during a catastrophe. Which framework separates luck in results from luck in circumstances? Which source-grounded ethical principle most precisely explains the case?
+- **A:** One-sided empathy is not a fair allocation test.
+- **B:** Career incentives are irrelevant to entitlement.
+- **C:** Resultant luck cannot cure injustice.
+- **D:** Distribution, procedure and recognition matter beyond totals.
 
-A. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-B. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-C. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-D. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-**Answer:** A
-**Explanation:** **Moral luck has four analytically distinct forms** is the controlling principle. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Care for the displaced and fair process belong together.
 
 ---
 
-#### MCQ 46
+#### MCQ 17 — A
 
-A discussion distinguishes outcome, situation, temperament and causal history as sources of factors beyond control. Which attribution caution prevents assigning the same fourfold classification indiscriminately to both philosophers? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Context-specific judgment still has rights floors.
+- **B:** Character theories are not blanket cultural permission.
+- **C:** Universality of dignity permits context in implementation.
+- **D:** Scope of standards differs from outcome justification.
 
-A. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-B. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-C. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-D. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-**Answer:** B
-**Explanation:** **Moral luck has four analytically distinct forms** is the controlling principle. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not infer moral permissibility from local prevalence.
 
 ---
 
-#### MCQ 47
+#### MCQ 18 — B
 
-A public-sector bank officer follows recorded due diligence, but an unforeseeable market shock later defeats the project. Which principle resists automatic misconduct inference while preserving review of the decision process? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Duties and character remain relevant.
+- **B:** Different frameworks evaluate distinct objects of agency.
+- **C:** Intentions may still violate duties.
+- **D:** Luck can produce gain from poor planning.
 
-A. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
-
-B. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
-
-C. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
-
-D. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
-
-**Answer:** C
-**Explanation:** **Ex-ante process corrects outcome bias without excusing negligence** is the controlling principle. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not collapse motive, intention and outcome.
 
 ---
 
-#### MCQ 48
+#### MCQ 19 — C
 
-A road project succeeds despite the engineer ignoring mandatory soil tests. Which proposition explains why a fortunate outcome cannot vindicate a negligent process? Which source-grounded ethical principle most precisely explains the case?
+- **A:** An override for own good is hard paternalism.
+- **B:** Selective disclosure impairs informed choice.
+- **C:** Advice and follow-up respect autonomy while promoting welfare.
+- **D:** Family cannot substitute for a competent adult.
 
-A. Snowden-type disclosure presents competing duties of confidentiality and democratic accountability; motive alone cannot replace necessity, minimisation, proportionality and prior-channel tests.
+**Trap:** Disagreement with a recommendation is not incapacity.
 
-B. Nagel's taxonomy distinguishes resultant, circumstantial, constitutive and causal luck; Williams's treatment should not be presented as an identical four-part taxonomy.
+---
 
-C. Ethical triage should combine evidence-based welfare maximisation with equal worth, non-discrimination, vulnerability safeguards, published criteria and periodic review.
+#### MCQ 20 — D
 
-D. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy.
+- **A:** Competent adults can validly choose reluctantly.
+- **B:** Family support is not substituted consent.
+- **C:** Beneficial outcomes do not fix flawed consent.
+- **D:** Reluctance flags but does not decide voluntariness.
 
-**Answer:** D
-**Explanation:** **Ex-ante process corrects outcome bias without excusing negligence** is the controlling principle. A moral-luck correction makes ex-ante diligence primary without making outcomes irrelevant: outcomes remain evidence and feedback, while negligence, bad faith and foreseeable omissions remain blameworthy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Assess pressure separately; do not equate reluctance with refusal.
+
+---
+
+#### MCQ 21 — A
+
+- **A:** The Indian judgment distinguishes authorised treatment from extra surgery.
+- **B:** Montgomery is persuasive, not binding in India.
+- **C:** Beneficent motive does not create valid consent.
+- **D:** Original consent has a defined scope.
+
+**Trap:** Do not claim Samira Kohli makes every reluctant consent invalid.
+
+---
+
+#### MCQ 22 — B
+
+- **A:** Disclosure cannot simply be withheld.
+- **B:** Choice architecture may influence while keeping exit open.
+- **C:** An easy opt-out differs from override.
+- **D:** No threat is specified.
+
+**Trap:** The opt-out must be practically, not only formally, available.
+
+---
+
+#### MCQ 23 — C
+
+- **A:** Coercion requires credible threatening pressure.
+- **B:** Informed choice requires relevant advice.
+- **C:** Legitimate persuasion engages the patient's own reasons.
+- **D:** Competent patients can evaluate recommendations.
+
+**Trap:** Separate persuasion, manipulation and coercion.
+
+---
+
+#### MCQ 24 — D
+
+- **A:** Other bystanders do not annul individual duty.
+- **B:** Distance alone does not remove the moral claim.
+- **C:** Moral duties need not be statutory.
+- **D:** The low-cost serious-harm comparison supports an obligation.
+
+**Trap:** Distinguish Singer's moderate and strong thresholds.
+
+---
+
+#### MCQ 25 — A
+
+- **A:** Moderate duty respects significant costs to dependants.
+- **B:** Special duties do not justify total indifference.
+- **C:** That misstates the qualified claim.
+- **D:** Moral duties can be uncodified.
+
+**Trap:** Test real cost, not mere preference for comfort.
+
+---
+
+#### MCQ 26 — B
+
+- **A:** Need persists despite institutional shortfalls.
+- **B:** Systemic reform and immediate aid address different dimensions.
+- **C:** Charity cannot replace accountable public entitlements.
+- **D:** The moderate principle is bounded by significant sacrifice.
+
+**Trap:** Don't outsource every duty to one actor.
+
+---
+
+#### MCQ 27 — C
+
+- **A:** Omission here was stipulated non-blameworthy.
+- **B:** Exceptional aid is still morally good.
+- **C:** Praise without blame for omission is the diagnostic pattern.
+- **D:** Danger does not make saving intrinsically wrong.
+
+**Trap:** Check whether baseline duty applied before calling help heroic.
+
+---
+
+#### MCQ 28 — D
+
+- **A:** Latitude does not cancel the duty.
+- **B:** Perfect duties are stringent rather than self-exempting.
+- **C:** Moral duties remain bounded by legal powers.
+- **D:** One must adopt the end of helping without a fixed identical act.
+
+**Trap:** Separate citizen duty to aid from authority to allocate funds.
+
+---
+
+#### MCQ 29 — A
+
+- **A:** Voice, review and equal status prevent aggregate gains concealing exclusion.
+- **B:** Consequences alone can miss fair process.
+- **C:** Personal sympathy risks inconsistent correction.
+- **D:** Institutional justice cannot rest on one character.
+
+**Trap:** A policy can succeed on totals and fail on rights.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -844,24 +643,6 @@ D. A moral-luck correction makes ex-ante diligence primary without making outcom
 
 ---
 
-**Demand decoding:** The directive **examine** requires a direct position on “Neutral rendering of GS-IV Q4: (a) Examine whether a public servant may undertake a good…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q4: (a) Examine whether a public servant may undertake a good act when it is not expressly prohibited by laws or rules.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against the local 2018 GS-IV scan and the 2018-2023 routing ledger. Both subparts are retained; the combined 20 marks must not be represented as one undifferentiated 150-word answer. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q4: (a) Examine whether a public servant may undertake a good act when it is not expressly prohibited by laws or rules.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q4: (a) Examine whether a public servant may undertake a good…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2023 — 20 marks
 
@@ -879,24 +660,6 @@ D. A moral-luck correction makes ex-ante diligence primary without making outcom
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Neutral rendering of GS-IV Q4: (a) Discuss whether emotional intelligence is more important…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q4: (a) Discuss whether emotional intelligence is more important than cognitive intelligence for success in life. (b)…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against the local 2023 GS-IV scan and the 2018-2023 routing ledger. Part (b) is directly owned here; part (a) is a necessary cross-topic bridge to the Emotional Intelligence owner. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q4: (a) Discuss whether emotional intelligence is more important than cognitive intelligence for success in life. (b)…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q4: (a) Discuss whether emotional intelligence is more important…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2024 — 20 marks
 
@@ -914,23 +677,6 @@ D. A moral-luck correction makes ex-ante diligence primary without making outcom
 
 ---
 
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q4: (a) Examine, with suitable examples, the proposition that just and unjust are…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4: (a) Examine, with suitable examples, the proposition that just and unjust are contextual and that changing contexts must remain under…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4: (a) Examine, with suitable examples, the proposition that just and unjust are contextual and that changing contexts must remain under…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4: (a) Examine, with suitable examples, the proposition that just and unjust are…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2024 — 10 marks
 
@@ -948,23 +694,6 @@ The point is not that every passing thought creates equal moral guilt. Kantian e
 
 ---
 
-**Demand decoding:** The directive **explain** requires a direct position on “GS-IV Q3(c): Explain the present-day meaning of the quotation attributed in the paper to…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q3(c): Explain the present-day meaning of the quotation attributed in the paper to Immanuel Kant: in law a person is guilty upon violating…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q3(c): Explain the present-day meaning of the quotation attributed in the paper to Immanuel Kant: in law a person is guilty upon violating…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q3(c): Explain the present-day meaning of the quotation attributed in the paper to…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2024 — 10 marks
 
@@ -982,23 +711,6 @@ A deontological floor requires legality, equality, privacy, due process and huma
 
 ---
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “GS-IV Q1(a): Critically examine from the ethical point of view the proposition that…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): Critically examine from the ethical point of view the proposition that Artificial Intelligence can serve as a dependable input for…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): Critically examine from the ethical point of view the proposition that Artificial Intelligence can serve as a dependable input for…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): Critically examine from the ethical point of view the proposition that…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2018 — 20 marks
 
@@ -1020,23 +732,6 @@ Thus a moral motive is relevant but insufficient. The qualified test is necessit
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering of GS-IV Q12: Edward Snowden disclosed classified government surveillance…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q12: Edward Snowden disclosed classified government surveillance material, claiming a moral obligation to inform the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q12: Edward Snowden disclosed classified government surveillance material, claiming a moral obligation to inform the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q12: Edward Snowden disclosed classified government surveillance…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2019 — 20 marks
 
@@ -1058,25 +753,6 @@ The ethical standard is neither success nor failure alone. It is demonstrable go
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering of GS-IV Q8: Civil servants have sometimes been implicated or imprisoned…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q8: Civil servants have sometimes been implicated or imprisoned for bona-fide mistakes, unsettling the moral fibre of the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against the local 2019 GS-IV scan and routing ledger. This is a cross-application of moral luck and is primarily routed to the honest-officials and case-study owners. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** The ethical standard is neither success nor failure alone. It is demonstrable good faith, competence and reasonable process ex ante, combined with accountability for negligence, corrupt motive or concealment. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q8: Civil servants have sometimes been implicated or imprisoned for bona-fide mistakes, unsettling the moral fibre of the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q8: Civil servants have sometimes been implicated or imprisoned…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2021 — 20 marks
 
@@ -1096,24 +772,6 @@ The ethical justification does not fundamentally change in a private hospital. O
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral rendering of GS-IV Q10: As a hospital administrator during an infectious COVID-19…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q10: As a hospital administrator during an infectious COVID-19 crisis, identify and justify the criteria for deploying…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against the local 2021 GS-IV scan and routing ledger. The official demand concerns allocation of scarce staff, not directly ventilator or patient allocation. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q10: As a hospital administrator during an infectious COVID-19 crisis, identify and justify the criteria for deploying…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q10: As a hospital administrator during an infectious COVID-19…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2022 — 20 marks
 
@@ -1131,24 +789,6 @@ The ethical justification does not fundamentally change in a private hospital. O
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Neutral rendering of GS-IV Q1: (a) Critically evaluate the claim that lack of wisdom in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q1: (a) Critically evaluate the claim that lack of wisdom in administration may cause even small errors to produce a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against the local 2022 GS-IV scan and routing ledger. Part (a) supports phronesis and purposive judgment; part (b) is cross-linked to Emotional Intelligence. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral rendering of GS-IV Q1: (a) Critically evaluate the claim that lack of wisdom in administration may cause even small errors to produce a…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral rendering of GS-IV Q1: (a) Critically evaluate the claim that lack of wisdom in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 20 marks
 
@@ -1170,26 +810,32 @@ The best course is to stabilise command immediately, transparently inform superi
 
 ---
 
+#### Solved PYQ 11 — 2026 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Section A Q4(a): A doctor warns of serious long-term effects of medication and persuades a female patient's family to consent to surgery; the patient, who preferred medication, reluctantly agrees. Explain paternalism and beneficence through the doctor's action.
+
+**Source / status:** Basic owner §12B and 2026 GS-IV Section-A ledger pointer; neutral rendering. This is an independent ethical model, not an official key; the stem does not establish incapacity or automatic invalidity of reluctant consent.
+
+**Model solution**
+
+Beneficence is the duty to promote the patient's welfare: discussing medication risks may be clinically justified. Paternalism arises when the doctor substitutes their own assessment of her good for her autonomous decision. Here the persuasion went to the family rather than directly to the adult patient, making her eventual reluctant consent suspect, though reluctance by itself does not prove invalidity. If she is competent, informed and acting voluntarily, overriding her preference for her own good would be hard paternalism. A genuinely uninformed or impaired choice permits proportionate assistance to restore capacity or understanding, not a family veto. In *Samira Kohli v. Dr. Prabha Manchanda* (2008), the patient's own real consent and disclosure of alternatives are central; that case does not hold that all reluctant choices are invalid. The doctor should explain both options directly to her, allow time and a second opinion, invite family only with her permission, document the conversation and respect a competent choice. A beneficent motive does not cure a defective consent process.
+
+---
+
+#### Solved PYQ 12 — 2026 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Section A Q6(b): Justify the claim that using some resources to relieve grave suffering without significantly affecting one's financial stability is a moral duty rather than mere charity; explain the difference.
+
+**Source / status:** Basic owner §12C and 2026 GS-IV Section-A ledger pointer; independently reasoned model, not an official key or a purported verbatim stem.
+
+**Model solution**
+
+A duty is obligatory, so failure to discharge it invites justified blame; charity in the supererogatory sense deserves praise but may be omitted without blame. Singer's drowning-child reasoning makes the modest claim persuasive: preventing grave harm at little cost cannot be optional just because the sufferer is distant or other helpers exist. The question itself protects necessary financial stability, meeting the demandingness objection. Rawls's natural duty of mutual aid at little cost and Kant's imperfect duty of beneficence support the conclusion without relying solely on utilitarianism; Kant allows latitude in how one helps, not indifference. Family responsibilities matter, but beyond genuine commitments they do not erase low-cost obligations. Effective aid must respect recipients and not replace State accountability. Gandhi's trusteeship similarly treats surplus as a responsibility toward others; Antyodaya foregrounds the last person. Beyond the low-cost threshold, heroic help can still be supererogatory. Thus duty and charity differ in the blameworthiness of omission, not simply in the outward act of giving.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q7 case study: Vijay, Deputy Commissioner of a remote hilly district, is leading…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Vijay, Deputy Commissioner of a remote hilly district, is leading rescue and relief after a destructive cloudburst when his…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Source / ownership: Wording and four explicit sub-demands verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf. The answer must remain one integrated 250-word response, not four separate 250-word answers. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-2. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Vijay, Deputy Commissioner of a remote hilly district, is leading rescue and relief after a destructive cloudburst when his…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q7 case study: Vijay, Deputy Commissioner of a remote hilly district, is leading…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1207,23 +853,6 @@ A sound administrative evaluation therefore records the officer's purpose, chose
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish motive, intention and consequence as separate objects of moral appraisal in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish motive, intention and consequence as separate objects of moral appraisal in public administration. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish motive, intention and consequence as separate objects of moral appraisal in public administration. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish motive, intention and consequence as separate objects of moral appraisal in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1241,23 +870,6 @@ The two can converge, but they can diverge over exceptions. Act utility risks sh
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate act utilitarianism from rule utilitarianism through public administration…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Differentiate act utilitarianism from rule utilitarianism through public administration examples. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Differentiate act utilitarianism from rule utilitarianism through public administration examples. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Differentiate act utilitarianism from rule utilitarianism through public administration…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1277,23 +889,6 @@ Clean means should therefore form the presumptive floor. In genuine emergencies,
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “A public servant may do good where no law or rule expressly prohibits the act, but a good…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A public servant may do good where no law or rule expressly prohibits the act, but a good end does not automatically justify irregular means.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A public servant may do good where no law or rule expressly prohibits the act, but a good end does not automatically justify irregular means.…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A public servant may do good where no law or rule expressly prohibits the act, but a good…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1313,23 +908,6 @@ A defensible contextual decision therefore identifies the stable value, demonstr
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Context-sensitive justice is not ethical relativism. Discuss through phronesis and the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Context-sensitive justice is not ethical relativism. Discuss through phronesis and the form-versus-substance problem. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Context-sensitive justice is not ethical relativism. Discuss through phronesis and the form-versus-substance problem. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Context-sensitive justice is not ethical relativism. Discuss through phronesis and the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1349,23 +927,6 @@ The recommended hybrid is consequence-sensitive but rights-constrained: evidence
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design an ethical framework for allocating scarce life-saving resources by reconciling…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an ethical framework for allocating scarce life-saving resources by reconciling deontology, consequentialism and virtue ethics. Answer in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an ethical framework for allocating scarce life-saving resources by reconciling deontology, consequentialism and virtue ethics. Answer in…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an ethical framework for allocating scarce life-saving resources by reconciling…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1382,21 +943,3 @@ The corrective is an ex-ante process test: Was the officer competent and authori
 Outcomes nevertheless remain relevant. They may reveal ignored warnings, support learning or show that assumptions require revision. A successful project cannot excuse skipped safety tests, just as an unforeseeable failure does not prove corruption. Moral luck protects sound good-faith judgment from hindsight bias; it does not protect bad faith, recklessness, concealment or negligent disregard of foreseeable harm. Independent review should test these recorded claims.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Moral luck complicates the evaluation of good-faith administrative decisions, but cannot…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Moral luck complicates the evaluation of good-faith administrative decisions, but cannot become an excuse for negligence. Analyse. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Moral luck complicates the evaluation of good-faith administrative decisions, but cannot become an excuse for negligence. Analyse. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Moral luck complicates the evaluation of good-faith administrative decisions, but cannot…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

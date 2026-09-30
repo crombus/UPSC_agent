@@ -6,7 +6,7 @@ topic_key: economy-topic-14
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+44 original questions (32 foundation plus 12 integrative challenges) precede the separate solved key. Correct options rotate A → B → C → D throughout.
 
 ### MCQ 1
 
@@ -17,16 +17,6 @@ B. Potential is crop output per litre.
 C. Utilisation is identical to gross irrigated area in every dataset.
 D. Potential proves equitable tail-end delivery.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** It separates infrastructure capacity from realised service. The option states: Potential is designed capacity; utilisation is the area actually served under the system.
-- **B - Incorrect:** That is closer to water productivity. The option states: Potential is crop output per litre.
-- **C - Incorrect:** Statistical concepts have distinct denominators. The option states: Utilisation is identical to gross irrigated area in every dataset.
-- **D - Incorrect:** Distribution still needs evidence. The option states: Potential proves equitable tail-end delivery.
-
-**Examiner trap 1:** Created capacity is not reliable delivery.
-
 ### MCQ 2
 
 Irrigation intensity is calculated as:
@@ -35,16 +25,6 @@ A. Net irrigated area divided by gross sown area.
 B. Gross irrigated area divided by net irrigated area multiplied by 100.
 C. Water withdrawn divided by crop output.
 D. Potential utilised divided by potential created.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** That uses an unrelated denominator. The option states: Net irrigated area divided by gross sown area.
-- **B - Correct:** It counts repeated irrigated crop use on irrigated land. The option states: Gross irrigated area divided by net irrigated area multiplied by 100.
-- **C - Incorrect:** This is inverse water productivity. The option states: Water withdrawn divided by crop output.
-- **D - Incorrect:** That is a project-utilisation ratio. The option states: Potential utilised divided by potential created.
-
-**Examiner trap 2:** Intensity is not efficiency.
 
 ### MCQ 3
 
@@ -55,16 +35,6 @@ B. No head-tail distribution problem.
 C. Waterlogging and salinity where excess application and poor drainage raise the water table.
 D. Absence of any recharge benefit from seepage.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Canals do not eliminate every source. The option states: Universal elimination of groundwater pumping.
-- **B - Incorrect:** Head-tail inequity is a standard concern. The option states: No head-tail distribution problem.
-- **C - Correct:** Canal command areas need drainage and distribution management. The option states: Waterlogging and salinity where excess application and poor drainage raise the water table.
-- **D - Incorrect:** Seepage can sometimes recharge aquifers. The option states: Absence of any recharge benefit from seepage.
-
-**Examiner trap 3:** Canal expansion can create land-quality externalities.
-
 ### MCQ 4
 
 A watershed is best defined as:
@@ -73,16 +43,6 @@ A. The area legally notified under an APMC Act.
 B. Only land irrigated by one canal outlet.
 C. A bank's agricultural lending district.
 D. A geo-hydrological area draining runoff to a common outlet.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** That is a market-law concept. The option states: The area legally notified under an APMC Act.
-- **B - Incorrect:** A command outlet and watershed differ. The option states: Only land irrigated by one canal outlet.
-- **C - Incorrect:** Credit geography is unrelated. The option states: A bank's agricultural lending district.
-- **D - Correct:** The common drainage unit justifies ridge-to-valley treatment. The option states: A geo-hydrological area draining runoff to a common outlet.
-
-**Examiner trap 4:** Watershed and command area are not synonyms.
 
 ### MCQ 5
 
@@ -93,16 +53,6 @@ B. Sprinkler—water delivered only through underground root emitters.
 C. Canal—pressurised micro-irrigation on every farm.
 D. Tensiometer—device that pumps groundwater.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Drip uses emitters for precise application. The option states: Drip—frequent controlled application near the root zone.
-- **B - Incorrect:** That describes drip rather than all sprinklers. The option states: Sprinkler—water delivered only through underground root emitters.
-- **C - Incorrect:** Canals are conveyance systems. The option states: Canal—pressurised micro-irrigation on every farm.
-- **D - Incorrect:** A tensiometer measures soil-water tension. The option states: Tensiometer—device that pumps groundwater.
-
-**Examiner trap 5:** Micro-irrigation contains distinct methods.
-
 ### MCQ 6
 
 Why can micro-irrigation fail to reduce basin extraction?
@@ -111,16 +61,6 @@ A. Drip necessarily increases evaporation.
 B. Lower water use per hectare may induce expansion of irrigated area or water-intensive crops.
 C. Sprinklers cannot be metered.
 D. Micro-irrigation prohibits fertigation.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Drip often reduces non-beneficial loss. The option states: Drip necessarily increases evaporation.
-- **B - Correct:** The rebound effect separates field efficiency from total withdrawal. The option states: Lower water use per hectare may induce expansion of irrigated area or water-intensive crops.
-- **C - Incorrect:** Metering is possible. The option states: Sprinklers cannot be metered.
-- **D - Incorrect:** Fertigation is a common capability. The option states: Micro-irrigation prohibits fertigation.
-
-**Examiner trap 6:** Per-hectare saving is not basin saving.
 
 ### MCQ 7
 
@@ -131,16 +71,6 @@ B. It was repealed with the 2020 farm laws.
 C. It supports micro-irrigation and has been implemented under RKVY from 2022-23.
 D. It is a crop-insurance premium subsidy.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** AIBP addresses major and medium projects. The option states: It is the major-dam component of PMKSY.
-- **B - Incorrect:** The farm-law repeal is unrelated. The option states: It was repealed with the 2020 farm laws.
-- **C - Correct:** The policy objective continues under a changed administrative umbrella. The option states: It supports micro-irrigation and has been implemented under RKVY from 2022-23.
-- **D - Incorrect:** PMFBY is the insurance scheme. The option states: It is a crop-insurance premium subsidy.
-
-**Examiner trap 7:** Do not freeze the older PMKSY placement.
-
 ### MCQ 8
 
 Participatory irrigation management primarily uses:
@@ -149,16 +79,6 @@ A. CCI to set canal rotations.
 B. WDRA to insure crops.
 C. FPOs to regulate river basins by company law.
 D. Water Users Associations for local distribution, maintenance and accountability roles.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** CCI has an antitrust mandate. The option states: CCI to set canal rotations.
-- **B - Incorrect:** WDRA regulates warehouses. The option states: WDRA to insure crops.
-- **C - Incorrect:** FPOs have a producer-business purpose. The option states: FPOs to regulate river basins by company law.
-- **D - Correct:** User institutions can coordinate a shared command service. The option states: Water Users Associations for local distribution, maintenance and accountability roles.
-
-**Examiner trap 8:** Creating a WUA does not prove effective participation.
 
 ### MCQ 9
 
@@ -169,16 +89,6 @@ B. Certified, nucleus, foundation and breeder.
 C. Foundation, certified, nucleus and breeder.
 D. Breeder, certified, nucleus and foundation.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The sequence expands genetically identified material in controlled stages. The option states: Nucleus, breeder, foundation and certified seed.
-- **B - Incorrect:** It reverses and scrambles pedigree. The option states: Certified, nucleus, foundation and breeder.
-- **C - Incorrect:** Certified seed does not precede nucleus. The option states: Foundation, certified, nucleus and breeder.
-- **D - Incorrect:** Foundation normally precedes certified. The option states: Breeder, certified, nucleus and foundation.
-
-**Examiner trap 9:** Seed multiplication has a traceable pedigree.
-
 ### MCQ 10
 
 What is the current legal status of the Seeds Bill, 2025?
@@ -187,16 +97,6 @@ A. It became the Seeds Act automatically on publication.
 B. It was circulated as a draft for consultation and had not replaced the Seeds Act, 1966 by the cutoff.
 C. It repealed the Seeds Rules, 1968 in 2019.
 D. It is a State model law like APLM.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Consultation is not enactment. The option states: It became the Seeds Act automatically on publication.
-- **B - Correct:** Draft and enacted law are separate statuses. The option states: It was circulated as a draft for consultation and had not replaced the Seeds Act, 1966 by the cutoff.
-- **C - Incorrect:** The chronology is incorrect. The option states: It repealed the Seeds Rules, 1968 in 2019.
-- **D - Incorrect:** Seed regulation is not that marketing model. The option states: It is a State model law like APLM.
-
-**Examiner trap 10:** The Seeds Act, 1966 remains the legal anchor.
 
 ### MCQ 11
 
@@ -207,16 +107,6 @@ B. Formal seed guarantees suitability in every agro-climate.
 C. Formal channels use organised quality control and labels; informal channels include farm saving and local exchange.
 D. Farm-saved seed is necessarily certified.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Informality is not automatically illegality. The option states: Informal seed is always illegal.
-- **B - Incorrect:** Suitability remains location-specific. The option states: Formal seed guarantees suitability in every agro-climate.
-- **C - Correct:** The distinction concerns channels and assurance, not a blanket quality verdict. The option states: Formal channels use organised quality control and labels; informal channels include farm saving and local exchange.
-- **D - Incorrect:** Certification requires prescribed processes. The option states: Farm-saved seed is necessarily certified.
-
-**Examiner trap 11:** Access, diversity and verification must be balanced.
-
 ### MCQ 12
 
 Which nutrient match is correct?
@@ -225,16 +115,6 @@ A. Nitrogen supplies all N, P and K.
 B. Phosphorus is only a pesticide.
 C. Potassium is the primary source of plant protein nitrogen.
 D. Potassium supports water regulation, stress tolerance and quality functions.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** No single nutrient supplies all three. The option states: Nitrogen supplies all N, P and K.
-- **B - Incorrect:** Phosphorus is a nutrient. The option states: Phosphorus is only a pesticide.
-- **C - Incorrect:** Nitrogen is the key protein nutrient. The option states: Potassium is the primary source of plant protein nitrogen.
-- **D - Correct:** K has distinct osmotic and stress roles. The option states: Potassium supports water regulation, stress tolerance and quality functions.
-
-**Examiner trap 12:** N, P and K are not interchangeable.
 
 ### MCQ 13
 
@@ -245,16 +125,6 @@ B. Urea is included in NBS exactly like DAP.
 C. All P&K MRPs are statutorily fixed like urea.
 D. NBS rates never change by season.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** India uses different price and subsidy architectures. The option states: Urea has controlled MRP under a separate subsidy regime; eligible P&K fertilisers receive NBS.
-- **B - Incorrect:** Urea remains outside NBS. The option states: Urea is included in NBS exactly like DAP.
-- **C - Incorrect:** P&K MRP is decontrolled subject to policy oversight. The option states: All P&K MRPs are statutorily fixed like urea.
-- **D - Incorrect:** NBS rates are notified periodically. The option states: NBS rates never change by season.
-
-**Examiner trap 13:** Relative price regimes affect nutrient balance.
-
 ### MCQ 14
 
 Fertiliser DBT means:
@@ -263,16 +133,6 @@ A. Every farmer receives the subsidy in a bank account before purchase.
 B. Government reimburses companies after authenticated retail sale through PoS; it is not cash paid to the farmer.
 C. Dealer subsidy is unrelated to actual sale.
 D. Only imported fertiliser can use PoS.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The farmer receives a subsidised price. The option states: Every farmer receives the subsidy in a bank account before purchase.
-- **B - Correct:** The transaction-triggered company payment is the defining feature. The option states: Government reimburses companies after authenticated retail sale through PoS; it is not cash paid to the farmer.
-- **C - Incorrect:** Retail sale validation is central. The option states: Dealer subsidy is unrelated to actual sale.
-- **D - Incorrect:** The system covers eligible domestic and imported supplies. The option states: Only imported fertiliser can use PoS.
-
-**Examiner trap 14:** Do not confuse DBT labels across schemes.
 
 ### MCQ 15
 
@@ -283,16 +143,6 @@ B. A title deed for agricultural land.
 C. A dated soil-test report guiding crop- and site-specific nutrient decisions.
 D. A crop-insurance claim certificate.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Soils change with management. The option states: A permanent guarantee of soil fertility.
-- **B - Incorrect:** Land title has another record system. The option states: A title deed for agricultural land.
-- **C - Correct:** Sampling date and laboratory result determine relevance. The option states: A dated soil-test report guiding crop- and site-specific nutrient decisions.
-- **D - Incorrect:** Insurance uses separate evidence. The option states: A crop-insurance claim certificate.
-
-**Examiner trap 15:** One sample cannot diagnose every plot forever.
-
 ### MCQ 16
 
 Which statement about nano urea is evidence-disciplined?
@@ -301,16 +151,6 @@ A. One bottle universally replaces one bag in every crop.
 B. Regulatory approval proves identical yield in every soil.
 C. Nano urea supplies phosphorus and potassium automatically.
 D. Use should follow crop-soil protocols; notification does not prove universal replacement of conventional urea.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Universal equivalence is unsupported. The option states: One bottle universally replaces one bag in every crop.
-- **B - Incorrect:** Approval is not universal efficacy. The option states: Regulatory approval proves identical yield in every soil.
-- **C - Incorrect:** Nano urea is a nitrogen product. The option states: Nano urea supplies phosphorus and potassium automatically.
-- **D - Correct:** Official and ICAR evidence requires context and rejects blanket replacement. The option states: Use should follow crop-soil protocols; notification does not prove universal replacement of conventional urea.
-
-**Examiner trap 16:** Product launch is not agronomic proof.
 
 ### MCQ 17
 
@@ -321,16 +161,6 @@ B. Routine calendar spraying regardless of pest level.
 C. Fertiliser application followed by irrigation only.
 D. Complete rejection of biological control.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** IPM combines compatible methods based on monitoring. The option states: Prevention and surveillance, threshold decision, multiple controls, and selective chemical use.
-- **B - Incorrect:** Indiscriminate spraying can raise resistance. The option states: Routine calendar spraying regardless of pest level.
-- **C - Incorrect:** Nutrition and irrigation are different. The option states: Fertiliser application followed by irrigation only.
-- **D - Incorrect:** Biological control is a core option. The option states: Complete rejection of biological control.
-
-**Examiner trap 17:** IPM is not zero control or maximum pesticide.
-
 ### MCQ 18
 
 Why are Custom Hiring Centres useful?
@@ -339,16 +169,6 @@ A. They transfer land ownership to the operator.
 B. They let small farmers rent machinery services and spread fixed cost across users.
 C. They guarantee machinery during every peak day.
 D. They are crop-insurance companies.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Rental does not change title. The option states: They transfer land ownership to the operator.
-- **B - Correct:** Service access can be more efficient than individual ownership. The option states: They let small farmers rent machinery services and spread fixed cost across users.
-- **C - Incorrect:** Scheduling remains a constraint. The option states: They guarantee machinery during every peak day.
-- **D - Incorrect:** Insurance has a separate function. The option states: They are crop-insurance companies.
-
-**Examiner trap 18:** Sanctioned machinery is not timely service.
 
 ### MCQ 19
 
@@ -359,16 +179,6 @@ B. An input trader's informal advance.
 C. A Regional Rural Bank.
 D. A landlord's consumption loan.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Moneylenders are non-institutional. The option states: A tied village moneylender.
-- **B - Incorrect:** Trader credit is informal. The option states: An input trader's informal advance.
-- **C - Correct:** RRBs are regulated banking institutions serving rural priority sectors. The option states: A Regional Rural Bank.
-- **D - Incorrect:** Landlord lending is non-institutional. The option states: A landlord's consumption loan.
-
-**Examiner trap 19:** Institutional status does not prove equal access.
-
 ### MCQ 20
 
 What is NABARD's principal system role?
@@ -377,16 +187,6 @@ A. Universal retail issue of every KCC.
 B. Fixing the repo rate.
 C. Operating PMFBY claims for every State.
 D. Refinance, rural development support and specified supervision within agricultural and rural finance.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Banks and cooperatives issue KCCs. The option states: Universal retail issue of every KCC.
-- **B - Incorrect:** RBI conducts monetary policy. The option states: Fixing the repo rate.
-- **C - Incorrect:** Insurers and governments implement PMFBY. The option states: Operating PMFBY claims for every State.
-- **D - Correct:** NABARD is the apex rural development financial institution. The option states: Refinance, rural development support and specified supervision within agricultural and rural finance.
-
-**Examiner trap 20:** NABARD is not RBI or every farmer's branch bank.
 
 ### MCQ 21
 
@@ -397,16 +197,6 @@ B. 18% of deposits with no denominator qualification.
 C. 10% for all agriculture and 18% for SMFs.
 D. A voluntary target without bank-category rules.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The official denominator and nested design matter. The option states: 18% of ANBC or CEOBSE, whichever is higher, with nested NCF and SMF sub-targets.
-- **B - Incorrect:** PSL uses ANBC/CEOBSE. The option states: 18% of deposits with no denominator qualification.
-- **C - Incorrect:** SMF is a sub-target, not the total. The option states: 10% for all agriculture and 18% for SMFs.
-- **D - Incorrect:** The Directions are binding for covered banks. The option states: A voluntary target without bank-category rules.
-
-**Examiner trap 21:** Do not detach a percentage from its denominator.
-
 ### MCQ 22
 
 Which statement correctly distinguishes KCC and MISS in 2025-26?
@@ -415,16 +205,6 @@ A. Every Rs 5 lakh KCC loan automatically carried 4% interest.
 B. Budget announced a Rs 5 lakh overall KCC limit, while the dated MISS concessional slab remained up to Rs 3 lakh.
 C. KCC is an insurance premium card.
 D. MISS abolished prompt-repayment conditions.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The 4% rate requires eligible prompt repayment. The option states: Every Rs 5 lakh KCC loan automatically carried 4% interest.
-- **B - Correct:** The product ceiling and interest-supported slab are different. The option states: Budget announced a Rs 5 lakh overall KCC limit, while the dated MISS concessional slab remained up to Rs 3 lakh.
-- **C - Incorrect:** KCC is credit. The option states: KCC is an insurance premium card.
-- **D - Incorrect:** PRI remains conditional. The option states: MISS abolished prompt-repayment conditions.
-
-**Examiner trap 22:** Quote the ceiling, subsidised slab and year separately.
 
 ### MCQ 23
 
@@ -435,16 +215,6 @@ B. Waiving all appraisal and repayment.
 C. Using group responsibility and information where individual collateral or title is weak.
 D. Replacing banks with crop insurers.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Credit does not transfer ownership. The option states: Converting informal tenants into landowners.
-- **B - Incorrect:** Banks still appraise loans. The option states: Waiving all appraisal and repayment.
-- **C - Correct:** Group design can reduce information and collateral barriers. The option states: Using group responsibility and information where individual collateral or title is weak.
-- **D - Incorrect:** Insurance and lending differ. The option states: Replacing banks with crop insurers.
-
-**Examiner trap 23:** Group inclusion still needs credible cultivation evidence.
-
 ### MCQ 24
 
 Basis risk arises when:
@@ -453,16 +223,6 @@ A. The premium is paid before sowing.
 B. Every individual field is assessed perfectly.
 C. The insurer pays exactly the market price loss.
 D. An insured farmer's actual loss differs from the area-yield or weather-index result.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Premium timing is not the definition. The option states: The premium is paid before sowing.
-- **B - Incorrect:** Perfect assessment removes this mismatch. The option states: Every individual field is assessed perfectly.
-- **C - Incorrect:** Crop insurance does not generally insure price. The option states: The insurer pays exactly the market price loss.
-- **D - Correct:** Index and personal outcomes can diverge. The option states: An insured farmer's actual loss differs from the area-yield or weather-index result.
-
-**Examiner trap 24:** Low verification cost trades off against basis risk.
 
 ### MCQ 25
 
@@ -473,16 +233,6 @@ B. Kharif 5%; Rabi 5%; horticulture 1.5%.
 C. One uniform 2% rate for every crop.
 D. These percentages are claim-payment rates.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The seasonal/crop categories define farmer premium caps. The option states: Kharif 2%; Rabi food/oilseed 1.5%; annual commercial/horticultural 5% maximum farmer shares.
-- **B - Incorrect:** The categories are reversed. The option states: Kharif 5%; Rabi 5%; horticulture 1.5%.
-- **C - Incorrect:** Rates are not uniform. The option states: One uniform 2% rate for every crop.
-- **D - Incorrect:** Premium share and indemnity differ. The option states: These percentages are claim-payment rates.
-
-**Examiner trap 25:** Premium percentage is not claim percentage.
-
 ### MCQ 26
 
 PMFBY has been voluntary for farmers since:
@@ -491,16 +241,6 @@ A. Its 2016 launch only for non-loanee farmers.
 B. Kharif 2020.
 C. The 2021 farm-law repeal.
 D. The 2025 Seeds Bill consultation.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The launch design differed. The option states: Its 2016 launch only for non-loanee farmers.
-- **B - Correct:** The 2020 revamp made enrolment voluntary for loanee and non-loanee farmers. The option states: Kharif 2020.
-- **C - Incorrect:** Farm-law repeal is unrelated. The option states: The 2021 farm-law repeal.
-- **D - Incorrect:** Seed legislation is unrelated. The option states: The 2025 Seeds Bill consultation.
-
-**Examiner trap 26:** Voluntary enrolment does not mean every State implements it.
 
 ### MCQ 27
 
@@ -511,16 +251,6 @@ B. Only organic certification.
 C. Minimum soil disturbance, permanent soil cover and crop diversification or rotation.
 D. Only drip irrigation.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Intensive tillage contradicts the first principle. The option states: Only maximum ploughing.
-- **B - Incorrect:** Certification is a different system. The option states: Only organic certification.
-- **C - Correct:** The three principles make it a cropping-system approach. The option states: Minimum soil disturbance, permanent soil cover and crop diversification or rotation.
-- **D - Incorrect:** Water technology alone is insufficient. The option states: Only drip irrigation.
-
-**Examiner trap 27:** Zero tillage is one practice, not the whole system.
-
 ### MCQ 28
 
 Which statement correctly distinguishes organic and natural farming?
@@ -529,16 +259,6 @@ A. The two labels are legally identical everywhere.
 B. Natural farming always permits every synthetic pesticide.
 C. Organic farming means no nutrient management.
 D. Organic follows defined standards/certification; natural farming is a distinct low-external-input approach and may not be certified organic.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** They cannot be universally merged. The option states: The two labels are legally identical everywhere.
-- **B - Incorrect:** Natural farming seeks reduced synthetic inputs. The option states: Natural farming always permits every synthetic pesticide.
-- **C - Incorrect:** Organic systems still manage nutrients. The option states: Organic farming means no nutrient management.
-- **D - Correct:** Different standards, verification and input philosophies require separation. The option states: Organic follows defined standards/certification; natural farming is a distinct low-external-input approach and may not be certified organic.
-
-**Examiner trap 28:** Low chemical use is not automatically certified organic.
 
 ### MCQ 29
 
@@ -549,16 +269,6 @@ B. Only major canal construction.
 C. Mandatory monoculture.
 D. Commodity futures trading.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** IFS diversifies production and risk in rainfed settings. The option states: Integrated Farming Systems combining crops with suitable allied enterprises.
-- **B - Incorrect:** Canal projects belong elsewhere. The option states: Only major canal construction.
-- **C - Incorrect:** Diversity is central. The option states: Mandatory monoculture.
-- **D - Incorrect:** Financial derivatives are unrelated. The option states: Commodity futures trading.
-
-**Examiner trap 29:** IFS is not merely crop rotation.
-
 ### MCQ 30
 
 Climate-smart agriculture seeks:
@@ -567,16 +277,6 @@ A. One universal technology package.
 B. Productivity, adaptation and mitigation benefits where feasible and context-appropriate.
 C. Mitigation only, regardless of livelihood.
 D. A guarantee against every climate loss.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Climate risks and systems vary. The option states: One universal technology package.
-- **B - Correct:** The framework balances three objectives with local trade-offs. The option states: Productivity, adaptation and mitigation benefits where feasible and context-appropriate.
-- **C - Incorrect:** Adaptation and productivity matter. The option states: Mitigation only, regardless of livelihood.
-- **D - Incorrect:** No technology guarantees all loss prevention. The option states: A guarantee against every climate loss.
-
-**Examiner trap 30:** CCAFS was a CGIAR research programme, not an Indian scheme.
 
 ### MCQ 31
 
@@ -587,16 +287,6 @@ B. Use loan waivers as the only ex ante tool.
 C. Use prevention and savings for frequent loss, insurance for suitable uncertain loss, and public relief for catastrophe.
 D. Replace irrigation with insurance.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Insurance is poor for routine cost. The option states: Insure every predictable small cost.
-- **B - Incorrect:** Waivers are retrospective and distortive. The option states: Use loan waivers as the only ex ante tool.
-- **C - Correct:** Different frequencies and severities need different instruments. The option states: Use prevention and savings for frequent loss, insurance for suitable uncertain loss, and public relief for catastrophe.
-- **D - Incorrect:** Risk reduction and transfer complement each other. The option states: Replace irrigation with insurance.
-
-**Examiner trap 31:** Insurance cannot carry every farm-policy objective.
-
 ### MCQ 32
 
 A balanced input-subsidy reform should:
@@ -606,15 +296,643 @@ B. Ignore groundwater and nutrient effects.
 C. Treat fertiliser, power, credit and insurance subsidies as identical.
 D. Protect vulnerable farmers while correcting relative-price distortions and resource externalities.
 
+### MCQ 33
+
+Canal design potential rises, but tail-end plots receive no water and head-reach fields suffer salinity. What response addresses both?
+
+A. Measure reliable field delivery; repair channels, improve allocation and drainage.
+B. Report designed capacity as actual service; expand seed subsidy.
+C. Infer that potential created guarantees tail-end access.
+D. Use crop insurance instead of drainage and conveyance work.
+
+### MCQ 34
+
+Drip adoption halves water per hectare but doubles the pumped acreage. What is supported?
+
+A. Aquifer withdrawal necessarily halves.
+B. Field efficiency can rise without a fall in basin-level abstraction.
+C. Drip equipment forbids area expansion.
+D. Water-use rebound proves field application got worse.
+
+### MCQ 35
+
+A watershed committee puts check dams downstream before controlling upstream erosion. What change fits hydrological logic?
+
+A. Replace catchment treatment with deep borewells.
+B. Count isolated ponds as a complete watershed.
+C. Sequence ridge-to-valley treatment with community maintenance.
+D. Only map the catchment digitally, without field work.
+
+### MCQ 36
+
+A tenant lacks documented title; a flood damages the plot while notified-area mean yield is normal. What two risks intersect?
+
+A. Seed multiplication and pesticide resistance.
+B. Canal siltation and crop-price support.
+C. A fertiliser subsidy and warehouse receipt.
+D. Enrolment exclusion and area-yield basis risk.
+
+### MCQ 37
+
+The soil test indicates phosphorus deficit but cheap urea induces repeated nitrogen application. Which correction follows?
+
+A. Soil Health Card-based nutrient balancing and adjustment of price incentives.
+B. More nitrogen alone, because N and P are equivalent nutrients.
+C. Use retailer fertiliser-DBT transactions as proof of crop absorption.
+D. Substitute a weather claim for nutrient management.
+
+### MCQ 38
+
+A tenant without a title seeks seasonal working capital through KCC. What improves institutional access?
+
+A. Limit all bank lending to recorded owners.
+B. Document cultivation and use suitable JLG-based appraisal and KCC access.
+C. Use insurance as a direct substitute for pre-harvest liquidity.
+D. Count sanctioned credit without actual disbursement.
+
+### MCQ 39
+
+Classify: (1) tensiometer gauges soil-water tension; (2) fertigation applies nutrients through irrigation; (3) sugarcane bud chips measure aquifer recharge. Which are correct?
+
+A. 1 only.
+B. 2 and 3 only.
+C. 1 and 2 only.
+D. 1, 2 and 3.
+
+### MCQ 40
+
+After paddy, a farmer adopts zero tillage for wheat but has heavy residue and weeds. Which assessment is strongest?
+
+A. Zero tillage automatically removes all residues.
+B. Conservation agriculture is simply chemical-input prohibition.
+C. Crop rotation alone solves wheat establishment.
+D. Faster sowing is possible, subject to residue and weed management.
+
+### MCQ 41
+
+Free pumping electricity coincides with paddy incentives over a stressed aquifer. Which mechanism explains depletion?
+
+A. Low private pumping costs plus crop incentives intensify common-pool withdrawals.
+B. Aquifer recharge automatically rises when power consumption increases.
+C. PMFBY pays for every unit of electricity.
+D. Power prices cannot influence crop choice.
+
+### MCQ 42
+
+How should a 2020 Prelims-style classification distinguish biochar from carbofuran, phorate and triazophos?
+
+A. All are NPK fertilisers.
+B. Biochar is a context-dependent soil amendment; the three chemicals are crop-protection pesticides.
+C. Biochar is a pesticide and the three are moisture sensors.
+D. All four are approved irrigation-scheduling tools.
+
+### MCQ 43
+
+A farmer argues that PMFBY must compensate for falling sale price after a bumper harvest. Which boundary applies?
+
+A. Every market-price change is an insured peril.
+B. Any income loss triggers crop insurance.
+C. Scheme terms cover specified production losses, not all price losses.
+D. A KCC loan automatically pays a PMFBY claim.
+
+### MCQ 44
+
+Rainfed Area Development under NMSA is compared with a plan to grow one irrigated cereal everywhere. Which conceptual objective fits the former?
+
+A. Concentrate drylands in one irrigated crop.
+B. Exclude all livestock and trees.
+C. Treat infrastructure spending as proof of aquifer recovery.
+D. Build locally suitable Integrated Farming Systems across crops and allied activities.
+
+### SEPARATE SOLVED KEY — ORIGINAL MCQS
+
+### KEY 1
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** It separates infrastructure capacity from realised service.
+- **B - Incorrect:** That is closer to water productivity.
+- **C - Incorrect:** Statistical concepts have distinct denominators.
+- **D - Incorrect:** Distribution still needs evidence.
+
+**Examiner trap 1:** Created capacity is not reliable delivery.
+
+### KEY 2
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** That uses an unrelated denominator.
+- **B - Correct:** It counts repeated irrigated crop use on irrigated land.
+- **C - Incorrect:** This is inverse water productivity.
+- **D - Incorrect:** That is a project-utilisation ratio.
+
+**Examiner trap 2:** Intensity is not efficiency.
+
+### KEY 3
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Canals do not eliminate every source.
+- **B - Incorrect:** Head-tail inequity is a standard concern.
+- **C - Correct:** Canal command areas need drainage and distribution management.
+- **D - Incorrect:** Seepage can sometimes recharge aquifers.
+
+**Examiner trap 3:** Canal expansion can create land-quality externalities.
+
+### KEY 4
+
 **Answer: D.**
 
 **Option-wise explanation:**
-- **A - Incorrect:** Abrupt withdrawal can damage livelihoods. The option states: Remove all support overnight without alternatives.
-- **B - Incorrect:** Behavioural externalities matter. The option states: Ignore groundwater and nutrient effects.
-- **C - Incorrect:** Subsidies have different channels and incidence. The option states: Treat fertiliser, power, credit and insurance subsidies as identical.
-- **D - Correct:** Transition design must balance equity, productivity and sustainability. The option states: Protect vulnerable farmers while correcting relative-price distortions and resource externalities.
+- **A - Incorrect:** That is a market-law concept.
+- **B - Incorrect:** A command outlet and watershed differ.
+- **C - Incorrect:** Credit geography is unrelated.
+- **D - Correct:** The common drainage unit justifies ridge-to-valley treatment.
+
+**Examiner trap 4:** Watershed and command area are not synonyms.
+
+### KEY 5
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Drip uses emitters for precise application.
+- **B - Incorrect:** That describes drip rather than all sprinklers.
+- **C - Incorrect:** Canals are conveyance systems.
+- **D - Incorrect:** A tensiometer measures soil-water tension.
+
+**Examiner trap 5:** Micro-irrigation contains distinct methods.
+
+### KEY 6
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Drip often reduces non-beneficial loss.
+- **B - Correct:** The rebound effect separates field efficiency from total withdrawal.
+- **C - Incorrect:** Metering is possible.
+- **D - Incorrect:** Fertigation is a common capability.
+
+**Examiner trap 6:** Per-hectare saving is not basin saving.
+
+### KEY 7
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** AIBP addresses major and medium projects.
+- **B - Incorrect:** The farm-law repeal is unrelated.
+- **C - Correct:** The policy objective continues under a changed administrative umbrella.
+- **D - Incorrect:** PMFBY is the insurance scheme.
+
+**Examiner trap 7:** Do not freeze the older PMKSY placement.
+
+### KEY 8
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** CCI has an antitrust mandate.
+- **B - Incorrect:** WDRA regulates warehouses.
+- **C - Incorrect:** FPOs have a producer-business purpose.
+- **D - Correct:** User institutions can coordinate a shared command service.
+
+**Examiner trap 8:** Creating a WUA does not prove effective participation.
+
+### KEY 9
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The sequence expands genetically identified material in controlled stages.
+- **B - Incorrect:** It reverses and scrambles pedigree.
+- **C - Incorrect:** Certified seed does not precede nucleus.
+- **D - Incorrect:** Foundation normally precedes certified.
+
+**Examiner trap 9:** Seed multiplication has a traceable pedigree.
+
+### KEY 10
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Consultation is not enactment.
+- **B - Correct:** Draft and enacted law are separate statuses.
+- **C - Incorrect:** The chronology is incorrect.
+- **D - Incorrect:** Seed regulation is not that marketing model.
+
+**Examiner trap 10:** The Seeds Act, 1966 remains the legal anchor.
+
+### KEY 11
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Informality is not automatically illegality.
+- **B - Incorrect:** Suitability remains location-specific.
+- **C - Correct:** The distinction concerns channels and assurance, not a blanket quality verdict.
+- **D - Incorrect:** Certification requires prescribed processes.
+
+**Examiner trap 11:** Access, diversity and verification must be balanced.
+
+### KEY 12
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** No single nutrient supplies all three.
+- **B - Incorrect:** Phosphorus is a nutrient.
+- **C - Incorrect:** Nitrogen is the key protein nutrient.
+- **D - Correct:** K has distinct osmotic and stress roles.
+
+**Examiner trap 12:** N, P and K are not interchangeable.
+
+### KEY 13
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** India uses different price and subsidy architectures.
+- **B - Incorrect:** Urea remains outside NBS.
+- **C - Incorrect:** P&K MRP is decontrolled subject to policy oversight.
+- **D - Incorrect:** NBS rates are notified periodically.
+
+**Examiner trap 13:** Relative price regimes affect nutrient balance.
+
+### KEY 14
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The farmer receives a subsidised price.
+- **B - Correct:** The transaction-triggered company payment is the defining feature.
+- **C - Incorrect:** Retail sale validation is central.
+- **D - Incorrect:** The system covers eligible domestic and imported supplies.
+
+**Examiner trap 14:** Do not confuse DBT labels across schemes.
+
+### KEY 15
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Soils change with management.
+- **B - Incorrect:** Land title has another record system.
+- **C - Correct:** Sampling date and laboratory result determine relevance.
+- **D - Incorrect:** Insurance uses separate evidence.
+
+**Examiner trap 15:** One sample cannot diagnose every plot forever.
+
+### KEY 16
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Universal equivalence is unsupported.
+- **B - Incorrect:** Approval is not universal efficacy.
+- **C - Incorrect:** Nano urea is a nitrogen product.
+- **D - Correct:** Official and ICAR evidence requires context and rejects blanket replacement.
+
+**Examiner trap 16:** Product launch is not agronomic proof.
+
+### KEY 17
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** IPM combines compatible methods based on monitoring.
+- **B - Incorrect:** Indiscriminate spraying can raise resistance.
+- **C - Incorrect:** Nutrition and irrigation are different.
+- **D - Incorrect:** Biological control is a core option.
+
+**Examiner trap 17:** IPM is not zero control or maximum pesticide.
+
+### KEY 18
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Rental does not change title.
+- **B - Correct:** Service access can be more efficient than individual ownership.
+- **C - Incorrect:** Scheduling remains a constraint.
+- **D - Incorrect:** Insurance has a separate function.
+
+**Examiner trap 18:** Sanctioned machinery is not timely service.
+
+### KEY 19
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Moneylenders are non-institutional.
+- **B - Incorrect:** Trader credit is informal.
+- **C - Correct:** RRBs are regulated banking institutions serving rural priority sectors.
+- **D - Incorrect:** Landlord lending is non-institutional.
+
+**Examiner trap 19:** Institutional status does not prove equal access.
+
+### KEY 20
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Banks and cooperatives issue KCCs.
+- **B - Incorrect:** RBI conducts monetary policy.
+- **C - Incorrect:** Insurers and governments implement PMFBY.
+- **D - Correct:** NABARD is the apex rural development financial institution.
+
+**Examiner trap 20:** NABARD is not RBI or every farmer's branch bank.
+
+### KEY 21
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The official denominator and nested design matter.
+- **B - Incorrect:** PSL uses ANBC/CEOBSE.
+- **C - Incorrect:** SMF is a sub-target, not the total.
+- **D - Incorrect:** The Directions are binding for covered banks.
+
+**Examiner trap 21:** Do not detach a percentage from its denominator.
+
+### KEY 22
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The 4% rate requires eligible prompt repayment.
+- **B - Correct:** The product ceiling and interest-supported slab are different.
+- **C - Incorrect:** KCC is credit.
+- **D - Incorrect:** PRI remains conditional.
+
+**Examiner trap 22:** Quote the ceiling, subsidised slab and year separately.
+
+### KEY 23
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Credit does not transfer ownership.
+- **B - Incorrect:** Banks still appraise loans.
+- **C - Correct:** Group design can reduce information and collateral barriers.
+- **D - Incorrect:** Insurance and lending differ.
+
+**Examiner trap 23:** Group inclusion still needs credible cultivation evidence.
+
+### KEY 24
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Premium timing is not the definition.
+- **B - Incorrect:** Perfect assessment removes this mismatch.
+- **C - Incorrect:** Crop insurance does not generally insure price.
+- **D - Correct:** Index and personal outcomes can diverge.
+
+**Examiner trap 24:** Low verification cost trades off against basis risk.
+
+### KEY 25
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** The seasonal/crop categories define farmer premium caps.
+- **B - Incorrect:** The categories are reversed.
+- **C - Incorrect:** Rates are not uniform.
+- **D - Incorrect:** Premium share and indemnity differ.
+
+**Examiner trap 25:** Premium percentage is not claim percentage.
+
+### KEY 26
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The launch design differed.
+- **B - Correct:** The 2020 revamp made enrolment voluntary for loanee and non-loanee farmers.
+- **C - Incorrect:** Farm-law repeal is unrelated.
+- **D - Incorrect:** Seed legislation is unrelated.
+
+**Examiner trap 26:** Voluntary enrolment does not mean every State implements it.
+
+### KEY 27
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Intensive tillage contradicts the first principle.
+- **B - Incorrect:** Certification is a different system.
+- **C - Correct:** The three principles make it a cropping-system approach.
+- **D - Incorrect:** Water technology alone is insufficient.
+
+**Examiner trap 27:** Zero tillage is one practice, not the whole system.
+
+### KEY 28
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** They cannot be universally merged.
+- **B - Incorrect:** Natural farming seeks reduced synthetic inputs.
+- **C - Incorrect:** Organic systems still manage nutrients.
+- **D - Correct:** Different standards, verification and input philosophies require separation.
+
+**Examiner trap 28:** Low chemical use is not automatically certified organic.
+
+### KEY 29
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** IFS diversifies production and risk in rainfed settings.
+- **B - Incorrect:** Canal projects belong elsewhere.
+- **C - Incorrect:** Diversity is central.
+- **D - Incorrect:** Financial derivatives are unrelated.
+
+**Examiner trap 29:** IFS is not merely crop rotation.
+
+### KEY 30
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Climate risks and systems vary.
+- **B - Correct:** The framework balances three objectives with local trade-offs.
+- **C - Incorrect:** Adaptation and productivity matter.
+- **D - Incorrect:** No technology guarantees all loss prevention.
+
+**Examiner trap 30:** CCAFS was a CGIAR research programme, not an Indian scheme.
+
+### KEY 31
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Insurance is poor for routine cost.
+- **B - Incorrect:** Waivers are retrospective and distortive.
+- **C - Correct:** Different frequencies and severities need different instruments.
+- **D - Incorrect:** Risk reduction and transfer complement each other.
+
+**Examiner trap 31:** Insurance cannot carry every farm-policy objective.
+
+### KEY 32
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Abrupt withdrawal can damage livelihoods.
+- **B - Incorrect:** Behavioural externalities matter.
+- **C - Incorrect:** Subsidies have different channels and incidence.
+- **D - Correct:** Transition design must balance equity, productivity and sustainability.
 
 **Examiner trap 32:** Compensation and sequencing are part of reform.
+
+### KEY 33
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Potential is not utilisation; drainage addresses waterlogging.
+- **B - Incorrect:** Seed subsidy cannot repair delivery failure.
+- **C - Incorrect:** Design and realised service differ.
+- **D - Incorrect:** Insurance does not repair physical water delivery.
+
+**Examiner trap 33:** Potential created differs from potential used.
+
+### KEY 34
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Aggregate pumping can remain unchanged.
+- **B - Correct:** The rebound offsets technical savings.
+- **C - Incorrect:** No automatic acreage cap follows adoption.
+- **D - Incorrect:** The rebound concerns aggregate use, not plot efficiency.
+
+**Examiner trap 34:** Use aquifer-scale withdrawal, not just plot water efficiency.
+
+### KEY 35
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Pumping may worsen common-pool depletion.
+- **B - Incorrect:** A watershed is a linked drainage unit.
+- **C - Correct:** Upstream protection sustains downstream structures.
+- **D - Incorrect:** Digital maps cannot substitute for maintenance.
+
+**Examiner trap 35:** Catchment sequence is not random infrastructure placement.
+
+### KEY 36
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Neither explains coverage nor area-trigger mismatch.
+- **B - Incorrect:** Hydraulic and price issues are different.
+- **C - Incorrect:** These do not determine tenant eligibility.
+- **D - Correct:** Tenure records affect access and area averages may miss individual loss.
+
+**Examiner trap 36:** Do not conflate insurance enrolment with payout.
+
+### KEY 37
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Site-specific INM addresses both nutrient need and incentive distortion.
+- **B - Incorrect:** Different nutrients play different roles.
+- **C - Incorrect:** A subsidy record measures sales, not plant uptake.
+- **D - Incorrect:** Insurance addresses specified peril, not soil testing.
+
+**Examiner trap 37:** The fertiliser subsidy changes relative nutrient prices.
+
+### KEY 38
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Actual cultivators need not own the plot.
+- **B - Correct:** Group liability can bridge tenure documentation gaps.
+- **C - Incorrect:** Insurance and liquidity address different risks.
+- **D - Incorrect:** Sanctions do not demonstrate access.
+
+**Examiner trap 38:** Title and cultivation are different predicates.
+
+### KEY 39
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Fertigation is also correctly paired.
+- **B - Incorrect:** Bud chips propagate plants; they are not sensors.
+- **C - Correct:** Measurement and application are correctly classified.
+- **D - Incorrect:** Statement 3 mistakes propagation for water measurement.
+
+**Examiner trap 39:** Distinguish sensor, application and planting method.
+
+### KEY 40
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Reduced soil disturbance does not clear residues by itself.
+- **B - Incorrect:** Conservation has soil cover and rotation pillars.
+- **C - Incorrect:** Rotation does not replace equipment and agronomy.
+- **D - Correct:** Operational gains require locally workable residue and weed control.
+
+**Examiner trap 40:** A single technique is not a complete conservation system.
+
+### KEY 41
+
+**Answer: A.**
+
+**Option-wise explanation:**
+- **A - Correct:** Joint energy and output incentives shape groundwater extraction.
+- **B - Incorrect:** Electrical consumption is not recharge.
+- **C - Incorrect:** Insurance does not reimburse pumping as such.
+- **D - Incorrect:** Relative input prices can alter planting decisions.
+
+**Examiner trap 41:** Analyse the water-energy-crop nexus together.
+
+### KEY 42
+
+**Answer: B.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Neither class is universally an NPK input.
+- **B - Correct:** The functions are different; biochar response depends on soil context.
+- **C - Incorrect:** Both classifications are inverted.
+- **D - Incorrect:** None measures soil tension like a tensiometer.
+
+**Examiner trap 42:** Classify inputs by actual function, not familiar names.
+
+### KEY 43
+
+**Answer: C.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** Price decline is not automatically covered.
+- **B - Incorrect:** Crop loss and total farm income differ.
+- **C - Correct:** Notification, peril and assessment determine indemnity.
+- **D - Incorrect:** Credit is separate from insurance.
+
+**Examiner trap 43:** Insurance is not a universal earnings floor.
+
+### KEY 44
+
+**Answer: D.**
+
+**Option-wise explanation:**
+- **A - Incorrect:** The uniform strategy raises correlated risk.
+- **B - Incorrect:** Allied activities are part of integration.
+- **C - Incorrect:** Spending is not an impact measure.
+- **D - Correct:** Farm-enterprise combinations diversify risk in rainfed settings.
+
+**Examiner trap 44:** Do not convert the provisional 2026 PYQ into an official keyed letter.
 
 ## PYQS AND ANSWER PRACTICE
 

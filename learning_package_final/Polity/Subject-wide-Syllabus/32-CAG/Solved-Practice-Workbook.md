@@ -2,11 +2,11 @@
 
 **Subject:** Polity | **Control date:** 8 September 2026
 
-**Locked discipline:** exactly 32 original MCQs before PYQs; answer sequence `ABCD` repeated eight times; 128 substantive unique option-specific explanations; 32 unique question-specific examiner traps; verified-PYQ key discipline; exactly six original Mains models.
+**Locked discipline:** 40 original MCQs before a separate key and PYQs; answer sequence `ABCD` repeated ten times; 160 option-specific explanations; 40 examiner traps; verified-PYQ key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every option has a substantive, unique explanation and every question has a unique examiner trap.
+Exactly **40 original MCQs** appear before the separate answer key and PYQs. Correct-option sequence: `ABCD` repeated ten times. Every option has a substantive, unique explanation and every question has a unique examiner trap.
 
 ### MCQ 1. Constitutional appointment
 
@@ -17,17 +17,6 @@ B. by Parliament through a joint resolution
 C. by the President after mandatory parliamentary confirmation
 D. by the Chief Justice of India
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for constitutional appointment: Article 148 specifies presidential appointment by warrant under hand and seal; no confirmation hearing is constitutionally required.
-- **B:** The statement "by Parliament through a joint resolution" mislocates the constitutional actor, source or safeguard. The controlling position is: Article 148 specifies presidential appointment by warrant under hand and seal; no confirmation hearing is constitutionally required.
-- **C:** The statement "by the President after mandatory parliamentary confirmation" collapses the constitutional actor, source or safeguard. The controlling position is: Article 148 specifies presidential appointment by warrant under hand and seal; no confirmation hearing is constitutionally required.
-- **D:** The statement "by the Chief Justice of India" reverses the constitutional actor, source or safeguard. The controlling position is: Article 148 specifies presidential appointment by warrant under hand and seal; no confirmation hearing is constitutionally required.
-
-**Examiner trap 1:** Presidential appointment does not imply parliamentary confirmation.
-
 ### MCQ 2. Form of accounts
 
 Under Article 150, the form in which Union and State accounts are kept is prescribed by
@@ -36,17 +25,6 @@ A. the Finance Commission
 B. the President on the advice of the CAG
 C. Parliament by annual resolution
 D. the CAG acting alone
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "the Finance Commission" mislocates the constitutional actor, source or safeguard. The controlling position is: Article 150 uses the President-on-CAG-advice formulation.
-- **B:** Option B matches the governing proposition for form of accounts: Article 150 uses the President-on-CAG-advice formulation.
-- **C:** The statement "Parliament by annual resolution" reverses the constitutional actor, source or safeguard. The controlling position is: Article 150 uses the President-on-CAG-advice formulation.
-- **D:** The statement "the CAG acting alone" adds a power absent from the constitutional actor, source or safeguard. The controlling position is: Article 150 uses the President-on-CAG-advice formulation.
-
-**Examiner trap 2:** Article 150 names the President as prescribing authority and the CAG as adviser.
 
 ### MCQ 3. Tenure source
 
@@ -57,17 +35,6 @@ B. tenure continues during the President's pleasure
 C. Section 4 of the DPC Act fixes six years or age 65, whichever is earlier
 D. Article 148 itself fixes five years
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "Article 149 fixes six years without an age limit" collapses the constitutional actor, source or safeguard. The controlling position is: The numerical tenure rule is statutory, not written in Article 148.
-- **B:** The statement "tenure continues during the President's pleasure" reverses the constitutional actor, source or safeguard. The controlling position is: The numerical tenure rule is statutory, not written in Article 148.
-- **C:** Option C matches the governing proposition for tenure source: The numerical tenure rule is statutory, not written in Article 148.
-- **D:** The statement "Article 148 itself fixes five years" ignores the limit in the constitutional actor, source or safeguard. The controlling position is: The numerical tenure rule is statutory, not written in Article 148.
-
-**Examiner trap 3:** The numerical tenure is statutory, not written in Article 148.
-
 ### MCQ 4. Post-tenure position
 
 After ceasing to hold office, the CAG
@@ -76,17 +43,6 @@ A. may hold another office if Parliament approves
 B. may become a Governor but not a Union Minister
 C. may accept a State post after a cooling-off period
 D. is ineligible for further office under the Union or any State government
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "may hold another office if Parliament approves" reverses the constitutional actor, source or safeguard. The controlling position is: Article 148(4) creates the post-office bar.
-- **B:** The statement "may become a Governor but not a Union Minister" adds a power absent from the constitutional actor, source or safeguard. The controlling position is: Article 148(4) creates the post-office bar.
-- **C:** The statement "may accept a State post after a cooling-off period" ignores the limit in the constitutional actor, source or safeguard. The controlling position is: Article 148(4) creates the post-office bar.
-- **D:** Option D matches the governing proposition for post-tenure position: Article 148(4) creates the post-office bar.
-
-**Examiner trap 4:** The post-office bar has no cooling-off exception.
 
 ### MCQ 5. Removal
 
@@ -97,17 +53,6 @@ B. by a simple majority of the Lok Sabha
 C. by the Chief Justice of India after inquiry
 D. by the President on Cabinet advice without legislative action
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for removal: Article 148 imports the Supreme-Court-Judge removal safeguard.
-- **B:** The statement "by a simple majority of the Lok Sabha" ignores the limit in the constitutional actor, source or safeguard. The controlling position is: Article 148 imports the Supreme-Court-Judge removal safeguard.
-- **C:** The statement "by the Chief Justice of India after inquiry" replaces the constitutional actor, source or safeguard. The controlling position is: Article 148 imports the Supreme-Court-Judge removal safeguard.
-- **D:** The statement "by the President on Cabinet advice without legislative action" confuses the constitutional actor, source or safeguard. The controlling position is: Article 148 imports the Supreme-Court-Judge removal safeguard.
-
-**Examiner trap 5:** Removal protection is judicial-style, not pleasure tenure.
-
 ### MCQ 6. Article 149
 
 Article 149 primarily provides that CAG duties and powers are
@@ -116,17 +61,6 @@ A. determined by State legislatures
 B. prescribed by or under law made by Parliament
 C. exhaustively listed in the Constitution
 D. limited to Union expenditure
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "determined by State legislatures" ignores the limit in the constitutional actor, source or safeguard. The controlling position is: Article 149 is the constitutional gateway to parliamentary prescription.
-- **B:** Option B matches the governing proposition for article 149: Article 149 is the constitutional gateway to parliamentary prescription.
-- **C:** The statement "exhaustively listed in the Constitution" confuses the constitutional actor, source or safeguard. The controlling position is: Article 149 is the constitutional gateway to parliamentary prescription.
-- **D:** The statement "limited to Union expenditure" overstates the constitutional actor, source or safeguard. The controlling position is: Article 149 is the constitutional gateway to parliamentary prescription.
-
-**Examiner trap 6:** Article 149 is a gateway to parliamentary law, not an exhaustive list.
 
 ### MCQ 7. Article 151 State route
 
@@ -137,17 +71,6 @@ B. Chief Minister for direct publication
 C. Governor for laying before the State legislature
 D. President for laying before Parliament
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "State PAC for initial approval" replaces the constitutional actor, source or safeguard. The controlling position is: Article 151(2) establishes the Governor-to-State-legislature route.
-- **B:** The statement "Chief Minister for direct publication" confuses the constitutional actor, source or safeguard. The controlling position is: Article 151(2) establishes the Governor-to-State-legislature route.
-- **C:** Option C matches the governing proposition for article 151 state route: Article 151(2) establishes the Governor-to-State-legislature route.
-- **D:** The statement "President for laying before Parliament" mislocates the constitutional actor, source or safeguard. The controlling position is: Article 151(2) establishes the Governor-to-State-legislature route.
-
-**Examiner trap 7:** State reports go through the Governor, not the President.
-
 ### MCQ 8. Direct enforcement
 
 Which is NOT a power that follows merely from issuing a CAG report?
@@ -156,17 +79,6 @@ A. supporting PAC/CoPU examination
 B. informing legislative scrutiny
 C. recommending system correction
 D. directly punishing an executive official
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "supporting PAC/CoPU examination" confuses the constitutional actor, source or safeguard. The controlling position is: Penalty, recovery and prosecution require action by legally competent authorities.
-- **B:** The statement "informing legislative scrutiny" overstates the constitutional actor, source or safeguard. The controlling position is: Penalty, recovery and prosecution require action by legally competent authorities.
-- **C:** The statement "recommending system correction" mislocates the constitutional actor, source or safeguard. The controlling position is: Penalty, recovery and prosecution require action by legally competent authorities.
-- **D:** Option D matches the governing proposition for direct enforcement: Penalty, recovery and prosecution require action by legally competent authorities.
-
-**Examiner trap 8:** Reporting never creates direct punishment power.
 
 ### MCQ 9. Audit timing
 
@@ -177,17 +89,6 @@ B. lacks access to government records
 C. reports only to the executive
 D. cannot audit receipts
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for audit timing: *S. Subramaniam Balaji (2013)* confirms post-expenditure examination; the phrase concerns ex-ante issue control.
-- **B:** The statement "lacks access to government records" mislocates the statutory fund, threshold or access rule. The controlling position is: *S. Subramaniam Balaji (2013)* confirms post-expenditure examination; the phrase concerns ex-ante issue control.
-- **C:** The statement "reports only to the executive" collapses the statutory fund, threshold or access rule. The controlling position is: *S. Subramaniam Balaji (2013)* confirms post-expenditure examination; the phrase concerns ex-ante issue control.
-- **D:** The statement "cannot audit receipts" reverses the statutory fund, threshold or access rule. The controlling position is: *S. Subramaniam Balaji (2013)* confirms post-expenditure examination; the phrase concerns ex-ante issue control.
-
-**Examiner trap 9:** Comptroller refers to ex-ante issue control, which India generally lacks.
-
 ### MCQ 10. Accounts function
 
 Which statement is most accurate?
@@ -196,17 +97,6 @@ A. Finance Commission compiles government accounts
 B. CAG compiles/prepares accounts where responsibility remains under Sections 10-12 and valid orders
 C. CAG universally compiles every Union and State account
 D. CAG has no accounts-related function after 1976
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "Finance Commission compiles government accounts" mislocates the statutory fund, threshold or access rule. The controlling position is: Departmentalisation changed Union responsibilities, but the DPC Act preserves accounts functions where not relieved.
-- **B:** Option B matches the governing proposition for accounts function: Departmentalisation changed Union responsibilities, but the DPC Act preserves accounts functions where not relieved.
-- **C:** The statement "CAG universally compiles every Union and State account" reverses the statutory fund, threshold or access rule. The controlling position is: Departmentalisation changed Union responsibilities, but the DPC Act preserves accounts functions where not relieved.
-- **D:** The statement "CAG has no accounts-related function after 1976" adds a power absent from the statutory fund, threshold or access rule. The controlling position is: Departmentalisation changed Union responsibilities, but the DPC Act preserves accounts functions where not relieved.
-
-**Examiner trap 10:** Departmentalisation did not erase every residual accounts function.
 
 ### MCQ 11. Section 13
 
@@ -217,17 +107,6 @@ B. was approved by the PAC before payment
 C. was legally available, applicable to the purpose and conformed to authority
 D. achieved every policy objective
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "generated a political consensus" collapses the statutory fund, threshold or access rule. The controlling position is: This is the statutory appropriation/compliance core.
-- **B:** The statement "was approved by the PAC before payment" reverses the statutory fund, threshold or access rule. The controlling position is: This is the statutory appropriation/compliance core.
-- **C:** Option C matches the governing proposition for section 13: This is the statutory appropriation/compliance core.
-- **D:** The statement "achieved every policy objective" ignores the limit in the statutory fund, threshold or access rule. The controlling position is: This is the statutory appropriation/compliance core.
-
-**Examiner trap 11:** Section 13 tests availability, purpose and governing authority.
-
 ### MCQ 12. Fund transactions
 
 Under Section 13, which pair is also audited?
@@ -236,17 +115,6 @@ A. municipal social audits and cooperative elections
 B. only Consolidated Fund withdrawals
 C. only State contingency grants and private deposits
 D. transactions relating to Contingency Funds and Public Accounts
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "municipal social audits and cooperative elections" reverses the statutory fund, threshold or access rule. The controlling position is: Section 13 expressly includes these transactions.
-- **B:** The statement "only Consolidated Fund withdrawals" adds a power absent from the statutory fund, threshold or access rule. The controlling position is: Section 13 expressly includes these transactions.
-- **C:** The statement "only State contingency grants and private deposits" ignores the limit in the statutory fund, threshold or access rule. The controlling position is: Section 13 expressly includes these transactions.
-- **D:** Option D matches the governing proposition for fund transactions: Section 13 expressly includes these transactions.
-
-**Examiner trap 12:** Contingency Fund and Public Account transactions are distinct from Consolidated Fund expenditure.
 
 ### MCQ 13. Section 14(1)
 
@@ -257,17 +125,6 @@ B. Rs 10 lakh and at least 50 per cent of revenue
 C. any amount approved by the PAC
 D. Rs 1 crore with no proportion test in every case
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for section 14(1): These are the stated Section 14(1) thresholds; Section 14(2) is a separate route.
-- **B:** The statement "Rs 10 lakh and at least 50 per cent of revenue" ignores the limit in the statutory fund, threshold or access rule. The controlling position is: These are the stated Section 14(1) thresholds; Section 14(2) is a separate route.
-- **C:** The statement "any amount approved by the PAC" replaces the statutory fund, threshold or access rule. The controlling position is: These are the stated Section 14(1) thresholds; Section 14(2) is a separate route.
-- **D:** The statement "Rs 1 crore with no proportion test in every case" confuses the statutory fund, threshold or access rule. The controlling position is: These are the stated Section 14(1) thresholds; Section 14(2) is a separate route.
-
-**Examiner trap 13:** Section 14(1) needs both the monetary and proportion tests.
-
 ### MCQ 14. Section 15
 
 Section 15 primarily scrutinises
@@ -276,17 +133,6 @@ A. every transaction of an unfinanced private company
 B. procedures by which a sanctioning authority assures compliance with specific-purpose grant/loan conditions
 C. the constitutional validity of taxation
 D. election expenditure of political parties
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "every transaction of an unfinanced private company" ignores the limit in the statutory fund, threshold or access rule. The controlling position is: Section 15 centres the grant/loan assurance process.
-- **B:** Option B matches the governing proposition for section 15: Section 15 centres the grant/loan assurance process.
-- **C:** The statement "the constitutional validity of taxation" confuses the statutory fund, threshold or access rule. The controlling position is: Section 15 centres the grant/loan assurance process.
-- **D:** The statement "election expenditure of political parties" overstates the statutory fund, threshold or access rule. The controlling position is: Section 15 centres the grant/loan assurance process.
-
-**Examiner trap 14:** Section 15 scrutinises grant-assurance procedure, not every grantee transaction.
 
 ### MCQ 15. Receipts audit
 
@@ -297,17 +143,6 @@ B. political donations
 C. receipts payable into Consolidated Funds and the systems for assessment, collection and allocation
 D. receipts of private associations unrelated to government
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "only GST Council recommendations" replaces the statutory fund, threshold or access rule. The controlling position is: The receipt must connect to the Consolidated Fund mandate.
-- **B:** The statement "political donations" confuses the statutory fund, threshold or access rule. The controlling position is: The receipt must connect to the Consolidated Fund mandate.
-- **C:** Option C matches the governing proposition for receipts audit: The receipt must connect to the Consolidated Fund mandate.
-- **D:** The statement "receipts of private associations unrelated to government" mislocates the statutory fund, threshold or access rule. The controlling position is: The receipt must connect to the Consolidated Fund mandate.
-
-**Examiner trap 15:** Section 16 concerns receipts payable into Consolidated Funds.
-
 ### MCQ 16. Access power
 
 Section 18 does NOT create
@@ -316,17 +151,6 @@ A. power to seek information from responsible officers
 B. authority to inspect relevant offices
 C. power to call for relevant documents
 D. free-standing universal jurisdiction over every record in India
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "power to seek information from responsible officers" confuses the statutory fund, threshold or access rule. The controlling position is: Access follows an existing audit duty.
-- **B:** The statement "authority to inspect relevant offices" overstates the statutory fund, threshold or access rule. The controlling position is: Access follows an existing audit duty.
-- **C:** The statement "power to call for relevant documents" mislocates the statutory fund, threshold or access rule. The controlling position is: Access follows an existing audit duty.
-- **D:** Option D matches the governing proposition for access power: Access follows an existing audit duty.
-
-**Examiner trap 16:** Section 18 access is ancillary to an existing audit duty.
 
 ### MCQ 17. Audit types
 
@@ -337,17 +161,6 @@ B. performance audit
 C. propriety audit
 D. receipts audit
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for audit types: Financial audit provides assurance on financial statements/information.
-- **B:** The statement "performance audit" mislocates the audit purpose, timing or legal consequence. The controlling position is: Financial audit provides assurance on financial statements/information.
-- **C:** The statement "propriety audit" collapses the audit purpose, timing or legal consequence. The controlling position is: Financial audit provides assurance on financial statements/information.
-- **D:** The statement "receipts audit" reverses the audit purpose, timing or legal consequence. The controlling position is: Financial audit provides assurance on financial statements/information.
-
-**Examiner trap 17:** Audit types identify different questions and criteria.
-
 ### MCQ 18. Compliance audit
 
 Compliance audit primarily compares activities and transactions with
@@ -356,17 +169,6 @@ A. only accounting estimates
 B. applicable law, rules, sanctions, contracts and governing authority
 C. popular opinion
 D. the auditor's preferred policy
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "only accounting estimates" mislocates the audit purpose, timing or legal consequence. The controlling position is: Compliance criteria are authoritative requirements.
-- **B:** Option B matches the governing proposition for compliance audit: Compliance criteria are authoritative requirements.
-- **C:** The statement "popular opinion" reverses the audit purpose, timing or legal consequence. The controlling position is: Compliance criteria are authoritative requirements.
-- **D:** The statement "the auditor's preferred policy" adds a power absent from the audit purpose, timing or legal consequence. The controlling position is: Compliance criteria are authoritative requirements.
-
-**Examiner trap 18:** Compliance is wider than arithmetic accuracy but narrower than policy choice.
 
 ### MCQ 19. Performance audit
 
@@ -377,17 +179,6 @@ B. economy, equity and ethics
 C. economy, efficiency and effectiveness
 D. equality, entitlement and enforcement
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "evidence, enforcement and expenditure" collapses the audit purpose, timing or legal consequence. The controlling position is: Official CAG performance-audit guidance uses economy, efficiency and effectiveness.
-- **B:** The statement "economy, equity and ethics" reverses the audit purpose, timing or legal consequence. The controlling position is: Official CAG performance-audit guidance uses economy, efficiency and effectiveness.
-- **C:** Option C matches the governing proposition for performance audit: Official CAG performance-audit guidance uses economy, efficiency and effectiveness.
-- **D:** The statement "equality, entitlement and enforcement" ignores the limit in the audit purpose, timing or legal consequence. The controlling position is: Official CAG performance-audit guidance uses economy, efficiency and effectiveness.
-
-**Examiner trap 19:** Performance audit tests the three Es, not legislative intention as such.
-
 ### MCQ 20. Propriety boundary
 
 Which is the safest formulation?
@@ -396,17 +187,6 @@ A. propriety and legality are identical
 B. propriety audit is prohibited by the DPC Act
 C. propriety audit lets CAG choose policy for the government
 D. propriety tests prudence and economy but should not become an unlimited policy veto
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "propriety and legality are identical" reverses the audit purpose, timing or legal consequence. The controlling position is: Official commentary tests wisdom, faithfulness and economy; [LIMIT] elected policy space remains.
-- **B:** The statement "propriety audit is prohibited by the DPC Act" adds a power absent from the audit purpose, timing or legal consequence. The controlling position is: Official commentary tests wisdom, faithfulness and economy; [LIMIT] elected policy space remains.
-- **C:** The statement "propriety audit lets CAG choose policy for the government" ignores the limit in the audit purpose, timing or legal consequence. The controlling position is: Official commentary tests wisdom, faithfulness and economy; [LIMIT] elected policy space remains.
-- **D:** Option D matches the governing proposition for propriety boundary: Official commentary tests wisdom, faithfulness and economy; [LIMIT] elected policy space remains.
-
-**Examiner trap 20:** Propriety does not automatically prove corruption.
 
 ### MCQ 21. Government-company auditor
 
@@ -417,17 +197,6 @@ B. the Finance Ministry without CAG involvement
 C. CoPU
 D. PAC
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for government-company auditor: Sections 139(5)/(7) govern the CAG appointment role.
-- **B:** The statement "the Finance Ministry without CAG involvement" ignores the limit in the entity-specific audit route. The controlling position is: Sections 139(5)/(7) govern the CAG appointment role.
-- **C:** The statement "CoPU" replaces the entity-specific audit route. The controlling position is: Sections 139(5)/(7) govern the CAG appointment role.
-- **D:** The statement "PAC" confuses the entity-specific audit route. The controlling position is: Sections 139(5)/(7) govern the CAG appointment role.
-
-**Examiner trap 21:** Government-company audit follows a layered Companies Act route.
-
 ### MCQ 22. Supplementary audit
 
 The CAG's supplementary audit of a government company's financial statements is associated with
@@ -436,17 +205,6 @@ A. Section 15 of the DPC Act alone
 B. Section 143(6) of the Companies Act, 2013
 C. Article 280
 D. Article 324
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "Section 15 of the DPC Act alone" ignores the limit in the entity-specific audit route. The controlling position is: Section 143(6) provides the supplementary audit/comment route.
-- **B:** Option B matches the governing proposition for supplementary audit: Section 143(6) provides the supplementary audit/comment route.
-- **C:** The statement "Article 280" confuses the entity-specific audit route. The controlling position is: Section 143(6) provides the supplementary audit/comment route.
-- **D:** The statement "Article 324" overstates the entity-specific audit route. The controlling position is: Section 143(6) provides the supplementary audit/comment route.
-
-**Examiner trap 22:** Supplementary audit is different from the company auditor’s primary audit.
 
 ### MCQ 23. Statutory corporation
 
@@ -457,17 +215,6 @@ B. private agreement alone
 C. its governing legislation read with DPC Act Section 19(2)
 D. a universal identical model for all corporations
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "a PAC resolution creating jurisdiction" replaces the entity-specific audit route. The controlling position is: Section 19(2) defers to the respective legislation.
-- **B:** The statement "private agreement alone" confuses the entity-specific audit route. The controlling position is: Section 19(2) defers to the respective legislation.
-- **C:** Option C matches the governing proposition for statutory corporation: Section 19(2) defers to the respective legislation.
-- **D:** The statement "a universal identical model for all corporations" mislocates the entity-specific audit route. The controlling position is: Section 19(2) defers to the respective legislation.
-
-**Examiner trap 23:** Statutory corporations follow their constituting legislation.
-
 ### MCQ 24. Entrusted audit
 
 Section 20 audit requires, among other safeguards,
@@ -476,17 +223,6 @@ A. only a newspaper allegation
 B. no consultation with CAG
 C. automatic application to all NGOs
 D. lawful request/empowerment, public interest, consultation and opportunity to represent
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "only a newspaper allegation" confuses the entity-specific audit route. The controlling position is: Section 20 contains these procedural and public-interest controls.
-- **B:** The statement "no consultation with CAG" overstates the entity-specific audit route. The controlling position is: Section 20 contains these procedural and public-interest controls.
-- **C:** The statement "automatic application to all NGOs" mislocates the entity-specific audit route. The controlling position is: Section 20 contains these procedural and public-interest controls.
-- **D:** Option D matches the governing proposition for entrusted audit: Section 20 contains these procedural and public-interest controls.
-
-**Examiner trap 24:** Section 20 contains consultation, public-interest and representation safeguards.
 
 ### MCQ 25. Telecom judgment
 
@@ -497,17 +233,6 @@ B. impose licence penalties directly
 C. replace TRAI as sector regulator
 D. audit every private company for every purpose
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for telecom judgment: The holding was tied to licence fee/spectrum charge revenue computation.
-- **B:** The statement "impose licence penalties directly" mislocates the judicial holding and its boundary. The controlling position is: The holding was tied to licence fee/spectrum charge revenue computation.
-- **C:** The statement "replace TRAI as sector regulator" collapses the judicial holding and its boundary. The controlling position is: The holding was tied to licence fee/spectrum charge revenue computation.
-- **D:** The statement "audit every private company for every purpose" reverses the judicial holding and its boundary. The controlling position is: The holding was tied to licence fee/spectrum charge revenue computation.
-
-**Examiner trap 25:** The telecom holding is bounded to verification of Union revenue share.
-
 ### MCQ 26. *Centre for Public Interest Litigation* (2012)
 
 Which statement most accurately describes the Supreme Court's 2G spectrum holding?
@@ -516,17 +241,6 @@ A. It treated the CAG's presumptive-loss estimate as proof of criminal guilt
 B. It held the 2008 first-come-first-served allocation arbitrary under Article 14 and quashed 122 licences
 C. It gave the CAG power to cancel telecom licences
 D. It made auction mandatory for allocation of every natural resource in every context
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "It treated the CAG's presumptive-loss estimate as proof of criminal guilt" mislocates the judicial holding and its boundary. The controlling position is: The Court applied Article 14 to the arbitrary 2008 allocation process and quashed 122 licences.
-- **B:** Option B matches the governing proposition for *centre for public interest litigation* (2012): The Court applied Article 14 to the arbitrary 2008 allocation process and quashed 122 licences.
-- **C:** The statement "It gave the CAG power to cancel telecom licences" reverses the judicial holding and its boundary. The controlling position is: The Court applied Article 14 to the arbitrary 2008 allocation process and quashed 122 licences.
-- **D:** The statement "It made auction mandatory for allocation of every natural resource in every context" adds a power absent from the judicial holding and its boundary. The controlling position is: The Court applied Article 14 to the arbitrary 2008 allocation process and quashed 122 licences.
-
-**Examiner trap 26:** Separate the Court's Article 14 allocation holding from the CAG report's methodology and from later criminal proceedings.
 
 ### MCQ 27. *Arun Kumar Agrawal (2013)*
 
@@ -537,17 +251,6 @@ B. a CAG report has no public value
 C. a CAG report commands respect but is subject to parliamentary scrutiny and is not automatically final proof
 D. PAC must accept every audit paragraph
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "courts may never read a CAG report" collapses the judicial holding and its boundary. The controlling position is: The case emphasises report scrutiny and ministry/PAC response.
-- **B:** The statement "a CAG report has no public value" reverses the judicial holding and its boundary. The controlling position is: The case emphasises report scrutiny and ministry/PAC response.
-- **C:** Option C matches the governing proposition for *arun kumar agrawal (2013)*: The case emphasises report scrutiny and ministry/PAC response.
-- **D:** The statement "PAC must accept every audit paragraph" ignores the limit in the judicial holding and its boundary. The controlling position is: The case emphasises report scrutiny and ministry/PAC response.
-
-**Examiner trap 27:** Arun Kumar Agrawal treats a CAG report as subject to parliamentary scrutiny.
-
 ### MCQ 28. PAC relation
 
 The CAG is best described in relation to PAC as
@@ -556,17 +259,6 @@ A. a ministerial representative
 B. the voting chairperson
 C. the final parliamentary decision-maker
 D. technical friend, philosopher and guide, not a committee member
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "a ministerial representative" reverses the committee, report or institutional role. The controlling position is: Official parliamentary usage supports the phrase; [LIMIT] the committee makes its own conclusions.
-- **B:** The statement "the voting chairperson" adds a power absent from the committee, report or institutional role. The controlling position is: Official parliamentary usage supports the phrase; [LIMIT] the committee makes its own conclusions.
-- **C:** The statement "the final parliamentary decision-maker" ignores the limit in the committee, report or institutional role. The controlling position is: Official parliamentary usage supports the phrase; [LIMIT] the committee makes its own conclusions.
-- **D:** Option D matches the governing proposition for pac relation: Official parliamentary usage supports the phrase; [LIMIT] the committee makes its own conclusions.
-
-**Examiner trap 28:** CAG assists PAC but is neither member nor final decision-maker.
 
 ### MCQ 29. CoPU
 
@@ -577,17 +269,6 @@ B. judicial appointments
 C. State Finance Commission reports
 D. election finance
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A:** Option A matches the governing proposition for copu: CoPU is the public-enterprise financial committee.
-- **B:** The statement "judicial appointments" ignores the limit in the committee, report or institutional role. The controlling position is: CoPU is the public-enterprise financial committee.
-- **C:** The statement "State Finance Commission reports" replaces the committee, report or institutional role. The controlling position is: CoPU is the public-enterprise financial committee.
-- **D:** The statement "election finance" confuses the committee, report or institutional role. The controlling position is: CoPU is the public-enterprise financial committee.
-
-**Examiner trap 29:** CoPU has an undertaking-focused remit distinct from PAC.
-
 ### MCQ 30. CAG report sequence
 
 Which sequence is constitutionally and institutionally sound for a Union report?
@@ -596,17 +277,6 @@ A. CAG -> PAC -> President -> Supreme Court
 B. CAG -> President -> Parliament -> committee scrutiny -> executive action taken
 C. CAG -> Prime Minister -> company auditor -> Parliament
 D. CAG -> Finance Commission -> Governor -> Lok Sabha
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "CAG -> PAC -> President -> Supreme Court" ignores the limit in the committee, report or institutional role. The controlling position is: Article 151 supplies the President-to-Parliament route; committees and action taken follow.
-- **B:** Option B matches the governing proposition for cag report sequence: Article 151 supplies the President-to-Parliament route; committees and action taken follow.
-- **C:** The statement "CAG -> Prime Minister -> company auditor -> Parliament" confuses the committee, report or institutional role. The controlling position is: Article 151 supplies the President-to-Parliament route; committees and action taken follow.
-- **D:** The statement "CAG -> Finance Commission -> Governor -> Lok Sabha" overstates the committee, report or institutional role. The controlling position is: Article 151 supplies the President-to-Parliament route; committees and action taken follow.
-
-**Examiner trap 30:** Draft response, final report, laying and committee scrutiny are separate stages.
 
 ### MCQ 31. Local bodies
 
@@ -617,17 +287,6 @@ B. Articles 243J/243Z abolish State audit law
 C. State law controls local-body accounts/audit, while CAG may provide TGS or audit under applicable arrangements
 D. CAG is automatically the sole primary auditor of every local body
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A:** The statement "social audit is identical to CAG audit" replaces the federal or fiscal division of functions. The controlling position is: Local audit architecture is State-law dependent.
-- **B:** The statement "Articles 243J/243Z abolish State audit law" confuses the federal or fiscal division of functions. The controlling position is: Local audit architecture is State-law dependent.
-- **C:** Option C matches the governing proposition for local bodies: Local audit architecture is State-law dependent.
-- **D:** The statement "CAG is automatically the sole primary auditor of every local body" mislocates the federal or fiscal division of functions. The controlling position is: Local audit architecture is State-law dependent.
-
-**Examiner trap 31:** Articles 243J/243Z prevent a false claim of automatic universal local-body audit.
-
 ### MCQ 32. Finance Commission link
 
 The Union Finance Commission's local-body function under Article 280(3)(bb)/(c) relates to
@@ -637,17 +296,583 @@ B. appointing local auditors
 C. directly levying municipal tax
 D. measures augmenting State Consolidated Funds for Panchayat/Municipality resources on the SFC basis
 
+### MCQ 33. An executive department requests CAG approval before disbursing a properly appropriated payment. What is the appropriate institutional answer?
+
+A. The spending authority must act under appropriation law; the Indian CAG chiefly audits afterward
+B. CAG must countersign every withdrawal from the Consolidated Fund
+C. The PAC pre-authorises individual payments on the CAG’s behalf
+D. The Governor signs off all Union payments before CAG audit
+
+### MCQ 34. A department claims the CAG cannot examine money held in the Public Account because it is not voted expenditure. Which statutory answer is best?
+
+A. Public Account transactions are audited only by GST Council
+B. Section 13 of the DPC Act includes transactions relating to the Consolidated Fund, Contingency Fund and Public Account
+C. Public Account balances are audited only if PAC pre-approves them
+D. Non-voted transactions become immune from financial accountability
+
+### MCQ 35. A performance audit identifies poor procurement value in a health programme, but the policy goal was lawfully adopted. Which conclusion respects audit limits?
+
+A. CAG may substitute a different health policy by binding order
+B. Legality alone prohibits any examination of economy or outcomes
+C. CAG may test economy and implementation, report findings, but not become the policy-maker
+D. CAG must prosecute the minister after finding inefficiency
+
+### MCQ 36. An NGO receives some public money, and an auditor asserts the CAG can always audit every transaction of every private recipient. What qualification is necessary?
+
+A. Every private recipient is part of the Consolidated Fund
+B. The legal label NGO alone settles coverage
+C. Only corporations established by Parliament may receive public grants
+D. Audit depends on the applicable DPC Act funding/entrustment gateways and statutory scope, not a universal private-entity power
+
+### MCQ 37. A State-level CAG report is prepared on expenditure and an officer proposes filing it directly with Parliament for final approval. What is correct?
+
+A. Article 151(2) routes the State report to the Governor for laying before the State legislature
+B. Article 151(1) sends all State reports to Parliament
+C. The PAC itself receives State reports before the Governor
+D. Article 150 makes Finance Commission responsible for laying audit reports
+
+### MCQ 38. A PAC member says a CAG report conclusively orders recovery from an official and the committee need only transmit the cheque. Which accountability chain is defensible?
+
+A. PAC itself prosecutes as a judicial court
+B. CAG reports evidence; PAC scrutinises; competent executive or legal authorities pursue recovery under governing law
+C. CAG approves all future appropriations as a penalty
+D. A report automatically invalidates every audited contract
+
+### MCQ 39. A Finance Commission requests verification of Union tax net proceeds used in devolution. Which CAG function is relevant?
+
+A. The CAG itself fixes the vertical devolution percentage
+B. The CAG legislates Article 271 surcharges to increase transfers
+C. CAG certification of net proceeds under Article 279 provides the accounting anchor
+D. The CAG can change each State’s horizontal formula annually
+
+### MCQ 40. A proposal says CAG removal should be easier because the President appointed the officer. Which constitutional safeguard prevents that?
+
+A. A ministerial instruction can revoke the appointment
+B. A parliamentary PAC motion alone removes the CAG
+C. Service conditions are automatically renewable at cabinet discretion
+D. Article 148 requires removal in like manner and on like grounds as a Supreme Court judge
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### MCQ 1 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for constitutional appointment: Article 148 specifies presidential appointment by warrant under hand and seal; no confirmation hearing is constitutionally required.
+- **B:** Parliament participates in removal, not ordinary appointment.
+- **C:** Article 148 contains no parliamentary-confirmation requirement.
+- **D:** The Chief Justice does not appoint the CAG.
+
+**Examiner trap 1:** Presidential appointment does not imply parliamentary confirmation.
+
+### MCQ 2 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** The Finance Commission recommends fiscal distribution, not accounts form.
+- **B:** Option B matches the governing proposition for form of accounts: Article 150 uses the President-on-CAG-advice formulation.
+- **C:** A parliamentary law may govern audit duties, but Article 150 names a different prescribing authority.
+- **D:** The CAG advises; the President prescribes the form.
+
+**Examiner trap 2:** Article 150 names the President as prescribing authority and the CAG as adviser.
+
+### MCQ 3 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Article 149 addresses duties and powers, not a six-year tenure.
+- **B:** Judge-like removal precludes pleasure-tenure dismissal.
+- **C:** Option C matches the governing proposition for tenure source: The numerical tenure rule is statutory, not written in Article 148.
+- **D:** Article 148 does not set a five-year term.
+
+**Examiner trap 3:** The numerical tenure is statutory, not written in Article 148.
+
+### MCQ 4 — answer and explanation
+
 **Answer: D.**
 
 **Option-specific explanations:**
 
-- **A:** The statement "replacing State Finance Commissions" confuses the federal or fiscal division of functions. The controlling position is: This is the constitutional fiscal link.
-- **B:** The statement "appointing local auditors" overstates the federal or fiscal division of functions. The controlling position is: This is the constitutional fiscal link.
-- **C:** The statement "directly levying municipal tax" mislocates the federal or fiscal division of functions. The controlling position is: This is the constitutional fiscal link.
+- **A:** Parliamentary approval does not erase the constitutional post-office bar.
+- **B:** A Governor is an office under a State; the bar does not create this exception.
+- **C:** Waiting does not create a State-government-office exception.
+- **D:** Option D matches the governing proposition for post-tenure position: Article 148(4) creates the post-office bar.
+
+**Examiner trap 4:** The post-office bar has no cooling-off exception.
+
+### MCQ 5 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for removal: Article 148 imports the Supreme-Court-Judge removal safeguard.
+- **B:** An ordinary Lok Sabha majority cannot substitute the judge-removal route.
+- **C:** The Chief Justice does not unilaterally remove the CAG.
+- **D:** The executive alone cannot bypass the constitutionally required removal process.
+
+**Examiner trap 5:** Removal protection is judicial-style, not pleasure tenure.
+
+### MCQ 6 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** State legislatures do not prescribe the CAG’s national statutory remit under Article 149.
+- **B:** Option B matches the governing proposition for article 149: Article 149 is the constitutional gateway to parliamentary prescription.
+- **C:** The constitutional Article is an enabling gateway, not an exhaustive audit schedule.
+- **D:** The mandate includes appropriate State accounts and transactions.
+
+**Examiner trap 6:** Article 149 is a gateway to parliamentary law, not an exhaustive list.
+
+### MCQ 7 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** PAC examines a laid report; it is not its first constitutional recipient.
+- **B:** The Chief Minister does not replace Article 151(2)’s Governor route.
+- **C:** Option C matches the governing proposition for article 151 state route: Article 151(2) establishes the Governor-to-State-legislature route.
+- **D:** Article 151(1)’s President route concerns Union reports.
+
+**Examiner trap 7:** State reports go through the Governor, not the President.
+
+### MCQ 8 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** The CAG can provide expert support to parliamentary financial committees.
+- **B:** Audit reports can inform House and committee scrutiny after laying.
+- **C:** An auditor can recommend system corrections without enforcing penalties.
+- **D:** Option D matches the governing proposition for direct enforcement: Penalty, recovery and prosecution require action by legally competent authorities.
+
+**Examiner trap 8:** Reporting never creates direct punishment power.
+
+### MCQ 9 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for audit timing: *S. Subramaniam Balaji (2013)* confirms post-expenditure examination; the phrase concerns ex-ante issue control.
+- **B:** The 1971 Act supplies powers to seek relevant records.
+- **C:** Article 151 sends reports for legislative scrutiny via the constitutional heads.
+- **D:** The CAG audits receipts under Section 16 of the DPC Act.
+
+**Examiner trap 9:** Comptroller refers to ex-ante issue control, which India generally lacks.
+
+### MCQ 10 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** The Finance Commission recommends transfers, not routine account compilation.
+- **B:** Option B matches the governing proposition for accounts function: Departmentalisation changed Union responsibilities, but the DPC Act preserves accounts functions where not relieved.
+- **C:** Departmentalisation means account preparation is not universally the CAG’s job.
+- **D:** Residual preparation responsibilities survive in specified circumstances after 1976.
+
+**Examiner trap 10:** Departmentalisation did not erase every residual accounts function.
+
+### MCQ 11 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Political consensus is not the Section 13 test of spending authority.
+- **B:** PAC scrutinises after expenditure rather than pre-clearing each payment.
+- **C:** Option C matches the governing proposition for section 13: This is the statutory appropriation/compliance core.
+- **D:** Performance audit asks about outcomes, but Section 13 does not guarantee universal success.
+
+**Examiner trap 11:** Section 13 tests availability, purpose and governing authority.
+
+### MCQ 12 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Social audit or elections are not the statutory Section 13 transaction pair.
+- **B:** Section 13 includes other public-fund transactions in addition to Consolidated Funds.
+- **C:** The category is broader than State contingency money or private deposits.
+- **D:** Option D matches the governing proposition for fund transactions: Section 13 expressly includes these transactions.
+
+**Examiner trap 12:** Contingency Fund and Public Account transactions are distinct from Consolidated Fund expenditure.
+
+### MCQ 13 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for section 14(1): These are the stated Section 14(1) thresholds; Section 14(2) is a separate route.
+- **B:** Section 14(1) uses expenditure, not a 50 per cent revenue ratio.
+- **C:** PAC approval does not create substantial-financing status.
+- **D:** The one-crore route belongs to Section 14(2), with separate safeguards.
+
+**Examiner trap 13:** Section 14(1) needs both the monetary and proportion tests.
+
+### MCQ 14 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** Section 15 focuses on assurance over specified government grants or loans.
+- **B:** Option B matches the governing proposition for section 15: Section 15 centres the grant/loan assurance process.
+- **C:** Tax validity is a judicial/legislative question, not this grant-assurance test.
+- **D:** Political-party spending is not Section 15’s generic subject.
+
+**Examiner trap 14:** Section 15 scrutinises grant-assurance procedure, not every grantee transaction.
+
+### MCQ 15 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** A Council recommendation is not a receipt payable into a Consolidated Fund.
+- **B:** Private donations are not automatically government receipts.
+- **C:** Option C matches the governing proposition for receipts audit: The receipt must connect to the Consolidated Fund mandate.
+- **D:** Private association receipts lack the government-receipt nexus required by Section 16.
+
+**Examiner trap 15:** Section 16 concerns receipts payable into Consolidated Funds.
+
+### MCQ 16 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Section 18 expressly permits relevant information to be sought.
+- **B:** Section 18 supports inspection of offices subject to its scope.
+- **C:** Section 18 authorises calling for records needed for lawful audit.
+- **D:** Option D matches the governing proposition for access power: Access follows an existing audit duty.
+
+**Examiner trap 16:** Section 18 access is ancillary to an existing audit duty.
+
+### MCQ 17 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for audit types: Financial audit provides assurance on financial statements/information.
+- **B:** Performance audit measures economy, efficiency and effectiveness.
+- **C:** Propriety focuses on prudence and economy of decisions rather than statement presentation.
+- **D:** Receipts audit examines revenue assessment and collection, not statement fairness.
+
+**Examiner trap 17:** Audit types identify different questions and criteria.
+
+### MCQ 18 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** Estimates alone do not define the governing legal criteria.
+- **B:** Option B matches the governing proposition for compliance audit: Compliance criteria are authoritative requirements.
+- **C:** Public opinion may influence policy but is not an audit compliance standard.
+- **D:** An auditor’s policy preference is not a legal authority or sanction.
+
+**Examiner trap 18:** Compliance is wider than arithmetic accuracy but narrower than policy choice.
+
+### MCQ 19 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Enforcement is not one of the performance-audit three E’s.
+- **B:** Equity and ethics can matter analytically but are not the standard three-E formula.
+- **C:** Option C matches the governing proposition for performance audit: Official CAG performance-audit guidance uses economy, efficiency and effectiveness.
+- **D:** Entitlement and enforcement are different from value-for-money metrics.
+
+**Examiner trap 19:** Performance audit tests the three Es, not legislative intention as such.
+
+### MCQ 20 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** A legally compliant purchase can still be wasteful, so the tests differ.
+- **B:** The CAG may scrutinise prudence; propriety is not categorically forbidden.
+- **C:** A propriety observation cannot directly replace the executive’s policy choice.
+- **D:** Option D matches the governing proposition for propriety boundary: Official commentary tests wisdom, faithfulness and economy; [LIMIT] elected policy space remains.
+
+**Examiner trap 20:** Propriety does not automatically prove corruption.
+
+### MCQ 21 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for government-company auditor: Sections 139(5)/(7) govern the CAG appointment role.
+- **B:** A ministry is not the statutory appointing route for a government-company auditor.
+- **C:** CoPU scrutinises undertakings and related reports; it does not appoint their auditor.
+- **D:** PAC examines accounts and reports, not company-auditor appointments.
+
+**Examiner trap 21:** Government-company audit follows a layered Companies Act route.
+
+### MCQ 22 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** DPC Section 15 addresses specified grants, not company supplementary audit.
+- **B:** Option B matches the governing proposition for supplementary audit: Section 143(6) provides the supplementary audit/comment route.
+- **C:** Finance Commission duties under Article 280 do not govern company accounts.
+- **D:** The Election Commission’s Article 324 does not create this audit power.
+
+**Examiner trap 22:** Supplementary audit is different from the company auditor’s primary audit.
+
+### MCQ 23 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** PAC oversight cannot create CAG jurisdiction by committee resolution.
+- **B:** Private agreement alone cannot override an entity’s governing statutory audit framework.
+- **C:** Option C matches the governing proposition for statutory corporation: Section 19(2) defers to the respective legislation.
+- **D:** Different corporation statutes may allocate audit differently.
+
+**Examiner trap 23:** Statutory corporations follow their constituting legislation.
+
+### MCQ 24 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** A media allegation is not statutory entrustment.
+- **B:** Consultation with the CAG is part of the Section 20 safeguards.
+- **C:** NGO status does not automatically subject an entity to entrusted audit.
+- **D:** Option D matches the governing proposition for entrusted audit: Section 20 contains these procedural and public-interest controls.
+
+**Examiner trap 24:** Section 20 contains consultation, public-interest and representation safeguards.
+
+### MCQ 25 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for telecom judgment: The holding was tied to licence fee/spectrum charge revenue computation.
+- **B:** Audit access does not confer telecom penalty-setting power.
+- **C:** TRAI regulates the sector; CAG checks legally relevant public receipts.
+- **D:** The ruling concerned government revenue share, not unlimited private audit.
+
+**Examiner trap 25:** The telecom holding is bounded to verification of Union revenue share.
+
+### MCQ 26 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** An audit estimate is not a criminal verdict against named persons.
+- **B:** Option B matches the governing proposition for *centre for public interest litigation* (2012): The Court applied Article 14 to the arbitrary 2008 allocation process and quashed 122 licences.
+- **C:** The Court, not the CAG, invalidated licences through judicial review.
+- **D:** The decision did not prescribe universal auctions for all natural resources.
+
+**Examiner trap 26:** Separate the Court's Article 14 allocation holding from the CAG report's methodology and from later criminal proceedings.
+
+### MCQ 27 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Courts may consider reports subject to legal process and context.
+- **B:** A CAG report is valuable evidence despite not being conclusive.
+- **C:** Option C matches the governing proposition for *arun kumar agrawal (2013)*: The case emphasises report scrutiny and ministry/PAC response.
+- **D:** PAC retains scrutiny and is not compelled to endorse each paragraph.
+
+**Examiner trap 27:** Arun Kumar Agrawal treats a CAG report as subject to parliamentary scrutiny.
+
+### MCQ 28 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** The auditor does not represent a ministry on PAC.
+- **B:** A PAC chair is a parliamentarian, not the CAG.
+- **C:** The parliamentary committee, not CAG, chooses its conclusions.
+- **D:** Option D matches the governing proposition for pac relation: Official parliamentary usage supports the phrase; [LIMIT] the committee makes its own conclusions.
+
+**Examiner trap 28:** CAG assists PAC but is neither member nor final decision-maker.
+
+### MCQ 29 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Option A matches the governing proposition for copu: CoPU is the public-enterprise financial committee.
+- **B:** Judicial appointments are outside this financial committee’s portfolio.
+- **C:** State Finance Commissions concern State-local transfers, not CoPU’s primary remit.
+- **D:** Election finance is not CoPU’s undertaking scrutiny.
+
+**Examiner trap 29:** CoPU has an undertaking-focused remit distinct from PAC.
+
+### MCQ 30 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** The committee is not the constitutional first recipient of a Union report.
+- **B:** Option B matches the governing proposition for cag report sequence: Article 151 supplies the President-to-Parliament route; committees and action taken follow.
+- **C:** The Prime Minister is not the Article 151 laying addressee.
+- **D:** Finance Commission and Governor do not route Union audit reports.
+
+**Examiner trap 30:** Draft response, final report, laying and committee scrutiny are separate stages.
+
+### MCQ 31 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Community social audit and constitutional/statutory CAG audit have different bases.
+- **B:** Articles 243J and 243Z leave account and audit provision to State law.
+- **C:** Option C matches the governing proposition for local bodies: Local audit architecture is State-law dependent.
+- **D:** The primary local audit arrangement varies with State statute.
+
+**Examiner trap 31:** Articles 243J/243Z prevent a false claim of automatic universal local-body audit.
+
+### MCQ 32 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Article 280 does not abolish or replace SFCs.
+- **B:** The Union Commission recommends local-resource augmentation, not local auditor appointments.
+- **C:** Municipal taxing power cannot be created directly by a Finance Commission recommendation.
 - **D:** Option D matches the governing proposition for finance commission link: This is the constitutional fiscal link.
 
 **Examiner trap 32:** Article 279 certification and Article 280 recommendations belong to different institutions.
 
+### MCQ 33 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** Legislative authority and executive payment precede independent ex-post audit.
+- **B:** The Indian office is not a general ex-ante payment comptroller.
+- **C:** PAC examines audit and accounts, not ordinary prior payment approval.
+- **D:** The Governor has no such Union spending role.
+
+**Examiner trap 33:** Do not infer ex-ante veto power from the word comptroller.
+
+### MCQ 34 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** The Council has no general public-accounts audit mandate.
+- **B:** The statutory audit route includes all three public-fund categories.
+- **C:** PAC scrutiny is downstream of accounting and audit, not an audit gateway.
+- **D:** Absence of a vote does not remove the Section 13 transaction mandate.
+
+**Examiner trap 34:** Appropriation voting and audit jurisdiction have different boundaries.
+
+### MCQ 35 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** The elected executive retains primary policy choice.
+- **B:** Performance and propriety assessment can go beyond mere legality.
+- **C:** Implementation scrutiny can coexist with policy discretion.
+- **D:** Prosecution requires legally empowered authorities and process.
+
+**Examiner trap 35:** Audit of policy execution is not authority to choose policy.
+
+### MCQ 36 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Recipients remain legally distinct from the public fund itself.
+- **B:** Legal form by itself does not resolve the statutory gateway.
+- **C:** Grant recipients may fall under other specified audit provisions.
+- **D:** Substantial financing, specific-purpose grants or entrustment require checking the applicable legal conditions.
+
+**Examiner trap 36:** Public funding can ground specified audit reach but does not erase statutory thresholds.
+
+### MCQ 37 — answer and explanation
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A:** The State legislature receives the report through the Governor.
+- **B:** Article 151(1) governs Union reports.
+- **C:** Committees examine reports after the constitutional laying route.
+- **D:** Article 150 concerns the form of accounts, not laying reports.
+
+**Examiner trap 37:** Match the report’s government tier to the proper constitutional addressee.
+
+### MCQ 38 — answer and explanation
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A:** PAC is a legislative oversight committee, not prosecutor.
+- **B:** Audit and legislative scrutiny identify questions for legally competent follow-up.
+- **C:** Appropriation is the legislature’s function, not an audit sanction.
+- **D:** Invalidation of contract requires the applicable legal process.
+
+**Examiner trap 38:** Neither an audit finding nor PAC discussion alone executes a monetary remedy.
+
+### MCQ 39 — answer and explanation
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A:** Commission recommendations and government implementation determine the award.
+- **B:** Parliament legislates surcharges; auditors do not impose taxes.
+- **C:** Certification addresses the tax-base measurement, not the sharing rate.
+- **D:** Horizontal criteria are not CAG account-adjustment discretion.
+
+**Examiner trap 39:** Certifying the denominator is different from choosing the devolution rate.
+
+### MCQ 40 — answer and explanation
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A:** Executive preference cannot dispense with constitutional protection.
+- **B:** PAC cannot replace the special parliamentary removal process.
+- **C:** The tenure design does not grant discretionary renewal.
+- **D:** The high removal threshold insulates audit from an audited executive.
+
+**Examiner trap 40:** An appointment power does not imply pleasure-tenure dismissal.
 
 ## PYQS AND ANSWER PRACTICE
 

@@ -1,1053 +1,345 @@
----
-title: "World Population and Demographic Transition — Solved Practice Workbook"
-topic_key: geography-26
----
 # World Population and Demographic Transition — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly explains Population geography baseline?
+Questions are original unless specifically marked as PYQ below. Census values are dated; survey and projection estimates are not census counts.
 
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
+### Questions
 
-**Answer: A.**
-**Explanation:** Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services. The other options describe different processes, locations, scales or governance categories.
+**Q1. A district reports births and deaths but also receives migrants. Which accounting relationship establishes its population change between two censuses?**
 
-### Q2. Which option is the safest spatial interpretation of Population geography baseline?
+A. Births, deaths and net migration jointly
+B. Crude birth rate
+C. Crude death rate
+D. Total fertility rate
 
-A. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-B. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
+**Q2. Two districts have equal population but different areas. Which measure isolates settlement concentration by land area?**
 
-**Answer: B.**
-**Explanation:** Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services. The other options describe different processes, locations, scales or governance categories.
+A. Total fertility rate
+B. Arithmetic density
+C. Population momentum
+D. Infant mortality rate
 
-### Q3. Which statement preserves the process boundary for Population geography baseline?
+**Q3. Why can a census count not be replaced with a recent survey-based fertility estimate?**
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-D. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
+A. The census measures only fertility
+B. Fertility estimates enumerate all residents
+C. Census counts a dated stock; fertility estimates summarise births
+D. Both measure precisely the same quantity
 
-**Answer: C.**
-**Explanation:** Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services. The other options describe different processes, locations, scales or governance categories.
+**Q4. Which denominator defines crude birth rate?**
 
-### Q4. Which option avoids the main UPSC trap concerning Population geography baseline?
+A. Women aged 15–49
+B. Live births
+C. Deaths before age one
+D. Total midyear population
 
-A. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-B. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-C. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-D. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
+**Q5. A region reports fewer infant deaths per 1,000 live births. Which indicator directly captures the improvement?**
 
-**Answer: D.**
-**Explanation:** Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services. The other options describe different processes, locations, scales or governance categories.
+A. Infant mortality rate
+B. Sex ratio
+C. Dependency ratio
+D. Arithmetic density
 
-### Q5. Which statement correctly explains Census snapshot rule?
+**Q6. What distinguishes TFR from crude birth rate in a comparison of older and younger states?**
 
-A. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
+A. TFR is the number of births per 1,000 total residents
+B. TFR sums age-specific fertility across reproductive ages
+C. TFR counts deaths below age one
+D. TFR directly counts net migrants
 
-**Answer: A.**
-**Explanation:** A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together. The other options describe different processes, locations, scales or governance categories.
+**Q7. In the standard demographic transition, why does population accelerate in Stage 2?**
 
-### Q6. Which option is the safest spatial interpretation of Census snapshot rule?
+A. Birth rates suddenly rise above their historical level
+B. Immigration necessarily exceeds emigration
+C. Mortality falls while births remain high
+D. Fertility and mortality decline at equal speeds
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-D. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
+**Q8. A stage with falling fertility but already low mortality and decelerating natural increase is conventionally called:**
 
-**Answer: B.**
-**Explanation:** A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together. The other options describe different processes, locations, scales or governance categories.
+A. Stage 1
+B. Stage 2
+C. Stage 4
+D. Stage 3
 
-### Q7. Which statement preserves the process boundary for Census snapshot rule?
+**Q9. What most directly distinguishes a constrictive from an expansive population pyramid?**
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-C. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+A. A narrower base relative to older cohorts
+B. A narrower apex than its base
+C. An absence of sex differences at every age
+D. A larger rural than urban population
 
-**Answer: C.**
-**Explanation:** A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together. The other options describe different processes, locations, scales or governance categories.
+**Q10. A broad pyramid base narrows after a decade. What must be checked before crediting fertility decline alone?**
 
-### Q8. Which option avoids the main UPSC trap concerning Census snapshot rule?
+A. Only total land area
+B. Age-specific births and migration/cohort survival
+C. Only the ratio of workers to retirees
+D. Only international trade
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-C. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-D. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
+**Q11. A falling child-dependency ratio guarantees what?**
 
-**Answer: D.**
-**Explanation:** A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together. The other options describe different processes, locations, scales or governance categories.
+A. Rising wages
+B. Full employment
+C. Neither: a dividend also requires productive employment and human capital
+D. Instant decline in total population
 
-### Q9. Which statement correctly explains Vital-rate toolkit?
+**Q12. Below-replacement fertility and rising total population coexist because:**
 
-A. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-D. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
+A. Crude birth rate equals crude death rate immediately
+B. Population density never changes
+C. Immigration is always the only explanation
+D. Numerous young adults enter reproductive ages: population momentum
 
-**Answer: A.**
-**Explanation:** Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators. The other options describe different processes, locations, scales or governance categories.
+**Q13. Which spatial contrast best supports a differentiated India demographic policy?**
 
-### Q10. Which option is the safest spatial interpretation of Vital-rate toolkit?
+A. Older low-fertility states require elder care while youthful states require schooling and jobs
+B. All states entered Stage 4 simultaneously
+C. National fertility means every district shares its value
+D. Youthful states already face only old-age dependency
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-C. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-D. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
+**Q14. Which ratio can male-selective labour migration alter in a destination without changing local sex ratio at birth?**
 
-**Answer: B.**
-**Explanation:** Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators. The other options describe different processes, locations, scales or governance categories.
+A. Infant mortality rate
+B. All-ages sex ratio
+C. Total fertility rate automatically
+D. Replacement fertility threshold
 
-### Q11. Which statement preserves the process boundary for Vital-rate toolkit?
+**Q15. How should Malthus and Boserup be compared for a water-stressed farming region?**
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+A. Both require population to fall before output can grow
+B. Boserup denies all environmental limits
+C. Malthus stresses scarcity constraints; Boserup predicts pressure-induced intensification
+D. Malthus makes migration irrelevant by definition
 
-**Answer: C.**
-**Explanation:** Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators. The other options describe different processes, locations, scales or governance categories.
+**Q16. Food is available in a region, yet poor households face hunger. Which correction is indispensable to a simple food-versus-population claim?**
 
-### Q12. Which option avoids the main UPSC trap concerning Vital-rate toolkit?
+A. Births must exceed deaths
+B. Replace fertility with density
+C. Every famine requires absolute food shortage
+D. Access and entitlements can fail despite aggregate supply
 
-A. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-B. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-C. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-D. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
+**Q17. Why is an optimum population not a fixed census target?**
 
-**Answer: D.**
-**Explanation:** Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators. The other options describe different processes, locations, scales or governance categories.
+A. Resources, technology, trade and institutions alter productive capacity
+B. It is numerically identical to carrying capacity
+C. It can be measured by the sex ratio alone
+D. It excludes living standards by definition
 
-### Q13. Which statement correctly explains Mortality-first transition logic?
+**Q18. A resource-rich frontier lacks labour to use available land sustainably. The relative population-resource concept is:**
 
-A. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-B. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-C. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+A. Over-population
+B. Under-population
+C. Stage 5 decline
+D. Population explosion
 
-**Answer: A.**
-**Explanation:** In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt. The other options describe different processes, locations, scales or governance categories.
+**Q19. What is the central limitation of applying the European DTM to all regions?**
 
-### Q14. Which option is the safest spatial interpretation of Mortality-first transition logic?
+A. It prohibits declining mortality
+B. It measures only city populations
+C. Transition timing and drivers vary, and migration is outside its basic vital-rate framework
+D. It assumes all populations already age
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-D. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
+**Q20. A falling working-age headcount combined with rising elderly share poses which combined challenge?**
 
-**Answer: B.**
-**Explanation:** In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt. The other options describe different processes, locations, scales or governance categories.
+A. Only primary-school expansion
+B. Only lower old-age spending
+C. Guaranteed population collapse immediately
+D. Pensions, health financing and labour supply together
 
-### Q15. Which statement preserves the process boundary for Mortality-first transition logic?
+**Q21. What is the most accurate status of the term “demographic winter”?**
 
-A. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-B. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-C. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-D. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
+A. A descriptive phrase for prolonged low fertility and ageing, not an official statistical indicator
+B. An official Census India age category
+C. A synonym for any low birth rate in a single year
+D. The inevitable result of every Stage 3 transition
 
-**Answer: C.**
-**Explanation:** In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt. The other options describe different processes, locations, scales or governance categories.
+**Q22. What makes 1921 a turning point in Khullar’s periodisation of Indian population?**
 
-### Q16. Which option avoids the main UPSC trap concerning Mortality-first transition logic?
+A. The first official post-Independence census
+B. The break between earlier stagnation and subsequent sustained growth
+C. The beginning of fertility below replacement nationally
+D. The first nationally completed digital census
 
-A. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-B. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-C. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-D. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
+**Q23. Which mechanism best characterises India’s 1951–1981 rapid-growth phase?**
 
-**Answer: D.**
-**Explanation:** In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt. The other options describe different processes, locations, scales or governance categories.
+A. Mortality rose with constant births
+B. Immigration alone created all growth
+C. Mortality declined substantially while fertility stayed relatively high
+D. Fertility reached below replacement throughout India
 
-### Q17. Which statement correctly explains Stage 1 and Stage 2 profile?
+**Q24. Which inference is justified by India’s 1981–2011 slowing growth?**
 
-A. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-B. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-C. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+A. Total population necessarily shrank
+B. Death rate returned to Stage 1 levels
+C. Every state became equally old
+D. Fertility decline narrowed the birth–death gap, but total population could still rise
 
-**Answer: A.**
-**Explanation:** Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly. The other options describe different processes, locations, scales or governance categories.
+**Q25. A candidate calls the UN mid-2024 India population estimate “Census 2024”. Which correction is best?**
 
-### Q18. Which option is the safest spatial interpretation of Stage 1 and Stage 2 profile?
+A. Census 2011 is the last completed count; UN WPP 2024 is a dated estimate/projection
+B. A 2024 UN estimate is a district-level Indian census
+C. SRS measures only urban population
+D. UN estimates are interchangeable with Census counts
 
-A. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-B. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-C. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+**Q26. Which pairing correctly identifies the source and period for a national TFR of 2.0?**
 
-**Answer: B.**
-**Explanation:** Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly. The other options describe different processes, locations, scales or governance categories.
+A. Census 2011 and Census 2027 results
+B. SRS Statistical Report 2022 and NFHS-5 (2019–21)
+C. UN WPP 2024 and Census 1921
+D. Census 2011 and a 2024 complete census
 
-### Q19. Which statement preserves the process boundary for Stage 1 and Stage 2 profile?
+**Q27. What follows from contrasting Kerala with more youthful EAG states around the 2011 period?**
 
-A. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-B. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-C. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-D. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
+A. Neither migration nor mortality affects composition
+B. All India has one uniform dependency profile
+C. National averages conceal uneven timing of state transitions
+D. Kerala’s ageing proves all EAG states already aged
 
-**Answer: C.**
-**Explanation:** Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly. The other options describe different processes, locations, scales or governance categories.
+**Q28. Which comparison of the 2011 Census indicators is methodologically sound?**
 
-### Q20. Which option avoids the main UPSC trap concerning Stage 1 and Stage 2 profile?
+A. Both sex ratio and literacy measure fertility directly
+B. The Census recorded a 2024 population of 1.45 billion
+C. Census 2011 TFR must equal SRS 2022 TFR
+D. Sex ratio 943 females per 1,000 males and literacy 74.04% are dated 2011 measures
 
-A. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-B. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-C. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-D. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
+**Q29. Where does a labour-demand bridge connect ageing and youthful Indian regions?**
 
-**Answer: D.**
-**Explanation:** Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly. The other options describe different processes, locations, scales or governance categories.
+A. Younger-source to older-destination migration can change both regions’ age and sex composition
+B. Migration makes fertility measures identical across all states
+C. Only international migration affects the all-ages sex ratio
+D. Older regions automatically stop needing labour
 
-### Q21. Which statement correctly explains Stage 3 to Stage 5 profile?
+**Q30. A youthful region’s working-age share rises, yet informality persists. Which inference is strongest?**
 
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-C. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+A. Its population is already declining
+B. The dividend is conditional on labour absorption and productivity
+C. Youth dependency must rise forever
+D. The demographic transition model has been disproved
 
-**Answer: A.**
-**Explanation:** Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing. The other options describe different processes, locations, scales or governance categories.
+**Q31. Why cannot life expectancy alone predict growth direction?**
 
-### Q22. Which option is the safest spatial interpretation of Stage 3 to Stage 5 profile?
+A. It directly measures lifetime births
+B. It measures census coverage only
+C. Longer survival can coincide with very low fertility and population decline
+D. It is identical to infant mortality rate
 
-A. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-B. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-C. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-D. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
+**Q32. For a 2024 GS-I question on worldwide demographic winter, which framing is defensible?**
 
-**Answer: B.**
-**Explanation:** Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing. The other options describe different processes, locations, scales or governance categories.
+A. All countries already show natural decrease
+B. Declining fertility proves identical policy needs everywhere
+C. Ageing can be read only from current national total population
+D. Identify low-fertility ageing regions but contrast still-youthful growing regions
 
-### Q23. Which statement preserves the process boundary for Stage 3 to Stage 5 profile?
+### Separate answer key and item-specific explanations
 
-A. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-B. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-C. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-D. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
+**Q1 — A.** Population change is births minus deaths plus net migration; neither vital rate alone is the intercensal growth rate. **Trap:** CBR and CDR are components, not intercensal growth; TFR is per woman, not a population change.
 
-**Answer: C.**
-**Explanation:** Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing. The other options describe different processes, locations, scales or governance categories.
+**Q2 — B.** Arithmetic density divides population by total area; equal totals need not imply equal concentrations. **Trap:** TFR, momentum and IMR describe reproduction, age structure and survival, not residents per unit of area.
 
-### Q24. Which option avoids the main UPSC trap concerning Stage 3 to Stage 5 profile?
+**Q3 — C.** A census is a dated stock count; a survey-based fertility indicator describes births per woman, not total inhabitants. **Trap:** Neither a fertility survey nor its sample replaces a dated enumeration of all residents.
 
-A. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-B. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-C. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-D. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
+**Q4 — D.** CBR uses live births per 1,000 population; TFR instead summarises age-specific fertility. **Trap:** Reproductive-age women are relevant to fertility rates, live births are the numerator and infant deaths belong to IMR.
 
-**Answer: D.**
-**Explanation:** Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing. The other options describe different processes, locations, scales or governance categories.
+**Q5 — A.** IMR counts deaths below age one per 1,000 live births; fertility and age composition are different measures. **Trap:** Sex balance, age dependency and density do not measure infant survival.
 
-### Q25. Which statement correctly explains Population pyramid types?
+**Q6 — B.** TFR sums age-specific fertility into a synthetic children-per-woman measure; crude birth rate is affected by age structure. **Trap:** CBR uses all residents as its denominator; IMR measures infant survival and migration counts mobility.
 
-A. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-B. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-C. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-D. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
+**Q7 — C.** Improved survival widens births minus deaths even without an increase in births. **Trap:** Mortality rather than a surge in births initiates Stage 2; net migration is outside natural increase.
 
-**Answer: A.**
-**Explanation:** Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively. The other options describe different processes, locations, scales or governance categories.
+**Q8 — D.** Stage 3 reflects fertility decline following earlier mortality decline, narrowing natural increase. **Trap:** Stage 1 has high mortality, Stage 2 retains high fertility and Stage 4 has already-low fertility.
 
-### Q26. Which option is the safest spatial interpretation of Population pyramid types?
+**Q9 — A.** A constrictive pyramid has relatively small younger cohorts, consistent with lower fertility and ageing. **Trap:** A narrow apex can also occur in an expansive shape; neither rural share nor sex balance defines this classification.
 
-A. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-B. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-C. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-D. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
+**Q10 — B.** Smaller child cohorts may reflect reduced births or migration and survival effects; inspect cohort and vital-rate evidence. **Trap:** Pyramid shape alone cannot distinguish fertility from selective migration or cohort survival.
 
-**Answer: B.**
-**Explanation:** Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively. The other options describe different processes, locations, scales or governance categories.
+**Q11 — C.** The age-share opportunity becomes a dividend only if health, schooling, skills and jobs convert it to productivity. **Trap:** A dependency ratio is an age-structure proxy; it does not count paid jobs or guarantee wages.
 
-### Q27. Which statement preserves the process boundary for Population pyramid types?
+**Q12 — D.** A youthful inherited age structure can sustain births and growth after fertility per woman declines. **Trap:** Below-replacement TFR is not immediately zero births or zero growth; immigration is not always necessary.
 
-A. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-B. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-C. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-D. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
+**Q13 — A.** Early-transition states and youthful states face different dependency, labour and service needs. **Trap:** State age profiles differ despite a common national fertility average; a policy for older states is not automatically one for younger states.
 
-**Answer: C.**
-**Explanation:** Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively. The other options describe different processes, locations, scales or governance categories.
+**Q14 — B.** Male-selective arrivals affect the all-ages ratio; birth ratios and child ratios require separate examination. **Trap:** An all-age balance may be migrant-skewed while local births remain unchanged.
 
-### Q28. Which option avoids the main UPSC trap concerning Population pyramid types?
+**Q15 — C.** They posit opposing causal directions; ecological costs and access to technology qualify both. **Trap:** Neither model eliminates ecological limits or unequal access to innovation.
 
-A. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-B. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-C. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-D. Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
+**Q16 — D.** Entitlement/distribution failures explain hunger that aggregate food availability cannot alone explain. **Trap:** Aggregate food supply does not guarantee households the means to obtain food.
 
-**Answer: D.**
-**Explanation:** Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively. The other options describe different processes, locations, scales or governance categories.
+**Q17 — A.** The people–resources–living-standard balance changes with technology and access, so there is no timeless ideal count. **Trap:** Carrying capacity, sex ratio and an ideal census total are not interchangeable definitions.
 
-### Q29. Which statement correctly explains Dependency and dividend condition?
+**Q18 — B.** Under-population is relative to the capacity to utilise resources; it is not simply low density. **Trap:** Low density by itself is insufficient; the criterion is relative underutilisation.
 
-A. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-B. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-C. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-D. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
+**Q19 — C.** DTM is descriptive, not a universal timetable; imported health technology and migration change trajectories. **Trap:** Transition speed and drivers are not identical everywhere; net migration modifies observed population totals.
 
-**Answer: A.**
-**Explanation:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. The other options describe different processes, locations, scales or governance categories.
+**Q20 — D.** Ageing changes both the tax/contributor base and demand for old-age support, though immigration and participation can offset effects. **Trap:** Ageing is neither instant collapse nor solely a school-place issue.
 
-### Q30. Which option is the safest spatial interpretation of Dependency and dividend condition?
+**Q21 — A.** Demographic winter is nontechnical shorthand; persistent below-replacement fertility, ageing and possible decline require separate evidence. **Trap:** One year of low births cannot establish sustained decline or define an official “winter” indicator.
 
-A. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-B. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-C. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
+**Q22 — B.** In the 1901–1921 stagnation period mortality offsets births; thereafter growth became more sustained. **Trap:** 1921 predates independence; it marks sustained growth, not a national below-replacement threshold.
 
-**Answer: B.**
-**Explanation:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. The other options describe different processes, locations, scales or governance categories.
+**Q23 — C.** The widening birth–death gap under declining mortality explains the rapid natural increase of that phase. **Trap:** Distinguish mortality-led natural increase from immigration and from a fertility increase.
 
-### Q31. Which statement preserves the process boundary for Dependency and dividend condition?
+**Q24 — D.** A slowing growth rate is not negative growth; falling fertility reduced the rate of increase. **Trap:** A lower positive growth rate still adds people; slowing is not population decline.
 
-A. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-B. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-C. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-D. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
+**Q25 — A.** The cited population series and dates have different evidentiary statuses; never relabel UN estimates as a completed Indian census. **Trap:** UN estimation is not a Census enumeration; the dates cannot be silently swapped.
 
-**Answer: C.**
-**Explanation:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. The other options describe different processes, locations, scales or governance categories.
+**Q26 — B.** Both dated sample-based sources report 2.0; neither constitutes a new nationwide census count. **Trap:** A national sample-derived TFR is not a census population headcount or uniform state result.
 
-### Q32. Which option avoids the main UPSC trap concerning Dependency and dividend condition?
+**Q27 — C.** States entered lower-fertility stages at different times; planning must examine state age structures. **Trap:** An all-India rate hides timing differences between southern states and EAG states.
 
-A. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-D. A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
+**Q28 — D.** Census 2011 final sex ratio and literacy belong to that count; later surveys and projections have their own dates. **Trap:** Sex ratio and literacy are dated composition measures; a 2024 UN estimate is not a 2011 Census indicator.
 
-**Answer: D.**
-**Explanation:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. The other options describe different processes, locations, scales or governance categories.
+**Q29 — A.** Interstate flows can complement older labour markets while changing ratios in both source and destination; outcomes depend on rights and jobs. **Trap:** Migration changes both source and destination compositions and needs labour-market and rights context.
 
-### Q33. Which statement correctly explains Over-under-optimum population?
+**Q30 — B.** Age structure offers potential; poor job quality prevents the full economic dividend. **Trap:** A youthful age pyramid is potential labour supply, not evidence of productive employment.
 
-A. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-B. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-C. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-D. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
+**Q31 — C.** High longevity and below-replacement fertility coexist in ageing regions; births and migration determine total growth too. **Trap:** Longevity measures survival; it cannot by itself determine births or net migration.
 
-**Answer: A.**
-**Explanation:** Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards. The other options describe different processes, locations, scales or governance categories.
-
-### Q34. Which option is the safest spatial interpretation of Over-under-optimum population?
-
-A. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-B. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-C. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-
-**Answer: B.**
-**Explanation:** Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards. The other options describe different processes, locations, scales or governance categories.
-
-### Q35. Which statement preserves the process boundary for Over-under-optimum population?
-
-A. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-
-**Answer: C.**
-**Explanation:** Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards. The other options describe different processes, locations, scales or governance categories.
-
-### Q36. Which option avoids the main UPSC trap concerning Over-under-optimum population?
-
-A. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-B. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-
-**Answer: D.**
-**Explanation:** Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards. The other options describe different processes, locations, scales or governance categories.
-
-### Q37. Which statement correctly explains Optimum population shifts?
-
-A. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-B. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-C. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-
-**Answer: A.**
-**Explanation:** Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base. The other options describe different processes, locations, scales or governance categories.
-
-### Q38. Which option is the safest spatial interpretation of Optimum population shifts?
-
-A. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-B. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-C. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-D. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-
-**Answer: B.**
-**Explanation:** Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base. The other options describe different processes, locations, scales or governance categories.
-
-### Q39. Which statement preserves the process boundary for Optimum population shifts?
-
-A. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-D. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-
-**Answer: C.**
-**Explanation:** Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base. The other options describe different processes, locations, scales or governance categories.
-
-### Q40. Which option avoids the main UPSC trap concerning Optimum population shifts?
-
-A. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-B. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-C. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-D. Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-
-**Answer: D.**
-**Explanation:** Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base. The other options describe different processes, locations, scales or governance categories.
-
-### Q41. Which statement correctly explains India 1901-1921 stagnation?
-
-A. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-
-**Answer: A.**
-**Explanation:** Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q42. Which option is the safest spatial interpretation of India 1901-1921 stagnation?
-
-A. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-B. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-
-**Answer: B.**
-**Explanation:** Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q43. Which statement preserves the process boundary for India 1901-1921 stagnation?
-
-A. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-B. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-C. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: C.**
-**Explanation:** Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q44. Which option avoids the main UPSC trap concerning India 1901-1921 stagnation?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-
-**Answer: D.**
-**Explanation:** Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q45. Which statement correctly explains India 1921 turning point?
-
-A. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-
-**Answer: A.**
-**Explanation:** The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point. The other options describe different processes, locations, scales or governance categories.
-
-### Q46. Which option is the safest spatial interpretation of India 1921 turning point?
-
-A. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-B. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-C. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: B.**
-**Explanation:** The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point. The other options describe different processes, locations, scales or governance categories.
-
-### Q47. Which statement preserves the process boundary for India 1921 turning point?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-C. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: C.**
-**Explanation:** The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point. The other options describe different processes, locations, scales or governance categories.
-
-### Q48. Which option avoids the main UPSC trap concerning India 1921 turning point?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-C. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-D. The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-
-**Answer: D.**
-**Explanation:** The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point. The other options describe different processes, locations, scales or governance categories.
-
-### Q49. Which statement correctly explains India 1951-1981 explosion?
-
-A. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-B. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-
-**Answer: A.**
-**Explanation:** The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase. The other options describe different processes, locations, scales or governance categories.
-
-### Q50. Which option is the safest spatial interpretation of India 1951-1981 explosion?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-C. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-D. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-
-**Answer: B.**
-**Explanation:** The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase. The other options describe different processes, locations, scales or governance categories.
-
-### Q51. Which statement preserves the process boundary for India 1951-1981 explosion?
-
-A. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-B. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-C. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-D. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-
-**Answer: C.**
-**Explanation:** The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase. The other options describe different processes, locations, scales or governance categories.
-
-### Q52. Which option avoids the main UPSC trap concerning India 1951-1981 explosion?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-C. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-D. The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-
-**Answer: D.**
-**Explanation:** The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase. The other options describe different processes, locations, scales or governance categories.
-
-### Q53. Which statement correctly explains India 1981-2011 slowdown?
-
-A. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-B. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: A.**
-**Explanation:** From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q54. Which option is the safest spatial interpretation of India 1981-2011 slowdown?
-
-A. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-B. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-C. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: B.**
-**Explanation:** From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q55. Which statement preserves the process boundary for India 1981-2011 slowdown?
-
-A. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-B. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-C. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-D. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-
-**Answer: C.**
-**Explanation:** From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q56. Which option avoids the main UPSC trap concerning India 1981-2011 slowdown?
-
-A. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-B. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-C. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-D. From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-
-**Answer: D.**
-**Explanation:** From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation. The other options describe different processes, locations, scales or governance categories.
-
-### Q57. Which statement correctly explains Census 2011 total?
-
-A. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-B. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-C. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-D. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-
-**Answer: A.**
-**Explanation:** Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q58. Which option is the safest spatial interpretation of Census 2011 total?
-
-A. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-B. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-C. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-D. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-
-**Answer: B.**
-**Explanation:** Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q59. Which statement preserves the process boundary for Census 2011 total?
-
-A. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-B. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-C. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-D. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-
-**Answer: C.**
-**Explanation:** Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q60. Which option avoids the main UPSC trap concerning Census 2011 total?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-C. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-D. Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-
-**Answer: D.**
-**Explanation:** Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q61. Which statement correctly explains Census 2011 social indicators?
-
-A. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-B. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-C. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-D. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-
-**Answer: A.**
-**Explanation:** Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q62. Which option is the safest spatial interpretation of Census 2011 social indicators?
-
-A. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-B. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-C. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-D. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-
-**Answer: B.**
-**Explanation:** Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q63. Which statement preserves the process boundary for Census 2011 social indicators?
-
-A. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-B. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-C. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-D. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-
-**Answer: C.**
-**Explanation:** Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q64. Which option avoids the main UPSC trap concerning Census 2011 social indicators?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-C. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-D. Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-
-**Answer: D.**
-**Explanation:** Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q65. Which statement correctly explains SRS-NFHS fertility anchor?
-
-A. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-B. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-C. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-D. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-
-**Answer: A.**
-**Explanation:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. The other options describe different processes, locations, scales or governance categories.
-
-### Q66. Which option is the safest spatial interpretation of SRS-NFHS fertility anchor?
-
-A. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-B. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-C. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-D. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-
-**Answer: B.**
-**Explanation:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. The other options describe different processes, locations, scales or governance categories.
-
-### Q67. Which statement preserves the process boundary for SRS-NFHS fertility anchor?
-
-A. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-B. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-C. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-D. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-
-**Answer: C.**
-**Explanation:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. The other options describe different processes, locations, scales or governance categories.
-
-### Q68. Which option avoids the main UPSC trap concerning SRS-NFHS fertility anchor?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-
-**Answer: D.**
-**Explanation:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. The other options describe different processes, locations, scales or governance categories.
-
-### Q69. Which statement correctly explains UN 2024 projection boundary?
-
-A. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-B. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-C. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-D. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-
-**Answer: A.**
-**Explanation:** UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q70. Which option is the safest spatial interpretation of UN 2024 projection boundary?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-C. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-D. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-
-**Answer: B.**
-**Explanation:** UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q71. Which statement preserves the process boundary for UN 2024 projection boundary?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-D. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-
-**Answer: C.**
-**Explanation:** UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q72. Which option avoids the main UPSC trap concerning UN 2024 projection boundary?
-
-A. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-B. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-C. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-D. UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-
-**Answer: D.**
-**Explanation:** UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count. The other options describe different processes, locations, scales or governance categories.
-
-### Q73. Which statement correctly explains Kerala-EAG contrast?
-
-A. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-D. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-
-**Answer: A.**
-**Explanation:** Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer. The other options describe different processes, locations, scales or governance categories.
-
-### Q74. Which option is the safest spatial interpretation of Kerala-EAG contrast?
-
-A. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-B. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-C. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-D. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-
-**Answer: B.**
-**Explanation:** Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer. The other options describe different processes, locations, scales or governance categories.
-
-### Q75. Which statement preserves the process boundary for Kerala-EAG contrast?
-
-A. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-D. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-
-**Answer: C.**
-**Explanation:** Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer. The other options describe different processes, locations, scales or governance categories.
-
-### Q76. Which option avoids the main UPSC trap concerning Kerala-EAG contrast?
-
-A. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-B. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-C. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-D. Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-
-**Answer: D.**
-**Explanation:** Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer. The other options describe different processes, locations, scales or governance categories.
-
-### Q77. Which statement correctly explains Ageing with momentum?
-
-A. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-B. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-C. Population distribution, growth and composition are core human-geography variables because they shape pressure on land, jobs, housing and services.
-D. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-
-**Answer: A.**
-**Explanation:** India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together. The other options describe different processes, locations, scales or governance categories.
-
-### Q78. Which option is the safest spatial interpretation of Ageing with momentum?
-
-A. A census gives a time-specific demographic snapshot, while growth between two dates reflects births, deaths and migration together.
-B. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-C. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-D. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-
-**Answer: B.**
-**Explanation:** India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together. The other options describe different processes, locations, scales or governance categories.
-
-### Q79. Which statement preserves the process boundary for Ageing with momentum?
-
-A. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-B. Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-C. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-D. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-
-**Answer: C.**
-**Explanation:** India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together. The other options describe different processes, locations, scales or governance categories.
-
-### Q80. Which option avoids the main UPSC trap concerning Ageing with momentum?
-
-A. Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-B. In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-C. Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-D. India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-
-**Answer: D.**
-**Explanation:** India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together. The other options describe different processes, locations, scales or governance categories.
-
-### Semantic-completeness coverage drills — Topic 26
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Why is AD 750 not a universal break? | multiple criteria → regional phases → continuity/change | one date for all India |
-| B | Does every grant prove feudalism? | recipient/right/formula → ground effect → alternative integration | grant equals feudalism |
-| C | What changed under samanta relations? | title history → tribute/service/local power → scale | fixed legal class |
-| D | Did trade and towns collapse? | coin/town/import evidence → regional contraction → new nodes/revival | universal decline |
-| E | How did temples and monasteries matter? | ritual + land + labour + redistribution + archive + local variation | merely religious |
-| F | Was Brahmanization passive assimilation? | grant/cult/status → localization → tribal/local agency → unequal reciprocity | one-way replacement |
-| G | Evaluate social change. | varna text → jati/occupation/exclusion → gender/property/labour → source limits | prescription equals practice |
-| H | Compare regions. | north + east + Deccan + south/frontier → different sequences | one pan-Indian model |
-
-**PYQ status drill:** all ten retained PYQs are adjacent-owned; none is routed
-directly to Topic 26.
+**Q32 — D.** Global fertility decline is uneven; East Asia/Europe ageing cannot be generalised to all of Africa or India’s states. **Trap:** Regional heterogeneity rules out a universal winter claim even if global fertility falls.
 
 ## PYQS AND ANSWER PRACTICE
 
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
+### Verified routed PYQs
 
-The audited routing ledgers consulted for this rebuild do not assign a direct solved PYQ to Geography Topic 26. Population questions are routed mainly through Indian Society, Economy and cross-owner demographic files, so this package keeps the demographic-geography framework transparent and does not fabricate a direct PYQ answer card.
+**2024 GS-I Q7 (10 marks, 150 words):** “What is the concept of a ‘demographic winter’? Is the world moving towards such a situation? Elaborate.” Verified against the local 2024–25 GS-I routing ledger and the published 2024 GS-I paper transcription; the Geography Basic owner carries this cross-owned demographic mechanism.
 
-### CROSS-OWNER MATERIAL BOUNDARY
+**Model answer:** Demographic winter is a descriptive, not official statistical, label for sustained below-replacement fertility accompanied over time by ageing, fewer new workers and potentially declining population. Reduced births shrink successive cohorts; longer lives increase elderly dependency, while inherited young cohorts can delay actual decline. Japan and parts of East Asia and Europe illustrate the concern: smaller labour intakes and more pension and health expenditure can strain public finances and depopulate peripheral settlements. Responses include accessible childcare, employment security, female workforce participation, healthy ageing, selective migration and productivity gains; cash incentives alone are unlikely to reverse entrenched low fertility. Yet UN World Population Prospects 2024 describes a world of divergent transitions, not universal demographic winter: many sub-Saharan African populations remain youthful, and India has younger and older states simultaneously. Global fertility decline therefore warrants differentiated, region-specific policy rather than a claim that the whole world is already contracting.
 
-Legacy owner PYQ integration remains preserved inside the complete Basic or Advanced evidence banks, but it is not repeated here or presented as direct solved PYQ practice.
+**2024 Prelims GS-I Q41:** Routed TFR-definition objective question; examine the children-per-woman synthetic measure, not crude annual births or a census headcount. **2024 Prelims GS-I Q67:** Routed low-birth-rate/ageing country question; compare dated country evidence. The routing ledger alone does not reproduce the complete stems/options or official Set-A letters, so no official answer letter is claimed here.
+
+### Original Mains practice — complete model solutions
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain the demographic transition model and identify why the growth spurt appears in the middle stages. Answer in about 150 words.
 
-**Model thesis:** The demographic transition model is driven by mortality decline preceding fertility decline; the temporary gap between the two rates creates rapid population growth before stability returns.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators.
-- In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt.
-- Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly.
-- Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing.
-
-**Qualified conclusion:** The demographic transition model is driven by mortality decline preceding fertility decline; the temporary gap between the two rates creates rapid population growth before stability returns.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the demographic transition model and identify why the growth spurt appears in the…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The demographic transition model is driven by mortality decline preceding fertility decline; the temporary gap between the two rates creates rapid population growth before stability returns.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Growth rate, crude birth rate, crude death rate, total fertility rate, infant mortality rate, life expectancy and sex ratio are the standard population indicators. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** In demographic transition the death rate usually falls before the birth rate, so the gap between them produces the growth spurt. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Stage 1 has high birth and high death rates with fluctuating growth, while Stage 2 keeps birth rates high but mortality falls rapidly. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Stage 3 brings fertility decline, Stage 4 has low birth and death rates with stable growth, and Stage 5 in some advanced societies means below-replacement fertility and ageing. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The demographic transition model is driven by mortality decline preceding fertility decline; the temporary gap between the two rates creates rapid population growth before stability returns.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Explain the demographic transition model and identify why the growth spurt appears in the…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** The demographic transition model relates changing births and deaths to development, not to a fixed calendar. In Stage 1 both are high and growth fluctuates. In Stage 2 improved food supply, sanitation and medicine cut mortality while births remain high: the difference between births and deaths widens, so natural increase accelerates without any rise in birth rate. In Stage 3 urbanisation, female education and family limitation reduce fertility, narrowing that gap. Stage 4 has low rates of both; a proposed Stage 5 captures prolonged below-replacement fertility and ageing in some societies. India’s 1951–1981 rapid-growth phase illustrates mortality-first change, but Kerala’s earlier fertility decline and the younger age structure of several EAG states show national stages hide regional diversity. Migration alters actual population growth beyond natural increase. Thus the model is a useful descriptive mechanism, not a universal timetable or a complete forecast.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Show how population pyramids and dependency ratio together help in reading a population structure. Answer in about 150 words.
 
-**Model thesis:** Population pyramids reveal age-sex structure at a glance, while dependency ratio shows whether a youthful or ageing structure is likely to create burden or dividend conditions.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.
-- A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-
-**Qualified conclusion:** Population pyramids reveal age-sex structure at a glance, while dependency ratio shows whether a youthful or ageing structure is likely to create burden or dividend conditions.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Show how population pyramids and dependency ratio together help in reading a population…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Population pyramids reveal age-sex structure at a glance, while dependency ratio shows whether a youthful or ageing structure is likely to create burden or dividend conditions.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Population pyramids reveal age-sex structure at a glance, while dependency ratio shows whether a youthful or ageing structure is likely to create burden or dividend conditions.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Show how population pyramids and dependency ratio together help in reading a population…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** A population pyramid plots numbers or shares by age and sex, whereas dependency compares children and older people with the working-age group. An expansive base signals many young dependants and future entrants into work; a constrictive base with broader older cohorts signals ageing and old-age support demands. A broad working-age middle can lower aggregate dependency, but only employment, health and skills create an economic dividend. Compare a younger EAG-state pyramid with the relatively older profile of Kerala: the former needs schooling and new jobs, the latter also needs elder care and productive participation at older ages. Female-selective or male-selective migration can reshape local pyramids and all-ages sex ratios, so a single snapshot does not prove fertility alone caused the shape. The dependency ratio counts age categories, not actual workers or caregivers; interpret it alongside labour participation and dated vital-rate evidence.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Discuss the idea of optimum population with suitable qualifications. Answer in about 250 words.
 
-**Model thesis:** Optimum population is a relational concept balancing people, resources, technology and living standards; it shifts when productive capacity, trade links and institutions change.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards.
-- Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base.
-
-**Qualified conclusion:** Optimum population is a relational concept balancing people, resources, technology and living standards; it shifts when productive capacity, trade links and institutions change.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the idea of optimum population with suitable qualifications. Answer in about 250…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Optimum population is a relational concept balancing people, resources, technology and living standards; it shifts when productive capacity, trade links and institutions change.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Under-population, over-population and optimum population describe the relationship among people, resources, technology and living standards. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Optimum population is not a permanent number because technology, trade and institutions can change the carrying capacity of the same resource base. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Optimum population is a relational concept balancing people, resources, technology and living standards; it shifts when productive capacity, trade links and institutions change.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Discuss the idea of optimum population with suitable qualifications. Answer in about 250…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Optimum population is the population size that, under specified resources, technology and institutions, permits a relatively high standard of living; it is an analytical benchmark, not a moral judgement or permanent headcount. Where labour is too scarce to use land and infrastructure effectively, under-population can constrain output; where pressure exceeds usable resources and employment opportunities, congestion and resource stress may follow. Malthus stresses the potential for population to outrun subsistence; Boserup replies that pressure can induce irrigation, shorter fallows and innovation. Neither is universally sufficient: technology may raise yields while degrading groundwater, and households may be hungry even when food is available if purchasing power and entitlements fail. For India, the issue is not national density alone: irrigated productive plains, dryland farming, mountain ecosystems and metropolitan housing markets have different capacities and constraints. Migration, trade and infrastructure can shift the local balance, while unequal access means gains in average income may conceal deprivation. A sound policy therefore invests in human capital and sustainable productivity, secures access to resources and manages local ecological limits instead of announcing a single ideal national population. Optimum is conditional on whose welfare, which place and which time are being measured.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Trace India's long demographic transition from 1901 to 2011. Answer in about 250 words.
+**Question:** Trace India’s long demographic transition from 1901 to 2011. Answer in about 250 words.
 
-**Model thesis:** India's demographic story moves from stagnation to steady growth, to population explosion, and then to slowdown, showing mortality decline first and fertility decline later.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.
-- The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.
-- The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase.
-- From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation.
-
-**Qualified conclusion:** India's demographic story moves from stagnation to steady growth, to population explosion, and then to slowdown, showing mortality decline first and fertility decline later.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace India's long demographic transition from 1901 to 2011. Answer in about 250 words.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India's demographic story moves from stagnation to steady growth, to population explosion, and then to slowdown, showing mortality decline first and fertility decline later.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** The period 1951-1981 saw sharp mortality decline while fertility remained high, producing the population-explosion phase. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** From 1981 to 2011 fertility decline deepened and growth slowed, showing a later transition phase rather than stagnation. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** India's demographic story moves from stagnation to steady growth, to population explosion, and then to slowdown, showing mortality decline first and fertility decline later.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Trace India's long demographic transition from 1901 to 2011. Answer in about 250 words.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Khullar’s broad periodisation begins with 1901–1921 stagnation: high births were offset by high mortality, including disease and famine shocks. The post-1921 turning point begins 1921–1951 sustained or steady growth as mortality fell while fertility remained high. In 1951–1981 mortality declined more sharply with better health and food security; births stayed relatively high, widening natural increase and producing the rapid-growth phase. From 1981 to 2011 falling fertility narrowed the gap and slowed the rate of growth, although total population still increased. The classical mortality-first transition explains the sequence but cannot be mapped rigidly onto every state. Kerala moved earlier towards low fertility and ageing than several populous EAG states with more youthful structures; differences in schooling, health, gender relations and employment matter. Census 2011 is a dated stock count, not a measure of the subsequent phase. SRS 2022 and NFHS-5 (2019–21) report national TFR 2.0, but they are sample-based and do not transform the 1981–2011 historical phase into an all-India 2022 census. India’s story is both a long fall in mortality and fertility and an uneven regional transition; momentum can sustain growth after fertility falls.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Is India in a demographic-dividend phase or a demographic-divergence phase? Analyse. Answer in about 300 words.
 
-**Model thesis:** India has a dividend window at the national scale, but regional divergence, population momentum and unequal labour absorption mean the same age structure can produce both opportunity and burden.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity.
-- SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-- Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.
-- India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together.
-
-**Qualified conclusion:** India has a dividend window at the national scale, but regional divergence, population momentum and unequal labour absorption mean the same age structure can produce both opportunity and burden.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Is India in a demographic-dividend phase or a demographic-divergence phase? Analyse. Answer…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India has a dividend window at the national scale, but regional divergence, population momentum and unequal labour absorption mean the same age structure can produce both opportunity and burden.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A large working-age share reduces dependency pressure, but a demographic dividend appears only when education, health, skills and jobs convert that structure into productivity. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** India simultaneously contains ageing pockets, replacement-level states and youth-bulge states, so population momentum and regional divergence continue together. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** India has a dividend window at the national scale, but regional divergence, population momentum and unequal labour absorption mean the same age structure can produce both opportunity and burden.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Is India in a demographic-dividend phase or a demographic-divergence phase? Analyse. Answer…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Both descriptions capture different scales. Falling fertility after earlier mortality decline increased the national working-age share, creating a potential demographic dividend: more producers relative to dependants can raise savings and output. Yet an age share does not measure employed, healthy or productive workers; weak schooling, care constraints for women, informality and insufficient non-farm jobs can turn the same youth cohort into underemployment. India also has demographic divergence. Kerala and some southern states entered low-fertility ageing earlier, while several EAG states remain relatively youthful; thus school and first-job needs in source states coexist with elder care and labour demand in destination states. Interstate migration can link these regions, but worker protections and housing matter as much as labour supply. SRS 2022 and NFHS-5 (2019–21) both report national TFR 2.0; the national average neither gives every state that value nor implies zero population growth, because large existing young cohorts sustain births. Census 2011 remains the dated enumeration baseline, so a recent UN estimate is not a census count. Policy should match places to needs: quality education and labour absorption in youthful states, healthy ageing and care in older ones, and portable services for migrants. The dividend is a conditional national opportunity embedded in multiple regional demographic trajectories, not an alternative to acknowledging divergence.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Why must population answers on India separate Census 2011 data from SRS, NFHS and UN updates? Answer in about 300 words.
 
-**Model thesis:** Data discipline is essential because Census, survey-based fertility estimates and UN projections answer different questions; mixing them casually turns demographic evidence into factual error.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count.
-- Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent.
-- SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence.
-- UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count.
-
-**Qualified conclusion:** Data discipline is essential because Census, survey-based fertility estimates and UN projections answer different questions; mixing them casually turns demographic evidence into factual error.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why must population answers on India separate Census 2011 data from SRS, NFHS and UN updates?…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Data discipline is essential because Census, survey-based fertility estimates and UN projections answer different questions; mixing them casually turns demographic evidence into factual error.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Census 2011 recorded India's population at 1.21 billion, and no later projection should be called a census count. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Census 2011 reported a sex ratio of 943 females per 1,000 males and a literacy rate of 74.04 percent. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** SRS 2022 and NFHS-5 both place India's total fertility rate at 2.0, showing replacement-level fertility nationally in dated survey evidence. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** UN World Population Prospects 2024 places India's mid-2024 population at about 1.45 billion, but this remains a projection rather than a census count. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Data discipline is essential because Census, survey-based fertility estimates and UN projections answer different questions; mixing them casually turns demographic evidence into factual error.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Why must population answers on India separate Census 2011 data from SRS, NFHS and UN updates?…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Demographic sources answer different questions. Census 2011 enumerated a dated population stock and its spatial composition: the final count was about 1.21 billion, with a reported all-ages sex ratio of 943 females per 1,000 males and literacy of 74.04%. These are 2011 values, not current results. The Office of the Registrar General’s Sample Registration System estimates births, deaths and fertility from a sample: its 2022 Statistical Report gives national TFR 2.0. NFHS-5 (2019–21), a separate household survey under the Ministry of Health and Family Welfare, also reports TFR 2.0; agreement does not make either a census. UN DESA’s World Population Prospects 2024 places India’s mid-2024 population near 1.45 billion as a modelled estimate/projection series, not a newly enumerated count. Calling it “Census 2024” invents a survey that does not exist. Further, a national TFR is an average obscuring state contrasts: older, lower-fertility states and youthful EAG states need different policies. Nor does replacement-level fertility mean immediate zero growth: the existing age structure creates momentum. Cite source, reference year, measured quantity and geography for each claim. This allows an answer to use older census spatial detail and newer fertility estimates together without hiding their different methods or falsely claiming that every district has been recounted.

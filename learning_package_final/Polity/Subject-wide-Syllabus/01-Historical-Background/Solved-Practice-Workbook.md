@@ -7,22 +7,356 @@ title: Historical Background - Solved Practice Workbook
 
 # Historical Background - Solved Practice Workbook
 
-This workbook contains exactly **32 original MCQs/drills** before the reproduced PYQ block. Correct answers rotate **ABCD** eight times. Reproduced PYQs are counted separately.
+This workbook contains **40 original MCQs/drills** before the reproduced PYQ block. Correct answers rotate **ABCD** ten times. Reproduced PYQs are counted separately.
 
 ## BASIC MCQS / REMEDIATION
 
 ### Rotation and method
 
-- Original objective count: **32**.
-- Correct-option sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
+- Original objective count: **40**.
+- Correct-option sequence: `ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD`.
 - Formats cover chronology, statements, comparison, institutional matching, operation and inference.
 
 ### Q1. Which development best explains why Parliament began regulating Company government?
 
-A. The 1765 Diwani gave the Company durable revenue and civil authority  
-B. The 1600 charter immediately created Crown rule  
-C. Plassey alone created a constitutional legislature  
-D. The 1858 Act preceded Company territorial expansion  
+A. The 1765 Diwani gave the Company durable revenue and civil authority
+B. The 1600 charter immediately created Crown rule
+C. Plassey alone created a constitutional legislature
+D. The 1858 Act preceded Company territorial expansion
+
+### Q2. The Regulating Act 1773 created the office of:
+
+A. Governor-General of India
+B. Governor-General of Bengal
+C. Viceroy of India
+D. Secretary of State for India
+
+### Q3. The principal function of the Settlement Act 1781 was to:
+
+A. introduce open civil-service competition
+B. create separate electorates
+C. clarify Supreme Court jurisdiction, exclude revenue matters and protect official acts
+D. abolish the Court of Directors
+
+### Q4. Under Pitt's India Act 1784, political supervision was assigned primarily to the:
+
+A. Court of Directors
+B. Council of India
+C. Federal Court
+D. Board of Control
+
+### Q5. Which pair is correctly distinguished?
+
+A. Bengal Dual Government: 1765-72; metropolitan double government: Board of Control plus Court of Directors
+B. Both terms describe provincial dyarchy under 1919
+C. Both began with the Charter Act 1833
+D. Double government means Governor plus elected ministers under 1935
+
+### Q6. A feature specifically associated with the Charter Act 1793 was:
+
+A. complete abolition of the China trade monopoly
+B. renewal of Company monopoly for twenty years and extension of council-override power
+C. creation of the Governor-General of India
+D. introduction of provincial autonomy
+
+### Q7. Consider the Charter Act 1813: 1. Tea and China monopoly remained. 2. An annual education sum was sanctioned. 3. Company government ended. Which are correct?
+
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+### Q8. Which statement about the 1813 education provision is most accurate?
+
+A. It mandated English as the sole medium
+B. It created universal primary schooling
+C. It transferred education to elected provincial ministers
+D. It funded learning but did not itself settle the English-versus-Oriental controversy
+
+### Q9. The Charter Act 1833 is correctly linked with:
+
+A. Governor-General of India and centralised all-India legislation
+B. first Viceroy and Secretary of State
+C. provincial dyarchy
+D. separate Muslim electorates
+
+### Q10. Which proposition best describes the Company after the Charter Act 1833?
+
+A. It was abolished immediately
+B. Its commercial functions ended, but its administrative rule continued
+C. It retained tea trade monopoly until 1858
+D. It became responsible to an elected Indian legislature
+
+### Q11. Which change belongs to 1853 rather than 1833?
+
+A. creation of Governor-General of India
+B. end of Company trade
+C. Separation of legislative and executive work in the Governor-General's council
+D. withdrawal of Presidency legislative powers
+
+### Q12. The four local members added under the Charter Act 1853 represented:
+
+A. four directly elected mass constituencies
+B. four princely-state chambers
+C. four communal electorates
+D. Madras, Bombay, Bengal and Agra through provincial-government channels
+
+### Q13. The Government of India Act 1858:
+
+A. abolished Company government and transferred power to the Crown
+B. introduced central dyarchy
+C. created the Federal Court
+D. introduced separate electorates
+
+### Q14. Which institutional pair was abolished in 1858?
+
+A. Governor-General and provincial governors
+B. Court of Directors and Board of Control
+C. Supreme Court and High Courts
+D. Legislative Assembly and Council of State
+
+### Q15. The 1861 Act associated Indians with legislation mainly through:
+
+A. universal adult election
+B. a separate Muslim electorate
+C. nomination as non-official members
+D. responsible provincial cabinets
+
+### Q16. Which combination belongs to the Indian Councils Act 1892?
+
+A. provincial autonomy and universal franchise
+B. central dyarchy and three lists
+C. Federal Court and Joint PSCs
+D. budget discussion, questions and recommendation-based selection with official majority retained
+
+### Q17. A separate electorate differs from reservation in a joint electorate because it:
+
+A. uses a community-specific electorate to choose the community's representative
+B. guarantees a seat while all voters share one electoral roll
+C. abolishes community-based representation
+D. makes the executive legislature-responsible
+
+### Q18. Under the 1909 reforms:
+
+A. the Centre became responsible to an elected lower house
+B. the Centre retained an official majority while provinces had non-official majorities of mixed composition
+C. provincial dyarchy began
+D. separate electorates were abolished
+
+### Q19. Under provincial dyarchy in 1919, which was generally a transferred subject?
+
+A. police
+B. finance
+C. education
+D. land revenue
+
+### Q20. Why was provincial dyarchy structurally weak?
+
+A. All subjects were transferred to elected ministers
+B. Governors lost override powers
+C. The franchise was universal
+D. Ministers bore responsibility without controlling key finance and coercive departments
+
+### Q21. Which combination was introduced at the Centre by the 1919 Act?
+
+A. bicameralism and direct elections under a limited franchise
+B. provincial autonomy and a functioning federation
+C. universal adult franchise and joint electorates only
+D. a Supreme Court and CAG
+
+### Q22. Which statement about the Simon Commission is correct?
+
+A. It was constituted by the Constituent Assembly
+B. All seven members were British and its review fed a longer process leading to 1935
+C. It directly enacted the Poona Pact
+D. It brought the 1935 federation into operation
+
+### Q23. The Poona Pact is best described as:
+
+A. separate electorates for depressed classes retained unchanged
+B. universal adult suffrage
+C. reserved seats for depressed classes within joint electorates
+D. abolition of all communal representation in 1932
+
+### Q24. Which 1935 feature did not commence?
+
+A. provincial autonomy
+B. Federal Court
+C. provincial elections
+D. All-India Federation and central dyarchy
+
+### Q25. Under the Government of India Act 1935, residuary authority was vested in the:
+
+A. Governor-General
+B. Federal Legislature
+C. Provincial Legislatures
+D. Federal Court
+
+### Q26. Which comparison is correct?
+
+A. 1909 introduced provincial dyarchy; 1919 abolished it
+B. 1919 introduced provincial dyarchy; 1935 abolished it and introduced provincial autonomy
+C. 1935 introduced provincial dyarchy and 1947 abolished it
+D. 1919 introduced central dyarchy and 1935 provincial dyarchy
+
+### Q27. Which institution began functioning in 1937 under the 1935 settlement?
+
+A. Supreme Court at Calcutta
+B. Central Public Service Commission
+C. Federal Court
+D. Board of Control
+
+### Q28. Which formulation is safest?
+
+A. The Government of India Act 1935 alone created the RBI statute
+B. The RBI was created by the 1919 Act
+C. The RBI began only after the Constitution
+D. The RBI was created by the RBI Act 1934 and began in 1935; the constitutional settlement belongs to the same institutional era
+
+### Q29. The lapse of British paramountcy in 1947 meant that princely states:
+
+A. required accession and integration through subsequent legal-political action
+B. automatically became Indian states
+C. automatically became Pakistani provinces
+D. remained permanently under the British Crown
+
+### Q30. What changed most decisively for the Constituent Assembly after the Independence Act?
+
+A. It was first created in August 1947
+B. It became a sovereign constitution-making and legislative body free to repeal British statutes
+C. It lost legislative power
+D. It became subordinate to the British Parliament
+
+### Q31. Which colonial feature was rejected rather than retained in 1950?
+
+A. three-list distribution
+B. public service commissions
+C. separate communal electorates
+D. the office of Governor
+
+### Q32. Choose the correct chronological-institutional sequence:
+
+A. GG India 1773 -> Viceroy 1833 -> dyarchy 1909 -> autonomy 1919
+B. Viceroy 1773 -> GG India 1858 -> autonomy 1909 -> dyarchy 1935
+C. GG Bengal 1784 -> Secretary of State 1813 -> Viceroy 1853 -> federation operating 1935
+D. GG Bengal 1773 -> GG India 1833 -> Viceroy 1858 -> provincial dyarchy 1919 -> provincial autonomy 1935
+
+### Q33. A historian finds a rule authorising the Governor-General to disregard his council and a later statute extending that arrangement to successors. Which pairing fits?
+
+A. Act of 1786 — Charter Act 1793
+B. Regulating Act 1773 — Settlement Act 1781
+C. Pitt's India Act 1784 — Charter Act 1813
+D. Charter Act 1833 — Charter Act 1853
+
+### Q34. An 1834 administrator argues that Madras may still make its own laws just as it did before 1833. What defeats the claim?
+
+A. The 1858 abolition of the Court of Directors
+B. The 1833 withdrawal of Bombay and Madras legislative power and centralisation in the Governor-General of India
+C. The 1861 introduction of separate Muslim electorates
+D. The 1919 separation of provincial budgets
+
+### Q35. Which institutional description correctly captures the 1861 ordinance power?
+
+A. An elected provincial ministry could indefinitely renew ordinances without legislation
+B. The Federal Court could promulgate ordinances for six months
+C. The Viceroy could issue ordinances with a six-month life
+D. The Secretary of State could legislate through the Council of State
+
+### Q36. Which reconstruction of 1892 and 1909 is defensible?
+
+A. 1892 gave universal adult suffrage; 1909 removed official majority at the Centre
+B. 1892 introduced provincial cabinets; 1909 gave them financial control
+C. 1892 inaugurated Muslim separate electorates; 1909 created budget discussion
+D. 1892 permitted budget discussion and recommendation-based selection; 1909 introduced separate Muslim electorates while retaining a central official majority
+
+### Q37. Which was provided by the 1919 settlement but began operating later?
+
+A. A central Public Service Commission, established in 1926
+B. A Federal Court, established in 1926
+C. A provincial dyarchy, established in 1937
+D. A Board of Control, established in 1926
+
+### Q38. An examinee says all 1935 institutions failed because the proposed federation never began. Which evidence most directly refutes this?
+
+A. The central dyarchy operated with defence as a transferred subject
+B. Provincial ministries and the Federal Court operated although the All-India Federation did not
+C. All princely states joined by the 1937 elections
+D. Residuary powers automatically passed to elected provincial cabinets
+
+### Q39. Under the 1947 transition, which combination is legally consistent?
+
+A. Paramountcy survived and the Viceroy became head of both dominions
+B. Princely states were automatically absorbed and the 1935 Act was repealed overnight
+C. Paramountcy lapsed; each dominion had a Governor-General; the adapted 1935 Act supplied interim government
+D. British Parliament retained a veto over all Dominion constitution-making
+
+### Q40. Select the accurate colonial-legacy classification.
+
+A. The 1950 Constitution retained communal separate electorates but discarded public service commissions
+B. It implemented the 1935 central dyarchy while abolishing legislative subject lists
+C. It kept imperial sovereignty but introduced adult franchise
+D. It retained an adapted list-distribution and commission architecture but rejected communal separate electorates and imperial sovereignty
+
+## PYQS AND ANSWER PRACTICE
+
+### Objective PYQ provenance and key discipline
+
+- Objective PYQs reproduced: **4**.
+- Direct owner: **2024 Prelims GS-I Q62**.
+- Cross-owned but indispensable here: **2018 Q38, 2019 Q4, 2023 Q50**.
+- Direct owned Mains PYQs in the audited 2018-2025 GS-I/GS-II ledgers: **0**.
+- An official-key letter appears only where a final official/local-official key is available; conceptual routes below are not claims of official keyed answers.
+
+### PYQ 1 - 2018 Prelims GS-I Q38 (cross-owned; relevant)
+
+**Question:** In the federation established by the Government of India Act of 1935, residuary powers were given to the:
+
+A. Federal Legislature
+B. Governor-General
+C. Provincial Legislature
+D. Provincial Governors
+
+### PYQ 2 - 2019 Prelims GS-I Q4 (cross-owned; relevant)
+
+**Question:** Consider the following statements about the Charter Act of 1813:
+
+1. It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.
+2. It asserted the sovereignty of the British Crown over the Indian territories held by the Company.
+3. The revenues of India were now controlled by the British Parliament.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+### PYQ 3 - 2023 Prelims GS-I Q50 (cross-owned; relevant)
+
+**Question:** By which one of the following Acts was the Governor-General of Bengal designated as the Governor-General of India?
+
+A. The Regulating Act
+B. The Pitt's India Act
+C. The Charter Act of 1793
+D. The Charter Act of 1833
+
+### PYQ 4 - 2024 Prelims GS-I Q62 (direct owner)
+
+**Question:** With reference to the Government of India Act, 1935, consider the following statements:
+
+1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States.
+2. Defence and Foreign Affairs were kept under the control of the federal legislature.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+## ANSWER KEY — ORIGINAL MCQS
+
+### Q1 — A
 
 **Answer: A.**
 
@@ -33,12 +367,7 @@ D. The 1858 Act preceded Company territorial expansion
 
 **Examiner trap:** Do not select the earliest British date; identify the event that converted influence into a revenue-backed territorial state.
 
-### Q2. The Regulating Act 1773 created the office of:
-
-A. Governor-General of India  
-B. Governor-General of Bengal  
-C. Viceroy of India  
-D. Secretary of State for India  
+### Q2 — B
 
 **Answer: B.**
 
@@ -49,12 +378,7 @@ D. Secretary of State for India
 
 **Examiner trap:** Keep the office-title sequence fixed: Governor-General of Bengal (1773), Governor-General of India (1833), Viceroy (1858).
 
-### Q3. The principal function of the Settlement Act 1781 was to:
-
-A. introduce open civil-service competition  
-B. create separate electorates  
-C. clarify Supreme Court jurisdiction, exclude revenue matters and protect official acts  
-D. abolish the Court of Directors  
+### Q3 — C
 
 **Answer: C.**
 
@@ -65,12 +389,7 @@ D. abolish the Court of Directors
 
 **Examiner trap:** The Settlement Act is a jurisdiction question, not a representation, recruitment or institutional-abolition question.
 
-### Q4. Under Pitt's India Act 1784, political supervision was assigned primarily to the:
-
-A. Court of Directors  
-B. Council of India  
-C. Federal Court  
-D. Board of Control  
+### Q4 — D
 
 **Answer: D.**
 
@@ -81,12 +400,7 @@ D. Board of Control
 
 **Examiner trap:** Separate Company management from British political supervision: Court of Directors versus Board of Control.
 
-### Q5. Which pair is correctly distinguished?
-
-A. Bengal Dual Government: 1765-72; metropolitan double government: Board of Control plus Court of Directors  
-B. Both terms describe provincial dyarchy under 1919  
-C. Both began with the Charter Act 1833  
-D. Double government means Governor plus elected ministers under 1935  
+### Q5 — A
 
 **Answer: A.**
 
@@ -97,12 +411,7 @@ D. Double government means Governor plus elected ministers under 1935
 
 **Examiner trap:** Distinguish Bengal's 1765-72 Dual Government from Pitt's metropolitan double government after 1784.
 
-### Q6. A feature specifically associated with the Charter Act 1793 was:
-
-A. complete abolition of the China trade monopoly  
-B. renewal of Company monopoly for twenty years and extension of council-override power  
-C. creation of the Governor-General of India  
-D. introduction of provincial autonomy  
+### Q6 — B
 
 **Answer: B.**
 
@@ -113,12 +422,7 @@ D. introduction of provincial autonomy
 
 **Examiner trap:** Abolition, renewal and partial opening of monopoly occurred in different Charter Acts—1793, 1813 and 1833.
 
-### Q7. Consider the Charter Act 1813: 1. Tea and China monopoly remained. 2. An annual education sum was sanctioned. 3. Company government ended. Which are correct?
-
-A. 1 only  
-B. 2 and 3 only  
-C. 1 and 2 only  
-D. 1, 2 and 3  
+### Q7 — C
 
 **Answer: C.**
 
@@ -129,12 +433,7 @@ D. 1, 2 and 3
 
 **Examiner trap:** In statement combinations, remember that 1813 changed trade and education but did not end Company government.
 
-### Q8. Which statement about the 1813 education provision is most accurate?
-
-A. It mandated English as the sole medium  
-B. It created universal primary schooling  
-C. It transferred education to elected provincial ministers  
-D. It funded learning but did not itself settle the English-versus-Oriental controversy  
+### Q8 — D
 
 **Answer: D.**
 
@@ -145,12 +444,7 @@ D. It funded learning but did not itself settle the English-versus-Oriental cont
 
 **Examiner trap:** Do not import the later Anglicist policy debate or twentieth-century provincial ministries into the 1813 grant.
 
-### Q9. The Charter Act 1833 is correctly linked with:
-
-A. Governor-General of India and centralised all-India legislation  
-B. first Viceroy and Secretary of State  
-C. provincial dyarchy  
-D. separate Muslim electorates  
+### Q9 — A
 
 **Answer: A.**
 
@@ -161,12 +455,7 @@ D. separate Muslim electorates
 
 **Examiner trap:** Attach each reform device to its own year: all-India centralisation 1833, Crown transfer 1858, electorates 1909, dyarchy 1919.
 
-### Q10. Which proposition best describes the Company after the Charter Act 1833?
-
-A. It was abolished immediately  
-B. Its commercial functions ended, but its administrative rule continued  
-C. It retained tea trade monopoly until 1858  
-D. It became responsible to an elected Indian legislature  
+### Q10 — B
 
 **Answer: B.**
 
@@ -177,12 +466,7 @@ D. It became responsible to an elected Indian legislature
 
 **Examiner trap:** Commercial extinction in 1833 and political extinction in 1858 are separate milestones.
 
-### Q11. Which change belongs to 1853 rather than 1833?
-
-A. creation of Governor-General of India  
-B. end of Company trade  
-C. Separation of legislative and executive work in the Governor-General's council  
-D. withdrawal of Presidency legislative powers  
+### Q11 — C
 
 **Answer: C.**
 
@@ -193,12 +477,7 @@ D. withdrawal of Presidency legislative powers
 
 **Examiner trap:** Use 1833 for centralisation and de-commercialisation; use 1853 for legislative specialisation and competition.
 
-### Q12. The four local members added under the Charter Act 1853 represented:
-
-A. four directly elected mass constituencies  
-B. four princely-state chambers  
-C. four communal electorates  
-D. Madras, Bombay, Bengal and Agra through provincial-government channels  
+### Q12 — D
 
 **Answer: D.**
 
@@ -209,12 +488,7 @@ D. Madras, Bombay, Bengal and Agra through provincial-government channels
 
 **Examiner trap:** “Local representation” in 1853 meant provincial-government channels, not popular, princely or communal constituencies.
 
-### Q13. The Government of India Act 1858:
-
-A. abolished Company government and transferred power to the Crown  
-B. introduced central dyarchy  
-C. created the Federal Court  
-D. introduced separate electorates  
+### Q13 — A
 
 **Answer: A.**
 
@@ -225,12 +499,7 @@ D. introduced separate electorates
 
 **Examiner trap:** The 1858 Act is about transfer of sovereignty and metropolitan control, not later electoral or judicial institutions.
 
-### Q14. Which institutional pair was abolished in 1858?
-
-A. Governor-General and provincial governors  
-B. Court of Directors and Board of Control  
-C. Supreme Court and High Courts  
-D. Legislative Assembly and Council of State  
+### Q14 — B
 
 **Answer: B.**
 
@@ -241,12 +510,7 @@ D. Legislative Assembly and Council of State
 
 **Examiner trap:** Identify what metropolitan double government contained before deciding which institutions the Crown transfer abolished.
 
-### Q15. The 1861 Act associated Indians with legislation mainly through:
-
-A. universal adult election  
-B. a separate Muslim electorate  
-C. nomination as non-official members  
-D. responsible provincial cabinets  
+### Q15 — C
 
 **Answer: C.**
 
@@ -257,12 +521,7 @@ D. responsible provincial cabinets
 
 **Examiner trap:** The textbook phrase “representative institutions” in 1861 must not be converted into elected or responsible government.
 
-### Q16. Which combination belongs to the Indian Councils Act 1892?
-
-A. provincial autonomy and universal franchise  
-B. central dyarchy and three lists  
-C. Federal Court and Joint PSCs  
-D. budget discussion, questions and recommendation-based selection with official majority retained  
+### Q16 — D
 
 **Answer: D.**
 
@@ -273,12 +532,7 @@ D. budget discussion, questions and recommendation-based selection with official
 
 **Examiner trap:** Budget discussion and questions indicate scrutiny; they do not amount to provincial autonomy or cabinet responsibility.
 
-### Q17. A separate electorate differs from reservation in a joint electorate because it:
-
-A. uses a community-specific electorate to choose the community's representative  
-B. guarantees a seat while all voters share one electoral roll  
-C. abolishes community-based representation  
-D. makes the executive legislature-responsible  
+### Q17 — A
 
 **Answer: A.**
 
@@ -289,12 +543,7 @@ D. makes the executive legislature-responsible
 
 **Examiner trap:** Ask who votes, not merely who receives a seat: the electoral roll separates a separate electorate from joint-electorate reservation.
 
-### Q18. Under the 1909 reforms:
-
-A. the Centre became responsible to an elected lower house  
-B. the Centre retained an official majority while provinces had non-official majorities of mixed composition  
-C. provincial dyarchy began  
-D. separate electorates were abolished  
+### Q18 — B
 
 **Answer: B.**
 
@@ -305,12 +554,7 @@ D. separate electorates were abolished
 
 **Examiner trap:** A non-official majority can include nominated interests and does not automatically make the executive legislature-responsible.
 
-### Q19. Under provincial dyarchy in 1919, which was generally a transferred subject?
-
-A. police  
-B. finance  
-C. education  
-D. land revenue  
+### Q19 — C
 
 **Answer: C.**
 
@@ -321,12 +565,7 @@ D. land revenue
 
 **Examiner trap:** Under 1919 dyarchy, social-development departments were generally transferred; finance and coercive departments remained reserved.
 
-### Q20. Why was provincial dyarchy structurally weak?
-
-A. All subjects were transferred to elected ministers  
-B. Governors lost override powers  
-C. The franchise was universal  
-D. Ministers bore responsibility without controlling key finance and coercive departments  
+### Q20 — D
 
 **Answer: D.**
 
@@ -337,12 +576,7 @@ D. Ministers bore responsibility without controlling key finance and coercive de
 
 **Examiner trap:** Test dyarchy through functions, finances and final authority; formal ministerial office alone did not create responsibility.
 
-### Q21. Which combination was introduced at the Centre by the 1919 Act?
-
-A. bicameralism and direct elections under a limited franchise  
-B. provincial autonomy and a functioning federation  
-C. universal adult franchise and joint electorates only  
-D. a Supreme Court and CAG  
+### Q21 — A
 
 **Answer: A.**
 
@@ -353,12 +587,7 @@ D. a Supreme Court and CAG
 
 **Examiner trap:** Central bicameralism and direct election arrived in 1919, but universal franchise and a responsible central cabinet did not.
 
-### Q22. Which statement about the Simon Commission is correct?
-
-A. It was constituted by the Constituent Assembly  
-B. All seven members were British and its review fed a longer process leading to 1935  
-C. It directly enacted the Poona Pact  
-D. It brought the 1935 federation into operation  
+### Q22 — B
 
 **Answer: B.**
 
@@ -369,12 +598,7 @@ D. It brought the 1935 federation into operation
 
 **Examiner trap:** The Simon Commission was one stage in a longer 1927-35 chain; do not credit it with the Poona Pact or commencement of federation.
 
-### Q23. The Poona Pact is best described as:
-
-A. separate electorates for depressed classes retained unchanged  
-B. universal adult suffrage  
-C. reserved seats for depressed classes within joint electorates  
-D. abolition of all communal representation in 1932  
+### Q23 — C
 
 **Answer: C.**
 
@@ -385,12 +609,7 @@ D. abolition of all communal representation in 1932
 
 **Examiner trap:** The Poona Pact changed the electorate mechanism for depressed classes, not the entire communal-representation system.
 
-### Q24. Which 1935 feature did not commence?
-
-A. provincial autonomy  
-B. Federal Court  
-C. provincial elections  
-D. All-India Federation and central dyarchy  
+### Q24 — D
 
 **Answer: D.**
 
@@ -401,12 +620,7 @@ D. All-India Federation and central dyarchy
 
 **Examiner trap:** For every 1935 option, ask separately whether the Act provided it and whether it actually commenced.
 
-### Q25. Under the Government of India Act 1935, residuary authority was vested in the:
-
-A. Governor-General  
-B. Federal Legislature  
-C. Provincial Legislatures  
-D. Federal Court  
+### Q25 — A
 
 **Answer: A.**
 
@@ -417,12 +631,7 @@ D. Federal Court
 
 **Examiner trap:** Residuary allocation is a legislative-power question; do not confuse the Governor-General's role with the Federal Court's adjudicatory role.
 
-### Q26. Which comparison is correct?
-
-A. 1909 introduced provincial dyarchy; 1919 abolished it  
-B. 1919 introduced provincial dyarchy; 1935 abolished it and introduced provincial autonomy  
-C. 1935 introduced provincial dyarchy and 1947 abolished it  
-D. 1919 introduced central dyarchy and 1935 provincial dyarchy  
+### Q26 — B
 
 **Answer: B.**
 
@@ -433,12 +642,7 @@ D. 1919 introduced central dyarchy and 1935 provincial dyarchy
 
 **Examiner trap:** Dyarchy changes location across the Acts: provinces in 1919; proposed Centre in 1935, where it never operated.
 
-### Q27. Which institution began functioning in 1937 under the 1935 settlement?
-
-A. Supreme Court at Calcutta  
-B. Central Public Service Commission  
-C. Federal Court  
-D. Board of Control  
+### Q27 — C
 
 **Answer: C.**
 
@@ -449,12 +653,7 @@ D. Board of Control
 
 **Examiner trap:** Institutional dates are staggered: Calcutta Court 1774, Central PSC 1926, Federal Court 1937.
 
-### Q28. Which formulation is safest?
-
-A. The Government of India Act 1935 alone created the RBI statute  
-B. The RBI was created by the 1919 Act  
-C. The RBI began only after the Constitution  
-D. The RBI was created by the RBI Act 1934 and began in 1935; the constitutional settlement belongs to the same institutional era  
+### Q28 — D
 
 **Answer: D.**
 
@@ -465,12 +664,7 @@ D. The RBI was created by the RBI Act 1934 and began in 1935; the constitutional
 
 **Examiner trap:** Differentiate the RBI's constituting statute from the wider constitutional settlement in which it began operating.
 
-### Q29. The lapse of British paramountcy in 1947 meant that princely states:
-
-A. required accession and integration through subsequent legal-political action  
-B. automatically became Indian states  
-C. automatically became Pakistani provinces  
-D. remained permanently under the British Crown  
+### Q29 — A
 
 **Answer: A.**
 
@@ -481,12 +675,7 @@ D. remained permanently under the British Crown
 
 **Examiner trap:** Lapse of paramountcy removed British suzerainty; it did not itself choose or complete accession.
 
-### Q30. What changed most decisively for the Constituent Assembly after the Independence Act?
-
-A. It was first created in August 1947  
-B. It became a sovereign constitution-making and legislative body free to repeal British statutes  
-C. It lost legislative power  
-D. It became subordinate to the British Parliament  
+### Q30 — B
 
 **Answer: B.**
 
@@ -497,12 +686,7 @@ D. It became subordinate to the British Parliament
 
 **Examiner trap:** Separate the Assembly's formation in 1946 from its sovereign legal status after 15 August 1947.
 
-### Q31. Which colonial feature was rejected rather than retained in 1950?
-
-A. three-list distribution  
-B. public service commissions  
-C. separate communal electorates  
-D. the office of Governor  
+### Q31 — C
 
 **Answer: C.**
 
@@ -513,12 +697,7 @@ D. the office of Governor
 
 **Examiner trap:** Classify colonial devices as retained, transformed or rejected; the three lists, PSCs and Governor were not discarded like separate electorates.
 
-### Q32. Choose the correct chronological-institutional sequence:
-
-A. GG India 1773 -> Viceroy 1833 -> dyarchy 1909 -> autonomy 1919  
-B. Viceroy 1773 -> GG India 1858 -> autonomy 1909 -> dyarchy 1935  
-C. GG Bengal 1784 -> Secretary of State 1813 -> Viceroy 1853 -> federation operating 1935  
-D. GG Bengal 1773 -> GG India 1833 -> Viceroy 1858 -> provincial dyarchy 1919 -> provincial autonomy 1935  
+### Q32 — D
 
 **Answer: D.**
 
@@ -529,80 +708,119 @@ D. GG Bengal 1773 -> GG India 1833 -> Viceroy 1858 -> provincial dyarchy 1919 ->
 
 **Examiner trap:** Chronology questions often mix a correct institution with the wrong year; verify every link in the sequence, not only its endpoints.
 
+### Q33 — A
 
-## PYQS AND ANSWER PRACTICE
+**Answer: A.**
 
-### Objective PYQ provenance and key discipline
+- **A — Correct.** The 1786 measure enabled Cornwallis to override his council; the 1793 charter extended the override power to future Governors-General and Governors.
+- **B — Incorrect.** The former established the Bengal executive; the latter settled the Supreme Court's jurisdiction, not this succession rule.
+- **C — Incorrect.** The 1784 Board of Control supervised politics; 1813 partly opened trade and funded learning.
+- **D — Incorrect.** The 1833 centralisation and 1853 legislative separation concern different mechanisms.
 
-- Objective PYQs reproduced: **4**.
-- Direct owner: **2024 Prelims GS-I Q62**.
-- Cross-owned but indispensable here: **2018 Q38, 2019 Q4, 2023 Q50**.
-- Direct owned Mains PYQs in the audited 2018-2025 GS-I/GS-II ledgers: **0**.
-- An answer letter appears only where a final official/local-official key is available.
+**Examiner trap:** Do not confuse the initial personal override arrangement with its later general extension.
 
-### PYQ 1 - 2018 Prelims GS-I Q38 (cross-owned; relevant)
+### Q34 — B
 
-**Question:** In the federation established by the Government of India Act of 1935, residuary powers were given to the:
+**Answer: B.**
 
-A. Federal Legislature  
-B. Governor-General  
-C. Provincial Legislature  
-D. Provincial Governors
+- **A — Incorrect.** This later metropolitan change cannot explain the loss of presidency legislative powers in 1833.
+- **B — Correct.** The 1833 charter made all-India legislation a central function; the 1861 measure later restored legislative powers to the presidencies.
+- **C — Incorrect.** The 1861 Act associated nominated Indians with legislation; separate Muslim electorates date to 1909.
+- **D — Incorrect.** Provincial-budget separation was much later and did not alter the 1833 rule.
+
+**Examiner trap:** Separate centralisation in 1833 from partial legislative decentralisation in 1861.
+
+### Q35 — C
+
+**Answer: C.**
+
+- **A — Incorrect.** The 1861 councils were not elected responsible ministries.
+- **B — Incorrect.** The Federal Court opened in 1937 and adjudicated rather than promulgated.
+- **C — Correct.** The 1861 Councils Act gave the Viceroy an emergency ordinance-making power with a limited duration.
+- **D — Incorrect.** The Council of State was the upper central chamber provided by the 1919 Act.
+
+**Examiner trap:** Legislative participation under 1861 did not displace executive ordinance authority.
+
+### Q36 — D
+
+**Answer: D.**
+
+- **A — Incorrect.** Both reform packages retained limited participation, and the Centre's official majority persisted in 1909.
+- **B — Incorrect.** Neither statute created responsible provincial cabinets.
+- **C — Incorrect.** The two developments are reversed.
+- **D — Correct.** Council scrutiny expanded before electorates were segmented; neither stage established executive responsibility.
+
+**Examiner trap:** An enlarged council and a communal electorate are not equivalent to responsible government.
+
+### Q37 — A
+
+**Answer: A.**
+
+- **A — Correct.** The 1919 Act provided for the commission; the Central Public Service Commission was established in 1926.
+- **B — Incorrect.** The 1935 Act provided for the Federal Court, which opened in 1937.
+- **C — Incorrect.** Provincial dyarchy belonged to the 1919 regime, replaced by provincial autonomy under 1935.
+- **D — Incorrect.** Pitt's India Act created the Board of Control in 1784.
+
+**Examiner trap:** Distinguish the year of statutory provision from the year of operational establishment.
+
+### Q38 — B
+
+**Answer: B.**
+
+- **A — Incorrect.** Central dyarchy never commenced; defence was a reserved matter in the proposal.
+- **B — Correct.** The provincial provisions operated following the 1937 elections and the Federal Court opened in 1937.
+- **C — Incorrect.** Failure of princely accession prevented federation's commencement.
+- **D — Incorrect.** The Act assigned residuary allocation to the Governor-General.
+
+**Examiner trap:** Non-commencement of the federal part does not entail non-commencement of provincial or judicial provisions.
+
+### Q39 — C
+
+**Answer: C.**
+
+- **A — Incorrect.** Paramountcy lapsed and the Viceroy's imperial office ended.
+- **B — Incorrect.** Accession required action; 1935 machinery was used provisionally, with adaptations.
+- **C — Correct.** Independence changed sovereignty while retaining an adapted administrative framework pending new constitutions.
+- **D — Incorrect.** Dominion constituent assemblies gained power to frame constitutions and repeal British legislation.
+
+**Examiner trap:** Political independence and interim administrative continuity were simultaneous, not contradictory.
+
+### Q40 — D
+
+**Answer: D.**
+
+- **A — Incorrect.** Communal separate electorates were rejected; Articles 315–323 provide commissions.
+- **B — Incorrect.** The proposed central dyarchy never operated and was not constitutionalised; the lists survived in adapted form.
+- **C — Incorrect.** Popular sovereignty replaced imperial authority.
+- **D — Correct.** Institutional ancestry did not entail retaining colonial sovereignty or its communal voting design.
+
+**Examiner trap:** Identify separately continuity of administrative forms and rupture in democratic legitimacy.
+
+## OBJECTIVE PYQ SOLUTIONS AND KEY STATUS
+
+### PYQ 1 — solution
 
 **Answer withheld pending official UPSC key.**
 
 **Concept analysis:** The enacted scheme vested residuary allocation in the Governor-General. The stem's word “established” must be read with caution because the Act provided the federation but the federal part never commenced.
 
-### PYQ 2 - 2019 Prelims GS-I Q4 (cross-owned; relevant)
-
-**Question:** Consider the following statements about the Charter Act of 1813:
-
-1. It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.  
-2. It asserted the sovereignty of the British Crown over the Indian territories held by the Company.  
-3. The revenues of India were now controlled by the British Parliament.
-
-Which of the statements given above are correct?
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+### PYQ 2 — solution
 
 **Answer withheld pending official UPSC key.**
 
 **Concept analysis:** Statements 1 and 2 match the statutory account; statement 3 overstates the change. Company administration and fiscal machinery continued.
 
-### PYQ 3 - 2023 Prelims GS-I Q50 (cross-owned; relevant)
-
-**Question:** By which one of the following Acts was the Governor-General of Bengal designated as the Governor-General of India?
-
-A. The Regulating Act  
-B. The Pitt's India Act  
-C. The Charter Act of 1793  
-D. The Charter Act of 1833
+### PYQ 3 — solution
 
 **Answer withheld pending official UPSC key.**
 
 **Concept analysis:** The Regulating Act created the Governor-General of Bengal; the all-India title belongs to the Charter Act 1833. The letter is withheld because no final official key is held locally.
 
-### PYQ 4 - 2024 Prelims GS-I Q62 (direct owner)
-
-**Question:** With reference to the Government of India Act, 1935, consider the following statements:
-
-1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States.  
-2. Defence and Foreign Affairs were kept under the control of the federal legislature.
-
-Which of the statements given above is/are correct?
-
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
-D. Neither 1 nor 2
+### PYQ 4 — solution
 
 **Answer: A.**
 
 **Official-key status:** The locally held final official UPSC Set-A key records A. Statement 1 is correct as a provision even though the federation never commenced. Statement 2 is false because defence and external affairs were reserved under the Governor-General.
-
 
 ### Direct Mains PYQ audit
 
@@ -625,7 +843,7 @@ The East India Company's transformation was a staged construction of public cont
 
 These reforms made Company administration increasingly state-like, centralised and answerable to British authorities. Yet the arrangement remained indirect and divided. The Revolt of 1857 exposed its political limits, leading the 1858 Act to abolish the Company and transfer government to the Crown through the Secretary of State and Viceroy.
 
-Thus regulation first converted the Company from trader-ruler into an administrative agency; Crown transfer completed, rather than began, that transformation.
+The change was not an unbroken expansion of Indian representation: the new legislative machinery remained dependent on London, and competition did not make senior administration democratically accountable. Thus regulation first converted the Company from trader-ruler into an administrative agency; Crown transfer completed, rather than began, that transformation.
 
 #### Why this answer is examiner-ready
 
@@ -651,7 +869,7 @@ The movement from association to responsibility was gradual and tightly controll
 
 The 1919 Act made the first limited executive experiment through provincial dyarchy: ministers were responsible for transferred subjects, while finance, police and other reserved fields remained with the Governor and Executive Council. This mismatch weakened responsibility. The 1935 Act abolished provincial dyarchy and introduced provincial autonomy with ministries responsible to elected legislatures, although governors retained safeguards.
 
-The trajectory was nomination, scrutiny, segmented election, divided responsibility and guarded autonomy. Full responsible government based on universal adult suffrage arrived only under the Constitution.
+At the Centre, the elected legislature still did not command a responsible cabinet. Provincial electorates, too, remained restricted: greater representation must not be equated with popular sovereignty. The trajectory was nomination, scrutiny, segmented election, divided responsibility and guarded autonomy. Full responsible government based on universal adult suffrage arrived only under the Constitution.
 
 #### Why this answer is examiner-ready
 
@@ -679,7 +897,9 @@ This created three defects. Ministers could formulate social policy but lacked f
 
 Dyarchy was not institutionally empty: it gave Indian leaders administrative experience and enlarged debate. Yet those gains exposed its central contradiction - public accountability without unified power. The Simon Commission recommended ending provincial dyarchy, and the 1935 Act replaced it with provincial autonomy, though safeguards survived.
 
-Therefore, dyarchy failed not because Indians were incapable of administration, but because the design withheld the finances, functionaries and final authority required for responsible government.
+For example, an education minister's promises of more schools depended on budget allocations controlled through reserved finance; a public-health initiative could require police enforcement outside ministerial direction. Legislative criticism could therefore fall on ministers unable to change the controlling decision. Calling all administration “Indianised” also obscures the fact that reserved departments had no analogous confidence obligation. The division was a constitutional design defect, not simply an inconvenience of interdepartmental coordination. The 1935 Act's provincial autonomy addressed the divided portfolio principle, but a governor's discretionary powers and special responsibilities still qualified ministerial authority.
+
+Therefore, dyarchy failed not because Indians were incapable of administration, but because the design withheld the finances, functionaries and final authority required for responsible government. Its limited educational value for future ministers does not rescue the claim that a responsible provincial executive already existed.
 
 #### Why this answer is examiner-ready
 
@@ -707,7 +927,9 @@ Entry of princely states depended on accession conditions that were never fulfil
 
 Even the proposed federation was not democratically balanced. The Governor-General retained discretion and special responsibilities; representation was unequal and franchise restricted. These safeguards reveal a federation designed to preserve imperial command.
 
-The Act nevertheless mattered greatly. Its lists, Governors, service commissions, Federal Court and administrative detail influenced the Constitution. The precise verdict is therefore: a federal blueprint and operating provincial autonomy, but no functioning All-India Federation.
+An additional distinction matters: opening a Federal Court does not prove a federal legislature or cabinet began functioning. Similarly, the three legislative lists described the proposed allocation of competence; they cannot alone establish effective shared sovereignty. Accession by princely states was conditional, not an automatic effect of enacting the statute. At the provincial level, the 1937 ministries exercised greater responsibility than under 1919, although the governors' reserved powers and the limited electorate kept that arrangement short of the post-1950 democratic settlement.
+
+The Act nevertheless mattered greatly. Its lists, Governors, service commissions, Federal Court and administrative detail influenced the Constitution. The precise verdict is therefore: a federal blueprint and operating provincial autonomy, but no functioning All-India Federation. Constitution-makers borrowed an administrative vocabulary while replacing imperial safeguards with constitutional responsibility.
 
 #### Why this answer is examiner-ready
 
@@ -735,7 +957,7 @@ The continuity is substantial. The Acts of 1773 and 1833 built central authority
 
 The rupture is equally decisive. Colonial institutions rested on imperial sovereignty, official majorities, restricted franchise, communal electorates, executive vetoes and safeguards. The Constitution replaced them with popular sovereignty, a republic, universal adult suffrage, joint electoral citizenship, Fundamental Rights, constitutional remedies, judicial review and a responsible parliamentary executive.
 
-Thus 1950 was a culmination in institutional form and a repudiation in political legitimacy: inherited state capacity was constitutionalised and democratised.
+The contrast is clearest in the 1935 Act: its three-list design and provincial offices could be repurposed, but its uncommenced federation and reserved imperial control could not simply be copied. Thus 1950 was a culmination in institutional form and a repudiation in political legitimacy: inherited state capacity was constitutionalised and democratised.
 
 #### Why this answer is examiner-ready
 
@@ -765,7 +987,7 @@ In public services, Company patronage gave way to an unrealised opening principl
 
 Financial accountability widened through budget discussion in 1892 and separate provincial budgets in 1919. The RBI derived from the RBI Act 1934 and began in 1935; the 1935 constitutional settlement also provided an Auditor-General for federal and provincial accounts.
 
-The legacy is institutional continuity without normative identity. Courts, services, finance and audit were retained because modern government required them; independence replaced imperial command with legislative accountability, constitutional review and public sovereignty.
+This lineage should not imply that colonial budget discussion conferred control over the executive: the constitutional order placed public expenditure within elected legislative scrutiny and supplied the Comptroller and Auditor-General under Articles 148–151. The legacy is institutional continuity without normative identity. Courts, services, finance and audit were retained because modern government required them; independence replaced imperial command with legislative accountability, constitutional review and public sovereignty.
 
 #### Why this answer is examiner-ready
 
@@ -773,4 +995,3 @@ The legacy is institutional continuity without normative identity. Courts, servi
 
 
 The answer keeps institutional ancestry distinct from constitutional identity, uses the RBI Act 1934 and Auditor-General qualification accurately, and reaches an evaluative rather than celebratory conclusion.
-

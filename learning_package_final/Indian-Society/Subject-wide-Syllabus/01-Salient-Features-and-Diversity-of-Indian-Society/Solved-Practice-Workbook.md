@@ -1,1201 +1,286 @@
----
-title: "Salient Features and Diversity of Indian Society — Solved Practice Workbook"
-topic_key: indian-society-01
----
 # Salient Features and Diversity of Indian Society — Solved Practice Workbook
+
+Source boundary: `upsc-ai-kit/knowledge/Indian-Society/basic/01` and `advanced/01`; paired learning session; Census 2011, Gazette S.O. 2681(E), PIB caste-enumeration announcement and Ministry of Tribal Affairs PVTG listing as documented there. ✅ denotes a source-grounded fact; ⚠️ denotes an analytical application. Original questions below are not presented as PYQs. No official objective PYQ key is claimed.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Five diversity axes?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-C. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-D. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-
-**Answer: A.**
-**Explanation:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Five diversity axes?
-
-A. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-B. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-C. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-D. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-
-**Answer: B.**
-**Explanation:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Five diversity axes?
-
-A. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-B. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-C. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-D. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-
-**Answer: C.**
-**Explanation:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Five diversity axes?
-
-A. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-B. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-C. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: D.**
-**Explanation:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Diversity versus plurality?
-
-A. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-B. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-C. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-D. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-
-**Answer: A.**
-**Explanation:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q6. Which chronology card should be filed under Diversity versus plurality?
-
-A. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-B. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-C. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-D. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-
-**Answer: B.**
-**Explanation:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q7. Which option preserves the source-bounded meaning of Diversity versus plurality?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: C.**
-**Explanation:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q8. Which statement avoids a close-option trap about Diversity versus plurality?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-C. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-D. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-
-**Answer: D.**
-**Explanation:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q9. Which statement correctly identifies Disparity versus marginality?
-
-A. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-B. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-C. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-D. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-
-**Answer: A.**
-**Explanation:** Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q10. Which chronology card should be filed under Disparity versus marginality?
-
-A. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-B. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-C. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: B.**
-**Explanation:** Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Disparity versus marginality?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-C. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: C.**
-**Explanation:** Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Disparity versus marginality?
-
-A. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-B. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-C. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-D. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-
-**Answer: D.**
-**Explanation:** Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Four language families?
-
-A. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-B. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-C. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: A.**
-**Explanation:** Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Four language families?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-C. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-D. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-
-**Answer: B.**
-**Explanation:** Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Four language families?
-
-A. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-B. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-C. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-D. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-
-**Answer: C.**
-**Explanation:** Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Four language families?
-
-A. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-B. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-C. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-D. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-
-**Answer: D.**
-**Explanation:** Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Eighth Schedule listing?
-
-A. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-B. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-C. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-D. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-
-**Answer: A.**
-**Explanation:** The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Eighth Schedule listing?
-
-A. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-B. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-C. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-D. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-
-**Answer: B.**
-**Explanation:** The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Eighth Schedule listing?
-
-A. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-B. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-C. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-D. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-
-**Answer: C.**
-**Explanation:** The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Eighth Schedule listing?
-
-A. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-B. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-C. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-D. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-
-**Answer: D.**
-**Explanation:** The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Census 2011 mother-tongue rationalisation?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-C. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: A.**
-**Explanation:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Census 2011 mother-tongue rationalisation?
-
-A. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-B. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-C. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-D. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-
-**Answer: B.**
-**Explanation:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Census 2011 mother-tongue rationalisation?
-
-A. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-B. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-C. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-D. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-
-**Answer: C.**
-**Explanation:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Census 2011 mother-tongue rationalisation?
-
-A. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-B. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-
-**Answer: D.**
-**Explanation:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Census 2011 Scheduled stocks?
-
-A. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-B. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-C. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-D. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-
-**Answer: A.**
-**Explanation:** At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Census 2011 Scheduled stocks?
-
-A. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-B. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-C. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-D. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-
-**Answer: B.**
-**Explanation:** At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Census 2011 Scheduled stocks?
-
-A. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-B. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-C. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-D. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-
-**Answer: C.**
-**Explanation:** At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Census 2011 Scheduled stocks?
-
-A. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-B. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-D. At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-
-**Answer: D.**
-**Explanation:** At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies No biological race classification?
-
-A. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-B. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-
-**Answer: A.**
-**Explanation:** Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under No biological race classification?
-
-A. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-B. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-
-**Answer: B.**
-**Explanation:** Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of No biological race classification?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-B. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-C. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-D. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-
-**Answer: C.**
-**Explanation:** Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about No biological race classification?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-B. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-C. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-D. Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead.
-
-**Answer: D.**
-**Explanation:** Older physical-anthropology labels are not a sound description of contemporary Indian society, and official Census operations do not classify Indians into biological races; self-identification, language, culture and regional history are used instead. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Cross-cutting cleavage?
-
-A. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-B. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-C. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-D. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-
-**Answer: A.**
-**Explanation:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Cross-cutting cleavage?
-
-A. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-B. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: B.**
-**Explanation:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Cross-cutting cleavage?
-
-A. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-C. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-D. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-
-**Answer: C.**
-**Explanation:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Cross-cutting cleavage?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-D. Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-
-**Answer: D.**
-**Explanation:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Reinforcing cleavage?
-
-A. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-B. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: A.**
-**Explanation:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Reinforcing cleavage?
-
-A. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-B. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-C. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: B.**
-**Explanation:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Reinforcing cleavage?
-
-A. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-C. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-D. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-
-**Answer: C.**
-**Explanation:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Reinforcing cleavage?
-
-A. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-D. Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-
-**Answer: D.**
-**Explanation:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Syncretic integrative traditions?
-
-A. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-B. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-C. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: A.**
-**Explanation:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Syncretic integrative traditions?
-
-A. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-B. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-D. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-
-**Answer: B.**
-**Explanation:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Syncretic integrative traditions?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-D. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-
-**Answer: C.**
-**Explanation:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Syncretic integrative traditions?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-D. Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-
-**Answer: D.**
-**Explanation:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Everyday civic integration?
-
-A. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-D. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-
-**Answer: A.**
-**Explanation:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Everyday civic integration?
-
-A. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-B. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-C. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-D. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-
-**Answer: B.**
-**Explanation:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Everyday civic integration?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-D. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-
-**Answer: C.**
-**Explanation:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Everyday civic integration?
-
-A. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-B. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-C. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-D. Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-
-**Answer: D.**
-**Explanation:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Particularly Vulnerable Tribal Groups?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-B. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-C. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-D. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-
-**Answer: A.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Particularly Vulnerable Tribal Groups?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-C. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-D. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-
-**Answer: B.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Particularly Vulnerable Tribal Groups?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-D. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-
-**Answer: C.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Particularly Vulnerable Tribal Groups?
-
-A. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-B. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-C. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: D.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Diversity without marginality?
-
-A. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-B. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-C. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-D. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-
-**Answer: A.**
-**Explanation:** Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Diversity without marginality?
-
-A. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-B. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-C. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-D. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-
-**Answer: B.**
-**Explanation:** Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Diversity without marginality?
-
-A. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-B. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-C. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-D. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-
-**Answer: C.**
-**Explanation:** Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Diversity without marginality?
-
-A. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-B. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-C. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-D. Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-
-**Answer: D.**
-**Explanation:** Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Marginality without a cultural marker?
-
-A. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-B. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-C. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-D. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-
-**Answer: A.**
-**Explanation:** A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Marginality without a cultural marker?
-
-A. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-B. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-C. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-D. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-
-**Answer: B.**
-**Explanation:** A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Marginality without a cultural marker?
-
-A. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-B. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-C. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-D. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-
-**Answer: C.**
-**Explanation:** A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Marginality without a cultural marker?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-C. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-D. A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-
-**Answer: D.**
-**Explanation:** A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Accommodation as the continuity mechanism?
-
-A. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-B. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-C. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-D. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-
-**Answer: A.**
-**Explanation:** Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Accommodation as the continuity mechanism?
-
-A. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-B. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-C. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-D. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-
-**Answer: B.**
-**Explanation:** Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Accommodation as the continuity mechanism?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-C. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-D. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-
-**Answer: C.**
-**Explanation:** Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Accommodation as the continuity mechanism?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-C. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-D. Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-
-**Answer: D.**
-**Explanation:** Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Recognition versus redistribution?
-
-A. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-B. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-C. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-D. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-
-**Answer: A.**
-**Explanation:** Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Recognition versus redistribution?
-
-A. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-B. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-C. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: B.**
-**Explanation:** Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Recognition versus redistribution?
-
-A. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-B. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-C. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: C.**
-**Explanation:** Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Recognition versus redistribution?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-
-**Answer: D.**
-**Explanation:** Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Correlation is not causation?
-
-A. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-B. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-C. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-D. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-
-**Answer: A.**
-**Explanation:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Correlation is not causation?
-
-A. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-B. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: B.**
-**Explanation:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Correlation is not causation?
-
-A. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-B. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-C. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: C.**
-**Explanation:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Correlation is not causation?
-
-A. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-B. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-
-**Answer: D.**
-**Explanation:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Census 2027 measurement boundary?
-
-A. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-B. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-C. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-D. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-
-**Answer: A.**
-**Explanation:** Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Census 2027 measurement boundary?
-
-A. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-B. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-
-**Answer: B.**
-**Explanation:** Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Census 2027 measurement boundary?
-
-A. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-B. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-C. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-D. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-
-**Answer: C.**
-**Explanation:** Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Census 2027 measurement boundary?
-
-A. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-B. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-C. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-D. Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-
-**Answer: D.**
-**Explanation:** Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-B. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-C. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-D. Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-
-**Answer: A.**
-**Explanation:** Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-B. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-C. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-D. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-
-**Answer: B.**
-**Explanation:** Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-B. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-C. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-D. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-
-**Answer: C.**
-**Explanation:** Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-B. The Eighth Schedule of the Constitution currently lists 22 languages; the constitutional doctrine of that listing belongs to Polity and is cited here only as recognition evidence.
-C. Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-D. Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-
-**Answer: D.**
-**Explanation:** Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words. The remaining options belong to different chronology, actor or analytical categories.
+Attempt all questions before opening the separate key. Each question has exactly one best answer; alternatives are deliberately close rather than interchangeable.
+
+### Q1. A coastal ward contains several faiths and languages, but associations prohibit participation in one another's festivals. Which inference is safest?
+A. It displays diversity without necessarily achieving plurality.
+B. It displays plurality because population variety suffices.
+C. It displays disparity because identities are numerous.
+D. It displays marginality because festivals are separate.
+
+### Q2. Two districts have similar linguistic composition; one has much worse school access. Which comparison isolates the measured outcome?
+A. Linguistic plurality, not regional disparity.
+B. Regional disparity, not linguistic diversity itself.
+C. Biological difference, not infrastructural access.
+D. Religious syncretism, not educational exclusion.
+
+### Q3. A rural household from a locally dominant caste owns no land and cannot access affordable credit. Which proposition does it challenge?
+A. Economic exclusion can coexist with social dominance.
+B. Landlessness can be relevant without a minority label.
+C. Marginality always requires a distinct cultural marker.
+D. Class and caste position need not be identical.
+
+### Q4. A language planner equates the constitutional list with every Indian language. Which correction best fits Census 2011?
+A. Its raw mother-tongue returns are all Eighth Schedule entries.
+B. Its language-family groupings exhaust all named languages.
+C. Its 121 languages are the 22 listed languages renamed.
+D. Its 121 languages above the threshold exceed the 22 listed languages.
+
+### Q5. A survey classifies speakers of a Tibeto-Burman language as a single biological race. What is the methodological error?
+A. A linguistic family cannot determine biological ancestry.
+B. A language family identifies a constitutionally notified tribe.
+C. Census 2011 assigned every mother tongue a racial category.
+D. Only Indo-Aryan and Dravidian count as language families.
+
+### Q6. A polity question asks whether Austroasiatic and Tibeto-Burman are Eighth Schedule languages. Which distinction resolves it?
+A. Schedule entries are biological populations; families are dialects.
+B. Families group languages genealogically; the Schedule lists languages.
+C. Families designate religions; Schedule entries denote territories.
+D. Families denote marginal groups; the Schedule counts speakers.
+
+### Q7. A city counts 19,500-plus mother-tongue returns as 19,500-plus languages each spoken by at least 10,000 people. Identify the flaw.
+A. Those figures instead describe numbers of religions.
+B. Those returns describe a biological caste census.
+C. Raw returns were rationalised; 121 languages met that threshold.
+D. Every raw return was included among 22 scheduled languages.
+
+### Q8. Census 2011 is compared with a forecast for a future all-caste enumeration. What is the defensible statement?
+A. Both are observed all-caste stocks for the same reference date.
+B. Neither can describe Scheduled Tribe population in 2011.
+C. The forecast establishes present caste-wise deprivation rates.
+D. The 2011 SC/ST figures are stocks; a future count yields no results yet.
+
+### Q9. A table reports STs at about 8.6% and SCs at about 16.6%. Which source label is indispensable?
+A. Last completed full Census, 2011; not current all-caste shares.
+B. Census 2027 all-caste enumeration, already fully tabulated.
+C. An exhaustive national ranking of all jatis by income.
+D. A Ministry of Tribal Affairs list of PVTG households.
+
+### Q10. In a mixed industrial district, workers of the same religion span different classes and several language groups share occupations. Which tendency is illustrated?
+A. Reinforcing cleavages mechanically intensify each division.
+B. Cross-cutting axes can weaken alignment of group grievance.
+C. Syncretism has already removed economic stratification.
+D. Every cross-cutting axis guarantees the absence of conflict.
+
+### Q11. A forest settlement has poor roads, insecure land access and low school attendance, all borne disproportionately by a distinct group. What matters causally?
+A. Diversity alone directly lowers schooling everywhere.
+B. A shared festival is sufficient to eliminate poverty.
+C. Reinforcing constraints compound exclusion on the same households.
+D. Linguistic recognition automatically guarantees land access.
+
+### Q12. A policy only funds cultural celebrations in a remote block where travel costs prevent school attendance. Which diagnosis is best?
+A. Redistribution is sufficient; respect is irrelevant everywhere.
+B. Celebrations directly replace roads and school transport.
+C. Identity must be suppressed before access can improve.
+D. Recognition without access investment misses a material barrier.
+
+### Q13. A prosperous Gujarati-speaking business community settles outside its home state. What is this an analytical counter-case to?
+A. The assertion that cultural distinctiveness invariably entails deprivation.
+B. The proposition that migrants can remain linguistically distinct.
+C. The possibility that regional identities can cross state boundaries.
+D. The need to disaggregate within occupational communities.
+
+### Q14. A historian studies shared-shrine worship and Bhakti–Sufi idioms rather than the mere coexistence of two faiths. Which concept is most precise?
+A. Regional disparity measured by district incomes.
+B. Syncretic practice producing composite cultural expression.
+C. Assimilation requiring one faith to erase another.
+D. Constitutional enumeration of language families.
+
+### Q15. A new school brings children of several regions together, but admission excludes a stigmatised jati. What conclusion follows?
+A. Co-presence proves equal civic power for all groups.
+B. Admissions exclusion is simply harmless cultural variation.
+C. An integrative space can coexist with institutional exclusion.
+D. A mixed classroom necessarily erases inherited identities.
+
+### Q16. Linguistic statehood is invoked as evidence of accommodation. Which inference would overreach?
+A. State boundaries may channel assertions into governance.
+B. Recognition can be institutionally expressed through federalism.
+C. Linguistic accommodation differs from forced homogenisation.
+D. Linguistic reorganisation eliminated every minority grievance.
+
+### Q17. Which response best distinguishes integration from assimilation in a multilingual classroom?
+A. Shared participation with retained languages, rather than compelled erasure.
+B. Complete separation of students by mother tongue and neighbourhood.
+C. Mandatory replacement of home languages with one national tongue.
+D. Automatic equality of access simply because pupils are enrolled.
+
+### Q18. An analyst uses one thriving Sikh-owned business to infer that all Sikh households are prosperous. What correction is needed?
+A. Ban every group example from Mains answers.
+B. Test intragroup class and regional variation before generalising.
+C. Equate business ownership with the whole religious population.
+D. Use only religion, excluding gender and rural–urban position.
+
+### Q19. Which comparison respects the Ministry of Tribal Affairs' PVTG administrative boundary?
+A. The list ranks every tribe by innate biological capacity.
+B. All 75 groups have identical incomes in every state.
+C. Listing identifies policy groups, not a uniform social outcome.
+D. The listing is a result from an all-India 2027 caste census.
+
+### Q20. Why cannot a correlation between minority concentration and poor infrastructure establish identity as the causal mechanism?
+A. Identity and district location never overlap in India.
+B. Every minority concentration district is equally wealthy.
+C. A cultural marker itself always determines access to credit.
+D. Remoteness and past exclusion can jointly explain both variables.
+
+### Q21. Which design best separates a recognition deficit from a redistribution deficit?
+A. Compare respect/voice and school/land access within and across groups.
+B. Record only how often festivals are declared public holidays.
+C. Treat every identity-based demand as solely an income question.
+D. Treat a district-wide average as sufficient for each subgroup.
+
+### Q22. The Government's caste-enumeration decision for Census 2027 is cited in an answer. Which qualification is required?
+A. It was India's first historical enumeration of any caste.
+B. It is a prospective operation, not a source of caste-count results.
+C. It establishes a complete present-day ranking of all jatis.
+D. It replaces the 2011 completed Census with published data.
+
+### Q23. Gazette S.O. 2681(E) fixes two Census 2027 reference dates. Which pairing follows the source?
+A. March 2027 for Ladakh; October 2026 for all other areas.
+B. October 2027 for Ladakh; March 2026 for other areas.
+C. October 2026 for specified snow-bound areas; March 2027 elsewhere.
+D. March 2026 for specified snow-bound areas; October 2027 elsewhere.
+
+### Q24. A district's cultural variety remains stable while unemployment rises after loss of a local industry. Which test best assesses diversity's role?
+A. Infer from increased unemployment that all cultures changed.
+B. Suppress minority languages and observe if jobs return.
+C. Attribute the entire economic shock to religious composition.
+D. Compare exposure to the industrial shock across groups and locations.
+
+### Q25. A question asks whether shared regional festivals show uniform status for women and castes. Select the strongest reply.
+A. Composite participation is compatible with unequal access and roles.
+B. A common festival necessarily dissolves every social hierarchy.
+C. Celebrations prove that no social boundary survives within households.
+D. Regional commonality means gender and caste are the same axis.
+
+### Q26. When a national average hides a remote PVTG pocket, what additional evidence is most informative?
+A. Only a second national-level language-family estimate.
+B. Disaggregated access by locality, group, gender and asset position.
+C. A single metropolitan merchant household's consumption.
+D. The constitutional language list without district information.
+
+### Q27. Which inference links the 2019 culture-continuity question to the 2024 marginality question without conflating them?
+A. Cultural continuity proves that institutions cannot perpetuate hierarchy.
+B. Marginality proves every shared tradition was imposed uniformly.
+C. Institutions transmitting culture can also transmit unequal status.
+D. Census linguistic counts establish the causes of every deprivation.
+
+### Q28. A polity essay says the Eighth Schedule's 22 entries exhaust the scale of language use. Which rebuttal respects category boundaries?
+A. The Schedule counts raw mother-tongue submissions directly.
+B. Every language outside the Schedule has no living speakers.
+C. Constitutional listing and 2011 Census are equivalent counts.
+D. Recognition and observed linguistic variety measure different things.
+
+### Separate answer key and item-specific explanations
+
+| Q | Key | Why correct; why the other three fail |
+|---|---|---|
+| 1 | A | Diversity counts difference, whereas plurality requires mutual recognition; B equates counting with recognition, C invents outcome inequality, D assumes exclusion from separate ritual practice. |
+| 2 | B | School-access differences are disparities; A confuses identity composition with outcome, C invents race, D changes the observed variable. |
+| 3 | C | Class disadvantage need not be culturally distinct; A and B correctly allow that distinction, D also allows it, so none refutes the case. |
+| 4 | D | ✅ Census 2011's 121 thresholded languages and Schedule's 22 entries are distinct; A promotes returns into entries, B asserts exhaustive taxonomy, C equates unequal categories. |
+| 5 | A | Language descent is not biological race; B assumes automatic ST notification, C falsely racialises Census, D erases two major families. |
+| 6 | B | Genealogical classification differs from constitutional language listing; A, C and D substitute unrelated population, religion or poverty categories. |
+| 7 | C | ✅ Raw mother-tongue returns were rationalised into 121 languages above the threshold; A and B mislabel the measure, D confuses returns with Schedule entries. |
+| 8 | D | Observed 2011 SC/ST stock differs from prospective counting; A and C invent published future results, B denies an available 2011 count. |
+| 9 | A | ✅ These are 2011 full-Census population shares; B attributes them to an unfinished exercise, C invents jati rankings, D conflates population shares with a list. |
+| 10 | B | Cross-cutting identities reduce aligned grievance conditionally; A describes reinforcement, C claims stratification vanished, D makes a guarantee not supported by theory. |
+| 11 | C | Geography, assets and schooling reinforce on one group; A makes diversity causal, B substitutes ritual for resources, D mistakes recognition for land access. |
+| 12 | D | A transport barrier needs material investment alongside respect; A dismisses respect universally, B assumes ceremonies build access, C proposes coercive assimilation. |
+| 13 | A | Distinctiveness with prosperity disproves inevitability; B and C describe compatible possibilities, D is a necessary caution rather than a claim disproved. |
+| 14 | B | Shared devotional practice is syncretism; A measures outcomes, C requires erasure, D changes from practice to a constitutional category. |
+| 15 | C | Shared public spaces may reproduce gatekeeping; A equates presence with equality, B minimises exclusion, D assumes identity erasure. |
+| 16 | D | Accommodation cannot guarantee an end to grievance; A–C are bounded interpretations of linguistic reorganisation. |
+| 17 | A | Integration enables participation without abolishing difference; B segregates, C assimilates coercively, D confuses enrolment with equality. |
+| 18 | B | One successful case does not represent an entire population; A rejects useful bounded examples, C universalises one outcome, D omits intersecting factors. |
+| 19 | C | ✅ PVTG designation is administrative; A invents biological ranking, B invents uniform income, D imports an unpublished enumeration. |
+| 20 | D | Confounding by history and place prevents causal inference from correlation; A and B make unsupported absolute claims, C repeats the causal fallacy. |
+| 21 | A | Respect and voice versus resources and access are separately measurable; B covers symbols alone, C reduces recognition to income, D masks local variation. |
+| 22 | B | ✅ Announcement is prospective; A erases historical counts, C fabricates a ranking, D mistakes planned for completed data. |
+| 23 | C | ✅ Gazette: October 2026 for Ladakh/specified snow-bound areas, March 2027 elsewhere; A reverses them, B and D assign unsupported dates. |
+| 24 | D | Shock exposure can be compared without blaming stable cultural traits; A invents identity change, B assumes assimilation repairs jobs, C confuses composition with cause. |
+| 25 | A | Shared culture need not imply equal status; B and C deny continuing hierarchy, D conflates distinct social axes. |
+| 26 | B | Intersectional local data tests who bears a disadvantage; A and D offer no local access measure, C offers a nonrepresentative comparator. |
+| 27 | C | Family, local institutions and traditions sustain culture but may reproduce stratification; A and B assert unwarranted universals, D mistakes count for causation. |
+| 28 | D | Constitutional recognition and Census observation have different denominators; A conflates listing and returns, B invents language extinction, C equates unlike counts. |
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified descriptive PYQ — 2024 GS-I Q20 (15 marks; 250 words)
+**Demand:** Critically analyse the proposition that there is a high correlation between India's cultural diversities and socio-economic marginalities. Verified descriptive question in the local official-paper routing ledger; model below is independent, not an official answer.
 
-Two direct General Studies Paper-I demands are verified for this owner from the audited routing ledgers and confirmed word for word in the locally held official question papers: 2024 GS-I Q20 and 2019 GS-I Q8. The 2019 demand is routed in the ledger to the Advanced owner while the Core owner records that Core routing supersedes it; both are therefore answered here from the Basic spine. The generated 2018-2023 Prelims block additionally routes two 2023 objective items on national sports awards and the Chess Olympiad mascot and trophies. Those are documented current-affairs routing artefacts with no Indian Society content, their official keys are not held locally, and this package neither claims them nor infers an option for them.
+**Model answer:** Cultural diversity refers to the coexistence of linguistic, religious, regional and caste/tribe identities; marginality refers to restricted resources, opportunity or voice. Their association is visible, but “high correlation” across India must be tested, not presumed.
 
-### OWNER PYQ LEDGER EXTRACTS
+For some remote Particularly Vulnerable Tribal Group settlements, geographic isolation, historical exclusion, insecure assets and limited schooling reinforce one another. The Ministry of Tribal Affairs' 2024 listing identifies 75 PVTGs in 18 states and the Andaman and Nicobar Islands. Listing, however, is an administrative designation, not evidence that each group has identical outcomes. In certain minority-concentration areas, uneven infrastructure may similarly coincide with cultural difference; location and public investment matter more than the marker alone.
 
-#### 5. Indian applications and PYQ mapping
+Counter-cases disprove a universal rule. Linguistic-minority trading communities in metropolitan India and some Sikh and Jain business communities retain distinct identities without uniform poverty. Conversely, a landless household of a locally dominant caste can face economic exclusion without a conspicuous minority identity. Gender, region and assets generate important variation within every community.
 
-- ✅ **2024 GS-I PYQ (15 marks):** "Critically analyse the proposition that there is a high
-  correlation between India's cultural diversities and socio-economic marginalities." The
-  expected answer: (a) state the proposition — cultural difference often coincides with
-  deprivation (tribal areas, some religious-minority-concentration districts, certain caste
-  groups); (b) critically test it — many diverse groups are prosperous (Parsis, several
-  Sikh and Jain trading communities, dominant landholding castes), showing the correlation
-  is conditional, not universal; (c) conclude that the causal driver is *historical exclusion
-  and geographic remoteness*, not diversity itself, so policy must target the exclusion
-  mechanism rather than treat diversity as inherently disadvantaging.
-- ⚠️ A linguistic-minority trader community that is economically prosperous illustrates
-  diversity without marginality; a remote Particularly Vulnerable Tribal Group illustrates
-  diversity compounding into marginality through geographic and infrastructural exclusion.
+Census 2011's approximately 8.6% ST and 16.6% SC population shares describe stocks, not contemporary subgroup poverty rates. A future caste enumeration cannot supply results in advance. National averages also mask which locations combine identity and disadvantage. Therefore correlation cannot establish that culture causes deprivation: historical exclusion and remoteness mediate it. Policy must pair cultural recognition with disaggregated investments in land security, education and access. The proposition is persuasive where disadvantages reinforce, not as a law about Indian diversity.
 
-#### 9. PYQ application
+### Verified descriptive PYQ — 2019 GS-I Q8 (10 marks; 150 words)
+**Demand:** What makes the Indian society unique in sustaining its culture? Discuss. Verified descriptive demand in the local official-paper routing ledger; this is an independent model, not an official key.
 
-- ✅ **2024 GS-I (15 marks):** structure as proposition -> critical test with counter-examples
-  -> causal reframing (exclusion/remoteness, not diversity per se) -> policy implication
-  (target the exclusion mechanism, not the identity marker).
+**Model answer:** Indian society has sustained culture not by sealing it off but by transmitting, absorbing and adapting practices across overlapping language, faith, region and caste/tribe boundaries. Families and local associations pass on languages, crafts and rituals; pilgrimage and festival circuits renew belonging across generations. Sufi–Bhakti idioms and some shared shrines show how encounters can produce composite practices rather than simple replacement. Onam and Bihu retain regional specificity while participating in wider public life.
 
-#### Recent PYQ Integration (2024-2025)
+Institutional accommodation matters too: linguistic state reorganisation in 1956 gave regional assertion a political channel; the Eighth Schedule recognises 22 languages without exhausting linguistic diversity. Census 2011's rationalised 121 languages above its speaker threshold attest to depth, not to identical vitality for every language. Yet continuity is not a synonym for harmony. The same family, local or caste institutions can transmit hierarchy and exclusion, and their effects vary across gender and region. India's distinctive strength lies in adapting inherited forms while making equal participation a continuing constitutional and social task.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
-
-- **Years represented:** 2024
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-I | 20 | Correlation between cultural diversity and socio-economic marginalities | Critically analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Correlation between cultural diversity and socio-economic marginalities
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | Prelims GS-I | 95 | National sports awards Khel Ratna Arjuna Dronacharya criteria | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 96 | Chess Olympiad 2022 India mascot Thambi trophies | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- National sports awards Khel Ratna Arjuna Dronacharya criteria
-- Chess Olympiad 2022 India mascot Thambi trophies
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ✅ **2024 GS-I (15 marks, verbatim):** "Critically analyse the proposition that there is a
-  high correlation between India's cultural diversities and socio-economic marginalities."
-  Analytical route: (a) state the correlation with named examples (PVTGs, some
-  minority-concentration districts); (b) apply the cross-cutting/reinforcing framework to
-  show the correlation is conditional; (c) invoke the recognition-redistribution
-  distinction to argue that policy responses must match the actual gap (resource versus
-  respect); (d) conclude that diversity is a marker, not a cause, of marginality, so the
-  proposition should be accepted only where cleavages reinforce, not as a universal law.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2019
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-I | 8 | What makes Indian society unique in sustaining its culture | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- What makes Indian society unique in sustaining its culture
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2024 GS-I Q20
-
-**Demand:** Critically analyse the proposition that there is a high correlation between India's cultural diversities and socio-economic marginalities. (Answer in 250 words) 15 marks.
-
-**Status:** Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2024 General Studies Paper-I.
-
-**Model solution:** Open by stating the proposition exactly as an analytical claim to be tested rather than restated, and separate diversity as a fact from marginality as an outcome. Show where it holds: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, whose legacy criteria of pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy stack identity distinctiveness, remoteness and asset-poverty on one population, which proves the reinforcing-cleavage case; the qualification is that these are administrative criteria and conditions vary by State. Show where it fails: prosperous linguistic-minority trading communities and several Sikh and Jain business communities are culturally distinct and economically integrated, while a landless labouring household of the locally dominant caste is deprived without a distinct cultural marker, which proves the correlation is neither universal nor symmetric; the qualification is that both are group-level illustrations carrying no invented income figure. Reframe causally: historical exclusion and geographic remoteness are the mechanism and diversity is the visible marker, so policy that manages identity while leaving exclusion intact reproduces the pattern it claims to address. Add the measurement caution that Census 2011 recorded Scheduled Tribes at about 8.6 per cent and Scheduled Castes at about 16.6 per cent as a stock, that national aggregates mask which sub-group is reinforced-marginal, and that the Census 2027 caste enumeration announced by the Press Information Bureau on 30 April 2025 with reference dates fixed by Gazette S.O. 2681(E) is prospective and yields no figure. Conclude with a conditional verdict: accept the proposition where cleavages reinforce, reject it as a law of Indian society, and target the exclusion mechanism rather than the identity marker. Why this earns marks: it tests the proposition instead of restating it, supplies dated named evidence on both sides, reframes correlation as marker rather than mechanism, and closes with a graded, policy-relevant verdict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I Q20”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open by stating the proposition exactly as an analytical claim to be tested rather than restated, and separate diversity as a fact from marginality as an outcome. Show where it holds: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, whose legacy criteria of pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy stack identity distinctiveness, remoteness and asset-poverty on one population, which proves the reinforcing-cleavage case; the qualification is that these are administrative criteria and conditions vary by State. Show where it fails: prosperous linguistic-minority trading communities and several Sikh and Jain business communities are culturally distinct and economically integrated, while a landless labouring household of the locally dominant caste is deprived without a distinct cultural marker, which proves the correlation is neither universal nor symmetric; the qualification is that both are group-level illustrations carrying no invented income figure. Reframe causally: historical exclusion and geographic remoteness are the mechanism and diversity is the visible marker, so policy that manages identity while leaving exclusion intact reproduces the pattern it claims to address. Add the measurement caution that Census 2011 recorded Scheduled Tribes at about 8.6 per cent and Scheduled Castes at about 16.6 per cent as a stock, that national aggregates mask which sub-group is reinforced-marginal, and that the Census 2027 caste enumeration announced by the Press Information Bureau on 30 April 2025 with reference dates fixed by Gazette S.O. 2681(E) is prospective and yields no figure. Conclude with a conditional verdict: accept the proposition where cleavages reinforce, reject it as a law of Indian society, and target the exclusion mechanism rather than the identity marker. Why this earns marks: it tests the proposition instead of restating it, supplies dated named evidence on both sides, reframes correlation as marker rather than mechanism, and closes with a graded, policy-relevant verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Critically analyse the proposition that there is a high correlation between India's cultural diversities and socio-economic marginalities. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2024 General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open by stating the proposition exactly as an analytical claim to be tested rather than restated, and separate diversity as a fact from marginality as an outcome. Show where it holds: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, whose legacy criteria of pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy stack identity distinctiveness, remoteness and asset-poverty on one population, which proves the reinforcing-cleavage case; the qualification is that these are administrative criteria and conditions vary by State. Show where it fails: prosperous linguistic-minority trading communities and several Sikh and Jain business communities are culturally distinct and economically integrated, while a landless labouring household of the locally dominant caste is deprived without a distinct cultural marker, which proves the correlation is neither universal nor symmetric; the qualification is that both are group-level illustrations carrying no invented income figure. Reframe causally: historical exclusion and geographic remoteness are the mechanism and diversity is the visible marker, so policy that manages identity while leaving exclusion intact reproduces the pattern it claims to address. Add the measurement caution that Census 2011 recorded Scheduled Tribes at about 8.6 per cent and Scheduled Castes at about 16.6 per cent as a stock, that national aggregates mask which sub-group is reinforced-marginal, and that the Census 2027 caste enumeration announced by the Press Information Bureau on 30 April 2025 with reference dates fixed by Gazette S.O. 2681(E) is prospective and yields no figure. Conclude with a conditional verdict: accept the proposition where cleavages reinforce, reject it as a law of Indian society, and target the exclusion mechanism rather than the identity marker. Why this earns marks: it tests the proposition instead of restating it, supplies dated named evidence on both sides, reframes correlation as marker rather than mechanism, and closes with a graded, policy-relevant verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I Q20”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 2 — 2019 GS-I Q8
-
-**Demand:** What makes the Indian society unique in sustaining its culture? Discuss. (Answer in 150 words) 10 marks.
-
-**Status:** Verified verbatim in the audited 2018-2023 Mains routing ledger and in the locally held official General Studies Paper-I. The ledger routes it to the Advanced owner; the Core owner records that Core routing supersedes, so it is answered from the Basic spine.
-
-**Model solution:** Open with the mechanism thesis that Indian culture persisted through accommodative absorption rather than insulation. Give the layering evidence: ethnic, linguistic, religious, regional and caste-tribe axes coexisted instead of one replacing another, and Census 2011 rationalised over 19,500 raw mother-tongue returns into 121 languages spoken by 10,000 or more persons, which proves depth was retained rather than flattened; the qualification is that a rationalised count is a measurement decision. Give the transmission evidence: family and jati socialisation, ritual calendars and festival circuits such as Onam, Bihu and Pongal, and syncretic idioms including Sufi dargahs and Bhakti saint-poetry, which proves continuity was carried by decentralised institutions rather than a central authority. Give the institutional evidence: recognition through the Eighth Schedule listing of 22 languages and territorial accommodation through the States Reorganisation Act, 1956, which proves that assertion was absorbed into governance instead of being suppressed. Qualify honestly that continuity is not uniformity, because hierarchy and exclusion persisted inside the same transmitting institutions. Conclude that uniqueness lies in the capacity to add without extinguishing, which is also why inequality endured alongside continuity. Why this earns marks: it answers the directive with named mechanisms and dated evidence, avoids adjectival celebration, and supplies a qualification that converts description into analysis.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open with the mechanism thesis that Indian culture persisted through accommodative absorption rather than insulation. Give the layering evidence: ethnic, linguistic, religious, regional and caste-tribe axes coexisted instead of one replacing another, and Census 2011 rationalised over 19,500 raw mother-tongue returns into 121 languages spoken by 10,000 or more persons, which proves depth was retained rather than flattened; the qualification is that a rationalised count is a measurement decision. Give the transmission evidence: family and jati socialisation, ritual calendars and festival circuits such as Onam, Bihu and Pongal, and syncretic idioms including Sufi dargahs and Bhakti saint-poetry, which proves continuity was carried by decentralised institutions rather than a central authority. Give the institutional evidence: recognition through the Eighth Schedule listing of 22 languages and territorial accommodation through the States Reorganisation Act, 1956, which proves that assertion was absorbed into governance instead of being suppressed. Qualify honestly that continuity is not uniformity, because hierarchy and exclusion persisted inside the same transmitting institutions. Conclude that uniqueness lies in the capacity to add without extinguishing, which is also why inequality endured alongside continuity. Why this earns marks: it answers the directive with named mechanisms and dated evidence, avoids adjectival celebration, and supplies a qualification that converts description into analysis.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: What makes the Indian society unique in sustaining its culture? Discuss. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open with the mechanism thesis that Indian culture persisted through accommodative absorption rather than insulation. Give the layering evidence: ethnic, linguistic, religious, regional and caste-tribe axes coexisted instead of one replacing another, and Census 2011 rationalised over 19,500 raw mother-tongue returns into 121 languages spoken by 10,000 or more persons, which proves depth was retained rather than flattened; the qualification is that a rationalised count is a measurement decision. Give the transmission evidence: family and jati socialisation, ritual calendars and festival circuits such as Onam, Bihu and Pongal, and syncretic idioms including Sufi dargahs and Bhakti saint-poetry, which proves continuity was carried by decentralised institutions rather than a central authority. Give the institutional evidence: recognition through the Eighth Schedule listing of 22 languages and territorial accommodation through the States Reorganisation Act, 1956, which proves that assertion was absorbed into governance instead of being suppressed. Qualify honestly that continuity is not uniformity, because hierarchy and exclusion persisted inside the same transmitting institutions. Conclude that uniqueness lies in the capacity to add without extinguishing, which is also why inequality endured alongside continuity. Why this earns marks: it answers the directive with named mechanisms and dated evidence, avoids adjectival celebration, and supplies a qualification that converts description into analysis.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
+### Original Mains 1 — 10 marks
 **Question:** Discuss what makes Indian society unique in sustaining its culture. Answer in about 150 words.
 
-**Model thesis:** Indian culture persisted through accommodative absorption and institutional recognition rather than insulation, carried by decentralised transmission and syncretic idioms, while hierarchy survived inside the same continuity.
+**Model answer:** Sustaining a culture need not mean freezing it. Indian society reproduces traditions through family speech, local rituals, craft apprenticeships and seasonal festivals, while incorporating external and neighbouring influences. Sufi–Bhakti exchanges and shared local shrines illustrate selective borrowing; Bihu and Pongal show that a wider belonging can retain distinctive regional calendars. Such sites are not all alike: shared observance does not mean every participant occupies an equal social position.
 
-**Claim → named evidence → analysis → qualification:**
+Linguistic assertion, too, need not be suppressed to sustain a common polity. The States Reorganisation Act, 1956, made language a basis of territorial accommodation, while the Eighth Schedule gives constitutional recognition to 22 languages without covering India's entire linguistic field. Schools, public markets and elections bring different groups into routine contact alongside inherited identities. This decentralised combination of transmission and adaptation helps explain continuity across change. But caste hierarchy and gender restrictions can also persist through those same institutions; preserving culture therefore cannot excuse exclusion. Continuity is distinctive because practices can be renewed and shared, not because differences or conflicts disappear.
 
-- Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
-- Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-- Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-- Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood.
-- Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language.
-- Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
-
-**Qualified conclusion:** Indian culture persisted through accommodative absorption and institutional recognition rather than insulation, carried by decentralised transmission and syncretic idioms, while hierarchy survived inside the same continuity.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss what makes Indian society unique in sustaining its culture. Answer in about 150 words.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Indian culture persisted through accommodative absorption and institutional recognition rather than insulation, carried by decentralised transmission and syncretic idioms, while hierarchy survived inside the same continuity.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Indian cultural continuity worked through accommodative absorption and institutional recognition rather than insulation, illustrated by the States Reorganisation Act, 1956 accommodating linguistic assertion through statehood. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language families commonly used in UPSC texts, and that shorthand is not an exhaustive taxonomy of every Indian language. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Indian culture persisted through accommodative absorption and institutional recognition rather than insulation, carried by decentralised transmission and syncretic idioms, while hierarchy survived inside the same continuity.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Discuss what makes Indian society unique in sustaining its culture. Answer in about 150 words.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
+### Original Mains 2 — 10 marks
 **Question:** Distinguish diversity, plurality, disparity and marginality using Indian examples. Answer in about 150 words.
 
-**Model thesis:** The four terms separate the fact of difference, the quality of coexistence, the inequality of outcomes and the condition of exclusion, and confusing them produces the commonest answer error in this topic.
+**Model answer:** Diversity describes the presence of difference: an Indian ward may contain speakers of several languages and members of different faiths. Plurality goes further: neighbours recognise one another as legitimate participants in shared institutions, such as a school or municipal forum. Counting communities alone cannot establish such recognition.
 
-**Claim → named evidence → analysis → qualification:**
+Disparity concerns unequal outcomes: two districts of similar cultural composition may have unequal school or health access. Marginality denotes restricted access to resources, opportunities or voice: an excluded worker may lack representation even where district averages appear adequate. These concepts can intersect but do not imply one another. A prosperous linguistic-minority merchant is distinct without necessarily being economically marginal; a landless worker from a locally dominant caste can be marginal without a conspicuous minority marker. A common festival may express plurality yet conceal unequal participation by women or stigmatised jatis. The institutional test is consequently whether shared civic spaces permit actual participation and whether public investment reaches excluded households, not merely whether a diverse population is counted.
 
-- Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-- Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference.
-
-**Qualified conclusion:** The four terms separate the fact of difference, the quality of coexistence, the inequality of outcomes and the condition of exclusion, and confusing them produces the commonest answer error in this topic.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish diversity, plurality, disparity and marginality using Indian examples. Answer in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The four terms separate the fact of difference, the quality of coexistence, the inequality of outcomes and the condition of exclusion, and confusing them produces the commonest answer error in this topic.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Disparity is unequal development outcomes between groups or regions, while marginality is exclusion from opportunity, resources or voice; neither follows automatically from the fact of difference. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The four terms separate the fact of difference, the quality of coexistence, the inequality of outcomes and the condition of exclusion, and confusing them produces the commonest answer error in this topic.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish diversity, plurality, disparity and marginality using Indian examples. Answer in…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
+### Original Mains 3 — 15 marks
 **Question:** Cultural diversity in India marks disadvantage but does not produce it. Critically examine. Answer in about 250 words.
 
-**Model thesis:** Diversity correlates with deprivation only where identity axes reinforce historical exclusion and geographic remoteness; where they cross-cut, diversity coexists with prosperity, so exclusion rather than difference is the mechanism.
+**Model answer:** A cultural marker may identify a population exposed to disadvantage; it is not, by itself, the mechanism creating deprivation. Consider a remote PVTG settlement: poor transport, land insecurity and school inaccessibility may converge with a distinct identity. Its designation can help target support, but the Ministry of Tribal Affairs list does not prove identical poverty or cultural traits across all 75 PVTGs. Historical exclusion and the spatial distribution of services explain why difference and disadvantage appear together.
 
-**Claim → named evidence → analysis → qualification:**
+The contrary cases matter. A prosperous linguistic-minority trading community may sustain its language while gaining market access. A landless labourer of a locally dominant caste may face material hardship despite belonging to the majority community in a village. Gender and locality can also divide outcomes inside either population. These cases refute the stronger claim that a distinctive identity is either a necessary or a sufficient cause of poverty.
 
-- Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-- Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-- The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
-- Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation.
-- A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric.
-- Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
+Yet the statement should not become an excuse to disregard culture. Disrespect, stigma and discrimination can themselves restrict access to schools, work or public decision-making. Recognition of language and dignity may therefore be necessary alongside redistribution of land security, mobility and education. A festival-only response will not solve an access deficit; a cash-only response might leave a voice deficit untouched. Census 2011 population shares describe historic stocks, not subgroup deprivation today, and prospective caste enumeration cannot settle causality in advance. The qualified conclusion is that social power, history and geography mediate the link; diversity is often its visible index, while discriminatory treatment of difference can also become part of the causal chain.
 
-**Qualified conclusion:** Diversity correlates with deprivation only where identity axes reinforce historical exclusion and geographic remoteness; where they cross-cut, diversity coexists with prosperity, so exclusion rather than difference is the mechanism.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Cultural diversity in India marks disadvantage but does not produce it. Critically examine.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Diversity correlates with deprivation only where identity axes reinforce historical exclusion and geographic remoteness; where they cross-cut, diversity coexists with prosperity, so exclusion rather than difference is the mechanism.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Prosperous linguistic-minority trading communities in metropolitan India and several Sikh and Jain business communities show that cultural distinctiveness does not by itself predict deprivation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A landless labouring household of the locally dominant caste in a poor region shows class-based deprivation operating without a distinct cultural marker, so the correlation is not symmetric. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Diversity correlates with deprivation only where identity axes reinforce historical exclusion and geographic remoteness; where they cross-cut, diversity coexists with prosperity, so exclusion rather than difference is the mechanism.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Cultural diversity in India marks disadvantage but does not produce it. Critically examine.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
+### Original Mains 4 — 15 marks
 **Question:** Examine how cross-cutting identities help India manage cultural diversity without permanent conflict. Answer in about 250 words.
 
-**Model thesis:** Cross-cutting cleavages prevent any single identity from predicting every disadvantage, and integrative civic and syncretic institutions convert difference into routine interaction rather than standing grievance.
+**Model answer:** A cleavage is cross-cutting when lines of language, religion, region and class do not repeatedly divide people into the same opposing camps. In an Indian market, co-workers may share an occupation while speaking different languages; fellow speakers may vote differently or belong to different income groups. Such overlapping memberships create incentives to bargain across one boundary instead of turning every disagreement into one permanent group confrontation.
 
-**Claim → named evidence → analysis → qualification:**
+Shared institutions make the effect tangible. Public schools, elected local bodies, transport and markets provide repeated contact; composite Sufi–Bhakti practices and regional festivals can supply common symbols. Linguistic state reorganisation in 1956 offered an institutional channel for demands that might otherwise have remained alienating. These mechanisms do not require assimilation: participation can coexist with separate mother tongues and rituals.
 
-- Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense.
-- Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region.
-- Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods.
-- Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other.
+Nevertheless, overlap is not sufficient. A stigmatised student may be admitted to a nominally common school while being excluded from informal networks. Where tribal identity, remote residence, insecure assets and weak schooling reinforce one another, a common marketplace cannot undo the cumulative barrier. Nor does membership in more than one group prevent political entrepreneurs from mobilising one identity selectively. Access, dignity and procedural voice determine whether cross-cutting ties can actually moderate grievance.
 
-**Qualified conclusion:** Cross-cutting cleavages prevent any single identity from predicting every disadvantage, and integrative civic and syncretic institutions convert difference into routine interaction rather than standing grievance.
+Therefore examine both the distribution of memberships and the conditions of encounter. Language recognition, equal school access and responsive local institutions can prevent one distinction from mapping onto every deprivation. Cross-cutting cleavages make compromise possible, but an inclusive civic arena—not mere demographic variety—turns the possibility into cohesion.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine how cross-cutting identities help India manage cultural diversity without permanent…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Cross-cutting cleavages prevent any single identity from predicting every disadvantage, and integrative civic and syncretic institutions convert difference into routine interaction rather than standing grievance.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Where identity axes do not align, disadvantage on one axis is often offset on another, so no single identity always predicts deprivation and group conflict is less intense. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Sufi dargahs, Bhakti saint-poets, shared local deities and regional festivals such as Onam, Bihu and Pongal create composite belonging that crosses religion and region. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Common schools, markets, elections and public transport work as routine integrative spaces in which diverse groups interact, and internal migration for work normalises mixed neighbourhoods. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Indian diversity runs along ethnic or ethno-linguistic, linguistic, religious, regional and caste-tribe axes that are layered and overlapping rather than parallel, so cohesion depends on whether the axes reinforce each other or cut across each other. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Cross-cutting cleavages prevent any single identity from predicting every disadvantage, and integrative civic and syncretic institutions convert difference into routine interaction rather than standing grievance.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine how cross-cutting identities help India manage cultural diversity without permanent…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
+### Original Mains 5 — 20 marks
 **Question:** Assess diversity, plurality and cohesion in India as an integrated problem of recognition and redistribution. Answer in about 300 words.
 
-**Model thesis:** Cohesion depends less on the volume of difference than on whether recognition and redistribution are matched to the actual gap, because recognition alone leaves reinforcing deprivation intact and redistribution alone leaves identity grievance unaddressed.
+**Model answer:** Diversity is the presence of multiple identities; plurality is their coexistence with mutual recognition. Cohesion is the ability to negotiate common civic life despite disagreement. None follows automatically from a count of groups. India's regional, linguistic, religious and caste/tribe axes overlap, so policy must ask whether a group's principal obstacle is disdisrespect, exclusion or both.
 
-**Claim → named evidence → analysis → qualification:**
+Recognition makes participation intelligible and legitimate: the Eighth Schedule's 22 languages and linguistic territorial accommodation through the States Reorganisation Act, 1956, illustrate institutional responses to linguistic claims. Composite practices at some shared shrines and festivals supply informal spaces for belonging. But constitutional listing does not certify equal vitality for unlisted languages; shared celebration does not erase unequal status in a village.
 
-- Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance.
-- Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong.
-- Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact.
-- Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-- The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy.
+Redistribution addresses a different problem. Where a remote PVTG household must travel far for a school or clinic, cultural visibility alone cannot remedy the access barrier. Area-based service provision and group-sensitive outreach can help; yet a generic area average may conceal women or less-connected settlements within that group. Conversely, a prosperous linguistic-minority trader can need linguistic respect without an identical subsidy, while a landless locally dominant-caste labourer can need economic support without a minority label. These contrasts explain why one identity-to-one-policy mapping fails.
 
-**Qualified conclusion:** Cohesion depends less on the volume of difference than on whether recognition and redistribution are matched to the actual gap, because recognition alone leaves reinforcing deprivation intact and redistribution alone leaves identity grievance unaddressed.
+Public schools, transport, elections and markets can connect groups, but only if exclusion from admission, work and voice is confronted. Cross-cutting class and language ties may temper polarisation; reinforcing poverty, remoteness and stigma may undo it. Census 2011 counts are a baseline, not proof of participation; an announced future caste count provides no realised outcome.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess diversity, plurality and cohesion in India as an integrated problem of recognition and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Hence cohesion is neither compulsory assimilation nor mere co-presence. An effective response combines non-stigmatising recognition, locally disaggregated access measures and accountable civic institutions. The balance will differ by region, class and gender: it must be tested against lived participation rather than inferred from the number of festivals or the presence of a constitutional entry.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Cohesion depends less on the volume of difference than on whether recognition and redistribution are matched to the actual gap, because recognition alone leaves reinforcing deprivation intact and redistribution alone leaves identity grievance unaddressed.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Diversity is the objective presence of different identities, while plurality is coexistence with mutual recognition, so a headcount of difference is not by itself evidence of acceptance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Where remoteness, low literacy, asset-poverty and minority status stack on the same household, ordinary diversity compounds into marginality and the correlation the examiner asks about becomes strong. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Recognition addresses disrespect for identity and culture while redistribution addresses unequal resources and opportunity, so a response that supplies only symbolic recognition leaves an access or asset gap intact. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural technology, low literacy, stagnant or declining population and subsistence economy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Cohesion depends less on the volume of difference than on whether recognition and redistribution are matched to the actual gap, because recognition alone leaves reinforcing deprivation intact and redistribution alone leaves identity grievance unaddressed.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess diversity, plurality and cohesion in India as an integrated problem of recognition and…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
+### Original Mains 6 — 20 marks
 **Question:** Evaluate the statistical and evidentiary limits of any claim that Indian diversity causes socio-economic marginality. Answer in about 300 words.
 
-**Model thesis:** The claim is limited by aggregation masking, by the absence of an all-India caste count and by the stock nature of Census 2011, so an honest answer states the measurement gap as part of the argument.
+**Model answer:** The claim contains two separate questions: whether culturally distinct groups are disproportionately disadvantaged, and whether distinctiveness itself causes that disadvantage. Neither follows from the number of identities recorded in a census. One must specify the unit of comparison, an outcome such as school access or assets, a reference year and a plausible causal pathway.
 
-**Claim → named evidence → analysis → qualification:**
+Census 2011 reports approximately 8.6% ST and 16.6% SC population shares, not their present-day income distribution. Its more than 19,500 raw mother-tongue returns were rationalised into 121 languages above a speaker threshold: reporting and classification rules affect measured linguistic variety. The Eighth Schedule's 22 languages represent recognition, not a sample of equally sized communities. The Ministry of Tribal Affairs' PVTG list identifies administrative policy groups across 18 states and Andaman and Nicobar Islands; it supplies neither a uniform poverty score nor an experiment. The caste-enumeration decision for Census 2027 cannot provide outcomes before enumeration and publication. Old stocks and prospective data cannot be treated as contemporaneous.
 
-- At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions.
-- Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration.
-- Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words.
-- Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it.
-- Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth.
+Ecological inference presents another hazard: a poorly served minority-concentration district does not imply each minority household is poor, and national averages may conceal a deprived sub-group. Class, gender, migration, remoteness and historical exclusion may confound both identity and access. Compare similar localities and assets, disaggregate within communities, and examine mechanisms such as school exclusion or land insecurity before attributing causality. A prosperous linguistic-minority household and a landless locally dominant-caste household are counter-cases to deterministic inference, not estimates of national prevalence.
 
-**Qualified conclusion:** The claim is limited by aggregation masking, by the absence of an all-India caste count and by the stock nature of Census 2011, so an honest answer states the measurement gap as part of the argument.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the statistical and evidentiary limits of any claim that Indian diversity causes…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The claim is limited by aggregation masking, by the absence of an all-India caste count and by the stock nature of Census 2011, so an honest answer states the measurement gap as part of the argument.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** At Census 2011, the last completed full count, Scheduled Tribes were about 8.6 per cent and Scheduled Castes about 16.6 per cent of the population, so diversity questions are also distribution questions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Gazette S.O. 2681(E) dated 16 June 2025 fixes Census 2027 reference dates at 1 October 2026 for Ladakh and specified snow-bound areas and 1 March 2027 elsewhere, and the Press Information Bureau announcement of 30 April 2025 confirms caste enumeration; the exercise is prospective, yields no figure to quote and is not India's first historical caste enumeration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Two direct General Studies Paper-I demands are verified for this owner: the 2024 question requiring a critical analysis of the proposition of a high correlation between India's cultural diversities and socio-economic marginalities in 250 words, and the 2019 question asking what makes Indian society unique in sustaining its culture in 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Historical exclusion, geographic remoteness and asset-poverty are the causal drivers of deprivation, and cultural diversity is usually the visible marker rather than the mechanism that produces it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Census 2011 recorded over 19,500 raw mother-tongue returns, rationalised into 121 languages spoken by 10,000 or more persons, which fixes the scale of linguistic depth. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The claim is limited by aggregation masking, by the absence of an all-India caste count and by the stock nature of Census 2011, so an honest answer states the measurement gap as part of the argument.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate the statistical and evidentiary limits of any claim that Indian diversity causes…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Yet scepticism must not erase discrimination: direct evidence of denied admission or employment on identity grounds can identify a mechanism, even if aggregate correlations are ambiguous. The conclusion is conditional. Identify where identities and disadvantages reinforce, test counter-cases and intervene on measured barriers while protecting dignity; do not convert Census categories into biological races, fabricated caste percentages or a blanket causal verdict.

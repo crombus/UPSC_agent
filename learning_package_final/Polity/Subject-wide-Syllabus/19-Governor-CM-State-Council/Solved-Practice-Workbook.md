@@ -2,7 +2,7 @@
 
 ## BASIC MCQS / REMEDIATION
 
-### Exactly 32 original MCQs — answer sequence ABCD × 8
+### 40 original MCQs — attempt all before consulting the separate solved key
 
 Each option is explained independently. The Examiner trap identifies the specific close-option error.
 
@@ -14,6 +14,361 @@ A. One person may be Governor of two or more States.
 B. Two Governors may exercise equal authority in one State.
 C. A Chief Minister may assume gubernatorial office automatically.
 D. A common Governor merges the participating State executives.
+
+#### MCQ 2.
+
+How is a State Governor constitutionally selected?
+
+A. By an electoral college of State legislators.
+B. By the President through a warrant under hand and seal.
+C. By the Chief Minister subject to High Court confirmation.
+D. By the Legislative Assembly through proportional representation.
+
+#### MCQ 3.
+
+Which pair exhausts the constitutional qualifications in Article 157?
+
+A. Residence in the State and a law degree.
+B. Thirty years of age and legislative membership.
+C. Indian citizenship and completed age of thirty-five years.
+D. Eminence in public life and political non-partisanship.
+
+#### MCQ 4.
+
+Who ordinarily administers the Governor's oath under Article 159?
+
+A. The President of India.
+B. The Chief Minister.
+C. The Speaker of the Assembly.
+D. The Chief Justice of the jurisdictional High Court, or the available senior judge in the Chief Justice's absence.
+
+#### MCQ 5.
+
+Which statement best reflects Article 156 read with B.P. Singhal (2010)?
+
+A. Five years is subject to presidential pleasure, but removal cannot be arbitrary, capricious, unreasonable or mala fide.
+B. A Governor has an enforceable five-year tenure unless impeached.
+C. The State Assembly may remove the Governor by effective majority.
+D. Every removal is non-justiciable because reasons are never relevant.
+
+#### MCQ 6.
+
+What did Hargovind Pant v. Dr Raghukul Tilak (1979) decide?
+
+A. A Governor must be an outsider to the State.
+B. The Governor's office is an independent constitutional office, not employment under the Union for Article 319(d).
+C. A former SPSC member can never become Governor.
+D. The Governor is a subordinate employee of the President.
+
+#### MCQ 7.
+
+Which proposition about Article 361 is correct?
+
+A. No civil proceeding may ever be filed for a Governor's personal act.
+B. Every governmental act done in the Governor's name is immune from review.
+C. The Governor enjoys personal process protections during office, while the underlying governmental action can still be reviewed.
+D. Article 361 gives House-speech immunity under Article 194.
+
+#### MCQ 8.
+
+How should Articles 154 and 163 be read together?
+
+A. Article 154 makes every executive decision personally discretionary.
+B. Article 163 transfers State executive power to the President.
+C. Article 154 eliminates collective responsibility.
+D. Formal vesting in the Governor operates through the CM-led Council's advice except in a bounded constitutional field.
+
+#### MCQ 9.
+
+The central holding of Shamsher Singh (1974) for State executive power is that:
+
+A. The Governor is a constitutional head ordinarily acting on ministerial advice, including in Article 234 appointments.
+B. Article 163 creates unlimited personal discretion.
+C. The Governor may dismiss any majority-holding ministry.
+D. Every power expressed in the Governor's name requires personal satisfaction.
+
+#### MCQ 10.
+
+Which is outside a legitimate domain of gubernatorial discretion?
+
+A. Choosing a credible CM claimant in a genuinely hung Assembly.
+B. Selecting ministers contrary to the Chief Minister's advice because the Governor prefers another team.
+C. Sending a reasoned Article 356 report on constitutional breakdown.
+D. Using a specially worded constitutional responsibility in a named State.
+
+#### MCQ 11.
+
+Which statement correctly bounds special gubernatorial responsibilities?
+
+A. Every Governor has personal law-and-order control.
+B. Article 371A applies uniformly to all tribal States.
+C. Articles 371A(1)(b) and 371H(a) create named law-and-order responsibilities; Sixth Schedule functions are provision-specific.
+D. Special responsibility authorises disregard of the Council in ordinary policy.
+
+#### MCQ 12.
+
+In a hung Assembly, the constitutionally safest course is to:
+
+A. Always invite the single largest party regardless of support.
+B. Wait indefinitely until parties agree unanimously.
+C. Allow the Governor to count confidence privately and finally.
+D. Invite a credible claimant on objective support and require a prompt floor test.
+
+#### MCQ 13.
+
+Which case most directly supports a prompt floor test where resignations created objective doubt in 2020 Madhya Pradesh?
+
+A. Shivraj Singh Chouhan v. Speaker, Madhya Pradesh Legislative Assembly.
+B. Hargovind Pant v. Raghukul Tilak.
+C. Epuru Sudhakar v. Government of Andhra Pradesh.
+D. B.P. Singhal v. Union of India.
+
+#### MCQ 14.
+
+What is the exact warning from Rameshwar Prasad (2006)?
+
+A. The Governor must invite only a pre-poll alliance.
+B. Anticipated horse-trading cannot replace objective material and House process to justify pre-emptive dissolution.
+C. Article 356 proclamations are wholly non-justiciable.
+D. Courts must always restore a dissolved Assembly.
+
+#### MCQ 15.
+
+Nabam Rebia (2016) held, in the Arunachal Pradesh context, that the Governor:
+
+A. May dictate the legislative agenda whenever removal of the Speaker is proposed.
+B. Possesses final authority over Tenth Schedule disqualification.
+C. Could not unilaterally pre-pone the session and prescribe the Speaker-removal agenda; Article 174 functions are normally advice-bound.
+D. May dissolve the Assembly without considering ministerial advice.
+
+#### MCQ 16.
+
+According to Subhash Desai (2023), a Governor should call a floor test:
+
+A. To identify which faction controls a political party.
+B. Whenever any group of legislators alleges internal dissatisfaction.
+C. To decide the validity of a party whip.
+D. Only on objective material indicating possible loss of House confidence, not factional dissent alone.
+
+#### MCQ 17.
+
+State of Punjab v. Principal Secretary to the Governor (2023) establishes that:
+
+A. The Governor cannot keep Bills pending indefinitely and, if withholding assent, must follow the return route in Article 200's first proviso.
+B. A Governor may invalidate a legislative sitting merely by questioning it.
+C. Every pending Bill receives automatic deemed assent.
+D. The Court may dictate which Article 200 option the Governor selects.
+
+#### MCQ 18.
+
+Under the five-judge 2025 Article 143 opinion, Article 200 presents:
+
+A. Four independent options including a free-standing return power.
+B. Three options: assent; reserve; or withhold and return a non-Money Bill with comments.
+C. Only assent or reservation.
+D. A personal pocket veto of indefinite silence.
+
+#### MCQ 19.
+
+How should the April and November 2025 assent decisions be related?
+
+A. The advisory opinion appellate-set aside all relief in the Tamil Nadu case.
+B. The Tamil Nadu judgment remains the sole general rule on fixed timelines.
+C. The later advisory opinion expressly called the general timeline/deemed-assent reasoning erroneous, but did not formally overrule or set aside the inter partes relief.
+D. Both decisions require automatic assent after three months.
+
+#### MCQ 20.
+
+After a non-Money Bill reserved under Article 201 is returned and passed again, the President:
+
+A. Must assent because Article 200's repassage rule applies identically.
+B. Loses power to withhold assent.
+C. Must obtain a fresh Article 143 opinion.
+D. Is not constitutionally compelled to assent; Article 201 contains no 'shall not withhold' command.
+
+#### MCQ 21.
+
+When can an Article 213 ordinance ordinarily be promulgated in a bicameral State?
+
+A. When the Legislative Assembly is not in session or when both Houses are not simultaneously in session, and immediate action is necessary.
+B. Only when both Houses have been dissolved.
+C. Whenever the Governor disagrees with pending legislation.
+D. Only after presidential assent to the ordinance text.
+
+#### MCQ 22.
+
+D.C. Wadhwa v. State of Bihar is best known for holding that:
+
+A. Every ordinance is unconstitutional.
+B. Routine serial re-promulgation to avoid the legislature is a fraud on the Constitution.
+C. Ordinances survive permanently after lapse.
+D. The Governor may legislate on Union List subjects.
+
+#### MCQ 23.
+
+Krishna Kumar Singh (2017) adds which control to ordinance doctrine?
+
+A. The Governor's satisfaction can never be reviewed.
+B. Re-promulgation becomes valid after three cycles.
+C. Laying before the legislature is mandatory, satisfaction is reviewable at constitutional limits, and effects do not automatically endure.
+D. Every ordinance must first be approved by the High Court.
+
+#### MCQ 24.
+
+Which comparison of Articles 72 and 161 is correct?
+
+A. A Governor may pardon a death sentence whenever the offence lies in the State field.
+B. A Governor has no clemency power at all in a death-sentence case.
+C. A Governor may exercise clemency over court-martial punishment arising within the State.
+D. A Governor cannot pardon a death sentence, but may suspend, remit or commute it within the State field; the President may pardon a death sentence and exercises court-martial clemency.
+
+#### MCQ 25.
+
+Maru Ram (1980) treats constitutional clemency as:
+
+A. A power exercised by the appropriate government through binding ministerial advice, not personal mercy.
+B. A judicial appeal from the conviction.
+C. An unrestricted personal discretion of the Governor.
+D. A power exercisable only after legislative approval.
+
+#### MCQ 26.
+
+Epuru Sudhakar (2006) permits judicial review of clemency for:
+
+A. Any disagreement with the sentence length.
+B. Mala fides, arbitrariness, non-application of mind, exclusion of relevant material or reliance on irrelevant material.
+C. A complete rehearing of guilt in every case.
+D. Only a defect in the Governor's signature.
+
+#### MCQ 27.
+
+Article 167(c) enables the Governor to require the Chief Minister to:
+
+A. Dismiss an individual minister without Cabinet consideration.
+B. Disclose Cabinet advice in court.
+C. Place before the Council a matter decided by a minister but not considered by the Council.
+D. Transfer State executive power to the Union.
+
+#### MCQ 28.
+
+Which statement accurately describes Article 164 responsibility and membership?
+
+A. The Council is responsible to both State Houses equally.
+B. A non-member minister has one year to enter the legislature.
+C. Governor pleasure allows dismissal of a majority-holding CM at will.
+D. The Council is collectively responsible to the Assembly, and a minister ceases after six consecutive months without legislative membership.
+
+#### MCQ 29.
+
+What did the Ninety-first Amendment Act, 2003, section 3 insert for States?
+
+A. Articles 164(1A)-(1B): a fifteen-per-cent Assembly-based cap with minimum twelve and a specified defector bar.
+B. A fixed five-year term for Governors.
+C. Direct election of Chief Ministers.
+D. A uniform constitutional Cabinet-rank hierarchy.
+
+#### MCQ 30.
+
+The Ninety-fourth Amendment Act, 2006, section 2 changed Article 164 by:
+
+A. Abolishing the Tribal Welfare Minister requirement.
+B. Substituting Chhattisgarh and Jharkhand for Bihar in the named-State proviso.
+C. Adding every Fifth Schedule State to the proviso.
+D. Moving the requirement into the Sixth Schedule.
+
+#### MCQ 31.
+
+Under Articles 165 and 177, the Advocate General:
+
+A. Must be a sitting High Court judge.
+B. May vote in either State House without membership.
+C. Must qualify for appointment as a High Court judge and may speak/participate without an automatic vote.
+D. Is appointed by the Chief Justice of the High Court.
+
+#### MCQ 32.
+
+Which final combination is constitutionally accurate?
+
+A. The Governor appoints High Court judges and is Chancellor by Article 153.
+B. Article 234 requires only gubernatorial personal satisfaction.
+C. University statutes cannot alter a Governor's Chancellor role.
+D. Articles 233-234 build High Court/SPSC consultation into judicial-service appointments, while any Chancellor role arises only from the relevant State statute.
+
+#### MCQ 33. Support letters and a fractured House
+
+No party has an outright Assembly majority. Two groups provide verifiable support letters to a proposed Chief Minister, but a rival claims that the Governor must invite the single largest party regardless. What is the constitutional response?
+
+A. Consider credible support and provide an early floor test; no inflexible constitutional largest-party priority exists.
+B. Invite only the largest party and dispense with a floor test for its entire term.
+C. Require the President to conduct a statewide referendum before a ministry can be formed.
+D. Decide which individual legislators will be disqualified before inviting anyone.
+
+#### MCQ 34. Defection versus majority
+
+A faction alleges internal disagreement with its party leader but provides no evidence that the ministry lost Assembly support. Which gubernatorial response follows *Subhash Desai*?
+
+A. Demand an immediate floor test to identify the party's authentic faction.
+B. Do not infer loss of House confidence from intra-party conflict alone.
+C. Decide party-symbol ownership before permitting any Assembly sitting.
+D. Remove the ministry because a faction petition itself ends collective responsibility.
+
+#### MCQ 35. Article 200 after a returned Bill
+
+A Governor withholds assent to a non-Money Bill and returns it for reconsideration. The House passes the Bill again. Which proposition avoids an invented absolute veto?
+
+A. The Governor may return the same Bill indefinitely for fresh reconsideration.
+B. The Bill expires automatically unless the President first orders reconsideration.
+C. Article 200 does not permit withholding assent again after reconsideration; reservation must be assessed under its own constitutional route.
+D. The Governor can treat the Assembly's reconsideration as a personal-confidence vote.
+
+#### MCQ 36. Ordinance re-promulgation
+
+An ordinance is laid before the State Legislature, lapses, and is repeatedly reissued without seeking passage of a Bill. Which objection is strongest?
+
+A. The Governor may never issue any ordinance on a matter within State competence.
+B. Laying automatically makes the ordinance a permanent Act.
+C. Reissue is always valid if the text is identical to the first ordinance.
+D. Routine re-promulgation circumvents the legislature; a genuinely new necessity does not license a parallel law-making track.
+
+#### MCQ 37. Financial interface
+
+A minister proposes to introduce a State Money Bill while bypassing the Governor's constitutionally required recommendation. Which response best respects responsible government?
+
+A. Obtain the prescribed recommendation before introduction; this formal requirement does not create a general personal policy veto for the Governor.
+B. Introduce it in the Legislative Council and seek recommendation only after passage.
+C. Replace the recommendation with a vote of the Rajya Sabha.
+D. Treat Article 361 personal immunity as dispensing with all financial procedures.
+
+#### MCQ 38. Pleasure and tenure
+
+A Governor is removed before completing five years and sues on the ground that Article 156 guarantees an unconditional five-year term. Which distinction matters?
+
+A. A fixed five-year term prevents any removal by the President.
+B. The office is held during presidential pleasure, but *B.P. Singhal* rejects arbitrary exercise of removal power.
+C. The Chief Minister may remove the Governor after a no-confidence motion.
+D. Removal is valid only after legislative impeachment by both State Houses.
+
+#### MCQ 39. State information chain
+
+The Governor asks for information about a cabinet decision taken without discussion in the full Council. Which constitutional actor must convey information and, if required, submit the matter for Council consideration?
+
+A. The Assembly Speaker under the Tenth Schedule.
+B. The President under Article 143.
+C. The Chief Minister under Article 167.
+D. The Advocate-General exercising a personal executive veto.
+
+#### MCQ 40. Immunity and review
+
+A petitioner challenges the legality of a State government's decision formally issued in the Governor's name. Which answer respects Article 361?
+
+A. Any use of the Governor's name makes the government decision unreviewable.
+B. The Governor must personally defend the policy on oath as an individual defendant.
+C. The challenger must wait until the Governor's term expires before suing the government.
+D. The Governor's personal immunity does not place governmental action beyond judicial review.
+
+### Separate solved key — MCQs 1–40
+
+#### MCQ 1 —
 
 **Answer: A.**
 
@@ -27,14 +382,7 @@ D. A common Governor merges the participating State executives.
 
 **Examiner trap 1:** Common incumbent is not constitutional merger.
 
-#### MCQ 2.
-
-How is a State Governor constitutionally selected?
-
-A. By an electoral college of State legislators.
-B. By the President through a warrant under hand and seal.
-C. By the Chief Minister subject to High Court confirmation.
-D. By the Legislative Assembly through proportional representation.
+#### MCQ 2 —
 
 **Answer: B.**
 
@@ -48,14 +396,7 @@ D. By the Legislative Assembly through proportional representation.
 
 **Examiner trap 2:** Do not import the President's election method into Article 155.
 
-#### MCQ 3.
-
-Which pair exhausts the constitutional qualifications in Article 157?
-
-A. Residence in the State and a law degree.
-B. Thirty years of age and legislative membership.
-C. Indian citizenship and completed age of thirty-five years.
-D. Eminence in public life and political non-partisanship.
+#### MCQ 3 —
 
 **Answer: C.**
 
@@ -69,14 +410,7 @@ D. Eminence in public life and political non-partisanship.
 
 **Examiner trap 3:** Sarkaria criteria must not be converted into Article 157 text.
 
-#### MCQ 4.
-
-Who ordinarily administers the Governor's oath under Article 159?
-
-A. The President of India.
-B. The Chief Minister.
-C. The Speaker of the Assembly.
-D. The Chief Justice of the jurisdictional High Court, or the available senior judge in the Chief Justice's absence.
+#### MCQ 4 —
 
 **Answer: D.**
 
@@ -90,14 +424,7 @@ D. The Chief Justice of the jurisdictional High Court, or the available senior j
 
 **Examiner trap 4:** Appointment and oath are performed by different constitutional authorities.
 
-#### MCQ 5.
-
-Which statement best reflects Article 156 read with B.P. Singhal (2010)?
-
-A. Five years is subject to presidential pleasure, but removal cannot be arbitrary, capricious, unreasonable or mala fide.
-B. A Governor has an enforceable five-year tenure unless impeached.
-C. The State Assembly may remove the Governor by effective majority.
-D. Every removal is non-justiciable because reasons are never relevant.
+#### MCQ 5 —
 
 **Answer: A.**
 
@@ -111,14 +438,7 @@ D. Every removal is non-justiciable because reasons are never relevant.
 
 **Examiner trap 5:** Pleasure is broad tenure power, not a synonym for arbitrariness.
 
-#### MCQ 6.
-
-What did Hargovind Pant v. Dr Raghukul Tilak (1979) decide?
-
-A. A Governor must be an outsider to the State.
-B. The Governor's office is an independent constitutional office, not employment under the Union for Article 319(d).
-C. A former SPSC member can never become Governor.
-D. The Governor is a subordinate employee of the President.
+#### MCQ 6 —
 
 **Answer: B.**
 
@@ -132,14 +452,7 @@ D. The Governor is a subordinate employee of the President.
 
 **Examiner trap 6:** Use the Article 319(d) context, not a vague independence slogan.
 
-#### MCQ 7.
-
-Which proposition about Article 361 is correct?
-
-A. No civil proceeding may ever be filed for a Governor's personal act.
-B. Every governmental act done in the Governor's name is immune from review.
-C. The Governor enjoys personal process protections during office, while the underlying governmental action can still be reviewed.
-D. Article 361 gives House-speech immunity under Article 194.
+#### MCQ 7 —
 
 **Answer: C.**
 
@@ -153,14 +466,7 @@ D. Article 361 gives House-speech immunity under Article 194.
 
 **Examiner trap 7:** Immunity of person is not immunity of decision or supporting material.
 
-#### MCQ 8.
-
-How should Articles 154 and 163 be read together?
-
-A. Article 154 makes every executive decision personally discretionary.
-B. Article 163 transfers State executive power to the President.
-C. Article 154 eliminates collective responsibility.
-D. Formal vesting in the Governor operates through the CM-led Council's advice except in a bounded constitutional field.
+#### MCQ 8 —
 
 **Answer: D.**
 
@@ -174,14 +480,7 @@ D. Formal vesting in the Governor operates through the CM-led Council's advice e
 
 **Examiner trap 8:** Formal vesting does not prove personal government.
 
-#### MCQ 9.
-
-The central holding of Shamsher Singh (1974) for State executive power is that:
-
-A. The Governor is a constitutional head ordinarily acting on ministerial advice, including in Article 234 appointments.
-B. Article 163 creates unlimited personal discretion.
-C. The Governor may dismiss any majority-holding ministry.
-D. Every power expressed in the Governor's name requires personal satisfaction.
+#### MCQ 9 —
 
 **Answer: A.**
 
@@ -195,14 +494,7 @@ D. Every power expressed in the Governor's name requires personal satisfaction.
 
 **Examiner trap 9:** Attach Shamsher Singh to advice and its subordinate-judiciary context.
 
-#### MCQ 10.
-
-Which is outside a legitimate domain of gubernatorial discretion?
-
-A. Choosing a credible CM claimant in a genuinely hung Assembly.
-B. Selecting ministers contrary to the Chief Minister's advice because the Governor prefers another team.
-C. Sending a reasoned Article 356 report on constitutional breakdown.
-D. Using a specially worded constitutional responsibility in a named State.
+#### MCQ 10 —
 
 **Answer: B.**
 
@@ -216,14 +508,7 @@ D. Using a specially worded constitutional responsibility in a named State.
 
 **Examiner trap 10:** Political controversy by itself does not manufacture discretion.
 
-#### MCQ 11.
-
-Which statement correctly bounds special gubernatorial responsibilities?
-
-A. Every Governor has personal law-and-order control.
-B. Article 371A applies uniformly to all tribal States.
-C. Articles 371A(1)(b) and 371H(a) create named law-and-order responsibilities; Sixth Schedule functions are provision-specific.
-D. Special responsibility authorises disregard of the Council in ordinary policy.
+#### MCQ 11 —
 
 **Answer: C.**
 
@@ -237,14 +522,7 @@ D. Special responsibility authorises disregard of the Council in ordinary policy
 
 **Examiner trap 11:** Never turn a named-State exception into an all-India gubernatorial power.
 
-#### MCQ 12.
-
-In a hung Assembly, the constitutionally safest course is to:
-
-A. Always invite the single largest party regardless of support.
-B. Wait indefinitely until parties agree unanimously.
-C. Allow the Governor to count confidence privately and finally.
-D. Invite a credible claimant on objective support and require a prompt floor test.
+#### MCQ 12 —
 
 **Answer: D.**
 
@@ -258,14 +536,7 @@ D. Invite a credible claimant on objective support and require a prompt floor te
 
 **Examiner trap 12:** Appointment opens the process; the floor test validates the government.
 
-#### MCQ 13.
-
-Which case most directly supports a prompt floor test where resignations created objective doubt in 2020 Madhya Pradesh?
-
-A. Shivraj Singh Chouhan v. Speaker, Madhya Pradesh Legislative Assembly.
-B. Hargovind Pant v. Raghukul Tilak.
-C. Epuru Sudhakar v. Government of Andhra Pradesh.
-D. B.P. Singhal v. Union of India.
+#### MCQ 13 —
 
 **Answer: A.**
 
@@ -279,14 +550,7 @@ D. B.P. Singhal v. Union of India.
 
 **Examiner trap 13:** Use Shivraj for objective resignation material, not every factional quarrel.
 
-#### MCQ 14.
-
-What is the exact warning from Rameshwar Prasad (2006)?
-
-A. The Governor must invite only a pre-poll alliance.
-B. Anticipated horse-trading cannot replace objective material and House process to justify pre-emptive dissolution.
-C. Article 356 proclamations are wholly non-justiciable.
-D. Courts must always restore a dissolved Assembly.
+#### MCQ 14 —
 
 **Answer: B.**
 
@@ -300,14 +564,7 @@ D. Courts must always restore a dissolved Assembly.
 
 **Examiner trap 14:** Invalidity of dissolution and the eventual remedy are separate questions.
 
-#### MCQ 15.
-
-Nabam Rebia (2016) held, in the Arunachal Pradesh context, that the Governor:
-
-A. May dictate the legislative agenda whenever removal of the Speaker is proposed.
-B. Possesses final authority over Tenth Schedule disqualification.
-C. Could not unilaterally pre-pone the session and prescribe the Speaker-removal agenda; Article 174 functions are normally advice-bound.
-D. May dissolve the Assembly without considering ministerial advice.
+#### MCQ 15 —
 
 **Answer: C.**
 
@@ -321,14 +578,7 @@ D. May dissolve the Assembly without considering ministerial advice.
 
 **Examiner trap 15:** Separate the valid Governor holding from the referred Speaker-removal question.
 
-#### MCQ 16.
-
-According to Subhash Desai (2023), a Governor should call a floor test:
-
-A. To identify which faction controls a political party.
-B. Whenever any group of legislators alleges internal dissatisfaction.
-C. To decide the validity of a party whip.
-D. Only on objective material indicating possible loss of House confidence, not factional dissent alone.
+#### MCQ 16 —
 
 **Answer: D.**
 
@@ -342,14 +592,7 @@ D. Only on objective material indicating possible loss of House confidence, not 
 
 **Examiner trap 16:** A floor test verifies House confidence; it does not create the doubt it purports to test.
 
-#### MCQ 17.
-
-State of Punjab v. Principal Secretary to the Governor (2023) establishes that:
-
-A. The Governor cannot keep Bills pending indefinitely and, if withholding assent, must follow the return route in Article 200's first proviso.
-B. A Governor may invalidate a legislative sitting merely by questioning it.
-C. Every pending Bill receives automatic deemed assent.
-D. The Court may dictate which Article 200 option the Governor selects.
+#### MCQ 17 —
 
 **Answer: A.**
 
@@ -363,14 +606,7 @@ D. The Court may dictate which Article 200 option the Governor selects.
 
 **Examiner trap 17:** Punjab rejects inaction, not the Governor's listed constitutional choices.
 
-#### MCQ 18.
-
-Under the five-judge 2025 Article 143 opinion, Article 200 presents:
-
-A. Four independent options including a free-standing return power.
-B. Three options: assent; reserve; or withhold and return a non-Money Bill with comments.
-C. Only assent or reservation.
-D. A personal pocket veto of indefinite silence.
+#### MCQ 18 —
 
 **Answer: B.**
 
@@ -384,14 +620,7 @@ D. A personal pocket veto of indefinite silence.
 
 **Examiner trap 18:** Count the current opinion's routes, not isolated verbs in the bare text.
 
-#### MCQ 19.
-
-How should the April and November 2025 assent decisions be related?
-
-A. The advisory opinion appellate-set aside all relief in the Tamil Nadu case.
-B. The Tamil Nadu judgment remains the sole general rule on fixed timelines.
-C. The later advisory opinion expressly called the general timeline/deemed-assent reasoning erroneous, but did not formally overrule or set aside the inter partes relief.
-D. Both decisions require automatic assent after three months.
+#### MCQ 19 —
 
 **Answer: C.**
 
@@ -405,14 +634,7 @@ D. Both decisions require automatic assent after three months.
 
 **Examiner trap 19:** Say 'disapproved the general propositions', not 'formally overruled'.
 
-#### MCQ 20.
-
-After a non-Money Bill reserved under Article 201 is returned and passed again, the President:
-
-A. Must assent because Article 200's repassage rule applies identically.
-B. Loses power to withhold assent.
-C. Must obtain a fresh Article 143 opinion.
-D. Is not constitutionally compelled to assent; Article 201 contains no 'shall not withhold' command.
+#### MCQ 20 —
 
 **Answer: D.**
 
@@ -426,14 +648,7 @@ D. Is not constitutionally compelled to assent; Article 201 contains no 'shall n
 
 **Examiner trap 20:** The State Houses' six-month reconsideration duty does not bind the President to assent.
 
-#### MCQ 21.
-
-When can an Article 213 ordinance ordinarily be promulgated in a bicameral State?
-
-A. When the Legislative Assembly is not in session or when both Houses are not simultaneously in session, and immediate action is necessary.
-B. Only when both Houses have been dissolved.
-C. Whenever the Governor disagrees with pending legislation.
-D. Only after presidential assent to the ordinance text.
+#### MCQ 21 —
 
 **Answer: A.**
 
@@ -447,14 +662,7 @@ D. Only after presidential assent to the ordinance text.
 
 **Examiner trap 21:** The power is unavailable only when both Houses are in session together.
 
-#### MCQ 22.
-
-D.C. Wadhwa v. State of Bihar is best known for holding that:
-
-A. Every ordinance is unconstitutional.
-B. Routine serial re-promulgation to avoid the legislature is a fraud on the Constitution.
-C. Ordinances survive permanently after lapse.
-D. The Governor may legislate on Union List subjects.
+#### MCQ 22 —
 
 **Answer: B.**
 
@@ -468,14 +676,7 @@ D. The Governor may legislate on Union List subjects.
 
 **Examiner trap 22:** The vice is repetition as a governing method, not a genuinely urgent first ordinance.
 
-#### MCQ 23.
-
-Krishna Kumar Singh (2017) adds which control to ordinance doctrine?
-
-A. The Governor's satisfaction can never be reviewed.
-B. Re-promulgation becomes valid after three cycles.
-C. Laying before the legislature is mandatory, satisfaction is reviewable at constitutional limits, and effects do not automatically endure.
-D. Every ordinance must first be approved by the High Court.
+#### MCQ 23 —
 
 **Answer: C.**
 
@@ -489,14 +690,7 @@ D. Every ordinance must first be approved by the High Court.
 
 **Examiner trap 23:** Do not reduce Krishna Kumar Singh to only the six-week expiry rule.
 
-#### MCQ 24.
-
-Which comparison of Articles 72 and 161 is correct?
-
-A. A Governor may pardon a death sentence whenever the offence lies in the State field.
-B. A Governor has no clemency power at all in a death-sentence case.
-C. A Governor may exercise clemency over court-martial punishment arising within the State.
-D. A Governor cannot pardon a death sentence, but may suspend, remit or commute it within the State field; the President may pardon a death sentence and exercises court-martial clemency.
+#### MCQ 24 —
 
 **Answer: D.**
 
@@ -510,14 +704,7 @@ D. A Governor cannot pardon a death sentence, but may suspend, remit or commute 
 
 **Examiner trap 24:** Article 161 uses the word 'pardon' generally, but a Governor cannot pardon a death sentence; do not erase the retained powers to suspend, remit or commute it.
 
-#### MCQ 25.
-
-Maru Ram (1980) treats constitutional clemency as:
-
-A. A power exercised by the appropriate government through binding ministerial advice, not personal mercy.
-B. A judicial appeal from the conviction.
-C. An unrestricted personal discretion of the Governor.
-D. A power exercisable only after legislative approval.
+#### MCQ 25 —
 
 **Answer: A.**
 
@@ -531,14 +718,7 @@ D. A power exercisable only after legislative approval.
 
 **Examiner trap 25:** Article 161 orders are governmental decisions in constitutional form.
 
-#### MCQ 26.
-
-Epuru Sudhakar (2006) permits judicial review of clemency for:
-
-A. Any disagreement with the sentence length.
-B. Mala fides, arbitrariness, non-application of mind, exclusion of relevant material or reliance on irrelevant material.
-C. A complete rehearing of guilt in every case.
-D. Only a defect in the Governor's signature.
+#### MCQ 26 —
 
 **Answer: B.**
 
@@ -552,14 +732,7 @@ D. Only a defect in the Governor's signature.
 
 **Examiner trap 26:** Limited review tests decision defects, not the wisdom of mercy as an appeal.
 
-#### MCQ 27.
-
-Article 167(c) enables the Governor to require the Chief Minister to:
-
-A. Dismiss an individual minister without Cabinet consideration.
-B. Disclose Cabinet advice in court.
-C. Place before the Council a matter decided by a minister but not considered by the Council.
-D. Transfer State executive power to the Union.
+#### MCQ 27 —
 
 **Answer: C.**
 
@@ -573,14 +746,7 @@ D. Transfer State executive power to the Union.
 
 **Examiner trap 27:** Article 167 creates an information bridge, not departmental command.
 
-#### MCQ 28.
-
-Which statement accurately describes Article 164 responsibility and membership?
-
-A. The Council is responsible to both State Houses equally.
-B. A non-member minister has one year to enter the legislature.
-C. Governor pleasure allows dismissal of a majority-holding CM at will.
-D. The Council is collectively responsible to the Assembly, and a minister ceases after six consecutive months without legislative membership.
+#### MCQ 28 —
 
 **Answer: D.**
 
@@ -594,14 +760,7 @@ D. The Council is collectively responsible to the Assembly, and a minister cease
 
 **Examiner trap 28:** The confidence House and the cap base are both the Legislative Assembly, but membership may be in either House.
 
-#### MCQ 29.
-
-What did the Ninety-first Amendment Act, 2003, section 3 insert for States?
-
-A. Articles 164(1A)-(1B): a fifteen-per-cent Assembly-based cap with minimum twelve and a specified defector bar.
-B. A fixed five-year term for Governors.
-C. Direct election of Chief Ministers.
-D. A uniform constitutional Cabinet-rank hierarchy.
+#### MCQ 29 —
 
 **Answer: A.**
 
@@ -615,14 +774,7 @@ D. A uniform constitutional Cabinet-rank hierarchy.
 
 **Examiner trap 29:** The fifteen-per-cent denominator is total Assembly membership, not both Houses.
 
-#### MCQ 30.
-
-The Ninety-fourth Amendment Act, 2006, section 2 changed Article 164 by:
-
-A. Abolishing the Tribal Welfare Minister requirement.
-B. Substituting Chhattisgarh and Jharkhand for Bihar in the named-State proviso.
-C. Adding every Fifth Schedule State to the proviso.
-D. Moving the requirement into the Sixth Schedule.
+#### MCQ 30 —
 
 **Answer: B.**
 
@@ -636,14 +788,7 @@ D. Moving the requirement into the Sixth Schedule.
 
 **Examiner trap 30:** Remember the exact substitution and resulting four-State list.
 
-#### MCQ 31.
-
-Under Articles 165 and 177, the Advocate General:
-
-A. Must be a sitting High Court judge.
-B. May vote in either State House without membership.
-C. Must qualify for appointment as a High Court judge and may speak/participate without an automatic vote.
-D. Is appointed by the Chief Justice of the High Court.
+#### MCQ 31 —
 
 **Answer: C.**
 
@@ -657,14 +802,7 @@ D. Is appointed by the Chief Justice of the High Court.
 
 **Examiner trap 31:** Participation under Article 177 is not House membership.
 
-#### MCQ 32.
-
-Which final combination is constitutionally accurate?
-
-A. The Governor appoints High Court judges and is Chancellor by Article 153.
-B. Article 234 requires only gubernatorial personal satisfaction.
-C. University statutes cannot alter a Governor's Chancellor role.
-D. Articles 233-234 build High Court/SPSC consultation into judicial-service appointments, while any Chancellor role arises only from the relevant State statute.
+#### MCQ 32 —
 
 **Answer: D.**
 
@@ -677,6 +815,118 @@ D. Articles 233-234 build High Court/SPSC consultation into judicial-service app
 **Option D explanation:** This preserves judicial-independence checks and the statutory-role boundary.
 
 **Examiner trap 32:** Do not place a statute-created university office inside the constitutional Governor power list.
+
+#### MCQ 33 — Support letters and a fractured House
+
+**Answer: A.**
+
+**Option A explanation:** Article 164 authorises appointment; objective support plus an early House test respects Assembly accountability without inventing a binding invitation order.
+
+**Option B explanation:** Numerical rank is relevant evidence but cannot replace the majority that must be shown on the floor.
+
+**Option C explanation:** A popular referendum is not a constitutional government-formation mechanism.
+
+**Option D explanation:** Disqualification disputes belong to the competent constitutional forum, not gubernatorial pre-adjudication.
+
+**Examiner trap 33:** Initial invitation is provisional; proof of majority belongs in the House.
+
+#### MCQ 34 — Defection versus majority
+
+**Answer: B.**
+
+**Option A explanation:** A floor test is not a device to settle who legitimately leads a party.
+
+**Option B explanation:** An objective basis to doubt the ministry's House majority is necessary; factional disagreement alone does not supply it.
+
+**Option C explanation:** Party symbols and rival organisational claims are not decided by the Governor.
+
+**Option D explanation:** Collective responsibility is to the Assembly; a petition does not itself prove defeat there.
+
+**Examiner trap 34:** Do not turn party-organisation disputes into a manufactured floor-test trigger.
+
+#### MCQ 35 — Article 200 after a returned Bill
+
+**Answer: C.**
+
+**Option C explanation:** The return proviso forecloses a repeat withholding after reconsideration; it does not turn every Bill into a gubernatorial policy referendum.
+
+**Option A explanation:** The express reconsideration route is not an endless return cycle.
+
+**Option B explanation:** The President enters the process only after constitutionally proper reservation.
+
+**Option D explanation:** Repassing a Bill and proving ministry majority are different House acts.
+
+**Examiner trap 35:** Distinguish the bar on repeat withholding from the separately debated scope of reservation; do not invent an automatic-assent court order.
+
+#### MCQ 36 — Ordinance re-promulgation
+
+**Answer: D.**
+
+**Option D explanation:** *D.C. Wadhwa* and *Krishna Kumar Singh* constrain serial avoidance of legislative consideration.
+
+**Option A explanation:** Article 213 does confer a conditional temporary law-making power.
+
+**Option B explanation:** Laying does not replace passage of ordinary legislation.
+
+**Option C explanation:** Identity of wording cannot itself demonstrate fresh necessity or cure evasion.
+
+**Examiner trap 36:** The vice is constitutional evasion, not an unconditional ban on any second ordinance.
+
+#### MCQ 37 — Financial interface
+
+**Answer: A.**
+
+**Option A explanation:** The financial recommendation condition must be met while ordinary gubernatorial action remains framed by responsible government.
+
+**Option B explanation:** A State Money Bill cannot be introduced in the Council.
+
+**Option C explanation:** Rajya Sabha belongs to Union Parliament, not State financial procedure.
+
+**Option D explanation:** Personal immunity has no effect on a Bill's constitutional route.
+
+**Examiner trap 37:** Formal initiation through the Governor is not a new autonomous financial ministry.
+
+#### MCQ 38 — Pleasure and tenure
+
+**Answer: B.**
+
+**Option B explanation:** The ordinary five-year tenure is subject to pleasure, but constitutional power is not a licence for capricious removal.
+
+**Option A explanation:** It erases the Article 156 pleasure clause.
+
+**Option C explanation:** The Chief Minister has no such removal power.
+
+**Option D explanation:** State legislatures do not impeach Governors.
+
+**Examiner trap 38:** Reject both absolute security and unreviewable political whim.
+
+#### MCQ 39 — State information chain
+
+**Answer: C.**
+
+**Option C explanation:** Article 167 makes the Chief Minister the information and reconsideration channel between the ministry and Governor.
+
+**Option A explanation:** The Speaker's defection jurisdiction does not replace the Chief Minister's executive communication duties.
+
+**Option B explanation:** Advisory reference to the Supreme Court is unrelated to State ministerial communication.
+
+**Option D explanation:** The Advocate-General's legal-advice role does not make that office the Council's political head.
+
+**Examiner trap 39:** A right to ask for information is not a right to run the ministry.
+
+#### MCQ 40 — Immunity and review
+
+**Answer: D.**
+
+**Option D explanation:** Article 361 protects the officeholder personally; the legality of a government act can still be tested.
+
+**Option A explanation:** Formal executive expression under Article 166 does not immunise unconstitutional acts.
+
+**Option B explanation:** Personal non-answerability is not removed simply by naming the officeholder.
+
+**Option C explanation:** Review of the State's action need not await the end of an incumbent's term.
+
+**Examiner trap 40:** Keep personal process immunity separate from substantive legality of State action.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -757,28 +1007,44 @@ D. 1, 2 and 3
 **Question:** How far have cooperation, competition and confrontation shaped the nature of federation in India?  
 **10 marks | 150 words | Primary owner: Polity 12**
 
-**Model route:** Cooperation appears through fiscal and intergovernmental institutions; competition through State policy innovation; confrontation through assent, Article 356, fiscal and investigative disputes. Articles 155-156 create the Governor's Union link, while Bommai and the 2025 assent opinion make conflict reviewable and bounded. Conflict is not inherently anti-federal, but partisan use of constitutional offices destroys bargaining trust.
+**Independent model answer:** Indian federalism accommodates cooperation, competition and confrontation because it combines divided powers with shared policy problems. Cooperation appears when Union and States negotiate through intergovernmental institutions and coordinated fiscal arrangements. Competition can stimulate State innovation in public services and investment; its value depends on fair fiscal space rather than a race to weaken safeguards.
+
+Confrontation is also constitutionally possible. The Governor's Union appointment under Articles 155-156 intersects with State government formation, assent and constitutional-breakdown reporting. A contested floor-test call or an unexplained delay over a State Bill may convert a coordination office into a source of partisan suspicion. *S.R. Bommai* insists on objective material and House-based proof of majority; the 2025 Article 143 assent opinion recognises limited relief against prolonged, unexplained inaction without substituting judicial assent. These limits preserve disagreement while preventing constitutional paralysis.
+
+Neither competition nor confrontation is automatically anti-federal: States must be able to contest Union preferences. What matters is whether the dispute is processed through transparent reasons, legislative deliberation and judicially enforceable boundaries. Consultation and neutral constitutional offices convert episodic conflict into durable cooperation.
 
 #### PYQ-M3 — UPSC GS-II 2022, Q13 — supporting party-federalism application
 
 **Question:** While national political parties in India favour centralisation, regional parties favour State autonomy. Comment.  
 **15 marks | 250 words | Primary owner: Polity 12**
 
-**Model route:** The proposition captures an incentive, not an invariant ideology. Parties often reverse positions with their location in power. The Governor illustrates structural asymmetry because Union appointment and pleasure tenure intersect with State formation, assent and breakdown. Sarkaria, NCRWC and Punchhi reforms seek office-neutrality whichever party governs the Union.
+**Independent model answer:** The proposition identifies a recurring political incentive, not a fixed attribute of party ideology. A national party controlling the Union may seek policy uniformity and control over fiscal or administrative levers; a regional party with concentrated State support may prefer greater autonomy. Yet parties can reverse those preferences when they change office. Therefore party name alone cannot explain a particular federal dispute.
+
+The Governor exposes the constitutional setting of this incentive. Articles 155-156 place appointment and tenure at the Union level, whereas Articles 164, 200 and 356 connect the office with State ministry formation, legislation and breakdown. If a Governor treats factional claims as loss of Assembly confidence, *Subhash Desai* requires an objective basis rather than factional dissent alone. If dissolution rests on conjecture, *Rameshwar Prasad* supplies a reviewable limit. *Bommai* protects the Assembly floor as the ordinary site of majority proof. These controls apply regardless of the parties' identity.
+
+Sarkaria's emphasis on detached appointments and consultation, alongside NCRWC and Punchhi reform proposals, aims to insulate the office from changing partisan advantage; these proposals must not be mistaken for enacted selection rules. Strong federalism requires all parties to respect State autonomy when both governing and opposing the Union. The test is consistent constitutional conduct, not a permanent centralising/regionalist label.
 
 #### PYQ-M4 — UPSC GS-II 2023, Q13 — supporting emergency application
 
 **Verified demand:** Account for legal and political factors behind reduced Article 356 use since the mid-1990s.  
 **15 marks | 250 words | Primary owner: Polity 14**
 
-**Model route:** *S.R. Bommai* made proclamations reviewable and floor tests central; *Rameshwar Prasad* invalidated speculative dissolution. Coalition federalisation, regional parties, public scrutiny and commission norms raised political costs. Article 356 remains available on a report or otherwise, so restraint reflects altered incentives rather than textual repeal.
+**Independent model answer:** Reduced use of Article 356 since the mid-1990s is better explained by constraints on its exercise than by any repeal of the emergency power. *S.R. Bommai* subjected proclamations to judicial review and located proof of a ministry's majority ordinarily on the Assembly floor. This reduces the scope for a Governor's subjective prediction of failure to substitute for an actual legislative test. *Rameshwar Prasad* later rejected speculative dissolution founded on feared defections rather than demonstrated constitutional breakdown. Judicial review changes the expected cost of unsupported recommendations, although it cannot prevent every crisis.
+
+Politics changed too. Regional parties, coalition-building and State-level electoral competition increased the reputational price of dismissing an elected ministry. Public scrutiny and federal-reform commission guidance strengthened the norm that disagreement with State policy is not failure of constitutional machinery. A neutral Governor should report verifiable facts, consider whether an alternative government can command confidence, and preserve rather than pre-empt House determination.
+
+Article 356 remains available on a gubernatorial report **or otherwise** where constitutional government genuinely cannot be carried on. Its continued existence means the trend is not a categorical ban. Legal review, changed party incentives and clearer institutional norms together explain restraint, while genuine breakdown still demands constitutionally accountable action.
 
 #### PYQ-M5 — UPSC GS-II 2024, Q13 — supporting Centre-State application
 
 **Verified demand:** Explain recent changes in Centre-State relations and measures for trust and stronger federalism.  
 **15 marks | 250 words | Primary owner: Polity 13**
 
-**Model route:** Use GST and intergovernmental coordination for cooperation, fiscal/agency/assent disputes for confrontation, and judicial controls for constitutional bargaining. Match reforms to defects: transparent gubernatorial reasons, prompt floor tests, consultative appointment, predictable transfers and statute-specific university governance. Commission recommendations remain proposals.
+**Independent model answer:** Centre-State relations show simultaneous coordination and contest. Shared fiscal decisions and intergovernmental consultation demonstrate how national programmes require State implementation and bargaining; disagreements over resources, investigations, Bills awaiting assent and changes of ministry reveal the limits of trust. The Governor is a sensitive junction because the Union appoints the officeholder under Article 155, while State legislative and executive processes depend on constitutionally defined gubernatorial actions.
+
+Institutional repair must match the specific failure. Where ministry support is disputed, a prompt floor test based on objective material protects the Assembly's role; *Subhash Desai* rejects treating a party faction's internal dispute as sufficient proof of lost confidence. Where assent is delayed, the 2025 Article 143 opinion rejects deemed assent and rigid court-imposed deadlines but permits limited mandamus against glaring, prolonged, unexplained inaction. Where statutory university functions cause friction, reform the governing statute instead of pretending that all Chancellor powers arise from the Constitution.
+
+Transparent reasons, consultative gubernatorial appointment, predictable tenure and transfers, responsive intergovernmental forums and meaningful State fiscal voice can rebuild trust. Sarkaria, NCRWC and Punchhi recommendations supply reform choices, not already binding legal conditions. Stronger federalism needs accountable Union action and genuine State autonomy: neither judicial management of everyday politics nor unfettered gubernatorial discretion is a substitute for political consultation.
 
 ### Exactly six original Mains questions with model solutions
 
@@ -796,6 +1062,8 @@ D. 1, 2 and 3
 
 **Qualification:** *Bommai*, *Rameshwar Prasad*, *Nabam Rebia* and *Subhash Desai* require objective material, House-centred proof and reviewable purpose. Discretion is legitimate as process guardianship, dangerous as political supervision.
 
+**Application and verdict:** Support letters warrant a provisional invitation followed by an early floor test, not private gubernatorial arithmetic. Intra-party dissent alone cannot establish lost House confidence. Transparent reasons and prompt House verification reconcile discretion with elected responsibility.
+
 #### Original Q2 — 10 marks — answer in not more than 150 words
 
 **Question:** Explain why the Chief Minister and State Council of Ministers constitute the real State executive.
@@ -809,6 +1077,8 @@ D. 1, 2 and 3
 **Analysis:** The CM selects and coordinates ministers, controls portfolios, leads the legislative programme and converts majority support into administration. The Council stands or falls together before the Assembly.
 
 **Qualification:** The Governor retains real threshold and scrutiny functions in formation, assent and breakdown. Nevertheless, ordinary policy authority follows democratic responsibility; hence the State executive is formally gubernatorial but substantively ministerial.
+
+**Institutional distinction:** Ministers are appointed on the CM's advice. Article 167 permits information requests and Council consideration, not direct policy. Assembly defeat, not gubernatorial disagreement, ends a ministry's democratic mandate. Council decisions remain answerable to representatives through questions, debate and the confidence vote.
 
 #### Original Q3 — 15 marks — answer in not more than 250 words
 
@@ -824,6 +1094,8 @@ D. 1, 2 and 3
 
 **Qualification:** The advisory opinion expressly disapproved the April judgment's general timeline and deemed-assent reasoning, but did not appellate-set aside its inter partes relief. Therefore, Article 200 is neither a personal veto nor an automatic-assent mechanism: the Governor must decide, while courts police non-performance without choosing the result.
 
+**Process distinction:** Return lets the Legislature reconsider; reservation enters Article 201. A Bill endangering the constitutional position of a High Court must be reserved. Limited relief against prolonged inaction enforces action, not a predetermined legislative outcome.
+
 #### Original Q4 — 15 marks — answer in not more than 250 words
 
 **Question:** Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence.
@@ -837,6 +1109,8 @@ D. 1, 2 and 3
 **Analysis:** An early test minimises private arithmetic and ensures public accountability. If the ministry loses, it should resign; if it refuses after demonstrated loss, dismissal may follow. The Governor should explore a viable alternative before dissolution.
 
 **Qualification:** *Rameshwar Prasad* prohibits pre-emptive dissolution based on anticipated horse-trading. Disqualification, whip and symbol disputes remain with the Speaker, courts and ECI. A caretaker continues essentials with restraint. The stable sequence is objective support -> invitation -> prompt floor test -> alternative government -> dissolution only as last resort.
+
+**Operational safeguard:** Record verifiable competing claims without adjudicating the party whip. Speaker-led defection adjudication remains reviewable; the Election Commission handles symbol disputes. A floor vote, not gubernatorial preference, tests majority. A caretaker preserves continuity without a new mandate.
 
 #### Original Q5 — 20 marks — answer in not more than 250 words
 
@@ -854,6 +1128,8 @@ D. 1, 2 and 3
 
 **Reforms and qualification:** Sarkaria supports an eminent detached outsider, CM consultation and Article 356 restraint; NCRWC proposes plural selection; Punchhi favours stronger tenure/removal safeguards and clearer crisis rules. Transparent reasons, prompt tests and statute-specific Chancellor design should supplement law. These remain proposals. The objective is accountable neutrality, not a powerless Governor.
 
+**Federal mechanism:** *Subhash Desai* narrows the grounds for a confidence test; the 2025 Article 143 opinion permits limited relief for prolonged assent inaction, not deemed assent. Statutory Chancellor powers must not be confused with constitutional executive authority. Neutral appointment practice needs continuing legislative and intergovernmental consultation.
+
 #### Original Q6 — 20 marks — answer in not more than 250 words
 
 **Question:** Evaluate Article 213 as a balance between executive necessity and legislative supremacy.
@@ -869,3 +1145,5 @@ D. 1, 2 and 3
 **Qualification:** Courts should test competence, mala fides, relevant material and repetition, not substitute their view of policy urgency. A fresh, genuinely changed emergency may justify fresh action.
 
 **Verdict:** Necessity can authorise temporary law, but only legislative scrutiny can legitimise its continuation. Article 213 balances the two values when the ordinance is exceptional, reasoned, laid promptly and never used as a parallel legislature.
+
+**Application:** Reissuing a lapsed ordinance after the House reconvenes cannot be defended merely by repeating the initial urgency claim. Distinct later necessity may justify fresh action within Article 213's conditions. Laying enables the House to enact, modify or reject the policy; courts police evasion, not policy merits.

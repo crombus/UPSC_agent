@@ -2,11 +2,11 @@
 
 **Subject:** Polity | **Control date:** 8 September 2026
 
-**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 unique option explanations; 32 unique examiner traps; verified-PYQ official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original four-option MCQs; strictly rotating `ABCD` nine times; separate solved key with four option-specific explanations and a distinct trap per item; independently treated verified PYQs and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique examiner trap.
+The complete answer-free question set comes first; the separately headed solved key follows all 36 stems. Correct options rotate A → B → C → D.
 
 ### MCQ 1. Article 76 appointment
 
@@ -16,8 +16,292 @@ A. The President
 B. The Prime Minister
 C. Parliament
 D. The Chief Justice of India
+### MCQ 2. Qualification standard
 
-**Answer: A.**
+The Attorney-General must be qualified for appointment as
+
+A. a High Court Judge only
+B. a Supreme Court Judge
+C. the Chief Justice of India
+D. a Member of Parliament
+### MCQ 3. Article 124(3) route
+
+Which combination can satisfy the AGI qualification?
+
+A. Citizenship plus five years as any district judge
+B. Citizenship plus seven years as any advocate
+C. Citizenship plus ten years as advocate of one or more High Courts in succession
+D. Ten years as an MP without citizenship
+### MCQ 4. No retirement-age import
+
+Which statement about the AGI is constitutionally correct?
+
+A. The AGI retires at sixty-two
+B. The AGI retires at sixty-five
+C. The AGI must be a retired Supreme Court Judge
+D. Article 76 prescribes no retirement age for the office
+### MCQ 5. Article 76(2) duty
+
+Article 76(2) principally requires the AGI to
+
+A. advise the Government of India on referred legal matters and perform assigned or conferred legal functions
+B. audit Union expenditure
+C. preside over constitutional benches
+D. direct State Advocate-Generals
+### MCQ 6. Right of audience
+
+Article 76(3) gives the AGI a right of audience
+
+A. only in the Supreme Court
+B. in all courts in the territory of India while performing duties
+C. only in constitutional cases
+D. in Parliament as a voting member
+### MCQ 7. Article 88 participation
+
+Under Article 88, the AGI may
+
+A. vote in either House
+B. participate only if elected
+C. speak and take part in either House, a joint sitting and a named committee without voting by office
+D. preside over a joint sitting
+### MCQ 8. Article 105(4)
+
+The safest statement on the AGI's parliamentary privilege is
+
+A. the AGI has permanent immunity from every legal proceeding
+B. the AGI becomes an MP for privilege purposes
+C. Article 88 alone creates blanket immunity
+D. Article 105(4) extends the relevant clauses to constitutionally entitled participants for the legislative function
+### MCQ 9. Pleasure tenure
+
+The constitutional tenure of the AGI is best described as
+
+A. office during the President's pleasure, with no fixed constitutional term
+B. six years or age sixty-five
+C. five years protected against removal
+D. tenure until the Lok Sabha dissolves
+### MCQ 10. Remuneration
+
+Under Article 76(4), AGI remuneration is
+
+A. fixed in the Second Schedule
+B. determined by the President
+C. voted annually by the Supreme Court
+D. identical to a Supreme Court Judge's salary
+### MCQ 11. Effect of advice
+
+An AGI legal opinion is
+
+A. a binding constitutional direction
+B. a judgment enforceable by itself
+C. advice that informs government but does not bind the government or court merely by office
+D. equivalent to legislation
+### MCQ 12. Cabinet status
+
+Which proposition is correct?
+
+A. The AGI is ex officio Law Minister
+B. The AGI is a Cabinet member without portfolio
+C. The AGI votes in Cabinet on legal questions
+D. The AGI is not part of the Cabinet by virtue of office
+### MCQ 13. Whole-time status
+
+The standard constitutional and professional description is that the AGI
+
+A. is not a whole-time government servant
+B. must be a career civil servant
+C. cannot undertake any outside professional work
+D. is a permanent judicial officer
+### MCQ 14. Adverse brief
+
+A covered Union law officer may advise or hold a brief against the Government of India
+
+A. whenever fees are privately paid
+B. not under Rule 8's adverse-interest restriction
+C. after informing the Supreme Court Registry
+D. whenever Parliament is not in session
+### MCQ 15. Criminal defence permission
+
+Under the applicable Union Law Officers Rules, defence of an accused in a criminal prosecution
+
+A. is always compulsory
+B. is always prohibited without exception
+C. requires Government of India permission
+D. requires parliamentary resolution
+### MCQ 16. Company office permission
+
+Acceptance by a covered Union law officer of an office in a company or corporation
+
+A. is unrestricted
+B. requires only Bar Council permission
+C. is barred only after retirement
+D. requires Government of India permission under the rule
+### MCQ 17. Solicitor General status
+
+The Solicitor General of India is
+
+A. an executive/rule-governed Union law officer, not a constitutional office
+B. created by Article 76(5)
+C. a Supreme Court Judge by office
+D. a Cabinet minister
+### MCQ 18. Article 88 office-holder
+
+Which office receives Article 88 participation by virtue of that office?
+
+A. Every Additional Solicitor General
+B. The Attorney-General for India
+C. Every private senior advocate
+D. The Solicitor General alone
+### MCQ 19. Advocate-General source
+
+The Advocate-General for a State is created by
+
+A. Article 76
+B. Article 148
+C. Article 165
+D. a Union executive rule
+### MCQ 20. Advocate-General qualification
+
+Which is a valid Advocate-General qualification route?
+
+A. Distinguished jurist in the Governor's opinion
+B. Five years as a High Court Judge only
+C. Ten years as any private legal consultant
+D. Citizen of India with ten years as advocate of one or more High Courts in succession
+### MCQ 21. Article 177
+
+Article 177 allows the Advocate-General to
+
+A. speak and take part in the State House or Houses and a named committee without voting by office
+B. vote in the Legislative Assembly
+C. preside over the Legislative Council
+D. participate only if elected
+### MCQ 22. Article 194(4)
+
+Article 194(4) is relevant because it
+
+A. makes the Advocate-General a legislator
+B. extends the relevant privilege clauses to constitutionally entitled participants
+C. grants immunity for all private acts
+D. creates an all-India right of audience
+### MCQ 23. Audience comparison
+
+Which comparison is textually correct?
+
+A. Both Articles 76 and 165 expressly grant all-India audience
+B. Article 165 grants a Supreme-Court-only audience
+C. Article 76(3) expressly grants all-court audience; Article 165 contains no matching clause
+D. Neither Constitution provision addresses audience
+### MCQ 24. Law Minister distinction
+
+The Law Minister differs from the AGI because the Law Minister
+
+A. is the constitutional highest law officer
+B. has Article 76(3) audience by office
+C. is appointed as a Supreme Court Judge
+D. is a political executive member subject to ministerial responsibility
+### MCQ 25. CJI distinction
+
+The Chief Justice of India differs from the AGI principally because the CJI
+
+A. heads the judiciary and participates in adjudication rather than serving as government counsel
+B. advises the Government under Article 76
+C. may privately brief against the Union under Rule 8
+D. votes in Parliament under Article 88
+### MCQ 26. Private advocate distinction
+
+A private advocate engaged by the Union
+
+A. automatically becomes an Additional Solicitor General
+B. does not acquire Article 76 or Article 88 status merely from the brief
+C. may vote in Parliament on the case
+D. becomes a constitutional officer for the duration
+### MCQ 27. Litigation allocation
+
+The AGI's right of audience means that
+
+A. only the AGI may appear for the Union
+B. the AGI controls every case listing
+C. the AGI may be heard in all courts while performing duties, but briefs may be allocated to other authorised counsel
+D. courts must accept the AGI's submissions
+### MCQ 28. Contempt role
+
+Which statement most accurately describes the AGI's contempt-related role?
+
+A. The AGI alone may punish criminal contempt
+B. Every contempt case requires AGI consent
+C. The AGI may initiate any criminal prosecution
+D. Section 15 provides bounded motion/consent routes while courts retain suo motu and adjudicatory power
+### MCQ 29. Removal design
+
+Which is the correct constitutional statement on AGI removal?
+
+A. Article 76 prescribes no special removal procedure; pleasure governs
+B. Removal requires impeachment
+C. Removal requires a Supreme Court inquiry
+D. Removal requires a two-thirds parliamentary vote
+### MCQ 30. Brijeshwar Singh Chahal
+
+State of Punjab v Brijeshwar Singh Chahal (2016) is best used for
+
+A. creating an AGI appointment collegium
+B. fair, transparent and objective selection of State law-officer panels as a public function
+C. granting fixed tenure to all law officers
+D. making legal advice binding
+### MCQ 31. Reform priority
+
+Which reform best addresses the part-time conflict risk without misdescribing the Constitution?
+
+A. Declare the AGI a judge
+B. Give the AGI a parliamentary vote
+C. Use conflict disclosure, screening, recusal and permission records
+D. Give the AGI prosecution control
+### MCQ 32. Integrated proposition
+
+Which composite statement is correct?
+
+A. The AGI is a Cabinet member with a fixed term
+B. The AGI's advice binds courts and government
+C. The AGI cannot undertake any outside work under any circumstance
+D. The AGI is a constitutional law officer with all-court audience, Article 88 participation without vote, pleasure tenure and rule-bound outside work
+### MCQ 33. State counsel recruitment and constitutional appointment
+
+A State government calls for transparent merit-based selection of panel counsel after *State of Punjab v Brijeshwar Singh Chahal*. Which consequence follows for the constitutional Advocate-General?
+
+A. The judgment's fair-selection concern for State counsel cannot by itself be converted into a new Article 165 collegium or judicial appointment power.
+B. The High Court Chief Justice now appoints the Advocate-General without the Governor.
+C. Every panel lawyer acquires the Article 177 right to speak in the legislature.
+D. The Advocate-General must hold office for the fixed term granted to panel counsel.
+### MCQ 34. A State advocate speaks in the legislature
+
+The Advocate-General is invited to address a State legislative committee but is not an MLA or MLC. Which combination is correct?
+
+A. Membership is automatically conferred; voting depends on the chair's leave.
+B. Article 177 permits participation in a committee of which the Advocate-General is named a member, without a vote by virtue of office; Article 194(4) extends relevant proceeding-linked privileges.
+C. Article 88 governs State committees, with immunity from every later civil suit.
+D. Article 165 alone authorises voting and displaces the State Legislature's rules.
+### MCQ 35. Three different rights to appear
+
+A Union law officer has Article 76(3) audience in all courts; the State Advocate-General accepts a State brief. What is the narrowest defensible conclusion?
+
+A. Article 165 confers the same express all-India audience right on the State officer.
+B. Neither officer may appear outside the appointing State's High Court.
+C. The Union officer's express constitutional audience does not require assignment to every case; Article 165 contains no counterpart audience clause, so State appearances require the applicable legal and professional basis.
+D. The State officer's legislative speaking right supplies an unlimited right to conduct litigation.
+### MCQ 36. Consent for criminal contempt
+
+A private person seeks to move the Supreme Court for criminal contempt of a court without written law-officer consent. What is the correct qualification?
+
+A. The AGI's opinion decides guilt and sentence once consent is given.
+B. Every contempt proceeding in every court needs prior AGI consent, including a court's own motion.
+C. Any State panel counsel can replace the designated Supreme Court consent authority.
+D. Section 15's written-consent route for a person's Supreme Court motion includes the Attorney-General or Solicitor-General, but does not eliminate the Supreme Court's suo motu power.
+
+## SEPARATE SOLVED MCQ KEY
+
+### MCQ 1 — Answer A
+
+A.**
 
 **Option-specific explanations:**
 
@@ -28,16 +312,9 @@ D. The Chief Justice of India
 
 **Examiner trap 1:** Executive advice in practice must not replace the formal constitutional actor.
 
-### MCQ 2. Qualification standard
+### MCQ 2 — Answer B
 
-The Attorney-General must be qualified for appointment as
-
-A. a High Court Judge only
-B. a Supreme Court Judge
-C. the Chief Justice of India
-D. a Member of Parliament
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -48,16 +325,9 @@ D. a Member of Parliament
 
 **Examiner trap 2:** Qualification to be a judge is not appointment as a judge.
 
-### MCQ 3. Article 124(3) route
+### MCQ 3 — Answer C
 
-Which combination can satisfy the AGI qualification?
-
-A. Citizenship plus five years as any district judge
-B. Citizenship plus seven years as any advocate
-C. Citizenship plus ten years as advocate of one or more High Courts in succession
-D. Ten years as an MP without citizenship
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -68,16 +338,9 @@ D. Ten years as an MP without citizenship
 
 **Examiner trap 3:** Use the exact High Court and duration language.
 
-### MCQ 4. No retirement-age import
+### MCQ 4 — Answer D
 
-Which statement about the AGI is constitutionally correct?
-
-A. The AGI retires at sixty-two
-B. The AGI retires at sixty-five
-C. The AGI must be a retired Supreme Court Judge
-D. Article 76 prescribes no retirement age for the office
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -88,16 +351,9 @@ D. Article 76 prescribes no retirement age for the office
 
 **Examiner trap 4:** Do not import judicial tenure conditions along with judicial qualification.
 
-### MCQ 5. Article 76(2) duty
+### MCQ 5 — Answer A
 
-Article 76(2) principally requires the AGI to
-
-A. advise the Government of India on referred legal matters and perform assigned or conferred legal functions
-B. audit Union expenditure
-C. preside over constitutional benches
-D. direct State Advocate-Generals
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -108,16 +364,9 @@ D. direct State Advocate-Generals
 
 **Examiner trap 5:** A broad legal role is still an assigned and bounded role.
 
-### MCQ 6. Right of audience
+### MCQ 6 — Answer B
 
-Article 76(3) gives the AGI a right of audience
-
-A. only in the Supreme Court
-B. in all courts in the territory of India while performing duties
-C. only in constitutional cases
-D. in Parliament as a voting member
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -128,16 +377,9 @@ D. in Parliament as a voting member
 
 **Examiner trap 6:** Audience means a right to be heard, not an exclusive brief.
 
-### MCQ 7. Article 88 participation
+### MCQ 7 — Answer C
 
-Under Article 88, the AGI may
-
-A. vote in either House
-B. participate only if elected
-C. speak and take part in either House, a joint sitting and a named committee without voting by office
-D. preside over a joint sitting
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -148,16 +390,9 @@ D. preside over a joint sitting
 
 **Examiner trap 7:** Voice in Parliament is not membership of Parliament.
 
-### MCQ 8. Article 105(4)
+### MCQ 8 — Answer D
 
-The safest statement on the AGI's parliamentary privilege is
-
-A. the AGI has permanent immunity from every legal proceeding
-B. the AGI becomes an MP for privilege purposes
-C. Article 88 alone creates blanket immunity
-D. Article 105(4) extends the relevant clauses to constitutionally entitled participants for the legislative function
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -168,16 +403,9 @@ D. Article 105(4) extends the relevant clauses to constitutionally entitled part
 
 **Examiner trap 8:** Always connect privilege to the proceeding, not the person in every capacity.
 
-### MCQ 9. Pleasure tenure
+### MCQ 9 — Answer A
 
-The constitutional tenure of the AGI is best described as
-
-A. office during the President's pleasure, with no fixed constitutional term
-B. six years or age sixty-five
-C. five years protected against removal
-D. tenure until the Lok Sabha dissolves
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -188,16 +416,9 @@ D. tenure until the Lok Sabha dissolves
 
 **Examiner trap 9:** Convention after a change of government is not a constitutional expiry rule.
 
-### MCQ 10. Remuneration
+### MCQ 10 — Answer B
 
-Under Article 76(4), AGI remuneration is
-
-A. fixed in the Second Schedule
-B. determined by the President
-C. voted annually by the Supreme Court
-D. identical to a Supreme Court Judge's salary
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -208,16 +429,9 @@ D. identical to a Supreme Court Judge's salary
 
 **Examiner trap 10:** Do not infer salary conditions from the qualification standard.
 
-### MCQ 11. Effect of advice
+### MCQ 11 — Answer C
 
-An AGI legal opinion is
-
-A. a binding constitutional direction
-B. a judgment enforceable by itself
-C. advice that informs government but does not bind the government or court merely by office
-D. equivalent to legislation
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -228,16 +442,9 @@ D. equivalent to legislation
 
 **Examiner trap 11:** High constitutional status does not convert an opinion into law.
 
-### MCQ 12. Cabinet status
+### MCQ 12 — Answer D
 
-Which proposition is correct?
-
-A. The AGI is ex officio Law Minister
-B. The AGI is a Cabinet member without portfolio
-C. The AGI votes in Cabinet on legal questions
-D. The AGI is not part of the Cabinet by virtue of office
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -248,16 +455,9 @@ D. The AGI is not part of the Cabinet by virtue of office
 
 **Examiner trap 12:** Article 88 participation cannot be converted into Cabinet membership.
 
-### MCQ 13. Whole-time status
+### MCQ 13 — Answer A
 
-The standard constitutional and professional description is that the AGI
-
-A. is not a whole-time government servant
-B. must be a career civil servant
-C. cannot undertake any outside professional work
-D. is a permanent judicial officer
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -268,16 +468,9 @@ D. is a permanent judicial officer
 
 **Examiner trap 13:** Part-time status never means conflict-free unrestricted practice.
 
-### MCQ 14. Adverse brief
+### MCQ 14 — Answer B
 
-A covered Union law officer may advise or hold a brief against the Government of India
-
-A. whenever fees are privately paid
-B. not under Rule 8's adverse-interest restriction
-C. after informing the Supreme Court Registry
-D. whenever Parliament is not in session
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -288,16 +481,9 @@ D. whenever Parliament is not in session
 
 **Examiner trap 14:** Conflict controls follow the client and matter, not the forum calendar.
 
-### MCQ 15. Criminal defence permission
+### MCQ 15 — Answer C
 
-Under the applicable Union Law Officers Rules, defence of an accused in a criminal prosecution
-
-A. is always compulsory
-B. is always prohibited without exception
-C. requires Government of India permission
-D. requires parliamentary resolution
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -308,16 +494,9 @@ D. requires parliamentary resolution
 
 **Examiner trap 15:** Distinguish a conditional restriction from a universal prohibition.
 
-### MCQ 16. Company office permission
+### MCQ 16 — Answer D
 
-Acceptance by a covered Union law officer of an office in a company or corporation
-
-A. is unrestricted
-B. requires only Bar Council permission
-C. is barred only after retirement
-D. requires Government of India permission under the rule
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -328,16 +507,9 @@ D. requires Government of India permission under the rule
 
 **Examiner trap 16:** The rule concerns an office in a company or corporation, not merely a courtroom brief.
 
-### MCQ 17. Solicitor General status
+### MCQ 17 — Answer A
 
-The Solicitor General of India is
-
-A. an executive/rule-governed Union law officer, not a constitutional office
-B. created by Article 76(5)
-C. a Supreme Court Judge by office
-D. a Cabinet minister
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -348,16 +520,9 @@ D. a Cabinet minister
 
 **Examiner trap 17:** Conventional rank is not constitutional creation.
 
-### MCQ 18. Article 88 office-holder
+### MCQ 18 — Answer B
 
-Which office receives Article 88 participation by virtue of that office?
-
-A. Every Additional Solicitor General
-B. The Attorney-General for India
-C. Every private senior advocate
-D. The Solicitor General alone
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -368,16 +533,9 @@ D. The Solicitor General alone
 
 **Examiner trap 18:** Read the named office, not the litigation hierarchy.
 
-### MCQ 19. Advocate-General source
+### MCQ 19 — Answer C
 
-The Advocate-General for a State is created by
-
-A. Article 76
-B. Article 148
-C. Article 165
-D. a Union executive rule
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -388,16 +546,9 @@ D. a Union executive rule
 
 **Examiner trap 19:** Union and State constitutional law officers have separate Articles.
 
-### MCQ 20. Advocate-General qualification
+### MCQ 20 — Answer D
 
-Which is a valid Advocate-General qualification route?
-
-A. Distinguished jurist in the Governor's opinion
-B. Five years as a High Court Judge only
-C. Ten years as any private legal consultant
-D. Citizen of India with ten years as advocate of one or more High Courts in succession
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -408,16 +559,9 @@ D. Citizen of India with ten years as advocate of one or more High Courts in suc
 
 **Examiner trap 20:** Do not import the distinguished-jurist route from the AGI qualification.
 
-### MCQ 21. Article 177
+### MCQ 21 — Answer A
 
-Article 177 allows the Advocate-General to
-
-A. speak and take part in the State House or Houses and a named committee without voting by office
-B. vote in the Legislative Assembly
-C. preside over the Legislative Council
-D. participate only if elected
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -428,16 +572,9 @@ D. participate only if elected
 
 **Examiner trap 21:** A bicameral State is covered, but there is no invented State joint sitting.
 
-### MCQ 22. Article 194(4)
+### MCQ 22 — Answer B
 
-Article 194(4) is relevant because it
-
-A. makes the Advocate-General a legislator
-B. extends the relevant privilege clauses to constitutionally entitled participants
-C. grants immunity for all private acts
-D. creates an all-India right of audience
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -448,16 +585,9 @@ D. creates an all-India right of audience
 
 **Examiner trap 22:** Privilege, membership and audience are three different legal ideas.
 
-### MCQ 23. Audience comparison
+### MCQ 23 — Answer C
 
-Which comparison is textually correct?
-
-A. Both Articles 76 and 165 expressly grant all-India audience
-B. Article 165 grants a Supreme-Court-only audience
-C. Article 76(3) expressly grants all-court audience; Article 165 contains no matching clause
-D. Neither Constitution provision addresses audience
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -468,16 +598,9 @@ D. Neither Constitution provision addresses audience
 
 **Examiner trap 23:** Do not fill a textual silence by copying the Union clause.
 
-### MCQ 24. Law Minister distinction
+### MCQ 24 — Answer D
 
-The Law Minister differs from the AGI because the Law Minister
-
-A. is the constitutional highest law officer
-B. has Article 76(3) audience by office
-C. is appointed as a Supreme Court Judge
-D. is a political executive member subject to ministerial responsibility
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -488,16 +611,9 @@ D. is a political executive member subject to ministerial responsibility
 
 **Examiner trap 24:** Legal portfolio leadership is not the same as constitutional legal advocacy.
 
-### MCQ 25. CJI distinction
+### MCQ 25 — Answer A
 
-The Chief Justice of India differs from the AGI principally because the CJI
-
-A. heads the judiciary and participates in adjudication rather than serving as government counsel
-B. advises the Government under Article 76
-C. may privately brief against the Union under Rule 8
-D. votes in Parliament under Article 88
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -508,16 +624,9 @@ D. votes in Parliament under Article 88
 
 **Examiner trap 25:** Both deal with law, but only one decides cases judicially.
 
-### MCQ 26. Private advocate distinction
+### MCQ 26 — Answer B
 
-A private advocate engaged by the Union
-
-A. automatically becomes an Additional Solicitor General
-B. does not acquire Article 76 or Article 88 status merely from the brief
-C. may vote in Parliament on the case
-D. becomes a constitutional officer for the duration
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -528,16 +637,9 @@ D. becomes a constitutional officer for the duration
 
 **Examiner trap 26:** Client identity does not constitutionalise every counsel.
 
-### MCQ 27. Litigation allocation
+### MCQ 27 — Answer C
 
-The AGI's right of audience means that
-
-A. only the AGI may appear for the Union
-B. the AGI controls every case listing
-C. the AGI may be heard in all courts while performing duties, but briefs may be allocated to other authorised counsel
-D. courts must accept the AGI's submissions
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -548,16 +650,9 @@ D. courts must accept the AGI's submissions
 
 **Examiner trap 27:** All-court audience is not a litigation monopoly.
 
-### MCQ 28. Contempt role
+### MCQ 28 — Answer D
 
-Which statement most accurately describes the AGI's contempt-related role?
-
-A. The AGI alone may punish criminal contempt
-B. Every contempt case requires AGI consent
-C. The AGI may initiate any criminal prosecution
-D. Section 15 provides bounded motion/consent routes while courts retain suo motu and adjudicatory power
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -568,16 +663,9 @@ D. Section 15 provides bounded motion/consent routes while courts retain suo mot
 
 **Examiner trap 28:** Never translate contempt gatekeeping into prosecution or adjudication.
 
-### MCQ 29. Removal design
+### MCQ 29 — Answer A
 
-Which is the correct constitutional statement on AGI removal?
-
-A. Article 76 prescribes no special removal procedure; pleasure governs
-B. Removal requires impeachment
-C. Removal requires a Supreme Court inquiry
-D. Removal requires a two-thirds parliamentary vote
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -588,16 +676,9 @@ D. Removal requires a two-thirds parliamentary vote
 
 **Examiner trap 29:** Absence of a special process is central to the independence debate.
 
-### MCQ 30. Brijeshwar Singh Chahal
+### MCQ 30 — Answer B
 
-State of Punjab v Brijeshwar Singh Chahal (2016) is best used for
-
-A. creating an AGI appointment collegium
-B. fair, transparent and objective selection of State law-officer panels as a public function
-C. granting fixed tenure to all law officers
-D. making legal advice binding
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -608,16 +689,9 @@ D. making legal advice binding
 
 **Examiner trap 30:** Use the case for State-panel fairness, not an invented Union collegium.
 
-### MCQ 31. Reform priority
+### MCQ 31 — Answer C
 
-Which reform best addresses the part-time conflict risk without misdescribing the Constitution?
-
-A. Declare the AGI a judge
-B. Give the AGI a parliamentary vote
-C. Use conflict disclosure, screening, recusal and permission records
-D. Give the AGI prosecution control
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -628,16 +702,9 @@ D. Give the AGI prosecution control
 
 **Examiner trap 31:** Reform should target the diagnosed defect, not add alien powers.
 
-### MCQ 32. Integrated proposition
+### MCQ 32 — Answer D
 
-Which composite statement is correct?
-
-A. The AGI is a Cabinet member with a fixed term
-B. The AGI's advice binds courts and government
-C. The AGI cannot undertake any outside work under any circumstance
-D. The AGI is a constitutional law officer with all-court audience, Article 88 participation without vote, pleasure tenure and rule-bound outside work
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -648,6 +715,57 @@ D. The AGI is a constitutional law officer with all-court audience, Article 88 p
 
 **Examiner trap 32:** UPSC often joins several correct fragments; test every clause.
 
+### MCQ 33 — Answer A
+
+A.**
+
+**Option-specific explanations:**
+
+- **A:** The judgment supports objective, fair State counsel selection; Article 165 still assigns the Advocate-General's appointment to the Governor.
+- **B:** A judicial appointment power would contradict the named Article 165 appointer.
+- **C:** Article 177 names the State Advocate-General, not each retained government lawyer.
+- **D:** Panel engagement conditions cannot override the constitutional pleasure tenure of the State office.
+
+**Examiner trap 33:** Do not elevate a judgment on counsel selection into an unwritten constitutional appointment amendment.
+
+### MCQ 34 — Answer B
+
+B.**
+
+**Option-specific explanations:**
+
+- **A:** Being named to a committee for participation does not make this law officer a legislator or grant a vote.
+- **B:** The participation, voting limit and privilege extension have distinct textual homes in Articles 177 and 194(4).
+- **C:** Article 88 concerns Parliament and privilege is not general personal immunity.
+- **D:** Article 165 creates the office; Article 177, not 165, governs legislative participation without vote.
+
+**Examiner trap 34:** Distinguish a right to take part in committee proceedings from membership of the legislature.
+
+### MCQ 35 — Answer C
+
+C.**
+
+**Option-specific explanations:**
+
+- **A:** Article 165 omits Article 76(3)'s express audience wording.
+- **B:** Article 76(3) expressly extends the Union officer's audience to all courts in India.
+- **C:** Audience, professional entitlement and actual assignment answer separate questions; this preserves that distinction for both offices.
+- **D:** Article 177 concerns legislative proceedings, not the procedural authority to conduct court litigation.
+
+**Examiner trap 35:** A constitutional audience right is neither a universal briefing duty nor a borrowed State-office clause.
+
+### MCQ 36 — Answer D
+
+D.**
+
+**Option-specific explanations:**
+
+- **A:** Consent is a gateway for a motion, not adjudication of the alleged contempt.
+- **B:** The Court's own motion is a separate statutory route; different courts have distinct provisions.
+- **C:** A State panel brief cannot substitute for the officers specified in the Supreme Court route.
+- **D:** This preserves both the statutory private-motion filter and judicial initiative under section 15 of the 1971 Act.
+
+**Examiner trap 36:** The consent requirement attaches to the specified manner of moving the Court, not its entire contempt jurisdiction.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -707,7 +825,7 @@ The cross-reference imports professional qualification, not judicial office or r
 
 The design secures high legal competence but offers limited tenure insulation. Independence therefore depends substantially on professional ethics, convention and transparent conflict management rather than constitutional security of tenure.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** Article 76(1)'s appointment and Article 124(3)'s three alternative qualification routes answer the entry limb; Article 76(4)'s pleasure tenure and remuneration answer the exit/security limb. The distinction between eligibility for judicial office and *holding* that office rules out a fictitious retirement age or impeachment route; professional independence is evaluated without claiming fixed tenure.
 
 ### Original Mains 2 - 10 marks
 
@@ -721,7 +839,7 @@ Participation does not create membership of Lok Sabha or Rajya Sabha. The Attorn
 
 The arrangement gives Parliament immediate legal explanation while reserving democratic decision-making to members. In one line: the Attorney-General has a protected voice, but neither a seat nor a vote by office.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** Article 88 separates a right to speak in specified parliamentary forums from membership and voting, while Article 105(4) supplies privileges only for constitutionally authorised participation. Explaining why legislators retain decision-making power and why proceedings privilege is not blanket personal immunity addresses all four distinctions in the prompt.
 
 ### Original Mains 3 - 15 marks
 
@@ -737,7 +855,7 @@ These controls protect client loyalty, confidential information and institutiona
 
 Reform should therefore require written conflict screening, disclosure of relevant interest categories, recorded recusals and consistent permission decisions, while preserving privileged legal advice. The correct conclusion is qualified: outside practice is possible, but only inside a strict legal, ethical and conventional boundary.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** The prompt's apparent paradox is resolved by separating non-whole-time status from Rule 8's adverse-interest, likely-conflict and permission controls. Criminal defence and corporate office illustrate conditioned activity rather than a total practice ban; disclosure and recusal address residual perceived conflicts without asserting that permission alone guarantees independence.
 
 ### Original Mains 4 - 15 marks
 
@@ -753,7 +871,7 @@ Article 88 gives the Attorney-General parliamentary participation without vote, 
 
 Thus the Advocate-General is a federal counterpart, not a smaller textual copy: the design is shared, but qualification, client, audience wording and operational rules differ.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** The comparison pairs Articles 76/165 on appointment, qualifications and clients, then contrasts Article 76(3)'s express all-courts audience with the absence of matching wording in Article 165. Articles 88/177 and 105(4)/194(4) show parallel but forum-specific participation and privilege; no nationwide audience right is inferred for the State officer.
 
 ### Original Mains 5 - 20 marks
 
@@ -771,7 +889,7 @@ Reform should publish competence and conflict criteria, maintain written interes
 
 The goal is not to turn counsel into a judge or ombudsman. It is to secure candid, conflict-resilient professional advice within democratic executive responsibility.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** Article 76 and Rule 8 explain why a Union client needs both loyal advocacy and conflict control, while pleasure tenure and outside practice expose independence risks. The proposed screening, recorded recusal and selection criteria each respond to an identified risk; *Brijeshwar Singh Chahal* supports fair State counsel selection but cannot be stretched into an AGI appointment rule.
 
 ### Original Mains 6 - 20 marks
 
@@ -789,4 +907,4 @@ Professional freedom is also bounded. The AGI is not a whole-time government ser
 
 Therefore the office is broad in access and influence but narrow in coercive authority. Its legitimacy rests on precise legal remit, candour to court and accountable conflict control.
 
-**Examiner logic:** The answer follows claim -> named constitutional/rule/case evidence -> institutional analysis -> explicit qualification.
+**Examiner logic:** The powers-and-limits directive is tested right by right: Article 76(2) advice is not a veto, Article 76(3) audience is not adjudication, and Article 88 speech plus Article 105(4) privilege is neither a vote nor blanket immunity. Rule 8 and the narrow Section 15 contempt route complete the legal boundary without turning the Attorney-General into a prosecutor or judge.

@@ -5,1325 +5,549 @@ topic_key: indian-society-11
 # Effects of Globalisation on Indian Society — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
+Attempt the full question set before consulting the separate key. Options test causal mechanisms, boundary conditions and evidence—not vocabulary matching.
 
-### Q1. Which statement correctly identifies Globalisation as a set of channels?
+### Q1. A globally distributed app gains users in India by offering Malayalam entertainment. What does this jointly illustrate?
 
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-D. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
+A. Global platform convergence with locally adapted language content.
+B. Complete disappearance of local-language production in all regions.
+C. An end to cross-border information flows once local languages appear.
+D. Evidence that all Malayalam speakers use the same media service.
 
-**Answer: A.**
-**Explanation:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Two households gain access to the same online store; one buys for utility and another for visible status. Which analytical separation matters?
 
-### Q2. Which chronology card should be filed under Globalisation as a set of channels?
+A. An online storefront proves both households have identical disposable income.
+B. Market access is structural consumerism; status signalling is cultural consumerism.
+C. Status signalling is a necessary consequence of every digital transaction.
+D. Structural consumerism means only local hand-made goods are consumed.
 
-A. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-B. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-C. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-D. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
+### Q3. A researcher uses female LFPR to assert growth specifically in unmarried skilled women's migration to Bengaluru. What is missing?
 
-**Answer: B.**
-**Explanation:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+A. A count of all employed men nationally with no migration characteristics.
+B. The total number of registered restaurants in Bengaluru in one year.
+C. A migration dataset identifying destination, age, marital status, skills and change over time.
+D. An online survey of smartphone ownership without any movement histories.
 
-### Q3. Which option preserves the source-bounded meaning of Globalisation as a set of channels?
+### Q4. A migrant woman sends remittances yet chooses her own apartment and negotiates marriage timing. Which interpretation fits?
 
-A. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-B. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-C. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+A. Remitting money necessarily proves unchanged parental control over all decisions.
+B. Renting an apartment necessarily severs all contact with natal family.
+C. Urban employment guarantees freedom from harassment and insecurity.
+D. Independent residence can expand autonomy while kin obligations and authority are renegotiated.
 
-**Answer: C.**
-**Explanation:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. A food chain markets vegetarian regional dishes through a global-format ordering app. Which conclusion avoids a false binary?
 
-### Q4. Which statement avoids a close-option trap about Globalisation as a set of channels?
+A. Standardised distribution and localised tastes can coexist in the same purchase.
+B. A vegetarian option proves the distribution platform is locally owned.
+C. Global branding makes regional food practices logically impossible.
+D. Menu adaptation proves the chain's products have no health implications.
 
-A. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-B. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-C. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-D. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
+### Q6. A health-conscious employee repeatedly orders convenience food after late shifts. Which causal account is strongest?
 
-**Answer: D.**
-**Explanation:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+A. Knowledge of nutrition makes purchase of prepared food logically impossible.
+B. Time scarcity and present convenience can outweigh long-term health intentions in particular choices.
+C. A purchase alone proves the consumer has never heard of health concerns.
+D. Ordering proves advertising is the sole cause of the decision.
 
-### Q5. Which statement correctly identifies Consumer culture?
+### Q7. A domestic delivery brand and an international chain both expand in a town. What inference best fits the fast-food question?
 
-A. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-D. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
+A. Every prepared meal sold in the town originated with international investment.
+B. Local suppliers cannot exploit changing household time budgets.
+C. Convenience markets have domestic as well as global suppliers; demand cannot be assigned to one foreign brand.
+D. Growth of deliveries implies every purchaser eats only unhealthy meals.
 
-**Answer: A.**
-**Explanation:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. A report compares female LFPR for 2023–24 and calendar-year 2025 without labels. What qualification is required?
 
-### Q6. Which chronology card should be filed under Consumer culture?
+A. Present both measures as Census migration counts for the same women.
+B. Infer the share of young unmarried migrants by subtracting aggregate rates.
+C. Declare that any change is caused entirely by global service-sector hiring.
+D. State MoSPI PLFS reference periods and usual-status age scope before interpreting the two rates.
 
-A. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-B. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-C. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+### Q9. NFHS-6 reports ever using the internet among women of a defined age group. Which inference is least overdrawn?
 
-**Answer: B.**
-**Explanation:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. The remaining options belong to different chronology, actor or analytical categories.
+A. It is a dated sample-based access indicator, not a real-time measure of equal effective use.
+B. It establishes that every respondent has reliable daily broadband.
+C. It measures formal electoral participation among connected women.
+D. It proves that higher connectivity caused all observed changes in family norms.
 
-### Q7. Which option preserves the source-bounded meaning of Consumer culture?
+### Q10. Urban youth participate in an online climate campaign but not in a party. What should an analyst distinguish?
 
-A. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-B. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-C. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-D. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
+A. Online comments from verified national youth voter-turnout figures.
+B. Issue-based digital mobilisation from sustained formal political participation.
+C. An environmental demand from all other political speech by definition.
+D. Cross-border framing from local political agency as mutually exclusive.
 
-**Answer: C.**
-**Explanation:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. A transnational climate slogan becomes a local-language campus demand. Which political-globalisation process is involved?
 
-### Q8. Which statement avoids a close-option trap about Consumer culture?
+A. Automatic proof that every campus has an identical political ideology.
+B. Replacement of Indian policy debates by foreign voting rules.
+C. Circulation of a global discourse followed by domestic issue-specific reinterpretation.
+D. Evidence that only cross-border consumer purchases create youth movements.
 
-A. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-B. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-C. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-D. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
+### Q12. A hashtag campaign receives wide attention but offline membership is unknown. Which conclusion is defensible?
 
-**Answer: D.**
-**Explanation:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. The remaining options belong to different chronology, actor or analytical categories.
+A. High impressions demonstrate higher youth turnout in every constituency.
+B. A campaign's visibility proves that online misinformation is absent.
+C. Absence of membership figures proves the campaign had no political effects.
+D. Mobilisation capacity is visible; durable participation requires separate measures.
 
-### Q9. Which statement correctly identifies Structural and cultural consumerism?
+### Q13. A rural artisan sells through an international platform but pays a high intermediation fee. Which finding best captures uneven benefits?
 
-A. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-D. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
+A. Cross-border market access can grow while platform power reduces the producer's share.
+B. International sales ensure equal bargaining power between artisan and platform.
+C. A platform fee proves no new buyers have reached the artisan.
+D. Market access automatically eliminates caste and gender barriers in production.
 
-**Answer: A.**
-**Explanation:** Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Two students stream the same international format, one in a regional language. Which concept describes their new cultural form?
 
-### Q10. Which chronology card should be filed under Structural and cultural consumerism?
+A. Privatisation: legal transfer of public ownership to private management.
+B. Hybridisation: recombination of imported formats and situated local expression.
+C. Enumeration: a Census count of linguistic households in a city.
+D. Deurbanisation: reduction of settlements through boundary revision.
 
-A. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-B. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-C. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-D. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
+### Q15. A television commentator equates globalisation with westernisation. Which correction is strongest?
 
-**Answer: B.**
-**Explanation:** Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment. The remaining options belong to different chronology, actor or analytical categories.
+A. All international exchanges are unidirectional Western imports by definition.
+B. An Indian regional export cannot circulate through a worldwide platform.
+C. Global flows can be multidirectional and reworked locally rather than a single Western cultural transfer.
+D. A foreign product's market entry proves that every household adopts its values.
 
-### Q11. Which option preserves the source-bounded meaning of Structural and cultural consumerism?
+### Q16. A company calls a platform job a full social-security benefit because a worker receives online orders. What is missing?
 
-A. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-B. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-C. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+A. The worker's order history as proof of guaranteed insurance coverage.
+B. A demonstration that digital matching cannot create any income.
+C. An assumption that all service work is salaried and permanent.
+D. Evidence of employment protection and benefit access, distinct from platform-mediated work.
 
-**Answer: C.**
-**Explanation:** Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. A young worker accesses global freelance clients but cannot afford a laptop. What distributional lesson follows?
 
-### Q12. Which statement avoids a close-option trap about Structural and cultural consumerism?
+A. Skill, device affordability and connectivity jointly condition who can benefit from a global market.
+B. The availability of clients proves effective access for every young adult.
+C. A freelance platform abolishes regional differences in infrastructure overnight.
+D. A worker's inability to buy a device shows there is no demand for remote work.
 
-A. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-B. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-C. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-D. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
+### Q18. A politician claims new technology is resource-free because the service is digital. Which social evaluation is necessary?
 
-**Answer: D.**
-**Explanation:** Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment. The remaining options belong to different chronology, actor or analytical categories.
+A. Classify software use as proof that physical devices have no supply chains.
+B. Examine access gains alongside energy, material and e-waste burdens and their unequal incidence.
+C. Assume every energy cost is carried exclusively by the final user.
+D. Treat scarcity as irrelevant whenever services are available online.
 
-### Q13. Which statement correctly identifies Homogenisation?
+### Q19. A global food format adapts to Indian tastes yet displaces a small local seller. What must a complete answer retain?
 
-A. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-B. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-C. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-D. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
+A. Any adapted menu guarantees local sellers higher margins.
+B. The seller's displacement proves no customers prefer regional flavours.
+C. Local adaptation of products does not automatically imply equitable bargaining for local producers.
+D. The competing brand's localisation means its supply chains are fully domestic.
 
-**Answer: A.**
-**Explanation:** Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. Which study would best test whether global exposure threatens pluralism rather than just identifying imported brands?
 
-### Q14. Which chronology card should be filed under Homogenisation?
+A. Count foreign logos in one mall and treat them as a measure of every Indian language.
+B. Measure device shipments alone and assume equal cultural voice.
+C. Compare sales in one city without observing local adaptation or representation.
+D. Track multiple communities' access to production, language visibility and ability to sustain distinct practices over time.
 
-A. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+## SEPARATE ANSWER KEY AND ELIMINATION
 
-**Answer: B.**
-**Explanation:** Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain. The remaining options belong to different chronology, actor or analytical categories.
+### Q1 — A
 
-### Q15. Which option preserves the source-bounded meaning of Homogenisation?
+- **A:** Correct: the delivery format converges while content adapts.
+- **B:** A language option is not extinction.
+- **C:** Localisation can operate through a global channel.
+- **D:** One example does not establish universal adoption.
+- **Trap:** “Complete disappearance of local-language production in all regions.” — A language option is not extinction.
 
-A. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-B. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-C. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-D. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
+### Q2 — B
 
-**Answer: C.**
-**Explanation:** Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Shared access does not equal purchasing power.
+- **B:** Correct: purchasing conditions differ from identity meanings.
+- **C:** Utility transactions need not signal identity.
+- **D:** The structural category concerns markets and income.
+- **Trap:** “Status signalling is a necessary consequence of every digital transaction.” — Utility transactions need not signal identity.
 
-### Q16. Which statement avoids a close-option trap about Homogenisation?
+### Q3 — C
 
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-C. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-D. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
+- **A:** Male employment cannot identify the specified women.
+- **B:** Restaurant counts cannot resolve personal mobility.
+- **C:** Correct: LFPR is aggregate participation, not the asserted migration stream.
+- **D:** Phone ownership cannot establish migration causality.
+- **Trap:** “An online survey of smartphone ownership without any movement histories.” — Phone ownership cannot establish migration causality.
 
-**Answer: D.**
-**Explanation:** Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain. The remaining options belong to different chronology, actor or analytical categories.
+### Q4 — D
 
-### Q17. Which statement correctly identifies Glocalisation?
+- **A:** Remittances do not settle every authority relation.
+- **B:** Independent residence need not end kinship.
+- **C:** Work may carry safety risks.
+- **D:** Correct: freedom and continuing family ties can coexist.
+- **Trap:** “Remitting money necessarily proves unchanged parental control over all decisions.” — Remittances do not settle every authority relation.
 
-A. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-B. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-C. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+### Q5 — A
 
-**Answer: A.**
-**Explanation:** Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: a single case can show convergence and glocalisation.
+- **B:** Menu design reveals no ownership automatically.
+- **C:** Branding does not erase all local practice.
+- **D:** Cultural fit is not a nutritional claim.
+- **Trap:** “A vegetarian option proves the distribution platform is locally owned.” — Menu design reveals no ownership automatically.
 
-### Q18. Which chronology card should be filed under Glocalisation?
+### Q6 — B
 
-A. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-B. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-C. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-D. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
+- **A:** Awareness and behaviour can diverge.
+- **B:** Correct: bounded rationality is one plausible lens, not a universal diagnosis.
+- **C:** A transaction reveals no knowledge state.
+- **D:** Work schedules and price also matter.
+- **Trap:** “A purchase alone proves the consumer has never heard of health concerns.” — A transaction reveals no knowledge state.
 
-**Answer: B.**
-**Explanation:** Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. The remaining options belong to different chronology, actor or analytical categories.
+### Q7 — C
 
-### Q19. Which option preserves the source-bounded meaning of Glocalisation?
+- **A:** Supplier mix refutes exclusivity.
+- **B:** Domestic adaptation is possible.
+- **C:** Correct: distinguish the food-system channel from foreign origin.
+- **D:** Delivery format does not establish diet quality.
+- **Trap:** “Growth of deliveries implies every purchaser eats only unhealthy meals.” — Delivery format does not establish diet quality.
 
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-C. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-D. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
+### Q8 — D
 
-**Answer: C.**
-**Explanation:** Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** PLFS is a survey.
+- **B:** Subtraction cannot identify subgroup movement.
+- **C:** An aggregate difference has many possible causes.
+- **D:** Correct: the reports' periods differ and LFPR is not a migration count.
+- **Trap:** “Present both measures as Census migration counts for the same women.” — PLFS is a survey.
 
-### Q20. Which statement avoids a close-option trap about Glocalisation?
+### Q9 — A
 
-A. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-B. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-C. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-D. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
+- **A:** Correct: ever-used status differs from frequency, quality and consequences.
+- **B:** Use once is not daily access.
+- **C:** The survey item is not turnout.
+- **D:** Cross-sectional access alone cannot prove causality.
+- **Trap:** “It establishes that every respondent has reliable daily broadband.” — Use once is not daily access.
 
-**Answer: D.**
-**Explanation:** Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. The remaining options belong to different chronology, actor or analytical categories.
+### Q10 — B
 
-### Q21. Which statement correctly identifies Simultaneity rule?
+- **A:** No turnout data are supplied.
+- **B:** Correct: online visibility does not measure voting or membership.
+- **C:** Environmental issues can be political.
+- **D:** Global idioms may be locally reworked.
+- **Trap:** “An environmental demand from all other political speech by definition.” — Environmental issues can be political.
 
-A. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-B. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-C. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-D. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
+### Q11 — C
 
-**Answer: A.**
-**Explanation:** Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** One campus cannot represent all.
+- **B:** No institutional replacement follows.
+- **C:** Correct: translation can enlarge repertoires without erasing local agency.
+- **D:** Political speech is not reducible to shopping.
+- **Trap:** “Evidence that only cross-border consumer purchases create youth movements.” — Political speech is not reducible to shopping.
 
-### Q22. Which chronology card should be filed under Simultaneity rule?
+### Q12 — D
 
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-C. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-D. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
+- **A:** Impressions are not ballots.
+- **B:** Visibility cannot exclude polarisation.
+- **C:** Missing membership data do not negate all effects.
+- **D:** Correct: separate short-run voice from institutional engagement.
+- **Trap:** “High impressions demonstrate higher youth turnout in every constituency.” — Impressions are not ballots.
 
-**Answer: B.**
-**Explanation:** Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner. The remaining options belong to different chronology, actor or analytical categories.
+### Q13 — A
 
-### Q23. Which option preserves the source-bounded meaning of Simultaneity rule?
+- **A:** Correct: opportunity and unequal value capture can coexist.
+- **B:** Access does not equal control.
+- **C:** A fee does not imply zero buyers.
+- **D:** Social barriers require independent assessment.
+- **Trap:** “International sales ensure equal bargaining power between artisan and platform.” — Access does not equal control.
 
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-C. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-D. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
+### Q14 — B
 
-**Answer: C.**
-**Explanation:** Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Ownership reform is not cultural recombination.
+- **B:** Correct: the form is neither unchanged import nor isolated tradition.
+- **C:** No population count is involved.
+- **D:** Media formats do not establish settlement change.
+- **Trap:** “Enumeration: a Census count of linguistic households in a city.” — No population count is involved.
 
-### Q24. Which statement avoids a close-option trap about Simultaneity rule?
+### Q15 — C
 
-A. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-B. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-C. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-D. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+- **A:** Definition overstates direction.
+- **B:** Regional goods can reach global audiences.
+- **C:** Correct: distinguish cross-border connectedness from one cultural origin.
+- **D:** Availability does not imply value conversion.
+- **Trap:** “A foreign product's market entry proves that every household adopts its values.” — Availability does not imply value conversion.
 
-**Answer: D.**
-**Explanation:** Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner. The remaining options belong to different chronology, actor or analytical categories.
+### Q16 — D
 
-### Q25. Which statement correctly identifies The exclusivity trap?
+- **A:** Orders are not entitlements.
+- **B:** Matching can create earnings.
+- **C:** Digital service work includes heterogeneous contracts.
+- **D:** Correct: opportunity and protections are distinct; detailed law is cross-owned.
+- **Trap:** “The worker's order history as proof of guaranteed insurance coverage.” — Orders are not entitlements.
 
-A. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-B. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-C. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-D. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
+### Q17 — A
 
-**Answer: A.**
-**Explanation:** The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Correct: formal opportunity differs from real capability.
+- **B:** Potential buyers do not supply equipment.
+- **C:** Infrastructure remains spatially unequal.
+- **D:** One constraint does not settle demand.
+- **Trap:** “The availability of clients proves effective access for every young adult.” — Potential buyers do not supply equipment.
 
-### Q26. Which chronology card should be filed under The exclusivity trap?
+### Q18 — B
 
-A. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-B. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-C. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-D. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
+- **A:** Devices need materials.
+- **B:** Correct: physical inputs and social distribution qualify efficiency gains.
+- **C:** Costs can be externalised.
+- **D:** Scarcity remains relevant.
+- **Trap:** “Assume every energy cost is carried exclusively by the final user.” — Costs can be externalised.
 
-**Answer: B.**
-**Explanation:** The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone. The remaining options belong to different chronology, actor or analytical categories.
+### Q19 — C
 
-### Q27. Which option preserves the source-bounded meaning of The exclusivity trap?
+- **A:** Margins require evidence.
+- **B:** Competitive loss does not determine tastes.
+- **C:** Correct: cultural accommodation and economic distribution differ.
+- **D:** A local menu need not imply local ownership.
+- **Trap:** “The competing brand's localisation means its supply chains are fully domestic.” — A local menu need not imply local ownership.
 
-A. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-B. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-C. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-D. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
+### Q20 — D
 
-**Answer: C.**
-**Explanation:** The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about The exclusivity trap?
-
-A. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-D. The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone.
-
-**Answer: D.**
-**Explanation:** The 2025 General Studies Paper-I demand asks whether globalisation results in only an aggressive consumer culture, and the examinable move is to reject the word only by showing that labour markets, family structure and digital access change through separate mechanisms rather than flowing from consumption behaviour alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Service-sector labour pull?
-
-A. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-B. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-C. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-D. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-
-**Answer: A.**
-**Explanation:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Service-sector labour pull?
-
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-C. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-D. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-
-**Answer: B.**
-**Explanation:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Service-sector labour pull?
-
-A. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-B. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-C. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-D. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-
-**Answer: C.**
-**Explanation:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Service-sector labour pull?
-
-A. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-B. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-C. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-D. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
-
-**Answer: D.**
-**Explanation:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies PLFS 2023-24 anchor?
-
-A. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-B. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-C. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-D. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-
-**Answer: A.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under PLFS 2023-24 anchor?
-
-A. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-B. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-C. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-D. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-
-**Answer: B.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of PLFS 2023-24 anchor?
-
-A. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-D. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-
-**Answer: C.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about PLFS 2023-24 anchor?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-D. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-
-**Answer: D.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies PLFS 2025 reference-period change?
-
-A. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-D. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-
-**Answer: A.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under PLFS 2025 reference-period change?
-
-A. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-B. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-C. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-D. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-
-**Answer: B.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of PLFS 2025 reference-period change?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-D. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-
-**Answer: C.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about PLFS 2025 reference-period change?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-D. The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-
-**Answer: D.**
-**Explanation:** The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies A participation rate is not a migration stream?
-
-A. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-B. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-C. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-D. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-
-**Answer: A.**
-**Explanation:** A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under A participation rate is not a migration stream?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-C. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-D. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-
-**Answer: B.**
-**Explanation:** A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of A participation rate is not a migration stream?
-
-A. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-B. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-C. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-D. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-
-**Answer: C.**
-**Explanation:** A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about A participation rate is not a migration stream?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-C. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-D. A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-
-**Answer: D.**
-**Explanation:** A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Personal-freedom expansion?
-
-A. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-B. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-C. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-D. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-
-**Answer: A.**
-**Explanation:** Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Personal-freedom expansion?
-
-A. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-B. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-C. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-D. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-
-**Answer: B.**
-**Explanation:** Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Personal-freedom expansion?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-C. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-D. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-
-**Answer: C.**
-**Explanation:** Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Personal-freedom expansion?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-D. Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-
-**Answer: D.**
-**Explanation:** Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Family renegotiation rather than severance?
-
-A. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-D. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-
-**Answer: A.**
-**Explanation:** Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Family renegotiation rather than severance?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-C. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-D. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-
-**Answer: B.**
-**Explanation:** Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Family renegotiation rather than severance?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-D. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-
-**Answer: C.**
-**Explanation:** Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Family renegotiation rather than severance?
-
-A. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-B. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-C. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-D. Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-
-**Answer: D.**
-**Explanation:** Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Freedom and security trade-off?
-
-A. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-B. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-C. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-D. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-
-**Answer: A.**
-**Explanation:** The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Freedom and security trade-off?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-C. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-D. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-
-**Answer: B.**
-**Explanation:** The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Freedom and security trade-off?
-
-A. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-B. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-C. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-D. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-
-**Answer: C.**
-**Explanation:** The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Freedom and security trade-off?
-
-A. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-
-**Answer: D.**
-**Explanation:** The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Fast-food paradox?
-
-A. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-D. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-
-**Answer: A.**
-**Explanation:** The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Fast-food paradox?
-
-A. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-B. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-C. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-D. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-
-**Answer: B.**
-**Explanation:** The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Fast-food paradox?
-
-A. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-B. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-C. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: C.**
-**Explanation:** The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Fast-food paradox?
-
-A. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-C. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-D. The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-
-**Answer: D.**
-**Explanation:** The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Bounded rationality as one lens?
-
-A. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-B. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-
-**Answer: A.**
-**Explanation:** Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Bounded rationality as one lens?
-
-A. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-B. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: B.**
-**Explanation:** Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Bounded rationality as one lens?
-
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-C. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: C.**
-**Explanation:** Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Bounded rationality as one lens?
-
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-D. Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-
-**Answer: D.**
-**Explanation:** Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Domestic food systems belong in the answer?
-
-A. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-B. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-D. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-
-**Answer: A.**
-**Explanation:** An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Domestic food systems belong in the answer?
-
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: B.**
-**Explanation:** An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Domestic food systems belong in the answer?
-
-A. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-B. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-D. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-
-**Answer: C.**
-**Explanation:** An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Domestic food systems belong in the answer?
-
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-C. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-D. An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-
-**Answer: D.**
-**Explanation:** An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Digital-access anchor?
-
-A. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-B. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: A.**
-**Explanation:** This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Digital-access anchor?
-
-A. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-B. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-C. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-
-**Answer: B.**
-**Explanation:** This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Digital-access anchor?
-
-A. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-B. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-C. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-D. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-
-**Answer: C.**
-**Explanation:** This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Digital-access anchor?
-
-A. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-B. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-C. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-D. This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-
-**Answer: D.**
-**Explanation:** This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Digital divide?
-
-A. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-B. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-C. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-
-**Answer: A.**
-**Explanation:** The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Digital divide?
-
-A. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-B. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-C. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-D. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-
-**Answer: B.**
-**Explanation:** The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Digital divide?
-
-A. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-D. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-
-**Answer: C.**
-**Explanation:** The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Digital divide?
-
-A. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-B. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-C. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-D. The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-
-**Answer: D.**
-**Explanation:** The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands and one ownership conflict?
-
-A. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-B. Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-C. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-D. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-
-**Answer: A.**
-**Explanation:** Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands and one ownership conflict?
-
-A. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-B. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-C. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-D. Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-
-**Answer: B.**
-**Explanation:** Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands and one ownership conflict?
-
-A. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-B. Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-C. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-D. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-
-**Answer: C.**
-**Explanation:** Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands and one ownership conflict?
-
-A. Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
-B. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-C. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-D. Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
-
-**Answer: D.**
-**Explanation:** Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. The remaining options belong to different chronology, actor or analytical categories.
+- **A:** Logos are weak evidence of cultural survival.
+- **B:** Devices alone do not indicate voice.
+- **C:** One sales series misses cultural mechanisms.
+- **D:** Correct: pluralism is about effective space for difference.
+- **Trap:** “Count foreign logos in one mall and treat them as a measure of every Indian language.” — Logos are weak evidence of cultural survival.
 
 ## PYQS AND ANSWER PRACTICE
-
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Six direct General Studies Paper-I Mains demands are routed to this topic and each is recorded with its exact routing status. The 2018 Q19 demand on globalisation, cultural homogenisation and Indian cultural specificities, the 2019 Q20 demand on losing local identity for a global identity, the 2020 Q18 demand on diversity and pluralism under threat from globalisation and the 2022 Q20 demand on globalisation and new technology in a world of scarce resources are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes those pointers, so all four are answered here from the Basic spine. The locally held official question papers for 2018, 2019, 2020 and 2022 are scanned images from which reliable English text cannot be extracted, so the audited ledger's neutral demand rendering is used for those four years and no verbatim wording is claimed. The 2024 Q19 demand on globalisation and the urban migration of skilled, young and unmarried women and the 2025 Q10 demand on whether globalisation results only in an aggressive consumer culture are routed in the audited 2024-2025 ledger to this Basic owner, and the wording of both was confirmed in the locally held official 2024 and 2025 General Studies Paper-I question papers. A seventh demand, the 2025 Q18 fast-food question, is claimed by this owner's own answer-architecture table while the audited 2024-2025 ledger routes it to the Social Change and Modernisation owner; that cross-owner conflict is stated openly here and the demand is answered under the owner the ledger names rather than duplicated. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 5. Indian applications and PYQ mapping
-
-- ✅ **2025 GS-I PYQ (10 marks, verbatim):** "Do you think that globalization results in
-  only an aggressive consumer culture? Justify your answer." The expected answer: reject
-  the "only" framing — acknowledge genuine consumer-culture intensification, but argue
-  globalisation equally reshapes employment patterns, family structures, digital access and
-  cultural adaptation (glocalisation), justifying a "more than just consumer culture"
-  position with concrete Indian examples.
-- ✅ **2024 GS-I PYQ (15 marks, verbatim):** "Globalization has increased urban migration by
-  skilled, young, unmarried women from various classes. How has this trend impacted upon
-  their personal freedom and relationship with family?" The expected answer: trace
-  independent income and urban residence expanding personal freedom (mobility, spending,
-  partner-choice voice) while family relationships are renegotiated through continued
-  remittance and periodic contact rather than severed outright — full treatment also in
-  `04_Family-Marriage-and-Kinship.md`.
-- ✅ **2025 GS-I PYQ (15 marks, verbatim):** "How do you account for the growing fast food
-  industries given that there are increased health concerns in modern society? Illustrate
-  your answer with the Indian experience." The expected answer: explain the paradox through
-  convenience, dual-income urban household time constraints, aspirational branding and
-  glocalised Indian-taste menu adaptation, showing behaviour is not purely health-rational.
-
-#### 9. PYQ application
-
-- ✅ **2025 Q10 (10 marks):** reject the "only consumer culture" framing with a multi-domain
-  argument (employment, family, digital access, glocalisation).
-- ✅ **2024 Q19 (15 marks):** analyse possible personal-freedom expansion and family
-  renegotiation using the exact “skilled, young, unmarried women” framing; distinguish the
-  PYQ proposition from a verified national migration series.
-- ✅ **2025 Q18 (15 marks):** explain the fast-food paradox through convenience, time
-  constraints, pricing/delivery, aspiration and local adaptation, including domestic as well
-  as global food systems.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
-
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-I | 19 | Globalization and urban migration of skilled young unmarried women | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-I | 10 | Whether globalization results only in aggressive consumer culture | Justify · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Globalization and urban migration of skilled young unmarried women
-- Whether globalization results only in aggressive consumer culture
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### 10. PYQ-based analytical application
-
-- ✅ **2025 Q10 (10 marks, verbatim):** "Do you think that globalization results in only an
-  aggressive consumer culture? Justify your answer." Analytical route: reject the "only"
-  framing using the structural-versus-cultural-consumerism distinction and the multi-domain
-  causal chain (labour, family, digital access, glocalisation).
-- ✅ **2024 Q19 (15 marks, verbatim):** "Globalization has increased urban migration by
-  skilled, young, unmarried women from various classes. How has this trend impacted upon
-  their personal freedom and relationship with family?" Analytical route: apply the
-  gender-specific push-pull refinement and the freedom-family-coexistence framing, citing
-  PLFS female-participation data as evidence of the underlying employment pull.
-- ✅ **2025 Q18 (15 marks, verbatim):** "How do you account for the growing fast food
-  industries given that there are increased health concerns in modern society? Illustrate
-  your answer with the Indian experience." Analytical route: apply the bounded-rationality
-  chain (convenience, aspiration, glocalised menu adaptation outweighing health-rational
-  choice) with Indian examples.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2018, 2019, 2020, 2022
-- **Paper(s):** GS-I
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-I | 19 | Globalization, cultural homogenization and Indian cultural specificities | Elucidate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-I | 20 | Losing local identity for a global identity | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-I | 18 | Diversity and pluralism in India under threat from globalisation | Justify your answer · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-I | 20 | Globalization and new technology in a world of scarce resources | Elucidate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Globalization, cultural homogenization and Indian cultural specificities
-- Losing local identity for a global identity
-- Diversity and pluralism in India under threat from globalisation
-- Globalization and new technology in a world of scarce resources
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+The labels and route statuses below follow the audited local ledgers. Descriptive PYQs have model answers, not purported official UPSC solutions; no unverified objective key is supplied.
 
 ### PYQ DEMAND CARD 1 — 2018 GS-I Q19
 
-**Demand:** Audited ledger demand rendering: globalisation, cultural homogenisation and Indian cultural specificities. Elucidate, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: globalisation, cultural homogenisation and Indian cultural specificities. Elucidate; 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2018 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral rendering, not a claim of exact official-paper wording.
 
-**Model solution:** Set the two processes against each other at the start, because the demand is about specificity and not about whether globalisation exists. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats; it is a convergence prediction. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. Show that Indian evidence carries both. Global brand recognition and shared media formats are the domains where convergence is strongest, while menu adaptation and vernacular platform content are the domains where local specificity reasserts itself, and because the two run at once the correct analytical stance names the domain rather than declaring a single winner. Add the structural half of the argument so the answer is not only cultural. Structural consumerism, meaning the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of the cultural meaning attached to consumption, so convergence in purchasing capacity is not the same as convergence in identity. Qualify the claim honestly. An illustration of adaptation is not a measurement of how much adaptation is occurring, and no figure for the vitality of any language or cultural form is held by this owner, so the answer must not assert either loss or resilience as a quantity. Conclude that Indian cultural specificity survives inside globalisation through adaptation rather than by exclusion from it, and that a specificity answer therefore reports a mixed, domain-graded pattern instead of a civilisational verdict.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Globalisation brings common platforms, products and media formats into Indian life, but similarity of channels does not mean uniformity of culture. Homogenisation refers to convergence in consumption and visibility: global fashion and entertainment formats can privilege commercially scalable, often English-language products. It can squeeze attention for less-resourced local production, especially when advertising and distribution are concentrated.
 
-**Detailed examiner-grade model answer:**
+Specificities persist through active adaptation. A multinational food chain offering Indian vegetarian choices retains a global service format while changing the product to meet local tastes; regional-language programming on global streaming platforms likewise combines global distribution with local narrative and language. These are examples of glocalisation, not proof that every regional tradition has equal bargaining power. An Indian artisan using an international marketplace may reach new buyers but receive a small share after platform fees; cultural visibility and economic control must be assessed separately.
 
-**Introduction and thesis:** Set the two processes against each other at the start, because the demand is about specificity and not about whether globalisation exists. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats; it is a convergence prediction. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. Show that Indian evidence carries both. Global brand recognition and shared media formats are the domains where convergence is strongest, while menu adaptation and vernacular platform content are the domains where local specificity reasserts itself, and because the two run at once the correct analytical stance names the domain rather than declaring a single winner. Add the structural half of the argument so the answer is not only cultural. Structural consumerism, meaning the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of the cultural meaning attached to consumption, so convergence in purchasing capacity is not the same as convergence in identity. Qualify the claim honestly. An illustration of adaptation is not a measurement of how much adaptation is occurring, and no figure for the vitality of any language or cultural form is held by this owner, so the answer must not assert either loss or resilience as a quantity. Conclude that Indian cultural specificity survives inside globalisation through adaptation rather than by exclusion from it, and that a specificity answer therefore reports a mixed, domain-graded pattern instead of a civilisational verdict.
+Nor is a product's foreign provenance sufficient evidence that household authority, religious practices or caste relations have been replaced. Those practices can interact with global work and media in different ways across gender, generation, class and region. Conversely, celebrating adaptation should not hide unequal ownership of platforms or declining support for small producers. To elucidate the relationship, identify the global channel, the aspect that converges, the specific local change and who retains voice and revenue.
 
-**Analytical body:**
+Thus Indian cultural specificities neither disappear automatically nor remain untouched. They are remade under unequal global connections; pluralism depends on space and resources for different groups to represent themselves, not just the number of localised products sold.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: globalisation, cultural homogenisation and Indian cultural specificities. Elucidate, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Set the two processes against each other at the start, because the demand is about specificity and not about whether globalisation exists. Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats; it is a convergence prediction. Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. Show that Indian evidence carries both. Global brand recognition and shared media formats are the domains where convergence is strongest, while menu adaptation and vernacular platform content are the domains where local specificity reasserts itself, and because the two run at once the correct analytical stance names the domain rather than declaring a single winner. Add the structural half of the argument so the answer is not only cultural. Structural consumerism, meaning the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of the cultural meaning attached to consumption, so convergence in purchasing capacity is not the same as convergence in identity. Qualify the claim honestly. An illustration of adaptation is not a measurement of how much adaptation is occurring, and no figure for the vitality of any language or cultural form is held by this owner, so the answer must not assert either loss or resilience as a quantity. Conclude that Indian cultural specificity survives inside globalisation through adaptation rather than by exclusion from it, and that a specificity answer therefore reports a mixed, domain-graded pattern instead of a civilisational verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Pairs convergence with concrete localisation, distinguishes identity from bargaining power and reaches a qualified verdict.
 
 ### PYQ DEMAND CARD 2 — 2019 GS-I Q20
 
-**Demand:** Audited ledger demand rendering: losing local identity for a global identity. Discuss, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: losing local identity for a global identity. Discuss; 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2019 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral demand rendering.
 
-**Model solution:** Refuse the substitution premise before discussing it, because the demand is framed as a loss and the examinable move is to test whether loss is the right description. Establish what could support the premise. Homogenisation predicts convergence toward globally uniform consumption and cultural patterns, and global brand recognition, shared media formats and English-medium aspiration are the domains where that prediction has visible Indian purchase. Then establish what defeats a simple substitution reading. Glocalisation shows global products and practices being adapted rather than adopted unchanged, so regional-language content on global platforms and locally customised menus are cases in which a global vehicle carries local content instead of replacing it. Add a second, non-cultural channel so the discussion is not confined to symbols. Service-sector employment growth in cities changes work patterns and household authority, and independent urban income can expand a migrant's mobility and voice while remittance, ritual participation and periodic visits keep the local tie intact, which is a renegotiation of identity rather than its replacement. Bring the access qualification. The digital channel through which global identity is supposed to arrive is itself stratified, because the digital divide distributes connectivity unequally by income, gender, region and generation, so any claim of uniform identity change overstates the reach of the mechanism that would produce it. State the evidence boundary plainly: this owner holds no survey of identity, language use or cultural attachment, so the answer argues from mechanisms and named illustrations and quotes no figure for identity loss. Conclude that the honest description is layered identity, in which local, regional and global affiliations are held together and reweighted, rather than one identity being surrendered for another.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-I Q20”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+A global identity can add affiliations without requiring the loss of local identity. For an Indian young person, participating in an international professional network and consuming regional-language entertainment are compatible practices. The question therefore requires asking when global ties replace local practices, when they coexist, and whose identity is visible.
 
-**Detailed examiner-grade model answer:**
+Global brands, English-language credentials and common social-media formats can make aspiration appear similar across Indian cities. Where access to jobs rewards a particular language or style, some local practices may become less visible in formal institutions. This is a real homogenising pressure, not proof that all participants abandon their families, languages or neighbourhoods. Kerala–Gulf migration illustrates another configuration: transnational employment can sustain hometown ties through remittances and visits, even as it changes expectations and household bargaining. This is a channel illustration, not a claim that every migrant experiences the same result.
 
-**Introduction and thesis:** Refuse the substitution premise before discussing it, because the demand is framed as a loss and the examinable move is to test whether loss is the right description. Establish what could support the premise. Homogenisation predicts convergence toward globally uniform consumption and cultural patterns, and global brand recognition, shared media formats and English-medium aspiration are the domains where that prediction has visible Indian purchase. Then establish what defeats a simple substitution reading. Glocalisation shows global products and practices being adapted rather than adopted unchanged, so regional-language content on global platforms and locally customised menus are cases in which a global vehicle carries local content instead of replacing it. Add a second, non-cultural channel so the discussion is not confined to symbols. Service-sector employment growth in cities changes work patterns and household authority, and independent urban income can expand a migrant's mobility and voice while remittance, ritual participation and periodic visits keep the local tie intact, which is a renegotiation of identity rather than its replacement. Bring the access qualification. The digital channel through which global identity is supposed to arrive is itself stratified, because the digital divide distributes connectivity unequally by income, gender, region and generation, so any claim of uniform identity change overstates the reach of the mechanism that would produce it. State the evidence boundary plainly: this owner holds no survey of identity, language use or cultural attachment, so the answer argues from mechanisms and named illustrations and quotes no figure for identity loss. Conclude that the honest description is layered identity, in which local, regional and global affiliations are held together and reweighted, rather than one identity being surrendered for another.
+Glocalisation and hybridity offer counter-evidence to replacement. Regional-language creators use worldwide platforms; Indian menus modify standardised chains. Yet representation on a platform does not ensure local producers control its income or algorithms. Gender, caste, region and device access shape whether a supposedly global identity is chosen freely or adopted under pressure.
 
-**Analytical body:**
+One must also avoid confusing a media preference with a complete identity. Surveying language use, family obligations, production and control across time would better test actual loss. Globalisation creates layered and sometimes unequal identities; local identity may be marginalised in specific institutions, but it is not mechanically traded away for a single universal global self.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: losing local identity for a global identity. Discuss, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Refuse the substitution premise before discussing it, because the demand is framed as a loss and the examinable move is to test whether loss is the right description. Establish what could support the premise. Homogenisation predicts convergence toward globally uniform consumption and cultural patterns, and global brand recognition, shared media formats and English-medium aspiration are the domains where that prediction has visible Indian purchase. Then establish what defeats a simple substitution reading. Glocalisation shows global products and practices being adapted rather than adopted unchanged, so regional-language content on global platforms and locally customised menus are cases in which a global vehicle carries local content instead of replacing it. Add a second, non-cultural channel so the discussion is not confined to symbols. Service-sector employment growth in cities changes work patterns and household authority, and independent urban income can expand a migrant's mobility and voice while remittance, ritual participation and periodic visits keep the local tie intact, which is a renegotiation of identity rather than its replacement. Bring the access qualification. The digital channel through which global identity is supposed to arrive is itself stratified, because the digital divide distributes connectivity unequally by income, gender, region and generation, so any claim of uniform identity change overstates the reach of the mechanism that would produce it. State the evidence boundary plainly: this owner holds no survey of identity, language use or cultural attachment, so the answer argues from mechanisms and named illustrations and quotes no figure for identity loss. Conclude that the honest description is layered identity, in which local, regional and global affiliations are held together and reweighted, rather than one identity being surrendered for another.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-I Q20”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Discusses both loss pressures and layered identity with migration and media examples and limits on inference.
 
 ### PYQ DEMAND CARD 3 — 2020 GS-I Q18
 
-**Demand:** Audited ledger demand rendering: diversity and pluralism in India under threat from globalisation. Justify your answer, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: justify whether globalisation threatens India's diversity and pluralism. 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2020 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral demand rendering.
 
-**Model solution:** Treat the demand as conditional rather than as a yes-or-no verdict, because a justify directive rewards the conditions under which the threat is real. Name the vulnerability first. Homogenising market and media pressure can narrow the range of formats, languages and consumption styles that are commercially viable, and where a local practice depends on a market that global formats displace, its transmission becomes harder. Then name the countervailing process with equal precision. Glocalisation reworks global products, language and practice locally, and regional-language content on global platforms is the clearest Indian case of a global channel expanding rather than shrinking the space available to a local form. Introduce the decisive variable, which is access rather than presence. Pluralism depends on whether a group has voice and reach, not on whether global products are visible in its market, and the digital divide means connectivity gains reach the already better positioned first, so the same channel can widen the voice of one group while leaving another dependent on intermediaries. Add the labour and household channel so the justification is not only about culture. Service-sector demand and urban migration reorganise family authority and residence, and the observed pattern is renegotiation with continuing remittance and periodic contact rather than the severance that a cultural-loss thesis would predict. Qualify the whole answer with the evidence boundary: no measure of linguistic vitality, cultural attachment or pluralism is held by this owner, so the answer justifies a conditional position and quotes no figure. Conclude that globalisation places diversity and pluralism under conditional pressure whose severity depends on voice, access and institutional support, and that this is a policy variable rather than a fate.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2020 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Globalisation can threaten diversity when a few market actors control the channels through which cultures are produced and heard; it need not erase plurality simply because people use common technologies. A global streaming service offers an Indian illustration of both tendencies: uniform recommendation systems can privilege popular formats while regional-language creators may find wider audiences.
 
-**Detailed examiner-grade model answer:**
+The risk is structural. Advertising budgets, English-language advantages and network effects may steer attention and revenue away from smaller linguistic communities and local artisans. If cross-border market access is mediated by concentrated platforms, a producer's presence online does not guarantee bargaining power. Class and device access also determine who can publish rather than merely consume. A brand count is therefore a poor proxy for pluralism.
 
-**Introduction and thesis:** Treat the demand as conditional rather than as a yes-or-no verdict, because a justify directive rewards the conditions under which the threat is real. Name the vulnerability first. Homogenising market and media pressure can narrow the range of formats, languages and consumption styles that are commercially viable, and where a local practice depends on a market that global formats displace, its transmission becomes harder. Then name the countervailing process with equal precision. Glocalisation reworks global products, language and practice locally, and regional-language content on global platforms is the clearest Indian case of a global channel expanding rather than shrinking the space available to a local form. Introduce the decisive variable, which is access rather than presence. Pluralism depends on whether a group has voice and reach, not on whether global products are visible in its market, and the digital divide means connectivity gains reach the already better positioned first, so the same channel can widen the voice of one group while leaving another dependent on intermediaries. Add the labour and household channel so the justification is not only about culture. Service-sector demand and urban migration reorganise family authority and residence, and the observed pattern is renegotiation with continuing remittance and periodic contact rather than the severance that a cultural-loss thesis would predict. Qualify the whole answer with the evidence boundary: no measure of linguistic vitality, cultural attachment or pluralism is held by this owner, so the answer justifies a conditional position and quotes no figure. Conclude that globalisation places diversity and pluralism under conditional pressure whose severity depends on voice, access and institutional support, and that this is a policy variable rather than a fate.
+The counter-process is adaptation and agency. India-specific vegetarian menus change international offerings; vernacular media and locally organised campaigns rework global forms. Kerala–Gulf transnational family links illustrate how mobility can modify household practices while maintaining regional and kin commitments. Neither example demonstrates that all local traditions are secure: adaptation may coexist with unequal control, and some practices may decline.
 
-**Analytical body:**
+Justification requires more than asserting cultural decline. Compare change over time in language production, access to cultural institutions, the ability of distinct communities to speak for themselves and their share of benefits. Distribution of opportunity across region, gender and caste matters alongside survival of cultural symbols. Global connections are thus a conditional threat to pluralism when they concentrate power and mute less-resourced voices; democratic access and locally controlled creation can turn the same channels into instruments for cultural renewal.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: diversity and pluralism in India under threat from globalisation. Justify your answer, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Treat the demand as conditional rather than as a yes-or-no verdict, because a justify directive rewards the conditions under which the threat is real. Name the vulnerability first. Homogenising market and media pressure can narrow the range of formats, languages and consumption styles that are commercially viable, and where a local practice depends on a market that global formats displace, its transmission becomes harder. Then name the countervailing process with equal precision. Glocalisation reworks global products, language and practice locally, and regional-language content on global platforms is the clearest Indian case of a global channel expanding rather than shrinking the space available to a local form. Introduce the decisive variable, which is access rather than presence. Pluralism depends on whether a group has voice and reach, not on whether global products are visible in its market, and the digital divide means connectivity gains reach the already better positioned first, so the same channel can widen the voice of one group while leaving another dependent on intermediaries. Add the labour and household channel so the justification is not only about culture. Service-sector demand and urban migration reorganise family authority and residence, and the observed pattern is renegotiation with continuing remittance and periodic contact rather than the severance that a cultural-loss thesis would predict. Qualify the whole answer with the evidence boundary: no measure of linguistic vitality, cultural attachment or pluralism is held by this owner, so the answer justifies a conditional position and quotes no figure. Conclude that globalisation places diversity and pluralism under conditional pressure whose severity depends on voice, access and institutional support, and that this is a policy variable rather than a fate.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2020 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Justifies the risk through market power while testing counterevidence and defining measurable pluralism.
 
 ### PYQ DEMAND CARD 4 — 2022 GS-I Q20
 
-**Demand:** Audited ledger demand rendering: globalisation and new technology in a world of scarce resources. Elucidate, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: elucidate globalisation and new technology in a world of scarce resources. 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2022 paper is a scanned image without reliable English text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Verification / routing:** 2018–2023 audited GS-I ledger; neutral demand rendering; technical resource statistics are not owned here.
 
-**Model solution:** Separate the two layers of the demand in the opening sentence, because the commonest failure here is to answer with technical or macroeconomic material that this owner does not own. The society layer analyses access, trust, work, identity and unequal risk; the instrument layer, meaning energy and material chains, trade and investment mechanics and technical performance, is cross-linked to Economy, Environment and Science and Technology and is not re-derived. Elucidate the social gain first. New technology delivered through globalised platforms can widen access to information, markets and services, and the digital channel is the clearest Indian illustration because it reaches households directly. Then elucidate the distributional cost, which is where the scarce-resource half of the demand belongs on the society layer. Access is not uniform, because the digital divide distributes connectivity unequally by income, gender, region and generation, so an efficiency gain that is real in aggregate can still concentrate among those already better positioned. Add the consumption mechanism that links technology to resource pressure without importing an environmental statistic. Platform-mediated convenience, illustrated by delivery-based food consumption in dual-income urban households, converts time scarcity into higher throughput of goods and packaging, so technology can raise material demand at the same time as it raises productivity. Anchor the evidence available here. This owner's dated access measure is the National Family Health Survey ever-internet-use figure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets against 33.3 per cent in the round five comparator, and because the round six results are labelled provisional the figure shows direction rather than a current connectivity level. Conclude that a technology's social effect in a resource-constrained world depends on who has access, who bears the cost and how use is regulated, not on the technology's label.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2022 GS-I Q20”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Globalisation diffuses technology across borders, potentially using scarce resources more efficiently, yet digital services themselves draw on physical inputs. The social question is who gains productivity, who consumes materials and who bears the waste. Consider Indian artisans reaching customers through online platforms: reduced search costs may increase sales, but devices, connectivity and fees govern whether small producers benefit.
 
-**Detailed examiner-grade model answer:**
+Mobile ordering and digital coordination can avoid some journeys or match supply to demand; without evidence they cannot be called automatically resource-saving. Devices require minerals and energy, and replacements create e-waste. A digitally mediated food-delivery system may save customer time while increasing packaging and transport demands. Precise life-cycle claims need verified sector-specific assessment, not intuition from the label “online”.
 
-**Introduction and thesis:** Separate the two layers of the demand in the opening sentence, because the commonest failure here is to answer with technical or macroeconomic material that this owner does not own. The society layer analyses access, trust, work, identity and unequal risk; the instrument layer, meaning energy and material chains, trade and investment mechanics and technical performance, is cross-linked to Economy, Environment and Science and Technology and is not re-derived. Elucidate the social gain first. New technology delivered through globalised platforms can widen access to information, markets and services, and the digital channel is the clearest Indian illustration because it reaches households directly. Then elucidate the distributional cost, which is where the scarce-resource half of the demand belongs on the society layer. Access is not uniform, because the digital divide distributes connectivity unequally by income, gender, region and generation, so an efficiency gain that is real in aggregate can still concentrate among those already better positioned. Add the consumption mechanism that links technology to resource pressure without importing an environmental statistic. Platform-mediated convenience, illustrated by delivery-based food consumption in dual-income urban households, converts time scarcity into higher throughput of goods and packaging, so technology can raise material demand at the same time as it raises productivity. Anchor the evidence available here. This owner's dated access measure is the National Family Health Survey ever-internet-use figure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets against 33.3 per cent in the round five comparator, and because the round six results are labelled provisional the figure shows direction rather than a current connectivity level. Conclude that a technology's social effect in a resource-constrained world depends on who has access, who bears the cost and how use is regulated, not on the technology's label.
+Scarcity is also social. A student without a reliable device cannot benefit equally from worldwide courses; communities living near disposal sites may carry more ecological risk than affluent consumers who upgrade devices frequently. Global supply chains can diffuse innovations but concentrate technology ownership and extractive burdens. The relevant comparison is across a product's production, use and disposal stages and across income, gender and region.
 
-**Analytical body:**
+Policy choices can extend devices' usable life, improve repair and recycling, make connectivity accessible and hold producers accountable for waste; they must be judged with measured energy and material evidence from the appropriate technical owners. Thus global technology can widen capability under resource constraint but does not abolish scarcity. Its social success depends on equitable access and on who pays the material and environmental costs.
 
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: globalisation and new technology in a world of scarce resources. Elucidate, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Separate the two layers of the demand in the opening sentence, because the commonest failure here is to answer with technical or macroeconomic material that this owner does not own. The society layer analyses access, trust, work, identity and unequal risk; the instrument layer, meaning energy and material chains, trade and investment mechanics and technical performance, is cross-linked to Economy, Environment and Science and Technology and is not re-derived. Elucidate the social gain first. New technology delivered through globalised platforms can widen access to information, markets and services, and the digital channel is the clearest Indian illustration because it reaches households directly. Then elucidate the distributional cost, which is where the scarce-resource half of the demand belongs on the society layer. Access is not uniform, because the digital divide distributes connectivity unequally by income, gender, region and generation, so an efficiency gain that is real in aggregate can still concentrate among those already better positioned. Add the consumption mechanism that links technology to resource pressure without importing an environmental statistic. Platform-mediated convenience, illustrated by delivery-based food consumption in dual-income urban households, converts time scarcity into higher throughput of goods and packaging, so technology can raise material demand at the same time as it raises productivity. Anchor the evidence available here. This owner's dated access measure is the National Family Health Survey ever-internet-use figure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets against 33.3 per cent in the round five comparator, and because the round six results are labelled provisional the figure shows direction rather than a current connectivity level. Conclude that a technology's social effect in a resource-constrained world depends on who has access, who bears the cost and how use is regulated, not on the technology's label.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2022 GS-I Q20”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Explains opportunity and physical scarcity with life-cycle and distributive qualifications.
 
 ### PYQ DEMAND CARD 5 — 2024 GS-I Q19
 
-**Demand:** Globalization has increased urban migration by skilled, young, unmarried women from various classes. How has this trend impacted upon their personal freedom and relationship with family? (Answer in 250 words) 15 marks.
+**Demand:** Globalization has increased urban migration by skilled, young, unmarried women from various classes. How has this trend impacted upon their personal freedom and relationship with family? (15 marks; 250 words.)
 
-**Status:** Wording confirmed in the locally held official 2024 General Studies Paper-I. Routed in the audited 2024-2025 Mains ledger to this Basic owner with no cross-owner conflict recorded.
+**Verification / routing:** Official 2024 GS-I wording held locally; also cross-owned by Family, Marriage and Kinship.
 
-**Model solution:** Accept the stem's proposition as the premise the examiner supplies and then answer the two questions actually asked, which are about personal freedom and about the relationship with family. Begin with the pull mechanism, stated as a possibility rather than a proof. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and education, safety, housing and prevailing family norms condition whether a particular young woman can act on that demand. State the statistical boundary immediately, because it is the discipline this demand rewards. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported female labour force participation at 41.7 per cent against 37.0 per cent in 2022-23, and the Annual Report 2025 released in March 2026 reports usual-status female participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period rather than the earlier July to June cycle; these measure aggregate participation and establish neither the size nor the composition nor the cause of the migration stream in the stem, and the changed reference period must be named before the two are compared. Answer the freedom half specifically. Independent income and separate residence expand physical mobility, spending autonomy, the timing of marriage and the migrant's voice in partner selection, and naming each freedom is what distinguishes an answer from a summary. Answer the family half as renegotiation. Remittance flows, ritual participation and periodic visits continue while day-to-day parental oversight weakens, so the relationship is redefined rather than severed and the two halves of the demand are not in opposition. Close with the qualification that keeps the answer honest: the same independence that expands freedom thins the family-based support available during workplace harassment or a health emergency far from home, so the outcome varies with class, occupation, housing and city, and no uniform result may be claimed.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2024 GS-I Q19”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Urban work and independent residence can enlarge a young woman's choices, yet neither freedom nor family ties change in only one direction. The question's specified stream—skilled, young, unmarried women from different classes—must not be inferred from aggregate labour-force participation. MoSPI's PLFS Annual Report 2025 measures female labour-force participation; it cannot count that migration stream or establish its cause.
 
-**Detailed examiner-grade model answer:**
+In Bengaluru's service-sector setting, a skilled migrant may earn her own income and negotiate mobility, spending, education and marriage timing more confidently. Living away from day-to-day parental supervision can expand privacy and partner-choice voice. But rent, workplace safety and insecure contracts determine how much choice is actually available. The same city can offer a well-paid professional an independent flat and leave a lower-income worker dependent on shared housing and long travel. Caste, region and language can change these experiences further.
 
-**Introduction and thesis:** Accept the stem's proposition as the premise the examiner supplies and then answer the two questions actually asked, which are about personal freedom and about the relationship with family. Begin with the pull mechanism, stated as a possibility rather than a proof. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and education, safety, housing and prevailing family norms condition whether a particular young woman can act on that demand. State the statistical boundary immediately, because it is the discipline this demand rewards. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported female labour force participation at 41.7 per cent against 37.0 per cent in 2022-23, and the Annual Report 2025 released in March 2026 reports usual-status female participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period rather than the earlier July to June cycle; these measure aggregate participation and establish neither the size nor the composition nor the cause of the migration stream in the stem, and the changed reference period must be named before the two are compared. Answer the freedom half specifically. Independent income and separate residence expand physical mobility, spending autonomy, the timing of marriage and the migrant's voice in partner selection, and naming each freedom is what distinguishes an answer from a summary. Answer the family half as renegotiation. Remittance flows, ritual participation and periodic visits continue while day-to-day parental oversight weakens, so the relationship is redefined rather than severed and the two halves of the demand are not in opposition. Close with the qualification that keeps the answer honest: the same independence that expands freedom thins the family-based support available during workplace harassment or a health emergency far from home, so the outcome varies with class, occupation, housing and city, and no uniform result may be claimed.
+Family relationships are often renegotiated rather than abandoned. Remittances, festival visits and digital contact maintain mutual obligations, while a daughter's contribution can alter bargaining within the household. Parents may continue to influence partner selection or major financial decisions even when daily oversight weakens. Conversely, absence from home can reduce emergency support, and distance does not remove harassment or care expectations. An urban migrant's continuing links with her hometown are therefore neither evidence of no freedom nor proof of complete emancipation.
 
-**Analytical body:**
+The impact is a contingent reallocation of resources, authority and support. Explain personal freedom and family relations together, distinguishing the PYQ's premise from demonstrated national migration data and evaluating gains against work, housing and safety constraints.
 
-1. **Claim and named evidence:** Status: Wording confirmed in the locally held official 2024 General Studies Paper-I. Routed in the audited 2024-2025 Mains ledger to this Basic owner with no cross-owner conflict recorded. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Accept the stem's proposition as the premise the examiner supplies and then answer the two questions actually asked, which are about personal freedom and about the relationship with family. Begin with the pull mechanism, stated as a possibility rather than a proof. Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and education, safety, housing and prevailing family norms condition whether a particular young woman can act on that demand. State the statistical boundary immediately, because it is the discipline this demand rewards. The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported female labour force participation at 41.7 per cent against 37.0 per cent in 2022-23, and the Annual Report 2025 released in March 2026 reports usual-status female participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period rather than the earlier July to June cycle; these measure aggregate participation and establish neither the size nor the composition nor the cause of the migration stream in the stem, and the changed reference period must be named before the two are compared. Answer the freedom half specifically. Independent income and separate residence expand physical mobility, spending autonomy, the timing of marriage and the migrant's voice in partner selection, and naming each freedom is what distinguishes an answer from a summary. Answer the family half as renegotiation. Remittance flows, ritual participation and periodic visits continue while day-to-day parental oversight weakens, so the relationship is redefined rather than severed and the two halves of the demand are not in opposition. Close with the qualification that keeps the answer honest: the same independence that expands freedom thins the family-based support available during workplace harassment or a health emergency far from home, so the outcome varies with class, occupation, housing and city, and no uniform result may be claimed.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2024 GS-I Q19”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Answers both requested domains and class variation, with an explicit PLFS migration-data boundary.
 
 ### PYQ DEMAND CARD 6 — 2025 GS-I Q10
 
-**Demand:** Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (Answer in 150 words) 10 marks.
+**Demand:** Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (10 marks; 150 words.)
 
-**Status:** Wording confirmed in the locally held official 2025 General Studies Paper-I. Routed in the audited 2024-2025 Mains ledger to this Basic owner with no cross-owner conflict recorded.
+**Verification / routing:** Official 2025 GS-I wording held locally and routed to this Basic owner.
 
-**Model solution:** Attack the word only in the first line, because the entire mark difference on this demand sits there. Concede what is true so the refusal is credible. Consumer culture, meaning the pattern in which consumption of goods and brands becomes a primary vehicle for identity, status and social participation, has genuinely intensified under expanded market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. Then separate the two layers of that concession. Structural consumerism, the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of cultural consumerism, the symbolic status meaning attached to consumption, which already shows that a single consumption story is doing too much work. Now supply the channels that do not run through consumption at all. Service-sector employment growth reorganises work; urban migration renegotiates household authority through remittance and periodic contact while expanding a migrant's mobility and voice; and digital access reorganises information and participation, with the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine reported at 64.3 per cent in the round six national fact sheets and labelled provisional. Add the cultural counter-process. Glocalisation shows global products and practices being adapted to local tastes rather than adopted unchanged, which contradicts the picture of a single aggressive consumer culture arriving intact. Justify the verdict rather than merely stating it: because these effects operate through separate mechanisms of labour demand, technology diffusion and cultural exposure, the exclusivity claim is empirically too narrow. Conclude that globalisation produces an intensified consumer culture among other simultaneous social changes, and that the honest answer is more than consumption rather than a denial of it.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 6 — 2025 GS-I Q10”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+No: globalisation can intensify status-driven consumption, but “only” mistakes one channel for the entire social process. Global brands and advertising may turn a purchase into an identity signal; this cultural consumerism differs from the structural spread of shops, credit and income needed to buy goods. India-specific menus show that even market culture is locally adapted.
 
-**Detailed examiner-grade model answer:**
+Other mechanisms are distinct. Bengaluru's globally connected service work can alter employment and women's urban residence; independent earnings may increase bargaining voice while remittances sustain family ties. Regional-language content distributed through international platforms can enlarge expression as well as spread standard formats. Yet connectivity is unequal by income, gender and place, and platform access does not guarantee creators' revenue. Consumer culture is therefore a visible effect, not an exhaustive description: work, family authority and cultural production change through separate, uneven channels.
 
-**Introduction and thesis:** Attack the word only in the first line, because the entire mark difference on this demand sits there. Concede what is true so the refusal is credible. Consumer culture, meaning the pattern in which consumption of goods and brands becomes a primary vehicle for identity, status and social participation, has genuinely intensified under expanded market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. Then separate the two layers of that concession. Structural consumerism, the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of cultural consumerism, the symbolic status meaning attached to consumption, which already shows that a single consumption story is doing too much work. Now supply the channels that do not run through consumption at all. Service-sector employment growth reorganises work; urban migration renegotiates household authority through remittance and periodic contact while expanding a migrant's mobility and voice; and digital access reorganises information and participation, with the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine reported at 64.3 per cent in the round six national fact sheets and labelled provisional. Add the cultural counter-process. Glocalisation shows global products and practices being adapted to local tastes rather than adopted unchanged, which contradicts the picture of a single aggressive consumer culture arriving intact. Justify the verdict rather than merely stating it: because these effects operate through separate mechanisms of labour demand, technology diffusion and cultural exposure, the exclusivity claim is empirically too narrow. Conclude that globalisation produces an intensified consumer culture among other simultaneous social changes, and that the honest answer is more than consumption rather than a denial of it.
+**Why this earns marks:** Rejects exclusivity with causally different Indian work, family and media channels.
 
-**Analytical body:**
+### PYQ DEMAND CARD 7 — 2025 GS-I Q18
 
-1. **Claim and named evidence:** Demand: Do you think that globalization results in only an aggressive consumer culture? Justify your answer. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Wording confirmed in the locally held official 2025 General Studies Paper-I. Routed in the audited 2024-2025 Mains ledger to this Basic owner with no cross-owner conflict recorded. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Demand:** How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience. (15 marks; 250 words.)
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Verification / routing:** Official 2025 GS-I wording held locally; audited ledger assigns primary route to Social Change, so included here as a cross-owned existing question.
 
-**Qualified conclusion:** Attack the word only in the first line, because the entire mark difference on this demand sits there. Concede what is true so the refusal is credible. Consumer culture, meaning the pattern in which consumption of goods and brands becomes a primary vehicle for identity, status and social participation, has genuinely intensified under expanded market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. Then separate the two layers of that concession. Structural consumerism, the expansion of market access and purchasing capacity through income growth, retail expansion and credit, can precede and operate independently of cultural consumerism, the symbolic status meaning attached to consumption, which already shows that a single consumption story is doing too much work. Now supply the channels that do not run through consumption at all. Service-sector employment growth reorganises work; urban migration renegotiates household authority through remittance and periodic contact while expanding a migrant's mobility and voice; and digital access reorganises information and participation, with the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine reported at 64.3 per cent in the round six national fact sheets and labelled provisional. Add the cultural counter-process. Glocalisation shows global products and practices being adapted to local tastes rather than adopted unchanged, which contradicts the picture of a single aggressive consumer culture arriving intact. Justify the verdict rather than merely stating it: because these effects operate through separate mechanisms of labour demand, technology diffusion and cultural exposure, the exclusivity claim is empirically too narrow. Conclude that globalisation produces an intensified consumer culture among other simultaneous social changes, and that the honest answer is more than consumption rather than a denial of it.
+**Model answer:**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Growing health awareness and growth in India's fast-food sector are compatible because food decisions respond to time, price, convenience and social meaning as well as health information. A Bengaluru worker returning late from a shift may know the risks of frequent highly processed meals yet choose immediate delivery over cooking. That example illustrates time scarcity, not the choices of all Bengaluru households.
 
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
+Platform ordering lowers search and travel costs and makes promotions salient at the moment of decision. Organised chains market eating out as social participation, while domestic snack and delivery businesses answer similar demand. International chains' vegetarian and India-specific options reduce cultural barriers; glocalisation therefore operates alongside standardised branding. These channels extend beyond foreign investment and cannot be explained solely by consumers ignoring medical advice.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 6 — 2025 GS-I Q10”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The behavioural lens of bounded rationality adds that near-term convenience can outweigh distant health concerns under fatigue and constrained time; it should not become a blanket diagnosis of irrationality. Household food choices also differ by income, age, work hours and available cooking facilities. Awareness does not measure nutritional knowledge, affordability of alternatives or actual disease outcomes. Growth of sales is likewise not evidence that every consumer's diet has worsened.
+
+Responses must address the choice environment: understandable labelling, affordable healthier options, accessible spaces for preparation and food-worker protections are more credible than awareness messaging alone. The paradox dissolves when consumption is analysed as structurally and socially situated: health concern is one influence among several, and the Indian experience combines global formats, local adaptation and domestic enterprise.
+
+**Why this earns marks:** Explains the paradox through multiple Indian supply and demand channels, with behavioural and measurement cautions.
+
+### PYQ DEMAND CARD 8 — 2026 GS-I Q20
+
+**Demand:** Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres. (15 marks; 250 words.)
+
+**Verification / routing:** Exact demand recorded from OCR-verified locally held official 2026 GS-I scan in the Basic owner; previously absent from this workbook.
+
+**Model answer:**
+
+Globalisation changes Indian youths' opportunities and identities through interconnected but distinct social, political, economic and cultural channels. Its effects vary by resources and location, rather than following a single Westernising path.
+
+Socially, globally linked urban services can enable a young woman in Bengaluru to earn independently and renegotiate residence or marriage timing. Continuing remittances and parental influence show that family ties need not disappear; housing and safety constrain real autonomy. Politically, digital platforms lower the cost of issue-based mobilisation. Climate campaigns and Indian citizenship-law protests illustrate how globally circulating rights idioms can be translated into local demands; this does not establish the age profile of every participant. Political consumerism and diaspora debate add channels, but an online hashtag is not evidence of voter turnout or party membership, and misinformation can polarise.
+
+Economically, IT/BPO and platform work expose young Indians to clients and aspirations beyond their locality. A young worker without a device, English fluency or secure employment may face exclusion or volatility instead. Culturally, global brand and streaming formats encourage convergence while regional-language content on the same platforms demonstrates glocalisation and hybrid identity. Visibility of a vernacular product does not guarantee its creator fair revenue.
+
+Evaluation needs separate indicators for each sphere and attention to caste, class, gender and regional connectivity; PLFS female participation cannot prove the composition of youth migration. Globalisation can widen voice and choices but also redistribute insecurity. The defensible verdict is differentiated opportunity, not uniform emancipation or inevitable cultural loss.
+
+**Why this earns marks:** Covers all four specified spheres, develops political mechanisms and weighs engagement against actual participation.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish structural consumerism from cultural consumerism and explain why the distinction changes a globalisation answer. Answer in about 150 words.
+**Demand:** Distinguish structural consumerism from cultural consumerism and explain why the distinction changes a globalisation answer. About 150 words.
 
-**Model thesis:** Naming the structural and the cultural layer separately is what allows an answer to concede that consumption has genuinely intensified while still refusing the claim that consumption is the whole social effect of globalisation.
+**Verification / routing:** Original practice; explanatory distinction tested independently of the 2025 PYQ.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment.
-- Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
-- Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
+Structural consumerism concerns conditions for buying: income, retail infrastructure, credit, logistics and access to goods. Cultural consumerism concerns the meanings attached to purchases: belonging, aspiration and status. An Indian consumer's access to a global online shop shows a structural opening; choosing a branded product to mark professional success illustrates a possible symbolic motive. Neither observation alone establishes how all households spend.
 
-**Qualified conclusion:** Naming the structural and the cultural layer separately is what allows an answer to concede that consumption has genuinely intensified while still refusing the claim that consumption is the whole social effect of globalisation.
+The distinction changes analysis because greater availability does not guarantee equal purchasing power, and purchase does not always signal identity. A delivery worker may expand access for affluent buyers without gaining the income to consume comparably. Globalisation also affects employment, media and household authority independently of both consumerism channels. Thus the claim that it produces “only” aggressive consumer culture fails twice: it conflates economic access with status-seeking and overlooks separate social effects. Assess who can buy, why a purchase matters and who supplies the market before drawing a cultural conclusion.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish structural consumerism from cultural consumerism and explain why the distinction…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Naming the structural and the cultural layer separately is what allows an answer to concede that consumption has genuinely intensified while still refusing the claim that consumption is the whole social effect of globalisation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Structural consumerism is the expansion of market access and purchasing capacity through income growth, retail expansion and credit access, while cultural consumerism is the symbolic status and identity meaning attached to consumption, and because the structural change can precede and operate independently of the cultural one the pairing of structural consumerism vs cultural consumerism belongs in the core answer rather than in optional enrichment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Naming the structural and the cultural layer separately is what allows an answer to concede that consumption has genuinely intensified while still refusing the claim that consumption is the whole social effect of globalisation.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish structural consumerism from cultural consumerism and explain why the distinction…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Separates material opportunity from symbolic meaning and shows precisely how the distinction changes the answer.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain glocalisation and show why it must be presented alongside homogenisation in an Indian answer. Answer in about 150 words.
+**Demand:** Explain glocalisation and show why it must be presented alongside homogenisation in an Indian answer. About 150 words.
 
-**Model thesis:** Homogenisation is a convergence prediction and glocalisation is an observed adaptation, so the defensible Indian position is domain-specific rather than a choice between the two.
+**Verification / routing:** Original practice; emphasises simultaneous mechanisms rather than a choice of labels.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain.
-- Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms.
-- Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner.
+Homogenisation is convergence toward similar products and formats across societies; glocalisation is their adaptation to local preferences and institutions. An international food chain retains recognisable ordering procedures but offers Indian vegetarian options; a worldwide streaming service distributes regionally produced language content. In each case global infrastructure and local change operate together.
 
-**Qualified conclusion:** Homogenisation is a convergence prediction and glocalisation is an observed adaptation, so the defensible Indian position is domain-specific rather than a choice between the two.
+These illustrations do not prove that local producers command equal revenue or that every language has the same visibility. Standard recommendation algorithms and advertising budgets can favour a few profitable formats, even while vernacular creators enter new markets. A full Indian answer should therefore identify what converges (distribution or branding), what changes (menu or language), whose choices drive the change and who controls the channel. The two concepts are not rival verdicts about an entire nation. Their coexistence explains why cross-border exchange can expand a cultural repertoire yet threaten less-resourced forms if voice and bargaining power remain unequal.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain glocalisation and show why it must be presented alongside homogenisation in an Indian…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Homogenisation is a convergence prediction and glocalisation is an observed adaptation, so the defensible Indian position is domain-specific rather than a choice between the two.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Homogenisation is the theory that globalisation makes cultures and consumption patterns increasingly similar worldwide through the spread of global brands and media formats, and it is a prediction about convergence rather than a proven description of every Indian domain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Glocalisation is the observed adaptation of global products and practices to local tastes, norms and contexts instead of their unchanged adoption, illustrated in this owner by locally customised menus at global chains and by regional-language content on global digital platforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Indian evidence shows homogenisation and glocalisation operating simultaneously in different domains rather than as rival theories of which only one can be true, and the analytical claim carried into the core answer is therefore that a competent response names the domain each process describes instead of selecting a single winner. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Homogenisation is a convergence prediction and glocalisation is an observed adaptation, so the defensible Indian position is domain-specific rather than a choice between the two.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain glocalisation and show why it must be presented alongside homogenisation in an Indian…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Identifies the unit of change in each example and treats distributional power as the necessary qualification.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Examine the limits of using an aggregate labour-force statistic as evidence about a specific migration stream. Answer in about 250 words.
+**Demand:** Examine the limits of using an aggregate labour-force statistic as evidence about a specific migration stream. About 250 words.
 
-**Model thesis:** An aggregate participation rate can establish the employment context in which a migration decision is taken but never the composition or cause of the stream itself, and stating that limit is what converts a citation into analysis.
+**Verification / routing:** Original practice; uses MoSPI PLFS period and scope without inventing migration figures.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent.
-- The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared.
-- A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream.
-- Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
+An aggregate labour-force participation rate measures whether people in a defined population are working or seeking work; it does not directly identify a person's destination, marital status, skill level or reason for moving. That distinction matters for the GS-I proposition about skilled young unmarried women's urban migration.
 
-**Qualified conclusion:** An aggregate participation rate can establish the employment context in which a migration decision is taken but never the composition or cause of the stream itself, and stating that limit is what converts a citation into analysis.
+MoSPI's PLFS Annual Report 2023–24 reported female LFPR for a specified age and usual-status measure; the 2025 annual report uses a January–December reference period. Even an accurately cited change in the two rates cannot establish how many women migrated to Bengaluru or Delhi, which jobs they took, or whether globalisation caused their moves. LFPR can rise with rural work, altered reporting, entry into employment among non-migrants or changes elsewhere in the labour market. Different reference windows further complicate naive subtraction.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the limits of using an aggregate labour-force statistic as evidence about a specific…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The appropriate evidence would follow individuals or households over time and identify origin, destination, age, marital status, education, occupation and timing, with a credible comparison for alternative explanations. Qualitative accounts could explore how safety, rent, family consent and job demand shape freedom after arrival. The data must also permit class, caste and regional differences: a salaried professional's rental options are not those of an insecure contract worker.
 
-**Detailed examiner-grade model answer:**
+PLFS is still useful as dated context for female economic participation. Its legitimate contribution is to discipline the scale of a claim, not to validate a migration stream it was not used here to measure. State the survey period, denominator and outcome, then separate contextual association from migration composition and causal attribution.
 
-**Introduction and thesis:** An aggregate participation rate can establish the employment context in which a migration decision is taken but never the composition or cause of the stream itself, and stating that limit is what converts a citation into analysis.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Periodic Labour Force Survey Annual Report 2023-24 of the Ministry of Statistics and Programme Implementation, released on 23 September 2024, reported a female labour force participation rate of 41.7 per cent against 37.0 per cent in 2022-23 and a female worker population ratio of 40.3 per cent. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Periodic Labour Force Survey Annual Report 2025, released in March 2026, reports usual-status female labour force participation for age fifteen and above at 40.0 per cent on a January to December 2025 reference period instead of the earlier July to June cycle, so the reference period and the measure must be stated before the two reports are compared. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A labour force participation rate measures aggregate participation in the labour force and does not establish the size, age composition, marital status, destination or cause of the skilled, young and unmarried women's urban migration named in the 2024 demand, so the statistic may supply context but never proof of that stream. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** An aggregate participation rate can establish the employment context in which a migration decision is taken but never the composition or cause of the stream itself, and stating that limit is what converts a citation into analysis.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the limits of using an aggregate labour-force statistic as evidence about a specific…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Explains measurement mismatch, alternative pathways, period limits and an executable evidence design.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Examine how urban work can expand a woman migrant's personal freedom while her family relationship is renegotiated rather than severed. Answer in about 250 words.
+**Demand:** Examine how urban work can expand a woman migrant's personal freedom while her family relationship is renegotiated rather than severed. About 250 words.
 
-**Model thesis:** Freedom and family tie are not substitutes under migration, because remittance, ritual participation and periodic contact persist while daily oversight weakens, and the honest qualification is the security that independent residence can cost.
+**Verification / routing:** Original practice; distinguishes household authority, ongoing kin support and unequal constraints.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted.
-- Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another.
-- The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration.
-- Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream.
+Urban work may expand a migrant woman's room to choose without erasing the relationships in which choices are made. A skilled employee in Bengaluru's services sector may gain independent earnings, decide everyday spending and negotiate accommodation or marriage timing. This is an illustrative pathway, not a universal description of women in that city.
 
-**Qualified conclusion:** Freedom and family tie are not substitutes under migration, because remittance, ritual participation and periodic contact persist while daily oversight weakens, and the honest qualification is the security that independent residence can cost.
+The mechanism runs through control over income and residence. Distance from daily parental oversight can enlarge mobility and privacy, while a steady contribution to family income can strengthen bargaining voice. Yet rent, long travel and workplace harassment may restrict effective freedom. Class, caste, language and employment terms change the options available; a worker sharing insecure housing may have far less choice than a professional with a stable salary.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine how urban work can expand a woman migrant's personal freedom while her family…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Kinship remains active across distance. Remittances, visits and digital contact sustain mutual assistance and expectations. Parents may retain influence over property or partner decisions, but that influence may be negotiated with a daughter who now contributes economically. A continuing relationship therefore need not imply unchanged subordination; equally, living away does not guarantee emancipation. Separation may also reduce emergency family support and shift care obligations to other members.
 
-**Detailed examiner-grade model answer:**
+MoSPI PLFS female LFPR is an aggregate employment indicator, not proof of the number of skilled young unmarried migrants or the effects of migration on their relationships. To evaluate impact, compare women's actual decision-making, safety, earnings and continuing obligations across households and time. The best conclusion is conditional coexistence: work can expand autonomy while reshaping, rather than simply replacing, familial interdependence.
 
-**Introduction and thesis:** Freedom and family tie are not substitutes under migration, because remittance, ritual participation and periodic contact persist while daily oversight weakens, and the honest qualification is the security that independent residence can cost.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Independent urban income and separate residence can expand a migrant woman's personal freedom through physical mobility, spending autonomy, later marriage and a greater voice in partner selection, and these are the specific freedoms the 2024 demand asks to be traced rather than merely asserted. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Family relationships under such migration are typically renegotiated rather than severed, because remittance flows, ritual participation and periodic visits continue even as day-to-day parental oversight weakens, so the pairing of personal-freedom expansion vs family-authority renegotiation is a core requirement of the answer and expanded freedom and a continuing family tie coexist instead of replacing one another. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The same independent migration that expands freedom can thin the family-based support network a woman could otherwise draw upon during workplace harassment or a health emergency far from home, and this is the qualification that keeps a freedom answer from becoming a celebration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Service-sector employment growth in cities is the labour channel through which globalisation reaches households, and for the 2024 demand it is analysed as one possible pull factor alongside education, safety, housing and family norms rather than as a proven cause of any particular migration stream. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Freedom and family tie are not substitutes under migration, because remittance, ritual participation and periodic contact persist while daily oversight weakens, and the honest qualification is the security that independent residence can cost.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine how urban work can expand a woman migrant's personal freedom while her family…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Answers freedom and family together with class variation, named labour-survey limit and a nuanced verdict.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Assess the social explanations for the growth of fast-food industries in India despite rising health concern. Answer in about 300 words.
+**Demand:** Assess the social explanations for the growth of fast-food industries in India despite rising health concern. About 300 words.
 
-**Model thesis:** The paradox is explained by time constraint, price and delivery convenience, aspirational branding and local menu adaptation acting together with domestic supply chains, and no single behavioural lens may be promoted to a complete account.
+**Verification / routing:** Original practice; broader sectoral assessment than the verified 2025 PYQ.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk.
-- Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase.
-- An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth.
-- Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration.
+Fast-food growth alongside health concern is not evidence that Indians are unaware of nutrition. It reflects choices made within work schedules, prices, platforms and cultural expectations. Consider a dual-income household in Bengaluru ordering dinner after a late shift: convenience may be valuable even if members would prefer to cook more often. The example identifies a possible mechanism, not the prevalence of a particular diet.
 
-**Qualified conclusion:** The paradox is explained by time constraint, price and delivery convenience, aspirational branding and local menu adaptation acting together with domestic supply chains, and no single behavioural lens may be promoted to a complete account.
+Demand has several sources. Commuting and irregular hours raise the cost of preparation; mobile apps lower the effort of finding, paying for and receiving food. Promotions alter relative prices at the point of choice. Eating out or ordering in can signal leisure and urban status as well as satisfy hunger. A health intention concerns long-run risk, whereas immediate time saving is salient now; bounded rationality helps describe this divergence but does not imply consumers always choose impulsively.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the social explanations for the growth of fast-food industries in India despite rising…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Supply is similarly varied. International chains localise vegetarian options and spice profiles to reduce cultural friction. Domestic prepared-food outlets and delivery platforms address the same constraints, so treating the sector as a purely foreign cultural takeover misses Indian entrepreneurship. Global branding and local adaptation can coexist. Market growth, however, does not tell us whether every dish is unhealthy or whether all consumers eat such food with the same frequency; health outcome claims require dietary and clinical evidence.
 
-**Detailed examiner-grade model answer:**
+Benefits and costs differ by class and work role. A household without a kitchen faces different choices from an affluent household with leisure; delivery workers supply convenience but may bear unstable income and road risk. Affordable healthy options, clear labelling, better working conditions and realistic food access address the structural side more effectively than admonishing consumers. Fast-food industry's growth is thus compatible with increased awareness because food choice is shaped by time, social meaning, marketing and locally adapted supply, not health beliefs alone.
 
-**Introduction and thesis:** The paradox is explained by time constraint, price and delivery convenience, aspirational branding and local menu adaptation acting together with domestic supply chains, and no single behavioural lens may be promoted to a complete account.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The fast-food paradox is the coexistence of rising health concern with growing fast-food industries, and this owner explains it through urban time constraints in dual-income households, price and delivery convenience, aspirational branding and glocalised menu adaptation rather than through any denial of health risk. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Bounded rationality is offered as one behavioural-economics lens on that paradox, showing that convenience, present-oriented food choice and status motives can outweigh long-run health considerations in an actual purchase, and it is a lens rather than proof that one motive dominates every purchase. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** An Indian illustration of the paradox must include domestic chains and food-delivery ecosystems alongside global brands, because attributing the entire trend to globalisation alone misreads a market in which local supply and platform logistics carry much of the growth. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Consumer culture is a social pattern in which the consumption of goods and brands becomes a primary vehicle for identity, status and social participation, intensified by globalisation-driven market access and advertising, and it is most visible in urban middle-class lifestyle and aspiration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The paradox is explained by time constraint, price and delivery convenience, aspirational branding and local menu adaptation acting together with domestic supply chains, and no single behavioural lens may be promoted to a complete account.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the social explanations for the growth of fast-food industries in India despite rising…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Analyses both demand and supply, behavioural mechanisms, domestic actors and the limits of health inferences.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Assess the claim that globalisation's digital channel benefits Indian society uniformly. Answer in about 300 words.
+**Demand:** Assess the claim that globalisation's digital channel benefits Indian society uniformly. About 300 words.
 
-**Model thesis:** The digital channel is stratified before it is universal, because access is unequal by income, gender, region and generation, and the dated access anchor available here shows direction without licensing a current-connectivity claim.
+**Verification / routing:** Original practice; distributional and political evaluation of connectivity and actual capability.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate.
-- The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one.
-- Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice.
-- Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion.
+Digital connectivity can widen access to markets, information and collective action, but uniform benefit is untenable. A regional-language creator using an international streaming platform may reach an audience beyond her state; the same platform's ranking and revenue rules can leave her dependent on an intermediary. Availability of a channel is not equality of voice or income.
 
-**Qualified conclusion:** The digital channel is stratified before it is universal, because access is unequal by income, gender, region and generation, and the dated access anchor available here shows direction without licensing a current-connectivity claim.
+Access differs. The NFHS-6 national fact sheet reports an ever-used-internet indicator for women of a defined age range. As a dated sample-based measure it neither tells us whether users have reliable daily broadband nor identifies who can publish, earn or act safely online. Cost of devices, language, disability, gender norms and rural connectivity shape effective capability. A platform worker may gain orders yet lack secure earnings or protection; detailed employment entitlements belong to labour-law analysis, not an assumption about an app.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the claim that globalisation's digital channel benefits Indian society uniformly.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Digital media also alters politics. Indian climate and campus campaigns illustrate issue-based mobilisation enabled by rapid communication and global repertoires; diaspora opinion can feed domestic debates. However, online visibility does not establish turnout, party membership or sustained deliberation. Disinformation and polarisation may coexist with participation. Educational platforms can broaden learning where connectivity and support exist, while excluding students without devices or suitable language content.
 
-**Detailed examiner-grade model answer:**
+The physical basis matters as well: devices and networks consume energy and materials and produce e-waste. A claim that digital delivery is inherently equitable or resource-free requires life-cycle evidence and attention to who bears disposal costs. Policy should emphasise affordable and accessible connections, vernacular creation, protection from harm, platform accountability and measurable outcomes by income, gender and region. Global digital networks can expand agency, but their realised benefits depend on resources and power rather than appearing uniformly with internet access.
 
-**Introduction and thesis:** The digital channel is stratified before it is universal, because access is unequal by income, gender, region and generation, and the dated access anchor available here shows direction without licensing a current-connectivity claim.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** This owner's digital-access anchor is the National Family Health Survey ever-internet-use measure for women aged fifteen to forty-nine, reported at 64.3 per cent in the round six national fact sheets and at 33.3 per cent in the earlier round five comparator, and because the round six results are labelled provisional neither figure may be quoted as a current connectivity estimate. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The digital divide is unequal access to digital technology and connectivity across income, gender, region and generation, and it is the reason globalisation's connectivity gains reach those already better positioned first, which converts an apparently universal channel into a stratified one. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Globalisation is treated in this owner as a set of traceable channels into Indian society, namely consumer markets, urban labour migration, food-industry growth and digital access, rather than as one uniform cultural force, while the macroeconomics of trade and investment liberalisation remains with Economy and the labour-code and gig-work dimension remains with Social Justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Six General Studies Paper-I demands are routed to this topic across the audited ledgers, four of them from 2018 to 2022 to the Advanced owner and two from 2024 and 2025 to the Basic owner, while the 2025 fast-food demand is routed by the audited 2024-2025 ledger to the Social Change and Modernisation owner even though this owner's own answer-architecture table also claims it, and that conflict is recorded openly rather than resolved by assertion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The digital channel is stratified before it is universal, because access is unequal by income, gender, region and generation, and the dated access anchor available here shows direction without licensing a current-connectivity claim.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the claim that globalisation's digital channel benefits Indian society uniformly.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Why this earns marks:** Differentiates access from capability and tests economic, political and environmental effects with data provenance.

@@ -6,20 +6,339 @@ topic_key: polity-41
 
 **Subject:** Polity | **GS Paper:** GS-II | **Control date:** 8 September 2026
 
-**Practice discipline:** exactly 32 original MCQs before PYQs; answer order `ABCD` repeated eight times; 128 substantive unique option-specific explanations; 32 unique question-specific traps; verified relevant descriptive PYQs with explicit no-official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original answer-free MCQs before the separate key; strict `ABCD` rotation repeated nine times; 144 option-specific explanations and 36 question-specific traps; verified relevant descriptive PYQs with explicit no-official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear below before the PYQ section. Questions 25-32 are targeted remediation. Correct-option sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
+Exactly **36 original MCQs** appear below before the PYQ section. Questions 33-36 are targeted application remediation. Correct-option sequence: `ABCDABCDABCDABCDABCDABCDABCDABCDABCD`.
 
 ### MCQ 1. Part XIV ownership
 
-Which statement correctly maps Part XIV?
+A study guide places the Public Service Commissions in the same article range as the service-tenure code and puts administrative tribunals in their chapter. Which map corrects both errors?
 
 A. Articles 308-314 govern services; Articles 315-323 govern Public Service Commissions.
 B. Articles 308-323 form a single code only for All-India Services.
 C. Articles 315-323 govern discipline, while Article 311 establishes UPSC.
 D. Article 323A is part of the Articles 315-323 Commission chapter.
+
+### MCQ 2. Employment category
+
+Which person is most clearly outside Article 311 merely by the stated status?
+
+A. A probationer holding a civil post under the Union.
+B. A uniformed member of a defence service.
+C. A temporary member of a State civil service facing punitive dismissal.
+D. An AIS officer serving in a State cadre.
+
+### MCQ 3. Article 309 hierarchy
+
+The Governor frames provisional recruitment rules; later the competent legislature makes provision by law. Which hierarchy determines the rules' continuing operation?
+
+A. The President and Governors have exclusive permanent legislative power over all services.
+B. UPSC rules supersede Acts of Parliament on recruitment.
+C. The appropriate legislature may regulate recruitment and service conditions, while proviso rules operate until provision is made by or under an Act.
+D. Executive instructions have the same rank as the Constitution.
+
+### MCQ 4. Executive instructions
+
+An office memorandum conflicts with a valid statutory recruitment rule. What follows?
+
+A. The memorandum prevails because recruitment is an executive function.
+B. Both instruments become void automatically.
+C. UPSC decides which source has higher legal rank.
+D. The statutory rule prevails; an executive instruction may fill a gap but cannot contradict it.
+
+### MCQ 5. Pleasure doctrine
+
+An appointing officer asserts that 'pleasure' allows unreviewable dismissal notwithstanding service law and express constitutional safeguards. What is the Indian limit on that executive tenure power?
+
+A. Executive tenure power operating subject to express constitutional provisions, governing law and judicial review.
+B. A personal and unreviewable discretion of the President or Governor.
+C. A doctrine abolished completely by Article 311.
+D. A rule applicable only to temporary employees.
+
+### MCQ 6. Special constitutional offices
+
+A proposal applies ordinary pleasure tenure to a constitutional officer whose removal is specially regulated elsewhere in the Constitution. What defeats the proposed uniform treatment?
+
+A. All constitutional offices are outside judicial review.
+B. The Constitution expressly supplies special tenure or removal procedures for several offices.
+C. Article 309 repeals every special removal provision.
+D. Every office-holder serves for life.
+
+### MCQ 7. Article 310(2)
+
+Article 310(2) most directly concerns:
+
+A. Compensation whenever a career civil servant is transferred.
+B. Automatic damages after any disciplinary penalty.
+C. A narrow contractual compensation term for a specially qualified outsider appointed for a specified period and terminated early in qualifying circumstances.
+D. Pension protection for every pre-Constitution employee.
+
+### MCQ 8. Article 311 coverage
+
+A public-sector company employee and a Union civil-post holder both invoke Article 311 after adverse action. Which status-and-penalty boundary decides who receives its safeguards?
+
+A. It protects every employee of a government-controlled company.
+B. It applies only to permanent gazetted officers.
+C. It bars all transfers, suspensions and prosecutions.
+D. It protects listed civil-service members and civil-post holders against specified punitive consequences.
+
+### MCQ 9. Article 311(1)
+
+Article 311(1) principally requires that:
+
+A. Dismissal or removal must not be imposed by an authority subordinate to the appointing authority.
+B. Only the exact individual who signed the appointment may impose any penalty.
+C. UPSC must approve every transfer.
+D. Reduction in rank can never be imposed.
+
+### MCQ 10. Article 311(2) after 42nd Amendment
+
+After the 42nd Amendment, Article 311(2):
+
+A. No longer requires the employee to know the charges.
+B. No longer independently requires a separate opportunity to represent against the proposed penalty after inquiry.
+C. Prohibits supply of an inquiry report.
+D. Applies only to All-India Services.
+
+### MCQ 11. Khem Chand
+
+A charged official is given only the final dismissal order and no opportunity to meet the allegations; the department cites abolition of the second penalty hearing. Which distinction preserves the actual inquiry-stage protection?
+
+A. Reasonable opportunity means only receiving the final penalty order.
+B. Every inquiry requires a jury.
+C. The employee must meaningfully know and meet the charges, though a separate constitutional hearing on proposed punishment is no longer required.
+D. Cross-examination is forbidden in departmental proceedings.
+
+### MCQ 12. Inquiry report versus penalty notice
+
+An officer receives the inquiry findings for representation but not a fresh notice proposing dismissal. Why is responding to the report legally distinct from the abolished second show-cause stage?
+
+A. An inquiry report and a proposed-penalty notice are identical documents.
+B. The 42nd Amendment abolished all post-inquiry fairness.
+C. Non-supply of a report always produces automatic reinstatement without a prejudice inquiry.
+D. Report representation concerns findings/evidence; the abolished second show-cause concerned the proposed punishment.
+
+### MCQ 13. Article 311 proviso (a)
+
+Under Article 311(2)(a), the regular inquiry may be dispensed with when punishment is based on:
+
+A. Conduct that led to conviction on a criminal charge.
+B. An unverified allegation in the press.
+C. A pending preliminary complaint.
+D. Administrative inconvenience.
+
+### MCQ 14. Article 311 proviso (b)
+
+A department dispenses with a disciplinary inquiry merely because witnesses would be inconvenient to call. What documented finding does the impracticability exception actually require?
+
+A. Prior approval of both Houses of Parliament.
+B. The competent authority must record in writing reasons why holding the inquiry is not reasonably practicable.
+C. A declaration of national emergency.
+D. Consent of the charged employee.
+
+### MCQ 15. Article 311 proviso (c)
+
+The government cites local administrative convenience to omit an inquiry and labels that a State-security exception. Whose satisfaction and which security standard does the constitutional text require?
+
+A. Ordinary administrative convenience.
+B. General public interest as declared by a department head.
+C. President/Governor satisfaction that inquiry is not expedient in the interest of the security of the State.
+D. Any local law-and-order concern certified by police.
+
+### MCQ 16. Article 311(3) and review
+
+A court is told it cannot scrutinise an inquiry-dispensation order because Article 311(3) makes the authority's decision 'final'. What scope of review survives?
+
+A. No court can examine a clause (b) order.
+B. The authority need not possess reasons or material.
+C. Any supervisor may invoke impracticability.
+D. The authority decides practicability, but constitutional review for relevance, bona fides and lawful exercise remains.
+
+### MCQ 17. Three penalties
+
+A disciplinary order ends an officer's employment but a recruiter asks whether dismissal and removal necessarily have identical future-service effects. Which central-rule distinction matters?
+
+A. Dismissal and removal both end service, but dismissal ordinarily carries the graver future-employment disqualification, subject to rules.
+B. Removal is only a temporary suspension.
+C. Reduction in rank always means reversion from an officiating post.
+D. Dismissal never attracts Article 311.
+
+### MCQ 18. Dhingra test
+
+A probationer's termination is labelled 'simple discharge', but it cites misconduct and produces penal consequences. What features beyond the heading determine whether Article 311 safeguards attach?
+
+A. Only the heading of the termination order.
+B. The employee's right to the post/rank, the source and substance of action, stigma and penal consequences.
+C. Whether the employee belongs to Group A.
+D. Whether Parliament debated the case.
+
+### MCQ 19. Suspension
+
+Under the CCS (CCA) framework used only as a central illustration, suspension pending inquiry is ordinarily:
+
+A. The same as dismissal.
+B. A major penalty listed with removal.
+C. An interim rule-based measure, not itself a penalty, subject to review and subsistence requirements.
+D. A constitutional amendment.
+
+### MCQ 20. Criminal and departmental tracks
+
+A departmental inquiry proceeds after a criminal acquittal. Must it automatically stop, and must both forums apply the same burden of proof?
+
+A. Departmental guilt requires proof beyond reasonable doubt in every case.
+B. Criminal acquittal always bars service proceedings.
+C. A departmental finding automatically convicts the employee criminally.
+D. The tracks serve different purposes and proof standards; their cross-effect depends on facts, grounds and governing law.
+
+### MCQ 21. Central penalty illustration
+
+A training note calls suspension a minor penalty and criminal prosecution a departmental major penalty. Which classification under the central disciplinary rules is sound without claiming it governs every service?
+
+A. Censure as minor; removal and dismissal as major penalties.
+B. Suspension as a minor penalty and transfer as a major penalty.
+C. Every warning as dismissal.
+D. Criminal prosecution as a departmental penalty.
+
+### MCQ 22. Article 312 threshold
+
+A new All-India Service may be created after:
+
+A. A simple Lok Sabha resolution alone.
+B. A Rajya Sabha national-interest resolution supported by not less than two-thirds present and voting, followed by parliamentary law.
+C. Unanimous resolutions of all State legislatures.
+D. A constitutional amendment under Article 368 in every case.
+
+### MCQ 23. Existing All-India Services
+
+A personnel chart lists a proposed All-India Judicial Service alongside established cadres and includes Indian Foreign Service as an AIS. Which list contains only services already constituted under the AIS framework?
+
+A. IAS, Indian Foreign Service and Indian Revenue Service.
+B. IPS, Central Secretariat Service and Indian Forest Service.
+C. IAS, IPS and Indian Forest Service.
+D. IAS, IPS and All-India Judicial Service.
+
+### MCQ 24. All-India Judicial Service
+
+A draft AIJS law proposes posts below district judge and claims the service already exists under Article 312 without further action. What are the constitutional gateway and rank limits?
+
+A. It currently recruits judges as the fourth AIS.
+B. It may include posts below district judge.
+C. It can be created only through Article 368.
+D. It is enabled by Article 312, requires the federal gateway and creating law, and cannot include a post inferior to district judge.
+
+### MCQ 25. Historical provisions
+
+Which historical sequence is correct?
+
+A. Article 313 continued consistent pre-Constitution service law; the 28th Amendment inserted Article 312A and repealed Article 314.
+B. Article 314 created the Indian Forest Service in 1966.
+C. Article 312A abolished Article 311 for all officers.
+D. Article 313 permanently freezes every colonial service rule.
+
+### MCQ 26. Reservation and promotion
+
+A State insists Article 16 itself compels promotion quotas in every cadre and that efficiency and relevant evidence cannot limit its choice. Which reading of the reservation case-law tests that insistence?
+
+A. Article 16 creates a fundamental right to a reservation quota in promotion.
+B. Reservation provisions are enabling; promotion reservation depends on the specific constitutional clause, lawful exercise and controlling conditions.
+C. Administrative efficiency is irrelevant after Article 16(4A).
+D. Every State must reserve promotions in every cadre.
+
+### MCQ 27. Article 335 and UPSC advice
+
+A State treats SC/ST service claims as incompatible with efficiency and also treats UPSC advice as automatically binding. Which reading of Articles 335 and 320 corrects both claims?
+
+A. Article 335 abolishes efficiency and UPSC advice always binds government.
+B. Article 335 prohibits every relaxation and Article 320 creates a promotion guarantee.
+C. Article 335 reconciles SC/ST claims with efficiency, while Article 320 consultation is generally advisory unless law provides otherwise.
+D. Both provisions apply only to All-India Services.
+
+### MCQ 28. Posting and promotion rights
+
+A civil servant ordinarily has:
+
+A. A fundamental right to remain in one preferred post.
+B. A constitutional guarantee of promotion on completing minimum service.
+C. A right to prevent every administrative transfer.
+D. No fundamental right to a particular posting or promotion, though governing law may secure fair consideration and bar arbitrary action.
+
+### MCQ 29. Neutrality and accountability
+
+Civil-service neutrality most accurately requires:
+
+A. Candid non-partisan advice, faithful implementation of lawful policy and refusal to conceal illegality.
+B. Opposition to every elected government's programme.
+C. Silence whenever an oral direction is unlawful.
+D. Loyalty to the political party controlling the department.
+
+### MCQ 30. T.S.R. Subramanian
+
+T.S.R. Subramanian is most relevant for:
+
+A. Creating the Indian Forest Service.
+B. Written directions, Civil Services Boards and tenure safeguards against arbitrary personnel control.
+C. Making UPSC advice binding in all cases.
+D. Abolishing ministerial responsibility.
+
+### MCQ 31. Lateral entry and capacity reform
+
+A lateral-entry plan hires specialist staff and measures completion of Mission Karmayogi modules, but its author says this dispenses with recruitment equality and conflict safeguards. What conditions remain necessary?
+
+A. Lateral entry automatically creates an AIS.
+B. Mission Karmayogi replaces Article 309 recruitment rules.
+C. Specialist entry and competency training can support capacity, but recruitment equality, conflict safeguards and rule-based accountability remain essential.
+D. Generalists and specialists cannot work in the same department.
+
+### MCQ 32. Whistleblowing and performance
+
+Which reform bundle is constitutionally and administratively soundest?
+
+A. Publish every confidential file and reward only numerical target completion.
+B. Suppress internal reporting to protect anonymity.
+C. Treat online course completion as conclusive proof of integrity.
+D. Use authorised protected-disclosure channels, anti-reprisal safeguards and balanced performance evidence tied to public outcomes.
+
+### MCQ 33. Lawful dissent and political neutrality
+
+A senior officer receives an oral order to favour a party worker in a public recruitment. Which response best reconciles neutrality and accountability?
+
+A. Record and seek written confirmation of the instruction, apply Article 16 and the recruitment rules, and escalate an unlawful direction through authorised channels.
+B. Comply because elected ministers may make exceptions to recruitment rules orally.
+C. Publicly campaign against the minister before checking the legal instrument.
+D. Ignore the direction silently and destroy the relevant file.
+
+### MCQ 34. Article 323A review
+
+A candidate challenges an administrative-tribunal decision about service recruitment. Which route reflects L. Chandra Kumar?
+
+A. Tribunals replace High Courts completely under Article 323A.
+B. The tribunal may act as the first forum, but its decision remains subject to constitutional judicial review by the High Court.
+C. Only UPSC can review a recruitment dispute after tribunal adjudication.
+D. Article 311 prohibits tribunal jurisdiction over recruitment.
+
+### MCQ 35. Citizen charter test
+
+A department publishes a citizen charter and reports that all officials completed online modules, but complaints remain unresolved. What is the soundest assessment?
+
+A. The charter creates a new constitutionally enforceable fundamental right in every service.
+B. Training enrolment proves that the charter has achieved citizen outcomes.
+C. Compare stated service standards with delivery times, accessible grievance redress and independent user feedback before claiming improvement.
+D. Dismiss all complaints because the charter is not a recruitment rule.
+
+### MCQ 36. AIS federal personnel bargain
+
+A Union-State dispute arises over an All-India Service officer’s deputation. Which analysis is constitutionally sound?
+
+A. Only the State has legal authority because every AIS officer is a State-service member.
+B. Only the Union has legal authority because common recruitment eliminates State cadre interests.
+C. The Rajya Sabha may itself order any officer’s transfer by simple majority.
+D. Apply the relevant AIS cadre/deputation rules and meaningful intergovernmental consultation, distinguishing common service architecture from State postings.
+
+## SEPARATE SOLVED MCQ KEY
+
+### Solution 1. Part XIV ownership
 
 **Answer: A. Articles 308-314 govern services; Articles 315-323 govern Public Service Commissions.**
 
@@ -32,14 +351,7 @@ D. Article 323A is part of the Articles 315-323 Commission chapter.
 
 **Examiner trap 1:** Keep service law, Public Service Commissions and administrative tribunals in their separate constitutional locations.
 
-### MCQ 2. Employment category
-
-Which person is most clearly outside Article 311 merely by the stated status?
-
-A. A probationer holding a civil post under the Union.
-B. A uniformed member of a defence service.
-C. A temporary member of a State civil service facing punitive dismissal.
-D. An AIS officer serving in a State cadre.
+### Solution 2. Employment category
 
 **Answer: B. A uniformed member of a defence service.**
 
@@ -52,14 +364,7 @@ D. An AIS officer serving in a State cadre.
 
 **Examiner trap 2:** Do not confuse Article 310's inclusion of defence services with Article 311's civil-capacity protection.
 
-### MCQ 3. Article 309 hierarchy
-
-Under Article 309, which proposition is correct?
-
-A. The President and Governors have exclusive permanent legislative power over all services.
-B. UPSC rules supersede Acts of Parliament on recruitment.
-C. The appropriate legislature may regulate recruitment and service conditions, while proviso rules operate until provision is made by or under an Act.
-D. Executive instructions have the same rank as the Constitution.
+### Solution 3. Article 309 hierarchy
 
 **Answer: C. The appropriate legislature may regulate recruitment and service conditions, while proviso rules operate until provision is made by or under an Act.**
 
@@ -72,14 +377,7 @@ D. Executive instructions have the same rank as the Constitution.
 
 **Examiner trap 3:** The word 'until' limits the proviso's field against later law, not the legal force of valid rules while they operate.
 
-### MCQ 4. Executive instructions
-
-An office memorandum conflicts with a valid statutory recruitment rule. What follows?
-
-A. The memorandum prevails because recruitment is an executive function.
-B. Both instruments become void automatically.
-C. UPSC decides which source has higher legal rank.
-D. The statutory rule prevails; an executive instruction may fill a gap but cannot contradict it.
+### Solution 4. Executive instructions
 
 **Answer: D. The statutory rule prevails; an executive instruction may fill a gap but cannot contradict it.**
 
@@ -92,14 +390,7 @@ D. The statutory rule prevails; an executive instruction may fill a gap but cann
 
 **Examiner trap 4:** Repeated administrative practice cannot cure a contradiction with a binding service rule.
 
-### MCQ 5. Pleasure doctrine
-
-The Indian doctrine of pleasure is best described as:
-
-A. Executive tenure power operating subject to express constitutional provisions, governing law and judicial review.
-B. A personal and unreviewable discretion of the President or Governor.
-C. A doctrine abolished completely by Article 311.
-D. A rule applicable only to temporary employees.
+### Solution 5. Pleasure doctrine
 
 **Answer: A. Executive tenure power operating subject to express constitutional provisions, governing law and judicial review.**
 
@@ -112,14 +403,7 @@ D. A rule applicable only to temporary employees.
 
 **Examiner trap 5:** Use 'constitutionally fettered pleasure', never 'hire and fire at will'.
 
-### MCQ 6. Special constitutional offices
-
-Why can Article 310 not be applied identically to every constitutional office-holder?
-
-A. All constitutional offices are outside judicial review.
-B. The Constitution expressly supplies special tenure or removal procedures for several offices.
-C. Article 309 repeals every special removal provision.
-D. Every office-holder serves for life.
+### Solution 6. Special constitutional offices
 
 **Answer: B. The Constitution expressly supplies special tenure or removal procedures for several offices.**
 
@@ -132,14 +416,7 @@ D. Every office-holder serves for life.
 
 **Examiner trap 6:** Begin with the office's own constitutional article before invoking a general pleasure formula.
 
-### MCQ 7. Article 310(2)
-
-Article 310(2) most directly concerns:
-
-A. Compensation whenever a career civil servant is transferred.
-B. Automatic damages after any disciplinary penalty.
-C. A narrow contractual compensation term for a specially qualified outsider appointed for a specified period and terminated early in qualifying circumstances.
-D. Pension protection for every pre-Constitution employee.
+### Solution 7. Article 310(2)
 
 **Answer: C. A narrow contractual compensation term for a specially qualified outsider appointed for a specified period and terminated early in qualifying circumstances.**
 
@@ -152,14 +429,7 @@ D. Pension protection for every pre-Constitution employee.
 
 **Examiner trap 7:** Article 310(2) is neither a general severance rule nor a service-wide damages guarantee.
 
-### MCQ 8. Article 311 coverage
-
-Which statement about Article 311 is correct?
-
-A. It protects every employee of a government-controlled company.
-B. It applies only to permanent gazetted officers.
-C. It bars all transfers, suspensions and prosecutions.
-D. It protects listed civil-service members and civil-post holders against specified punitive consequences.
+### Solution 8. Article 311 coverage
 
 **Answer: D. It protects listed civil-service members and civil-post holders against specified punitive consequences.**
 
@@ -172,14 +442,7 @@ D. It protects listed civil-service members and civil-post holders against speci
 
 **Examiner trap 8:** Article 311 is a procedural shield against three penalties, not a universal employment code.
 
-### MCQ 9. Article 311(1)
-
-Article 311(1) principally requires that:
-
-A. Dismissal or removal must not be imposed by an authority subordinate to the appointing authority.
-B. Only the exact individual who signed the appointment may impose any penalty.
-C. UPSC must approve every transfer.
-D. Reduction in rank can never be imposed.
+### Solution 9. Article 311(1)
 
 **Answer: A. Dismissal or removal must not be imposed by an authority subordinate to the appointing authority.**
 
@@ -192,14 +455,7 @@ D. Reduction in rank can never be imposed.
 
 **Examiner trap 9:** Non-subordination is necessary for dismissal/removal but does not itself create disciplinary competence.
 
-### MCQ 10. Article 311(2) after 42nd Amendment
-
-After the 42nd Amendment, Article 311(2):
-
-A. No longer requires the employee to know the charges.
-B. No longer independently requires a separate opportunity to represent against the proposed penalty after inquiry.
-C. Prohibits supply of an inquiry report.
-D. Applies only to All-India Services.
+### Solution 10. Article 311(2) after 42nd Amendment
 
 **Answer: B. No longer independently requires a separate opportunity to represent against the proposed penalty after inquiry.**
 
@@ -212,14 +468,7 @@ D. Applies only to All-India Services.
 
 **Examiner trap 10:** Distinguish the abolished second penalty notice from the surviving report representation where legally required.
 
-### MCQ 11. Khem Chand
-
-Which proposition best reflects Khem Chand read with the amended Article 311?
-
-A. Reasonable opportunity means only receiving the final penalty order.
-B. Every inquiry requires a jury.
-C. The employee must meaningfully know and meet the charges, though a separate constitutional hearing on proposed punishment is no longer required.
-D. Cross-examination is forbidden in departmental proceedings.
+### Solution 11. Khem Chand
 
 **Answer: C. The employee must meaningfully know and meet the charges, though a separate constitutional hearing on proposed punishment is no longer required.**
 
@@ -232,14 +481,7 @@ D. Cross-examination is forbidden in departmental proceedings.
 
 **Examiner trap 11:** Quote Khem Chand with the constitutional amendment, not as if the pre-amendment text still controls every stage.
 
-### MCQ 12. Inquiry report versus penalty notice
-
-Which distinction is legally safest?
-
-A. An inquiry report and a proposed-penalty notice are identical documents.
-B. The 42nd Amendment abolished all post-inquiry fairness.
-C. Non-supply of a report always produces automatic reinstatement without a prejudice inquiry.
-D. Report representation concerns findings/evidence; the abolished second show-cause concerned the proposed punishment.
+### Solution 12. Inquiry report versus penalty notice
 
 **Answer: D. Report representation concerns findings/evidence; the abolished second show-cause concerned the proposed punishment.**
 
@@ -252,14 +494,7 @@ D. Report representation concerns findings/evidence; the abolished second show-c
 
 **Examiner trap 12:** Do not use 'second show-cause' as a loose label for every representation after the inquiry.
 
-### MCQ 13. Article 311 proviso (a)
-
-Under Article 311(2)(a), the regular inquiry may be dispensed with when punishment is based on:
-
-A. Conduct that led to conviction on a criminal charge.
-B. An unverified allegation in the press.
-C. A pending preliminary complaint.
-D. Administrative inconvenience.
+### Solution 13. Article 311 proviso (a)
 
 **Answer: A. Conduct that led to conviction on a criminal charge.**
 
@@ -272,14 +507,7 @@ D. Administrative inconvenience.
 
 **Examiner trap 13:** Conviction opens the exception; it does not constitutionally predetermine dismissal as the only penalty.
 
-### MCQ 14. Article 311 proviso (b)
-
-Which requirement is express in Article 311(2)(b)?
-
-A. Prior approval of both Houses of Parliament.
-B. The competent authority must record in writing reasons why holding the inquiry is not reasonably practicable.
-C. A declaration of national emergency.
-D. Consent of the charged employee.
+### Solution 14. Article 311 proviso (b)
 
 **Answer: B. The competent authority must record in writing reasons why holding the inquiry is not reasonably practicable.**
 
@@ -292,14 +520,7 @@ D. Consent of the charged employee.
 
 **Examiner trap 14:** Time, cost or inconvenience without obstructive circumstances does not establish constitutional impracticability.
 
-### MCQ 15. Article 311 proviso (c)
-
-Article 311(2)(c) uses which exact standard?
-
-A. Ordinary administrative convenience.
-B. General public interest as declared by a department head.
-C. President/Governor satisfaction that inquiry is not expedient in the interest of the security of the State.
-D. Any local law-and-order concern certified by police.
+### Solution 15. Article 311 proviso (c)
 
 **Answer: C. President/Governor satisfaction that inquiry is not expedient in the interest of the security of the State.**
 
@@ -312,14 +533,7 @@ D. Any local law-and-order concern certified by police.
 
 **Examiner trap 15:** State security is narrower and constitutionally different from embarrassment, criticism or ordinary public order.
 
-### MCQ 16. Article 311(3) and review
-
-The finality language in Article 311(3) means:
-
-A. No court can examine a clause (b) order.
-B. The authority need not possess reasons or material.
-C. Any supervisor may invoke impracticability.
-D. The authority decides practicability, but constitutional review for relevance, bona fides and lawful exercise remains.
+### Solution 16. Article 311(3) and review
 
 **Answer: D. The authority decides practicability, but constitutional review for relevance, bona fides and lawful exercise remains.**
 
@@ -332,14 +546,7 @@ D. The authority decides practicability, but constitutional review for relevance
 
 **Examiner trap 16:** A finality clause narrows merits substitution; it does not legalise mala fides or nonexistent material.
 
-### MCQ 17. Three penalties
-
-Which distinction is most accurate under ordinary central disciplinary usage?
-
-A. Dismissal and removal both end service, but dismissal ordinarily carries the graver future-employment disqualification, subject to rules.
-B. Removal is only a temporary suspension.
-C. Reduction in rank always means reversion from an officiating post.
-D. Dismissal never attracts Article 311.
+### Solution 17. Three penalties
 
 **Answer: A. Dismissal and removal both end service, but dismissal ordinarily carries the graver future-employment disqualification, subject to rules.**
 
@@ -352,14 +559,7 @@ D. Dismissal never attracts Article 311.
 
 **Examiner trap 17:** State the ordinary distinction and preserve the qualification that exact collateral consequences are rule-specific.
 
-### MCQ 18. Dhingra test
-
-Parshotam Lal Dhingra principally requires attention to:
-
-A. Only the heading of the termination order.
-B. The employee's right to the post/rank, the source and substance of action, stigma and penal consequences.
-C. Whether the employee belongs to Group A.
-D. Whether Parliament debated the case.
+### Solution 18. Dhingra test
 
 **Answer: B. The employee's right to the post/rank, the source and substance of action, stigma and penal consequences.**
 
@@ -372,14 +572,7 @@ D. Whether Parliament debated the case.
 
 **Examiner trap 18:** Temporary or probationary status is a fact in the test, not a conclusive exclusion from Article 311.
 
-### MCQ 19. Suspension
-
-Under the CCS (CCA) framework used only as a central illustration, suspension pending inquiry is ordinarily:
-
-A. The same as dismissal.
-B. A major penalty listed with removal.
-C. An interim rule-based measure, not itself a penalty, subject to review and subsistence requirements.
-D. A constitutional amendment.
+### Solution 19. Suspension
 
 **Answer: C. An interim rule-based measure, not itself a penalty, subject to review and subsistence requirements.**
 
@@ -392,14 +585,7 @@ D. A constitutional amendment.
 
 **Examiner trap 19:** Do not infer guilt from suspension or allow an 'interim' label to justify indefinite punitive delay.
 
-### MCQ 20. Criminal and departmental tracks
-
-Which proposition is most accurate?
-
-A. Departmental guilt requires proof beyond reasonable doubt in every case.
-B. Criminal acquittal always bars service proceedings.
-C. A departmental finding automatically convicts the employee criminally.
-D. The tracks serve different purposes and proof standards; their cross-effect depends on facts, grounds and governing law.
+### Solution 20. Criminal and departmental tracks
 
 **Answer: D. The tracks serve different purposes and proof standards; their cross-effect depends on facts, grounds and governing law.**
 
@@ -412,14 +598,7 @@ D. The tracks serve different purposes and proof standards; their cross-effect d
 
 **Examiner trap 20:** Never transfer a result across tracks without examining the acquittal/conviction basis and identity of issues.
 
-### MCQ 21. Central penalty illustration
-
-Which pairing is a sound CCS (CCA) illustration rather than a universal rule for every service?
-
-A. Censure as minor; removal and dismissal as major penalties.
-B. Suspension as a minor penalty and transfer as a major penalty.
-C. Every warning as dismissal.
-D. Criminal prosecution as a departmental penalty.
+### Solution 21. Central penalty illustration
 
 **Answer: A. Censure as minor; removal and dismissal as major penalties.**
 
@@ -432,14 +611,7 @@ D. Criminal prosecution as a departmental penalty.
 
 **Examiner trap 21:** Name the applicable rule family and avoid projecting CCS classifications onto States, AIS or public enterprises.
 
-### MCQ 22. Article 312 threshold
-
-A new All-India Service may be created after:
-
-A. A simple Lok Sabha resolution alone.
-B. A Rajya Sabha national-interest resolution supported by not less than two-thirds present and voting, followed by parliamentary law.
-C. Unanimous resolutions of all State legislatures.
-D. A constitutional amendment under Article 368 in every case.
+### Solution 22. Article 312 threshold
 
 **Answer: B. A Rajya Sabha national-interest resolution supported by not less than two-thirds present and voting, followed by parliamentary law.**
 
@@ -452,14 +624,7 @@ D. A constitutional amendment under Article 368 in every case.
 
 **Examiner trap 22:** The majority is two-thirds of members present and voting, not total Rajya Sabha membership.
 
-### MCQ 23. Existing All-India Services
-
-Which set contains only existing All-India Services?
-
-A. IAS, Indian Foreign Service and Indian Revenue Service.
-B. IPS, Central Secretariat Service and Indian Forest Service.
-C. IAS, IPS and Indian Forest Service.
-D. IAS, IPS and All-India Judicial Service.
+### Solution 23. Existing All-India Services
 
 **Answer: C. IAS, IPS and Indian Forest Service.**
 
@@ -472,14 +637,7 @@ D. IAS, IPS and All-India Judicial Service.
 
 **Examiner trap 23:** Indian Forest Service and Indian Foreign Service share initials in informal use but belong to different constitutional categories.
 
-### MCQ 24. All-India Judicial Service
-
-Which statement about AIJS is correct?
-
-A. It currently recruits judges as the fourth AIS.
-B. It may include posts below district judge.
-C. It can be created only through Article 368.
-D. It is enabled by Article 312, requires the federal gateway and creating law, and cannot include a post inferior to district judge.
+### Solution 24. All-India Judicial Service
 
 **Answer: D. It is enabled by Article 312, requires the federal gateway and creating law, and cannot include a post inferior to district judge.**
 
@@ -492,14 +650,7 @@ D. It is enabled by Article 312, requires the federal gateway and creating law, 
 
 **Examiner trap 24:** Do not turn an enabled proposal into an existing recruitment institution.
 
-### MCQ 25. Historical provisions
-
-Which historical sequence is correct?
-
-A. Article 313 continued consistent pre-Constitution service law; the 28th Amendment inserted Article 312A and repealed Article 314.
-B. Article 314 created the Indian Forest Service in 1966.
-C. Article 312A abolished Article 311 for all officers.
-D. Article 313 permanently freezes every colonial service rule.
+### Solution 25. Historical provisions
 
 **Answer: A. Article 313 continued consistent pre-Constitution service law; the 28th Amendment inserted Article 312A and repealed Article 314.**
 
@@ -512,14 +663,7 @@ D. Article 313 permanently freezes every colonial service rule.
 
 **Examiner trap 25:** Articles 312A-314 are a closure history, not the routine source for present service discipline.
 
-### MCQ 26. Reservation and promotion
-
-Which statement is safest after Indra Sawhney, Nagaraj, Jarnail Singh and Mukesh Kumar?
-
-A. Article 16 creates a fundamental right to a reservation quota in promotion.
-B. Reservation provisions are enabling; promotion reservation depends on the specific constitutional clause, lawful exercise and controlling conditions.
-C. Administrative efficiency is irrelevant after Article 16(4A).
-D. Every State must reserve promotions in every cadre.
+### Solution 26. Reservation and promotion
 
 **Answer: B. Reservation provisions are enabling; promotion reservation depends on the specific constitutional clause, lawful exercise and controlling conditions.**
 
@@ -532,14 +676,7 @@ D. Every State must reserve promotions in every cadre.
 
 **Examiner trap 26:** Distinguish a right to equality/fair consideration from a claimed right to a particular reservation policy.
 
-### MCQ 27. Article 335 and UPSC advice
-
-Which combined proposition is correct?
-
-A. Article 335 abolishes efficiency and UPSC advice always binds government.
-B. Article 335 prohibits every relaxation and Article 320 creates a promotion guarantee.
-C. Article 335 reconciles SC/ST claims with efficiency, while Article 320 consultation is generally advisory unless law provides otherwise.
-D. Both provisions apply only to All-India Services.
+### Solution 27. Article 335 and UPSC advice
 
 **Answer: C. Article 335 reconciles SC/ST claims with efficiency, while Article 320 consultation is generally advisory unless law provides otherwise.**
 
@@ -552,14 +689,7 @@ D. Both provisions apply only to All-India Services.
 
 **Examiner trap 27:** Consultation, concurrence and binding approval are different legal concepts.
 
-### MCQ 28. Posting and promotion rights
-
-A civil servant ordinarily has:
-
-A. A fundamental right to remain in one preferred post.
-B. A constitutional guarantee of promotion on completing minimum service.
-C. A right to prevent every administrative transfer.
-D. No fundamental right to a particular posting or promotion, though governing law may secure fair consideration and bar arbitrary action.
+### Solution 28. Posting and promotion rights
 
 **Answer: D. No fundamental right to a particular posting or promotion, though governing law may secure fair consideration and bar arbitrary action.**
 
@@ -572,14 +702,7 @@ D. No fundamental right to a particular posting or promotion, though governing l
 
 **Examiner trap 28:** Write 'right to fair consideration where law provides', not 'fundamental right to promotion'.
 
-### MCQ 29. Neutrality and accountability
-
-Civil-service neutrality most accurately requires:
-
-A. Candid non-partisan advice, faithful implementation of lawful policy and refusal to conceal illegality.
-B. Opposition to every elected government's programme.
-C. Silence whenever an oral direction is unlawful.
-D. Loyalty to the political party controlling the department.
+### Solution 29. Neutrality and accountability
 
 **Answer: A. Candid non-partisan advice, faithful implementation of lawful policy and refusal to conceal illegality.**
 
@@ -592,14 +715,7 @@ D. Loyalty to the political party controlling the department.
 
 **Examiner trap 29:** Neutrality is not value-free administration; its value anchor is the Constitution rather than a party.
 
-### MCQ 30. T.S.R. Subramanian
-
-T.S.R. Subramanian is most relevant for:
-
-A. Creating the Indian Forest Service.
-B. Written directions, Civil Services Boards and tenure safeguards against arbitrary personnel control.
-C. Making UPSC advice binding in all cases.
-D. Abolishing ministerial responsibility.
+### Solution 30. T.S.R. Subramanian
 
 **Answer: B. Written directions, Civil Services Boards and tenure safeguards against arbitrary personnel control.**
 
@@ -612,14 +728,7 @@ D. Abolishing ministerial responsibility.
 
 **Examiner trap 30:** Do not overstate the judgment as an identical absolute tenure guarantee for every service and post.
 
-### MCQ 31. Lateral entry and capacity reform
-
-Which statement is most accurate?
-
-A. Lateral entry automatically creates an AIS.
-B. Mission Karmayogi replaces Article 309 recruitment rules.
-C. Specialist entry and competency training can support capacity, but recruitment equality, conflict safeguards and rule-based accountability remain essential.
-D. Generalists and specialists cannot work in the same department.
+### Solution 31. Lateral entry and capacity reform
 
 **Answer: C. Specialist entry and competency training can support capacity, but recruitment equality, conflict safeguards and rule-based accountability remain essential.**
 
@@ -632,14 +741,7 @@ D. Generalists and specialists cannot work in the same department.
 
 **Examiner trap 31:** Treat programmes as administrative instruments; test every appointment and appraisal against constitutional law.
 
-### MCQ 32. Whistleblowing and performance
-
-Which reform bundle is constitutionally and administratively soundest?
-
-A. Publish every confidential file and reward only numerical target completion.
-B. Suppress internal reporting to protect anonymity.
-C. Treat online course completion as conclusive proof of integrity.
-D. Use authorised protected-disclosure channels, anti-reprisal safeguards and balanced performance evidence tied to public outcomes.
+### Solution 32. Whistleblowing and performance
 
 **Answer: D. Use authorised protected-disclosure channels, anti-reprisal safeguards and balanced performance evidence tied to public outcomes.**
 
@@ -651,6 +753,58 @@ D. Use authorised protected-disclosure channels, anti-reprisal safeguards and ba
 - **D:** Correct. Channel protection and balanced appraisal join integrity, capability and answerability.
 
 **Examiner trap 32:** Do not claim the Whistle Blowers Protection Act is fully operational without checking commencement and applicable mechanisms.
+
+### Solution 33. Lawful dissent and political neutrality
+
+**Answer: A. Record and seek written confirmation of the instruction, apply Article 16 and the recruitment rules, and escalate an unlawful direction through authorised channels.**
+
+**Option-specific explanations:**
+
+- **A:** Correct. Written records and lawful escalation preserve candid advice, equality and democratic accountability without substituting bureaucratic rule.
+- **B:** Incorrect. Political accountability does not suspend constitutional equality or the published recruitment framework.
+- **C:** Incorrect. Public partisan campaigning compromises neutrality and bypasses institutional remedies.
+- **D:** Incorrect. Silence and destruction erase reviewable evidence and defeat accountability.
+
+**Examiner trap 33:** Written directions are a safeguard, not a licence to implement an unlawful order.
+
+### Solution 34. Article 323A review
+
+**Answer: B. The tribunal may act as the first forum, but its decision remains subject to constitutional judicial review by the High Court.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Tribunal creation does not extinguish High Court judicial review under Articles 226/227.
+- **B:** Correct. L. Chandra Kumar preserves High Court scrutiny of tribunal decisions; tribunals function as first-instance adjudicators in their assigned field.
+- **C:** Incorrect. A constitutional commission advises on recruitment; it is not a general judicial appellate body.
+- **D:** Incorrect. Article 311 addresses punitive service protections, not a blanket bar on recruitment litigation.
+
+**Examiner trap 34:** Separate initial tribunal jurisdiction from constitutionally protected judicial review.
+
+### Solution 35. Citizen charter test
+
+**Answer: C. Compare stated service standards with delivery times, accessible grievance redress and independent user feedback before claiming improvement.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. A charter is not by itself a newly created constitutional right; enforceability depends on applicable law.
+- **B:** Incorrect. Training completion measures an input rather than actual service quality.
+- **C:** Correct. A service charter is meaningful only with measurable delivery and functioning grievance/accountability channels.
+- **D:** Incorrect. Even where not self-executing law, the charter is a legitimate benchmark for administrative improvement.
+
+**Examiner trap 35:** Never infer realised performance from charter publication or course-completion counts.
+
+### Solution 36. AIS federal personnel bargain
+
+**Answer: D. Apply the relevant AIS cadre/deputation rules and meaningful intergovernmental consultation, distinguishing common service architecture from State postings.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. AIS are services common to Union and States, not identical to State civil services.
+- **B:** Incorrect. Shared cadres and State administration remain central to the federal design.
+- **C:** Incorrect. Article 312 concerns creation of services via a special Rajya Sabha resolution followed by legislation, not individual transfers.
+- **D:** Correct. Statutory and cadre rules structure shared authority; consultation and recorded reasons temper federal friction.
+
+**Examiner trap 36:** Do not confuse Article 312 service creation with individual personnel-control rules.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -684,7 +838,7 @@ D. Use authorised protected-disclosure channels, anti-reprisal safeguards and ba
 
 **Question:** Explain why Article 311 is a procedural protection and not job immunity.
 
-**Directive control:** `Explain` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Identify Article 311's two protected penalties/process safeguards and show why the inquiry exceptions and ordinary disciplinary powers rule out immunity.
 
 **Model answer:**
 
@@ -692,13 +846,13 @@ D. Use authorised protected-disclosure channels, anti-reprisal safeguards and ba
 Article 311 protects specified civil servants and civil-post holders from arbitrary dismissal, removal and reduction in rank. Its first safeguard prevents dismissal or removal by an authority subordinate to the appointing authority. Its second ordinarily requires charges, inquiry and reasonable opportunity. Khem Chand explains the defence opportunity, while the Forty-second Amendment removed only the separate constitutional representation against proposed punishment. The Article nevertheless permits three inquiry exceptions: conduct leading to criminal conviction, recorded impracticability and President/Governor satisfaction concerning State security. Tulsiram Patel confirms that these gateways remain reviewable for lawful use. Therefore Article 311 does not bar transfer, suspension, vigilance, prosecution or evidence-based discipline. It secures confidence to give candid lawful advice, but leaves government competent to punish proved misconduct through proper authority, relevant material and proportionate rules. Its purpose is fair administration, not an untouchable tenure.
 <!-- ANSWER-BODY-END M1 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** The appointing-authority bar and fair inquiry are separated from the abolished second-stage penalty hearing. *Khem Chand* and *Tulsiram Patel* illuminate the ordinary rule and exceptions; transfer or prosecution is not falsely treated as forbidden dismissal.
 
 #### Mains 2 - 10 marks | 150 words
 
 **Question:** Distinguish the pleasure doctrine from arbitrary executive dismissal.
 
-**Directive control:** `Distinguish` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Contrast the formal tenure rule in Article 310 with the actual constitutional and judicial checks on its exercise.
 
 **Model answer:**
 
@@ -706,13 +860,13 @@ Article 311 protects specified civil servants and civil-post holders from arbitr
 Article 310 places specified Union, State, All-India and defence service tenure formally during presidential or gubernatorial pleasure. Arbitrary dismissal, however, does not follow. Shamsher Singh holds that formal heads ordinarily act on ministerial aid and advice, so pleasure is institutional executive power rather than personal whim. The opening words, "except as expressly provided by this Constitution", preserve special removal codes for constitutional offices. Articles 14 and 16 prohibit mala fide or discriminatory action; Article 311 adds authority and inquiry safeguards for protected civil personnel; service statutes and rules prescribe competence and penalties. Courts may review absence of material, irrelevant purpose, procedural unfairness and bounded proportionality. B.P. Singhal, used cautiously because it concerns Governors, reinforces that constitutional pleasure is not arbitrary or capricious power. Thus pleasure maintains democratic responsibility and administrative discipline, while constitutional fences transform prerogative into reviewable power under law.
 <!-- ANSWER-BODY-END M2 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** *Shamsher Singh* rules out a personal presidential whim; Articles 14, 16 and 311 limit civil-service dismissal. *B.P. Singhal* is expressly analogical because it concerns Governors, not an Article 311 service inquiry.
 
 #### Mains 3 - 15 marks | 250 words
 
 **Question:** Analyse Article 309 as the constitutional foundation of recruitment and service conditions.
 
-**Directive control:** `Analyse` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Explain the Article 309 legislative/proviso-rule hierarchy, its practical recruitment and service-condition functions, and the limits on executive instructions and reform.
 
 **Model answer:**
 
@@ -726,13 +880,13 @@ The hierarchy also limits reform. Executive instructions may fill a genuine proc
 Therefore Article 309 is both enabling and restraining: it equips government to manage services, yet requires personnel choices to travel through Constitution, legislation and valid rules. Effective reform should amend the correct legal instrument rather than govern by circular.
 <!-- ANSWER-BODY-END M3 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** Proviso rules bridge the absence of legislation but yield to valid Acts and constitutional equality; a circular cannot amend recruitment rules. Lateral entry and capacity reform are tested against the correct legal source rather than assumed to override it.
 
 #### Mains 4 - 15 marks | 250 words
 
 **Question:** Examine the constitutional safeguards and limits governing the three exceptions to Article 311(2).
 
-**Directive control:** `Examine` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Compare conviction, impracticability and State-security exceptions by trigger, deciding authority and surviving review, rather than treating them as interchangeable shortcuts.
 
 **Model answer:**
 
@@ -748,13 +902,13 @@ Clause (c) applies when the President or Governor is satisfied that inquiry is n
 Union of India v Tulsiram Patel sustains the constitutional exclusion of natural justice to the extent authorised by these clauses, while preserving review of competence, relevant circumstances and bona fides. Thus the provisos protect administration in exceptional situations without erasing the rule of law. An examiner-ready conclusion is that exception controls must be strongest where ordinary hearing is weakest.
 <!-- ANSWER-BODY-END M4 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** Clause (a) dispenses with re-inquiry, not penalty assessment; clause (b) requires recorded impracticability, not mere inconvenience; clause (c) requires presidential/gubernatorial State-security satisfaction. Article 311(3) and *Tulsiram Patel* do not extinguish judicial review.
 
 #### Mains 5 - 20 marks | 250 words
 
 **Question:** Evaluate the All-India Services as instruments of national integration and cooperative federalism.
 
-**Directive control:** `Evaluate` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Weigh the national-capacity benefits of shared AIS cadres against State control over postings, deputation and local competence; give a federal rather than purely central verdict.
 
 **Model answer:**
 
@@ -770,13 +924,13 @@ Reform should therefore deepen, not deny, shared ownership: meaningful State con
 All-India Services are neither a unitary chain nor a loose State workforce. Their legitimacy rests on a federal bargain: national capability, State responsiveness and constitutional neutrality must reinforce one another.
 <!-- ANSWER-BODY-END M5 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** Article 312's Rajya Sabha threshold is tied to the joint Union–State staffing bargain, not mistaken for a Lok Sabha mandate. The still-uncreated AIJS illustrates why nationwide standards also require State and High Court sensitivity.
 
 #### Mains 6 - 20 marks | 250 words
 
 **Question:** Discuss a balanced agenda for civil-service reform covering neutrality, expertise, capacity, performance and integrity.
 
-**Directive control:** `Discuss` - answer the stated task, support each claim with named law/case/institution, and end with a qualified verdict.
+**Demand:** Give implementable, mutually consistent changes for all five requested heads—neutrality, expertise, capacity, performance and integrity—with democratic and equality safeguards.
 
 **Model answer:**
 
@@ -792,4 +946,4 @@ Fourth, strengthen ethical accountability. Conduct rules should be clear; suspen
 Finally, publish service standards, reasons and grievance outcomes while preserving lawful confidentiality. Reform fails if capability is separated from equality, or autonomy from answerability. The balanced goal is a candid, specialised and learning bureaucracy that implements elected policy lawfully and remains accountable to citizens, legislatures, audit and courts.
 <!-- ANSWER-BODY-END M6 -->
 
-**Why this earns marks:** It directly answers the directive, uses precise constitutional or institutional evidence, explains the mechanism and preserves a limiting qualification.
+**Answer audit:** Board-vetted tenure counters politicised transfers, Article 16 controls specialist hiring, Mission Karmayogi training is linked to measured work rather than attendance, and fair discipline plus protected disclosure addresses misconduct. The Whistle Blowers Protection Act is not misrepresented as an operational remedy.

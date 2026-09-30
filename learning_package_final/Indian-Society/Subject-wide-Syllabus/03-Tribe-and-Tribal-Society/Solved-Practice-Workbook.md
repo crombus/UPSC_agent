@@ -1,1231 +1,291 @@
----
-title: "Tribe and Tribal Society — Solved Practice Workbook"
-topic_key: indian-society-03
----
 # Tribe and Tribal Society — Solved Practice Workbook
+
+Sources: canonical Basic 03, Advanced 03, paired learning session; audited GS-I Mains ledgers (2021, 2022, 2025); Ministry of Tribal Affairs PVTG list dated 9 July 2024. ✅ Source-grounded; ⚠️ bounded inference. No verified project-specific relocation outcomes or tribal ethnography are invented; the 2021 Prelims language question is routed without an official key and is **not** keyed as a PYQ. Topic-specific OCR sociology books were not present in `books/`.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Scheduled Tribe as a legal category?
-
-A. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-B. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-C. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-D. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-
-**Answer: A.**
-**Explanation:** Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Scheduled Tribe as a legal category?
-
-A. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-B. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-C. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-D. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-
-**Answer: B.**
-**Explanation:** Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Scheduled Tribe as a legal category?
-
-A. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-D. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-
-**Answer: C.**
-**Explanation:** Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Scheduled Tribe as a legal category?
-
-A. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-D. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-
-**Answer: D.**
-**Explanation:** Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Tribe-caste continuum?
-
-A. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-B. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-C. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-D. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-
-**Answer: A.**
-**Explanation:** The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q6. Which chronology card should be filed under Tribe-caste continuum?
-
-A. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-B. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-C. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-D. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-
-**Answer: B.**
-**Explanation:** The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q7. Which option preserves the source-bounded meaning of Tribe-caste continuum?
-
-A. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-D. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-
-**Answer: C.**
-**Explanation:** The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q8. Which statement avoids a close-option trap about Tribe-caste continuum?
-
-A. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-B. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-C. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-D. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-
-**Answer: D.**
-**Explanation:** The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q9. Which statement correctly identifies Elwin's isolation?
-
-A. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-B. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-C. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-D. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-
-**Answer: A.**
-**Explanation:** Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q10. Which chronology card should be filed under Elwin's isolation?
-
-A. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-B. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-C. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-D. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-
-**Answer: B.**
-**Explanation:** Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Elwin's isolation?
-
-A. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-D. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-
-**Answer: C.**
-**Explanation:** Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Elwin's isolation?
-
-A. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-B. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-C. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-D. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-
-**Answer: D.**
-**Explanation:** Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Ghurye's assimilation?
-
-A. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-D. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-
-**Answer: A.**
-**Explanation:** G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Ghurye's assimilation?
-
-A. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-B. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-
-**Answer: B.**
-**Explanation:** G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Ghurye's assimilation?
-
-A. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-D. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-
-**Answer: C.**
-**Explanation:** G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Ghurye's assimilation?
-
-A. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-B. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-C. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-D. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-
-**Answer: D.**
-**Explanation:** G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Nehru's Panchsheel for Tribals?
-
-A. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-B. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-
-**Answer: A.**
-**Explanation:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Nehru's Panchsheel for Tribals?
-
-A. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-B. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-
-**Answer: B.**
-**Explanation:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Nehru's Panchsheel for Tribals?
-
-A. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-B. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-C. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-D. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-
-**Answer: C.**
-**Explanation:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Nehru's Panchsheel for Tribals?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-D. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-
-**Answer: D.**
-**Explanation:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Acculturation as the actual outcome?
-
-A. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-B. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-C. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-D. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-
-**Answer: A.**
-**Explanation:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Acculturation as the actual outcome?
-
-A. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-B. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: B.**
-**Explanation:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Acculturation as the actual outcome?
-
-A. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-D. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-
-**Answer: C.**
-**Explanation:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Acculturation as the actual outcome?
-
-A. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-B. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-D. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-
-**Answer: D.**
-**Explanation:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Resource overlap?
-
-A. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: A.**
-**Explanation:** Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Resource overlap?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-C. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-D. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-
-**Answer: B.**
-**Explanation:** Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Resource overlap?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: C.**
-**Explanation:** Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Resource overlap?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-
-**Answer: D.**
-**Explanation:** Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Project displacement?
-
-A. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: A.**
-**Explanation:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Project displacement?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: B.**
-**Explanation:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Project displacement?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-B. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-C. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-D. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-
-**Answer: C.**
-**Explanation:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Project displacement?
-
-A. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-
-**Answer: D.**
-**Explanation:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Land alienation?
-
-A. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-B. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: A.**
-**Explanation:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Land alienation?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-D. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-
-**Answer: B.**
-**Explanation:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Land alienation?
-
-A. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-D. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-
-**Answer: C.**
-**Explanation:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Land alienation?
-
-A. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-B. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-C. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-D. Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-
-**Answer: D.**
-**Explanation:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Rehabilitation as restoration or compensation?
-
-A. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-D. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-
-**Answer: A.**
-**Explanation:** Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Rehabilitation as restoration or compensation?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-B. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-
-**Answer: B.**
-**Explanation:** Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Rehabilitation as restoration or compensation?
-
-A. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-B. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-C. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-D. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-
-**Answer: C.**
-**Explanation:** Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Rehabilitation as restoration or compensation?
-
-A. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-B. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-C. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-D. Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-
-**Answer: D.**
-**Explanation:** Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Rehabilitation decides the welfare sign?
-
-A. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-B. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: A.**
-**Explanation:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Rehabilitation decides the welfare sign?
-
-A. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-B. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-
-**Answer: B.**
-**Explanation:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Rehabilitation decides the welfare sign?
-
-A. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-B. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-C. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: C.**
-**Explanation:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Rehabilitation decides the welfare sign?
-
-A. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-B. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-C. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-D. Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-
-**Answer: D.**
-**Explanation:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Particularly Vulnerable Tribal Groups?
-
-A. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-B. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-
-**Answer: A.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Particularly Vulnerable Tribal Groups?
-
-A. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-B. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-C. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-D. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-
-**Answer: B.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Particularly Vulnerable Tribal Groups?
-
-A. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: C.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Particularly Vulnerable Tribal Groups?
-
-A. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-B. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-
-**Answer: D.**
-**Explanation:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Fifth and Sixth Schedule contexts?
-
-A. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-B. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-C. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: A.**
-**Explanation:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Fifth and Sixth Schedule contexts?
-
-A. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-B. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-C. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: B.**
-**Explanation:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Fifth and Sixth Schedule contexts?
-
-A. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: C.**
-**Explanation:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Fifth and Sixth Schedule contexts?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-
-**Answer: D.**
-**Explanation:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Aggregate for rights, disaggregate for design?
-
-A. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-D. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-
-**Answer: A.**
-**Explanation:** A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Aggregate for rights, disaggregate for design?
-
-A. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-B. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-C. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: B.**
-**Explanation:** A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Aggregate for rights, disaggregate for design?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: C.**
-**Explanation:** A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Aggregate for rights, disaggregate for design?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-
-**Answer: D.**
-**Explanation:** A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Tribal knowledge domains?
-
-A. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-B. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-
-**Answer: A.**
-**Explanation:** Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Tribal knowledge domains?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-C. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: B.**
-**Explanation:** Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Tribal knowledge domains?
-
-A. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-B. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-C. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: C.**
-**Explanation:** Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Tribal knowledge domains?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-
-**Answer: D.**
-**Explanation:** Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Mode contrast?
-
-A. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-
-**Answer: A.**
-**Explanation:** Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Mode contrast?
-
-A. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-B. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-C. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: B.**
-**Explanation:** Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Mode contrast?
-
-A. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-B. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-C. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-D. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-
-**Answer: C.**
-**Explanation:** Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Mode contrast?
-
-A. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-B. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-C. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-D. Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-
-**Answer: D.**
-**Explanation:** Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Two prohibitions on knowledge answers?
-
-A. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-B. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-
-**Answer: A.**
-**Explanation:** Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Two prohibitions on knowledge answers?
-
-A. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-B. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-
-**Answer: B.**
-**Explanation:** Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Two prohibitions on knowledge answers?
-
-A. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-B. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-C. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-D. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-
-**Answer: C.**
-**Explanation:** Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Two prohibitions on knowledge answers?
-
-A. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-B. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-C. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-D. Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-
-**Answer: D.**
-**Explanation:** Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Scale and distinctiveness?
-
-A. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-B. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-
-**Answer: A.**
-**Explanation:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Scale and distinctiveness?
-
-A. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-B. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-
-**Answer: B.**
-**Explanation:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Scale and distinctiveness?
-
-A. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-B. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-C. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-D. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-
-**Answer: C.**
-**Explanation:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Scale and distinctiveness?
-
-A. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-B. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-C. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-D. Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Answer: D.**
-**Explanation:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Identity movements and land?
-
-A. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-B. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-C. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-D. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-
-**Answer: A.**
-**Explanation:** Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Identity movements and land?
-
-A. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-B. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-C. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-D. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-
-**Answer: B.**
-**Explanation:** Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Identity movements and land?
-
-A. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-B. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-C. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-D. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-
-**Answer: C.**
-**Explanation:** Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Identity movements and land?
-
-A. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-B. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-C. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-D. Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
-
-**Answer: D.**
-**Explanation:** Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-B. Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-C. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-D. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-
-**Answer: A.**
-**Explanation:** Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-B. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-C. The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-D. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-
-**Answer: B.**
-**Explanation:** Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-B. Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-C. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-D. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-
-**Answer: C.**
-**Explanation:** Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-B. Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-C. G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-D. Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks.
-
-**Answer: D.**
-**Explanation:** Three direct General Studies Paper-I demands are verified for this owner: 2025 on whether tribal development centres on displacement and rehabilitation worth 15 marks, 2021 on the uniqueness of tribal knowledge systems worth 10 marks and 2022 on the contexts in which tribal diversity should be treated as a single category worth 10 marks. The remaining options belong to different chronology, actor or analytical categories.
+These are original questions, not purported objective PYQs; attempt before consulting the separate key.
+
+### Q1. A researcher uses forest livelihood as the sole criterion for identifying all Scheduled Tribes. What is the error?
+A. ST is a notified legal category; no universal livelihood checklist suffices.
+B. Forest livelihood always entails Fifth Schedule territorial status.
+C. Every ST is necessarily an isolated foraging community.
+D. Urban residence automatically cancels inherited ST notification.
+
+### Q2. A community has long exchanged goods and ritual practices with nearby jatis. What follows?
+A. Its constitutional status automatically becomes a caste classification.
+B. Interaction may inform a continuum thesis without changing legal status.
+C. Exchange proves the community lost every distinct language and custom.
+D. The continuum rules out self-identification as a tribal community.
+
+### Q3. Which account best contrasts tribe-caste continuum and Article 342?
+A. Both give an automatic biological test of tribal ancestry.
+B. The continuum legally replaces government notification.
+C. One is a sociological thesis; the other governs ST notification.
+D. Article 342 ranks every jati by ritual purity.
+
+### Q4. A planner labels a forest-dependent group “backward Hindus” as if it were a neutral present-day identity. Why is this unsound?
+A. The phrase is Elwin's universal legal definition.
+B. It is Nehru's mandatory Census category.
+C. It denotes all Scheduled Tribes in the Sixth Schedule.
+D. It was Ghurye's contested historical assimilationist argument.
+
+### Q5. A moneylender and settler network expands before protective services reach a remote area. Which historical warning fits?
+A. Elwin's concern about exploitative unregulated contact.
+B. Ghurye's claim that such contact ensures equality.
+C. Nehru's instruction to freeze education permanently.
+D. The proposition that Article 342 creates a market monopoly.
+
+### Q6. A policy gives schools while preserving community decision-making and forest rights. Which position does it approximate?
+A. Protective separation that excludes every outside service.
+B. Nehru's integration through development on communities' terms.
+C. Forced absorption into a single religious identity.
+D. Removal of all contact with local administration.
+
+### Q7. A village adopts market tools and retains its language and rituals. Which process is most defensible?
+A. Proven loss of all tribal distinctiveness.
+B. Compulsory renunciation of ST legal status.
+C. Uneven acculturation rather than total assimilation.
+D. Evidence that every development safeguard worked.
+
+### Q8. Which objection to isolation is compatible with respect for autonomy?
+A. Consent is unnecessary once markets arrive.
+B. Forced religious absorption is the only option.
+C. A community must abandon its local knowledge.
+D. Isolation can deny health and education access.
+
+### Q9. A mine acquires habitat used for farming and customary gathering. Why is cash-only payment potentially inadequate?
+A. It may not replace access, skills and social networks sustaining livelihoods.
+B. Compensation automatically ensures intact community relocation.
+C. Land is irrelevant whenever market prices can be measured.
+D. The loss is merely a change in religious practice.
+
+### Q10. Tribal land passes piecemeal to outsiders after debt and distress sale. What is this primarily?
+A. Single-event submergence by a reservoir.
+B. Cumulative land alienation rather than project displacement.
+C. A complete test of successful relocation.
+D. Constitutionally required tribe-caste assimilation.
+
+### Q11. A dam settlement is moved to scattered urban colonies. Which outcome must rehabilitation assessment track?
+A. Only the total nominal compensation budget.
+B. Only the number of available industrial licences.
+C. Livelihood restoration and continuity of community institutions.
+D. Whether relocated people cease speaking their language.
+
+### Q12. A rehabilitation report counts only paid cheques, not land or work after relocation. What is its main weakness?
+A. It measures restoration rather than payments.
+B. It distinguishes schooling from market access.
+C. It establishes a national tribal welfare trend.
+D. It treats disbursement as if it proved viable resettlement.
+
+### Q13. Why is the overlap of minerals and tribal-majority forested belts sociologically important?
+A. Benefits and displacement costs may accrue to different populations.
+B. Every tribal community is displaced by every mine.
+C. All mineral areas have identical governance rules.
+D. Resource extraction necessarily produces no national benefits.
+
+### Q14. A community secures land at a new site but has no water access for cultivation. Which test is decisive?
+A. Whether a resettlement certificate was printed.
+B. Whether the new holding supports the former livelihood.
+C. Whether all forest customs were formally prohibited.
+D. Whether the old village had a scheduled language.
+
+### Q15. A Fifth Schedule district and a Sixth Schedule polity require different governance responses. Why?
+A. Both have identical administrative institutions everywhere.
+B. ST status is restricted to one of the two territories.
+C. Distinct territorial governance arrangements require contextual design.
+D. Constitutional schedules replace every livelihood consideration.
+
+### Q16. A teacher treats every one of MoTA's 75 PVTGs as having identical culture and income. What is wrong?
+A. The MoTA list is an official national poverty ranking.
+B. PVTG status measures a specific rehabilitation success rate.
+C. PVTG listing determines every individual's occupation.
+D. Administrative targeting does not imply uniform group outcomes.
+
+### Q17. A district claims that “pre-agricultural technology” describes innate inferiority. Which correction fits?
+A. It is a legacy administrative criterion, not a hierarchy of people.
+B. It measures a fixed biological race of every notified ST.
+C. It cancels a community's legal status if tools change.
+D. It proves all PVTGs share an identical current economy.
+
+### Q18. Which use of ST as a single category is most defensible?
+A. Prescribing the same livelihood package to urban and forest groups.
+B. Identifying a notified entitlement while tailoring local implementation.
+C. Assuming uniform kinship and faith among all listed groups.
+D. Inferring one national displacement rate without project data.
+
+### Q19. An urban ST worker and forest-dependent cultivator need distinct services. Which principle is illustrated?
+A. Uniform schemes always match both livelihoods equally.
+B. Notification must change when a member migrates.
+C. Aggregate for rights; disaggregate by context for design.
+D. Urban workers never experience identity-based exclusion.
+
+### Q20. A shared sacred grove informs customary rules over resource use. What does a folklore-only reading miss?
+A. Every customary rule replaces constitutional law.
+B. Formal pharmacology is proved unnecessary.
+C. All sacred groves follow one national species list.
+D. Cosmology and practical resource governance can be intertwined.
+
+### Q21. A researcher describes all tribal plant remedies as clinically proven. What qualification is needed?
+A. Place-specific use is not equivalent to formal efficacy testing.
+B. Oral transmission means no knowledge can be systematic.
+C. Cultural knowledge necessarily displaces public health.
+D. All remedies are attributable to the same named tribe.
+
+### Q22. A project relocation disrupts practitioners' access to local plants and apprentices. Which loss is especially hard to replace?
+A. A published universal national medicinal formula.
+B. Place-indexed knowledge and its practical oral transmission.
+C. The constitutional right to identify a new language family.
+D. Guaranteed recognition as a formerly dominant caste.
+
+### Q23. Which statement respects the routed 2021 Prelims language PYQ boundary?
+A. Halbi, Ho and Kui are all one biological race.
+B. Their official objective answer can be deduced from the title alone.
+C. These are named language examples; the official key is unavailable locally.
+D. Their mention proves all speakers have identical ST status.
+
+### Q24. A Gram Sabha hearing is held after all land decisions are fixed. Which institutional issue is implicated?
+A. Payment proves that prior consultation occurred.
+B. Every Indian project requires identical consent rules.
+C. Fast approvals always strengthen community agency.
+D. Procedural timing can hollow out meaningful consultation.
+
+### Q25. Which analytical distinction avoids overclaiming “free, prior and informed consent” universally?
+A. Consultation/consent safeguards differ across specific legal contexts.
+B. Any hearing automatically amounts to unrestricted veto power.
+C. Tribal self-government has identical rules nationwide.
+D. All forest decisions are free of statutory safeguards.
+
+### Q26. A trader adopts local custom while a tribal craftsperson uses new tools. Does this compel either to abandon their identity?
+A. Yes; acculturation always requires one-way conversion.
+B. No; cultural exchange can be partial and reciprocal.
+C. Yes; markets alone extinguish Article 342 notification.
+D. No; contact guarantees equal access to land and credit.
+
+### Q27. A policy celebrates identity but ignores displacement, schooling and health. Evaluate.
+A. Recognition alone settles the rehabilitation question.
+B. A scheme can substitute for all land rights.
+C. Tribal development includes material access and self-governance.
+D. The policy fully realises Panchsheel by excluding services.
+
+### Q28. Which evaluation of a relocated community avoids inventing a project success rate?
+A. Project relocation always leads to improved household welfare.
+B. Cash paid is identical to restoration of community structure.
+C. Every listed PVTG experienced this particular displacement.
+D. Compare observed post-relocation land, livelihoods and community ties.
+
+### Separate answer key and four-way explanations
+
+| Q | Key | Correct mechanism and traps in other three options |
+|---|---|---|
+| 1 | A | Article 342 notification is legal; B equates livelihood with territory, C imposes a primitive stereotype, D makes migration change status. |
+| 2 | B | A continuum thesis can describe interaction; A invents automatic reclassification, C assumes total cultural loss, D negates agency. |
+| 3 | C | Sociology and notification answer different questions; A invents biology, B grants the thesis legal force, D misreads the article. |
+| 4 | D | Ghurye's phrase is contested and historical; A and B misattribute it, C universalises it to a different territory. |
+| 5 | A | Elwin warned of exploitation; B imagines automatic equality, C misstates integration, D invents a monopoly. |
+| 6 | B | Nehru combined rights and services; A and D isolate, C imposes assimilation. |
+| 7 | C | Acculturation can be uneven; A assumes erasure, B invents notification loss, D mistakes contact for successful safeguards. |
+| 8 | D | Isolation may exclude beneficial services; A denies consent, B demands assimilation, C requires knowledge loss. |
+| 9 | A | Resources and ties cannot always be cashed out; B guarantees continuity, C ignores land use, D mistakes livelihood loss for ritual alone. |
+| 10 | B | Slow distress transfer is alienation; A is project displacement, C wrongly claims success, D invents a mandate. |
+| 11 | C | Social and material restoration matter; A counts cash only, B substitutes licences, D requires cultural erasure. |
+| 12 | D | Payments alone do not measure restoration; A reverses the measure, B invents scope, C infers a national trend. |
+| 13 | A | Spatial resource overlap can externalise costs; B, C and D impose unsupported absolutes. |
+| 14 | B | Functioning land/water determines livelihood; A confuses a form with outcome, C adds coercion, D substitutes language. |
+| 15 | C | Schedules have distinct governance fields; A erases difference, B invents exclusivity, D ignores livelihoods. |
+| 16 | D | A dated administrative list is not uniform ethnography; A invents ranking, B invents project success, C assumes occupation. |
+| 17 | A | Legacy criteria are for policy classification; B racialises, C invents automatic delisting, D asserts uniform livelihood. |
+| 18 | B | Rights can be aggregated while design varies; A and C homogenise communities, D invents a rate. |
+| 19 | C | Context-sensitive delivery respects one legal category; A assumes sameness, B equates mobility and status, D denies urban exclusion. |
+| 20 | D | Belief and resource rules can coexist; A substitutes customary for law, B denies formal testing, C invents nationwide uniformity. |
+| 21 | A | Long use is not a clinical trial; B denies oral systems, C denies public health, D fabricates attribution. |
+| 22 | B | Ecological dislocation disrupts local practice and teaching; A invents universality, C confuses language classification, D invents caste status. |
+| 23 | C | The routed objective demand is unkeyed; A racialises language, B invents an official key, D assumes legal identity from speech. |
+| 24 | D | Timing conditions effective voice; A equates money with prior hearing, B universalises law, C assumes haste improves agency. |
+| 25 | A | Safeguards are context-specific; B assumes unrestricted veto, C uniformity, D denies legal protections. |
+| 26 | B | Exchange need not erase identities; A imposes forced conversion, C invents loss of notification, D guarantees market equality. |
+| 27 | C | Rights, services and agency are distinct dimensions; A and B substitute symbols/scheme for material rights, D misstates Panchsheel. |
+| 28 | D | Compare observed outcomes; A guarantees improvement, B equates cash and restoration, C extends one case to every PVTG. |
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+Descriptive demands from audited Mains routing ledgers: 2021 GS-I Q9, 2022 GS-I Q10, 2025 GS-I Q20. Core section 13.8 differs on the 2021 question number (Q10), but the ledger and prior workbook both use Q9. Independent models below are not official answers. The routed **2021 Prelims GS-I Q95 Halbi/Ho/Kui question** is retained as an unkeyed provenance note only: full option wording and the official answer key are not held locally; no answer is asserted.
 
-Three direct General Studies Paper-I Mains demands are verified for this owner. The 2025 demand is routed in the audited 2024-2025 ledger to the Basic owner; the 2021 and 2022 demands are routed in the audited 2018-2023 ledger to the Advanced owner, and the Core owner records that Core routing supersedes, so all three are answered from the Basic spine. Each wording reproduced below was confirmed against the locally held official General Studies Paper-I question papers. The owner additionally carries one routed 2021 Prelims item on the Halbi, Ho and Kui tribal languages; its official key is not held locally, so no option is inferred and it is not converted into a solved answer.
+### Verified descriptive PYQ — 2025 GS-I Q20 (15 marks; 250 words)
+**Demand:** Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Model answer:** Largely yes: displacement and rehabilitation reveal who bears the costs of development and whether that loss is repaired. Yet they do not exhaust tribal development. Mineral extraction, dams and industry frequently seek land in forested, resource-rich regions inhabited by Scheduled Tribe communities. Acquisition or submergence can sever cultivation, forest access and networks of care; slow land alienation through debt or encroachment is a separate mechanism, not a single project event.
 
-#### 5. Indian applications and PYQ mapping
+Rehabilitation must be judged by post-move livelihood and community continuity, not by cheques issued. Imagine two hypothetical resettlements for comparable projects: one offers viable land, water, livelihood support and nearby relocation; another disperses households and supplies cash without access to former resources. The first might improve services, while the second can deepen deprivation. Neither is presented here as a measured outcome for a named project. Gram Sabha participation in applicable contexts can help surface otherwise ignored losses, but procedural consultation is not proof of effective consent or implementation.
 
-- ✅ **2025 GS-I PYQ (15 marks, verbatim):** "Does tribal development in India centre around
-  two axes, those of displacement and of rehabilitation? Give your opinion." The expected
-  answer: affirm that these are indeed the two dominant, linked axes — development projects
-  (mining, dams, industrial corridors) in tribal-majority regions repeatedly cause
-  displacement, and the adequacy of rehabilitation (land-for-land, livelihood restoration,
-  community relocation intact) determines whether "development" becomes net welfare or net
-  loss for the displaced community; a balanced opinion should add that non-displacement
-  dimensions (education, health, identity recognition) also matter, so the two-axis framing
-  captures the most visible but not the only dimension of tribal development.
-- ⚠️ A tribal community relocated for a dam project but resettled without adequate land or
-  continuity of community structure illustrates the rehabilitation gap the PYQ probes.
+Even successful relocation does not answer whether people retain identity, self-government, education and health access. MoTA's 2024 PVTG list names 75 groups in 18 states and Andaman and Nicobar Islands; listing measures neither exposure to a project nor rehabilitation success. Fifth Schedule mainland and Sixth Schedule northeastern settings also differ institutionally. My opinion is therefore that displacement and rehabilitation are central linked axes of conflict, while rights, voice and service access are indispensable dimensions for assessing development itself. Public gains cannot be called inclusive if the communities surrendering land cannot shape and share them.
 
-#### 9. PYQ application
+### Verified descriptive PYQ — 2021 GS-I Q9 (10 marks; 150 words)
+**Demand:** Examine the uniqueness of tribal knowledge systems when compared with mainstream knowledge and cultural systems.
 
-- ✅ **2025 GS-I (15 marks):** structure as affirm-the-two-axis-framing, explain the
-  displacement mechanism (mining/dams/industry in tribal-majority regions), explain the
-  rehabilitation-adequacy question (land-for-land, livelihood, community continuity), and
-  qualify with a balanced opinion noting other dimensions (education, health, identity)
-  also matter.
+**Model answer:** Tribal knowledge is distinctive less because its content is exotic than because it is often place-specific, collectively practised and transmitted orally. Seasonal observations and customary rules can guide forest-produce use; apprenticeship passes on bamboo, weaving or other crafts. Sacred-grove norms may combine cosmology with practical resource regulation. In contrast, formal science seeks methods transferable across places and tests medicines through controlled evidence; statutory resource administration relies more on written records.
 
-#### Recent PYQ Integration (2024-2025)
+The distinction is not a ranking. Local observation may inform conservation and adaptation, but a plant remedy's long use does not establish clinical efficacy, nor can it replace public health. Knowledge systems also change through contact and schooling. When a community loses land to a project, practitioners can lose access to the ecology in which their knowledge worked and to networks of apprentices. Documentation alone cannot restore that context. Protecting habitat, livelihood and participation while offering formal education is therefore more productive than either romanticising inherited practice or dismissing it as folklore.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+### Verified descriptive PYQ — 2022 GS-I Q10 (10 marks; 150 words)
+**Demand:** In which specific contexts should the diversity of Indian tribes not be treated as a single category?
 
-- **Years represented:** 2025
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
+**Model answer:** A common Scheduled Tribe notification category under Article 342 helps establish access to specified rights and representation. It is not an adequate template for diagnosing every local need. Forest-dependent cultivators, pastoral households and urban tribal workers confront different land, mobility and employment problems. MoTA's dated list identifies 75 PVTGs using administrative vulnerability criteria; it cannot be read as a description of every ST household.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-I | 20 | Tribal development around displacement and rehabilitation | Give your opinion · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Territory matters: Fifth Schedule mainland settings and Sixth Schedule northeastern polities involve distinct governance arrangements. Kinship, religion and language vary too; a Khasi matrilineal setting cannot be treated as a model for all communities. A standard relocation package may be irrelevant to a non-displaced urban worker, while a cash-only package can fail a displaced forest settlement. Gender and class differences inside a community complicate even targeted support. Aggregate for legally defined entitlements, but disaggregate for livelihood design, language-sensitive services, governance and rehabilitation. Notification alone cannot measure cultural uniformity or identical social outcomes.
 
-##### What this owner must now support
-
-- Tribal development around displacement and rehabilitation
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | Prelims GS-I | 95 | Halbi Ho and Kui tribal languages of India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Halbi Ho and Kui tribal languages of India
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ✅ **2025 GS-I (15 marks, verbatim):** "Does tribal development in India centre around two
-  axes, those of displacement and of rehabilitation? Give your opinion." Analytical route:
-  (a) affirm the two-axis framing with the resource-overlap mechanism explaining why
-  tribal regions face disproportionate displacement; (b) use the rehabilitation-quality
-  distinction (restoration versus compensation) to explain why displacement outcomes vary;
-  (c) give one boundary case of successful rehabilitation and one of failed rehabilitation;
-  (d) offer a qualified opinion — the two axes dominate lived tribal development, but
-  education, health and identity-recognition dimensions remain necessary complements, so the
-  framing is largely but not wholly sufficient.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2021, 2022
-- **Paper(s):** GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | GS-I | 9 | Uniqueness of tribal knowledge systems against mainstream systems | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-I | 10 | Tribal diversity and treatment as a single category | In which specific contexts · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Uniqueness of tribal knowledge systems against mainstream systems
-- Tribal diversity and treatment as a single category
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2025 GS-I Q20
-
-**Demand:** Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion. (Answer in 250 words) 15 marks.
-
-**Status:** Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2025 General Studies Paper-I.
-
-**Model solution:** State the opinion at once as an analytical claim to be defended: displacement and rehabilitation are the axes on which tribal development is contested, but not the only axes on which it is constituted. Prove axis one. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, so mining, dam and industrial projects are structurally sited where tribal communities live, and displacement removes the subsistence and identity base at the same time; the qualification is that no displacement count or project figure is verified in this folder and none is asserted. Distinguish it from land alienation, the slow transfer of tribal land to non-tribal ownership through debt, distress sale or encroachment, which accounts for cumulative land loss that a project-only framing misses. Prove axis two. The decisive distinction is rehabilitation as restoration vs rehabilitation as compensation: restoration-oriented resettlement rebuilds land access, livelihood and an intact community while compensation-oriented resettlement pays cash and scatters a village, so the welfare sign of the same project depends on design rather than on intention. State what the two-axis framing omits: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose vulnerability precedes any project; education, health, identity recognition and Fifth and Sixth Schedule self-governance also determine outcomes. Conclude with a graded opinion: the framing is accurate about conflict and incomplete about development, because the decisive question is whether communities retain decision-making over land, livelihood and culture. Why this earns marks: it gives an opinion first, proves both axes with mechanisms, adds the omitted dimension, and closes with a graded rather than binary verdict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2025 GS-I Q20”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** State the opinion at once as an analytical claim to be defended: displacement and rehabilitation are the axes on which tribal development is contested, but not the only axes on which it is constituted. Prove axis one. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, so mining, dam and industrial projects are structurally sited where tribal communities live, and displacement removes the subsistence and identity base at the same time; the qualification is that no displacement count or project figure is verified in this folder and none is asserted. Distinguish it from land alienation, the slow transfer of tribal land to non-tribal ownership through debt, distress sale or encroachment, which accounts for cumulative land loss that a project-only framing misses. Prove axis two. The decisive distinction is rehabilitation as restoration vs rehabilitation as compensation: restoration-oriented resettlement rebuilds land access, livelihood and an intact community while compensation-oriented resettlement pays cash and scatters a village, so the welfare sign of the same project depends on design rather than on intention. State what the two-axis framing omits: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose vulnerability precedes any project; education, health, identity recognition and Fifth and Sixth Schedule self-governance also determine outcomes. Conclude with a graded opinion: the framing is accurate about conflict and incomplete about development, because the decisive question is whether communities retain decision-making over land, livelihood and culture. Why this earns marks: it gives an opinion first, proves both axes with mechanisms, adds the omitted dimension, and closes with a graded rather than binary verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2025 General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** State the opinion at once as an analytical claim to be defended: displacement and rehabilitation are the axes on which tribal development is contested, but not the only axes on which it is constituted. Prove axis one. Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, so mining, dam and industrial projects are structurally sited where tribal communities live, and displacement removes the subsistence and identity base at the same time; the qualification is that no displacement count or project figure is verified in this folder and none is asserted. Distinguish it from land alienation, the slow transfer of tribal land to non-tribal ownership through debt, distress sale or encroachment, which accounts for cumulative land loss that a project-only framing misses. Prove axis two. The decisive distinction is rehabilitation as restoration vs rehabilitation as compensation: restoration-oriented resettlement rebuilds land access, livelihood and an intact community while compensation-oriented resettlement pays cash and scatters a village, so the welfare sign of the same project depends on design rather than on intention. State what the two-axis framing omits: the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose vulnerability precedes any project; education, health, identity recognition and Fifth and Sixth Schedule self-governance also determine outcomes. Conclude with a graded opinion: the framing is accurate about conflict and incomplete about development, because the decisive question is whether communities retain decision-making over land, livelihood and culture. Why this earns marks: it gives an opinion first, proves both axes with mechanisms, adds the omitted dimension, and closes with a graded rather than binary verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2025 GS-I Q20”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 2 — 2021 GS-I Q9
-
-**Demand:** Examine the uniqueness of tribal knowledge system when compared with mainstream knowledge and cultural systems. (Answer in 150 words) 10 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Open with the thesis that the uniqueness lies in mode rather than in exotic content. Examine domain by domain with the mainstream contrast. Ecological knowledge holds seasonal indicators, species behaviour and fire and fallow practice indexed to one forest tract, against generalised transferable models validated by controlled study, which proves place-specificity is a property and not a defect. Medicinal knowledge sits in practitioner lineages with locally sourced remedies, against standardised pharmacology with formal trials, which proves a different validation regime. Resource governance runs on collective, customary and orally enforced rules over forest produce, grazing and water, against individual title and written statutory right, which proves a different property logic. Craft and material knowledge passes by apprenticeship rather than codified industrial process, and cosmology binds clan rules and sacred groves to resource regulation, which proves that belief and management cannot be separated in these contexts. State the mode contrast explicitly as embedded against abstracted, collective against individual, oral against written, place-specific against transferable, and long-run use against formal testing. Qualify that the systems are context-bound and are not a substitute for public health, schooling or formal science, and that no remedy is attributed here to a named tribe. Conclude that displacement destroys such knowledge faster than any curriculum can record it. Why this earns marks: it examines systems rather than folklore, contrasts each domain, states the analytical mode difference, and refuses romanticisation.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2021 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open with the thesis that the uniqueness lies in mode rather than in exotic content. Examine domain by domain with the mainstream contrast. Ecological knowledge holds seasonal indicators, species behaviour and fire and fallow practice indexed to one forest tract, against generalised transferable models validated by controlled study, which proves place-specificity is a property and not a defect. Medicinal knowledge sits in practitioner lineages with locally sourced remedies, against standardised pharmacology with formal trials, which proves a different validation regime. Resource governance runs on collective, customary and orally enforced rules over forest produce, grazing and water, against individual title and written statutory right, which proves a different property logic. Craft and material knowledge passes by apprenticeship rather than codified industrial process, and cosmology binds clan rules and sacred groves to resource regulation, which proves that belief and management cannot be separated in these contexts. State the mode contrast explicitly as embedded against abstracted, collective against individual, oral against written, place-specific against transferable, and long-run use against formal testing. Qualify that the systems are context-bound and are not a substitute for public health, schooling or formal science, and that no remedy is attributed here to a named tribe. Conclude that displacement destroys such knowledge faster than any curriculum can record it. Why this earns marks: it examines systems rather than folklore, contrasts each domain, states the analytical mode difference, and refuses romanticisation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Examine the uniqueness of tribal knowledge system when compared with mainstream knowledge and cultural systems. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open with the thesis that the uniqueness lies in mode rather than in exotic content. Examine domain by domain with the mainstream contrast. Ecological knowledge holds seasonal indicators, species behaviour and fire and fallow practice indexed to one forest tract, against generalised transferable models validated by controlled study, which proves place-specificity is a property and not a defect. Medicinal knowledge sits in practitioner lineages with locally sourced remedies, against standardised pharmacology with formal trials, which proves a different validation regime. Resource governance runs on collective, customary and orally enforced rules over forest produce, grazing and water, against individual title and written statutory right, which proves a different property logic. Craft and material knowledge passes by apprenticeship rather than codified industrial process, and cosmology binds clan rules and sacred groves to resource regulation, which proves that belief and management cannot be separated in these contexts. State the mode contrast explicitly as embedded against abstracted, collective against individual, oral against written, place-specific against transferable, and long-run use against formal testing. Qualify that the systems are context-bound and are not a substitute for public health, schooling or formal science, and that no remedy is attributed here to a named tribe. Conclude that displacement destroys such knowledge faster than any curriculum can record it. Why this earns marks: it examines systems rather than folklore, contrasts each domain, states the analytical mode difference, and refuses romanticisation.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2021 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### PYQ DEMAND CARD 3 — 2022 GS-I Q10
-
-**Demand:** Given the diversities among tribal communities in India, in which specific contexts should they be considered as a single category? (Answer in 150 words) 10 marks.
-
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
-
-**Model solution:** Answer with an explicit split rather than a general discussion of diversity. Contexts where single-category treatment is legitimate: constitutional notification under Article 342, which is necessarily categorical; portability of entitlements when a household moves between States; protection against atrocity and discrimination, where a common legal standing is the point; and aggregate reporting of a national share such as the Census 2011 figure of about 8.6 per cent. Contexts where single-category treatment damages: livelihood design, because forest-dependent gatherers, settled cultivators and urbanised tribal workers need different instruments; vulnerability targeting, because the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose criteria include pre-agricultural technology and subsistence economy; governance design, because Fifth Schedule mainland belts and Sixth Schedule North-East polities operate differently; and cultural policy, because kinship, language and faith vary sharply, with distinct languages such as Halbi, Ho and Kui recorded in this owner's own record. State the consequence that a single scheme template mis-targets precisely the most vulnerable. Conclude with the working rule: aggregate for rights, disaggregate for design. Why this earns marks: it answers the in-which-contexts demand with two named lists, supplies one dated official source, and ends with a portable decision rule.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2022 GS-I Q10”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Answer with an explicit split rather than a general discussion of diversity. Contexts where single-category treatment is legitimate: constitutional notification under Article 342, which is necessarily categorical; portability of entitlements when a household moves between States; protection against atrocity and discrimination, where a common legal standing is the point; and aggregate reporting of a national share such as the Census 2011 figure of about 8.6 per cent. Contexts where single-category treatment damages: livelihood design, because forest-dependent gatherers, settled cultivators and urbanised tribal workers need different instruments; vulnerability targeting, because the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose criteria include pre-agricultural technology and subsistence economy; governance design, because Fifth Schedule mainland belts and Sixth Schedule North-East polities operate differently; and cultural policy, because kinship, language and faith vary sharply, with distinct languages such as Halbi, Ho and Kui recorded in this owner's own record. State the consequence that a single scheme template mis-targets precisely the most vulnerable. Conclude with the working rule: aggregate for rights, disaggregate for design. Why this earns marks: it answers the in-which-contexts demand with two named lists, supplies one dated official source, and ends with a portable decision rule.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Given the diversities among tribal communities in India, in which specific contexts should they be considered as a single category? (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Answer with an explicit split rather than a general discussion of diversity. Contexts where single-category treatment is legitimate: constitutional notification under Article 342, which is necessarily categorical; portability of entitlements when a household moves between States; protection against atrocity and discrimination, where a common legal standing is the point; and aggregate reporting of a national share such as the Census 2011 figure of about 8.6 per cent. Contexts where single-category treatment damages: livelihood design, because forest-dependent gatherers, settled cultivators and urbanised tribal workers need different instruments; vulnerability targeting, because the Ministry of Tribal Affairs list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands whose criteria include pre-agricultural technology and subsistence economy; governance design, because Fifth Schedule mainland belts and Sixth Schedule North-East polities operate differently; and cultural policy, because kinship, language and faith vary sharply, with distinct languages such as Halbi, Ho and Kui recorded in this owner's own record. State the consequence that a single scheme template mis-targets precisely the most vulnerable. Conclude with the working rule: aggregate for rights, disaggregate for design. Why this earns marks: it answers the in-which-contexts demand with two named lists, supplies one dated official source, and ends with a portable decision rule.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2022 GS-I Q10”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
+### Original Mains 1 — 10 marks
 **Question:** Explain the tribe-caste continuum and state the limits of the thesis. Answer in about 150 words.
 
-**Model thesis:** The continuum usefully describes long interaction between some communities and caste society, but it cannot dissolve distinct self-identification or the constitutional Scheduled Tribe category, so it is an analytical device with a legal boundary.
+**Model answer:** The tribe-caste continuum is a sociological hypothesis about long interaction: communities may exchange crops, labour, religious practices and marriage customs with neighbouring jatis rather than inhabit sealed social worlds. A settlement participating in a regional market while retaining a distinctive language illustrates such mixed features, not an automatic move into a caste.
 
-**Claim → named evidence → analysis → qualification:**
+The model has limits. Different tribal histories include remote forest, pastoral, northeastern and urban contexts; a single route from “isolated tribe” to “assimilated caste” presumes a progress ladder that the evidence cannot justify. Gradual acculturation may be reciprocal and need not amount to Ghurye's contested programme of absorption. Above all, Article 342 ST notification is a legal matter, not a score on a continuum. A market contact cannot annul it or override community self-identification. The thesis helps ask how local relations change, but cannot define every tribe's authenticity or replace evidence on rights, livelihood and agency.
 
-- Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity.
-- The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status.
-- None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-- Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
-
-**Qualified conclusion:** The continuum usefully describes long interaction between some communities and caste society, but it cannot dissolve distinct self-identification or the constitutional Scheduled Tribe category, so it is an analytical device with a legal boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the tribe-caste continuum and state the limits of the thesis. Answer in about 150…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The continuum usefully describes long interaction between some communities and caste society, but it cannot dissolve distinct self-identification or the constitutional Scheduled Tribe category, so it is an analytical device with a legal boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Tribe has no single universal sociological checklist, while a Scheduled Tribe is a constitutionally notified category under Article 342, so older anthropological traits must never be used as a test of authenticity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The tribe-caste continuum is a historical sociological thesis that some communities long interacted with caste society through trade, migration or religious exchange and may show mixed features; it does not collapse tribal identities into caste or alter Scheduled Tribe status. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The continuum usefully describes long interaction between some communities and caste society, but it cannot dissolve distinct self-identification or the constitutional Scheduled Tribe category, so it is an analytical device with a legal boundary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain the tribe-caste continuum and state the limits of the thesis. Answer in about 150…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
+### Original Mains 2 — 10 marks
 **Question:** Contrast the isolationist, assimilationist and integrationist positions in Indian tribal policy. Answer in about 150 words.
 
-**Model thesis:** Elwin diagnosed exploitative contact and prescribed protection, Ghurye diagnosed cultural lag and prescribed absorption, and Nehru rejected both extremes in favour of development on tribal terms, while what actually occurred was uneven acculturation.
+**Model answer:** Verrier Elwin's early protective isolation warned that unrestricted settler, trader and moneylender contact could dispossess communities. Its strength is attention to land and cultural autonomy; its danger is denial of health and education if separation becomes permanent. G.S. Ghurye's contested description of tribes as “backward Hindus” favoured assimilation into a wider social order. It offered contact but risked treating distinct identities as deficiencies.
 
-**Claim → named evidence → analysis → qualification:**
+Nehru's Panchsheel for Tribals sought integration instead: education and health on communities' own terms, with forest and land rights and scope for self-directed development. This is neither a museum-like isolation nor coerced cultural absorption. In reality, contact, schooling and markets expanded unevenly while safeguards often lagged. A forest settlement receiving a school but losing customary access to land would thus fail the Panchsheel test despite increased service provision. The contrast is about who controls change and whether rights survive contact, not simply the amount of outside contact.
 
-- Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary.
-- G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity.
-- Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-- None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-
-**Qualified conclusion:** Elwin diagnosed exploitative contact and prescribed protection, Ghurye diagnosed cultural lag and prescribed absorption, and Nehru rejected both extremes in favour of development on tribal terms, while what actually occurred was uneven acculturation.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Contrast the isolationist, assimilationist and integrationist positions in Indian tribal…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Elwin diagnosed exploitative contact and prescribed protection, Ghurye diagnosed cultural lag and prescribed absorption, and Nehru rejected both extremes in favour of development on tribal terms, while what actually occurred was uneven acculturation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verrier Elwin argued from fieldwork among central Indian tribal groups that unregulated contact with markets, moneylenders and settlers exploited tribal communities and eroded their culture, so protective limitation of outside contact was necessary. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** G.S. Ghurye's historically influential and contested argument described tribes as backward Hindus at a lower stage of acculturation and favoured faster absorption into mainstream Hindu social and economic life; the phrase must be quoted as his argument, not as a description of Adivasi identity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Elwin diagnosed exploitative contact and prescribed protection, Ghurye diagnosed cultural lag and prescribed absorption, and Nehru rejected both extremes in favour of development on tribal terms, while what actually occurred was uneven acculturation.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Contrast the isolationist, assimilationist and integrationist positions in Indian tribal…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
+### Original Mains 3 — 15 marks
 **Question:** Examine why the quality of rehabilitation, rather than the fact of displacement, determines tribal development outcomes. Answer in about 250 words.
 
-**Model thesis:** Displacement removes a subsistence and identity base, so the welfare sign of a project is set by whether resettlement restores land, livelihood and community rather than by whether compensation was paid.
+**Model answer:** Project displacement records an event; rehabilitation reveals whether those moved can rebuild a viable life. Dams, mines or industry in forested regions can remove homes, fields and access to common resources simultaneously. A cheque values only part of that loss: forest produce, local farming knowledge, work connections and collective institutions may be inseparable from the site.
 
-**Claim → named evidence → analysis → qualification:**
+Compare two illustrative, not documented, resettlement scenarios. In one, a community obtains cultivable land with water, livelihood support, nearby schooling and space to resettle together. Services might improve and cultural networks survive, although lost ecological practices still require attention. In the other, families receive cash but are scattered to sites without land or jobs. Compensation has been disbursed, yet material security and collective agency may decline. A large payment cannot prove restoration, and mere relocation cannot prove failure; investigate outcomes after the move.
 
-- Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live.
-- Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-- Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together.
-- Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-- Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
+The assessment also begins before relocation: meaningful Gram Sabha consultation where applicable can reveal use rights and local priorities ignored in property valuations. Legal safeguards differ across Scheduled Area and forest-rights contexts; a ceremonial hearing does not establish consent. Women and land-poor members may be excluded even from community-level negotiations. Fifth Schedule mainland settings and Sixth Schedule northeastern polities require distinct institutional attention.
 
-**Qualified conclusion:** Displacement removes a subsistence and identity base, so the welfare sign of a project is set by whether resettlement restores land, livelihood and community rather than by whether compensation was paid.
+Rehabilitation quality is therefore a decisive mediator between displacement and net welfare, though not the only cause. Education, health, territorial self-government and identity recognition also matter, while slow land alienation through debt requires remedies even without a formal project. The test is restored capability and voice, not the number of households moved or payments processed.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine why the quality of rehabilitation, rather than the fact of displacement, determines…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Displacement removes a subsistence and identity base, so the welfare sign of a project is set by whether resettlement restores land, livelihood and community rather than by whether compensation was paid.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Mineral, forest and hydel-power resources are concentrated in tribal-majority regions, which creates a structural pressure for development projects to be sited exactly where tribal communities live. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Restoration-oriented rehabilitation rebuilds land access, livelihood and community structure at the new site, while compensation-oriented rehabilitation pays money without guaranteeing livelihood continuity or keeping a village together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Displacement removes a subsistence and identity base, so the welfare sign of a project is set by whether resettlement restores land, livelihood and community rather than by whether compensation was paid.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine why the quality of rehabilitation, rather than the fact of displacement, determines…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
+### Original Mains 4 — 15 marks
 **Question:** Assess the argument that tribal communities in India should be aggregated for rights and disaggregated for policy design. Answer in about 250 words.
 
-**Model thesis:** Aggregation is defensible for entitlement, portability and atrocity protection and destructive for diagnosis, because vulnerability inside the category ranges from urbanised tribal workers to Particularly Vulnerable Tribal Groups.
+**Model answer:** Aggregation has a legitimate function: Scheduled Tribe notification under Article 342 defines eligibility for certain legal safeguards and representation. A common category can help ensure rights are not denied merely because a claimant lives outside an ancestral village. But a legal container cannot describe every community's ecological, political or livelihood situation.
 
-**Claim → named evidence → analysis → qualification:**
+For policy, compare a forest-dependent cultivator facing loss of customary access with a tribal worker seeking accommodation and employment in a city. The former may need secure resource access; the latter may need portable services. A displaced group needs restoration rather than a generic cash cheque, while a non-displaced group may prioritise schools. MoTA's 2024 listing of 75 PVTGs in 18 states and the Andaman and Nicobar Islands provides a more focused administrative category; its legacy vulnerability criteria still do not measure uniform conditions or displace local inquiry. Fifth Schedule mainland governance and Sixth Schedule northeastern arrangements are different; treating their institutions as interchangeable risks poor implementation.
 
-- The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy.
-- Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-- A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design.
-- Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments.
+Within a group, land, gender and market access further differentiate needs. A single representative's approval may not express the priorities of women or land-poor families. Language-sensitive teaching can matter in one setting, pastoral mobility in another. Disaggregation, however, must not become fragmentation of legal protection or an excuse to withhold entitlements from a smaller group. Organise rights consistently and identify the actual barrier to delivery with local evidence and meaningful participation. In short: use the constitutional category for entitlement, but let people's territory, livelihood and decision-making shape the remedy.
 
-**Qualified conclusion:** Aggregation is defensible for entitlement, portability and atrocity protection and destructive for diagnosis, because vulnerability inside the category ranges from urbanised tribal workers to Particularly Vulnerable Tribal Groups.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the argument that tribal communities in India should be aggregated for rights and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Aggregation is defensible for entitlement, portability and atrocity protection and destructive for diagnosis, because vulnerability inside the category ranges from urbanised tribal workers to Particularly Vulnerable Tribal Groups.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Ministry of Tribal Affairs state-wise list dated 9 July 2024 identifies 75 Particularly Vulnerable Tribal Groups in 18 States and the Union Territory of Andaman and Nicobar Islands, with legacy criteria including pre-agricultural level of technology, low literacy, stagnant or declining population and subsistence economy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A single legal category is necessary for entitlement, portability and atrocity protection and damaging for diagnosis, because forest-dependent, settled-cultivator and urbanised tribal workers need different livelihood design. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Scheduled Tribes were about 8.6 per cent of India's population at Census 2011, and distinct tribal languages including Halbi, Ho and Kui are routed in this owner's own Prelims record, which grounds both the scale and the diversity arguments. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Aggregation is defensible for entitlement, portability and atrocity protection and destructive for diagnosis, because vulnerability inside the category ranges from urbanised tribal workers to Particularly Vulnerable Tribal Groups.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the argument that tribal communities in India should be aggregated for rights and…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
+### Original Mains 5 — 20 marks
 **Question:** Evaluate the uniqueness of tribal knowledge systems and the conditions under which they survive. Answer in about 300 words.
 
-**Model thesis:** Tribal knowledge is distinctive in mode rather than content, so it erodes when displacement severs the ecology it was indexed to and when schooling and market integration break oral transmission, and it must not be romanticised as a substitute for public services.
+**Model answer:** Tribal knowledge systems often differ from formal institutions in how they are generated, validated and transmitted, not by timeless separation from modernity. Seasonal cues and species observation can guide resource use in a particular ecology. Customary rules can organise access to forest produce, grazing and water; craft skills can pass through apprenticeship. Beliefs attached to a sacred grove may also regulate its use. These are interacting domains of practice, not a single folklore inventory.
 
-**Claim → named evidence → analysis → qualification:**
+Their strength lies in experience, collective memory and adaptation. Formal scientific knowledge, by comparison, seeks controlled tests and transferable explanations, while statutory administration relies on codified rules and records. These approaches need not exclude one another: ecological observations can inform conservation research, and education can help practitioners negotiate with officials. But long use of a plant remedy does not establish clinical efficacy, and no particular tribe's medicinal practice is asserted here without verification. Public health and formal schooling remain essential rights.
 
-- Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use.
-- Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing.
-- Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified.
-- Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain.
-- Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
+Survival depends on access to the land and social relationships that make practice possible. A mine or reservoir relocation can separate observers from the plant and animal patterns they knew and disperse apprentice networks. Cash payment alone may not restore a lost ecological reference. Similarly, rapid market integration without fair terms can displace craft livelihoods even where techniques are recorded. Community voice over resource decisions, secure livelihood, support for relevant languages and an education system that does not dismiss local experience can keep knowledge usable and open to revision.
 
-**Qualified conclusion:** Tribal knowledge is distinctive in mode rather than content, so it erodes when displacement severs the ecology it was indexed to and when schooling and market integration break oral transmission, and it must not be romanticised as a substitute for public services.
+Variation must be acknowledged: forest-based, pastoral and urban ST households cannot all be described by the same repertoire, and gender and generation affect who holds and passes on expertise. A sound policy protects rights to choose how knowledge is shared while allowing appropriate formal testing and adaptation. Its uniqueness lies in the embedded mode of knowing; its resilience depends on living ecologies, not an archive alone.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the uniqueness of tribal knowledge systems and the conditions under which they…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Tribal knowledge is distinctive in mode rather than content, so it erodes when displacement severs the ecology it was indexed to and when schooling and market integration break oral transmission, and it must not be romanticised as a substitute for public services.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Tribal knowledge systems span ecological indicators, medicinal plant practice held in practitioner lineages, customary community rules over forest produce, grazing and water, craft and material technique, and cosmology whose clan rules and sacred groves also regulate resource use. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Tribal knowledge is distinctive in mode rather than in exotic content: embedded rather than abstracted, collective rather than individually authored, oral rather than written, place-specific rather than transferable, and validated by long-run use rather than by formal testing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Tribal knowledge must not be romanticised as a substitute for public health, schooling or formal science, and no specific remedy or technique may be attributed to a named tribe unless that attribution is separately verified. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Mining, dam and industrial projects have repeatedly removed tribal communities from the land and forest base on which subsistence and identity depend, which is why tribal and national development are experienced as a trade-off rather than a shared gain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Tribal knowledge is distinctive in mode rather than content, so it erodes when displacement severs the ecology it was indexed to and when schooling and market integration break oral transmission, and it must not be romanticised as a substitute for public services.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate the uniqueness of tribal knowledge systems and the conditions under which they…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
+### Original Mains 6 — 20 marks
 **Question:** Assess post-Independence tribal policy against its own stated objectives. Answer in about 300 words.
 
-**Model thesis:** Panchsheel promised development along tribal genius with land and forest rights retained, so the honest verdict is that contact expanded faster than safeguards, and displacement with weak rehabilitation is the sharpest test the promise failed.
+**Model answer:** A fair assessment starts with the objectives, not a simple count of welfare schemes. Nehru's Panchsheel for Tribals proposed development along communities' own genius: protect land and forest connections while enabling education, health and administrative participation. It stood between Verrier Elwin's early protective isolation from exploitative outsiders and G.S. Ghurye's contested assimilationist image of tribes as “backward Hindus.” Neither enforced seclusion nor coerced absorption meets the Panchsheel standard.
 
-**Claim → named evidence → analysis → qualification:**
+There are institutional routes for voice: Article 342 notification identifies Scheduled Tribes, while Fifth and Sixth Schedule governance arrangements address different territorial contexts. Gram Sabha consultation or consent operates in particular statutory settings; detailed rules for PESA and forest rights belong to Polity and Social Justice. Their presence does not demonstrate uniform enforcement. Expanding schools or markets can be a real gain, but services are not development on communities' terms if associated land decisions are made without effective voice.
 
-- Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation.
-- None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption.
-- Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy.
-- Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable.
-- Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer.
-- Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem.
+The acute test is the displacement–rehabilitation chain. Mines, dams and industrial projects can place national benefits alongside concentrated local costs in tribal-inhabited resource regions. If relocation restores workable land, livelihoods and community ties, expanded services may produce benefits; if a cash-only package scatters households, it can deepen deprivation. These are conditional scenarios, not verified success rates for particular projects. Slow alienation through distress transfers needs separate attention even without a project.
 
-**Qualified conclusion:** Panchsheel promised development along tribal genius with land and forest rights retained, so the honest verdict is that contact expanded faster than safeguards, and displacement with weak rehabilitation is the sharpest test the promise failed.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess post-Independence tribal policy against its own stated objectives. Answer in about 300…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Panchsheel promised development along tribal genius with land and forest rights retained, so the honest verdict is that contact expanded faster than safeguards, and displacement with weak rehabilitation is the sharpest test the promise failed.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Jawaharlal Nehru's integrationist middle path held that tribal people should develop along the lines of their own genius, retaining land and forest rights and cultural autonomy while gaining education, health and administration without imposed assimilation or museum isolation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** None of the three positions was fully implemented; uneven acculturation resulted, with market and administrative contact expanding faster than protective safeguards were enforced, and acculturation is gradual and often two-way rather than deliberate absorption. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Land alienation is the slower, cumulative transfer or encroachment of tribal land to non-tribal ownership through debt, distress sale or encroachment, and it is a different mechanism from a single project displacement event requiring a different remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Where rehabilitation restores livelihood and keeps the community intact, displacement can coexist with long-run welfare gain, and where it does not, displacement produces cumulative marginalisation, so rehabilitation quality is the decisive variable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Fifth Schedule mainland tribal-majority regions and Sixth Schedule areas in parts of the North-East have distinct constitutional governance arrangements whose doctrinal detail belongs to Polity and is cross-linked rather than restated in a Society answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** Tribal identity movements assert distinct religious, linguistic or political identity and push back against both assimilationist framings and purely developmental framings that treat tribal areas only as a service-delivery problem. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Panchsheel promised development along tribal genius with land and forest rights retained, so the honest verdict is that contact expanded faster than safeguards, and displacement with weak rehabilitation is the sharpest test the promise failed.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess post-Independence tribal policy against its own stated objectives. Answer in about 300…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Nor is “tribal” a uniform design unit. A MoTA-designated PVTG settlement, a Sixth Schedule polity and an urban tribal worker differ in governance and access needs. The 2024 list of 75 PVTGs is administrative, not an outcome ranking. Post-Independence policy has supplied a language of autonomy and some channels of access, while implementation often struggles to align safeguards with market and project pressure. Measure its success by retained agency, viable livelihoods, health, education and cultural choice, with gender- and region-sensitive evidence rather than by disbursed cash alone.

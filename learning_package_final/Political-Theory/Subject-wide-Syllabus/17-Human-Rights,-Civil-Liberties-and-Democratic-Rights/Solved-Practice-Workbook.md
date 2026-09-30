@@ -14,724 +14,632 @@ generated_on: 2026-09-10
 
 ## WORKBOOK GUIDE
 
-- Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
+- Questions 1–24 diagnose concepts; 25–32 repair close-option errors. Keep the answer section covered.
 - Record the reason for eliminating each wrong option before reading the four option-specific explanations.
-- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- Keys rotate A → B → C → D for production; decide by elimination, not position.
 - For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
-- No direct owned Topic 17 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
+- No directly owned Prelims/GS Mains PYQ is verified; separately identified Philosophy Optional prompts below are cross-applications with their original ownership preserved.
 - The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
 
 ## BASIC MCQS / REMEDIATION
 
-### Practice design
-
-- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
-- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
-- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
-- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
-- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
+### Questions (answer key follows all stems)
 
 ### MCQ 1
 
-Which proposition is correctly associated with **Human rights**?
+A non-citizen is detained without charge. Which premise best grounds an objection before citizenship status is settled?
 
-- A. rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF.
-- B. Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).
-- C. a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- D. a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against private interference.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Human rights.
-- **B:** B Attaches to Natural-rights theory, not Human rights.
-- **C:** C Attaches to Negative-right dimension, not Human rights.
-- **D:** D Attaches to Positive-right dimension, not Human rights.
-
-> **Examiner trap:** Do not identify Human rights by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Human rights attach to personhood and require lawful treatment
+- B. Only citizens possess rights against detention
+- C. A residence permit automatically gives the vote
+- D. The UDHR itself is a domestic arrest code
 
 ### MCQ 2
 
-Which proposition is correctly associated with **Rights**?
+A state formally protects expression but declines to prevent violent suppression by private groups. What duty is missing?
 
-- A. legal protections such as expression, religion, movement, association, fair trial and personal freedom against arbitrary public power; their effective.
-- B. justified normative or legal positions. Hohfeld's vocabulary distinguishes claim-rights, liberties, powers and immunities; Gauba's chapter especially.
-- C. every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-duties.
-- D. personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Civil liberties, not Rights.
-- **B:** B States the source-recorded proposition for Rights.
-- **C:** C Attaches to Rights and duties, not Rights.
-- **D:** D Attaches to Moral claim vs full enforceable right, not Rights.
-
-> **Examiner trap:** Do not identify Rights by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. The duty not to censor official speech
+- B. Positive protection needed to make the liberty usable
+- C. A rule guaranteeing all speech an electoral vote
+- D. An absolute duty to provide every speaker a platform
 
 ### MCQ 3
 
-Which proposition is correctly associated with **Negative-right dimension**?
+Which right primarily enables eligible citizens to choose public officials?
 
-- A. treats rights as socially recognised conditions of moral personality and common good, not as atomistic pre-social possessions (PDF pp.342-343).
-- B. challenges the grounding of abstract universal rights-talk; he does not simply argue that community overrides every individual right (PDF pp.365-366).
-- C. a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- D. a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba, PDF p.345).
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to T.H. Green, not Negative-right dimension.
-- **B:** B Attaches to Alasdair MacIntyre, not Negative-right dimension.
-- **C:** C States the source-recorded proposition for Negative-right dimension.
-- **D:** D Attaches to Ernest Barker, not Negative-right dimension.
-
-> **Examiner trap:** Do not identify Negative-right dimension by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. The universal moral right to dignity
+- B. The civil liberty against arbitrary search
+- C. The democratic right to vote
+- D. The social claim to health care
 
 ### MCQ 4
 
-Which proposition is correctly associated with **Positive-right dimension**?
+A court recognises a claim in statute but cannot justify its discriminatory basis. Which distinction matters?
 
-- A. participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).
-- B. rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-- C. Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).
-- D. a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Democratic rights, not Positive-right dimension.
-- **B:** B Attaches to Human rights, not Positive-right dimension.
-- **C:** C Attaches to Natural-rights theory, not Positive-right dimension.
-- **D:** D States the source-recorded proposition for Positive-right dimension.
-
-> **Examiner trap:** Do not identify Positive-right dimension by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Every enacted right is thereby a natural right
+- B. A morally appealing claim necessarily has a judicial remedy
+- C. Historical persistence alone establishes justice
+- D. Positive-law status does not settle moral legitimacy
 
 ### MCQ 5
 
-Which proposition is correctly associated with **Civil liberties**?
+Which pairing correctly identifies Hohfeld's strict correlate?
 
-- A. legal protections such as expression, religion, movement, association, fair trial and personal freedom against arbitrary public power; their effective.
-- B. every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-duties.
-- C. restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general.
-- D. gives a social-democratic account in which rights are conditions for personality, equality and common welfare and carry social responsibilities; this is not.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A States the source-recorded proposition for Civil liberties.
-- **B:** B Attaches to Rights and duties, not Civil liberties.
-- **C:** C Attaches to Restriction test, not Civil liberties.
-- **D:** D Attaches to Laski, not Civil liberties.
-
-> **Examiner trap:** Do not identify Civil liberties by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. A claim-right corresponds to another party's duty
+- B. Every liberty has an identical claim-duty correlate
+- C. Every power corresponds to an identical liberty
+- D. Every immunity entails a welfare transfer
 
 ### MCQ 6
 
-Which proposition is correctly associated with **Democratic rights**?
+A pupil has access to education but officials prohibit her language without justification. Which reading is strongest?
 
-- A. a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against private interference.
-- B. participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship.
-- C. Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).
-- D. rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Positive-right dimension, not Democratic rights.
-- **B:** B States the source-recorded proposition for Democratic rights.
-- **C:** C Attaches to Natural-rights theory, not Democratic rights.
-- **D:** D Attaches to Human rights, not Democratic rights.
-
-> **Examiner trap:** Do not identify Democratic rights by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Provision automatically cancels civil liberties
+- B. Positive educational provision and restraint against arbitrary interference may both matter
+- C. Language access is only a negative right and needs no institutions
+- D. Education is a democratic right to contest office
 
 ### MCQ 7
 
-Which proposition is correctly associated with **Rights and duties**?
+Which inference from Bentham's legal-rights theory is most defensible?
 
-- A. restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general.
-- B. legal protections such as expression, religion, movement, association, fair trial and personal freedom against arbitrary public power; their effective.
-- C. every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-duties.
-- D. gives a social-democratic account in which rights are conditions for personality, equality and common welfare and carry social responsibilities; this is not.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Restriction test, not Rights and duties.
-- **B:** B Attaches to Civil liberties, not Rights and duties.
-- **C:** C States the source-recorded proposition for Rights and duties.
-- **D:** D Attaches to Laski, not Rights and duties.
-
-> **Examiner trap:** Do not identify Rights and duties by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Pre-political entitlement alone creates a court remedy
+- B. Traditional longevity conclusively grounds all rights
+- C. Enforceable rights need legal institution, but legal origin alone cannot condemn unjust enactments
+- D. Legislation is irrelevant to rights
 
 ### MCQ 8
 
-Which proposition is correctly associated with **Moral claim vs full enforceable right**?
+Locke allows resistance to government on what ground?
 
-- A. legal protections such as expression, religion, movement, association, fair trial and personal freedom against arbitrary public power; their effective.
-- B. criticises the limits of bourgeois rights and the separation of formally equal political citizens from unequal civil society. Leninist theory and the records.
-- C. justified normative or legal positions. Hohfeld's vocabulary distinguishes claim-rights, liberties, powers and immunities; Gauba's chapter especially.
-- D. personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Attaches to Civil liberties, not Moral claim vs full enforceable right.
-- **B:** B Attaches to Marx, not Moral claim vs full enforceable right.
-- **C:** C Attaches to Rights, not Moral claim vs full enforceable right.
-- **D:** D States the source-recorded proposition for Moral claim vs full enforceable right.
-
-> **Examiner trap:** Do not identify Moral claim vs full enforceable right by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Every unpopular tax proves forfeiture of trust
+- B. The government refuses to enforce traditional custom
+- C. Any failure to secure an identical income
+- D. Serious breach of its rights-protecting trust
 
 ### MCQ 9
 
-Which thinker/concept–proposition pair is correctly matched?
+Why does Barker call either personality-interest or legal guarantee alone incomplete?
 
-- A. Natural-rights theory — Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of.
-- B. Human rights — a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- C. Positive-right dimension — challenges the grounding of abstract universal rights-talk; he does not simply argue that community overrides every individual right (PDF pp.365-366).
-- D. Democratic rights — a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba, PDF p.345).
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Records the association: Natural-rights theory is associated with this proposition.
-- **B:** B Wrong attachment: Human rights is recorded with rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-- **C:** C Misplaced: Positive-right dimension is recorded with a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against private interference.
-- **D:** D Belongs elsewhere: Democratic rights is recorded with participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).
-
-> **Examiner trap:** Keep the exact proposition attached to Natural-rights theory; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. A full right needs normative grounding and institutional protection together
+- B. A moral ideal automatically becomes enforceable law
+- C. Every valid law advances personality
+- D. Rights need no social recognition once a thinker describes them
 
 ### MCQ 10
 
-Which of the following pairs a name or concept with the proposition the source actually records for it?
+An old discriminatory practice is defended solely because it is inherited. Which critique meets Burke's historical approach?
 
-- A. "Second generation" — Firestone foregrounds reproductive and sex-class power, whereas Rowbotham joins patriarchy to socialist analysis of class and labour.
-- B. Legal-rights theory — Bentham treats rights as creatures of law — they exist only once the state recognizes and enforces them (PDF pp.344-345).
-- C. Robert Nozick — treats rights as socially recognised conditions of moral personality and common good, not as atomistic pre-social possessions (PDF pp.342-343).
-- D. Historical-rights theory — a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba, PDF p.345).
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: "Second generation" is recorded with Social, economic and cultural rights such as work, education, health and social security (PDF pp.340-341, 361, 364-365).
-- **B:** B Records the association: Legal-rights theory is associated with this proposition.
-- **C:** C Belongs elsewhere: Robert Nozick is recorded with defends strong individual rights and a minimal anti-redistributive state, limited mainly to protection and enforcement (PDF p.365).
-- **D:** D Cross-attached: Historical-rights theory is recorded with Burke roots rights in prescriptive inheritance and evolved constitutional practice rather than abstract declaration (PDF pp.346-347).
-
-> **Examiner trap:** Keep the exact proposition attached to Legal-rights theory; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. All inherited institutions are illegitimate by definition
+- B. Prescriptive continuity cannot by itself morally validate exclusion
+- C. No law may revise an old practice
+- D. The practice is lawful because every moral claim is natural
 
 ### MCQ 11
 
-In which pair does the proposition genuinely belong to the label placed against it?
+Laski asks the state to guarantee schooling and social security. What is his rights logic?
 
-- A. Firestone-Rowbotham contrast — Bentham treats rights as creatures of law — they exist only once the state recognizes and enforces them (PDF pp.344-345).
-- B. Robert Nozick — a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba, PDF p.345).
-- C. Historical-rights theory — Burke roots rights in prescriptive inheritance and evolved constitutional practice rather than abstract declaration (PDF pp.346-347).
-- D. T.H. Green — Social, economic and cultural rights such as work, education, health and social security (PDF pp.340-341, 361, 364-365).
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Firestone-Rowbotham contrast is recorded with Firestone foregrounds reproductive and sex-class power, whereas Rowbotham joins patriarchy to socialist analysis of class and labour.
-- **B:** B Cross-attached: Robert Nozick is recorded with defends strong individual rights and a minimal anti-redistributive state, limited mainly to protection and enforcement (PDF p.365).
-- **C:** C Matches the record: Historical-rights theory is associated with this proposition.
-- **D:** D Mismatched: T.H. Green is recorded with treats rights as socially recognised conditions of moral personality and common good, not as atomistic pre-social possessions (PDF pp.342-343).
-
-> **Examiner trap:** Keep the exact proposition attached to Historical-rights theory; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Only abstention from censorship constitutes a right
+- B. Welfare always overrides every individual freedom
+- C. Personality and common welfare require social conditions and reciprocal responsibility
+- D. Each liberty strictly corresponds to an identical Hohfeldian duty
 
 ### MCQ 12
 
-Only one pairing below reproduces the source's own association. Which is it?
+The UDHR is cited in litigation as if it directly created an enforceable domestic cause of action. What correction is necessary?
 
-- A. Restriction test — a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive.
-- B. Locke — participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship.
-- C. Laski — every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-.
-- D. Ideal/personality (Green, Barker) rights theory — Green ties rights to conditions needed for moral personality; Barker's full right needs both personality-.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Restriction test is recorded with restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general welfare" is not a free-standing limitation clause for every right.
-- **B:** B Cross-attached: Locke is recorded with grounds rights in life, liberty and property and permits resistance when government seriously breaches or forfeits its protective trust, not whenever it imperfectly performs a duty (PDF pp.341-342, 365).
-- **C:** C Mismatched: Laski is recorded with gives a social-democratic account in which rights are conditions for personality, equality and common welfare and carry social responsibilities; this is not strict Hohfeldian correlativity (PDF pp.348-353).
-- **D:** D Matches the record: Ideal/personality (Green, Barker) rights theory is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Ideal/personality (Green, Barker) rights theory; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. It is an ICCPR Optional Protocol binding every individual
+- B. Its universal aspirations have no evaluative significance
+- C. It replaces all national rights law automatically
+- D. Its 1948 declaration status does not itself make it a domestic constitution or treaty
 
 ### MCQ 13
 
-Identify the pair in which the recorded proposition matches its label exactly.
+What did the Nuremberg trials establish in the post-war rights story?
 
-- A. Locke — grounds rights in life, liberty and property and permits resistance when government seriously breaches or forfeits its protective trust.
-- B. Ideal/personality (Green, Barker) rights theory — every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-.
-- C. Laski — legal protections such as expression, religion, movement, association, fair trial and personal freedom against arbitrary public power; their.
-- D. Restriction test — participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Correct attachment: Locke is associated with this proposition.
-- **B:** B Mismatched: Ideal/personality (Green, Barker) rights theory is recorded with Green ties rights to conditions needed for moral personality; Barker's full right needs both personality-grounding and legal guarantee, an either-alone yields only a quasi-right (PDF pp.342-343, 345).
-- **C:** C Cross-attached: Laski is recorded with gives a social-democratic account in which rights are conditions for personality, equality and common welfare and carry social responsibilities; this is not strict Hohfeldian correlativity (PDF pp.348-353).
-- **D:** D Wrong attachment: Restriction test is recorded with restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general welfare" is not a free-standing limitation clause for every right.
-
-> **Examiner trap:** Keep the exact proposition attached to Locke; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Individual international criminal responsibility, including for crimes against humanity
+- B. The UDHR became an immediately enforceable treaty
+- C. All domestic law ceased to matter
+- D. Every social right became immediately enforceable in each state
 
 ### MCQ 14
 
-Which one of the following label-proposition pairings survives a strict source check?
+Which comparison of the two Covenants is accurate?
 
-- A. Ernest Barker — Burke roots rights in prescriptive inheritance and evolved constitutional practice rather than abstract declaration (PDF pp.346-347).
-- B. T.H. Green — treats rights as socially recognised conditions of moral personality and common good, not as atomistic pre-social possessions (PDF pp.342-343).
-- C. Alasdair MacIntyre — Firestone foregrounds reproductive and sex-class power, whereas Rowbotham joins patriarchy to socialist analysis of class and labour.
-- D. Negative-right dimension — defends strong individual rights and a minimal anti-redistributive state, limited mainly to protection and enforcement (PDF p.365).
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Ernest Barker is recorded with a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba, PDF p.345).
-- **B:** B Exact pair: T.H. Green is associated with this proposition.
-- **C:** C Wrong attachment: Alasdair MacIntyre is recorded with challenges the grounding of abstract universal rights-talk; he does not simply argue that community overrides every individual right (PDF pp.365-366).
-- **D:** D Source disagrees: Negative-right dimension is recorded with a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-
-> **Examiner trap:** Keep the exact proposition attached to T.H. Green; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. ICESCR has no immediate obligations
+- B. ICCPR has respect, ensure and remedy duties; ICESCR has progressive-realisation and immediate non-discrimination/steps duties
+- C. ICCPR never permits restrictions or derogation
+- D. Both automatically create an Indian individual petition route
 
 ### MCQ 15
 
-Which pairing below would a careful source check leave standing?
+A researcher states India ratified the Covenants and their complaint protocols on one date. What check defeats this?
 
-- A. Negative-right dimension — defends strong individual rights and a minimal anti-redistributive state, limited mainly to protection and enforcement (PDF p.365).
-- B. T.H. Green — Burke roots rights in prescriptive inheritance and evolved constitutional practice rather than abstract declaration (PDF pp.346-347).
-- C. Ernest Barker — a full right has a double source—development of personality and legal guarantee; either source alone yields only a quasi-right (Gauba.
-- D. Alasdair MacIntyre — Firestone foregrounds reproductive and sex-class power, whereas Rowbotham joins patriarchy to socialist analysis of class and labour.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Negative-right dimension is recorded with a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- **B:** B Wrong attachment: T.H. Green is recorded with treats rights as socially recognised conditions of moral personality and common good, not as atomistic pre-social possessions (PDF pp.342-343).
-- **C:** C Faithful pairing: Ernest Barker is associated with this proposition.
-- **D:** D Source disagrees: Alasdair MacIntyre is recorded with challenges the grounding of abstract universal rights-talk; he does not simply argue that community overrides every individual right (PDF pp.365-366).
-
-> **Examiner trap:** Keep the exact proposition attached to Ernest Barker; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Treat treaty-body reports as individual petitions
+- B. Assume signing alone makes a state party
+- C. India acceded to both Covenants in 1979 but is not party to the individual-complaint protocols
+- D. Assume ICCPR remedies are available only through the ICESCR
 
 ### MCQ 16
 
-Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
+A critic says freedom of speech must be unrestricted because human rights are universal. Which response is best?
 
-- A. Ideal/personality (Green, Barker) rights theory — legal protections such as expression, religion, movement, association.
-- B. Locke — every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-.
-- C. Restriction test — participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship.
-- D. Laski — gives a social-democratic account in which rights are conditions for personality, equality and common welfare and carry social responsibilities; this.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Wrong attachment: Ideal/personality (Green, Barker) rights theory is recorded with Green ties rights to conditions needed for moral personality; Barker's full right needs both personality-grounding and legal guarantee, an either-alone yields only a quasi-right (PDF pp.342-343, 345).
-- **B:** B Source disagrees: Locke is recorded with grounds rights in life, liberty and property and permits resistance when government seriously breaches or forfeits its protective trust, not whenever it imperfectly performs a duty (PDF pp.341-342, 365).
-- **C:** C Belongs elsewhere: Restriction test is recorded with restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general welfare" is not a free-standing limitation clause for every right.
-- **D:** D Faithful pairing: Laski is associated with this proposition.
-
-> **Examiner trap:** Keep the exact proposition attached to Laski; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Every right permits suspension for any public purpose
+- B. Government may restrict solely by invoking general welfare
+- C. All rights are identical to the absolute prohibition of torture
+- D. Universality of holders does not rule out lawful, necessary and proportionate limits for a permitted aim
 
 ### MCQ 17
 
-Consider the following statements:
-1. **Marx** is associated with: criticises the limits of bourgeois rights and the separation of formally equal political citizens from unequal civil society. Leninist theory and the records of particular socialist regimes are separate questions and should not be attributed back to Marx as one undifferentiated position (PDF pp.354-358, 365).
-2. **Firestone-Rowbotham contrast** is associated with: restrictions must rest on law, pursue an aim permitted for the particular right, and satisfy necessity and proportionality. "Public order" or "general welfare" is not a free-standing limitation clause for every right.
-Which option is correct?
+A police officer says a detainee has no dignity rights because lawful custody removes freedom. Which answer is sound?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Marx does not validate the second pairing.
-
----
+- A. Custody restricts certain liberties but does not erase bodily integrity or procedural safeguards
+- B. All rights are untouched by lawful confinement
+- C. Any prisoner has an automatic vote in every jurisdiction
+- D. The right against torture may be derogated whenever order demands
 
 ### MCQ 18
 
-Consider the following statements:
-1. **Robert Nozick** is associated with: Civil and political rights such as speech, movement, fair trial and voting.
-2. **"First generation"** is associated with: Civil and political rights such as speech, movement, fair trial and voting.
-Which option is correct?
+A state suspends ordinary protections during an officially proclaimed emergency. Which caution is correct?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Robert Nozick does not validate the second pairing.
-
----
+- A. Emergency allows unlimited suspension without notification or legal test
+- B. Derogation is distinct from ordinary limitation and must be strictly required, with non-derogable protections intact
+- C. Any ordinary speech restriction is an Article 4 derogation
+- D. A state's emergency ends every international obligation
 
 ### MCQ 19
 
-Consider the following statements:
-1. **Alasdair MacIntyre** is associated with: challenges the grounding of abstract universal rights-talk; he does not simply argue that community overrides every individual right (PDF pp.365-366).
-2. **"Second generation"** is associated with: Social, economic and cultural rights such as work, education, health and social security (PDF pp.340-341, 361, 364-365).
-Which option is correct?
+Where could a private actor directly violate an Indian Fundamental Right without first invoking only state action?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Alasdair MacIntyre does not validate the second pairing.
-
----
+- A. Every right everywhere has identical direct horizontal effect
+- B. No right can ever bind private conduct
+- C. In constitutionally specified horizontal settings such as prohibition of untouchability
+- D. Only international declarations govern discrimination by shops
 
 ### MCQ 20
 
-Consider the following statements:
-1. **Firestone-Rowbotham contrast** is associated with: A contested grouping of collective or solidarity claims.
-2. **"Third generation"** is associated with: a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-Which option is correct?
+A social scheme distributes benefits but gives no beneficiary a legal claim or remedy. What conclusion follows?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Firestone-Rowbotham contrast does not validate the second pairing.
-
----
+- A. The administrative programme necessarily constitutes a Fundamental Right
+- B. The moral interest vanishes because the scheme lacks a remedy
+- C. Social provision is never related to rights
+- D. Policy may support realisation without itself creating an enforceable individual right
 
 ### MCQ 21
 
-Consider the following statements:
-1. **"First generation"** is associated with: Civil and political rights such as speech, movement, fair trial and voting.
-2. **Restriction test** is associated with: a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against private interference.
-Which option is correct?
+A rights theorist claims equal treatment of all cultural practices proves respect for universality. What test remains?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with "First generation" does not validate the second pairing.
-
----
+- A. Thin protections against torture and arbitrary violence remain binding even where applications vary
+- B. Cultural difference can justify any coercive practice
+- C. Uniform institutional design must be imposed everywhere
+- D. Human dignity is wholly reducible to majority custom
 
 ### MCQ 22
 
-Consider the following statements:
-1. **"Second generation"** is associated with: rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-2. **Human rights** is associated with: rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-Which option is correct?
+Why do civil liberties and democratic rights overlap but not coincide?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with "Second generation" does not validate the second pairing.
-
----
+- A. Every person with speech protection necessarily has a vote
+- B. Speech can support elections yet protect non-voters; voting has eligibility conditions
+- C. Voting automatically guarantees a free press
+- D. Civil liberty can be exercised only at an election
 
 ### MCQ 23
 
-Consider the following statements:
-1. **"Third generation"** is associated with: A contested grouping of collective or solidarity claims.
-2. **Rights** is associated with: justified normative or legal positions. Hohfeld's vocabulary distinguishes claim-rights, liberties, powers and immunities; Gauba's chapter especially emphasises claims restraining arbitrary state power and requiring conditions for a better life (PDF pp.339-340).
-Which option is correct?
+How should the so-called three generations be used?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with "Third generation" does not validate the second pairing.
-
----
+- A. As a universal historical schedule in every state
+- B. As proof all first-generation rights cost nothing
+- C. As a pedagogic grouping, not a Gauba-authored fixed historical succession
+- D. As evidence every solidarity claim has the same legal status
 
 ### MCQ 24
 
-Consider the following statements:
-1. **Restriction test** is associated with: a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-2. **Negative-right dimension** is associated with: every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-duties thesis is social-ethical rather than strict Hohfeldian correlativity.
-Which option is correct?
+A court protects expression by ordering police security at a lawful gathering. Which duty pair is visible?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Restriction test does not validate the second pairing.
-
----
+- A. Only a positive duty because police are deployed
+- B. Only a negative duty because no new statute is passed
+- C. Only democratic rights because the crowd discusses politics
+- D. Non-interference and positive protection of the same civil liberty
 
 ### MCQ 25 — REMEDIAL
 
-Which correction is most defensible for the claim: **"The UDHR is itself a domestic constitution."**?
+Firestone and Rowbotham both question neutral rights language. Where do their mechanisms differ?
 
-- A. It is an international declaration and moral-legal standard, not a country's own constitution (PDF pp.358-360).
-- B. Gauba explicitly includes positive rights and state responsibility in modern rights discourse (PDF pp.340-341).
-- C. Gauba distinguishes them and places human rights as the widest category (PDF pp.361-363).
-- D. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: It is an international declaration and moral-legal standard, not a country's own constitution (PDF pp.358-360).
-- **B:** B Repairs a different misconception, '"Only negative liberty counts as rights."', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"Human rights, democratic rights and civil liberties are interchangeable."', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "The UDHR is itself a domestic constitution.", not a different error from the same topic.
-
----
+- A. Reproductive sex-class power versus class-and-labour-linked patriarchy
+- B. They are identical authors of a single doctrine
+- C. Both primarily defend minimal anti-redistributive state rights
+- D. Neither attends to gendered power in practice
 
 ### MCQ 26 — REMEDIAL
 
-Which correction is most defensible for the claim: **"All rights are absolute" / "No right is absolute."**?
+Nozick and Marx contest redistribution for opposite reasons. Which juxtaposition is accurate?
 
-- A. Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent.
-- B. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few prohibitions, such as torture.
-- C. Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation.
-- D. Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Human rights means participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few prohibitions, such as torture, are treated as absolute.
-- **C:** C Repairs a different misconception, 'Negative-right dimension means personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal right, but is not sufficient for moral legitimacy. Barker's full-right synthesis needs both personality-grounding and legal guarantee (Gauba, PDF p.345).', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Positive-right dimension means Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "All rights are absolute" / "No right is absolute.", not a different error from the same topic.
-
----
+- A. Nozick demands public ownership; Marx demands a minimal state
+- B. Nozick defends strong side constraints; Marx questions bourgeois equality under class ownership
+- C. Both infer that legal equality ends class power
+- D. Both hold that only custom supplies rights
 
 ### MCQ 27 — REMEDIAL
 
-Which correction is most defensible for the claim: **"Human rights, democratic rights and civil liberties are interchangeable."**?
+What does MacIntyre actually challenge in rights discussion?
 
-- A. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable.
-- B. It is an international declaration and moral-legal standard, not a country's own constitution (PDF pp.358-360).
-- C. Gauba distinguishes them and places human rights as the widest category (PDF pp.361-363).
-- D. Gauba explicitly includes positive rights and state responsibility in modern rights discourse (PDF pp.340-341).
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, '"The UDHR is itself a domestic constitution."', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba distinguishes them and places human rights as the widest category (PDF pp.361-363).
-- **D:** D Repairs a different misconception, '"Only negative liberty counts as rights."', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about "Human rights, democratic rights and civil liberties, not a different error from the same topic.
-
----
+- A. The possibility of any individual claim in any community
+- B. The ICCPR's entire list by judicial ruling
+- C. The grounding of abstract universal rights-talk
+- D. Only the mechanism of domestic electoral voting
 
 ### MCQ 28 — REMEDIAL
 
-Which correction is most defensible for the claim: **"Only negative liberty counts as rights."**?
+A government announces a right but charges fees that bar the poor from filing claims. What stage is missing?
 
-- A. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few.
-- B. It is an international declaration and moral-legal standard, not a country's own constitution (PDF pp.358-360).
-- C. Gauba distinguishes them and places human rights as the widest category (PDF pp.361-363).
-- D. Gauba explicitly includes positive rights and state responsibility in modern rights discourse (PDF pp.340-341).
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, '"The UDHR is itself a domestic constitution."', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"Human rights, democratic rights and civil liberties are interchangeable."', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Gauba explicitly includes positive rights and state responsibility in modern rights discourse (PDF pp.340-341).
-
-> **Examiner trap:** Repair the exact overstatement about "Only negative liberty counts as rights.", not a different error from the same topic.
-
----
+- A. Moral validity because administrative fees prove all claims immoral
+- B. Legal recognition because an inaccessible procedure erases the enacted text
+- C. Judicial power because every fee makes the court legally nonexistent
+- D. Effective realisation even where recognition and a nominal remedy exist
 
 ### MCQ 29 — REMEDIAL
 
-Which correction is most defensible for the claim: **Human rights means participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).**?
+Suppose expression is constrained under an unnamed general-welfare decree. Which inquiry comes first?
 
-- A. Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent.
-- B. Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation.
-- C. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few prohibitions, such as torture.
-- D. Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-- **B:** B Repairs a different misconception, 'Negative-right dimension means personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal right, but is not sufficient for moral legitimacy. Barker's full-right synthesis needs both personality-grounding and legal guarantee (Gauba, PDF p.345).', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Positive-right dimension means Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Human rights means participation rights enabling, not a different error from the same topic.
-
----
+- A. Identify lawful authority and a right-specific permitted aim before necessity and proportionality
+- B. Treat the executive's label as sufficient law
+- C. Skip the permissible-aim inquiry if public opinion supports censorship
+- D. Assume absolute immunity of every form of expression
 
 ### MCQ 30 — REMEDIAL
 
-Which correction is most defensible for the claim: **Rights means every claim-right has a correlative duty-holder, but a liberty is not itself always another person's claim-duty relation. Laski's wider rights-and-duties thesis is social-ethical rather than strict Hohfeldian correlativity.**?
+A claimant insists rights have nothing to do with duties. Which precise reply avoids overstatement?
 
-- A. Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation.
-- B. Rights means justified normative or legal positions. Hohfeld's vocabulary distinguishes claim-rights, liberties.
-- C. Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require.
-- D. Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Negative-right dimension means personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal right, but is not sufficient for moral legitimacy. Barker's full-right synthesis needs both personality-grounding and legal guarantee (Gauba, PDF p.345).', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Rights means justified normative or legal positions. Hohfeld's vocabulary distinguishes claim-rights, liberties, powers and immunities; Gauba's chapter especially emphasises claims restraining arbitrary state power and requiring conditions for a better life (PDF pp.339-340).
-- **C:** C Repairs a different misconception, 'Positive-right dimension means Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Human rights means participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Rights means every claim-right has a correlative, not a different error from the same topic.
-
----
+- A. Each liberty always requires its holder to perform identical service
+- B. Claim-rights correlate with duty-bearers; liberties and social-ethical obligations need distinct analysis
+- C. Nozick's minimal state guarantees a matching welfare duty to every desire
+- D. The state may deny rights until citizens obey voluntarily
 
 ### MCQ 31 — REMEDIAL
 
-Which correction is most defensible for the claim: **Negative-right dimension means personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal right, but is not sufficient for moral legitimacy. Barker's full-right synthesis needs both personality-grounding and legal guarantee (Gauba, PDF p.345).**?
+What is the strongest criticism of legal positivism from a human-rights standpoint?
 
-- A. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few prohibitions, such as torture.
-- B. Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent.
-- C. Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation.
-- D. Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Human rights means participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- **D:** D Repairs a different misconception, 'Positive-right dimension means Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Negative-right dimension means personality or, not a different error from the same topic.
-
----
+- A. It never recognises the importance of law
+- B. It argues every natural claim is judicially enforceable
+- C. Recognition explains enforceability but cannot by itself condemn an unjust enactment
+- D. It treats rights as inherited customs rather than enactment
 
 ### MCQ 32 — REMEDIAL
 
-Which correction is most defensible for the claim: **Positive-right dimension means Locke grounds rights in life, liberty and property as pre-political entitlements, permitting resistance after serious breach of political trust (PDF pp.341-342, 365).**?
+A woman may vote but cannot safely speak in public meetings. What comparison is decisive?
 
-- A. Human rights means rights to which an individual is entitled by virtue of being human; they remain relevant even where ordinary citizenship rights are absent or exhausted (PDF p.338).
-- B. Negative-right dimension means a duty of restraint, such as non-interference with thought or expression (PDF pp.340-341). It is a dimension of obligation, not a sealed class of rights.
-- C. Rights must be classified. Some permit lawful limitation; some permit emergency derogation; some are non-derogable; and a few prohibitions, such as torture, are treated as absolute.
-- D. Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require.
+- A. Elections always secure expression automatically
+- B. Civil liberty is merely a subset available only to officeholders
+- C. Human-rights talk excludes women's participation
+- D. Nominal democratic participation may coexist with impaired civil liberties
 
-**Answer: D**
+## ANSWER KEY AND OPTION-BY-OPTION EXPLANATIONS
 
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Human rights means participation rights enabling eligible citizens to vote, influence public decisions and seek office under reasonable citizenship, age and procedural conditions (PDF pp.361-362).', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Negative-right dimension means personality or conscience may ground an ideal claim, but that alone is not sufficient for legal enforceability; state recognition alone creates a legal right, but is not sufficient for moral legitimacy. Barker's full-right synthesis needs both personality-grounding and legal guarantee (Gauba, PDF p.345).', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, '"All rights are absolute" / "No right is absolute."', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: Positive-right dimension means a duty to protect or provide, such as education, medical care or legal aid (PDF pp.340-341). Many civil liberties also require positive protection against private interference.
+### MCQ 1 — A
 
-> **Examiner trap:** Repair the exact overstatement about Positive-right dimension means Locke grounds rights, not a different error from the same topic.
+- **A:** Human dignity is relevant even when citizenship rights are unavailable.
+- **B:** Human-rights protection is wider than membership
+- **C:** Democratic eligibility is a distinct issue
+- **D:** It is a declaration, not a municipal statute
 
----
+> **Trap:** Making a passport a condition for dignity.
+
+### MCQ 2 — B
+
+- **A:** Official restraint alone does not stop private violence
+- **B:** Non-censorship and effective safety can be obligations of the same right.
+- **C:** Expression and suffrage serve different functions
+- **D:** Protection from coercion is not a promise of identical reach
+
+> **Trap:** Calling civil liberty exclusively negative.
+
+### MCQ 3 — C
+
+- **A:** Dignity concerns persons, not necessarily electoral eligibility
+- **B:** Search protection is not electoral participation
+- **C:** Democratic rights concern political authorship with reasonable eligibility.
+- **D:** Provision serves well-being, not choice of officeholder
+
+> **Trap:** Equating all human rights with suffrage.
+
+### MCQ 4 — D
+
+- **A:** Enactment and natural grounding are different tests
+- **B:** Moral validity alone supplies no procedure
+- **C:** Longevity can preserve oppression
+- **D:** Distinguish what the law enforces from what ought to be enforced.
+
+> **Trap:** Treating legality as proof of justice.
+
+### MCQ 5 — A
+
+- **A:** Use relational analysis before invoking a general rights-and-duties slogan.
+- **B:** A liberty is a permission, not by itself a claim on another to act
+- **C:** A power alters legal relations and has a different correlate
+- **D:** Immunity protects against another's power, not necessarily provision
+
+> **Trap:** Forcing all rights into one correlativity.
+
+### MCQ 6 — B
+
+- **A:** Receiving a service does not extinguish expression or identity
+- **B:** Rights have mixed duties and interacting claims.
+- **C:** Effective education may require design and resources
+- **D:** Electoral participation is a different function
+
+> **Trap:** Sorting rights into sealed positive and negative boxes.
+
+### MCQ 7 — C
+
+- **A:** Bentham insists on positive law
+- **B:** That is not his legal-positivist premise
+- **C:** Institutional realism has a moral-critical limitation.
+- **D:** Rights as law's creatures make legislation central
+
+> **Trap:** Misstating Bentham as a natural-rights theorist.
+
+### MCQ 8 — D
+
+- **A:** Mere dissatisfaction is not serious violation
+- **B:** Custom alone is not Locke's basis
+- **C:** Locke's natural-rights view is not an equal-income rule
+- **D:** Natural rights constrain governmental legitimacy without authorising revolt for every imperfection.
+
+> **Trap:** Converting a threshold for resistance into a whim.
+
+### MCQ 9 — A
+
+- **A:** The two sources answer validity and legal efficacy respectively.
+- **B:** Personality-grounding alone lacks legal guarantee
+- **C:** Positive recognition alone can enact unjust positions
+- **D:** Institutional embodiment remains essential
+
+> **Trap:** Identifying quasi-right with a fully guaranteed right.
+
+### MCQ 10 — B
+
+- **A:** Historical continuity may support stable expectations
+- **B:** A history-based argument requires independent evaluation of harm and standing.
+- **C:** Law and public judgment can challenge custom
+- **D:** History and natural-right theories are distinct
+
+> **Trap:** Making longevity sufficient for justice.
+
+### MCQ 11 — C
+
+- **A:** Laski includes enabling protections
+- **B:** Social obligation does not erase liberty
+- **C:** State provision can enlarge agency without unlimited paternalism.
+- **D:** His ethical rights-duties thesis is broader
+
+> **Trap:** Collapsing social ethics into strict Hohfeldian claims.
+
+### MCQ 12 — D
+
+- **A:** Those instruments have different legal status
+- **B:** Its declaration form does not eliminate moral authority
+- **C:** Domestic incorporation and remedies require separate inquiry
+- **D:** Distinguish a common standard from domestic enforceability.
+
+> **Trap:** Conflating universal aspiration with automatic remedy.
+
+### MCQ 13 — A
+
+- **A:** Post-war legal accountability is not only rhetorical universalism.
+- **B:** That declaration is separate and non-treaty
+- **C:** International criminal accountability does not abolish domestic legal orders
+- **D:** The trials addressed criminal responsibility
+
+> **Trap:** Replacing criminal-law innovation with a treaty claim.
+
+### MCQ 14 — B
+
+- **A:** Good-faith steps and non-discrimination apply immediately
+- **B:** Different implementation structures do not make one covenant optional.
+- **C:** It permits narrowly conditioned limitations and emergency derogation
+- **D:** India is not party to their individual-complaint Optional Protocols
+
+> **Trap:** Equating progressive realisation with no present duty.
+
+### MCQ 15 — C
+
+- **A:** Reporting is not a complaint mechanism
+- **B:** Accession and signature have different legal effects
+- **C:** Treat the state's treaty status and protocol acceptance as distinct.
+- **D:** Each Covenant has separate obligations
+
+> **Trap:** Inventing an individual complaint route.
+
+### MCQ 16 — D
+
+- **A:** Each right has its own limitation terms
+- **B:** A label without law, aim and necessity is insufficient
+- **C:** Limitation structures differ across rights
+- **D:** Use the specific right's legal limitation clause, not a universal slogan.
+
+> **Trap:** Confusing universality with unlimited exercise.
+
+### MCQ 17 — A
+
+- **A:** The baseline of human dignity persists in custody.
+- **B:** Detention legitimately limits movement under law
+- **C:** Electoral eligibility requires separate law
+- **D:** The prohibition is absolute
+
+> **Trap:** Treating custody as civil death.
+
+### MCQ 18 — B
+
+- **A:** Derogation is tightly conditioned
+- **B:** Analyse authority, scope, necessity and protected core separately.
+- **C:** Limits in normal times have a separate basis
+- **D:** Non-derogable rights persist
+
+> **Trap:** Treating emergency as a blank cheque.
+
+### MCQ 19 — C
+
+- **A:** Rights have varied addressees and remedies
+- **B:** Some constitutional prohibitions expressly do
+- **C:** Direct horizontal duties differ from indirect state protection against private harm.
+- **D:** Domestic constitutional and statutory rules may apply
+
+> **Trap:** Assuming every Fundamental Right is solely vertical.
+
+### MCQ 20 — D
+
+- **A:** Legal status cannot be inferred from delivery alone
+- **B:** Moral validity differs from judicial enforcement
+- **C:** Fulfilment can occur without an individual cause of action
+- **D:** Check statute, remedy and actual accessibility as separate stages.
+
+> **Trap:** Treating a scheme as automatically justiciable.
+
+### MCQ 21 — A
+
+- **A:** A defensible universal floor and local institutional variation need not be enemies.
+- **B:** Variation cannot excuse violation of a protected core
+- **C:** A common standard permits compatible local arrangements
+- **D:** Rights also provide a critical standard
+
+> **Trap:** Using relativism to excuse serious abuse.
+
+### MCQ 22 — B
+
+- **A:** Civil liberties can extend to non-citizens
+- **B:** Classify by primary function rather than a rigid subset relation.
+- **C:** Elections alone cannot ensure effective expression
+- **D:** Personal legal freedoms also matter between elections
+
+> **Trap:** Making electoral citizenship the condition of expression.
+
+### MCQ 23 — C
+
+- **A:** Anti-colonial trajectories differ
+- **B:** Courts and protection require institutions
+- **C:** Rights interact even when grouped by purpose.
+- **D:** Self-determination and development have different bases
+
+> **Trap:** Attributing later mnemonic to Gauba.
+
+### MCQ 24 — D
+
+- **A:** The non-censorship component remains
+- **B:** Protective administration is an affirmative act
+- **C:** Expression is a civil liberty even outside elections
+- **D:** A right's practical guarantee often needs institutions and restraint.
+
+> **Trap:** Treating protective policing as censorship.
+
+### MCQ 25 — A
+
+- **A:** Name the distinct social mechanism before proposing a remedy.
+- **B:** The basic owner distinguishes radical and socialist feminism
+- **C:** That is Nozick's emphasis
+- **D:** Both critique patriarchal structures
+
+> **Trap:** Flattening feminist traditions into one thesis.
+
+### MCQ 26 — B
+
+- **A:** This reverses both positions
+- **B:** Locate each theory's account of ownership and coercion.
+- **C:** Marx denies that formal status resolves exploitation
+- **D:** Neither is Burke's historical theory
+
+> **Trap:** Equating all criticism of state action with Marxism.
+
+### MCQ 27 — C
+
+- **A:** His critique does not prove wholesale abolition of rights
+- **B:** His philosophical argument is not a treaty judgment
+- **C:** A critique of justification is not a legal repeal.
+- **D:** His target is broader moral justification
+
+> **Trap:** Saying community automatically trumps every right.
+
+### MCQ 28 — D
+
+- **A:** Fees do not decide the underlying moral case
+- **B:** Recognition can persist while access fails
+- **C:** The institution may exist but be unusable
+- **D:** The chain runs moral reason to law to remedy to practical access.
+
+> **Trap:** Equating a paper remedy with usable rights.
+
+### MCQ 29 — A
+
+- **A:** A general slogan cannot substitute for the specific legal test.
+- **B:** A bare announcement cannot replace a legal basis
+- **C:** Popularity is not a treaty or constitutional limitation clause
+- **D:** Some rights admit proportionate restrictions
+
+> **Trap:** Using public order as a universal catch-all.
+
+### MCQ 30 — B
+
+- **A:** This confuses reciprocity with barter
+- **B:** Separate Hohfeld's strict relation from Laski's wider civic ethics.
+- **C:** Strong side constraints do not imply unlimited provision
+- **D:** Duties do not license unconditional withdrawal of basic protection
+
+> **Trap:** Treating correlativity as a price for entitlements.
+
+### MCQ 31 — C
+
+- **A:** Legal theory explicitly privileges law
+- **B:** That is the opposite of its premise
+- **C:** Moral standards are needed to criticise what law permits.
+- **D:** This belongs to historical theory
+
+> **Trap:** Mistaking positive-law status for moral sufficiency.
+
+### MCQ 32 — D
+
+- **A:** Voting alone cannot protect speakers
+- **B:** Speech is wider than electoral eligibility
+- **C:** Dignity is not limited by gender or status
+- **D:** Assess franchise and safety of participation separately.
+
+> **Trap:** Treating a ballot as complete democratic freedom.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Human Rights, Civil Liberties and Democratic Rights** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
+No direct owned GS/Prelims PYQ verified. Routed Philosophy prompts are cross-applications only.
+
+### VERIFIED ROUTED PYQS — PHILOSOPHY OPTIONAL (CROSS-APPLICATION ONLY)
+
+Source/provenance: `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md` (locally checked paper texts). All prompts below belong primarily to **Individual and State**, Philosophy Paper II; these are **independent political-theory cross-application models**, not official UPSC answers or re-routed GS PYQs. No unmapped objective PYQ key is supplied.
+
+**2018 [20] — “Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss.**
+
+**Model:** The proposition asserts a universal moral floor rather than identical institutions. Gauba grounds human rights in personhood, not membership; the post-war UDHR (1948) frames life, liberty and social protection as concerns shared across borders. Nuremberg made individual responsibility for atrocities an international legal concern, but it did not turn the UDHR into a domestic treaty. A relativist objection points to differing family structures, community duties and institutional traditions. That objection should discipline applications, not excuse torture, slavery or arbitrary killing. Laski’s rights-with-duties account also rebuts the claim that universality means atomistic selfishness; the Vienna Declaration recognises particular contexts while maintaining states’ duties. Distinguish moral reach from legal implementation: a universal claim still needs legislation, remedies and accessibility. Human dignity therefore supplies an evaluative standard common to persons while democratic argument determines locally appropriate means consistent with binding protection.
+
+**2019 [20] — Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario.**
+
+**Model:** Rights are not a price paid for obedience. A claim-right identifies duty-bearers, but this Hohfeldian relation is different from Laski’s ethical argument that equal membership entails civic responsibility. India illustrates both: lawful expression permits scrutiny of power, while public institutions and citizens must respect others’ equal freedom. A person cannot be denied dignity or protection for declining an unrelated public service. Conversely, speech and association cannot justify violence against fellow participants. Accountability is reciprocal and constitutionally limited: government must justify restrictions under applicable law, and citizens remain answerable for harm through lawful procedures. Courts, administration and open public deliberation help make rights usable; simply praising duties while obstructing remedies would hollow out accountability. Rights thus enable citizens to hold the state to account as well as to participate responsibly in public life, without converting civic duties into conditions precedent for human rights.
+
+**2020 Q2(c) [15] — Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of Human Rights.**
+
+**Model:** Indian moral traditions cannot be reduced either to a single collectivist denial of persons or to a direct anticipation of modern legal rights. A reasoned analysis separates concern for dignity and reciprocal duty from enforceable claim-rights. Protection of vulnerable people may be defended ethically, yet a moral obligation does not automatically give an individual a court remedy. Gauba’s human-rights standard tests inherited hierarchy as well as contemporary power: a traditional practice cannot be justified merely because it is old, as Burke’s historical approach itself needs moral scrutiny. Barker’s test asks whether the claim supports development of personality and receives legal guarantee. India’s plural traditions can inform institutional design without displacing equal personhood or permitting coercion in the name of community. The conclusion is neither that rights are alien to Indian experience nor that every inherited duty already constitutes a human right.
+
+**2021 [15] — Evaluate whether the social contract theory adequately addresses the different issues of human rights.**
+
+**Model:** Social contract theory explains why political authority must justify coercion to those it governs. Locke’s rights-protecting trust makes life, liberty and property constraints on government and supplies a basis for resistance after serious breach. Yet actual contracts can exclude women, non-citizens and future generations; a contract among formally equal property-holders can overlook class power and conditions needed for effective choice. Gauba’s human-rights category attaches to persons before any test of citizenship, while Green and Laski insist that education and security matter alongside non-interference. Contract theory is therefore a useful account of legitimacy and public duty, but not a sufficient inventory of social rights, migration claims or protection against private domination. It must be supplemented by universal dignity, accessible remedies and assessment of who was left outside the imagined agreement.
+
+**2022 [15] — Does idea of unconditional rights necessarily lead to anarchy? Critically examine.**
+
+**Model:** “Unconditional” is ambiguous. Inviolable human dignity does not imply that every exercise of every liberty is unlimited. A person’s claim to protection places duties on government; fellow citizens’ equal claims set boundaries to coercive action. Expression may be restricted only through a lawful, right-specific permitted aim and a necessary, proportionate measure; torture, by contrast, admits no analogous balancing exception. Laski’s account joins rights to social responsibility without allowing the state to demand a separate service as the price of protection. Institutions, remedies and ordinary legal limits prevent rights from becoming licences to harm others. Anarchy follows only if “right” is redefined as unrestricted personal command, which is not the defensible human-rights conception. Conversely unrestricted administrative discretion in the name of order would negate the very accountability rights establish.
+
+**2023 [15] — Do you agree that duty and accountability must be given priority over rights for the better functioning of a State? Justify your answer.**
+
+**Model:** Treating duties as prior to rights may appeal where collective services depend on cooperation, but it wrongly suggests that citizens first earn dignity or due process by compliance. Laski correctly locates rights in a common social life and expects contribution to its maintenance. Nevertheless claim-rights also oblige state agents to protect persons; duties are not owed only upward to government. In India, the ability to criticise administrators and seek a remedy itself improves accountability. The specific duty must be identified: not to assault a speaker, to administer a fair process, or to comply with a lawful proportionate limit. It is neither sound to let public order extinguish protection nor to treat liberty as licence to injure others. Rights and accountable conduct are mutually enabling; their priority is issue-specific rather than an unconditional ranking.
+
+**2025 [15] — “Duties are of the nature of obligation while Rights are of the nature of entitlement. Therefore there is no necessary connection between the two.” Do you agree with this statement? Give reasons and justification for your answer.**
+
+**Model:** The conclusion fails for claim-rights: my enforceable claim against arbitrary detention corresponds to another’s duty, typically borne by public officials. Hohfeld’s precision matters, however: a liberty is a permission to act, a power can alter legal relations, and an immunity protects against another’s power. Not each is identical to a claim demanding a matching individual service. Laski adds a distinct ethical connection: rights to social conditions of personality involve citizens and institutions sustaining a common order. But social reciprocity is not barter; human protection cannot be withheld from a person who has not performed an unrelated duty. A workable account identifies the holder, object, duty-bearer and remedy for each claim, then separately discusses civic responsibility. Thus an entitlement and an obligation are not antonyms, but nor is every kind of right reducible to one claim-duty pairing.
 
 ### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
@@ -739,13 +647,9 @@ No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Huma
 
 **Question:** Distinguish human rights, civil liberties and democratic rights. Why are they overlapping rather than hierarchically nested? Answer in 150 words.
 
-**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of human rights, civil liberties and democratic rights. Why are they overlapping rather than hierarchically nested in the opening line, carry the argument on Introduction, Human, Core and Civil, and reserve the closing sentences for the qualification that conclusion: The three categories are best distinguished by holder and primary function, yet they overlap in practice because dignified agency, legal freedom and democratic participation mutually support one another without forming one rigid hierarchy.
-
-**Model answer (144 words):**
+**Model answer (original practice, not official):**
 
 Introduction: Human rights, civil liberties and democratic rights differ in grounding and primary function, but no rigid nesting captures their practical relationship. Core analysis: Human rights attach to persons by virtue of human dignity and include civil-political as well as socio-economic and cultural claims. Civil liberties secure legal freedom against arbitrary power—speech, association, movement, religion, fair trial and personal liberty—and may extend to non-citizens. Democratic rights enable eligible citizens to vote, organise, influence decisions and seek office. The categories overlap because participation needs speech and association, while civil liberty is strengthened by accountable government. The right answer identifies holder, purpose and duty-bearer rather than assuming one universal hierarchy. Conclusion: The three categories are best distinguished by holder and primary function, yet they overlap in practice because dignified agency, legal freedom and democratic participation mutually support one another without forming one rigid hierarchy.
-
-**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Human, Core and Civil), converts that evidence into analysis of human rights, civil liberties and democratic rights. Why are they overlapping rather than hierarchically nested, and keeps the examiner-facing qualification that conclusion: The three categories are best distinguished by holder and primary function, yet they overlap in practice because dignified agency, legal freedom and democratic participation mutually support one another without forming one rigid hierarchy. At 144 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
@@ -753,13 +657,9 @@ Introduction: Human rights, civil liberties and democratic rights differ in grou
 
 **Question:** Explain why negative and positive rights are better understood as dimensions of obligation. Answer in 150 words.
 
-**Demand decode:** the directive `explain` requires the answer to set out the concept, its mechanism and its consequences in a stated order. Fix the boundary of why negative and positive rights are better understood as dimensions of obligation in the opening line, carry the argument on Introduction, Core, Speech and Treating, and reserve the closing sentences for the qualification that conclusion: Negative and positive rights identify duties of restraint and duties to protect or fulfil, but most actual rights combine both dimensions and therefore resist classification as purely one or the other.
-
-**Model answer (139 words):**
+**Model answer (original practice, not official):**
 
 Introduction: The negative-positive distinction concerns what duty-bearers must do, not two sealed kinds of rights. Core analysis: A negative dimension requires restraint: public authority must not censor lawful expression or inflict arbitrary detention. A positive dimension requires protection or provision: the state must maintain courts, protect speakers from violent suppression, investigate abuse or provide education and legal aid. The same right can therefore generate both duties. Speech needs non-interference and an institutional order capable of protecting equal exercise; personal liberty needs non-arrest without law and effective remedies when arrest occurs. Treating all civil rights as negative and all social rights as positive hides these mixed obligation structures. Conclusion: Negative and positive rights identify duties of restraint and duties to protect or fulfil, but most actual rights combine both dimensions and therefore resist classification as purely one or the other.
-
-**Why this earns marks:** it obeys `explain` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Speech and Treating), converts that evidence into analysis of why negative and positive rights are better understood as dimensions of obligation, and keeps the examiner-facing qualification that conclusion: Negative and positive rights identify duties of restraint and duties to protect or fulfil, but most actual rights combine both dimensions and therefore resist classification as purely one or the other. At 139 words it stays inside the 150-word GS ceiling for 10 marks.
 
 ---
 
@@ -767,13 +667,9 @@ Introduction: The negative-positive distinction concerns what duty-bearers must 
 
 **Question:** Compare natural, legal, historical and personality theories of rights. Does Barker reconcile moral validity with legal guarantee? Answer in 150 words.
 
-**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of natural, legal, historical and personality theories of rights. Does Barker reconcile moral validity with legal guarantee in the opening line, carry the argument on Introduction, Theories, Core and Lockean, and reserve the closing sentences for the qualification that conclusion: Barker offers the strongest bridge between moral purpose and institutional force, but legal guarantee and personality-grounding still require separate scrutiny because neither automatically proves effective or just realisation.
+**Model answer (original practice, not official):**
 
-**Model answer (136 words):**
-
-Introduction: Theories of rights disagree over whether a right derives from human nature, positive law, inherited practice or the conditions of moral personality. Core analysis: Lockean natural-rights theory gives claims moral force before state recognition, enabling criticism of unjust authority, but faces indeterminacy about content. Bentham's legal theory makes enforceability and public definition central, yet cannot by itself judge an unjust enactment. Burke's historical theory grounds rights in prescriptive inheritance and evolved institutions, offering continuity but risking protection of inherited exclusion. Green's personality theory treats rights as socially recognised conditions of moral development and common good. His synthesis is a two-part test, not proof of effective realisation. Conclusion: Barker offers the strongest bridge between moral purpose and institutional force, but legal guarantee and personality-grounding still require separate scrutiny because neither automatically proves effective or just realisation.
-
-**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Theories, Core and Lockean), converts that evidence into analysis of natural, legal, historical and personality theories of rights. Does Barker reconcile moral validity with legal guarantee, and keeps the examiner-facing qualification that conclusion: Barker offers the strongest bridge between moral purpose and institutional force, but legal guarantee and personality-grounding still require separate scrutiny because neither automatically proves effective or just realisation. At 136 words it stays inside the 150-word GS ceiling for 10 marks.
+Introduction: Theories of rights disagree over whether a right derives from human nature, positive law, inherited practice or the conditions of moral personality. Core analysis: Lockean natural-rights theory gives claims moral force before state recognition, enabling criticism of unjust authority, but faces indeterminacy about content. Bentham's legal theory makes enforceability and public definition central, yet cannot by itself judge an unjust enactment. Burke's historical theory grounds rights in prescriptive inheritance and evolved institutions, offering continuity but risking protection of inherited exclusion. Green's personality theory treats rights as socially recognised conditions of moral development and common good. Barker’s synthesis is a two-part test, not proof of effective realisation. Conclusion: Barker offers the strongest bridge between moral purpose and institutional force, but legal guarantee and personality-grounding still require separate scrutiny because neither automatically proves effective or just realisation.
 
 ---
 
@@ -781,13 +677,9 @@ Introduction: Theories of rights disagree over whether a right derives from huma
 
 **Question:** Critically examine the generations-of-rights framework in light of the indivisibility of human rights. Answer in 250 words.
 
-**Demand decode:** the directive `critically examine` requires the answer to test the proposition against its strongest objection before giving a verdict. Fix the boundary of examine the generations-of-rights framework in light of the indivisibility of human rights in the opening line, carry the argument on Introduction, Gauba's, Core and Second-generation, and reserve the closing sentences for the qualification that it means that rights support one another and cannot be ranked as inherently dispensable.
+**Model answer (original practice, not official):**
 
-**Model answer (180 words):**
-
-Introduction: The generations framework groups civil-political, socio-economic-cultural and solidarity claims, but it is a pedagogic device rather than a universal history or Gauba's own classification. Core analysis: The first-generation label is often associated with restraint, yet speech, fair trial and voting require courts, administration and protection. Second-generation rights such as health, work and education involve progressive realisation but also immediate duties including non-discrimination and concrete steps. Third-generation language is especially uneven: self-determination is a binding right in common Article 1 of both Covenants, whereas development and environmental claims have different sources and enforcement paths. Anti-colonial histories also disrupt the chronology because collective self-determination sometimes preceded effective individual rights. Critical evaluation: Indivisibility does not erase differences in duty, remedy or institutional competence. It means that rights support one another and cannot be ranked as inherently dispensable. Use generations to organise content, then analyse each claim's actual legal status and obligation structure. Conclusion: The generations framework is useful only as a mnemonic: rights are historically interdependent, civil-political rights need institutions, socio-economic rights contain immediate duties, and solidarity claims possess different legal statuses.
-
-**Why this earns marks:** it obeys `critically examine` instead of drifting into description, attaches each claim to named evidence (Introduction, Gauba's, Core and Second-generation), converts that evidence into analysis of examine the generations-of-rights framework in light of the indivisibility of human rights, and keeps the examiner-facing qualification that it means that rights support one another and cannot be ranked as inherently dispensable. At 180 words it stays inside the 250-word GS ceiling for 15 marks.
+Introduction: The generations framework groups civil-political, socio-economic-cultural and solidarity claims, but it is a pedagogic device rather than a universal history or Gauba's own classification. Core analysis: The first-generation label is often associated with restraint, yet speech, fair trial and voting require courts, administration and protection. Second-generation rights such as health, work and education involve progressive realisation but also immediate duties including non-discrimination and concrete steps. Third-generation language is especially uneven: self-determination is a binding right in common Article 1 of both Covenants, whereas development and environmental claims have different sources and enforcement paths. Anti-colonial histories also disrupt the chronology because collective self-determination sometimes preceded effective individual rights. Critical evaluation: Indivisibility does not erase differences in duty, remedy or institutional competence. It means that rights support one another and cannot be ranked as inherently dispensable. Use generations to organise content, then analyse each claim's actual legal status and obligation structure. In India, accessible schooling can strengthen speech and political participation, while effective fair-trial protections make welfare claims contestable. Neither a budgetary allocation nor a court declaration automatically demonstrates that the named claimant can use the right. The specific duty-bearer, legal basis, remedy and barrier to access must be identified before claiming success. Conclusion: The generations framework is useful only as a mnemonic: rights are historically interdependent, civil-political rights need institutions, socio-economic rights contain immediate duties, and solidarity claims possess different legal statuses.
 
 ---
 
@@ -795,13 +687,9 @@ Introduction: The generations framework groups civil-political, socio-economic-c
 
 **Question:** Evaluate Laski, Marx, Nozick, MacIntyre and feminist approaches to rights, power and common welfare. Answer in 250 words.
 
-**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of laski, Marx, Nozick, MacIntyre and feminist approaches to rights, power and common welfare in the opening line, carry the argument on Introduction, Modern, Core and Laski, and reserve the closing sentences for the qualification that conclusion: These approaches reveal that rights are simultaneously protections, social conditions and contested distributions of power;.
-
-**Model answer (249 words):**
+**Model answer (original practice, not official):**
 
 Introduction: Modern rights theory divides over whether rights chiefly protect individual choice, secure social development or reproduce and challenge structures of power. Core analysis: Laski treats rights as social conditions of personality, equality and common welfare and therefore joins liberty to education, security and reciprocal responsibility. Marx exposes the limitation of formal political equality within unequal property and class relations; his critique should be separated from Leninist theory and the record of particular socialist regimes. Nozick moves in the opposite direction: strong side-constraints and entitlement support a minimal anti-redistributive state. MacIntyre questions the grounding of abstract universal rights-talk and restores traditions and practices, without proving that community may override every individual claim. Feminist theory reveals how apparently neutral rights can ignore reproductive power, unpaid labour and patriarchal institutions; Firestone and Rowbotham supply distinct radical and socialist mechanisms. Further development: The theories also imply different institutional remedies. Laski supports welfare and equal social conditions; Marx demands transformation of property and class power; Nozick restricts compulsory action to protection and rectification; MacIntyre relocates moral reasoning within traditions and practices; feminist approaches reconstruct law, family and political economy together. Comparison should therefore judge both the protected value and the power relation each remedy may create. A defensible settlement protects a universal agency floor while democratising the social conditions in which rights are exercised. Conclusion: These approaches reveal that rights are simultaneously protections, social conditions and contested distributions of power; a defensible settlement protects individual agency while exposing class, community and gender domination.
-
-**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Modern, Core and Laski), converts that evidence into analysis of laski, Marx, Nozick, MacIntyre and feminist approaches to rights, power and common welfare, and keeps the examiner-facing qualification that conclusion: These approaches reveal that rights are simultaneously protections, social conditions and contested distributions of power;. At 249 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---
 
@@ -809,12 +697,8 @@ Introduction: Modern rights theory divides over whether rights chiefly protect i
 
 **Question:** Distinguish moral validity, legal recognition, judicial enforceability and effective realization of rights with reference to the Covenants, constitutional limits, emergencies and social movements. Answer in 250 words.
 
-**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of moral validity, legal recognition, judicial enforceability and effective realization of rights with reference to the Covenants, constitutional limits, emergencies and social movements in the opening line, carry the argument on Introduction, Core, Moral and Legal, and reserve the closing sentences for the qualification that further development: This chain also explains why implementation evidence cannot be substituted for legal analysis.
-
-**Model answer (250 words):**
+**Model answer (original practice, not official):**
 
 Introduction: A right can be morally justified, legally recognised, judicially enforceable and effectively enjoyed in different degrees; these are connected but non-identical stages. Core analysis: Moral validity supplies reasons grounded in dignity or justice. Legal recognition converts a claim into positive law. Justiciability adds an institution and remedy, while effective realisation depends on access, resources, administration and social power. The UDHR is a standard, whereas the ICCPR and ICESCR bind States Parties: the former stresses immediate respect, ensure and remedy duties; the latter combines progressive realisation with immediate non-discrimination and good-faith steps. Domestic restrictions must be lawful, tied to an aim permitted for the specific right, necessary and proportionate. Emergency derogation is narrower than ordinary limitation and leaves non-derogable rights intact. Horizontal violations may require direct constitutional rules, legislation or positive protection against private actors. Further development: This chain also explains why implementation evidence cannot be substituted for legal analysis. A policy may improve access without recognising an individual entitlement, while a judicial declaration may remain ineffective when procedures, information or resources block use. Social movements connect the stages by reframing experience as an injustice, demanding recognition, testing remedies and monitoring whether institutions alter the conditions that generated the violation. Effective rights therefore require institutional plurality and public mobilisation without collapsing every moral demand into an immediately enforceable claim. Conclusion: Rights become politically real through a chain from justification to recognition, remedy and effective access; breaking any link produces aspiration without law, law without remedy or remedy without usable freedom.
-
-**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Moral and Legal), converts that evidence into analysis of moral validity, legal recognition, judicial enforceability and effective realization of rights with reference to the Covenants, constitutional limits, emergencies and social movements, and keeps the examiner-facing qualification that further development: This chain also explains why implementation evidence cannot be substituted for legal analysis. At 250 words it stays inside the 250-word GS ceiling for 15 marks.
 
 ---

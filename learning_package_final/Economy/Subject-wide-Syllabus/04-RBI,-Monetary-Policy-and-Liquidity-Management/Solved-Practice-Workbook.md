@@ -4,7 +4,7 @@
 
 ## BASIC MCQS / REMEDIATION
 
-**Practice contract:** Correct answers follow `ABCD` repeated eight times. Every distractor has a question-specific explanation; no declared count substitutes for independent validation.
+**Practice:** Answer all 32 original questions before reading the separate explanatory key. Correct positions rotate A → B → C → D.
 
 ### MCQ 1
 
@@ -14,6 +14,289 @@ Which sequence correctly states RBI's institutional chronology?
 - B. Operations 1934; nationalisation 1935; RBI Act 1949
 - C. Hilton-Young Commission nationalised RBI in 1926
 - D. RBI became a constitutional body in 1950
+
+### MCQ 2
+
+Which statement best describes RBI's autonomy?
+
+- A. Government ownership means the Finance Ministry casts every MPC vote
+- B. RBI has statutory operational autonomy subject to legislation and accountability
+- C. Section 7 makes RBI a private corporation
+- D. The Central Board can amend the RBI Act
+
+### MCQ 3
+
+Who issues the one-rupee note in India?
+
+- A. RBI Issue Department
+- B. MPC Secretariat
+- C. Government of India
+- D. Scheduled commercial banks
+
+### MCQ 4
+
+Which is outside RBI's own statutory function?
+
+- A. Managing foreign-exchange reserves
+- B. Operating central-bank liquidity facilities
+- C. Regulating assigned payment systems
+- D. Voting the Union Budget into law
+
+### MCQ 5
+
+Under section 45ZA, who determines the inflation target?
+
+- A. Central Government in consultation with RBI
+- B. MPC alone
+- C. RBI Central Board without government
+- D. Finance Commission
+
+### MCQ 6
+
+What is the currently notified inflation objective for 1 April 2026-31 March 2031?
+
+- A. A 2-6 per cent range with no centre
+- B. Headline CPI 4 per cent with 2 and 6 per cent tolerance limits
+- C. Core CPI exactly 4 per cent each month
+- D. WPI 4 per cent plus or minus 2
+
+### MCQ 7
+
+Which statement about flexible inflation targeting is correct?
+
+- A. Growth legally overrides price stability
+- B. Any supply shock must cause an immediate rate rise
+- C. Price stability is primary while growth is kept in mind
+- D. The target is reviewed by MPC every year
+
+### MCQ 8
+
+Which event would by itself establish statutory failure to meet the inflation target?
+
+- A. One monthly CPI print at 6.1 per cent
+- B. One quarterly projection above 6 per cent
+- C. Core inflation above headline for two months
+- D. Average inflation outside a tolerance limit for three consecutive quarters
+
+### MCQ 9
+
+Which is the correct MPC composition?
+
+- A. Governor, monetary-policy Deputy Governor, one RBI-nominated officer, three government-appointed externals
+- B. Six RBI officers selected by the Governor
+- C. Finance Minister plus five RBI officers
+- D. Three bank chiefs and three economists
+
+### MCQ 10
+
+What is true of a Central Government-appointed external MPC member?
+
+- A. Life tenure
+- B. Four-year term and no reappointment
+- C. Automatic continuation until age seventy-five
+- D. Removal whenever the member dissents
+
+### MCQ 11
+
+What is the MPC quorum?
+
+- A. Two members
+- B. Three external members
+- C. Four members including Governor or, in absence, the MPC Deputy Governor
+- D. All six members without exception
+
+### MCQ 12
+
+When does the Governor use a casting vote?
+
+- A. At every MPC meeting
+- B. Whenever an external member dissents
+- C. When inflation exceeds 4 per cent
+- D. Only when ordinary votes are tied
+
+### MCQ 13
+
+Which pair is correct under the current corridor?
+
+- A. SDF floor; MSF ceiling
+- B. Reverse repo ceiling; CRR floor
+- C. Bank Rate floor; SLR ceiling
+- D. OMO floor; repo ceiling
+
+### MCQ 14
+
+As of the 5 August 2026 MPC decision, which dated set was correct?
+
+- A. Repo 5.00; SDF 5.25; MSF 5.50
+- B. Repo 5.25; SDF 5.00; MSF and Bank Rate 5.50
+- C. Repo 5.50; SDF 5.25; MSF 5.00
+- D. Repo 6.50; reverse repo as floor 6.25
+
+### MCQ 15
+
+What is the operating target of monetary policy under the revised liquidity framework?
+
+- A. Headline CPI
+- B. Policy repo rate
+- C. Overnight weighted average call rate
+- D. Ten-year G-sec yield
+
+### MCQ 16
+
+Which statement about fixed-rate reverse repo is correct after SDF's introduction?
+
+- A. It is abolished
+- B. It remains the automatic corridor ceiling
+- C. It equals CRR
+- D. It remains in RBI's toolkit at discretion but is no longer the corridor floor
+
+### MCQ 17
+
+Which description correctly distinguishes CRR and SLR?
+
+- A. CRR is cash with RBI; SLR is specified liquid assets maintained by the bank
+- B. Both are cash deposits with RBI
+- C. CRR is under Banking Regulation Act section 24 and SLR under RBI Act section 42
+- D. SLR is the MPC's policy rate
+
+### MCQ 18
+
+Which statement about current reserve ratios is appropriately framed?
+
+- A. CRR can never change from 3 per cent
+- B. RBI data checked 9 September 2026 showed CRR 3 per cent and SLR 18 per cent
+- C. SLR is constitutionally fixed at 18 per cent
+- D. The MPC alone legislates both ratios
+
+### MCQ 19
+
+Under the framework dated 30 September 2025, transient liquidity is managed primarily through
+
+- A. only annual OMOs
+- B. MSS alone
+- C. 7-day VRR/VRRR plus discretionary overnight-to-14-day operations
+- D. a permanently fixed 14-day main operation
+
+### MCQ 20
+
+What makes a variable-rate repo different from a fixed-rate repo?
+
+- A. It has no counterparty
+- B. It necessarily changes the MPC stance
+- C. It is always an OMO purchase
+- D. The auction discovers the accepted rate from bids rather than RBI fixing the operation rate
+
+### MCQ 21
+
+An RBI OMO purchase normally
+
+- A. injects durable liquidity by buying government securities outright
+- B. absorbs liquidity through a collateral-free deposit
+- C. changes CRR automatically
+- D. creates fiscal tax revenue
+
+### MCQ 22
+
+Operation Twist is best described as
+
+- A. a foreign-exchange peg
+- B. a simultaneous purchase and sale across maturities to influence the yield curve
+- C. a change in the inflation target
+- D. a waiver of SLR
+
+### MCQ 23
+
+What is distinctive about MSS?
+
+- A. Proceeds finance ordinary expenditure immediately
+- B. It is an unsecured overnight bank deposit
+- C. Government securities absorb liquidity and proceeds enter a separate account restricted to redemption/buyback
+- D. It is identical to CRR
+
+### MCQ 24
+
+Which is a transient rather than durable-liquidity driver?
+
+- A. A sustained balance-of-payments surplus
+- B. A structural rise in currency demand lasting years
+- C. A permanent change in reserve preference
+- D. A temporary tax outflow into government cash balances
+
+### MCQ 25
+
+Reserve money M0 includes
+
+- A. currency in circulation, bankers' deposits with RBI and other RBI deposits
+- B. currency in circulation alone, excluding all bank reserves
+- C. currency and commercial-bank demand deposits
+- D. currency and all scheduled-bank time deposits
+
+### MCQ 26
+
+Which formula is an empirical money multiplier?
+
+- A. M0/M3
+- B. M3/M0
+- C. commercial-bank deposits divided by the statutory CRR
+- D. M3/M1
+
+### MCQ 27
+
+Why is 1/CRR an incomplete description of money creation?
+
+- A. Banks' capacity to lend depends on statutory cash reserves alone
+- B. A bank can convert every available reserve rupee into an unconstrained loan
+- C. Currency leakage, excess reserves, capital, risk, funding and credit demand also matter
+- D. The statutory CRR fully captures customers' currency withdrawals
+
+### MCQ 28
+
+Which case is primarily a solvency problem?
+
+- A. A sound bank has a one-day settlement mismatch
+- B. System WACR briefly rises above repo
+- C. Government spending temporarily drains its RBI balance
+- D. A bank's asset losses exceed its capital and viable earnings
+
+### MCQ 29
+
+Which is an expectations-channel effect?
+
+- A. A credible statement changes wage and price setting before realised demand changes
+- B. A CRR increase immobilises a larger share of bank deposits
+- C. Floating-rate loans reprice at their contractual reset dates
+- D. An outright OMO sale withdraws bank reserves at settlement
+
+### MCQ 30
+
+Which statement about EBLR and MCLR is correct?
+
+- A. EBLR is always the borrower's final rate
+- B. External benchmarking can quicken reset, but spreads and coverage still matter
+- C. MCLR is an external market yield
+- D. MCLR has been abolished for every existing loan
+
+### MCQ 31
+
+An approximate ex ante real policy rate is
+
+- A. nominal repo minus expected real output growth
+- B. nominal repo plus realised inflation
+- C. nominal repo minus expected inflation
+- D. nominal repo minus last year's realised inflation
+
+### MCQ 32
+
+Which statement best distinguishes policy stance from liquidity stance?
+
+- A. They are always identical
+- B. A VRRR auction permanently changes the inflation target
+- C. Surplus liquidity legally requires a rate cut
+- D. A neutral MPC stance can coexist with surplus liquidity managed by two-way operations
+
+## ORIGINAL MCQ EXPLANATORY KEY
+
+### MCQ 1 — solution
 
 **Answer: A.**
 
@@ -26,14 +309,7 @@ Which sequence correctly states RBI's institutional chronology?
 
 **Examiner trap 1:** Chronology and legal instrument must both be correct.
 
-### MCQ 2
-
-Which statement best describes RBI's autonomy?
-
-- A. Government ownership means the Finance Ministry casts every MPC vote
-- B. RBI has statutory operational autonomy subject to legislation and accountability
-- C. Section 7 makes RBI a private corporation
-- D. The Central Board can amend the RBI Act
+### MCQ 2 — solution
 
 **Answer: B.**
 
@@ -46,14 +322,7 @@ Which statement best describes RBI's autonomy?
 
 **Examiner trap 2:** Avoid the false binary of complete dependence versus absolute independence.
 
-### MCQ 3
-
-Who issues the one-rupee note in India?
-
-- A. RBI Issue Department
-- B. MPC Secretariat
-- C. Government of India
-- D. Scheduled commercial banks
+### MCQ 3 — solution
 
 **Answer: C.**
 
@@ -66,14 +335,7 @@ Who issues the one-rupee note in India?
 
 **Examiner trap 3:** RBI's note-issue monopoly has the one-rupee note exception.
 
-### MCQ 4
-
-Which is outside RBI's own statutory function?
-
-- A. Managing foreign-exchange reserves
-- B. Operating central-bank liquidity facilities
-- C. Regulating assigned payment systems
-- D. Voting the Union Budget into law
+### MCQ 4 — solution
 
 **Answer: D.**
 
@@ -86,14 +348,7 @@ Which is outside RBI's own statutory function?
 
 **Examiner trap 4:** Banker to government is not the same as legislature or fiscal authority.
 
-### MCQ 5
-
-Under section 45ZA, who determines the inflation target?
-
-- A. Central Government in consultation with RBI
-- B. MPC alone
-- C. RBI Central Board without government
-- D. Finance Commission
+### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -106,14 +361,7 @@ Under section 45ZA, who determines the inflation target?
 
 **Examiner trap 5:** Separate target setter from policy-rate decision maker.
 
-### MCQ 6
-
-What is the currently notified inflation objective for 1 April 2026-31 March 2031?
-
-- A. A 2-6 per cent range with no centre
-- B. Headline CPI 4 per cent with 2 and 6 per cent tolerance limits
-- C. Core CPI exactly 4 per cent each month
-- D. WPI 4 per cent plus or minus 2
+### MCQ 6 — solution
 
 **Answer: B.**
 
@@ -126,14 +374,9 @@ What is the currently notified inflation objective for 1 April 2026-31 March 203
 
 **Examiner trap 6:** Four per cent is the target; 2-6 per cent is the tolerance band.
 
-### MCQ 7
+**Dated official source:** [RBI Bulletin on the 25 March 2026 Gazette notification](https://www.rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=24174).
 
-Which statement about flexible inflation targeting is correct?
-
-- A. Growth legally overrides price stability
-- B. Any supply shock must cause an immediate rate rise
-- C. Price stability is primary while growth is kept in mind
-- D. The target is reviewed by MPC every year
+### MCQ 7 — solution
 
 **Answer: C.**
 
@@ -146,14 +389,7 @@ Which statement about flexible inflation targeting is correct?
 
 **Examiner trap 7:** Flexible does not mean target-free or growth-first.
 
-### MCQ 8
-
-Which event would by itself establish statutory failure to meet the inflation target?
-
-- A. One monthly CPI print at 6.1 per cent
-- B. One quarterly projection above 6 per cent
-- C. Core inflation above headline for two months
-- D. Average inflation outside a tolerance limit for three consecutive quarters
+### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -166,14 +402,7 @@ Which event would by itself establish statutory failure to meet the inflation ta
 
 **Examiner trap 8:** Do not replace a three-quarter accountability trigger with a one-month breach.
 
-### MCQ 9
-
-Which is the correct MPC composition?
-
-- A. Governor, monetary-policy Deputy Governor, one RBI-nominated officer, three government-appointed externals
-- B. Six RBI officers selected by the Governor
-- C. Finance Minister plus five RBI officers
-- D. Three bank chiefs and three economists
+### MCQ 9 — solution
 
 **Answer: A.**
 
@@ -186,14 +415,7 @@ Which is the correct MPC composition?
 
 **Examiner trap 9:** Count both appointing channels, not merely six economists.
 
-### MCQ 10
-
-What is true of a Central Government-appointed external MPC member?
-
-- A. Life tenure
-- B. Four-year term and no reappointment
-- C. Automatic continuation until age seventy-five
-- D. Removal whenever the member dissents
+### MCQ 10 — solution
 
 **Answer: B.**
 
@@ -206,14 +428,7 @@ What is true of a Central Government-appointed external MPC member?
 
 **Examiner trap 10:** Fixed tenure protects judgement; it does not create permanent office.
 
-### MCQ 11
-
-What is the MPC quorum?
-
-- A. Two members
-- B. Three external members
-- C. Four members including Governor or, in absence, the MPC Deputy Governor
-- D. All six members without exception
+### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -226,14 +441,7 @@ What is the MPC quorum?
 
 **Examiner trap 11:** Quorum is four, not unanimity or full attendance.
 
-### MCQ 12
-
-When does the Governor use a casting vote?
-
-- A. At every MPC meeting
-- B. Whenever an external member dissents
-- C. When inflation exceeds 4 per cent
-- D. Only when ordinary votes are tied
+### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -246,14 +454,7 @@ When does the Governor use a casting vote?
 
 **Examiner trap 12:** Chairmanship does not mean two routine votes.
 
-### MCQ 13
-
-Which pair is correct under the current corridor?
-
-- A. SDF floor; MSF ceiling
-- B. Reverse repo ceiling; CRR floor
-- C. Bank Rate floor; SLR ceiling
-- D. OMO floor; repo ceiling
+### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -266,14 +467,7 @@ Which pair is correct under the current corridor?
 
 **Examiner trap 13:** Classify standing prices separately from quantity instruments.
 
-### MCQ 14
-
-As of the 5 August 2026 MPC decision, which dated set was correct?
-
-- A. Repo 5.00; SDF 5.25; MSF 5.50
-- B. Repo 5.25; SDF 5.00; MSF and Bank Rate 5.50
-- C. Repo 5.50; SDF 5.25; MSF 5.00
-- D. Repo 6.50; reverse repo as floor 6.25
+### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -286,14 +480,9 @@ As of the 5 August 2026 MPC decision, which dated set was correct?
 
 **Examiner trap 14:** A current rate is valid only with its decision date.
 
-### MCQ 15
+**Dated official source:** [RBI Monetary Policy Decisions, 5 August 2026](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63287).
 
-What is the operating target of monetary policy under the revised liquidity framework?
-
-- A. Headline CPI
-- B. Policy repo rate
-- C. Overnight weighted average call rate
-- D. Ten-year G-sec yield
+### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -306,14 +495,7 @@ What is the operating target of monetary policy under the revised liquidity fram
 
 **Examiner trap 15:** Target, policy rate and operating target are three different concepts.
 
-### MCQ 16
-
-Which statement about fixed-rate reverse repo is correct after SDF's introduction?
-
-- A. It is abolished
-- B. It remains the automatic corridor ceiling
-- C. It equals CRR
-- D. It remains in RBI's toolkit at discretion but is no longer the corridor floor
+### MCQ 16 — solution
 
 **Answer: D.**
 
@@ -326,14 +508,7 @@ Which statement about fixed-rate reverse repo is correct after SDF's introductio
 
 **Examiner trap 16:** Legacy role can change without abolishing the instrument.
 
-### MCQ 17
-
-Which description correctly distinguishes CRR and SLR?
-
-- A. CRR is cash with RBI; SLR is specified liquid assets maintained by the bank
-- B. Both are cash deposits with RBI
-- C. CRR is under Banking Regulation Act section 24 and SLR under RBI Act section 42
-- D. SLR is the MPC's policy rate
+### MCQ 17 — solution
 
 **Answer: A.**
 
@@ -346,74 +521,48 @@ Which description correctly distinguishes CRR and SLR?
 
 **Examiner trap 17:** Ask where the asset is held before inferring liquidity effects.
 
-### MCQ 18
-
-Which statement about current reserve ratios is appropriately framed?
-
-- A. CRR can never change from 3 per cent
-- B. SLR is constitutionally fixed at 18 per cent
-- C. RBI data checked 9 September 2026 showed CRR 3 per cent and SLR 18 per cent
-- D. The MPC alone legislates both ratios
+### MCQ 18 — solution
 
 **Answer: B.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** A current observation must not be frozen as permanent.
-- **B - Correct:** SLR is statutory/regulatory but its rate is not constitutionally immutable.
-- **C - Incorrect:** The date label makes the observation usable without converting it into a timeless definition.
+- **B - Correct:** The date label makes the observation usable without converting it into a timeless definition.
+- **C - Incorrect:** SLR is statutory/regulatory but its rate is not constitutionally immutable.
 - **D - Incorrect:** Instrument authority and legal basis are more complex than sole MPC legislation.
 
 **Examiner trap 18:** Never write a current ratio without a date and source.
 
-### MCQ 19
+**Dated official data source:** [RBI National Summary Data: ratios and rates](https://www.rbi.org.in/Scripts/BS_NSDPDisplay.aspx?param=4); the observation in the question is dated 9 September 2026, not a permanent statutory ratio.
 
-Under the framework dated 30 September 2025, transient liquidity is managed primarily through
-
-- A. only annual OMOs
-- B. 7-day VRR/VRRR plus discretionary overnight-to-14-day operations
-- C. MSS alone
-- D. a permanently fixed 14-day main operation
+### MCQ 19 — solution
 
 **Answer: C.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** OMOs address durable conditions and are not the sole transient tool.
-- **B - Incorrect:** This is the revised operational design stated by RBI.
-- **C - Correct:** MSS is a specialised sterilisation instrument.
+- **B - Incorrect:** MSS is a specialised sterilisation instrument.
+- **C - Correct:** This is the revised operational design stated by RBI.
 - **D - Incorrect:** The revision discontinued the 14-day operation as the main operation.
 
 **Examiner trap 19:** Operating procedures have a vintage; older LAF descriptions can be obsolete.
 
-### MCQ 20
-
-What makes a variable-rate repo different from a fixed-rate repo?
-
-- A. It has no counterparty
-- B. The auction discovers the accepted rate from bids rather than RBI fixing the operation rate
-- C. It is always an OMO purchase
-- D. It necessarily changes the MPC stance
+### MCQ 20 — solution
 
 **Answer: D.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** Eligible counterparties still matter.
-- **B - Incorrect:** Variable-rate bidding determines the cut-off or accepted rates.
+- **B - Incorrect:** An operational auction need not signal a stance change.
 - **C - Incorrect:** Repo remains a repurchase transaction, unlike outright OMO.
-- **D - Correct:** An operational auction need not signal a stance change.
+- **D - Correct:** Variable-rate bidding determines the cut-off or accepted rates.
 
 **Examiner trap 20:** Variable price discovery is not variable institutional purpose.
 
-### MCQ 21
-
-An RBI OMO purchase normally
-
-- A. injects durable liquidity by buying government securities outright
-- B. absorbs liquidity through a collateral-free deposit
-- C. changes CRR automatically
-- D. creates fiscal tax revenue
+### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -426,34 +575,20 @@ An RBI OMO purchase normally
 
 **Examiner trap 21:** Outright purchase is the key distinction from repo.
 
-### MCQ 22
-
-Operation Twist is best described as
-
-- A. a foreign-exchange peg
-- B. a change in the inflation target
-- C. a simultaneous purchase and sale across maturities to influence the yield curve
-- D. a waiver of SLR
+### MCQ 22 — solution
 
 **Answer: B.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** Twist operates in government securities, not a fixed exchange regime.
-- **B - Correct:** Only the Central Government consultation/notification process changes the target.
-- **C - Incorrect:** Buying longer and selling shorter securities can reshape term premia.
+- **B - Correct:** Buying longer and selling shorter securities can reshape term premia.
+- **C - Incorrect:** Only the Central Government consultation/notification process changes the target.
 - **D - Incorrect:** It does not repeal a statutory liquidity requirement.
 
 **Examiner trap 22:** Twist changes maturity composition; net liquidity depends on transaction design.
 
-### MCQ 23
-
-What is distinctive about MSS?
-
-- A. Proceeds finance ordinary expenditure immediately
-- B. It is an unsecured overnight bank deposit
-- C. It is identical to CRR
-- D. Government securities absorb liquidity and proceeds enter a separate account restricted to redemption/buyback
+### MCQ 23 — solution
 
 **Answer: C.**
 
@@ -461,99 +596,64 @@ What is distinctive about MSS?
 
 - **A - Incorrect:** Ordinary spending would reverse the intended absorption.
 - **B - Incorrect:** SDF is the standing unsecured deposit facility.
-- **C - Correct:** MSS uses securities and a ring-fenced account, not bank reserve ratios.
-- **D - Incorrect:** The separate identifiable account preserves the sterilisation purpose.
+- **C - Correct:** The separate identifiable account preserves the sterilisation purpose.
+- **D - Incorrect:** MSS uses securities and a ring-fenced account, not bank reserve ratios.
 
 **Examiner trap 23:** MSS is jointly designed but its proceeds are not normal budget resources.
 
-### MCQ 24
-
-Which is a transient rather than durable-liquidity driver?
-
-- A. A temporary tax outflow into government cash balances
-- B. A structural rise in currency demand lasting years
-- C. A permanent change in reserve preference
-- D. A sustained balance-of-payments surplus
+### MCQ 24 — solution
 
 **Answer: D.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Short-lived tax collection can drain reserves until spending reverses it.
+- **A - Incorrect:** Sustained external inflows can create durable liquidity pressure.
 - **B - Incorrect:** A lasting currency shift is a durable factor.
 - **C - Incorrect:** Persistent reserve preference alters the structural demand for liquidity.
-- **D - Correct:** Sustained external inflows can create durable liquidity pressure.
+- **D - Correct:** Short-lived tax collection can drain reserves until spending reverses it.
 
 **Examiner trap 24:** Classify the expected persistence, not the instrument's name alone.
 
-### MCQ 25
-
-Reserve money M0 includes
-
-- A. only coins
-- B. currency in circulation, bankers' deposits with RBI and other RBI deposits
-- C. all bank time deposits but no currency
-- D. equity-market capitalisation
+### MCQ 25 — solution
 
 **Answer: A.**
 
 **Option-specific explanations:**
 
-- **A - Correct:** Coins alone are only one narrow component of money.
-- **B - Incorrect:** These are the standard liability-side components of reserve money.
-- **C - Incorrect:** Time deposits are part of broad money such as M3, not M0.
-- **D - Incorrect:** Market capitalisation is an asset valuation, not money stock.
+- **A - Correct:** These are the standard liability-side components of reserve money.
+- **B - Incorrect:** Omitting bankers' and other deposits with RBI reduces reserve money to one of its components.
+- **C - Incorrect:** Commercial-bank demand deposits contribute to broader monetary aggregates; they are not central-bank liabilities in M0.
+- **D - Incorrect:** Bank time deposits belong to broad money, not reserve money.
 
 **Examiner trap 25:** Reserve money is broader than currency but narrower than broad money.
 
-### MCQ 26
-
-Which formula is an empirical money multiplier?
-
-- A. M0/M3
-- B. CRR/SLR
-- C. M3/M0
-- D. repo minus WACR
+### MCQ 26 — solution
 
 **Answer: B.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** This is the inverse of the conventional broad-money multiplier.
-- **B - Correct:** Two reserve ratios do not themselves form the observed multiplier.
-- **C - Incorrect:** Broad money divided by reserve money gives the multiplier ratio.
-- **D - Incorrect:** The rate gap measures alignment, not money multiplication.
+- **B - Correct:** Broad money divided by reserve money gives the multiplier ratio.
+- **C - Incorrect:** Deposits divided by CRR is neither a dimensionally appropriate nor an observed broad-money-to-base-money ratio.
+- **D - Incorrect:** M3/M1 compares two monetary aggregates but excludes reserve money from the denominator.
 
 **Examiner trap 26:** Do not substitute the classroom 1/rr identity for the observed M3/M0 ratio.
 
-### MCQ 27
-
-Why is 1/CRR an incomplete description of money creation?
-
-- A. Currency leakage, excess reserves, capital, risk, funding and credit demand also matter
-- B. CRR has no connection to bank reserves
-- C. Banks can lend infinitely without capital
-- D. Loans never create deposits
+### MCQ 27 — solution
 
 **Answer: C.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** These behavioural and regulatory constraints break the mechanical assumptions.
-- **B - Incorrect:** CRR affects reserve space even though it is not the sole determinant.
-- **C - Correct:** Capital and risk rules impose real limits.
-- **D - Incorrect:** Bank lending commonly creates a matching deposit before reserve settlement.
+- **A - Incorrect:** Capital, risk, funding and credit demand constrain lending even when cash reserves are adequate.
+- **B - Incorrect:** Reserves alone do not guarantee a viable borrower, bank capital or a willingness to extend credit.
+- **C - Correct:** These behavioural and regulatory constraints break the mechanical assumptions.
+- **D - Incorrect:** Currency leakage changes the deposit/reserve relationship beyond the statutory cash reserve ratio.
 
 **Examiner trap 27:** Endogenous credit does not mean unconstrained credit.
 
-### MCQ 28
-
-Which case is primarily a solvency problem?
-
-- A. A sound bank has a one-day settlement mismatch
-- B. System WACR briefly rises above repo
-- C. A bank's asset losses exceed its capital and viable earnings
-- D. Government spending temporarily drains its RBI balance
+### MCQ 28 — solution
 
 **Answer: D.**
 
@@ -561,88 +661,60 @@ Which case is primarily a solvency problem?
 
 - **A - Incorrect:** Temporary timing can be addressed with liquidity.
 - **B - Incorrect:** WACR alignment is a market-liquidity issue.
-- **C - Incorrect:** Negative net worth or unviable assets require capital or resolution, not cash alone.
-- **D - Correct:** Government cash movement is an autonomous system-liquidity driver.
+- **C - Incorrect:** Government cash movement is an autonomous system-liquidity driver.
+- **D - Correct:** Negative net worth or unviable assets require capital or resolution, not cash alone.
 
 **Examiner trap 28:** Emergency liquidity cannot manufacture capital.
 
-### MCQ 29
-
-Which is an expectations-channel effect?
-
-- A. A credible statement changes wage and price setting before realised demand changes
-- B. RBI physically builds a warehouse
-- C. SLR securities become CRR cash automatically
-- D. MPC fixes every retail loan spread
+### MCQ 29 — solution
 
 **Answer: A.**
 
 **Option-specific explanations:**
 
 - **A - Correct:** Forward guidance and credibility can alter contracts and pricing today.
-- **B - Incorrect:** Storage is a supply-side responsibility.
-- **C - Incorrect:** The two requirements retain separate legal and asset forms.
-- **D - Incorrect:** Banks price spreads within regulation and risk conditions.
+- **B - Incorrect:** A change in compulsory reserve holdings works through bank liquidity, not merely anticipated inflation.
+- **C - Incorrect:** Contractual repricing is a loan-rate transmission mechanism whose timing differs from advance expectation formation.
+- **D - Incorrect:** An OMO sale directly absorbs reserves; any signalling effects are secondary to the transaction described.
 
 **Examiner trap 29:** Expectations can transmit before balance-sheet quantities visibly move.
 
-### MCQ 30
-
-Which statement about EBLR and MCLR is correct?
-
-- A. EBLR is always the borrower's final rate
-- B. MCLR is an external market yield
-- C. External benchmarking can quicken reset, but spreads and coverage still matter
-- D. MCLR has been abolished for every existing loan
+### MCQ 30 — solution
 
 **Answer: B.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** The final rate normally includes a spread.
-- **B - Correct:** MCLR is an internal benchmark based on bank costs and tenor.
-- **C - Incorrect:** This captures both improved pass-through and remaining heterogeneity.
+- **B - Correct:** This captures both improved pass-through and remaining heterogeneity.
+- **C - Incorrect:** MCLR is an internal benchmark based on bank costs and tenor.
 - **D - Incorrect:** Legacy and excluded contracts mean MCLR has not disappeared universally.
 
 **Examiner trap 30:** Benchmark, spread and reset date must be separated.
 
-### MCQ 31
-
-An approximate ex ante real policy rate is
-
-- A. nominal repo minus expected inflation
-- B. nominal repo plus realised inflation
-- C. SDF minus CRR
-- D. GDP growth minus SLR
+### MCQ 31 — solution
 
 **Answer: C.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Decision-making compares the nominal rate with expected inflation.
+- **A - Incorrect:** Expected output growth is not the expected change in the price level used to calculate a real interest rate.
 - **B - Incorrect:** Adding inflation reverses the Fisher intuition and realised inflation may not represent expectations.
-- **C - Correct:** These are unlike units and instrument categories.
-- **D - Incorrect:** Growth and a reserve ratio do not define a real interest rate.
+- **C - Correct:** Decision-making compares the nominal rate with expected inflation.
+- **D - Incorrect:** A past realised rate yields an ex post approximation, not the ex ante rate relevant to forward-looking decisions.
 
 **Examiner trap 31:** State whether inflation is expected or realised.
 
-### MCQ 32
-
-Which statement best distinguishes policy stance from liquidity stance?
-
-- A. They are always identical
-- B. A neutral MPC stance can coexist with surplus liquidity managed by two-way operations
-- C. Surplus liquidity legally requires a rate cut
-- D. A VRRR auction permanently changes the inflation target
+### MCQ 32 — solution
 
 **Answer: D.**
 
 **Option-specific explanations:**
 
 - **A - Incorrect:** Rate orientation and reserve conditions can diverge.
-- **B - Incorrect:** The August 2026 configuration illustrated neutral stance with average surplus liquidity.
+- **B - Incorrect:** An auction implements liquidity policy; it does not amend the Gazette target.
 - **C - Incorrect:** Liquidity can arise from autonomous flows without dictating MPC action.
-- **D - Correct:** An auction implements liquidity policy; it does not amend the Gazette target.
+- **D - Correct:** The August 2026 configuration illustrated neutral stance with average surplus liquidity.
 
 **Examiner trap 32:** Read stance, rate and liquidity as separate signals.
 

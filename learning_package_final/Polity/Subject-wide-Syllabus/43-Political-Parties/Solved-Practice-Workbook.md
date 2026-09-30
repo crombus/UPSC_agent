@@ -6,11 +6,11 @@ topic_key: polity-43
 
 **Subject:** Polity | **GS Paper:** GS-II | **Legal control date:** 8 September 2026
 
-**Practice discipline:** exactly 32 original MCQs before the PYQ section; answer order `ABCD` repeated eight times; 128 substantive option-specific explanations; 32 question-specific traps; verified relevant PYQ wording with official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original answer-free MCQs before the separate key; strict `ABCD` rotation repeated nine times; 144 option-specific explanations and 36 question-specific traps; verified relevant PYQ wording with official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before the PYQ section. Questions 25-32 are targeted close-option remediation. Correct-answer sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
+Exactly **36 original answer-free MCQs** appear before the separate solved key. Questions 25-36 include targeted close-option remediation.
 
 ### MCQ 1. Legal identity
 
@@ -20,6 +20,325 @@ A. They are associations regulated through a constitutional-statutory-order patc
 B. They are private associations wholly outside election law.
 C. They are constitutional offices created by the Tenth Schedule.
 D. They become State instrumentalities immediately on registration.
+
+### MCQ 2. Party functions
+
+Which function most clearly distinguishes a political party from a pressure group?
+
+A. Articulating an interest before public authorities.
+B. Seeking governmental office through elections and accepting responsibility for a broad programme.
+C. Mobilising opinion on a public issue.
+D. Submitting recommendations to a legislative committee.
+
+### MCQ 3. Party-system classification
+
+A country permits free competition, but one party repeatedly wins while opposition parties retain legal and electoral space. This is best described as:
+
+A. A one-party State.
+B. A two-party monopoly.
+C. A dominant-party system.
+D. A non-party democracy.
+
+### MCQ 4. Constitutional references
+
+Which pair provides the constitutional bridge from the Tenth Schedule to membership disqualification?
+
+A. Articles 75(1B) and 164(1B).
+B. Articles 14 and 19(1)(c).
+C. Articles 324 and 327.
+D. Articles 102(2) and 191(2).
+
+### MCQ 5. Section 29A applicant
+
+Who may apply under Section 29A to register as a political party?
+
+A. An association or body of individual citizens of India calling itself a political party.
+B. Any group of voters certified by a District Magistrate.
+C. Any company incorporated in India.
+D. Only an association already represented in Parliament.
+
+### MCQ 6. Application timing
+
+For an association formed after commencement of the 1988 amendment, Section 29A ordinarily requires application:
+
+A. Within sixty days of the first election contested.
+B. Within thirty days of formation.
+C. Before adopting a party constitution.
+D. Only after enrolling one thousand members.
+
+### MCQ 7. Allegiance clause
+
+Which item is NOT part of the express Section 29A(5) declaration?
+
+A. True faith and allegiance to the Constitution.
+B. Principles of socialism, secularism and democracy.
+C. Commitment to a presidential form of government.
+D. Sovereignty, unity and integrity of India.
+
+### MCQ 8. ECI registration decision
+
+Before refusing registration under Section 29A, the ECI must:
+
+A. Obtain approval from the Union Cabinet.
+B. Refer the issue to the Supreme Court.
+C. Conduct a nationwide membership referendum.
+D. Give the association's representatives a reasonable opportunity of being heard.
+
+### MCQ 9. Deregistration
+
+Indian National Congress (I) v Institute of Social Welfare is authority for which proposition?
+
+A. The ECI has no general Section 29A deregistration power, subject to narrow exceptional situations.
+B. The ECI may cancel any party whenever internal elections are delayed.
+C. A party automatically loses registration when it loses recognition.
+D. Only Parliament may initially register a political party.
+
+### MCQ 10. Registration versus recognition
+
+Which sequence is legally correct?
+
+A. Recognition under the Constitution, then registration under the Symbols Order.
+B. Registration under Section 29A; recognition under the Symbols Order if performance criteria are met.
+C. Reserved symbol first; registration follows automatically after an election.
+D. Registration and recognition are the same single decision.
+
+### MCQ 11. National recognition
+
+Which is an independent route to National-party recognition under the Symbols Order?
+
+A. Two Assembly seats in each of two States.
+B. Eight per cent of votes in any one State.
+C. Recognition as a State party in at least four States.
+D. A reserved symbol used for three elections.
+
+### MCQ 12. Two-per-cent route
+
+Under the Lok Sabha seat-share route to National recognition, the returned candidates must come from:
+
+A. At least two States.
+B. Every region of India.
+C. At least four States.
+D. At least three States.
+
+### MCQ 13. State recognition
+
+Which is a valid alternative State-party criterion?
+
+A. Three per cent of Assembly seats or three seats, whichever is more.
+B. Three per cent of Assembly seats or three seats, whichever is less.
+C. Six per cent of votes without any additional condition in every route.
+D. One Lok Sabha seat regardless of the State's allotted strength.
+
+### MCQ 14. Reserved symbol
+
+A reserved symbol is best understood as:
+
+A. Private property owned by party office-bearers.
+B. A regulated electoral entitlement reserved for a recognised party's duly set-up candidates.
+C. A symbol automatically reserved for every Section 29A applicant.
+D. A mark that may be divided equally after a split.
+
+### MCQ 15. Free symbol
+
+Which candidate most characteristically relies on the free-symbol pool?
+
+A. A duly set-up candidate of a recognised party using its reserved symbol.
+B. A candidate whose party has privately purchased a symbol.
+C. A candidate of a registered-unrecognised party, subject to allotment rules.
+D. A nominated member of the Rajya Sabha.
+
+### MCQ 16. Paragraph 15 trigger
+
+Paragraph 15 is principally triggered when:
+
+A. A legislator violates a whip.
+B. Any two independent candidates prefer the same free symbol.
+C. A party fails to file an income-tax return.
+D. Two rival groups of a recognised party each claim to be that party.
+
+### MCQ 17. Sadiq Ali test
+
+What did Sadiq Ali treat as valuable evidence in a party split?
+
+A. Majority and numerical strength in organisational and legislative wings.
+B. Only the personal view of the former party president.
+C. Only the party's original manifesto.
+D. A compulsory vote of every primary member.
+
+### MCQ 18. Kanhaiya Lal Omar
+
+Kanhaiya Lal Omar primarily upheld:
+
+A. A general ECI power to deregister parties.
+B. The validity of the Symbols Order under Article 324 read with election rules.
+C. The legal enforceability of every manifesto promise.
+D. A constitutional right of parties to own symbols.
+
+### MCQ 19. Subhash Desai
+
+Which statement best reflects Subhash Desai (2023)?
+
+A. The legislature party alone may appoint the political party's whip.
+B. An ECI symbol decision automatically erases earlier defection.
+C. Political party and legislature party are distinct, and party authorisation matters for whip/leader appointments.
+D. The Governor decides which faction is the real party.
+
+### MCQ 20. Section 29B
+
+Section 29B principally concerns:
+
+A. Registration of party names.
+B. Disqualification for defection.
+C. Recognition as a State party.
+D. Voluntary contributions that parties may accept subject to statutory restrictions.
+
+### MCQ 21. Section 29C threshold
+
+A contribution exceeding which amount is reportable under Section 29C's ordinary rule?
+
+A. Rs 20,000.
+B. Rs 10,000.
+C. Rs 2,000.
+D. Rs 1,00,000.
+
+### MCQ 22. Electoral trusts
+
+Which statement correctly distinguishes an electoral trust from an electoral bond?
+
+A. Both are anonymous bearer instruments.
+B. A trust is an approved intermediary with donor/distribution reporting; a bond was a bank-issued bearer instrument.
+C. A bond remains lawful after the 2024 judgment.
+D. A trust may distribute contributions only to unregistered groups.
+
+### MCQ 23. Electoral bonds holding
+
+The principal voter-information holding in ADR v Union of India (2024) rested on:
+
+A. Article 300A.
+B. Article 21A.
+C. Article 19(1)(a).
+D. Article 368.
+
+### MCQ 24. Candidate disclosure
+
+ADR (2002) and PUCL (2003) are most directly associated with:
+
+A. Internal party primaries.
+B. Recognition of National parties.
+C. Paragraph 15 symbol disputes.
+D. Candidate affidavits and the voter's right to know.
+
+### MCQ 25. Rambabu Singh Thakur
+
+Rambabu Singh Thakur requires parties selecting candidates with criminal antecedents to:
+
+A. Publish antecedents and reasons connected to qualifications rather than mere winnability.
+B. Obtain a pardon from the Governor.
+C. Wait for conviction before any disclosure.
+D. Cancel the candidature whenever an FIR exists.
+
+### MCQ 26. Lily Thomas boundary
+
+Why must Lily Thomas be used cautiously in a political-parties answer?
+
+A. It created the Symbols Order.
+B. It concerns conviction-based disqualification of legislators, not general deregistration of parties.
+C. It held all parties to be public authorities under RTI.
+D. It legalised electoral bonds.
+
+### MCQ 27. Star campaigners
+
+Under Section 77's explanation, the maximum notified leaders are ordinarily:
+
+A. 40 for every registered association.
+B. 20 for a recognised party and 40 for another party.
+C. 40 for a recognised political party and 20 for another political party.
+D. Unlimited if the party pays.
+
+### MCQ 28. MCC
+
+Which is the safest description of the Model Code of Conduct?
+
+A. A constitutional schedule enforced only by courts.
+B. A voluntary party manifesto with no ECI role.
+C. A complete criminal code for every campaign wrong.
+D. A non-statutory election code whose directions interact with enforceable laws and ECI powers.
+
+### MCQ 29. Manifesto promises
+
+After S. Subramaniam Balaji, which statement is safest?
+
+A. Manifesto promises were not automatically corrupt practices under the then statutory text, and ECI guidelines were directed.
+B. No manifesto can ever be regulated.
+C. Every welfare promise is automatically a corrupt practice.
+D. Every promise is a judicially enforceable contract.
+
+### MCQ 30. RTI status
+
+Which statement accurately presents the RTI position?
+
+A. The Supreme Court has conclusively declared every registered party a public authority.
+B. The CIC in 2013 held six named national parties to be public authorities, but compliance and final judicial settlement remain contested.
+C. Parliament enacted a comprehensive party RTI statute in 2014.
+D. The CIC order concerned only candidate affidavits.
+
+### MCQ 31. Federal behaviour
+
+Why is the national-centralising/regional-autonomy proposition only a tendency?
+
+A. Recognition labels legally determine policy.
+B. Regional parties cannot join Union coalitions.
+C. A party's territorial base, organisational form and position in Union or State power can change its incentives.
+D. National parties never govern States.
+
+### MCQ 32. Comprehensive reform
+
+Which reform is most defensible within constitutional limits?
+
+A. Give the ECI unrestricted power to dissolve parties without hearing.
+B. Prohibit all internal dissent.
+C. Treat every party decision as government action.
+D. Impose minimum transparent procedures, graded sanctions, due process and independent appeal.
+
+### MCQ 33. Recognition loss
+
+A registered party loses State recognition after failing applicable election-performance conditions. Which consequence follows?
+
+A. Registration does not automatically end; reserved-symbol entitlement and recognition privileges must be reassessed under the Symbols Order.
+B. The ECI must automatically cancel Section 29A registration.
+C. Its MLAs are automatically disqualified under the Tenth Schedule.
+D. Its candidates are barred from all future elections.
+
+### MCQ 34. Internal election rules
+
+A registered party repeatedly postpones leadership elections contrary to its constitution. Which statement best distinguishes binding law from proposed reform?
+
+A. Article 324 automatically turns the party into a State department.
+B. Section 29A and filed party rules matter, but there is no comprehensive statutory internal-election code or general ECI deregistration power solely for poor internal democracy.
+C. The Tenth Schedule mandates annual organisational ballots for every party.
+D. An ECI registration certificate proves leadership elections are credible.
+
+### MCQ 35. Contribution scrutiny
+
+A corporation contributes to a party through a third-party channel. Which inquiry most directly protects informed voting after the 2024 electoral-bonds judgment?
+
+A. Treat all corporate contributions as constitutionally banned.
+B. Assume an intermediary dissolves every disclosure obligation.
+C. Trace donor, recipient, applicable reporting and beneficial control while guarding against disproportionate opaque corporate influence.
+D. Replace financial disclosure with a party manifesto declaration.
+
+### MCQ 36. Symbol and anti-defection
+
+The ECI identifies a faction as a recognised party for a reserved symbol. A Speaker then hears an earlier defection petition. Which proposition is sound?
+
+A. The symbol decision retrospectively legalises all earlier votes.
+B. The ECI decision automatically disqualifies the losing faction’s legislators.
+C. Two-thirds of MLAs alone always proves the original party merged.
+D. ECI symbol identity and Speaker paragraph 6 disqualification are distinct inquiries; inspect authorisation and conduct at the relevant time.
+
+## SEPARATE SOLVED MCQ KEY
+
+### Solution 1. Legal identity
 
 **Answer: A. They are associations regulated through a constitutional-statutory-order patchwork rather than one comprehensive party code.**
 
@@ -32,14 +351,7 @@ D. They become State instrumentalities immediately on registration.
 
 **Examiner trap 1:** First identify the legal layer; public electoral importance does not itself create constitutional-office status.
 
-### MCQ 2. Party functions
-
-Which function most clearly distinguishes a political party from a pressure group?
-
-A. Articulating an interest before public authorities.
-B. Seeking governmental office through elections and accepting responsibility for a broad programme.
-C. Mobilising opinion on a public issue.
-D. Submitting recommendations to a legislative committee.
+### Solution 2. Party functions
 
 **Answer: B. Seeking governmental office through elections and accepting responsibility for a broad programme.**
 
@@ -52,14 +364,7 @@ D. Submitting recommendations to a legislative committee.
 
 **Examiner trap 2:** Do not reduce the distinction to organisation or advocacy; focus on election-based acquisition of governing power.
 
-### MCQ 3. Party-system classification
-
-A country permits free competition, but one party repeatedly wins while opposition parties retain legal and electoral space. This is best described as:
-
-A. A one-party State.
-B. A two-party monopoly.
-C. A dominant-party system.
-D. A non-party democracy.
+### Solution 3. Party-system classification
 
 **Answer: C. A dominant-party system.**
 
@@ -72,14 +377,7 @@ D. A non-party democracy.
 
 **Examiner trap 3:** One-party dominance is an empirical pattern, not constitutional prohibition of opponents.
 
-### MCQ 4. Constitutional references
-
-Which pair provides the constitutional bridge from the Tenth Schedule to membership disqualification?
-
-A. Articles 75(1B) and 164(1B).
-B. Articles 14 and 19(1)(c).
-C. Articles 324 and 327.
-D. Articles 102(2) and 191(2).
+### Solution 4. Constitutional references
 
 **Answer: D. Articles 102(2) and 191(2).**
 
@@ -92,14 +390,7 @@ D. Articles 102(2) and 191(2).
 
 **Examiner trap 4:** Keep the disqualification bridge separate from the later office bars.
 
-### MCQ 5. Section 29A applicant
-
-Who may apply under Section 29A to register as a political party?
-
-A. An association or body of individual citizens of India calling itself a political party.
-B. Any group of voters certified by a District Magistrate.
-C. Any company incorporated in India.
-D. Only an association already represented in Parliament.
+### Solution 5. Section 29A applicant
 
 **Answer: A. An association or body of individual citizens of India calling itself a political party.**
 
@@ -112,14 +403,7 @@ D. Only an association already represented in Parliament.
 
 **Examiner trap 5:** Registration is open to qualifying citizen associations; electoral success is relevant later to recognition.
 
-### MCQ 6. Application timing
-
-For an association formed after commencement of the 1988 amendment, Section 29A ordinarily requires application:
-
-A. Within sixty days of the first election contested.
-B. Within thirty days of formation.
-C. Before adopting a party constitution.
-D. Only after enrolling one thousand members.
+### Solution 6. Application timing
 
 **Answer: B. Within thirty days of formation.**
 
@@ -132,14 +416,7 @@ D. Only after enrolling one thousand members.
 
 **Examiner trap 6:** The sixty-day clause was transitional for bodies already existing at commencement.
 
-### MCQ 7. Allegiance clause
-
-Which item is NOT part of the express Section 29A(5) declaration?
-
-A. True faith and allegiance to the Constitution.
-B. Principles of socialism, secularism and democracy.
-C. Commitment to a presidential form of government.
-D. Sovereignty, unity and integrity of India.
+### Solution 7. Allegiance clause
 
 **Answer: C. Commitment to a presidential form of government.**
 
@@ -152,14 +429,7 @@ D. Sovereignty, unity and integrity of India.
 
 **Examiner trap 7:** Do not add preferred institutional models to the statutory constitutional-allegiance formula.
 
-### MCQ 8. ECI registration decision
-
-Before refusing registration under Section 29A, the ECI must:
-
-A. Obtain approval from the Union Cabinet.
-B. Refer the issue to the Supreme Court.
-C. Conduct a nationwide membership referendum.
-D. Give the association's representatives a reasonable opportunity of being heard.
+### Solution 8. ECI registration decision
 
 **Answer: D. Give the association's representatives a reasonable opportunity of being heard.**
 
@@ -172,14 +442,7 @@ D. Give the association's representatives a reasonable opportunity of being hear
 
 **Examiner trap 8:** Finality in Section 29A(8) does not erase constitutional judicial review.
 
-### MCQ 9. Deregistration
-
-Indian National Congress (I) v Institute of Social Welfare is authority for which proposition?
-
-A. The ECI has no general Section 29A deregistration power, subject to narrow exceptional situations.
-B. The ECI may cancel any party whenever internal elections are delayed.
-C. A party automatically loses registration when it loses recognition.
-D. Only Parliament may initially register a political party.
+### Solution 9. Deregistration
 
 **Answer: A. The ECI has no general Section 29A deregistration power, subject to narrow exceptional situations.**
 
@@ -192,14 +455,7 @@ D. Only Parliament may initially register a political party.
 
 **Examiner trap 9:** Do not convert a recognised regulatory gap into a power implied from administrative convenience.
 
-### MCQ 10. Registration versus recognition
-
-Which sequence is legally correct?
-
-A. Recognition under the Constitution, then registration under the Symbols Order.
-B. Registration under Section 29A; recognition under the Symbols Order if performance criteria are met.
-C. Reserved symbol first; registration follows automatically after an election.
-D. Registration and recognition are the same single decision.
+### Solution 10. Registration versus recognition
 
 **Answer: B. Registration under Section 29A; recognition under the Symbols Order if performance criteria are met.**
 
@@ -212,14 +468,7 @@ D. Registration and recognition are the same single decision.
 
 **Examiner trap 10:** A party may remain validly registered without National or State recognition.
 
-### MCQ 11. National recognition
-
-Which is an independent route to National-party recognition under the Symbols Order?
-
-A. Two Assembly seats in each of two States.
-B. Eight per cent of votes in any one State.
-C. Recognition as a State party in at least four States.
-D. A reserved symbol used for three elections.
+### Solution 11. National recognition
 
 **Answer: C. Recognition as a State party in at least four States.**
 
@@ -232,14 +481,7 @@ D. A reserved symbol used for three elections.
 
 **Examiner trap 11:** Do not merge State criteria with National criteria.
 
-### MCQ 12. Two-per-cent route
-
-Under the Lok Sabha seat-share route to National recognition, the returned candidates must come from:
-
-A. At least two States.
-B. Every region of India.
-C. At least four States.
-D. At least three States.
+### Solution 12. Two-per-cent route
 
 **Answer: D. At least three States.**
 
@@ -252,14 +494,7 @@ D. At least three States.
 
 **Examiner trap 12:** The three-State requirement belongs to the two-per-cent seat route, not automatically to the six-per-cent route.
 
-### MCQ 13. State recognition
-
-Which is a valid alternative State-party criterion?
-
-A. Three per cent of Assembly seats or three seats, whichever is more.
-B. Three per cent of Assembly seats or three seats, whichever is less.
-C. Six per cent of votes without any additional condition in every route.
-D. One Lok Sabha seat regardless of the State's allotted strength.
+### Solution 13. State recognition
 
 **Answer: A. Three per cent of Assembly seats or three seats, whichever is more.**
 
@@ -272,14 +507,7 @@ D. One Lok Sabha seat regardless of the State's allotted strength.
 
 **Examiner trap 13:** Words such as 'more' and 'in addition' decide close recognition options.
 
-### MCQ 14. Reserved symbol
-
-A reserved symbol is best understood as:
-
-A. Private property owned by party office-bearers.
-B. A regulated electoral entitlement reserved for a recognised party's duly set-up candidates.
-C. A symbol automatically reserved for every Section 29A applicant.
-D. A mark that may be divided equally after a split.
+### Solution 14. Reserved symbol
 
 **Answer: B. A regulated electoral entitlement reserved for a recognised party's duly set-up candidates.**
 
@@ -292,14 +520,7 @@ D. A mark that may be divided equally after a split.
 
 **Examiner trap 14:** Use entitlement and allotment language, not ownership language.
 
-### MCQ 15. Free symbol
-
-Which candidate most characteristically relies on the free-symbol pool?
-
-A. A duly set-up candidate of a recognised party using its reserved symbol.
-B. A candidate whose party has privately purchased a symbol.
-C. A candidate of a registered-unrecognised party, subject to allotment rules.
-D. A nominated member of the Rajya Sabha.
+### Solution 15. Free symbol
 
 **Answer: C. A candidate of a registered-unrecognised party, subject to allotment rules.**
 
@@ -312,14 +533,7 @@ D. A nominated member of the Rajya Sabha.
 
 **Examiner trap 15:** Free does not mean unregulated; ECI priority and allotment rules still apply.
 
-### MCQ 16. Paragraph 15 trigger
-
-Paragraph 15 is principally triggered when:
-
-A. A legislator violates a whip.
-B. Any two independent candidates prefer the same free symbol.
-C. A party fails to file an income-tax return.
-D. Two rival groups of a recognised party each claim to be that party.
+### Solution 16. Paragraph 15 trigger
 
 **Answer: D. Two rival groups of a recognised party each claim to be that party.**
 
@@ -332,14 +546,7 @@ D. Two rival groups of a recognised party each claim to be that party.
 
 **Examiner trap 16:** Identify the institution and legal consequence: ECI/symbol identity is not Speaker/defection.
 
-### MCQ 17. Sadiq Ali test
-
-What did Sadiq Ali treat as valuable evidence in a party split?
-
-A. Majority and numerical strength in organisational and legislative wings.
-B. Only the personal view of the former party president.
-C. Only the party's original manifesto.
-D. A compulsory vote of every primary member.
+### Solution 17. Sadiq Ali test
 
 **Answer: A. Majority and numerical strength in organisational and legislative wings.**
 
@@ -352,14 +559,7 @@ D. A compulsory vote of every primary member.
 
 **Examiner trap 17:** The majority test is relevant and contextual, not a mechanical legislature-only rule.
 
-### MCQ 18. Kanhaiya Lal Omar
-
-Kanhaiya Lal Omar primarily upheld:
-
-A. A general ECI power to deregister parties.
-B. The validity of the Symbols Order under Article 324 read with election rules.
-C. The legal enforceability of every manifesto promise.
-D. A constitutional right of parties to own symbols.
+### Solution 18. Kanhaiya Lal Omar
 
 **Answer: B. The validity of the Symbols Order under Article 324 read with election rules.**
 
@@ -372,14 +572,7 @@ D. A constitutional right of parties to own symbols.
 
 **Examiner trap 18:** Article 324 is gap-filling and election-linked, not a charter of unlimited party supervision.
 
-### MCQ 19. Subhash Desai
-
-Which statement best reflects Subhash Desai (2023)?
-
-A. The legislature party alone may appoint the political party's whip.
-B. An ECI symbol decision automatically erases earlier defection.
-C. Political party and legislature party are distinct, and party authorisation matters for whip/leader appointments.
-D. The Governor decides which faction is the real party.
+### Solution 19. Subhash Desai
 
 **Answer: C. Political party and legislature party are distinct, and party authorisation matters for whip/leader appointments.**
 
@@ -392,14 +585,7 @@ D. The Governor decides which faction is the real party.
 
 **Examiner trap 19:** Legislative numbers are evidence, not automatic organisational sovereignty.
 
-### MCQ 20. Section 29B
-
-Section 29B principally concerns:
-
-A. Registration of party names.
-B. Disqualification for defection.
-C. Recognition as a State party.
-D. Voluntary contributions that parties may accept subject to statutory restrictions.
+### Solution 20. Section 29B
 
 **Answer: D. Voluntary contributions that parties may accept subject to statutory restrictions.**
 
@@ -412,14 +598,7 @@ D. Voluntary contributions that parties may accept subject to statutory restrict
 
 **Examiner trap 20:** Finance questions often test source labels more than numerical recall.
 
-### MCQ 21. Section 29C threshold
-
-A contribution exceeding which amount is reportable under Section 29C's ordinary rule?
-
-A. Rs 20,000.
-B. Rs 10,000.
-C. Rs 2,000.
-D. Rs 1,00,000.
+### Solution 21. Section 29C threshold
 
 **Answer: A. Rs 20,000.**
 
@@ -432,14 +611,7 @@ D. Rs 1,00,000.
 
 **Examiner trap 21:** The reporting threshold is neither a donation cap nor a candidate expenditure ceiling.
 
-### MCQ 22. Electoral trusts
-
-Which statement correctly distinguishes an electoral trust from an electoral bond?
-
-A. Both are anonymous bearer instruments.
-B. A trust is an approved intermediary with donor/distribution reporting; a bond was a bank-issued bearer instrument.
-C. A bond remains lawful after the 2024 judgment.
-D. A trust may distribute contributions only to unregistered groups.
+### Solution 22. Electoral trusts
 
 **Answer: B. A trust is an approved intermediary with donor/distribution reporting; a bond was a bank-issued bearer instrument.**
 
@@ -452,14 +624,7 @@ D. A trust may distribute contributions only to unregistered groups.
 
 **Examiner trap 22:** Do not use 'electoral funding vehicle' as though all vehicles have the same disclosure design.
 
-### MCQ 23. Electoral bonds holding
-
-The principal voter-information holding in ADR v Union of India (2024) rested on:
-
-A. Article 300A.
-B. Article 21A.
-C. Article 19(1)(a).
-D. Article 368.
+### Solution 23. Electoral bonds holding
 
 **Answer: C. Article 19(1)(a).**
 
@@ -472,14 +637,7 @@ D. Article 368.
 
 **Examiner trap 23:** Remember the separate Article 14 analysis of unlimited corporate funding.
 
-### MCQ 24. Candidate disclosure
-
-ADR (2002) and PUCL (2003) are most directly associated with:
-
-A. Internal party primaries.
-B. Recognition of National parties.
-C. Paragraph 15 symbol disputes.
-D. Candidate affidavits and the voter's right to know.
+### Solution 24. Candidate disclosure
 
 **Answer: D. Candidate affidavits and the voter's right to know.**
 
@@ -492,14 +650,7 @@ D. Candidate affidavits and the voter's right to know.
 
 **Examiner trap 24:** Candidate disclosure is not the same as party deregistration or pre-conviction disqualification.
 
-### MCQ 25. Rambabu Singh Thakur
-
-Rambabu Singh Thakur requires parties selecting candidates with criminal antecedents to:
-
-A. Publish antecedents and reasons connected to qualifications rather than mere winnability.
-B. Obtain a pardon from the Governor.
-C. Wait for conviction before any disclosure.
-D. Cancel the candidature whenever an FIR exists.
+### Solution 25. Rambabu Singh Thakur
 
 **Answer: A. Publish antecedents and reasons connected to qualifications rather than mere winnability.**
 
@@ -512,14 +663,7 @@ D. Cancel the candidature whenever an FIR exists.
 
 **Examiner trap 25:** The remedy is disclosure and reason-giving, not judicial creation of a blanket pending-case bar.
 
-### MCQ 26. Lily Thomas boundary
-
-Why must Lily Thomas be used cautiously in a political-parties answer?
-
-A. It created the Symbols Order.
-B. It concerns conviction-based disqualification of legislators, not general deregistration of parties.
-C. It held all parties to be public authorities under RTI.
-D. It legalised electoral bonds.
+### Solution 26. Lily Thomas boundary
 
 **Answer: B. It concerns conviction-based disqualification of legislators, not general deregistration of parties.**
 
@@ -532,14 +676,7 @@ D. It legalised electoral bonds.
 
 **Examiner trap 26:** Use a case only for its proposition; famous names do not substitute for legal fit.
 
-### MCQ 27. Star campaigners
-
-Under Section 77's explanation, the maximum notified leaders are ordinarily:
-
-A. 40 for every registered association.
-B. 20 for a recognised party and 40 for another party.
-C. 40 for a recognised political party and 20 for another political party.
-D. Unlimited if the party pays.
+### Solution 27. Star campaigners
 
 **Answer: C. 40 for a recognised political party and 20 for another political party.**
 
@@ -552,14 +689,7 @@ D. Unlimited if the party pays.
 
 **Examiner trap 27:** The exclusion concerns specified travel; it does not exempt every rally expense.
 
-### MCQ 28. MCC
-
-Which is the safest description of the Model Code of Conduct?
-
-A. A constitutional schedule enforced only by courts.
-B. A voluntary party manifesto with no ECI role.
-C. A complete criminal code for every campaign wrong.
-D. A non-statutory election code whose directions interact with enforceable laws and ECI powers.
+### Solution 28. MCC
 
 **Answer: D. A non-statutory election code whose directions interact with enforceable laws and ECI powers.**
 
@@ -572,14 +702,7 @@ D. A non-statutory election code whose directions interact with enforceable laws
 
 **Examiner trap 28:** Avoid the false choice between 'law' and 'nothing'; identify which violation also fits a statute.
 
-### MCQ 29. Manifesto promises
-
-After S. Subramaniam Balaji, which statement is safest?
-
-A. Manifesto promises were not automatically corrupt practices under the then statutory text, and ECI guidelines were directed.
-B. No manifesto can ever be regulated.
-C. Every welfare promise is automatically a corrupt practice.
-D. Every promise is a judicially enforceable contract.
+### Solution 29. Manifesto promises
 
 **Answer: A. Manifesto promises were not automatically corrupt practices under the then statutory text, and ECI guidelines were directed.**
 
@@ -592,14 +715,7 @@ D. Every promise is a judicially enforceable contract.
 
 **Examiner trap 29:** Do not use the word 'freebie' as a self-executing legal conclusion.
 
-### MCQ 30. RTI status
-
-Which statement accurately presents the RTI position?
-
-A. The Supreme Court has conclusively declared every registered party a public authority.
-B. The CIC in 2013 held six named national parties to be public authorities, but compliance and final judicial settlement remain contested.
-C. Parliament enacted a comprehensive party RTI statute in 2014.
-D. The CIC order concerned only candidate affidavits.
+### Solution 30. RTI status
 
 **Answer: B. The CIC in 2013 held six named national parties to be public authorities, but compliance and final judicial settlement remain contested.**
 
@@ -612,14 +728,7 @@ D. The CIC order concerned only candidate affidavits.
 
 **Examiner trap 30:** Distinguish an adjudicatory order from settled universal enforceability.
 
-### MCQ 31. Federal behaviour
-
-Why is the national-centralising/regional-autonomy proposition only a tendency?
-
-A. Recognition labels legally determine policy.
-B. Regional parties cannot join Union coalitions.
-C. A party's territorial base, organisational form and position in Union or State power can change its incentives.
-D. National parties never govern States.
+### Solution 31. Federal behaviour
 
 **Answer: C. A party's territorial base, organisational form and position in Union or State power can change its incentives.**
 
@@ -632,14 +741,7 @@ D. National parties never govern States.
 
 **Examiner trap 31:** Explain reversals in office/opposition rather than stereotyping party categories.
 
-### MCQ 32. Comprehensive reform
-
-Which reform is most defensible within constitutional limits?
-
-A. Give the ECI unrestricted power to dissolve parties without hearing.
-B. Prohibit all internal dissent.
-C. Treat every party decision as government action.
-D. Impose minimum transparent procedures, graded sanctions, due process and independent appeal.
+### Solution 32. Comprehensive reform
 
 **Answer: D. Impose minimum transparent procedures, graded sanctions, due process and independent appeal.**
 
@@ -651,6 +753,58 @@ D. Impose minimum transparent procedures, graded sanctions, due process and inde
 - **D:** This option is correct and proportionate.
 
 **Examiner trap 32:** Reform public consequences and minimum procedure; do not nationalise political association.
+
+### Solution 33. Recognition loss
+
+**Answer: A. Registration does not automatically end; reserved-symbol entitlement and recognition privileges must be reassessed under the Symbols Order.**
+
+**Option-specific explanations:**
+
+- **A:** Correct: performance-based recognition is distinct from continuing Section 29A registration.
+- **B:** Incorrect: recognition loss does not confer a general deregistration power.
+- **C:** Incorrect: the Tenth Schedule assesses members’ conduct, not recognition status alone.
+- **D:** Incorrect: registered-unrecognised parties can contest under symbol-allotment rules.
+
+**Examiner trap 33:** No recognition does not mean no registered party.
+
+### Solution 34. Internal election rules
+
+**Answer: B. Section 29A and filed party rules matter, but there is no comprehensive statutory internal-election code or general ECI deregistration power solely for poor internal democracy.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: election supervision does not nationalise political associations.
+- **B:** Correct: distinguish information and undertakings at registration from an enacted, comprehensive enforcement and cancellation code.
+- **C:** Incorrect: the Schedule governs legislators’ party conduct, not periodic internal elections.
+- **D:** Incorrect: registration alone does not certify continuing organisational fairness.
+
+**Examiner trap 34:** A desirable minimum internal-democracy law is a reform proposal, not already enacted.
+
+### Solution 35. Contribution scrutiny
+
+**Answer: C. Trace donor, recipient, applicable reporting and beneficial control while guarding against disproportionate opaque corporate influence.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: the Court invalidated the opaque scheme and uncapped corporate-donation amendment, not every corporate donation.
+- **B:** Incorrect: routing through an intermediary cannot itself prove transparent ultimate origin.
+- **C:** Correct: voter information under Article 19(1)(a) and equality concerns require scrutiny of the operative legal disclosure rules.
+- **D:** Incorrect: a manifesto does not identify funding relationships.
+
+**Examiner trap 35:** Do not confuse striking down the electoral-bond scheme with banning all party finance.
+
+### Solution 36. Symbol and anti-defection
+
+**Answer: D. ECI symbol identity and Speaker paragraph 6 disqualification are distinct inquiries; inspect authorisation and conduct at the relevant time.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: a prospective symbol order does not erase past Tenth Schedule conduct.
+- **B:** Incorrect: the ECI does not decide paragraph 6 liability.
+- **C:** Incorrect: paragraph 4 has a separate original-party merger premise.
+- **D:** Correct: Subhash Desai differentiates party organisational authority, symbol proceedings and legislative adjudication.
+
+**Examiner trap 36:** Do not import Symbols Order findings wholesale into the Speaker’s separate jurisdiction.
 
 ## PYQS AND ANSWER PRACTICE
 

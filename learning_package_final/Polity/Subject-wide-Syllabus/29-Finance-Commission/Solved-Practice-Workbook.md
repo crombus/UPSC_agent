@@ -1,11 +1,11 @@
 # Finance Commission - Solved Practice Workbook
 
 **Control date:** 8 September 2026  
-**Discipline:** exactly 32 MCQs before PYQs; key sequence `ABCD` repeated eight times; every option explained; one distinct trap per MCQ; official-key status stated for every PYQ.
+**Discipline:** 40 MCQs before a separate key and before PYQs; key sequence `ABCD` repeated ten times; every option explained; one distinct trap per MCQ; official-key status stated for every PYQ.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original MCQs appear before the PYQs. Correct-option sequence: `ABCD` repeated eight times.
+Forty original MCQs appear before the separate key and the PYQs. Correct-option sequence: `ABCD` repeated ten times.
 
 ### MCQ 1. Article 280 requires the President to constitute a Finance Commission:
 
@@ -14,7 +14,317 @@ B. every five years only after a parliamentary resolution
 C. annually before the Union Budget
 D. whenever a majority of States requests one
 
-**Answer:** A
+### MCQ 2. The constitutionally fixed composition of a Finance Commission is:
+
+A. Chairman plus three members
+B. Chairman plus four other members
+C. five members plus Chairman
+D. a number fixed by each constituting order
+
+### MCQ 3. Who is constitutionally authorised to determine Finance Commission member qualifications by law?
+
+A. President
+B. Union Cabinet
+C. Parliament
+D. Supreme Court
+
+### MCQ 4. Under the 1951 Act, the Chairman should be selected from persons with:
+
+A. special knowledge of economics only
+B. experience as a High Court judge only
+C. government accounting certification
+D. experience in public affairs
+
+### MCQ 5. Which is one statutory qualification pool for an 'other member'?
+
+A. A person qualified to be appointed a High Court judge
+B. A sitting Member of Parliament
+C. A serving Governor
+D. A former CAG only
+
+### MCQ 6. The Finance Commission's inquiry powers are best described as:
+
+A. identical to the Supreme Court's appellate powers
+B. specified civil-court powers while the Commission determines its procedure
+C. ordinary criminal-court jurisdiction
+D. powers exercisable only through CAG
+
+### MCQ 7. Which statement best captures the legal status of Finance Commission recommendations?
+
+A. They automatically amend tax law.
+B. They bind courts but not Parliament.
+C. They are advisory but carry constitutional and political weight.
+D. They are enforceable only after GST Council endorsement.
+
+### MCQ 8. Article 281 requires the President to place before each House:
+
+A. only the accepted recommendations
+B. only a State-wise devolution table
+C. the report after a prior parliamentary vote
+D. the recommendations and an explanatory memorandum on action taken
+
+### MCQ 9. Under Article 279, 'net proceeds' means:
+
+A. tax or duty proceeds reduced by cost of collection
+B. gross tax revenue after grants
+C. Union revenue after interest payments
+D. divisible pool after horizontal allocation
+
+### MCQ 10. Which item is constitutionally excluded from Article 270 sharing?
+
+A. Every amount of central GST
+B. An Article 271 surcharge for Union purposes
+C. All corporation-tax proceeds
+D. Every inter-State transaction
+
+### MCQ 11. Article 269A is most directly associated with:
+
+A. State Finance Commissions
+B. Article 275 grants
+C. levy, collection and apportionment of GST on inter-State supplies
+D. CAG certification of net proceeds
+
+### MCQ 12. Which distinction between Article 279A and Article 280 is correct?
+
+A. Both create the same periodic commission.
+B. Article 280 creates the GST Council.
+C. Article 279A fixes horizontal tax shares.
+D. Article 279A creates the GST Council; Article 280 creates the Finance Commission.
+
+### MCQ 13. Vertical devolution answers which question?
+
+A. What collective share of the divisible pool should States receive?
+B. How should one State divide money among municipalities?
+C. Which tax rate should the GST Council recommend?
+D. How should a State allocate its own-source revenue?
+
+### MCQ 14. Horizontal devolution refers to:
+
+A. division of GST rates across slabs
+B. allocation of the States' collective share among States
+C. allocation between rural and urban local bodies
+D. division of grants between response and mitigation
+
+### MCQ 15. In FC-16, per-capita GSDP distance primarily advances:
+
+A. uniform tax rates
+B. population control alone
+C. fiscal-capacity equalisation
+D. direct reimbursement of expenditure
+
+### MCQ 16. FC-16's area criterion applies which floor?
+
+A. 0.5 per cent
+B. 1 per cent
+C. 2 per cent
+D. 1.5 per cent
+
+### MCQ 17. FC-16's forest variable includes:
+
+A. weighted forest stock and increase, combined 80:20
+B. only very dense forest area
+C. only forest increase after 2023
+D. carbon-market revenue alone
+
+### MCQ 18. FC-16 measures demographic performance through:
+
+A. current total fertility rate
+B. inverse population growth between the 1971 and 2011 Censuses
+C. share of elderly population in 2026
+D. female literacy growth after 2011
+
+### MCQ 19. How is FC-16's contribution-to-GDP criterion transformed?
+
+A. inverse of per-capita GSDP
+B. straight share of GST collections
+C. State square-root GSDP share in the sum of square-root GSDPs
+D. five-year average tax effort
+
+### MCQ 20. Which FC-16 criterion carries 17.5 per cent weight?
+
+A. forest
+B. area
+C. demographic performance
+D. population (2011)
+
+### MCQ 21. Article 275 is most directly associated with:
+
+A. grants-in-aid of revenues of States from the Consolidated Fund of India
+B. GST Council voting
+C. CAG appointment
+D. State borrowing consent
+
+### MCQ 22. Which statement correctly distinguishes devolution from grants?
+
+A. Both are the same percentage of gross tax revenue.
+B. Devolution shares net tax proceeds; grants are separate transfers for assessed principles or purposes.
+C. Grants alone are recommended by the Finance Commission.
+D. Devolution is always tied and grants always untied.
+
+### MCQ 23. Under the accepted FC-16 local-body design, which statement is correct?
+
+A. All grants are tied.
+B. The performance component is 50 per cent.
+C. Basic and performance components are 80:20; half of basic is tied.
+D. Untied grants may be used without any restriction for salaries.
+
+### MCQ 24. Article 280(3)(bb) and (c) require the Union Finance Commission to recommend:
+
+A. direct municipal tax rates
+B. membership of every State Finance Commission
+C. district-wise grants paid without State involvement
+D. measures to augment State Consolidated Funds for Panchayat and Municipal resources
+
+### MCQ 25. A State Finance Commission is constituted by the:
+
+A. Governor under Article 243-I
+B. President under Article 280
+C. GST Council
+D. CAG
+
+### MCQ 26. What did FC-16 recommend regarding revenue-deficit grants for 2026-31?
+
+A. A universal grant to every State
+B. No revenue-deficit grants
+C. Only one-year revenue-deficit grants
+D. Revenue-deficit grants only through GST Council
+
+### MCQ 27. The accepted FC-16 corpus for SDRF and SDMF together over 2026-31 is:
+
+A. Rs 79,406 crore
+B. Rs 1,63,521 crore
+C. Rs 2,04,401 crore
+D. Rs 7,91,493 crore
+
+### MCQ 28. Which response term applies to the FC-16 State borrowing-ceiling quantum?
+
+A. rejected
+B. taken note of only
+C. automatically constitutionalised
+D. accepted in principle
+
+### MCQ 29. The main federal concern with rising cesses and surcharges is that they:
+
+A. can reduce the divisible pool as a share of gross tax revenue
+B. are always unconstitutional
+C. are distributed only by State Finance Commissions
+D. automatically increase horizontal devolution
+
+### MCQ 30. Why are off-budget borrowings relevant to Finance Commission analysis?
+
+A. They determine GST Council votes.
+B. They can conceal liabilities and weaken credible deficit/debt assessment.
+C. They are always grants under Article 275.
+D. They are certified as divisible-pool taxes by CAG.
+
+### MCQ 31. What proposition from *Mohit Minerals* (2022) is safe to use here?
+
+A. It fixed the States' Finance Commission share at 41 per cent.
+B. It included cesses in the divisible pool.
+C. GST Council recommendations are persuasive and non-binding; this is only a comparison.
+D. It invalidated Article 280.
+
+### MCQ 32. GST compensation is best located as:
+
+A. a permanent Article 280 grant
+B. a CAG-created surcharge
+C. a State Finance Commission award
+D. a statutory GST-transition mechanism linked to GST Council history, not the FC constitutional core
+
+### MCQ 33. A State wants a larger share of Article 270 proceeds while another seeks a grant for a particular fiscal need. Which pairing matches the constitutional routes?
+
+A. Article 280 tax-sharing recommendations and Article 275 grant principles
+B. Article 279A tax-sharing orders and Article 271 grant principles
+C. Article 243-I tax-sharing orders and Article 282 mandatory grants
+D. Article 281 binding allocations and Article 269A local grants
+
+### MCQ 34. Union gross tax receipts rise, but most additional receipts come from an excluded specific-purpose cess. What follows for a fixed vertical-share percentage?
+
+A. State share automatically rises by the same amount as gross receipts
+B. State receipts may rise less because the divisible-pool base excludes that cess
+C. Finance Commission must increase its horizontal weights by statute
+D. The cess automatically converts to Article 275 grants
+
+### MCQ 35. A State demands that a GST Council recommendation be treated as a Finance Commission award. Which response best identifies the institutions?
+
+A. Both bodies have identical Article 280 mandates
+B. The Council alone certifies Article 279 net proceeds
+C. Article 279A GST coordination differs from Article 280 distribution and grant recommendations
+D. A GST Council vote automatically appropriates Article 275 grants
+
+### MCQ 36. The Union accepts a Finance Commission formula but leaves a proposed debt reform for separate examination. Which interpretation is sound?
+
+A. All recommendations automatically acquire statutory force at report submission
+B. Article 281 requires States to implement every proposal
+C. Acceptance in principle equals immediate enforceable implementation
+D. The action-taken memorandum can distinguish accepted, noted and deferred proposals
+
+### MCQ 37. Suppose a State Finance Commission has not reported and a Union Finance Commission proposes local-body supplementation. Which constitutional qualification currently matters?
+
+A. Article 280(3)(bb) and (c) link the measures to SFC recommendations; a proposal to remove that link is not an enacted amendment
+B. The Union Commission can dismiss the State Commission and appoint its replacement
+C. The GST Council alone determines local-body tax shares
+D. Article 271 requires Union surcharges to pass directly to municipalities
+
+### MCQ 38. A low-income State argues that its weak tax base, not its population alone, warrants a higher horizontal allocation. Which FC-16 indicator most directly addresses the claim?
+
+A. Per-capita GSDP distance
+B. Square-root-transformed GDP contribution
+C. Demographic performance based on inverse growth
+D. Forest stock and increase
+
+### MCQ 39. A policy note describes an FC-16 forest weight as payment solely for newly planted trees. Which correction is supported?
+
+A. Forest has no place in the horizontal formula
+B. Forest stock and forest increase are both represented with weighted components
+C. The forest indicator is the same as demographic performance
+D. Forest grants replace the entire horizontal formula
+
+### MCQ 40. An analyst compares a State’s award share with its cash position after a tax-collection shortfall and assumes identical percentage changes. What is missing?
+
+A. Only the State’s coastline length
+B. Only GST Council voting share
+C. Only membership of the State Finance Commission
+D. Actual net collections, inter se formula, grants, own revenue and debt obligations
+
+## VERIFIED OBJECTIVE PYQ QUESTIONS (AS PUBLISHED)
+
+### PYQ 3 - UPSC Prelims 2023, Q29
+
+**Question:** Consider the following:
+
+1. Demographic performance
+2. Forest and ecology
+3. Governance reforms
+4. Stable government
+5. Tax and fiscal efforts
+
+For horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area and income distance?
+
+A. Only two\
+B. Only three\
+C. Only four\
+D. All five
+
+### PYQ 4 - UPSC Prelims 2025, Q66
+
+**Question:** Which statements regarding recommendations of the Fifteenth Finance Commission are correct?
+
+I. It recommended Rs 4,800 crore from 2022-23 to 2025-26 to incentivise States to enhance educational outcomes.\
+II. 45 per cent of net proceeds of Union taxes were to be shared with States.\
+III. Rs 45,000 crore was kept as performance-based incentive for States undertaking agricultural reforms.\
+IV. It reintroduced tax effort criteria to reward fiscal performance.
+
+A. I, II and III\
+B. I, II and IV\
+C. I, III and IV\
+D. II, III and IV
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### MCQ 1 — answer and explanation
+
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -25,14 +335,9 @@ D. whenever a majority of States requests one
 
 **Examiner trap 1:** The word 'or earlier' is frequently omitted in close options.
 
-### MCQ 2. The constitutionally fixed composition of a Finance Commission is:
+### MCQ 2 — answer and explanation
 
-A. Chairman plus three members
-B. Chairman plus four other members
-C. five members plus Chairman
-D. a number fixed by each constituting order
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -43,14 +348,9 @@ D. a number fixed by each constituting order
 
 **Examiner trap 2:** Chairman plus four means five total, not six.
 
-### MCQ 3. Who is constitutionally authorised to determine Finance Commission member qualifications by law?
+### MCQ 3 — answer and explanation
 
-A. President
-B. Union Cabinet
-C. Parliament
-D. Supreme Court
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -61,14 +361,9 @@ D. Supreme Court
 
 **Examiner trap 3:** Appointment by President does not mean qualifications are presidentially legislated.
 
-### MCQ 4. Under the 1951 Act, the Chairman should be selected from persons with:
+### MCQ 4 — answer and explanation
 
-A. special knowledge of economics only
-B. experience as a High Court judge only
-C. government accounting certification
-D. experience in public affairs
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -79,14 +374,9 @@ D. experience in public affairs
 
 **Examiner trap 4:** Do not transfer the economist or judge category to the Chair.
 
-### MCQ 5. Which is one statutory qualification pool for an 'other member'?
+### MCQ 5 — answer and explanation
 
-A. A person qualified to be appointed a High Court judge
-B. A sitting Member of Parliament
-C. A serving Governor
-D. A former CAG only
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -97,14 +387,9 @@ D. A former CAG only
 
 **Examiner trap 5:** The statute lists expertise categories, not designated constitutional offices.
 
-### MCQ 6. The Finance Commission's inquiry powers are best described as:
+### MCQ 6 — answer and explanation
 
-A. identical to the Supreme Court's appellate powers
-B. specified civil-court powers while the Commission determines its procedure
-C. ordinary criminal-court jurisdiction
-D. powers exercisable only through CAG
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -115,14 +400,9 @@ D. powers exercisable only through CAG
 
 **Examiner trap 6:** Quasi-judicial style is not judicial status.
 
-### MCQ 7. Which statement best captures the legal status of Finance Commission recommendations?
+### MCQ 7 — answer and explanation
 
-A. They automatically amend tax law.
-B. They bind courts but not Parliament.
-C. They are advisory but carry constitutional and political weight.
-D. They are enforceable only after GST Council endorsement.
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -133,14 +413,9 @@ D. They are enforceable only after GST Council endorsement.
 
 **Examiner trap 7:** Advisory does not mean institutionally insignificant.
 
-### MCQ 8. Article 281 requires the President to place before each House:
+### MCQ 8 — answer and explanation
 
-A. only the accepted recommendations
-B. only a State-wise devolution table
-C. the report after a prior parliamentary vote
-D. the recommendations and an explanatory memorandum on action taken
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -151,14 +426,9 @@ D. the recommendations and an explanatory memorandum on action taken
 
 **Examiner trap 8:** Laying and approving are different parliamentary acts.
 
-### MCQ 9. Under Article 279, 'net proceeds' means:
+### MCQ 9 — answer and explanation
 
-A. tax or duty proceeds reduced by cost of collection
-B. gross tax revenue after grants
-C. Union revenue after interest payments
-D. divisible pool after horizontal allocation
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -169,14 +439,9 @@ D. divisible pool after horizontal allocation
 
 **Examiner trap 9:** Net proceeds precede devolution; they are not the post-devolution remainder.
 
-### MCQ 10. Which item is constitutionally excluded from Article 270 sharing?
+### MCQ 10 — answer and explanation
 
-A. Every amount of central GST
-B. An Article 271 surcharge for Union purposes
-C. All corporation-tax proceeds
-D. Every inter-State transaction
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -187,14 +452,9 @@ D. Every inter-State transaction
 
 **Examiner trap 10:** Do not treat 'Union levied' as automatically 'Union retained'.
 
-### MCQ 11. Article 269A is most directly associated with:
+### MCQ 11 — answer and explanation
 
-A. State Finance Commissions
-B. Article 275 grants
-C. levy, collection and apportionment of GST on inter-State supplies
-D. CAG certification of net proceeds
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -205,14 +465,9 @@ D. CAG certification of net proceeds
 
 **Examiner trap 11:** Article 269A is a GST route; Article 279A creates the GST Council.
 
-### MCQ 12. Which distinction between Article 279A and Article 280 is correct?
+### MCQ 12 — answer and explanation
 
-A. Both create the same periodic commission.
-B. Article 280 creates the GST Council.
-C. Article 279A fixes horizontal tax shares.
-D. Article 279A creates the GST Council; Article 280 creates the Finance Commission.
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -223,14 +478,9 @@ D. Article 279A creates the GST Council; Article 280 creates the Finance Commiss
 
 **Examiner trap 12:** Similar article numbers and recommendatory roles invite institutional mixing.
 
-### MCQ 13. Vertical devolution answers which question?
+### MCQ 13 — answer and explanation
 
-A. What collective share of the divisible pool should States receive?
-B. How should one State divide money among municipalities?
-C. Which tax rate should the GST Council recommend?
-D. How should a State allocate its own-source revenue?
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -241,14 +491,9 @@ D. How should a State allocate its own-source revenue?
 
 **Examiner trap 13:** Vertical is between levels, not within the State group.
 
-### MCQ 14. Horizontal devolution refers to:
+### MCQ 14 — answer and explanation
 
-A. division of GST rates across slabs
-B. allocation of the States' collective share among States
-C. allocation between rural and urban local bodies
-D. division of grants between response and mitigation
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -259,14 +504,9 @@ D. division of grants between response and mitigation
 
 **Examiner trap 14:** Horizontal does not mean every distribution occurring at the same governmental level.
 
-### MCQ 15. In FC-16, per-capita GSDP distance primarily advances:
+### MCQ 15 — answer and explanation
 
-A. uniform tax rates
-B. population control alone
-C. fiscal-capacity equalisation
-D. direct reimbursement of expenditure
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -277,14 +517,9 @@ D. direct reimbursement of expenditure
 
 **Examiner trap 15:** Income distance is an equalisation proxy, not a poverty or spending claim.
 
-### MCQ 16. FC-16's area criterion applies which floor?
+### MCQ 16 — answer and explanation
 
-A. 0.5 per cent
-B. 1 per cent
-C. 2 per cent
-D. 1.5 per cent
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -295,14 +530,9 @@ D. 1.5 per cent
 
 **Examiner trap 16:** The previous two-per-cent floor is a tempting carry-forward error.
 
-### MCQ 17. FC-16's forest variable includes:
+### MCQ 17 — answer and explanation
 
-A. weighted forest stock and increase, combined 80:20
-B. only very dense forest area
-C. only forest increase after 2023
-D. carbon-market revenue alone
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -313,14 +543,9 @@ D. carbon-market revenue alone
 
 **Examiner trap 17:** FC-16 says forest, not the FC-15 label 'forest and ecology', and changes the method.
 
-### MCQ 18. FC-16 measures demographic performance through:
+### MCQ 18 — answer and explanation
 
-A. current total fertility rate
-B. inverse population growth between the 1971 and 2011 Censuses
-C. share of elderly population in 2026
-D. female literacy growth after 2011
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -331,14 +556,9 @@ D. female literacy growth after 2011
 
 **Examiner trap 18:** Do not carry FC-15's inverse-TFR method into FC-16.
 
-### MCQ 19. How is FC-16's contribution-to-GDP criterion transformed?
+### MCQ 19 — answer and explanation
 
-A. inverse of per-capita GSDP
-B. straight share of GST collections
-C. State square-root GSDP share in the sum of square-root GSDPs
-D. five-year average tax effort
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -349,14 +569,9 @@ D. five-year average tax effort
 
 **Examiner trap 19:** GDP contribution is transformed; it is not a direct proportional output reward.
 
-### MCQ 20. Which FC-16 criterion carries 17.5 per cent weight?
+### MCQ 20 — answer and explanation
 
-A. forest
-B. area
-C. demographic performance
-D. population (2011)
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -367,14 +582,9 @@ D. population (2011)
 
 **Examiner trap 20:** The FC-15 population weight was 15 per cent; FC-16 raised it.
 
-### MCQ 21. Article 275 is most directly associated with:
+### MCQ 21 — answer and explanation
 
-A. grants-in-aid of revenues of States from the Consolidated Fund of India
-B. GST Council voting
-C. CAG appointment
-D. State borrowing consent
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -385,14 +595,9 @@ D. State borrowing consent
 
 **Examiner trap 21:** Article 275 grants are distinct from Article 282 public-purpose grants.
 
-### MCQ 22. Which statement correctly distinguishes devolution from grants?
+### MCQ 22 — answer and explanation
 
-A. Both are the same percentage of gross tax revenue.
-B. Devolution shares net tax proceeds; grants are separate transfers for assessed principles or purposes.
-C. Grants alone are recommended by the Finance Commission.
-D. Devolution is always tied and grants always untied.
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -403,14 +608,9 @@ D. Devolution is always tied and grants always untied.
 
 **Examiner trap 22:** A State receives both channels, but their legal character remains separate.
 
-### MCQ 23. Under the accepted FC-16 local-body design, which statement is correct?
+### MCQ 23 — answer and explanation
 
-A. All grants are tied.
-B. The performance component is 50 per cent.
-C. Basic and performance components are 80:20; half of basic is tied.
-D. Untied grants may be used without any restriction for salaries.
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -421,14 +621,9 @@ D. Untied grants may be used without any restriction for salaries.
 
 **Examiner trap 23:** Do not confuse the 80:20 basic-performance split with the 50:50 tied-untied split inside basic.
 
-### MCQ 24. Article 280(3)(bb) and (c) require the Union Finance Commission to recommend:
+### MCQ 24 — answer and explanation
 
-A. direct municipal tax rates
-B. membership of every State Finance Commission
-C. district-wise grants paid without State involvement
-D. measures to augment State Consolidated Funds for Panchayat and Municipal resources
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -439,14 +634,9 @@ D. measures to augment State Consolidated Funds for Panchayat and Municipal reso
 
 **Examiner trap 24:** The Union FC supplements through the State; it is not a direct local allocator.
 
-### MCQ 25. A State Finance Commission is constituted by the:
+### MCQ 25 — answer and explanation
 
-A. Governor under Article 243-I
-B. President under Article 280
-C. GST Council
-D. CAG
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -457,14 +647,9 @@ D. CAG
 
 **Examiner trap 25:** Both bodies use 'Finance Commission', but their appointing authorities and fiscal levels differ.
 
-### MCQ 26. What did FC-16 recommend regarding revenue-deficit grants for 2026-31?
+### MCQ 26 — answer and explanation
 
-A. A universal grant to every State
-B. No revenue-deficit grants
-C. Only one-year revenue-deficit grants
-D. Revenue-deficit grants only through GST Council
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -475,14 +660,9 @@ D. Revenue-deficit grants only through GST Council
 
 **Examiner trap 26:** No current recommendation does not constitutionally abolish the grant category for future commissions.
 
-### MCQ 27. The accepted FC-16 corpus for SDRF and SDMF together over 2026-31 is:
+### MCQ 27 — answer and explanation
 
-A. Rs 79,406 crore
-B. Rs 1,63,521 crore
-C. Rs 2,04,401 crore
-D. Rs 7,91,493 crore
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -493,14 +673,9 @@ D. Rs 7,91,493 crore
 
 **Examiner trap 27:** Three official grant totals test level and component, not mere memory.
 
-### MCQ 28. Which response term applies to the FC-16 State borrowing-ceiling quantum?
+### MCQ 28 — answer and explanation
 
-A. rejected
-B. taken note of only
-C. automatically constitutionalised
-D. accepted in principle
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -511,14 +686,9 @@ D. accepted in principle
 
 **Examiner trap 28:** Accepted, accepted in principle and taken note of are not interchangeable.
 
-### MCQ 29. The main federal concern with rising cesses and surcharges is that they:
+### MCQ 29 — answer and explanation
 
-A. can reduce the divisible pool as a share of gross tax revenue
-B. are always unconstitutional
-C. are distributed only by State Finance Commissions
-D. automatically increase horizontal devolution
-
-**Answer:** A
+**Answer:**A
 
 **Option-specific explanations:**
 
@@ -529,14 +699,9 @@ D. automatically increase horizontal devolution
 
 **Examiner trap 29:** A legitimate federal concern is not proof of constitutional invalidity.
 
-### MCQ 30. Why are off-budget borrowings relevant to Finance Commission analysis?
+### MCQ 30 — answer and explanation
 
-A. They determine GST Council votes.
-B. They can conceal liabilities and weaken credible deficit/debt assessment.
-C. They are always grants under Article 275.
-D. They are certified as divisible-pool taxes by CAG.
-
-**Answer:** B
+**Answer:**B
 
 **Option-specific explanations:**
 
@@ -547,14 +712,9 @@ D. They are certified as divisible-pool taxes by CAG.
 
 **Examiner trap 30:** A headline fiscal deficit may be incomplete if public entities borrow on government direction.
 
-### MCQ 31. What proposition from *Mohit Minerals* (2022) is safe to use here?
+### MCQ 31 — answer and explanation
 
-A. It fixed the States' Finance Commission share at 41 per cent.
-B. It included cesses in the divisible pool.
-C. GST Council recommendations are persuasive and non-binding; this is only a comparison.
-D. It invalidated Article 280.
-
-**Answer:** C
+**Answer:**C
 
 **Option-specific explanations:**
 
@@ -565,14 +725,9 @@ D. It invalidated Article 280.
 
 **Examiner trap 31:** Never convert a GST Council holding into a Finance Commission precedent.
 
-### MCQ 32. GST compensation is best located as:
+### MCQ 32 — answer and explanation
 
-A. a permanent Article 280 grant
-B. a CAG-created surcharge
-C. a State Finance Commission award
-D. a statutory GST-transition mechanism linked to GST Council history, not the FC constitutional core
-
-**Answer:** D
+**Answer:**D
 
 **Option-specific explanations:**
 
@@ -583,6 +738,109 @@ D. a statutory GST-transition mechanism linked to GST Council history, not the F
 
 **Examiner trap 32:** GST compensation and Finance Commission devolution both affect States, but arise from different legal architectures.
 
+### MCQ 33 — answer and explanation
+
+**Answer:** A
+
+**Option-specific explanations:**
+
+- **A:** Article 280 covers tax distribution and principles for Article 275 grants.
+- **B:** Article 279A is GST coordination; Article 271 concerns surcharges.
+- **C:** The SFC reviews State-local finance; Article 282 spending is discretionary.
+- **D:** Article 281 concerns parliamentary laying, not binding allocation.
+
+**Examiner trap 33:** Different transfer instruments are not interchangeable because both deliver money to States.
+
+### MCQ 34 — answer and explanation
+
+**Answer:** B
+
+**Option-specific explanations:**
+
+- **A:** The award rate applies to a defined net divisible pool, not all gross receipts.
+- **B:** An excluded cess does not enter the pool; growth in gross taxes need not match shareable growth.
+- **C:** Horizontal weights do not amend the tax base.
+- **D:** Exclusion does not transform a levy into a grant.
+
+**Examiner trap 34:** Confusing a percentage of shareable net proceeds with a percentage of gross revenue.
+
+### MCQ 35 — answer and explanation
+
+**Answer:** C
+
+**Option-specific explanations:**
+
+- **A:** Neither body has the other’s Article 280 duties.
+- **B:** CAG certification of net proceeds is different from Council recommendations.
+- **C:** The provisions establish distinct functions even if both affect fiscal federalism.
+- **D:** Council deliberation does not itself authorise a grant appropriation.
+
+**Examiner trap 35:** Treating every federal-tax decision as horizontal devolution.
+
+### MCQ 36 — answer and explanation
+
+**Answer:** D
+
+**Option-specific explanations:**
+
+- **A:** Submission alone does not enact the recommendations.
+- **B:** Article 281 concerns laying before Parliament, not compulsory State adoption.
+- **C:** In-principle or deferred responses do not operationalise the proposal.
+- **D:** The constitutional laying mechanism permits differentiated public responses.
+
+**Examiner trap 36:** Reading one accepted recommendation as acceptance of the entire report.
+
+### MCQ 37 — answer and explanation
+
+**Answer:** A
+
+**Option-specific explanations:**
+
+- **A:** The existing text refers to recommendations made by the SFC, despite later amendment proposals.
+- **B:** State Finance Commissions are constituted by Governors under Article 243-I.
+- **C:** GST coordination is not the constitutional local-finance recommendation route.
+- **D:** Surcharges are not mandatory municipal transfers.
+
+**Examiner trap 37:** Confusing a recommended constitutional change with existing law.
+
+### MCQ 38 — answer and explanation
+
+**Answer:** B
+
+**Option-specific explanations:**
+
+- **A:** Income distance targets relative fiscal-capacity disadvantage.
+- **B:** GDP contribution rewards output while moderating size effects.
+- **C:** Demographic performance tests a distinct population-growth dimension.
+- **D:** Forest variables capture ecology, not directly income distance.
+
+**Examiner trap 38:** Treating population and income distance as synonyms.
+
+### MCQ 39 — answer and explanation
+
+**Answer:** C
+
+**Option-specific explanations:**
+
+- **A:** The criterion exists in the FC-16 formula.
+- **B:** The 80:20 stock-to-increase construction does not ignore existing forest cover.
+- **C:** Demographic performance tracks inverse population growth.
+- **D:** A distribution criterion is not a substitute for tax devolution.
+
+**Examiner trap 39:** Rewarding additions alone would misread the existing-stock component.
+
+### MCQ 40 — answer and explanation
+
+**Answer:** D
+
+**Option-specific explanations:**
+
+- **A:** Cost factors alone do not determine actual cash receipts.
+- **B:** Council votes do not settle the devolution outturn.
+- **C:** SFC membership does not establish the State’s budget balance.
+- **D:** A rate is applied to collections and interacts with multiple budget channels.
+
+**Examiner trap 40:** Award shares are allocation rules, not guaranteed rupee receipts.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -607,6 +865,8 @@ Its permanent constitutional reference is to recommend vertical and horizontal d
 
 In the question's 2018 setting, the recently constituted Fifteenth Finance Commission was also asked to examine Union-State finances, grants, local bodies, disaster management and fiscal consolidation in a changed tax and policy environment. Additional terms can widen inquiry but cannot displace Article 280's core.
 
+Its terms required the Commission to assess the resources and expenditure needs of both tiers, consider principles for grants and examine the fiscal consolidation roadmap; local-body supplementation and disaster-management financing linked the Union-State award to sub-State service delivery and risk. The move to a GST-era tax system made revenue forecasts and the interaction of divisible taxes, grants and State borrowing especially consequential. A term of reference is an inquiry mandate, not an already accepted award: conclusions still require the Commission's report and the government's reasoned response. Any assessment must distinguish the constitutional tax-sharing function from the separate decisions of the GST Council under Article 279A.
+
 Recommendations remain advisory. Yet Article 281 requires the report and an explanatory memorandum on action taken to be laid before Parliament, giving the award transparency and political weight.
 
 ### PYQ 2 - UPSC GS-II 2021, Q3 - 10 marks, 150 words
@@ -620,38 +880,11 @@ First, the larger formula-based share increased predictable and relatively untie
 
 However, gains varied with each State's horizontal share, actual Union tax collection, grants, Centrally Sponsored Schemes, own revenue and debt pressures. Thus, FC-14 strengthened autonomy and budget predictability, but sustainable fiscal improvement still required State revenue effort and accountable spending.
 
-### PYQ 3 - UPSC Prelims 2023, Q29
-
-**Question:** Consider the following:
-
-1. Demographic performance
-2. Forest and ecology
-3. Governance reforms
-4. Stable government
-5. Tax and fiscal efforts
-
-For horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area and income distance?
-
-A. Only two  
-B. Only three  
-C. Only four  
-D. All five
+### PYQ 3 - objective resolution (question before the answer key)
 
 **Resolution:** Items 1, 2 and 5 were FC-15 criteria; governance reforms and stable government were not. Therefore the answer is **B, only three**. This is a report-based resolution, not an official-key claim.
 
-### PYQ 4 - UPSC Prelims 2025, Q66
-
-**Question:** Which statements regarding recommendations of the Fifteenth Finance Commission are correct?
-
-I. It recommended Rs 4,800 crore from 2022-23 to 2025-26 to incentivise States to enhance educational outcomes.  
-II. 45 per cent of net proceeds of Union taxes were to be shared with States.  
-III. Rs 45,000 crore was kept as performance-based incentive for States undertaking agricultural reforms.  
-IV. It reintroduced tax effort criteria to reward fiscal performance.
-
-A. I, II and III  
-B. I, II and IV  
-C. I, III and IV  
-D. II, III and IV
+### PYQ 4 - objective resolution (question before the answer key)
 
 **Official-key-controlled solution:** I, III and IV are correct; II is incorrect because the collective share was 41 per cent. The official UPSC Set-A key records **C**.
 
@@ -665,6 +898,8 @@ Centre-State finance has moved from a dual plan/non-plan transfer system toward 
 Recent reforms altered this balance. FC-14 raised vertical devolution from 32 to 42 per cent, enlarging untied resources. The Planning Commission was replaced by NITI Aayog and the plan/non-plan expenditure distinction ended. GST created an Article 279A coordination forum but pooled substantial indirect-tax autonomy. FC-15 set 41 per cent and FC-16 retained it for 2026-31 while revising horizontal criteria and strengthening local-body, disaster and transparency measures.
 
 The impact is substantial but incomplete. Formula-based transfers aid autonomy and equalisation; however, cesses and surcharges reduce the shareable base, conditional schemes constrain flexibility, delayed SFCs weaken local finance and off-budget liabilities obscure risk. Reform should therefore combine transparent net-proceeds data, rationalised schemes, credible debt reporting and stronger State-local devolution.
+
+The central trade-off has changed rather than disappeared. States gained a larger rule-based share of Union tax receipts but surrendered unilateral choices over much indirect taxation to a negotiated GST framework. Moreover, a stable vertical percentage offers less protection if the pool grows slowly or non-shareable levies expand. Individual State outcomes depend on horizontal criteria, grants, own-revenue capacity and the costs of constitutionally devolved functions. Parliament's control over appropriations and State legislatures' scrutiny of onward local transfers remain crucial. Cooperative federalism therefore needs fiscal transparency and negotiated policy alongside formulas, not merely a headline percentage.
 
 ### ORIGINAL SOLVED MAINS PRACTICE - EXACTLY SIX
 

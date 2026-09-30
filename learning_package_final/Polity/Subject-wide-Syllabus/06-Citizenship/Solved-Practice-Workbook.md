@@ -11,16 +11,291 @@ title: Citizenship - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a unique substantive explanation, and every item ends with a unique question-specific Examiner trap.
+40 original questions. Attempt every stem before the separate answer key; correct letters rotate A → B → C → D. Objective PYQ keys are not inferred.
 
 ### Q1. Which statement best describes the constitutional rights map for citizens and non-citizens?
 
-A. Articles 15, 16, 19 and 29 are citizen-specific, while Articles 14 and 21 protect persons  
-B. Every Fundamental Right is available only to citizens  
-C. Article 19 protects every person lawfully present in India  
-D. Article 14 is citizen-specific but Article 15 protects all persons  
+A. Articles 15, 16, 19 and 29 are citizen-specific, while Articles 14 and 21 protect persons
+B. Every Fundamental Right is available only to citizens
+C. Article 19 protects every person lawfully present in India
+D. Article 14 is citizen-specific but Article 15 protects all persons
 
-**Answer: A.**
+### Q2. At commencement, a person relying on Article 5 needed five years' ordinary residence. What indispensable threshold also had to be shown?
+
+A. Registration before an Indian consul
+B. Domicile in the territory of India
+C. A resettlement permit
+D. Citizenship of both parents
+
+### Q3. For an Article 6 migrant from Pakistan who reached India on or after 19 July 1948, which combination was required?
+
+A. Residence since migration alone
+B. Five years' residence plus domicile
+C. Pre-commencement application, six months' residence and registration
+D. A permit for temporary return
+
+### Q4. Article 7's exception applies when a post-1 March 1947 migrant to Pakistan
+
+A. returns on any visa
+B. has an India-born parent
+C. resides in India for five years
+D. returns under a permit for resettlement or permanent return and follows the post-19 July Article 6 route
+
+### Q5. Article 8 primarily covered
+
+A. persons of Indian origin ordinarily resident abroad who secured diplomatic or consular registration
+B. all foreign spouses of Indian citizens
+C. all persons born abroad after 2004
+D. OCI cardholders seeking political rights
+
+### Q6. Which statement most accurately combines Articles 9, 10 and 11?
+
+A. Article 9 alone creates a permanent OCI code
+B. Article 9 limits specified commencement claims; Article 10 continues status subject to law; Article 11 empowers Parliament
+C. Article 10 makes citizenship immutable
+D. Article 11 gives State legislatures exclusive citizenship power
+
+### Q7. India's single-citizenship design means that
+
+A. all residence classifications are unconstitutional
+B. every State benefit must be identical
+C. there is one Indian citizenship, while bounded regional protections may operate without State citizenship
+D. OCI holders possess a second Indian citizenship
+
+### Q8. Which distinction is legally sound?
+
+A. Citizenship and residence are synonyms
+B. Domicile is a second State citizenship
+C. Long residence automatically produces citizenship
+D. Citizenship is membership, domicile is permanent legal home, and residence is factual presence
+
+### Q9. A person born in India on 30 June 1987 is generally a citizen by birth, subject to Section 3(2), because
+
+A. birth occurred during the 26 January 1950-before-1 July 1987 period
+B. either parent had to be a citizen
+C. both parents had to be citizens
+D. one parent had to be a citizen and the other not an illegal migrant
+
+### Q10. A person born in India on 2 July 1987, before 3 December 2004, ordinarily needs
+
+A. no parental connection
+B. either parent to have been an Indian citizen at birth
+C. both parents to be Indian citizens
+D. consular registration within one year
+
+### Q11. For birth in India on or after 3 December 2004, which is sufficient, subject to Section 3(2)?
+
+A. Either parent is a citizen, whatever the other parent's status
+B. Five years' later residence
+C. Both parents are citizens, or one is a citizen and the other is not an illegal migrant
+D. Registration by a district collector
+
+### Q12. Section 3(2) denies citizenship by birth in India where
+
+A. a parent is an OCI cardholder
+B. the family later leaves India
+C. the child has two passports
+D. a parent has diplomatic immunity and is not an Indian citizen, or an enemy-alien parent is in enemy-occupied territory
+
+### Q13. For a person born outside India before 10 December 1992, the ordinary descent rule looked to
+
+A. the father's citizenship
+B. either parent's citizenship
+C. the mother's citizenship alone
+D. seven years' residence in India
+
+### Q14. From 3 December 2004, citizenship by descent additionally requires
+
+A. marriage to an Indian citizen
+B. consular registration within one year or later permission, with prescribed declaration controls
+C. five years as an OCI cardholder
+D. birth in a former Indian territory
+
+### Q15. For relevant Section 5 registration categories, the seven-year ordinary-residence formula generally means
+
+A. seven continuous years immediately before application
+B. five of the preceding seven plus two immediate years
+C. twelve months immediately before plus six years in the preceding eight
+D. eleven of the preceding fourteen plus twelve immediate months
+
+### Q16. A foreign spouse of an Indian citizen who satisfies the residence rule
+
+A. becomes a citizen automatically on marriage
+B. becomes an OCI automatically
+C. must be naturalised without discretion
+D. has a Section 5 eligibility route but still needs application, oath and a statutory decision
+
+### Q17. Under the general Third Schedule, naturalisation ordinarily requires
+
+A. twelve months immediately before application plus eleven aggregate years in the preceding fourteen
+B. seven unbroken years immediately before application
+C. five years in every case
+D. only knowledge of an Eighth Schedule language
+
+### Q18. The distinguished-service proviso to Section 6 allows
+
+A. automatic citizenship for any award winner
+B. the Central Government to waive all or any Third Schedule conditions for distinguished service in named fields
+C. a State Government to waive Article 11
+D. the Supreme Court to grant citizenship as a remedy
+
+### Q19. Citizenship after incorporation of territory is principally determined by
+
+A. Article 5 domicile alone
+B. automatic citizenship for every resident
+C. a Central Government order under Section 7 specifying persons and date
+D. an OCI notification under Section 7B
+
+### Q20. A full-age citizen's registered declaration giving up citizenship is
+
+A. termination, with no effect on minors
+B. deprivation for disaffection
+C. an OCI cancellation
+D. renunciation; a minor child also ceases but may resume within the statutory post-majority window
+
+### Q21. Termination under Section 9 is most directly triggered by
+
+A. voluntary acquisition of another country's citizenship
+B. seven years' residence abroad
+C. a two-year sentence within five years
+D. failure to vote in two elections
+
+### Q22. Which person is outside Section 10(1)'s opening deprivation category gate?
+
+A. A qualifying naturalised citizen
+B. A citizen by birth
+C. A qualifying registered citizen
+D. A person citizen only by Article 5(c)
+
+### Q23. A lawful deprivation order requires
+
+A. only an allegation of disloyalty
+B. only Central Government satisfaction
+C. eligible category, a listed ground, public-good satisfaction and the prescribed notice/inquiry safeguards
+D. prior conviction in every case
+
+### Q24. Under Section 6A, qualifying Indian-origin persons who came to Assam before 1 January 1966 were
+
+A. excluded from citizenship for ten years
+B. governed by the CAA 2014 cut-off
+C. required to await NRC publication
+D. deemed citizens from 1 January 1966, subject to the statutory conditions
+
+### Q25. A detected Section 6A entrant from 1 January 1966 but before 25 March 1971
+
+A. registers, receives most citizen rights and obligations, but remains off electoral rolls for ten years from detection
+B. becomes a voter immediately
+C. is automatically deported
+D. is governed only by Article 6
+
+### Q26. What is the controlling result of *In Re: Section 6A* (17 October 2024)?
+
+A. Section 6A was struck down retrospectively
+B. A 4:1 majority upheld Section 6A while identifying serious implementation deficiencies
+C. The CAA cut-off replaced the Assam cut-off
+D. The Court created Assam citizenship
+
+### Q27. Which classification is correct?
+
+A. NRI is a foreign national with an OCI card
+B. PIO card remains a separate current citizenship
+C. NRI is an Indian citizen abroad; OCI is a foreign national with a statutory card; PIO card was merged into OCI
+D. OCI is a naturalised Indian citizen
+
+### Q28. Under the 4 March 2021 OCI notification, an OCI cardholder
+
+A. has the same rights as a citizen in every field
+B. may vote after five years
+C. may buy agricultural land as a citizen
+D. has lifelong multiple-entry visa facilities but needs permission for specified activities and remains excluded from political membership
+
+### Q29. The 11 August 2025 Section 7D(da) notification permits OCI cancellation where the cardholder is
+
+A. sentenced to at least two years, or charge-sheeted for an offence punishable with at least seven years
+B. merely questioned by police
+C. resident abroad for seven years
+D. late in reporting an address once
+
+### Q30. Which set exactly identifies the CAA Section 6B statutory class?
+
+A. All persecuted persons from neighbouring countries
+B. Hindu, Sikh, Buddhist, Jain, Parsi and Christian persons from Afghanistan, Bangladesh or Pakistan entering on/before 31 December 2014 within the exemption framework
+C. All non-Muslims from South Asia entering before 2020
+D. Every migrant in Assam before 25 March 1971
+
+### Q31. What does a successful Section 6B process do?
+
+A. Citizenship arises automatically on filing
+B. Every pending immigration case ends on application
+C. After statutory grant, citizenship is deemed from entry and specified pending proceedings abate; application alone is insufficient
+D. It converts OCI into dual citizenship
+
+### Q32. As officially verified through 7 September 2026, which statement is safest?
+
+A. CAA automatically conferred citizenship on every class member, removed the protected-area exclusions and ended the constitutional litigation
+B. The 2025 immigration exemption replaced Section 6B, shifted its citizenship cut-off to 31 December 2024 and made one committee route nationwide
+C. The 2024 judgment invalidated Section 6A, while the 2026 Collector notifications expanded CAA eligibility to migrants from every neighbouring country
+D. CAA operates; protected Sixth Schedule/Inner Line areas remain excluded, the 19 August 2026 notifications change specified administration but not eligibility, and no final CAA merits judgment was located
+
+### Q33. An Article 5 claimant was born in India but was never domiciled there at constitutional commencement. Which conclusion follows?
+
+A. Birth alone does not replace the domicile gateway
+B. Birth alone always satisfies Article 5
+C. Article 6 automatically governs every person born in India
+D. The 1955 Act retrospectively removes Article 5’s domicile requirement
+
+### Q34. A person born in India in 2005 has one Indian-citizen parent and one parent who is an illegal migrant. Ignoring Section 3(2), what follows under Section 3(1)(c)?
+
+A. Either parent being a citizen is sufficient
+B. The single-citizen-parent branch fails because the other parent is an illegal migrant
+C. Citizenship must follow from domicile in a State
+D. OCI status automatically confers citizenship
+
+### Q35. A person born abroad after the post-2004 descent change has an Indian-citizen parent. Which extra requirement is ordinarily material?
+
+A. The parent must be a citizen by birth rather than naturalisation
+B. The child must have been born in India
+C. Consular registration of birth within the statutory period, subject to statutory qualifications
+D. Automatic inclusion on an Indian electoral roll
+
+### Q36. Which distinction correctly contrasts Sections 8, 9 and 10 of the Citizenship Act?
+
+A. All three require a criminal conviction
+B. Renunciation and termination are identical voluntary declarations
+C. Deprivation applies automatically to all birth citizens
+D. Renunciation is declared; termination follows voluntary foreign citizenship; deprivation requires specified grounds and process
+
+### Q37. A person enters Assam after the Section 6A cut-off but belongs to a community covered by CAA Section 6B. Which proposition avoids conflating regimes?
+
+A. Section 6A’s historical cut-off remains distinct from Section 6B’s specified eligibility route
+B. The CAA rewrites Section 6A’s 1971 cut-off for all Assam entrants
+C. Every post-1971 entrant gains automatic citizenship under Section 6A
+D. CAA eligibility equals registration without scrutiny
+
+### Q38. A registered OCI cardholder wishes to vote while using a notified lifelong visa facility. Which is correct?
+
+A. Both facilities are constitutional citizenship rights
+B. Visa-related facilities may apply, but the vote remains reserved to citizens
+C. Neither visa access nor entry can be given to OCI holders
+D. OCI guarantees Article 16 public-employment equality
+
+### Q39. Under the general naturalisation schedule, how should the twelve-month period and preceding eleven-of-fourteen-years period be read?
+
+A. They are interchangeable alternative options
+B. Eleven years immediately before the application suffice without any other test
+C. The immediately preceding twelve months and earlier aggregate period are separate cumulative conditions
+D. Both periods can be replaced by a State domicile certificate
+
+### Q40. Which claim about the CAA 2019 survives source-grounded scrutiny without predicting litigation?
+
+A. The Supreme Court has finally upheld all of Section 6B
+B. Religion alone immediately makes every visitor a citizen
+C. Its geographic exclusions automatically repeal Section 6A
+D. Eligible persons use an application route; the constitutionality of the classification remains a separate question
+
+## ORIGINAL MCQ ANSWER KEY AND EXPLANATIONS
+
+### 1 — **Correct: A.**
 
 - **A:** Correct: the beneficiary language of each Article controls; citizen-specific and person-based rights coexist.
 - **B:** Incorrect: Articles 14, 20, 21 and 25, among others, are framed for persons rather than citizens alone.
@@ -29,14 +304,7 @@ D. Article 14 is citizen-specific but Article 15 protects all persons
 
 **Examiner trap:** The trap is the slogan that nationality determines every Fundamental Right; constitutional text must be read Article by Article.
 
-### Q2. At commencement, a person relying on Article 5 needed five years' ordinary residence. What indispensable threshold also had to be shown?
-
-A. Registration before an Indian consul  
-B. Domicile in the territory of India  
-C. A resettlement permit  
-D. Citizenship of both parents  
-
-**Answer: B.**
+### 2 — **Correct: B.**
 
 - **A:** Incorrect: consular registration belongs to Article 8, not the domestic Article 5 route.
 - **B:** Correct: domicile was the common threshold, followed by birth, parentage or five-year ordinary residence.
@@ -45,14 +313,7 @@ D. Citizenship of both parents
 
 **Examiner trap:** Residence describes presence; Article 5 demanded the deeper legal attachment of domicile as well.
 
-### Q3. For an Article 6 migrant from Pakistan who reached India on or after 19 July 1948, which combination was required?
-
-A. Residence since migration alone  
-B. Five years' residence plus domicile  
-C. Pre-commencement application, six months' residence and registration  
-D. A permit for temporary return  
-
-**Answer: C.**
+### 3 — **Correct: C.**
 
 - **A:** Incorrect: residence since migration was the route for those migrating before 19 July 1948.
 - **B:** Incorrect: domicile plus five-year residence describes one Article 5 combination, not Article 6's later migrant stream.
@@ -61,14 +322,7 @@ D. A permit for temporary return
 
 **Examiner trap:** Do not replace Article 6's 19 July 1948 date with the Assam 1971 or CAA 2014 dates.
 
-### Q4. Article 7's exception applies when a post-1 March 1947 migrant to Pakistan
-
-A. returns on any visa  
-B. has an India-born parent  
-C. resides in India for five years  
-D. returns under a permit for resettlement or permanent return and follows the post-19 July Article 6 route  
-
-**Answer: D.**
+### 4 — **Correct: D.**
 
 - **A:** Incorrect: the Constitution names a special-purpose permit, not any lawful travel document.
 - **B:** Incorrect: parentage alone does not neutralise Article 7's migration exclusion.
@@ -77,14 +331,7 @@ D. returns under a permit for resettlement or permanent return and follows the p
 
 **Examiner trap:** Article 7 first excludes and then narrowly reopens a route; it does not grant automatic restoration.
 
-### Q5. Article 8 primarily covered
-
-A. persons of Indian origin ordinarily resident abroad who secured diplomatic or consular registration  
-B. all foreign spouses of Indian citizens  
-C. all persons born abroad after 2004  
-D. OCI cardholders seeking political rights  
-
-**Answer: A.**
+### 5 — **Correct: A.**
 
 - **A:** Correct: Article 8 was the commencement route for qualifying Indian-origin persons outside India.
 - **B:** Incorrect: foreign spouses may use a statutory Section 5 route subject to conditions.
@@ -93,14 +340,7 @@ D. OCI cardholders seeking political rights
 
 **Examiner trap:** Article 8 and OCI both concern the diaspora, but only the former is a commencement citizenship provision.
 
-### Q6. Which statement most accurately combines Articles 9, 10 and 11?
-
-A. Article 9 alone creates a permanent OCI code  
-B. Article 9 limits specified commencement claims; Article 10 continues status subject to law; Article 11 empowers Parliament  
-C. Article 10 makes citizenship immutable  
-D. Article 11 gives State legislatures exclusive citizenship power  
-
-**Answer: B.**
+### 6 — **Correct: B.**
 
 - **A:** Incorrect: OCI was created by later statutory amendments under Sections 7A-7D.
 - **B:** Correct: the three Articles move from disqualification to continuity and then continuing parliamentary competence.
@@ -109,14 +349,7 @@ D. Article 11 gives State legislatures exclusive citizenship power
 
 **Examiner trap:** The close-option error is turning Article 9 into the whole permanent citizenship regime.
 
-### Q7. India's single-citizenship design means that
-
-A. all residence classifications are unconstitutional  
-B. every State benefit must be identical  
-C. there is one Indian citizenship, while bounded regional protections may operate without State citizenship  
-D. OCI holders possess a second Indian citizenship  
-
-**Answer: C.**
+### 7 — **Correct: C.**
 
 - **A:** Incorrect: Articles 16(3), 19(5) and special provisions permit bounded residence or regional protections.
 - **B:** Incorrect: equal citizenship does not require identical fees, local cadres or protective rules in every circumstance.
@@ -125,14 +358,7 @@ D. OCI holders possess a second Indian citizenship
 
 **Examiner trap:** Single citizenship forbids separate State political membership, not every territorially differentiated rule.
 
-### Q8. Which distinction is legally sound?
-
-A. Citizenship and residence are synonyms  
-B. Domicile is a second State citizenship  
-C. Long residence automatically produces citizenship  
-D. Citizenship is membership, domicile is permanent legal home, and residence is factual presence  
-
-**Answer: D.**
+### 8 — **Correct: D.**
 
 - **A:** Incorrect: residence may be temporary or purpose-specific and does not itself create nationality.
 - **B:** Incorrect: *Pradeep Jain* explains one Indian domicile, despite colloquial 'State domicile' certificates.
@@ -141,14 +367,7 @@ D. Citizenship is membership, domicile is permanent legal home, and residence is
 
 **Examiner trap:** A local domicile certificate can support a residence rule without changing national citizenship.
 
-### Q9. A person born in India on 30 June 1987 is generally a citizen by birth, subject to Section 3(2), because
-
-A. birth occurred during the 26 January 1950-before-1 July 1987 period  
-B. either parent had to be a citizen  
-C. both parents had to be citizens  
-D. one parent had to be a citizen and the other not an illegal migrant  
-
-**Answer: A.**
+### 9 — **Correct: A.**
 
 - **A:** Correct: the first statutory period was broad birth-based citizenship, subject to diplomat and enemy-alien exceptions.
 - **B:** Incorrect: the either-parent requirement begins on 1 July 1987.
@@ -157,14 +376,7 @@ D. one parent had to be a citizen and the other not an illegal migrant
 
 **Examiner trap:** A one-day date shift can move the hypothetical into a different parental-status rule.
 
-### Q10. A person born in India on 2 July 1987, before 3 December 2004, ordinarily needs
-
-A. no parental connection  
-B. either parent to have been an Indian citizen at birth  
-C. both parents to be Indian citizens  
-D. consular registration within one year  
-
-**Answer: B.**
+### 10 — **Correct: B.**
 
 - **A:** Incorrect: the purely place-based first period had ended on 1 July 1987.
 - **B:** Correct: the middle period required citizenship of either parent at the time of birth.
@@ -173,14 +385,7 @@ D. consular registration within one year
 
 **Examiner trap:** The 1987-2004 middle period asks 'either parent', not 'both parents'.
 
-### Q11. For birth in India on or after 3 December 2004, which is sufficient, subject to Section 3(2)?
-
-A. Either parent is a citizen, whatever the other parent's status  
-B. Five years' later residence  
-C. Both parents are citizens, or one is a citizen and the other is not an illegal migrant  
-D. Registration by a district collector  
-
-**Answer: C.**
+### 11 — **Correct: C.**
 
 - **A:** Incorrect: the other parent's illegal-migrant status is material where only one parent is a citizen.
 - **B:** Incorrect: later residence does not cure failure of the parental rule at birth.
@@ -189,14 +394,7 @@ D. Registration by a district collector
 
 **Examiner trap:** Post-2004 birth questions require checking both parents, not merely identifying one citizen parent.
 
-### Q12. Section 3(2) denies citizenship by birth in India where
-
-A. a parent is an OCI cardholder  
-B. the family later leaves India  
-C. the child has two passports  
-D. a parent has diplomatic immunity and is not an Indian citizen, or an enemy-alien parent is in enemy-occupied territory  
-
-**Answer: D.**
+### 12 — **Correct: D.**
 
 - **A:** Incorrect: OCI parentage is not itself one of Section 3(2)'s two exclusions.
 - **B:** Incorrect: later migration does not retrospectively trigger the birth exceptions.
@@ -205,14 +403,7 @@ D. a parent has diplomatic immunity and is not an Indian citizen, or an enemy-al
 
 **Examiner trap:** Do not confuse the post-2004 illegal-migrant parental rule with Section 3(2)'s separate exceptions.
 
-### Q13. For a person born outside India before 10 December 1992, the ordinary descent rule looked to
-
-A. the father's citizenship  
-B. either parent's citizenship  
-C. the mother's citizenship alone  
-D. seven years' residence in India  
-
-**Answer: A.**
+### 13 — **Correct: A.**
 
 - **A:** Correct: the pre-10 December 1992 text used the paternal citizenship rule.
 - **B:** Incorrect: the either-parent rule applies from 10 December 1992.
@@ -221,14 +412,7 @@ D. seven years' residence in India
 
 **Examiner trap:** Apply the gender-neutral either-parent rule only from the statutory 10 December 1992 threshold.
 
-### Q14. From 3 December 2004, citizenship by descent additionally requires
-
-A. marriage to an Indian citizen  
-B. consular registration within one year or later permission, with prescribed declaration controls  
-C. five years as an OCI cardholder  
-D. birth in a former Indian territory  
-
-**Answer: B.**
+### 14 — **Correct: B.**
 
 - **A:** Incorrect: marriage supports a possible Section 5 registration route, not descent.
 - **B:** Correct: timely consular registration, or delayed registration with permission, and prescribed passport controls are central.
@@ -237,14 +421,7 @@ D. birth in a former Indian territory
 
 **Examiner trap:** After 3 December 2004, citizen parentage alone is not the whole descent answer.
 
-### Q15. For relevant Section 5 registration categories, the seven-year ordinary-residence formula generally means
-
-A. seven continuous years immediately before application  
-B. five of the preceding seven plus two immediate years  
-C. twelve months immediately before plus six years in the preceding eight  
-D. eleven of the preceding fourteen plus twelve immediate months  
-
-**Answer: C.**
+### 15 — **Correct: C.**
 
 - **A:** Incorrect: the Act uses a split calculation rather than seven uninterrupted immediate years.
 - **B:** Incorrect: this five-plus-two formula is not Section 5(1A)'s statutory calculation.
@@ -253,14 +430,7 @@ D. eleven of the preceding fourteen plus twelve immediate months
 
 **Examiner trap:** Registration and naturalisation use different residence arithmetic; swapping them is a classic close option.
 
-### Q16. A foreign spouse of an Indian citizen who satisfies the residence rule
-
-A. becomes a citizen automatically on marriage  
-B. becomes an OCI automatically  
-C. must be naturalised without discretion  
-D. has a Section 5 eligibility route but still needs application, oath and a statutory decision  
-
-**Answer: D.**
+### 16 — **Correct: D.**
 
 - **A:** Incorrect: marriage is an eligibility relationship, not citizenship by operation of marriage.
 - **B:** Incorrect: OCI spouse registration has its own conditions and is not automatic.
@@ -269,14 +439,7 @@ D. has a Section 5 eligibility route but still needs application, oath and a sta
 
 **Examiner trap:** Relationship creates a door to apply; it does not itself confer Indian nationality.
 
-### Q17. Under the general Third Schedule, naturalisation ordinarily requires
-
-A. twelve months immediately before application plus eleven aggregate years in the preceding fourteen  
-B. seven unbroken years immediately before application  
-C. five years in every case  
-D. only knowledge of an Eighth Schedule language  
-
-**Answer: A.**
+### 17 — **Correct: A.**
 
 - **A:** Correct: the two residence limbs operate together alongside the remaining qualifications.
 - **B:** Incorrect: seven-year arithmetic is associated with specified registration routes, not general naturalisation.
@@ -285,14 +448,7 @@ D. only knowledge of an Eighth Schedule language
 
 **Examiner trap:** Always state both naturalisation residence limbs; 'eleven years' alone is incomplete.
 
-### Q18. The distinguished-service proviso to Section 6 allows
-
-A. automatic citizenship for any award winner  
-B. the Central Government to waive all or any Third Schedule conditions for distinguished service in named fields  
-C. a State Government to waive Article 11  
-D. the Supreme Court to grant citizenship as a remedy  
-
-**Answer: B.**
+### 18 — **Correct: B.**
 
 - **A:** Incorrect: no award automatically establishes the statutory distinguished-service satisfaction.
 - **B:** Correct: the Central Government may waive conditions for service to science, philosophy, art, literature, world peace or human progress.
@@ -301,14 +457,7 @@ D. the Supreme Court to grant citizenship as a remedy
 
 **Examiner trap:** The waiver is discretionary and field-linked; it is not a freestanding honours quota.
 
-### Q19. Citizenship after incorporation of territory is principally determined by
-
-A. Article 5 domicile alone  
-B. automatic citizenship for every resident  
-C. a Central Government order under Section 7 specifying persons and date  
-D. an OCI notification under Section 7B  
-
-**Answer: C.**
+### 19 — **Correct: C.**
 
 - **A:** Incorrect: Article 5 was a commencement provision and is not the continuing incorporation mechanism.
 - **B:** Incorrect: Section 7 requires a specifying order rather than an undifferentiated automatic rule.
@@ -317,14 +466,7 @@ D. an OCI notification under Section 7B
 
 **Examiner trap:** Do not confuse Article 7 of the Constitution with Section 7 of the Citizenship Act.
 
-### Q20. A full-age citizen's registered declaration giving up citizenship is
-
-A. termination, with no effect on minors  
-B. deprivation for disaffection  
-C. an OCI cancellation  
-D. renunciation; a minor child also ceases but may resume within the statutory post-majority window  
-
-**Answer: D.**
+### 20 — **Correct: D.**
 
 - **A:** Incorrect: termination concerns voluntary acquisition of another country's citizenship.
 - **B:** Incorrect: deprivation is an involuntary government order available only through its statutory gates.
@@ -333,14 +475,7 @@ D. renunciation; a minor child also ceases but may resume within the statutory p
 
 **Examiner trap:** Renunciation is voluntary and declaration-based; do not label every loss 'termination'.
 
-### Q21. Termination under Section 9 is most directly triggered by
-
-A. voluntary acquisition of another country's citizenship  
-B. seven years' residence abroad  
-C. a two-year sentence within five years  
-D. failure to vote in two elections  
-
-**Answer: A.**
+### 21 — **Correct: A.**
 
 - **A:** Correct: voluntary foreign citizenship is the central statutory trigger, subject to prescribed determination rules.
 - **B:** Incorrect: prolonged residence abroad can be a deprivation ground for eligible categories, with exceptions.
@@ -349,14 +484,7 @@ D. failure to vote in two elections
 
 **Examiner trap:** Foreign citizenship triggers termination; overseas residence alone does not.
 
-### Q22. Which person is outside Section 10(1)'s opening deprivation category gate?
-
-A. A qualifying naturalised citizen  
-B. A citizen by birth  
-C. A qualifying registered citizen  
-D. A person citizen only by Article 5(c)  
-
-**Answer: B.**
+### 22 — **Correct: B.**
 
 - **A:** Incorrect: naturalised citizens are within the opening deprivation category.
 - **B:** Correct: citizenship by birth is outside Section 10(1)'s specified category gate.
@@ -365,14 +493,7 @@ D. A person citizen only by Article 5(c)
 
 **Examiner trap:** Test category before ground: even serious allegations do not make Section 10 universal.
 
-### Q23. A lawful deprivation order requires
-
-A. only an allegation of disloyalty  
-B. only Central Government satisfaction  
-C. eligible category, a listed ground, public-good satisfaction and the prescribed notice/inquiry safeguards  
-D. prior conviction in every case  
-
-**Answer: C.**
+### 23 — **Correct: C.**
 
 - **A:** Incorrect: disloyalty is one possible ground and still requires the remaining statutory controls.
 - **B:** Incorrect: public-good satisfaction cannot replace the category, ground and procedural requirements.
@@ -381,14 +502,7 @@ D. prior conviction in every case
 
 **Examiner trap:** Deprivation analysis is a four-gate sequence, not a one-word executive discretion.
 
-### Q24. Under Section 6A, qualifying Indian-origin persons who came to Assam before 1 January 1966 were
-
-A. excluded from citizenship for ten years  
-B. governed by the CAA 2014 cut-off  
-C. required to await NRC publication  
-D. deemed citizens from 1 January 1966, subject to the statutory conditions  
-
-**Answer: D.**
+### 24 — **Correct: D.**
 
 - **A:** Incorrect: the ten-year electoral exclusion applies to the detected 1966-before-1971 stream.
 - **B:** Incorrect: CAA's 31 December 2014 cut-off belongs to a different national statutory facilitation.
@@ -397,14 +511,7 @@ D. deemed citizens from 1 January 1966, subject to the statutory conditions
 
 **Examiner trap:** Pre-1966 and 1966-1971 entrants do not receive the same immediate electoral treatment.
 
-### Q25. A detected Section 6A entrant from 1 January 1966 but before 25 March 1971
-
-A. registers, receives most citizen rights and obligations, but remains off electoral rolls for ten years from detection  
-B. becomes a voter immediately  
-C. is automatically deported  
-D. is governed only by Article 6  
-
-**Answer: A.**
+### 25 — **Correct: A.**
 
 - **A:** Correct: Section 6A separates interim civil status from political enrolment for ten years.
 - **B:** Incorrect: the statute expressly delays electoral-roll inclusion for the middle stream.
@@ -413,14 +520,7 @@ D. is governed only by Article 6
 
 **Examiner trap:** The ten years run from detection, not from entry, the Assam Accord or registration application.
 
-### Q26. What is the controlling result of *In Re: Section 6A* (17 October 2024)?
-
-A. Section 6A was struck down retrospectively  
-B. A 4:1 majority upheld Section 6A while identifying serious implementation deficiencies  
-C. The CAA cut-off replaced the Assam cut-off  
-D. The Court created Assam citizenship  
-
-**Answer: B.**
+### 26 — **Correct: B.**
 
 - **A:** Incorrect: only the sole dissent favoured prospective invalidity, while protecting past grants.
 - **B:** Correct: validity and implementation were separated; the majority holding remains law.
@@ -429,14 +529,7 @@ D. The Court created Assam citizenship
 
 **Examiner trap:** Implementation criticism does not convert the majority judgment into invalidation.
 
-### Q27. Which classification is correct?
-
-A. NRI is a foreign national with an OCI card  
-B. PIO card remains a separate current citizenship  
-C. NRI is an Indian citizen abroad; OCI is a foreign national with a statutory card; PIO card was merged into OCI  
-D. OCI is a naturalised Indian citizen  
-
-**Answer: C.**
+### 27 — **Correct: C.**
 
 - **A:** Incorrect: an NRI retains Indian citizenship and an Indian passport.
 - **B:** Incorrect: the PIO card scheme was merged into the OCI framework in 2015.
@@ -445,14 +538,7 @@ D. OCI is a naturalised Indian citizen
 
 **Examiner trap:** NRI and OCI cannot be swapped: one is a citizen's residence description, the other a foreigner's card status.
 
-### Q28. Under the 4 March 2021 OCI notification, an OCI cardholder
-
-A. has the same rights as a citizen in every field  
-B. may vote after five years  
-C. may buy agricultural land as a citizen  
-D. has lifelong multiple-entry visa facilities but needs permission for specified activities and remains excluded from political membership  
-
-**Answer: D.**
+### 28 — **Correct: D.**
 
 - **A:** Incorrect: OCI parity exists only where the statute or notification grants it.
 - **B:** Incorrect: no duration of OCI registration creates voting rights.
@@ -461,14 +547,7 @@ D. has lifelong multiple-entry visa facilities but needs permission for specifie
 
 **Examiner trap:** A lifelong visa is immigration facilitation, not nationality or democratic authorship.
 
-### Q29. The 11 August 2025 Section 7D(da) notification permits OCI cancellation where the cardholder is
-
-A. sentenced to at least two years, or charge-sheeted for an offence punishable with at least seven years  
-B. merely questioned by police  
-C. resident abroad for seven years  
-D. late in reporting an address once  
-
-**Answer: A.**
+### 29 — **Correct: A.**
 
 - **A:** Correct: S.O. 3662(E) specifies the sentence and charge-sheet thresholds under clause (da).
 - **B:** Incorrect: investigation or questioning without the notified threshold is not the stated ground.
@@ -477,14 +556,7 @@ D. late in reporting an address once
 
 **Examiner trap:** The two-year figure concerns actual sentence; the seven-year figure concerns the offence's prescribed punishment at charge-sheet stage.
 
-### Q30. Which set exactly identifies the CAA Section 6B statutory class?
-
-A. All persecuted persons from neighbouring countries  
-B. Hindu, Sikh, Buddhist, Jain, Parsi and Christian persons from Afghanistan, Bangladesh or Pakistan entering on/before 31 December 2014 within the exemption framework  
-C. All non-Muslims from South Asia entering before 2020  
-D. Every migrant in Assam before 25 March 1971  
-
-**Answer: B.**
+### 30 — **Correct: B.**
 
 - **A:** Incorrect: the operative class is narrower by community, country, date and exemption.
 - **B:** Correct: all four elements are cumulative statutory controls.
@@ -493,14 +565,7 @@ D. Every migrant in Assam before 25 March 1971
 
 **Examiner trap:** CAA cannot be paraphrased as a general refugee law or an all-neighbour amnesty.
 
-### Q31. What does a successful Section 6B process do?
-
-A. Citizenship arises automatically on filing  
-B. Every pending immigration case ends on application  
-C. After statutory grant, citizenship is deemed from entry and specified pending proceedings abate; application alone is insufficient  
-D. It converts OCI into dual citizenship  
-
-**Answer: C.**
+### 31 — **Correct: C.**
 
 - **A:** Incorrect: filing initiates scrutiny and does not confer nationality.
 - **B:** Incorrect: abatement is tied to conferment of citizenship, not mere submission.
@@ -509,14 +574,7 @@ D. It converts OCI into dual citizenship
 
 **Examiner trap:** Deemed citizenship from entry operates only after grant; it is not automatic status on the cut-off date.
 
-### Q32. As officially verified through 7 September 2026, which statement is safest?
-
-A. CAA automatically conferred citizenship on every class member, removed the protected-area exclusions and ended the constitutional litigation  
-B. The 2025 immigration exemption replaced Section 6B, shifted its citizenship cut-off to 31 December 2024 and made one committee route nationwide  
-C. The 2024 judgment invalidated Section 6A, while the 2026 Collector notifications expanded CAA eligibility to migrants from every neighbouring country  
-D. CAA operates; protected Sixth Schedule/Inner Line areas remain excluded, the 19 August 2026 notifications change specified administration but not eligibility, and no final CAA merits judgment was located  
-
-**Answer: D.**
+### 32 — **Correct: D.**
 
 - **A:** Incorrect: application, document verification, oath, suitability and grant remain required; the protected-area exclusions and litigation continue.
 - **B:** Incorrect: the 2025 order concerns passport/visa liability, does not replace Section 6B and does not amend its 2014 citizenship cut-off.
@@ -524,6 +582,78 @@ D. CAA operates; protected Sixth Schedule/Inner Line areas remain excluded, the 
 - **D:** Correct: the enacted territorial exclusions remain, while G.S.R. 742(E) and S.O. 4583(E) change specified administration and transfer pending files rather than the statutory class.
 
 **Examiner trap:** Territorial exclusion, administrative route, immigration exemption, citizenship eligibility and constitutional validity are separate legal questions.
+
+### 33 — **Correct: A.**
+
+- **A:** Article 5 requires domicile in India plus one of birth, parental birth or five years’ residence.
+- **B:** Birth is an alternative limb after, not instead of, domicile.
+- **C:** Article 6 governs migration from Pakistan at commencement.
+- **D:** A later acquisition statute does not rewrite Article 5’s original test.
+
+**Examiner trap:** Read the common domicile gateway before choosing a disjunctive limb.
+
+### 34 — **Correct: B.**
+
+- **A:** The later birth cohort requires both citizen parents or one citizen and one parent not an illegal migrant.
+- **B:** The second branch expressly excludes an illegal-migrant other parent.
+- **C:** State domicile does not confer national citizenship by birth.
+- **D:** OCI does not confer Indian citizenship.
+
+**Examiner trap:** Do not use the 1987–2004 rule for later births.
+
+### 35 — **Correct: C.**
+
+- **A:** Descent depends on an Indian parent, not invariably citizenship by birth.
+- **B:** A person born in India uses the birth route instead.
+- **C:** The post-2004 descent route involves consular registration within one year, subject to exceptions.
+- **D:** Electoral registration does not establish citizenship by descent.
+
+**Examiner trap:** Descent and birth are distinct statutory routes.
+
+### 36 — **Correct: D.**
+
+- **A:** The three loss routes are not all criminal sanctions.
+- **B:** Renunciation is a declared act; termination follows foreign-citizenship acquisition.
+- **C:** Deprivation has a statutory eligibility gate; it does not reach all birth citizens.
+- **D:** Sections 8, 9 and 10 respectively govern renunciation, termination and deprivation.
+
+**Examiner trap:** A foreign passport question is not automatically a Section 10 deprivation case.
+
+### 37 — **Correct: A.**
+
+- **A:** Section 6A and Section 6B have distinct beneficiaries, geography and statutory mechanisms.
+- **B:** The later CAA did not generally replace Section 6A’s cut-off.
+- **C:** Section 6A does not grant automatic coverage to later entrants.
+- **D:** CAA applicants still must undergo the statutory process.
+
+**Examiner trap:** Do not fuse different statutory cut-offs.
+
+### 38 — **Correct: B.**
+
+- **A:** OCI status is statutory, not national citizenship.
+- **B:** Notified entry benefits can coexist with exclusion from political franchise.
+- **C:** OCI cardholders may receive visa and entry facilities subject to law.
+- **D:** Section 7B excludes the Article 16 public-employment entitlement.
+
+**Examiner trap:** Visa access and franchise have different legal sources.
+
+### 39 — **Correct: C.**
+
+- **A:** The two residence periods serve distinct time windows.
+- **B:** The immediate period is not dispensed with by earlier aggregate residence.
+- **C:** The statutory schedule couples twelve immediately preceding months with eleven years in the earlier fourteen-year window.
+- **D:** State domicile is not a substitute for statutory conditions.
+
+**Examiner trap:** Never add the two periods into one unqualified thirteen-year block.
+
+### 40 — **Correct: D.**
+
+- **A:** No final constitutional approval should be inferred from implementation.
+- **B:** The law includes country, community, date and statutory-exemption conditions.
+- **C:** Section 6A remains a distinct provision.
+- **D:** Section 6B provides a statutory pathway, not automatic citizenship by community.
+
+**Examiner trap:** Operative rules are not a final judicial holding.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -596,7 +726,7 @@ D. 2 and 3
 **Demand:** Separate notified OCI facilities from political exclusions and evaluate the design without calling it partial citizenship.
 
 **Model answer:**  
-**Thesis:** OCI is a statutory foreign-national card status under Sections 7A-7D, not Indian citizenship. **Evidence:** The 2021 MHA notification describes an OCI cardholder as a foreign national holding a foreign passport and grants a lifelong multiple-entry visa, limited parity in fees, NRI-equivalent access in specified education/property/professional fields and FRRO exemption. Section 7B withholds the vote, legislative membership, Presidency/Vice-Presidency, judgeship and Article 16 public-employment equality. **Analysis:** The design supports diaspora mobility, investment and cultural connection without creating competing political allegiance. The restrictions track the distinction between social-economic access and democratic authorship. **Qualification:** OCI is not secure against all change: rights depend on notification and registration can be cancelled under Section 7D with a hearing. **Conclusion:** OCI is calibrated external membership - deeper than an ordinary visa, but deliberately short of nationality and political membership.
+**Thesis:** OCI is a statutory foreign-national card status under Sections 7A-7D, not Indian citizenship. **Evidence:** The 2021 MHA notification describes an OCI cardholder as a foreign national holding a foreign passport and grants a lifelong multiple-entry visa, limited parity in fees, NRI-equivalent access in specified education/property/professional fields and FRRO exemption. Section 7B withholds the vote, legislative membership, Presidency/Vice-Presidency, judgeship and Article 16 public-employment equality. **Analysis:** The design supports diaspora mobility, investment and cultural connection without creating competing political allegiance. The restrictions track the distinction between social-economic access and democratic authorship. **Qualification:** OCI is not secure against all change: rights depend on notification and registration can be cancelled under Section 7D with a hearing. For example, a foreign-passport holder with a lifelong entry facility cannot claim Article 19 political freedoms or a citizen-only public post merely by retaining an OCI card. **Conclusion:** OCI is calibrated external membership - deeper than an ordinary visa, but deliberately short of nationality and political membership.
 
 
 **Why this earns marks:** It names the statutory sections and 2021 notification, links each right/restriction to a design rationale, and avoids the "half citizenship" cliché.
@@ -611,10 +741,10 @@ D. 2 and 3
 **Demand:** Explain the commencement settlement, Article 11 transition and continuing constitutional review.
 
 **Model answer:**  
-**Thesis:** Part II creates a founding membership settlement, while Articles 10-11 deliberately make citizenship a continuing statutory project. **Constitutional settlement:** Article 5 uses domicile plus birth, parentage or five-year residence. Article 6 regularises specified migrants from Pakistan, dividing them at 19 July 1948. Article 7 excludes post-1 March 1947 migrants to Pakistan but permits a resettlement/permanent-return route. Article 8 enables consular registration of persons of Indian origin abroad. Article 9 disqualifies voluntary foreign citizenship for the specified commencement routes. **Parliamentary continuation:** Article 10 continues status subject to law; Article 11 preserves Parliament's power over acquisition, termination and all citizenship matters. The Citizenship Act, 1955 consequently supplies five acquisition routes - birth, descent, registration, naturalisation and incorporation - and three loss routes - renunciation, termination and deprivation. **Analysis:** The arrangement gives flexibility to respond to changing migration, diaspora and territorial conditions, illustrated by Section 6A, OCI and CAA amendments. **Qualification:** Parliamentary breadth is not constitutional immunity. Article 14 review, Article 21 procedure and natural justice constrain classification, deprivation and cancellation. The 2024 Section 6A judgment demonstrates this duality: wide legislative competence, but searching constitutional review and implementation directions. **Conclusion:** The Constitution fixed the Republic's first citizenry; Parliament continuously defines the membership boundary, under constitutional supervision.
+**Thesis:** Part II creates a founding membership settlement, while Articles 10-11 deliberately make citizenship a continuing statutory project. **Constitutional settlement:** Article 5 uses domicile plus birth, parentage or five-year residence. Article 6 regularises specified migrants from Pakistan, dividing them at 19 July 1948. Article 7 excludes post-1 March 1947 migrants to Pakistan but permits a resettlement/permanent-return route. Article 8 enables consular registration of persons of Indian origin abroad. Article 9 disqualifies voluntary foreign citizenship for the specified commencement routes. **Parliamentary continuation:** Article 10 continues status subject to law; Article 11 preserves Parliament's power over acquisition, termination and all citizenship matters. The Citizenship Act, 1955 consequently supplies five acquisition routes - birth, descent, registration, naturalisation and incorporation - and three loss routes - renunciation, termination and deprivation. **Analysis:** The arrangement gives flexibility to respond to changing migration, diaspora and territorial conditions, illustrated by Section 6A, OCI and CAA amendments. **Qualification:** Parliamentary breadth is not constitutional immunity. Article 14 review, Article 21 procedure and natural justice constrain classification, deprivation and cancellation. The 2024 Section 6A judgment demonstrates this duality: wide legislative competence, but searching constitutional review and implementation directions. The 1955 law distinguishes membership acquired at birth from discretionary routes involving registration and naturalisation; its Section 7 incorporation mechanism also handles territorial change. These differences matter because a person’s entitlement, documentary proof and vulnerability to deprivation depend on the precise statutory route rather than the generic label “Indian origin”. **Conclusion:** The Constitution fixed the Republic's first citizenry; Parliament continuously defines the membership boundary, under constitutional supervision.
 
 
-**Why this earns marks:** It answers both halves, covers every Article without becoming a list, links Article 11 to named statutory institutions and uses current case law as analysis.
+**Why this earns marks:** The commencement-versus-continuity distinction answers the question's precise contrast: Articles 5-9 fix different founding routes, while Articles 10-11 permit Parliament to legislate later acquisition and loss under the 1955 Act. Section 6A and the 2024 judgment show that continuing legislative discretion remains subject to constitutional review; Article 11 is not an exemption from Articles 14 and 21.
 
 
 **How to improve:** Use a 5→11 constitutional ladder and name one statutory example under Article 11; avoid spending more than one-third of the answer merely listing Articles.
@@ -626,7 +756,7 @@ D. 2 and 3
 **Demand:** Separate the controlling validity holding from implementation failure and use the dissent only as a qualified critique.
 
 **Model answer:**  
-**Thesis:** The 4:1 judgment separates the validity of Assam's historical settlement from the adequacy of its enforcement. **Scheme:** Section 6A deems pre-1966 Indian-origin entrants citizens; subjects the 1966-before-25 March 1971 stream to detection, registration and a ten-year electoral exclusion; and protects no post-cut-off entrant. **Majority:** Chief Justice Chandrachud and Justice Surya Kant's three-judge opinion upheld Parliament's Article 11 competence and found Assam plus the 1971 date to be a reasonable classification. They rejected challenges under Articles 6, 7, 9, 14, 21, 29, 326 and 355; Article 29 protects the capacity to conserve culture, and destruction of that capacity was not proved. **Governance deficit:** Justice Surya Kant nevertheless found tribunals and statutory machinery inadequate, stressed detection/deportation of post-1971 entrants, effective use of complementary laws and continuing judicial monitoring. **Dissent:** Justice Pardiwala argued that the absence of temporal closure and State-centred detection burden made Section 6A(3) manifestly arbitrary with time; he would invalidate prospectively while preserving past grants. **Assessment:** The dissent identifies design risk, but the majority controls. Administrative failure cannot be casually converted into invalidity; nor can validity excuse indefinite non-enforcement. **Conclusion:** Section 6A survives as law, but legitimacy now depends on timely, rights-respecting and reviewable implementation.
+**Thesis:** The 4:1 judgment separates the validity of Assam's historical settlement from the adequacy of its enforcement. **Scheme:** Section 6A deems pre-1966 Indian-origin entrants citizens; subjects the 1966-before-25 March 1971 stream to detection, registration and a ten-year electoral exclusion; and protects no post-cut-off entrant. **Majority:** Chief Justice Chandrachud and Justice Surya Kant's three-judge opinion upheld Parliament's Article 11 competence and found Assam plus the 1971 date to be a reasonable classification. They rejected challenges under Articles 6, 7, 9, 14, 21, 29, 326 and 355; Article 29 protects the capacity to conserve culture, and destruction of that capacity was not proved. **Governance deficit:** Justice Surya Kant nevertheless found tribunals and statutory machinery inadequate, stressed detection/deportation of post-1971 entrants, effective use of complementary laws and continuing judicial monitoring. **Dissent:** Justice Pardiwala argued that the absence of temporal closure and State-centred detection burden made Section 6A(3) manifestly arbitrary with time; he would invalidate prospectively while preserving past grants. **Assessment:** The dissent identifies design risk, but the majority controls. Administrative failure cannot be casually converted into invalidity; nor can validity excuse indefinite non-enforcement. The protected middle stream retains citizenship-related rights subject to the statutory electoral exclusion, while the later stream has no Section 6A entitlement. Detection needs competent tribunals and fair procedure; an administrative backlog cannot simply be resolved by treating suspected migrants as conclusively foreign without adjudication. This is why the judgment’s implementation focus matters as much as its validity ruling. **Conclusion:** Section 6A survives as law, but legitimacy now depends on timely, rights-respecting and reviewable implementation.
 
 
 **Why this earns marks:** It gives the exact streams, majority holdings, sole dissent and a reasoned validity-versus-administration verdict.
@@ -656,7 +786,7 @@ D. 2 and 3
 **Demand:** Assess integration benefits and constitutionally authorised asymmetry without inventing State citizenship.
 
 **Model answer:**  
-**Thesis:** Single citizenship supplies equal national membership; differentiated protections can strengthen that membership when they are constitutionally bounded, but weaken it when residence becomes a proxy for exclusion. **Integrative core:** Unlike classical federations with State citizenship, India gives one citizenship, one national franchise structure and interstate mobility under Article 19. *Pradeep Jain* rejects a separate State domicile in the constitutional sense. This lowers internal membership barriers and supports fraternity and a national labour market. **Protective asymmetry:** Article 16(3) allows Parliament to prescribe residence conditions for specified public posts; Article 19(5) permits tribal-protection restrictions; Articles 371A-371J protect customary law, land, local cadres or regional opportunity. Section 6A is another historical asymmetry, but it creates Indian rather than Assam citizenship. **Benefits:** These devices can reduce domination fears, preserve indigenous institutions and make national membership credible in culturally vulnerable regions. **Risks:** Excessive local quotas, vague "domicile" barriers or political hostility to interstate migrants can hollow out equal citizenship and conflict with Articles 14, 16(2) and 19. The former Article 35A debate illustrates how entrenched local privilege can become constitutionally contested. **Test:** A valid safeguard should have constitutional/statutory authority, a legitimate vulnerability or governance objective, proportional means, temporal review and no claim to a separate nationality. **Conclusion:** Differentiation strengthens the Union when it secures participation within common citizenship; it weakens the Union when it converts residence into hereditary political closure.
+**Thesis:** Single citizenship supplies equal national membership; differentiated protections can strengthen that membership when they are constitutionally bounded, but weaken it when residence becomes a proxy for exclusion. **Integrative core:** Unlike classical federations with State citizenship, India gives one citizenship, one national franchise structure and interstate mobility under Article 19. *Pradeep Jain* rejects a separate State domicile in the constitutional sense. This lowers internal membership barriers and supports fraternity and a national labour market. **Protective asymmetry:** Article 16(3) allows Parliament to prescribe residence conditions for specified public posts; Article 19(5) permits tribal-protection restrictions; Articles 371A-371J protect customary law, land, local cadres or regional opportunity. Section 6A is another historical asymmetry, but it creates Indian rather than Assam citizenship. **Benefits:** These devices can reduce domination fears, preserve indigenous institutions and make national membership credible in culturally vulnerable regions. **Risks:** Excessive local quotas, vague "domicile" barriers or political hostility to interstate migrants can hollow out equal citizenship and conflict with Articles 14, 16(2) and 19. The former Article 35A debate illustrates how entrenched local privilege can become constitutionally contested. **Test:** A valid safeguard should have constitutional/statutory authority, a legitimate vulnerability or governance objective, proportional means, temporal review and no claim to a separate nationality. For example, a parliamentary residence rule for specified posts under Article 16(3) is categorically different from a State inventing a second citizenship. Courts should scrutinise whether the measure protects a demonstrable local vulnerability while keeping national membership intact. **Conclusion:** Differentiation strengthens the Union when it secures participation within common citizenship; it weakens the Union when it converts residence into hereditary political closure.
 
 
 **Why this earns marks:** It uses named Articles, *Pradeep Jain*, Section 6A and a proportionality-style test, while balancing integration against regional vulnerability.

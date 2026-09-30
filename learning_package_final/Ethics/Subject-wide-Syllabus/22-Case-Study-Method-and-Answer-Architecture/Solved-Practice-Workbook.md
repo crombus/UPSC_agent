@@ -12,827 +12,655 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+Choose the best response. All questions appear before the separately matched key. The last quarter comprises remedial applications.
+
 #### MCQ 1
 
-An officer assumes a contractor bribed a superior merely because they met privately. What initial discipline is missing? Which source-grounded ethical principle most precisely explains the case?
+An officer learns that a contractor visited the minister; the file contains no proof of payment. A viral post calls the contractor a bribe-giver. What is the best opening of a case-study answer?
 
-A. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-B. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-C. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-D. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-**Answer:** A
-**Explanation:** **Facts must be separated from assumptions** is the controlling principle. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Separate the verified meeting from an unproved corrupt exchange, preserve checkable records and specify what verification is needed before imputing motive.
+B. Present the viral claim as established fact to show decisiveness.
+C. Assume a private meeting exonerates both parties without checking the tender record.
+D. Ignore the meeting and immediately describe a trial outcome.
 
 ---
 
 #### MCQ 2
 
-A candidate labels disputed claims as unverified and states what must be checked before action. Which architectural element is being applied? Which source-grounded ethical principle most precisely explains the case?
+A road alignment affects landowners absent from a meeting, and the district officer has no delegated power to change the project overnight. Which initial mapping prevents a superficial answer?
 
-A. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-B. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-C. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-D. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-**Answer:** B
-**Explanation:** **Facts must be separated from assumptions** is the controlling principle. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Count only the vocal minister and the officer as stakeholders.
+B. List absent residents, future users and public trust; then map legal delegation, project timing and information limits before generating options.
+C. Promise immediate nationwide legislative change as the district remedy.
+D. Treat legal competence as an afterthought once the preferred option is chosen.
 
 ---
 
 #### MCQ 3
 
-A forest-diversion answer lists officials and applicants but ignores tribal livelihoods, biodiversity and future residents. What mapping defect appears? Which source-grounded ethical principle most precisely explains the case?
+A culvert may fail tonight; its repair exceeds the engineer's delegated spending power. A contractor proposes splitting invoices to avoid sanction. Which plan clears the threshold?
 
-A. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-B. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-C. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-D. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-**Answer:** C
-**Explanation:** **Stakeholder mapping includes silent parties** is the controlling principle. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Split the invoices because saving lives makes procedural illegality ethical.
+B. Do nothing until the permanent sanction arrives, even where authorised stabilisation is possible.
+C. Reject artificial splitting, document danger, request urgent competent sanction and use only lawfully authorised immediate stabilisation with a safety cordon.
+D. Approve full expenditure alone then backdate the competent authority's consent.
 
 ---
 
 #### MCQ 4
 
-A procurement answer includes patients, rival bidders and public trust although none speaks in the narrative. Which disciplined practice does this show? Which source-grounded ethical principle most precisely explains the case?
+A hospital committee chair finds her brother among bidders; management promises to trust her scoring. Which sequence deals with both actual and perceived conflict?
 
-A. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-B. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-C. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-D. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-**Answer:** D
-**Explanation:** **Stakeholder mapping includes silent parties** is the controlling principle. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Continue scoring after orally telling a colleague, since she believes she is impartial.
+B. Award the brother's bid if he is cheapest without documenting the relationship.
+C. Resign from all hospital duties, including unrelated care work.
+D. Disclose the link on file, recuse from this procurement, refer scoring to unconflicted decision-makers and use pre-announced criteria.
 
 ---
 
 #### MCQ 5
 
-A district officer promises immediate national legislation to resolve a local emergency. Which overlooked element makes the promise unusable? Which source-grounded ethical principle most precisely explains the case?
+During a flood, a commander considers leaving permanently after a family emergency. The deputy is competent but untested under current conditions. Which comparison meets the options element?
 
-A. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-B. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-C. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-D. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-**Answer:** A
-**Explanation:** **Hard constraints eliminate impossible choices early** is the controlling principle. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Compare remaining throughout, full departure, brief delegated absence with check-ins, and remote support; identify a concrete benefit and risk for each before selecting.
+B. Offer only 'stay or resign' because additional options suggest indecision.
+C. Choose immediate total absence without identifying who will command.
+D. List four options but give none a disadvantage and postpone any choice.
 
 ---
 
 #### MCQ 6
 
-A field engineer distinguishes emergency stabilisation within delegated power from a permanent repair requiring superior sanction. Which reasoning step is decisive? Which source-grounded ethical principle most precisely explains the case?
+In a scarce-bed crisis, a clinical team can maximise survivability yet risks disadvantaging a marginalised group. How should the six checks operate?
 
-A. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-B. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-C. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-D. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-**Answer:** B
-**Explanation:** **Hard constraints eliminate impossible choices early** is the controlling principle. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Choose the mathematically greatest throughput without checking equality or disability impacts.
+B. Eliminate unlawful discriminatory rules, then justify evidence-based triage while auditing disparate impact and providing review and compassionate care.
+C. Give every patient the same intervention irrespective of clinical urgency or benefit.
+D. Replace expert triage entirely with the administrator's personal sympathy.
 
 ---
 
 #### MCQ 7
 
-A response offers only obey or resign, although written dissent and lawful escalation remain available. Which architectural weakness does this reveal? Which source-grounded ethical principle most precisely explains the case?
+A relief commissioner proposes releasing all unverified casualty numbers immediately to appear transparent. Community leaders fear panic. Which response correctly weighs the values?
 
-A. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-B. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-C. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-D. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-**Answer:** C
-**Explanation:** **Options require realistic comparison** is the controlling principle. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Release every rumour as fact to maximise transparency.
+B. Withhold all information indefinitely until the entire investigation ends.
+C. Publish confirmed facts, identify what remains unverified, name a next-update time and provide a correction route without hiding material risk.
+D. Tell affected families privately that no risk exists despite a known hazard.
 
 ---
 
 #### MCQ 8
 
-A disaster answer compares immediate departure, total abstention, brief delegated absence and remote oversight before deciding. Which option discipline is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A district head faces grief after a parent's death while responsible for rescue operations. The same deputy must allocate aid fairly and brief the public. Which advanced method avoids a muddled answer?
 
-A. Stakeholder mapping must include direct participants and less visible parties such as future generations, absent beneficiaries, vulnerable groups and the institution whose long-term credibility may be altered by the decision.
-
-B. Legal authority, delegation limits, time, verified information, jurisdiction and actual capacity should be mapped before generating options; a proposal that breaches a binding constraint is not a realistic administrative choice.
-
-C. A disciplined case answer restates only verified facts, identifies uncertainty and avoids silently inventing motives, powers or resources; later options and judgments must remain traceable to what the scenario actually establishes.
-
-D. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course.
-
-**Answer:** D
-**Explanation:** **Options require realistic comparison** is the controlling principle. A strong answer develops at least three feasible courses, including a sequenced or hybrid response where useful, and states one concrete advantage and disadvantage before selecting the most defensible course. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the case solely as whether personal grief is sincere.
+B. Apply one undifferentiated compassion score to every sub-decision.
+C. Multiply minor details into ten unrelated ethical dilemmas with no integrated decision.
+D. Resolve personal leave versus command, needs-based aid allocation, and honest public communication separately, then integrate delegated oversight and review.
 
 ---
 
 #### MCQ 9
 
-An officer proposes unlawful data disclosure because it could speed an investigation. Which check defeats the proposal before benefits are weighed? Which source-grounded ethical principle most precisely explains the case?
+An AI firm proposes a rapid emissions transition; its board argues competitors may outpace it, reducing funds for sustainability. What does steelmanning require?
 
-A. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-B. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-C. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-D. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-**Answer:** A
-**Explanation:** **Legality operates as a hard threshold** is the controlling principle. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat competitiveness as a genuine constraint; retain verifiable, timed efficiency and clean-energy milestones that can be funded and independently checked.
+B. Dismiss every shareholder concern as inherently unethical.
+C. Abandon all emissions controls until competitors volunteer to act.
+D. Promise instant zero emissions without checking feasibility or impacts.
 
 ---
 
 #### MCQ 10
 
-A candidate first removes sanction evasion and then compares lawful urgent responses. Which evaluation sequence is correct? Which source-grounded ethical principle most precisely explains the case?
+A district administrator chooses short, delegated leave during disaster response. Which conclusion properly handles residual risk?
 
-A. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-B. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-C. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-D. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-**Answer:** B
-**Explanation:** **Legality operates as a hard threshold** is the controlling principle. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. State that delegation eliminates all uncertainty.
+B. Name possible deputy-command failure, schedule check-ins and a post-return decision audit with the district command as accountable owner.
+C. Conclude vaguely that the administration will remain vigilant.
+D. Transfer all liability to the deputy and discard the handover record.
 
 ---
 
 #### MCQ 11
 
-A committee chair evaluates her brother's bid because management trusts her judgment. Which threshold has been ignored? Which source-grounded ethical principle most precisely explains the case?
+A minister orally presses an engineer to ignore a safety defect. The engineer refuses in private but makes no record. What is the most defensible correction?
 
-A. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-B. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-C. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-D. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-**Answer:** C
-**Explanation:** **Conflict of interest is near-disqualifying** is the controlling principle. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Obey because there is no written order to contest.
+B. Make only a social-media accusation and stop all technical work.
+C. File-note the instruction and reasoned technical objection, seek written confirmation, escalate improper pressure and continue lawful protective work.
+D. Wait for an accident before documenting the defect.
 
 ---
 
 #### MCQ 12
 
-An official records a family link and stops influencing that tender while continuing other duties. Which principle is correctly applied? Which source-grounded ethical principle most precisely explains the case?
+A quality officer finds compromised safety data, but the direct manager ordered suppression. Which rung of the dissent ladder is defensible?
 
-A. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-B. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-C. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-D. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-**Answer:** D
-**Explanation:** **Conflict of interest is near-disqualifying** is the controlling principle. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Send the complaint only to the manager who is manipulating the data and then abandon it.
+B. Post all confidential client records publicly without trying safe channels.
+C. Resign before recording the test failures or alerting a regulator.
+D. Secure source records and go to the next genuinely independent internal or competent statutory channel, protecting identity; weigh public disclosure only as a last resort.
 
 ---
 
 #### MCQ 13
 
-Scarce beds could maximise lives saved yet disadvantage a vulnerable group. What must the answer do beyond listing both values? Which source-grounded ethical principle most precisely explains the case?
+A social-audit officer disagrees with a proposed diversion of welfare funds. Continued service can still halt the transaction through recorded dissent. What role should resignation play?
 
-A. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-B. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-C. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-D. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-**Answer:** A
-**Explanation:** **Weighted checks require an explicit priority** is the controlling principle. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Refuse unauthorised diversion, document and escalate it; evaluate resignation only if continued service would require personally executing unresolved illegality.
+B. Resign immediately without recording the order or protecting beneficiaries.
+C. Comply first, then resign after the funds have been diverted.
+D. Use resignation as a legal substitute for alerting the competent authority.
 
 ---
 
 #### MCQ 14
 
-A crisis response prioritises proportionality while adding honest communication and a grievance route. Which balancing method is shown? Which source-grounded ethical principle most precisely explains the case?
+A hospital uses a simple severity score for scarce staff, but language barriers and disability lead some patients to score inaccurately. Which triage safeguard is most relevant?
 
-A. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-B. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-C. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-D. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-**Answer:** B
-**Explanation:** **Weighted checks require an explicit priority** is the controlling principle. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat algorithmic rankings as ethically neutral and unreviewable.
+B. Use clinically validated need and likely benefit, record reasons, provide accessibility support and audit errors and group impact with a rapid appeal.
+C. Reserve all staff for the most vocal families to demonstrate compassion.
+D. Hide the allocation criteria to discourage challenges.
 
 ---
 
 #### MCQ 15
 
-A candidate cites compassion alone without testing duty, effects or character. Which evaluative layer remains incomplete? Which source-grounded ethical principle most precisely explains the case?
+A researcher faces invalid consent and missing unfavourable trial data. A colleague suggests using the generic procurement committee to decide whether to continue. Which adaptation is sound?
 
-A. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-B. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-C. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-D. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-**Answer:** C
-**Explanation:** **Moral theories test surviving options** is the controlling principle. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat hospital procurement scoring as equivalent to voluntary research consent.
+B. Repair the dataset quietly without notifying any ethics authority.
+C. Apply the common facts/options/constraints sequence but route consent, data integrity and enrolment decisions to a competent independent research ethics body.
+D. Enroll more subjects first and verify consent after the study ends.
 
 ---
 
 #### MCQ 16
 
-A response compares role duty, likely public harm and practical wisdom before choosing a hybrid course. Which combined method is being used? Which source-grounded ethical principle most precisely explains the case?
+A case answer spends most of its word limit retelling what the question already states and ends before choosing a course. What exam-time adjustment protects completeness?
 
-A. A genuine personal, family or financial interest requires disclosure and withdrawal from the specific decision; confidence in one's own honesty cannot cure the appearance or structural risk of biased authority.
-
-B. Public interest, proportionality, transparency and compassion may pull in different directions; the candidate should state which consideration is decisive in context and explain why the remaining concerns are mitigated rather than denied.
-
-C. An unlawful option is normally eliminated before ethical balancing, even when it appears compassionate or efficient; claimed benefits cannot convert absence of lawful authority into a permissible administrative response.
-
-D. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker.
-
-**Answer:** D
-**Explanation:** **Moral theories test surviving options** is the controlling principle. After threshold screening, deontology tests duties and rights, consequentialism compares foreseeable outcomes, and virtue ethics asks what integrity, courage, compassion and practical wisdom require from the decision-maker. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Add more narrative about the officer's childhood to display empathy.
+B. Remove options entirely and announce a moral slogan.
+C. List all six ethical theories in detail without applying any to the decision.
+D. Use compact labelled blocks for facts, stakeholders, constraints, options, evaluation, choice, implementation and residual-risk owner.
 
 ---
 
 #### MCQ 17
 
-A disaster answer treats personal grief as the only issue and ignores delegation fairness and public communication. Which technique was omitted? Which source-grounded ethical principle most precisely explains the case?
+A town officer must evacuate an unsafe building; the answer chooses evacuation but omits transport, communication and temporary shelter. Which gap remains?
 
-A. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-B. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-C. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-D. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-**Answer:** A
-**Explanation:** **Nested dilemmas should be solved separately** is the controlling principle. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assign a competent incident lead, safe transport and shelter, accessible notice and a review trigger for changed risk.
+B. Repeat the reason for evacuation more strongly but leave logistics unspecified.
+C. Announce the building has zero risk without verification.
+D. Hand all decisions to an unnamed future officer without a deadline.
 
 ---
 
 #### MCQ 18
 
-A candidate resolves command continuity, relief allocation and crisis communication separately, then integrates them. Which advanced discipline is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A data officer thinks illegal disclosure would help catch a fraudster, while a lawful targeted request would take longer. How should the options be ranked?
 
-A. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-B. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-C. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-D. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-**Answer:** B
-**Explanation:** **Nested dilemmas should be solved separately** is the controlling principle. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assign the illegal option only a small negative score and choose it for speed.
+B. Eliminate unauthorised disclosure as a legal threshold violation, then compare lawful urgent request, evidence preservation and proportionate escalation.
+C. Hide the disclosure from the data subjects because the ends are good.
+D. Reject all investigative cooperation even when a lawful route exists.
 
 ---
 
-#### MCQ 19
+#### MCQ 19 — remedial
 
-A sustainability proposal ignores the risk that costly commitments could destroy competitiveness. Which stress test is absent? Which source-grounded ethical principle most precisely explains the case?
+A district assigns aid to the politically influential village before evaluating injury, need or access. Which option survives proportionality and justice checks?
 
-A. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-B. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-C. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-D. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-**Answer:** C
-**Explanation:** **Steelmanning uses the strongest objection** is the controlling principle. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Allocate solely by petition volume to mirror public participation.
+B. Allocate equal resources to every village despite sharply different risk and population.
+C. Publish pre-fixed severity/vulnerability criteria, verify ground conditions, allocate first to highest need, record deviations and allow quick grievance review.
+D. Privately promise aid to the politician before the needs assessment.
 
 ---
 
-#### MCQ 20
+#### MCQ 20 — remedial
 
-A decision adds time-bound milestones after accepting that an unlimited transition could be commercially destructive. Which reasoning device is applied? Which source-grounded ethical principle most precisely explains the case?
+A public-health AI tool flags one neighbourhood for policing; the model uses opaque proxies for religion. An officer wants to arrest everyone flagged. What check takes priority?
 
-A. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-B. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-C. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-D. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-**Answer:** D
-**Explanation:** **Steelmanning uses the strongest objection** is the controlling principle. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Arrest everyone because statistical accuracy alone justifies detention.
+B. Publish every resident's personal data as a transparency measure.
+C. Keep the model secret and prohibit any challenge by affected persons.
+D. Reject group-based coercion without individual lawful grounds, audit discriminatory proxies and use independent review before any proportionate action.
 
 ---
 
-#### MCQ 21
+#### MCQ 21 — remedial
 
-An answer ends with justice will prevail and names no remaining danger. Which closing discipline is missing? Which source-grounded ethical principle most precisely explains the case?
+A ration database rejects a family's biometric match during an outage. Which response preserves the legal entitlement while investigating fraud?
 
-A. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-B. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-C. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-D. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-**Answer:** A
-**Explanation:** **Residual risk must name monitoring and accountability** is the controlling principle. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Provide authorised alternative verification and provisional delivery with an audit trail; reconcile records afterward rather than impose an automatic denial.
+B. Reject every family until the system returns, even when they need food urgently.
+C. Issue rations to anyone with no recorded eligibility check at all.
+D. Declare every failed biometric attempt proof of identity fraud.
 
 ---
 
-#### MCQ 22
+#### MCQ 22 — remedial
 
-A delegated disaster command is followed by scheduled check-ins and a review led by the returning officer. Which closing formula is present? Which source-grounded ethical principle most precisely explains the case?
+A district officer discovers a tout network in licensing and plans to shut all counters during inquiry. How can accountability and citizen service run in parallel?
 
-A. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-B. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-C. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-D. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-**Answer:** B
-**Explanation:** **Residual risk must name monitoring and accountability** is the controlling principle. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Close the office indefinitely so no one can pay a tout.
+B. Secure evidence and use discreet competent investigation; remove compromised access, publish queues/timelines and maintain lawful applications through screened staff.
+C. Allow suspected touts to continue handling files until conviction.
+D. Publish names of all staff before examining their roles.
 
 ---
 
-#### MCQ 23
+#### MCQ 23 — remedial
 
-A candidate lists safeguards but never asks what danger remains if one safeguard fails. Which conceptual lens would improve the close? Which source-grounded ethical principle most precisely explains the case?
+A border official must handle families fleeing conflict and suspected armed entrants. Which case-method move prevents both indiscriminate rejection and indiscriminate admission?
 
-A. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-B. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-C. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-D. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-**Answer:** C
-**Explanation:** **Residual risk can be expressed as a control formula** is the controlling principle. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every arrival as an armed threat and deny emergency care.
+B. Wave everyone through without identity or safety screening.
+C. Separate civilian protection, lawful security screening and individualised risk decisions, using competent authorities, interpreters and humane temporary arrangements.
+D. Publish unverified allegations about a specific ethnic group to deter crossings.
 
 ---
 
-#### MCQ 24
+#### MCQ 24 — remedial
 
-A response names inherent retaliation risk, protection controls and the remaining exposure after those controls. Which formula is being operationalised? Which source-grounded ethical principle most precisely explains the case?
+A biotech company says the conflict-of-interest, legality, compassion and transparency checks all have equal weight in every case. Which exam-ready correction is strongest?
 
-A. Before closing, the answer should present the most credible objection to its chosen course and either defeat it with reasons or modify implementation to absorb its valid concern without abandoning the decision.
-
-B. A mature conclusion identifies the specific harm that may survive the preferred course, names a review or monitoring mechanism and assigns responsibility to a person or institution rather than claiming complete resolution.
-
-C. When a scenario contains analytically distinct tensions, each should receive a compact independent evaluation before the answers are recombined; this prevents one emotional conflict from obscuring resource, transparency or legality questions.
-
-D. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic.
-
-**Answer:** D
-**Explanation:** **Residual risk can be expressed as a control formula** is the controlling principle. Residual risk equals inherent risk reduced by effective controls, while uncertainty and control failure remain visible; the expression disciplines mitigation but does not pretend ethical judgment can be reduced to arithmetic. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Ignore legality if enough people could benefit in the long run.
+B. Treat compassion as irrelevant whenever an official acts.
+C. Never distinguish between a hard disqualification and a competing policy value.
+D. Eliminate unlawful or unrecused choices first; then identify which of public interest, proportionality, transparency and compassion is decisive among remaining feasible options.
 
 ---
 
-#### MCQ 25
+### MATCHED ANSWER KEY — FOUR OPTION DIAGNOSTICS
 
-A procurement chair tells colleagues about her family link but continues scoring bids. Which steps remain incomplete? Which source-grounded ethical principle most precisely explains the case?
+#### MCQ 1 — A
 
-A. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-B. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-C. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-D. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-**Answer:** A
-**Explanation:** **Conflict resolution follows disclose, recuse, refer, publish** is the controlling principle. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The facts-versus-inferences ledger prevents fabrication without preventing inquiry.
+- **B:** A social-media accusation is not evidence of bribery.
+- **C:** A meeting does not establish innocence either.
+- **D:** Trial conclusions require a verified investigative foundation.
+- **Trap to avoid:** A social-media accusation is not evidence of bribery. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-A superior appoints an unconflicted committee that applies pre-announced criteria after the original chair withdraws. Which sequence is completed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-B. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-C. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-D. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-**Answer:** B
-**Explanation:** **Conflict resolution follows disclose, recuse, refer, publish** is the controlling principle. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Affected residents are not erased by absence.
+- **B:** Silent stakeholders and hard constraints determine which choices are feasible.
+- **C:** A district officer cannot legislate nationally.
+- **D:** Unlawful options should be removed before ethical weighting.
+- **Trap to avoid:** A district officer cannot legislate nationally. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-A minister pressures an engineer verbally and the engineer merely refuses in private. Which protective administrative response is absent? Which source-grounded ethical principle most precisely explains the case?
-
-A. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-B. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-C. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-D. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-**Answer:** C
-**Explanation:** **Improper oral pressure should be converted into writing** is the controlling principle. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A lifesaving objective does not itself legalise invoice manipulation.
+- **B:** The false binary sacrifices available protective measures.
+- **C:** Urgency supports prompt lawful interim action, not deliberate sanction evasion.
+- **D:** Backdating conceals lack of authority.
+- **Trap to avoid:** Backdating conceals lack of authority. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A professional records the instruction, technical risk and request for confirmation before escalating. Which method is correctly used? Which source-grounded ethical principle most precisely explains the case?
-
-A. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-B. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-C. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-D. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-**Answer:** D
-**Explanation:** **Improper oral pressure should be converted into writing** is the controlling principle. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Private self-assurance cannot repair an apparent conflict.
+- **B:** Even a good price does not cure hidden family influence.
+- **C:** Recusal should be specific and proportionate.
+- **D:** Disclosure without recusal leaves influence over the contested decision intact.
+- **Trap to avoid:** Private self-assurance cannot repair an apparent conflict. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-An employee immediately posts confidential allegations online without testing safe lawful channels. Which escalation discipline was bypassed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-B. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-C. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-D. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-**Answer:** A
-**Explanation:** **Ethical dissent climbs a proportionate ladder** is the controlling principle. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A feasible sequenced option can reconcile duties, but delegation still carries risk.
+- **B:** Binary framing overlooks delegated continuity.
+- **C:** No command transfer endangers relief.
+- **D:** Options without comparative costs are not an ethical evaluation.
+- **Trap to avoid:** Binary framing overlooks delegated continuity. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-A quality officer skips a compromised manager but reports to an independent regulator with preserved evidence. Which rung logic is followed? Which source-grounded ethical principle most precisely explains the case?
-
-A. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-B. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-C. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-D. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-**Answer:** B
-**Explanation:** **Ethical dissent climbs a proportionate ladder** is the controlling principle. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Unexamined efficiency can reproduce injustice.
+- **B:** Legality and nondiscrimination constrain the weighted public-interest and compassion judgment.
+- **C:** Identical treatment is not always equitable under scarcity.
+- **D:** Compassion does not remove clinical competence or transparent criteria.
+- **Trap to avoid:** Identical treatment is not always equitable under scarcity. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-An officer resigns before recording dissent although continued service could still block the wrongful act. Which evaluation error occurs? Which source-grounded ethical principle most precisely explains the case?
-
-A. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-B. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-C. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-D. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-**Answer:** C
-**Explanation:** **Resignation is an evaluated last resort** is the controlling principle. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Unverified claims can intensify panic and harm.
+- **B:** Extended silence can erode legitimacy.
+- **C:** Calibrated, accurate communication protects both trust and safety.
+- **D:** False reassurance violates candour and safety.
+- **Trap to avoid:** False reassurance violates candour and safety. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-An official reserves resignation for a point at which personal execution of an unresolved illegality becomes unavoidable. Which test is applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. An officer facing an improper oral direction should record its substance, seek written confirmation, state the professional objection and use the normal escalation route while continuing lawful duties unless action would itself be unsafe.
-
-B. Evidence-based dissent normally moves from competent internal reporting to an independent internal tier, then to authorised external channels and only finally to public disclosure when serious continuing harm and failed alternatives justify it.
-
-C. A conflicted decision-maker should disclose the connection in writing, recuse from that matter, refer it to an untainted authority and ensure objective criteria govern the eventual decision and its defensibility.
-
-D. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape.
-
-**Answer:** D
-**Explanation:** **Resignation is an evaluated last resort** is the controlling principle. Resignation becomes defensible only after lawful resistance and escalation are exhausted or unavailable, and when departure protects public interest better than remaining as a principled internal safeguard; it should not function as emotional escape. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Other affected stakeholders and duties remain.
+- **B:** Different legal and weighted checks control each subproblem.
+- **C:** Artificial decomposition consumes space and conceals the final choice.
+- **D:** Three genuinely distinct duties require proportionate nested-dilemma analysis.
+- **Trap to avoid:** Other affected stakeholders and duties remain. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-A hospital allocates staff through undocumented personal discretion during a surge. Which triage safeguards are missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-B. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-C. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-D. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-**Answer:** A
-**Explanation:** **Triage criteria should be published and reviewable** is the controlling principle. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A serious counterargument should reshape implementation without cancelling responsibility.
+- **B:** A strawman does not answer a real financing concern.
+- **C:** Competition does not erase foreseeable harm.
+- **D:** Unfunded absolutes are not executable.
+- **Trap to avoid:** A strawman does not answer a real financing concern. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-A relief authority publishes need and vulnerability criteria, logs decisions and revisits them daily. Which method is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-B. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-C. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-D. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-**Answer:** B
-**Explanation:** **Triage criteria should be published and reviewable** is the controlling principle. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Any delegation can fail.
+- **B:** Risk, monitoring mechanism and named owner complete the decision.
+- **C:** Generic reassurance is not a review mechanism.
+- **D:** Leadership retains responsibility for handover and oversight.
+- **Trap to avoid:** Generic reassurance is not a review mechanism. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A candidate calls a severity score ethically neutral although it disadvantages a patient group. Which analysis is missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-B. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-C. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-D. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-**Answer:** C
-**Explanation:** **Triage must acknowledge its value trade-off** is the controlling principle. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Oral pressure cannot authorise an unlawful decision.
+- **B:** A public accusation is not a substitute for protected reporting.
+- **C:** A contemporaneous record fixes responsibility and preserves independent professional judgment.
+- **D:** Delay amplifies foreseeable safety harm.
+- **Trap to avoid:** Delay amplifies foreseeable safety harm. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-A committee prioritises urgent survivability while auditing disparate impact on vulnerable patients. Which ethical balance is achieved? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-B. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-C. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-D. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-**Answer:** D
-**Explanation:** **Triage must acknowledge its value trade-off** is the controlling principle. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Known capture makes that route ineffective alone.
+- **B:** Mass publication can cause avoidable harm and legal exposure.
+- **C:** Unreported resignation does not protect users.
+- **D:** A compromised receiving rung may be bypassed without abandoning lawful evidence-based escalation.
+- **Trap to avoid:** Known capture makes that route ineffective alone. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-A candidate copies a public procurement remedy into a clinical-consent dispute without naming the ethics committee. Which adaptation error occurs? Which source-grounded ethical principle most precisely explains the case?
-
-A. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-B. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-C. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-D. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-**Answer:** A
-**Explanation:** **Domain adaptation preserves the architecture** is the controlling principle. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Resignation is a reasoned last resort, not a first response that abandons leverage.
+- **B:** Premature exit can leave the harmful decision untouched.
+- **C:** Knowing compliance creates harm resignation cannot undo.
+- **D:** Reporting obligations and continuity must be assessed separately.
+- **Trap to avoid:** Premature exit can leave the harmful decision untouched. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-A research case uses the common decision sequence but routes consent and data concerns to the competent ethics body. Which transfer skill is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-B. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-C. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-D. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-**Answer:** B
-**Explanation:** **Domain adaptation preserves the architecture** is the controlling principle. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** A score can embed bias.
+- **B:** Clinical evidence needs equity adjustment and review, not blind scoring.
+- **C:** Vocality is not medical urgency.
+- **D:** Opacity makes misclassification hard to contest.
+- **Trap to avoid:** Vocality is not medical urgency. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-A candidate spends most of the answer narrating facts and has no space for implementation. Which time management correction is needed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-B. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-C. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-D. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-**Answer:** C
-**Explanation:** **Time pressure changes depth, not sequence** is the controlling principle. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Purchase fairness does not validate participant consent.
+- **B:** Concealment undermines scientific integrity.
+- **C:** The method transfers across domains, but the competent specialist forum differs.
+- **D:** Consent cannot be manufactured retroactively for new enrolment.
+- **Trap to avoid:** Consent cannot be manufactured retroactively for new enrolment. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-A twenty-mark response uses short labelled blocks while retaining all eight elements. Which examination principle is followed? Which source-grounded ethical principle most precisely explains the case?
-
-A. A defensible allocation explains whether aggregate welfare, urgency, survivability, vulnerability or priority to the worst-off is being emphasised, then adds equity safeguards so the chosen metric does not become mechanically dehumanising.
-
-B. The same eight elements apply across administration, corporate governance, policing, research, health and environmental disputes, but legal authority, technical standards, affected stakeholders and competent institutions must be adapted to the domain.
-
-C. Scarce-resource allocation should use pre-announced, relevant and non-discriminatory criteria, record their actual application, provide an appropriate review route and revise them when resources or the emergency profile materially changes.
-
-D. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close.
-
-**Answer:** D
-**Explanation:** **Time pressure changes depth, not sequence** is the controlling principle. Under examination pressure, candidates should compress each architectural element rather than omit it: one-line facts and dilemma, a compact stakeholder-constraint map, three options, decisive checks, action steps and a residual-risk close. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Decorative history displaces analysis.
+- **B:** A slogan cannot assess rejected alternatives.
+- **C:** Theory names without case application are weak.
+- **D:** Efficient structure leaves space for an executable choice and safeguards.
+- **Trap to avoid:** Decorative history displaces analysis. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-An answer lists every value but refuses to choose among feasible options. Which decision-writing defect remains? Which source-grounded ethical principle most precisely explains the case?
-
-A. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-B. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-C. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-D. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-**Answer:** A
-**Explanation:** **Decision writing should identify the decisive reason** is the controlling principle. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The implementation element turns an ethical choice into an accountable operation.
+- **B:** A stronger thesis does not move vulnerable residents.
+- **C:** False reassurance undermines safety.
+- **D:** Passive delegation leaves continuity and accountability undefined.
+- **Trap to avoid:** A stronger thesis does not move vulnerable residents. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-A response selects lawful phased repair because urgency and proportionality control after sanction evasion is removed. Which clarity is demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-B. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-C. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-D. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-**Answer:** B
-**Explanation:** **Decision writing should identify the decisive reason** is the controlling principle. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Weighted utility cannot legalise an unauthorised release.
+- **B:** The legality floor eliminates unlawful shortcuts before weighted consequences.
+- **C:** Concealment compounds privacy and accountability failures.
+- **D:** Lawful channels can support investigation.
+- **Trap to avoid:** Concealment compounds privacy and accountability failures. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-A district officer chooses evacuation but never identifies transport, command or public messaging. Which element is incomplete? Which source-grounded ethical principle most precisely explains the case?
-
-A. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-B. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-C. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-D. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-**Answer:** C
-**Explanation:** **Implementation must assign actions and audiences** is the controlling principle. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** The loudest group need not be the most vulnerable.
+- **B:** Arithmetic equality can be inequitable.
+- **C:** Transparent need-based priorities answer public interest and distributive fairness.
+- **D:** Political preference is an improper decision criterion.
+- **Trap to avoid:** Political preference is an improper decision criterion. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-A decision names the deputy, written delegation, check-in schedule and public notice. Which implementation discipline is present? Which source-grounded ethical principle most precisely explains the case?
-
-A. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-B. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-C. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-D. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-**Answer:** D
-**Explanation:** **Implementation must assign actions and audiences** is the controlling principle. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Prediction is not individual criminal evidence.
+- **B:** Mass disclosure violates privacy and risks stigma.
+- **C:** Opaque unreviewable adverse decisions magnify bias.
+- **D:** Rights and lawful individual suspicion are threshold constraints on automation.
+- **Trap to avoid:** Prediction is not individual criminal evidence. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-An administrator repeats an unverified viral claim to appear transparent. Which communication mistake is made? Which source-grounded ethical principle most precisely explains the case?
-
-A. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-B. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-C. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-D. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-**Answer:** A
-**Explanation:** **Communication should be honest and calibrated** is the controlling principle. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Technology is an aid to lawful delivery, not an absolute gate to subsistence.
+- **B:** Outages should not erase entitlements.
+- **C:** No controls invites diversion and loses accountability.
+- **D:** A technical failure does not establish bad faith.
+- **Trap to avoid:** Outages should not erase entitlements. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-An official states what is known, what is being checked and when the next update will come. Which weighted balance is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-B. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-C. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-D. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-**Answer:** B
-**Explanation:** **Communication should be honest and calibrated** is the controlling principle. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Closure shifts the cost to entitled applicants.
+- **B:** Continuity is an ethical duty alongside evidence preservation and fair screening.
+- **C:** Business as usual permits continuing extraction.
+- **D:** Undifferentiated accusation injures innocent staff.
+- **Trap to avoid:** Business as usual permits continuing extraction. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-A candidate claims the chosen option permanently eliminates every risk. Which concluding flaw appears? Which source-grounded ethical principle most precisely explains the case?
-
-A. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-B. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-C. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-D. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-**Answer:** C
-**Explanation:** **A complete answer ends with qualified confidence** is the controlling principle. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Collective suspicion harms civilians.
+- **B:** No screening exposes both entrants and residents to danger.
+- **C:** Nested humanitarian and security duties can be handled without collective profiling.
+- **D:** Ethnic rumours cause stigma and disorder.
+- **Trap to avoid:** Ethnic rumours cause stigma and disorder. The preferred response meets the scenario's competing duties and evidence threshold.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-A response commits to a course while naming review triggers and accountability. Which mature conclusion is being used? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Anticipated benefit cannot automatically override binding law.
+- **B:** Dignity and vulnerability remain relevant.
+- **C:** Equal-weight lists evade the actual decision.
+- **D:** Hard thresholds constrain the field; weighted checks decide within it.
+- **Trap to avoid:** Anticipated benefit cannot automatically override binding law. The preferred response meets the scenario's competing duties and evidence threshold.
 
-A. Implementation should specify immediate and later actions, competent actors, documentation and communication to seniors, team members and affected people; a morally attractive choice without an execution route remains administratively incomplete.
-
-B. Crisis communication should disclose verified information, acknowledge uncertainty, prevent avoidable panic and commit to updates; neither premature certainty nor prolonged concealment protects trust when facts are still developing.
-
-C. A recommendation should name the selected option, the threshold or weighted consideration that controls the choice and the safeguard answering the strongest objection; merely saying balance all interests does not decide the case.
-
-D. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight.
-
-**Answer:** D
-**Explanation:** **A complete answer ends with qualified confidence** is the controlling principle. The final verdict should be decisive but not absolute: it should connect lawful action, public purpose, proportionate safeguards and review, showing confidence in the chosen route while accepting that implementation requires continuing ethical oversight. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
+
+All practice prompts appear here before their separate matched model solutions. Where a question is labelled neutral routing, consult its cited official paper for the full original case wording.
+
+### VERIFIED / ROUTED PYQ QUESTIONS
 
 #### Solved PYQ 1 — 2018 — 20 marks
 
 **Question:** Neutral routing of GS-IV Q8: a senior Ministry officer with privileged policy knowledge faces a Minister's request to alter a road alignment near the Minister's farm and an offer of land in the officer's wife's name. Analyse the conflict and response.
 
 **Source / ownership:** Neutral demand verified against books\more_previous_papers\GENERAL-STUDIES-PAPER-IV.pdf, page 7. OCR quality is uneven, so this entry does not claim verbatim reproduction.
+
+---
+
+#### Solved PYQ 2 — 2019 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a severe natural calamity, and some personnel want operations withdrawn. Evaluate the options and the public-service qualities required.
+
+**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 4. The official printed scenario controls all details.
+
+---
+
+#### Solved PYQ 3 — 2020 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-appropriate welfare funds toward favoured development projects and must evaluate ethical issues, available options and whether resignation is worthy.
+
+**Source / ownership:** Neutral demand verified against books\more_previous_papers\Gen_St_P4.pdf, pages 4-5. Wording is condensed; the local official paper remains authoritative.
+
+---
+
+#### Solved PYQ 4 — 2021 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for deploying scarce clinical and non-clinical staff during a COVID-19 surge and consider whether a private hospital changes the ethical justification.
+
+**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 8. The official scenario controls the precise subparts.
+
+---
+
+#### Solved PYQ 5 — 2022 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia linked with police, civil officials and political influence, while the media owner pressures the journalist to suppress the report.
+
+**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. This is a faithful routing, not a verbatim copy.
+
+---
+
+#### Solved PYQ 6 — 2023 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State Road Transport Corporation faces a corrupt, politically powerful Chairman and separate pressure from an Opposition party.
+
+**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official paper remains controlling.
+
+---
+
+#### Solved PYQ 7 — 2024 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a substantial increase in greenhouse-gas emissions, a net-zero commitment, innovation pressure and proposed environmental penalties.
+
+**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4. Numerical and contextual details should be taken from that official paper.
+
+---
+
+#### Solved PYQ 8 — 2024 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her financially stressed brother is a bidder, while management says it will support whatever decision she takes.
+
+**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 8. The entry is condensed to preserve neutral routing.
+
+---
+
+#### Solved PYQ 9 — 2024 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology trial despite deficiencies in informed consent and the exclusion of an unfavourable data point.
+
+**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 9. The official paper controls the full narrative and subparts.
+
+---
+
+#### Solved PYQ 10 — 2025 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating hill disaster when his mother dies far away and the crisis worsens, creating competing personal and public duties.
+
+**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 4-5. The canonical Basic treatment supplies the controlling case method.
+
+---
+
+#### Solved PYQ 11 — 2025 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment information sought by his real-estate businessman son, while a Minister also signals that a relative's company should receive favourable treatment.
+
+**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 7. The local official paper and canonical Basic treatment control details.
+
+---
+
+#### Solved PYQ 12 — 2025 — 20 marks
+
+**Question:** Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true cost exceeds delegated financial power, and a contractor proposes splitting the work to avoid superior sanction.
+
+**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 8-9. Exact monetary and procedural facts must be checked in the official paper.
+
+
+### ORIGINAL MAINS / CASE QUESTIONS
+
+#### Original Mains Practice 1 — 10 marks
+
+**Question:** Explain why hard constraints should be mapped before options are generated in a GS-IV case study. Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 2 — 10 marks
+
+**Question:** Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in about 150 words.
+
+---
+
+#### Original Mains Practice 3 — 15 marks
+
+**Question:** Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 4 — 15 marks
+
+**Question:** Evaluate the written-order response and ethical-dissent ladder as safeguards against improper administrative pressure. Answer in about 200 words.
+
+---
+
+#### Original Mains Practice 5 — 20 marks
+
+**Question:** A district faces severe water scarcity among households, hospitals, farmers and industry. Apply the complete case-study architecture to design an ethical allocation response. Answer in about 250 words.
+
+---
+
+#### Original Mains Practice 6 — 20 marks
+
+**Question:** A public-sector quality officer discovers that a safety-critical product failed tests, but senior management orders clearance to avoid losses and threatens retaliation. Decide. Answer in about 250 words.
+
+
+### MATCHED MODEL SOLUTIONS — PYQS
+
+#### Solved PYQ 1 — 2018 — 20 marks
 
 **Model solution**
 
@@ -848,30 +676,9 @@ Implementation: make a dated written note, seek written confirmation of any cont
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q8: a senior Ministry officer with privileged policy knowledge…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q8: a senior Ministry officer with privileged policy knowledge faces a Minister's request to alter a road alignment near the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\GENERAL-STUDIES-PAPER-IV.pdf, page 7. OCR quality is uneven, so this entry does not claim verbatim reproduction. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q8: a senior Ministry officer with privileged policy knowledge faces a Minister's request to alter a road alignment near the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q8: a senior Ministry officer with privileged policy knowledge…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 2 — 2019 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a severe natural calamity, and some personnel want operations withdrawn. Evaluate the options and the public-service qualities required.
-
-**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf, page 4. The official printed scenario controls all details.
 
 **Model solution**
 
@@ -887,30 +694,9 @@ Implementation: brief staff, create protected corridors, deploy medical and poli
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a severe natural calamity, and some personnel want…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 4. The official printed scenario controls all details. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a severe natural calamity, and some personnel want…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: a rescue officer's team is attacked by an angry crowd during a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 3 — 2020 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-appropriate welfare funds toward favoured development projects and must evaluate ethical issues, available options and whether resignation is worthy.
-
-**Source / ownership:** Neutral demand verified against books\more_previous_papers\Gen_St_P4.pdf, pages 4-5. Wording is condensed; the local official paper remains authoritative.
 
 **Model solution**
 
@@ -926,30 +712,9 @@ Implementation: attach beneficiary and fiscal impact, request a speaking directi
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-appropriate welfare funds toward favoured development projects…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\Gen St P4.pdf, pages 4-5. Wording is condensed; the local official paper remains authoritative. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-appropriate welfare funds toward favoured development projects…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar is pressed to re-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 4 — 2021 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for deploying scarce clinical and non-clinical staff during a COVID-19 surge and consider whether a private hospital changes the ethical justification.
-
-**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 8. The official scenario controls the precise subparts.
 
 **Model solution**
 
@@ -965,30 +730,9 @@ Implementation: publish the matrix, train deployment teams, provide protective e
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for deploying scarce clinical and non-clinical staff during a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 8. The official scenario controls the precise subparts. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for deploying scarce clinical and non-clinical staff during a…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: a hospital administrator must devise and justify criteria for…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 5 — 2022 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia linked with police, civil officials and political influence, while the media owner pressures the journalist to suppress the report.
-
-**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. This is a faithful routing, not a verbatim copy.
 
 **Model solution**
 
@@ -1004,30 +748,9 @@ Implementation: keep dated copies, separate source identity, inform an independe
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia linked with police, civil officials and political influence,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf, page 10. This is a faithful routing, not a verbatim copy. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia linked with police, civil officials and political influence,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q9: an investigative journalist uncovers a stone-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 6 — 2023 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State Road Transport Corporation faces a corrupt, politically powerful Chairman and separate pressure from an Opposition party.
-
-**Source / ownership:** Neutral demand verified against books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official paper remains controlling.
 
 **Model solution**
 
@@ -1043,30 +766,9 @@ Implementation: record oral pressures, seek written orders, decline political sh
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State Road Transport Corporation faces a corrupt, politically…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, pages 10-11. The official paper remains controlling. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State Road Transport Corporation faces a corrupt, politically…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: an honest IAS officer serving as Managing Director of a State…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 7 — 2024 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a substantial increase in greenhouse-gas emissions, a net-zero commitment, innovation pressure and proposed environmental penalties.
-
-**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 4. Numerical and contextual details should be taken from that official paper.
 
 **Model solution**
 
@@ -1082,30 +784,9 @@ Implementation: commission external assurance, publish assumptions, link executi
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a substantial increase in greenhouse-gas emissions, a net-zero…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 4. Numerical and contextual details should be taken from that official paper. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a substantial increase in greenhouse-gas emissions, a net-zero…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: ABC Incorporated must respond to rapid AI expansion, a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 8 — 2024 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her financially stressed brother is a bidder, while management says it will support whatever decision she takes.
-
-**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 8. The entry is condensed to preserve neutral routing.
 
 **Model solution**
 
@@ -1121,30 +802,9 @@ Implementation: record the relationship before final evaluation, cease all influ
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her financially stressed brother is a bidder, while management…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 8. The entry is condensed to preserve neutral routing. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her financially stressed brother is a bidder, while management…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: Sneha chairs a hospital procurement process in which her…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 9 — 2024 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology trial despite deficiencies in informed consent and the exclusion of an unfavourable data point.
-
-**Source / ownership:** Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf, page 9. The official paper controls the full narrative and subparts.
 
 **Model solution**
 
@@ -1160,30 +820,9 @@ Implementation: secure raw data, stop improper recruitment, arrange independent 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology trial despite deficiencies in informed consent and the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 9. The official paper controls the full narrative and subparts. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology trial despite deficiencies in informed consent and the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q12: Dr Srinivasan faces pressure to accelerate a biotechnology…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 10 — 2025 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating hill disaster when his mother dies far away and the crisis worsens, creating competing personal and public duties.
-
-**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 4-5. The canonical Basic treatment supplies the controlling case method.
 
 **Model solution**
 
@@ -1199,30 +838,9 @@ Implementation: obtain senior authorisation, issue written delegation, publish t
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating hill disaster when his mother dies far away and the crisis…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 4-5. The canonical Basic treatment supplies the controlling case method. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating hill disaster when his mother dies far away and the crisis…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: Deputy Commissioner Vijay leads relief after a devastating…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 11 — 2025 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment information sought by his real-estate businessman son, while a Minister also signals that a relative's company should receive favourable treatment.
-
-**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 7. The local official paper and canonical Basic treatment control details.
 
 **Model solution**
 
@@ -1238,30 +856,9 @@ Implementation: secure alignment data, restrict access, seek written confirmatio
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment information sought by his real-estate businessman son, while a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 7. The local official paper and canonical Basic treatment control details. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment information sought by his real-estate businessman son, while a…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q9: PWD Secretary Subash holds confidential road-alignment…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Solved PYQ 12 — 2025 — 20 marks
-
-**Question:** Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true cost exceeds delegated financial power, and a contractor proposes splitting the work to avoid superior sanction.
-
-**Source / ownership:** Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 8-9. Exact monetary and procedural facts must be checked in the official paper.
 
 **Model solution**
 
@@ -1277,30 +874,10 @@ Implementation: send the full estimate and safety report immediately, document s
 
 ---
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true cost exceeds delegated financial power, and a contractor…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Neutral demand verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, pages 8-9. Exact monetary and procedural facts must be checked in the official paper. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true cost exceeds delegated financial power, and a contractor…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: engineer Rajesh faces an urgent culvert repair whose true…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+### MATCHED MODEL SOLUTIONS — ORIGINAL MAINS / CASES
 
 #### Original Mains Practice 1 — 10 marks
-
-**Question:** Explain why hard constraints should be mapped before options are generated in a GS-IV case study. Answer in about 150 words.
 
 **Model solution**
 
@@ -1314,27 +891,9 @@ Constraint mapping also improves hybrid design. An engineer may not sanction an 
 
 ---
 
-**Demand decoding:** The directive **explain** requires an executable decision on “Explain why hard constraints should be mapped before options are generated in a GS-IV case…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain why hard constraints should be mapped before options are generated in a GS-IV case study. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain why hard constraints should be mapped before options are generated in a GS-IV case study. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Explain why hard constraints should be mapped before options are generated in a GS-IV case…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Original Mains Practice 2 — 10 marks
-
-**Question:** Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in about 150 words.
 
 **Model solution**
 
@@ -1348,27 +907,9 @@ The distinction produces a disciplined sequence: identify conflicts and legality
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Distinguish hard-threshold checks from weighted checks in ethical case analysis. Answer in…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Original Mains Practice 3 — 15 marks
-
-**Question:** Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer. Answer in about 200 words.
 
 **Model solution**
 
@@ -1384,27 +925,9 @@ The two devices serve different functions: decomposition clarifies what must be 
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer.…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Show how nested-dilemma decomposition and steelmanning improve a complex case-study answer.…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Original Mains Practice 4 — 15 marks
-
-**Question:** Evaluate the written-order response and ethical-dissent ladder as safeguards against improper administrative pressure. Answer in about 200 words.
 
 **Model solution**
 
@@ -1420,28 +943,9 @@ Together, written reasons and graduated escalation turn private conscience into 
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the written-order response and ethical-dissent ladder as safeguards against…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Evaluate the written-order response and ethical-dissent ladder as safeguards against improper administrative pressure. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Together, written reasons and graduated escalation turn private conscience into accountable institutional action without confusing courage with impulsive leakage or theatrical exit. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Evaluate the written-order response and ethical-dissent ladder as safeguards against improper administrative pressure. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Evaluate the written-order response and ethical-dissent ladder as safeguards against…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
+---
 
 #### Original Mains Practice 5 — 20 marks
-
-**Question:** A district faces severe water scarcity among households, hospitals, farmers and industry. Apply the complete case-study architecture to design an ethical allocation response. Answer in about 250 words.
 
 **Model solution**
 
@@ -1459,27 +963,9 @@ Residual risk equals severe inherent scarcity minus conservation, prioritisation
 
 ---
 
-**Demand decoding:** The directive **answer** requires an executable decision on “A district faces severe water scarcity among households, hospitals, farmers and industry.…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A district faces severe water scarcity among households, hospitals, farmers and industry. Apply the complete case-study architecture to design an…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A district faces severe water scarcity among households, hospitals, farmers and industry. Apply the complete case-study architecture to design an…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “A district faces severe water scarcity among households, hospitals, farmers and industry.…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
+---
 
 #### Original Mains Practice 6 — 20 marks
-
-**Question:** A public-sector quality officer discovers that a safety-critical product failed tests, but senior management orders clearance to avoid losses and threatens retaliation. Decide. Answer in about 250 words.
 
 **Model solution**
 
@@ -1494,21 +980,3 @@ Implementation: timestamp and secure samples and raw data, request written confi
 Residual risk includes retaliation, evidence tampering and supply shortage. The regulator or independent quality head should control access logs, witness the retest, monitor the officer's employment treatment and audit corrective action. Resignation becomes defensible only if all lawful channels fail and continued office would require personal falsification.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “A public-sector quality officer discovers that a safety-critical product failed tests, but…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A public-sector quality officer discovers that a safety-critical product failed tests, but senior management orders clearance to avoid losses and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A public-sector quality officer discovers that a safety-critical product failed tests, but senior management orders clearance to avoid losses and…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A public-sector quality officer discovers that a safety-critical product failed tests, but…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

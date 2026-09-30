@@ -1,1132 +1,597 @@
 ---
-title: "Defence Indigenisation: Atmanirbhar and Procurement — Solved Practice Workbook"
+title: "Defence Indigenisation and Procurement — Solved Practice Workbook"
 topic_key: science-and-technology-07
 ---
-# Defence Indigenisation: Atmanirbhar and Procurement — Solved Practice Workbook
+# Defence Indigenisation and Procurement — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+Sources: `upsc-ai-kit/knowledge/Science-and-Technology/basic/07_Defence-Indigenization-Atmanirbhar-and-Procurement.md` and advanced companion (official DAP, DDP and SRIJAN citations therein). Announced approvals and list items are not delivered systems.
 
-### Q1. Which statement correctly identifies R&D-procurement boundary?
+## Applied MCQs — questions only
 
-A. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-B. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-C. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
+### Q1. A DRDO prototype passes tests, but a service still needs equipment. What chain remains?
 
-**Answer: A.**
-**Explanation:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Procurement, scaled manufacture, delivery, induction and sustainment.
+B. Automatic fleet-wide deployment after the first test.
+C. Mandatory reclassification as a civilian product.
+D. No user validation once a lab test is passed.
 
-### Q2. Which option preserves the technical boundary of R&D-procurement boundary?
+### Q2. Which rulebook structures capital defence acquisition categories?
 
-A. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-B. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
+A. A corridor investment prospectus.
+B. Defence Acquisition Procedure 2020.
+C. SRIJAN dashboard alone.
+D. IGMDP research charter.
 
-**Answer: B.**
-**Explanation:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. Which category prioritises indigenous design, development and manufacture?
 
-### Q3. Which statement uses R&D-procurement boundary without changing its institution, unit or status?
+A. Buy (Global - Manufacture in India).
+B. Leasing without Indian design.
+C. Buy (Indian-IDDM).
+D. Buy (Global).
 
-A. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-B. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-C. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-D. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
+### Q4. A domestic vendor offers an Indian-manufactured product without establishing indigenous design. Which distinction matters?
 
-**Answer: C.**
-**Explanation:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Every Indian assembly automatically meets IDDM.
+B. Indian content is identical to Indian intellectual property.
+C. DAP excludes Indian-made products that are not IDDM.
+D. Buy (Indian) differs from Buy (Indian-IDDM).
 
-### Q4. Which option avoids the standard UPSC close-option trap about R&D-procurement boundary?
+### Q5. A foreign OEM transfers technology so an Indian vendor manufactures locally. Which route fits?
 
-A. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-B. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
+A. Buy & Make (Indian).
+B. Buy (Indian-IDDM) automatically.
+C. Pure Buy (Global) with no local manufacture.
+D. A defence corridor instead of an acquisition category.
 
-**Answer: D.**
-**Explanation:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. A global vendor proposes manufacture of part of its contracted equipment in India. Which route expresses this?
 
-### Q5. Which statement correctly identifies Design-manufacture-content boundary?
+A. A Services Positive Indigenisation List item itself.
+B. Buy (Global - Manufacture in India).
+C. Buy (Indian-IDDM) regardless of design.
+D. TDF research grant.
 
-A. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
+### Q7. Which is the correctly ordered DAP preference ladder discussed in the owner?
 
-**Answer: A.**
-**Explanation:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Indian-IDDM, Global, Indian, Leasing, Make.
+B. Indian, Indian-IDDM, Global, Global-Manufacture in India, Buy & Make.
+C. Indian-IDDM, Indian, Buy & Make (Indian), Global-Manufacture in India, Global.
+D. Global, Indian, Indian-IDDM, Buy & Make, Global-Manufacture in India.
 
-### Q6. Which option preserves the technical boundary of Design-manufacture-content boundary?
+### Q8. A platform has high Indian contract-value content but imported critical design. What has NOT been shown?
 
-A. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-B. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
+A. Some domestic value addition.
+B. Possible domestic assembly.
+C. An Indian contract-value share.
+D. Indigenous design ownership of critical technology.
 
-**Answer: B.**
-**Explanation:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. How should an indigenous-content percentage be interpreted?
 
-### Q7. Which statement uses Design-manufacture-content boundary without changing its institution, unit or status?
+A. A value-share threshold, not automatically ownership of IP, engines or seekers.
+B. Proof every subcomponent was invented in India.
+C. Proof imports have fallen to zero nationwide.
+D. A measure of only the number of suppliers.
 
-A. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-B. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-C. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-D. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
+### Q10. An MoD release announces DAC Acceptance of Necessity. What is its legal/procedural status?
 
-**Answer: C.**
-**Explanation:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Proof of service induction.
+B. In-principle requirement and category approval.
+C. A signed supply contract.
+D. Proof of delivery.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Design-manufacture-content boundary?
+### Q11. Which sequence respects procurement evidence?
 
-A. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-B. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-C. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-D. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
+A. AoN → induction → negotiations → tender.
+B. List notification → completed production without orders.
+C. Requirement → AoN → tender/evaluation → contract → delivery → induction.
+D. Contract → AoN → requirement → delivery.
 
-**Answer: D.**
-**Explanation:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. A service positive indigenisation list names a platform. What is its policy mechanism?
 
-### Q9. Which statement correctly identifies DAP-procedure boundary?
+A. Proof every component was already produced domestically.
+B. Transfer of all foreign patents to DRDO.
+C. An automatic contract with every listed vendor.
+D. A timeline-linked restriction on service imports and domestic-sourcing signal.
 
-A. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-D. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
+### Q13. How are DPSU positive indigenisation lists distinguished?
 
-**Answer: A.**
-**Explanation:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. They target subsystems, components and raw materials for DPSU domestic sourcing.
+B. They are lists of missile user trials alone.
+C. They give every foreign supplier an automatic licence.
+D. They replace all service platform lists.
 
-### Q10. Which option preserves the technical boundary of DAP-procedure boundary?
+### Q14. Which portal tracks DPSU indigenisation item progress?
 
-A. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-B. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
+A. NavIC service interface.
+B. SRIJAN.
+C. ITER-India.
+D. UIDAI authentication portal.
 
-**Answer: B.**
-**Explanation:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. A listed component shows EOI on the dashboard. What can be inferred?
 
-### Q11. Which statement uses DAP-procedure boundary without changing its institution, unit or status?
+A. Delivery and induction are complete.
+B. Every listed item shares the same deadline.
+C. Market engagement is underway, not necessarily completed domestic production.
+D. It is already proven indigenised at scale.
 
-A. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-B. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-C. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-D. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
+### Q16. A fifth DPSU positive list was notified in 2024. How should completion be checked?
 
-**Answer: C.**
-**Explanation:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Treat the notification date as completion of every item.
+B. Assume all imports ended immediately.
+C. Count only media reports of platform launches.
+D. Track each item and its notified deadline and actual indigenisation stage.
 
-### Q12. Which option avoids the standard UPSC close-option trap about DAP-procedure boundary?
+### Q17. Who anchors MoD defence-production and DPSU policy?
 
-A. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-B. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
+A. Department of Defence Production.
+B. DRDO's plasma-research institute.
+C. DAC alone as a factory.
+D. Armed services alone as industrial regulator.
 
-**Answer: D.**
-**Explanation:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. Who decides in-principle AoN for a capital acquisition?
 
-### Q13. Which statement correctly identifies Buy-ladder boundary?
+A. The SRIJAN portal automatically.
+B. Defence Acquisition Council chaired by the Raksha Mantri.
+C. A corridor trade association.
+D. Every individual DRDO laboratory.
 
-A. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-B. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
+### Q19. How should HAL, BEL and BDL be classed in this topic?
 
-**Answer: A.**
-**Explanation:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Purely private venture-capital funds.
+B. Branches of the Defence Acquisition Council.
+C. Defence public-sector production enterprises.
+D. All DRDO missile laboratories.
 
-### Q14. Which option preserves the technical boundary of Buy-ladder boundary?
+### Q20. What happened to the Ordnance Factory Board in 2021?
 
-A. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
+A. It remains unchanged as the current producer.
+B. It was renamed as DRDO's only laboratory.
+C. It became the DAC's procurement wing.
+D. It was corporatised into seven DPSUs.
 
-**Answer: B.**
-**Explanation:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. What is iDEX's institutional function?
 
-### Q15. Which statement uses Buy-ladder boundary without changing its institution, unit or status?
+A. Innovation access for startups and MSMEs through the DIO route.
+B. Automatically buying all awarded prototypes.
+C. A tariff on all defence exports.
+D. Operating ITER's superconducting machine.
 
-A. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-B. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-C. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-D. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
+### Q22. Which instrument is executed by DRDO to support industry-led defence technology development?
 
-**Answer: C.**
-**Explanation:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Defence Exim export licence.
+B. Technology Development Fund.
+C. Services positive import list.
+D. FDI automatic route itself.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Buy-ladder boundary?
+### Q23. What is ADITI in the owner material?
 
-A. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-B. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-C. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-D. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
+A. A defence artillery weapon designation.
+B. A completed DAC purchase category.
+C. A deep-tech innovation initiative within the iDEX ecosystem.
+D. A separate nuclear power corporation.
 
-**Answer: D.**
-**Explanation:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. Which states host the two named defence industrial corridors?
 
-### Q17. Which statement correctly identifies Indian-IDDM boundary?
+A. Rajasthan and Kerala.
+B. Odisha and Assam.
+C. Punjab and Himachal Pradesh.
+D. Uttar Pradesh and Tamil Nadu.
 
-A. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-B. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-C. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-D. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
+### Q25. What is a defence corridor rather than a DAP acquisition route?
 
-**Answer: A.**
-**Explanation:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A geographically clustered supply-chain, skills and investment ecosystem.
+B. An automatic signed weapon order.
+C. A category of ballistic missile.
+D. A mandatory offset on every foreign sale.
 
-### Q18. Which option preserves the technical boundary of Indian-IDDM boundary?
+### Q26. A local assembly plant uses imported engine and source-code-locked software. Which risk remains?
 
-A. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-B. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
+A. Proof of indigenous IP ownership.
+B. Shallow design control and imported critical subsystems despite domestic assembly.
+C. Complete domestic technological sovereignty.
+D. Elimination of lifecycle spares dependence.
 
-**Answer: B.**
-**Explanation:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. A private prime receives irregular orders. Why can localisation stall?
 
-### Q19. Which statement uses Indian-IDDM boundary without changing its institution, unit or status?
+A. Value-addition is unaffected by volume.
+B. Testing and qualification have no fixed costs.
+C. Suppliers cannot amortise tooling and certification investment without predictable scale.
+D. Prototype grants always ensure serial production.
 
-A. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-B. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
+### Q28. What role can DPSUs and private firms play together?
 
-**Answer: C.**
-**Explanation:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Only one sector may legally manufacture.
+B. Private firms must be DRDO labs.
+C. DPSUs are identical to import-approval portals.
+D. Anchor integration and specialised supplier innovation within a mixed industrial ecosystem.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Indian-IDDM boundary?
+### Q29. How should defence FDI above the automatic threshold be described in the verified owner?
 
-A. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
+A. Above 74% and up to 100% follows government approval, subject to the stated policy conditions.
+B. Every 100% investment is automatic.
+C. All foreign investment is banned.
+D. FDI itself proves all IP is transferred.
 
-**Answer: D.**
-**Explanation:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. Why does foreign investment not alone prove indigenisation?
 
-### Q21. Which statement correctly identifies Buy-Make boundary?
+A. An FDI approval constitutes induction.
+B. Domestic absorption, design control and genuine value addition require separate evidence.
+C. Capital inflow certifies every component's origin.
+D. Foreign shareholding is the same as an IC percentage.
 
-A. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-B. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
+### Q31. What change did DAP 2020 make to offsets for certain procurement routes?
 
-**Answer: A.**
-**Explanation:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Replaced all technology transfer with import bans.
+B. Turned offsets into military user trials.
+C. Removed offsets for government-to-government, inter-governmental and single-vendor cases.
+D. Made offsets universal for all purchases.
 
-### Q22. Which option preserves the technical boundary of Buy-Make boundary?
+### Q32. What does an offset pledge fail to prove without evidence?
 
-A. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-B. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
+A. That a foreign seller made an industrial commitment.
+B. That procurement rules can specify reciprocal obligations.
+C. That contract compliance can be measured.
+D. Actual absorption of useful critical technology by Indian industry.
 
-**Answer: B.**
-**Explanation:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. What does the Defence Exim portal primarily support?
 
-### Q23. Which statement uses Buy-Make boundary without changing its institution, unit or status?
+A. Defence export/import authorisation workflows.
+B. Rocket motor laboratory tests.
+C. Indigenous-content calculation alone.
+D. Automatic service induction.
 
-A. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-B. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-C. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+### Q34. A defence exporter announces a new overseas order. Which further evidence tests durable competitiveness?
 
-**Answer: C.**
-**Explanation:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Approval to export guarantees foreign acceptance of all variants.
+B. Quality, delivery, after-sales support, spares and market access.
+C. An export headline alone proves Indian design of every input.
+D. A one-off sale guarantees lifetime availability.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Buy-Make boundary?
+### Q35. A government reports record defence production without the period and source. What is appropriate?
 
-A. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-D. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
+A. Treat planned investment as delivered production.
+B. Project a fixed future annual growth rate.
+C. Request dated official figures and avoid inventing absolute amounts or import shares.
+D. Infer an exact reduction in all imports.
 
-**Answer: D.**
-**Explanation:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. Which combination best measures strategic industrial depth?
 
-### Q25. Which statement correctly identifies AoN-order boundary?
+A. Only length of an indigenisation list.
+B. Only a DAC AoN headline.
+C. Only the location of an industrial corridor.
+D. Domestic design and critical inputs, reliable manufacture, lifecycle maintenance and delivered orders.
 
-A. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-B. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
+## Separate answer key and option-by-option reasoning
 
-**Answer: A.**
-**Explanation:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 1 — A
 
-### Q26. Which option preserves the technical boundary of AoN-order boundary?
+- **A:** Correct — Procurement, scaled manufacture, delivery, induction and sustainment. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Automatic fleet-wide deployment after the first test. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Procurement, scaled manufacture, delivery, induction and sustainment.
+- **C:** Incorrect — Mandatory reclassification as a civilian product. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Procurement, scaled manufacture, delivery, induction and sustainment.
+- **D:** Incorrect — No user validation once a lab test is passed. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Procurement, scaled manufacture, delivery, induction and sustainment.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-B. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+### Solution 2 — B
 
-**Answer: B.**
-**Explanation:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — A corridor investment prospectus. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Procedure 2020.
+- **B:** Correct — Defence Acquisition Procedure 2020. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — SRIJAN dashboard alone. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Procedure 2020.
+- **D:** Incorrect — IGMDP research charter. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Procedure 2020.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q27. Which statement uses AoN-order boundary without changing its institution, unit or status?
+### Solution 3 — C
 
-A. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-B. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-C. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+- **A:** Incorrect — Buy (Global - Manufacture in India). That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian-IDDM).
+- **B:** Incorrect — Leasing without Indian design. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian-IDDM).
+- **C:** Correct — Buy (Indian-IDDM). This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Buy (Global). That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian-IDDM).
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 4 — D
 
-### Q28. Which option avoids the standard UPSC close-option trap about AoN-order boundary?
+- **A:** Incorrect — Every Indian assembly automatically meets IDDM. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian) differs from Buy (Indian-IDDM).
+- **B:** Incorrect — Indian content is identical to Indian intellectual property. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian) differs from Buy (Indian-IDDM).
+- **C:** Incorrect — DAP excludes Indian-made products that are not IDDM. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Indian) differs from Buy (Indian-IDDM).
+- **D:** Correct — Buy (Indian) differs from Buy (Indian-IDDM). This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-D. Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
+### Solution 5 — A
 
-**Answer: D.**
-**Explanation:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Buy & Make (Indian). This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Buy (Indian-IDDM) automatically. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy & Make (Indian).
+- **C:** Incorrect — Pure Buy (Global) with no local manufacture. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy & Make (Indian).
+- **D:** Incorrect — A defence corridor instead of an acquisition category. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy & Make (Indian).
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q29. Which statement correctly identifies PIL-family boundary?
+### Solution 6 — B
 
-A. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
+- **A:** Incorrect — A Services Positive Indigenisation List item itself. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Global - Manufacture in India).
+- **B:** Correct — Buy (Global - Manufacture in India). This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — Buy (Indian-IDDM) regardless of design. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Global - Manufacture in India).
+- **D:** Incorrect — TDF research grant. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Buy (Global - Manufacture in India).
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 7 — C
 
-### Q30. Which option preserves the technical boundary of PIL-family boundary?
+- **A:** Incorrect — Indian-IDDM, Global, Indian, Leasing, Make. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indian-IDDM, Indian, Buy & Make (Indian), Global-Manufacture in India, Global.
+- **B:** Incorrect — Indian, Indian-IDDM, Global, Global-Manufacture in India, Buy & Make. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indian-IDDM, Indian, Buy & Make (Indian), Global-Manufacture in India, Global.
+- **C:** Correct — Indian-IDDM, Indian, Buy & Make (Indian), Global-Manufacture in India, Global. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Global, Indian, Indian-IDDM, Buy & Make, Global-Manufacture in India. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indian-IDDM, Indian, Buy & Make (Indian), Global-Manufacture in India, Global.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-B. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-C. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-D. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
+### Solution 8 — D
 
-**Answer: B.**
-**Explanation:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Some domestic value addition. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indigenous design ownership of critical technology.
+- **B:** Incorrect — Possible domestic assembly. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indigenous design ownership of critical technology.
+- **C:** Incorrect — An Indian contract-value share. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Indigenous design ownership of critical technology.
+- **D:** Correct — Indigenous design ownership of critical technology. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q31. Which statement uses PIL-family boundary without changing its institution, unit or status?
+### Solution 9 — A
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-C. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+- **A:** Correct — A value-share threshold, not automatically ownership of IP, engines or seekers. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Proof every subcomponent was invented in India. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A value-share threshold, not automatically ownership of IP, engines or seekers.
+- **C:** Incorrect — Proof imports have fallen to zero nationwide. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A value-share threshold, not automatically ownership of IP, engines or seekers.
+- **D:** Incorrect — A measure of only the number of suppliers. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A value-share threshold, not automatically ownership of IP, engines or seekers.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 10 — B
 
-### Q32. Which option avoids the standard UPSC close-option trap about PIL-family boundary?
+- **A:** Incorrect — Proof of service induction. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: In-principle requirement and category approval.
+- **B:** Correct — In-principle requirement and category approval. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — A signed supply contract. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: In-principle requirement and category approval.
+- **D:** Incorrect — Proof of delivery. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: In-principle requirement and category approval.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-B. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-C. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-D. Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
+### Solution 11 — C
 
-**Answer: D.**
-**Explanation:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — AoN → induction → negotiations → tender. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Requirement → AoN → tender/evaluation → contract → delivery → induction.
+- **B:** Incorrect — List notification → completed production without orders. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Requirement → AoN → tender/evaluation → contract → delivery → induction.
+- **C:** Correct — Requirement → AoN → tender/evaluation → contract → delivery → induction. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Contract → AoN → requirement → delivery. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Requirement → AoN → tender/evaluation → contract → delivery → induction.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q33. Which statement correctly identifies Notification-achievement boundary?
+### Solution 12 — D
 
-A. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-D. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
+- **A:** Incorrect — Proof every component was already produced domestically. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A timeline-linked restriction on service imports and domestic-sourcing signal.
+- **B:** Incorrect — Transfer of all foreign patents to DRDO. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A timeline-linked restriction on service imports and domestic-sourcing signal.
+- **C:** Incorrect — An automatic contract with every listed vendor. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A timeline-linked restriction on service imports and domestic-sourcing signal.
+- **D:** Correct — A timeline-linked restriction on service imports and domestic-sourcing signal. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 13 — A
 
-### Q34. Which option preserves the technical boundary of Notification-achievement boundary?
+- **A:** Correct — They target subsystems, components and raw materials for DPSU domestic sourcing. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — They are lists of missile user trials alone. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: They target subsystems, components and raw materials for DPSU domestic sourcing.
+- **C:** Incorrect — They give every foreign supplier an automatic licence. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: They target subsystems, components and raw materials for DPSU domestic sourcing.
+- **D:** Incorrect — They replace all service platform lists. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: They target subsystems, components and raw materials for DPSU domestic sourcing.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-C. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-D. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
+### Solution 14 — B
 
-**Answer: B.**
-**Explanation:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — NavIC service interface. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: SRIJAN.
+- **B:** Correct — SRIJAN. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — ITER-India. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: SRIJAN.
+- **D:** Incorrect — UIDAI authentication portal. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: SRIJAN.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q35. Which statement uses Notification-achievement boundary without changing its institution, unit or status?
+### Solution 15 — C
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-C. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
+- **A:** Incorrect — Delivery and induction are complete. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Market engagement is underway, not necessarily completed domestic production.
+- **B:** Incorrect — Every listed item shares the same deadline. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Market engagement is underway, not necessarily completed domestic production.
+- **C:** Correct — Market engagement is underway, not necessarily completed domestic production. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — It is already proven indigenised at scale. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Market engagement is underway, not necessarily completed domestic production.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 16 — D
 
-### Q36. Which option avoids the standard UPSC close-option trap about Notification-achievement boundary?
+- **A:** Incorrect — Treat the notification date as completion of every item. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Track each item and its notified deadline and actual indigenisation stage.
+- **B:** Incorrect — Assume all imports ended immediately. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Track each item and its notified deadline and actual indigenisation stage.
+- **C:** Incorrect — Count only media reports of platform launches. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Track each item and its notified deadline and actual indigenisation stage.
+- **D:** Correct — Track each item and its notified deadline and actual indigenisation stage. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
+### Solution 17 — A
 
-**Answer: D.**
-**Explanation:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Department of Defence Production. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — DRDO's plasma-research institute. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Department of Defence Production.
+- **C:** Incorrect — DAC alone as a factory. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Department of Defence Production.
+- **D:** Incorrect — Armed services alone as industrial regulator. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Department of Defence Production.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q37. Which statement correctly identifies SRIJAN-stage boundary?
+### Solution 18 — B
 
-A. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-B. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-C. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+- **A:** Incorrect — The SRIJAN portal automatically. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Council chaired by the Raksha Mantri.
+- **B:** Correct — Defence Acquisition Council chaired by the Raksha Mantri. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — A corridor trade association. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Council chaired by the Raksha Mantri.
+- **D:** Incorrect — Every individual DRDO laboratory. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence Acquisition Council chaired by the Raksha Mantri.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 19 — C
 
-### Q38. Which option preserves the technical boundary of SRIJAN-stage boundary?
+- **A:** Incorrect — Purely private venture-capital funds. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence public-sector production enterprises.
+- **B:** Incorrect — Branches of the Defence Acquisition Council. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence public-sector production enterprises.
+- **C:** Correct — Defence public-sector production enterprises. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — All DRDO missile laboratories. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence public-sector production enterprises.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-B. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-C. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-D. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
+### Solution 20 — D
 
-**Answer: B.**
-**Explanation:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — It remains unchanged as the current producer. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: It was corporatised into seven DPSUs.
+- **B:** Incorrect — It was renamed as DRDO's only laboratory. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: It was corporatised into seven DPSUs.
+- **C:** Incorrect — It became the DAC's procurement wing. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: It was corporatised into seven DPSUs.
+- **D:** Correct — It was corporatised into seven DPSUs. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q39. Which statement uses SRIJAN-stage boundary without changing its institution, unit or status?
+### Solution 21 — A
 
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-C. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
+- **A:** Correct — Innovation access for startups and MSMEs through the DIO route. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Automatically buying all awarded prototypes. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Innovation access for startups and MSMEs through the DIO route.
+- **C:** Incorrect — A tariff on all defence exports. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Innovation access for startups and MSMEs through the DIO route.
+- **D:** Incorrect — Operating ITER's superconducting machine. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Innovation access for startups and MSMEs through the DIO route.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 22 — B
 
-### Q40. Which option avoids the standard UPSC close-option trap about SRIJAN-stage boundary?
+- **A:** Incorrect — Defence Exim export licence. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Technology Development Fund.
+- **B:** Correct — Technology Development Fund. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — Services positive import list. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Technology Development Fund.
+- **D:** Incorrect — FDI automatic route itself. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Technology Development Fund.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-C. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-D. SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
+### Solution 23 — C
 
-**Answer: D.**
-**Explanation:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — A defence artillery weapon designation. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A deep-tech innovation initiative within the iDEX ecosystem.
+- **B:** Incorrect — A completed DAC purchase category. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A deep-tech innovation initiative within the iDEX ecosystem.
+- **C:** Correct — A deep-tech innovation initiative within the iDEX ecosystem. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — A separate nuclear power corporation. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A deep-tech innovation initiative within the iDEX ecosystem.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q41. Which statement correctly identifies DPSU-private boundary?
+### Solution 24 — D
 
-A. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-B. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-C. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
+- **A:** Incorrect — Rajasthan and Kerala. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Uttar Pradesh and Tamil Nadu.
+- **B:** Incorrect — Odisha and Assam. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Uttar Pradesh and Tamil Nadu.
+- **C:** Incorrect — Punjab and Himachal Pradesh. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Uttar Pradesh and Tamil Nadu.
+- **D:** Correct — Uttar Pradesh and Tamil Nadu. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 25 — A
 
-### Q42. Which option preserves the technical boundary of DPSU-private boundary?
+- **A:** Correct — A geographically clustered supply-chain, skills and investment ecosystem. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — An automatic signed weapon order. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A geographically clustered supply-chain, skills and investment ecosystem.
+- **C:** Incorrect — A category of ballistic missile. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A geographically clustered supply-chain, skills and investment ecosystem.
+- **D:** Incorrect — A mandatory offset on every foreign sale. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: A geographically clustered supply-chain, skills and investment ecosystem.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-B. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
+### Solution 26 — B
 
-**Answer: B.**
-**Explanation:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Proof of indigenous IP ownership. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Shallow design control and imported critical subsystems despite domestic assembly.
+- **B:** Correct — Shallow design control and imported critical subsystems despite domestic assembly. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — Complete domestic technological sovereignty. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Shallow design control and imported critical subsystems despite domestic assembly.
+- **D:** Incorrect — Elimination of lifecycle spares dependence. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Shallow design control and imported critical subsystems despite domestic assembly.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q43. Which statement uses DPSU-private boundary without changing its institution, unit or status?
+### Solution 27 — C
 
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-C. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
+- **A:** Incorrect — Value-addition is unaffected by volume. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Suppliers cannot amortise tooling and certification investment without predictable scale.
+- **B:** Incorrect — Testing and qualification have no fixed costs. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Suppliers cannot amortise tooling and certification investment without predictable scale.
+- **C:** Correct — Suppliers cannot amortise tooling and certification investment without predictable scale. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Prototype grants always ensure serial production. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Suppliers cannot amortise tooling and certification investment without predictable scale.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 28 — D
 
-### Q44. Which option avoids the standard UPSC close-option trap about DPSU-private boundary?
+- **A:** Incorrect — Only one sector may legally manufacture. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Anchor integration and specialised supplier innovation within a mixed industrial ecosystem.
+- **B:** Incorrect — Private firms must be DRDO labs. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Anchor integration and specialised supplier innovation within a mixed industrial ecosystem.
+- **C:** Incorrect — DPSUs are identical to import-approval portals. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Anchor integration and specialised supplier innovation within a mixed industrial ecosystem.
+- **D:** Correct — Anchor integration and specialised supplier innovation within a mixed industrial ecosystem. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-B. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-C. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-D. DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
+### Solution 29 — A
 
-**Answer: D.**
-**Explanation:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Above 74% and up to 100% follows government approval, subject to the stated policy conditions. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Every 100% investment is automatic. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Above 74% and up to 100% follows government approval, subject to the stated policy conditions.
+- **C:** Incorrect — All foreign investment is banned. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Above 74% and up to 100% follows government approval, subject to the stated policy conditions.
+- **D:** Incorrect — FDI itself proves all IP is transferred. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Above 74% and up to 100% follows government approval, subject to the stated policy conditions.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q45. Which statement correctly identifies OFB-corporatisation boundary?
+### Solution 30 — B
 
-A. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-B. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
+- **A:** Incorrect — An FDI approval constitutes induction. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic absorption, design control and genuine value addition require separate evidence.
+- **B:** Correct — Domestic absorption, design control and genuine value addition require separate evidence. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — Capital inflow certifies every component's origin. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic absorption, design control and genuine value addition require separate evidence.
+- **D:** Incorrect — Foreign shareholding is the same as an IC percentage. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic absorption, design control and genuine value addition require separate evidence.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 31 — C
 
-### Q46. Which option preserves the technical boundary of OFB-corporatisation boundary?
+- **A:** Incorrect — Replaced all technology transfer with import bans. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Removed offsets for government-to-government, inter-governmental and single-vendor cases.
+- **B:** Incorrect — Turned offsets into military user trials. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Removed offsets for government-to-government, inter-governmental and single-vendor cases.
+- **C:** Correct — Removed offsets for government-to-government, inter-governmental and single-vendor cases. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Made offsets universal for all purchases. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Removed offsets for government-to-government, inter-governmental and single-vendor cases.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-C. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
+### Solution 32 — D
 
-**Answer: B.**
-**Explanation:** The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — That a foreign seller made an industrial commitment. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Actual absorption of useful critical technology by Indian industry.
+- **B:** Incorrect — That procurement rules can specify reciprocal obligations. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Actual absorption of useful critical technology by Indian industry.
+- **C:** Incorrect — That contract compliance can be measured. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Actual absorption of useful critical technology by Indian industry.
+- **D:** Correct — Actual absorption of useful critical technology by Indian industry. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q47. Which statement uses OFB-corporatisation boundary without changing its institution, unit or status?
+### Solution 33 — A
 
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-C. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
+- **A:** Correct — Defence export/import authorisation workflows. This keeps the policy instrument and evidenced stage matched to the question.
+- **B:** Incorrect — Rocket motor laboratory tests. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence export/import authorisation workflows.
+- **C:** Incorrect — Indigenous-content calculation alone. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence export/import authorisation workflows.
+- **D:** Incorrect — Automatic service induction. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Defence export/import authorisation workflows.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: C.**
-**Explanation:** The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 34 — B
 
-### Q48. Which option avoids the standard UPSC close-option trap about OFB-corporatisation boundary?
+- **A:** Incorrect — Approval to export guarantees foreign acceptance of all variants. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Quality, delivery, after-sales support, spares and market access.
+- **B:** Correct — Quality, delivery, after-sales support, spares and market access. This keeps the policy instrument and evidenced stage matched to the question.
+- **C:** Incorrect — An export headline alone proves Indian design of every input. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Quality, delivery, after-sales support, spares and market access.
+- **D:** Incorrect — A one-off sale guarantees lifetime availability. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Quality, delivery, after-sales support, spares and market access.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-A. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-B. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-C. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-D. The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution.
+### Solution 35 — C
 
-**Answer: D.**
-**Explanation:** The Ordnance Factory Board was corporatised in 2021 into seven DPSUs; organisational restructuring changes accountability architecture but does not by itself prove higher productivity, quality or order execution. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Treat planned investment as delivered production. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Request dated official figures and avoid inventing absolute amounts or import shares.
+- **B:** Incorrect — Project a fixed future annual growth rate. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Request dated official figures and avoid inventing absolute amounts or import shares.
+- **C:** Correct — Request dated official figures and avoid inventing absolute amounts or import shares. This keeps the policy instrument and evidenced stage matched to the question.
+- **D:** Incorrect — Infer an exact reduction in all imports. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Request dated official figures and avoid inventing absolute amounts or import shares.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-### Q49. Which statement correctly identifies iDEX-TDF boundary?
+### Solution 36 — D
 
-A. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-B. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
+- **A:** Incorrect — Only length of an indigenisation list. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic design and critical inputs, reliable manufacture, lifecycle maintenance and delivered orders.
+- **B:** Incorrect — Only a DAC AoN headline. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic design and critical inputs, reliable manufacture, lifecycle maintenance and delivered orders.
+- **C:** Incorrect — Only the location of an industrial corridor. That assertion conflates the named policy instrument with a different agency, category or delivery status; contrast: Domestic design and critical inputs, reliable manufacture, lifecycle maintenance and delivered orders.
+- **D:** Correct — Domestic design and critical inputs, reliable manufacture, lifecycle maintenance and delivered orders. This keeps the policy instrument and evidenced stage matched to the question.
+**Trap:** Indigenous contract value, Indian assembly, IP ownership and actual delivery are distinct tests.
 
-**Answer: A.**
-**Explanation:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+## Routed PYQ demand solutions — concept-bound, no invented answer keys
 
-### Q50. Which option preserves the technical boundary of iDEX-TDF boundary?
+### 2024 Prelims GS-I — fighter generation (verified routed objective concept)
 
-A. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-B. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
+**Demand:** Assess the claim that Rafale, MiG-29 and Tejas Mk1 are fifth-generation fighter aircraft; the exact option set and official letter are unavailable in the local evidence.
 
-**Answer: B.**
-**Explanation:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Conceptual solution:** These named aircraft should not all be labelled fifth-generation. MiG-29 and Rafale are not generally classed as fifth-generation; Tejas Mk1 is an indigenous light combat aircraft, not an operational fifth-generation fighter. The PYQ tests classification, not whether a fighter is domestically assembled or has entered service. Avoid deriving a payload, fleet size or delivery status from the generation label; the latter requires its own dated source.
 
-### Q51. Which statement uses iDEX-TDF boundary without changing its institution, unit or status?
+### 2025 Prelims GS-I — military transport aircraft (verified routed objective concept)
 
-A. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-B. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-C. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
+**Demand:** Match Dornier-228, IL-76 and C-17 with their aircraft roles; no exact official options or answer letter are available here.
 
-**Answer: C.**
-**Explanation:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Conceptual solution:** Dornier-228 is a smaller utility/short-haul transport and surveillance platform; IL-76 is a heavy military transport; C-17 is a strategic heavy airlifter. Do not equate them by nationality, an unspecified payload number or a particular procurement announcement. Their broad mission categories, not a claim of universal indigenous design, answer the routed distinction.
 
-### Q52. Which option avoids the standard UPSC close-option trap about iDEX-TDF boundary?
+### 2026 Prelims GS-I — Indian defence manufacture (provisional routed concept)
 
-A. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-B. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-C. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-D. iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
+**Demand:** Assess claims about Indian manufacture of fighter aircraft, tanks and submarines. Exact claims and key have not been verified; do not infer a specific platform status.
 
-**Answer: D.**
-**Explanation:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Conceptual solution:** Indigenous design ownership, manufacturing in India and the Indian share of contract value are independently testable. A domestic production line can employ foreign subsystems or licence-based know-how. Contracts, deliveries and inducted fleets are later, separately evidenced stages. Without precise platform names and dated primary evidence, an option-specific answer is not defensible.
 
-### Q53. Which statement correctly identifies Corridor-category boundary?
+## Original Mains practice — six independent solutions
 
-A. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-B. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
+### Original Mains 1 — 10 marks · 150 words
+**Question:** Differentiate indigenous design, domestic manufacture and indigenous content in defence procurement.
+**Model answer:** Indigenous design means domestic control over the system architecture, drawings, software and ability to modify it. Domestic manufacture concerns where physical production or assembly takes place; licensed assembly may still rely on foreign intellectual property. Indigenous content under the Defence Acquisition Procedure is a share of contract value sourced in India, not a certificate that critical technology was invented locally. Buy (Indian-IDDM) expressly prioritises Indian design, development and manufacture with a prescribed content threshold. Buy (Indian) can support domestic content without establishing the same indigenous-design claim. A locally integrated aircraft with a foreign engine illustrates why the three measures diverge. To judge Atmanirbhar outcomes, examine critical subsystems, domestic vendor depth, test and upgrade rights and spares through the product life cycle. Neither a high contract-value percentage nor a domestic factory alone proves immunity from external supply interruptions; both can still be useful intermediate steps toward design autonomy.
 
-**Answer: A.**
-**Explanation:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 2 — 10 marks · 150 words
+**Question:** Explain why DAC Acceptance of Necessity is not evidence of delivered defence capability.
+**Model answer:** The Defence Acquisition Council, chaired by the Raksha Mantri, grants Acceptance of Necessity as an in-principle approval of a requirement and acquisition categorisation. This starts, rather than finishes, a procurement chain. Tender or request-for-proposal stages, technical and field evaluation, negotiations and a signed contract must precede delivery. Services still need training, acceptance and induction before equipment can be treated as operational. A public AoN announcement can therefore establish official intent and an authorised route, but not a supplier obligation, a manufactured quantity or a fielded platform. Similarly, an item on a Positive Indigenisation List creates a sourcing preference at a notified timeline; it does not certify completed local production. Evaluation should track conversion from AoN to signed contract, delivery and reliable sustainment while recording official dates and status. Treating announcements as outputs inflates India’s measured preparedness and conceals production or certification bottlenecks.
 
-### Q54. Which option preserves the technical boundary of Corridor-category boundary?
+### Original Mains 3 — 15 marks · 250 words
+**Question:** Assess the five DAP Buy categories as different paths to domestic capability.
+**Model answer:** DAP 2020 structures capital acquisition to balance urgent service needs with deeper domestic capabilities. Its preferred Buy ladder begins with Buy (Indian-IDDM), for an Indian vendor providing indigenously designed, developed and manufactured goods meeting the prescribed indigenous-content threshold. Buy (Indian) favours Indian supply and content without making the same design claim. Buy & Make (Indian) permits an Indian vendor to manufacture after technology transfer from a foreign original equipment maker; actual absorption must be verified, not assumed from contractual language. Buy (Global - Manufacture in India) links an overseas vendor to a minimum domestic manufacturing component. Buy (Global) remains available for equipment without the same prescribed local manufacture. These are procurement routes, not five measures of current indigenous design ownership. Distinguishing design, factory location and Indian contract-value share prevents category labels from becoming slogans. The selection is followed by an AoN, competition and evaluation, negotiation, contract, deliveries and service induction; AoN is an in-principle stage. A strong policy asks whether vendors acquire upgrades and testing capability, whether components are sourced domestically and whether orders are large enough for viable suppliers. Neither an import substitution label nor a licensed production line guarantees autonomy in engines, seekers or semiconductors. The DAP ladder is a set of levers whose success must be tested against actual capability and supply security.  Where foreign technology is involved, ascertain whether Indian partners can modify, certify and maintain equipment after the initial transfer. Contractual assembly and genuine learning should not be treated as interchangeable. A category determines eligibility and pathway; measured outputs establish depth.
 
-A. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-B. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-C. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-D. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
+### Original Mains 4 — 15 marks · 250 words
+**Question:** Analyse how positive indigenisation lists, SRIJAN and innovation schemes work together.
+**Model answer:** Positive Indigenisation Lists create time-bound demand for domestic sources, but they address different buyers. Service lists restrict imports of notified platforms or systems after their applicable dates; DPSU lists focus on components, raw materials and subsystems for public-sector producers. The official SRIJAN portal reports stages of DPSU-linked items, such as expressions of interest and indigenised status. Notification should therefore be distinguished from actual local qualification and repeatable delivery. Demand alone cannot create suppliers with design capability, tooling and finance. On the supply side, the Defence Innovation Organisation’s iDEX and its ADITI deep-tech route bring startups and MSMEs into defence problems; DRDO’s Technology Development Fund supports industry-led technology development. Defence corridors in Uttar Pradesh and Tamil Nadu seek clustered vendors, logistics, skills and test infrastructure. Major DPSUs and private integrators can create demand for specialists, but predictable orders, certification pathways and quality assurance matter. The 2024 notification of a fifth DPSU list is an example of a policy milestone, not a statement that every listed item had already been made in India. Evaluate success by item-level progress, domestic critical-subsystem share, production quality, spares and maintenance. The combined logic is demand certainty plus supplier learning; either side alone is insufficient for technological self-reliance.  Item-level monitoring should also separate vendor interest from qualification trials, confirmed serial orders and fielded spare capacity. A factory can meet a localisation deadline yet remain dependent on imported process equipment or specialised raw materials; classify that residual dependence explicitly.
 
-**Answer: B.**
-**Explanation:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 5 — 20 marks · 250 words
+**Question:** Examine the contribution and limits of DPSUs, private firms and defence corridors to self-reliance.
+**Model answer:** India’s defence production base combines public anchor manufacturers, specialised private firms and regional supply chains. Department of Defence Production policy covers industrial infrastructure and DPSUs such as HAL, BEL, BDL and shipbuilders; this differs from DRDO’s R&D mission. Corporatisation of the Ordnance Factory Board into seven DPSUs in 2021 changed the institutional production structure, but reform success depends on productivity, orders and equipment quality rather than the reorganisation announcement. Private firms and MSMEs can make electronics, specialised parts, software and innovative platforms. iDEX and DRDO’s Technology Development Fund help new entrants, while strategic-partnership arrangements aim at longer-term domestic manufacturing. Uttar Pradesh and Tamil Nadu defence corridors seek clustering, testing access, logistics and local skills. Their location does not itself prove signed contracts or domestic ownership of key designs. Performance should be measured in reliable production, Indian value addition, control of critical inputs, lifecycle repair and internationally credible support. Foreign technology and FDI may help if learning is absorbed rather than limited to kit assembly. Overreliance on a single public integrator could suppress agility; abandoning public-sector capacity would neglect sovereign capability. A mixed ecosystem with transparent procurement and predictable service orders offers a better route to sustained autonomy than counting corridors, notified lists or launches alone.  Productive clusters require more than mapped land: suppliers need testing facilities, skilled labour, finance and timely certification. A shipped platform without repair rights or assured spares can reproduce an import dependency during service, even if final assembly was domestic.
 
-### Q55. Which statement uses Corridor-category boundary without changing its institution, unit or status?
-
-A. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-B. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-C. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-D. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-
-**Answer: C.**
-**Explanation:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Corridor-category boundary?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-C. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-D. The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-
-**Answer: D.**
-**Explanation:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies FDI-route boundary?
-
-A. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-B. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-C. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-
-**Answer: A.**
-**Explanation:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of FDI-route boundary?
-
-A. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-B. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-C. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-D. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-
-**Answer: B.**
-**Explanation:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses FDI-route boundary without changing its institution, unit or status?
-
-A. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-D. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-
-**Answer: C.**
-**Explanation:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about FDI-route boundary?
-
-A. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-D. Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-
-**Answer: D.**
-**Explanation:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Offsets-boundary?
-
-A. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-B. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-C. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-D. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-
-**Answer: A.**
-**Explanation:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Offsets-boundary?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-C. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-D. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-
-**Answer: B.**
-**Explanation:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Offsets-boundary without changing its institution, unit or status?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-C. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: C.**
-**Explanation:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Offsets-boundary?
-
-A. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-D. Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-
-**Answer: D.**
-**Explanation:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Lifecycle-indigenisation boundary?
-
-A. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-D. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-
-**Answer: A.**
-**Explanation:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Lifecycle-indigenisation boundary?
-
-A. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-B. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-C. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: B.**
-**Explanation:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Lifecycle-indigenisation boundary without changing its institution, unit or status?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-C. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: C.**
-**Explanation:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Lifecycle-indigenisation boundary?
-
-A. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-B. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-C. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-D. Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-
-**Answer: D.**
-**Explanation:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Export-scale boundary?
-
-A. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-B. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-C. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: A.**
-**Explanation:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Export-scale boundary?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-C. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-D. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-
-**Answer: B.**
-**Explanation:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Export-scale boundary without changing its institution, unit or status?
-
-A. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-B. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-C. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: C.**
-**Explanation:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Export-scale boundary?
-
-A. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-B. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-C. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-D. Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-
-**Answer: D.**
-**Explanation:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies Platform-status boundary?
-
-A. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-D. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-
-**Answer: A.**
-**Explanation:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of Platform-status boundary?
-
-A. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-B. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-C. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: B.**
-**Explanation:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses Platform-status boundary without changing its institution, unit or status?
-
-A. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-D. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-
-**Answer: C.**
-**Explanation:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Platform-status boundary?
-
-A. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-D. An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-
-**Answer: D.**
-**Explanation:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile-number boundary?
-
-A. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-B. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-C. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-D. Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-
-**Answer: A.**
-**Explanation:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile-number boundary?
-
-A. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-B. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-C. Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-
-**Answer: B.**
-**Explanation:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile-number boundary without changing its institution, unit or status?
-
-A. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-D. Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-
-**Answer: C.**
-**Explanation:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile-number boundary?
-
-A. Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-B. The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-C. Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-D. Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-
-**Answer: D.**
-**Explanation:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-## PYQS AND ANSWER PRACTICE
-
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
-
-Audited ledgers route recent fighter-generation, aircraft-role and Indian-manufacture objective concepts here. They are used to teach design, manufacture and status discrimination; no answer letter, production figure or operational claim is invented.
-
-### PYQ DEMAND CARD 1 — 2024 Prelims GS-I
-
-**Demand:** Assess claims that Rafale, MiG-29 and Tejas Mk1 are fifth-generation fighters.
-
-**Status:** Verified routed objective concept; no answer letter is asserted in this package.
-
-**Model solution:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2024 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess claims that Rafale, MiG-29 and Tejas Mk1 are fifth-generation fighters. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed objective concept; no answer letter is asserted in this package. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 2 — 2025 Prelims GS-I
-
-**Demand:** Match Dornier-228, IL-76 and C-17 with aircraft roles.
-
-**Status:** Verified routed objective concept; the solution preserves role labels and does not invent payload figures.
-
-**Model solution:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 2 — 2025 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Match Dornier-228, IL-76 and C-17 with aircraft roles. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed objective concept; the solution preserves role labels and does not invent payload figures. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2025 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 3 — 2026 Prelims GS-I
-
-**Demand:** Assess Indian manufacture of fighter aircraft, tanks and submarines.
-
-**Status:** Provisional routed concept; no answer letter or platform-status claim is inferred.
-
-**Model solution:** **Design-manufacture-content boundary:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Lifecycle-indigenisation boundary:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 3 — 2026 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Design-manufacture-content boundary:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Lifecycle-indigenisation boundary:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess Indian manufacture of fighter aircraft, tanks and submarines. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Provisional routed concept; no answer letter or platform-status claim is inferred. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Design-manufacture-content boundary:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Lifecycle-indigenisation boundary:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Platform-status boundary:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Volatile-number boundary:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2026 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish indigenous design, domestic manufacture and indigenous content. Answer in about 150 words.
-
-**Model thesis:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-- Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-- Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-
-**Qualified conclusion:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish indigenous design, domestic manufacture and indigenous content. Answer in about…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish indigenous design, domestic manufacture and indigenous content. Answer in about…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain why Acceptance of Necessity is not a defence order. Answer in about 150 words.
-
-**Model thesis:** **Claim:** DAP-procedure boundary. **Named evidence/example:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-order boundary. **Named evidence/example:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery.
-- Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages.
-
-**Qualified conclusion:** **Claim:** DAP-procedure boundary. **Named evidence/example:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-order boundary. **Named evidence/example:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Acceptance of Necessity is not a defence order. Answer in about 150 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** DAP-procedure boundary. **Named evidence/example:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-order boundary. **Named evidence/example:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** DAP-procedure boundary. **Named evidence/example:** Defence Acquisition Procedure 2020 structures capital-acquisition categories and process; it is a procurement rulebook, not a weapon programme, contract, budget appropriation or proof of delivery. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-order boundary. **Named evidence/example:** Acceptance of Necessity is Defence Acquisition Council in-principle approval of the requirement and categorisation; request for proposal, trials, negotiation, contract, delivery and induction remain later stages. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain why Acceptance of Necessity is not a defence order. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Compare the five DAP Buy pathways and their localisation logic. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Indian-IDDM boundary. **Named evidence/example:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-- Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India.
-- Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-
-**Qualified conclusion:** **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Indian-IDDM boundary. **Named evidence/example:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare the five DAP Buy pathways and their localisation logic. Answer in about 250 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Indian-IDDM boundary. **Named evidence/example:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Indian-IDDM boundary. **Named evidence/example:** Buy Indian-IDDM gives priority to an Indian vendor offering an indigenously designed, developed and manufactured product with prescribed indigenous content; the label must not be reduced to assembly in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Compare the five DAP Buy pathways and their localisation logic. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Explain how positive lists and SRIJAN shape demand without proving achievement. Answer in about 250 words.
-
-**Model thesis:** **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Notification-achievement boundary. **Named evidence/example:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SRIJAN-stage boundary. **Named evidence/example:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-- A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content.
-- SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction.
-
-**Qualified conclusion:** **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Notification-achievement boundary. **Named evidence/example:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SRIJAN-stage boundary. **Named evidence/example:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how positive lists and SRIJAN shape demand without proving achievement. Answer in…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Notification-achievement boundary. **Named evidence/example:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SRIJAN-stage boundary. **Named evidence/example:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Notification-achievement boundary. **Named evidence/example:** A positive-list notification creates a demand signal and item-specific deadline; it is not proof that every listed item has been indigenised, ordered, delivered or produced with complete domestic content. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SRIJAN-stage boundary. **Named evidence/example:** SRIJAN is a public implementation portal for DPSU indigenisation items and stages such as expression of interest, request for proposal, trials and indigenised status; a portal stage is not a contract or service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain how positive lists and SRIJAN shape demand without proving achievement. Answer in…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate India's defence-indigenisation ecosystem through procurement, firms, innovation and corridors. Answer in about 300 words.
-
-**Model thesis:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DPSU-private boundary. **Named evidence/example:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** iDEX-TDF boundary. **Named evidence/example:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Corridor-category boundary. **Named evidence/example:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains.
-- The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway.
-- Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN.
-- DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them.
-- iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category.
-- The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts.
-- Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-
-**Qualified conclusion:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DPSU-private boundary. **Named evidence/example:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** iDEX-TDF boundary. **Named evidence/example:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Corridor-category boundary. **Named evidence/example:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's defence-indigenisation ecosystem through procurement, firms, innovation and…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DPSU-private boundary. **Named evidence/example:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** iDEX-TDF boundary. **Named evidence/example:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Corridor-category boundary. **Named evidence/example:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** R&D-procurement boundary. **Named evidence/example:** Defence R&D creates and validates technology, while procurement selects a category, vendor and contract route and production converts the design into repeatable serviceable equipment; these are linked but distinct policy chains. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-ladder boundary. **Named evidence/example:** The DAP preference ladder includes Buy Indian-IDDM, Buy Indian, Buy and Make Indian, Buy Global-Manufacture in India and Buy Global; each category creates a different design, vendor and local-production pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** PIL-family boundary. **Named evidence/example:** Services Positive Indigenisation Lists concern platforms and equipment restricted for import after notified dates, while DPSU lists concern components, subsystems and materials for domestic sourcing and are tracked through SRIJAN. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** DPSU-private boundary. **Named evidence/example:** DPSUs can provide sovereign integration and legacy production depth while private firms, startups and MSMEs add competition and specialised innovation; indigenisation is not an either-or choice between them. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** iDEX-TDF boundary. **Named evidence/example:** iDEX and ADITI operate through the Defence Innovation Organisation for startups and deep-tech challenges, while the DRDO Technology Development Fund supports industry-led technology development; neither is a procurement category. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Corridor-category boundary. **Named evidence/example:** The Uttar Pradesh and Tamil Nadu defence industrial corridors are place-based cluster and investment instruments, not DAP acquisition categories, positive lists or contracts. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate India's defence-indigenisation ecosystem through procurement, firms, innovation and…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Assess Atmanirbhar defence through design control, technology absorption, lifecycle support and exports. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** FDI-route boundary. **Named evidence/example:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Offsets-boundary. **Named evidence/example:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Export-scale boundary. **Named evidence/example:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Platform-status boundary. **Named evidence/example:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-number boundary. **Named evidence/example:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two.
-- Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India.
-- Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption.
-- Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer.
-- Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence.
-- Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality.
-- An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status.
-- Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines.
-
-**Qualified conclusion:** **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** FDI-route boundary. **Named evidence/example:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Offsets-boundary. **Named evidence/example:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Export-scale boundary. **Named evidence/example:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Platform-status boundary. **Named evidence/example:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-number boundary. **Named evidence/example:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess Atmanirbhar defence through design control, technology absorption, lifecycle support…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** FDI-route boundary. **Named evidence/example:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Offsets-boundary. **Named evidence/example:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Export-scale boundary. **Named evidence/example:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Platform-status boundary. **Named evidence/example:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-number boundary. **Named evidence/example:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Design-manufacture-content boundary. **Named evidence/example:** Indigenous design means control of system architecture and intellectual property, domestic manufacture means production in India, and indigenous content is a contract-value share; none automatically proves the other two. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buy-Make boundary. **Named evidence/example:** Buy and Make Indian uses an Indian vendor with production after transfer of technology from a foreign original-equipment manufacturer, while Buy Global-Manufacture in India begins with a global vendor and specified manufacture in India. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** FDI-route boundary. **Named evidence/example:** Defence FDI policy distinguishes the automatic route up to 74 percent from government approval beyond 74 percent up to 100 percent under stated conditions; foreign investment does not automatically equal technology absorption. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Offsets-boundary. **Named evidence/example:** Offsets are reciprocal industrial obligations on foreign vendors, but DAP 2020 narrowed their use for specified government-to-government, inter-governmental and single-vendor routes; offset discharge is not proof of critical technology transfer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Lifecycle-indigenisation boundary. **Named evidence/example:** Real self-reliance includes maintenance, repair, overhaul, spares, upgrades, testing standards and configuration control after delivery; domestic assembly without lifecycle capability leaves strategic dependence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Export-scale boundary. **Named evidence/example:** Defence exports can widen production runs, learning and diplomatic reach, but export value does not by itself prove indigenous design, imported-subsystem independence or lifecycle support quality. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Platform-status boundary. **Named evidence/example:** An indigenous programme, domestic production line, signed contract, delivered unit and operational service fleet are different claims; fighter, tank and submarine examples must preserve design origin and status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-number boundary. **Named evidence/example:** Procurement values, delivery schedules, indigenous-content percentages, positive-list counts, production totals and export totals require dated official sources and cannot be carried forward from headlines. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Assess Atmanirbhar defence through design control, technology absorption, lifecycle support…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+### Original Mains 6 — 20 marks · 250 words
+**Question:** Evaluate defence exports and foreign investment as indicators of industrial depth.
+**Model answer:** Export orders can extend production runs, fund learning and strengthen diplomatic links, but a headline value cannot alone establish indigenous design. An exported system may contain imported engines, chips or other strategic inputs. Assess the Indian contract-value share, design and upgrade rights, verified delivery, spares and overseas after-sales capacity. The Defence Exim portal supports authorisation workflows; obtaining a licence is not the same as fulfilling and sustaining a foreign order. Foreign direct investment similarly offers capital and manufacturing know-how but needs local suppliers, technology absorption and credible testing. The owner records automatic-route defence FDI up to 74%; above 74% and up to 100% is under government approval subject to policy conditions, not automatic admission. DAP categories also differ: Buy & Make (Indian) and Buy (Global - Manufacture in India) may bring local manufacture without guaranteeing the most valuable intellectual property. Earlier offsets offered industrial obligations, but DAP 2020 narrowed their scope for government-to-government, inter-governmental and single-vendor routes; claims of technology transfer require independently observable outcomes. An effective industrial strategy couples competitive acquisitions with domestic subsystem development, reliable quality, finance, timely orders and repair capacity. Export growth and foreign investment are promising signals only when they lead to durable design control, skilled production and lower exposure to supply disruption.  Export statistics should similarly distinguish signed agreements from completed shipments and repeat customers; domestic production estimates should be tied to a fiscal year and an official release. Do not infer an import-content percentage or national self-reliance from a single sale.

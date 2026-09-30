@@ -4,7 +4,7 @@ topic_key: indian-art-and-culture-03
 ---
 # Temple Architecture and Chandella-Khajuraho - Solved Practice Workbook
 
-> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, the owned PYQs for this topic, two verification-pending objective PYQs with withheld answers, and six full original Mains answers.
+> This standalone workbook carries 32 original MCQs plus 12 harder source-backed MCQs with strict ABCD rotation, the owned PYQs for this topic, two verification-pending objective PYQs with withheld answers, and six full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -15,320 +15,805 @@ topic_key: indian-art-and-culture-03
 A. Garbhagriha, antarala, mandapa and jagati together describe a hierarchy of access and movement, not a random list of parts.  
 B. Temple parts are mostly decorative labels and can be skipped if one remembers the dynasty.  
 C. Only the tower matters in temple classification; internal spaces are secondary.  
-D. The safest way to describe a temple is to avoid technical vocabulary altogether.  
+D. The safest way to describe a temple is to avoid technical vocabulary altogether.
 
-**Answer: A.**  
-**Explanation:** A is correct because temple form is organised as approach, transition and sanctity. B, C and D remove the very spatial logic that UPSC expects you to explain.
 
 ### Q2. Which sequence best represents the usual movement through a mature Khajuraho temple?
 
 A. Garbhagriha -> mandapa -> ardhamandapa -> antarala  
 B. Ardhamandapa -> mandapa -> antarala -> garbhagriha  
 C. Jagati -> shikhara -> mandapa -> pradakshina  
-D. Torana -> vedika -> harmika -> chattra  
+D. Torana -> vedika -> harmika -> chattra
 
-**Answer: B.**  
-**Explanation:** B is the safe axial sequence recorded by UNESCO for the Khajuraho plan. A reverses the inward movement, C mixes vertical and horizontal elements, and D belongs to stupa vocabulary, not temple architecture.
 
 ### Q3. Which statement is most careful about Vesara?
 
 A. Vesara is simply another name for every South Indian temple.  
 B. Vesara means any temple with sculpture on the outer wall.  
 C. Vesara is best used after describing Deccan experimentation in plan and superstructure; it is not a rigid fifty-fifty formula.  
-D. Vesara should replace both Nagara and Dravida as the only valid category.  
+D. Vesara should replace both Nagara and Dravida as the only valid category.
 
-**Answer: C.**  
-**Explanation:** C keeps the label subordinate to observable form. A, B and D flatten a debated classificatory term into an absolute rule.
 
 ### Q4. Which pair is correctly matched?
 
 A. Khajuraho - boundary-wall-dominated walled enclosure as its main external identity  
 B. Konark - no external sculptural programme and plain walls  
 C. Modhera - free-standing granite gopuram as the core identifier  
-D. Odisha/Kalinga - rekha deul sanctum with pidha deul hall as a recurring regional combination  
+D. Odisha/Kalinga - rekha deul sanctum with pidha deul hall as a recurring regional combination
 
-**Answer: D.**  
-**Explanation:** D is correct for the Odisha/Kalinga school. Khajuraho is instead known for high jagati terraces without enclosure walls, Konark is richly carved, and Modhera belongs to the Nagara-Solanki world rather than a gopuram-centred granite formula.
 
 ### Q5. Which statement best identifies mature Khajuraho architecture?
 
 A. Temples rise on a high jagati, link their halls axially, and culminate in a clustered shikhara mass integrated with sculpture.  
 B. The defining device is a single gigantic entrance gopuram dwarfing a low sanctum.  
 C. The temples are rock-cut monoliths excavated from a hillside.  
-D. Their chief identity lies in circular plans inspired by Buddhist stupas.  
+D. Their chief identity lies in circular plans inspired by Buddhist stupas.
 
-**Answer: A.**  
-**Explanation:** A brings together plan, elevation and sculptural integration. B describes the late Dravida gateway emphasis, C suits Ellora/Kailasa logic, and D misdescribes Khajuraho.
 
 ### Q6. Why is the Khajuraho erotic-imagery stereotype unsafe?
 
 A. Because Khajuraho contains no erotic imagery at all.  
 B. Because erotic scenes are only one register within a much wider sculptural programme of deities, worship, musicians, dancers and social life.  
 C. Because erotic imagery occurs only in Jain temples there.  
-D. Because any mention of erotic imagery automatically makes the answer wrong.  
+D. Because any mention of erotic imagery automatically makes the answer wrong.
 
-**Answer: B.**  
-**Explanation:** B is the source-safe formulation. A and C are factually wrong, while D overcorrects and throws away an examinable but bounded feature.
 
 ### Q7. Which line best explains the political use of Chandella temple building?
 
 A. Temple construction automatically proves a democratic social order.  
 B. Every Khajuraho temple can be tied to one named military victory.  
 C. Temple building in Jejabhukti visibly accompanied Chandella political self-assertion, especially after the weakening of older overlordships.  
-D. Khajuraho grew before Chandella power and therefore had no link to state formation.  
+D. Khajuraho grew before Chandella power and therefore had no link to state formation.
 
-**Answer: C.**  
-**Explanation:** C is correct because the Chandella building surge is safest when tied to political self-assertion after declining overlordships. A and D deny the state-formation link, while B overclaims that every temple can be matched to one specific victory.
 
 ### Q8. Which statement most accurately describes the Chausath Yogini caution for this topic?
 
 A. Khajuraho and Morena refer to the same Chausath Yogini temple.  
 B. Every Chausath Yogini temple is circular and Vaishnava.  
 C. The Parliament-design claim is an officially settled architectural fact.  
-D. The Khajuraho shrine is a granite open-air Yogini monument, while the Morena objective demand concerns a different circular Kachchhapaghata-period temple.  
+D. The Khajuraho shrine is a granite open-air Yogini monument, while the Morena objective demand concerns a different circular Kachchhapaghata-period temple.
 
-**Answer: D.**  
-**Explanation:** D is correct because the safe caution is to separate the Khajuraho Yogini shrine from the Morena/Mitaoli objective demand. A and B merge distinct monuments or sects, and C turns a popular-belief statement into certainty.
 
 ### Q9. Which option best captures the Pallava contribution?
 
 A. They initiated a visible sequence from rock-cut excavation to monolithic experiment and then structural temple construction in South India.  
 B. They built only brick village shrines without sculptural ambition.  
 C. They are remembered solely for bronzes and not for architecture.  
-D. Their monuments show no experimentation in plan or elevation.  
+D. Their monuments show no experimentation in plan or elevation.
 
-**Answer: A.**  
-**Explanation:** A is correct because Mahendravarman, Mamalla and Rajasimha together show the shift from cave to ratha to structural temple. B, C and D erase the very developmental logic that makes the Pallavas important.
 
 ### Q10. Which monument pair most clearly demonstrates the Pallava move from monolithic experiment to structural temple?
 
 A. Barabar and Nagarjuni  
 B. Pancha Rathas and Shore Temple  
 C. Brihadishvara and Airavatesvara  
-D. Virupaksha, Hampi and Vitthala, Hampi  
+D. Virupaksha, Hampi and Vitthala, Hampi
 
-**Answer: B.**  
-**Explanation:** B is correct: the Pancha Rathas are the monolithic experiment and the Shore Temple is the structural turn. The other pairs belong to different regions, chronologies or themes.
 
 ### Q11. Which statement about Chola architecture is safest?
 
 A. Chola achievement is best reduced to a single temple at Thanjavur.  
 B. The Cholas abandoned sculptural ornament in favour of plain granite surfaces.  
 C. The Chola sequence runs from early shrines through Brihadishvara to later gopura-dominant phases, with inscriptions linking architecture to administration and ritual.  
-D. Chola temples contain no evidence of literary or sectarian plurality.  
+D. Chola temples contain no evidence of literary or sectarian plurality.
 
-**Answer: C.**  
-**Explanation:** C keeps development, scale and inscriptional life together. A compresses the dynasty into one monument, B is false, and D ignores Nayanar and multi-sect evidence.
 
 ### Q12. Which statement best avoids a Brihadishvara trap?
 
 A. Brihadishvara is a rock-cut shrine at Mamallapuram.  
 B. Brihadishvara proves that later Chola architecture had no enclosure walls or gopurams.  
 C. Brihadishvara should be written without any link to inscriptions, murals or Nandi mandapa.  
-D. Brihadishvara is the Chola technical climax, but Chola achievement also includes bronzes, murals, administration and later gopura emphasis.  
+D. Brihadishvara is the Chola technical climax, but Chola achievement also includes bronzes, murals, administration and later gopura emphasis.
 
-**Answer: D.**  
-**Explanation:** D is correct because it places Thanjavur inside a larger Chola achievement. A, B and C are direct distortions.
 
 ### Q13. Which statement best explains Vijayanagara temple planning?
 
 A. Its temple complexes emphasize chariot streets, pillared mandapas and monumental gateways within a capital-wide sacred-royal landscape.  
 B. Vijayanagara architecture is entirely identical to Hoysala stellate soapstone temples.  
 C. Its main monuments are all rock-cut caves of the Mauryan age.  
-D. The tradition rejected all earlier South Indian influences.  
+D. The tradition rejected all earlier South Indian influences.
 
-**Answer: A.**  
-**Explanation:** A captures the urban-temple logic of Hampi. B ignores clear differences, C is chronologically impossible, and D erases the stated synthesis of earlier southern styles.
 
 ### Q14. Which monument-feature pair is correctly matched?
 
 A. Virupaksha, Hampi - queen Lokmahadevi's 8th-century Chalukya victory temple  
 B. Vitthala, Hampi - stone chariot and musical-pillar fame within a Vijayanagara temple complex  
 C. Mahanavami Dibba - principal sanctum of the Virupaksha temple  
-D. Lotus Mahal - granite Nagara shikhara of a Chandella shrine  
+D. Lotus Mahal - granite Nagara shikhara of a Chandella shrine
 
-**Answer: B.**  
-**Explanation:** B is correct. A confuses Hampi Virupaksha with Pattadakal Virupaksha, C turns a royal platform into a temple sanctum, and D misplaces a secular Vijayanagara building into Khajuraho's world.
 
 ### Q15. Which statement best defines the Nayaka phase?
 
 A. Nayaka architecture abandoned gopurams and preferred small flat-roofed shrines.  
 B. It belongs exclusively to North Indian sandstone Nagara practice.  
 C. Nayaka architecture continues late Vijayanagara and expands enclosure walls, graded gopuras, temple tanks and wide prakarams in major temple centres.  
-D. Its hallmark is the absence of processional space.  
+D. Its hallmark is the absence of processional space.
 
-**Answer: C.**  
-**Explanation:** C is correct because the Nayaka phase is additive, enclosure-rich and processional. A, B and D contradict the basic plan logic of Madurai, Rameswaram and related sites.
 
 ### Q16. Which statement is safest about Early Chalukya experimentation?
 
 A. Aihole and Pattadakal are best written as identical single-style sites with no experimentation.  
 B. Badami matters only for painting and not for temple form.  
 C. The Deccan evidence makes Nagara and Dravida categories meaningless everywhere.  
-D. Aihole, Badami and Pattadakal are useful because one can watch multiple plan forms and tower solutions being tried, refined and displayed side by side.  
+D. Aihole, Badami and Pattadakal are useful because one can watch multiple plan forms and tower solutions being tried, refined and displayed side by side.
 
-**Answer: D.**  
-**Explanation:** D is correct because the Early Chalukya zone is a laboratory of forms. A and B erase experimentation, and C overstates a regional caution into a universal collapse of categories.
 
 ### Q17. Which Pattadakal comparison most directly justifies the Vesara caution?
 
 A. Virupaksha and Papanatha show the same plan environment but different superstructure grammars, making hybridity observable rather than merely asserted.  
 B. Virupaksha and Papanatha are both Mauryan stupas.  
 C. Both are Jain basadis built in soapstone under Hoysala rule.  
-D. They prove that every Pattadakal temple had the same tower type.  
+D. They prove that every Pattadakal temple had the same tower type.
 
-**Answer: A.**  
-**Explanation:** A is correct because the Virupaksha-Dravida and Papanatha-Nagara contrast on one site makes the label evidence-based. The other options are historically wrong.
 
 ### Q18. Which line best explains Hoysala distinctiveness?
 
 A. Hoysala temples avoided sculpture and preferred plain brick towers.  
 B. Hoysala temples use chloritic schist, stellate jagati plans, zig-zag walls, lathe-turned pillars and dense friezes.  
 C. Hoysala temples are the earliest Mauryan rock-cut caves.  
-D. The school is best described without reference to material.  
+D. The school is best described without reference to material.
 
-**Answer: B.**  
-**Explanation:** B is correct because Hoysala distinctiveness lies precisely in soapstone, stellate platforms, zig-zag walls, lathe-turned pillars and sculptural friezes. The other options erase its material and formal identity.
 
 ### Q19. Which statement best handles the Hoysala-Vesara relationship?
 
 A. The Hoysalas should never be linked to Vesara in any way.  
 B. Hoysala architecture is simply Khajuraho moved south.  
 C. The safest description is that Hoysala form shows Dravidian morphology with important Bhumija and Nagara influences, after which the Vesara label may be used cautiously.  
-D. The stellate platform proves that the temples are not part of any South Indian tradition.  
+D. The stellate platform proves that the temples are not part of any South Indian tradition.
 
-**Answer: C.**  
-**Explanation:** C is correct because it reproduces the cautious, morphology-first approach. A, B and D either deny the classificatory debate or caricature the school.
 
 ### Q20. Which statement is most careful about Kakatiya evidence?
 
 A. Ramappa must be ignored because it has no relation to temple architecture.  
 B. The Thousand Pillar Temple belongs to the Mauryan period.  
 C. Kakatiya monuments prove that every late Deccan temple used identical plans.  
-D. Ramappa is useful for foundation technology, named patronage and the architect-name tradition, but its spectacular features should still be written with source discipline.  
+D. Ramappa is useful for foundation technology, named patronage and the architect-name tradition, but its spectacular features should still be written with source discipline.
 
-**Answer: D.**  
-**Explanation:** D is correct because Ramappa helps with technology, patronage and conservation status, but not with careless exaggeration. A, B and C are plainly wrong.
 
 ### Q21. Which statement best explains why temples matter beyond ritual?
 
 A. Temples record ritual, patronage, economic support, craft organisation, festivals and selected social representation in one durable institution.  
 B. Temples were only spaces of worship and cannot reveal political or social history.  
 C. Temples matter because they collapse all evidence into religion alone.  
-D. Temples can replace every other source and should be treated as full social censuses.  
+D. Temples can replace every other source and should be treated as full social censuses.
 
-**Answer: A.**  
-**Explanation:** A is correct because temple evidence works precisely by combining ritual, patronage, administration, labour and selective social representation in one durable institution. B, C and D either flatten or absolutize the source value.
 
 ### Q22. Which evidence most directly supports the temple-as-institution argument?
 
 A. Only the presence of a shikhara  
 B. Inscriptions on donations, worship, festivals and temple administration such as those noted at Darasuram and Brihadishvara  
 C. The existence of stone alone, without inscription or iconography  
-D. A later traveller's aesthetic praise alone  
+D. A later traveller's aesthetic praise alone
 
-**Answer: B.**  
-**Explanation:** B is correct because it links architecture to daily management and endowment. A is too narrow, C removes social content, and D is secondary evidence.
 
 ### Q23. Which line is safest for using temple sculpture as social evidence?
 
 A. Sculpture can never be used historically because it is not text.  
 B. Every carved figure is a photograph of ordinary life.  
 C. Temple sculpture can show selected registers of performance, patronage, devotion and courtly life, but commissioned representation is not the whole of society.  
-D. Only erotic panels count as social evidence.  
+D. Only erotic panels count as social evidence.
 
-**Answer: C.**  
-**Explanation:** C preserves both value and limit. A discards visual evidence, B treats representation as raw reality, and D reduces a wide field to one sensational register.
 
 ### Q24. Which timeline statement is correct?
 
 A. Khajuraho's modern rediscovery by T.S. Burt belongs to the same chronology as Chandella temple construction.  
 B. UNESCO inscription years should be used as ancient building dates.  
 C. The order Pallava -> Chola -> Vijayanagara -> Nayaka is a modern conservation timeline.  
-D. Ancient construction chronology must be kept separate from modern discovery and UNESCO chronology.  
+D. Ancient construction chronology must be kept separate from modern discovery and UNESCO chronology.
 
-**Answer: D.**  
-**Explanation:** D is correct. The other options commit the chronology-mixing error that repeatedly costs marks.
 
 ### Q25. Which statement most carefully handles Khajuraho temple counts?
 
 A. UNESCO, ASI and local tradition speak at different levels, so counts must be written with the source and context attached rather than flattened into one number.  
 B. Khajuraho has eighty-five standing temples today.  
 C. Khajuraho has twenty-three temples because local tradition does not matter.  
-D. There is only one correct unqualified number, so every other source should be ignored.  
+D. There is only one correct unqualified number, so every other source should be ignored.
 
-**Answer: A.**  
-**Explanation:** A is correct because UNESCO counts the inscribed property, while ASI and local tradition speak differently about surviving or remembered totals. B, C and D remove that source discipline.
 
 ### Q26. Which statement about Khajuraho materials is safest?
 
 A. All Khajuraho temples are granite.  
 B. Most Khajuraho temples are sandstone, but Chausath Yogini, Brahma and Mahadeva are recorded as granite exceptions.  
 C. Material is irrelevant because all temple surfaces look the same.  
-D. Granite alone explains Khajuraho's sculptural undercutting.  
+D. Granite alone explains Khajuraho's sculptural undercutting.
 
-**Answer: B.**  
-**Explanation:** B is the source-backed formulation. A, C and D flatten important material distinctions.
 
 ### Q27. Which statement best distinguishes Nagara and late Dravida visual emphasis?
 
 A. Both always look identical from the exterior.  
 B. Late Dravida architecture avoids tanks, corridors and gopurams.  
 C. Nagara commonly draws attention upward to the sanctum tower, while late Dravida traditions increasingly dramatize the gateway and enclosure system.  
-D. Nagara architecture never uses sculpture.  
+D. Nagara architecture never uses sculpture.
 
-**Answer: C.**  
-**Explanation:** C is correct because it states the broad visual shift without making it absolute. A, B and D are overstatements or factual errors.
 
 ### Q28. Which comparison best separates Khajuraho from Modhera?
 
 A. Khajuraho is a rock-cut cave group, while Modhera is a painted gopuram complex.  
 B. Both are late Nayaka corridor temples.  
 C. Modhera is a Buddhist chaitya hall.  
-D. Khajuraho is known for high jagati terraces and dense figural walls, whereas Modhera is remembered with its Surya Kund and a distinct Solanki/Maru-Gurjara Nagara expression.  
+D. Khajuraho is known for high jagati terraces and dense figural walls, whereas Modhera is remembered with its Surya Kund and a distinct Solanki/Maru-Gurjara Nagara expression.
 
-**Answer: D.**  
-**Explanation:** D is correct because it distinguishes two different Nagara regional solutions. A, B and C are category errors.
 
 ### Q29. Which statement most accurately identifies Lingaraja's analytical use here?
 
 A. It stands as a key Odisha comparator showing the walled Kalinga mature form within the Nagara family.  
 B. It is the principal example of Chandella sandstone without an enclosure wall.  
 C. It belongs to the Vijayanagara sacred-royal complex at Hampi.  
-D. It is a Hoysala stellate soapstone temple.  
+D. It is a Hoysala stellate soapstone temple.
 
-**Answer: A.**  
-**Explanation:** A is correct because Lingaraja helps differentiate the Odisha/Kalinga branch from Khajuraho and other Nagara variants. The other options belong to different regional traditions.
 
 ### Q30. Which statement best frames the 2025 Chandella artform PYQ?
 
 A. Write only on erotic sculpture and ignore architecture.  
 B. Split the phrase into vigor in carving and breadth of life in subject matter, then join both at Kandariya Mahadeva and the larger Khajuraho programme.  
 C. Answer it only through UNESCO management law.  
-D. Treat Chandella artform as identical to Chola bronze casting.  
+D. Treat Chandella artform as identical to Chola bronze casting.
 
-**Answer: B.**  
-**Explanation:** B is the safest way to unpack the wording. A narrows the answer fatally, while C and D leave the demand itself unanswered.
 
 ### Q31. Which statement best frames the 2024 Pallava PYQ?
 
 A. Estimate means simply listing monuments without change over time.  
 B. Pallava contribution should be answered entirely through later Chola temples.  
 C. A safe answer moves from rock-cut beginnings to monolithic rathas, structural temples, literary culture and surviving mural evidence, then notes limits.  
-D. The best Pallava answer is to avoid Mahabalipuram because it is too famous.  
+D. The best Pallava answer is to avoid Mahabalipuram because it is too famous.
 
-**Answer: C.**  
-**Explanation:** C is correct because the directive 'estimate' requires both achievements and limits. A, B and D misread the demand.
 
 ### Q32. Which statement best frames the 2024 Chola PYQ?
 
 A. The Chola question should be answered only through political history with no monument names.  
 B. The safest move is to deny Chola achievement because the dynasty ended.  
 C. Only one bronze image is enough for a 250-word comment.  
-D. A strong answer must go beyond Brihadishvara alone and include development, bronzes, murals, inscriptions, administration and later gopura emphasis.  
+D. A strong answer must go beyond Brihadishvara alone and include development, bronzes, murals, inscriptions, administration and later gopura emphasis.
+### HARD ATTRIBUTION / FORM / EVIDENCE MCQS
 
-**Answer: D.**  
-**Explanation:** D is correct because the 2024 demand asks why Chola achievement is remembered with pride. A, B and C all remove the multi-dimensional evidence that justifies that pride.
+### Q33. Which regional tower-type match survives scrutiny in Odisha?
+
+A. Rekha deul—curvilinear sanctum; pidha deul—pyramidal-roof hall; khakhara—barrel-roof shrine
+B. Rekha—temple tank; pidha—gateway; khakhara—circumambulatory terrace
+C. Rekha—barrel-roof goddess shrine; pidha—curvilinear sanctum; khakhara—pyramidal hall
+D. All three designate different materials for the same identical tower
+
+### Q34. The Durga Temple at Aihole is best read as which close-option correction?
+
+A. A goddess Durga dedication confirmed by its later name
+B. An apsidal temple probably fort-named and believed dedicated to Surya, with a chaitya-form parallel
+C. A circular Yogini shrine of the Chandellas
+D. The structural Shore Temple built by Rajasimha
+
+### Q35. Which use of the Lad Khan Temple evidence is strongest?
+
+A. Its documented gopuram establishes a mature Nayaka enclosure
+B. Its Jain prashasti commemorates the victory at Kanchi
+C. Its hall-like timber-inspired roof and Ayyavole guild reference tie form to merchants
+D. Its Chola bronze programme provides direct evidence of Nataraja worship
+
+### Q36. How should UNESCO status be recorded for the Chalukya experimentation sites?
+
+A. Aihole, Badami and Pattadakal are separately inscribed World Heritage sites
+B. All three lack any association with UNESCO
+C. Only Badami is inscribed and Pattadakal remains tentative
+D. Pattadakal is inscribed; Aihole–Badami–Pattadakal also appear in a tentative-list serial proposal
+
+### Q37. At Hampi, which pair belongs outside the temple category despite ritual or artistic connections?
+
+A. Mahanavami Dibba (royal platform) and Lotus Mahal (palace-zone building)
+B. Virupaksha and Vitthala (Shiva and Vishnu temples)
+C. Vitthala Rang Mandapa and its Kalyana Mandapa (temple halls)
+D. Hazara Rama and Virupaksha (named temples)
+
+### Q38. Which statement about the Hampi Vitthala complex survives material and functional checks?
+
+A. The stone chariot is one monolithic carving and the Kalyana Mandapa a palace
+B. The chariot is not monolithic; the Kalyana Mandapa is a wedding/celebration hall within the temple
+C. Musical pillars belong only to Brihadishvara, not the Rang Mandapa
+D. The stone chariot is the Mahanavami Dibba reviewed by the king
+
+### Q39. Two Virupaksha temples are cited. Which identification is right?
+
+A. Hampi—Lokmahadevi’s Kanchi-victory monument; Pattadakal—Tuluva raya gopuram
+B. Both are the same Shaiva temple relocated after Talikota
+C. Pattadakal—Lokmahadevi’s Chalukya victory commission; Hampi—Vijayanagara temple later expanded by Krishnadevaraya
+D. Both belong to Chandella Nagara without enclosing walls
+
+### Q40. Which inference concerning Khajuraho’s surviving materials and layout is unsafe?
+
+A. Most mature monuments use fine-grained sandstone
+B. Granite occurs in the Chausath Yogini, Brahma and Mahadeva exceptions
+C. Most temples rise on jagati without a bounding enclosure
+D. Every surviving shrine is sandstone and faces sunrise without exception
+
+### Q41. Which Khajuraho pairing corrects the common Jain/Surya/Shaiva attribution trap?
+
+A. Parsvanath—Jain; Chitragupta—Sun; Kandariya Mahadeva—Shaiva
+B. Parsvanath—Sun; Chitragupta—Jain; Kandariya—Vaishnava
+C. Parsvanath—Shaiva; Chitragupta—Buddhist; Kandariya—Sun
+D. All three are identically dedicated to a Yogini cult
+
+### Q42. Which distinction resolves the two differently situated temple-water examples?
+
+A. Modhera and Hampi both contain a Harappan street-drain system
+B. Modhera has a Solanki Surya Kund step tank; Madurai has Potramarai Kulam in a later Nayaka-centred temple complex
+C. Potramarai Kulam is at Pattadakal while Surya Kund is the Hoysala soapstone temple
+D. Both tanks are names for the Sudarshana lake at Junagadh
+
+### Q43. What is the best evidentiary use of the Aihole Prashasti?
+
+A. As a neutral census of every Early Chalukya guild and temple
+B. As a Gupta copper plate praising Rajaraja I’s Brihadishvara
+C. As proof that all Meguti carvings are by a named Jain sculptor
+D. As Ravikirti’s eulogy of Pulakeshin II on the Meguti Jain temple wall, requiring genre criticism
+
+### Q44. How can a Khajuraho temple still serving active worship be identified without treating all the group alike?
+
+A. Chausath Yogini is the only currently worshipped temple of the whole group
+B. Every granite shrine is still used for daily worship
+C. Only the Jain Parsvanath is still worshipped because the others are empty
+D. Matangeshvara is identified as the sole still-active worship site within the group
+
+
+### MATCHING MCQ ANSWER KEY — FOUR-OPTION ANALYSIS
+
+Attempt all 44 MCQs before consulting the matching key; the solved PYQs and original Mains models follow separately.
+
+#### Q1 — A
+
+- **A:** Correct — A is correct because temple form is organised as approach, transition and sanctity. B, C and D remove the very spatial logic that UPSC expects you to explain.
+- **B:** Incorrect — terms describe sacred movement, not decoration.
+- **C:** Incorrect — internal hierarchy matters.
+- **D:** Incorrect — technical terms clarify form.
+
+**Original rationale:** A is correct because temple form is organised as approach, transition and sanctity. B, C and D remove the very spatial logic that UPSC expects you to explain.
+
+**Trap:** Terms describe sacred movement, not decoration.
+
+#### Q2 — B
+
+- **A:** Incorrect — this reverses approach to sanctum.
+- **B:** Correct — B is the safe axial sequence recorded by UNESCO for the Khajuraho plan. A reverses the inward movement, C mixes vertical and horizontal elements, and D belongs to stupa vocabulary, not temple architecture.
+- **C:** Incorrect — shikhara is vertical, not an entrance passage.
+- **D:** Incorrect — these are stupa parts.
+
+**Original rationale:** B is the safe axial sequence recorded by UNESCO for the Khajuraho plan. A reverses the inward movement, C mixes vertical and horizontal elements, and D belongs to stupa vocabulary, not temple architecture.
+
+**Trap:** This reverses approach to sanctum.
+
+#### Q3 — C
+
+- **A:** Incorrect — not every southern temple is Vesara.
+- **B:** Incorrect — sculpture does not define Vesara.
+- **C:** Correct — C keeps the label subordinate to observable form. A, B and D flatten a debated classificatory term into an absolute rule.
+- **D:** Incorrect — Nagara and Dravida remain useful categories.
+
+**Original rationale:** C keeps the label subordinate to observable form. A, B and D flatten a debated classificatory term into an absolute rule.
+
+**Trap:** Not every southern temple is Vesara.
+
+#### Q4 — D
+
+- **A:** Incorrect — Khajuraho lacks a perimeter enclosure.
+- **B:** Incorrect — Konark has rich carving.
+- **C:** Incorrect — Modhera is Solanki Nagara, not gopura-centred.
+- **D:** Correct — D is correct for the Odisha/Kalinga school. Khajuraho is instead known for high jagati terraces without enclosure walls, Konark is richly carved, and Modhera belongs to the Nagara-Solanki world rather than a gopuram-centred granite formula.
+
+**Original rationale:** D is correct for the Odisha/Kalinga school. Khajuraho is instead known for high jagati terraces without enclosure walls, Konark is richly carved, and Modhera belongs to the Nagara-Solanki world rather than a gopuram-centred granite formula.
+
+**Trap:** Khajuraho lacks a perimeter enclosure.
+
+#### Q5 — A
+
+- **A:** Correct — A brings together plan, elevation and sculptural integration. B describes the late Dravida gateway emphasis, C suits Ellora/Kailasa logic, and D misdescribes Khajuraho.
+- **B:** Incorrect — late Dravida shifts to monumental gateways.
+- **C:** Incorrect — Kailasha is rock-cut, not Khajuraho.
+- **D:** Incorrect — mature Khajuraho is not generally circular.
+
+**Original rationale:** A brings together plan, elevation and sculptural integration. B describes the late Dravida gateway emphasis, C suits Ellora/Kailasa logic, and D misdescribes Khajuraho.
+
+**Trap:** Late Dravida shifts to monumental gateways.
+
+#### Q6 — B
+
+- **A:** Incorrect — maithuna panels do exist.
+- **B:** Correct — B is the source-safe formulation. A and C are factually wrong, while D overcorrects and throws away an examinable but bounded feature.
+- **C:** Incorrect — imagery occurs in multiple dedications.
+- **D:** Incorrect — a bounded mention is relevant.
+
+**Original rationale:** B is the source-safe formulation. A and C are factually wrong, while D overcorrects and throws away an examinable but bounded feature.
+
+**Trap:** Maithuna panels do exist.
+
+#### Q7 — C
+
+- **A:** Incorrect — buildings do not prove democracy.
+- **B:** Incorrect — individual war attributions are not supported.
+- **C:** Correct — C is correct because the Chandella building surge is safest when tied to political self-assertion after declining overlordships. A and D deny the state-formation link, while B overclaims that every temple can be matched to one specific victory.
+- **D:** Incorrect — political context matters.
+
+**Original rationale:** C is correct because the Chandella building surge is safest when tied to political self-assertion after declining overlordships. A and D deny the state-formation link, while B overclaims that every temple can be matched to one specific victory.
+
+**Trap:** Buildings do not prove democracy.
+
+#### Q8 — D
+
+- **A:** Incorrect — Khajuraho and Morena are different shrines.
+- **B:** Incorrect — Yogini is not Vaishnava and forms vary.
+- **C:** Incorrect — Parliament-design claim is a popular belief.
+- **D:** Correct — D is correct because the safe caution is to separate the Khajuraho Yogini shrine from the Morena/Mitaoli objective demand. A and B merge distinct monuments or sects, and C turns a popular-belief statement into certainty.
+
+**Original rationale:** D is correct because the safe caution is to separate the Khajuraho Yogini shrine from the Morena/Mitaoli objective demand. A and B merge distinct monuments or sects, and C turns a popular-belief statement into certainty.
+
+**Trap:** Khajuraho and Morena are different shrines.
+
+#### Q9 — A
+
+- **A:** Correct — A is correct because Mahendravarman, Mamalla and Rajasimha together show the shift from cave to ratha to structural temple. B, C and D erase the very developmental logic that makes the Pallavas important.
+- **B:** Incorrect — rock-cut and structural experimentation is attested.
+- **C:** Incorrect — bronzes do not exhaust Pallava contribution.
+- **D:** Incorrect — plans were experimental.
+
+**Original rationale:** A is correct because Mahendravarman, Mamalla and Rajasimha together show the shift from cave to ratha to structural temple. B, C and D erase the very developmental logic that makes the Pallavas important.
+
+**Trap:** Rock-cut and structural experimentation is attested.
+
+#### Q10 — B
+
+- **A:** Incorrect — Barabar–Nagarjuni are Mauryan caves.
+- **B:** Correct — B is correct: the Pancha Rathas are the monolithic experiment and the Shore Temple is the structural turn. The other pairs belong to different regions, chronologies or themes.
+- **C:** Incorrect — these are Chola monuments.
+- **D:** Incorrect — these are Vijayanagara monuments.
+
+**Original rationale:** B is correct: the Pancha Rathas are the monolithic experiment and the Shore Temple is the structural turn. The other pairs belong to different regions, chronologies or themes.
+
+**Trap:** Barabar–Nagarjuni are Mauryan caves.
+
+#### Q11 — C
+
+- **A:** Incorrect — Brihadishvara is not the full Chola story.
+- **B:** Incorrect — Chola carving and bronzes are extensive.
+- **C:** Correct — C keeps development, scale and inscriptional life together. A compresses the dynasty into one monument, B is false, and D ignores Nayanar and multi-sect evidence.
+- **D:** Incorrect — inscriptions reveal broader culture.
+
+**Original rationale:** C keeps development, scale and inscriptional life together. A compresses the dynasty into one monument, B is false, and D ignores Nayanar and multi-sect evidence.
+
+**Trap:** Brihadishvara is not the full Chola story.
+
+#### Q12 — D
+
+- **A:** Incorrect — Thanjavur is not Mamallapuram rock-cut.
+- **B:** Incorrect — enclosure and gopura were present.
+- **C:** Incorrect — mural and inscription evidence is crucial.
+- **D:** Correct — D is correct because it places Thanjavur inside a larger Chola achievement. A, B and C are direct distortions.
+
+**Original rationale:** D is correct because it places Thanjavur inside a larger Chola achievement. A, B and C are direct distortions.
+
+**Trap:** Thanjavur is not Mamallapuram rock-cut.
+
+#### Q13 — A
+
+- **A:** Correct — A captures the urban-temple logic of Hampi. B ignores clear differences, C is chronologically impossible, and D erases the stated synthesis of earlier southern styles.
+- **B:** Incorrect — Hoysala form differs from Hampi urban plan.
+- **C:** Incorrect — Vijayanagara is later than Mauryan age.
+- **D:** Incorrect — earlier southern schools influenced Hampi.
+
+**Original rationale:** A captures the urban-temple logic of Hampi. B ignores clear differences, C is chronologically impossible, and D erases the stated synthesis of earlier southern styles.
+
+**Trap:** Hoysala form differs from Hampi urban plan.
+
+#### Q14 — B
+
+- **A:** Incorrect — Lokmahadevi’s Virupaksha is at Pattadakal.
+- **B:** Correct — B is correct. A confuses Hampi Virupaksha with Pattadakal Virupaksha, C turns a royal platform into a temple sanctum, and D misplaces a secular Vijayanagara building into Khajuraho's world.
+- **C:** Incorrect — Dibba is royal ceremonial, not sanctum.
+- **D:** Incorrect — Lotus Mahal is a secular Hampi building.
+
+**Original rationale:** B is correct. A confuses Hampi Virupaksha with Pattadakal Virupaksha, C turns a royal platform into a temple sanctum, and D misplaces a secular Vijayanagara building into Khajuraho's world.
+
+**Trap:** Lokmahadevi’s Virupaksha is at Pattadakal.
+
+#### Q15 — C
+
+- **A:** Incorrect — Nayakas enlarged gateways.
+- **B:** Incorrect — style belongs to southern temple tradition.
+- **C:** Correct — C is correct because the Nayaka phase is additive, enclosure-rich and processional. A, B and D contradict the basic plan logic of Madurai, Rameswaram and related sites.
+- **D:** Incorrect — processional corridors are central.
+
+**Original rationale:** C is correct because the Nayaka phase is additive, enclosure-rich and processional. A, B and D contradict the basic plan logic of Madurai, Rameswaram and related sites.
+
+**Trap:** Nayakas enlarged gateways.
+
+#### Q16 — D
+
+- **A:** Incorrect — Aihole and Pattadakal differ.
+- **B:** Incorrect — Badami cave forms are significant.
+- **C:** Incorrect — Deccan variation does not erase categories elsewhere.
+- **D:** Correct — D is correct because the Early Chalukya zone is a laboratory of forms. A and B erase experimentation, and C overstates a regional caution into a universal collapse of categories.
+
+**Original rationale:** D is correct because the Early Chalukya zone is a laboratory of forms. A and B erase experimentation, and C overstates a regional caution into a universal collapse of categories.
+
+**Trap:** Aihole and Pattadakal differ.
+
+#### Q17 — A
+
+- **A:** Correct — A is correct because the Virupaksha-Dravida and Papanatha-Nagara contrast on one site makes the label evidence-based. The other options are historically wrong.
+- **B:** Incorrect — not Mauryan stupas.
+- **C:** Incorrect — not both Hoysala basadis.
+- **D:** Incorrect — different tower types coexist.
+
+**Original rationale:** A is correct because the Virupaksha-Dravida and Papanatha-Nagara contrast on one site makes the label evidence-based. The other options are historically wrong.
+
+**Trap:** Not Mauryan stupas.
+
+#### Q18 — B
+
+- **A:** Incorrect — Hoysalas are densely sculpted soapstone.
+- **B:** Correct — B is correct because Hoysala distinctiveness lies precisely in soapstone, stellate platforms, zig-zag walls, lathe-turned pillars and sculptural friezes. The other options erase its material and formal identity.
+- **C:** Incorrect — not Mauryan rock-cut caves.
+- **D:** Incorrect — material is critical.
+
+**Original rationale:** B is correct because Hoysala distinctiveness lies precisely in soapstone, stellate platforms, zig-zag walls, lathe-turned pillars and sculptural friezes. The other options erase its material and formal identity.
+
+**Trap:** Hoysalas are densely sculpted soapstone.
+
+#### Q19 — C
+
+- **A:** Incorrect — Vesara can apply after form is described.
+- **B:** Incorrect — not Khajuraho transplanted.
+- **C:** Correct — C is correct because it reproduces the cautious, morphology-first approach. A, B and D either deny the classificatory debate or caricature the school.
+- **D:** Incorrect — stellate plan remains South Indian.
+
+**Original rationale:** C is correct because it reproduces the cautious, morphology-first approach. A, B and D either deny the classificatory debate or caricature the school.
+
+**Trap:** Vesara can apply after form is described.
+
+#### Q20 — D
+
+- **A:** Incorrect — Ramappa is architecturally relevant.
+- **B:** Incorrect — Thousand Pillar Temple is Kakatiya.
+- **C:** Incorrect — plans varied in later Deccan.
+- **D:** Correct — D is correct because Ramappa helps with technology, patronage and conservation status, but not with careless exaggeration. A, B and C are plainly wrong.
+
+**Original rationale:** D is correct because Ramappa helps with technology, patronage and conservation status, but not with careless exaggeration. A, B and C are plainly wrong.
+
+**Trap:** Ramappa is architecturally relevant.
+
+#### Q21 — A
+
+- **A:** Correct — A is correct because temple evidence works precisely by combining ritual, patronage, administration, labour and selective social representation in one durable institution. B, C and D either flatten or absolutize the source value.
+- **B:** Incorrect — political and social evidence is substantial.
+- **C:** Incorrect — evidence extends beyond religion.
+- **D:** Incorrect — temple sculpture is selective, not a census.
+
+**Original rationale:** A is correct because temple evidence works precisely by combining ritual, patronage, administration, labour and selective social representation in one durable institution. B, C and D either flatten or absolutize the source value.
+
+**Trap:** Political and social evidence is substantial.
+
+#### Q22 — B
+
+- **A:** Incorrect — spire alone omits economic support.
+- **B:** Correct — B is correct because it links architecture to daily management and endowment. A is too narrow, C removes social content, and D is secondary evidence.
+- **C:** Incorrect — stone alone has no endowment record.
+- **D:** Incorrect — traveller praise alone cannot replace inscriptions.
+
+**Original rationale:** B is correct because it links architecture to daily management and endowment. A is too narrow, C removes social content, and D is secondary evidence.
+
+**Trap:** Spire alone omits economic support.
+
+#### Q23 — C
+
+- **A:** Incorrect — visual art can provide historical evidence.
+- **B:** Incorrect — representation is not a photograph.
+- **C:** Correct — C preserves both value and limit. A discards visual evidence, B treats representation as raw reality, and D reduces a wide field to one sensational register.
+- **D:** Incorrect — social scenes extend beyond erotic panels.
+
+**Original rationale:** C preserves both value and limit. A discards visual evidence, B treats representation as raw reality, and D reduces a wide field to one sensational register.
+
+**Trap:** Visual art can provide historical evidence.
+
+#### Q24 — D
+
+- **A:** Incorrect — 1838 rediscovery is not medieval building.
+- **B:** Incorrect — UNESCO date is modern.
+- **C:** Incorrect — dynasty sequence is construction history.
+- **D:** Correct — D is correct. The other options commit the chronology-mixing error that repeatedly costs marks.
+
+**Original rationale:** D is correct. The other options commit the chronology-mixing error that repeatedly costs marks.
+
+**Trap:** 1838 rediscovery is not medieval building.
+
+#### Q25 — A
+
+- **A:** Correct — A is correct because UNESCO counts the inscribed property, while ASI and local tradition speak differently about surviving or remembered totals. B, C and D remove that source discipline.
+- **B:** Incorrect — 85 is traditional not standing total.
+- **C:** Incorrect — 23 needs source and scope.
+- **D:** Incorrect — counts depend on what is enumerated.
+
+**Original rationale:** A is correct because UNESCO counts the inscribed property, while ASI and local tradition speak differently about surviving or remembered totals. B, C and D remove that source discipline.
+
+**Trap:** 85 is traditional not standing total.
+
+#### Q26 — B
+
+- **A:** Incorrect — not all granite.
+- **B:** Correct — B is the source-backed formulation. A, C and D flatten important material distinctions.
+- **C:** Incorrect — material influences carving.
+- **D:** Incorrect — most carving uses sandstone.
+
+**Original rationale:** B is the source-backed formulation. A, C and D flatten important material distinctions.
+
+**Trap:** Not all granite.
+
+#### Q27 — C
+
+- **A:** Incorrect — regional emphases differ.
+- **B:** Incorrect — late Dravida includes gopuras and tanks.
+- **C:** Correct — C is correct because it states the broad visual shift without making it absolute. A, B and D are overstatements or factual errors.
+- **D:** Incorrect — Nagara temples include sculpture.
+
+**Original rationale:** C is correct because it states the broad visual shift without making it absolute. A, B and D are overstatements or factual errors.
+
+**Trap:** Regional emphases differ.
+
+#### Q28 — D
+
+- **A:** Incorrect — Khajuraho is not a cave group.
+- **B:** Incorrect — both are not Nayaka.
+- **C:** Incorrect — Modhera is a Sun Temple.
+- **D:** Correct — D is correct because it distinguishes two different Nagara regional solutions. A, B and C are category errors.
+
+**Original rationale:** D is correct because it distinguishes two different Nagara regional solutions. A, B and C are category errors.
+
+**Trap:** Khajuraho is not a cave group.
+
+#### Q29 — A
+
+- **A:** Correct — A is correct because Lingaraja helps differentiate the Odisha/Kalinga branch from Khajuraho and other Nagara variants. The other options belong to different regional traditions.
+- **B:** Incorrect — Lingaraja is Odisha not Chandella.
+- **C:** Incorrect — not Vijayanagara Hampi.
+- **D:** Incorrect — not Hoysala soapstone.
+
+**Original rationale:** A is correct because Lingaraja helps differentiate the Odisha/Kalinga branch from Khajuraho and other Nagara variants. The other options belong to different regional traditions.
+
+**Trap:** Lingaraja is Odisha not Chandella.
+
+#### Q30 — B
+
+- **A:** Incorrect — 2025 demand is not only erotic imagery.
+- **B:** Correct — B is the safest way to unpack the wording. A narrows the answer fatally, while C and D leave the demand itself unanswered.
+- **C:** Incorrect — heritage law does not answer carving demand.
+- **D:** Incorrect — Chandella carving differs from Chola bronzes.
+
+**Original rationale:** B is the safest way to unpack the wording. A narrows the answer fatally, while C and D leave the demand itself unanswered.
+
+**Trap:** 2025 demand is not only erotic imagery.
+
+#### Q31 — C
+
+- **A:** Incorrect — estimate requires chronology and limits.
+- **B:** Incorrect — Pallava achievements are independently examinable.
+- **C:** Correct — C is correct because the directive 'estimate' requires both achievements and limits. A, B and D misread the demand.
+- **D:** Incorrect — Mamallapuram is central.
+
+**Original rationale:** C is correct because the directive 'estimate' requires both achievements and limits. A, B and D misread the demand.
+
+**Trap:** Estimate requires chronology and limits.
+
+#### Q32 — D
+
+- **A:** Incorrect — political narrative omits art evidence.
+- **B:** Incorrect — dynastic disappearance does not erase art.
+- **C:** Incorrect — one icon cannot fill 250 words.
+- **D:** Correct — D is correct because the 2024 demand asks why Chola achievement is remembered with pride. A, B and C all remove the multi-dimensional evidence that justifies that pride.
+
+**Original rationale:** D is correct because the 2024 demand asks why Chola achievement is remembered with pride. A, B and C all remove the multi-dimensional evidence that justifies that pride.
+
+**Trap:** Political narrative omits art evidence.
+
+#### Q33 — A
+
+- **A:** Correct — Each type has a distinct roof morphology and use.
+- **B:** Incorrect — These substitute unrelated structures for tower forms.
+- **C:** Incorrect — The three deul meanings have been deliberately rotated.
+- **D:** Incorrect — These are architectural types, not three stone materials.
+
+**Trap:** Do not equate every Odisha deul with the sanctum tower.
+
+#### Q34 — B
+
+- **A:** Incorrect — The name is linked by the source to a nearby durg, not a proved dedication.
+- **B:** Correct — Its plan and qualified name/dedication are separately supported.
+- **C:** Incorrect — The Yogini shrine belongs to another tradition and site.
+- **D:** Incorrect — Shore Temple belongs to the Pallava coast.
+
+**Trap:** Names of temples do not automatically identify their original dedication.
+
+#### Q35 — C
+
+- **A:** Incorrect — Aihole temple is not a Nayaka gateway complex.
+- **B:** Incorrect — Aihole Prashasti is on the Meguti wall, not Lad Khan’s roof.
+- **C:** Correct — Material form and guild inscription provide different types of evidence.
+- **D:** Incorrect — Chola bronze art belongs to a later regional programme.
+
+**Trap:** A guild reference does not make a named king the only temple patron.
+
+#### Q36 — D
+
+- **A:** Incorrect — Separate inscription for all three is not supported.
+- **B:** Incorrect — Pattadakal has an inscription year, 1987.
+- **C:** Incorrect — This reverses inscribed and tentative status.
+- **D:** Correct — The inscribed property and broader tentative proposal are distinct.
+
+**Trap:** Tentative-list status does not imply World Heritage inscription.
+
+#### Q37 — A
+
+- **A:** Correct — A ceremonial platform and royal pavilion are not temple sanctuaries.
+- **B:** Incorrect — These are both temple complexes.
+- **C:** Incorrect — Both halls are inside the temple programme.
+- **D:** Incorrect — Both are temple buildings despite different patrons.
+
+**Trap:** Ritual use alone does not turn royal architecture into a temple.
+
+#### Q38 — B
+
+- **A:** Incorrect — The source explicitly denies the chariot is monolithic; the hall is not a palace.
+- **B:** Correct — Both object construction and ceremonial hall type are source-attested.
+- **C:** Incorrect — Rang Mandapa at Vitthala has musical pillars.
+- **D:** Incorrect — Chariot and royal review platform are distinct features.
+
+**Trap:** Do not assume every stone chariot is hewn from a single block.
+
+#### Q39 — C
+
+- **A:** Incorrect — The named patron and gopura have been swapped.
+- **B:** Incorrect — Pattadakal and Hampi are distinct sites and dynastic settings.
+- **C:** Correct — These are the respective Chalukya and Vijayanagara identifications.
+- **D:** Incorrect — Neither belongs to the Khajuraho site.
+
+**Trap:** Homonymous temples require site and patron, not name alone.
+
+#### Q40 — D
+
+- **A:** Incorrect — This qualified material statement is supported.
+- **B:** Incorrect — ASI identifies named granite exceptions.
+- **C:** Incorrect — Raised open terraces characterise the mature plan.
+- **D:** Correct — Granite exceptions and Chaturbhuja orientation refute both absolutes.
+
+**Trap:** An architectural tendency is not an exceptionless universal.
+
+#### Q41 — A
+
+- **A:** Correct — Distinct dedications demonstrate the landscape’s religious breadth.
+- **B:** Incorrect — Every dedication has been reassigned to the wrong temple.
+- **C:** Incorrect — None of these conversions is supported by the source.
+- **D:** Incorrect — Yogini identity applies to a separate early shrine.
+
+**Trap:** Shared architectural vocabulary does not imply shared deity.
+
+#### Q42 — B
+
+- **A:** Incorrect — Neither belongs to the Harappan civic-drain network.
+- **B:** Correct — Named tank, site and period are correctly kept distinct.
+- **C:** Incorrect — Pattadakal and Hoysala attributions are misplaced.
+- **D:** Incorrect — Junagadh reservoir is a separate epigraphic water work.
+
+**Trap:** Do not collapse distinct ritual tanks into Harappan civic infrastructure.
+
+#### Q43 — C
+
+- **A:** Incorrect — A prashasti is selective praise, not a census.
+- **B:** Incorrect — Dynasty, medium and patron here are all misassigned.
+- **C:** Correct — Poet attribution is not a universal sculptor signature.
+- **D:** Incorrect — Inscriptional location and authorship are supported but praise is partisan.
+
+**Trap:** An inscription anchors a place and patron without becoming neutral history.
+
+#### Q44 — D
+
+- **A:** Incorrect — Early form does not establish current worship status.
+- **B:** Incorrect — Material does not determine ritual continuity.
+- **C:** Incorrect — Jain identity does not imply exclusive active worship.
+- **D:** Correct — The source singles out Matangeshvara in the named-site ledger.
+
+**Trap:** Archaeological preservation and continuing worship are distinct site statuses.
 
 ## PYQS AND ANSWER PRACTICE
 

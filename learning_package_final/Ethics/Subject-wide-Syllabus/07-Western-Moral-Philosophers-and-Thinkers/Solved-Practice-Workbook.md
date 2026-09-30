@@ -12,819 +12,513 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Applied set:** 24 constructed dilemmas test comparative reasoning and close distinctions. All solutions are in the separate key below.
+
 #### MCQ 1
 
-A district magistrate initially blames low vaccination uptake on community ignorance, then tests that assumption through field consultations and discovers that irregular clinic timings are the main cause. Which ethical method best describes this revision? Which source-grounded ethical principle most precisely explains the case?
+A licensing officer notices she assumes all street vendors are dishonest. Which Socratic practice most directly challenges this?
 
-A. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
+A. Examine the belief and ask what evidence could disprove it.
+B. Treat the assumption as a timeless moral truth.
+C. Ask only colleagues who already agree.
+D. Claim the Delphic maxim was authored verbatim by Socrates.
 
-B. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-C. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
-
-D. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-**Answer:** A
-**Explanation:** **Socratic examination converts introspection into reason-giving** is the controlling principle. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 2
 
-A selection-board chair records the assumptions behind an interview score, asks another member to challenge them and revises the score when the reasons prove inconsistent. Which Western thinker supplies the controlling method? Which source-grounded ethical principle most precisely explains the case?
+A state hires regulators solely on donors' recommendations despite a competitive exam. Which Platonic theme is relevant, with a democratic qualification?
 
-A. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
+A. Ignore specialist competence in favour of patronage.
+B. Value competence and wisdom, but retain publicly reviewable merit rules.
+C. Appoint an unaccountable philosopher-king with no elections.
+D. Assume wealth reliably reveals wisdom.
 
-B. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
-
-C. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-D. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-**Answer:** B
-**Explanation:** **Socratic examination converts introspection into reason-giving** is the controlling principle. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 3
 
-An ethics academy teaches procurement officers how hidden conflicts of interest distort judgment, arguing that recognising the ethical wrong is necessary before conduct can improve. Which Socratic proposition underlies the programme? Which source-grounded ethical principle most precisely explains the case?
+A district leader oscillates between violent crowd control and total inaction. What does Aristotle's mean demand?
 
-A. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
+A. Always choose the least intense response regardless of actual risk.
+B. Make whichever choice gets favourable press.
+C. Context-sensitive courage guided by practical wisdom and proportionate lawful action.
+D. A numerical midpoint between force levels in every case.
 
-B. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
-
-C. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-D. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-**Answer:** C
-**Explanation:** **Socratic intellectualism links virtue with knowledge of the good** is the controlling principle. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 4
 
-A department assumes that merely circulating conduct rules will make every employee virtuous, despite incentives encouraging concealment. Which limitation must qualify a simplistic use of Socratic intellectualism? Which source-grounded ethical principle most precisely explains the case?
+A procurement officer rejects a bribe solely because surveillance is active while intending to take it later. What Kantian distinction matters?
 
-A. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
+A. No completed offence means the maxim is morally good.
+B. The aggregate benefit of avoiding detection proves integrity.
+C. A profitable opportunity turns taking bribes into an imperfect duty.
+D. Outward conformity to duty differs from acting from duty.
 
-B. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-C. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
-
-D. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-**Answer:** D
-**Explanation:** **Socratic intellectualism links virtue with knowledge of the good** is the controlling principle. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 5
 
-A regulator separates investigation, adjudication and appellate review so that one unit cannot dominate the entire process. Which Platonic conception of justice provides the closest structural analogy? Which source-grounded ethical principle most precisely explains the case?
+An officer plans to favour one contractor but never signs a file. How should the 2024 Kant-attributed PYQ be handled?
 
-A. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
+A. Identify ethical failure of purpose without alleging a completed legal offence.
+B. Assert that the quotation appears in Kant's Groundwork verbatim.
+C. Convict the officer for a crime committed only in thought.
+D. Treat any fleeting intrusive thought as equivalent to a chosen intention.
 
-B. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
-
-C. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-D. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-**Answer:** A
-**Explanation:** **Platonic justice is harmony in soul and institution** is the controlling principle. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 6
 
-A senior officer lets political ambition and personal appetite override evidence and constitutional duty. In Plato's tripartite model, which failure of inner order does this illustrate? Which source-grounded ethical principle most precisely explains the case?
+A department proposes misleading beneficiaries to raise enrollment. What does Kant's humanity formula object to?
 
-A. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
+A. Giving citizens a truthful account of trade-offs.
+B. Using people merely as instruments instead of enabling informed choice.
+C. Any effort to explain eligibility in simple language.
+D. Every scheme producing aggregate benefit.
 
-B. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
-
-C. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-D. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
-
-**Answer:** B
-**Explanation:** **Platonic justice is harmony in soul and institution** is the controlling principle. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 7
 
-A state proposes allowing technical experts to make binding environmental decisions without public hearings or judicial review because expertise alone guarantees wisdom. Which caution about Plato is decisive? Which source-grounded ethical principle most precisely explains the case?
+An official asks whether a policy of concealing errors could be publicly applied by every officer. What test is being used?
 
-A. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
+A. Aristotle's numerical midpoint test.
+B. Bar-On's self-report trait model.
+C. Kant's universal-law test of the maxim.
+D. Rawls's literal anonymity requirement.
 
-B. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
-
-C. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-D. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
-
-**Answer:** C
-**Explanation:** **The philosopher-ruler analogy requires democratic qualification** is the controlling principle. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 8
 
-A public-service commission combines specialist competence with transparent selection, legislative standards and judicial review. Which qualified use of Plato's philosopher-ruler ideal does this illustrate? Which source-grounded ethical principle most precisely explains the case?
+A transport policy improves travel times for many but displaces a small tribal settlement without fair process. Which limit must supplement an aggregate-benefit claim?
 
-A. Socratic intellectualism treats knowledge of the good as a necessary condition of virtue and connects wrongdoing with ignorance, while disciplined training and character safeguards remain necessary for public administration.
+A. Headcounts alone erase individual entitlements.
+B. Economic growth proves all parties consented.
+C. The displaced can be ignored because they are few.
+D. Rights, rehabilitation and worst-off impacts constrain benefit counting.
 
-B. Plato defines justice as ordered harmony: reason governs spirit and appetite within the person, while each institutional part performs its proper function without usurping another's role.
-
-C. Socratic examination requires an official to surface assumptions, ask for reasons, test contradictions and seek counter-views before exercising discretion; it is an anti-bias discipline rather than private introspection alone.
-
-D. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power.
-
-**Answer:** D
-**Explanation:** **The philosopher-ruler analogy requires democratic qualification** is the controlling principle. Plato's philosopher-ruler represents knowledgeable and public-spirited rule, but it cannot be equated with modern technocracy or merit recruitment without adding constitutional accountability, participation and checks on elite power. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 9
 
-An officer rejects a lucrative but ethically compromised posting and chooses a career marked by integrity, public service and sustained excellence. Which Aristotelian end best evaluates the life as a whole? Which source-grounded ethical principle most precisely explains the case?
+A policymaker says Mill's harm principle authorises coercing competent adults simply to make them healthier. What is the objection?
 
-A. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
+A. Their own good alone does not suffice; ask about harm to others and decisional capacity.
+B. Mill forbids all action against any child in any situation.
+C. Any majority preference counts as harm to others.
+D. Voluntary education is equivalent to compulsory treatment.
 
-B. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-C. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
-
-D. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-**Answer:** A
-**Explanation:** **Eudaimonia is whole-life flourishing rather than transient pleasure** is the controlling principle. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 10
 
-A department equates employee well-being exclusively with short-term bonuses and entertainment events while ignoring meaningful work and character. Which Aristotelian distinction exposes the mistake? Which source-grounded ethical principle most precisely explains the case?
+An intoxicated person is about to make a serious uninformed decision. Which intervention best fits soft paternalism?
 
-A. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
+A. Treat the adult's present impaired choice as fully informed.
+B. Temporarily pause the act to assess capacity and give information.
+C. Permanently override every future competent refusal.
+D. Ban the activity for all adults regardless of capacity.
 
-B. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
-
-C. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-D. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-**Answer:** B
-**Explanation:** **Eudaimonia is whole-life flourishing rather than transient pleasure** is the controlling principle. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 11
 
-A probation programme repeatedly places trainees in supervised citizen-hearing situations so that patience, fairness and courage become reliable habits. Which Aristotelian mechanism explains the design? Which source-grounded ethical principle most precisely explains the case?
+A hospital offers a clearly explained opt-out appointment rather than mandatory treatment. How does this differ from hard paternalism?
 
-A. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
+A. The default alone establishes that the patient lacks capacity.
+B. A beneficial motive automatically legitimises forced treatment.
+C. A genuine easy opt-out retains meaningful choice.
+D. Any default is identical to an irreversible override.
 
-B. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
-
-C. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-D. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-**Answer:** C
-**Explanation:** **Virtue is a disposition built by habituated action** is the controlling principle. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 12
 
-An officer makes one conspicuous charitable donation but routinely humiliates beneficiaries. Why would Aristotle refuse to infer the virtue of generosity from the isolated act? Which source-grounded ethical principle most precisely explains the case?
+A benefits scheme is designed as if officials do not know whether they will be disabled applicants or administrators. What method is applied?
 
-A. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
+A. Socrates' claim that every intuition is knowledge.
+B. A literal requirement to destroy eligibility data.
+C. Kant's rule permitting exceptions for officials.
+D. Rawls's original position behind the veil of ignorance.
 
-B. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-C. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
-
-D. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-**Answer:** D
-**Explanation:** **Virtue is a disposition built by habituated action** is the controlling principle. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 13
 
-During a tense procession, a district magistrate rejects both indiscriminate force and complete inaction, selecting targeted restrictions proportionate to verified risks. Which Aristotelian doctrine structures the judgment? Which source-grounded ethical principle most precisely explains the case?
+A planner would sacrifice equal political liberty for a small income gain to the poorest. What is Rawls's constraint?
 
-A. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
+A. Equal basic liberties have lexical priority over distributive gains.
+B. The difference principle always overrides political liberty.
+C. Rawls requires all incomes to be identical.
+D. Fair opportunity is dispensable if median welfare rises.
 
-B. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
-
-C. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-D. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-**Answer:** A
-**Explanation:** **The Golden Mean is context-relative proportion, not arithmetic compromise** is the controlling principle. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 14
 
-An official argues that accepting a smaller bribe is the virtuous mean between taking a large bribe and refusing all payment. Which feature of Aristotle's doctrine makes this reasoning invalid? Which source-grounded ethical principle most precisely explains the case?
+A subsidy increases officials' ease but worsens access for the least advantaged. Which Rawlsian question is apt?
 
-A. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
+A. Can the strongest group privately bargain for exemption?
+B. Would one choose the rule without knowing one's social position?
+C. Did the current administrator personally consent?
+D. Does it maximise the convenience of the average official?
 
-B. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
-
-C. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-D. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
-
-**Answer:** B
-**Explanation:** **The Golden Mean is context-relative proportion, not arithmetic compromise** is the controlling principle. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 15
 
-Flood-relief rules do not anticipate a marooned migrant settlement. The collector uses evidence, humane judgment and recorded reasons to adapt delivery without abandoning legal safeguards. Which capacity is being exercised? Which source-grounded ethical principle most precisely explains the case?
+An inspector would punish a known innocent person to pacify a riot. Which distinction improves outcome-based analysis?
 
-A. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
+A. Rule utilitarianism is identical to Kantian duty.
+B. One crowd's preference always defines social welfare.
+C. A rule against punishing innocents preserves long-run trust even if one act seems advantageous.
+D. Act utilitarianism automatically enforces inviolable rights.
 
-B. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
-
-C. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-D. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
-
-**Answer:** C
-**Explanation:** **Phronesis supplies context-sensitive practical wisdom** is the controlling principle. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 16
 
-Two officers invoke personal wisdom to reach opposite decisions without evidence or recorded reasons. Which institutional qualification prevents phronesis from becoming arbitrary discretion? Which source-grounded ethical principle most precisely explains the case?
+A manager calls all calm displays genuine empathy, while clerks report chronic exhaustion. Which thinker helps diagnose the invisible burden?
 
-A. For Aristotle, moral virtue is a stable disposition formed through repeated right action and appropriate feeling; isolated good deeds or theoretical knowledge alone do not create a virtuous administrator.
+A. Plato's philosopher-king proves fatigue is imaginary.
+B. Rawls's veil measures every clerk's emotional skill.
+C. Mill's harm principle requires suppressing staff complaints.
+D. Hochschild's emotional labour identifies managed display and its cost.
 
-B. Aristotle's Golden Mean lies between excess and deficiency relative to the circumstances and agent; it is not a mathematical midpoint, and intrinsically wrong acts do not become virtuous through moderation.
-
-C. Aristotle's eudaimonia means flourishing across a complete life through rational virtuous activity; it is not a passing feeling of happiness, pleasure or satisfaction produced by one successful decision.
-
-D. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review.
-
-**Answer:** D
-**Explanation:** **Phronesis supplies context-sensitive practical wisdom** is the controlling principle. Aristotelian phronesis is the trained capacity to identify the appropriate virtue and proportion in a particular case, but administrative judgment must remain bounded by law, evidence and review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 17
 
-A procurement officer refuses a bribe solely because surveillance cameras are present, while intending to accept one later. Which Kantian distinction explains why outward compliance is ethically insufficient? Which source-grounded ethical principle most precisely explains the case?
+A young officer calls an illegal instruction ethical because it increases tax receipts. Which comparison clarifies the dispute?
 
-A. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
+A. Kant's duty and Mill's outcome can diverge; legality and rights limit the choice.
+B. Aristotle guarantees that all revenue-maximising acts are virtuous.
+C. Rawls asks only whether the officer personally benefits.
+D. Mill's liberty principle never concerns State coercion.
 
-B. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-C. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
-
-D. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-**Answer:** A
-**Explanation:** **Moral worth depends on acting from duty** is the controlling principle. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 18
 
-A civil servant discloses an error despite certain reputational loss because truthfulness is owed to citizens. Which feature gives the act Kantian moral worth? Which source-grounded ethical principle most precisely explains the case?
+A minister claims that kindness always permits concealment of a procurement conflict. How would a three-lens analysis respond?
 
-A. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
+A. Consequentialism cannot examine systemic trust.
+B. Duty resists deception, consequences include trust loss, and virtue demands honesty.
+C. All three frameworks excuse concealment when intended kindly.
+D. Virtue ethics considers only external legal penalties.
 
-B. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
-
-C. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-D. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-**Answer:** B
-**Explanation:** **Moral worth depends on acting from duty** is the controlling principle. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 19
 
-An officer proposes concealing audit findings whenever disclosure may delay a social project. If every official followed that maxim, public audit would become self-defeating. Which Kantian test reveals the contradiction? Which source-grounded ethical principle most precisely explains the case?
+A public employee voluntarily helps after hours at serious personal cost beyond assigned responsibilities. Which category may apply?
 
-A. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
+A. Automatic proof that all staff must accept indefinite overwork.
+B. No ethical significance because it was voluntary.
+C. Supererogation, if the help is praiseworthy but not obligatory in those circumstances.
+D. A perfect duty whose omission always deserves punishment.
 
-B. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
-
-C. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-D. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-**Answer:** C
-**Explanation:** **Universalisability tests the consistency of an official's maxim** is the controlling principle. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 20
 
-A licensing official waives documentation only for relatives but could not will a universal rule permitting all officers the same favouritism. Which formulation directly condemns the exception? Which source-grounded ethical principle most precisely explains the case?
+An officer adopts helping citizens as a duty but can choose which occasion and lawful form. Which Kantian category fits?
 
-A. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
+A. Perfect duty to give the same amount to every caller instantly.
+B. A claim that all assistance is optional charity.
+C. Hard paternalism to compel citizens to accept aid.
+D. Imperfect duty of beneficence: obligatory end, latitude in discharge.
 
-B. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-C. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
-
-D. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-**Answer:** D
-**Explanation:** **Universalisability tests the consistency of an official's maxim** is the controlling principle. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 21
 
-A district stages beneficiaries for a publicity event without informed consent and exposes their medical status to improve programme visibility. Which Kantian principle is most directly violated? Which source-grounded ethical principle most precisely explains the case?
+A low-cost rescue opportunity arises and an officer declines help, calling all aid heroic. What Rawlsian idea is relevant?
 
-A. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
+A. The natural duty of mutual aid for those in need at little cost.
+B. The difference principle's permission to deny emergency aid.
+C. Veil of ignorance as a literal anonymity policy.
+D. A guarantee that every risky rescue is obligatory.
 
-B. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
-
-C. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-D. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-**Answer:** A
-**Explanation:** **The humanity formula prohibits using citizens merely as means** is the controlling principle. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 22
 
-A rehabilitation plan gives displaced families complete information, meaningful consultation and real choice rather than treating compensation as purchase of compliance. Which Kantian requirement does it respect? Which source-grounded ethical principle most precisely explains the case?
+A public forum quotes Erikson on interdependence but proposes abolishing individual accountability. Which correction follows?
 
-A. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
+A. Teams cannot share information if responsibility is assigned.
+B. Coordination increases the need for assignable roles and review.
+C. Mutual dependence makes each official blameless.
+D. The quotation is verified in a named Erikson primary book.
 
-B. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
-
-C. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-D. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
-
-**Answer:** B
-**Explanation:** **The humanity formula prohibits using citizens merely as means** is the controlling principle. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 23
 
-An officer secretly resolves to favour a contractor but the tender is cancelled before any illegal award. Which distinction explains why criminal liability may be absent while ethical failure remains? Which source-grounded ethical principle most precisely explains the case?
+An administrator quotes the Dalai Lama on inner peace while ignoring threats to minority residents. What is the best objection?
 
-A. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
+A. Every public safety issue is purely psychological.
+B. A meditative official may lawfully ignore citizens' rights.
+C. Composure aids mediation but cannot replace protection and substantive justice.
+D. External peace follows automatically from private calm.
 
-B. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
-
-C. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
-
-D. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
-
-**Answer:** C
-**Explanation:** **Kantian ethical guilt concerns harboured intention and disposition** is the controlling principle. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 24
 
-A public employee experiences an unwanted prejudiced thought, rejects it and acts impartially. Why would the careful reading of Kant's reconstructed lecture reject automatic ethical guilt? Which source-grounded ethical principle most precisely explains the case?
+A medical officer pursues public-health gains but wants to compel a competent, informed person solely for that person's own good. Which diagnostic sequence is strongest?
 
-A. Kant's universal-law formulation asks whether the maxim underlying an act could be consistently willed as a rule for everyone, exposing self-serving exceptions invented for personal convenience.
+A. Assume a good outcome automatically authorises forced treatment.
+B. Ask only whether the person's choice offends most neighbours.
+C. Treat paternalism as always required whenever health matters.
+D. Assess capacity and consent, separate harm to others from self-regarding harm, then choose least coercive lawful means.
 
-B. Kant's humanity formulation requires treating every person as an end with rational agency, prohibiting officials from using citizens merely as instruments for targets, revenue, publicity or political advantage.
 
-C. Kant distinguishes acting from duty from merely conforming to duty: outwardly correct conduct lacks full moral worth when motivated only by advantage, fear of detection or expected praise.
+### Separate answer key and option-by-option explanations
 
-D. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts.
+#### MCQ 1 — A
 
-**Answer:** D
-**Explanation:** **Kantian ethical guilt concerns harboured intention and disposition** is the controlling principle. The 2024 Kant quotation contrasts external legal violation with ethical appraisal of a harboured wrongful intention; it must not be converted into punishment for involuntary or passing thoughts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Self-examination exposes hidden premises before exercising discretion.
+- **B:** An assumption needs testing, not reverence.
+- **C:** Agreement alone does not correct bias.
+- **D:** The maxim has a separate Delphic provenance.
 
----
-
-#### MCQ 25
-
-A city compares a commercial entertainment project with a public-library network that yields fewer immediate visits but deeper educational and civic benefits. Which Millian refinement is relevant? Which source-grounded ethical principle most precisely explains the case?
-
-A. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-B. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-C. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-D. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-**Answer:** A
-**Explanation:** **Millian utility includes qualitative differences among pleasures** is the controlling principle. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Reflection needs a possible counterexample.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-A welfare department counts only the number of beneficiaries reached and ignores the dignity, quality and durability of outcomes. Which limitation of a crude utility calculation does this reveal? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Patronage is the problem, not its cure.
+- **B:** Wisdom-led office can be translated into transparent modern appointments.
+- **C:** Ancient elite rule is not a licence to override democracy.
+- **D:** Possessions do not establish wisdom.
 
-A. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-B. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-C. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-D. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-**Answer:** B
-**Explanation:** **Millian utility includes qualitative differences among pleasures** is the controlling principle. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Translate Plato; do not import unchecked guardianship.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-To calm a mob, an officer considers framing one innocent person, but then evaluates the long-run consequences of a general rule permitting such punishment. Which utilitarian variant performs the second test? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Proportionality may require firmness where risk is real.
+- **B:** Publicity is no substitute for judgment.
+- **C:** Phronesis identifies appropriate action in particular circumstances.
+- **D:** Virtue is not an arithmetic average.
 
-A. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-B. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-C. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-D. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-**Answer:** C
-**Explanation:** **Act and rule utilitarianism evaluate different objects** is the controlling principle. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** A golden mean is context-relative, not arithmetic.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A student states without qualification that Mill invented and unequivocally endorsed modern rule utilitarianism. Which historical caution should correct the claim? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Legal innocence alone cannot establish good will.
+- **B:** Fear of detection is not duty as motive.
+- **C:** Imperfect beneficence does not licence corrupt acquisition.
+- **D:** Kant tests the intention and maxim beyond external compliance.
 
-A. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-B. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-C. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-D. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-**Answer:** D
-**Explanation:** **Act and rule utilitarianism evaluate different objects** is the controlling principle. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not criminalise passing thoughts; evaluate settled wrongful intention.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-A municipality bans an unconventional peaceful performance solely because many residents find it offensive, although no demonstrable injury is shown. Which Millian distinction weighs against the ban? Which source-grounded ethical principle most precisely explains the case?
+- **A:** An intended favour can violate ethical duty before legal rights are breached.
+- **B:** The paper's wording is not from that published work.
+- **C:** Ethical guilt is not a substitute for legal elements.
+- **D:** Unwilled thoughts differ from adopted maxims.
 
-A. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-B. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-C. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-D. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-**Answer:** A
-**Explanation:** **The harm principle creates a presumption against coercion** is the controlling principle. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Distinguish attribution, moral intention and legal act.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-A factory's private operating choices contaminate a village water source. Which side of Mill's self-regarding and other-regarding distinction justifies state intervention? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Disclosure is the opposite of the deception problem.
+- **B:** Deception treats persons as means to a target.
+- **C:** Accessible truthful explanation respects agency.
+- **D:** Aggregate benefits do not by themselves define the humanity formula.
 
-A. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-B. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-C. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-D. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-**Answer:** B
-**Explanation:** **The harm principle creates a presumption against coercion** is the controlling principle. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Even popular outcomes cannot erase instrumentalisation.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-A police chief defends due process because a stable rule against arbitrary arrest maximises long-run trust and security. Which theory justifies the rule through its consequences rather than inherent duty? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Virtue is not a fixed calculation.
+- **B:** EI trait measurement is a different subject.
+- **C:** Generalising the underlying permission exposes a self-defeating rule.
+- **D:** Rawls uses a hypothetical fairness device, not secrecy.
 
-A. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-B. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-C. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-D. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-**Answer:** C
-**Explanation:** **Utilitarian rights safeguards remain consequential and contestable** is the controlling principle. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Test the rule you permit yourself, not merely its result.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-A policymaker claims that calling a policy rule-utilitarian makes individual rights absolute and immune from future welfare calculations. Which conceptual limit invalidates the claim? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Utilitarian arithmetic can mask minority harm.
+- **B:** Benefit does not establish consent.
+- **C:** Small numbers do not erase rights.
+- **D:** Distribution and rights remain relevant to ethical appraisal.
 
-A. Act utilitarianism evaluates the consequences of a particular act, whereas rule utilitarianism evaluates generally followed rules; treating Mill himself as exclusively a rule utilitarian remains a disputed interpretation.
-
-B. Mill permits coercion of a competent adult principally to prevent harm to others, not merely offence, moral dislike or paternalistic enforcement of majority preferences; the boundary of harm remains contestable.
-
-C. Utilitarianism evaluates acts and policies by their contribution to aggregate happiness or welfare, while Mill's distinction between higher and lower pleasures rejects a purely quantitative or majority-headcount calculus.
-
-D. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology.
-
-**Answer:** D
-**Explanation:** **Utilitarian rights safeguards remain consequential and contestable** is the controlling principle. Rule-utilitarian support for stable rights and Mill's liberty principle constrain crude welfare maximisation, but they do not make every liberty-welfare conflict disappear or turn utilitarianism into deontology. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not make minorities invisible inside totals.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-A committee designs disability-benefit access while imagining that any member could later be a remote, poor or disabled applicant. Which Rawlsian device guides the exercise? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Coercion of an informed competent adult for own good is hard paternalism.
+- **B:** Mill allows distinctions based on maturity.
+- **C:** Disapproval alone is not harm.
+- **D:** Informing respects rather than overrides choice.
 
-A. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-B. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-C. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-D. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-**Answer:** A
-**Explanation:** **The original position filters morally arbitrary advantage** is the controlling principle. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not conflate beneficence with authority to coerce.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-An official rejects the veil of ignorance because policymakers cannot literally erase knowledge of their identities. Which distinction shows why this objection misunderstands Rawls? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Impairment defeats the informed-choice condition.
+- **B:** A temporary capacity-based intervention can restore autonomy.
+- **C:** Perpetual override exceeds the temporary defect.
+- **D:** General coercion is not grounded in this case.
 
-A. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-B. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-C. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-D. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-**Answer:** B
-**Explanation:** **The original position filters morally arbitrary advantage** is the controlling principle. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Soft intervention protects rather than replaces agency.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A government proposes suppressing peaceful criticism because investor confidence and tax revenue may rise. Which Rawlsian priority blocks trading a basic liberty for economic gain? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Defaults do not establish incompetence.
+- **B:** Beneficence requires attention to consent.
+- **C:** Low-friction nudge and coercive override burden autonomy differently.
+- **D:** Choice architecture need not extinguish choice.
 
-A. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-B. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-C. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-D. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-**Answer:** C
-**Explanation:** **Equal basic liberties have lexical priority** is the controlling principle. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Verify that the opt-out is genuine, not decorative.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-A welfare programme improves average income but conditions benefits on surrendering freedom of association. Which first step in Rawls's ordering has the programme failed? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Socratic reflection has another target.
+- **B:** Real implementation still needs accurate data.
+- **C:** Special privileges fail universal duty.
+- **D:** Hypothetical ignorance tests institutional fairness across positions.
 
-A. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-B. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-C. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-D. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-**Answer:** D
-**Explanation:** **Equal basic liberties have lexical priority** is the controlling principle. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** The veil is a thought experiment, not data deletion.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-A civil-service examination is formally open to all, but inaccessible centres and unavailable assistive technology exclude many disabled candidates. Which Rawlsian standard is unmet? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Basic liberty comes first in the order of justice principles.
+- **B:** The principles are not freely tradeable.
+- **C:** Difference principle permits some beneficial inequality.
+- **D:** A median gain is not fair opportunity.
 
-A. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-B. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-C. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-D. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-**Answer:** A
-**Explanation:** **Fair equality of opportunity precedes the difference principle** is the controlling principle. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not invert the priority ordering.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-A policy increases income for the poorest but reserves influential public offices for one hereditary group. Which lexical priority prevents invoking the difference principle as a defence? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Private bargaining is not impartial design.
+- **B:** The veil tests rules from unknown positions, including the worst-off.
+- **C:** An administrator's comfort is not general justice.
+- **D:** Ease alone ignores distributive effects.
 
-A. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-B. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-C. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-D. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-**Answer:** B
-**Explanation:** **Fair equality of opportunity precedes the difference principle** is the controlling principle. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Rawls tests the institution, not a single generous officer.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-A higher rural-service allowance attracts doctors to underserved districts and materially improves care for the worst-off. Which Rawlsian principle can justify the pay inequality? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Rules are justified by welfare in rule utilitarianism, not duty alone.
+- **B:** A crowd is not the whole affected public.
+- **C:** Rule consequences include systemic effects of unjust punishment.
+- **D:** Act calculations can yield troubling exceptions.
 
-A. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-B. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-C. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-D. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-**Answer:** C
-**Explanation:** **The difference principle civilises rather than abolishes inequality** is the controlling principle. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Long-run rules can resist but may not fully solve exception problems.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-A subsidy enriches an already privileged industry while offering only symbolic benefits to poor households. Which Rawlsian burden has not been discharged? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Elite leadership theory does not measure emotional burden.
+- **B:** Veil reasoning tests institutions, not EI skill directly.
+- **C:** Staff testimony is not excluded by liberty reasoning.
+- **D:** Role-bound display can exhaust staff despite outward courtesy.
 
-A. Rawls gives equal basic liberties lexical priority over social and economic advantages; they cannot be reduced merely to secure higher income, administrative efficiency or greater aggregate welfare.
-
-B. Fair equality of opportunity requires genuinely accessible offices and prospects, not merely formal non-discrimination, and it takes priority within Rawls's second principle over the difference principle.
-
-C. Rawls's original position is a device of representation in which parties choose principles without knowing morally arbitrary facts about their eventual class, talents, identity or conception of the good.
-
-D. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer.
-
-**Answer:** D
-**Explanation:** **The difference principle civilises rather than abolishes inequality** is the controlling principle. Rawls permits social and economic inequality only when it benefits the least advantaged after liberty and fair opportunity are secured; the principle neither requires identical outcomes nor validates every transfer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not confuse performed courtesy with costless feeling.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A dam proposal promises aggregate electricity benefits, displaces tribal families and uses a consultation process designed without vulnerable voices. Which multi-theory method gives the most complete evaluation? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Theories ask different questions, and desirable revenues do not legalise breach.
+- **B:** Character cannot be reduced to revenue totals.
+- **C:** Justice design exceeds an agent's advantage.
+- **D:** The harm principle specifically tests coercive interference.
 
-A. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-B. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-C. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-D. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-**Answer:** A
-**Explanation:** **Four ethical lenses test different objects** is the controlling principle. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Name the tie-break, do not stack labels without a verdict.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-An answer applies only cost-benefit analysis to a forced-relocation case and never tests dignity, proportionality or institutional fairness. Which comparative architecture identifies the omissions? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Outcomes include long-run institutional damage.
+- **B:** Distinct lenses can converge against concealment for different reasons.
+- **C:** Benevolent motive does not erase conflict.
+- **D:** Character assessment extends beyond sanctions.
 
-A. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-B. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-C. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-D. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-**Answer:** B
-**Explanation:** **Four ethical lenses test different objects** is the controlling principle. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Show why convergence occurs rather than announcing it.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-A department's conduct code prohibits gifts, while its ethics statement asks officials to cultivate impartial motives and public-service commitment. Which qualified Kantian analogy explains the two layers? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Heroic conduct should not become a universal staffing policy.
+- **B:** Voluntary help can still carry moral value.
+- **C:** The defining test is praise for doing it without blame for omission.
+- **D:** Perfect duties have no such latitude.
 
-A. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-B. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-C. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-D. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-**Answer:** C
-**Explanation:** **Codes of ethics and conduct only partially mirror Kant's distinction** is the controlling principle. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** First check baseline legal and professional duties.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-A trainee claims every code-of-conduct breach is legal guilt and every unworthy motive is formally punishable. Which limit of the ethics-conduct analogy corrects the claim? Which source-grounded ethical principle most precisely explains the case?
+- **A:** A strict identical act is not wide duty.
+- **B:** Beneficence can be a duty.
+- **C:** Helping does not imply overriding competent refusal.
+- **D:** Wide duties require the end but allow reasoned discretion in execution.
 
-A. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-B. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-C. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-D. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-**Answer:** D
-**Explanation:** **Codes of ethics and conduct only partially mirror Kant's distinction** is the controlling principle. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Latitude in means is not licence to ignore the end.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-A candidate cannot trace an assigned quotation to the named thinker's published work but explains its ethical meaning and writes 'as attributed in the question.' Which scholarly discipline is being followed? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Mutual aid can be required when the cost is modest.
+- **B:** Institutional inequality principle is not an excuse for indifference.
+- **C:** A hypothetical device is not field secrecy.
+- **D:** Cost and risk affect what duty demands.
 
-A. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-B. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-C. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-D. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-**Answer:** A
-**Explanation:** **Paper-attributed quotations require explicit provenance discipline** is the controlling principle. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Not every helpful act is supererogatory.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-A model answer fabricates a book title and page number for the 2020 Socrates quotation to appear authoritative. Which source-handling rule has been violated? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Clear roles can coexist with communication.
+- **B:** Shared work still needs accountable decisions.
+- **C:** No member is exempt merely because others contribute.
+- **D:** Exact primary source is unverified.
 
-A. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-B. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-C. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-D. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-**Answer:** B
-**Explanation:** **Paper-attributed quotations require explicit provenance discipline** is the controlling principle. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Avoid fabricated attribution and responsibility diffusion.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-An officer uses the India AI Governance Guidelines to compare philosophical approaches but clearly labels every thinker-link as her own analytical mapping. Which evidence practice makes the use valid? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Public harms demand institutional action.
+- **B:** Rights obligations remain in force.
+- **C:** Self-regulation is a precondition for, not substitute for, fair intervention.
+- **D:** Calm alone cannot remove material threats.
 
-A. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-B. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
-
-C. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-D. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-**Answer:** C
-**Explanation:** **AI-governance philosopher mappings are analytical inferences** is the controlling principle. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not invent a primary source for the paper-attributed sentence.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-A presentation claims that MeitY officially classified its seven sutras under Kant, Mill, Rawls, Aristotle and Socrates. Which provenance correction is required? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Welfare benefit alone cannot establish authority.
+- **B:** Moral dislike is not third-party harm.
+- **C:** Information and voluntary support may suffice.
+- **D:** Autonomy and Mill's harm constraint must precede coercion.
 
-A. Codes of ethics may address motives, values and aspirations while codes of conduct regulate external acts, but this is an administrative analogy to Kant's ethical-legal distinction rather than a complete identity.
+**Trap:** Do not confuse benevolence with jurisdiction.
 
-B. UPSC-attributed Socrates, Dalai Lama, Erik Erikson, Potter Stewart and William James quotations should be interpreted for their ethical meaning while avoiding invented primary-text citations or exaggerated authenticity claims.
-
-C. Kant tests maxims and respect, Mill tests consequences and harm, Aristotle tests character and proportion, while Rawls tests whether the underlying institution or distributive rule is fair.
-
-D. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification.
-
-**Answer:** D
-**Explanation:** **AI-governance philosopher mappings are analytical inferences** is the controlling principle. Mapping People First to Kant, Fairness and Equity to Rawls, safety to Mill, proportionate governance to Aristotle and explainability to Socrates is an analytical inference, not an official classification. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,23 +540,6 @@ Thus, the appropriate position is qualified means-priority: pursue legitimate pu
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “With regard to morality of actions, one view is that means are of paramount importance and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “With regard to morality of actions, one view is that means are of paramount importance and the other view is that the ends justify the means. Which…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “With regard to morality of actions, one view is that means are of paramount importance and the other view is that the ends justify the means. Which…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “With regard to morality of actions, one view is that means are of paramount importance and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2018 — 10 marks
 
@@ -882,23 +559,6 @@ The quotation does not mean that every right can be traded for a larger numerica
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"The true rule, in determining to embrace, or reject any thing, is not whether it has any…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"The true rule, in determining to embrace, or reject any thing, is not whether it has any evil in it; but whether it has more evil than…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"The true rule, in determining to embrace, or reject any thing, is not whether it has any evil in it; but whether it has more evil than…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"The true rule, in determining to embrace, or reject any thing, is not whether it has any…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2019 — 10 marks
 
@@ -918,23 +578,6 @@ Introspection alone is insufficient because people can rationalise self-interest
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"An unexamined life is not worth living." — Socrates. What does this quotation mean to you?…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"An unexamined life is not worth living." — Socrates. What does this quotation mean to you? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"An unexamined life is not worth living." — Socrates. What does this quotation mean to you? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"An unexamined life is not worth living." — Socrates. What does this quotation mean to you?…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2020 — 10 marks
 
@@ -954,23 +597,6 @@ For example, a lawful biometric rule may still be unethical if it excludes elder
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2020 — 10 marks
 
@@ -990,23 +616,6 @@ The statement should not be read as making emotion ethically worthless. Empathy 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"A system of morality which is based on relative emotional values is a mere illusion, a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"A system of morality which is based on relative emotional values is a mere illusion, a thoroughly vulgar conception which has nothing sound in it…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"A system of morality which is based on relative emotional values is a mere illusion, a thoroughly vulgar conception which has nothing sound in it…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"A system of morality which is based on relative emotional values is a mere illusion, a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2021 — 10 marks
 
@@ -1026,23 +635,6 @@ Yet internal calm is only a precondition. Peace also requires justice, protectio
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"We can never obtain peace in the outer world until and unless we obtain peace within…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"We can never obtain peace in the outer world until and unless we obtain peace within ourselves." — Dalai Lama. What does this quotation mean to you?…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"We can never obtain peace in the outer world until and unless we obtain peace within ourselves." — Dalai Lama. What does this quotation mean to you?…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"We can never obtain peace in the outer world until and unless we obtain peace within…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2021 — 10 marks
 
@@ -1062,23 +654,6 @@ Interdependence does not erase personal accountability; each actor remains respo
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Life doesn't make any sense without interdependence. We need each other, and the sooner we…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Life doesn't make any sense without interdependence. We need each other, and the sooner we learn that, it is better for us all." — Erik Erikson.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Life doesn't make any sense without interdependence. We need each other, and the sooner we learn that, it is better for us all." — Erik Erikson.…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Life doesn't make any sense without interdependence. We need each other, and the sooner we…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2022 — 10 marks
 
@@ -1098,23 +673,6 @@ Ethics cannot, however, authorise officials to ignore law according to personal 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Ethics is knowing the difference between what you have the right to do and what is right…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Ethics is knowing the difference between what you have the right to do and what is right to do." — Potter Stewart. What does this quotation mean to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Ethics is knowing the difference between what you have the right to do and what is right to do." — Potter Stewart. What does this quotation mean to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Ethics is knowing the difference between what you have the right to do and what is right…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2022 — 10 marks
 
@@ -1134,23 +692,6 @@ Sacrifice itself is not automatically noble: surrendering health, family duties 
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"Judge your success by what you had to give up in order to get it." — Dalai Lama. What does…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"Judge your success by what you had to give up in order to get it." — Dalai Lama. What does this quotation mean to you? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"Judge your success by what you had to give up in order to get it." — Dalai Lama. What does this quotation mean to you? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"Judge your success by what you had to give up in order to get it." — Dalai Lama. What does…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2024 — 10 marks
 
@@ -1170,23 +711,6 @@ The statement must not become a doctrine of guilt for intrusive or passing thoug
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he only thinks of doing so." — Immanuel Kant. What does…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he only thinks of doing so." — Immanuel Kant. What does…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2025 — 10 marks
 
@@ -1208,23 +732,6 @@ Attitude alone cannot remove poverty, discrimination, inadequate budgets or stru
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “"The greatest discovery of my generation is that a human being can alter his life by…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes." — William James. What does this…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes." — William James. What does this…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “"The greatest discovery of my generation is that a human being can alter his life by…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1242,23 +749,6 @@ The 2024 UPSC wording needs a careful limit. Infield's 1930 Lectures on Ethics, 
 
 ---
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the ethical significance of Kant's distinction between legal guilt and ethical…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain the ethical significance of Kant's distinction between legal guilt and ethical guilt for contemporary public administration. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain the ethical significance of Kant's distinction between legal guilt and ethical guilt for contemporary public administration. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain the ethical significance of Kant's distinction between legal guilt and ethical…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1276,23 +766,6 @@ Aristotle does not imply that every act has a moderate version: bribery or tortu
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “How do Aristotle's Golden Mean and phronesis improve proportionality in administrative…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “How do Aristotle's Golden Mean and phronesis improve proportionality in administrative decision-making? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “How do Aristotle's Golden Mean and phronesis improve proportionality in administrative decision-making? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “How do Aristotle's Golden Mean and phronesis improve proportionality in administrative…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1312,23 +785,6 @@ Therefore the harm principle is a strong presumption for liberty, not a complete
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Can Mill's harm principle provide an adequate ethical constraint on utilitarian public…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Can Mill's harm principle provide an adequate ethical constraint on utilitarian public policy? Discuss with suitable Indian administrative examples.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Can Mill's harm principle provide an adequate ethical constraint on utilitarian public policy? Discuss with suitable Indian administrative examples.…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Can Mill's harm principle provide an adequate ethical constraint on utilitarian public…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1348,23 +804,6 @@ The veil remains a heuristic, not a literal policymaking procedure, and real des
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Apply Rawls's lexical priorities to evaluate the design of a targeted welfare scheme in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Apply Rawls's lexical priorities to evaluate the design of a targeted welfare scheme in India. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Apply Rawls's lexical priorities to evaluate the design of a targeted welfare scheme in India. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Apply Rawls's lexical priorities to evaluate the design of a targeted welfare scheme in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1388,23 +827,6 @@ The verdict is conditional approval only after independent alternatives assessme
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “A large infrastructure project promises substantial public benefits but will displace a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A large infrastructure project promises substantial public benefits but will displace a small tribal community. Evaluate the decision through Kant,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A large infrastructure project promises substantial public benefits but will displace a small tribal community. Evaluate the decision through Kant,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A large infrastructure project promises substantial public benefits but will displace a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1421,21 +843,3 @@ Mill links innovation to harm prevention. Regulation should address demonstrable
 The framework's ethical strength will depend on implementation: assigned accountability, accessible explanations, grievance redress, human oversight, bias testing and evidence of inclusion. Principles alone do not prove ethical outcomes. The appropriate verdict is innovation under human dignity, fairness, demonstrable safety and publicly reviewable reasons. Independent audit and effective remedies are necessary when automated decisions deny public benefits or reproduce exclusion.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Philosophically audit India's contemporary AI-governance framework through Kant, Mill,…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Philosophically audit India's contemporary AI-governance framework through Kant, Mill, Rawls, Aristotle and Socrates. Answer in about 250 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Philosophically audit India's contemporary AI-governance framework through Kant, Mill, Rawls, Aristotle and Socrates. Answer in about 250 words.”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Philosophically audit India's contemporary AI-governance framework through Kant, Mill,…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

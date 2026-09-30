@@ -2,553 +2,1051 @@
 
 **Status cutoff:** 10 September 2026.
 
-**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers rotate A -> B -> C -> D eight times. Every option has a question-specific explanation and every MCQ has a unique trap.
+**Practice contract:** 40 coverage-driven MCQ questions precede their separate answer key and PYQs; letters rotate A-B-C-D, with individual option explanations and traps.
 
-## BASIC MCQS / REMEDIATION
+## 40 MCQ QUESTIONS
 
-### Q1. Which statement correctly distinguishes primary and secondary energy?
+### MCQ 01
+
+**Question:** Which statement correctly distinguishes primary and secondary energy?
 
 A. Crude oil is primary, while petrol and electricity are secondary carriers.
+
 B. Electricity is always primary because it powers final use.
+
 C. Hydrogen is a geological primary resource in energy accounts.
+
 D. Final energy is measured before conversion losses.
 
-**Answer: A**
+### MCQ 02
 
-**Option explanations:**
-- **A is correct:** Crude exists before conversion; petrol and electricity are produced carriers.
-- **B is incorrect:** Electricity normally results from conversion of a primary source.
-- **C is incorrect:** Hydrogen must be produced and therefore acts as a carrier.
-- **D is incorrect:** Final energy reaches the user after upstream conversion and network losses.
-
-**UPSC trap:** Primary, secondary and final describe positions in a conversion chain.
-
-### Q2. Which classification is most accurate?
+**Question:** Which classification is most accurate?
 
 A. All biomass is non-commercial energy.
+
 B. Commercial/non-commercial and modern/traditional are separate axes.
+
 C. Every renewable source is non-commercial.
+
 D. Traditional fuel use proves absence of an electricity connection.
 
-**Answer: B**
+### MCQ 03
 
-**Option explanations:**
-- **A is incorrect:** Modern pellets and biogas may be traded commercially.
-- **B is correct:** A fuel can be commercial yet traditional, or renewable yet modern.
-- **C is incorrect:** Solar and wind electricity are commonly sold through markets and contracts.
-- **D is incorrect:** Fuel stacking can persist after electrification because of affordability or reliability.
-
-**UPSC trap:** Do not collapse market status into technology quality.
-
-### Q3. At 31 December 2025, what did the 51.93% figure denote?
+**Question:** At 31 December 2025, what did the 51.93% figure denote?
 
 A. Non-fossil share of total primary energy.
+
 B. Renewable share of final energy consumption.
+
 C. Non-fossil share of installed electricity capacity.
+
 D. Non-fossil share of April-December electricity generation.
 
-**Answer: C**
+### MCQ 04
 
-**Option explanations:**
-- **A is incorrect:** The Ministry table concerns installed power capacity, not primary energy.
-- **B is incorrect:** No final-consumption denominator appears in that capacity table.
-- **C is correct:** The annual report labels total non-fossil capacity as 51.93% of installed capacity.
-- **D is incorrect:** April-December 2025 non-fossil generation was 30.41%, a separate flow.
-
-**UPSC trap:** Capacity share and generation share use different denominators and periods.
-
-### Q4. A 100 MW battery with 400 MWh usable energy can ideally discharge at rated power for approximately:
+**Question:** A 100 MW battery with 400 MWh usable energy can ideally discharge at rated power for approximately:
 
 A. One hour
+
 B. Two hours
+
 C. Three hours
+
 D. Four hours
 
-**Answer: D**
+### MCQ 05
 
-**Option explanations:**
-- **A is incorrect:** One hour would use only 100 MWh of the stated energy.
-- **B is incorrect:** Two hours would use 200 MWh, half the stated store.
-- **C is incorrect:** Three hours would use 300 MWh, below the stated store.
-- **D is correct:** Energy divided by power gives four hours before efficiency and operating limits.
-
-**UPSC trap:** Storage must state both MW and MWh.
-
-### Q5. Which statement about PLF is correct?
+**Question:** Which statement about PLF is correct?
 
 A. It measures utilisation of thermal capacity over a period, not thermal efficiency.
+
 B. It equals coal's share of total generation.
+
 C. It is the maximum demand met by a system.
+
 D. It measures billing and collection performance.
 
-**Answer: A**
+### MCQ 06
 
-**Option explanations:**
-- **A is correct:** PLF compares actual thermal output with output possible at rated capacity.
-- **B is incorrect:** Generation share is an energy-mix ratio with another denominator.
-- **C is incorrect:** Peak demand met is an instantaneous power statistic.
-- **D is incorrect:** Billing and collection enter AT&C and revenue metrics.
-
-**UPSC trap:** Low PLF has several possible causes; do not diagnose efficiency from it.
-
-### Q6. Which proposition about deficits is valid?
+**Question:** Which proposition about deficits is valid?
 
 A. Zero peak deficit proves zero local outages.
+
 B. Peak deficit and energy deficit measure different dimensions of shortage.
+
 C. Energy deficit is measured only in MW.
+
 D. Peak deficit equals the ACS-ARR gap.
 
-**Answer: B**
+### MCQ 07
 
-**Option explanations:**
-- **A is incorrect:** National peak balance can coexist with local distribution failures.
-- **B is correct:** Peak deficit concerns MW at the maximum interval; energy deficit concerns cumulative supply.
-- **C is incorrect:** Energy deficit uses energy units or a percentage of requirement.
-- **D is incorrect:** ACS-ARR is financial under-recovery in Rs/kWh.
-
-**UPSC trap:** National adequacy is not identical to local service reliability.
-
-### Q7. Why is security-constrained dispatch broader than a simple merit order?
+**Question:** Why is security-constrained dispatch broader than a simple merit order?
 
 A. It ignores variable cost.
+
 B. It applies only to renewable generators.
+
 C. It includes congestion, reserves and technical operating limits.
+
 D. It fixes retail tariffs.
 
-**Answer: C**
+### MCQ 08
 
-**Option explanations:**
-- **A is incorrect:** Variable cost remains important within the eligible set.
-- **B is incorrect:** Dispatch covers all scheduled resources under applicable rules.
-- **C is correct:** Grid security, ramping, minimum load and congestion constrain pure cost ranking.
-- **D is incorrect:** Retail tariff is determined by the relevant commission.
-
-**UPSC trap:** Merit order is nested inside technical and security constraints.
-
-### Q8. Which institution-function pair is correct?
+**Question:** Which institution-function pair is correct?
 
 A. CEA - retail tariff adjudication
+
 B. CERC - household electrification execution
+
 C. SERC - national load despatch
+
 D. Grid Controller India - national and regional system operation
 
-**Answer: D**
+### MCQ 09
 
-**Option explanations:**
-- **A is incorrect:** CEA is the technical planning and standards authority.
-- **B is incorrect:** CERC regulates specified inter-state and central matters.
-- **C is incorrect:** SERC regulates state matters; SLDC performs state system operation.
-- **D is correct:** Grid Controller India operates NLDC and regional load-despatch functions.
-
-**UPSC trap:** Separate technical authority, regulator, network utility and operator.
-
-### Q9. What is the Electricity (Amendment) Bill, 2025 status at the cutoff used here?
+**Question:** What is the Electricity (Amendment) Bill, 2025 status at the cutoff used here?
 
 A. A draft proposal, with no located enactment replacing the 2003 Act.
+
 B. A constitutional amendment already in force.
+
 C. A CERC tariff regulation.
+
 D. A state code automatically binding nationwide.
 
-**Answer: A**
+### MCQ 10
 
-**Option explanations:**
-- **A is correct:** The Ministry circulated a draft; no enactment was located by 10 September 2026.
-- **B is incorrect:** This is not a constitutional-amendment measure.
-- **C is incorrect:** A parliamentary Bill is not a commission regulation.
-- **D is incorrect:** A state code cannot enact a central parliamentary Bill.
-
-**UPSC trap:** Proposal, passage, assent and commencement are separate stages.
-
-### Q10. Which tariff statement is correct?
+**Question:** Which tariff statement is correct?
 
 A. A low consumer tariff always proves low system cost.
+
 B. Explicit subsidy and cross-subsidy have different payers and incidence.
+
 C. Regulatory assets eliminate the underlying cost.
+
 D. Fixed charges vary only with each kWh.
 
-**Answer: B**
+### MCQ 11
 
-**Option explanations:**
-- **A is incorrect:** Low tariffs may conceal subsidy, debt or deferred maintenance.
-- **B is correct:** Budget subsidy is paid by government; cross-subsidy is borne by another class.
-- **C is incorrect:** A regulatory asset defers recovery and usually carries future cost.
-- **D is incorrect:** Fixed charges recover costs not proportional to current energy use.
-
-**UPSC trap:** Trace who pays now, later, through taxes or poor service.
-
-### Q11. Which description of open access is most defensible?
+**Question:** Which description of open access is most defensible?
 
 A. It provides free use of electricity networks.
+
 B. It abolishes universal-service obligations.
+
 C. It permits eligible users to choose supply while paying applicable network and system charges.
+
 D. It guarantees every purchase is renewable.
 
-**Answer: C**
+### MCQ 12
 
-**Option explanations:**
-- **A is incorrect:** Network use carries wheeling, transmission, loss and other lawful charges.
-- **B is incorrect:** Distribution obligations continue under statute and licence.
-- **C is correct:** Choice is combined with cost recovery for monopoly wires and system services.
-- **D is incorrect:** The source depends on the transaction; green open access is a specified subset.
-
-**UPSC trap:** Supplier choice does not mean costless wires.
-
-### Q12. Which statement about power exchanges is correct?
+**Question:** Which statement about power exchanges is correct?
 
 A. Day-ahead price is the retail tariff for all consumers.
+
 B. Exchanges replace every long-term PPA.
+
 C. Market coupling was universally complete before July 2025.
+
 D. They provide regulated short-term products while much procurement remains outside exchanges.
 
-**Answer: D**
+### MCQ 13
 
-**Option explanations:**
-- **A is incorrect:** Exchange price excludes many retail network, loss and policy components.
-- **B is incorrect:** Long-term and bilateral contracts continue.
-- **C is incorrect:** CERC's July 2025 direction initiated phased work rather than proving completion.
-- **D is correct:** Day-ahead, real-time and term-ahead products form part of the procurement architecture.
-
-**UPSC trap:** Do not generalise one short-term price to the whole sector.
-
-### Q13. What is the proper role of deviation settlement?
+**Question:** What is the proper role of deviation settlement?
 
 A. It prices departures from schedules to support discipline and balance.
+
 B. It is a long-term capacity contract.
+
 C. It replaces real-time system operation.
+
 D. It is a household efficiency subsidy.
 
-**Answer: A**
+### MCQ 14
 
-**Option explanations:**
-- **A is correct:** DSM compares actual injection or drawal with schedule and applies settlement.
-- **B is incorrect:** Capacity contracts procure dependable capability over another horizon.
-- **C is incorrect:** Operators still deploy reserves and manage congestion.
-- **D is incorrect:** Demand-side efficiency is unrelated despite sharing the abbreviation DSM.
-
-**UPSC trap:** Spell out DSM because it has two common meanings.
-
-### Q14. Which statement about ancillary services is correct?
+**Question:** Which statement about ancillary services is correct?
 
 A. They are measured only by annual MWh.
+
 B. They procure response and reserves needed for frequency and reliability.
+
 C. They are identical to cross-subsidy.
+
 D. Only coal plants can provide them.
 
-**Answer: B**
+### MCQ 15
 
-**Option explanations:**
-- **A is incorrect:** Response speed and availability matter in addition to energy.
-- **B is correct:** Ancillary products support balancing and contingencies.
-- **C is incorrect:** Cross-subsidy concerns tariff incidence between classes.
-- **D is incorrect:** Hydro, storage, gas, demand response and eligible generators can contribute.
-
-**UPSC trap:** Energy and reliability services are distinct products.
-
-### Q15. AT&C loss primarily combines:
+**Question:** AT&C loss primarily combines:
 
 A. Only transformer heat loss.
+
 B. Only unmetered farm supply.
+
 C. Technical, billing and collection losses.
+
 D. The difference between coal and gas prices.
 
-**Answer: C**
+### MCQ 16
 
-**Option explanations:**
-- **A is incorrect:** Physical loss is only one component.
-- **B is incorrect:** Unmetered supply may affect estimation but does not exhaust the metric.
-- **C is correct:** The metric links input energy to revenue actually collected.
-- **D is incorrect:** Fuel-price comparison belongs to generation economics.
-
-**UPSC trap:** AT&C is broader than theft and narrower than total financial loss.
-
-### Q16. Which Ministry of Power FY 2024-25 pair is correct?
+**Question:** Which Ministry of Power FY 2024-25 pair is correct?
 
 A. AT&C 21.91%; ACS-ARR Rs 0.69/kWh
+
 B. AT&C 12%; ACS-ARR zero
+
 C. AT&C 5.28%; ACS-ARR Rs 15.04/kWh
+
 D. AT&C 15.04%; ACS-ARR Rs 0.06/kWh
 
-**Answer: D**
+### MCQ 17
 
-**Option explanations:**
-- **A is incorrect:** These are the FY 2020-21 starting values in the comparison.
-- **B is incorrect:** These are RDSS targets, not the reported outcome pair.
-- **C is incorrect:** The numbers and units are reversed; 5.28 crore refers to meter installations.
-- **D is correct:** The annual report gives this FY 2024-25 national pair.
-
-**UPSC trap:** Keep percentage loss and rupees-per-kWh gap in their units.
-
-### Q17. How should UDAY and RDSS be distinguished?
+**Question:** How should UDAY and RDSS be distinguished?
 
 A. UDAY centred on a 2015 debt reset plus reforms; RDSS is a later conditional infrastructure and performance scheme.
+
 B. RDSS is a new name for UDAY debt bonds.
+
 C. UDAY began after RDSS.
+
 D. Both are sections of the Electricity Act.
 
-**Answer: A**
+### MCQ 18
 
-**Option explanations:**
-- **A is correct:** The schemes differ in date, instrument and principal mechanism.
-- **B is incorrect:** RDSS works and smart metering are not the old debt takeover.
-- **C is incorrect:** UDAY launched in November 2015; RDSS followed later.
-- **D is incorrect:** They are policy schemes, not sections of the Act.
-
-**UPSC trap:** A successor reform is not automatically a merger.
-
-### Q18. What does a zero ACS-ARR gap fail to prove by itself?
+**Question:** What does a zero ACS-ARR gap fail to prove by itself?
 
 A. That a tariff order exists.
+
 B. That subsidy, dues and collections arrived on time and service improved.
+
 C. That average cost can be measured.
+
 D. That power purchase has a cost.
 
-**Answer: B**
+### MCQ 19
 
-**Option explanations:**
-- **A is incorrect:** A tariff order can exist regardless of the gap.
-- **B is correct:** Accrual accounting can conceal cash timing, arrears and quality problems.
-- **C is incorrect:** The indicator presupposes measured cost and revenue.
-- **D is incorrect:** Power purchase remains a major ACS component.
-
-**UPSC trap:** Pair booked gap with cash flow and service quality.
-
-### Q19. Which coal statement is correct?
+**Question:** Which coal statement is correct?
 
 A. Coking and non-coking coal have identical uses.
+
 B. Imports prove India has no domestic production.
+
 C. Production, dispatch, plant receipt and generation are distinct stages.
+
 D. A mine award guarantees immediate output.
 
-**Answer: C**
+### MCQ 20
 
-**Option explanations:**
-- **A is incorrect:** Coking coal is crucial for metallurgical use; non-coking serves power and others.
-- **B is incorrect:** India produced 1,047.523 MT in FY 2024-25 while importing coal.
-- **C is correct:** Quality and logistics create gaps between each stage.
-- **D is incorrect:** Clearances, development and evacuation precede production.
-
-**UPSC trap:** Follow the physical chain instead of treating one quantity as another.
-
-### Q20. Which pair accurately states FY 2025-26 coal imports?
+**Question:** Which pair accurately states FY 2025-26 coal imports?
 
 A. Total 66.33 MT, all coking
+
 B. Total 180.04 MT, all non-coking
+
 C. Total 1,047.523 MT, all imports
+
 D. Total 246.37 MT: 66.33 coking and 180.04 non-coking
 
-**Answer: D**
+### MCQ 21
 
-**Option explanations:**
-- **A is incorrect:** 66.33 MT is only the coking component.
-- **B is incorrect:** 180.04 MT is only the non-coking component.
-- **C is incorrect:** 1,047.523 MT is FY 2024-25 domestic production.
-- **D is correct:** The two components sum to the Ministry's reported total.
-
-**UPSC trap:** Production and import flows require the right year and category.
-
-### Q21. Which statement about revised SHAKTI is accurate?
+**Question:** Which statement about revised SHAKTI is accurate?
 
 A. It is a power-sector coal-linkage framework revised with Cabinet approval on 7 May 2025.
+
 B. It regulates city-gas pipelines.
+
 C. It is a renewable-certificate market.
+
 D. It abolishes every coal auction.
 
-**Answer: A**
+### MCQ 22
 
-**Option explanations:**
-- **A is correct:** SHAKTI governs specified coal-allocation and linkage routes for power.
-- **B is incorrect:** PNGRB regulates specified gas-network activities.
-- **C is incorrect:** REC operates under CERC regulations.
-- **D is incorrect:** The reform does not erase every auction or contract.
-
-**UPSC trap:** Coal linkage, mine auction and e-auction are different.
-
-### Q22. Why can a coal plant become economically stranded?
+**Question:** Why can a coal plant become economically stranded?
 
 A. Every plant must close at the same age.
+
 B. Lower utilisation, policy change or cheaper alternatives can erode cash flow before debt recovery.
+
 C. Sunk cost is always recoverable.
+
 D. Environmental controls have no cost.
 
-**Answer: B**
+### MCQ 23
 
-**Option explanations:**
-- **A is incorrect:** Retirement depends on economics, policy and system need.
-- **B is correct:** Unexpected utilisation and revenue changes can destroy asset value.
-- **C is incorrect:** Recovery depends on contracts and regulatory prudence.
-- **D is incorrect:** Retrofits can require substantial capital and operating spending.
-
-**UPSC trap:** Low PLF alone does not prove stranding.
-
-### Q23. Which petroleum-chain mapping is correct?
+**Question:** Which petroleum-chain mapping is correct?
 
 A. Upstream refining; downstream exploration
+
 B. Midstream retail pricing; upstream city gas
+
 C. Upstream exploration/production; midstream transport/storage; downstream refining/marketing
+
 D. PNGRB regulates only upstream production
 
-**Answer: C**
+### MCQ 24
 
-**Option explanations:**
-- **A is incorrect:** Refining is downstream and exploration is upstream.
-- **B is incorrect:** Retail is downstream; city gas is a regulated network activity.
-- **C is correct:** This is the standard functional chain.
-- **D is incorrect:** PNGRB expressly excludes crude and gas production.
-
-**UPSC trap:** Classify the activity before naming its regulator.
-
-### Q24. Which PPAC FY 2025-26 provisional inference is correct?
+**Question:** Which PPAC FY 2025-26 provisional inference is correct?
 
 A. India produced more crude than products consumed.
+
 B. Gas imports were zero.
+
 C. Crude and gas had identical dependence.
+
 D. Crude dependence was 88.7%, while gas dependence was 50.1%.
 
-**Answer: D**
+### MCQ 25
 
-**Option explanations:**
-- **A is incorrect:** Crude output was 28.0 MMT and product consumption 241.6 MMT, although categories differ.
-- **B is incorrect:** LNG imports were 34,427 MMSCM.
-- **C is incorrect:** The ratios differ and use commodity-specific denominators.
-- **D is correct:** This reproduces PPAC's ratios with the provisional-year caveat.
-
-**UPSC trap:** Do not infer refinery weakness from crude dependence.
-
-### Q25. What is PNGRB's statutory perimeter?
+**Question:** What is PNGRB's statutory perimeter?
 
 A. Specified downstream/network petroleum and gas activities, excluding crude and gas production.
+
 B. All electricity tariffs.
+
 C. Coal-mine safety.
+
 D. Nuclear fuel regulation.
 
-**Answer: A**
+### MCQ 26
 
-**Option explanations:**
-- **A is correct:** This is the perimeter stated by PNGRB under its 2006 Act.
-- **B is incorrect:** Electricity commissions regulate electricity tariffs.
-- **C is incorrect:** Coal institutions perform mining functions.
-- **D is incorrect:** Atomic-energy institutions govern nuclear fuel.
-
-**UPSC trap:** The upstream-production exclusion is a frequent trap.
-
-### Q26. What does a strategic petroleum reserve do?
+**Question:** What does a strategic petroleum reserve do?
 
 A. Permanently eliminates imports.
+
 B. Provides a finite physical buffer while wider diversification remains necessary.
+
 C. Hedges only the exchange rate.
+
 D. Guarantees indefinite retail-price stability.
 
-**Answer: B**
+### MCQ 27
 
-**Option explanations:**
-- **A is incorrect:** Finite inventory cannot replace continuing supply.
-- **B is correct:** Stocks buy response time and complement source, route and contract diversity.
-- **C is incorrect:** Financial instruments hedge price or currency; a reserve supplies crude.
-- **D is incorrect:** Drawdown is limited and cannot neutralise every long shock.
-
-**UPSC trap:** Capacity, fill level and days of cover are separate.
-
-### Q27. Which statement about renewable auctions is correct?
+**Question:** Which statement about renewable auctions is correct?
 
 A. Tendered capacity is already generating.
+
 B. The winning bid is the complete retail tariff.
+
 C. A low bid still depends on finance, land, grid, commissioning and buyer payment.
+
 D. Auctions eliminate curtailment.
 
-**Answer: C**
+### MCQ 28
 
-**Option explanations:**
-- **A is incorrect:** Tender and commissioning are different stages.
-- **B is incorrect:** Network, balancing and retail components remain.
-- **C is correct:** These delivery conditions determine whether a bid becomes service.
-- **D is incorrect:** Congestion and security constraints can still curtail output.
-
-**UPSC trap:** Follow status from announcement to generation.
-
-### Q28. Which statement best explains curtailment?
+**Question:** Which statement best explains curtailment?
 
 A. It is always lack of sun or wind.
+
 B. It is storage discharge.
+
 C. It proves plant inefficiency.
+
 D. Available generation may be reduced because of congestion, security or demand constraints.
 
-**Answer: D**
+### MCQ 29
 
-**Option explanations:**
-- **A is incorrect:** Weather unavailability is not curtailment of available energy.
-- **B is incorrect:** Storage discharge adds supply rather than withholding it.
-- **C is incorrect:** A plant may be technically available when the grid cannot accept output.
-- **D is correct:** This definition preserves the system-operator boundary.
-
-**UPSC trap:** Variability, outage and curtailment are not synonyms.
-
-### Q29. Which GEC-II statement is correct?
+**Question:** Which GEC-II statement is correct?
 
 A. It targets about 10,750 ckm and 27,500 MVA to integrate about 20 GW in seven states.
+
 B. It is a coal-mine scheme.
+
 C. Its design proves all lines are complete.
+
 D. It finances only rooftop panels.
 
-**Answer: A**
+### MCQ 30
 
-**Option explanations:**
-- **A is correct:** These are MNRE's official scheme-design figures.
-- **B is incorrect:** The corridor concerns renewable-power transmission.
-- **C is incorrect:** Targets do not establish completion.
-- **D is incorrect:** The scheme builds intra-state transmission infrastructure.
-
-**UPSC trap:** Circuit-km, MVA and GW measure different things.
-
-### Q30. Which statement about storage is correct?
+**Question:** Which statement about storage is correct?
 
 A. Storage generates primary energy.
+
 B. Storage adds timing and reliability value but returns less energy than it absorbs.
+
 C. A MW rating fully states duration.
+
 D. Pumped storage has no ecological constraints.
 
-**Answer: B**
+### MCQ 31
 
-**Option explanations:**
-- **A is incorrect:** Storage shifts converted electricity; it does not create primary energy.
-- **B is correct:** Round-trip loss is exchanged for timing and system service.
-- **C is incorrect:** MWh and the MW/MWh ratio are required.
-- **D is incorrect:** PSP depends on site, water, ecology and civil works.
-
-**UPSC trap:** No storage claim is complete without power, energy and efficiency.
-
-### Q31. Which green-hydrogen status statement is accurate?
+**Question:** Which green-hydrogen status statement is accurate?
 
 A. The 2030 target was achieved in 2023.
+
 B. Electrolyser capacity equals hydrogen output.
+
 C. The target and awards must be separated from commissioned production.
+
 D. Green hydrogen is mined.
 
-**Answer: C**
+### MCQ 32
 
-**Option explanations:**
-- **A is incorrect:** The mission sets a future annual-production target.
-- **B is incorrect:** Electrolyser and hydrogen capacity use different units.
-- **C is correct:** The Survey reports allocation and awards, not automatic operating output.
-- **D is incorrect:** Hydrogen is produced as an energy carrier.
-
-**UPSC trap:** Target, allocation, award and commissioning are separate.
-
-### Q32. Which comparison is correct?
+**Question:** Which comparison is correct?
 
 A. REC and carbon credit are always the same.
+
 B. PAT ESCert certifies renewable generation.
+
 C. ESO is a crude-stock obligation.
+
 D. REC represents eligible renewable MWh; carbon credits and ESCerts have different bases.
 
-**Answer: D**
+### MCQ 33
 
-**Option explanations:**
-- **A is incorrect:** Renewable attributes and GHG units have different rules.
-- **B is incorrect:** ESCert represents verified energy saving.
-- **C is incorrect:** ESO concerns energy storage in the notified trajectory.
-- **D is correct:** The instruments are not automatically fungible.
+**Question:** A 200 MW solar plant generates 350,400 MWh in a 365-day year. What is its annual capacity factor (8,760 hours)?
 
-**UPSC trap:** One REC equals one eligible MWh, not one tonne CO2e.
+A. 20%
+
+B. 200%
+
+C. 40%
+
+D. 0.2%
+
+### MCQ 34
+
+**Question:** A 100 MW battery stores 200 MWh of usable energy. Ignoring losses, how long can it deliver 50 MW continuously?
+
+A. 2 hours
+
+B. 4 hours
+
+C. 0.5 hours
+
+D. 200 hours
+
+### MCQ 35
+
+**Question:** A DISCOM bills 90 units for every 100 units input and collects payment for 80% of billed units. Using input energy as denominator, what are its approximate AT&C losses?
+
+A. 10%
+
+B. 20%
+
+C. 28%
+
+D. 72%
+
+### MCQ 36
+
+**Question:** A project has the cheapest solar auction bid but requires distant transmission and evening backup. Which metric best tests system value?
+
+A. Plant bid tariff alone
+
+B. Installed renewable capacity share alone
+
+C. The number of signed PPAs alone
+
+D. Reliable delivered energy and total system cost including network, balancing and curtailment
+
+### MCQ 37
+
+**Question:** A nominally electrified village has frequent voltage drops and costly clean-cooking refills. Which is the strongest access indicator?
+
+A. Affordable usable hours, service quality and sustained clean-cooking consumption
+
+B. Connection counts alone
+
+C. Installed national generation capacity alone
+
+D. The village's distance from a coal mine
+
+### MCQ 38
+
+**Question:** Why might a coal-fired plant's fixed cost per generated unit rise even when its annual fixed payment remains constant?
+
+A. Coal import bills are always zero
+
+B. Lower dispatch reduces generated kWh over which the fixed payment is recovered
+
+C. Higher renewable generation legally cancels the PPA
+
+D. A lower PLF automatically reduces annual fixed charges to zero
+
+### MCQ 39
+
+**Question:** A country has high crude import dependence but exports refined petroleum products. What explains the coexistence?
+
+A. Crude imports and refined exports are statistically identical
+
+B. Refining automatically creates domestic crude oil
+
+C. Domestic refineries process imported crude and can sell part of the product output abroad
+
+D. Product exports prove there is no oil-security vulnerability
+
+### MCQ 40
+
+**Question:** A state shifts general fossil-fuel support toward renewable grids and storage but removes the lifeline tariff for poor consumers overnight. What is the critical correction?
+
+A. End all energy investment
+
+B. Count approved storage projects as already operating
+
+C. Treat renewable nameplate capacity as guaranteed evening supply
+
+D. Protect vulnerable users through targeted transitional support while funding flexibility and measuring delivered reliability
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** Crude exists before conversion; petrol and electricity are produced carriers.
+
+- **Option B:** Electricity normally results from conversion of a primary source.
+
+- **Option C:** Hydrogen must be produced and therefore acts as a carrier.
+
+- **Option D:** Final energy reaches the user after upstream conversion and network losses.
+
+**Unique trap:** Primary, secondary and final describe positions in a conversion chain.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** Modern pellets and biogas may be traded commercially.
+
+- **Option B:** A fuel can be commercial yet traditional, or renewable yet modern.
+
+- **Option C:** Solar and wind electricity are commonly sold through markets and contracts.
+
+- **Option D:** Fuel stacking can persist after electrification because of affordability or reliability.
+
+**Unique trap:** Do not collapse market status into technology quality.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** The Ministry table concerns installed power capacity, not primary energy.
+
+- **Option B:** No final-consumption denominator appears in that capacity table.
+
+- **Option C:** The annual report labels total non-fossil capacity as 51.93% of installed capacity.
+
+- **Option D:** April-December 2025 non-fossil generation was 30.41%, a separate flow.
+
+**Unique trap:** Capacity share and generation share use different denominators and periods.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** One hour would use only 100 MWh of the stated energy.
+
+- **Option B:** Two hours would use 200 MWh, half the stated store.
+
+- **Option C:** Three hours would use 300 MWh, below the stated store.
+
+- **Option D:** Energy divided by power gives four hours before efficiency and operating limits.
+
+**Unique trap:** Storage must state both MW and MWh.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** PLF compares actual thermal output with output possible at rated capacity.
+
+- **Option B:** Generation share is an energy-mix ratio with another denominator.
+
+- **Option C:** Peak demand met is an instantaneous power statistic.
+
+- **Option D:** Billing and collection enter AT&C and revenue metrics.
+
+**Unique trap:** Low PLF has several possible causes; do not diagnose efficiency from it.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** National peak balance can coexist with local distribution failures.
+
+- **Option B:** Peak deficit concerns MW at the maximum interval; energy deficit concerns cumulative supply.
+
+- **Option C:** Energy deficit uses energy units or a percentage of requirement.
+
+- **Option D:** ACS-ARR is financial under-recovery in Rs/kWh.
+
+**Unique trap:** National adequacy is not identical to local service reliability.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** Variable cost remains important within the eligible set.
+
+- **Option B:** Dispatch covers all scheduled resources under applicable rules.
+
+- **Option C:** Grid security, ramping, minimum load and congestion constrain pure cost ranking.
+
+- **Option D:** Retail tariff is determined by the relevant commission.
+
+**Unique trap:** Merit order is nested inside technical and security constraints.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** CEA is the technical planning and standards authority.
+
+- **Option B:** CERC regulates specified inter-state and central matters.
+
+- **Option C:** SERC regulates state matters; SLDC performs state system operation.
+
+- **Option D:** Grid Controller India operates NLDC and regional load-despatch functions.
+
+**Unique trap:** Separate technical authority, regulator, network utility and operator.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** The Ministry circulated a draft; no enactment was located by 10 September 2026.
+
+- **Option B:** This is not a constitutional-amendment measure.
+
+- **Option C:** A parliamentary Bill is not a commission regulation.
+
+- **Option D:** A state code cannot enact a central parliamentary Bill.
+
+**Unique trap:** Proposal, passage, assent and commencement are separate stages.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** Low tariffs may conceal subsidy, debt or deferred maintenance.
+
+- **Option B:** Budget subsidy is paid by government; cross-subsidy is borne by another class.
+
+- **Option C:** A regulatory asset defers recovery and usually carries future cost.
+
+- **Option D:** Fixed charges recover costs not proportional to current energy use.
+
+**Unique trap:** Trace who pays now, later, through taxes or poor service.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** Network use carries wheeling, transmission, loss and other lawful charges.
+
+- **Option B:** Distribution obligations continue under statute and licence.
+
+- **Option C:** Choice is combined with cost recovery for monopoly wires and system services.
+
+- **Option D:** The source depends on the transaction; green open access is a specified subset.
+
+**Unique trap:** Supplier choice does not mean costless wires.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** Exchange price excludes many retail network, loss and policy components.
+
+- **Option B:** Long-term and bilateral contracts continue.
+
+- **Option C:** CERC's July 2025 direction initiated phased work rather than proving completion.
+
+- **Option D:** Day-ahead, real-time and term-ahead products form part of the procurement architecture.
+
+**Unique trap:** Do not generalise one short-term price to the whole sector.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** DSM compares actual injection or drawal with schedule and applies settlement.
+
+- **Option B:** Capacity contracts procure dependable capability over another horizon.
+
+- **Option C:** Operators still deploy reserves and manage congestion.
+
+- **Option D:** Demand-side efficiency is unrelated despite sharing the abbreviation DSM.
+
+**Unique trap:** Spell out DSM because it has two common meanings.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** Response speed and availability matter in addition to energy.
+
+- **Option B:** Ancillary products support balancing and contingencies.
+
+- **Option C:** Cross-subsidy concerns tariff incidence between classes.
+
+- **Option D:** Hydro, storage, gas, demand response and eligible generators can contribute.
+
+**Unique trap:** Energy and reliability services are distinct products.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** Physical loss is only one component.
+
+- **Option B:** Unmetered supply may affect estimation but does not exhaust the metric.
+
+- **Option C:** The metric links input energy to revenue actually collected.
+
+- **Option D:** Fuel-price comparison belongs to generation economics.
+
+**Unique trap:** AT&C is broader than theft and narrower than total financial loss.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** These are the FY 2020-21 starting values in the comparison.
+
+- **Option B:** These are RDSS targets, not the reported outcome pair.
+
+- **Option C:** The numbers and units are reversed; 5.28 crore refers to meter installations.
+
+- **Option D:** The annual report gives this FY 2024-25 national pair.
+
+**Unique trap:** Keep percentage loss and rupees-per-kWh gap in their units.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** The schemes differ in date, instrument and principal mechanism.
+
+- **Option B:** RDSS works and smart metering are not the old debt takeover.
+
+- **Option C:** UDAY launched in November 2015; RDSS followed later.
+
+- **Option D:** They are policy schemes, not sections of the Act.
+
+**Unique trap:** A successor reform is not automatically a merger.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** A tariff order can exist regardless of the gap.
+
+- **Option B:** Accrual accounting can conceal cash timing, arrears and quality problems.
+
+- **Option C:** The indicator presupposes measured cost and revenue.
+
+- **Option D:** Power purchase remains a major ACS component.
+
+**Unique trap:** Pair booked gap with cash flow and service quality.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** Coking coal is crucial for metallurgical use; non-coking serves power and others.
+
+- **Option B:** India produced 1,047.523 MT in FY 2024-25 while importing coal.
+
+- **Option C:** Quality and logistics create gaps between each stage.
+
+- **Option D:** Clearances, development and evacuation precede production.
+
+**Unique trap:** Follow the physical chain instead of treating one quantity as another.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** 66.33 MT is only the coking component.
+
+- **Option B:** 180.04 MT is only the non-coking component.
+
+- **Option C:** 1,047.523 MT is FY 2024-25 domestic production.
+
+- **Option D:** The two components sum to the Ministry's reported total.
+
+**Unique trap:** Production and import flows require the right year and category.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** SHAKTI governs specified coal-allocation and linkage routes for power.
+
+- **Option B:** PNGRB regulates specified gas-network activities.
+
+- **Option C:** REC operates under CERC regulations.
+
+- **Option D:** The reform does not erase every auction or contract.
+
+**Unique trap:** Coal linkage, mine auction and e-auction are different.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** Retirement depends on economics, policy and system need.
+
+- **Option B:** Unexpected utilisation and revenue changes can destroy asset value.
+
+- **Option C:** Recovery depends on contracts and regulatory prudence.
+
+- **Option D:** Retrofits can require substantial capital and operating spending.
+
+**Unique trap:** Low PLF alone does not prove stranding.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** Refining is downstream and exploration is upstream.
+
+- **Option B:** Retail is downstream; city gas is a regulated network activity.
+
+- **Option C:** This is the standard functional chain.
+
+- **Option D:** PNGRB expressly excludes crude and gas production.
+
+**Unique trap:** Classify the activity before naming its regulator.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** Crude output was 28.0 MMT and product consumption 241.6 MMT, although categories differ.
+
+- **Option B:** LNG imports were 34,427 MMSCM.
+
+- **Option C:** The ratios differ and use commodity-specific denominators.
+
+- **Option D:** This reproduces PPAC's ratios with the provisional-year caveat.
+
+**Unique trap:** Do not infer refinery weakness from crude dependence.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** This is the perimeter stated by PNGRB under its 2006 Act.
+
+- **Option B:** Electricity commissions regulate electricity tariffs.
+
+- **Option C:** Coal institutions perform mining functions.
+
+- **Option D:** Atomic-energy institutions govern nuclear fuel.
+
+**Unique trap:** The upstream-production exclusion is a frequent trap.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** Finite inventory cannot replace continuing supply.
+
+- **Option B:** Stocks buy response time and complement source, route and contract diversity.
+
+- **Option C:** Financial instruments hedge price or currency; a reserve supplies crude.
+
+- **Option D:** Drawdown is limited and cannot neutralise every long shock.
+
+**Unique trap:** Capacity, fill level and days of cover are separate.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** Tender and commissioning are different stages.
+
+- **Option B:** Network, balancing and retail components remain.
+
+- **Option C:** These delivery conditions determine whether a bid becomes service.
+
+- **Option D:** Congestion and security constraints can still curtail output.
+
+**Unique trap:** Follow status from announcement to generation.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** Weather unavailability is not curtailment of available energy.
+
+- **Option B:** Storage discharge adds supply rather than withholding it.
+
+- **Option C:** A plant may be technically available when the grid cannot accept output.
+
+- **Option D:** This definition preserves the system-operator boundary.
+
+**Unique trap:** Variability, outage and curtailment are not synonyms.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** These are MNRE's official scheme-design figures.
+
+- **Option B:** The corridor concerns renewable-power transmission.
+
+- **Option C:** Targets do not establish completion.
+
+- **Option D:** The scheme builds intra-state transmission infrastructure.
+
+**Unique trap:** Circuit-km, MVA and GW measure different things.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** Storage shifts converted electricity; it does not create primary energy.
+
+- **Option B:** Round-trip loss is exchanged for timing and system service.
+
+- **Option C:** MWh and the MW/MWh ratio are required.
+
+- **Option D:** PSP depends on site, water, ecology and civil works.
+
+**Unique trap:** No storage claim is complete without power, energy and efficiency.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** The mission sets a future annual-production target.
+
+- **Option B:** Electrolyser and hydrogen capacity use different units.
+
+- **Option C:** The Survey reports allocation and awards, not automatic operating output.
+
+- **Option D:** Hydrogen is produced as an energy carrier.
+
+**Unique trap:** Target, allocation, award and commissioning are separate.
+
+### MCQ 32 - D
+
+**Correct answer:** D
+
+- **Option A:** Renewable attributes and GHG units have different rules.
+
+- **Option B:** ESCert represents verified energy saving.
+
+- **Option C:** ESO concerns energy storage in the notified trajectory.
+
+- **Option D:** The instruments are not automatically fungible.
+
+**Unique trap:** One REC equals one eligible MWh, not one tonne CO2e.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** 350,400/(200 × 8,760) = 0.20.
+
+- **Option B:** 200 is rated MW, not an annual fraction.
+
+- **Option C:** 40% would require 700,800 MWh.
+
+- **Option D:** 0.2% misplaces the percentage conversion by two decimal places.
+
+**Unique trap:** Nameplate MW is a rate; energy in MWh depends on output over time.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** Two hours assumes the rated 100 MW discharge rate.
+
+- **Option B:** 200 MWh divided by 50 MW is four hours.
+
+- **Option C:** Half an hour reverses the energy-to-power ratio.
+
+- **Option D:** 200 measures energy, not hours without specifying power.
+
+**Unique trap:** Storage duration changes with discharge rate; power rating alone is incomplete.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** Ten per cent counts technical/commercial billing shortfall but misses unpaid bills.
+
+- **Option B:** Twenty per cent is the noncollection fraction of billed energy, not input.
+
+- **Option C:** Collected-equivalent energy is 90 × .8 = 72; loss is 28 of 100.
+
+- **Option D:** Seventy-two per cent is realised-equivalent input, not the loss.
+
+**Unique trap:** AT&C combines input-to-billed loss with billed-to-collected shortfall multiplicatively.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** The bid excludes important integration costs.
+
+- **Option B:** Capacity share does not measure temporal match with demand.
+
+- **Option C:** Contract count cannot measure feasibility or dispatch.
+
+- **Option D:** Whole-system accounting tests whether users get affordable power when needed.
+
+**Unique trap:** Lowest project-level LCOE is not necessarily lowest system cost.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** Actual service and affordability capture usable energy access.
+
+- **Option B:** A connection can coexist with unreliable supply.
+
+- **Option C:** National assets do not prove last-mile reliability.
+
+- **Option D:** Coal proximity is not the household's service outcome.
+
+**Unique trap:** Energy access means usable affordable service, not only physical connection.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** Fuel price is unrelated to the arithmetic of fixed-cost recovery.
+
+- **Option B:** A smaller denominator raises fixed rupees per unit.
+
+- **Option C:** A PPA obligation may persist after dispatch shifts.
+
+- **Option D:** Fixed charges can survive low utilisation.
+
+**Unique trap:** Falling PLF can worsen per-unit fixed-cost burden even as variable fuel use falls.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Crude feedstock and refined products are distinct trade categories.
+
+- **Option B:** Refining transforms rather than discovers petroleum.
+
+- **Option C:** Conversion capacity can support downstream exports despite upstream import needs.
+
+- **Option D:** Supply and price shocks can still disrupt imported feedstock.
+
+**Unique trap:** Import dependence should identify the commodity and denominator, not infer from net products alone.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** Stopping investment would worsen reliability and transition.
+
+- **Option B:** Approval does not establish commissioned energy capacity.
+
+- **Option C:** Solar or wind nameplate MW cannot guarantee peak-hour availability.
+
+- **Option D:** Distributional protection and real system performance belong in the reform design.
+
+**Unique trap:** A low-carbon shift is not automatically a just or reliable energy transition.
 
 ## PYQS AND ANSWER PRACTICE
 

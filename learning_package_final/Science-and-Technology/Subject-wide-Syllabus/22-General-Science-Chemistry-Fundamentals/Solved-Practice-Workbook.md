@@ -6,1117 +6,642 @@ topic_key: science-and-technology-22
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Atomic identity and isotope boundary?
-
-A. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-B. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: A.**
-**Explanation:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q2. Which option preserves the technical boundary of Atomic identity and isotope boundary?
-
-A. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: B.**
-**Explanation:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q3. Which statement uses Atomic identity and isotope boundary without changing its institution, unit or status?
-
-A. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-B. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-C. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: C.**
-**Explanation:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Atomic identity and isotope boundary?
-
-A. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-B. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-C. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-D. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-
-**Answer: D.**
-**Explanation:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q5. Which statement correctly identifies Periodic trends and qualified comparison?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-
-**Answer: A.**
-**Explanation:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q6. Which option preserves the technical boundary of Periodic trends and qualified comparison?
-
-A. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-B. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-C. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: B.**
-**Explanation:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q7. Which statement uses Periodic trends and qualified comparison without changing its institution, unit or status?
-
-A. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-D. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Answer: C.**
-**Explanation:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q8. Which option avoids the standard UPSC close-option trap about Periodic trends and qualified comparison?
-
-A. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-B. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-C. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-D. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-
-**Answer: D.**
-**Explanation:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q9. Which statement correctly identifies Ionic covalent metallic and intermolecular distinction?
-
-A. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-B. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-C. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-D. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Answer: A.**
-**Explanation:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q10. Which option preserves the technical boundary of Ionic covalent metallic and intermolecular distinction?
-
-A. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-B. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-C. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-D. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-
-**Answer: B.**
-**Explanation:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q11. Which statement uses Ionic covalent metallic and intermolecular distinction without changing its institution, unit or status?
-
-A. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Answer: C.**
-**Explanation:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q12. Which option avoids the standard UPSC close-option trap about Ionic covalent metallic and intermolecular distinction?
-
-A. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-B. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-C. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-D. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-
-**Answer: D.**
-**Explanation:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q13. Which statement correctly identifies Mole and stoichiometric accounting?
-
-A. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-D. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-
-**Answer: A.**
-**Explanation:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q14. Which option preserves the technical boundary of Mole and stoichiometric accounting?
-
-A. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-B. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-C. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-D. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-
-**Answer: B.**
-**Explanation:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q15. Which statement uses Mole and stoichiometric accounting without changing its institution, unit or status?
-
-A. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-D. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-
-**Answer: C.**
-**Explanation:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q16. Which option avoids the standard UPSC close-option trap about Mole and stoichiometric accounting?
-
-A. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-B. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-C. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: D.**
-**Explanation:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q17. Which statement correctly identifies States phase change and intermolecular forces?
-
-A. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-D. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Answer: A.**
-**Explanation:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q18. Which option preserves the technical boundary of States phase change and intermolecular forces?
-
-A. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-B. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-C. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-D. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-
-**Answer: B.**
-**Explanation:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q19. Which statement uses States phase change and intermolecular forces without changing its institution, unit or status?
-
-A. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-B. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-C. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-D. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-
-**Answer: C.**
-**Explanation:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q20. Which option avoids the standard UPSC close-option trap about States phase change and intermolecular forces?
-
-A. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-B. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-C. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-D. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-
-**Answer: D.**
-**Explanation:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q21. Which statement correctly identifies Solutions concentration and solubility boundary?
-
-A. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-B. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-C. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-D. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-
-**Answer: A.**
-**Explanation:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q22. Which option preserves the technical boundary of Solutions concentration and solubility boundary?
-
-A. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-B. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-C. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-D. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-
-**Answer: B.**
-**Explanation:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q23. Which statement uses Solutions concentration and solubility boundary without changing its institution, unit or status?
-
-A. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-B. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-C. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-D. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-
-**Answer: C.**
-**Explanation:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Solutions concentration and solubility boundary?
-
-A. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-B. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-C. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-D. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Answer: D.**
-**Explanation:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q25. Which statement correctly identifies Acids bases neutralisation and pH?
-
-A. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-B. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-C. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-D. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-
-**Answer: A.**
-**Explanation:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q26. Which option preserves the technical boundary of Acids bases neutralisation and pH?
-
-A. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-B. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-C. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-D. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-
-**Answer: B.**
-**Explanation:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q27. Which statement uses Acids bases neutralisation and pH without changing its institution, unit or status?
-
-A. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-B. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-C. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-D. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-
-**Answer: C.**
-**Explanation:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Acids bases neutralisation and pH?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-C. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-D. An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-
-**Answer: D.**
-**Explanation:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q29. Which statement correctly identifies Buffers salts and neutral-point boundary?
-
-A. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-B. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-C. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-D. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-
-**Answer: A.**
-**Explanation:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q30. Which option preserves the technical boundary of Buffers salts and neutral-point boundary?
-
-A. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-B. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-C. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-D. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-
-**Answer: B.**
-**Explanation:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q31. Which statement uses Buffers salts and neutral-point boundary without changing its institution, unit or status?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-C. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-D. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-
-**Answer: C.**
-**Explanation:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q32. Which option avoids the standard UPSC close-option trap about Buffers salts and neutral-point boundary?
-
-A. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-D. A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-
-**Answer: D.**
-**Explanation:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q33. Which statement correctly identifies Oxidation reduction and electrochemical cells?
-
-A. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-B. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-C. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-D. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-
-**Answer: A.**
-**Explanation:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q34. Which option preserves the technical boundary of Oxidation reduction and electrochemical cells?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-C. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-D. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-
-**Answer: B.**
-**Explanation:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q35. Which statement uses Oxidation reduction and electrochemical cells without changing its institution, unit or status?
-
-A. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-D. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-
-**Answer: C.**
-**Explanation:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Oxidation reduction and electrochemical cells?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-C. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-D. Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-
-**Answer: D.**
-**Explanation:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q37. Which statement correctly identifies Reaction rate catalyst and equilibrium boundary?
-
-A. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-D. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-
-**Answer: A.**
-**Explanation:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q38. Which option preserves the technical boundary of Reaction rate catalyst and equilibrium boundary?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-C. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: B.**
-**Explanation:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q39. Which statement uses Reaction rate catalyst and equilibrium boundary without changing its institution, unit or status?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-C. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-D. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-
-**Answer: C.**
-**Explanation:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Reaction rate catalyst and equilibrium boundary?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-C. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-D. Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-
-**Answer: D.**
-**Explanation:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q41. Which statement correctly identifies Organic functional-group classification?
-
-A. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-D. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-
-**Answer: A.**
-**Explanation:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q42. Which option preserves the technical boundary of Organic functional-group classification?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-C. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: B.**
-**Explanation:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q43. Which statement uses Organic functional-group classification without changing its institution, unit or status?
-
-A. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-B. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-C. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-D. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Answer: C.**
-**Explanation:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Organic functional-group classification?
-
-A. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-B. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-C. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-D. A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-
-**Answer: D.**
-**Explanation:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q45. Which statement correctly identifies Polymer structure and processing classes?
-
-A. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: A.**
-**Explanation:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q46. Which option preserves the technical boundary of Polymer structure and processing classes?
-
-A. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-B. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-C. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: B.**
-**Explanation:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q47. Which statement uses Polymer structure and processing classes without changing its institution, unit or status?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-C. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-D. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-
-**Answer: C.**
-**Explanation:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Polymer structure and processing classes?
-
-A. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-D. Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-
-**Answer: D.**
-**Explanation:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q49. Which statement correctly identifies Carbon allotropes alloys and material properties?
-
-A. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-B. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-C. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: A.**
-**Explanation:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q50. Which option preserves the technical boundary of Carbon allotropes alloys and material properties?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-C. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-D. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Answer: B.**
-**Explanation:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q51. Which statement uses Carbon allotropes alloys and material properties without changing its institution, unit or status?
-
-A. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-D. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-
-**Answer: C.**
-**Explanation:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Carbon allotropes alloys and material properties?
-
-A. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-
-**Answer: D.**
-**Explanation:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q53. Which statement correctly identifies Fuels combustion and gasification boundary?
-
-A. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-B. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-C. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-D. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-
-**Answer: A.**
-**Explanation:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q54. Which option preserves the technical boundary of Fuels combustion and gasification boundary?
-
-A. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-B. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-C. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-D. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Answer: B.**
-**Explanation:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q55. Which statement uses Fuels combustion and gasification boundary without changing its institution, unit or status?
-
-A. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-B. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-C. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-D. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Answer: C.**
-**Explanation:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Fuels combustion and gasification boundary?
-
-A. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-B. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-
-**Answer: D.**
-**Explanation:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Environmental chemistry compartment map?
-
-A. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-D. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Answer: A.**
-**Explanation:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Environmental chemistry compartment map?
-
-A. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-B. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-
-**Answer: B.**
-**Explanation:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Environmental chemistry compartment map without changing its institution, unit or status?
-
-A. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-B. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-C. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-D. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-
-**Answer: C.**
-**Explanation:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Environmental chemistry compartment map?
-
-A. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-
-**Answer: D.**
-**Explanation:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Measurement exposure and category firewall?
-
-A. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-D. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Answer: A.**
-**Explanation:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Measurement exposure and category firewall?
-
-A. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-B. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Answer: B.**
-**Explanation:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Measurement exposure and category firewall without changing its institution, unit or status?
-
-A. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-B. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-C. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-D. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-
-**Answer: C.**
-**Explanation:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Measurement exposure and category firewall?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Answer: D.**
-**Explanation:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Hydrogel polymer-network route?
-
-A. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-B. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-
-**Answer: A.**
-**Explanation:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Hydrogel polymer-network route?
-
-A. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-B. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-
-**Answer: B.**
-**Explanation:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Hydrogel polymer-network route without changing its institution, unit or status?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-C. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-D. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-
-**Answer: C.**
-**Explanation:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Hydrogel polymer-network route?
-
-A. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-D. A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-
-**Answer: D.**
-**Explanation:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Water polarity BPA and triclosan boundaries?
-
-A. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Answer: A.**
-**Explanation:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Water polarity BPA and triclosan boundaries?
-
-A. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-B. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-
-**Answer: B.**
-**Explanation:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Water polarity BPA and triclosan boundaries without changing its institution, unit or status?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-D. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-
-**Answer: C.**
-**Explanation:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Water polarity BPA and triclosan boundaries?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-C. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-D. Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-
-**Answer: D.**
-**Explanation:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies Coal-gasification routed product boundary?
-
-A. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-B. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-C. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-D. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-
-**Answer: A.**
-**Explanation:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of Coal-gasification routed product boundary?
-
-A. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-B. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-
-**Answer: B.**
-**Explanation:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses Coal-gasification routed product boundary without changing its institution, unit or status?
-
-A. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-B. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-C. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-D. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-
-**Answer: C.**
-**Explanation:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Coal-gasification routed product boundary?
-
-A. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-B. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Answer: D.**
-**Explanation:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Chemistry-to-policy evidence ladder?
-
-A. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-B. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-
-**Answer: A.**
-**Explanation:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Chemistry-to-policy evidence ladder?
-
-A. The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-B. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-C. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: B.**
-**Explanation:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Chemistry-to-policy evidence ladder without changing its institution, unit or status?
-
-A. Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-B. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-C. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-D. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-
-**Answer: C.**
-**Explanation:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Chemistry-to-policy evidence ladder?
-
-A. Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-B. A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-C. The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-D. Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-
-**Answer: D.**
-**Explanation:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Question paper — 44 original four-choice questions; answers follow ALL stems
+
+
+**Q1. Two atoms have identical proton numbers but different neutron numbers. What follows?**
+A. Same element, different isotopes
+B. Different elements
+C. Same mass number
+D. Identical nuclear stability
+
+**Q2. Nuclides have equal mass numbers but unequal atomic numbers. Which classification applies?**
+A. Allotropes
+B. Isobars
+C. Isotopes
+D. Isotones necessarily
+
+**Q3. Along a period, increasing effective nuclear attraction usually does what?**
+A. Turns every element into metal
+B. Makes noble gases highly reactive
+C. Shrinks atomic radius and raises ionisation tendency
+D. Increases radius automatically
+
+**Q4. An ionic salt is solid, then molten. When is it normally conductive?**
+A. Solid, because fixed ions roam
+B. Neither, because ions are uncharged
+C. Only on boiling into gas
+D. Molten, because mobile ions carry charge
+
+**Q5. Graphite conducts but diamond ordinarily does not. Why?**
+A. Different carbon bonding structures leave mobile electrons in graphite
+B. Graphite is an element other than carbon
+C. Diamond has free metallic electrons
+D. Only impurities can cause graphite conduction
+
+**Q6. Water dissolves salt but not every oil. Why?**
+A. Hydrogen bonding eliminates all intermolecular forces
+B. Its molecular dipole stabilises many ions and polar solutes
+C. Water dissolves absolutely every substance
+D. All ions are nonpolar
+
+**Q7. Hydrogen bonds between water molecules help explain what combination?**
+A. Graphite becomes water-soluble
+B. Ice is always denser than liquid water
+C. High boiling point and relatively low-density ice
+D. Water's covalent O–H bonds disappear on boiling
+
+**Q8. A metal strip is malleable and conducts current. Which model accounts for both?**
+A. Only rigid isolated covalent molecules
+B. Protons freely flowing through strip
+C. Ions fixed as neutral atoms without bonds
+D. Delocalised electrons in metallic lattice
+
+**Q9. One solution is pH 5 and another pH 6 at same temperature, ideal dilute conditions. Which difference is justified?**
+A. About tenfold hydrogen-ion activity
+B. Exactly one additional hydrogen ion per litre
+C. Tenfold hydroxide activity in pH 5
+D. Identical acidity
+
+**Q10. Pure water warms above 25 °C and neutral pH shifts. Is it necessarily acidic?**
+A. No because pH has no logarithm
+B. No; neutral means hydrogen and hydroxide activities balance
+C. Yes, any pH below seven means acidic at all temperatures
+D. Yes, water gains strong acid automatically
+
+
+**Q11. Mix one mole HCl with one mole NaOH in aqueous solution. Which accounting is sound?**
+A. Two moles HCl remain
+B. All salts are necessarily neutral in water
+C. One-to-one neutralisation consumes both if reaction goes to completion
+D. Two moles NaOH required per HCl
+
+**Q12. Equal moles of weak and strong monoprotic acid are prepared at same volume. Which is generally true?**
+A. Weak acid must be more dilute
+B. Strong acid has more total moles necessarily
+C. Both have identical hydrogen activity
+D. Strength concerns ionisation; concentration concerns amount per volume
+
+**Q13. A bicarbonate buffer receives a small acid dose. What principle best describes its response?**
+A. Conjugate base consumes some added acid
+B. pH cannot ever change
+C. The solution instantly becomes pure water
+D. Buffer destroys hydrogen atoms
+
+**Q14. Zinc displaces copper from copper-salt solution. Identify oxidation.**
+A. Oxygen must be present
+B. Zinc loses electrons and oxidises
+C. Copper ions lose electrons
+D. Neither undergoes electron transfer
+
+**Q15. A battery runs a lamp, while an electrolyser splits water with external power. Correct energy direction?**
+A. Battery needs external current to run
+B. Electrolysis alone creates free energy
+C. Galvanic chemical to electrical; electrolytic electrical to chemical
+D. Both make chemical energy from sunlight automatically
+
+**Q16. Iron railing rusts in wet air, while hot metal oxidises in dry gas. Which distinction is sound?**
+A. Every corrosion is aqueous rusting
+B. Zinc coating always accelerates iron oxidation
+C. Corrosion has no oxidation
+D. Wet rusting is electrochemical; hot dry attack may be chemical
+
+**Q17. Why can a sacrificial zinc coating protect scratched galvanised iron?**
+A. Zinc preferentially oxidises while electrically connected
+B. Zinc is an impermeable coating even when scratched
+C. Iron becomes chemically inert permanently
+D. Zinc removes atmospheric oxygen globally
+
+**Q18. An equilibrium reactor adds catalyst at fixed conditions. What changes?**
+A. Energy conservation is suspended
+B. Forward and reverse paths accelerate; equilibrium position remains
+C. Equilibrium yield necessarily doubles
+D. Reactants cease to exist
+
+**Q19. In exothermic equilibrium ammonia synthesis, raising pressure and lowering temperature affect equilibrium how?**
+A. Hotter conditions always raise equilibrium ammonia yield
+B. Iron catalyst shifts equilibrium to products
+C. High pressure favours fewer gas moles; low temperature favours exothermic direction
+D. Low pressure favours fewer gas moles
+
+**Q20. Reaction has two reactants and one is fully used first. Which quantity limits ideal product?**
+A. Larger initial mass irrespective of molar mass
+B. Amount of excess reagent alone
+C. Catalyst mass times reaction time
+D. Moles of limiting reactant divided by its stoichiometric coefficient
+
+
+**Q21. In an electrolyser, hydrogen is collected at which electrode and why?**
+A. Cathode; water-derived species are reduced
+B. Anode; reduction occurs there
+C. Either solely by catalyst colour
+D. Neither; water cannot yield hydrogen
+
+**Q22. Which material route fits highly reactive aluminium better than carbon reduction?**
+A. Only cooling molten rock
+B. Electrolytic extraction from suitable processed feedstock
+C. Simple charcoal reduction of ore
+D. Direct recovery from water
+
+**Q23. A wet ore is roasted and refined. Which order is chemically coherent?**
+A. Reduction always before concentration
+B. All metals use the same carbon furnace
+C. Concentration, suitable conversion, reduction, then refining
+D. Refining before identifying ore
+
+**Q24. Which nutrient pairing helps distinguish fertilizer labels?**
+A. Urea supplies only K
+B. DAP contains no P
+C. MOP mainly supplies N
+D. Urea mainly N; DAP N and P; MOP K
+
+**Q25. Excess nitrogen fertilizer reaches pond via runoff. What mechanism raises eutrophication risk?**
+A. Nutrient loading can stimulate algal growth and oxygen depletion
+B. Nitrogen always sterilises water
+C. Potash instantly removes nitrogen
+D. Nutrients cannot leave fields
+
+**Q26. A soap cleans poorly in hard water while a synthetic detergent still works. Why?**
+A. Detergent neutralises water chemically every time
+B. Ca/Mg ions form insoluble soap scum
+C. Soap tails lose hydrophobicity in sunlight
+D. Hard water contains no ions
+
+**Q27. Which polymer pair correctly contrasts formation?**
+A. Both are pure elemental carbon
+B. All polymers soften reversibly
+C. Polyethylene addition; nylon condensation
+D. Polyethylene condensation; nylon addition
+
+**Q28. A cross-linked hydrogel retains water in a wound dressing. What makes this plausible?**
+A. It is pure water with no polymer
+B. It is a guaranteed sterile medicine
+C. It is always a desalinator
+D. Hydrophilic polymer network swells without becoming ordinary free liquid
+
+**Q29. A bottle marked biodegradable is discarded in an open field. What cannot be inferred?**
+A. Rapid harmless decomposition under local conditions
+B. The polymer may have a degradation pathway
+C. Its disposal still needs assessment
+D. Material identity affects fate
+
+**Q30. Bisphenol A is associated with some polycarbonate applications. What is a defensible conclusion?**
+A. BPA is itself a whole polymer network
+B. Product-specific materials/exposure need checking
+C. All plastics contain BPA
+D. Every exposure causes an identical outcome
+
+
+**Q31. Triclosan is named in a consumer-product assessment. What is most defensible?**
+A. It is a nutrient essential to life
+B. Any detection proves identical clinical harm
+C. Check actual formulation, exposure and current regulation
+D. All soaps necessarily contain it
+
+**Q32. Coal is gasified with controlled steam/oxygen. What main intermediate can result?**
+A. Pure oxygen fuel without carbon
+B. Only solid ash, no gas
+C. Automatically carbon-free hydrogen
+D. Syngas containing carbon monoxide and hydrogen
+
+**Q33. Ground-level ozone and stratospheric ozone share formula. Why opposite policy meanings?**
+A. Altitude and formation/exposure differ
+B. One is O₂ instead of O₃
+C. Every ozone molecule protects lungs
+D. Neither involves sunlight
+
+**Q34. Which pairing avoids confusing Montreal and Kigali controls?**
+A. Ground ozone is a protective stratospheric layer
+B. Montreal targeted ozone-depleting substances; Kigali phase-down addresses HFCs
+C. Kigali bans all oxygen
+D. CFCs repair ozone
+
+**Q35. A village water supply has dissolved salinity. Which choice removes salts but creates concentrate?**
+A. Chlorination alone
+B. Boiling without condensation collection
+C. Reverse osmosis
+D. UV irradiation alone
+
+**Q36. A turbid water sample is passed under UV lamps without pretreatment. Why may disinfection fail?**
+A. UV always removes dissolved arsenic
+B. UV creates permanent chlorine residual
+C. Turbidity makes all viruses metallic
+D. Suspended matter can shield microbes
+
+**Q37. Ion exchange removes a selected dissolved ion. Which residual management issue follows?**
+A. Resin regeneration produces waste stream
+B. It destroys atomic nuclei
+C. It necessarily desalinates seawater at no cost
+D. It sterilises every pathogen
+
+**Q38. Compare steel and brass composition correctly.**
+A. Pure metal and alloy are synonyms
+B. Steel mainly Fe-C alloy; brass Cu-Zn
+C. Brass Fe-C
+D. Steel Cu-Sn
+
+**Q39. Why may a protein-design Nobel be classed as chemistry rather than only physiology?**
+A. DNA and protein are identical polymers
+B. Enzymes cannot catalyse
+C. Protein structure and molecular design concern chemical interactions
+D. Proteins contain no chemical bonds
+
+**Q40. A National Green Hydrogen Mission programme backs electrolysers. What is the chemically sound status claim?**
+A. Hydrogen generation has no electrical input
+B. All hydrogen is automatically green
+C. A grant means plants operate at scale
+D. Electricity can drive water splitting; lifecycle benefit depends on electricity and systems
+
+**Q41. A molecule carries –COOH while another carries –OH without carbonyl. Which group distinction follows?**
+A. Carboxylic acid versus alcohol
+B. Both must be ketones
+C. Both must be esters
+D. –COOH is a halogen
+
+**Q42. A crystalline solid melts at constant pressure while heat enters. What happens during ideal phase change?**
+A. A catalyst is always required
+B. Temperature can remain nearly constant as latent heat changes structure
+C. Incoming heat must instantly raise temperature throughout melting
+D. Atoms change identity to new elements
+
+**Q43. A saturated solution is cooled and crystals emerge. What accounts for it?**
+A. All solubilities rise on cooling
+B. Solvent changes automatically into a metal
+C. Solubility can decline with temperature, leaving excess solute
+D. Total number of solute atoms must increase
+
+**Q44. Which inference distinguishes coal combustion from controlled gasification?**
+A. Both yield only carbon dioxide
+B. Gasification is automatically zero-carbon
+C. Combustion turns coal into pure hydrogen
+D. Combustion oxidises fuel for heat; gasification makes fuel/intermediate gas under limited oxidant
+
+### Separate answer key, four-option rationales and traps
+
+
+**Q1 — A.**
+- **A:** Atomic number fixes identity.
+- **B:** Protons are identical.
+- **C:** Neutron counts differ.
+- **D:** Different isotopes may decay differently.
+- **Trap:** Atomic mass is not atomic number.
+
+**Q2 — B.**
+- **A:** These are structural forms, not nuclides.
+- **B:** Same nucleon total; different proton count.
+- **C:** Those have equal atomic number.
+- **D:** Neutron counts need not match.
+- **Trap:** One number cannot establish every nuclear property.
+
+**Q3 — C.**
+- **A:** Metallic character generally falls.
+- **B:** Filled shells are largely inert.
+- **C:** Outer electrons are held more strongly in broad trend.
+- **D:** Opposes usual period trend.
+- **Trap:** Periodic trends have exceptions.
+
+**Q4 — D.**
+- **A:** Ions are immobilised in lattice.
+- **B:** Ions carry charge.
+- **C:** Molten state suffices.
+- **D:** Fixed lattice ions cannot flow in solid.
+- **Trap:** Presence of charge differs from charge mobility.
+
+**Q5 — A.**
+- **A:** Allotropy changes electronic behaviour.
+- **B:** Both are carbon.
+- **C:** Its network localises bonding electrons.
+- **D:** Its layered bonding explains intrinsic conductivity.
+- **Trap:** Composition alone cannot predict properties.
+
+**Q6 — B.**
+- **A:** It is one interaction among others.
+- **B:** Nonpolar oils are poorly solvated.
+- **C:** Universal solvent is a qualified expression.
+- **D:** Ions interact strongly with polar water.
+- **Trap:** Solvent choice depends on solute interactions.
+
+**Q7 — C.**
+- **A:** Not implied.
+- **B:** Ice floats under ordinary conditions.
+- **C:** Intermolecular network changes thermal and solid structure.
+- **D:** Boiling mainly disrupts intermolecular interactions.
+- **Trap:** Distinguish intra- from intermolecular bonding.
+
+**Q8 — D.**
+- **A:** They do not explain typical metallic behaviour.
+- **B:** Current mainly carried by electrons.
+- **C:** Metallic bonding matters.
+- **D:** Mobile carriers and non-directional bonding permit deformation.
+- **Trap:** An alloy can change both properties.
+
+**Q9 — A.**
+- **A:** pH is logarithmic.
+- **B:** Difference is multiplicative, not one ion.
+- **C:** Acidic solution has lower OH activity.
+- **D:** pH differs.
+- **Trap:** Activity is rigorous; concentration is a dilute approximation.
+
+**Q10 — B.**
+- **A:** pH remains logarithmic.
+- **B:** Neutral pH need not always equal seven.
+- **C:** Neutral point varies with temperature.
+- **D:** Autodissociation varies.
+- **Trap:** Specify temperature for neutral pH.
+
+
+**Q11 — C.**
+- **A:** Reagents were equimolar.
+- **B:** This product example does not establish universal salt behaviour.
+- **C:** Balanced HCl + NaOH gives NaCl + H₂O.
+- **D:** Stoichiometric coefficient is one.
+- **Trap:** One reaction does not prove all salts neutral.
+
+**Q12 — D.**
+- **A:** Weakness is not dilution.
+- **B:** Equal moles are stipulated.
+- **C:** Ionisation differs.
+- **D:** Weak acid typically ionises less at equal formal concentration.
+- **Trap:** Do not infer exact pH without conditions.
+
+**Q13 — A.**
+- **A:** Equilibrium limits pH shift within buffer capacity.
+- **B:** Capacity is finite.
+- **C:** Components remain.
+- **D:** It transfers protons.
+- **Trap:** At high dose, buffering can fail.
+
+**Q14 — B.**
+- **A:** Oxidation need not involve oxygen.
+- **B:** Electron loss increases oxidation state.
+- **C:** They gain electrons and reduce.
+- **D:** Displacement is redox.
+- **Trap:** Oxidation and reduction are coupled.
+
+**Q15 — C.**
+- **A:** Discharging supplies it.
+- **B:** It consumes electrical energy.
+- **C:** Spontaneous versus driven reactions.
+- **D:** No sunlight specified.
+- **Trap:** Hydrogen's emissions depend on input electricity.
+
+**Q16 — D.**
+- **A:** Dry corrosion exists.
+- **B:** Sacrificial protection can reduce it.
+- **C:** Oxidation is involved.
+- **D:** Not all corrosion has the same pathway.
+- **Trap:** Specify environment before prescribing protection.
+
+**Q17 — A.**
+- **A:** Cathodic protection can continue at scratches.
+- **B:** A physical barrier is breached.
+- **C:** Protection depends on zinc and conditions.
+- **D:** No.
+- **Trap:** Finite coating can eventually be consumed.
+
+**Q18 — B.**
+- **A:** It is not.
+- **B:** Catalyst lowers activation barrier for both directions.
+- **C:** Catalyst does not change equilibrium constant.
+- **D:** Catalysis affects rate.
+- **Trap:** Industrial throughput can improve despite unchanged equilibrium.
+
+**Q19 — C.**
+- **A:** Heat disfavors exothermic product.
+- **B:** It changes rate, not equilibrium.
+- **C:** Haber reaction forms fewer gaseous product moles and releases heat.
+- **D:** Opposite pressure response.
+- **Trap:** Low temperature can slow kinetics; industrial choice is a compromise.
+
+**Q20 — D.**
+- **A:** Mass alone cannot determine moles.
+- **B:** It remains after completion.
+- **C:** Neither gives theoretical yield directly.
+- **D:** Balanced reaction fixes mole ratios.
+- **Trap:** A percent yield needs measured product and theoretical yield.
+
+
+**Q21 — A.**
+- **A:** Reduction occurs at cathode.
+- **B:** Anode is oxidation site.
+- **C:** Electrode redox determines product.
+- **D:** Electrolysis can generate hydrogen.
+- **Trap:** Membrane and electrolyte alter engineering, not reduction sign.
+
+**Q22 — B.**
+- **A:** Refining/reduction is needed.
+- **B:** Carbon cannot readily reduce stable aluminium oxide economically.
+- **C:** Aluminium is highly reactive.
+- **D:** Water is not aluminium ore.
+- **Trap:** Ore concentration and energy still matter.
+
+**Q23 — C.**
+- **A:** Gangue can waste reagent.
+- **B:** Reactivity determines method.
+- **C:** Gangue removal precedes metal separation in common flow.
+- **D:** No crude metal yet.
+- **Trap:** Different ores need different conversion routes.
+
+**Q24 — D.**
+- **A:** Urea is nitrogen fertilizer.
+- **B:** It contains phosphate.
+- **C:** It is potassium source.
+- **D:** Chemical composition fixes nutrient route.
+- **Trap:** Agronomic dose requires soil testing, not label alone.
+
+**Q25 — A.**
+- **A:** Ecosystem response follows excess inputs.
+- **B:** Nutrient enrichment is more relevant.
+- **C:** No automatic removal.
+- **D:** Leaching and runoff occur.
+- **Trap:** Phosphorus and local conditions also matter.
+
+**Q26 — B.**
+- **A:** Cleaning relies on surfactant action.
+- **B:** Many detergents retain performance with hardness.
+- **C:** Not the defining issue.
+- **D:** It contains dissolved ions.
+- **Trap:** Detergent biodegradability varies with structure.
+
+**Q27 — C.**
+- **A:** They contain other atoms depending on polymer.
+- **B:** Thermosets need not.
+- **C:** Addition links unsaturated monomers; condensation eliminates small molecules in common nylon synthesis.
+- **D:** Reversed.
+- **Trap:** Polymer class and reheating behaviour are distinct axes.
+
+**Q28 — D.**
+- **A:** A hydrogel has a network.
+- **B:** Material structure alone does not establish sterility.
+- **C:** Water retention does not imply ion removal.
+- **D:** Crosslinks maintain structure.
+- **Trap:** Use depends on design and medical standards.
+
+**Q29 — A.**
+- **A:** Temperature, microbes, additives and treatment conditions matter.
+- **B:** That is possible.
+- **C:** Yes, conditions govern breakdown.
+- **D:** Structure matters.
+- **Trap:** Compostability labels need specified standards.
+
+**Q30 — B.**
+- **A:** It is a chemical building block.
+- **B:** BPA association does not prove presence in every plastic.
+- **C:** Many polymer chemistries do not.
+- **D:** Dose and route matter.
+- **Trap:** Distinguish monomer, finished article and exposure.
+
+
+**Q31 — C.**
+- **A:** It is synthetic antimicrobial.
+- **B:** Dose and route matter.
+- **C:** Historical use in some personal-care products is not universal presence.
+- **D:** Formulations vary.
+- **Trap:** Do not infer a current universal product list.
+
+**Q32 — D.**
+- **A:** Coal provides carbon.
+- **B:** Gas products form.
+- **C:** Upstream feedstock is fossil carbon.
+- **D:** Gasification differs from full combustion.
+- **Trap:** Downstream emissions depend on process and capture.
+
+**Q33 — A.**
+- **A:** Stratospheric UV shielding contrasts harmful photochemical surface pollutant.
+- **B:** Both refer to ozone.
+- **C:** Surface exposure harms health.
+- **D:** Photochemistry and UV are relevant.
+- **Trap:** Same molecule, different context.
+
+**Q34 — B.**
+- **A:** Location changes effect.
+- **B:** HFCs are climate-relevant rather than major ozone destroyers.
+- **C:** Unrelated.
+- **D:** They deplete it.
+- **Trap:** Avoid conflating ozone depletion with warming.
+
+**Q35 — C.**
+- **A:** Disinfection does not desalinate.
+- **B:** It does not isolate fresh condensate.
+- **C:** Selective membrane under pressure rejects dissolved ions and generates brine.
+- **D:** UV disinfects but does not remove dissolved salts.
+- **Trap:** Feedwater, brine disposal and energy matter.
+
+**Q36 — D.**
+- **A:** Disinfection is not metal removal.
+- **B:** It does not.
+- **C:** No.
+- **D:** UV also leaves no residual protection.
+- **Trap:** First identify contaminant and treatment goal.
+
+**Q37 — A.**
+- **A:** Selective removal shifts contaminants into a regenerant stream.
+- **B:** Ion exchange swaps ions.
+- **C:** Capacity and regeneration matter.
+- **D:** Ion exchange targets ions.
+- **Trap:** No treatment is waste-free by definition.
+
+**Q38 — B.**
+- **A:** Alloys combine elements.
+- **B:** Different elements underpin distinct properties.
+- **C:** That is steel.
+- **D:** That describes bronze family.
+- **Trap:** Chromium improves stainless corrosion resistance.
+
+**Q39 — C.**
+- **A:** Nucleic acid differs from polypeptide.
+- **B:** Many proteins are enzymes.
+- **C:** Function depends on molecular folding and composition.
+- **D:** They are bonded amino acids.
+- **Trap:** Prediction is not necessarily a deployed drug.
+
+**Q40 — D.**
+- **A:** Electrolysis consumes energy.
+- **B:** Production route matters.
+- **C:** Funding differs from deployment.
+- **D:** Mission backing is not verified low-emission output by itself.
+- **Trap:** Process, energy source and observed output are distinct.
+
+**Q41 — A.**
+- **A:** Functional groups shape acid-base/reactivity behaviour.
+- **B:** Ketone requires internal carbonyl.
+- **C:** Ester has different linkage.
+- **D:** It is oxygen-containing acid group.
+- **Trap:** Functional group does not alone specify toxicity.
+
+**Q42 — B.**
+- **A:** No reaction needed.
+- **B:** Energy need not raise average kinetic temperature.
+- **C:** Latent heat accounts for plateau.
+- **D:** Phase change is physical.
+- **Trap:** Impurities and pressure alter real melting range.
+
+**Q43 — C.**
+- **A:** Often opposite for solids.
+- **B:** Not implied.
+- **C:** Equilibrium concentration changes.
+- **D:** No new solute needed.
+- **Trap:** Solubility trends vary by solute; do not universalise.
+
+**Q44 — D.**
+- **A:** Gasification can yield CO and H₂.
+- **B:** Coal input still contains carbon.
+- **C:** It does not.
+- **D:** Syngas requires downstream handling.
+- **Trap:** System emissions require lifecycle accounting.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Audited objective PYQ routes — demand-level solutions, no official answer letters
 
-Audited ledgers route the 2024 hydrogel objective demand, the 2025 coal-gasification objective demand and the 2021 water-polarity, bisphenol-A and triclosan objective demands to this owner. Three representative answer-free cards preserve all five routed objective demands. The 2024 GS-III freshwater question remains primarily owned by Environment and Ecology; this topic supplies only the bounded chemistry of membranes, phase change, ions, concentration, disinfection and by-products.
+Neutral renditions from the Basic owner audited `_PYQ-ROUTING-PRELIMS-2018-2023.md` and `_PYQ-ROUTING-PRELIMS-2024-2025.md`; not reconstructed original stems. The 2021 official objective key is unavailable locally; official 2024–25 Set-A keys are available locally but exact stem/option matching is not established here. **The independent principles below are not claimed as official keyed PYQ solutions.**
 
-### PYQ DEMAND CARD 1 — 2024 Prelims GS-I
+| PYQ | Independent mechanism / close-option solution |
+|---|---|
+| 2021 GS-I Q71 | Water's dipole and hydrogen bonding stabilise many dissolved ions and polar molecules; it is not a universal solvent of nonpolar oil and every solid. |
+| 2021 GS-I Q74 | Bisphenol A is a chemical used in some polycarbonate and epoxy applications; do not infer that every plastic contains BPA or a uniform exposure. |
+| 2021 GS-I Q75 | Triclosan is an antimicrobial historically used in some personal-care formulations; current presence and safety claims need product/date, dose and regulatory context. |
+| 2024 GS-I Q36 | Hydrogels are hydrophilic, cross-linked networks retaining water; potential uses include wound dressings, controlled release and some water-management settings. Not simply liquid water or automatically a water purifier. |
+| 2025 GS-I Q45 | Coal gasification with controlled oxygen/steam can yield CO/H₂-containing synthesis gas; outputs depend on feed and process. Gasification is not complete combustion or necessarily low-carbon hydrogen. |
 
-**Demand:** Assess the routed statements on uses of hydrogels.
+### Related 2024 GS-III freshwater-technology PYQ — chemistry support, full ownership in Environment
 
-**Status:** Verified routed demand covering 2024 Q36; the official Set-A key is available locally but no option, answer letter or objective answer key is reproduced.
+**Independent 250-word model route:** Clean freshwater provision depends first on the feedwater problem: salt, pathogen and toxic ion require different treatment. Reverse osmosis uses pressure and a selective membrane to separate dissolved salts, making it useful for saline sources; it requires energy and pretreatment and produces reject brine requiring safe disposal. Distillation vaporises and condenses water and can treat highly saline sources, but heat demand and concentrate management constrain scale. Electrodialysis separates ions electrically and may suit brackish water, but electrical consumption, membranes and residual concentrate must be budgeted. For treated wastewater, filtration and disinfection can support recycling; risks are variable influent, process control, public acceptance and distribution-system safeguards. Adsorption or ion exchange can target contaminants such as fluoride or arsenic where verified for the specified source, but exhausted media or regenerant requires management. Chlorination adds useful residual disinfection while raising possible by-product concerns; UV can disinfect clear water without residual protection and needs low turbidity. India's site-specific choice must weigh contaminant removal, costs, power supply, scale, skilled operators and waste streams. No single device is universally safest, cleanest or cheapest. The full environmental and governance answer is owned by `Environment-and-Ecology/basic/14_Water-Pollution-and-River-Cleaning-Missions.md`; this route isolates the chemistry contribution and is not an invented exact-paper solution.
 
-**Model solution:** **Polymer structure and processing classes:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Hydrogel polymer-network route:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Six original Mains questions and full model answers
 
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2024 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
+### Original Mains 1 — 10 marks / 150 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Explain how atomic structure and bonding guide material choice in Indian industry. Answer in 150 words.
 
-**Introduction and thesis:** **Polymer structure and processing classes:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Hydrogel polymer-network route:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer:** Atomic number fixes elemental identity; valence-electron patterns help predict bonding and reactivity, not the economic suitability of an ore by themselves. An ionic compound holds oppositely charged ions in a lattice and typically conducts when molten or dissolved, whereas many molecular covalent substances lack mobile carriers. Metallic bonding supplies delocalised electrons and allows metal deformation; alloying iron with chromium can improve corrosion resistance in stainless steel. Graphite and diamond show why composition alone is inadequate: both contain carbon, but layered graphite conducts and lubricates whereas tetrahedral diamond is hard and ordinarily insulating. An Indian infrastructure planner therefore chooses conductor, coating and alloy using structure and operating environment, including heat, water and mechanical loading. CSIR-NML research can inform material processing, but a laboratory property is not equivalent to commercially available high-quality components. Material selection needs corrosion tests, lifecycle cost and manufacturability alongside textbook bonding categories.
 
-**Analytical body:**
+### Original Mains 2 — 10 marks / 150 words
 
-1. **Claim and named evidence:** Demand: Assess the routed statements on uses of hydrogels. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed demand covering 2024 Q36; the official Set-A key is available locally but no option, answer letter or objective answer key is reproduced. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
+**Question:** Distinguish pH, neutralisation and buffering in water and health applications. Answer in 150 words.
 
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
+**Model answer:** pH expresses hydrogen-ion activity logarithmically: in dilute idealised solutions, a one-unit difference corresponds roughly to a tenfold activity ratio. Pure water's neutral pH equals seven at 25 °C, but neutrality means balanced hydrogen and hydroxide activities, so the neutral numerical value changes with temperature. Neutralisation reduces acidic and basic character, often producing water and salt; it does not imply every resulting salt solution has pH seven. A bicarbonate buffer in blood consumes part of an added acid or base, limiting pH change until its finite capacity is exceeded. Similarly, soil buffering modifies how a treatment alters nutrient availability; simply pouring an alkali onto acidic soil does not guarantee uniform lasting correction. In Indian water treatment, chemical dosing must consider initial alkalinity, mixing and by-products. Thus an acidity claim needs temperature, activity or concentration assumptions, and source-specific measurements rather than a universal pH label.
 
-**Qualified conclusion:** **Polymer structure and processing classes:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Hydrogel polymer-network route:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Original Mains 3 — 15 marks / 250 words
 
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
+**Question:** Apply mole-based stoichiometry, limiting reagent and equilibrium to responsible fertilizer production without spurious yield claims. Answer in 250 words.
 
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
+**Model answer:** A balanced reaction fixes relative amounts, not an actual factory yield. In ammonia synthesis, nitrogen and hydrogen combine in a one-to-three mole ratio to form ammonia; the reagent present in the smaller stoichiometrically usable amount limits theoretical output. Mole accounting converts material inputs into a ceiling for product, while measured product divided by that ceiling gives a process-specific yield. Losses, incomplete conversion, recycle and purity make that ceiling different from verified saleable production. The forward ammonia reaction is exothermic and reduces the number of gas molecules. Higher pressure favours ammonia at equilibrium, while lower temperature favours the exothermic side; however excessively low temperature slows reaction. An iron catalyst lowers the activation barrier and speeds approach to equilibrium but does not move the equilibrium composition at fixed conditions. Thus industrial conditions balance energy, rate, separation and recycle rather than applying one textbook trend blindly. India's fertilizer choices also require chemical distinctions: urea mainly supplies nitrogen, DAP nitrogen and phosphorus, and MOP potassium. High nitrogen throughput does not prove balanced soil nutrition: leaching and eutrophication are possible downstream costs. Efficient design should track feedstock origin, process energy, achieved conversion, fertilizer mix and field nutrient application. Stoichiometry determines what is possible; kinetics, equilibrium and measured losses determine what is actually delivered, and agronomy determines whether that output is useful. Where hydrogen is derived from fossil feedstock, ammonia’s production footprint cannot be inferred from its balanced equation. Further, excessive field application can damage waters regardless of efficient reactor conversion.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
+### Original Mains 4 — 15 marks / 250 words
 
-### PYQ DEMAND CARD 2 — 2025 Prelims GS-I
+**Question:** Analyse the shared redox basis but differing energy and pollution consequences of batteries, hydrogen electrolysis and corrosion control. Answer in 250 words.
 
-**Demand:** Assess the routed statements on what coal-gasification technology can produce.
+**Model answer:** Oxidation is electron loss and reduction electron gain; both occur together. In a discharging galvanic cell, separated half-reactions send electrons through a circuit, converting stored chemical energy into electricity. An electrolyser consumes electrical energy to drive a non-spontaneous reaction; water electrolysis can yield hydrogen, but fuel-cycle emissions depend on the electricity source and plant operation. Zinc protecting iron illustrates a third use of redox: zinc oxidises sacrificially while electrically connected to steel, reducing wet electrochemical corrosion even where the barrier coating is scratched. This protection has finite material life and requires inspection. Hot dry gas can attack a metal chemically, so not every corrosion problem can be described solely as aqueous rusting. CSIR-CECRI's electrochemistry work connects laboratory redox to batteries and corrosion; MNRE's National Green Hydrogen Mission adds policy support for hydrogen pathways. Mission support is not verified low-emission production, and an operating electrolyser is not automatically a cost-competitive storage system. India must account for electricity input, water quality, catalysts, maintenance and hydrogen transport as well as product volume. For public procurement, compare energy in and useful output, corrosion-life evidence and associated by-products rather than calling every process 'green' merely because electrons move. The underlying chemistry is common; system boundaries and environmental outcomes differ sharply. The same distinction applies to reversible cell operation: charging a battery needs external energy and may not recover all discharged energy. System losses and materials sourcing must enter a serious green-transition comparison, alongside grid reliability and regional water availability for electrolysis.
 
-**Status:** Verified routed demand covering 2025 Q45; the official Set-A key is available locally but no option, answer letter or objective answer key is reproduced.
+### Original Mains 5 — 20 marks / 250 words
 
-**Model solution:** **Fuels combustion and gasification boundary:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Coal-gasification routed product boundary:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question:** Discuss how polymer structure and consumer chemistry should shape India's plastic and product governance. Answer in 250 words.
 
-**Demand decoding:** Treat “PYQ DEMAND CARD 2 — 2025 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
+**Model answer:** A polymer's behaviour depends on monomer chemistry and architecture, not the label 'plastic'. Addition polymerisation can form polyethylene without eliminating a small molecule; condensation routes form materials such as common nylons with by-products. A thermoplastic softens on reheating; a highly cross-linked thermoset resists remoulding. Recycling opportunities therefore differ even before contamination, additives and collection economics are considered. A hydrogel illustrates the value of crosslinks: its hydrophilic network can absorb and retain water for a dressing, but a material's swelling does not certify it as sterile or capable of purifying any water. Bisphenol A is associated with some polycarbonate/epoxy uses and triclosan with some personal-care antimicrobial formulations; exposure must be evaluated for actual products, dates and doses rather than assumed across all goods. Soaps may form insoluble scum with hard-water calcium and magnesium, whereas many synthetic detergents keep working, though persistent surfactant structures can raise environmental concerns. India's plastics policy must distinguish collection, sorting and appropriate reprocessing from claims of biodegradability. A material may degrade only under specified heat, moisture and microbial conditions; open dumping is not controlled composting. The UNEP plastics-treaty discussions as documented for 2024–25 underline lifecycle governance, but do not establish a final treaty outcome by themselves. Useful packaging and medical products can coexist with restrictions on harmful exposure and robust waste systems. Mechanism, local disposal conditions and evidence of risk should determine a regulation, not a generic ban or universal safety claim. Mixed waste can make recycling impractical; regulation should compare recovery with substitution.
 
-**Detailed examiner-grade model answer:**
+### Original Mains 6 — 20 marks / 250 words
 
-**Introduction and thesis:** **Fuels combustion and gasification boundary:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Coal-gasification routed product boundary:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question:** Critically examine chemistry choices in India's drinking-water systems, atmospheric health and industrial fuel transition. Answer in 250 words.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess the routed statements on what coal-gasification technology can produce. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed demand covering 2025 Q45; the official Set-A key is available locally but no option, answer letter or objective answer key is reproduced. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Fuels combustion and gasification boundary:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Coal-gasification routed product boundary:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2025 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 3 — 2021 Prelims GS-I
-
-**Demand:** Assess the routed distinctions involving water's dipolar solvent character, bisphenol A in material manufacture and triclosan in personal-care products.
-
-**Status:** Representative routed card covering 2021 Q71, Q74 and Q75; official keys are unavailable locally and no option, answer letter, product list, safety conclusion or regulatory status is inferred.
-
-**Model solution:** **Solutions concentration and solubility boundary:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Organic functional-group classification:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Measurement exposure and category firewall:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Water polarity BPA and triclosan boundaries:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 3 — 2021 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Solutions concentration and solubility boundary:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Organic functional-group classification:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Measurement exposure and category firewall:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Water polarity BPA and triclosan boundaries:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess the routed distinctions involving water's dipolar solvent character, bisphenol A in material manufacture and triclosan in personal-care products. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Representative routed card covering 2021 Q71, Q74 and Q75; official keys are unavailable locally and no option, answer letter, product list, safety conclusion or regulatory status is inferred. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Solutions concentration and solubility boundary:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Organic functional-group classification:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Measurement exposure and category firewall:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Water polarity BPA and triclosan boundaries:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2021 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Explain how atomic structure and periodic trends guide comparison of elemental properties. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Atomic identity and isotope boundary. **Named evidence/example:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Periodic trends and qualified comparison. **Named evidence/example:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number.
-- The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence.
-
-**Qualified conclusion:** **Claim:** Atomic identity and isotope boundary. **Named evidence/example:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Periodic trends and qualified comparison. **Named evidence/example:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how atomic structure and periodic trends guide comparison of elemental properties.…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Atomic identity and isotope boundary. **Named evidence/example:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Periodic trends and qualified comparison. **Named evidence/example:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Atomic identity and isotope boundary. **Named evidence/example:** An atom contains protons and neutrons in its nucleus and electrons outside it; atomic number is the proton count that fixes elemental identity, mass number is protons plus neutrons, isotopes share atomic number but differ in mass number, isobars share mass number but differ in atomic number, and isotones share neutron number. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Periodic trends and qualified comparison. **Named evidence/example:** The modern periodic table is ordered by atomic number; across a period atomic size generally decreases while ionisation energy and electronegativity generally increase and metallic character generally decreases, whereas down a group atomic size generally increases. These are trends with contextual exceptions, not licence to rank every pair without electronic-structure evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain how atomic structure and periodic trends guide comparison of elemental properties.…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish ionic, covalent and metallic bonding and relate intermolecular forces to states and solutions. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Ionic covalent metallic and intermolecular distinction. **Named evidence/example:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** States phase change and intermolecular forces. **Named evidence/example:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Solutions concentration and solubility boundary. **Named evidence/example:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance.
-- Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance.
-- A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong.
-
-**Qualified conclusion:** **Claim:** Ionic covalent metallic and intermolecular distinction. **Named evidence/example:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** States phase change and intermolecular forces. **Named evidence/example:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Solutions concentration and solubility boundary. **Named evidence/example:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish ionic, covalent and metallic bonding and relate intermolecular forces to states…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Ionic covalent metallic and intermolecular distinction. **Named evidence/example:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** States phase change and intermolecular forces. **Named evidence/example:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Solutions concentration and solubility boundary. **Named evidence/example:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Ionic covalent metallic and intermolecular distinction. **Named evidence/example:** Ionic bonding arises from electron transfer and attraction between oppositely charged ions, covalent bonding from shared electron pairs, and metallic bonding from positive metal centres with delocalised electrons; hydrogen bonding and van der Waals forces are intermolecular or interparticle attractions and must not be relabelled as the primary bond inside every substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** States phase change and intermolecular forces. **Named evidence/example:** Solid, liquid and gas differ in particle arrangement, mobility and separation; melting, freezing, vaporisation, condensation and sublimation are physical changes of state, while stronger intermolecular attraction generally raises the energy needed for separation. A phase change does not by itself create a new chemical substance. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Solutions concentration and solubility boundary. **Named evidence/example:** A solution contains solute dispersed at the molecular or ionic scale in a solvent; concentration describes how much solute is present by a stated basis such as amount, mass, volume or proportion, whereas solubility is the equilibrium limit under specified conditions. Dilute is not synonymous with weak, and concentrated is not synonymous with strong. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish ionic, covalent and metallic bonding and relate intermolecular forces to states…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain mole-based stoichiometry, limiting reagent and yield as a disciplined chemical-accounting framework. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Mole and stoichiometric accounting. **Named evidence/example:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it.
-- pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-
-**Qualified conclusion:** **Claim:** Mole and stoichiometric accounting. **Named evidence/example:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain mole-based stoichiometry, limiting reagent and yield as a disciplined chemical-…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Mole and stoichiometric accounting. **Named evidence/example:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Mole and stoichiometric accounting. **Named evidence/example:** The mole is the amount-of-substance unit used to connect chemical entities with measurable mass; stoichiometry follows a balanced equation to relate reactants and products, the limiting reagent caps the theoretical product, and percentage yield compares actual with theoretical yield. No numerical constant, purity or yield may be assumed unless the question supplies it. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain mole-based stoichiometry, limiting reagent and yield as a disciplined chemical-…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Analyse acids, bases, pH, buffers, redox cells, reaction rates, catalysis and equilibrium through their correct category boundaries. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Acids bases neutralisation and pH. **Named evidence/example:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buffers salts and neutral-point boundary. **Named evidence/example:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Oxidation reduction and electrochemical cells. **Named evidence/example:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Reaction rate catalyst and equilibrium boundary. **Named evidence/example:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration.
-- A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable.
-- Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode.
-- Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change.
-
-**Qualified conclusion:** **Claim:** Acids bases neutralisation and pH. **Named evidence/example:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buffers salts and neutral-point boundary. **Named evidence/example:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Oxidation reduction and electrochemical cells. **Named evidence/example:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Reaction rate catalyst and equilibrium boundary. **Named evidence/example:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse acids, bases, pH, buffers, redox cells, reaction rates, catalysis and equilibrium…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Acids bases neutralisation and pH. **Named evidence/example:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buffers salts and neutral-point boundary. **Named evidence/example:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Oxidation reduction and electrochemical cells. **Named evidence/example:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Reaction rate catalyst and equilibrium boundary. **Named evidence/example:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Acids bases neutralisation and pH. **Named evidence/example:** An acid can donate protons and a base can accept them, while the aqueous school-level definitions refer to hydrogen and hydroxide ions; pH is logarithmic and tracks hydrogen-ion activity, neutralisation reduces acidic and basic character and often forms salt and water, and acid strength must be kept separate from concentration. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Buffers salts and neutral-point boundary. **Named evidence/example:** A buffer resists pH change when limited acid or base is added, salts may produce acidic, basic or neutral solutions depending on their constituent ions, and neutral pH is not universally fixed at the familiar school value because water self-ionisation varies with temperature. A buffer resists change; it does not make pH immutable. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Oxidation reduction and electrochemical cells. **Named evidence/example:** Oxidation is electron loss or an increase in oxidation number and reduction is electron gain or a decrease; the paired half-processes can convert chemical energy to electrical energy in a galvanic or voltaic cell, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical change. Electrode signs depend on cell type, but oxidation remains at the anode and reduction at the cathode. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Reaction rate catalyst and equilibrium boundary. **Named evidence/example:** Reaction rate depends on effective collisions and can change with concentration, temperature, surface area and catalysts; a catalyst provides a lower-activation-energy pathway and speeds forward and reverse reactions without shifting the equilibrium position. Equilibrium is dynamic equality of forward and reverse rates, not cessation of molecular change. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse acids, bases, pH, buffers, redox cells, reaction rates, catalysis and equilibrium…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Discuss how functional groups, polymers, carbon allotropes, alloys, fuels and gasification connect molecular structure with industrial application. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Organic functional-group classification. **Named evidence/example:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Polymer structure and processing classes. **Named evidence/example:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Carbon allotropes alloys and material properties. **Named evidence/example:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Fuels combustion and gasification boundary. **Named evidence/example:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hydrogel polymer-network route. **Named evidence/example:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Coal-gasification routed product boundary. **Named evidence/example:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status.
-- Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories.
-- Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone.
-- Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean.
-- A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation.
-- Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions.
-
-**Qualified conclusion:** **Claim:** Organic functional-group classification. **Named evidence/example:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Polymer structure and processing classes. **Named evidence/example:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Carbon allotropes alloys and material properties. **Named evidence/example:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Fuels combustion and gasification boundary. **Named evidence/example:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hydrogel polymer-network route. **Named evidence/example:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Coal-gasification routed product boundary. **Named evidence/example:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss how functional groups, polymers, carbon allotropes, alloys, fuels and gasification…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Organic functional-group classification. **Named evidence/example:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Polymer structure and processing classes. **Named evidence/example:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Carbon allotropes alloys and material properties. **Named evidence/example:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Fuels combustion and gasification boundary. **Named evidence/example:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hydrogel polymer-network route. **Named evidence/example:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Coal-gasification routed product boundary. **Named evidence/example:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Organic functional-group classification. **Named evidence/example:** A functional group is the reactive structural feature used to classify organic compounds, including alcohol, aldehyde, ketone, carboxylic-acid, amine and ester families; compounds sharing a functional group can show related reaction patterns, but a label alone does not establish exposure, toxicity, biodegradability or regulatory status. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Polymer structure and processing classes. **Named evidence/example:** Polymers are macromolecules built from repeating units; addition polymerisation joins monomers without eliminating a small molecule, condensation polymerisation forms links while eliminating a small molecule, thermoplastics soften on reheating, and thermosets form networks that do not simply remelt. Biodegradable and compostable remain condition-dependent categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Carbon allotropes alloys and material properties. **Named evidence/example:** Diamond, graphite, graphene, fullerenes and carbon nanotubes are carbon allotropes whose different structures produce different properties; an alloy combines a metal with other elements to alter strength, corrosion resistance or workability. Material performance follows structure and processing, not element name alone. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Fuels combustion and gasification boundary. **Named evidence/example:** Combustion is oxidation that releases energy, whereas gasification converts a carbonaceous feedstock under controlled conditions into a gas mixture that can include carbon monoxide and hydrogen; complete and incomplete combustion, calorific usefulness, pollutants and lifecycle burden are separate evaluative axes. Gasification must not be presented as ordinary burning or as automatically clean. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hydrogel polymer-network route. **Named evidence/example:** A hydrogel is a cross-linked hydrophilic polymer network that absorbs and retains water; routed applications include dressings, contact lenses, controlled release and water-management contexts. It is neither merely a liquid nor a universal water-purification material, and an application category does not prove performance in every formulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Coal-gasification routed product boundary. **Named evidence/example:** Coal gasification uses controlled reaction with oxygen or steam to produce synthesis gas chiefly containing carbon monoxide and hydrogen, with composition and by-products dependent on process and feedstock. A possible product stream is not evidence of plant efficiency, carbon capture, commercial viability or lower lifecycle emissions. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Discuss how functional groups, polymers, carbon allotropes, alloys, fuels and gasification…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Critically examine how chemistry fundamentals inform environmental governance, consumer-product assessment, water technologies and evidence-based technology policy. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Environmental chemistry compartment map. **Named evidence/example:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Water polarity BPA and triclosan boundaries. **Named evidence/example:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Chemistry-to-policy evidence ladder. **Named evidence/example:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway.
-- pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary.
-- Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence.
-- Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation.
-
-**Qualified conclusion:** **Claim:** Environmental chemistry compartment map. **Named evidence/example:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Water polarity BPA and triclosan boundaries. **Named evidence/example:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Chemistry-to-policy evidence ladder. **Named evidence/example:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine how chemistry fundamentals inform environmental governance, consumer-…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Environmental chemistry compartment map. **Named evidence/example:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Water polarity BPA and triclosan boundaries. **Named evidence/example:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Chemistry-to-policy evidence ladder. **Named evidence/example:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Environmental chemistry compartment map. **Named evidence/example:** Stratospheric ozone absorbs harmful ultraviolet radiation while ground-level ozone is a secondary pollutant; greenhouse gases, ozone-depleting substances, acids, nutrients and persistent chemicals operate through different atmospheric, water or soil mechanisms. The same molecule can have different significance by location, concentration, exposure and reaction pathway. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Measurement exposure and category firewall. **Named evidence/example:** pH, concentration, oxidation number, reaction rate, yield, dose, exposure, persistence and emission are different measurements or categories; labels such as natural, organic, biodegradable, antimicrobial, fuel, solvent or pollutant do not independently prove safety, hazard, performance or legal status. State the measured quantity, basis, conditions and evidence boundary. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Water polarity BPA and triclosan boundaries. **Named evidence/example:** Water's molecular polarity supports dissolution of many ionic and polar substances but does not make it a literal universal solvent; bisphenol A is associated with manufacture of some polycarbonate and epoxy materials, while triclosan is a synthetic antimicrobial used in some personal-care products. Presence, exposure, product coverage, safety and regulation require separate dated evidence. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Chemistry-to-policy evidence ladder. **Named evidence/example:** Atomic or molecular principle leads to material property, then process choice, industrial system, application and governance consequence; CSIR-NCL, CSIR-CECRI and the metallurgical research ecosystem illustrate distinct chemistry, electrochemistry and materials roles. A research mandate, mission page, negotiating document or named application does not prove deployment, outcome, hazard or regulation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Critically examine how chemistry fundamentals inform environmental governance, consumer-…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+**Model answer:** Chemical diagnosis precedes technology selection. Salinity requires dissolved-ion separation: pressure-driven reverse osmosis can do this but consumes electricity and generates concentrate; UV disinfection may inactivate microbes in clear water yet does not remove salts and gives no continuing residual. Chlorination supplies residual protection but can create disinfection by-products in some conditions. Ion-exchange or adsorption may target a specified ion such as fluoride, with spent resin or media requiring management. Thus even 'purified' water demands testing for the initial contaminant, treatment reliability and disposal. The same specificity matters in air policy. Stratospheric ozone protects against ultraviolet radiation, whereas photochemically formed ground-level ozone harms health; ozone's formula alone cannot establish its effect. CFC controls address ozone depletion while Kigali's HFC phase-down addresses climate effects: the mechanisms overlap in governance but are not identical. Coal gasification can generate synthesis gas containing carbon monoxide and hydrogen; it is not inherently carbon-free fuel. Electrolysis can generate hydrogen by consuming electricity; calling it green depends on electricity, infrastructure and lifecycle conditions. CSIR-NCL's chemistry research and MNRE's hydrogen mission can support alternatives, but funding does not demonstrate field-scale clean output. India should evaluate contaminants removed, energy and feedstock consumed, emissions shifted and wastes retained at each step. A technology that solves one chemical problem can create another if its operating conditions are ignored. For a clinic or village, maintenance and reliable monitoring can matter more than the highest laboratory removal figure. Reject streams and spent adsorbents must not be discharged untreated into local ecosystems.

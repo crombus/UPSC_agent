@@ -12,819 +12,1061 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+### Questions — answer only after attempting all cases
+
 #### MCQ 1
 
-A district officer uses an official guest house for a family celebration because it is vacant. Which public-service proposition makes the convenience ethically relevant? Which source-grounded ethical principle most precisely explains the case?
+A district officer uses an official guest house for a family celebration because it is vacant. Which public-service proposition makes the convenience ethically relevant?
 
-A. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-B. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-C. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-D. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-**Answer:** A
-**Explanation:** **Public office is a public trust** is the controlling principle. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Keep public assets for authorised purposes even when unused
+B. Permit private use if the facility was otherwise vacant
+C. Permit private use if the officer pays cleaning charges
+D. Leave the choice to the officer's seniority
 
 ---
 
 #### MCQ 2
 
-A regulator says senior rank permits informal favours that junior staff cannot give. Which conception of office rejects this reasoning? Which source-grounded ethical principle most precisely explains the case?
+A regulator says senior rank permits informal favours that junior staff cannot give. Which conception of office rejects this reasoning?
 
-A. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-B. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-C. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-D. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-**Answer:** B
-**Explanation:** **Public office is a public trust** is the controlling principle. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Allow senior officers a courtesy exception for minor favours
+B. Apply the same public-purpose limits to every rank
+C. Permit favours where no written order prohibits them
+D. Defer review until a recipient alleges prejudice
 
 ---
 
 #### MCQ 3
 
-A licensing officer says loyalty to her department requires concealing an unlawful selection practice. What qualification to role loyalty is decisive? Which source-grounded ethical principle most precisely explains the case?
+A licensing officer says loyalty to her department requires concealing an unlawful selection practice. What qualification to role loyalty is decisive?
 
-A. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-B. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-C. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-D. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-**Answer:** C
-**Explanation:** **Role morality is bounded by constitutional public purpose** is the controlling principle. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Protect the department's reputation by suppressing the file
+B. Disclose applicants' private records publicly before review
+C. Refuse concealment and report the unlawful selection through authorised channels
+D. Treat loyalty to a superior as the final ethical test
 
 ---
 
 #### MCQ 4
 
-A collector implements an unpopular but lawful welfare eligibility rule equally after recording reasons. Which feature makes this role-based conduct defensible? Which source-grounded ethical principle most precisely explains the case?
+A collector implements an unpopular but lawful welfare eligibility rule equally after recording reasons. Which feature makes this role-based conduct defensible?
 
-A. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-B. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-C. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-D. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-**Answer:** D
-**Explanation:** **Role morality is bounded by constitutional public purpose** is the controlling principle. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Suspend an unpopular rule without legal authority
+B. Select applicants on the collector's private moral preference
+C. Apply the rule only to vocal supporters
+D. Give impartial written advice and implement the lawful rule equally
 
 ---
 
 #### MCQ 5
 
-Residents demand that a night shelter be moved away before elections despite no alternative site. Which distinction should guide the municipal commissioner? Which source-grounded ethical principle most precisely explains the case?
+Residents demand that a night shelter be moved away before elections despite no alternative site. Which distinction should guide the municipal commissioner?
 
-A. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-B. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-C. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-D. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-**Answer:** A
-**Explanation:** **Public interest is not majoritarian preference** is the controlling principle. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Test shelter decisions against rights and the needs of displaced persons
+B. Treat the loudest residents' preference as public interest
+C. Close the shelter until an election is complete
+D. Move residents with no safe alternative site
 
 ---
 
 #### MCQ 6
 
-A minister seeks a road diversion that benefits supporters but displaces a poorer hamlet without hearing. Which public-interest test is missing? Which source-grounded ethical principle most precisely explains the case?
+A minister seeks a road diversion that benefits supporters but displaces a poorer hamlet without hearing. Which public-interest test is missing?
 
-A. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-B. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-C. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-D. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-**Answer:** B
-**Explanation:** **Public interest is not majoritarian preference** is the controlling principle. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume political sponsorship proves community benefit
+B. Hear the displaced hamlet and compare lawful route alternatives
+C. Suppress displacement estimates until after approval
+D. Limit consultation to road users with vehicles
 
 ---
 
 #### MCQ 7
 
-An officer attends a bidder's lavish family function during tender evaluation but claims no favour was requested. Which ethical risk remains? Which source-grounded ethical principle most precisely explains the case?
+An officer attends a bidder's lavish family function during tender evaluation but claims no favour was requested. Which ethical risk remains?
 
-A. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-B. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-C. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-D. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-**Answer:** C
-**Explanation:** **Status creates an appearance obligation** is the controlling principle. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Ignore the visit unless a bribe is formally proved
+B. Annul every tender in which a member attends any event
+C. Disclose and manage the credible appearance of bidder favour
+D. Seek a private assurance from the bidder alone
 
 ---
 
 #### MCQ 8
 
-A public hospital superintendent publicly discloses a relative's connection before a procurement decision. Which confidence-preserving duty is being served? Which source-grounded ethical principle most precisely explains the case?
+A public hospital superintendent publicly discloses a relative's connection before a procurement decision. Which confidence-preserving duty is being served?
 
-A. Role morality gives an official special duties of fidelity, competence and impartial implementation, but it cannot licence discrimination, concealment or personal loyalty where these defeat constitutional values, lawful authority or public interest.
-
-B. Public interest concerns constitutionally permissible, evidence-based welfare of the community, including affected minorities and future citizens; it is not identical to electoral popularity, a minister's preference or the loudest group's immediate demand.
-
-C. Public office confers entrusted authority, information and discretion for public purpose; status therefore increases rather than relaxes the duty of restraint, reason-giving and conduct that can retain citizens' confidence.
-
-D. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment.
-
-**Answer:** D
-**Explanation:** **Status creates an appearance obligation** is the controlling principle. Because public authority depends on confidence, officials should avoid impropriety and its reasonable appearance; this is not a demand for private perfection but a duty to manage relationships and conduct that could credibly compromise official judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume disclosure alone permits the relative to win
+B. Automatically blacklist the relative without evaluation
+C. Suppress the link to protect the hospital's reputation
+D. Record the relationship and independently manage any material conflict
 
 ---
 
 #### MCQ 9
 
-A mining inspector accepts repeated hospitality from a company he may inspect next month. Which Nolan principle identifies the prior risk? Which source-grounded ethical principle most precisely explains the case?
+A mining inspector accepts repeated hospitality from a company he may inspect next month. Which Nolan principle identifies the prior risk?
 
-A. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-B. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-C. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-D. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-**Answer:** A
-**Explanation:** **Integrity excludes compromising obligations** is the controlling principle. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Avoid financial or social obligations that could compromise inspection
+B. Accept hospitality if no inspection is scheduled this week
+C. Hide hospitality but promise to act objectively later
+D. Call it public consultation without recording any contact
 
 ---
 
 #### MCQ 10
 
-A procurement member declares an investment and withdraws before bids are opened. Which value is operationalised even without proof of bias? Which source-grounded ethical principle most precisely explains the case?
+A procurement member declares an investment and withdraws before bids are opened. Which value is operationalised even without proof of bias?
 
-A. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-B. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-C. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-D. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-**Answer:** B
-**Explanation:** **Integrity excludes compromising obligations** is the controlling principle. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Keep voting after disclosure because bias is unproved
+B. Declare the holding and recuse where the tender creates a conflict
+C. Transfer shares secretly to a friend before bid opening
+D. Exclude all bidders merely because an officer holds shares
 
 ---
 
 #### MCQ 11
 
-A scholarship committee publishes scoring criteria and anonymises applications. Which Nolan principle is most directly strengthened? Which source-grounded ethical principle most precisely explains the case?
+A scholarship committee publishes scoring criteria and anonymises applications. Which Nolan principle is most directly strengthened?
 
-A. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-B. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-C. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-D. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-**Answer:** C
-**Explanation:** **Objectivity is merit-based official procedure** is the controlling principle. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Select by personal sympathy without checking eligibility
+B. Award extra points to politically influential households
+C. Use published merit criteria to assess applications objectively
+D. Publish criteria only after identifying preferred applicants
 
 ---
 
 #### MCQ 12
 
-An officer says a compassionate policy choice proves objectivity because it is humane. Which distinction corrects the claim? Which source-grounded ethical principle most precisely explains the case?
+An officer says a compassionate policy choice proves objectivity because it is humane. Which distinction corrects the claim?
 
-A. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-B. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-C. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-D. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-**Answer:** D
-**Explanation:** **Objectivity is merit-based official procedure** is the controlling principle. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume a kind motive is evidence that each fact is accurate
+B. Reject all compassionate exceptions even where rules permit
+C. Let beneficiaries determine their own scores privately
+D. Separate objective evidence assessment from compassion in lawful relief design
 
 ---
 
 #### MCQ 13
 
-A district officer applies the same relief criteria to supporters and opponents of the ruling party. What value is directly displayed? Which source-grounded ethical principle most precisely explains the case?
+A district officer applies the same relief criteria to supporters and opponents of the ruling party. What value is directly displayed?
 
-A. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-B. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-C. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-D. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-**Answer:** A
-**Explanation:** **Impartiality and political neutrality differ** is the controlling principle. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Provide party-neutral relief using the same need-based criteria
+B. Give ruling-party households priority to preserve coordination
+C. Alternate benefits between parties regardless of vulnerability
+D. Withhold all aid until party allegiance is verified
 
 ---
 
 #### MCQ 14
 
-A secretary gives frank written advice against an illegal proposal, then implements a lawful revised decision without partisan comment. What role ethic is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A secretary gives frank written advice against an illegal proposal, then implements a lawful revised decision without partisan comment. What role ethic is illustrated?
 
-A. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-B. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-C. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-D. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-**Answer:** B
-**Explanation:** **Impartiality and political neutrality differ** is the controlling principle. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Campaign publicly against the elected government's platform
+B. Provide frank non-partisan advice and execute lawful revised policy
+C. Obey the original illegal order out of departmental loyalty
+D. Refuse every subsequent lawful instruction from that minister
 
 ---
 
 #### MCQ 15
 
-A programme director meets targets but refuses to disclose beneficiary-selection reasons to an audit. Which public value is deficient? Which source-grounded ethical principle most precisely explains the case?
+A programme director meets targets but refuses to disclose beneficiary-selection reasons to an audit. Which public value is deficient?
 
-A. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-B. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-C. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-D. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-**Answer:** C
-**Explanation:** **Accountability is answerability to scrutiny** is the controlling principle. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Count targets as a substitute for answering beneficiaries
+B. Release personal beneficiary data to avoid explaining criteria
+C. Provide reasons and submit selection to independent audit scrutiny
+D. Allow only the programme director to inspect the decisions
 
 ---
 
 #### MCQ 16
 
-A block officer records alternatives, publishes reasons and corrects an exclusion after appeal. Which form of accountability is visible? Which source-grounded ethical principle most precisely explains the case?
+A block officer records alternatives, publishes reasons and corrects an exclusion after appeal. Which form of accountability is visible?
 
-A. Nolan objectivity requires appointments, contracts and benefits to be decided on merit and stated criteria; it is a procedural guard against favouritism, not a claim that public policy can be wholly value-neutral.
-
-B. Impartiality applies relevant criteria equally among persons; political neutrality requires non-partisan advice and implementation under the elected government. Neither requires indifference to constitutional rights, evidence or unlawful directions.
-
-C. Nolan integrity requires public office holders not to place themselves under financial or other obligations that might influence official duty; risk of compromised judgment matters before proof of actual bias or corrupt payment.
-
-D. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task.
-
-**Answer:** D
-**Explanation:** **Accountability is answerability to scrutiny** is the controlling principle. Accountability requires an office holder to explain and justify decisions to appropriate external scrutiny and accept consequences or correction; it exceeds private sincerity and differs from merely having responsibility to perform an assigned task. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat an appeal correction as evidence of automatic misconduct
+B. Keep reasons secret once the final number is published
+C. Delegate accountability to a dashboard vendor
+D. Maintain written reasons, appeal correction and answerability
 
 ---
 
 #### MCQ 17
 
-During a cloudburst, a deputy commissioner must choose between leading fragile rescue operations and attending a parent's last rites. Why is this a genuine dilemma? Which source-grounded ethical principle most precisely explains the case?
+During a cloudburst, a deputy commissioner must choose between leading fragile rescue operations and attending a parent's last rites. Why is this a genuine dilemma?
 
-A. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-B. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-C. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-D. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-**Answer:** A
-**Explanation:** **A genuine dilemma conflicts legitimate duties** is the controlling principle. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Recognise two legitimate duties and manage both without endangering rescue
+B. Label family obligation illegal because the officer holds office
+C. Leave a fragile rescue operation without handover
+D. Treat grief as proof that the officer may never delegate
 
 ---
 
 #### MCQ 18
 
-An officer calls accepting a contractor's gift a dilemma between friendship and duty. What diagnosis should precede balancing? Which source-grounded ethical principle most precisely explains the case?
+An officer calls accepting a contractor's gift a dilemma between friendship and duty. What diagnosis should precede balancing?
 
-A. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-B. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-C. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-D. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-**Answer:** B
-**Explanation:** **A genuine dilemma conflicts legitimate duties** is the controlling principle. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Accept it after weighing contractor friendship equally with law
+B. Refuse the gift because a known duty rules out self-interested gain
+C. Describe a bribe as a clash of two equally valid duties
+D. Accept if the gift is recorded after the contract is signed
 
 ---
 
 #### MCQ 19
 
-A minister's preferred applicant technically meets minimum eligibility but is expedited outside the published queue. Which distinction must the officer apply? Which source-grounded ethical principle most precisely explains the case?
+A minister's preferred applicant technically meets minimum eligibility but is expedited outside the published queue. Which distinction must the officer apply?
 
-A. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-B. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-C. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-D. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-**Answer:** C
-**Explanation:** **Legality is a floor, not the whole ethical inquiry** is the controlling principle. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Expedite the minister's candidate because technically eligible
+B. Reject the candidate permanently merely for ministerial support
+C. Apply the published queue to all equally eligible applicants
+D. Privately add a new priority criterion after file submission
 
 ---
 
 #### MCQ 20
 
-A rule permits several lawful relief priorities. How should a collector choose among them without treating legality as a complete answer? Which source-grounded ethical principle most precisely explains the case?
+A rule permits several lawful relief priorities. How should a collector choose among them without treating legality as a complete answer?
 
-A. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-B. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-C. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-D. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-**Answer:** D
-**Explanation:** **Legality is a floor, not the whole ethical inquiry** is the controlling principle. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every legally available option as equally just
+B. Replace the rule with the collector's private ideology
+C. Select the fastest option without checking whom it excludes
+D. Compare lawful priorities through needs, rights, reasons and review
 
 ---
 
 #### MCQ 21
 
-A city proposes clearing a forest edge for housing. Which step prevents electricity benefits from obscuring tribal livelihood and ecological costs? Which source-grounded ethical principle most precisely explains the case?
+A city proposes clearing a forest edge for housing. Which step prevents electricity benefits from obscuring tribal livelihood and ecological costs?
 
-A. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-B. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-C. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-D. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-**Answer:** A
-**Explanation:** **Stakeholder mapping prevents tunnel vision** is the controlling principle. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Map tribal and ecological harms alongside housing benefits
+B. Count only the units of housing delivered
+C. Assume forest loss is reversible without evidence
+D. Consult only future residents and not current users
 
 ---
 
 #### MCQ 22
 
-A hospital administrator reallocates staff during an outbreak. Which diagnostic method ensures workers, patients and continuity of other care are considered? Which source-grounded ethical principle most precisely explains the case?
+A hospital administrator reallocates staff during an outbreak. Which diagnostic method ensures workers, patients and continuity of other care are considered?
 
-A. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-B. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-C. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-D. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-**Answer:** B
-**Explanation:** **Stakeholder mapping prevents tunnel vision** is the controlling principle. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Move staff solely to maximise visible outbreak statistics
+B. Map vulnerable patients, staff exposure and displaced routine care
+C. Consult only the most senior doctors without patient data
+D. Treat untreated non-outbreak patients as outside public duty
 
 ---
 
 #### MCQ 23
 
-A collector makes an emergency departure from normal documentation requirements. What sequence keeps the choice from becoming arbitrary discretion? Which source-grounded ethical principle most precisely explains the case?
+A collector makes an emergency departure from normal documentation requirements. What sequence keeps the choice from becoming arbitrary discretion?
 
-A. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-B. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-C. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-D. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-**Answer:** C
-**Explanation:** **A defensible resolution is reasoned and reviewable** is the controlling principle. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Suspend all documentation indefinitely on emergency grounds
+B. Conceal the deviation until a complaint is filed
+C. Record necessity and scope, communicate and promptly restore normal controls
+D. Use emergency powers to bypass unrelated tender rules
 
 ---
 
 #### MCQ 24
 
-A senior officer resolves a family-linked tender concern privately without a file note. What feature of defensible resolution is absent? Which source-grounded ethical principle most precisely explains the case?
+A senior officer resolves a family-linked tender concern privately without a file note. What feature of defensible resolution is absent?
 
-A. A legal prohibition removes an option from ordinary ethical choice, but technical legality does not automatically establish morality or propriety; officials must also test public purpose, equality, constitutional values, reasons and foreseeable institutional effects.
-
-B. Dilemma resolution begins by identifying affected citizens, weaker groups, colleagues, institutions and future interests; mapping them exposes hidden burdens before an official chooses among lawful alternatives or invokes a public-good slogan.
-
-C. An ethical dilemma arises when two legitimate duties, values or loyalties cannot both be fully honoured; it differs from a simple temptation to obtain gain by breaking a known rule or disguising favouritism as compassion.
-
-D. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review.
-
-**Answer:** D
-**Explanation:** **A defensible resolution is reasoned and reviewable** is the controlling principle. After excluding unlawful options, an official should compare realistic alternatives through duties, consequences and virtues, select a proportionate option, record reasons, communicate it fairly and mitigate residual harm under independent or administrative review. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Rely on the officer's private assurance of fairness
+B. Destroy the file after deciding to avoid reputational damage
+C. Seek approval only from the interested family member
+D. Disclose the family link and make a reviewable file record
 
 ---
 
 #### MCQ 25
 
-A procurement officer's sibling submits a bid being evaluated by that officer. Which conflict type and operational response apply? Which source-grounded ethical principle most precisely explains the case?
+A procurement officer's sibling submits a bid being evaluated by that officer. Which conflict type and operational response apply?
 
-A. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-B. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-C. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-D. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-**Answer:** A
-**Explanation:** **Actual conflict calls for recusal** is the controlling principle. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Declare the actual conflict and recuse from the sibling's tender
+B. Stay on the panel if the sibling offers the lowest bid
+C. Record the conflict but cast an advisory vote anyway
+D. Bar every bidder related to any public employee automatically
 
 ---
 
 #### MCQ 26
 
-A municipal chair says impartiality is enough despite deciding on her spouse's licence. Why is private assurance insufficient? Which source-grounded ethical principle most precisely explains the case?
+A municipal chair says impartiality is enough despite deciding on her spouse's licence. Why is private assurance insufficient?
 
-A. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-B. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-C. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-D. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-**Answer:** B
-**Explanation:** **Actual conflict calls for recusal** is the controlling principle. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume sincere personal impartiality removes the relationship
+B. Treat a spouse's licence as an actual conflict requiring recusal
+C. Ask the spouse to promise not to influence the outcome
+D. Publish an assurance only after the licence is approved
 
 ---
 
 #### MCQ 27
 
-An officer owns shares in a sector she may later regulate but has no current file. Which proportionate management response is appropriate? Which source-grounded ethical principle most precisely explains the case?
+An officer owns shares in a sector she may later regulate but has no current file. Which proportionate management response is appropriate?
 
-A. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-B. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-C. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-D. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-**Answer:** C
-**Explanation:** **Potential conflict is managed prospectively** is the controlling principle. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Recuse permanently from all future public employment
+B. Wait to declare until an adverse decision is challenged
+C. Disclose the potential conflict for future file screening
+D. Sell shares in secret without declaring the prior holding
 
 ---
 
 #### MCQ 28
 
-A new regulator hides a spouse's consultancy because no tender is active today. Which conflict concept exposes the error? Which source-grounded ethical principle most precisely explains the case?
+A new regulator hides a spouse's consultancy because no tender is active today. Which conflict concept exposes the error?
 
-A. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-B. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-C. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-D. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-**Answer:** D
-**Explanation:** **Potential conflict is managed prospectively** is the controlling principle. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Conceal it until the spouse submits a bid
+B. Call the absence of a current tender proof of no risk
+C. Treat every consultancy in the sector as proven corruption
+D. Register the potential consultancy conflict before a relevant tender arrives
 
 ---
 
 #### MCQ 29
 
-A childhood friend seeks a routine approval from an officer using published criteria. What confidence-focused analysis is needed? Which source-grounded ethical principle most precisely explains the case?
+A childhood friend seeks a routine approval from an officer using published criteria. What confidence-focused analysis is needed?
 
-A. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-B. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-C. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-D. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-**Answer:** A
-**Explanation:** **Apparent conflict requires confidence protection** is the controlling principle. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Document the link and test what a reasonable observer would infer
+B. Treat an old friendship as automatic proof of a bribe
+C. Skip published criteria because the approval is routine
+D. Hide the friendship and rely on a verbal assurance
 
 ---
 
 #### MCQ 30
 
-A journalist alleges bias because an official studied with an applicant decades ago. Which response avoids both concealment and automatic guilt? Which source-grounded ethical principle most precisely explains the case?
+A journalist alleges bias because an official studied with an applicant decades ago. Which response avoids both concealment and automatic guilt?
 
-A. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-B. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-C. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-D. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-**Answer:** B
-**Explanation:** **Apparent conflict requires confidence protection** is the controlling principle. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Recuse any official who once studied with an applicant
+B. Check relevant facts and criteria rather than presume bias or innocence
+C. Dismiss all external criticism as partisan interference
+D. Publish the applicant's confidential personal records
 
 ---
 
 #### MCQ 31
 
-A board member declares a major holding, then participates in regulating that company. Which management principle remains unmet? Which source-grounded ethical principle most precisely explains the case?
+A board member declares a major holding, then participates in regulating that company. Which management principle remains unmet?
 
-A. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-B. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-C. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-D. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-**Answer:** C
-**Explanation:** **Disclosure does not itself resolve conflict** is the controlling principle. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Allow participation because a declaration cures the conflict
+B. Transfer decision-making to the same member's subordinate
+C. Remove the member from the company's regulatory decision
+D. Disclose only after the decision has become final
 
 ---
 
 #### MCQ 32
 
-A district office maintains an interest register but never screens files against it. Why is the safeguard incomplete? Which source-grounded ethical principle most precisely explains the case?
+A district office maintains an interest register but never screens files against it. Why is the safeguard incomplete?
 
-A. A potential conflict is a private interest that could later intersect with official duty; proactive disclosure and a register enable later screening, while automatic present recusal is unnecessary where no relevant decision is before the officer.
-
-B. An apparent conflict exists where a reasonable informed observer could suspect compromised judgment despite no proved private benefit; transparency, reasons and sometimes voluntary recusal preserve confidence without mechanically treating appearance as established corruption.
-
-C. An actual conflict exists when a private interest and an immediate official decision directly collide; the normal safeguard is prompt declaration, removal from the particular decision and reassignment, rather than waiting to prove corrupt motive or outcome.
-
-D. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making.
-
-**Answer:** D
-**Explanation:** **Disclosure does not itself resolve conflict** is the controlling principle. Declaration is a necessary first safeguard but does not cleanse every conflict; the institution must assess materiality, decide recusal, reassignment or conditions, record the response and ensure the private interest cannot distort public decision-making. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a register as a sufficient safeguard without use
+B. Demand recusal from every unrelated department file
+C. Delete the register when no complaints have been received
+D. Screen assigned files and trigger proportionate recusal when interests overlap
 
 ---
 
 #### MCQ 33
 
-A superior threatens an adverse appraisal unless a junior certifies an unsafe building. Which workplace-power concept applies? Which source-grounded ethical principle most precisely explains the case?
+A superior threatens an adverse appraisal unless a junior certifies an unsafe building. Which workplace-power concept applies?
 
-A. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-B. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-C. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-D. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-**Answer:** A
-**Explanation:** **Coercion overbears choice through threat** is the controlling principle. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat threatened appraisal as coercion and protect refusal to certify
+B. Call it ordinary persuasion because no money changes hands
+C. Sign the certificate and seek reassurance afterwards
+D. Treat unsafe certification as legitimate managerial discretion
 
 ---
 
 #### MCQ 34
 
-A ministerial aide threatens to block an officer's transfer unless a file is expedited. What makes this more than firm instruction? Which source-grounded ethical principle most precisely explains the case?
+A ministerial aide threatens to block an officer's transfer unless a file is expedited. What makes this more than firm instruction?
 
-A. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-B. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-C. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-D. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-**Answer:** B
-**Explanation:** **Coercion overbears choice through threat** is the controlling principle. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Accept the threat as lawful political oversight
+B. Record the threat and refuse out-of-queue processing
+C. Comply first and hope a later review restores fairness
+D. Reclassify a threatened transfer as a request for advice
 
 ---
 
 #### MCQ 35
 
-A mentor repeatedly hints that a junior's promotion depends on selecting a preferred vendor. Which power abuse is present? Which source-grounded ethical principle most precisely explains the case?
+A mentor repeatedly hints that a junior's promotion depends on selecting a preferred vendor. Which power abuse is present?
 
-A. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-B. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-C. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-D. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-**Answer:** C
-**Explanation:** **Undue influence exploits dependency without threat** is the controlling principle. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat repeated career hints as neutral technical training
+B. Ask the junior to select the vendor to preserve harmony
+C. Identify abuse of mentor dependence and protect independent evaluation
+D. Demand evidence of a written threat before any intervention
 
 ---
 
 #### MCQ 36
 
-A retiring regulator cultivates a future job from a recently supervised firm without an express bargain. Which ethical risk needs scrutiny? Which source-grounded ethical principle most precisely explains the case?
+A retiring regulator cultivates a future job from a recently supervised firm without an express bargain. Which ethical risk needs scrutiny?
 
-A. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-B. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-C. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-D. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-**Answer:** D
-**Explanation:** **Undue influence exploits dependency without threat** is the controlling principle. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume no risk because a written bargain is absent
+B. Ban all post-retirement work regardless of actual risk
+C. Permit the job on a private assurance of past impartiality
+D. Review a revolving-door conflict and any applicable employment controls
 
 ---
 
 #### MCQ 37
 
-A flood officer accepts equivalent proof from every applicant whose papers were destroyed. What conditions make this calibrated discretion rather than favour? Which source-grounded ethical principle most precisely explains the case?
+A flood officer accepts equivalent proof from every applicant whose papers were destroyed. What conditions make this calibrated discretion rather than favour?
 
-A. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-B. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-C. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-D. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-**Answer:** A
-**Explanation:** **Discretion needs legal purpose and recorded reasons** is the controlling principle. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Allow equivalent alternative proof under recorded uniform emergency criteria
+B. Require impossible destroyed papers from every survivor
+C. Waive all identity checks without recording any basis
+D. Accept alternative proof only from well-connected families
 
 ---
 
 #### MCQ 38
 
-A licensing official waives documents only for politically connected applicants. Which controls on discretion have failed? Which source-grounded ethical principle most precisely explains the case?
+A licensing official waives documents only for politically connected applicants. Which controls on discretion have failed?
 
-A. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-B. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-C. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-D. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-**Answer:** B
-**Explanation:** **Discretion needs legal purpose and recorded reasons** is the controlling principle. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat political affiliation as a lawful documentation exception
+B. Reapply common evidence standards and review unequal waivers
+C. Conceal the waivers because discretion is private
+D. Cancel all licences including compliant applicants
 
 ---
 
 #### MCQ 39
 
-A digital benefit portal rejects persons whose biometric authentication fails repeatedly. What accountability safeguard must accompany automation? Which source-grounded ethical principle most precisely explains the case?
+A digital benefit portal rejects persons whose biometric authentication fails repeatedly. What accountability safeguard must accompany automation?
 
-A. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-B. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-C. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-D. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-**Answer:** C
-**Explanation:** **Automation can reduce but not erase accountability** is the controlling principle. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume a failed biometric check proves ineligibility
+B. Require claimants to purchase a new device to complain
+C. Offer assisted offline appeal and review wrongful biometric exclusions
+D. Delete rejection records to improve portal performance
 
 ---
 
 #### MCQ 40
 
-A department claims its algorithm makes recruitment fully objective. Which ethical qualification should a review committee insist upon? Which source-grounded ethical principle most precisely explains the case?
+A department claims its algorithm makes recruitment fully objective. Which ethical qualification should a review committee insist upon?
 
-A. Undue influence exploits trust, authority or dependency to bend another's autonomous judgment without an overt threat; it requires attention to relationship patterns, career vulnerability and informal pressure rather than only searching for a provable quid pro quo.
-
-B. Discretion is not personal freedom: it must stay within authority, pursue statutory and constitutional purpose, use relevant facts and equal criteria, remain proportionate and be documented so that citizens, supervisors and courts can review it.
-
-C. Coercion compels conduct through an explicit or implicit threat of harm, such as punitive transfer, dismissal or retaliation; apparent consent under such duress is not a reliable ethical defence for the pressured official or decision.
-
-D. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress.
-
-**Answer:** D
-**Explanation:** **Automation can reduce but not erase accountability** is the controlling principle. Automating rule-bound services can reduce arbitrary discretion and improve traceability, but accountable administration still requires accessible alternatives, human review of exclusion, reliable data and responsibility for biased design, implementation and redress. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat machine output as impartial without verification
+B. Replace published eligibility criteria with secret vendor weights
+C. Allow no way to challenge a mistaken rejection
+D. Audit input bias, error rates and reviewable human decisions
 
 ---
 
 #### MCQ 41
 
-A disaster authority withholds exact shelter locations temporarily because disclosure would expose women to a verified security risk. Which value balance is required? Which source-grounded ethical principle most precisely explains the case?
+A disaster authority withholds exact shelter locations temporarily because disclosure would expose women to a verified security risk. Which value balance is required?
 
-A. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-B. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-C. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-D. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-**Answer:** A
-**Explanation:** **Openness has a justified public-interest limit** is the controlling principle. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Disclose maximally while narrowly protecting verified safety risks
+B. Release exact locations despite an identified imminent threat
+C. Conceal all relief spending indefinitely to protect shelter users
+D. Provide locations only to politically allied reporters
 
 ---
 
 #### MCQ 42
 
-A department refuses an audit request solely because criticism may embarrass a minister. Why is this not a valid openness exception? Which source-grounded ethical principle most precisely explains the case?
+A department refuses an audit request solely because criticism may embarrass a minister. Why is this not a valid openness exception?
 
-A. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-B. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-C. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-D. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-**Answer:** B
-**Explanation:** **Openness has a justified public-interest limit** is the controlling principle. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Conflate reputational discomfort with protected information
+B. Provide audit access under applicable safeguards despite embarrassment
+C. Destroy audit records before a sensitive election
+D. Refuse access solely because a minister may be criticised
 
 ---
 
 #### MCQ 43
 
-A committee member accurately reports project data but conceals a relative's consultancy with the vendor. Which Nolan requirement is breached? Which source-grounded ethical principle most precisely explains the case?
+A committee member accurately reports project data but conceals a relative's consultancy with the vendor. Which Nolan requirement is breached?
 
-A. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-B. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-C. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-D. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-**Answer:** C
-**Explanation:** **Honesty includes private-interest declaration** is the controlling principle. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume accurate statistics excuse concealed interests
+B. Call a family consultancy irrelevant to vendor oversight
+C. Declare the consultancy as a private interest despite accurate reporting
+D. Disclose only if auditors prove that the data were false
 
 ---
 
 #### MCQ 44
 
-An officer voluntarily places a financial interest on record before joining a regulatory panel. Which public-life value is being applied? Which source-grounded ethical principle most precisely explains the case?
+An officer voluntarily places a financial interest on record before joining a regulatory panel. Which public-life value is being applied?
 
-A. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-B. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-C. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-D. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-**Answer:** D
-**Explanation:** **Honesty includes private-interest declaration** is the controlling principle. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Wait to declare until a regulator accuses the officer
+B. Permit a conflicted vote solely because the declaration is public
+C. Treat the declaration as proof that no review is needed
+D. Record the financial interest before the panel considers relevant files
 
 ---
 
 #### MCQ 45
 
-A department head refuses to reward staff who manipulate beneficiary data to meet targets. Which Nolan principle is being demonstrated? Which source-grounded ethical principle most precisely explains the case?
+A department head refuses to reward staff who manipulate beneficiary data to meet targets. Which Nolan principle is being demonstrated?
 
-A. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-B. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-C. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-D. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-**Answer:** A
-**Explanation:** **Leadership shapes institutional ethical climate** is the controlling principle. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Model integrity by refusing to reward manipulated target reporting
+B. Reward inflated figures if performance goals are met
+C. Retain the false report but quietly warn staff
+D. Discourage whistleblowing to preserve team cohesion
 
 ---
 
 #### MCQ 46
 
-A senior officer signs a conflict declaration, protects dissenters and reviews procurement reasons. How does this build ethical climate? Which source-grounded ethical principle most precisely explains the case?
+A senior officer signs a conflict declaration, protects dissenters and reviews procurement reasons. How does this build ethical climate?
 
-A. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-B. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-C. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-D. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-**Answer:** B
-**Explanation:** **Leadership shapes institutional ethical climate** is the controlling principle. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Sign a declaration but never check file-level conflicts
+B. Set a visible example through disclosure, dissent protection and review
+C. Punish dissenters to achieve consistent reporting
+D. Transfer procurement decisions to an interested colleague
 
 ---
 
 #### MCQ 47
 
-A ministry closes one lakh grievance records quickly but gives identical non-speaking replies. Which distinction prevents equating speed with accountability? Which source-grounded ethical principle most precisely explains the case?
+A ministry closes one lakh grievance records quickly but gives identical non-speaking replies. Which distinction prevents equating speed with accountability?
 
-A. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
-
-B. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
-
-C. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
-
-D. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
-
-**Answer:** C
-**Explanation:** **Metrics illustrate monitoring, not complete ethics** is the controlling principle. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Equate low pendency with adequate redress by definition
+B. Send identical templates while disabling appeals
+C. Require reasoned responses and effective appeal beyond case-closure counts
+D. Measure accountability only by the speed of closure
 
 ---
 
 #### MCQ 48
 
-A dashboard shows low pendency while inaccessible digital procedures exclude elderly claimants. What ethical limitation of metrics is exposed? Which source-grounded ethical principle most precisely explains the case?
+A dashboard shows low pendency while inaccessible digital procedures exclude elderly claimants. What ethical limitation of metrics is exposed?
 
-A. In the Nolan formulation, honesty specifically requires declaration of private interests relating to public duties and resolution of resulting conflicts; ordinary truthfulness remains important, but this principle directly targets transparent conflict management.
+A. Treat a low backlog as proof of equal access
+B. Close offline counters to improve digital adoption rates
+C. Drop failed submissions from the denominator of complaints
+D. Test access and exclusion among elderly users, not only dashboard pendency
 
-B. Nolan leadership requires senior office holders to promote public-life values through personal example, fair systems and response to misconduct; ethical culture cannot be created by slogans while leaders reward target achievement obtained through improper means.
+### Separate answer key: option-by-option elimination and traps
 
-C. Nolan openness favours maximum disclosure, but information may be restricted when a clear wider public-interest and lawful ground supports it; secrecy must be justified, narrowly tailored and not used to conceal embarrassment, favouritism or maladministration.
+#### MCQ 1 — A
 
-D. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary.
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “permit private use if the facility was otherwise vacant” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “permit private use if the officer pays cleaning charges” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “leave the choice to the officer's seniority” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
 
-**Answer:** D
-**Explanation:** **Metrics illustrate monitoring, not complete ethics** is the controlling principle. Disposal, pendency and response-time metrics can make administrative monitoring visible, but they do not by themselves prove correctness, fairness, satisfaction, impartiality or absence of misconduct; qualitative review and remedy remain necessary. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Examiner trap:** Do not mistake permit private use if the facility was otherwise vacant for the case-specific safeguard; the operative response is keep public assets for authorised purposes even when unused.
+
+---
+
+#### MCQ 2 — B
+
+- **A:** Incorrect: “allow senior officers a courtesy exception for minor favours” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “permit favours where no written order prohibits them” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “defer review until a recipient alleges prejudice” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake permit favours where no written order prohibits them for the case-specific safeguard; the operative response is apply the same public-purpose limits to every rank.
+
+---
+
+#### MCQ 3 — C
+
+- **A:** Incorrect: “protect the department's reputation by suppressing the file” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “disclose applicants' private records publicly before review” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “treat loyalty to a superior as the final ethical test” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake treat loyalty to a superior as the final ethical test for the case-specific safeguard; the operative response is refuse concealment and report the unlawful selection through authorised channels.
+
+---
+
+#### MCQ 4 — D
+
+- **A:** Incorrect: “suspend an unpopular rule without legal authority” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “select applicants on the collector's private moral preference” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “apply the rule only to vocal supporters” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake suspend an unpopular rule without legal authority for the case-specific safeguard; the operative response is give impartial written advice and implement the lawful rule equally.
+
+---
+
+#### MCQ 5 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “treat the loudest residents' preference as public interest” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “close the shelter until an election is complete” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “move residents with no safe alternative site” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake treat the loudest residents' preference as public interest for the case-specific safeguard; the operative response is test shelter decisions against rights and the needs of displaced persons.
+
+---
+
+#### MCQ 6 — B
+
+- **A:** Incorrect: “assume political sponsorship proves community benefit” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “suppress displacement estimates until after approval” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “limit consultation to road users with vehicles” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake suppress displacement estimates until after approval for the case-specific safeguard; the operative response is hear the displaced hamlet and compare lawful route alternatives.
+
+---
+
+#### MCQ 7 — C
+
+- **A:** Incorrect: “ignore the visit unless a bribe is formally proved” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “annul every tender in which a member attends any event” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “seek a private assurance from the bidder alone” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake seek a private assurance from the bidder alone for the case-specific safeguard; the operative response is disclose and manage the credible appearance of bidder favour.
+
+---
+
+#### MCQ 8 — D
+
+- **A:** Incorrect: “assume disclosure alone permits the relative to win” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “automatically blacklist the relative without evaluation” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “suppress the link to protect the hospital's reputation” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake assume disclosure alone permits the relative to win for the case-specific safeguard; the operative response is record the relationship and independently manage any material conflict.
+
+---
+
+#### MCQ 9 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “accept hospitality if no inspection is scheduled this week” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “hide hospitality but promise to act objectively later” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “call it public consultation without recording any contact” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake accept hospitality if no inspection is scheduled this week for the case-specific safeguard; the operative response is avoid financial or social obligations that could compromise inspection.
+
+---
+
+#### MCQ 10 — B
+
+- **A:** Incorrect: “keep voting after disclosure because bias is unproved” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “transfer shares secretly to a friend before bid opening” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “exclude all bidders merely because an officer holds shares” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake transfer shares secretly to a friend before bid opening for the case-specific safeguard; the operative response is declare the holding and recuse where the tender creates a conflict.
+
+---
+
+#### MCQ 11 — C
+
+- **A:** Incorrect: “select by personal sympathy without checking eligibility” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “award extra points to politically influential households” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “publish criteria only after identifying preferred applicants” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake publish criteria only after identifying preferred applicants for the case-specific safeguard; the operative response is use published merit criteria to assess applications objectively.
+
+---
+
+#### MCQ 12 — D
+
+- **A:** Incorrect: “assume a kind motive is evidence that each fact is accurate” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “reject all compassionate exceptions even where rules permit” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “let beneficiaries determine their own scores privately” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake assume a kind motive is evidence that each fact is accurate for the case-specific safeguard; the operative response is separate objective evidence assessment from compassion in lawful relief design.
+
+---
+
+#### MCQ 13 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “give ruling-party households priority to preserve coordination” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “alternate benefits between parties regardless of vulnerability” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “withhold all aid until party allegiance is verified” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake give ruling-party households priority to preserve coordination for the case-specific safeguard; the operative response is provide party-neutral relief using the same need-based criteria.
+
+---
+
+#### MCQ 14 — B
+
+- **A:** Incorrect: “campaign publicly against the elected government's platform” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “obey the original illegal order out of departmental loyalty” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “refuse every subsequent lawful instruction from that minister” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake obey the original illegal order out of departmental loyalty for the case-specific safeguard; the operative response is provide frank non-partisan advice and execute lawful revised policy.
+
+---
+
+#### MCQ 15 — C
+
+- **A:** Incorrect: “count targets as a substitute for answering beneficiaries” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “release personal beneficiary data to avoid explaining criteria” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “allow only the programme director to inspect the decisions” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake allow only the programme director to inspect the decisions for the case-specific safeguard; the operative response is provide reasons and submit selection to independent audit scrutiny.
+
+---
+
+#### MCQ 16 — D
+
+- **A:** Incorrect: “treat an appeal correction as evidence of automatic misconduct” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “keep reasons secret once the final number is published” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “delegate accountability to a dashboard vendor” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake treat an appeal correction as evidence of automatic misconduct for the case-specific safeguard; the operative response is maintain written reasons, appeal correction and answerability.
+
+---
+
+#### MCQ 17 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “label family obligation illegal because the officer holds office” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “leave a fragile rescue operation without handover” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “treat grief as proof that the officer may never delegate” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake label family obligation illegal because the officer holds office for the case-specific safeguard; the operative response is recognise two legitimate duties and manage both without endangering rescue.
+
+---
+
+#### MCQ 18 — B
+
+- **A:** Incorrect: “accept it after weighing contractor friendship equally with law” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “describe a bribe as a clash of two equally valid duties” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “accept if the gift is recorded after the contract is signed” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake describe a bribe as a clash of two equally valid duties for the case-specific safeguard; the operative response is refuse the gift because a known duty rules out self-interested gain.
+
+---
+
+#### MCQ 19 — C
+
+- **A:** Incorrect: “expedite the minister's candidate because technically eligible” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “reject the candidate permanently merely for ministerial support” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “privately add a new priority criterion after file submission” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake privately add a new priority criterion after file submission for the case-specific safeguard; the operative response is apply the published queue to all equally eligible applicants.
+
+---
+
+#### MCQ 20 — D
+
+- **A:** Incorrect: “treat every legally available option as equally just” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “replace the rule with the collector's private ideology” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “select the fastest option without checking whom it excludes” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake treat every legally available option as equally just for the case-specific safeguard; the operative response is compare lawful priorities through needs, rights, reasons and review.
+
+---
+
+#### MCQ 21 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “count only the units of housing delivered” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “assume forest loss is reversible without evidence” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “consult only future residents and not current users” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake count only the units of housing delivered for the case-specific safeguard; the operative response is map tribal and ecological harms alongside housing benefits.
+
+---
+
+#### MCQ 22 — B
+
+- **A:** Incorrect: “move staff solely to maximise visible outbreak statistics” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “consult only the most senior doctors without patient data” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “treat untreated non-outbreak patients as outside public duty” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake consult only the most senior doctors without patient data for the case-specific safeguard; the operative response is map vulnerable patients, staff exposure and displaced routine care.
+
+---
+
+#### MCQ 23 — C
+
+- **A:** Incorrect: “suspend all documentation indefinitely on emergency grounds” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “conceal the deviation until a complaint is filed” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “use emergency powers to bypass unrelated tender rules” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake use emergency powers to bypass unrelated tender rules for the case-specific safeguard; the operative response is record necessity and scope, communicate and promptly restore normal controls.
+
+---
+
+#### MCQ 24 — D
+
+- **A:** Incorrect: “rely on the officer's private assurance of fairness” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “destroy the file after deciding to avoid reputational damage” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “seek approval only from the interested family member” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake rely on the officer's private assurance of fairness for the case-specific safeguard; the operative response is disclose the family link and make a reviewable file record.
+
+---
+
+#### MCQ 25 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “stay on the panel if the sibling offers the lowest bid” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “record the conflict but cast an advisory vote anyway” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “bar every bidder related to any public employee automatically” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake stay on the panel if the sibling offers the lowest bid for the case-specific safeguard; the operative response is declare the actual conflict and recuse from the sibling's tender.
+
+---
+
+#### MCQ 26 — B
+
+- **A:** Incorrect: “assume sincere personal impartiality removes the relationship” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “ask the spouse to promise not to influence the outcome” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “publish an assurance only after the licence is approved” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake ask the spouse to promise not to influence the outcome for the case-specific safeguard; the operative response is treat a spouse's licence as an actual conflict requiring recusal.
+
+---
+
+#### MCQ 27 — C
+
+- **A:** Incorrect: “recuse permanently from all future public employment” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “wait to declare until an adverse decision is challenged” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “sell shares in secret without declaring the prior holding” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake sell shares in secret without declaring the prior holding for the case-specific safeguard; the operative response is disclose the potential conflict for future file screening.
+
+---
+
+#### MCQ 28 — D
+
+- **A:** Incorrect: “conceal it until the spouse submits a bid” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “call the absence of a current tender proof of no risk” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “treat every consultancy in the sector as proven corruption” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake conceal it until the spouse submits a bid for the case-specific safeguard; the operative response is register the potential consultancy conflict before a relevant tender arrives.
+
+---
+
+#### MCQ 29 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “treat an old friendship as automatic proof of a bribe” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “skip published criteria because the approval is routine” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “hide the friendship and rely on a verbal assurance” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake treat an old friendship as automatic proof of a bribe for the case-specific safeguard; the operative response is document the link and test what a reasonable observer would infer.
+
+---
+
+#### MCQ 30 — B
+
+- **A:** Incorrect: “recuse any official who once studied with an applicant” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “dismiss all external criticism as partisan interference” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “publish the applicant's confidential personal records” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake dismiss all external criticism as partisan interference for the case-specific safeguard; the operative response is check relevant facts and criteria rather than presume bias or innocence.
+
+---
+
+#### MCQ 31 — C
+
+- **A:** Incorrect: “allow participation because a declaration cures the conflict” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “transfer decision-making to the same member's subordinate” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “disclose only after the decision has become final” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake disclose only after the decision has become final for the case-specific safeguard; the operative response is remove the member from the company's regulatory decision.
+
+---
+
+#### MCQ 32 — D
+
+- **A:** Incorrect: “treat a register as a sufficient safeguard without use” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “demand recusal from every unrelated department file” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “delete the register when no complaints have been received” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake treat a register as a sufficient safeguard without use for the case-specific safeguard; the operative response is screen assigned files and trigger proportionate recusal when interests overlap.
+
+---
+
+#### MCQ 33 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “call it ordinary persuasion because no money changes hands” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “sign the certificate and seek reassurance afterwards” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “treat unsafe certification as legitimate managerial discretion” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake call it ordinary persuasion because no money changes hands for the case-specific safeguard; the operative response is treat threatened appraisal as coercion and protect refusal to certify.
+
+---
+
+#### MCQ 34 — B
+
+- **A:** Incorrect: “accept the threat as lawful political oversight” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “comply first and hope a later review restores fairness” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “reclassify a threatened transfer as a request for advice” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake comply first and hope a later review restores fairness for the case-specific safeguard; the operative response is record the threat and refuse out-of-queue processing.
+
+---
+
+#### MCQ 35 — C
+
+- **A:** Incorrect: “treat repeated career hints as neutral technical training” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “ask the junior to select the vendor to preserve harmony” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “demand evidence of a written threat before any intervention” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake demand evidence of a written threat before any intervention for the case-specific safeguard; the operative response is identify abuse of mentor dependence and protect independent evaluation.
+
+---
+
+#### MCQ 36 — D
+
+- **A:** Incorrect: “assume no risk because a written bargain is absent” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “ban all post-retirement work regardless of actual risk” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “permit the job on a private assurance of past impartiality” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake assume no risk because a written bargain is absent for the case-specific safeguard; the operative response is review a revolving-door conflict and any applicable employment controls.
+
+---
+
+#### MCQ 37 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “require impossible destroyed papers from every survivor” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “waive all identity checks without recording any basis” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “accept alternative proof only from well-connected families” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake require impossible destroyed papers from every survivor for the case-specific safeguard; the operative response is allow equivalent alternative proof under recorded uniform emergency criteria.
+
+---
+
+#### MCQ 38 — B
+
+- **A:** Incorrect: “treat political affiliation as a lawful documentation exception” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “conceal the waivers because discretion is private” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “cancel all licences including compliant applicants” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake conceal the waivers because discretion is private for the case-specific safeguard; the operative response is reapply common evidence standards and review unequal waivers.
+
+---
+
+#### MCQ 39 — C
+
+- **A:** Incorrect: “assume a failed biometric check proves ineligibility” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “require claimants to purchase a new device to complain” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “delete rejection records to improve portal performance” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake delete rejection records to improve portal performance for the case-specific safeguard; the operative response is offer assisted offline appeal and review wrongful biometric exclusions.
+
+---
+
+#### MCQ 40 — D
+
+- **A:** Incorrect: “treat machine output as impartial without verification” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “replace published eligibility criteria with secret vendor weights” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “allow no way to challenge a mistaken rejection” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake treat machine output as impartial without verification for the case-specific safeguard; the operative response is audit input bias, error rates and reviewable human decisions.
+
+---
+
+#### MCQ 41 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “release exact locations despite an identified imminent threat” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “conceal all relief spending indefinitely to protect shelter users” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “provide locations only to politically allied reporters” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake release exact locations despite an identified imminent threat for the case-specific safeguard; the operative response is disclose maximally while narrowly protecting verified safety risks.
+
+---
+
+#### MCQ 42 — B
+
+- **A:** Incorrect: “conflate reputational discomfort with protected information” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “destroy audit records before a sensitive election” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “refuse access solely because a minister may be criticised” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake destroy audit records before a sensitive election for the case-specific safeguard; the operative response is provide audit access under applicable safeguards despite embarrassment.
+
+---
+
+#### MCQ 43 — C
+
+- **A:** Incorrect: “assume accurate statistics excuse concealed interests” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “call a family consultancy irrelevant to vendor oversight” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “disclose only if auditors prove that the data were false” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake disclose only if auditors prove that the data were false for the case-specific safeguard; the operative response is declare the consultancy as a private interest despite accurate reporting.
+
+---
+
+#### MCQ 44 — D
+
+- **A:** Incorrect: “wait to declare until a regulator accuses the officer” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “permit a conflicted vote solely because the declaration is public” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “treat the declaration as proof that no review is needed” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake wait to declare until a regulator accuses the officer for the case-specific safeguard; the operative response is record the financial interest before the panel considers relevant files.
+
+---
+
+#### MCQ 45 — A
+
+- **A:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **B:** Incorrect: “reward inflated figures if performance goals are met” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “retain the false report but quietly warn staff” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “discourage whistleblowing to preserve team cohesion” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake reward inflated figures if performance goals are met for the case-specific safeguard; the operative response is model integrity by refusing to reward manipulated target reporting.
+
+---
+
+#### MCQ 46 — B
+
+- **A:** Incorrect: “sign a declaration but never check file-level conflicts” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **C:** Incorrect: “punish dissenters to achieve consistent reporting” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Incorrect: “transfer procurement decisions to an interested colleague” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake punish dissenters to achieve consistent reporting for the case-specific safeguard; the operative response is set a visible example through disclosure, dissent protection and review.
+
+---
+
+#### MCQ 47 — C
+
+- **A:** Incorrect: “equate low pendency with adequate redress by definition” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “send identical templates while disabling appeals” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+- **D:** Incorrect: “measure accountability only by the speed of closure” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+
+**Examiner trap:** Do not mistake measure accountability only by the speed of closure for the case-specific safeguard; the operative response is require reasoned responses and effective appeal beyond case-closure counts.
+
+---
+
+#### MCQ 48 — D
+
+- **A:** Incorrect: “treat a low backlog as proof of equal access” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **B:** Incorrect: “close offline counters to improve digital adoption rates” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **C:** Incorrect: “drop failed submissions from the denominator of complaints” fails the scenario-specific duty test; compare the chosen safeguard against the affected citizen, the public resource and the decision-maker’s authority.
+- **D:** Correct: this is the proportionate, reviewable response to the specific facts in the stem.
+
+**Examiner trap:** Do not mistake treat a low backlog as proof of equal access for the case-specific safeguard; the operative response is test access and exclusion among elderly users, not only dashboard pendency.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -840,26 +1082,8 @@ Public interest is constitutionally permissible, evidence-based welfare rather t
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(a): What is meant by public interest? What are the principles and procedures to be…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): What is meant by public interest? What are the principles and procedures to be followed by civil servants in public interest? 10 marks;…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against books\more previous papers\GENERAL-STUDIES-PAPER-IV.pdf. Topic 09 owns public-service values; RTI in Q2(b) belongs primarily to Topic 15. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): What is meant by public interest? What are the principles and procedures to be followed by civil servants in public interest? 10 marks;…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): What is meant by public interest? What are the principles and procedures to be…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2018 — 10 marks
 
@@ -873,26 +1097,8 @@ A conflict of interest is a private interest capable of improperly influencing p
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q3(a): What is meant by conflict of interest? Illustrate with examples the difference…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by conflict of interest? Illustrate with examples the difference between actual and potential conflicts of interest. 10…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against the local 2018 GS-IV paper. Topic 09 is the direct owner; apparent conflict is useful supplementary teaching, not a substituted PYQ demand. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by conflict of interest? Illustrate with examples the difference between actual and potential conflicts of interest. 10…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q3(a): What is meant by conflict of interest? Illustrate with examples the difference…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2018 — 10 marks
 
@@ -906,26 +1112,8 @@ First distinguish a genuine clash of legitimate duties from a simple illegal, co
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **explain** requires a direct position on “GS-IV Q5(b): Explain the process of resolving ethical dilemmas in Public Administration. 10…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b): Explain the process of resolving ethical dilemmas in Public Administration. 10 marks; 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against the local 2018 GS-IV paper. Topic 09 supplies diagnosis; the full Section-B answer architecture is owned by Topic 22. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b): Explain the process of resolving ethical dilemmas in Public Administration. 10 marks; 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b): Explain the process of resolving ethical dilemmas in Public Administration. 10…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2019 — 10 marks
 
@@ -939,25 +1127,8 @@ The ARC reproduces the Nolan principles: selflessness, integrity, objectivity, a
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three with…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three with suitable examples. 10 marks; 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three with suitable examples. 10 marks; 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three with…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2019 — 10 marks
 
@@ -971,26 +1142,8 @@ A public servant exercises entrusted state authority to advance lawful public pu
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(b): What do you understand by the term 'public servant'? Reflect on the expected…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(b): What do you understand by the term 'public servant'? Reflect on the expected role of a public servant. 10 marks; 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against the local 2019 GS-IV paper. Shared with Topic 04; do not duplicate its aptitude/foundational-values treatment. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(b): What do you understand by the term 'public servant'? Reflect on the expected role of a public servant. 10 marks; 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(b): What do you understand by the term 'public servant'? Reflect on the expected…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2021 — 10 marks
 
@@ -1004,26 +1157,8 @@ Innovation helps an official avoid false binaries without evading ethical constr
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): Besides domain knowledge, a public official needs innovativeness and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): Besides domain knowledge, a public official needs innovativeness and creativity of a high order while resolving ethical dilemmas.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against books\more previous papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf. Shared with Topic 13 for technology; innovation remains bounded by law, equality and review. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): Besides domain knowledge, a public official needs innovativeness and creativity of a high order while resolving ethical dilemmas.…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): Besides domain knowledge, a public official needs innovativeness and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2023 — 10 marks
 
@@ -1037,26 +1172,8 @@ Coercion overbears choice through an explicit or implicit threat: a superior thr
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. 10 marks; 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf. Topic 09 direct route. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. 10 marks; 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2024 — 10 marks
 
@@ -1070,25 +1187,8 @@ A Code of Ethics should begin with constitutional fidelity and public purpose, t
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public administration. There is a Code of Conduct already in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public administration. There is a Code of Conduct already in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2025 — 10 marks
 
@@ -1102,26 +1202,8 @@ Devotion to duty gives a civil servant purpose, reliability and satisfaction fro
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **analyse** requires a direct position on “GS-IV Q5(a): "One who is devoted to one's duty attains highest perfection in life." Analyse…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): "One who is devoted to one's duty attains highest perfection in life." Analyse this statement with reference to sense of responsibility…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording and format verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf. Shared with Topic 04; do not treat devotion as blind obedience or self-erasure. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): "One who is devoted to one's duty attains highest perfection in life." Analyse this statement with reference to sense of responsibility…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): "One who is devoted to one's duty attains highest perfection in life." Analyse…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 10 marks
 
@@ -1135,26 +1217,8 @@ An enabler removes lawful barriers that prevent citizens from accessing rights a
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(b): To achieve holistic development goal, a civil servant acts as an enabler and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b): To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact wording and format verified against the local 2025 GS-IV paper and routing ledger. Shared with Topic 04; Topic 09 adds public-trust, impartiality and accountability limits. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b): To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b): To achieve holistic development goal, a civil servant acts as an enabler and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2025 — 20 marks
 
@@ -1168,25 +1232,8 @@ Vijay may remain throughout; leave immediately; stabilise and delegate before a 
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q7 case study: Vijay was Deputy Commissioner of remote district of Hilly Northern…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Vijay was Deputy Commissioner of remote district of Hilly Northern State of the country for the last two years. In the month of…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q7 case study: Vijay was Deputy Commissioner of remote district of Hilly Northern State of the country for the last two years. In the month of…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q7 case study: Vijay was Deputy Commissioner of remote district of Hilly Northern…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Solved PYQ 12 — 2025 — 20 marks
 
@@ -1204,23 +1251,6 @@ Ashok can refuse entry; admit everyone without screening; provide emergency assi
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q12 case study: Ashok is Divisional Commissioner of one of the border districts of…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12 case study: Ashok is Divisional Commissioner of one of the border districts of the North East State. A few years back, Military has taken…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12 case study: Ashok is Divisional Commissioner of one of the border districts of the North East State. A few years back, Military has taken…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q12 case study: Ashok is Divisional Commissioner of one of the border districts of…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1232,25 +1262,8 @@ Public interest is the constitutionally permissible, evidence-based welfare of t
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish public interest from majoritarian preference in public administration. Answer…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish public interest from majoritarian preference in public administration. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish public interest from majoritarian preference in public administration. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish public interest from majoritarian preference in public administration. Answer…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1262,25 +1275,8 @@ Legality asks whether an act is authorised by law or rule. Morality asks whether
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate legality, morality and propriety in public office with an example. Answer in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Differentiate legality, morality and propriety in public office with an example. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Differentiate legality, morality and propriety in public office with an example. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Differentiate legality, morality and propriety in public office with an example. Answer in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1296,25 +1292,8 @@ The opposite errors are bureaucratic obstruction of a democratic mandate and obe
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Political neutrality does not require value-neutral administration. Discuss. Answer in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Political neutrality does not require value-neutral administration. Discuss. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Political neutrality does not require value-neutral administration. Discuss. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Political neutrality does not require value-neutral administration. Discuss. Answer in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1330,25 +1309,8 @@ Institutions need updated declarations, screening before sensitive files, docume
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “Conflict-of-interest policy should prevent both concealment and paralysing recusal.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Conflict-of-interest policy should prevent both concealment and paralysing recusal. Examine. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Conflict-of-interest policy should prevent both concealment and paralysing recusal. Examine. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Conflict-of-interest policy should prevent both concealment and paralysing recusal.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1364,25 +1326,8 @@ The officer should give frank written advice, propose lawful alternatives, discl
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **analyse** requires a direct position on “A minister lawfully seeks faster approval for a project, but the request would displace…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A minister lawfully seeks faster approval for a project, but the request would displace applicants under published eligibility criteria. Analyse the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A minister lawfully seeks faster approval for a project, but the request would displace applicants under published eligibility criteria. Analyse the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A minister lawfully seeks faster approval for a project, but the request would displace…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1399,21 +1344,3 @@ The June 2026 DARPG CPGRAMS report can illustrate monitoring: it reports high di
 Nolan openness, honesty and accountability require public standards, anonymised performance disclosure and documented correction. Senior leaders should review patterns rather than reward closure alone, and publish action on persistent causes promptly. The system thereby joins efficiency with dignity, remedy, equality and answerability.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an ethically accountable grievance-redress system for a digitally administered…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an ethically accountable grievance-redress system for a digitally administered welfare programme. Answer in about 250 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an ethically accountable grievance-redress system for a digitally administered welfare programme. Answer in about 250 words.”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an ethically accountable grievance-redress system for a digitally administered…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

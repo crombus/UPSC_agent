@@ -6,901 +6,317 @@ topic_key: geography-17
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly explains Aw transition belt?
+### Q1. On a transect from Congo rainforest towards the Sahara, where would Aw savanna commonly occur?
 
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-C. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
+A. Between humid equatorial forest and the trade-wind desert margin
+B. Only inside the densest permanently wet Af canopy
+C. Only beyond the polar tree line
+D. Exclusively on temperate western maritime coasts
 
-**Answer: A.**
-**Explanation:** Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line. The other options describe different processes, locations, scales or governance categories.
+### Q2. Which pairing places a named savanna in the right world region?
 
-### Q2. Which option is the safest spatial interpretation of Aw transition belt?
+A. Llanos—Siberia; Campo Cerrado—Greenland
+B. Llanos—Venezuela; Campo Cerrado—Brazil
+C. Sudan belt—northern Europe; Llanos—Antarctica
+D. Northern Australia—Amazonian basin; Campo Cerrado—Congo basin
 
-A. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-B. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-C. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
+### Q3. Why does the Sudan belt develop sharply distinct wet and dry seasons?
 
-**Answer: B.**
-**Explanation:** Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line. The other options describe different processes, locations, scales or governance categories.
+A. A stationary ITCZ produces equal rainfall every month
+B. Polar frontal storms deposit permanent winter snow
+C. Summer ITCZ approach brings convection; low-sun dry trades dominate later
+D. A tropical marine onshore trade blows wet throughout both seasons
 
-### Q3. Which statement preserves the process boundary for Aw transition belt?
+### Q4. The annual total at a savanna site appears adequate but crops fail. Which missing variable matters most?
 
-A. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-B. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-C. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-D. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
+A. Latitude measured to the nearest second
+B. The number of evergreen canopy layers
+C. Presence of winter permafrost
+D. Rainfall timing and unreliability during the growing season
 
-**Answer: C.**
-**Explanation:** Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line. The other options describe different processes, locations, scales or governance categories.
+### Q5. Which vegetation sequence is expected away from the equatorial margin toward the desert?
 
-### Q4. Which option avoids the main UPSC trap concerning Aw transition belt?
+A. Taller grasses and more trees → shorter grasses and more open cover
+B. Closed evergreen forest → closed evergreen forest without change
+C. Short grasses near Equator → taller grasses at desert edge
+D. Tundra moss → boreal conifer forest
 
-A. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
+### Q6. Which combination best explains the parkland appearance of savanna?
 
-**Answer: D.**
-**Explanation:** Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line. The other options describe different processes, locations, scales or governance categories.
+A. Uniform emergent canopy and no grass
+B. Tall rainy-season grasses interspersed with drought-adapted scattered trees
+C. Unbroken ice and dwarf shrubs
+D. Only irrigated orchards planted in rows
 
-### Q5. Which statement correctly explains Global savanna regions?
+### Q7. Why may acacia and baobab persist across a savanna dry season?
 
-A. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-B. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-C. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-D. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
+A. Constantly saturated surface soil eliminates all dry-season stress
+B. Each tree must retain a dense Af canopy all year
+C. Water-conserving leaf shedding and root/bark adaptations reduce stress
+D. Winter blizzards supply the trees' main water source
 
-**Answer: A.**
-**Explanation:** The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. The other options describe different processes, locations, scales or governance categories.
+### Q8. Which intervention would most plausibly alter tree–grass balance without changing latitude?
 
-### Q6. Which option is the safest spatial interpretation of Global savanna regions?
+A. Reverse Earth's axial tilt locally
+B. Replace summer ITCZ with a permanent ice sheet
+C. Change the name of the Sudan belt
+D. Change fire frequency or grazing intensity
 
-A. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-B. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-C. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-D. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
+### Q9. Which claim about savanna fire is most defensible?
 
-**Answer: B.**
-**Explanation:** The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. The other options describe different processes, locations, scales or governance categories.
+A. Natural and human-set fires can maintain openness, but severe misuse degrades land
+B. Any fire creates a rainforest closed canopy
+C. Fire has no ecological role in tropical grasslands
+D. Fire alone creates Aw climate without seasonal rainfall
 
-### Q7. Which statement preserves the process boundary for Global savanna regions?
+### Q10. Why do large grazing herbivores and predators coexist across many African savannas?
 
-A. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-B. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-D. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
+A. The biome produces no primary biomass
+B. Seasonal grasses support grazing herds and corresponding food webs
+C. Predators photosynthesise on the savanna floor
+D. Permanent ocean plankton is their only food source
 
-**Answer: C.**
-**Explanation:** The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. The other options describe different processes, locations, scales or governance categories.
+### Q11. Which response reduces livelihood risk from unreliable Sudan-climate rainfall?
 
-### Q8. Which option avoids the main UPSC trap concerning Global savanna regions?
+A. Mandatory water-intensive crop everywhere without irrigation
+B. Assume each wet season will start on an exact calendar day
+C. Drought-tolerant cereals, flexible grazing and water management
+D. Remove all grazing rights without assessing local routes
 
-A. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
+### Q12. Which soil process can accompany repeated wetting and drying after vegetation clearance?
 
-**Answer: D.**
-**Explanation:** The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. The other options describe different processes, locations, scales or governance categories.
+A. Permanent permafrost thickens under summer tropical heat
+B. No chemical weathering occurs because it never rains
+C. Every savanna develops identical rich volcanic soil
+D. Leaching during wet periods and lateritic hardening under suitable conditions
 
-### Q9. Which statement correctly explains Wet-dry circulation?
+### Q13. Which India comparison respects the difference between climate and vegetation?
 
-A. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-D. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
+A. Deciduous forests, thorn scrub and grasslands can be analogues without labelling all India Aw
+B. Every dry deciduous forest is Af rainforest
+C. All Banni grassland is identical to humid Terai grassland
+D. Every Indian grassland is a degraded forest awaiting plantation
 
-**Answer: A.**
-**Explanation:** Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. The other options describe different processes, locations, scales or governance categories.
+### Q14. In a Peninsular India rainfall gradient, which change is broadly expected?
 
-### Q10. Which option is the safest spatial interpretation of Wet-dry circulation?
+A. Thorn scrub → moist evergreen at the driest end
+B. Moist deciduous → dry deciduous → thorn/scrub with decreasing effective moisture
+C. Teak and sal co-dominate every belt and every site
+D. All deciduous species retain leaves throughout seasonal drought
 
-A. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-B. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
+### Q15. Where would sal versus teak dominance be more plausible?
 
-**Answer: B.**
-**Explanation:** Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. The other options describe different processes, locations, scales or governance categories.
-
-### Q11. Which statement preserves the process boundary for Wet-dry circulation?
-
-A. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-D. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-
-**Answer: C.**
-**Explanation:** Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. The other options describe different processes, locations, scales or governance categories.
-
-### Q12. Which option avoids the main UPSC trap concerning Wet-dry circulation?
-
-A. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-B. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-C. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-
-**Answer: D.**
-**Explanation:** Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. The other options describe different processes, locations, scales or governance categories.
-
-### Q13. Which statement correctly explains Source rainfall range?
-
-A. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-D. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-
-**Answer: A.**
-**Explanation:** Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. The other options describe different processes, locations, scales or governance categories.
-
-### Q14. Which option is the safest spatial interpretation of Source rainfall range?
-
-A. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-
-**Answer: B.**
-**Explanation:** Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. The other options describe different processes, locations, scales or governance categories.
-
-### Q15. Which statement preserves the process boundary for Source rainfall range?
-
-A. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-B. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-C. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: C.**
-**Explanation:** Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. The other options describe different processes, locations, scales or governance categories.
-
-### Q16. Which option avoids the main UPSC trap concerning Source rainfall range?
-
-A. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-B. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-C. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-D. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-
-**Answer: D.**
-**Explanation:** Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. The other options describe different processes, locations, scales or governance categories.
-
-### Q17. Which statement correctly explains Rainfall unreliability?
-
-A. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-
-**Answer: A.**
-**Explanation:** Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. The other options describe different processes, locations, scales or governance categories.
-
-### Q18. Which option is the safest spatial interpretation of Rainfall unreliability?
-
-A. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-B. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-C. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-D. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-
-**Answer: B.**
-**Explanation:** Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. The other options describe different processes, locations, scales or governance categories.
-
-### Q19. Which statement preserves the process boundary for Rainfall unreliability?
-
-A. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-B. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-C. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: C.**
-**Explanation:** Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. The other options describe different processes, locations, scales or governance categories.
-
-### Q20. Which option avoids the main UPSC trap concerning Rainfall unreliability?
-
-A. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-B. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-C. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-D. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-
-**Answer: D.**
-**Explanation:** Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. The other options describe different processes, locations, scales or governance categories.
-
-### Q21. Which statement correctly explains Parkland grass-tree form?
-
-A. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-B. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: A.**
-**Explanation:** Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin. The other options describe different processes, locations, scales or governance categories.
-
-### Q22. Which option is the safest spatial interpretation of Parkland grass-tree form?
-
-A. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-B. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-C. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-D. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Answer: B.**
-**Explanation:** Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin. The other options describe different processes, locations, scales or governance categories.
-
-### Q23. Which statement preserves the process boundary for Parkland grass-tree form?
-
-A. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-B. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-C. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-D. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-
-**Answer: C.**
-**Explanation:** Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin. The other options describe different processes, locations, scales or governance categories.
-
-### Q24. Which option avoids the main UPSC trap concerning Parkland grass-tree form?
-
-A. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-B. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-C. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-D. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-
-**Answer: D.**
-**Explanation:** Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin. The other options describe different processes, locations, scales or governance categories.
-
-### Q25. Which statement correctly explains Drought adaptations?
-
-A. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-B. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-C. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: A.**
-**Explanation:** Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire. The other options describe different processes, locations, scales or governance categories.
-
-### Q26. Which option is the safest spatial interpretation of Drought adaptations?
-
-A. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-B. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-C. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: B.**
-**Explanation:** Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire. The other options describe different processes, locations, scales or governance categories.
-
-### Q27. Which statement preserves the process boundary for Drought adaptations?
-
-A. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-B. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-C. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-D. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Answer: C.**
-**Explanation:** Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire. The other options describe different processes, locations, scales or governance categories.
-
-### Q28. Which option avoids the main UPSC trap concerning Drought adaptations?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-C. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-D. Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-
-**Answer: D.**
-**Explanation:** Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire. The other options describe different processes, locations, scales or governance categories.
-
-### Q29. Which statement correctly explains Fire-grazing interaction?
-
-A. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-B. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-C. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: A.**
-**Explanation:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. The other options describe different processes, locations, scales or governance categories.
-
-### Q30. Which option is the safest spatial interpretation of Fire-grazing interaction?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-C. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-D. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Answer: B.**
-**Explanation:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. The other options describe different processes, locations, scales or governance categories.
-
-### Q31. Which statement preserves the process boundary for Fire-grazing interaction?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-C. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: C.**
-**Explanation:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. The other options describe different processes, locations, scales or governance categories.
-
-### Q32. Which option avoids the main UPSC trap concerning Fire-grazing interaction?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-C. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-D. Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-
-**Answer: D.**
-**Explanation:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. The other options describe different processes, locations, scales or governance categories.
-
-### Q33. Which statement correctly explains Wildlife system?
-
-A. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-B. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-C. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-D. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Answer: A.**
-**Explanation:** Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web. The other options describe different processes, locations, scales or governance categories.
-
-### Q34. Which option is the safest spatial interpretation of Wildlife system?
-
-A. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-B. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-C. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-D. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-
-**Answer: B.**
-**Explanation:** Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web. The other options describe different processes, locations, scales or governance categories.
-
-### Q35. Which statement preserves the process boundary for Wildlife system?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-C. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: C.**
-**Explanation:** Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web. The other options describe different processes, locations, scales or governance categories.
-
-### Q36. Which option avoids the main UPSC trap concerning Wildlife system?
-
-A. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-B. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-C. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-D. Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-
-**Answer: D.**
-**Explanation:** Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web. The other options describe different processes, locations, scales or governance categories.
-
-### Q37. Which statement correctly explains Livelihood adaptations?
-
-A. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-B. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-C. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-D. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-
-**Answer: A.**
-**Explanation:** Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q38. Which option is the safest spatial interpretation of Livelihood adaptations?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-C. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: B.**
-**Explanation:** Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q39. Which statement preserves the process boundary for Livelihood adaptations?
-
-A. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-B. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-C. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-D. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-
-**Answer: C.**
-**Explanation:** Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q40. Which option avoids the main UPSC trap concerning Livelihood adaptations?
-
-A. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-B. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-C. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-D. Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Answer: D.**
-**Explanation:** Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q41. Which statement correctly explains Soil-degradation risk?
-
-A. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-B. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-C. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: A.**
-**Explanation:** Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile. The other options describe different processes, locations, scales or governance categories.
-
-### Q42. Which option is the safest spatial interpretation of Soil-degradation risk?
-
-A. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-B. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-C. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-D. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-
-**Answer: B.**
-**Explanation:** Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile. The other options describe different processes, locations, scales or governance categories.
-
-### Q43. Which statement preserves the process boundary for Soil-degradation risk?
-
-A. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-B. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-C. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-D. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-
-**Answer: C.**
-**Explanation:** Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile. The other options describe different processes, locations, scales or governance categories.
-
-### Q44. Which option avoids the main UPSC trap concerning Soil-degradation risk?
-
-A. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-B. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile.
-
-**Answer: D.**
-**Explanation:** Strong wet-dry alternation can promote leaching, lateritic tendencies, surface sealing, erosion and fire exposure after vegetation loss; savanna soils are not uniformly infertile. The other options describe different processes, locations, scales or governance categories.
-
-### Q45. Which statement correctly explains India analogue boundary?
-
-A. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-B. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-C. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: A.**
-**Explanation:** India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate. The other options describe different processes, locations, scales or governance categories.
-
-### Q46. Which option is the safest spatial interpretation of India analogue boundary?
-
-A. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-B. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-
-**Answer: B.**
-**Explanation:** India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate. The other options describe different processes, locations, scales or governance categories.
-
-### Q47. Which statement preserves the process boundary for India analogue boundary?
-
-A. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-B. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-C. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-D. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-
-**Answer: C.**
-**Explanation:** India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate. The other options describe different processes, locations, scales or governance categories.
-
-### Q48. Which option avoids the main UPSC trap concerning India analogue boundary?
-
-A. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-B. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-C. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-D. India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-
-**Answer: D.**
-**Explanation:** India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate. The other options describe different processes, locations, scales or governance categories.
-
-### Q49. Which statement correctly explains Moist deciduous belt?
-
-A. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-B. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-
-**Answer: A.**
-**Explanation:** Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts. The other options describe different processes, locations, scales or governance categories.
-
-### Q50. Which option is the safest spatial interpretation of Moist deciduous belt?
-
-A. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-B. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-C. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-D. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-
-**Answer: B.**
-**Explanation:** Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts. The other options describe different processes, locations, scales or governance categories.
-
-### Q51. Which statement preserves the process boundary for Moist deciduous belt?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-C. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-D. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-
-**Answer: C.**
-**Explanation:** Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts. The other options describe different processes, locations, scales or governance categories.
-
-### Q52. Which option avoids the main UPSC trap concerning Moist deciduous belt?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-D. Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-
-**Answer: D.**
-**Explanation:** Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts. The other options describe different processes, locations, scales or governance categories.
-
-### Q53. Which statement correctly explains Dry deciduous belt?
-
-A. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-B. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-C. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-D. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-
-**Answer: A.**
-**Explanation:** Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls. The other options describe different processes, locations, scales or governance categories.
-
-### Q54. Which option is the safest spatial interpretation of Dry deciduous belt?
-
-A. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-B. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-
-**Answer: B.**
-**Explanation:** Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls. The other options describe different processes, locations, scales or governance categories.
-
-### Q55. Which statement preserves the process boundary for Dry deciduous belt?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-C. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-
-**Answer: C.**
-**Explanation:** Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls. The other options describe different processes, locations, scales or governance categories.
-
-### Q56. Which option avoids the main UPSC trap concerning Dry deciduous belt?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-
-**Answer: D.**
-**Explanation:** Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls. The other options describe different processes, locations, scales or governance categories.
-
-### Q57. Which statement correctly explains Thorn and scrub belt?
-
-A. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-B. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-
-**Answer: A.**
-**Explanation:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. The other options describe different processes, locations, scales or governance categories.
-
-### Q58. Which option is the safest spatial interpretation of Thorn and scrub belt?
-
-A. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-B. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-C. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-D. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-
-**Answer: B.**
-**Explanation:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. The other options describe different processes, locations, scales or governance categories.
-
-### Q59. Which statement preserves the process boundary for Thorn and scrub belt?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-D. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-
-**Answer: C.**
-**Explanation:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. The other options describe different processes, locations, scales or governance categories.
-
-### Q60. Which option avoids the main UPSC trap concerning Thorn and scrub belt?
-
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-
-**Answer: D.**
-**Explanation:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. The other options describe different processes, locations, scales or governance categories.
-
-### Q61. Which statement correctly explains Distinct Indian grasslands?
-
-A. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-B. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-C. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-
-**Answer: A.**
-**Explanation:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q62. Which option is the safest spatial interpretation of Distinct Indian grasslands?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-
-**Answer: B.**
-**Explanation:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q63. Which statement preserves the process boundary for Distinct Indian grasslands?
-
-A. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-B. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-C. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-D. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-
-**Answer: C.**
-**Explanation:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q64. Which option avoids the main UPSC trap concerning Distinct Indian grasslands?
-
-A. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-B. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-
-**Answer: D.**
-**Explanation:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. The other options describe different processes, locations, scales or governance categories.
-
-### Q65. Which statement correctly explains Restoration design?
-
-A. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-
-**Answer: A.**
-**Explanation:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. The other options describe different processes, locations, scales or governance categories.
-
-### Q66. Which option is the safest spatial interpretation of Restoration design?
-
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-
-**Answer: B.**
-**Explanation:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. The other options describe different processes, locations, scales or governance categories.
-
-### Q67. Which statement preserves the process boundary for Restoration design?
-
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-C. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-
-**Answer: C.**
-**Explanation:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. The other options describe different processes, locations, scales or governance categories.
-
-### Q68. Which option avoids the main UPSC trap concerning Restoration design?
-
-A. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-B. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-C. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-D. Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-
-**Answer: D.**
-**Explanation:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. The other options describe different processes, locations, scales or governance categories.
-
-### Q69. Which statement correctly explains Aravalli Green Wall boundary?
-
-A. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-B. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-C. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-D. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-
-**Answer: A.**
-**Explanation:** Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target. The other options describe different processes, locations, scales or governance categories.
-
-### Q70. Which option is the safest spatial interpretation of Aravalli Green Wall boundary?
-
-A. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-B. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-D. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-
-**Answer: B.**
-**Explanation:** Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target. The other options describe different processes, locations, scales or governance categories.
-
-### Q71. Which statement preserves the process boundary for Aravalli Green Wall boundary?
-
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-C. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-
-**Answer: C.**
-**Explanation:** Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target. The other options describe different processes, locations, scales or governance categories.
-
-### Q72. Which option avoids the main UPSC trap concerning Aravalli Green Wall boundary?
-
-A. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-D. Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-
-**Answer: D.**
-**Explanation:** Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target. The other options describe different processes, locations, scales or governance categories.
-
-### Q73. Which statement correctly explains Verified savanna PYQ route?
-
-A. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-B. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-
-**Answer: A.**
-**Explanation:** The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q73. Which statement correctly explains Verified savanna PYQ route?”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q73. Which statement correctly explains Verified savanna PYQ route?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q73. Which statement correctly explains Verified savanna PYQ route? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q73. Which statement correctly explains Verified savanna PYQ route?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Q73. Which statement correctly explains Verified savanna PYQ route?”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
-
-### Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route?
-
-A. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-
-**Answer: B.**
-**Explanation:** The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** Treat “Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route?” as a process, location, scale, terminology and status problem. Verify every statement independently.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** B. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route?”.
-
-**Executable exam-length answer / compression plan:** Fix the phenomenon and spatial setting; trace the controlling mechanism; test direction, sequence, threshold and India/world anchor; eliminate the closest term, map or causation distractor.
-
-**Why this earns marks:** It preserves exact process-to-pattern reasoning and prevents a familiar place-name or correlation from substituting for causation.
-
-**How to improve this answer:** For “Q74. Which option is the safest spatial interpretation of Verified savanna PYQ route?”, state why the nearest distractor fails on process, direction, scale, location, terminology, date or official status.
-
-### Q75. Which statement preserves the process boundary for Verified savanna PYQ route?
-
-A. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-C. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-
-**Answer: C.**
-**Explanation:** The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. The other options describe different processes, locations, scales or governance categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q75. Which statement preserves the process boundary for Verified savanna PYQ route?”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q75. Which statement preserves the process boundary for Verified savanna PYQ route?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q75. Which statement preserves the process boundary for Verified savanna PYQ route? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q75. Which statement preserves the process boundary for Verified savanna PYQ route?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Q75. Which statement preserves the process boundary for Verified savanna PYQ route?”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
-
-### Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route?
-
-A. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-C. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-
-**Answer: D.**
-**Explanation:** The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. The other options describe different processes, locations, scales or governance categories.
-
-### Q77. Which statement correctly explains Savanna management verdict?
-
-A. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-B. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-C. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-D. Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-
-**Answer: A.**
-**Explanation:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. The other options describe different processes, locations, scales or governance categories.
-
-### Q78. Which option is the safest spatial interpretation of Savanna management verdict?
-
-A. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-B. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-C. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-D. The Sudan belt of Africa is the classic expression, while the Llanos, Campo Cerrado and northern Australia are major regional examples with different soils, fire histories and land use.
-
-**Answer: B.**
-**Explanation:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. The other options describe different processes, locations, scales or governance categories.
-
-### Q79. Which statement preserves the process boundary for Savanna management verdict?
-
-A. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-B. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-C. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-D. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-
-**Answer: C.**
-**Explanation:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. The other options describe different processes, locations, scales or governance categories.
-
-### Q80. Which option avoids the main UPSC trap concerning Savanna management verdict?
-
-A. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-C. Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-D. A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-
-**Answer: D.**
-**Explanation:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. The other options describe different processes, locations, scales or governance categories.
+A. Sal only on Andaman reefs; teak only on Himalayan glaciers
+B. Both only in western Rajasthan dunes
+C. Sal in many northern/eastern belts; teak in much of peninsular/central India
+D. Neither occurs in any Indian monsoon forest
+
+### Q16. Which pairing correctly describes two Indian grassland examples?
+
+A. Terai—coral reef; Banni—high alpine glacier
+B. Both—identical protected wet evergreen canopy
+C. Banni—permanently wet Himalayan foothills; Terai—Kachchh salt flat
+D. Terai—humid tall grassland; Banni—drier/saline Kachchh grassland
+
+### Q17. What is the key risk of planting one dense tree type across all open Indian ecosystems?
+
+A. Converting native grassland habitat and ignoring site hydrology/grazing can harm biodiversity
+B. All grasslands lack wildlife and need canopy by definition
+C. Species choice never affects water demand
+D. A dense plantation proves that desertification is reversed
+
+### Q18. What is an evidence-led Aravalli Green Wall framing?
+
+A. A proven completed continuous rainforest belt across India
+B. A landscape mosaic of native restoration, water management and connectivity, not a uniform wall
+C. An exact mandatory width and numerical target in all districts
+D. A scheme to eliminate all pastoral movement
+
+### Q19. How should Africa's Great Green Wall be compared with the Aravalli initiative?
+
+A. Assume announced programme targets were fully achieved
+B. Assume one continuous wall of the same species exists
+C. Compare landscape restoration and livelihoods; distinguish goals from documented outcomes
+D. Replace evidence of soil and vegetation with launch slogans
+
+### Q20. The routed 2021 savanna objective demand lacks an official key locally. What distinction is examinable?
+
+A. Savanna trees are absent because all soil is permanently frozen
+B. Rainfall and fire are unrelated to seedlings
+C. A plausible letter is automatically the UPSC official key
+D. Seasonal water limitation plus fire and grazing constrain tree recruitment; no official option is asserted
+
+### Q21. Test three statements: 1. Aw rainfall is summer-concentrated; 2. Fire can reduce tree recruitment; 3. Every open Indian grassland is degraded forest. Which hold?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+### Q22. Textual transect: equatorial margin → Sudan savanna → desert margin. Which trend is expected?
+
+A. Moisture increases steadily towards the desert margin
+B. Declining moisture with generally shorter grasses and more open tree cover
+C. Grass becomes taller solely because the latitude rises
+D. All trees disappear sharply at one universal latitude
+
+### Separate answer key and option-wise reasoning
+
+**Q1 — A.**
+- **A:** Aw is a wet-dry tropical transition.
+- **B:** Permanent moisture favours closed rainforest rather than open Aw.
+- **C:** Aw is tropical, not polar.
+- **D:** Those coasts are outside the savanna circulation belt.
+- **Trap:** Do not use only inside the densest permanently wet af canopy as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q2 — B.**
+- **A:** Neither is a polar or Siberian savanna.
+- **B:** Both are South American tropical grassland landscapes.
+- **C:** Both placements contradict their tropical settings.
+- **D:** These cross continents and confuse distinct savanna regions.
+- **Trap:** Do not use llanos—siberia; campo cerrado—greenland as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q3 — C.**
+- **A:** A fixed rain belt cannot explain marked seasonality.
+- **B:** This is not tropical savanna rainfall.
+- **C:** Seasonal migration of the rain belt creates the contrast.
+- **D:** Continuous maritime supply would weaken the dry-season contrast.
+- **Trap:** Do not use a stationary itcz produces equal rainfall every month as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q4 — D.**
+- **A:** Precision in latitude cannot recover a failed rainy period.
+- **B:** Closed rainforest structure is not the crop-water constraint.
+- **C:** Permafrost is not a normal Sudan-climate limitation.
+- **D:** A short variable rainy period can fail at the critical crop stage.
+- **Trap:** Do not use latitude measured to the nearest second as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q5 — A.**
+- **A:** Moisture generally decreases toward the arid margin.
+- **B:** Drying affects vegetation structure.
+- **C:** That reverses the typical moisture gradient.
+- **D:** Neither is a tropical savanna transect.
+- **Trap:** Do not use closed evergreen forest → closed evergreen forest without change as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q6 — B.**
+- **A:** That describes dense rainforest more closely.
+- **B:** Seasonal water stress restricts closed canopy while trees persist.
+- **C:** Ice does not explain tropical parkland.
+- **D:** Parkland is a grass-tree biome, not necessarily an orchard.
+- **Trap:** Do not use uniform emergent canopy and no grass as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q7 — C.**
+- **A:** The defining dry season brings water limitation.
+- **B:** Dense evergreen Af crowns are not required.
+- **C:** Drought adaptation aids tree survival under seasonal water shortage.
+- **D:** Blizzards do not maintain tropical savanna trees.
+- **Trap:** Do not use constantly saturated surface soil eliminates all dry-season stress as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q8 — D.**
+- **A:** Local management cannot change planetary tilt.
+- **B:** That is not a realistic land-management process.
+- **C:** Renaming does not alter vegetation processes.
+- **D:** Disturbance can suppress tree recruitment and favour grasses.
+- **Trap:** Do not use reverse earth's axial tilt locally as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q9 — A.**
+- **A:** Fire interacts with rainfall and grazing rather than defining a universal good or evil.
+- **B:** Burning does not automatically build mature forest.
+- **C:** Fire can alter recruitment and grass dominance.
+- **D:** Disturbance cannot substitute for atmospheric controls.
+- **Trap:** Do not use any fire creates a rainforest closed canopy as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q10 — B.**
+- **A:** Herbivores require plant productivity.
+- **B:** Rain-driven productivity can support grazers and predators.
+- **C:** Predators obtain energy through prey.
+- **D:** Terrestrial food webs are supported by savanna plants.
+- **Trap:** Do not use the biome produces no primary biomass as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q11 — C.**
+- **A:** High water demand magnifies dry-spell risk.
+- **B:** Onset varies and should be monitored.
+- **C:** Adaptations buffer variability rather than assume a dependable rainy season.
+- **D:** Ignoring mobility can shift pressure and harm livelihoods.
+- **Trap:** Do not use mandatory water-intensive crop everywhere without irrigation as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q12 — D.**
+- **A:** Permafrost is not the savanna soil mechanism.
+- **B:** Savanna has a wet season.
+- **C:** Parent material and drainage vary.
+- **D:** Loss of cover can intensify nutrient removal and soil degradation.
+- **Trap:** Do not use permanent permafrost thickens under summer tropical heat as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q13 — A.**
+- **A:** Indian monsoon, relief and disturbance modify formations.
+- **B:** Deciduous drought response differs from evergreen Af.
+- **C:** Their water and salinity regimes differ.
+- **D:** Many open ecosystems have independent ecological value.
+- **Trap:** Do not use every dry deciduous forest is af rainforest as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q14 — B.**
+- **A:** That reverses the moisture relationship.
+- **B:** Water supply and dry-season length shape leaf and crown structure.
+- **C:** Their regional dominance varies.
+- **D:** Seasonal leaf shedding is adaptive.
+- **Trap:** Do not use thorn scrub → moist evergreen at the driest end as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q15 — C.**
+- **A:** Neither pairing matches the terrestrial forest distribution.
+- **B:** Those arid habitats are not the characteristic moist-deciduous zones.
+- **C:** Regional associations differ rather than co-occurring everywhere.
+- **D:** Both are cited in Indian deciduous associations.
+- **Trap:** Do not use sal only on andaman reefs; teak only on himalayan glaciers as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q16 — D.**
+- **A:** Neither is a marine reef or glacier.
+- **B:** Both are grassland contexts with different moisture regimes.
+- **C:** The locations and regimes are reversed.
+- **D:** Their hydrology and regional contexts differ.
+- **Trap:** Do not use terai—coral reef; banni—high alpine glacier as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q17 — A.**
+- **A:** Restoration must reflect the ecosystem's existing function.
+- **B:** Open ecosystems support distinctive fauna.
+- **C:** Native species and water budgets are relevant.
+- **D:** Tree counts alone do not establish ecological recovery.
+- **Trap:** Do not use all grasslands lack wildlife and need canopy by definition as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q18 — B.**
+- **A:** The initiative is a restoration proposal, not completed Af forest.
+- **B:** Dryland heterogeneity needs tailored restoration.
+- **C:** Unsupported fixed dimensions cannot be assumed.
+- **D:** Sustainable grazing arrangements can be part of restoration.
+- **Trap:** Do not use a proven completed continuous rainforest belt across india as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q19 — C.**
+- **A:** Goals are not measured achievements.
+- **B:** A restoration mosaic differs from a uniform tree strip.
+- **C:** Both are mosaics requiring evidence of realised land improvement.
+- **D:** Evaluation needs ecological and livelihood measures.
+- **Trap:** Do not use assume announced programme targets were fully achieved as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q20 — D.**
+- **A:** Tropical climate precludes this blanket explanation.
+- **B:** Both may limit establishment.
+- **C:** A missing official key cannot be guessed.
+- **D:** The interacting mechanisms can be learned without fabricating the key.
+- **Trap:** Do not use savanna trees are absent because all soil is permanently frozen as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q21 — A.**
+- **A:** Seasonal rainfall and disturbance both matter; Indian grasslands are not all degraded forests.
+- **B:** Statement 3 falsely universalises forest degradation.
+- **C:** Statement 3 is false and Aw rain is seasonal.
+- **D:** Including statement 3 misreads valuable open ecosystems.
+- **Trap:** Do not use 1 and 3 only as a shortcut for the wet–dry, fire and spatial controls asked here.
+
+**Q22 — B.**
+- **A:** This reverses the named climatic gradient.
+- **B:** The wet-dry regime grades towards desert aridity.
+- **C:** Less moisture usually constrains grass height.
+- **D:** Local fire, grazing and soils modify boundaries.
+- **Trap:** Do not use moisture increases steadily towards the desert margin as a shortcut for the wet–dry, fire and spatial controls asked here.
 
 ## PYQS AND ANSWER PRACTICE
-
-**Demand decoding:** Treat “Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route?” as a process, location, scale, terminology and status problem. Verify every statement independently.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route? **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** A. Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** B. Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** C. Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** D. The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route?”.
-
-**Executable exam-length answer / compression plan:** Fix the phenomenon and spatial setting; trace the controlling mechanism; test direction, sequence, threshold and India/world anchor; eliminate the closest term, map or causation distractor.
-
-**Why this earns marks:** It preserves exact process-to-pattern reasoning and prevents a familiar place-name or correlation from substituting for causation.
-
-**How to improve this answer:** For “Q76. Which option avoids the main UPSC trap concerning Verified savanna PYQ route?”, state why the nearest distractor fails on process, direction, scale, location, terminology, date or official status.
 
 ### VERIFIED PYQ OWNERSHIP AUDIT
 
@@ -932,254 +348,68 @@ Verified direct ownership retains the 2021 Prelims savanna tree-limitation deman
 ### PYQ DEMAND CARD 1 — 2021 Prelims GS-I
 
 **Demand:** Savanna biome conditions limiting tree development.
-
 **Status:** Verified routed objective demand; official key unavailable locally.
 
-**Model solution:** Evaluate statements through the interaction of a marked dry season, moisture competition, recurrent fire and herbivory. Distinguish limits on tree recruitment from complete absence of trees, and do not invent an answer letter.
+**Independent model solution:**
 
-**Demand decoding:** Treat “PYQ DEMAND CARD 1 — 2021 Prelims GS-I” as a process, location, scale, terminology and status problem. Verify every statement independently.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the physical-geography demand in “PYQ DEMAND CARD 1 — 2021 Prelims GS-I”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Savanna biome conditions limiting tree development. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Status: Verified routed objective demand; official key unavailable locally. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** The answer must resolve the physical-geography demand in “PYQ DEMAND CARD 1 — 2021 Prelims GS-I”.
-
-**Executable exam-length answer / compression plan:** Fix the phenomenon and spatial setting; trace the controlling mechanism; test direction, sequence, threshold and India/world anchor; eliminate the closest term, map or causation distractor.
-
-**Why this earns marks:** It preserves exact process-to-pattern reasoning and prevents a familiar place-name or correlation from substituting for causation.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2021 Prelims GS-I”, state why the nearest distractor fails on process, direction, scale, location, terminology, date or official status.
+✅ **Conceptual route, no claimed official objective key.** The Sudan climate has a pronounced wet season followed by months of moisture deficit. Dry-season stress limits seedling establishment; recurrent fire and browsing/grazing can prevent saplings from reaching a closed canopy even where seasonal rain supports tall grass. Acacia and baobab may persist through deciduous, root and bark adaptations. These factors interact: fire is neither the only cause nor always damaging, and rainfall imposes outer limits. Test the actual official statements individually; the 2021 Prelims GS-I Q61 objective key is not held locally, so no letter is supplied.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Why is the Sudan climate described as a tropical transition? Answer in about 150 words.
 
-**Model thesis:** ITCZ seasonality produces a wet-dry gradient between rainforest and desert, expressed in changing rain duration, grass height and woody cover.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+The Köppen Aw/Sudan climate forms a tropical bridge between perennially wet equatorial lowlands and hot desert margins; the Sudan belt of Africa illustrates it. As the ITCZ moves poleward with the high Sun, moist convergence produces convective summer rain. When the belt withdraws, drier trades and higher evaporative stress produce a pronounced dry season. This differs from Af's rain through the year and from the desert's persistently scarce precipitation. Grass grows rapidly in the rainy phase; scattered drought-adapted trees persist rather than closing into an evergreen canopy. Moving toward the desert edge, grasses generally shorten and tree cover thins. Fire, grazing and soil characteristics alter the local boundary, so latitude or annual rainfall alone cannot draw a sharp universal savanna line.
 
-- Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line.
-- Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air.
-- Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins.
-
-**Qualified conclusion:** ITCZ seasonality produces a wet-dry gradient between rainforest and desert, expressed in changing rain duration, grass height and woody cover.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why is the Sudan climate described as a tropical transition? Answer in about 150 words.”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** ITCZ seasonality produces a wet-dry gradient between rainforest and desert, expressed in changing rain duration, grass height and woody cover.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Savanna or Sudan climate, commonly Koppen Aw, is a tropical transition between equatorial rainforest and hot desert, often mapped roughly from 5 to 20 degrees north and south; it is a gradient rather than a sharp line. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Poleward and equatorward migration of the ITCZ alternates a hot rainy high-sun season with a warm or cooler dry low-sun season dominated by drier trade-wind air. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Source notes commonly describe about 75 to 150 centimetres of summer-concentrated rain; the decisive feature is a marked dry season, and totals decline toward desert margins. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** ITCZ seasonality produces a wet-dry gradient between rainforest and desert, expressed in changing rain duration, grass height and woody cover.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Why is the Sudan climate described as a tropical transition? Answer in about 150 words.”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+A simple yearly water budget clarifies the mechanism: in the rainy months moisture and energy favour rapid growth; during the long dry phase evaporation and dormancy dominate. The apparent parkland form can recur in Llanos or northern Australia, but species and disturbance histories are not interchangeable. Management that intensifies burning beyond plant recovery can reduce trees and soil cover further; conversely, removing all disturbance from an established grassland can alter valued habitat. State whether a particular patch is open because of water balance, long disturbance history or both before treating it as a 'degraded forest'.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain why savanna is a grass-tree mosaic rather than a closed forest. Answer in about 150 words.
 
-**Model thesis:** Seasonal moisture limits interact with fire and herbivory to suppress recruitment while drought-adapted trees persist.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+Seasonal ITCZ rain creates grass growth, but the following dry period limits seedlings and favours deciduous, deep-rooted, thick-barked survivors such as acacia or baobab. In the African Sudan belt, emergent grasses and scattered trees create a 'parkland' mosaic rather than an Af-style continuous canopy. Fire—natural or human-set—can repeatedly kill young woody stems; browsing and grazing likewise restrain recruitment while mature resistant trees persist. Near the equatorial margin, greater moisture can support taller grass and more trees; toward the desert grass is shorter and open. Neither rainfall nor burning alone dictates cover: parent material, soil water, fire intensity and land use create different outcomes. Thus explain *both* climatic possibility and ecological persistence of the mosaic.
 
-- Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin.
-- Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire.
-- Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-
-**Qualified conclusion:** Seasonal moisture limits interact with fire and herbivory to suppress recruitment while drought-adapted trees persist.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why savanna is a grass-tree mosaic rather than a closed forest. Answer in about 150…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Seasonal moisture limits interact with fire and herbivory to suppress recruitment while drought-adapted trees persist.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Savanna has a continuous or near-continuous grass layer with scattered trees, producing a parkland appearance; grasses generally become shorter and woody cover more open toward the desert margin. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Deciduous habit, deep roots, thick bark, small leaves and umbrella crowns help trees such as acacia and baobab withstand seasonal drought, browsing and fire. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Seasonal moisture limits interact with fire and herbivory to suppress recruitment while drought-adapted trees persist.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Explain why savanna is a grass-tree mosaic rather than a closed forest. Answer in about 150…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+A savanna section should show a tall-grass zone near the wetter equatorial edge and shorter, sparser cover towards deserts. Species withstand scarcity through root access, dry-season leaf shedding or protective bark; animal grazing migrates with available forage. The same rain total delivered unevenly can produce very different woody recruitment. Repeated burning particularly affects young trees before their bark thickens, but some fire-resistant trees survive. Distinguish maintenance of a healthy grassland from excessive burning and overgrazing that uncover soil. Parkland is thus a dynamic tree–grass balance, not a universally fixed number of trees per hectare.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Assess rainfall unreliability as the central livelihood constraint in savanna lands. Answer in about 250 words.
 
-**Model thesis:** Timing and dry spells govern forage and crop risk, encouraging mobility and drought-tolerant cultivation more than annual totals alone.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+The Sudan climate's problem is not necessarily a tiny annual rain total but concentration into a short and variable growing season. A delayed onset or dry spell during flowering can damage sorghum or millet even where the seasonal total looks adequate. Hausa agriculture in northern Nigeria illustrates cultivation adapted to this risk, while mobile pastoralism can shift grazing with available forage. Wet-season leaching and exposed-soil deterioration, dry-season fire and water-point overuse add pressures. Water harvesting, crop choice, forecasting and managed grazing improve resilience; irrigation can help but is limited by water supply and management. The conclusion should avoid environmental determinism: institutions, tenure and access influence outcomes just as seasonal climate does. Target reliability, soil protection and livelihoods rather than assuming tropical rainfall guarantees a harvest.
 
-- Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement.
-- Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web.
-- Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure.
-
-**Qualified conclusion:** Timing and dry spells govern forage and crop risk, encouraging mobility and drought-tolerant cultivation more than annual totals alone.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess rainfall unreliability as the central livelihood constraint in savanna lands. Answer…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Timing and dry spells govern forage and crop risk, encouraging mobility and drought-tolerant cultivation more than annual totals alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Late onset, early cessation, long dry spells and drought make water reliability more important than annual total for crops, livestock and settlement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Savannas support large grazing and browsing herds and associated predators because seasonal grass production, water and migration create a spatially dynamic food web. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Pastoral mobility and drought-tolerant crops such as millet and sorghum respond to variable water and forage; forced sedentarisation or fixed water points can concentrate grazing pressure. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Timing and dry spells govern forage and crop risk, encouraging mobility and drought-tolerant cultivation more than annual totals alone.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Assess rainfall unreliability as the central livelihood constraint in savanna lands. Answer…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+Regional alternatives include small water-harvesting structures, locally adapted cereals, forage reserves and agreed corridors for livestock mobility. Their performance should be judged against actual dry-spell frequency and water-table effects, rather than assuming that creating permanent boreholes always improves resilience; livestock can concentrate near a new water point and degrade surrounding pasture. Fire can renew grass under some regimes, but uncontrolled repeated fire and vegetation loss increase runoff and erosion. The Sudan label denotes a climatic pattern, not a verdict on people's capacity. Drought risk is a coupled property of rain timing, soils, access, markets and institutions.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Compare global savanna with India's deciduous, thorn and grassland analogues. Answer in about 250 words.
 
-**Model thesis:** Both reflect wet-dry seasonality, but India's forest and grassland mosaics differ by monsoon, soil, hydrology and management history.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+African Aw savanna includes Sudan parkland grassland with scattered drought-adapted trees, seasonal grasses and a distinct dry phase. India's wet-dry monsoonal landscapes offer *vegetation analogues*, not a claim that every district has the same Sudan climate. Moist deciduous belts occur in wetter monsoon zones, with sal important in northern/eastern forests and teak in much of peninsular India. Drier interiors grade into dry deciduous woodland, thorn scrub and grassland; Banni in Kachchh differs sharply from humid Terai grassland. Leaf shedding reduces dry-season water demand. Local relief, soil, fire, grazing and past land use alter these patterns; thorn scrub is not necessarily 'degraded forest'. Compare seasonal water constraint and tree–grass mosaics but preserve the distinct geographic and ecological histories.
 
-- India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate.
-- Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts.
-- Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls.
-- Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-- Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-
-**Qualified conclusion:** Both reflect wet-dry seasonality, but India's forest and grassland mosaics differ by monsoon, soil, hydrology and management history.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare global savanna with India's deciduous, thorn and grassland analogues. Answer in about…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Both reflect wet-dry seasonality, but India's forest and grassland mosaics differ by monsoon, soil, hydrology and management history.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India has wet-dry tropical environments and savanna-like mosaics, but the Advanced owner is an analogue of deciduous forest, thorn scrub and grasslands rather than proof that India is one homogeneous Sudan climate. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Indian source notes associate tropical moist deciduous forest broadly with about 100 to 200 centimetres of rainfall, with teak prominent in many peninsular belts and sal in many northern and eastern belts. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Dry deciduous forests occupy drier monsoon interiors and shed leaves to reduce dry-season water loss; rainfall thresholds overlap regionally and should not be treated as exact national walls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Both reflect wet-dry seasonality, but India's forest and grassland mosaics differ by monsoon, soil, hydrology and management history.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Compare global savanna with India's deciduous, thorn and grassland analogues. Answer in about…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+Across India, thresholds from the advanced owner are approximate and can overlap by soil and altitude; using 100–200 cm for moist deciduous and drier ranges for dry deciduous is a regional heuristic, not a rigid national isoline. Sal and teak do not dominate every district together. Terai wetlands and Kachchh Banni grasslands have contrasting hydrology, and shola openings have a distinct highland context. Fire and grazing may maintain open mosaics without implying every grassland should become a plantation. The common savanna analogy is seasonal growth and water-limited woody cover; a formal Aw map, forest-type map and legal forest status remain different layers.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Critically examine fire and grazing in savanna ecology and restoration. Answer in about 300 words.
 
-**Model thesis:** They can maintain biodiversity-rich open mosaics or cause degradation depending on timing, intensity and context, so restoration cannot default to fire exclusion or dense planting.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+Seasonal rains permit rapid grass growth in savanna, while dry months limit dense forest. Fire removes litter, checks woody seedlings and can favour resprouting, thick-barked trees and fire-adapted grasses; grazing similarly reduces tree recruitment and can keep open routes. Neither is uniformly beneficial: too-frequent intense burning, concentrated livestock pressure and bare soils can accelerate erosion, while blanket fire suppression may change valued open habitat. Savannah wildlife and pastoral livelihoods rely on mosaic diversity. Restoration therefore needs locally assessed fire regimes, grazing access and water-point pressures, not an automatic conversion to forest. Compare repeated satellite imagery with on-ground species regeneration and soil evidence before calling a landscape degraded. The rainfall regime sets limits, but land-management history determines whether disturbance sustains a resilient mosaic or depletes it.
 
-- Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient.
-- Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe.
-- Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-- A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-
-**Qualified conclusion:** They can maintain biodiversity-rich open mosaics or cause degradation depending on timing, intensity and context, so restoration cannot default to fire exclusion or dense planting.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine fire and grazing in savanna ecology and restoration. Answer in about 300…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** They can maintain biodiversity-rich open mosaics or cause degradation depending on timing, intensity and context, so restoration cannot default to fire exclusion or dense planting.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Seasonal climate makes grassland possible, while recurrent fire and herbivory suppress some tree recruitment and help maintain the grass-tree mosaic; neither climate-only nor fire-only explanation is sufficient. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Terai tall grasslands, shola grassland-forest mosaics and Banni's arid-saline grassland have different hydrology and histories; one universal fire or grazing prescription is unsafe. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** They can maintain biodiversity-rich open mosaics or cause degradation depending on timing, intensity and context, so restoration cannot default to fire exclusion or dense planting.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Critically examine fire and grazing in savanna ecology and restoration. Answer in about 300…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+Apply the argument to India's Banni: saline/arid hydrology and pastoral use cannot be managed as though Banni were the wetter Terai. Equally, restoring a dry deciduous fringe with native plants is different from filling a long-established grassland with trees. Fire policy should differentiate controlled low-intensity use from dangerous high-intensity events and respect community knowledge. Grazing assessments should compare season, stocking pressure and local recovery, not infer damage from any animal presence. The conclusion must be qualified: climate creates an opportunity for grass–tree coexistence, while grazing and fire shape its persistence within site-specific limits. Baseline photographs and vegetation plots taken across seasons can show whether woody seedlings and grass cover actually recover, rather than assuming all landscape opening signals ecological collapse.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Evaluate the Aravalli Green Wall through savanna and dryland geography. Answer in about 300 words.
 
-**Model thesis:** Judge native ecosystem recovery, water, connectivity and livelihoods rather than plantation area alone, while retaining official status and target discipline.
+**Independent model solution:**
 
-**Claim → named evidence → analysis → qualification:**
+The Aravalli Green Wall initiative, announced in 2023 in the advanced owner, should be evaluated as dryland *landscape* restoration rather than a promised uniform plantation strip. In arid and semi-arid margins, soil-water scarcity, grazing demand and fragmented habitat require native drought-suited vegetation, rainwater retention, managed pastoral access and ecological connectivity. Lessons from the Sudan/Sahel are that seasonal rainfall variability and fire/grazing dynamics shape success; African Great Green Wall practice has moved from a literal tree line toward mosaics of land use and livelihoods. Evaluate survival and composition of native vegetation, groundwater/soil responses, habitat and local livelihood effects against dated baselines. A planting target is an input, not recovered ecosystem function; avoid invented fixed widths, project completion claims or transplanting moist evergreen species into dry sites.
 
-- Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest.
-- Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere.
-- Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target.
-- The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls.
-- A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement.
-
-**Qualified conclusion:** Judge native ecosystem recovery, water, connectivity and livelihoods rather than plantation area alone, while retaining official status and target discipline.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the Aravalli Green Wall through savanna and dryland geography. Answer in about 300…”, all clauses and scales, a process chain, spatial reconstruction, named India/world evidence, a counter-condition and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Judge native ecosystem recovery, water, connectivity and livelihoods rather than plantation area alone, while retaining official status and target discipline.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Tropical thorn forest and scrub reflect climatic aridity interacting with grazing and cutting, grading through north-western and interior semi-arid belts; they are not invariably degraded moist forest. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-2. **Claim and named evidence:** Savanna and dryland restoration should protect native grass-forb-tree mosaics, water processes, mobility and disturbance regimes rather than equating restoration with dense tree planting everywhere. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-3. **Claim and named evidence:** Official PIB material presents the Aravalli Green Wall as landscape restoration involving native vegetation, water-body rejuvenation and multi-state coordination; it should not be reduced to one uniform plantation strip or uncited target. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-4. **Claim and named evidence:** The routed 2021 Prelims demand tests conditions limiting tree development in savanna; the ledger withholds the official answer letter, so rainfall seasonality, fire and herbivory are taught as interacting controls. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-5. **Claim and named evidence:** A defensible policy distinguishes natural open ecosystems from degraded land and manages water, grazing, fire, invasives and livelihoods together; increasing tree density is not automatically ecological improvement. **Analysis:** Trace the driver → mechanism → spatial expression → consequence chain and connect the named place, map or observation to the directive. **Qualification:** State the scale, threshold, interacting control, exception or source/date boundary.
-
-**Counter-position / limit:** A spatial association, one event, one model or one map layer does not establish a sufficient or timeless cause; test energy, material, structure, circulation, scale and human mediation.
-
-**Qualified conclusion:** Judge native ecosystem recovery, water, connectivity and livelihoods rather than plantation area alone, while retaining official status and target discipline.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight process-spatial points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the causal limit.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than catalogues, makes the spatial logic visible and avoids deterministic or timeless claims.
-
-**How to improve this answer:** For “Evaluate the Aravalli Green Wall through savanna and dryland geography. Answer in about 300…”, replace the weakest generalisation with one labelled process arrow or map anchor and state the scale, exception or evidence needed before extending the conclusion.
+A transparent project should map degraded areas separately from native grassland, record initial soil condition and grazing routes, and test native planting against rainwater and survival rather than counting saplings on launch day. Water-retention work may help on suitable slopes, yet excessive extraction or non-native water-demanding trees can worsen dryland stress. Compare before-and-after ground observations with rainfall variation to avoid falsely attributing all recovery to a wall project. Consult pastoral users on access so restoration does not merely move pressure to another patch. Africa's Sahel and India's Aravalli are different climate and tenure contexts: transfer principles of mosaic management, not a single species list or unverified target. Ecological indicators should include forage diversity, soil cover and functioning wildlife corridors, while social indicators include water access and sustainable grazing opportunity.

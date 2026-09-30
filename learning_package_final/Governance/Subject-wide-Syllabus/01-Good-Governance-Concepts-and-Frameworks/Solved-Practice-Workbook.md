@@ -6,805 +6,402 @@ topic_key: governance-01
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Government as a formal authority set?
+These original applications cover the distinct concept families in the Basic owner. Questions precede the separate solved key; options are rotated A → B → C → D.
 
-A. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-B. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-C. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-D. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
+### Q1. A district contracts an NGO to run a shelter but retains licensing and inspections. Which diagnosis distinguishes government from governance?
 
-**Answer: A.**
-**Explanation:** Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it. The remaining options belong to different chronology, actor or analytical categories.
+A. The district authority retains public duties while the NGO joins the delivery process.
+B. The contract transfers constitutional executive power to the NGO.
+C. Only officials count as actors in governance.
+D. The NGO becomes the sole institution answerable for statutory inspection.
 
-### Q2. Which chronology card should be filed under Government as a formal authority set?
+### Q2. A department reports quick licence issuance but will not disclose rejection reasons. Which inference is defensible?
 
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-C. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-D. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
+A. Fast service automatically establishes good governance.
+B. Speed may improve administration without satisfying rule-of-law and transparency tests.
+C. Only the department's organisational chart matters to governance.
+D. Absence of a bribery complaint proves accountability.
 
-**Answer: B.**
-**Explanation:** Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. Which proposed assessment correctly treats the World Bank's WGI as a multidimensional instrument?
 
-### Q3. Which option preserves the source-bounded meaning of Government as a formal authority set?
+A. Use its sole national good-governance total as an annual district rank.
+B. Substitute UNDP strategic vision for WGI regulatory quality.
+C. Compare voice, political stability, effectiveness, regulatory quality, rule of law and corruption control separately.
+D. Interpret corruption control as the only relevant dimension.
 
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-C. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-D. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
+### Q4. A minister treats a marginal WGI movement as proof that an Indian service reform succeeded. What is the central evidential objection?
 
-**Answer: C.**
-**Explanation:** Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it. The remaining options belong to different chronology, actor or analytical categories.
+A. WGI is entirely computed from audited departmental transactions.
+B. WGI is only a list of ethical aspirations without scores.
+C. Every perceived change must precede the administrative change.
+D. Aggregated perceptions and uncertainty do not establish reform-specific causal impact.
 
-### Q4. Which statement avoids a close-option trap about Government as a formal authority set?
+### Q5. An analyst proposes ranking states by applying the UNDP participation and strategic-vision checklist without defining any data. What is wrong?
 
-A. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-B. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-C. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-D. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
+A. A normative checklist supplies evaluative criteria, not an already operationalised scoring index.
+B. UNDP already releases India's ten-sector GGI.
+C. Strategic vision is a WGI country score.
+D. The checklist is restricted to corruption control.
 
-**Answer: D.**
-**Explanation:** Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. A cabinet quotes the Second ARC's Citizen-Centric Administration report as if it itself created a service penalty. Which correction is strongest?
 
-### Q5. Which statement correctly identifies Governance as a wider decision process?
+A. All fifteen ARC reports are statutes enacted in 2005.
+B. ARC reports recommend institutional reforms; a penalty needs an operative legal basis such as a relevant state service law.
+C. The ARC is the statutory appellate body under each right-to-service law.
+D. Good governance is enforceable through one national omnibus Act.
 
-A. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-B. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-C. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-D. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
+### Q7. Who can coordinate Sevottam and CPGRAMS while also publishing national governance diagnostics?
 
-**Answer: A.**
-**Explanation:** Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance. The remaining options belong to different chronology, actor or analytical categories.
+A. World Justice Project under the Ministry of Law.
+B. UNDP under the Ministry of Panchayati Raj.
+C. DARPG under the Ministry of Personnel, Public Grievances and Pensions.
+D. CAG under the Ministry of Personnel.
 
-### Q6. Which chronology card should be filed under Governance as a wider decision process?
+### Q8. An exam note identifies 25 December as the launch date of both an observance and an index. Which dating is precise?
 
-A. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-B. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-C. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-D. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
+A. Good Governance Day began with the GGI 2020-21 release in 2021.
+B. GGI was launched in 2014 and the observance began in 2019.
+C. Good Governance Day commemorates the Second ARC's formation.
+D. Good Governance Day is observed since 2014; DARPG launched GGI on 25 December 2019.
 
-**Answer: B.**
-**Explanation:** Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. A briefing calls a district index and a workshop evidence of a released 'national GGI 2025'. Which edit preserves the source's evidential boundary?
 
-### Q7. Which option preserves the source-bounded meaning of Governance as a wider decision process?
+A. Withdraw that edition claim; the latest completed national edition located in the source review was GGI 2020-21, released in 2021.
+B. Treat the district index as the national GGI 2025.
+C. Describe a proposed cycle as a published national edition.
+D. Assume a new edition is published every year without a report.
 
-A. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-D. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
+### Q10. A state comparison silently uses 'three GGI groups' for 2020-21. Which revision is accurate?
 
-**Answer: C.**
-**Explanation:** Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance. The remaining options belong to different chronology, actor or analytical categories.
+A. Treat all states and UTs as one national league table in both editions.
+B. Use four 2020-21 groups: Other States A, Other States B, North-East and Hill States, and UTs; three describes 2019.
+C. Add districts as the fourth 2019 state group.
+D. Use the four categories as World Bank WGI country dimensions.
 
-### Q8. Which statement avoids a close-option trap about Governance as a wider decision process?
+### Q11. A paper prints 'Gujarat is always the national leader of GGI'. What narrower claim, if used, is supported by the owner?
 
-A. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
+A. A 2025 GGI establishes the same top state.
+B. An undated top rank is stable across all ten sectors.
+C. The Gujarat top-rank fact is edition-bound to GGI 2020-21; it does not predict a later edition.
+D. GGI publishes one invariant annual top rank.
 
-**Answer: D.**
-**Explanation:** Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. In a quiz on index attribution, which pairing avoids conflating two rule-of-law instruments?
 
-### Q9. Which statement correctly identifies Good governance as a normative standard?
+A. World Bank—Rule of Law Index; DARPG—WGI.
+B. UNDP—Rule of Law Index; World Justice Project—GGI.
+C. CAG—Rule of Law Index; World Bank—DGGI.
+D. World Justice Project—Rule of Law Index; World Bank—WGI Rule of Law dimension.
 
-A. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-B. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-C. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-D. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
+### Q13. A ministry chooses between WGI, GGI, NeSDA and a panchayat Devolution Index. Which instrument directly targets online end-service delivery?
 
-**Answer: A.**
-**Explanation:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. The remaining options belong to different chronology, actor or analytical categories.
+A. NeSDA, without claiming that portal performance measures all governance.
+B. GGI, because its unit is every individual online transaction.
+C. WGI, because its unit is the gram panchayat.
+D. Devolution Index, because it covers all municipal portals.
 
-### Q10. Which chronology card should be filed under Good governance as a normative standard?
+### Q14. Which pairing links a governance norm to a real but bounded instrument?
 
-A. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-B. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-C. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-D. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
+A. Transparency—CAG alone supplies personal service appeals.
+B. Transparency—RTI section 4 proactive disclosure, subject to actual records and compliance.
+C. Participation—CPGRAMS automatically gives binding legislative consent.
+D. Responsiveness—WGI alone imposes a service-delivery penalty.
 
-**Answer: B.**
-**Explanation:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. A Gram Sabha reads MGNREGA expenditure records and questions recorded works. Which characterisation is legally careful?
 
-### Q11. Which option preserves the source-bounded meaning of Good governance as a normative standard?
+A. Section 17 automatically transfers CAG's audit authority to the Gram Sabha.
+B. The exercise is only a UNDP perception survey.
+C. MGNREGA section 17 anchors Gram Sabha social audit; findings still need follow-up and remedy.
+D. The 2014 Pre-Legislative Consultation Policy gives it statutory penalties.
 
-A. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-D. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
+### Q16. A citizen is refused a notified service and another files a complaint on CPGRAMS. Which remedy distinction matters?
 
-**Answer: C.**
-**Explanation:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. The remaining options belong to different chronology, actor or analytical categories.
+A. CPGRAMS grants every claimant a statutory damages award.
+B. RTS deadlines bind all services, even those never notified.
+C. Sevottam itself confers a uniform nationwide legal right to compensation.
+D. State RTS laws can attach timelines and penalties to notified services; CPGRAMS administratively tracks grievances and appeals, not adjudication.
 
-### Q12. Which statement avoids a close-option trap about Good governance as a normative standard?
+### Q17. A claim says an Aadhaar-linked DBT list is more equitable because duplicate records declined. What missing test is most important?
 
-A. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-B. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-C. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-D. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
+A. Check authentication exclusions and whether eligible recipients actually received benefits.
+B. Count deletions only; eligibility is immaterial.
+C. Use WGI political stability as the claimant-level inclusion test.
+D. Treat every authentication failure as proof of ineligibility.
 
-**Answer: D.**
-**Explanation:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. The remaining options belong to different chronology, actor or analytical categories.
+### Q18. An agency celebrates completed inspections, while violations remain unresolved. Which evaluation fits effectiveness?
 
-### Q13. Which statement correctly identifies Worldwide Governance Indicators: six dimensions?
+A. Any completed inspection is automatically a resolved violation.
+B. Separate activity/output counts from verified outcomes and use OOMF or DMEO evidence with data-quality checks.
+C. WGI Voice and Accountability directly certifies each inspection.
+D. Only budget outlay, not outcomes, belongs in governance assessment.
 
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
+### Q19. A portal displays 100% grievance closure, but people repeatedly reopen the same matter. Where does the norm-to-outcome chain fail most visibly?
 
-**Answer: A.**
-**Explanation:** The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total. The remaining options belong to different chronology, actor or analytical categories.
+A. At constitutional creation of the legislature alone.
+B. At numerical publication: any dashboard guarantees relief.
+C. At remedy and feedback: closure is not correction unless recurrence informs redesign.
+D. At the UNDP strategic-vision definition alone.
 
-### Q14. Which chronology card should be filed under Worldwide Governance Indicators: six dimensions?
+### Q20. A state ranks poorly on a composite measure despite better survival outcomes. Which challenge targets indicator validity rather than publication timing?
 
-A. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-B. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
+A. Infer that the state necessarily falsified its data.
+B. Assume every outcome belongs solely to that department.
+C. Replace the indicator with an undated state rank.
+D. Check whether the chosen metric tracks outcomes rather than easy-to-count inputs.
 
-**Answer: B.**
-**Explanation:** The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total. The remaining options belong to different chronology, actor or analytical categories.
+### Q21. One state self-reports extensive coverage and another has lower reporting capacity. Which pair of tests is indispensable before comparing GGI scores?
 
-### Q15. Which option preserves the source-bounded meaning of Worldwide Governance Indicators: six dimensions?
+A. Data comparability and federal/context adjustment, including responsibilities and baselines.
+B. Only whether either state held a Good Governance Day event.
+C. Only the number of ARC recommendations each adopted.
+D. Only whether the WGI average rose worldwide.
 
-A. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-D. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
+### Q22. Which response meets the consequence test of a governance index?
 
-**Answer: C.**
-**Explanation:** The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total. The remaining options belong to different chronology, actor or analytical categories.
+A. Publish the league table without changing a service.
+B. Assign a duty-holder to investigate a low sector score, verify the denominator, correct delivery and audit the next cycle.
+C. Replace district disaggregation with a ceremonial award.
+D. Treat a marginal movement as a causal estimate.
 
-### Q16. Which statement avoids a close-option trap about Worldwide Governance Indicators: six dimensions?
+### Q23. A proposed policy improves speed by omitting public consultation. Which critique avoids both blanket rejection and uncritical efficiency claims?
 
-A. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-D. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
+A. Speed is always identical with legitimacy.
+B. Participation always grants every commenter a veto.
+C. Specify whose participation is affected, the lawful consultation requirement and whether delay costs justify the chosen procedure.
+D. Any consultation is statutorily binding under the 2014 policy.
 
-**Answer: D.**
-**Explanation:** The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total. The remaining options belong to different chronology, actor or analytical categories.
+### Q24. A donor calls Indian accountability norms an imported condition. Which India-specific reply is strongest?
 
-### Q17. Which statement correctly identifies The perception basis of the Worldwide Governance Indicators?
+A. The WGI automatically becomes Indian constitutional law.
+B. A UNDP checklist alone legislates remedies in every state.
+C. India has one single national Good Governance Act.
+D. Article 14 non-arbitrariness, RTI section 4 and MGNREGA section 17 have domestic legal bases, irrespective of donor rhetoric.
 
-A. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
+### Q25. A district uses a default tick-box to enrol applicants for text reminders. What makes this a nudge rather than a sufficient governance reform?
 
-**Answer: A.**
-**Explanation:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. The remaining options belong to different chronology, actor or analytical categories.
+A. It changes choice architecture while preserving choice; check opt-out clarity, distributional effects and actual take-up.
+B. It legally compels all citizens to enrol and cures absent services.
+C. It makes state RTS appeal procedures unnecessary.
+D. It proves success merely because a reminder was sent.
 
-### Q18. Which chronology card should be filed under The perception basis of the Worldwide Governance Indicators?
+### Q26. A Swachh Bharat campaign announces that non-compliance is common to induce compliance. Which behavioural risk is most direct?
 
-A. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-B. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-C. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-D. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
+A. Every social norm message is a statutory penalty.
+B. Social-norm messaging could normalise the very behaviour it seeks to reduce.
+C. The message automatically eliminates sanitation supply gaps.
+D. The campaign becomes a WGI Rule of Law score.
 
-**Answer: B.**
-**Explanation:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. The remaining options belong to different chronology, actor or analytical categories.
+### Q27. Which combination respects the limits of Give It Up and Beti Bachao Beti Padhao/BADLAV as behavioural anchors?
 
-### Q19. Which option preserves the source-bounded meaning of The perception basis of the Worldwide Governance Indicators?
+A. Voluntary LPG surrender automatically verifies all subsidy entitlements.
+B. An identity appeal alone provides physical safety and school access.
+C. Moral salience and positive identity can support choice, but cannot replace eligibility reform, safety, schooling or enforcement.
+D. The proposed BADLAV framing is a binding central statute.
 
-A. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-B. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-C. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-D. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
+### Q28. A charter promises a five-day decision but specifies no appellate officer or remedy. Which stage is missing?
 
-**Answer: C.**
-**Explanation:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. The remaining options belong to different chronology, actor or analytical categories.
+A. A UNDP country rank, which itself imposes penalty.
+B. A World Justice Project statutory appeal.
+C. A GGI sector score, which adjudicates individual claims.
+D. An enforceable procedure and remedy, unlike a state RTS guarantee for a notified service.
 
-### Q20. Which statement avoids a close-option trap about The perception basis of the Worldwide Governance Indicators?
+### Answer key and option-by-option reasoning
 
-A. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-D. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
+**Q1 — A.**
 
-**Answer: D.**
-**Explanation:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Formal authority and multi-actor delivery are different layers; evaluate both.
+- **B (trap):** A service contract does not itself transfer constitutional authority.
+- **C (trap):** Governance includes citizens, civil society and market actors.
+- **D (trap):** Outsourcing delivery does not erase the public duty-holder.
 
-### Q21. Which statement correctly identifies UNDP principles as a checklist, not an index?
+**Q2 — B.**
 
-A. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-B. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-C. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-D. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
+- **A (trap):** Effectiveness alone cannot certify due process or transparency.
+- **B (correct):** Good governance tests the quality of the decision process as well as its speed.
+- **C (trap):** Structure identifies government, not the whole governance process.
+- **D (trap):** No complaint is not evidence of effective review or remedy.
 
-**Answer: A.**
-**Explanation:** The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error. The remaining options belong to different chronology, actor or analytical categories.
+**Q3 — C.**
 
-### Q22. Which chronology card should be filed under UNDP principles as a checklist, not an index?
+- **A (trap):** The WGI is neither a district GGI nor one undifferentiated total.
+- **B (trap):** Strategic vision is on the UNDP checklist, not a WGI dimension.
+- **C (correct):** The WGI reports six named country-level dimensions.
+- **D (trap):** Control of Corruption is one of six dimensions, not the whole index.
 
-A. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-B. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-C. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-D. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
+**Q4 — D.**
 
-**Answer: B.**
-**Explanation:** The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** WGI aggregates survey and expert perceptions, not solely administrative records.
+- **B (trap):** It produces scored dimensions; the UNDP list is normative.
+- **C (trap):** Perception can lead OR lag implementation.
+- **D (correct):** Perception sources, margins of error and confounders limit causal inference.
 
-### Q23. Which option preserves the source-bounded meaning of UNDP principles as a checklist, not an index?
+**Q5 — A.**
 
-A. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
+- **A (correct):** A researcher must specify valid indicators and observations before scoring.
+- **B (trap):** DARPG owns GGI; it is not a UNDP index.
+- **C (trap):** Strategic vision belongs to the UNDP principles.
+- **D (trap):** UNDP also includes equity, participation and responsiveness.
 
-**Answer: C.**
-**Explanation:** The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error. The remaining options belong to different chronology, actor or analytical categories.
+**Q6 — B.**
 
-### Q24. Which statement avoids a close-option trap about UNDP principles as a checklist, not an index?
+- **A (trap):** Constitution in 2005 and fifteen reports do not make them statutes.
+- **B (correct):** A commission's recommendations differ from enacted law and state-specific remedies.
+- **C (trap):** State notification and appeal provisions, not an ARC appeal, control service remedies.
+- **D (trap):** India uses a patchwork of instruments, not one overarching governance statute.
 
-A. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-B. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-C. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-D. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
+**Q7 — C.**
 
-**Answer: D.**
-**Explanation:** The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** WJP publishes the Rule of Law Index, not India's grievances platform.
+- **B (trap):** UNDP offers principles; MoPR owns panchayat devolution assessments.
+- **C (correct):** DARPG combines administrative reform and measurement roles.
+- **D (trap):** CAG audits public accounts; it does not operate CPGRAMS.
 
-### Q25. Which statement correctly identifies The Second ARC frame and the absence of one governance statute?
+**Q8 — D.**
 
-A. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-D. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
+- **A (trap):** An edition release is distinct from the start of the observance.
+- **B (trap):** Those two dates reverse the events.
+- **C (trap):** The occasion marks Atal Bihari Vajpayee's birth anniversary.
+- **D (correct):** The observance marks Vajpayee's birthday; the index was launched later.
 
-**Answer: A.**
-**Explanation:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. The remaining options belong to different chronology, actor or analytical categories.
+**Q9 — A.**
 
-### Q26. Which chronology card should be filed under The Second ARC frame and the absence of one governance statute?
+- **A (correct):** The source's September 2026 check found no released later national report.
+- **B (trap):** District exercises are different instruments and scales.
+- **C (trap):** A planned cycle is not publication evidence.
+- **D (trap):** GGI is not an annual series.
 
-A. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-B. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-C. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
+**Q10 — B.**
 
-**Answer: B.**
-**Explanation:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** GGI comparisons are group- and sector-specific.
+- **B (correct):** Grouping changed between editions, so every group claim needs its year.
+- **C (trap):** DGGI is separate and 2019 had three groups.
+- **D (trap):** WGI has six different country-level dimensions.
 
-### Q27. Which option preserves the source-bounded meaning of The Second ARC frame and the absence of one governance statute?
+**Q11 — C.**
 
-A. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
+- **A (trap):** A released national 2025 edition was not established in the review.
+- **B (trap):** Sector differences forbid a universal sectoral claim.
+- **C (correct):** Date both the edition and the comparison when invoking a rank.
+- **D (trap):** Neither annual publication nor invariant rank is supported.
 
-**Answer: C.**
-**Explanation:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. The remaining options belong to different chronology, actor or analytical categories.
+**Q12 — D.**
 
-### Q28. Which statement avoids a close-option trap about The Second ARC frame and the absence of one governance statute?
+- **A (trap):** World Bank measures a WGI dimension; DARPG does not own WGI.
+- **B (trap):** UNDP supplies principles; DARPG owns GGI.
+- **C (trap):** Neither CAG nor the World Bank owns those named instruments.
+- **D (correct):** The publisher of a named index is not the publisher of a similarly named dimension.
 
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-D. The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
+**Q13 — A.**
 
-**Answer: D.**
-**Explanation:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** DARPG's NeSDA addresses depth of e-service delivery.
+- **B (trap):** GGI compares state/UT performance across sectors, not each transaction.
+- **C (trap):** WGI compares countries, not individual panchayats.
+- **D (trap):** MoPR's devolution assessment concerns panchayats, not all urban portals.
 
-### Q29. Which statement correctly identifies DARPG as reformer and measurer in one department?
+**Q14 — B.**
 
-A. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-B. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-C. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-D. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
+- **A (trap):** CAG audit and individual service appeals are different routes.
+- **B (correct):** Section 4 mandates proactive disclosure; records and implementation still matter.
+- **C (trap):** Administrative grievance tracking is not consent to legislation.
+- **D (trap):** An international indicator cannot impose a domestic penalty.
 
-**Answer: A.**
-**Explanation:** The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department. The remaining options belong to different chronology, actor or analytical categories.
+**Q15 — C.**
 
-### Q30. Which chronology card should be filed under DARPG as reformer and measurer in one department?
+- **A (trap):** Social audit and constitutional financial audit have distinct mandates.
+- **B (trap):** A community verification process is not WGI/UNDP survey scoring.
+- **C (correct):** Statutory participation can expose discrepancies, but closure requires action.
+- **D (trap):** The consultation policy is executive, not a source of social-audit penalties.
 
-A. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-B. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-C. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
+**Q16 — D.**
 
-**Answer: B.**
-**Explanation:** The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** CPGRAMS is an administrative grievance channel, not a court.
+- **B (trap):** Right-to-service protection applies to covered/notified services.
+- **C (trap):** A quality framework does not itself enact an entitlement.
+- **D (correct):** Legal status and scope differ even where both improve responsiveness.
 
-### Q31. Which option preserves the source-bounded meaning of DARPG as reformer and measurer in one department?
+**Q17 — A.**
 
-A. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
-D. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
+- **A (correct):** Targeting gains and exclusion risks must both be measured.
+- **B (trap):** Removing entries does not establish rightful delivery.
+- **C (trap):** A country-level perception measure cannot verify household entitlement.
+- **D (trap):** A failed authentication can affect an eligible person.
 
-**Answer: C.**
-**Explanation:** The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department. The remaining options belong to different chronology, actor or analytical categories.
+**Q18 — B.**
 
-### Q32. Which statement avoids a close-option trap about DARPG as reformer and measurer in one department?
+- **A (trap):** An inspection count does not show remediation.
+- **B (correct):** Outputs need independent outcome checks and credible reporting.
+- **C (trap):** A national perception dimension does not audit transactions.
+- **D (trap):** Outlays alone say nothing about service results.
 
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-D. The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department.
+**Q19 — C.**
 
-**Answer: D.**
-**Explanation:** The Department of Administrative Reforms and Public Grievances functions under the Ministry of Personnel, Public Grievances and Pensions and is simultaneously the nodal department for administrative reform, Sevottam, the Centralised Public Grievance Redress and Monitoring System and Second ARC follow-up, and the nodal department for good-governance measurement, so agenda-setting and self-assessment sit inside one department. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** The scenario identifies an implementation defect, not missing legislature.
+- **B (trap):** Counting disposals cannot establish substantive resolution.
+- **C (correct):** The chain runs legal form, duty-holder, procedure, capacity, citizen access, remedy, feedback.
+- **D (trap):** A conceptual principle does not adjudicate recurrent grievances.
 
-### Q33. Which statement correctly identifies Good Governance Day?
+**Q20 — D.**
 
-A. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-D. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
+- **A (trap):** Self-report risk is a separate comparability question, not proof of fraud.
+- **B (trap):** Attribution needs controls for other causes.
+- **C (trap):** An undated ranking does not fix construct validity.
+- **D (correct):** Indicator validity concerns whether the measure captures the claimed result.
 
-**Answer: A.**
-**Explanation:** Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument. The remaining options belong to different chronology, actor or analytical categories.
+**Q21 — A.**
 
-### Q34. Which chronology card should be filed under Good Governance Day?
+- **A (correct):** Self-report and unlike state conditions can distort comparisons.
+- **B (trap):** A commemorative event is not service-outcome evidence.
+- **C (trap):** Recommendation counts neither ensure comparability nor results.
+- **D (trap):** A world indicator cannot settle Indian state comparability.
 
-A. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-B. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-C. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
+**Q22 — B.**
 
-**Answer: B.**
-**Explanation:** Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** Ranking without a feedback loop fails the consequence test.
+- **B (correct):** Measurement helps governance only if it drives verifiable correction.
+- **C (trap):** Awards cannot replace diagnosis of disadvantaged districts.
+- **D (trap):** An index movement cannot isolate programme impact.
 
-### Q35. Which option preserves the source-bounded meaning of Good Governance Day?
+**Q23 — C.**
 
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
+- **A (trap):** Efficiency is not the entire good-governance standard.
+- **B (trap):** Participation does not imply consent or veto.
+- **C (correct):** Normative values can conflict; assess concrete trade-offs and applicable form.
+- **D (trap):** The 2014 policy is executive and comments are not binding.
 
-**Answer: C.**
-**Explanation:** Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument. The remaining options belong to different chronology, actor or analytical categories.
+**Q24 — D.**
 
-### Q36. Which statement avoids a close-option trap about Good Governance Day?
+- **A (trap):** International measurement cannot amend the Constitution.
+- **B (trap):** Principles do not create Indian statutory remedies.
+- **C (trap):** The governance architecture uses distinct sectoral laws.
+- **D (correct):** Domestic constitutional/statutory anchors undercut an exclusive-import thesis.
 
-A. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-B. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-C. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-D. Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument.
+**Q25 — A.**
 
-**Answer: D.**
-**Explanation:** Good Governance Day has been observed on 25 December every year since 2014, marking the birth anniversary of former Prime Minister Atal Bihari Vajpayee, and it promotes accountability, transparency and citizen-centric administration without being a measurement instrument. The remaining options belong to different chronology, actor or analytical categories.
+- **A (correct):** Economic Survey 2018-19 discusses nudges; effects need outcome testing.
+- **B (trap):** Coercion and missing supply are not solved by default design.
+- **C (trap):** Behavioural design does not replace enforceable remedies.
+- **D (trap):** An output (messages) is not a behavioural outcome.
 
-### Q37. Which statement correctly identifies Good Governance Index launch and latest located edition?
+**Q26 — B.**
 
-A. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-B. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-C. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-D. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
+- **A (trap):** Messaging does not itself create penalties.
+- **B (correct):** The Economic Survey's social-norm logic can backfire when an undesirable norm appears prevalent.
+- **C (trap):** Nudges cannot substitute for missing infrastructure.
+- **D (trap):** Campaign communication is not a country index.
 
-**Answer: A.**
-**Explanation:** The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021. The remaining options belong to different chronology, actor or analytical categories.
+**Q27 — C.**
 
-### Q38. Which chronology card should be filed under Good Governance Index launch and latest located edition?
+- **A (trap):** Voluntary behaviour and eligibility assessment are different mechanisms.
+- **B (trap):** Messaging does not produce protective services by itself.
+- **C (correct):** The Economic Survey 2018-19 uses these examples without claiming structural substitutes.
+- **D (trap):** A behavioural framing is not legislation.
 
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-C. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-D. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
+**Q28 — D.**
 
-**Answer: B.**
-**Explanation:** The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021. The remaining options belong to different chronology, actor or analytical categories.
+- **A (trap):** UNDP principles cannot rank or enforce.
+- **B (trap):** WJP publishes an index, not Indian service appeals.
+- **C (trap):** GGI diagnoses sectors, not an individual's claim.
+- **D (correct):** A deadline without named duty-holder, appeal and legal consequences may not change failures.
 
-### Q39. Which option preserves the source-bounded meaning of Good Governance Index launch and latest located edition?
-
-A. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-B. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-C. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: C.**
-**Explanation:** The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Good Governance Index launch and latest located edition?
-
-A. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-B. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-C. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-D. The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-
-**Answer: D.**
-**Explanation:** The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Edition-specific Good Governance Index grouping?
-
-A. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-B. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-C. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: A.**
-**Explanation:** The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Edition-specific Good Governance Index grouping?
-
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-C. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: B.**
-**Explanation:** The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Edition-specific Good Governance Index grouping?
-
-A. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-B. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-C. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: C.**
-**Explanation:** The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Edition-specific Good Governance Index grouping?
-
-A. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-B. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-C. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-D. The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-
-**Answer: D.**
-**Explanation:** The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies The withdrawn Good Governance Index 2025 claim?
-
-A. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-B. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-C. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-D. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-
-**Answer: A.**
-**Explanation:** A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under The withdrawn Good Governance Index 2025 claim?
-
-A. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-B. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-C. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: B.**
-**Explanation:** A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of The withdrawn Good Governance Index 2025 claim?
-
-A. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-B. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-C. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-D. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-
-**Answer: C.**
-**Explanation:** A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about The withdrawn Good Governance Index 2025 claim?
-
-A. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-D. A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-
-**Answer: D.**
-**Explanation:** A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies The District Good Governance Index is not a national edition?
-
-A. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-B. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-C. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-D. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-
-**Answer: A.**
-**Explanation:** The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under The District Good Governance Index is not a national edition?
-
-A. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-B. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-C. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-D. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-
-**Answer: B.**
-**Explanation:** The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of The District Good Governance Index is not a national edition?
-
-A. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-B. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-C. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-D. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-
-**Answer: C.**
-**Explanation:** The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about The District Good Governance Index is not a national edition?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-C. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-D. The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error.
-
-**Answer: D.**
-**Explanation:** The District Good Governance Index is a separate sub-national exercise developed for particular states and union territories, and it neither supersedes nor substitutes for a released national Good Governance Index edition, so converting a district index, a workshop, a proposed cycle or a Good Governance Day event into a released national edition is a factual error. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies The Rule of Law Index attribution?
-
-A. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-B. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-C. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-D. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-
-**Answer: A.**
-**Explanation:** The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under The Rule of Law Index attribution?
-
-A. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-B. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-C. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-D. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-
-**Answer: B.**
-**Explanation:** The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of The Rule of Law Index attribution?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-D. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-
-**Answer: C.**
-**Explanation:** The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about The Rule of Law Index attribution?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-C. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-D. The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
-
-**Answer: D.**
-**Explanation:** The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Four measurement instruments at four different scales?
-
-A. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-B. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-C. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-D. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-
-**Answer: A.**
-**Explanation:** The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Four measurement instruments at four different scales?
-
-A. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-B. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-C. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-D. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-
-**Answer: B.**
-**Explanation:** The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Four measurement instruments at four different scales?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: C.**
-**Explanation:** The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Four measurement instruments at four different scales?
-
-A. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-B. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-C. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-D. The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-
-**Answer: D.**
-**Explanation:** The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Norms to instruments: legality, transparency and answerability?
-
-A. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-D. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-
-**Answer: A.**
-**Explanation:** Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Norms to instruments: legality, transparency and answerability?
-
-A. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-B. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-C. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: B.**
-**Explanation:** Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Norms to instruments: legality, transparency and answerability?
-
-A. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-B. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-C. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-D. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-
-**Answer: C.**
-**Explanation:** Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Norms to instruments: legality, transparency and answerability?
-
-A. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-B. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-C. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-D. Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-
-**Answer: D.**
-**Explanation:** Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Norms to instruments: participation, responsiveness, equity and effectiveness?
-
-A. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: A.**
-**Explanation:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Norms to instruments: participation, responsiveness, equity and effectiveness?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-C. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: B.**
-**Explanation:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Norms to instruments: participation, responsiveness, equity and effectiveness?
-
-A. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-B. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-C. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: C.**
-**Explanation:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Norms to instruments: participation, responsiveness, equity and effectiveness?
-
-A. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-B. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-C. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-D. Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-
-**Answer: D.**
-**Explanation:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies The seven-stage chain from norm to outcome?
-
-A. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-B. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-C. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-D. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-
-**Answer: A.**
-**Explanation:** A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under The seven-stage chain from norm to outcome?
-
-A. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-B. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-C. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-D. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-
-**Answer: B.**
-**Explanation:** A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of The seven-stage chain from norm to outcome?
-
-A. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-B. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-C. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-
-**Answer: C.**
-**Explanation:** A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about The seven-stage chain from norm to outcome?
-
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-C. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-D. A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
-
-**Answer: D.**
-**Explanation:** A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Five tests for any governance index?
-
-A. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-B. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-C. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-
-**Answer: A.**
-**Explanation:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Five tests for any governance index?
-
-A. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-B. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-C. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-
-**Answer: B.**
-**Explanation:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Five tests for any governance index?
-
-A. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-B. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-C. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-
-**Answer: C.**
-**Explanation:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Five tests for any governance index?
-
-A. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-B. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-C. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-D. Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-
-**Answer: D.**
-**Explanation:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Counter-arguments and the behavioural-insights anchor?
-
-A. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-B. Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-C. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-D. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-
-**Answer: A.**
-**Explanation:** Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Counter-arguments and the behavioural-insights anchor?
-
-A. Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-B. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-C. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-D. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-
-**Answer: B.**
-**Explanation:** Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Counter-arguments and the behavioural-insights anchor?
-
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-C. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-D. Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-
-**Answer: C.**
-**Explanation:** Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Counter-arguments and the behavioural-insights anchor?
-
-A. The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-B. The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-C. The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-D. Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-
-**Answer: D.**
-**Explanation:** Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement. The remaining options belong to different chronology, actor or analytical categories.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -860,222 +457,70 @@ No direct General Studies Mains demand is routed to this owner in the audited 20
 
 **Question:** Distinguish government from governance and explain why the distinction changes the evaluation of a public institution in India. Answer in about 150 words.
 
-**Model thesis:** Government names the institutions, governance names the process and good governance names the standard, so an evaluation that begins by identifying the duty-holder and the binding form reaches a defensible verdict while one that begins with adjectives about the state does not.
+**Model answer:** Government is India's constitutionally authorised legislature, executive and judiciary; governance is the wider process in which those bodies, citizens, firms and civil society make and implement collective choices. Good governance is the *test* of that process: legality, inclusion, responsiveness and answerability, not simply the presence of offices.
 
-**Claim → named evidence → analysis → qualification:**
+Consider a district office outsourcing a public service. A departmental performance review might count contracts and completed transactions. A governance review asks whether beneficiaries could access the contractor, whether the public officer retained inspection responsibility, why applicants were refused, and how refusals could be appealed. The RTI Act's section 4 disclosure duties make official information accessible; a relevant state right-to-service law may give a notified service a timeline and remedy. Neither applies merely because a private agency is involved: identify the public duty-holder and the applicable instrument.
 
-- Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it.
-- Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance.
-- Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-
-**Qualified conclusion:** Government names the institutions, governance names the process and good governance names the standard, so an evaluation that begins by identifying the duty-holder and the binding form reaches a defensible verdict while one that begins with adjectives about the state does not.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish government from governance and explain why the distinction changes the evaluation…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Government names the institutions, governance names the process and good governance names the standard, so an evaluation that begins by identifying the duty-holder and the binding form reaches a defensible verdict while one that begins with adjectives about the state does not.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Government is the formal, constitutionally mandated set of institutions - legislature, executive and judiciary - that holds legitimate public authority, and it is only one actor inside governance rather than the whole of it. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** Governance is the wider process by which state and non-state actors, including the market, civil society and citizens, together make, implement and enforce collective decisions, so a governance answer must name which actor holds the duty before it evaluates performance. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** Government names the institutions, governance names the process and good governance names the standard, so an evaluation that begins by identifying the duty-holder and the binding form reaches a defensible verdict while one that begins with adjectives about the state does not.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Distinguish government from governance and explain why the distinction changes the evaluation…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+Outsourcing may raise capacity and speed, but a higher transaction count does not prove equitable receipt or lawful decisions. Evaluate delivery and independent complaints alongside departmental outputs.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain why the Worldwide Governance Indicators and the UNDP governance principles cannot be used interchangeably. Answer in about 150 words.
 
-**Model thesis:** One is an aggregated perception-based comparative index with six named dimensions and the other is a normative process checklist that cannot rank anything, so an answer that merges them has already failed the discrimination the examiner is testing.
+**Model answer:** The World Bank's Worldwide Governance Indicators (WGI) compare countries on six separately reported dimensions: voice and accountability, political stability and absence of violence, government effectiveness, regulatory quality, rule of law, and control of corruption. Their aggregate inputs include surveys and expert perceptions. Scores with uncertainty indicate perceived institutional quality; they cannot by themselves establish that a particular Indian reform caused a service improvement.
 
-**Claim → named evidence → analysis → qualification:**
+UNDP's participation, transparency, responsiveness, consensus, equity, efficiency, accountability, rule of law and strategic vision are *principles*, not a scored country ranking. They ask how decisions ought to be made. Thus an Indian state improving service access can be assessed against participation and equity through Gram Sabha social audits under MGNREGA section 17; that observation is not automatically a rise in India's WGI score. Conversely a better WGI dimension does not establish that a particular Gram Sabha obtained a remedy.
 
-- The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total.
-- The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-- The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error.
-
-**Qualified conclusion:** One is an aggregated perception-based comparative index with six named dimensions and the other is a normative process checklist that cannot rank anything, so an answer that merges them has already failed the discrimination the examiner is testing.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why the Worldwide Governance Indicators and the UNDP governance principles cannot be…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** One is an aggregated perception-based comparative index with six named dimensions and the other is a normative process checklist that cannot rank anything, so an answer that merges them has already failed the discrimination the examiner is testing.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The World Bank Worldwide Governance Indicators use six named dimensions - Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality, Rule of Law and Control of Corruption - and countries are scored on each dimension separately rather than on one undifferentiated total. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** The UNDP governance principles - participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision - form a normative checklist that supplies process vocabulary and cannot rank anything, so treating them as a scoring system is a category error. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** One is an aggregated perception-based comparative index with six named dimensions and the other is a normative process checklist that cannot rank anything, so an answer that merges them has already failed the discrimination the examiner is testing.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Explain why the Worldwide Governance Indicators and the UNDP governance principles cannot be…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+Use the checklist to formulate criteria, transaction-level evidence to test local delivery and WGI only for qualified cross-country comparison.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Critically examine the Good Governance Index as a tool for measuring governance performance across Indian states. Answer in about 250 words.
 
-**Model thesis:** As a sector-wise diagnostic that forces states to confront specific weakness the index is defensible, but as a summary judgment on governance quality it over-claims, and its value depends on whether an edition-dated poor score triggers correction rather than contestation.
+**Model answer:** DARPG's Good Governance Index (GGI), launched on 25 December 2019, provides a composite diagnostic across ten sectors for states and Union Territories. It offers a useful alternative to praising governance abstractly: an administration can investigate weak sectors instead of citing an overall label. Unlike the World Bank's country-level WGI, it is designed for Indian subnational comparison.
 
-**Claim → named evidence → analysis → qualification:**
+Its categories recognise that jurisdictions are not interchangeable. The 2019 edition had three groups; GGI 2020-21 used four: Other States Groups A and B, North-East and Hill States, and Union Territories. Yet the score is not a causal estimate. Indicator validity matters: counting service portals or expenditure may not capture a citizen's completed service or redress. Self-reported data may be unreliable. Improved outputs can coexist with unequal access. States differ in baselines and responsibilities; comparisons need sector and edition. A low score matters if departments verify records and fund correction.
 
-- The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021.
-- The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition.
-- A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted.
-- Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
+The source review located GGI 2020-21, released on 25 December 2021, as the latest completed national edition; it withdrew an unsupported 'GGI 2025' assertion. District indices, events and proposed cycles cannot substitute for a released national report. The Gujarat top-rank reference is edition-bound, not a timeless verdict.
 
-**Qualified conclusion:** As a sector-wise diagnostic that forces states to confront specific weakness the index is defensible, but as a summary judgment on governance quality it over-claims, and its value depends on whether an edition-dated poor score triggers correction rather than contestation.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the Good Governance Index as a tool for measuring governance performance…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** As a sector-wise diagnostic that forces states to confront specific weakness the index is defensible, but as a summary judgment on governance quality it over-claims, and its value depends on whether an edition-dated poor score triggers correction rather than contestation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Good Governance Index was launched by the Department of Administrative Reforms and Public Grievances on 25 December 2019 as a composite diagnostic tool assessing state and union-territory performance across ten sectors, and the latest completed national edition located on that department as of 13 August 2026 is the Good Governance Index 2020-21, released on 25 December 2021. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** The Good Governance Index comparison grouping is edition-specific: the 2019 edition used three groups while the 2020-21 edition used four - Other States Group A, Other States Group B, North-East and Hill States, and Union Territories - so any grouping claim must carry its edition year, and the Gujarat top-rank fact belongs specifically to the 2020-21 edition. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** A previous audit introduced an unsupported claim that a third Good Governance Index edition described as 2025 had been released, no departmental report or Press Information Bureau release establishing that edition was located, and the correction record of 13 August 2026 withdraws the claim explicitly, so no post-2021 national edition, rank, score, top performer or indicator count may be asserted. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-4. **Claim and named evidence:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** As a sector-wise diagnostic that forces states to confront specific weakness the index is defensible, but as a summary judgment on governance quality it over-claims, and its value depends on whether an edition-dated poor score triggers correction rather than contestation.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Critically examine the Good Governance Index as a tool for measuring governance performance…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+GGI is an edition-dated sectoral *question generator*, not proof of a reform’s welfare effect; field-check and correct deficiencies, especially when weak scores conceal distinct experiences among districts and excluded beneficiaries.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Examine the claim that India's good-governance deficits lie in enforceable conversion mechanisms rather than in the absence of norms. Answer in about 250 words.
 
-**Model thesis:** India has not lacked good-governance norms but enforceable conversion mechanisms, which is why the reforms that supplied an identifiable duty-holder and a remedy have moved outcomes further than any additional charter of principles.
+**Model answer:** Article 14's non-arbitrariness, the Second ARC's citizen-centric reform recommendations and the UNDP principles furnish ample normative vocabulary. None tells a denied applicant the deadline or remedy. India's instruments translate distinct norms into different obligations rather than one omnibus good-governance law.
 
-**Claim → named evidence → analysis → qualification:**
+For transparency, section 4 of the RTI Act requires proactive disclosure; unusable records or lack of access can still frustrate it. For participation, MGNREGA section 17 anchors Gram Sabha social audit, but discrepancies need responsible follow-up. For responsiveness, state right-to-service laws can specify time limits and consequences *for notified services*; CPGRAMS administratively tracks and allows escalation of grievances but does not itself adjudicate statutory entitlement. The 2014 Pre-Legislative Consultation Policy offers a comment process but is executive, with no binding vote on proposals. CAG's constitutional audit, vigilance and Lokpal processes answer different accountability questions, not every individual complaint.
 
-- The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-- Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority.
-- Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
-- A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis.
+Conversion requires legal form, identified duty-holder, workable procedure, records and staffing, citizen access, remedy and feedback. A portal may pass the reporting stage yet fail where an officer closes complaints without fixing recurring errors. An Aadhaar-linked transfer may improve targeting yet exclude an eligible beneficiary after failed authentication.
 
-**Qualified conclusion:** India has not lacked good-governance norms but enforceable conversion mechanisms, which is why the reforms that supplied an identifiable duty-holder and a remedy have moved outcomes further than any additional charter of principles.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the claim that India's good-governance deficits lie in enforceable conversion…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India has not lacked good-governance norms but enforceable conversion mechanisms, which is why the reforms that supplied an identifiable duty-holder and a remedy have moved outcomes further than any additional charter of principles.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** Rule of law is anchored in Article 14 non-arbitrariness and reasoned quasi-judicial orders whose discipline is uneven below the regulator tier, transparency in Section 4 proactive disclosure under the Right to Information Act, 2005 whose compliance is not independently audited across authorities, and accountability in the Comptroller and Auditor General under Articles 148 to 151, the Lokpal and Lokayuktas Act, 2013 and the Central Vigilance Commission Act, 2003, which supply three different remedies and none of which is a general grievance authority. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-4. **Claim and named evidence:** A norm becomes an outcome only by passing seven stages - legal form, identified duty-holding institution, procedure with timeline, officer, appeal and penalty, administrative capacity, citizen-side access and cost, correctable remedy, and counted feedback - and naming the stage at which a named instrument stops converts a generic complaint about poor governance into a diagnosis. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** India has not lacked good-governance norms but enforceable conversion mechanisms, which is why the reforms that supplied an identifiable duty-holder and a remedy have moved outcomes further than any additional charter of principles.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Examine the claim that India's good-governance deficits lie in enforceable conversion…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+Yet staffing, funding and speed-versus-participation conflicts persist. Measure realised services and recurring complaints, not charters or disposal counts. Conversion needs capacity, inclusion and verified outcomes, with independent checks of whether the same complainants repeatedly return without relief.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Assess whether the good-governance agenda is a universal standard or an externally imposed development discourse, using Indian institutional evidence. Answer in about 300 words.
 
-**Model thesis:** The core of the standard - legality, answerability and non-arbitrariness - is universal while its instruments are contextual, and the Indian route is traceable to constitutional guarantees and domestic statutes rather than to donor conditionality, so the conditionality objection is answerable without abandoning the norms.
+**Model answer:** Distinguish the *core standard* from its development agenda. Non-arbitrariness, lawful authority and answerability are not uniquely donor inventions: Article 14 and India's own institutions supply domestic foundations. Yet a particular version of 'good governance' that privileges administrative speed or market-style metrics may reflect external policy preferences and need democratic scrutiny.
 
-**Claim → named evidence → analysis → qualification:**
+India's RTI Act, 2005, section 4 requires proactive official disclosure, making public records contestable. Under MGNREGA section 17, Gram Sabha social audit allows local verification of works and records. State right-to-service laws can place timelines and penalties on *notified* services, while CAG audits expenditure under Articles 148–151. These mechanisms locate a public duty-holder and a route to scrutiny, unlike the unimplemented promise of an abstract charter. The Second ARC's fifteen reports offer India-specific institutional diagnoses, but a commission recommendation is not an enacted statutory remedy.
 
-- Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement.
-- Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law.
-- The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute.
-- Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates.
+The conditionality objection deserves respect: donor-promoted indicators can prioritise elite perceptions over lived access. The World Bank's WGI combines perceptions; an upward country score does not prove that a marginalised Indian claimant received a benefit. UNDP's principles are not even a numerical index. Similarly, 'efficiency' may conflict with consultation, and better DBT targeting can coexist with authentication exclusion. Specify the norm, process and affected citizens.
 
-**Qualified conclusion:** The core of the standard - legality, answerability and non-arbitrariness - is universal while its instruments are contextual, and the Indian route is traceable to constitutional guarantees and domestic statutes rather than to donor conditionality, so the conditionality objection is answerable without abandoning the norms.
+The capacity objection also matters: disclosure needs usable records, social audits need follow-up, and a service deadline needs staffing and appeal. A nudge, as discussed in the Economic Survey 2018-19, may reduce behavioural friction while preserving choice but cannot supply absent services or cure unequal power. Test reversibility and outcomes.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess whether the good-governance agenda is a universal standard or an externally imposed…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The core of the standard - legality, answerability and non-arbitrariness - is universal while its instruments are contextual, and the Indian route is traceable to constitutional guarantees and domestic statutes rather than to donor conditionality, so the conditionality objection is answerable without abandoning the norms.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Four standing objections must be answered rather than ignored - the vagueness objection that bundled values such as speed against consultation conflict, the measurement objection that perception indices can encode elite priors, the conditionality objection that the agenda entered through donor conditionality, answered by tracing Indian norms to the Constitution and to domestic statutes, and the capacity objection that a further charter changes nothing at the capacity stage - while the Economic Survey 2018-19 Chapter 2 supplies the official behavioural-insights anchor in which a nudge changes the choice architecture without removing formal choice and cannot cure missing supply, unequal power, weak enforcement or a wrongly designed entitlement. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** Good governance is governance judged against normative standards - rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation - and the Second Administrative Reforms Commission frames it as public institutions conducting public affairs and managing public resources largely free of abuse and corruption with due regard for the rule of law. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** The Second Administrative Reforms Commission, constituted in 2005 and reporting through fifteen reports, supplies the India-specific institutional-reform frame, and India deliberately enforces the good-governance standard through a patchwork of sector laws such as the Right to Information Act, state right-to-service Acts and Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act rather than through a single overarching good-governance statute. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-4. **Claim and named evidence:** Participation is anchored in Section 17 Gram Sabha social audit under the Mahatma Gandhi National Rural Employment Guarantee Act and in the Pre-Legislative Consultation Policy of 2014, which is executive rather than statutory and whose comments are not binding; responsiveness in state right-to-service Acts beginning with Madhya Pradesh in 2010 and the twenty-one-day benchmark of the Centralised Public Grievance Redress and Monitoring System stated in departmental guidelines of August 2024, which cover only notified services and remain administrative rather than adjudicatory; equity in direct benefit transfer targeting, where authentication failure converts an inclusion tool into an exclusion risk; and effectiveness in the Output-Outcome Monitoring Framework and the Development Monitoring and Evaluation Office, where output reporting still dominates. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** The core of the standard - legality, answerability and non-arbitrariness - is universal while its instruments are contextual, and the Indian route is traceable to constitutional guarantees and domestic statutes rather than to donor conditionality, so the conditionality objection is answerable without abandoning the norms.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Assess whether the good-governance agenda is a universal standard or an externally imposed…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+Therefore the minimum standard is portable; its authority in India flows from constitutional and domestic democratic choices, not automatically from an international rank. Instruments need local accountability, resources and tested redress.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Assess how far governance measurement in India can be trusted to guide reform, given the number and variety of instruments in use. Answer in about 300 words.
 
-**Model thesis:** Measurement guides reform only where the instrument, the scale and the object are stated together and where the index carries a corrective loop, because four instruments measuring four different objects at four different scales cannot be aggregated into a single verdict on governance quality.
+**Model answer:** Measurement can identify a bottleneck, but its trustworthiness depends on the object, scale, source and consequence of measurement. A claim that 'governance improved' is untested until those four are named. The World Bank's WGI compares countries across six perception-heavy dimensions, including voice, government effectiveness and rule of law. It cannot isolate the causal effect of a state department's reform; uncertainty and changes in surveyed perceptions matter. UNDP's principles and the Second ARC's institutional recommendations are evaluative and prescriptive frameworks, not numerical outcomes.
 
-**Claim → named evidence → analysis → qualification:**
+For Indian states and UTs, DARPG's GGI supplies ten-sector diagnostics within edition-specific comparison groups; group definitions changed from three in 2019 to four in 2020-21. The located completed national edition was GGI 2020-21, released in 2021; a district index cannot establish a later national release. NeSDA gauges depth of e-service delivery, not every citizen's ultimate welfare. The Ministry of Panchayati Raj's Devolution Index concerns panchayats' functional and fiscal devolution, not urban bodies or health outcomes. The World Justice Project publishes a separate Rule of Law Index.
 
-- The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks.
-- The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect.
-- Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it.
-- The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family.
+A good measurement chain would start with a service standard and define the denominator: eligible citizens, applications accepted, completed services, appeals and sustained resolutions, disaggregated by locality and disadvantage. Audit counts against citizen experience. Ask whether outputs track outcomes, jurisdictions are comparable and someone investigates poor scores.
 
-**Qualified conclusion:** Measurement guides reform only where the instrument, the scale and the object are stated together and where the index carries a corrective loop, because four instruments measuring four different objects at four different scales cannot be aggregated into a single verdict on governance quality.
+Gaming is a risk: counting 'closed' CPGRAMS grievances may reward premature disposal while repeat complaints remain. Equally, a higher composite score can mask exclusion after authentication failure. Field checks and corrective plans are safeguards, not causal proof; other programmes may explain change.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess how far governance measurement in India can be trusted to guide reform, given the…”, every clause, exact authority and institutional boundary, an implementation chain, stakeholder/accountability map, Centre-state-local allocation, named Indian evidence, trade-offs, safeguards and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Measurement guides reform only where the instrument, the scale and the object are stated together and where the index carries a corrective loop, because four instruments measuring four different objects at four different scales cannot be aggregated into a single verdict on governance quality.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Worldwide Governance Indicators measure cross-country comparison, the Good Governance Index measures state and union-territory sectoral governance, the National e-Governance Service Delivery Assessment measures end-service delivery depth at portal level and the Panchayati Raj Ministry Devolution Index measures panchayat devolution only, so treating the four as interchangeable governance rankings is the discrimination failure that costs marks. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-2. **Claim and named evidence:** The Worldwide Governance Indicators are built substantially from aggregated perception surveys and expert assessments rather than solely from administrative statistics, so a score reports perceived quality with a margin of error and an administrative improvement can move ahead of, or lag behind, the perception it is supposed to reflect. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-3. **Claim and named evidence:** Any governance index must be tested on indicator validity, data comparability where the ranked entity self-reports, the balance between output and realised outcome, federal and contextual adjustment for states of different size, base level and subject responsibility, and consequence, because an index whose poor score triggers no corrective process measures governance without improving it. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-4. **Claim and named evidence:** The Rule of Law Index is published by the World Justice Project and not by the World Bank, and this attribution is the exact objective distinction routed by the audited 2018 Preliminary examination ledger to this owner, so the index must never be folded into the World Bank Worldwide Governance Indicators family. **Analysis:** Connect authority → institution and stakeholder incentives → frontline implementation → process/output/outcome effect → accountability or grievance response. **Qualification:** State the jurisdiction, legal/executive status, Centre-state-local boundary, inclusion/privacy safeguard, causal limit, indicator weakness or residual trade-off.
-
-**Counter-position / limit:** A constitutional value, commission recommendation, scheme catalogue, budget allocation, portal, disposal count or ranking cannot alone establish lawful authority, inclusive implementation, substantive remedy or attributable outcome; test capacity, federal competence, distribution, privacy, audit, appeal and current operative status.
-
-**Qualified conclusion:** Measurement guides reform only where the instrument, the scale and the object are stated together and where the index carries a corrective loop, because four instruments measuring four different objects at four different scales cannot be aggregated into a single verdict on governance quality.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing authority → institution → delivery → outcome → remedy; define and state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for inclusion, privacy, federal, indicator, grievance and current-status limits.
-
-**Why this earns marks:** The answer obeys the directive, explains implementation rather than listing schemes, uses named India-centric evidence and preserves legal, federal, institutional, causal and outcome distinctions.
-
-**How to improve this answer:** For “Assess how far governance measurement in India can be trusted to guide reform, given the…”, replace the weakest catalogue-style point with one named duty-holder, legal or executive basis, delivery bottleneck, process and outcome indicator, grievance route and evidence-status qualification.
+Use complementary, dated diagnostics and independently checked outcomes. Scores guide inquiry, not proof of reform success.

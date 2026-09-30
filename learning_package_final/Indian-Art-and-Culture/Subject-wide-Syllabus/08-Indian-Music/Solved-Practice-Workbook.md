@@ -4,7 +4,7 @@ topic_key: indian-art-and-culture-08
 ---
 # Indian Music - Solved Practice Workbook
 
-> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, 12 objective/application PYQs with answer-key discipline, 5 direct solved Mains PYQs and 6 full original Mains answers.
+> This standalone workbook carries 44 original MCQs with strict ABCD rotation, 12 objective/application PYQs with answer-key discipline, 5 direct solved Mains PYQs and 6 full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -17,20 +17,12 @@ B. Shruti and swara are interchangeable terms for raga.
 C. Swara means only the seven ragas of Indian music.  
 D. Shruti is the same as laya because both concern pitch.
 
-**Answer: A.**
-
-**Explanation:** A is correct because the core source moves from 22 shrutis to swaras and then to saptak. B erases the distinction, C confuses note with raga, and D confuses pitch with tempo.
-
 ### Q2. Which pair is correctly matched?
 
 A. Venkatamakhin - earliest Sanskrit treatise on music  
 B. Matanga's Brihaddeshi - early text associated with defining raga  
 C. Dattilam - first national academy for performing arts  
 D. Bhatkhande - composer of Gita Govinda
-
-**Answer: B.**
-
-**Explanation:** B is correct. A is wrong because the earliest Sanskrit music authority in the source is Bharata's `Natyashastra`, while Venkatamakhin is associated with the melakarta system. C confuses a text with Sangeet Natak Akademi. D confuses Bhatkhande with Jayadeva.
 
 ### Q3. Which statement best distinguishes thaat from raga?
 
@@ -39,20 +31,12 @@ B. Raga is the parent scale and thaat is the sung derivative.
 C. Thaat is an unsung parent scale without vadi-samvadi or emotional personality, whereas raga is a performed melodic entity with note hierarchy and characteristic movement.  
 D. Thaat belongs only to Carnatic music and raga only to Hindustani music.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it preserves the exact conceptual split. A and B reverse or flatten the categories. D is false because raga belongs to both traditions, though thaat is specifically a Hindustani pedagogic classification.
-
 ### Q4. Which statement about tala and laya is correct?
 
 A. Laya means the same as shruti.  
 B. Tala is a raga with seasonal association.  
 C. Tala is the emotional mood of the composition.  
 D. Tala is the rhythmic cycle, while laya is the tempo that keeps time-span uniform.
-
-**Answer: D.**
-
-**Explanation:** D is correct. A confuses rhythm with pitch, B confuses rhythm with melody, and C confuses rhythm with rasa.
 
 ### Q5. Which statement best captures the Hindustani-Carnatic comparison?
 
@@ -61,20 +45,12 @@ B. Hindustani alone has improvisation, while Carnatic is wholly fixed.
 C. Carnatic is simply the southern branch of Persian music.  
 D. The two traditions differ only by language and nothing else.
 
-**Answer: A.**
-
-**Explanation:** A is correct because it keeps common roots and real differences together. B ignores Carnatic manodharma, C is historically crude, and D reduces the comparison to a single variable.
-
 ### Q6. Which sequence best reflects the safe Carnatic concert order taught in the topic?
 
 A. Tillana -> Varnam -> Alapana -> Neraval  
 B. Varnam -> Alapana -> Neraval -> Kalpana swara -> lighter close such as Tillana  
 C. Ghazal -> Dhrupad -> RTP -> Tarana  
 D. Pakhawaj alap -> khayal -> qawwali
-
-**Answer: B.**
-
-**Explanation:** B is correct because it follows the source-owned Carnatic sequence. A reverses the opening and closing logic. C mixes Hindustani and Carnatic genres carelessly. D invents a false chain.
 
 ### Q7. Which statement about dhrupad is safest?
 
@@ -83,20 +59,12 @@ B. It is best identified by harmonium-driven romantic lyrics.
 C. It is an older, grave Hindustani form marked by alap-led exposition and pakhawaj accompaniment.  
 D. It is identical to thumri in structure and mood.
 
-**Answer: C.**
-
-**Explanation:** C is correct. A places dhrupad in the wrong chronology, B gives it the wrong musical profile, and D collapses two very different forms.
-
 ### Q8. Which description best fits khayal?
 
 A. It excludes improvisation and allows only fixed syllables.  
 B. It is a Carnatic percussion form.  
 C. It must always be devotional and Sanskritic.  
 D. It uses short bandishes, allows wide improvisational play and commonly works through bada and chhota khayal.
-
-**Answer: D.**
-
-**Explanation:** D is correct. A is the opposite of khayal's imagination-based profile. B places it in the wrong tradition and genre. C over-restricts its lyrical world.
 
 ### Q9. Which statement about thumri is safest?
 
@@ -105,20 +73,12 @@ B. It is the oldest form of Vedic chant.
 C. It is a Carnatic melakarta category.  
 D. It must be sung only by paired male vocalists with pakhawaj.
 
-**Answer: A.**
-
-**Explanation:** A is correct. B shifts it to the wrong era, C mistakes a genre for a classification system, and D wrongly imports a dhrupad-style profile.
-
 ### Q10. Which description best fits tappa?
 
 A. A slow meditative form built on long alap alone  
 B. A fast, knotty style with quick turns of phrase, rooted in folk tradition and later refined in court culture  
 C. A temple-only Carnatic hymn with no rhythmic edge  
 D. A system of classifying ragas into 72 parent groups
-
-**Answer: B.**
-
-**Explanation:** B is correct. A ignores its speed and phrase-work, C misplaces it, and D describes melakarta rather than tappa.
 
 ### Q11. Which statement is safest about tarana and related invention claims?
 
@@ -127,20 +87,12 @@ B. Tarana is a purely literary genre with no rhythmic emphasis.
 C. Tarana is rhythm-driven and fast-patterned, while single-inventor claims around figures such as Amir Khusrau should be treated cautiously unless firmly documented.  
 D. Tarana is another name for laya.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it combines form identification with attribution caution. A overclaims, B removes tarana's defining feature, and D confuses genre with tempo.
-
 ### Q12. Which combination is correctly matched?
 
 A. Swami Haridas - first national academy of performing arts  
 B. Bismillah Khan - sitar  
 C. Venkatamakhin - Qawwali at Sufi shrines  
 D. Sadarang - shaping khayal under Muhammad Shah
-
-**Answer: D.**
-
-**Explanation:** D is correct. A confuses a musician with an institution. B misidentifies Bismillah Khan's instrument; he is associated with the shehnai. C confuses a Carnatic theorist with a devotional form.
 
 ### Q13. Which statement about the Carnatic kriti is safest?
 
@@ -149,20 +101,12 @@ B. It is merely another name for thaat.
 C. It always rejects sahitya in favour of pure percussion.  
 D. It belongs only to Mughal court music.
 
-**Answer: A.**
-
-**Explanation:** A is correct. B confuses composition with classification, C reverses Carnatic emphasis on sahitya, and D shifts the form into the wrong historical ecology.
-
 ### Q14. Which pair is correctly matched?
 
 A. Annamacharya - devotional songs to Krishna as the only verified source-owned claim  
 B. Annamacharya - sankirtanas in praise of Lord Venkateswara  
 C. Tyagaraja - founder of Sangeet Natak Akademi  
 D. Kshetrayya - shehnai maestro
-
-**Answer: B.**
-
-**Explanation:** B is correct because the local verified source explicitly ties Annamacharya to Venkateswara. A repeats the wrong deity. C invents an institutional role. D confuses a composer with an instrument performer.
 
 ### Q15. Which statement should be preferred in an answer on Tyagaraja and Annamacharya?
 
@@ -171,20 +115,12 @@ B. Both are safest to identify mainly through Mughal patronage.
 C. The safer distinction is that Annamacharya's Venkateswara-centred corpus is source-owned, while simplistic contemporaneity claims with Tyagaraja must be avoided.  
 D. Tyagaraja's importance lies only in inventing the shehnai.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it mirrors the routed 2018 caution. A asserts a false chronology, B shifts Carnatic figures into the wrong patronage world, and D is entirely unrelated.
-
 ### Q16. Which example best shows ruler-composer-patron overlap?
 
 A. Amir Khusrau's legendary instrument attributions  
 B. Bettiah Gharana's bandish emphasis  
 C. Borgeet in Assam  
 D. Swathi Thirunal Rama Varma composing in both Hindustani and Carnatic styles while also patronising the Thanjavur Quartet
-
-**Answer: D.**
-
-**Explanation:** D is correct because it combines authorship and patronage in one figure. A is an attribution-caution case, B is a gharana feature, and C is a regional devotional-folk tradition.
 
 ### Q17. Which statement about gharana is safest?
 
@@ -193,20 +129,12 @@ B. A gharana is simply any modern music school building.
 C. Gharana is the Carnatic word for melakarta.  
 D. The term is used only for percussion instruments.
 
-**Answer: A.**
-
-**Explanation:** A is correct because it treats gharana as pedagogy plus patronage ecology. B reduces it to architecture, C confuses it with classification, and D confuses lineage with instrument category.
-
 ### Q18. Which pair is correctly matched?
 
 A. Patiala - strict rejection of thumri and ghazal  
 B. Kirana - precise swara focus associated in the source with Abdul Karim Khan and later exponents such as Bhimsen Joshi  
 C. Dagar - main khayal gharana of Mumbai  
 D. Bhendibazaar - temple mural tradition
-
-**Answer: B.**
-
-**Explanation:** B is correct. A is the opposite of Patiala's profile, C misidentifies Dagar's dhrupad association, and D confuses a gharana with a painting category.
 
 ### Q19. Which statement best corrects the Aurangzeb cliché?
 
@@ -215,20 +143,12 @@ B. Aurangzeb personally created the thaat system.
 C. Court singing was curtailed, but instrumental music, noble and household patronage, veena practice and music literature continued; later khayal also grew under Muhammad Shah.  
 D. The period saw no change in patronage patterns at all.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it preserves the Satish Chandra correction. A is exaggerated, B is false, and D ignores clear redirection of patronage.
-
 ### Q20. Which statement about instrument classification is safest?
 
 A. Ghatam belongs to the membranophone class because it is struck.  
 B. Sufiana kalam is a member of the Tata Vadya family.  
 C. Shehnai is a genre of Hindustani poetry.  
 D. Instrument questions should be solved by asking what vibrates: string, air column, membrane or the body of the instrument itself.
-
-**Answer: D.**
-
-**Explanation:** D is correct because it gives the classification method. A ignores the membrane test, B confuses genre with accompanying instrument, and C misclassifies an aerophone as poetry.
 
 ### Q21. Which of the following belongs to the Tata Vadya family?
 
@@ -237,20 +157,12 @@ B. Shehnai
 C. Tabla  
 D. Ghatam
 
-**Answer: A.**
-
-**Explanation:** A is correct because the santoor is a string instrument, even though it is struck. B is Sushira, C is Avanaddha, and D is Ghana.
-
 ### Q22. Which statement correctly identifies a Sushira association?
 
 A. Mridangam with Bismillah Khan  
 B. Shehnai with Ustad Bismillah Khan  
 C. Ghatam with Hariprasad Chaurasia  
 D. Santoor with Kathak
-
-**Answer: B.**
-
-**Explanation:** B is correct because the shehnai is a wind instrument and Bismillah Khan is its iconic modern exponent in this topic. A assigns the wrong instrument, C confuses Ghana and Sushira, and D does not describe a core source-owned association.
 
 ### Q23. What is the safest test for separating Avanaddha from Ghana instruments?
 
@@ -259,20 +171,12 @@ B. Whether the instrument accompanies devotion
 C. Whether a stretched membrane produces the sound; without the membrane, a struck instrument such as ghatam belongs to Ghana, not Avanaddha.  
 D. Whether the instrument is ancient
 
-**Answer: C.**
-
-**Explanation:** C is correct because the membrane test is the decisive classification rule. A, B and D are secondary or irrelevant factors.
-
 ### Q24. Which combination is correctly matched?
 
 A. Mridangam - Hindustani court khayal marker  
 B. Dotara - Kashmir court instrument only  
 C. Gogona - Rajasthan Manganiyar bow-string instrument  
 D. Santoor - Jammu and Kashmir; associated in the source with Sufiana kalam
-
-**Answer: D.**
-
-**Explanation:** D is correct. A reverses Carnatic/Hindustani placement, B ignores the Baul-Bengal association, and C confuses an Assamese wind-based folk instrument with the Rajasthani kamaicha world.
 
 ### Q25. Which statement about Baul is safest?
 
@@ -281,20 +185,12 @@ B. Baul is simply another name for Bharatanatyam.
 C. Baul denotes only a Hindustani gharana.  
 D. Baul is a purely instrumental Carnatic form.
 
-**Answer: A.**
-
-**Explanation:** A is correct because the source treats Baul as both social-religious current and song tradition. B, C and D place it in unrelated categories.
-
 ### Q26. Which statement about qawwali is safest?
 
 A. It is a type of temple-only Sanskrit hymn.  
 B. It is a devotional performance tradition associated with Sufi shrines and usually sung with group support and instruments such as tabla, dholak and harmonium.  
 C. It is identical to Carnatic kriti.  
 D. It should be described with unquestioned single-inventor certainty.
-
-**Answer: B.**
-
-**Explanation:** B is correct. A places qawwali in the wrong religious and linguistic world. C confuses unrelated traditions. D ignores the explicit invention-caution rule.
 
 ### Q27. Which statement is safest about folk music in this topic?
 
@@ -303,20 +199,12 @@ B. Panihari is best explained as a Mughal album genre.
 C. Folk forms such as Pandavani, Panihari, Maand and Borgeet preserve region, labour, devotion and social memory rather than merely imitating classical music.  
 D. Folk music has no analytical use in Mains answers.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it captures function and social context. A turns a narrative performance into an instrument, B relocates a Rajasthani folk form into painting, and D ignores a major answer route.
-
 ### Q28. Which conclusion about the relationship between classical and folk traditions is safest?
 
 A. Folk survives only when it becomes khayal.  
 B. Classical and folk never interact.  
 C. Devotional forms automatically erase regional identity.  
 D. Interaction, borrowing and fusion occur, but classical and folk should still be distinguished by setting, transmission and function rather than ranked by cultural worth.
-
-**Answer: D.**
-
-**Explanation:** D is correct because it preserves both contact and distinction. A and B are absolutist, while C ignores how regional devotional forms actually work.
 
 ### Q29. Which statement about Gandharva Mahavidyalaya best fits the verified local evidence?
 
@@ -325,20 +213,12 @@ B. It was founded by Bhatkhande in Delhi in 1926.
 C. It was the first name of Sangeet Natak Akademi.  
 D. It specialised only in Western orchestral training.
 
-**Answer: A.**
-
-**Explanation:** A is correct and directly supports the 2025 routed PYQ. B confuses Paluskar with Bhatkhande and 1901 with 1926. C merges two different institutions. D invents a false scope.
-
 ### Q30. Which institutional pair is correctly matched?
 
 A. Sangeet Natak Akademi - founded in 1901 by Paluskar  
 B. Sangeet Natak Akademi - 1952; SPIC MACAY - 1977  
 C. SPIC MACAY - first codifier of melakarta  
 D. Prayag Sangeet Samiti - founded by Akbar
-
-**Answer: B.**
-
-**Explanation:** B is correct. A gives SNA the history of Gandharva Mahavidyalaya. C turns a youth movement into a musicological text. D moves a twentieth-century institution into the Mughal period.
 
 ### Q31. Which statement best reflects the topic's treatment of modern public recognition?
 
@@ -347,10 +227,6 @@ B. Once state honours appear, older gharana and temple histories become useless.
 C. The sequence Subbulakshmi (1998), Ravi Shankar (1999), Bismillah Khan (2001) and Bhimsen Joshi (2008) helps show how the modern state became a recogniser of musical prestige without cancelling older transmission structures.  
 D. These honours prove that every famous musician's gharana can be filled from memory.
 
-**Answer: C.**
-
-**Explanation:** C is correct because it turns dates into analysis rather than trivia. A denies the analytical value of recognition, B wrongly says modernity erases earlier structures, and D encourages unsafe fabrication.
-
 ### Q32. Which statement should be avoided in a UPSC answer?
 
 A. When official keys are unavailable, concept analysis may be retained but the answer letter should be withheld.  
@@ -358,9 +234,217 @@ B. The repository's modern-musician bank is useful, but it does not justify addi
 C. Contested invention claims should be flagged as contested unless contemporaneous proof is available.  
 D. Because the 2026 paper mentioned Pandit Mallikarjun Mansur, it is safe to supply a definite gharana from memory even though the canonical bank marks that route as a bounded gap.
 
-**Answer: D.**
 
-**Explanation:** D is selected because it is the unsafe statement. The topic explicitly treats the Mallikarjun Mansur route as a bounded gap and forbids filling it from memory. A, B and C are the safe controls: they restate the package's answer-key discipline, evidence discipline and attribution caution.
+
+### Q33. A six-note descent is proposed as one of the 72 melakarta parents. Which correction is decisive?
+
+A. A melakarta requires seven notes in ascent AND descent; a janya may omit notes.
+
+B. A melakarta is an unsung Hindustani thaat.
+
+C. All janya ragas must have seven notes in both directions.
+
+D. A melakarta requires exactly six notes on descent.
+
+### Q34. Which four-part authority mapping is chronologically and conceptually defensible?
+
+A. Bharata—thaat; Matanga—melakarta; Sharngadeva—1901 school; Venkatamakhin—rasa.
+
+B. Bharata—drama/music; Matanga—raga; Sharngadeva—pre-bifurcation authority; Venkatamakhin—melakarta.
+
+C. Bharata—academy; Matanga—tabla; Sharngadeva—thaat; Venkatamakhin—qawwali.
+
+D. Bharata—melakarta; Matanga—modern gharana; Sharngadeva—Paluskar; Venkatamakhin—Brihaddeshi.
+
+### Q35. Precise swara and a khayal–Dhrupad-Dhamar blend indicate which gharanas respectively?
+
+A. Agra and Kirana.
+
+B. Patiala and Dagar.
+
+C. Kirana and Agra.
+
+D. Gwalior and Bhendibazaar.
+
+### Q36. Which two devotional composer–addressee identifications are both locally supported?
+
+A. Annamacharya—Krishna; Bhadrachala Ramadasu—Tyagesha.
+
+B. Purandara Dasa—Venkateswara; Tyagaraja—Krishna only.
+
+C. Kshetrayya—Muhammad Shah; Venkatamakhin—Akbar.
+
+D. Annamacharya—Venkateswara; Bhadrachala Ramadasu—Rama.
+
+### Q37. Which pairing matches two folk-string instruments to their performers?
+
+A. Rajasthan Manganiyars—kamaicha; Bengal Bauls—dotara.
+
+B. Rajasthan Manganiyars—dotara; Bengal Bauls—kamaicha.
+
+C. Rajasthan Manganiyars—gogona; Bengal Bauls—ghumot.
+
+D. Rajasthan Manganiyars—pungi; Bengal Bauls—ghatam.
+
+### Q38. A pot, Punjab double flute and Goan Ganesh-festival drum belong respectively to:
+
+A. Avanaddha, Tata, Ghana.
+
+B. Ghana, Sushira, Avanaddha.
+
+C. Ghana, Avanaddha, Tata.
+
+D. Tata, Sushira, Ghana.
+
+### Q39. What is the source-grounded Sufiana kalam instrument classification?
+
+A. Shehnai—Avanaddha skin—Assam.
+
+B. Ghatam—Sushira wind—Kerala.
+
+C. Santoor—struck Tata string—Jammu and Kashmir.
+
+D. Pungi—bowed Tata string—Rajasthan.
+
+### Q40. Which folk-song triple maps theme AND region accurately?
+
+A. Panihari—Goa wedding; Khongjom Parba—Rajasthan water; Powada—Manipur battle.
+
+B. Panihari—Assam Islam; Khongjom Parba—Goan Indo-Western music; Powada—Kashmir wedding.
+
+C. Panihari—Bihar childbirth; Khongjom Parba—Punjab harvest; Powada—Goa lullaby.
+
+D. Panihari—Rajasthan water; Khongjom Parba—Manipur battle; Powada—Maharashtra heroic deeds.
+
+### Q41. Which inference survives the Aurangzeb-to-Muhammad Shah patronage test?
+
+A. Imperial restriction of singing coexisted with instrumental and elite patronage; later Sadarang/Adarang strengthened khayal.
+
+B. All Indian music ceased permanently when court singing was restricted.
+
+C. Restriction of singing proves Aurangzeb invented tabla.
+
+D. Sadarang/Adarang served Aurangzeb and abolished khayal.
+
+### Q42. How should the 2018 Tyagaraja–Annamacharya PYQ be used without a locally verified official key?
+
+A. Call both composers contemporaries because both were devotional.
+
+B. Analyse Venkateswara and chronology from sources, but withhold the official answer letter.
+
+C. Supply uncited birth/death years for Tyagaraja to force a letter.
+
+D. Assume Tyagaraja’s kritis mostly praise Krishna.
+
+### Q43. Which distinction separates transmission from institutional recognition?
+
+A. An SNA award automatically confers UNESCO ICH inscription.
+
+B. A gharana means only a state name; ICH is an annual academy prize.
+
+C. A gharana transmits specialised skill; national SNA recognition does not confer UNESCO ICH inscription.
+
+D. An SNA award is a Carnatic parent scale of 72 notes.
+
+### Q44. A Carnatic concert piece has fixed raga and tala with pallavi, anu pallavi and charana. Identify the form.
+
+A. Thaat: an unsung Hindustani parent scale arranged in verses.
+
+B. Melakarta: an international heritage inscription.
+
+C. Dhrupad: every devotional composition uses these Carnatic labels.
+
+D. Kriti: a composed concert form with this stated structure.
+
+### ORIGINAL MCQ ANSWER KEY AND FOUR-OPTION REASONING
+
+**Q1 — A.** A is correct because the core source moves from 22 shrutis to swaras and then to saptak. B erases the distinction, C confuses note with raga, and D confuses pitch with tempo. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q2 — B.** B is correct. A is wrong because the earliest Sanskrit music authority in the source is Bharata's `Natyashastra`, while Venkatamakhin is associated with the melakarta system. C confuses a text with Sangeet Natak Akademi. D confuses Bhatkhande with Jayadeva. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q3 — C.** C is correct because it preserves the exact conceptual split. A and B reverse or flatten the categories. D is false because raga belongs to both traditions, though thaat is specifically a Hindustani pedagogic classification. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q4 — D.** D is correct. A confuses rhythm with pitch, B confuses rhythm with melody, and C confuses rhythm with rasa. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q5 — A.** A is correct because it keeps common roots and real differences together. B ignores Carnatic manodharma, C is historically crude, and D reduces the comparison to a single variable. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q6 — B.** B is correct because it follows the source-owned Carnatic sequence. A reverses the opening and closing logic. C mixes Hindustani and Carnatic genres carelessly. D invents a false chain. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q7 — C.** C is correct. A places dhrupad in the wrong chronology, B gives it the wrong musical profile, and D collapses two very different forms. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q8 — D.** D is correct. A is the opposite of khayal's imagination-based profile. B places it in the wrong tradition and genre. C over-restricts its lyrical world. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q9 — A.** A is correct. B shifts it to the wrong era, C mistakes a genre for a classification system, and D wrongly imports a dhrupad-style profile. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q10 — B.** B is correct. A ignores its speed and phrase-work, C misplaces it, and D describes melakarta rather than tappa. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q11 — C.** C is correct because it combines form identification with attribution caution. A overclaims, B removes tarana's defining feature, and D confuses genre with tempo. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q12 — D.** D is correct. A confuses a musician with an institution. B misidentifies Bismillah Khan's instrument; he is associated with the shehnai. C confuses a Carnatic theorist with a devotional form. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q13 — A.** A is correct. B confuses composition with classification, C reverses Carnatic emphasis on sahitya, and D shifts the form into the wrong historical ecology. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q14 — B.** B is correct because the local verified source explicitly ties Annamacharya to Venkateswara. A repeats the wrong deity. C invents an institutional role. D confuses a composer with an instrument performer. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q15 — C.** C is correct because it mirrors the routed 2018 caution. A asserts a false chronology, B shifts Carnatic figures into the wrong patronage world, and D is entirely unrelated. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q16 — D.** D is correct because it combines authorship and patronage in one figure. A is an attribution-caution case, B is a gharana feature, and C is a regional devotional-folk tradition. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q17 — A.** A is correct because it treats gharana as pedagogy plus patronage ecology. B reduces it to architecture, C confuses it with classification, and D confuses lineage with instrument category. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q18 — B.** B is correct. A is the opposite of Patiala's profile, C misidentifies Dagar's dhrupad association, and D confuses a gharana with a painting category. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q19 — C.** C is correct because it preserves the Satish Chandra correction. A is exaggerated, B is false, and D ignores clear redirection of patronage. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q20 — D.** D is correct because it gives the classification method. A ignores the membrane test, B confuses genre with accompanying instrument, and C misclassifies an aerophone as poetry. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q21 — A.** A is correct because the santoor is a string instrument, even though it is struck. B is Sushira, C is Avanaddha, and D is Ghana. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q22 — B.** B is correct because the shehnai is a wind instrument and Bismillah Khan is its iconic modern exponent in this topic. A assigns the wrong instrument, C confuses Ghana and Sushira, and D does not describe a core source-owned association. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q23 — C.** C is correct because the membrane test is the decisive classification rule. A, B and D are secondary or irrelevant factors. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q24 — D.** D is correct. A reverses Carnatic/Hindustani placement, B ignores the Baul-Bengal association, and C confuses an Assamese wind-based folk instrument with the Rajasthani kamaicha world. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q25 — A.** A is correct because the source treats Baul as both social-religious current and song tradition. B, C and D place it in unrelated categories. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q26 — B.** B is correct. A places qawwali in the wrong religious and linguistic world. C confuses unrelated traditions. D ignores the explicit invention-caution rule. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q27 — C.** C is correct because it captures function and social context. A turns a narrative performance into an instrument, B relocates a Rajasthani folk form into painting, and D ignores a major answer route. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q28 — D.** D is correct because it preserves both contact and distinction. A and B are absolutist, while C ignores how regional devotional forms actually work. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q29 — A.** A is correct and directly supports the 2025 routed PYQ. B confuses Paluskar with Bhatkhande and 1901 with 1926. C merges two different institutions. D invents a false scope. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q30 — B.** B is correct. A gives SNA the history of Gandharva Mahavidyalaya. C turns a youth movement into a musicological text. D moves a twentieth-century institution into the Mughal period. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q31 — C.** C is correct because it turns dates into analysis rather than trivia. A denies the analytical value of recognition, B wrongly says modernity erases earlier structures, and D encourages unsafe fabrication. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q32 — D.** D is selected because it is the unsafe statement. The topic explicitly treats the Mallikarjun Mansur route as a bounded gap and forbids filling it from memory. A, B and C are the safe controls: they restate the package's answer-key discipline, evidence discipline and attribution caution. **Trap:** Compare each distractor with the source-owned distinction.
+
+**Q33 — A.** **A:** Correct — Core §13.4, Nitin PDF p.416: 72 sampurna parents versus derived janya. **B:** Incorrect — A melakarta is an unsung Hindustani thaat. This contradicts the named association in Core §13.4, Nitin PDF p.416: 72 sampurna parents versus derived janya. **C:** Incorrect — All janya ragas must have seven notes in both directions. This contradicts the named association in Core §13.4, Nitin PDF p.416: 72 sampurna parents versus derived janya. **D:** Incorrect — A melakarta requires exactly six notes on descent. This contradicts the named association in Core §13.4, Nitin PDF p.416: 72 sampurna parents versus derived janya. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q34 — B.** **A:** Incorrect — Bharata—thaat; Matanga—melakarta; Sharngadeva—1901 school; Venkatamakhin—rasa. This contradicts the named association in Core §13.5 identifies each text and its distinct contribution. **B:** Correct — Core §13.5 identifies each text and its distinct contribution. **C:** Incorrect — Bharata—academy; Matanga—tabla; Sharngadeva—thaat; Venkatamakhin—qawwali. This contradicts the named association in Core §13.5 identifies each text and its distinct contribution. **D:** Incorrect — Bharata—melakarta; Matanga—modern gharana; Sharngadeva—Paluskar; Venkatamakhin—Brihaddeshi. This contradicts the named association in Core §13.5 identifies each text and its distinct contribution. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q35 — C.** **A:** Incorrect — Agra and Kirana. This contradicts the named association in Core §13.7: Kirana is swara-centred; Agra blends khayal and Dhrupad-Dhamar. **B:** Incorrect — Patiala and Dagar. This contradicts the named association in Core §13.7: Kirana is swara-centred; Agra blends khayal and Dhrupad-Dhamar. **C:** Correct — Core §13.7: Kirana is swara-centred; Agra blends khayal and Dhrupad-Dhamar. **D:** Incorrect — Gwalior and Bhendibazaar. This contradicts the named association in Core §13.7: Kirana is swara-centred; Agra blends khayal and Dhrupad-Dhamar. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q36 — D.** **A:** Incorrect — Annamacharya—Krishna; Bhadrachala Ramadasu—Tyagesha. This contradicts the named association in Core §13.7A, Nitin PDF pp.433-434 records the two deity pairings. **B:** Incorrect — Purandara Dasa—Venkateswara; Tyagaraja—Krishna only. This contradicts the named association in Core §13.7A, Nitin PDF pp.433-434 records the two deity pairings. **C:** Incorrect — Kshetrayya—Muhammad Shah; Venkatamakhin—Akbar. This contradicts the named association in Core §13.7A, Nitin PDF pp.433-434 records the two deity pairings. **D:** Correct — Core §13.7A, Nitin PDF pp.433-434 records the two deity pairings. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q37 — A.** **A:** Correct — Core §13.7B cites kamaicha–Manganiyars and dotara–Bauls. **B:** Incorrect — Rajasthan Manganiyars—dotara; Bengal Bauls—kamaicha. This contradicts the named association in Core §13.7B cites kamaicha–Manganiyars and dotara–Bauls. **C:** Incorrect — Rajasthan Manganiyars—gogona; Bengal Bauls—ghumot. This contradicts the named association in Core §13.7B cites kamaicha–Manganiyars and dotara–Bauls. **D:** Incorrect — Rajasthan Manganiyars—pungi; Bengal Bauls—ghatam. This contradicts the named association in Core §13.7B cites kamaicha–Manganiyars and dotara–Bauls. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q38 — B.** **A:** Incorrect — Avanaddha, Tata, Ghana. This contradicts the named association in Core §13.7B: ghatam is body-vibrating, algoza wind, ghumot membrane. **B:** Correct — Core §13.7B: ghatam is body-vibrating, algoza wind, ghumot membrane. **C:** Incorrect — Ghana, Avanaddha, Tata. This contradicts the named association in Core §13.7B: ghatam is body-vibrating, algoza wind, ghumot membrane. **D:** Incorrect — Tata, Sushira, Ghana. This contradicts the named association in Core §13.7B: ghatam is body-vibrating, algoza wind, ghumot membrane. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q39 — C.** **A:** Incorrect — Shehnai—Avanaddha skin—Assam. This contradicts the named association in Core §13.7B, Nitin PDF p.450 links santoor to Sufiana kalam. **B:** Incorrect — Ghatam—Sushira wind—Kerala. This contradicts the named association in Core §13.7B, Nitin PDF p.450 links santoor to Sufiana kalam. **C:** Correct — Core §13.7B, Nitin PDF p.450 links santoor to Sufiana kalam. **D:** Incorrect — Pungi—bowed Tata string—Rajasthan. This contradicts the named association in Core §13.7B, Nitin PDF p.450 links santoor to Sufiana kalam. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q40 — D.** **A:** Incorrect — Panihari—Goa wedding; Khongjom Parba—Rajasthan water; Powada—Manipur battle. This contradicts the named association in Core §13.8, Nitin PDF pp.438-441 identifies all three. **B:** Incorrect — Panihari—Assam Islam; Khongjom Parba—Goan Indo-Western music; Powada—Kashmir wedding. This contradicts the named association in Core §13.8, Nitin PDF pp.438-441 identifies all three. **C:** Incorrect — Panihari—Bihar childbirth; Khongjom Parba—Punjab harvest; Powada—Goa lullaby. This contradicts the named association in Core §13.8, Nitin PDF pp.438-441 identifies all three. **D:** Correct — Core §13.8, Nitin PDF pp.438-441 identifies all three. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q41 — A.** **A:** Correct — Core §13.7 and Advanced §4, Satish Chandra PDF pp.394-395. **B:** Incorrect — All Indian music ceased permanently when court singing was restricted. This contradicts the named association in Core §13.7 and Advanced §4, Satish Chandra PDF pp.394-395. **C:** Incorrect — Restriction of singing proves Aurangzeb invented tabla. This contradicts the named association in Core §13.7 and Advanced §4, Satish Chandra PDF pp.394-395. **D:** Incorrect — Sadarang/Adarang served Aurangzeb and abolished khayal. This contradicts the named association in Core §13.7 and Advanced §4, Satish Chandra PDF pp.394-395. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q42 — B.** **A:** Incorrect — Call both composers contemporaries because both were devotional. This contradicts the named association in Core §13.7A and PYQ ledger limit letter disclosure, not sourced conceptual reasoning. **B:** Correct — Core §13.7A and PYQ ledger limit letter disclosure, not sourced conceptual reasoning. **C:** Incorrect — Supply uncited birth/death years for Tyagaraja to force a letter. This contradicts the named association in Core §13.7A and PYQ ledger limit letter disclosure, not sourced conceptual reasoning. **D:** Incorrect — Assume Tyagaraja’s kritis mostly praise Krishna. This contradicts the named association in Core §13.7A and PYQ ledger limit letter disclosure, not sourced conceptual reasoning. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q43 — C.** **A:** Incorrect — An SNA award automatically confers UNESCO ICH inscription. This contradicts the named association in Advanced §§2-3 explain gharana ecology; Core §13.8 separates SNA and UNESCO. **B:** Incorrect — A gharana means only a state name; ICH is an annual academy prize. This contradicts the named association in Advanced §§2-3 explain gharana ecology; Core §13.8 separates SNA and UNESCO. **C:** Correct — Advanced §§2-3 explain gharana ecology; Core §13.8 separates SNA and UNESCO. **D:** Incorrect — An SNA award is a Carnatic parent scale of 72 notes. This contradicts the named association in Advanced §§2-3 explain gharana ecology; Core §13.8 separates SNA and UNESCO. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
+
+**Q44 — D.** **A:** Incorrect — Thaat: an unsung Hindustani parent scale arranged in verses. This contradicts the named association in Core §13.7A, Nitin PDF pp.428-429 details kriti and its sections. **B:** Incorrect — Melakarta: an international heritage inscription. This contradicts the named association in Core §13.7A, Nitin PDF pp.428-429 details kriti and its sections. **C:** Incorrect — Dhrupad: every devotional composition uses these Carnatic labels. This contradicts the named association in Core §13.7A, Nitin PDF pp.428-429 details kriti and its sections. **D:** Correct — Core §13.7A, Nitin PDF pp.428-429 details kriti and its sections. **Trap:** Check both attribution and the distinguishing mechanism; a neighbouring genre or region is not interchangeable.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -368,75 +452,77 @@ D. Because the 2026 paper mentioned Pandit Mallikarjun Mansur, it is safe to sup
 
 #### PYQ 1. With reference to cultural history of India, consider the following statements: 1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna. 2. Tyagaraja created several new ragas. 3. Annamacharya and Tyagaraja are contemporaries. 4. Annamacharya kirtanas are devotional songs in praise of Lord Venkateshwara. Which of the statements given above are correct? (CSE 2018)
 
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The locally held official paper wording is available, but the final official key is not locally verified in the controlling ledger. The safest eliminators are that Annamacharya is securely tied to Venkateswara, while the contemporaneity claim with Tyagaraja is unsafe. The question tests composer-devotion mapping and chronology, not mere memory of names.
-
 #### PYQ 2. With reference to Mian Tansen, which one of the following statements is not correct? (a) Tansen was the title given to him by Emperor Akbar. (b) Tansen composed Dhrupads on Hindu gods and goddesses. (c) Tansen composed songs on his patrons. (d) Tansen invented many Ragas. (CSE 2019)
-
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The topic routes this question to Mughal court music and requires caution with invention claims. Local sources support Akbar's patronage and the deity-plus-patron profile of Tansen's compositions, while wider invention claims need more care. Because the final official key is unavailable locally, the package withholds the letter.
 
 #### PYQ 3. Which Hindustani classical Raag is sung as an invitation to rain? (a) Raag Yaman (b) Raag Bahar (c) Raag Malhar (d) Raag Bhairavi (CAPF 2025)
 
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The question tests season-raga association. Nitin's raga-time-season table and adjoining notes place Malhar in the monsoon/rainy cluster, whereas Yaman and Bhairavi belong to other emotional-time associations and Bahar is spring-linked. Since only the chapter-end reproduction is locally recoverable here and no local official CAPF key was separately verified, the answer letter is withheld.
-
 #### PYQ 4. Man Kautuhal, a work on music, was prepared under the aegis of (a) Raja Man Singh of Gwalior (b) Tansen (c) Meera Bai (d) Amir Khusrau (CDS I 2024)
-
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** This is a patronage-text question. The topic's safe evidence links Raja Man Singh Tomar of Gwalior with compilation of `Mankautuhal` and with the advancement of Gwalior as a music centre. The answer letter is still withheld because the final official CDS key was not locally verified.
 
 #### PYQ 5. Who among the following has written three works on the science of music called Sangitaraja, Sangita Mimansa and Sudha Prabandha? (a) Tansen (b) Ibrahim Adil Shah (c) Amir Khusro (d) Maharana Kumbha of Mewar (Geo-Scientist 2024)
 
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The question tests musicological authorship rather than performance. The locally extracted source ties Maharana Kumbha to `Sangeet Raja`, `Sangeet Mimansa` and `Shuda Prabandha`, while the other options are linked to different traditions and texts. Without a locally verified final official key, the letter remains withheld.
-
 #### PYQ 6. Who among the following is credited with the introduction and popularisation of Dhrupad form of music? (a) Raja Man Singh Tomar of Gwalior (b) Tansen (c) Naik Gopal (d) Shaikh Bahauddin of Barnawa (CAPF 2022)
-
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The question tests dhrupad's patronage and performance history. The topic gives usable evidence on Raja Man Singh Tomar, Tansen and Swami Haridas, but the final official CAPF key was not separately verified in the local official bank used for this repair. Therefore no answer letter is shown.
 
 #### PYQ 7. Which of the following statements about the musical culture in the 18th and 19th centuries in north India is/are not correct? 1. The period was marked by the growing eminence of Sadarang Neamat Khan who introduced the khayal form. 2. A large number of musicians moved out of regional centres to Delhi, where they hoped they would receive greater employment and patronage. 3. The period was marked by the formation of specific region-based gharanas. Select the correct answer using the code given below: (a) 1 only (b) 1, 2 and 3 (c) 2 only (d) 2 and 3 only (CDS I 2015)
 
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** The question combines patronage movement with gharana formation. The repaired topic directly teaches Sadarang's role under Muhammad Shah and the formation of named gharanas, but the official answer letter is not locally verified. Use the item as an application drill on patronage redirection.
-
 #### PYQ 8. The community of people called Manganiyars is well-known for their (a) Martial arts in north-east India (b) Musical tradition in north-west India (c) Classical vocal music in south India (d) Pietra dura tradition in central India (CSE 2014)
-
-**Answer withheld pending official UPSC key**
-
-**Concept analysis:** This is a region-tradition identification question. The topic links the Manganiyars with Rajasthan and the kamaicha-backed musical tradition of north-west India. The controlling rule still forbids recording an answer letter without a locally verified official key.
 
 #### PYQ 9. With reference to Dhrupad, one of the major traditions of India that has been kept alive for centuries, which of the following statements are correct? (i) Dhrupad originated and was developed in the Rajput kingdoms during the Mughal period. (ii) Dhrupad is primarily a devotional and spiritual music. (iii) Dhrupad Alap uses Sanskrit syllables from mantras. Select the correct answer using the codes given below: (a) (i) and (ii) (b) (ii) and (iii) (c) (i), (ii) and (iii) (d) None of these (CSE 2012)
 
-**Answer withheld pending official UPSC key**
+#### PYQ 10. The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in (a) Delhi (b) Gwalior (c) Ujjain (d) Lahore (CSE 2025)
+
+#### PYQ 11. Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music? (a) Nat Bhairavi (b) Kamavardhini (c) Hanumatodi (d) Dheera Shankarabharanam (CSE 2026)
+
+#### PYQ 12. Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the: (a) Agra Gharana (b) Gwalior Gharana (c) Patiala Gharana (d) Jaipur-Atrauli Gharana (CSE 2026)
+
+### OBJECTIVE PYQ KEY STATUS AND CONCEPT SOLUTIONS
+
+**PYQ 1.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The locally held official paper wording is available, but the final official key is not locally verified in the controlling ledger. The safest eliminators are that Annamacharya is securely tied to Venkateswara, while the contemporaneity claim with Tyagaraja is unsafe. The question tests composer-devotion mapping and chronology, not mere memory of names.
+
+**PYQ 2.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The topic routes this question to Mughal court music and requires caution with invention claims. Local sources support Akbar's patronage and the deity-plus-patron profile of Tansen's compositions, while wider invention claims need more care. Because the final official key is unavailable locally, the package withholds the letter.
+
+**PYQ 3.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The question tests season-raga association. Nitin's raga-time-season table and adjoining notes place Malhar in the monsoon/rainy cluster, whereas Yaman and Bhairavi belong to other emotional-time associations and Bahar is spring-linked. Since only the chapter-end reproduction is locally recoverable here and no local official CAPF key was separately verified, the answer letter is withheld.
+
+**PYQ 4.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** This is a patronage-text question. The topic's safe evidence links Raja Man Singh Tomar of Gwalior with compilation of `Mankautuhal` and with the advancement of Gwalior as a music centre. The answer letter is still withheld because the final official CDS key was not locally verified.
+
+**PYQ 5.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The question tests musicological authorship rather than performance. The locally extracted source ties Maharana Kumbha to `Sangeet Raja`, `Sangeet Mimansa` and `Shuda Prabandha`, while the other options are linked to different traditions and texts. Without a locally verified final official key, the letter remains withheld.
+
+**PYQ 6.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The question tests dhrupad's patronage and performance history. The topic gives usable evidence on Raja Man Singh Tomar, Tansen and Swami Haridas, but the final official CAPF key was not separately verified in the local official bank used for this repair. Therefore no answer letter is shown.
+
+**PYQ 7.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** The question combines patronage movement with gharana formation. The repaired topic directly teaches Sadarang's role under Muhammad Shah and the formation of named gharanas, but the official answer letter is not locally verified. Use the item as an application drill on patronage redirection.
+
+**PYQ 8.** **Answer withheld pending official UPSC key**
+
+**Concept analysis:** This is a region-tradition identification question. The topic links the Manganiyars with Rajasthan and the kamaicha-backed musical tradition of north-west India. The controlling rule still forbids recording an answer letter without a locally verified official key.
+
+**PYQ 9.** **Answer withheld pending official UPSC key**
 
 **Concept analysis:** This question tests precise form-knowledge. The repaired topic supports dhrupad's devotional-spiritual profile and its Sanskritic syllabic world, but it does not allow lazy chronology. Since no locally verified final official UPSC key is present in the controlling bank, the answer letter is withheld.
 
-#### PYQ 10. The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in (a) Delhi (b) Gwalior (c) Ujjain (d) Lahore (CSE 2025)
-
-**Answer: D.**
+**PYQ 10.** **Answer: D.**
 
 **Why D is correct:** The locally held official Set-A paper gives the wording, and the locally held official Set-A answer key records Q18 = D. The core source independently confirms that Paluskar founded the first Gandharva Mahavidyalaya in 1901 at Lahore, before it moved to Mumbai in 1915.
 
 **Why the others are wrong:** Delhi, Gwalior and Ujjain are all plausible distractors because of their strong music associations, but none is the locally verified founding city for this institution.
 
-#### PYQ 11. Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music? (a) Nat Bhairavi (b) Kamavardhini (c) Hanumatodi (d) Dheera Shankarabharanam (CSE 2026)
-
-**Answer withheld pending official UPSC key**
+**PYQ 11.** **Answer withheld pending official UPSC key**
 
 **Concept analysis:** The official local paper wording is available, but the controlling ledger explicitly records only a provisional 2026 key. Solve it through thaat-melakarta equivalence, not through mood or time-of-day association, and do not print a final answer letter.
 
-#### PYQ 12. Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the: (a) Agra Gharana (b) Gwalior Gharana (c) Patiala Gharana (d) Jaipur-Atrauli Gharana (CSE 2026)
-
-**Answer withheld pending official UPSC key**
+**PYQ 12.** **Answer withheld pending official UPSC key**
 
 **Concept analysis:** This is the topic's explicitly bounded gap. The official local paper wording exists, but only a provisional key is locally present and the canonical bank itself says the Mansur gharana route is not safely closed. The correct exam behaviour is to withhold the letter and not invent a gharana from memory.
 

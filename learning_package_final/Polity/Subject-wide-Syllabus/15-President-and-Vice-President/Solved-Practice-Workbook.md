@@ -6,9 +6,9 @@ topic_key: polity-15
 
 ## BASIC MCQS / REMEDIATION PRACTICE
 
-### 32 original MCQs
+### 40 original MCQs
 
-**Answer rotation:** ABCD repeated eight times. Each question includes four option-specific explanations and one question-specific Examiner trap.
+**Answer rotation:** ABCD repeated ten times. Each question includes four option-specific explanations and one question-specific Examiner trap.
 
 #### MCQ 1. Electoral college
 
@@ -19,16 +19,6 @@ B. Elected MPs and all State legislators
 C. All MPs and all MLAs
 D. Only elected MPs
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 54 uses elected MPs and elected MLAs of States, Delhi and Puducherry.
-- **B:** Incorrect: Legislative Councillors and nominated State legislators are excluded.
-- **C:** Incorrect: nominated MPs and nominated MLAs do not enter this college.
-- **D:** Incorrect: the federal component requires specified elected MLAs.
-
-**Examiner trap 1:** The closest distractor fails because legislative Councillors and nominated State legislators are excluded.
-
 #### MCQ 2. Vice-Presidential college
 
 Which group elects the Vice-President?
@@ -37,16 +27,6 @@ A. Elected MPs only
 B. All members of both Houses of Parliament
 C. Elected MPs plus MLAs
 D. Rajya Sabha alone
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 66 also includes nominated MPs.
-- **B:** Correct: every elected and nominated member of both Houses participates.
-- **C:** Incorrect: no State or Union Territory legislator votes.
-- **D:** Incorrect: Lok Sabha members participate equally with Rajya Sabha members.
-
-**Examiner trap 2:** The closest distractor fails because no State or Union Territory legislator votes.
 
 #### MCQ 3. MLA vote value
 
@@ -57,16 +37,6 @@ B. Area and population
 C. 1971 population relative to elected Assembly seats
 D. Assembly strength only
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the constitutional freeze still uses the 1971 census basis.
-- **B:** Incorrect: geographical area is not part of Article 55's formula.
-- **C:** Correct: population is divided by elected Assembly strength and then by 1,000, with the prescribed rounding rule.
-- **D:** Incorrect: seats matter only as the denominator alongside the frozen population.
-
-**Examiner trap 3:** The closest distractor fails because seats matter only as the denominator alongside the frozen population.
-
 #### MCQ 4. MP vote value
 
 Which statement about an elected MP's presidential vote value is correct?
@@ -75,16 +45,6 @@ A. Lok Sabha MPs have higher value
 B. Value varies by the MP's State
 C. Rajya Sabha MPs have higher value
 D. Every elected MP has the same value
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 55 does not privilege Lok Sabha electors.
-- **B:** Incorrect: State-specific weighting applies to MLAs, not MPs.
-- **C:** Incorrect: Rajya Sabha membership creates no higher value.
-- **D:** Correct: aggregate MLA vote value is divided among all elected MPs of both Houses.
-
-**Examiner trap 4:** The closest distractor fails because article 55 does not privilege Lok Sabha electors.
 
 #### MCQ 5. President qualification
 
@@ -95,16 +55,6 @@ B. Either House
 C. A State Assembly only
 D. Rajya Sabha
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 58 uses Lok Sabha qualification.
-- **B:** Incorrect: the Constitution specifies Lok Sabha, not either House.
-- **C:** Incorrect: State Assembly qualification is not the constitutional test.
-- **D:** Incorrect: Rajya Sabha qualification applies to the Vice-President.
-
-**Examiner trap 5:** The closest distractor fails because the Constitution specifies Lok Sabha, not either House.
-
 #### MCQ 6. President oath
 
 The President's oath is ordinarily administered by the:
@@ -113,16 +63,6 @@ A. Prime Minister
 B. Chief Justice of India
 C. Vice-President
 D. Lok Sabha Speaker
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: the Prime Minister does not administer the Article 60 oath.
-- **B:** Correct: the Chief Justice of India administers it; the senior-most available Supreme Court judge substitutes.
-- **C:** Incorrect: the Vice-President receives a resignation but does not ordinarily administer the oath.
-- **D:** Incorrect: the Speaker has no Article 60 role.
-
-**Examiner trap 6:** The closest distractor fails because the Vice-President receives a resignation but does not ordinarily administer the oath.
 
 #### MCQ 7. Re-election
 
@@ -133,16 +73,6 @@ B. Once only
 C. Any number of times
 D. Twice only
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 57 expressly permits re-election.
-- **B:** Incorrect: no one-re-election ceiling exists.
-- **C:** Correct: the Constitution sets no numerical term limit.
-- **D:** Incorrect: India's Constitution does not copy the United States two-term cap.
-
-**Examiner trap 7:** The closest distractor fails because india's Constitution does not copy the United States two-term cap.
-
 #### MCQ 8. Casual presidential vacancy
 
 A presidential election after a casual vacancy must be held within:
@@ -151,16 +81,6 @@ A. Three months
 B. One year
 C. One month
 D. Six months
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 62 does not prescribe three months.
-- **B:** Incorrect: one year would breach the constitutional deadline.
-- **C:** Incorrect: one month is not the textual rule.
-- **D:** Correct: Article 62 requires election within six months; the winner receives a fresh five-year term.
-
-**Examiner trap 8:** The closest distractor fails because article 62 does not prescribe three months.
 
 #### MCQ 9. Impeachment initiator
 
@@ -171,16 +91,6 @@ B. Rajya Sabha only
 C. Lok Sabha only
 D. The electoral college
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 61 gives either House initiation power.
-- **B:** Incorrect: Rajya Sabha has exclusive initiation only for Vice-Presidential removal.
-- **C:** Incorrect: Lok Sabha is not the sole initiating House.
-- **D:** Incorrect: the presidential electoral college has no removal role.
-
-**Examiner trap 9:** The closest distractor fails because rajya Sabha has exclusive initiation only for Vice-Presidential removal.
-
 #### MCQ 10. Impeachment majority
 
 Each decisive impeachment resolution requires:
@@ -189,16 +99,6 @@ A. Simple majority
 B. Two-thirds of total membership
 C. Special majority plus State ratification
 D. Majority of all then members
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: simple majority is far below Article 61's safeguard.
-- **B:** Correct: both decisive stages require at least two-thirds of the total membership of the House.
-- **C:** Incorrect: State ratification belongs to specified constitutional amendments, not impeachment.
-- **D:** Incorrect: an effective majority is used for Vice-Presidential removal in Rajya Sabha.
-
-**Examiner trap 10:** The closest distractor fails because state ratification belongs to specified constitutional amendments, not impeachment.
 
 #### MCQ 11. Nominated MPs
 
@@ -209,16 +109,6 @@ B. They elect but cannot impeach
 C. They may impeach but do not elect the President
 D. They both elect and impeach
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: they may participate in impeachment.
-- **B:** Incorrect: Article 54 excludes them from presidential election.
-- **C:** Correct: impeachment involves members of Parliament, while the electoral college includes only elected MPs.
-- **D:** Incorrect: their presidential-election exclusion remains.
-
-**Examiner trap 11:** The closest distractor fails because their presidential-election exclusion remains.
-
 #### MCQ 12. Ministerial advice
 
 After the President returns ministerial advice once and the Council reiterates it:
@@ -227,16 +117,6 @@ A. The Supreme Court decides
 B. Parliament votes
 C. The President may repeatedly return it
 D. The President must act on it
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 74 does not transfer the decision to the Court.
-- **B:** Incorrect: reconsidered advice is not put to a parliamentary vote.
-- **C:** Incorrect: the Article 74(1) proviso permits only one reconsideration.
-- **D:** Correct: the 44th Amendment proviso makes reiterated advice binding.
-
-**Examiner trap 12:** The closest distractor fails because article 74 does not transfer the decision to the Court.
 
 #### MCQ 13. Hung Lok Sabha
 
@@ -247,16 +127,6 @@ B. Rajya Sabha strength
 C. Largest party in every circumstance
 D. Personal ideological closeness
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the appointment must facilitate a ministry capable of commanding Lok Sabha confidence, tested promptly on the floor.
-- **B:** Incorrect: collective responsibility is to Lok Sabha, not Rajya Sabha.
-- **C:** Incorrect: largest-party status is relevant evidence, not an inflexible constitutional command.
-- **D:** Incorrect: personal preference would convert bounded judgment into partisan discretion.
-
-**Examiner trap 13:** The closest distractor fails because collective responsibility is to Lok Sabha, not Rajya Sabha.
-
 #### MCQ 14. Returned ordinary Bill
 
 If Parliament re-passes a returned ordinary Bill:
@@ -265,16 +135,6 @@ A. A two-thirds override is needed
 B. The President must assent
 C. The President may return it again
 D. A referendum follows
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 111 requires the ordinary majority applicable to the Bill, not a United States-style override.
-- **B:** Correct: after re-passage, with or without amendments, assent cannot be withheld.
-- **C:** Incorrect: the suspensive veto may be used only once.
-- **D:** Incorrect: the Constitution provides no referendum at this stage.
-
-**Examiner trap 14:** The closest distractor fails because the suspensive veto may be used only once.
 
 #### MCQ 15. Money Bill
 
@@ -285,16 +145,6 @@ B. Act on ministerial advice
 C. Return a Money Bill for reconsideration
 D. Assent to a Money Bill
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the text does not expressly eliminate withholding, although prior recommendation and advice constrain practice.
-- **B:** Incorrect: Article 74 continues to govern.
-- **C:** Correct: the return proviso excludes Money Bills.
-- **D:** Incorrect: assent is the normal route.
-
-**Examiner trap 15:** The closest distractor fails because assent is the normal route.
-
 #### MCQ 16. Constitution Amendment Bill
 
 After valid passage of a Constitution Amendment Bill, presidential assent is:
@@ -303,16 +153,6 @@ A. Optional
 B. Returnable once
 C. Subject to a fresh vote by States
 D. Obligatory
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: the 24th Amendment removed discretion to withhold assent.
-- **B:** Incorrect: Article 111's return mechanism does not apply.
-- **C:** Incorrect: State ratification, where required, precedes presentation and is not a presidential option.
-- **D:** Correct: Article 368 requires the President to give assent.
-
-**Examiner trap 16:** The closest distractor fails because the 24th Amendment removed discretion to withhold assent.
 
 #### MCQ 17. Pocket veto
 
@@ -323,16 +163,6 @@ B. A six-month clause
 C. Prior Supreme Court permission
 D. Rajya Sabha approval
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: the expression is conventional; it arises from silence about decision time.
-- **B:** Incorrect: Article 111 contains no six-month rule.
-- **C:** Incorrect: judicial permission is not a precondition.
-- **D:** Incorrect: Rajya Sabha does not separately approve presidential delay.
-
-**Examiner trap 17:** The closest distractor fails because article 111 contains no six-month rule.
-
 #### MCQ 18. Ordinance timing
 
 Article 123 is available when:
@@ -341,16 +171,6 @@ A. Both Houses must be dissolved
 B. Both Houses are not simultaneously in session
 C. Lok Sabha alone must be dissolved
 D. A National Emergency exists
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: dissolution of both Houses is impossible because Rajya Sabha is continuing.
-- **B:** Correct: an ordinance may issue whenever both Houses are not in session together and immediate action is necessary.
-- **C:** Incorrect: dissolution is unnecessary; adjournment or prorogation may also create the condition.
-- **D:** Incorrect: National Emergency is not a prerequisite.
-
-**Examiner trap 18:** The closest distractor fails because dissolution is unnecessary; adjournment or prorogation may also create the condition.
 
 #### MCQ 19. Ordinance end
 
@@ -361,16 +181,6 @@ B. After one year
 C. Six weeks after the later reassembly date
 D. After six months
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the Constitution gives a six-week scrutiny window.
-- **B:** Incorrect: an ordinance cannot ordinarily survive for a year without legislation.
-- **C:** Correct: if Houses reassemble on different dates, six weeks runs from the later date.
-- **D:** Incorrect: six months is the maximum interval between sessions, not the post-reassembly life.
-
-**Examiner trap 19:** The closest distractor fails because six months is the maximum interval between sessions, not the post-reassembly life.
-
 #### MCQ 20. Re-promulgation
 
 D. C. Wadhwa (1986) characterised routine re-promulgation as:
@@ -379,16 +189,6 @@ A. Pocket veto
 B. Collective responsibility
 C. Basic Structure
 D. Fraud on the Constitution
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: pocket veto concerns assent delay.
-- **B:** Incorrect: collective responsibility concerns the Council of Ministers.
-- **C:** Incorrect: the case did not classify re-promulgation as the Basic Structure.
-- **D:** Correct: repeated executive renewal without legislative consideration was condemned as constitutional fraud.
-
-**Examiner trap 20:** The closest distractor fails because pocket veto concerns assent delay.
 
 #### MCQ 21. Article 72 field
 
@@ -399,16 +199,6 @@ B. Every State-law offence
 C. Legislative privilege
 D. Civil decree
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 72 expressly covers court-martial cases.
-- **B:** Incorrect: State-law offences ordinarily fall within Article 161.
-- **C:** Incorrect: legislative privilege is not a clemency sentence category.
-- **D:** Incorrect: clemency concerns criminal punishment, not ordinary civil decrees.
-
-**Examiner trap 21:** The closest distractor fails because state-law offences ordinarily fall within Article 161.
-
 #### MCQ 22. Governor and death sentence
 
 A Governor may:
@@ -417,16 +207,6 @@ A. Pardon a death sentence
 B. Suspend, remit or commute a death sentence but not pardon it
 C. Do nothing concerning a death sentence
 D. Review a court-martial sentence
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 72 reserves the power to pardon a death sentence to the President.
-- **B:** Correct: Article 161 permits lesser forms such as suspension, remission and commutation in the State field.
-- **C:** Incorrect: the Governor retains these lesser powers.
-- **D:** Incorrect: court-martial clemency is outside Article 161.
-
-**Examiner trap 22:** The closest distractor fails because the Governor retains these lesser powers.
 
 #### MCQ 23. Clemency review
 
@@ -437,16 +217,6 @@ B. No grounds whatsoever
 C. Mala fides or non-application of mind
 D. Mere reappreciation of evidence
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: courts do not substitute their view of mercy.
-- **B:** Incorrect: constitutional power is not wholly immune.
-- **C:** Correct: bad faith, arbitrariness, irrelevant material and non-application of mind are recognised grounds.
-- **D:** Incorrect: review is not a regular criminal appeal on evidence.
-
-**Examiner trap 23:** The closest distractor fails because review is not a regular criminal appeal on evidence.
-
 #### MCQ 24. Vice-President removal
 
 The resolution to remove the Vice-President must originate in:
@@ -455,16 +225,6 @@ A. Either House
 B. A joint sitting
 C. Lok Sabha
 D. Rajya Sabha
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 67(b) gives Rajya Sabha exclusive initiation.
-- **B:** Incorrect: no joint sitting exists for removal.
-- **C:** Incorrect: Lok Sabha only agrees to the Rajya Sabha resolution.
-- **D:** Correct: Rajya Sabha initiates with an effective majority after fourteen days' notice.
-
-**Examiner trap 24:** The closest distractor fails because article 67(b) gives Rajya Sabha exclusive initiation.
 
 #### MCQ 25. Vice-President vacancy
 
@@ -475,16 +235,6 @@ B. Only at Parliament's next session
 C. Within one year
 D. Within six months
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 68 uses 'as soon as possible' and gives the successor a fresh term.
-- **B:** Incorrect: the election is not tied to the next parliamentary session.
-- **C:** Incorrect: no one-year deadline exists.
-- **D:** Incorrect: the six-month deadline belongs to a presidential casual vacancy.
-
-**Examiner trap 25:** The closest distractor fails because the election is not tied to the next parliamentary session.
-
 #### MCQ 26. Chairman's vote
 
 The Rajya Sabha Chairman ordinarily has:
@@ -493,16 +243,6 @@ A. A first vote only
 B. No first vote but a casting vote on equality
 C. Two votes
 D. No vote in any circumstance
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: as a non-member presiding officer, the Chairman lacks an initial vote.
-- **B:** Correct: Article 100 gives a casting vote when votes are equally divided.
-- **C:** Incorrect: the office never has both an initial and casting vote.
-- **D:** Incorrect: a casting vote normally exists, except during the Chair's own removal consideration.
-
-**Examiner trap 26:** The closest distractor fails because the office never has both an initial and casting vote.
 
 #### MCQ 27. Acting President
 
@@ -513,16 +253,6 @@ B. The Vice-President continues chairing Rajya Sabha
 C. The Deputy Chairman performs the Chairman's duties
 D. Rajya Sabha is suspended
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: the Lok Sabha Speaker has no Rajya Sabha presiding role.
-- **B:** Incorrect: Article 64 prevents simultaneous discharge of both functions.
-- **C:** Correct: the Deputy Chairman performs the Chair's duties during the acting period.
-- **D:** Incorrect: the continuing chamber remains operational.
-
-**Examiner trap 27:** The closest distractor fails because the continuing chamber remains operational.
-
 #### MCQ 28. Article 143
 
 A Supreme Court opinion under Article 143 is:
@@ -531,16 +261,6 @@ A. A constitutional amendment
 B. Always a binding adjudicated decree
 C. An ordinance
 D. Advisory rather than binding like an inter partes decree
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect: advice does not alter constitutional text.
-- **B:** Incorrect: its authoritative weight is distinct from a binding judgment between litigating parties.
-- **C:** Incorrect: ordinance power is Article 123.
-- **D:** Correct: the President may seek advisory opinion on qualifying questions of law or fact.
-
-**Examiner trap 28:** The closest distractor fails because advice does not alter constitutional text.
 
 #### MCQ 29. College comparison
 
@@ -551,16 +271,6 @@ B. Both offices: all MPs plus all MLAs
 C. Both offices: elected MPs only
 D. President: all MPs; Vice-President: elected MPs plus MLAs
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct: Article 54 is elected-and-federal; Article 66 is Parliament-only and includes nominees.
-- **B:** Incorrect: no MLA votes for Vice-President and nominees do not vote for President.
-- **C:** Incorrect: the President's college includes specified elected MLAs.
-- **D:** Incorrect: the two colleges have been reversed.
-
-**Examiner trap 29:** The closest distractor fails because no MLA votes for Vice-President and nominees do not vote for President.
-
 #### MCQ 30. Removal arithmetic
 
 Vice-Presidential removal in Rajya Sabha requires:
@@ -569,16 +279,6 @@ A. Two-thirds present and voting
 B. A majority of all the then members
 C. Two-thirds of total membership
 D. A simple majority of those present and voting
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect: that fraction is not Article 67(b)'s formula.
-- **B:** Correct: 'all the then members' means an effective majority of the current membership.
-- **C:** Incorrect: this is the presidential impeachment threshold.
-- **D:** Incorrect: vacancies cannot be ignored as under an ordinary simple majority.
-
-**Examiner trap 30:** The closest distractor fails because this is the presidential impeachment threshold.
 
 #### MCQ 31. Vacancy deadline comparison
 
@@ -589,16 +289,6 @@ B. Vice-President only
 C. President only
 D. Neither office
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect: Article 68 uses no six-month outer limit.
-- **B:** Incorrect: the Vice-President must be elected as soon as possible.
-- **C:** Correct: Article 62(2) fixes six months for the President.
-- **D:** Incorrect: the President has an express deadline.
-
-**Examiner trap 31:** The closest distractor fails because the President has an express deadline.
-
 #### MCQ 32. Article 111 finality
 
 Which Bill can neither be returned by the President nor subjected to a withholding veto after valid passage?
@@ -608,7 +298,439 @@ B. Governor-reserved State Bill
 C. Money Bill
 D. Constitution Amendment Bill
 
-**Answer: D.**
+#### MCQ 33. The President-election college has a vacant Assembly seat. Which rule prevents paralysis of the election?
+
+A. An election is not questioned merely because of a vacancy among electoral-college members.
+B. All vacant legislative seats must first be filled, even if the presidential term expires.
+C. A vacant seat gives the Chief Minister a proxy presidential vote.
+D. Only Rajya Sabha may vote when an Assembly has a vacancy.
+
+#### MCQ 34. In a Vice-Presidential election, a nominated Lok Sabha member seeks to vote. What is the correct outcome?
+
+A. The member may vote only if elected to a State Assembly.
+B. The member participates because Article 66 includes members of both Houses without restricting them to elected members.
+C. The member votes only if Rajya Sabha gives permission.
+D. The member is excluded because presidential and vice-presidential colleges are identical.
+
+#### MCQ 35. A candidate loses the presidential election and petitions the Supreme Court over the validity of that election. Which constitutional route applies?
+
+A. The Election Commission decides the petition finally without judicial review.
+B. The High Court decides the presidential election under ordinary election-petition rules.
+C. The Supreme Court has final authority under Article 71; acts already done remain valid if an election is later voided.
+D. The Lok Sabha Speaker alone resolves election disputes.
+
+#### MCQ 36. A President receives a parliamentary Bill to which Article 111 applies and chooses to return it. Which Bill can lawfully be returned for reconsideration?
+
+A. A Money Bill after passage by Lok Sabha.
+B. A Constitution Amendment Bill passed under Article 368.
+C. A Bill already repassed after one presidential return.
+D. An ordinary Bill submitted for the first time.
+
+#### MCQ 37. A President is asked to reconsider Council advice under Article 74. After reconsideration, the Council reiterates its position. What follows?
+
+A. The President must act in accordance with the reiterated advice.
+B. The President may seek repeated reconsideration without limit.
+C. The President may substitute a personal manifesto for the advice.
+D. The President must refer all such advice to the Supreme Court.
+
+#### MCQ 38. When no party has a clear Lok Sabha majority, what is the President’s defensible appointment criterion?
+
+A. Invite the largest single party automatically without asking about support.
+B. Invite a person credibly likely to command Lok Sabha confidence and seek prompt floor proof.
+C. Allow Rajya Sabha to select the Prime Minister by a confidence ballot.
+D. Refuse to appoint anyone until a party has won an absolute popular-vote majority.
+
+#### MCQ 39. An Article 123 ordinance is promulgated during a parliamentary recess. Which pair correctly states its constitutional limits?
+
+A. It may amend the Constitution and survives rejection by both Houses.
+B. It may override Part III and need not be tabled if a later bill is introduced.
+C. It must be laid before both Houses and is subject to Parliament’s legislative competence and constitutional rights.
+D. It requires the Vice-President’s independent assent before taking effect.
+
+#### MCQ 40. A President considers clemency for a court-martial sentence and a death sentence under different statutory fields. Which proposition is sound?
+
+A. Article 72 covers only convictions under Union criminal statutes.
+B. Article 72 extends to death sentences only where the offence is under Union law.
+C. Article 161 lets Governors pardon court-martial sentences.
+D. Article 72 includes court-martial cases and all death sentences; exercise remains advice-bound.
+
+### Separate MCQ answer key and option-by-option explanations
+
+#### MCQ 1 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 54 uses elected MPs and elected MLAs of States, Delhi and Puducherry.
+- **B:** Incorrect: Legislative Councillors and nominated State legislators are excluded.
+- **C:** Incorrect: nominated MPs and nominated MLAs do not enter this college.
+- **D:** Incorrect: the federal component requires specified elected MLAs.
+
+**Examiner trap 1:** The closest distractor fails because legislative Councillors and nominated State legislators are excluded.
+
+#### MCQ 2 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 66 also includes nominated MPs.
+- **B:** Correct: every elected and nominated member of both Houses participates.
+- **C:** Incorrect: no State or Union Territory legislator votes.
+- **D:** Incorrect: Lok Sabha members participate equally with Rajya Sabha members.
+
+**Examiner trap 2:** The closest distractor fails because no State or Union Territory legislator votes.
+
+#### MCQ 3 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the constitutional freeze still uses the 1971 census basis.
+- **B:** Incorrect: geographical area is not part of Article 55's formula.
+- **C:** Correct: population is divided by elected Assembly strength and then by 1,000, with the prescribed rounding rule.
+- **D:** Incorrect: seats matter only as the denominator alongside the frozen population.
+
+**Examiner trap 3:** The closest distractor fails because seats matter only as the denominator alongside the frozen population.
+
+#### MCQ 4 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 55 does not privilege Lok Sabha electors.
+- **B:** Incorrect: State-specific weighting applies to MLAs, not MPs.
+- **C:** Incorrect: Rajya Sabha membership creates no higher value.
+- **D:** Correct: aggregate MLA vote value is divided among all elected MPs of both Houses.
+
+**Examiner trap 4:** The closest distractor fails because article 55 does not privilege Lok Sabha electors.
+
+#### MCQ 5 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 58 uses Lok Sabha qualification.
+- **B:** Incorrect: the Constitution specifies Lok Sabha, not either House.
+- **C:** Incorrect: State Assembly qualification is not the constitutional test.
+- **D:** Incorrect: Rajya Sabha qualification applies to the Vice-President.
+
+**Examiner trap 5:** The closest distractor fails because the Constitution specifies Lok Sabha, not either House.
+
+#### MCQ 6 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the Prime Minister does not administer the Article 60 oath.
+- **B:** Correct: the Chief Justice of India administers it; the senior-most available Supreme Court judge substitutes.
+- **C:** Incorrect: the Vice-President receives a resignation but does not ordinarily administer the oath.
+- **D:** Incorrect: the Speaker has no Article 60 role.
+
+**Examiner trap 6:** The closest distractor fails because the Vice-President receives a resignation but does not ordinarily administer the oath.
+
+#### MCQ 7 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 57 expressly permits re-election.
+- **B:** Incorrect: no one-re-election ceiling exists.
+- **C:** Correct: the Constitution sets no numerical term limit.
+- **D:** Incorrect: India's Constitution does not copy the United States two-term cap.
+
+**Examiner trap 7:** The closest distractor fails because india's Constitution does not copy the United States two-term cap.
+
+#### MCQ 8 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 62 does not prescribe three months.
+- **B:** Incorrect: one year would breach the constitutional deadline.
+- **C:** Incorrect: one month is not the textual rule.
+- **D:** Correct: Article 62 requires election within six months; the winner receives a fresh five-year term.
+
+**Examiner trap 8:** The closest distractor fails because article 62 does not prescribe three months.
+
+#### MCQ 9 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 61 gives either House initiation power.
+- **B:** Incorrect: Rajya Sabha has exclusive initiation only for Vice-Presidential removal.
+- **C:** Incorrect: Lok Sabha is not the sole initiating House.
+- **D:** Incorrect: the presidential electoral college has no removal role.
+
+**Examiner trap 9:** The closest distractor fails because rajya Sabha has exclusive initiation only for Vice-Presidential removal.
+
+#### MCQ 10 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: simple majority is far below Article 61's safeguard.
+- **B:** Correct: both decisive stages require at least two-thirds of the total membership of the House.
+- **C:** Incorrect: State ratification belongs to specified constitutional amendments, not impeachment.
+- **D:** Incorrect: an effective majority is used for Vice-Presidential removal in Rajya Sabha.
+
+**Examiner trap 10:** The closest distractor fails because state ratification belongs to specified constitutional amendments, not impeachment.
+
+#### MCQ 11 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: they may participate in impeachment.
+- **B:** Incorrect: Article 54 excludes them from presidential election.
+- **C:** Correct: impeachment involves members of Parliament, while the electoral college includes only elected MPs.
+- **D:** Incorrect: their presidential-election exclusion remains.
+
+**Examiner trap 11:** The closest distractor fails because their presidential-election exclusion remains.
+
+#### MCQ 12 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 74 does not transfer the decision to the Court.
+- **B:** Incorrect: reconsidered advice is not put to a parliamentary vote.
+- **C:** Incorrect: the Article 74(1) proviso permits only one reconsideration.
+- **D:** Correct: the 44th Amendment proviso makes reiterated advice binding.
+
+**Examiner trap 12:** The closest distractor fails because article 74 does not transfer the decision to the Court.
+
+#### MCQ 13 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the appointment must facilitate a ministry capable of commanding Lok Sabha confidence, tested promptly on the floor.
+- **B:** Incorrect: collective responsibility is to Lok Sabha, not Rajya Sabha.
+- **C:** Incorrect: largest-party status is relevant evidence, not an inflexible constitutional command.
+- **D:** Incorrect: personal preference would convert bounded judgment into partisan discretion.
+
+**Examiner trap 13:** The closest distractor fails because collective responsibility is to Lok Sabha, not Rajya Sabha.
+
+#### MCQ 14 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 111 requires the ordinary majority applicable to the Bill, not a United States-style override.
+- **B:** Correct: after re-passage, with or without amendments, assent cannot be withheld.
+- **C:** Incorrect: the suspensive veto may be used only once.
+- **D:** Incorrect: the Constitution provides no referendum at this stage.
+
+**Examiner trap 14:** The closest distractor fails because the suspensive veto may be used only once.
+
+#### MCQ 15 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the text does not expressly eliminate withholding, although prior recommendation and advice constrain practice.
+- **B:** Incorrect: Article 74 continues to govern.
+- **C:** Correct: the return proviso excludes Money Bills.
+- **D:** Incorrect: assent is the normal route.
+
+**Examiner trap 15:** The closest distractor fails because assent is the normal route.
+
+#### MCQ 16 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the 24th Amendment removed discretion to withhold assent.
+- **B:** Incorrect: Article 111's return mechanism does not apply.
+- **C:** Incorrect: State ratification, where required, precedes presentation and is not a presidential option.
+- **D:** Correct: Article 368 requires the President to give assent.
+
+**Examiner trap 16:** The closest distractor fails because the 24th Amendment removed discretion to withhold assent.
+
+#### MCQ 17 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the expression is conventional; it arises from silence about decision time.
+- **B:** Incorrect: Article 111 contains no six-month rule.
+- **C:** Incorrect: judicial permission is not a precondition.
+- **D:** Incorrect: Rajya Sabha does not separately approve presidential delay.
+
+**Examiner trap 17:** The closest distractor fails because article 111 contains no six-month rule.
+
+#### MCQ 18 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: dissolution of both Houses is impossible because Rajya Sabha is continuing.
+- **B:** Correct: an ordinance may issue whenever both Houses are not in session together and immediate action is necessary.
+- **C:** Incorrect: dissolution is unnecessary; adjournment or prorogation may also create the condition.
+- **D:** Incorrect: National Emergency is not a prerequisite.
+
+**Examiner trap 18:** The closest distractor fails because dissolution is unnecessary; adjournment or prorogation may also create the condition.
+
+#### MCQ 19 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the Constitution gives a six-week scrutiny window.
+- **B:** Incorrect: an ordinance cannot ordinarily survive for a year without legislation.
+- **C:** Correct: if Houses reassemble on different dates, six weeks runs from the later date.
+- **D:** Incorrect: six months is the maximum interval between sessions, not the post-reassembly life.
+
+**Examiner trap 19:** The closest distractor fails because six months is the maximum interval between sessions, not the post-reassembly life.
+
+#### MCQ 20 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: pocket veto concerns assent delay.
+- **B:** Incorrect: collective responsibility concerns the Council of Ministers.
+- **C:** Incorrect: the case did not classify re-promulgation as the Basic Structure.
+- **D:** Correct: repeated executive renewal without legislative consideration was condemned as constitutional fraud.
+
+**Examiner trap 20:** The closest distractor fails because pocket veto concerns assent delay.
+
+#### MCQ 21 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 72 expressly covers court-martial cases.
+- **B:** Incorrect: State-law offences ordinarily fall within Article 161.
+- **C:** Incorrect: legislative privilege is not a clemency sentence category.
+- **D:** Incorrect: clemency concerns criminal punishment, not ordinary civil decrees.
+
+**Examiner trap 21:** The closest distractor fails because state-law offences ordinarily fall within Article 161.
+
+#### MCQ 22 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 72 reserves the power to pardon a death sentence to the President.
+- **B:** Correct: Article 161 permits lesser forms such as suspension, remission and commutation in the State field.
+- **C:** Incorrect: the Governor retains these lesser powers.
+- **D:** Incorrect: court-martial clemency is outside Article 161.
+
+**Examiner trap 22:** The closest distractor fails because the Governor retains these lesser powers.
+
+#### MCQ 23 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: courts do not substitute their view of mercy.
+- **B:** Incorrect: constitutional power is not wholly immune.
+- **C:** Correct: bad faith, arbitrariness, irrelevant material and non-application of mind are recognised grounds.
+- **D:** Incorrect: review is not a regular criminal appeal on evidence.
+
+**Examiner trap 23:** The closest distractor fails because review is not a regular criminal appeal on evidence.
+
+#### MCQ 24 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 67(b) gives Rajya Sabha exclusive initiation.
+- **B:** Incorrect: no joint sitting exists for removal.
+- **C:** Incorrect: Lok Sabha only agrees to the Rajya Sabha resolution.
+- **D:** Correct: Rajya Sabha initiates with an effective majority after fourteen days' notice.
+
+**Examiner trap 24:** The closest distractor fails because article 67(b) gives Rajya Sabha exclusive initiation.
+
+#### MCQ 25 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 68 uses 'as soon as possible' and gives the successor a fresh term.
+- **B:** Incorrect: the election is not tied to the next parliamentary session.
+- **C:** Incorrect: no one-year deadline exists.
+- **D:** Incorrect: the six-month deadline belongs to a presidential casual vacancy.
+
+**Examiner trap 25:** The closest distractor fails because the election is not tied to the next parliamentary session.
+
+#### MCQ 26 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: as a non-member presiding officer, the Chairman lacks an initial vote.
+- **B:** Correct: Article 100 gives a casting vote when votes are equally divided.
+- **C:** Incorrect: the office never has both an initial and casting vote.
+- **D:** Incorrect: a casting vote normally exists, except during the Chair's own removal consideration.
+
+**Examiner trap 26:** The closest distractor fails because the office never has both an initial and casting vote.
+
+#### MCQ 27 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the Lok Sabha Speaker has no Rajya Sabha presiding role.
+- **B:** Incorrect: Article 64 prevents simultaneous discharge of both functions.
+- **C:** Correct: the Deputy Chairman performs the Chair's duties during the acting period.
+- **D:** Incorrect: the continuing chamber remains operational.
+
+**Examiner trap 27:** The closest distractor fails because the continuing chamber remains operational.
+
+#### MCQ 28 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: advice does not alter constitutional text.
+- **B:** Incorrect: its authoritative weight is distinct from a binding judgment between litigating parties.
+- **C:** Incorrect: ordinance power is Article 123.
+- **D:** Correct: the President may seek advisory opinion on qualifying questions of law or fact.
+
+**Examiner trap 28:** The closest distractor fails because advice does not alter constitutional text.
+
+#### MCQ 29 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 54 is elected-and-federal; Article 66 is Parliament-only and includes nominees.
+- **B:** Incorrect: no MLA votes for Vice-President and nominees do not vote for President.
+- **C:** Incorrect: the President's college includes specified elected MLAs.
+- **D:** Incorrect: the two colleges have been reversed.
+
+**Examiner trap 29:** The closest distractor fails because no MLA votes for Vice-President and nominees do not vote for President.
+
+#### MCQ 30 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: that fraction is not Article 67(b)'s formula.
+- **B:** Correct: 'all the then members' means an effective majority of the current membership.
+- **C:** Incorrect: this is the presidential impeachment threshold.
+- **D:** Incorrect: vacancies cannot be ignored as under an ordinary simple majority.
+
+**Examiner trap 30:** The closest distractor fails because this is the presidential impeachment threshold.
+
+#### MCQ 31 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 68 uses no six-month outer limit.
+- **B:** Incorrect: the Vice-President must be elected as soon as possible.
+- **C:** Correct: Article 62(2) fixes six months for the President.
+- **D:** Incorrect: the President has an express deadline.
+
+**Examiner trap 31:** The closest distractor fails because the President has an express deadline.
+
+#### MCQ 32 — answer and reasoning
+
+**Correct answer: D.**
 
 **Option explanations:**
 - **A:** Incorrect: an ordinary Bill may be returned once and assent may initially be withheld.
@@ -618,6 +740,101 @@ D. Constitution Amendment Bill
 
 **Examiner trap 32:** The closest distractor fails because an ordinary Bill may be returned once and assent may initially be withheld.
 
+#### MCQ 33 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** Article 71(4) expressly prevents electoral-college vacancies alone from invalidating the election.
+- **B:** Article 62 timing is not suspended until every vacancy is filled.
+- **C:** Proxy votes for vacant MLAs do not exist.
+- **D:** Elected MPs and other eligible MLAs continue in the college.
+
+**Examiner trap 33:** Distinguish a vacancy from an illegally included ineligible elector.
+
+#### MCQ 34 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** No State Assembly membership is required for the Vice-President college.
+- **B:** Nominated members of Parliament are included in this distinct college.
+- **C:** The Rajya Sabha has no certification role for Lok Sabha electors.
+- **D:** Article 54 excludes nominated MPs from the presidential, not vice-presidential, college.
+
+**Examiner trap 34:** The two indirect elections have materially different membership rules.
+
+#### MCQ 35 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** Administration of an election does not confer final Article 71 dispute jurisdiction.
+- **B:** Article 71 directly identifies the Supreme Court, not the High Court.
+- **C:** Article 71 combines Supreme Court jurisdiction with a saving for prior acts.
+- **D:** The Speaker has no Article 71 adjudicatory role.
+
+**Examiner trap 35:** Voiding an election does not retroactively annul every presidential act.
+
+#### MCQ 36 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Article 111 expressly excludes Money Bills from the return option.
+- **B:** Article 368 requires assent to a duly passed constitutional amendment.
+- **C:** After re-passage Article 111 obliges assent.
+- **D:** An ordinary Bill may be returned once with a message for reconsideration.
+
+**Examiner trap 36:** Different assent routes apply to ordinary, Money and constitutional-amendment Bills.
+
+#### MCQ 37 — answer and reasoning
+
+**Correct answer: A.**
+
+**Option explanations:**
+- **A:** The 44th-Amendment proviso allows one return, after which reiterated advice binds.
+- **B:** A perpetual return would defeat constitutional cabinet responsibility.
+- **C:** Formal executive vesting does not give an independent policy mandate.
+- **D:** Article 143 reference is not an automatic step in Article 74 reconsideration.
+
+**Examiner trap 37:** A suspensive warning power is not a veto over responsible government.
+
+#### MCQ 38 — answer and reasoning
+
+**Correct answer: B.**
+
+**Option explanations:**
+- **A:** Size alone may not establish a legislative majority when coalitions form.
+- **B:** Initial judgment is bounded by demonstrable Lok Sabha confidence.
+- **C:** Article 75(3) locates responsibility in Lok Sabha.
+- **D:** India uses parliamentary confidence, not a popular-vote threshold for appointment.
+
+**Examiner trap 38:** Appointment discretion ends where elected House confidence can be tested.
+
+#### MCQ 39 — answer and reasoning
+
+**Correct answer: C.**
+
+**Option explanations:**
+- **A:** An ordinance cannot use the Article 368 constitutional-amendment procedure.
+- **B:** Ordinances are law for Part III purposes and mandatory laying cannot be bypassed.
+- **C:** Act-like force does not remove constitutional and parliamentary controls.
+- **D:** Article 123 assigns promulgation to the President, not a vice-presidential assent power.
+
+**Examiner trap 39:** Temporary Act-like effect cannot supply authority beyond Parliament’s own competence.
+
+#### MCQ 40 — answer and reasoning
+
+**Correct answer: D.**
+
+**Option explanations:**
+- **A:** Article 72 enumerates military-court and death-sentence categories separately.
+- **B:** The death-sentence clause is not confined to a Union legislative field.
+- **C:** The Governor’s Article 161 power does not extend to court-martial cases.
+- **D:** The scope is constitutionally specified and constitutional advice constrains exercise.
+
+**Examiner trap 40:** Article 72’s three jurisdictions are alternative heads, not cumulative conditions.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -642,6 +859,8 @@ C. Both 1 and 2
 D. Neither 1 nor 2
 
 **Answer withheld pending official UPSC key.**
+
+**Descriptive solution (no objective letter assigned):** Statement 1 is supported by Article 55: each elected MLA’s vote value reflects the State’s population relative to its elected Assembly seats and therefore varies across States. Statement 2 is false: elected MPs in both parliamentary Houses each carry the same parliamentary vote value. Distinguish State-wise weighted MLA votes from uniform elected-MP votes.
 
 #### PYQ 2 — 2022 GS-II Q4
 
@@ -672,6 +891,8 @@ D. None
 
 **Answer withheld pending official UPSC key.**
 
+**Descriptive solution (no objective letter assigned):** Statement 1 is false because Article 71 preserves presidential acts done before a Supreme Court decision voiding the election. Statement 2 is false because a vacancy in the electoral college does not invalidate the election; the constitutional timeline cannot be suspended solely to fill Assembly vacancies. Statement 3 is false because Article 111 sets no assent deadline. Do not treat protection of prior acts as validation of an invalid election.
+
 #### PYQ 5 — 2023 Prelims GS-I Q80
 
 **Question:** Consider the following statements in respect of election to the President of India:
@@ -689,6 +910,8 @@ C. Only three
 D. All four
 
 **Answer withheld pending official UPSC key.**
+
+**Descriptive solution (no objective letter assigned):** Statement 1 is false: nominated MPs and legislators are not presidential electors. Statement 2 reverses the denominator in the MLA-vote formula; a larger Assembly with unchanged population would lower, not raise, each MLA’s vote value. Statements 3 and 4 require the actual frozen census populations and elected Assembly-seat counts for each named pair; do not infer either comparison from the present population or the State’s total MPs. No answer letter is supplied without a verified electoral-value comparison and official key.
 
 #### PYQ 6 — 2025 Prelims GS-I Q51
 
@@ -751,22 +974,30 @@ D. Neither 1 nor 2
 
 **Question:** Explain how the presidential election reconciles democratic representation with federal balance.
 
-**Model answer:** Articles 54-55 reject both hereditary headship and direct presidential rivalry. The President is indirectly elected by elected MPs and elected MLAs of States, Delhi and Puducherry. Because every elector is elected, the system retains democratic legitimacy; excluding nominated members and MLCs keeps the mandate tied to direct election. Federal balance enters through weighted MLA votes based on the frozen 1971 population-to-elected-seat ratio. This gives States different aggregate weight while seeking relative uniformity within each State. The total value of MLA votes is then divided among elected MPs of both Houses, producing parity between the States collectively and Parliament collectively. PR-STV and a secret ranked ballot require a candidate to cross a majority quota through preference transfers rather than win by a fragmented plurality. The design is complex and the 1971 basis no longer mirrors current population distribution. Yet immediate adoption of current population could penalise States that achieved population stabilisation, while direct election could create a competing popular mandate against the parliamentary Cabinet. The system is therefore a constitutional compromise: democratically derived, federally weighted and nationally mediated.
+**Model answer:** Articles 54-55 reject both hereditary headship and direct presidential rivalry. The President is indirectly elected by elected MPs and elected MLAs of States, Delhi and Puducherry. Because every elector is elected, the system retains democratic legitimacy; excluding nominated members and MLCs keeps the mandate tied to direct election. Federal balance enters through weighted MLA votes based on the frozen 1971 population-to-elected-seat ratio. This gives States different aggregate weight while seeking relative uniformity within each State. The total value of MLA votes is then divided among elected MPs of both Houses, producing parity between the States collectively and Parliament collectively. PR-STV and a secret ranked ballot require a candidate to cross a majority quota through preference transfers rather than win by a fragmented plurality. The design is complex and the 1971 basis no longer mirrors current population distribution. Yet immediate adoption of current population could penalise States that achieved population stabilisation, while direct election could create a competing popular mandate against the parliamentary Cabinet. The weighted vote does not make all individual MLAs equal; rather, population per elected Assembly seat shapes each State’s MLA value, while MPs share a common value calculated from the aggregate MLA total. Disputes over eligibility or counting belong to the Supreme Court under Article 71, so the electoral design also has a defined judicial remedy.
+
+The system is therefore a constitutional compromise: democratically derived, federally weighted and nationally mediated.
 
 #### Original Q4 — 15 marks, 250 words
 
 **Question:** Ordinance power is necessary for urgency but dangerous as a substitute for Parliament. Discuss.
 
-**Model answer:** Article 123 permits an ordinance when both Houses are not simultaneously in session and circumstances require immediate action. It has the force of an Act, may amend Central law and may operate retrospectively within constitutional limits. This is useful where waiting for Parliament would leave a serious legal gap. However, ordinance-making bypasses debate, committee scrutiny and the possibility that one House may reject the executive's proposal. The safeguards therefore matter more than the existence of the power. Every ordinance must be laid before both Houses and ordinarily ceases six weeks after their later reassembly. It remains limited by Parliament's legislative competence, Fundamental Rights and judicial review. *R. C. Cooper* rejected complete immunity of satisfaction; *D. C. Wadhwa* called routine re-promulgation a fraud on the Constitution; and *Krishna Kumar Singh* held that laying is mandatory and repeated re-promulgation subverts legislative supremacy. The correct reform is not abolition, because genuine urgency exists, but prompt parliamentary scrutiny, reasoned necessity and strict resistance to re-promulgation. Article 123 is legitimate as a temporary bridge, unconstitutional in spirit when converted into an alternative legislative channel.
+**Model answer:** Article 123 permits an ordinance when both Houses are not simultaneously in session and circumstances require immediate action. It has the force of an Act, may amend Central law and may operate retrospectively within constitutional limits. This is useful where waiting for Parliament would leave a serious legal gap. However, ordinance-making bypasses debate, committee scrutiny and the possibility that one House may reject the executive's proposal. The safeguards therefore matter more than the existence of the power. Every ordinance must be laid before both Houses and ordinarily ceases six weeks after their later reassembly. It remains limited by Parliament's legislative competence, Fundamental Rights and judicial review. *R. C. Cooper* rejected complete immunity of satisfaction; *D. C. Wadhwa* called routine re-promulgation a fraud on the Constitution; and *Krishna Kumar Singh* held that laying is mandatory and repeated re-promulgation subverts legislative supremacy. Urgency must be genuine rather than manufactured by keeping Parliament out of session. Disapproval by either House ends the ordinance, and even acquiescence is no substitute for enacting a durable statute. Because an ordinance is not an Article 368 amendment, constitutional change cannot be smuggled into the recess procedure. These controls protect both bicameral scrutiny and the people’s representatives from executive serial lawmaking.
+
+The correct reform is not abolition, because genuine urgency exists, but prompt parliamentary scrutiny, reasoned necessity and strict resistance to re-promulgation. Article 123 is legitimate as a temporary bridge, unconstitutional in spirit when converted into an alternative legislative channel.
 
 #### Original Q5 — 20 marks, 250 words
 
 **Question:** Analyse the President's legislative powers, with special reference to veto and ordinance-making, and assess the accountability safeguards.
 
-**Model answer:** The President is a constituent part of Parliament under Article 79 and completes important legislative stages without becoming a third deliberative chamber. Articles 85-87 cover summoning, prorogation, dissolution, messages and addresses; Article 108 enables joint sitting; Article 111 controls assent. For an ordinary Bill the President may assent, withhold or return it once, but re-passage compels assent. A Money Bill cannot be returned. A Constitution Amendment Bill must receive assent under Article 368 after the 24th Amendment. Article 201 differs: a reserved non-Money State Bill may be returned through the Governor, but State re-passage does not textually compel assent. Article 111's silence on time creates the pocket-veto possibility, although responsible advice and constitutional expedition constrain its legitimate use. Article 123 supplies temporary Act-like law when both Houses are not simultaneously sitting and urgent action is required. Its safeguards are legislative competence, Fundamental Rights, mandatory laying, six-week expiry, disapproval and judicial review. *D. C. Wadhwa* and *Krishna Kumar Singh* prevent re-promulgation from replacing Parliament. Across both veto and ordinance powers, the central accountability rule is that formal presidential action is advice-bound, legislatively answerable and judicially reviewable for constitutional abuse.
+**Model answer:** The President is a constituent part of Parliament under Article 79 and completes important legislative stages without becoming a third deliberative chamber. Articles 85-87 cover summoning, prorogation, dissolution, messages and addresses; Article 108 enables joint sitting; Article 111 controls assent. For an ordinary Bill the President may assent, withhold or return it once, but re-passage compels assent. A Money Bill cannot be returned. A Constitution Amendment Bill must receive assent under Article 368 after the 24th Amendment. Article 201 differs: a reserved non-Money State Bill may be returned through the Governor, but State re-passage does not textually compel assent. Article 111's silence on time creates the pocket-veto possibility, although responsible advice and constitutional expedition constrain its legitimate use. Article 123 supplies temporary Act-like law when both Houses are not simultaneously sitting and urgent action is required. Its safeguards are legislative competence, Fundamental Rights, mandatory laying, six-week expiry, disapproval and judicial review. *D. C. Wadhwa* and *Krishna Kumar Singh* prevent re-promulgation from replacing Parliament. The electoral accountability question remains even where the President may lawfully withhold assent: the formal holder acts in a parliamentary system rather than claiming an independent mandate. Article 86 messages and Article 87 addresses communicate through constitutional forms; their content ordinarily reflects ministerial responsibility. A reserved State Bill instead enters Article 201, whose return-and-repass rules cannot be mechanically borrowed from Article 111.
+
+Across both veto and ordinance powers, the central accountability rule is that formal presidential action is advice-bound, legislatively answerable and judicially reviewable for constitutional abuse.
 
 #### Original Q6 — 20 marks, 250 words
 
 **Question:** Evaluate the Vice-President's dual position as Rajya Sabha Chairman and potential acting President.
 
-**Model answer:** The Vice-President's title suggests executive succession, but the office's regular constitutional purpose is parliamentary. Article 64 makes the Vice-President ex-officio Chairman of Rajya Sabha and not a member of that House. Article 100 therefore denies an initial vote but permits a casting vote on equality. The Chairman regulates proceedings, decides points of order and admissibility, and determines Rajya Sabha anti-defection questions under the Tenth Schedule, subject to judicial review after *Kihoto Hollohan*. Article 92 creates a crucial neutrality safeguard: during consideration of the Vice-President's own removal resolution, the office-holder may speak but cannot preside or vote. The Chairman also differs from the Lok Sabha Speaker by lacking Money-Bill certification authority. The contingency role arises under Article 65 when the presidency is vacant or the President is temporarily unable. During that period the Vice-President does not simultaneously chair Rajya Sabha; the Deputy Chairman performs those duties, and presidential emoluments apply. Acting does not mean succeeding to the unexpired term. The dual design secures both federal-chamber procedure and Head-of-State continuity, but legitimacy depends on visible impartiality in the Chair and strict temporary limits in the acting role.
+**Model answer:** The Vice-President's title suggests executive succession, but the office's regular constitutional purpose is parliamentary. Article 64 makes the Vice-President ex-officio Chairman of Rajya Sabha and not a member of that House. Article 100 therefore denies an initial vote but permits a casting vote on equality. The Chairman regulates proceedings, decides points of order and admissibility, and determines Rajya Sabha anti-defection questions under the Tenth Schedule, subject to judicial review after *Kihoto Hollohan*. Article 92 creates a crucial neutrality safeguard: during consideration of the Vice-President's own removal resolution, the office-holder may speak but cannot preside or vote. The Chairman also differs from the Lok Sabha Speaker by lacking Money-Bill certification authority. The contingency role arises under Article 65 when the presidency is vacant or the President is temporarily unable. During that period the Vice-President does not simultaneously chair Rajya Sabha; the Deputy Chairman performs those duties, and presidential emoluments apply. Acting does not mean succeeding to the unexpired term. Removal also reflects the dual structure: the Vice-President is not impeached under Article 61; a Rajya Sabha resolution passed by a majority of all its then members and agreed to by Lok Sabha requires advance notice under Article 67(b). The power to preside therefore carries procedural legitimacy but not ordinary executive policy authority.
+
+The dual design secures both federal-chamber procedure and Head-of-State continuity, but legitimacy depends on visible impartiality in the Chair and strict temporary limits in the acting role.

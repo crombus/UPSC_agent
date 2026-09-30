@@ -4,7 +4,7 @@ topic_key: indian-art-and-culture-02
 ---
 # Mauryan, Buddhist, Jain and Rock-Cut Heritage - Solved Practice Workbook
 
-> This workbook is standalone: it carries the full 32-question MCQ set, direct and application PYQs, solved original Mains answers and drills on chronology, keywords and paragraph-building.
+> This workbook is standalone: it carries the full 40-question MCQ set, direct and application PYQs, solved original Mains answers and drills on chronology, keywords and paragraph-building.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -15,352 +15,314 @@ topic_key: indian-art-and-culture-02
 A. Mauryan pillars and palaces clearly belong to court art, but royal dedications to Ajivika caves show that the court/popular distinction is a useful yet porous teaching device.  
 B. Mauryan art can be divided permanently into Buddhist and non-Buddhist art.  
 C. All Mauryan monuments were created outside state patronage.  
-D. The court/popular distinction should be abandoned because no pattern exists at all.  
+D. The court/popular distinction should be abandoned because no pattern exists at all.
 
-
-**Answer: A.**  
-**Explanation:** A is correct because it keeps the classification while immediately qualifying it with Barabar-Nagarjuni. B and C are factually wrong, and D throws away a useful opening framework instead of refining it.
 
 ### Q2. Which sequence correctly preserves Sanchi's construction history?
 
 A. Sunga brick core -> Mauryan gateways -> Gupta enlargement -> Satavahana toranas  
 B. Mauryan brick core -> Sunga enlargement and stone facing -> Satavahana toranas -> Gupta additions  
 C. Mauryan toranas -> Satavahana brick core -> Sunga shrines -> Gupta railing  
-D. Gupta stupa core -> Mauryan pillar -> Sunga casing -> Satavahana decline  
+D. Gupta stupa core -> Mauryan pillar -> Sunga casing -> Satavahana decline
 
-
-**Answer: B.**  
-**Explanation:** B follows the safe phase order preserved in both Nitin and UNESCO. The other options reverse the phases or assign the wrong contribution to the wrong period.
 
 ### Q3. Which site-feature pair is correctly matched?
 
 A. Vaishali - four lions on a circular abacus with wheel carvings  
 B. Sanchi pillar - single lion capital without abacus  
 C. Sarnath - four lions back-to-back on an abacus with animal carvings and wheel symbolism  
-D. Rampurva - only a bull capital and no lion capital  
+D. Rampurva - only a bull capital and no lion capital
 
-
-**Answer: C.**  
-**Explanation:** C is the correct Sarnath description. Vaishali has a single lion without abacus, Sanchi has four lions with a flatter geese-and-palmette abacus, and Rampurva produced both lion and bull capitals.
 
 ### Q4. What is the safest inference from the Barabar-Nagarjuni caves?
 
 A. They prove that all Mauryan cave architecture was Buddhist.  
 B. They show that mural painting was essential to the earliest rock-cut phase.  
 C. They prove that Lomas Rishi was fully completed under Ashoka.  
-D. They show that the earliest Indian rock-cut architecture combined royal patronage, Ajivika dedication and highly polished granite interiors.  
+D. They show that the earliest Indian rock-cut architecture combined royal patronage, Ajivika dedication and highly polished granite interiors.
 
-
-**Answer: D.**  
-**Explanation:** D joins the secure facts. A is false because the caves were for Ajivikas, B is false because no murals are reported, and C ignores Lomas Rishi's incompletion.
 
 ### Q5. Which statement about the stupa is correct?
 
 A. The stupa tradition pre-dates Buddhism and later became a major relic and commemorative form in Buddhist practice.  
 B. A stupa is exclusively Buddhist in origin and function.  
 C. The torana is the summit umbrella of a stupa.  
-D. Pradakshina patha refers to the relic casket inside the anda.  
+D. Pradakshina patha refers to the relic casket inside the anda.
 
-
-**Answer: A.**  
-**Explanation:** A preserves both the origin qualifier and the later Buddhist role. B is the classic UPSC trap, while C and D confuse major stupa parts.
 
 ### Q6. Which stupa part-function pair is correctly matched?
 
 A. Harmika - ground-level ambulatory path  
 B. Torana - ceremonial gateway carrying narrative or decorative emphasis  
 C. Vedika - relic deposited inside the mound  
-D. Chattra - stone railing around the lower terrace  
+D. Chattra - stone railing around the lower terrace
 
-
-**Answer: B.**  
-**Explanation:** B is correct. Harmika is the summit railing, vedika marks the sacred boundary, and chattra is the honour-bearing umbrella form.
 
 ### Q7. Which description most accurately captures a chaitya-griha?
 
 A. A rock-cut royal palace with audience hall  
 B. A free-standing structural temple with shikhara  
 C. An apsidal prayer hall with a stupa focus, often using nave, aisles and a horseshoe facade window  
-D. A monastic residence made only of wooden huts  
+D. A monastic residence made only of wooden huts
 
-
-**Answer: C.**  
-**Explanation:** C gives the architectural and liturgical logic of the chaitya. The other options describe different building types or ignore rock-cut form.
 
 ### Q8. Which site most clearly combines a two-phase Buddhist excavation history with unfinished caves that preserve the method of rock-cutting?
 
 A. Sanchi  
 B. Elephanta  
 C. Bharhut  
-D. Ajanta  
+D. Ajanta
 
-
-**Answer: D.**  
-**Explanation:** D is correct because UNESCO highlights Ajanta's two major phases and notes that the unfinished caves preserve the method of excavation. A is a layered stupa-hill complex rather than a cave-excavation sequence, B is a Shaiva-dominant island cave complex, and C is a stupa-railing site rather than a phased cave complex.
 
 ### Q9. Which statement about Ajanta's phases is correct?
 
 A. Ajanta preserves an early Satavahana-linked phase and a later Vakataka-era phase separated by several centuries.  
 B. Ajanta is a single-period Rashtrakuta excavation.  
 C. Ajanta contains only viharas and no chaityagrihas.  
-D. Ajanta's historical value lies only in painting, not in architecture.  
+D. Ajanta's historical value lies only in painting, not in architecture.
 
-
-**Answer: A.**  
-**Explanation:** A matches UNESCO's two-phase chronology. B, C and D each erase major parts of the site's evidentiary value.
 
 ### Q10. Which line is the safest way to write Ellora's chronology?
 
 A. All thirty-four caves were carved by one dynasty in one century.  
 B. Ellora shows Buddhist, Brahmanical and Jain cave groups in a broad sequence from the 6th to the 12th century, but overlap and long use must still be kept visible.  
 C. Ellora is only a Brahmanical site because Kailasha dominates it.  
-D. Ellora's value lies only in sculpture, not in rock-cut planning.  
+D. Ellora's value lies only in sculpture, not in rock-cut planning.
 
-
-**Answer: B.**  
-**Explanation:** B preserves both sequence and qualification. The other options over-centralise one phase or erase the complexity of the site.
 
 ### Q11. Which statement about Udayagiri near Vidisha is correct?
 
 A. It is identical with Udayagiri-Khandagiri in Odisha.  
 B. Its most important cave is a Buddhist chaitya hall of the Satavahana age.  
 C. It was created in the early 5th century CE under Chandragupta II and is especially known for the Varaha relief and Gupta inscriptions.  
-D. It is a Jain-only site with no Brahmanical imagery.  
+D. It is a Jain-only site with no Brahmanical imagery.
 
-
-**Answer: C.**  
-**Explanation:** C is the safe Udayagiri (Vidisha) description. A confuses two different sites, while B and D distort the site's Brahmanical-Gupta character.
 
 ### Q12. Which use of Hathigumpha is best?
 
 A. As proof that Kharavela narrated every important event in Kalinga's past  
 B. As a decorative inscription with no historical value  
 C. As evidence that Udayagiri-Khandagiri was a Buddhist cave complex  
-D. As a major Prakrit-Brahmi narrative source for Kharavela that must still be read critically because royal inscriptions are selective  
+D. As a major Prakrit-Brahmi narrative source for Kharavela that must still be read critically because royal inscriptions are selective
 
-
-**Answer: D.**  
-**Explanation:** D captures both its value and its limitation. The other options either overstate completeness or misidentify the site's Jain context.
 
 ### Q13. Which statement about Elephanta is correct?
 
 A. Elephanta is a Shaiva-dominant island cave complex on Gharapuri, with major Cave 1 and a famous Sadashiva/Trimurti image, while exact dynastic attribution remains debated.  
 B. Elephanta is securely a Mauryan Buddhist cave group.  
 C. Elephanta lies in the Waghora gorge.  
-D. Elephanta has no Buddhist remains of any kind.  
+D. Elephanta has no Buddhist remains of any kind.
 
-
-**Answer: A.**  
-**Explanation:** A preserves location, religious emphasis, iconography and the attribution caution. The other options are plainly wrong.
 
 ### Q14. Which statement about Amaravati is safest?
 
 A. Amaravati was only a small relic mound with no sculptural or inscriptional value.  
 B. Amaravati was a major Andhra Mahachaitya in the lower Krishna zone, enlarged under the Satavahanas and associated with limestone reliefs, Ayaka pillars and a long excavation-dispersal history.  
 C. Amaravati stood in the Narmada gorge.  
-D. Amaravati should be described as exactly 27 metres high without qualification.  
+D. Amaravati should be described as exactly 27 metres high without qualification.
 
-
-**Answer: B.**  
-**Explanation:** B keeps the lower-Krishna setting, patronage, material and afterlife together. C is geographically wrong, A strips the site of its importance, and D removes the necessary hedge from the measurement.
 
 ### Q15. Which statement about Rampurva is correct?
 
 A. Rampurva preserves only a lion capital with no bull comparison.  
 B. Rampurva was a Gupta-period imitation of Ashokan pillar art.  
 C. Two Ashokan pillars were found at Rampurva, one with a lion capital and one with a bull capital, but only the lion pillar carries the Major Pillar Edicts I-VI.  
-D. Rampurva proves that every animal capital carried the same inscription.  
+D. Rampurva proves that every animal capital carried the same inscription.
 
-
-**Answer: C.**  
-**Explanation:** C is the exact safe formulation from the core evidence bank. The other options erase or distort the lion-bull functional difference.
 
 ### Q16. Which claim about inscriptions is most defensible?
 
 A. If a royal inscription is detailed, it can be treated as a neutral chronicle.  
 B. Inscriptions are useful only for language history, not architecture.  
 C. The omission of an event in an inscription proves the event never happened.  
-D. Inscriptions can identify patrons, grants, sects, dates and sites, but genre, eulogy and silence must still be analysed.  
+D. Inscriptions can identify patrons, grants, sects, dates and sites, but genre, eulogy and silence must still be analysed.
 
-
-**Answer: D.**  
-**Explanation:** D reflects Upinder Singh's method and the topic's own use of Hathigumpha and the Baroda plate. The other options misuse silence or narrow the source unnecessarily.
 
 ### Q17. Which statement best captures Jain architecture in this topic?
 
 A. It runs from caves such as Udayagiri-Khandagiri and Ellora to temples, colossi and pilgrimage hills such as Dilwara, Ranakpur, Shravanabelagola and Shatrunjaya.  
 B. It is confined to caves only.  
 C. It has a completely separate formal vocabulary with no shared regional idioms.  
-D. It begins only in the late medieval period.  
+D. It begins only in the late medieval period.
 
-
-**Answer: A.**  
-**Explanation:** A gives the many-scale Jain programme. B, C and D are precisely the reductions the repaired package must avoid.
 
 ### Q18. Which statement best avoids a common Jain-heritage trap in Topic 2?
 
 A. Shravanabelagola's colossal image should be identified as Mahavira, the last tirthankara.  
 B. Shravanabelagola's Bahubali colossus expands the topic beyond caves and should not be mislabeled as a tirthankara image.  
 C. Jain architecture in this topic excludes hill-pilgrimage landscapes such as Shatrunjaya.  
-D. Hathigumpha should be treated as a neutral Buddhist inscription.  
+D. Hathigumpha should be treated as a neutral Buddhist inscription.
 
-
-**Answer: B.**  
-**Explanation:** B is correct because the repaired topic explicitly uses Shravanabelagola to widen Jain heritage beyond caves and warns against mislabeling Bahubali as a tirthankara. A is wrong because Bahubali is not Mahavira, C is wrong because hill-pilgrimage landscapes are part of the Jain architectural programme, and D is wrong because Hathigumpha is a Jain-context royal inscription that still requires source criticism.
 
 ### Q19. Which line is most careful on the aniconic-to-iconic transition?
 
 A. Architecture alone explains the entire doctrinal shift from symbolism to image worship.  
 B. Once Buddha images appear, stupas lose all importance.  
 C. Early Buddhist art often represented the Buddha symbolically, while later image-centred programmes altered cave and shrine emphasis; architecture records this shift but does not solely cause it.  
-D. Aniconic representation belongs only to Jain art.  
+D. Aniconic representation belongs only to Jain art.
 
-
-**Answer: C.**  
-**Explanation:** C keeps the shift visible without making architecture the sole cause. The other options exaggerate or misidentify the phenomenon.
 
 ### Q20. Which conclusion best handles religious plurality at Ellora?
 
 A. Ellora proves that all religious communities lived in total equality at one instant.  
 B. Ellora is too complex to use in any answer.  
 C. Ellora should be treated only as a sculpture site, not an architectural one.  
-D. Ellora shows a shared sacred hillside used by Buddhist, Brahmanical and Jain communities across centuries, but the argument must preserve chronology and overlap rather than romanticise simultaneity.  
+D. Ellora shows a shared sacred hillside used by Buddhist, Brahmanical and Jain communities across centuries, but the argument must preserve chronology and overlap rather than romanticise simultaneity.
 
-
-**Answer: D.**  
-**Explanation:** D is the repository's preferred conclusion. The others either romanticise or trivialise the site.
 
 ### Q21. Which site-pillar detail is correctly identified?
 
 A. Sanchi - Ashokan pillar with four lions, flatter abacus of geese and flame palmettes, plus Schism Edict  
 B. Vaishali - four lions with wheel and animal abacus  
 C. Sarnath - single lion without abacus  
-D. Deur Kothar - no Buddhist association at all  
+D. Deur Kothar - no Buddhist association at all
 
-
-**Answer: A.**  
-**Explanation:** A is the safe Sanchi pillar description. The others shift Sarnath and Vaishali's features and ignore Deur Kothar's Buddhist relevance.
 
 ### Q22. Which chronological order is correct?
 
 A. Kailasha at Ellora -> Barabar caves -> Udayagiri Vidisha -> Ajanta early phase  
 B. Barabar-Nagarjuni -> Ajanta early phase -> Udayagiri Vidisha -> Kailasha at Ellora  
 C. Ajanta later phase -> Barabar caves -> Hathigumpha -> Sanchi core  
-D. Udayagiri-Khandagiri -> Ashokan Sanchi -> Barabar -> Elephanta  
+D. Udayagiri-Khandagiri -> Ashokan Sanchi -> Barabar -> Elephanta
 
-
-**Answer: B.**  
-**Explanation:** B moves from Mauryan earliest rock-cut to early Buddhist cave phase, then Gupta Udayagiri and finally Rashtrakuta Kailasha. The other sequences scramble the secure chronology.
 
 ### Q23. Which site gives the sharpest evidence of early royal patronage of a non-Buddhist heterodox sect in rock-cut architecture?
 
 A. Ajanta  
 B. Elephanta  
 C. Barabar-Nagarjuni  
-D. Ellora  
+D. Ellora
 
-
-**Answer: C.**  
-**Explanation:** Barabar-Nagarjuni is the clear Ajivika case and the strongest qualifier to simplistic readings of Ashokan patronage.
 
 ### Q24. Which limitation sentence would most improve a 150-word answer on rock-cut architecture as a historical source?
 
 A. Rock-cut monuments reveal everything about ordinary life in early India.  
 B. Because caves survive, literary sources become unnecessary.  
 C. Every surviving cave can be dated with complete certainty.  
-D. Rock-cut monuments preserve durable patronage and ritual space very well, but they over-represent what was endowed in stone and must be read with inscriptions and other sources.  
+D. Rock-cut monuments preserve durable patronage and ritual space very well, but they over-represent what was endowed in stone and must be read with inscriptions and other sources.
 
-
-**Answer: D.**  
-**Explanation:** D gives the precise limit that turns a descriptive answer into a high-quality source-critical answer.
 
 ### Q25. Which statement about the Nasik caves is correct?
 
 A. Nasik preserves 23 Buddhist caves, largely belonging to the Hinayana period but later showing Mahayana influence, along with water tanks cut from the rock.  
 B. Nasik is a Shaiva cave complex best known for Trimurti sculpture.  
 C. Nasik belongs only to the Gupta period.  
-D. Nasik has no relation to vihara development.  
+D. Nasik has no relation to vihara development.
 
-
-**Answer: A.**  
-**Explanation:** A summarises the site's safest features from Nitin. The other options confuse Nasik with different sites or erase its typological value.
 
 ### Q26. Which statement is NOT supported by the repaired source base?
 
 A. Ajanta's cave count should not be the analytical point because unfinished or late-counted caves complicate simple totals.  
 B. Elephanta's exact dynastic patronage is fully settled and should be stated without caution.  
 C. Amaravati's lower Krishna location is a tested prelims discriminator.  
-D. Hathigumpha is a major narrative source that still requires criticism.  
+D. Hathigumpha is a major narrative source that still requires criticism.
 
-
-**Answer: B.**  
-**Explanation:** B is the unsupported statement because the source base repeatedly warns that Elephanta's precise attribution remains debated. The other three are positive controls from the repaired package.
 
 ### Q27. Which UNESCO-year mapping is correct?
 
 A. Sanchi 1983; Ajanta 1987; Ellora 1989; Elephanta 1991  
 B. Ajanta 1989; Ellora 1989; Sanchi 1983; Elephanta 1987  
 C. Ajanta 1983; Ellora 1983; Elephanta 1987; Sanchi 1989  
-D. Ajanta 1972; Ellora 1983; Elephanta 1989; Sanchi 1987  
+D. Ajanta 1972; Ellora 1983; Elephanta 1989; Sanchi 1987
 
-
-**Answer: C.**  
-**Explanation:** C matches the official UNESCO listings used in the repaired package.
 
 ### Q28. Which opening line best fits the verified 2020 GS-I rock-cut architecture question?
 
 A. Rock-cut caves are beautiful tourist destinations and therefore important for history.  
 B. Indian cave architecture is a long list of famous monuments from Bihar to Maharashtra.  
 C. Because caves survive, they remove the need for source criticism.  
-D. Rock-cut architecture is a major historical source because excavated form, inscription and long reuse preserve patronage, ritual plan and technical change more clearly than many perishable structures do.  
+D. Rock-cut architecture is a major historical source because excavated form, inscription and long reuse preserve patronage, ritual plan and technical change more clearly than many perishable structures do.
 
-
-**Answer: D.**  
-**Explanation:** D is a real thesis, not a travel sentence. It defines why caves matter as sources and opens the way to named evidence plus limitation.
 
 ### Q29. Which statement about the Baroda copper-plate is correct?
 
 A. It refers to Elapura / Ellora and praises the Kailasha temple associated with Krishnaraja, giving rare textual corroboration for a surviving rock-cut monument.  
 B. It is an Ashokan edict discovered at Barabar.  
 C. It proves Elephanta's patronage beyond dispute.  
-D. It is a Buddhist donor list from Ajanta.  
+D. It is a Buddhist donor list from Ajanta.
 
-
-**Answer: A.**  
-**Explanation:** A is the correct use of the Baroda plate. The other options attach it to the wrong site, period or religious context.
 
 ### Q30. Which statement on Mauryan polish is safest?
 
 A. Mauryan polish continued unchanged as the normal finish for all later Indian stone sculpture.  
 B. Mauryan polish is a real diagnostic feature of pillars and some cave interiors, but later decline should not be explained through one mechanically certain cause.  
 C. Mauryan polish means that every Mauryan monument was built by Iranian craftsmen.  
-D. Mauryan polish cannot be used in historical analysis.  
+D. Mauryan polish cannot be used in historical analysis.
 
-
-**Answer: B.**  
-**Explanation:** B keeps the feature while avoiding causal overclaim. A, C and D are all exaggerations.
 
 ### Q31. Which question most directly tests site-identification rather than interpretation?
 
 A. Discuss how sacred-site continuity can be inferred from Ellora.  
 B. Examine the limits of royal inscriptions as historical sources.  
 C. Which one of the following statements is correct? Ajanta Caves lie in the gorge of the Waghora river.  
-D. How should Sanchi be used to explain layered patronage?  
+D. How should Sanchi be used to explain layered patronage?
 
-
-**Answer: C.**  
-**Explanation:** C is a site-identification route, not a full monument-interpretation demand. The other options ask for analysis or argument.
 
 ### Q32. Which comparison best summarises Topic 2 as a whole?
 
 A. Mauryan, Buddhist, Jain and rock-cut heritage is basically a list of unrelated sites.  
 B. The topic belongs entirely to philosophy because all architecture simply mirrors doctrine.  
 C. The topic is only about Buddhism because Jain and Brahmanical caves are secondary.  
-D. The topic traces how patronage, ritual function, inscription and long reuse turned stone monuments into layered records of early Indian art and history.  
+D. The topic traces how patronage, ritual function, inscription and long reuse turned stone monuments into layered records of early Indian art and history.
 
 
-**Answer: D.**  
-**Explanation:** D captures the repaired session's central thesis. The other options break the topic into false separations or crude reductions.
+### HARD SITE–PHASE / SOURCE-EVIDENCE MCQS
+
+### Q33. At Sanchi, which addition is best assigned to the Satavahana stage without reallocating the Mauryan core?
+
+A. The initial brick hemisphere
+B. The four sculpted toranas
+C. The first Ajivika cave dedication
+D. The Gupta Temple 17
+
+### Q34. Which pair of claims about Lomas Rishi is supported?
+
+A. Completed under Ashoka and a Buddhist vihara
+B. Contains the Sanchi Schism Edict and Gupta paintings
+C. Unfinished rock-cut cave and early translation of wooden-form facade into stone
+D. Built by Krishna I as an Ellora monolith
+
+### Q35. Which interpretation best reconciles Ellora’s Buddhist vihara predominance and the presence of later Brahmanical and Jain caves?
+
+A. A single planned project mandated three equal religious precincts
+B. The caves definitively prove that monastic congregations ceased
+C. Rashtrakuta patronage alone created every Buddhist and Jain cave
+D. Residential emphasis is an inference from cave proportions; multi-sect use spans phases with overlap
+
+### Q36. Which distinction correctly separates the two Udayagiri references?
+
+A. Vidisha: Gupta Varaha relief; Odisha twin hills: Kharavela’s Hathigumpha inscription
+B. Vidisha: Kharavela’s Hathigumpha; Odisha: Gupta Varaha relief
+C. Both places are identical names for the same Ajivika granite cave complex
+D. Both places are UNESCO-inscribed Buddhist stupa ensembles
+
+### Q37. Which Ashokan pillar comparison is most discriminating?
+
+A. Vaishali’s four lions and Sarnath’s lone lion lack abaci
+B. Sanchi’s single lion and Rampurva’s four lions carry identical edicts
+C. Sarnath’s four-lion animal abacus, Vaishali’s one lion without abacus, Rampurva’s distinct bull and lion
+D. Deur Kothar’s sculpted capital is established as the National Emblem
+
+### Q38. A stupa has cardinal Ayaka-pillars and rich limestone panels. Which source-critical pairing is best?
+
+A. Bharhut; Gautama’s life is recorded in deciphered Harappan script
+B. Amaravati; Satavahana enlargement and later colonial dispersal require separate chronology
+C. Sanchi; its limestone Ayaka-pillars were gifts of Kharavela
+D. Barabar; an Ajivika stupa with four toranas and later painting
+
+### Q39. What can Hathigumpha’s omission of a Mauryan invasion establish?
+
+A. That no invasion occurred
+B. That the inscription cannot identify Kharavela at all
+C. That no caves were excavated under Jain patronage
+D. That a commemorative royal account selects events; silence is not proof the event never happened
+
+### Q40. Which plan and function comparison is best supported?
+
+A. Chaitya: apsidal hall focused on stupa; vihara: residential hall with cells
+B. Chaitya: residential cells; vihara: processional torana around a mound
+C. Chaitya: Gupta royal palace; vihara: free-standing Solanki temple
+D. Chaitya: Buddhist relic mound; vihara: umbrella above its harmika
 
 ### TIMELINE, KEYWORD AND PARAGRAPH-BUILDING DRILLS
 
@@ -395,6 +357,434 @@ Rock-cut architecture is a major historical source because it preserves both exc
 - Amaravati -> lower Krishna / Guntur and Mahachaitya with Ayaka-pillars.  
 - Udayagiri (Vidisha) -> Chandragupta II, Varaha and Gupta inscriptions.  
 - Udayagiri-Khandagiri -> Kharavela, Hathigumpha and Jain twin hills near Bhubaneswar.
+
+### MATCHING MCQ ANSWER KEY — FOUR-OPTION ANALYSIS
+
+Attempt Q1–Q40 before opening this matching key. The PYQ answer discussions below remain in their original sections.
+
+#### Q1 — A
+
+- **A:** Correct — A is correct because it keeps the classification while immediately qualifying it with Barabar-Nagarjuni. B and C are factually wrong, and D throws away a useful opening framework instead of refining it.
+- **B:** Incorrect — Buddhist/non-Buddhist is not an exhaustive court-art split.
+- **C:** Incorrect — royal endowments exist.
+- **D:** Incorrect — classification is useful if qualified.
+
+**Original rationale:** A is correct because it keeps the classification while immediately qualifying it with Barabar-Nagarjuni. B and C are factually wrong, and D throws away a useful opening framework instead of refining it.
+
+**Trap:** Buddhist/non-Buddhist is not an exhaustive court-art split.
+
+#### Q2 — B
+
+- **A:** Incorrect — Sunga did not precede Mauryan core.
+- **B:** Correct — B follows the safe phase order preserved in both Nitin and UNESCO. The other options reverse the phases or assign the wrong contribution to the wrong period.
+- **C:** Incorrect — Mauryan toranas and Satavahana core are reversed.
+- **D:** Incorrect — Gupta did not initiate the stupa core.
+
+**Original rationale:** B follows the safe phase order preserved in both Nitin and UNESCO. The other options reverse the phases or assign the wrong contribution to the wrong period.
+
+**Trap:** Sunga did not precede Mauryan core.
+
+#### Q3 — C
+
+- **A:** Incorrect — Vaishali is single-lion without abacus.
+- **B:** Incorrect — Sanchi has a flatter geese-and-palmette abacus.
+- **C:** Correct — C is the correct Sarnath description. Vaishali has a single lion without abacus, Sanchi has four lions with a flatter geese-and-palmette abacus, and Rampurva produced both lion and bull capitals.
+- **D:** Incorrect — Rampurva also has a lion capital.
+
+**Original rationale:** C is the correct Sarnath description. Vaishali has a single lion without abacus, Sanchi has four lions with a flatter geese-and-palmette abacus, and Rampurva produced both lion and bull capitals.
+
+**Trap:** Vaishali is single-lion without abacus.
+
+#### Q4 — D
+
+- **A:** Incorrect — Ajivika dedication refutes exclusive Buddhism.
+- **B:** Incorrect — murals are not the identified early feature.
+- **C:** Incorrect — Lomas Rishi was unfinished.
+- **D:** Correct — D joins the secure facts. A is false because the caves were for Ajivikas, B is false because no murals are reported, and C ignores Lomas Rishi's incompletion.
+
+**Original rationale:** D joins the secure facts. A is false because the caves were for Ajivikas, B is false because no murals are reported, and C ignores Lomas Rishi's incompletion.
+
+**Trap:** Ajivika dedication refutes exclusive Buddhism.
+
+#### Q5 — A
+
+- **A:** Correct — A preserves both the origin qualifier and the later Buddhist role. B is the classic UPSC trap, while C and D confuse major stupa parts.
+- **B:** Incorrect — stupa origin predates Buddhist use.
+- **C:** Incorrect — torana is gateway, not umbrella.
+- **D:** Incorrect — pradakshina patha is a circumambulatory path.
+
+**Original rationale:** A preserves both the origin qualifier and the later Buddhist role. B is the classic UPSC trap, while C and D confuse major stupa parts.
+
+**Trap:** Stupa origin predates Buddhist use.
+
+#### Q6 — B
+
+- **A:** Incorrect — harmika is summit railing.
+- **B:** Correct — B is correct. Harmika is the summit railing, vedika marks the sacred boundary, and chattra is the honour-bearing umbrella form.
+- **C:** Incorrect — vedika is a railing, not relic.
+- **D:** Incorrect — umbrella is chattra, not vedika.
+
+**Original rationale:** B is correct. Harmika is the summit railing, vedika marks the sacred boundary, and chattra is the honour-bearing umbrella form.
+
+**Trap:** Harmika is summit railing.
+
+#### Q7 — C
+
+- **A:** Incorrect — not a royal palace.
+- **B:** Incorrect — not a structural shikhara temple.
+- **C:** Correct — C gives the architectural and liturgical logic of the chaitya. The other options describe different building types or ignore rock-cut form.
+- **D:** Incorrect — monastic residence describes vihara instead.
+
+**Original rationale:** C gives the architectural and liturgical logic of the chaitya. The other options describe different building types or ignore rock-cut form.
+
+**Trap:** Not a royal palace.
+
+#### Q8 — D
+
+- **A:** Incorrect — Sanchi is a stupa site, not phased caves.
+- **B:** Incorrect — Elephanta is primarily Shaiva.
+- **C:** Incorrect — Bharhut is a stupa-relief site.
+- **D:** Correct — D is correct because UNESCO highlights Ajanta's two major phases and notes that the unfinished caves preserve the method of excavation. A is a layered stupa-hill complex rather than a cave-excavation sequence, B is a Shaiva-dominant island cave complex, and C is a stupa-railing site rather than a phased cave complex.
+
+**Original rationale:** D is correct because UNESCO highlights Ajanta's two major phases and notes that the unfinished caves preserve the method of excavation. A is a layered stupa-hill complex rather than a cave-excavation sequence, B is a Shaiva-dominant island cave complex, and C is a stupa-railing site rather than a phased cave complex.
+
+**Trap:** Sanchi is a stupa site, not phased caves.
+
+#### Q9 — A
+
+- **A:** Correct — A matches UNESCO's two-phase chronology. B, C and D each erase major parts of the site's evidentiary value.
+- **B:** Incorrect — not a Rashtrakuta-only work.
+- **C:** Incorrect — Ajanta includes chaityas.
+- **D:** Incorrect — architecture also records cave-use phases.
+
+**Original rationale:** A matches UNESCO's two-phase chronology. B, C and D each erase major parts of the site's evidentiary value.
+
+**Trap:** Not a Rashtrakuta-only work.
+
+#### Q10 — B
+
+- **A:** Incorrect — one dynasty cannot account for the cave series.
+- **B:** Correct — B preserves both sequence and qualification. The other options over-centralise one phase or erase the complexity of the site.
+- **C:** Incorrect — Kailasha does not erase Jain/Buddhist caves.
+- **D:** Incorrect — rock-cut plan also matters.
+
+**Original rationale:** B preserves both sequence and qualification. The other options over-centralise one phase or erase the complexity of the site.
+
+**Trap:** One dynasty cannot account for the cave series.
+
+#### Q11 — C
+
+- **A:** Incorrect — Vidisha differs from Odisha’s hills.
+- **B:** Incorrect — Gupta Varaha is not Satavahana chaitya.
+- **C:** Correct — C is the safe Udayagiri (Vidisha) description. A confuses two different sites, while B and D distort the site's Brahmanical-Gupta character.
+- **D:** Incorrect — Brahmanical iconography is present.
+
+**Original rationale:** C is the safe Udayagiri (Vidisha) description. A confuses two different sites, while B and D distort the site's Brahmanical-Gupta character.
+
+**Trap:** Vidisha differs from Odisha’s hills.
+
+#### Q12 — D
+
+- **A:** Incorrect — royal commemorative text is selective.
+- **B:** Incorrect — inscription is historical evidence.
+- **C:** Incorrect — Kharavela’s setting is Jain.
+- **D:** Correct — D captures both its value and its limitation. The other options either overstate completeness or misidentify the site's Jain context.
+
+**Original rationale:** D captures both its value and its limitation. The other options either overstate completeness or misidentify the site's Jain context.
+
+**Trap:** Royal commemorative text is selective.
+
+#### Q13 — A
+
+- **A:** Correct — A preserves location, religious emphasis, iconography and the attribution caution. The other options are plainly wrong.
+- **B:** Incorrect — not a Mauryan Buddhist group.
+- **C:** Incorrect — Waghora gorge belongs to Ajanta.
+- **D:** Incorrect — Buddhist remnants occur on the island.
+
+**Original rationale:** A preserves location, religious emphasis, iconography and the attribution caution. The other options are plainly wrong.
+
+**Trap:** Not a Mauryan Buddhist group.
+
+#### Q14 — B
+
+- **A:** Incorrect — limestone art and inscriptions matter.
+- **B:** Correct — B keeps the lower-Krishna setting, patronage, material and afterlife together. C is geographically wrong, A strips the site of its importance, and D removes the necessary hedge from the measurement.
+- **C:** Incorrect — lower Krishna is not Narmada gorge.
+- **D:** Incorrect — 27-metre figure is a qualified estimate.
+
+**Original rationale:** B keeps the lower-Krishna setting, patronage, material and afterlife together. C is geographically wrong, A strips the site of its importance, and D removes the necessary hedge from the measurement.
+
+**Trap:** Limestone art and inscriptions matter.
+
+#### Q15 — C
+
+- **A:** Incorrect — Rampurva includes bull and lion.
+- **B:** Incorrect — pillars belong to Mauryan context.
+- **C:** Correct — C is the exact safe formulation from the core evidence bank. The other options erase or distort the lion-bull functional difference.
+- **D:** Incorrect — edicts are not identical on both pillars.
+
+**Original rationale:** C is the exact safe formulation from the core evidence bank. The other options erase or distort the lion-bull functional difference.
+
+**Trap:** Rampurva includes bull and lion.
+
+#### Q16 — D
+
+- **A:** Incorrect — royal inscription is not neutral.
+- **B:** Incorrect — inscriptions inform patronage and building history.
+- **C:** Incorrect — omission does not disprove occurrence.
+- **D:** Correct — D reflects Upinder Singh's method and the topic's own use of Hathigumpha and the Baroda plate. The other options misuse silence or narrow the source unnecessarily.
+
+**Original rationale:** D reflects Upinder Singh's method and the topic's own use of Hathigumpha and the Baroda plate. The other options misuse silence or narrow the source unnecessarily.
+
+**Trap:** Royal inscription is not neutral.
+
+#### Q17 — A
+
+- **A:** Correct — A gives the many-scale Jain programme. B, C and D are precisely the reductions the repaired package must avoid.
+- **B:** Incorrect — Jain building is not confined to caves.
+- **C:** Incorrect — shared regional idioms occur.
+- **D:** Incorrect — Jain monuments precede late medieval period.
+
+**Original rationale:** A gives the many-scale Jain programme. B, C and D are precisely the reductions the repaired package must avoid.
+
+**Trap:** Jain building is not confined to caves.
+
+#### Q18 — B
+
+- **A:** Incorrect — Bahubali is not Mahavira.
+- **B:** Correct — B is correct because the repaired topic explicitly uses Shravanabelagola to widen Jain heritage beyond caves and warns against mislabeling Bahubali as a tirthankara. A is wrong because Bahubali is not Mahavira, C is wrong because hill-pilgrimage landscapes are part of the Jain architectural programme, and D is wrong because Hathigumpha is a Jain-context royal inscription that still requires source criticism.
+- **C:** Incorrect — hill temple-cities are included.
+- **D:** Incorrect — Hathigumpha is Jain-context and selective.
+
+**Original rationale:** B is correct because the repaired topic explicitly uses Shravanabelagola to widen Jain heritage beyond caves and warns against mislabeling Bahubali as a tirthankara. A is wrong because Bahubali is not Mahavira, C is wrong because hill-pilgrimage landscapes are part of the Jain architectural programme, and D is wrong because Hathigumpha is a Jain-context royal inscription that still requires source criticism.
+
+**Trap:** Bahubali is not Mahavira.
+
+#### Q19 — C
+
+- **A:** Incorrect — architecture alone does not cause doctrinal change.
+- **B:** Incorrect — stupas remain significant in later phases.
+- **C:** Correct — C keeps the shift visible without making architecture the sole cause. The other options exaggerate or misidentify the phenomenon.
+- **D:** Incorrect — early Buddhist aniconism is not Jain-only.
+
+**Original rationale:** C keeps the shift visible without making architecture the sole cause. The other options exaggerate or misidentify the phenomenon.
+
+**Trap:** Architecture alone does not cause doctrinal change.
+
+#### Q20 — D
+
+- **A:** Incorrect — simultaneous equality is not evidenced.
+- **B:** Incorrect — site has abundant interpretable evidence.
+- **C:** Incorrect — planning is central to rock-cut study.
+- **D:** Correct — D is the repository's preferred conclusion. The others either romanticise or trivialise the site.
+
+**Original rationale:** D is the repository's preferred conclusion. The others either romanticise or trivialise the site.
+
+**Trap:** Simultaneous equality is not evidenced.
+
+#### Q21 — A
+
+- **A:** Correct — A is the safe Sanchi pillar description. The others shift Sarnath and Vaishali's features and ignore Deur Kothar's Buddhist relevance.
+- **B:** Incorrect — Vaishali differs from Sarnath.
+- **C:** Incorrect — Sarnath has four lions and abacus.
+- **D:** Incorrect — Deur Kothar has Buddhist-related inscription.
+
+**Original rationale:** A is the safe Sanchi pillar description. The others shift Sarnath and Vaishali's features and ignore Deur Kothar's Buddhist relevance.
+
+**Trap:** Vaishali differs from Sarnath.
+
+#### Q22 — B
+
+- **A:** Incorrect — Kailasha is later than Barabar.
+- **B:** Correct — B moves from Mauryan earliest rock-cut to early Buddhist cave phase, then Gupta Udayagiri and finally Rashtrakuta Kailasha. The other sequences scramble the secure chronology.
+- **C:** Incorrect — later Ajanta cannot precede Mauryan caves.
+- **D:** Incorrect — Mauryan sites precede later Odisha phases.
+
+**Original rationale:** B moves from Mauryan earliest rock-cut to early Buddhist cave phase, then Gupta Udayagiri and finally Rashtrakuta Kailasha. The other sequences scramble the secure chronology.
+
+**Trap:** Kailasha is later than Barabar.
+
+#### Q23 — C
+
+- **A:** Incorrect — Ajanta is Buddhist, not an Ajivika dedication.
+- **B:** Incorrect — Elephanta is Shaiva-dominant.
+- **C:** Correct — Barabar-Nagarjuni is the clear Ajivika case and the strongest qualifier to simplistic readings of Ashokan patronage.
+- **D:** Incorrect — Ellora is later multi-sectarian.
+
+**Original rationale:** Barabar-Nagarjuni is the clear Ajivika case and the strongest qualifier to simplistic readings of Ashokan patronage.
+
+**Trap:** Ajanta is Buddhist, not an Ajivika dedication.
+
+#### Q24 — D
+
+- **A:** Incorrect — stone monuments cannot describe everything.
+- **B:** Incorrect — literature remains a distinct source.
+- **C:** Incorrect — not every cave is dated precisely.
+- **D:** Correct — D gives the precise limit that turns a descriptive answer into a high-quality source-critical answer.
+
+**Original rationale:** D gives the precise limit that turns a descriptive answer into a high-quality source-critical answer.
+
+**Trap:** Stone monuments cannot describe everything.
+
+#### Q25 — A
+
+- **A:** Correct — A summarises the site's safest features from Nitin. The other options confuse Nasik with different sites or erase its typological value.
+- **B:** Incorrect — Trimurti belongs to Elephanta.
+- **C:** Incorrect — Nasik predates exclusively Gupta history.
+- **D:** Incorrect — Nasik contains monastic cave architecture.
+
+**Original rationale:** A summarises the site's safest features from Nitin. The other options confuse Nasik with different sites or erase its typological value.
+
+**Trap:** Trimurti belongs to Elephanta.
+
+#### Q26 — B
+
+- **A:** Incorrect — Ajanta count requires qualification.
+- **B:** Correct — B is the unsupported statement because the source base repeatedly warns that Elephanta's precise attribution remains debated. The other three are positive controls from the repaired package.
+- **C:** Incorrect — Amaravati geography is supported.
+- **D:** Incorrect — Hathigumpha needs source criticism.
+
+**Original rationale:** B is the unsupported statement because the source base repeatedly warns that Elephanta's precise attribution remains debated. The other three are positive controls from the repaired package.
+
+**Trap:** Ajanta count requires qualification.
+
+#### Q27 — C
+
+- **A:** Incorrect — Sanchi was inscribed 1989.
+- **B:** Incorrect — Ajanta and Ellora 1983, not 1989.
+- **C:** Correct — C matches the official UNESCO listings used in the repaired package.
+- **D:** Incorrect — 1972 is UNESCO convention year not Ajanta listing.
+
+**Original rationale:** C matches the official UNESCO listings used in the repaired package.
+
+**Trap:** Sanchi was inscribed 1989.
+
+#### Q28 — D
+
+- **A:** Incorrect — tourism value does not explain historical evidence.
+- **B:** Incorrect — a site-list is not a source thesis.
+- **C:** Incorrect — survival does not eliminate criticism.
+- **D:** Correct — D is a real thesis, not a travel sentence. It defines why caves matter as sources and opens the way to named evidence plus limitation.
+
+**Original rationale:** D is a real thesis, not a travel sentence. It defines why caves matter as sources and opens the way to named evidence plus limitation.
+
+**Trap:** Tourism value does not explain historical evidence.
+
+#### Q29 — A
+
+- **A:** Correct — A is the correct use of the Baroda plate. The other options attach it to the wrong site, period or religious context.
+- **B:** Incorrect — Baroda plate is not an Ashokan Barabar edict.
+- **C:** Incorrect — does not settle Elephanta patronage.
+- **D:** Incorrect — not an Ajanta donor list.
+
+**Original rationale:** A is the correct use of the Baroda plate. The other options attach it to the wrong site, period or religious context.
+
+**Trap:** Baroda plate is not an Ashokan Barabar edict.
+
+#### Q30 — B
+
+- **A:** Incorrect — polish not universal later.
+- **B:** Correct — B keeps the feature while avoiding causal overclaim. A, C and D are all exaggerations.
+- **C:** Incorrect — craft origins cannot be assigned wholesale.
+- **D:** Incorrect — polish is material diagnostic evidence.
+
+**Original rationale:** B keeps the feature while avoiding causal overclaim. A, C and D are all exaggerations.
+
+**Trap:** Polish not universal later.
+
+#### Q31 — C
+
+- **A:** Incorrect — sacred-continuity question requires analysis.
+- **B:** Incorrect — inscription-bias question requires interpretation.
+- **C:** Correct — C is a site-identification route, not a full monument-interpretation demand. The other options ask for analysis or argument.
+- **D:** Incorrect — Sanchi layered-patronage question requires analysis.
+
+**Original rationale:** C is a site-identification route, not a full monument-interpretation demand. The other options ask for analysis or argument.
+
+**Trap:** Sacred-continuity question requires analysis.
+
+#### Q32 — D
+
+- **A:** Incorrect — sites are interconnected through form and patronage.
+- **B:** Incorrect — architecture cannot reduce to doctrine.
+- **C:** Incorrect — Jain and Brahmanical caves are central.
+- **D:** Correct — D captures the repaired session's central thesis. The other options break the topic into false separations or crude reductions.
+
+**Original rationale:** D captures the repaired session's central thesis. The other options break the topic into false separations or crude reductions.
+
+**Trap:** Sites are interconnected through form and patronage.
+
+#### Q33 — A
+
+- **A:** Correct — Brick core belongs to the Ashokan/Mauryan stage.
+- **B:** Incorrect — Four gateways are associated with Satavahana-period patronage.
+- **C:** Incorrect — Ajivika dedications are Barabar–Nagarjuni, not Sanchi.
+- **D:** Incorrect — Temple 17 belongs to a later Gupta phase.
+
+**Trap:** Successive donations must not be flattened into one founding dynasty.
+
+#### Q34 — B
+
+- **A:** Incorrect — Its incompletion makes the Ashokan completion claim unsafe.
+- **B:** Correct — Schism Edict is at Sanchi, not Lomas Rishi.
+- **C:** Incorrect — Incompletion and timber-form imitation are distinct supported features.
+- **D:** Incorrect — Krishna I is linked to the later Kailasha at Ellora.
+
+**Trap:** Do not convert incomplete architecture into a dated completed imperial edifice.
+
+#### Q35 — C
+
+- **A:** Incorrect — No single joint-patron plan is established.
+- **B:** Incorrect — A higher vihara count cannot prove cessation of chaitya worship.
+- **C:** Correct — The complex has multiple patrons and periods.
+- **D:** Incorrect — Proportions support guarded functional inference, not an exact census of ritual.
+
+**Trap:** Do not infer simultaneous equality from a multi-phase hillside.
+
+#### Q36 — D
+
+- **A:** Incorrect — The Vidisha relief and Odisha inscription identify different sites.
+- **B:** Incorrect — This swaps the two geographic/historical identities.
+- **C:** Incorrect — Barabar granite caves are in Bihar and separately identified.
+- **D:** Correct — Neither identification is supported by the official-site ledger.
+
+**Trap:** Shared toponym does not mean shared location, sect or patron.
+
+#### Q37 — A
+
+- **A:** Correct — Vaishali and Sarnath attributes are reversed.
+- **B:** Incorrect — Sanchi and Rampurva features and inscriptions are conflated.
+- **C:** Incorrect — All three details preserve the named pillar-site evidence.
+- **D:** Incorrect — National Emblem is based on Sarnath’s lion capital.
+
+**Trap:** Animal-capital motifs cannot be transferred freely between pillars.
+
+#### Q38 — B
+
+- **A:** Incorrect — Bharhut is an early aniconic comparator, not an Indus-script site.
+- **B:** Correct — Amaravati’s form, patronage and later object-dispersal are different historical layers.
+- **C:** Incorrect — Kharavela’s inscription belongs to Odisha’s cave setting.
+- **D:** Incorrect — Barabar caves were Ajivika rock-cut donations, not a limestone stupa.
+
+**Trap:** Do not merge monument history with rediscovery and museum dispersal.
+
+#### Q39 — C
+
+- **A:** Incorrect — Silence in a partisan source cannot disprove an event.
+- **B:** Incorrect — The inscription remains a major Kharavela source.
+- **C:** Correct — Jain architectural evidence does not vanish because a text omits an event.
+- **D:** Incorrect — Selection limits completeness while preserving historical value.
+
+**Trap:** Read inscriptions for both statements and strategic omissions.
+
+#### Q40 — D
+
+- **A:** Incorrect — A worship hall and a monastic dwelling answer distinct requirements.
+- **B:** Incorrect — This reverses the functional typology and confuses a gateway.
+- **C:** Incorrect — Neither palace nor Solanki temple defines Buddhist cave types.
+- **D:** Correct — Stupa parts cannot be substituted for cave-plan functions.
+
+**Trap:** Read liturgical or residential purpose from a plan, not from a generic word for cave.
 
 ## PYQS AND ANSWER PRACTICE
 

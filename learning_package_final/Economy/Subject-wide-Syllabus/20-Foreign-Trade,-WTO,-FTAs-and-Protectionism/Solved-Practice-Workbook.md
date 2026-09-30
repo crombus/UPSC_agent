@@ -6,7 +6,7 @@ topic_key: economy-topic-20
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+44 questions, including applied origin, remedies, agriculture, TRIMS and trade-law distinctions. Complete all practice questions before consulting the separate key; correct letters rotate A → B → C → D. Historical objective answer letters remain withheld without a matched official paper/key pair.
 
 ### MCQ 1
 
@@ -17,16 +17,6 @@ B. Absolute output alone
 C. The bilateral trade balance
 D. The level of the exchange-rate reserve
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because comparative advantage compares the opportunity cost of producing one good relative to another. Option text: Relative opportunity cost
-- **B - Incorrect:** Absolute output identifies productivity scale, not the relative sacrifice that determines comparative advantage. Option text: Absolute output alone
-- **C - Incorrect:** A trade balance is an outcome and does not define the production-cost basis of comparative advantage. Option text: The bilateral trade balance
-- **D - Incorrect:** Reserve holdings affect resilience but do not determine the Ricardian opportunity-cost comparison. Option text: The level of the exchange-rate reserve
-
-**Examiner trap 1: Fix relative opportunity cost before comparing absolute productivity. Focus: comparative advantage is determined primarily by:.**
-
 ### MCQ 2
 
 Which statement best captures gains from trade?
@@ -35,16 +25,6 @@ A. Every household gains immediately
 B. Aggregate gains can coexist with concentrated adjustment losses
 C. Only exporters can gain
 D. Imports reduce national welfare by definition
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Trade theory does not remove distributional conflict, mobility costs or transition lags. Option text: Every household gains immediately
-- **B - Correct:** This is correct because lower prices and specialisation gains can occur alongside worker, firm and regional displacement. Option text: Aggregate gains can coexist with concentrated adjustment losses
-- **C - Incorrect:** Consumers and imported-input users can gain even when they do not export directly. Option text: Only exporters can gain
-- **D - Incorrect:** Imports can expand consumption possibilities and productive input access, so their value is not intrinsically a welfare loss. Option text: Imports reduce national welfare by definition
-
-**Examiner trap 2: Separate aggregate welfare from distribution and transition. Focus: which statement best captures gains from trade.**
 
 ### MCQ 3
 
@@ -55,16 +35,6 @@ B. The merchandise balance necessarily becomes positive
 C. Export prices rise relative to import prices
 D. The currency necessarily appreciates
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Terms of trade is a price ratio and does not mechanically determine export quantity. Option text: Export volume necessarily rises
-- **B - Incorrect:** A price-ratio improvement can coexist with a deficit when quantities and values move differently. Option text: The merchandise balance necessarily becomes positive
-- **C - Correct:** This is correct because the index is export-price index divided by import-price index, usually multiplied by 100. Option text: Export prices rise relative to import prices
-- **D - Incorrect:** Exchange-rate movement can influence prices but is not the definition of terms of trade. Option text: The currency necessarily appreciates
-
-**Examiner trap 3: Do not substitute a quantity or balance concept for a price ratio. Focus: an improvement in commodity terms of trade means:.**
-
 ### MCQ 4
 
 Trade diversion occurs when an FTA causes:
@@ -73,16 +43,6 @@ A. Higher-cost domestic output to be replaced by lower-cost partner imports
 B. Exports to rise in every member
 C. All external tariffs to become common
 D. A lower-cost non-member source to be replaced by a higher-cost partner
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** That is trade creation, because inefficient domestic production is displaced. Option text: Higher-cost domestic output to be replaced by lower-cost partner imports
-- **B - Incorrect:** Export growth does not by itself identify the counterfactual sourcing effect. Option text: Exports to rise in every member
-- **C - Incorrect:** A common external tariff defines a customs union, not trade diversion. Option text: All external tariffs to become common
-- **D - Correct:** This is correct because preference, rather than productive efficiency, redirects sourcing toward the partner. Option text: A lower-cost non-member source to be replaced by a higher-cost partner
-
-**Examiner trap 4: Use the counterfactual source, not observed partner growth alone. Focus: trade diversion occurs when an fta causes:.**
 
 ### MCQ 5
 
@@ -93,16 +53,6 @@ B. A fixed amount per kilogram
 C. A lower rate within a quota only
 D. A payment to a domestic producer
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because the tax base is value rather than physical quantity. Option text: A percentage of customs value
-- **B - Incorrect:** A fixed amount per unit is a specific tariff. Option text: A fixed amount per kilogram
-- **C - Incorrect:** That describes the in-quota limb of a tariff-rate quota. Option text: A lower rate within a quota only
-- **D - Incorrect:** A producer payment is a subsidy, not a customs tariff. Option text: A payment to a domestic producer
-
-**Examiner trap 5: Identify the tax base before interpreting incidence. Focus: an ad valorem tariff is levied as:.**
-
 ### MCQ 6
 
 Compared with a tariff, an import quota more directly fixes:
@@ -111,16 +61,6 @@ A. The government revenue collected
 B. The permitted import quantity
 C. The domestic price increase
 D. The bound tariff ceiling
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Quota rent may accrue to licence holders unless rights are auctioned. Option text: The government revenue collected
-- **B - Correct:** This is correct because a quota establishes a volume ceiling while domestic price and rent adjust. Option text: The permitted import quantity
-- **C - Incorrect:** The price response varies with demand, supply and market power. Option text: The domestic price increase
-- **D - Incorrect:** Bindings are WTO schedule commitments, not quota quantities. Option text: The bound tariff ceiling
-
-**Examiner trap 6: Always ask who receives the quota rent. Focus: compared with a tariff, an import quota more directly fixes:.**
 
 ### MCQ 7
 
@@ -131,16 +71,6 @@ B. One tariff applied to all quantities
 C. Lower duty within a volume and higher duty beyond it
 D. A subsidy capped by export value
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** A TRQ is not an absolute quota; above-quota imports remain legally possible at the higher tariff. Option text: A complete ban after the quota is filled
-- **B - Incorrect:** The defining feature is the two-tier rate around a specified quantity. Option text: One tariff applied to all quantities
-- **C - Correct:** This is correct because imports can continue above the quota at the out-of-quota rate. Option text: Lower duty within a volume and higher duty beyond it
-- **D - Incorrect:** A subsidy cap is unrelated to tariff-rate quota administration. Option text: A subsidy capped by export value
-
-**Examiner trap 7: Do not turn the quota volume into a prohibition. Focus: a tariff-rate quota means:.**
-
 ### MCQ 8
 
 Which statement about subsidies is legally sound?
@@ -149,16 +79,6 @@ A. Every government programme is a prohibited subsidy
 B. Every export remission is prohibited
 C. Services subsidies are disciplined identically by the SCM Agreement
 D. WTO treatment depends on design, specificity, agreement and effects
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** General public services or non-specific measures need not satisfy the legal subsidy test. Option text: Every government programme is a prohibited subsidy
-- **B - Incorrect:** Remission that does not exceed embedded taxes can differ from an export-contingent net subsidy. Option text: Every export remission is prohibited
-- **C - Incorrect:** The SCM Agreement's core disciplines concern trade in goods. Option text: Services subsidies are disciplined identically by the SCM Agreement
-- **D - Correct:** This is correct because financial contribution, benefit, specificity and applicable disciplines must be established. Option text: WTO treatment depends on design, specificity, agreement and effects
-
-**Examiner trap 8: Classify the measure before declaring WTO inconsistency. Focus: which statement about subsidies is legally sound.**
 
 ### MCQ 9
 
@@ -169,16 +89,6 @@ B. All product-quality preferences
 C. Only customs valuation
 D. Protection of domestic firms from import surges
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because SPS covers food safety and pest or disease risks within its defined scope. Option text: Specified human, animal and plant health risks
-- **B - Incorrect:** General quality or labelling rules outside SPS are usually examined under TBT. Option text: All product-quality preferences
-- **C - Incorrect:** Customs valuation determines the value base and is a separate WTO discipline. Option text: Only customs valuation
-- **D - Incorrect:** Import-surge relief belongs to safeguards, not SPS. Option text: Protection of domestic firms from import surges
-
-**Examiner trap 9: Identify the protected risk before choosing SPS. Focus: the sps agreement principally concerns:.**
-
 ### MCQ 10
 
 Which is primarily a TBT measure?
@@ -187,16 +97,6 @@ A. A plant-quarantine rule against an invasive pest
 B. A mandatory energy-efficiency labelling rule for appliances
 C. An anti-dumping duty after injury findings
 D. A tariff ceiling in a goods schedule
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Plant-health pest controls fall within SPS. Option text: A plant-quarantine rule against an invasive pest
-- **B - Correct:** This is correct because it is a technical regulation and conformity issue outside the defined SPS risks. Option text: A mandatory energy-efficiency labelling rule for appliances
-- **C - Incorrect:** That is a trade remedy under GATT Article VI and the Anti-Dumping Agreement. Option text: An anti-dumping duty after injury findings
-- **D - Incorrect:** A bound tariff is a market-access commitment, not a technical regulation. Option text: A tariff ceiling in a goods schedule
-
-**Examiner trap 10: Separate technical regulation from food, animal and plant health risk. Focus: which is primarily a tbt measure.**
 
 ### MCQ 11
 
@@ -207,16 +107,6 @@ B. A foreign government financial contribution only
 C. Dumping, material injury and causal link
 D. Any injury to one domestic firm
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** An import surge without unfair pricing is associated with safeguard analysis. Option text: Only an increase in import volume
-- **B - Incorrect:** That is the starting point for a countervailing investigation. Option text: A foreign government financial contribution only
-- **C - Correct:** This is correct because low export price alone does not complete the WTO legal test. Option text: Dumping, material injury and causal link
-- **D - Incorrect:** The investigation concerns material injury to the relevant domestic industry and causation. Option text: Any injury to one domestic firm
-
-**Examiner trap 11: Low price is not automatically dumping. Focus: anti-dumping duty requires proof of:.**
-
 ### MCQ 12
 
 A safeguard differs from anti-dumping because it:
@@ -225,16 +115,6 @@ A. Requires proof of a specific foreign subsidy
 B. Requires export price below normal value
 C. Is a permanent tariff increase
 D. Addresses serious injury from an import surge without an unfair-trade finding
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Specific subsidy and injury are countervailing-duty elements. Option text: Requires proof of a specific foreign subsidy
-- **B - Incorrect:** That comparison belongs to anti-dumping. Option text: Requires export price below normal value
-- **C - Incorrect:** Safeguards are temporary and adjustment-oriented under legal conditions. Option text: Is a permanent tariff increase
-- **D - Correct:** This is correct because safeguards can respond to fairly traded increased imports. Option text: Addresses serious injury from an import surge without an unfair-trade finding
-
-**Examiner trap 12: Do not import dumping elements into safeguard analysis. Focus: a safeguard differs from anti-dumping because it:.**
 
 ### MCQ 13
 
@@ -245,16 +125,6 @@ B. Only the final-good tariff rate
 C. Only customs revenue
 D. The export-price to import-price ratio
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because effective protection measures incentives on the value-added base. Option text: The change in domestic value added after output and input tariffs
-- **B - Incorrect:** That is nominal protection and ignores taxes on tradable inputs. Option text: Only the final-good tariff rate
-- **C - Incorrect:** Revenue does not measure the protected margin on domestic value added. Option text: Only customs revenue
-- **D - Incorrect:** That ratio is the commodity terms of trade. Option text: The export-price to import-price ratio
-
-**Examiner trap 13: Use output and input protection on the value-added denominator. Focus: effective protection focuses on:.**
-
 ### MCQ 14
 
 Tariff escalation can discourage developing-country processing because:
@@ -263,16 +133,6 @@ A. Raw materials always face the highest tariff
 B. Tariffs rise with the degree of processing
 C. All stages face one uniform tariff
 D. It removes rules-of-origin requirements
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** That pattern would be de-escalation rather than escalation. Option text: Raw materials always face the highest tariff
-- **B - Correct:** This is correct because finished products face higher barriers than raw materials, discouraging value addition in exporting countries. Option text: Tariffs rise with the degree of processing
-- **C - Incorrect:** A uniform structure does not create the rising processing ladder. Option text: All stages face one uniform tariff
-- **D - Incorrect:** Origin rules and tariff escalation are distinct instruments. Option text: It removes rules-of-origin requirements
-
-**Examiner trap 14: Map the tariff ladder across processing stages. Focus: tariff escalation can discourage developing-country processing because:.**
 
 ### MCQ 15
 
@@ -283,16 +143,6 @@ B. Appellate Body
 C. Ministerial Conference
 D. Trade Policy Review Body alone
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The Secretariat supports members but does not replace member decision-making. Option text: Secretariat
-- **B - Incorrect:** The Appellate Body reviews legal findings and is currently unable to hear appeals. Option text: Appellate Body
-- **C - Correct:** This is correct because it can decide on all matters under multilateral agreements and normally meets at least biennially. Option text: Ministerial Conference
-- **D - Incorrect:** The TPRB is the General Council meeting under a specific mandate. Option text: Trade Policy Review Body alone
-
-**Examiner trap 15: Do not transfer member powers to the Secretariat. Focus: the wto's top decision-making body is the:.**
-
 ### MCQ 16
 
 WTO decisions are normally made by:
@@ -301,16 +151,6 @@ A. Weighted voting by quota share
 B. A permanent executive board
 C. The Director-General's unilateral order
 D. Consensus among member governments
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Weighted voting characterises some financial institutions, not normal WTO decision-making. Option text: Weighted voting by quota share
-- **B - Incorrect:** The WTO has no board that replaces the full membership for major decisions. Option text: A permanent executive board
-- **C - Incorrect:** The Director-General facilitates but cannot legislate member obligations unilaterally. Option text: The Director-General's unilateral order
-- **D - Correct:** This is correct because the WTO is member-driven and normally follows consensus, with voting legally available in specified cases. Option text: Consensus among member governments
-
-**Examiner trap 16: Consensus is not weighted voting. Focus: wto decisions are normally made by:.**
 
 ### MCQ 17
 
@@ -321,16 +161,6 @@ B. Imported goods to avoid all border tariffs
 C. Foreign goods to receive better internal treatment than domestic goods
 D. Every FTA preference to be extended globally
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct subject to structured exceptions such as qualifying regional agreements. Option text: A trade advantage to one member to extend to like trade from all members
-- **B - Incorrect:** MFN concerns partner equality, not a ban on tariffs. Option text: Imported goods to avoid all border tariffs
-- **C - Incorrect:** National treatment requires no less favourable treatment, not superior treatment. Option text: Foreign goods to receive better internal treatment than domestic goods
-- **D - Incorrect:** Qualifying FTAs are recognised exceptions to MFN. Option text: Every FTA preference to be extended globally
-
-**Examiner trap 17: MFN compares foreign partners; national treatment compares imported and domestic. Focus: mfn treatment generally requires:.**
-
 ### MCQ 18
 
 National treatment primarily operates:
@@ -339,16 +169,6 @@ A. Only before customs clearance
 B. After entry, against discriminatory internal treatment
 C. Only between two foreign partners
 D. Only for merchandise and never services or IP
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** The rule focuses on internal taxes and regulation after market entry. Option text: Only before customs clearance
-- **B - Correct:** This is correct because ordinary border tariffs are not by themselves national-treatment violations. Option text: After entry, against discriminatory internal treatment
-- **C - Incorrect:** Partner-to-partner equality is the MFN question. Option text: Only between two foreign partners
-- **D - Incorrect:** National-treatment provisions also appear in GATS and TRIPS with agreement-specific operation. Option text: Only for merchandise and never services or IP
-
-**Examiner trap 18: Fix the stage of treatment before applying the rule. Focus: national treatment primarily operates:.**
 
 ### MCQ 19
 
@@ -359,16 +179,6 @@ B. The customs rate collected on every shipment
 C. The negotiated maximum in a WTO schedule
 D. A minimum tariff that cannot be reduced
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Preferential rates arise under specific agreements and are distinct from the MFN binding. Option text: The preferential rate in every FTA
-- **B - Incorrect:** The applied rate is the rate actually charged and may be below the binding. Option text: The customs rate collected on every shipment
-- **C - Correct:** This is correct because it is a legal ceiling that may exceed the rate actually charged. Option text: The negotiated maximum in a WTO schedule
-- **D - Incorrect:** Members may apply lower tariffs than their bound ceilings. Option text: A minimum tariff that cannot be reduced
-
-**Examiner trap 19: Ceiling, applied MFN rate and preference are three different numbers. Focus: a bound tariff is:.**
-
 ### MCQ 20
 
 Special and differential treatment means:
@@ -377,16 +187,6 @@ A. A blanket exemption from WTO obligations
 B. Automatic veto power for one developing member
 C. Permanent tariff-free access in every market
 D. Agreement-specific flexibility or assistance for developing members
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Developing status does not erase all agreement disciplines. Option text: A blanket exemption from WTO obligations
-- **B - Incorrect:** Consensus practice does not create a unilateral formal veto category. Option text: Automatic veto power for one developing member
-- **C - Incorrect:** Preferences and duty-free schemes have separate legal designs and coverage. Option text: Permanent tariff-free access in every market
-- **D - Correct:** This is correct because S&DT operates through particular provisions, transitions and support. Option text: Agreement-specific flexibility or assistance for developing members
-
-**Examiner trap 20: Always identify the particular S&DT provision. Focus: special and differential treatment means:.**
 
 ### MCQ 21
 
@@ -397,16 +197,6 @@ B. Mode 1, cross-border supply
 C. Mode 2, consumption abroad
 D. Mode 4, permanent migration
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because the service supplier operates through an establishment in the importing market. Option text: Mode 3, commercial presence
-- **B - Incorrect:** Mode 1 supplies across the border without the supplier's commercial presence. Option text: Mode 1, cross-border supply
-- **C - Incorrect:** Mode 2 involves the consumer moving abroad to receive the service. Option text: Mode 2, consumption abroad
-- **D - Incorrect:** Mode 4 concerns temporary presence of natural persons, not permanent migration. Option text: Mode 4, permanent migration
-
-**Examiner trap 21: Name the movement of service, consumer, capital or person. Focus: a foreign bank branch supplying services locally is mainly gats:.**
-
 ### MCQ 22
 
 TRIMS most directly disciplines:
@@ -415,16 +205,6 @@ A. Patent term and compulsory licensing
 B. Goods-related local-content and trade-balancing measures
 C. Temporary movement of service suppliers
 D. All foreign-investment screening decisions
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Those are TRIPS issues. Option text: Patent term and compulsory licensing
-- **B - Correct:** This is correct because the illustrative list targets measures inconsistent with GATT Articles III and XI. Option text: Goods-related local-content and trade-balancing measures
-- **C - Incorrect:** That is addressed under GATS Mode 4 commitments. Option text: Temporary movement of service suppliers
-- **D - Incorrect:** TRIMS is not a comprehensive investment-protection code. Option text: All foreign-investment screening decisions
-
-**Examiner trap 22: TRIMS is goods-linked; TRIPS concerns intellectual property. Focus: trims most directly disciplines:.**
 
 ### MCQ 23
 
@@ -435,16 +215,6 @@ B. A general Red Box
 C. Green Box
 D. Blue Box without conditions
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Amber support is trade-distorting and subject to scheduled or de minimis limits. Option text: Amber Box in every case
-- **B - Incorrect:** The Agreement on Agriculture has no general Red Box category. Option text: A general Red Box
-- **C - Correct:** This is correct because qualifying minimally trade-distorting publicly funded measures are exempt without a financial ceiling. Option text: Green Box
-- **D - Incorrect:** Blue Box treatment depends on production-limiting programme conditions. Option text: Blue Box without conditions
-
-**Examiner trap 23: Colour is a legal design category, not a moral label. Focus: which aoa box is exempt from reduction commitments when its criteria are met.**
-
 ### MCQ 24
 
 For most developing members, the general AoA de minimis threshold is:
@@ -453,16 +223,6 @@ A. 5 percent in every case
 B. 10 percent of GDP
 C. 10 percent of government expenditure
 D. 10 percent of the relevant value of production
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Five percent is the general developed-country threshold. Option text: 5 percent in every case
-- **B - Incorrect:** The denominator is relevant agricultural production value, not GDP. Option text: 10 percent of GDP
-- **C - Incorrect:** The test is not based on total public spending. Option text: 10 percent of government expenditure
-- **D - Correct:** This is correct for the general developing-country product-specific or non-product-specific test, subject to schedules. Option text: 10 percent of the relevant value of production
-
-**Examiner trap 24: State both numerator category and production-value denominator. Focus: for most developing members, the general aoa de minimis threshold is:.**
 
 ### MCQ 25
 
@@ -473,16 +233,6 @@ B. A permanent Green Box reclassification
 C. An unconditional exemption for every food subsidy
 D. A rule completed at MC14
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because eligible programmes receive dispute protection subject to transparency and anti-distortion conditions. Option text: Conditional interim protection pending a permanent solution
-- **B - Incorrect:** The Bali decision did not permanently place administered-price procurement in the Green Box. Option text: A permanent Green Box reclassification
-- **C - Incorrect:** The protection has programme, notification and safeguard conditions. Option text: An unconditional exemption for every food subsidy
-- **D - Incorrect:** WTO's post-MC14 note records no agriculture consensus in March 2026. Option text: A rule completed at MC14
-
-**Examiner trap 25: Do not convert interim litigation protection into a permanent substantive settlement. Focus: the bali peace clause on public stockholding is:.**
-
 ### MCQ 26
 
 The WTO Fisheries Subsidies Agreement:
@@ -491,16 +241,6 @@ A. Prohibits every fisheries subsidy
 B. Entered into force on 15 September 2025
 C. Ended negotiations on overcapacity rules
 D. Is only a voluntary declaration
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Its current prohibitions target specified harmful subsidies, not all support. Option text: Prohibits every fisheries subsidy
-- **B - Correct:** This is correct; WTO records the two-thirds acceptance threshold on that date. Option text: Entered into force on 15 September 2025
-- **C - Incorrect:** Additional disciplines on overcapacity and overfishing remain under negotiation. Option text: Ended negotiations on overcapacity rules
-- **D - Incorrect:** After entry into force it is a binding WTO agreement for accepting members under its terms. Option text: Is only a voluntary declaration
-
-**Examiner trap 26: Separate current prohibitions from unfinished second-wave negotiations. Focus: the wto fisheries subsidies agreement:.**
 
 ### MCQ 27
 
@@ -511,16 +251,6 @@ B. Automatically became the 2024 plurilateral agreement
 C. Lapsed on 30 March 2026 after no consensus
 D. Continues unchanged until MC15
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** No universal permanent moratorium was agreed at MC14. Option text: Was made permanent for all members
-- **B - Incorrect:** The E-Commerce Agreement and multilateral moratorium are separate tracks. Option text: Automatically became the 2024 plurilateral agreement
-- **C - Correct:** This is correct according to the WTO post-MC14 briefing note. Option text: Lapsed on 30 March 2026 after no consensus
-- **D - Incorrect:** The MC13 extension ended at MC14 or 31 March 2026, and no consensus renewed it. Option text: Continues unchanged until MC15
-
-**Examiner trap 27: Separate the multilateral lapse from later group commitments. Focus: after mc14, the wto-wide e-commerce moratorium:.**
-
 ### MCQ 28
 
 A customs union differs from an FTA because it has:
@@ -529,16 +259,6 @@ A. Rules of origin as its defining anti-deflection device
 B. No internal trade liberalisation
 C. Automatic free movement of labour
 D. A common external tariff
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Different external tariffs make origin rules especially central in an FTA. Option text: Rules of origin as its defining anti-deflection device
-- **B - Incorrect:** Both arrangements seek preferential internal liberalisation within their legal coverage. Option text: No internal trade liberalisation
-- **C - Incorrect:** Factor mobility defines a common market rather than every customs union. Option text: Automatic free movement of labour
-- **D - Correct:** This is correct because members jointly apply an external tariff while liberalising internal trade. Option text: A common external tariff
-
-**Examiner trap 28: Look outward at the external tariff. Focus: a customs union differs from an fta because it has:.**
 
 ### MCQ 29
 
@@ -549,16 +269,6 @@ B. The applied MFN tariff for all countries
 C. Whether dumping has occurred
 D. The exchange rate used by customs
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is correct because origin criteria connect production history to preferential treatment. Option text: Eligibility of a product for a tariff preference
-- **B - Incorrect:** MFN rates apply independently of preferential-origin qualification. Option text: The applied MFN tariff for all countries
-- **C - Incorrect:** Dumping compares export price with normal value and injury. Option text: Whether dumping has occurred
-- **D - Incorrect:** Currency conversion rules are distinct from origin. Option text: The exchange rate used by customs
-
-**Examiner trap 29: Shipment route is not the same as economic origin. Focus: rules of origin determine:.**
-
 ### MCQ 30
 
 Which status pair is correct at the 9 September 2026 cutoff?
@@ -567,16 +277,6 @@ A. India is an RCEP member; EU FTA is in force
 B. UK CETA in force; India-New Zealand FTA signed but awaiting procedures
 C. EFTA TEPA is unsigned; Oman CEPA is only under negotiation
 D. Australia ECTA is not operative; UAE CEPA begins in 2027
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** India did not join RCEP and this package assigns no EU entry-into-force date. Option text: India is an RCEP member; EU FTA is in force
-- **B - Correct:** This is correct: UK CETA entered into force on 15 July 2026, while the New Zealand release says entry follows domestic procedures and ratification. Option text: UK CETA in force; India-New Zealand FTA signed but awaiting procedures
-- **C - Incorrect:** EFTA TEPA entered into force on 1 October 2025 and Oman CEPA on 1 June 2026. Option text: EFTA TEPA is unsigned; Oman CEPA is only under negotiation
-- **D - Incorrect:** Australia ECTA and UAE CEPA have operated since December and May 2022 respectively. Option text: Australia ECTA is not operative; UAE CEPA begins in 2027
-
-**Examiner trap 30: Concluded, signed and in force are not synonyms. Focus: which status pair is correct at the 9 september 2026 cutoff.**
 
 ### MCQ 31
 
@@ -587,16 +287,6 @@ B. CBIC finding, DGTR collection, Finance Commission review
 C. DGTR investigation, government duty notification, CBIC administration
 D. WTO investigation followed by automatic Indian duty
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** These bodies do not perform that sequence. Option text: DGFT investigation, RBI notification, WTO collection
-- **B - Incorrect:** CBIC administers customs but DGTR conducts the trade-remedy investigation. Option text: CBIC finding, DGTR collection, Finance Commission review
-- **C - Correct:** This is correct because investigation, legal levy and border collection are institutionally distinct. Option text: DGTR investigation, government duty notification, CBIC administration
-- **D - Incorrect:** WTO does not investigate individual Indian industry petitions or collect the duty. Option text: WTO investigation followed by automatic Indian duty
-
-**Examiner trap 31: Separate investigating authority from the authority issuing and collecting duty. Focus: in india, the usual trade-remedy sequence is:.**
-
 ### MCQ 32
 
 RoDTEP is best described as:
@@ -606,15 +296,113 @@ B. An import quota administered by DGTR
 C. An FTA preferential tariff
 D. Remission of specified embedded taxes not otherwise refunded
 
-**Answer: D.**
+### MCQ 33
 
-**Option-wise explanation:**
-- **A - Incorrect:** That would misstate both incidence and WTO-oriented design. Option text: A permanent export bonus unrelated to taxes
-- **B - Incorrect:** RoDTEP concerns export remission and is not a quantity restriction. Option text: An import quota administered by DGTR
-- **C - Incorrect:** A partner preference arises under an agreement, whereas RoDTEP is a domestic remission scheme. Option text: An FTA preferential tariff
-- **D - Correct:** This is correct because its design seeks tax neutrality for exported products. Option text: Remission of specified embedded taxes not otherwise refunded
+An FTA cuts a partner tariff; an Indian manufacturer chooses a higher-cost partner input over a cheaper non-partner input. Which result is this?
 
-**Examiner trap 32: Remission is not the same as an export-performance subsidy. Focus: rodtep is best described as:.**
+A. Trade diversion due to preference rather than world-cost advantage.
+B. Trade creation because the least-cost world producer gains sales.
+C. National treatment because internal taxes become nondiscriminatory.
+D. A WTO safeguard prompted by an import surge and serious injury.
+
+### MCQ 34
+
+An exporter has enough market access but fails an FTA's origin test. What follows?
+
+A. Origin rules change the seller's nationality into an SPS compliance certificate.
+B. The concessional FTA rate may be unavailable despite the product's shipment from the partner country.
+C. Shipment from the partner automatically satisfies every origin criterion.
+D. An MFN tariff ceiling immediately falls to zero for all exporters.
+
+### MCQ 35
+
+An imported packaged food faces an internal excise tax higher than like domestic food after customs clearance. What principle is chiefly implicated?
+
+A. A bound tariff ceiling on import duties, with no internal-tax implications.
+B. The agricultural de minimis rule measuring support to domestic producers.
+C. National treatment on internal taxation after entry.
+D. MFN's equalisation of border concessions among foreign partners only.
+
+### MCQ 36
+
+A member's applied customs tariff is below its WTO bound rate. Which inference is defensible?
+
+A. The applied rate can never differ from the bound ceiling.
+B. Any rise below the bound rate is necessarily anti-dumping action.
+C. The bound rate is a mandatory minimum customs duty.
+D. The applied rate may rise up to the bound ceiling, subject to other commitments and domestic law.
+
+### MCQ 37
+
+A partner rejects a shipment for alleged pesticide residue beyond scientifically justified limits. Which agreement is most directly relevant?
+
+A. SPS, with risk-based rules for food safety and plant/animal health.
+B. TBT exclusively because every food-safety standard is a technical barrier.
+C. TRIMS because residue controls require foreign-investment approval.
+D. GATS because food trade is an international service by default.
+
+### MCQ 38
+
+A government procurement scheme requires a foreign investor's local factory to buy a fixed share of domestic inputs as a condition on operations. Which risk needs scrutiny?
+
+A. A GI registration rule on geographical product names.
+B. TRIMS/GATT inconsistency from a mandatory local-content investment measure.
+C. The GATS rule that all FDI must be in a service supplier.
+D. The IGC's grain-trade rules banning all local purchases.
+
+### MCQ 39
+
+India lowers a duty on imported edible oil after domestic retail prices spike. Which trade-off matters?
+
+A. Import dependence means the duty has never been increased to support farmers.
+B. The customs decision changes India into a grains-export relief agency.
+C. Cheaper consumer supplies may weaken local oilseed incentives; effects depend on dated duty and pass-through evidence.
+D. Lower import duty mechanically raises every farmer's oilseed price.
+
+### MCQ 40
+
+A country taxes a foreign grain shipment because it was dumped, but has no injury finding. What is missing for anti-dumping?
+
+A. A WTO ministerial vote fixing the imported grain's retail price.
+B. Proof that every foreign country offers the same FTA tariff.
+C. An automatic import-volume cap under the SPS Agreement.
+D. An investigation establishing dumping, material injury and causal link under applicable rules.
+
+### MCQ 41
+
+A sudden surge of fairly traded imports seriously injures domestic producers. Which instrument is designed for this scenario?
+
+A. A time-bound safeguard following the requisite import-surge and serious-injury findings.
+B. An anti-dumping duty despite no evidence of dumping.
+C. A countervailing duty despite no finding of foreign subsidy.
+D. Permanent withdrawal of national treatment from all imports.
+
+### MCQ 42
+
+An Indian services firm supplies software remotely to foreign clients without establishment abroad. Which GATS mode is most direct?
+
+A. Mode 4 temporary movement of the supplier's natural persons.
+B. Mode 1 cross-border supply.
+C. Mode 2 consumption abroad by the overseas client travelling to India.
+D. Mode 3 commercial presence through a locally established foreign subsidiary.
+
+### MCQ 43
+
+A government interprets the AoA public-stockholding peace clause as permanent universal immunity for every food subsidy. Which correction is required?
+
+A. It permits a developing country to ignore every domestic-support reporting duty.
+B. It replaces the need for an agreement on agricultural subsidy classification.
+C. It is conditional interim protection for qualifying public-stockholding programmes, not blanket exemption from notifications or other disciplines.
+D. It applies automatically to any subsidy in any economic sector.
+
+### MCQ 44
+
+A higher tariff is placed on finished textiles than on imported yarn, ostensibly to protect local processing. What should be assessed?
+
+A. Only the nominal finished-product tariff, since yarn never enters production costs.
+B. The number of tariff lines regardless of their production-chain position.
+C. A rule treating all imported yarn as an exported service.
+D. Effective protection on domestic value added, including input tariffs and downstream costs.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -626,13 +414,11 @@ The two Mains questions below reproduce the audited wording routed to this owner
 
 **Question:** How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India? (15 marks, 250 words)
 
-**Model solution:** Protectionism can reduce India's export demand, disrupt supply chains and raise imported-input costs through retaliation. Currency manipulation by major economies can redirect capital, alter competitiveness and increase exchange-rate volatility. The macroeconomic transmission runs through the trade balance, inflation, corporate margins, investment and external financing. India can also gain from trade diversion if firms are competitive and logistics and standards permit rapid market entry. A balanced response combines WTO engagement, diversified FTAs, lawful remedies, reserve and macroeconomic credibility, competitively priced inputs and worker adjustment. The qualification is decisive: not every currency movement is manipulation, and the effect of a tariff depends on coverage, retaliation, pass-through and India's position in the value chain.
 
 ### VERIFIED MAINS PYQ - 2025 GS-III
 
 **Question:** What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (10 marks, 150 words)
 
-**Model solution:** Protectionism narrows market access, raises standards and origin costs, fragments global value chains and weakens predictable WTO enforcement. Bilateralism can disadvantage countries outside preferred networks and multiply incompatible rules. India should preserve multilateral engagement while pursuing selective FTAs, diversified markets and resilient sourcing. Domestic policy must lower logistics and power costs, strengthen laboratories, skills and trade finance, and keep imported intermediates competitive. Strategic protection should be targeted, performance-linked and temporary. Adjustment support for workers and small firms is essential. Success should be measured through utilisation, domestic value addition, services access, exports, jobs and consumer effects rather than agreement counts alone.
 
 ### OBJECTIVE PYQ ROUTES - ANSWER-KEY NEUTRAL
 
@@ -653,6 +439,485 @@ The two Mains questions below reproduce the audited wording routed to this owner
 
 **Question:** Distinguish MFN treatment, national treatment and an FTA preference. Answer in 150 words.
 
+
+### ORIGINAL MAINS 2 - 10 MARKS
+
+**Question:** Distinguish anti-dumping, countervailing and safeguard measures. Answer in 150 words.
+
+
+### ORIGINAL MAINS 3 - 15 MARKS
+
+**Question:** Explain why effective protection and tariff escalation matter for manufacturing strategy. Answer in 250 words.
+
+
+### ORIGINAL MAINS 4 - 15 MARKS
+
+**Question:** Assess the WTO's relevance amid impaired appellate review and fragmented trade rules. Answer in 250 words.
+
+
+### ORIGINAL MAINS 5 - 20 MARKS
+
+**Question:** Evaluate India's contemporary FTA strategy using legal status and economic outcomes. Answer in 250 words.
+
+
+### ORIGINAL MAINS 6 - 20 MARKS
+
+**Question:** How should India respond to protectionism while remaining integrated with global value chains? Answer in 250 words.
+
+## COMPLETE SEPARATE KEY — MCQS / REMEDIATION
+
+### MCQ 1 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because comparative advantage compares the opportunity cost of producing one good relative to another. Option text: Relative opportunity cost
+- **B - Incorrect:** Absolute output identifies productivity scale, not the relative sacrifice that determines comparative advantage. Option text: Absolute output alone
+- **C - Incorrect:** A trade balance is an outcome and does not define the production-cost basis of comparative advantage. Option text: The bilateral trade balance
+- **D - Incorrect:** Reserve holdings affect resilience but do not determine the Ricardian opportunity-cost comparison. Option text: The level of the exchange-rate reserve
+
+**Examiner trap 1: Fix relative opportunity cost before comparing absolute productivity. Focus: comparative advantage is determined primarily by:.**
+
+### MCQ 2 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Trade theory does not remove distributional conflict, mobility costs or transition lags. Option text: Every household gains immediately
+- **B - Correct:** This is correct because lower prices and specialisation gains can occur alongside worker, firm and regional displacement. Option text: Aggregate gains can coexist with concentrated adjustment losses
+- **C - Incorrect:** Consumers and imported-input users can gain even when they do not export directly. Option text: Only exporters can gain
+- **D - Incorrect:** Imports can expand consumption possibilities and productive input access, so their value is not intrinsically a welfare loss. Option text: Imports reduce national welfare by definition
+
+**Examiner trap 2: Separate aggregate welfare from distribution and transition. Focus: which statement best captures gains from trade.**
+
+### MCQ 3 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Terms of trade is a price ratio and does not mechanically determine export quantity. Option text: Export volume necessarily rises
+- **B - Incorrect:** A price-ratio improvement can coexist with a deficit when quantities and values move differently. Option text: The merchandise balance necessarily becomes positive
+- **C - Correct:** This is correct because the index is export-price index divided by import-price index, usually multiplied by 100. Option text: Export prices rise relative to import prices
+- **D - Incorrect:** Exchange-rate movement can influence prices but is not the definition of terms of trade. Option text: The currency necessarily appreciates
+
+**Examiner trap 3: Do not substitute a quantity or balance concept for a price ratio. Focus: an improvement in commodity terms of trade means:.**
+
+### MCQ 4 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** That is trade creation, because inefficient domestic production is displaced. Option text: Higher-cost domestic output to be replaced by lower-cost partner imports
+- **B - Incorrect:** Export growth does not by itself identify the counterfactual sourcing effect. Option text: Exports to rise in every member
+- **C - Incorrect:** A common external tariff defines a customs union, not trade diversion. Option text: All external tariffs to become common
+- **D - Correct:** This is correct because preference, rather than productive efficiency, redirects sourcing toward the partner. Option text: A lower-cost non-member source to be replaced by a higher-cost partner
+
+**Examiner trap 4: Use the counterfactual source, not observed partner growth alone. Focus: trade diversion occurs when an fta causes:.**
+
+### MCQ 5 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because the tax base is value rather than physical quantity. Option text: A percentage of customs value
+- **B - Incorrect:** A fixed amount per unit is a specific tariff. Option text: A fixed amount per kilogram
+- **C - Incorrect:** That describes the in-quota limb of a tariff-rate quota. Option text: A lower rate within a quota only
+- **D - Incorrect:** A producer payment is a subsidy, not a customs tariff. Option text: A payment to a domestic producer
+
+**Examiner trap 5: Identify the tax base before interpreting incidence. Focus: an ad valorem tariff is levied as:.**
+
+### MCQ 6 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Quota rent may accrue to licence holders unless rights are auctioned. Option text: The government revenue collected
+- **B - Correct:** This is correct because a quota establishes a volume ceiling while domestic price and rent adjust. Option text: The permitted import quantity
+- **C - Incorrect:** The price response varies with demand, supply and market power. Option text: The domestic price increase
+- **D - Incorrect:** Bindings are WTO schedule commitments, not quota quantities. Option text: The bound tariff ceiling
+
+**Examiner trap 6: Always ask who receives the quota rent. Focus: compared with a tariff, an import quota more directly fixes:.**
+
+### MCQ 7 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** A TRQ is not an absolute quota; above-quota imports remain legally possible at the higher tariff. Option text: A complete ban after the quota is filled
+- **B - Incorrect:** The defining feature is the two-tier rate around a specified quantity. Option text: One tariff applied to all quantities
+- **C - Correct:** This is correct because imports can continue above the quota at the out-of-quota rate. Option text: Lower duty within a volume and higher duty beyond it
+- **D - Incorrect:** A subsidy cap is unrelated to tariff-rate quota administration. Option text: A subsidy capped by export value
+
+**Examiner trap 7: Do not turn the quota volume into a prohibition. Focus: a tariff-rate quota means:.**
+
+### MCQ 8 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** General public services or non-specific measures need not satisfy the legal subsidy test. Option text: Every government programme is a prohibited subsidy
+- **B - Incorrect:** Remission that does not exceed embedded taxes can differ from an export-contingent net subsidy. Option text: Every export remission is prohibited
+- **C - Incorrect:** The SCM Agreement's core disciplines concern trade in goods. Option text: Services subsidies are disciplined identically by the SCM Agreement
+- **D - Correct:** This is correct because financial contribution, benefit, specificity and applicable disciplines must be established. Option text: WTO treatment depends on design, specificity, agreement and effects
+
+**Examiner trap 8: Classify the measure before declaring WTO inconsistency. Focus: which statement about subsidies is legally sound.**
+
+### MCQ 9 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because SPS covers food safety and pest or disease risks within its defined scope. Option text: Specified human, animal and plant health risks
+- **B - Incorrect:** General quality or labelling rules outside SPS are usually examined under TBT. Option text: All product-quality preferences
+- **C - Incorrect:** Customs valuation determines the value base and is a separate WTO discipline. Option text: Only customs valuation
+- **D - Incorrect:** Import-surge relief belongs to safeguards, not SPS. Option text: Protection of domestic firms from import surges
+
+**Examiner trap 9: Identify the protected risk before choosing SPS. Focus: the sps agreement principally concerns:.**
+
+### MCQ 10 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Plant-health pest controls fall within SPS. Option text: A plant-quarantine rule against an invasive pest
+- **B - Correct:** This is correct because it is a technical regulation and conformity issue outside the defined SPS risks. Option text: A mandatory energy-efficiency labelling rule for appliances
+- **C - Incorrect:** That is a trade remedy under GATT Article VI and the Anti-Dumping Agreement. Option text: An anti-dumping duty after injury findings
+- **D - Incorrect:** A bound tariff is a market-access commitment, not a technical regulation. Option text: A tariff ceiling in a goods schedule
+
+**Examiner trap 10: Separate technical regulation from food, animal and plant health risk. Focus: which is primarily a tbt measure.**
+
+### MCQ 11 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** An import surge without unfair pricing is associated with safeguard analysis. Option text: Only an increase in import volume
+- **B - Incorrect:** That is the starting point for a countervailing investigation. Option text: A foreign government financial contribution only
+- **C - Correct:** This is correct because low export price alone does not complete the WTO legal test. Option text: Dumping, material injury and causal link
+- **D - Incorrect:** The investigation concerns material injury to the relevant domestic industry and causation. Option text: Any injury to one domestic firm
+
+**Examiner trap 11: Low price is not automatically dumping. Focus: anti-dumping duty requires proof of:.**
+
+### MCQ 12 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Specific subsidy and injury are countervailing-duty elements. Option text: Requires proof of a specific foreign subsidy
+- **B - Incorrect:** That comparison belongs to anti-dumping. Option text: Requires export price below normal value
+- **C - Incorrect:** Safeguards are temporary and adjustment-oriented under legal conditions. Option text: Is a permanent tariff increase
+- **D - Correct:** This is correct because safeguards can respond to fairly traded increased imports. Option text: Addresses serious injury from an import surge without an unfair-trade finding
+
+**Examiner trap 12: Do not import dumping elements into safeguard analysis. Focus: a safeguard differs from anti-dumping because it:.**
+
+### MCQ 13 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because effective protection measures incentives on the value-added base. Option text: The change in domestic value added after output and input tariffs
+- **B - Incorrect:** That is nominal protection and ignores taxes on tradable inputs. Option text: Only the final-good tariff rate
+- **C - Incorrect:** Revenue does not measure the protected margin on domestic value added. Option text: Only customs revenue
+- **D - Incorrect:** That ratio is the commodity terms of trade. Option text: The export-price to import-price ratio
+
+**Examiner trap 13: Use output and input protection on the value-added denominator. Focus: effective protection focuses on:.**
+
+### MCQ 14 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** That pattern would be de-escalation rather than escalation. Option text: Raw materials always face the highest tariff
+- **B - Correct:** This is correct because finished products face higher barriers than raw materials, discouraging value addition in exporting countries. Option text: Tariffs rise with the degree of processing
+- **C - Incorrect:** A uniform structure does not create the rising processing ladder. Option text: All stages face one uniform tariff
+- **D - Incorrect:** Origin rules and tariff escalation are distinct instruments. Option text: It removes rules-of-origin requirements
+
+**Examiner trap 14: Map the tariff ladder across processing stages. Focus: tariff escalation can discourage developing-country processing because:.**
+
+### MCQ 15 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** The Secretariat supports members but does not replace member decision-making. Option text: Secretariat
+- **B - Incorrect:** The Appellate Body reviews legal findings and is currently unable to hear appeals. Option text: Appellate Body
+- **C - Correct:** This is correct because it can decide on all matters under multilateral agreements and normally meets at least biennially. Option text: Ministerial Conference
+- **D - Incorrect:** The TPRB is the General Council meeting under a specific mandate. Option text: Trade Policy Review Body alone
+
+**Examiner trap 15: Do not transfer member powers to the Secretariat. Focus: the wto's top decision-making body is the:.**
+
+### MCQ 16 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Weighted voting characterises some financial institutions, not normal WTO decision-making. Option text: Weighted voting by quota share
+- **B - Incorrect:** The WTO has no board that replaces the full membership for major decisions. Option text: A permanent executive board
+- **C - Incorrect:** The Director-General facilitates but cannot legislate member obligations unilaterally. Option text: The Director-General's unilateral order
+- **D - Correct:** This is correct because the WTO is member-driven and normally follows consensus, with voting legally available in specified cases. Option text: Consensus among member governments
+
+**Examiner trap 16: Consensus is not weighted voting. Focus: wto decisions are normally made by:.**
+
+### MCQ 17 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct subject to structured exceptions such as qualifying regional agreements. Option text: A trade advantage to one member to extend to like trade from all members
+- **B - Incorrect:** MFN concerns partner equality, not a ban on tariffs. Option text: Imported goods to avoid all border tariffs
+- **C - Incorrect:** National treatment requires no less favourable treatment, not superior treatment. Option text: Foreign goods to receive better internal treatment than domestic goods
+- **D - Incorrect:** Qualifying FTAs are recognised exceptions to MFN. Option text: Every FTA preference to be extended globally
+
+**Examiner trap 17: MFN compares foreign partners; national treatment compares imported and domestic. Focus: mfn treatment generally requires:.**
+
+### MCQ 18 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** The rule focuses on internal taxes and regulation after market entry. Option text: Only before customs clearance
+- **B - Correct:** This is correct because ordinary border tariffs are not by themselves national-treatment violations. Option text: After entry, against discriminatory internal treatment
+- **C - Incorrect:** Partner-to-partner equality is the MFN question. Option text: Only between two foreign partners
+- **D - Incorrect:** National-treatment provisions also appear in GATS and TRIPS with agreement-specific operation. Option text: Only for merchandise and never services or IP
+
+**Examiner trap 18: Fix the stage of treatment before applying the rule. Focus: national treatment primarily operates:.**
+
+### MCQ 19 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Preferential rates arise under specific agreements and are distinct from the MFN binding. Option text: The preferential rate in every FTA
+- **B - Incorrect:** The applied rate is the rate actually charged and may be below the binding. Option text: The customs rate collected on every shipment
+- **C - Correct:** This is correct because it is a legal ceiling that may exceed the rate actually charged. Option text: The negotiated maximum in a WTO schedule
+- **D - Incorrect:** Members may apply lower tariffs than their bound ceilings. Option text: A minimum tariff that cannot be reduced
+
+**Examiner trap 19: Ceiling, applied MFN rate and preference are three different numbers. Focus: a bound tariff is:.**
+
+### MCQ 20 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Developing status does not erase all agreement disciplines. Option text: A blanket exemption from WTO obligations
+- **B - Incorrect:** Consensus practice does not create a unilateral formal veto category. Option text: Automatic veto power for one developing member
+- **C - Incorrect:** Preferences and duty-free schemes have separate legal designs and coverage. Option text: Permanent tariff-free access in every market
+- **D - Correct:** This is correct because S&DT operates through particular provisions, transitions and support. Option text: Agreement-specific flexibility or assistance for developing members
+
+**Examiner trap 20: Always identify the particular S&DT provision. Focus: special and differential treatment means:.**
+
+### MCQ 21 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because the service supplier operates through an establishment in the importing market. Option text: Mode 3, commercial presence
+- **B - Incorrect:** Mode 1 supplies across the border without the supplier's commercial presence. Option text: Mode 1, cross-border supply
+- **C - Incorrect:** Mode 2 involves the consumer moving abroad to receive the service. Option text: Mode 2, consumption abroad
+- **D - Incorrect:** Mode 4 concerns temporary presence of natural persons, not permanent migration. Option text: Mode 4, permanent migration
+
+**Examiner trap 21: Name the movement of service, consumer, capital or person. Focus: a foreign bank branch supplying services locally is mainly gats:.**
+
+### MCQ 22 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Those are TRIPS issues. Option text: Patent term and compulsory licensing
+- **B - Correct:** This is correct because the illustrative list targets measures inconsistent with GATT Articles III and XI. Option text: Goods-related local-content and trade-balancing measures
+- **C - Incorrect:** That is addressed under GATS Mode 4 commitments. Option text: Temporary movement of service suppliers
+- **D - Incorrect:** TRIMS is not a comprehensive investment-protection code. Option text: All foreign-investment screening decisions
+
+**Examiner trap 22: TRIMS is goods-linked; TRIPS concerns intellectual property. Focus: trims most directly disciplines:.**
+
+### MCQ 23 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Amber support is trade-distorting and subject to scheduled or de minimis limits. Option text: Amber Box in every case
+- **B - Incorrect:** The Agreement on Agriculture has no general Red Box category. Option text: A general Red Box
+- **C - Correct:** This is correct because qualifying minimally trade-distorting publicly funded measures are exempt without a financial ceiling. Option text: Green Box
+- **D - Incorrect:** Blue Box treatment depends on production-limiting programme conditions. Option text: Blue Box without conditions
+
+**Examiner trap 23: Colour is a legal design category, not a moral label. Focus: which aoa box is exempt from reduction commitments when its criteria are met.**
+
+### MCQ 24 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Five percent is the general developed-country threshold. Option text: 5 percent in every case
+- **B - Incorrect:** The denominator is relevant agricultural production value, not GDP. Option text: 10 percent of GDP
+- **C - Incorrect:** The test is not based on total public spending. Option text: 10 percent of government expenditure
+- **D - Correct:** This is correct for the general developing-country product-specific or non-product-specific test, subject to schedules. Option text: 10 percent of the relevant value of production
+
+**Examiner trap 24: State both numerator category and production-value denominator. Focus: for most developing members, the general aoa de minimis threshold is:.**
+
+### MCQ 25 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because eligible programmes receive dispute protection subject to transparency and anti-distortion conditions. Option text: Conditional interim protection pending a permanent solution
+- **B - Incorrect:** The Bali decision did not permanently place administered-price procurement in the Green Box. Option text: A permanent Green Box reclassification
+- **C - Incorrect:** The protection has programme, notification and safeguard conditions. Option text: An unconditional exemption for every food subsidy
+- **D - Incorrect:** WTO's post-MC14 note records no agriculture consensus in March 2026. Option text: A rule completed at MC14
+
+**Examiner trap 25: Do not convert interim litigation protection into a permanent substantive settlement. Focus: the bali peace clause on public stockholding is:.**
+
+### MCQ 26 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Its current prohibitions target specified harmful subsidies, not all support. Option text: Prohibits every fisheries subsidy
+- **B - Correct:** This is correct; WTO records the two-thirds acceptance threshold on that date. Option text: Entered into force on 15 September 2025
+- **C - Incorrect:** Additional disciplines on overcapacity and overfishing remain under negotiation. Option text: Ended negotiations on overcapacity rules
+- **D - Incorrect:** After entry into force it is a binding WTO agreement for accepting members under its terms. Option text: Is only a voluntary declaration
+
+**Examiner trap 26: Separate current prohibitions from unfinished second-wave negotiations. Focus: the wto fisheries subsidies agreement:.**
+
+### MCQ 27 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** No universal permanent moratorium was agreed at MC14. Option text: Was made permanent for all members
+- **B - Incorrect:** The E-Commerce Agreement and multilateral moratorium are separate tracks. Option text: Automatically became the 2024 plurilateral agreement
+- **C - Correct:** This is correct according to the WTO post-MC14 briefing note. Option text: Lapsed on 30 March 2026 after no consensus
+- **D - Incorrect:** The MC13 extension ended at MC14 or 31 March 2026, and no consensus renewed it. Option text: Continues unchanged until MC15
+
+**Examiner trap 27: Separate the multilateral lapse from later group commitments. Focus: after mc14, the wto-wide e-commerce moratorium:.**
+
+### MCQ 28 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Different external tariffs make origin rules especially central in an FTA. Option text: Rules of origin as its defining anti-deflection device
+- **B - Incorrect:** Both arrangements seek preferential internal liberalisation within their legal coverage. Option text: No internal trade liberalisation
+- **C - Incorrect:** Factor mobility defines a common market rather than every customs union. Option text: Automatic free movement of labour
+- **D - Correct:** This is correct because members jointly apply an external tariff while liberalising internal trade. Option text: A common external tariff
+
+**Examiner trap 28: Look outward at the external tariff. Focus: a customs union differs from an fta because it has:.**
+
+### MCQ 29 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is correct because origin criteria connect production history to preferential treatment. Option text: Eligibility of a product for a tariff preference
+- **B - Incorrect:** MFN rates apply independently of preferential-origin qualification. Option text: The applied MFN tariff for all countries
+- **C - Incorrect:** Dumping compares export price with normal value and injury. Option text: Whether dumping has occurred
+- **D - Incorrect:** Currency conversion rules are distinct from origin. Option text: The exchange rate used by customs
+
+**Examiner trap 29: Shipment route is not the same as economic origin. Focus: rules of origin determine:.**
+
+### MCQ 30 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** India did not join RCEP and this package assigns no EU entry-into-force date. Option text: India is an RCEP member; EU FTA is in force
+- **B - Correct:** This is correct: UK CETA entered into force on 15 July 2026, while the New Zealand release says entry follows domestic procedures and ratification. Option text: UK CETA in force; India-New Zealand FTA signed but awaiting procedures
+- **C - Incorrect:** EFTA TEPA entered into force on 1 October 2025 and Oman CEPA on 1 June 2026. Option text: EFTA TEPA is unsigned; Oman CEPA is only under negotiation
+- **D - Incorrect:** Australia ECTA and UAE CEPA have operated since December and May 2022 respectively. Option text: Australia ECTA is not operative; UAE CEPA begins in 2027
+
+**Examiner trap 30: Concluded, signed and in force are not synonyms. Focus: which status pair is correct at the 9 september 2026 cutoff.**
+
+### MCQ 31 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** These bodies do not perform that sequence. Option text: DGFT investigation, RBI notification, WTO collection
+- **B - Incorrect:** CBIC administers customs but DGTR conducts the trade-remedy investigation. Option text: CBIC finding, DGTR collection, Finance Commission review
+- **C - Correct:** This is correct because investigation, legal levy and border collection are institutionally distinct. Option text: DGTR investigation, government duty notification, CBIC administration
+- **D - Incorrect:** WTO does not investigate individual Indian industry petitions or collect the duty. Option text: WTO investigation followed by automatic Indian duty
+
+**Examiner trap 31: Separate investigating authority from the authority issuing and collecting duty. Focus: in india, the usual trade-remedy sequence is:.**
+
+### MCQ 32 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** That would misstate both incidence and WTO-oriented design. Option text: A permanent export bonus unrelated to taxes
+- **B - Incorrect:** RoDTEP concerns export remission and is not a quantity restriction. Option text: An import quota administered by DGTR
+- **C - Incorrect:** A partner preference arises under an agreement, whereas RoDTEP is a domestic remission scheme. Option text: An FTA preferential tariff
+- **D - Correct:** This is correct because its design seeks tax neutrality for exported products. Option text: Remission of specified embedded taxes not otherwise refunded
+
+**Examiner trap 32: Remission is not the same as an export-performance subsidy. Focus: rodtep is best described as:.**
+
+### MCQ 33 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Preferential tariffs can shift sourcing toward a higher-cost partner.
+- **B - Incorrect:** Trade creation displaces expensive domestic production with more efficient imports.
+- **C - Incorrect:** National treatment addresses domestic treatment after entry.
+- **D - Incorrect:** Safeguards need injury investigation and are different instruments.
+
+**Examiner trap 33:** An FTA can create or divert trade.
+
+### MCQ 34 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Origin and product-safety tests are distinct.
+- **B - Correct:** Preference depends on qualifying origin and documentation.
+- **C - Incorrect:** Trans-shipment alone is not originating production.
+- **D - Incorrect:** MFN rates and preferential rates differ.
+
+**Examiner trap 34:** Market access does not guarantee preference utilisation.
+
+### MCQ 35 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** A bound tariff constrains border duties, not discriminatory excise itself.
+- **B - Incorrect:** AoA support disciplines are a separate question.
+- **C - Correct:** National treatment compares imported and like domestic goods internally.
+- **D - Incorrect:** MFN chiefly compares foreign trading partners.
+
+**Examiner trap 35:** A border tariff and a discriminatory internal tax are not identical.
+
+### MCQ 36 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** WTO schedules often leave policy space between applied and bound.
+- **B - Incorrect:** Ordinary tariffs and trade remedies are different.
+- **C - Incorrect:** A ceiling does not mandate a floor.
+- **D - Correct:** A binding is a ceiling rather than a required rate.
+
+**Examiner trap 36:** Inspect both the legal bound and actual applied rate.
+
+### MCQ 37 — A
+
+**Option-wise explanation:**
+- **A - Correct:** SPS covers food-safety and phytosanitary measures.
+- **B - Incorrect:** Food-health risk is specifically SPS, despite possible technical overlaps.
+- **C - Incorrect:** TRIMS deals with certain goods-related investment requirements.
+- **D - Incorrect:** The traded food itself is a good.
+
+**Examiner trap 37:** Classify the regulatory objective before naming the agreement.
+
+### MCQ 38 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** GI protects origin-linked names.
+- **B - Correct:** TRIMS targets specified goods-related trade-distorting investment measures.
+- **C - Incorrect:** Goods-sector local-content conditions are not inherently GATS service issues.
+- **D - Incorrect:** IGC is not a WTO FDI regulator.
+
+**Examiner trap 38:** TRIMS does not ban foreign investment in general.
+
+### MCQ 39 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Duties have varied in both directions.
+- **B - Incorrect:** IGC membership has no direct bearing on the duty instrument.
+- **C - Correct:** Import-duty cuts can moderate landed costs but alter producer incentives.
+- **D - Incorrect:** A cut tends to increase import competition, not guarantee higher farm prices.
+
+**Examiner trap 39:** Never freeze a changing customs rate into an undated fact.
+
+### MCQ 40 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** WTO does not set the domestic retail price by ministerial vote.
+- **B - Incorrect:** MFN and FTAs do not substitute for injury findings.
+- **C - Incorrect:** SPS health rules do not automatically impose quotas.
+- **D - Correct:** Dumping alone does not satisfy the injury/causation tests.
+
+**Examiner trap 40:** Distinguish dumping, injury and causation.
+
+### MCQ 41 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Safeguards address surges of fairly traded goods under strict injury rules.
+- **B - Incorrect:** Anti-dumping needs dumping and material injury.
+- **C - Incorrect:** Countervailing measures require subsidisation and injury.
+- **D - Incorrect:** Blanket internal discrimination is not a remedy.
+
+**Examiner trap 41:** Different trade remedies have distinct predicates.
+
+### MCQ 42 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** No supplier travels temporarily.
+- **B - Correct:** The service crosses the border while supplier and consumer remain located separately.
+- **C - Incorrect:** There is no client travel in the stem.
+- **D - Incorrect:** No foreign business establishment is posited.
+
+**Examiner trap 42:** Identify what crosses the border: service, customer, capital or person.
+
+### MCQ 43 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Notification and safeguards matter.
+- **B - Incorrect:** AoA box classification remains relevant.
+- **C - Correct:** Peace-clause protection is limited and subject to conditions.
+- **D - Incorrect:** The clause addresses specified agricultural stockholding.
+
+**Examiner trap 43:** Temporary legal peace is not unconditional entitlement.
+
+### MCQ 44 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Input costs can offset nominal output protection.
+- **B - Incorrect:** Line count misses the input-output wedge.
+- **C - Incorrect:** Yarn is a good input, not a service export.
+- **D - Correct:** Output and input duties jointly determine protection to value added.
+
+**Examiner trap 44:** Tariff escalation can also discourage downstream exports.
+
+### DESCRIPTIVE PYQ AND ORIGINAL MAINS MODEL ANSWERS
+
+### VERIFIED MAINS PYQ - 2018 GS-III
+
+**Model solution:** Protectionism can reduce India's export demand, disrupt supply chains and raise imported-input costs through retaliation. Currency manipulation by major economies can redirect capital, alter competitiveness and increase exchange-rate volatility. The macroeconomic transmission runs through the trade balance, inflation, corporate margins, investment and external financing. India can also gain from trade diversion if firms are competitive and logistics and standards permit rapid market entry. A balanced response combines WTO engagement, diversified FTAs, lawful remedies, reserve and macroeconomic credibility, competitively priced inputs and worker adjustment. The qualification is decisive: not every currency movement is manipulation, and the effect of a tariff depends on coverage, retaliation, pass-through and India's position in the value chain.
+
+### VERIFIED MAINS PYQ - 2025 GS-III
+
+**Model solution:** Protectionism narrows market access, raises standards and origin costs, fragments global value chains and weakens predictable WTO enforcement. Bilateralism can disadvantage countries outside preferred networks and multiply incompatible rules. India should preserve multilateral engagement while pursuing selective FTAs, diversified markets and resilient sourcing. Domestic policy must lower logistics and power costs, strengthen laboratories, skills and trade finance, and keep imported intermediates competitive. Strategic protection should be targeted, performance-linked and temporary. Adjustment support for workers and small firms is essential. Success should be measured through utilisation, domestic value addition, services access, exports, jobs and consumer effects rather than agreement counts alone.
+
+### ORIGINAL MAINS 1 - 10 MARKS
+
 **Model answer:**
 
 MFN treatment requires an advantage granted to one WTO member to extend to like trade from all members, subject to agreement-specific exceptions.
@@ -663,15 +928,12 @@ An FTA preference gives qualifying partner trade better access under schedules a
 
 The answer line is: MFN compares foreign partners, national treatment compares foreign and domestic treatment after entry, and an FTA preference is a conditional exception. Coverage, likeness and legal status must still be checked.
 
-utilisation productivity competition.
 
-**Native-body word count:** 142 / 150.
+**Native-body word count:** 124 / 150.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 2 - 10 MARKS
-
-**Question:** Distinguish anti-dumping, countervailing and safeguard measures. Answer in 150 words.
 
 **Model answer:**
 
@@ -681,13 +943,11 @@ WTO agreements and India's Customs Tariff Act keep these routes separate. DGTR i
 
 All are conditional remedies, not permanent protection. Product scope, period, causation, review and sunset matter; safeguards additionally provide adjustment space. Therefore low price alone proves none of the three, and one remedy's test cannot be borrowed to justify another.
 
-**Native-body word count:** 143 / 150.
+**Native-body word count:** 128 / 150.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 3 - 15 MARKS
-
-**Question:** Explain why effective protection and tariff escalation matter for manufacturing strategy. Answer in 250 words.
 
 **Model answer:**
 
@@ -701,13 +961,11 @@ Policy should therefore map input-output links and calculate protection on value
 
 utilisation productivity.
 
-**Native-body word count:** 220 / 250.
+**Native-body word count:** 205 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 4 - 15 MARKS
-
-**Question:** Assess the WTO's relevance amid impaired appellate review and fragmented trade rules. Answer in 250 words.
 
 **Model answer:**
 
@@ -719,13 +977,11 @@ Recent outcomes show both capacity and fragmentation. The Fisheries Subsidies Ag
 
 Reform should restore credible review, improve accessibility, discipline notification delays and permit transparent plurilateral progress without marginalising non-participants. India benefits from preserving policy space and development concerns, but also from enforceable rules for exporters. The WTO is therefore impaired, not irrelevant: multilateral legitimacy remains valuable, while unresolved consensus and enforcement problems require institutional repair.
 
-**Native-body word count:** 224 / 250.
+**Native-body word count:** 209 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 5 - 20 MARKS
-
-**Question:** Evaluate India's contemporary FTA strategy using legal status and economic outcomes. Answer in 250 words.
 
 **Model answer:**
 
@@ -739,13 +995,11 @@ India should combine negotiated access with customs facilitation, laboratories, 
 
 utilisation productivity.
 
-**Native-body word count:** 228 / 250.
+**Native-body word count:** 213 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 6 - 20 MARKS
-
-**Question:** How should India respond to protectionism while remaining integrated with global value chains? Answer in 250 words.
 
 **Model answer:**
 
@@ -759,6 +1013,6 @@ Resilience should mean diversified suppliers, inventories for critical inputs, r
 
 utilisation productivity competition resilience inclusion.
 
-**Native-body word count:** 232 / 250.
+**Native-body word count:** 217 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.

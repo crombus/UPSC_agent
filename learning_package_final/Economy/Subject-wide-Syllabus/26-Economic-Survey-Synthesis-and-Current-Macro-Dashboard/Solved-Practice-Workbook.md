@@ -2,9 +2,9 @@
 
 **Data cutoff:** 9 September 2026.
 
-All 32 MCQs precede PYQs. Correct options follow the exact sequence A-B-C-D repeated eight times. Every distractor has a substantive explanation and every question has a distinct trap. Current-data questions include source period and estimate status.
+All 40 MCQ questions precede their separate solved key and PYQs. Correct letters rotate A-B-C-D; dated numerical claims retain source period and estimate status.
 
-## 32 SOLVED MCQS
+## 40 MCQ QUESTIONS
 
 ### MCQ 01
 
@@ -18,20 +18,6 @@ C. It is RBI's monetary-policy resolution
 
 D. It is the audited Union Finance Account
 
-
-**Correct answer:** A
-
-- **Option A:** The Survey diagnoses trends and advances policy arguments without itself authorising expenditure.
-
-- **Option B:** Appropriation requires parliamentary legislation, not the Survey.
-
-- **Option C:** The MPC resolution is an RBI document with a different mandate.
-
-- **Option D:** Final Union accounts are produced through the government accounting and audit process.
-
-
-**Unique trap:** Do not convert analysis into legal authority.
-
 ### MCQ 02
 
 **Question:** Which document-stage pairing is correct?
@@ -43,20 +29,6 @@ B. Budget Estimate - proposed amount for the coming year
 C. Revised Estimate - constitutional amendment
 
 D. CGA provisional account - forecast made before the year
-
-
-**Correct answer:** B
-
-- **Option A:** The Survey is not a final spending account.
-
-- **Option B:** BE is the government's initial annual fiscal plan.
-
-- **Option C:** RE is a revised fiscal estimate, not legislation.
-
-- **Option D:** CGA provisional accounts record realised transactions after year-end.
-
-
-**Unique trap:** Plan, revision and outturn are distinct.
 
 ### MCQ 03
 
@@ -70,20 +42,6 @@ C. Indicator, period, unit/base, release date, source and status
 
 D. Financial year and newspaper date
 
-
-**Correct answer:** C
-
-- **Option A:** A naked value cannot be safely updated or compared.
-
-- **Option B:** An opinion does not replace period, unit or estimate status.
-
-- **Option C:** These six fields make the evidence auditable and revision-safe.
-
-- **Option D:** A newspaper date is not the official release and omits statistical status.
-
-
-**Unique trap:** Metadata is part of the fact.
-
 ### MCQ 04
 
 **Question:** Which pair correctly identifies a stock and a flow?
@@ -95,20 +53,6 @@ B. CAD stock; external debt flow
 C. Fiscal deficit stock; exports stock
 
 D. Forex reserves stock; quarterly CAD flow
-
-
-**Correct answer:** D
-
-- **Option A:** GDP measures production over a period.
-
-- **Option B:** CAD is a period flow and debt a point-in-time stock.
-
-- **Option C:** Both deficit and exports are flows over periods.
-
-- **Option D:** Reserves are dated assets while CAD accumulates during a quarter.
-
-
-**Unique trap:** A ratio does not change the underlying stock-flow character.
 
 ### MCQ 05
 
@@ -122,20 +66,6 @@ C. Calendar-2026 nominal GDP growth 7.8%
 
 D. Q1 FY27 GDP level equal to 7.8% of GVA
 
-
-**Correct answer:** A
-
-- **Option A:** The release gives Q1 FY27 year-on-year real growth under the new base.
-
-- **Option B:** Neither the full year nor the old base describes the release.
-
-- **Option C:** The period is April-June FY27 and the 7.8 figure is real growth.
-
-- **Option D:** A growth rate is not a level or share.
-
-
-**Unique trap:** Keep quarter, price basis, base year and estimate status together.
-
 ### MCQ 06
 
 **Question:** Why can real GDP and real GVA growth differ?
@@ -147,20 +77,6 @@ B. GDP adds product taxes and subtracts product subsidies from GVA
 C. GVA is always nominal
 
 D. Only GDP is revised
-
-
-**Correct answer:** B
-
-- **Option A:** The distinction is not about excluding all taxes or importing goods.
-
-- **Option B:** Net product taxes bridge GVA at basic prices and GDP at market prices.
-
-- **Option C:** Both aggregates can be presented at constant or current prices.
-
-- **Option D:** Both GDP and GVA are revised.
-
-
-**Unique trap:** A GDP-GVA gap is not automatically inconsistent data.
 
 ### MCQ 07
 
@@ -174,20 +90,6 @@ C. A January 2026 First Advance Estimate under the then-current series
 
 D. An RBI projection for FY27
 
-
-**Correct answer:** C
-
-- **Option A:** The Survey preceded later revisions and rebasing.
-
-- **Option B:** FY26 means April 2025-March 2026.
-
-- **Option C:** This preserves the Survey's source vintage and estimate status.
-
-- **Option D:** The RBI and FY27 are separate.
-
-
-**Unique trap:** Do not silently upgrade FAE to actual.
-
 ### MCQ 08
 
 **Question:** What is the safest comparison after a base-year revision?
@@ -199,20 +101,6 @@ B. Use nominal values only
 C. Assume methodological changes have no effect
 
 D. Use an official linked/back series or clearly qualify the break
-
-
-**Correct answer:** D
-
-- **Option A:** Weights and methods can break comparability.
-
-- **Option B:** Nominal series also change coverage and valuation.
-
-- **Option C:** Method changes are central to rebasing.
-
-- **Option D:** A bridge or explicit qualification preserves statistical validity.
-
-
-**Unique trap:** Rebasing is not merely relabelling the year.
 
 ### MCQ 09
 
@@ -226,20 +114,6 @@ C. Completed public infrastructure only
 
 D. Capacity utilisation of every industry
 
-
-**Correct answer:** A
-
-- **Option A:** GFCF is a broad fixed-asset flow; execution and productivity require separate evidence.
-
-- **Option B:** Growth is not a share and includes more than private investment.
-
-- **Option C:** GFCF includes multiple institutional sectors.
-
-- **Option D:** Capacity use is a different indicator.
-
-
-**Unique trap:** Investment quantity does not settle investment quality.
-
 ### MCQ 10
 
 **Question:** Which sectoral reading is correct for Q1 FY27?
@@ -251,20 +125,6 @@ B. Tertiary GVA grew 10.0%, faster than primary GVA at 2.9%
 C. Agriculture contracted 3.6%
 
 D. All sub-sectors grew at the same rate
-
-
-**Correct answer:** B
-
-- **Option A:** The 10% figure belongs to tertiary GVA.
-
-- **Option B:** MoSPI's 31 August release supports this dated comparison.
-
-- **Option C:** Agriculture and allied grew 3.6%.
-
-- **Option D:** Broad and detailed sectors diverged.
-
-
-**Unique trap:** Broad-based growth must be demonstrated, not asserted.
 
 ### MCQ 11
 
@@ -278,20 +138,6 @@ C. A year-on-year Quick Estimate of industrial output, base 2022-23
 
 D. The weighted average of CPI and WPI
 
-
-**Correct answer:** C
-
-- **Option A:** IIP is monthly and distinct from GVA.
-
-- **Option B:** PMI is the private diffusion survey.
-
-- **Option C:** MoSPI labelled July IIP a Quick Estimate under the 2022-23 base.
-
-- **Option D:** Price indices are not averaged into IIP.
-
-
-**Unique trap:** IIP is a volume signal, not national-account value added.
-
 ### MCQ 12
 
 **Question:** Which statement about the revised core-industries series is correct?
@@ -303,20 +149,6 @@ B. It measures all manufacturing establishments
 C. Its July value was a final annual estimate
 
 D. The base-2022-23 ICI includes iron ore and July 2026 growth was provisional
-
-
-**Correct answer:** D
-
-- **Option A:** The revised architecture and weights differ.
-
-- **Option B:** ICI covers selected upstream sectors.
-
-- **Option C:** The 20 August release was monthly and provisional.
-
-- **Option D:** This captures both the series change and status.
-
-
-**Unique trap:** Do not import old 'eight core' weights into the revised series.
 
 ### MCQ 13
 
@@ -330,20 +162,6 @@ C. Inflation exceeded the target
 
 D. Every surveyed firm expanded
 
-
-**Correct answer:** A
-
-- **Option A:** The threshold indicates direction among respondents.
-
-- **Option B:** PMI level is not an output-growth percentage.
-
-- **Option C:** It is not an inflation target measure.
-
-- **Option D:** Some firms can report deterioration or no change.
-
-
-**Unique trap:** PMI is private and directional.
-
 ### MCQ 14
 
 **Question:** Why should PMI be cross-checked with IIP?
@@ -355,20 +173,6 @@ B. They differ in source, coverage and measurement: survey diffusion versus offi
 C. IIP measures expectations only
 
 D. PMI is a fiscal variable
-
-
-**Correct answer:** B
-
-- **Option A:** Neither is final GDP.
-
-- **Option B:** Their differing errors make triangulation useful.
-
-- **Option C:** IIP measures recorded industrial volume.
-
-- **Option D:** PMI is a business survey, not a budget item.
-
-
-**Unique trap:** Agreement is evidence; disagreement is a diagnostic question.
 
 ### MCQ 15
 
@@ -382,20 +186,6 @@ C. CPI was 4.45% provisional on base 2024, while WPI was 9.78% provisional on ba
 
 D. Their difference proves future CPI inflation
 
-
-**Correct answer:** C
-
-- **Option A:** Household and wholesale baskets differ.
-
-- **Option B:** The inflation target is headline CPI.
-
-- **Option C:** The two official releases require separate bases and dates.
-
-- **Option D:** Pass-through is uncertain and lagged.
-
-
-**Unique trap:** Never subtract unlike indices as if they were one basket.
-
 ### MCQ 16
 
 **Question:** A low base effect can produce:
@@ -407,20 +197,6 @@ B. A permanent increase in potential output
 C. A final unrevised estimate
 
 D. A high year-on-year rate despite modest recent momentum
-
-
-**Correct answer:** D
-
-- **Option A:** Base effects operate through the comparison denominator.
-
-- **Option B:** Potential output needs structural evidence.
-
-- **Option C:** Revision status is unrelated.
-
-- **Option D:** A depressed year-ago level can inflate the annual rate.
-
-
-**Unique trap:** Check level and sequential momentum.
 
 ### MCQ 17
 
@@ -434,20 +210,6 @@ C. Cut to 4.00% and abandoned inflation targeting
 
 D. Fixed by the Finance Ministry
 
-
-**Correct answer:** A
-
-- **Option A:** The MPC unanimously held repo at 5.25% and retained neutral stance.
-
-- **Option B:** This does not match the dated decision.
-
-- **Option C:** Inflation targeting continued.
-
-- **Option D:** The statutory MPC decides the repo rate.
-
-
-**Unique trap:** Rate, stance and forecast are separate facts.
-
 ### MCQ 18
 
 **Question:** Which statement best distinguishes liquidity from monetary stance?
@@ -459,20 +221,6 @@ B. Liquidity operations manage reserves and market-rate transmission without aut
 C. Liquidity is identical to fiscal deficit
 
 D. Only currency demand affects liquidity
-
-
-**Correct answer:** B
-
-- **Option A:** Operational liquidity can change without policy-rate action.
-
-- **Option B:** RBI tools manage short-term conditions around the policy framework.
-
-- **Option C:** Fiscal accounts are separate.
-
-- **Option D:** Government balances, forex and RBI operations also matter.
-
-
-**Unique trap:** Operation is not objective.
 
 ### MCQ 19
 
@@ -486,20 +234,6 @@ C. An outstanding stock whose growth needs deposit, sector and quality context
 
 D. A current-account flow
 
-
-**Correct answer:** C
-
-- **Option A:** Outstanding credit includes earlier loans.
-
-- **Option B:** Profitability is an income measure.
-
-- **Option C:** Stock, funding and allocation must be read together.
-
-- **Option D:** Credit is a domestic balance-sheet item.
-
-
-**Unique trap:** Credit growth is not GDP growth.
-
 ### MCQ 20
 
 **Question:** Which is the soundest banking-health assessment?
@@ -511,20 +245,6 @@ B. Credit growth alone proves solvency
 C. Profit alone removes liquidity risk
 
 D. Asset quality, capital, provisions, profitability and stress tests must be combined
-
-
-**Correct answer:** D
-
-- **Option A:** Low GNPA can coexist with concentration or capital risk.
-
-- **Option B:** Rapid credit can worsen future quality.
-
-- **Option C:** Profitability and liquidity are distinct.
-
-- **Option D:** A multi-indicator assessment captures buffers and vulnerabilities.
-
-
-**Unique trap:** Avoid single-ratio banking conclusions.
 
 ### MCQ 21
 
@@ -538,20 +258,6 @@ C. The primary deficit
 
 D. A state-government aggregate
 
-
-**Correct answer:** A
-
-- **Option A:** The February 2026 Budget sets a forward BE.
-
-- **Option B:** FY26 outturn comes from CGA and later accounts.
-
-- **Option C:** Primary deficit subtracts interest.
-
-- **Option D:** The figure concerns the Union Budget.
-
-
-**Unique trap:** Always attach BE/RE/Actual.
-
 ### MCQ 22
 
 **Question:** Which equation defines the primary deficit?
@@ -563,20 +269,6 @@ B. Fiscal deficit minus interest payments
 C. Debt minus GDP
 
 D. Capital expenditure minus revenue expenditure
-
-
-**Correct answer:** B
-
-- **Option A:** That does not define a standard deficit measure.
-
-- **Option B:** Primary deficit removes inherited interest burden from fiscal deficit.
-
-- **Option C:** Debt/GDP is a ratio, not primary balance.
-
-- **Option D:** Spending composition is not the formula.
-
-
-**Unique trap:** Deficit concepts differ by included receipts and expenditure.
 
 ### MCQ 23
 
@@ -590,20 +282,6 @@ C. They were provisional/unaudited realised accounts released 1 June 2026
 
 D. They were Survey projections
 
-
-**Correct answer:** C
-
-- **Option A:** The year had ended, so they were not BE.
-
-- **Option B:** The release explicitly retained provisional/unaudited status.
-
-- **Option C:** This is the correct source-stage label.
-
-- **Option D:** The Survey did not publish the cash outturn.
-
-
-**Unique trap:** Provisional actual is closer to outturn but not final audit.
-
 ### MCQ 24
 
 **Question:** Budget 2026-27 capital expenditure of Rs 12.22 lakh crore proves:
@@ -615,20 +293,6 @@ B. Private capex rose by the same amount
 C. Maintenance was fully funded
 
 D. Only an allocation; execution and asset productivity need separate evidence
-
-
-**Correct answer:** D
-
-- **Option A:** Budgeting does not complete assets.
-
-- **Option B:** Union capex and private investment differ.
-
-- **Option C:** Maintenance is generally revenue expenditure and needs separate analysis.
-
-- **Option D:** Allocation is an input, not an outcome.
-
-
-**Unique trap:** Capex quality requires lifecycle evidence.
 
 ### MCQ 25
 
@@ -642,20 +306,6 @@ C. Total external debt
 
 D. The merchandise deficit alone
 
-
-**Correct answer:** A
-
-- **Option A:** The 1 September release gives a quarterly current-account flow.
-
-- **Option B:** Reserves are point-in-time assets.
-
-- **Option C:** External debt is a liability stock.
-
-- **Option D:** CAD also includes services and income flows.
-
-
-**Unique trap:** Current account is broader than goods trade.
-
 ### MCQ 26
 
 **Question:** Why is July 2026 services trade in the Commerce release qualified?
@@ -667,20 +317,6 @@ B. July services values were estimated because latest RBI data were for June
 C. It is a fiscal-year stock
 
 D. It is an audited customs value
-
-
-**Correct answer:** B
-
-- **Option A:** The release includes estimated services.
-
-- **Option B:** The footnote explicitly states the lag and estimation.
-
-- **Option C:** Trade is a flow.
-
-- **Option D:** Services are not customs-cleared goods.
-
-
-**Unique trap:** Combined trade inherits mixed data status.
 
 ### MCQ 27
 
@@ -694,20 +330,6 @@ C. Net FDI inflow USD 6.1 billion and net FPI outflow USD 9.6 billion
 
 D. All inflows were grants
 
-
-**Correct answer:** C
-
-- **Option A:** The directions are reversed.
-
-- **Option B:** The financial account had multiple components.
-
-- **Option C:** RBI's 1 September 2026 release supports this contrast.
-
-- **Option D:** FDI and FPI are investments, not grants.
-
-
-**Unique trap:** Gross/net and inflow/outflow must be explicit.
-
 ### MCQ 28
 
 **Question:** Why can weekly reserve change differ from BoP-basis reserve change?
@@ -719,20 +341,6 @@ B. BoP excludes transactions
 C. Weekly reserves exclude gold
 
 D. Valuation and timing differ from recorded BoP transactions
-
-
-**Correct answer:** D
-
-- **Option A:** Different concepts can both be correct.
-
-- **Option B:** BoP records transactions.
-
-- **Option C:** Weekly total reserves include gold.
-
-- **Option D:** Exchange-rate valuation and timing explain part of the gap.
-
-
-**Unique trap:** Stock movement is not identical to transaction flow.
 
 ### MCQ 29
 
@@ -746,20 +354,6 @@ C. WPR is unemployed divided by labour force
 
 D. LFPR excludes the unemployed
 
-
-**Correct answer:** A
-
-- **Option A:** The monthly bulletin supports this exact status and age group.
-
-- **Option B:** Monthly PLFS here uses CWS.
-
-- **Option C:** WPR is employed persons relative to population.
-
-- **Option D:** Labour force includes employed and unemployed seekers/available persons.
-
-
-**Unique trap:** Method, age and geography belong beside the rate.
-
 ### MCQ 30
 
 **Question:** A fall in unemployment is insufficient to prove better labour outcomes because:
@@ -771,20 +365,6 @@ B. Hours, earnings, status, security and participation may move differently
 C. WPR must always fall
 
 D. Self-employment is legally prohibited
-
-
-**Correct answer:** B
-
-- **Option A:** Employment indicators are essential but incomplete alone.
-
-- **Option B:** Quality and participation complete the diagnosis.
-
-- **Option C:** WPR can rise or fall independently.
-
-- **Option D:** Self-employment is a major labour status.
-
-
-**Unique trap:** Quantity and quality must be separated.
 
 ### MCQ 31
 
@@ -798,20 +378,6 @@ C. PMI new orders may lead, IIP may be coincident, and final labour outcomes oft
 
 D. Reserves are a lagging flow
 
-
-**Correct answer:** C
-
-- **Option A:** CPI usually confirms realised price change.
-
-- **Option B:** Final GDP arrives with a lag.
-
-- **Option C:** The timing logic is plausible but context-dependent.
-
-- **Option D:** Reserves are a stock.
-
-
-**Unique trap:** Indicator timing is empirical, not immutable.
-
 ### MCQ 32
 
 **Question:** What does macro triangulation require?
@@ -824,6 +390,539 @@ C. Ignoring conflicting signals
 
 D. Testing one claim across independent series with different coverage and errors
 
+### MCQ 33
+
+**Question:** An index rises from 100 to 115 and then to 126.5. Which comparison separates the cumulative rise from the second-period growth rate?
+
+A. Cumulative 26.5%; second-period 10%
+
+B. Cumulative 26.5%; second-period 11.5%
+
+C. Cumulative 15%; second-period 26.5%
+
+D. Cumulative 10%; second-period 15%
+
+### MCQ 34
+
+**Question:** A ministry cites a favourable advance GDP estimate after MoSPI issues a revised series with a new base. Which analytical treatment is defensible?
+
+A. Discard all historic vintages as errors
+
+B. Retain the old vintage with its date and rebuild comparisons within the revised series
+
+C. Subtract the old-base growth rate from the new-base GDP level
+
+D. Treat the Survey's older vintage as automatically overriding later releases
+
+### MCQ 35
+
+**Question:** Suppose nominal GDP grows 12% and the GDP deflator grows 5% in the same period. What is approximate real GDP growth using the exact ratio?
+
+A. 17%
+
+B. 7.0% exactly
+
+C. About 6.67%
+
+D. About 2.4%
+
+### MCQ 36
+
+**Question:** Why would a high quarterly GDP growth rate alone fail to establish a new output record after a deep contraction?
+
+A. Growth rates measure price levels only
+
+B. A rebound always exceeds the old peak
+
+C. Base effects invalidate national accounts entirely
+
+D. The level can still be below its pre-contraction peak despite rapid growth from the trough
+
+### MCQ 37
+
+**Question:** A fiscal deficit ratio falls while rupee borrowing rises. Which account is logically consistent?
+
+A. Nominal GDP, the ratio's denominator, rose faster than the deficit numerator
+
+B. Fiscal deficit cannot rise in rupees when its GDP ratio falls
+
+C. Capital spending must have been cut in nominal terms
+
+D. The CGA automatically converted borrowing into revenue
+
+### MCQ 38
+
+**Question:** An analyst links an August reserve stock to an April-June current-account flow. What additional step is essential before attributing the change in reserves to that flow?
+
+A. Convert the CAD into a policy rate
+
+B. Reconcile matching dates, financial-account flows, valuation changes and other reserve adjustments
+
+C. Ignore transactions in the capital and financial accounts
+
+D. Treat end-period reserves as the quarter's export earnings
+
+### MCQ 39
+
+**Question:** A PMI reading moves from 55 to 52 while official IIP growth remains positive. What can be concluded without further evidence?
+
+A. Manufacturing output necessarily contracted
+
+B. PMI and IIP have identical sampling and units
+
+C. Survey respondents still report expansion on balance, though its diffusion signal softened
+
+D. IIP is a forecast of PMI next month
+
+### MCQ 40
+
+**Question:** Which sequence best separates a macroeconomic source claim from a policy conclusion?
+
+A. Pick an attractive headline, then reconstruct its period
+
+B. Average conflicting rates regardless of population
+
+C. Treat every Survey recommendation as enacted law
+
+D. Record dated evidence and status, specify the mechanism, test a counter-signal, then qualify the recommendation
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** The Survey diagnoses trends and advances policy arguments without itself authorising expenditure.
+
+- **Option B:** Appropriation requires parliamentary legislation, not the Survey.
+
+- **Option C:** The MPC resolution is an RBI document with a different mandate.
+
+- **Option D:** Final Union accounts are produced through the government accounting and audit process.
+
+**Unique trap:** Do not convert analysis into legal authority.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** The Survey is not a final spending account.
+
+- **Option B:** BE is the government's initial annual fiscal plan.
+
+- **Option C:** RE is a revised fiscal estimate, not legislation.
+
+- **Option D:** CGA provisional accounts record realised transactions after year-end.
+
+**Unique trap:** Plan, revision and outturn are distinct.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** A naked value cannot be safely updated or compared.
+
+- **Option B:** An opinion does not replace period, unit or estimate status.
+
+- **Option C:** These six fields make the evidence auditable and revision-safe.
+
+- **Option D:** A newspaper date is not the official release and omits statistical status.
+
+**Unique trap:** Metadata is part of the fact.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** GDP measures production over a period.
+
+- **Option B:** CAD is a period flow and debt a point-in-time stock.
+
+- **Option C:** Both deficit and exports are flows over periods.
+
+- **Option D:** Reserves are dated assets while CAD accumulates during a quarter.
+
+**Unique trap:** A ratio does not change the underlying stock-flow character.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** The release gives Q1 FY27 year-on-year real growth under the new base.
+
+- **Option B:** Neither the full year nor the old base describes the release.
+
+- **Option C:** The period is April-June FY27 and the 7.8 figure is real growth.
+
+- **Option D:** A growth rate is not a level or share.
+
+**Unique trap:** Keep quarter, price basis, base year and estimate status together.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** The distinction is not about excluding all taxes or importing goods.
+
+- **Option B:** Net product taxes bridge GVA at basic prices and GDP at market prices.
+
+- **Option C:** Both aggregates can be presented at constant or current prices.
+
+- **Option D:** Both GDP and GVA are revised.
+
+**Unique trap:** A GDP-GVA gap is not automatically inconsistent data.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** The Survey preceded later revisions and rebasing.
+
+- **Option B:** FY26 means April 2025-March 2026.
+
+- **Option C:** This preserves the Survey's source vintage and estimate status.
+
+- **Option D:** The RBI and FY27 are separate.
+
+**Unique trap:** Do not silently upgrade FAE to actual.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** Weights and methods can break comparability.
+
+- **Option B:** Nominal series also change coverage and valuation.
+
+- **Option C:** Method changes are central to rebasing.
+
+- **Option D:** A bridge or explicit qualification preserves statistical validity.
+
+**Unique trap:** Rebasing is not merely relabelling the year.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** GFCF is a broad fixed-asset flow; execution and productivity require separate evidence.
+
+- **Option B:** Growth is not a share and includes more than private investment.
+
+- **Option C:** GFCF includes multiple institutional sectors.
+
+- **Option D:** Capacity use is a different indicator.
+
+**Unique trap:** Investment quantity does not settle investment quality.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** The 10% figure belongs to tertiary GVA.
+
+- **Option B:** MoSPI's 31 August release supports this dated comparison.
+
+- **Option C:** Agriculture and allied grew 3.6%.
+
+- **Option D:** Broad and detailed sectors diverged.
+
+**Unique trap:** Broad-based growth must be demonstrated, not asserted.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** IIP is monthly and distinct from GVA.
+
+- **Option B:** PMI is the private diffusion survey.
+
+- **Option C:** MoSPI labelled July IIP a Quick Estimate under the 2022-23 base.
+
+- **Option D:** Price indices are not averaged into IIP.
+
+**Unique trap:** IIP is a volume signal, not national-account value added.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** The revised architecture and weights differ.
+
+- **Option B:** ICI covers selected upstream sectors.
+
+- **Option C:** The 20 August release was monthly and provisional.
+
+- **Option D:** This captures both the series change and status.
+
+**Unique trap:** Do not import old 'eight core' weights into the revised series.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** The threshold indicates direction among respondents.
+
+- **Option B:** PMI level is not an output-growth percentage.
+
+- **Option C:** It is not an inflation target measure.
+
+- **Option D:** Some firms can report deterioration or no change.
+
+**Unique trap:** PMI is private and directional.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** Neither is final GDP.
+
+- **Option B:** Their differing errors make triangulation useful.
+
+- **Option C:** IIP measures recorded industrial volume.
+
+- **Option D:** PMI is a business survey, not a budget item.
+
+**Unique trap:** Agreement is evidence; disagreement is a diagnostic question.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** Household and wholesale baskets differ.
+
+- **Option B:** The inflation target is headline CPI.
+
+- **Option C:** The two official releases require separate bases and dates.
+
+- **Option D:** Pass-through is uncertain and lagged.
+
+**Unique trap:** Never subtract unlike indices as if they were one basket.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** Base effects operate through the comparison denominator.
+
+- **Option B:** Potential output needs structural evidence.
+
+- **Option C:** Revision status is unrelated.
+
+- **Option D:** A depressed year-ago level can inflate the annual rate.
+
+**Unique trap:** Check level and sequential momentum.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** The MPC unanimously held repo at 5.25% and retained neutral stance.
+
+- **Option B:** This does not match the dated decision.
+
+- **Option C:** Inflation targeting continued.
+
+- **Option D:** The statutory MPC decides the repo rate.
+
+**Unique trap:** Rate, stance and forecast are separate facts.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** Operational liquidity can change without policy-rate action.
+
+- **Option B:** RBI tools manage short-term conditions around the policy framework.
+
+- **Option C:** Fiscal accounts are separate.
+
+- **Option D:** Government balances, forex and RBI operations also matter.
+
+**Unique trap:** Operation is not objective.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** Outstanding credit includes earlier loans.
+
+- **Option B:** Profitability is an income measure.
+
+- **Option C:** Stock, funding and allocation must be read together.
+
+- **Option D:** Credit is a domestic balance-sheet item.
+
+**Unique trap:** Credit growth is not GDP growth.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** Low GNPA can coexist with concentration or capital risk.
+
+- **Option B:** Rapid credit can worsen future quality.
+
+- **Option C:** Profitability and liquidity are distinct.
+
+- **Option D:** A multi-indicator assessment captures buffers and vulnerabilities.
+
+**Unique trap:** Avoid single-ratio banking conclusions.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** The February 2026 Budget sets a forward BE.
+
+- **Option B:** FY26 outturn comes from CGA and later accounts.
+
+- **Option C:** Primary deficit subtracts interest.
+
+- **Option D:** The figure concerns the Union Budget.
+
+**Unique trap:** Always attach BE/RE/Actual.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** That does not define a standard deficit measure.
+
+- **Option B:** Primary deficit removes inherited interest burden from fiscal deficit.
+
+- **Option C:** Debt/GDP is a ratio, not primary balance.
+
+- **Option D:** Spending composition is not the formula.
+
+**Unique trap:** Deficit concepts differ by included receipts and expenditure.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** The year had ended, so they were not BE.
+
+- **Option B:** The release explicitly retained provisional/unaudited status.
+
+- **Option C:** This is the correct source-stage label.
+
+- **Option D:** The Survey did not publish the cash outturn.
+
+**Unique trap:** Provisional actual is closer to outturn but not final audit.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** Budgeting does not complete assets.
+
+- **Option B:** Union capex and private investment differ.
+
+- **Option C:** Maintenance is generally revenue expenditure and needs separate analysis.
+
+- **Option D:** Allocation is an input, not an outcome.
+
+**Unique trap:** Capex quality requires lifecycle evidence.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** The 1 September release gives a quarterly current-account flow.
+
+- **Option B:** Reserves are point-in-time assets.
+
+- **Option C:** External debt is a liability stock.
+
+- **Option D:** CAD also includes services and income flows.
+
+**Unique trap:** Current account is broader than goods trade.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** The release includes estimated services.
+
+- **Option B:** The footnote explicitly states the lag and estimation.
+
+- **Option C:** Trade is a flow.
+
+- **Option D:** Services are not customs-cleared goods.
+
+**Unique trap:** Combined trade inherits mixed data status.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** The directions are reversed.
+
+- **Option B:** The financial account had multiple components.
+
+- **Option C:** RBI's 1 September 2026 release supports this contrast.
+
+- **Option D:** FDI and FPI are investments, not grants.
+
+**Unique trap:** Gross/net and inflow/outflow must be explicit.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** Different concepts can both be correct.
+
+- **Option B:** BoP records transactions.
+
+- **Option C:** Weekly total reserves include gold.
+
+- **Option D:** Exchange-rate valuation and timing explain part of the gap.
+
+**Unique trap:** Stock movement is not identical to transaction flow.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** The monthly bulletin supports this exact status and age group.
+
+- **Option B:** Monthly PLFS here uses CWS.
+
+- **Option C:** WPR is employed persons relative to population.
+
+- **Option D:** Labour force includes employed and unemployed seekers/available persons.
+
+**Unique trap:** Method, age and geography belong beside the rate.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** Employment indicators are essential but incomplete alone.
+
+- **Option B:** Quality and participation complete the diagnosis.
+
+- **Option C:** WPR can rise or fall independently.
+
+- **Option D:** Self-employment is a major labour status.
+
+**Unique trap:** Quantity and quality must be separated.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** CPI usually confirms realised price change.
+
+- **Option B:** Final GDP arrives with a lag.
+
+- **Option C:** The timing logic is plausible but context-dependent.
+
+- **Option D:** Reserves are a stock.
+
+**Unique trap:** Indicator timing is empirical, not immutable.
+
+### MCQ 32 - D
 
 **Correct answer:** D
 
@@ -835,8 +934,119 @@ D. Testing one claim across independent series with different coverage and error
 
 - **Option D:** Independent measures reduce single-source error.
 
-
 **Unique trap:** Triangulation is structured comparison, not data piling.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** The second increment is 11.5 divided by 115 = 10%; the change from 100 is 26.5%.
+
+- **Option B:** 11.5 is index points, not a percentage of the second-period base.
+
+- **Option C:** 15% describes only the first period and 26.5% is the full two-period change.
+
+- **Option D:** 10% describes the second period, not the full cumulative change.
+
+**Unique trap:** A percentage-point movement of an index is not its year-on-year percentage growth.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** Earlier estimates remain evidence of information available at that date.
+
+- **Option B:** The vintage explains contemporary decisions, while within-series comparison avoids a spurious rebasing jump.
+
+- **Option C:** A growth rate and a level in different series cannot be subtracted meaningfully.
+
+- **Option D:** A Survey is not a later national-accounts revision.
+
+**Unique trap:** Historical evidence can remain valid without being the current estimate.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** Adding nominal and price growth reverses the deflation operation.
+
+- **Option B:** Subtracting percentage growth gives a useful approximation, not the exact multiplicative result.
+
+- **Option C:** 1.12 divided by 1.05 minus one is about 0.0667.
+
+- **Option D:** The ratio is not obtained by dividing the growth rates 12 by 5.
+
+**Unique trap:** The exact real-growth identity divides gross growth factors rather than subtracting rates.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** Real GDP growth tracks output volume, not only prices.
+
+- **Option B:** A percentage gain applied to a lower base need not regain the previous level.
+
+- **Option C:** Base effects complicate interpretation but do not invalidate measurement.
+
+- **Option D:** Compare chained levels or the pre-shock index to test recovery of output.
+
+**Unique trap:** Do not infer level recovery from a positive growth rate.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** For example, deficit 5 to 5.5 and GDP 100 to 120 lowers the ratio from 5% to about 4.58%.
+
+- **Option B:** Levels and ratios can move in opposite directions.
+
+- **Option C:** A ratio alone does not identify any expenditure component.
+
+- **Option D:** Borrowing is financing, not government revenue.
+
+**Unique trap:** A falling debt or deficit ratio does not imply a falling nominal amount.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** CAD is a flow and does not convert into a policy instrument.
+
+- **Option B:** Matching windows and distinguishing BoP transactions from valuation are necessary to explain stock changes.
+
+- **Option C:** Financial flows can finance a CAD and change reserve assets.
+
+- **Option D:** The stock of reserve assets is not equivalent to export income.
+
+**Unique trap:** A stock movement has several sources even when a flow seems directionally persuasive.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Both PMI readings exceed the neutral 50 threshold.
+
+- **Option B:** PMI is a diffusion survey; IIP tracks a production index.
+
+- **Option C:** 52 signals expansion for more respondents than contraction, but weaker diffusion than 55.
+
+- **Option D:** IIP is an official measure of past output, not a forecast of survey responses.
+
+**Unique trap:** A slowing expansion is not necessarily an outright contraction.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** A headline without period or status cannot support an auditable inference.
+
+- **Option B:** Different measurement universes should be reconciled rather than averaged.
+
+- **Option C:** Recommendations require independent verification of enactment and implementation.
+
+- **Option D:** A claim-to-evidence-to-mechanism-to-caveat chain protects against overreach.
+
+**Unique trap:** The analytical strength of a recommendation depends on evidence boundaries, not rhetorical certainty.
 
 ## PYQS AND EXAM APPLICATION
 

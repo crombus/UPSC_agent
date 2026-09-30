@@ -6,892 +6,472 @@ topic_key: indian-society-05
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Jajmani system?
+Coverage: jajmani and its uneven transformation; landowners, tenants and labourers; Srinivas's dominant caste and Rampura; unequal input access; Panchayat representation versus power; rural-town links; PLFS evidence boundary. ✅ Dated statements follow the Core/Advanced owners; ⚠️ illustrative village cases are mechanisms, not survey observations.
 
-A. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-B. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-C. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-D. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
+Questions precede the solved key; each item has one best answer. Options rotate A → B → C → D in the separate key.
 
-**Answer: A.**
-**Explanation:** The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash. The remaining options belong to different chronology, actor or analytical categories.
+### Q1. A patron household receives customary barbering services and pays grain after harvest. Which institution fits best?
 
-### Q2. Which chronology card should be filed under Jajmani system?
+A. A locally variable jajmani-type patron-service relationship.
+B. A universal statutory minimum-wage contract.
+C. A sharecropping agreement over a crop's output.
+D. An urban employer's salaried apprenticeship.
 
-A. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-B. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-C. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-D. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
+### Q2. If a customary service household is paid partly in cash, what can still make the tie jajmani-like?
 
-**Answer: B.**
-**Explanation:** The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash. The remaining options belong to different chronology, actor or analytical categories.
+A. Absence of caste-linked occupational history.
+B. Inherited, personalised obligations to a patron household.
+C. The exclusive use of grain as legal tender.
+D. Complete freedom to choose clients each day.
 
-### Q3. Which option preserves the source-bounded meaning of Jajmani system?
+### Q3. What is the primary analytical error in describing jajmani as an identical system in every village?
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-D. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
+A. All villages had only wage employment.
+B. Customary ties could never coexist with market exchange.
+C. Its service mix, payment form and persistence varied by region and period.
+D. All patron-service ties are necessarily recent inventions.
 
-**Answer: C.**
-**Explanation:** The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash. The remaining options belong to different chronology, actor or analytical categories.
+### Q4. A carpenter stops serving a fixed patron and sells services to multiple buyers for agreed prices. What changes?
 
-### Q4. Which statement avoids a close-option trap about Jajmani system?
+A. His caste identity necessarily disappears.
+B. A tenancy reform legally turns him into a landowner.
+C. His work must cease to be skilled labour.
+D. Personalised inherited obligation gives way to more contractual market exchange.
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-D. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
+### Q5. Why may rural-to-urban migration weaken caste-occupation ties?
 
-**Answer: D.**
-**Explanation:** The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash. The remaining options belong to different chronology, actor or analytical categories.
+A. Alternative jobs reduce dependence on hereditary service patrons.
+B. Migration automatically redistributes village land.
+C. Town wages always eliminate village rituals.
+D. Migrants must abandon all caste identification by law.
 
-### Q5. Which statement correctly identifies Hereditary personalised tie?
+### Q6. A priest still performs seasonal rituals for a known family while their other services are market-purchased. What follows?
 
-A. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-B. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-C. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-D. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
+A. All hereditary services have vanished everywhere.
+B. Residual personalised ties can coexist with monetised services.
+C. Jajmani remains unchanged in every occupation.
+D. The village has no cash transactions.
 
-**Answer: A.**
-**Explanation:** What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. The remaining options belong to different chronology, actor or analytical categories.
+### Q7. Which evidence would best distinguish hereditary service from a contemporary wage contract?
 
-### Q6. Which chronology card should be filed under Hereditary personalised tie?
+A. Only the distance to the nearest town.
+B. Only the patron's total annual crop.
+C. History of fixed family patrons, expected recurring tasks and customary remuneration.
+D. Only whether a current payment was made in rupees.
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-C. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-D. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
+### Q8. Which comparison correctly locates agrarian classes?
 
-**Answer: B.**
-**Explanation:** What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. The remaining options belong to different chronology, actor or analytical categories.
+A. Tenant and landless worker always own identical plots.
+B. Every landowner is also the same caste's elected leader.
+C. Class is determined solely by ritual rank.
+D. Landowner controls land, tenant cultivates another's land and landless labourer depends on wages.
 
-### Q7. Which option preserves the source-bounded meaning of Hereditary personalised tie?
+### Q9. A tenant grows crops on a landlord's field; a labourer works for daily wages. What separates them analytically?
 
-A. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
+A. Access to cultivation under tenancy versus sale of labour without secure cultivated land.
+B. Their residence must be in separate districts.
+C. Tenancy is synonymous with owning the entire harvest.
+D. A labourer must belong to a particular caste by definition.
 
-**Answer: C.**
-**Explanation:** What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. The remaining options belong to different chronology, actor or analytical categories.
+### Q10. A village's higher-ranked family has no land or elected office; a numerically large middle caste controls both. Who fits Srinivas's concept?
 
-### Q8. Which statement avoids a close-option trap about Hereditary personalised tie?
+A. All occupational service castes equally.
+B. The numerically strong, landed and politically influential middle caste.
+C. The family with the highest ritual rank alone.
+D. Whichever individual owns the largest single field.
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-C. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-D. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
+### Q11. Why is a large individual landlord not automatically a dominant caste?
 
-**Answer: D.**
-**Explanation:** What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. The remaining options belong to different chronology, actor or analytical categories.
+A. Land is irrelevant to village power.
+B. Dominant caste means only sacred status.
+C. A person's property alone says nothing about caste-wide numbers or political influence.
+D. Dominant caste is a term for every landlord personally.
 
-### Q9. Which statement correctly identifies Jajmani decline mechanism?
+### Q12. What is the appropriate attribution for the dominant-caste idea in village sociology?
 
-A. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-D. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
+A. NFHS-5 fertility fact sheets.
+B. A PLFS annual rural employment table.
+C. The Special Marriage Act's civil-marriage route.
+D. M. N. Srinivas's Rampura fieldwork in Karnataka.
 
-**Answer: A.**
-**Explanation:** Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on. The remaining options belong to different chronology, actor or analytical categories.
+### Q13. Which conclusion does Rampura *not* establish on its own?
 
-### Q10. Which chronology card should be filed under Jajmani decline mechanism?
+A. That every Indian village has exactly the same dominant caste.
+B. That land and local numbers can support political clout.
+C. That ritual hierarchy need not mirror local political power.
+D. That village-level social analysis can reveal informal influence.
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-C. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-D. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
+### Q14. Landownership and caste rank frequently coincide. What is the correct inference?
 
-**Answer: B.**
-**Explanation:** Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on. The remaining options belong to different chronology, actor or analytical categories.
+A. Nonfarm earnings cannot alter social power.
+B. Caste-class overlap is empirically possible but not an identity or inevitable rule.
+C. All tenants have exactly the same caste identity.
+D. Every high-status household is a landlord.
 
-### Q11. Which option preserves the source-bounded meaning of Jajmani decline mechanism?
+### Q15. If formerly landless families earn income from nearby towns, which relationship might change?
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-C. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+A. All rural households must abandon farming immediately.
+B. Local landlord patronage must intensify everywhere.
+C. Their dependence on local landlords for work can decline without automatically erasing caste stigma.
+D. Caste status automatically becomes equal upon migration.
 
-**Answer: C.**
-**Explanation:** Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on. The remaining options belong to different chronology, actor or analytical categories.
+### Q16. A landowner gains access to irrigation, credit and improved seed before neighbours. What effect is plausible?
 
-### Q12. Which statement avoids a close-option trap about Jajmani decline mechanism?
+A. Inputs guarantee identical gains for tenants and owners.
+B. Improved seed alone ensures equal decision-making in the Panchayat.
+C. Output growth proves all landholding differences vanished.
+D. Early productivity gains may widen within-village differentiation.
 
-A. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-B. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-C. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-D. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
+### Q17. Which is a sound Green Revolution comparison?
 
-**Answer: D.**
-**Explanation:** Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on. The remaining options belong to different chronology, actor or analytical categories.
+A. Total harvest can rise while access to gains differs by farm size and tenancy.
+B. A higher village yield proves every labourer owns more land.
+C. Early adoption was uniform across every crop and region.
+D. Fertiliser access makes credit irrelevant for all cultivators.
 
-### Q13. Which statement correctly identifies Residual service ties?
+### Q18. A rainfed smallholding and an irrigated large farm face the same new input technology. What must be assessed?
 
-A. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+A. Only whether both farms have a road nearby.
+B. Irrigation, credit, market access and risk-bearing ability.
+C. Only the cultivators' shared district name.
+D. Only the caste of the seed merchant.
 
-**Answer: A.**
-**Explanation:** Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival. The remaining options belong to different chronology, actor or analytical categories.
+### Q19. Can Green Revolution gains by a locally dominant caste prove it controls every Panchayat decision?
 
-### Q14. Which chronology card should be filed under Residual service ties?
+A. Yes; irrigation is identical to legal electoral power.
+B. No; land ownership never affects political influence.
+C. No; political office and informal alliances must be assessed separately from farm income.
+D. Yes; productivity automatically appoints representatives.
 
-A. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-B. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+### Q20. A reserved Panchayat chairwoman sets the water agenda independently. What does this show?
 
-**Answer: B.**
-**Explanation:** Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival. The remaining options belong to different chronology, actor or analytical categories.
+A. Reservation by definition creates only proxy leaders.
+B. Women's representation necessarily ends caste inequality in all villages.
+C. Panchayat office is unrelated to local authority.
+D. Formal reservation can become substantive decision-making power.
 
-### Q15. Which option preserves the source-bounded meaning of Residual service ties?
+### Q21. A reserved-seat representative signs proposals chosen by a local landlord. What is the gap?
 
-A. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-D. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
+A. Legal representation without corresponding substantive control.
+B. Absence of any legally reserved position.
+C. Automatic loss of the representative's legal office.
+D. Proof that every reserved representative is a proxy.
 
-**Answer: C.**
-**Explanation:** Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival. The remaining options belong to different chronology, actor or analytical categories.
+### Q22. Which indicator better tests Panchayat empowerment than seat totals alone?
 
-### Q16. Which statement avoids a close-option trap about Residual service ties?
+A. The historical price paid for seeds only.
+B. Whose priorities enter budgets and who controls implementation.
+C. The reserved candidate's surname alone.
+D. The count of village weddings last year.
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-C. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-D. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
+### Q23. Reservation for which groups is relevant in the Core's rural-power discussion?
 
-**Answer: D.**
-**Explanation:** Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival. The remaining options belong to different chronology, actor or analytical categories.
+A. Only hereditary service providers paid in grain.
+B. Only town-based employers.
+C. Scheduled Castes, Scheduled Tribes and women in Panchayats.
+D. Only landowning cultivators as a class.
 
-### Q17. Which statement correctly identifies Agrarian class structure?
+### Q24. How should a dominant-caste account handle a newly elected SC chairperson?
 
-A. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-B. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-C. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-D. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
+A. Assume the dominant caste necessarily disappears overnight.
+B. Assume the chairperson cannot exercise authority.
+C. Reduce the outcome to the annual PLFS workforce share.
+D. Study whether the chairperson gains agenda power or faces informal elite control.
 
-**Answer: A.**
-**Explanation:** Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. The remaining options belong to different chronology, actor or analytical categories.
+### Q25. A village has a paved road, migrant remittances and regular town markets. Which model fits?
 
-### Q18. Which chronology card should be filed under Agrarian class structure?
+A. Rural-urban continuum with material and communication links.
+B. A sealed, wholly self-sufficient traditional village.
+C. A settlement that must be classified as a statutory city.
+D. Proof that all residents hold identical occupations.
 
-A. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-B. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-C. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+### Q26. How does the rural-urban continuum differ from a strict dichotomy?
 
-**Answer: B.**
-**Explanation:** Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. The remaining options belong to different chronology, actor or analytical categories.
+A. It measures only statutory municipal boundaries.
+B. It treats settlement practices as linked and changing rather than mutually isolated types.
+C. It claims every village is indistinguishable from a metropolis.
+D. It makes agricultural work impossible in towns.
 
-### Q19. Which option preserves the source-bounded meaning of Agrarian class structure?
+### Q27. Which observation would qualify a too-strong continuum claim?
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-D. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
+A. A nearby town trades with rural farmers.
+B. Satellite media reaches many settlements.
+C. A remote village with difficult terrain may have weak transport and market links.
+D. Some migrants send money to their origin households.
 
-**Answer: C.**
-**Explanation:** Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. The remaining options belong to different chronology, actor or analytical categories.
+### Q28. What does a remittance do to a rural household's economic ties?
 
-### Q20. Which statement avoids a close-option trap about Agrarian class structure?
+A. It proves the sender inherited local land.
+B. It automatically makes the village a municipal corporation.
+C. It ends all need for local employment.
+D. It transmits earnings from an external labour market into village consumption or investment.
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-D. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
+### Q29. What is the error in using a road alone as evidence of social equality?
 
-**Answer: D.**
-**Explanation:** Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. The remaining options belong to different chronology, actor or analytical categories.
+A. Connectivity can expand markets without equalising land or local authority.
+B. Road access can affect market opportunities.
+C. Different households may use the same road differently.
+D. Landownership remains analytically relevant after road building.
 
-### Q21. Which statement correctly identifies Caste-class overlap in the village?
+### Q30. What does the PLFS annual report directly speak to in this owner?
 
-A. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+A. The universal presence of hereditary jajmani contracts.
+B. Employment and workforce indicators with a specified survey reference period.
+C. The name of each village's dominant caste.
+D. Every Panchayat member's effective decision authority.
 
-**Answer: A.**
-**Explanation:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. The remaining options belong to different chronology, actor or analytical categories.
+### Q31. Which date pairing follows the owner's PLFS boundary?
 
-### Q22. Which chronology card should be filed under Caste-class overlap in the village?
+A. PLFS 2023–24 as the latest 2026 all-India village census.
+B. PLFS 2025 as a source of automatic village caste counts.
+C. PLFS 2023–24 as historical comparator; annual report 2025 uses January–December and was released March 2026.
+D. PLFS 2025 as a July–June report released in 2023.
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-C. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-D. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
+### Q32. Before comparing a rural workforce share across PLFS rounds, what must be checked?
 
-**Answer: B.**
-**Explanation:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. The remaining options belong to different chronology, actor or analytical categories.
+A. Only whether both releases mention rural India.
+B. Only the number of pages in each report.
+C. Only the names of the states' chief ministers.
+D. Same indicator definition and each round's reference period.
 
-### Q23. Which option preserves the source-bounded meaning of Caste-class overlap in the village?
+### Q33. Can an annual employment proportion establish that caste-class overlap ended?
 
-A. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-B. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-D. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
+A. No; household land, caste and institutional data are also needed.
+B. Yes; one workforce percentage maps every land title.
+C. Yes; occupational status determines caste unambiguously.
+D. No; caste and work never interact.
 
-**Answer: C.**
-**Explanation:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. The remaining options belong to different chronology, actor or analytical categories.
+### Q34. Which pair expresses the difference between class and caste in village analysis?
 
-### Q24. Which statement avoids a close-option trap about Caste-class overlap in the village?
+A. Dominant caste is fixed solely by the village's crop.
+B. Land access marks class; numbers plus land and political influence can mark caste dominance.
+C. Both are simply alternative labels for the ritually highest group.
+D. Class is identical to inherited occupation in all districts.
 
-A. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-B. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-C. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-D. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
+### Q35. A village SHG secures independent market access for previously dependent women. What is plausible?
 
-**Answer: D.**
-**Explanation:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. The remaining options belong to different chronology, actor or analytical categories.
+A. Cooperatives necessarily preserve every hereditary patronage tie.
+B. A new market route legally dissolves Panchayat institutions.
+C. A non-caste organisational channel can weaken some gatekeeping without guaranteeing equal power.
+D. SHG membership automatically redistributes all agricultural land.
 
-### Q25. Which statement correctly identifies Dominant caste?
+### Q36. Which mechanism explains why agrarian change may *restructure* rather than abolish caste power?
 
-A. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-D. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
+A. Every cash transaction instantaneously cancels inherited status.
+B. A new seed variety changes ritual rank by law.
+C. Village influence can only be exercised through grain payments.
+D. Market earnings and reserved offices redistribute some resources while old land networks persist.
 
-**Answer: A.**
-**Explanation:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. The remaining options belong to different chronology, actor or analytical categories.
+### Q37. A non-irrigated tenant faces a high-cost input package. What risk deserves attention?
 
-### Q26. Which chronology card should be filed under Dominant caste?
+A. Debt or crop loss may be harder to absorb than for a secure large owner.
+B. Tenant and owner necessarily face identical credit terms.
+C. The input package guarantees secure ownership.
+D. Farm size determines caste identity with certainty.
 
-A. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-B. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-C. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-D. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
+### Q38. Why is a census of reserved seats insufficient to judge local democracy?
 
-**Answer: B.**
-**Explanation:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. It proves traditional networks cannot adapt.
+B. It omits actual agenda-setting, control of funds and possible proxy influence.
+C. It measures exact crop yields for every farmer.
+D. It replaces all need for institutional observation.
 
-### Q27. Which option preserves the source-bounded meaning of Dominant caste?
+### Q39. A landless worker earns nonfarm wages yet remains excluded from village decisions. Which statement fits?
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-D. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
+A. Nonfarm work proves equal landownership.
+B. All local stigma depends exclusively on wages.
+C. Class dependence may ease while informal caste exclusion persists.
+D. Higher income necessarily confers a Panchayat seat.
 
-**Answer: C.**
-**Explanation:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. The remaining options belong to different chronology, actor or analytical categories.
+### Q40. What is a careful fieldwork design for testing dominant-caste power today?
 
-### Q28. Which statement avoids a close-option trap about Dominant caste?
+A. Identify only the ritually highest local caste.
+B. Read only the national PLFS cover page.
+C. Count the grain sacks paid to one artisan.
+D. Compare caste numbers, land records, Panchayat decision paths and dissenting households' experience.
 
-A. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-B. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-C. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-D. M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
+### Q41. Which claim about grain payments is logically overbroad?
 
-**Answer: D.**
-**Explanation:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. Every in-kind transaction is evidence of an unchanged hereditary jajmani system.
+B. Some customary service ties used in-kind payment.
+C. Cash and grain could coexist locally.
+D. An occasional ritual service may retain personal obligations.
 
-### Q29. Which statement correctly identifies Rampura evidence?
+### Q42. Which comparison correctly handles rural stratification under new markets?
 
-A. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-D. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
+A. Existing caste organisation is irrelevant whenever prices are quoted.
+B. Opportunity can widen while unequal land, credit and networks shape who captures it.
+C. Every connected household receives the same net income.
+D. Market entry proves tenancy security for all.
 
-**Answer: A.**
-**Explanation:** Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract. The remaining options belong to different chronology, actor or analytical categories.
+### Q43. Which answer strategy is honest about this owner's GS-I PYQ status?
 
-### Q30. Which chronology card should be filed under Rampura evidence?
+A. Convert a neighbouring Economy tenancy PYQ into this owner's official PYQ.
+B. Claim all rural questions belong only to Governance.
+C. Use original practice problems and say no direct question was routed in the audited ledgers.
+D. Invent a recent official jajmani question with an answer key.
 
-A. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-B. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-C. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-D. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
+### Q44. Why must rural society not be used as a synonym for agriculture?
 
-**Answer: B.**
-**Explanation:** Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract. The remaining options belong to different chronology, actor or analytical categories.
+A. Every rural household cultivates a holding it owns.
+B. Agrarian output alone establishes caste hierarchy.
+C. Town remittances can be counted only as farm yield.
+D. Village work includes nonfarm employment, care, markets and local politics alongside cultivation.
 
-### Q31. Which option preserves the source-bounded meaning of Rampura evidence?
+### Q45. What analytical distinction is associated with André Béteille's rural sociology?
 
-A. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-D. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
+A. Caste, class and power are related but not identical dimensions.
+B. Ritual rank always defines land tenure and office.
+C. Population size alone determines landownership.
+D. Every village follows exactly Rampura's political distribution.
 
-**Answer: C.**
-**Explanation:** Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract. The remaining options belong to different chronology, actor or analytical categories.
+### Q46. Why invoke A. R. Desai in an agrarian-structure answer?
 
-### Q32. Which statement avoids a close-option trap about Rampura evidence?
+A. To prove every Panchayat representative is a proxy.
+B. To situate rural class relations in broader markets and state action.
+C. To claim village hierarchies exist without external forces.
+D. To substitute fertility surveys for land relations.
 
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
+### Q47. When women increasingly do farm tasks as men migrate, what cannot be inferred automatically?
 
-**Answer: D.**
-**Explanation:** Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract. The remaining options belong to different chronology, actor or analytical categories.
+A. That farm labour now has a gender dimension.
+B. That migration can alter household work allocation.
+C. That their land titles, pay and decision authority have improved.
+D. That their labour contribution has changed.
 
-### Q33. Which statement correctly identifies Dominant caste is not the landowning class?
+### Q48. How could mechanisation change rural labour relations?
 
-A. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-D. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
+A. It guarantees identical gains for landless workers and owners.
+B. It legislates a new ritual hierarchy in every village.
+C. It ends all seasonal migration immediately.
+D. It may change demand for particular tasks and bargaining conditions, varying by crop and scale.
 
-**Answer: A.**
-**Explanation:** Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive. The remaining options belong to different chronology, actor or analytical categories.
+### Q49. Which comparison is most alert to agrarian regional variation?
 
-### Q34. Which chronology card should be filed under Dominant caste is not the landowning class?
+A. Irrigated Punjab-Haryana cultivation versus rainfed Deccan or eastern tenancy settings.
+B. Every village has identical irrigation and tenancy security.
+C. Every planting decision is determined only by district population.
+D. Land markets operate identically in tribal, coastal and peri-urban areas.
 
-A. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-B. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
+### Q50. A small farmer exits cultivation to work in town while retaining village ties. Which process is implicated?
 
-**Answer: B.**
-**Explanation:** Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive. The remaining options belong to different chronology, actor or analytical categories.
+A. A guaranteed end to caste-class overlap.
+B. Depeasantisation through a shift away from cultivation, alongside rural-urban linkage.
+C. Instant conversion of all local labourers into landlords.
+D. A necessary end to family remittances.
 
-### Q35. Which option preserves the source-bounded meaning of Dominant caste is not the landowning class?
+### Q51. Commercialisation raises output prices but a tenant's rent also rises. What must a social answer examine?
 
-A. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-B. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-C. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-D. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
+A. Only whether cash displaced grain payments.
+B. Only which group holds the ritual priesthood.
+C. Who retains the surplus after tenancy and credit claims, not only gross revenue.
+D. Only the village's total crop weight.
 
-**Answer: C.**
-**Explanation:** Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive. The remaining options belong to different chronology, actor or analytical categories.
+### SOLVED MCQ KEY AND ELIMINATION
 
-### Q36. Which statement avoids a close-option trap about Dominant caste is not the landowning class?
+**Q1 — A.** Hereditary, personalised service linked to a patron distinguishes jajmani. **Close-option trap:** The payment may include grain, cash or both; 'always grain' is false.
 
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-C. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-D. Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
+**Q2 — B.** Payment medium is less diagnostic than the structure of the relationship. **Close-option trap:** Cash alone does not prove a modern impersonal wage market.
 
-**Answer: D.**
-**Explanation:** Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive. The remaining options belong to different chronology, actor or analytical categories.
+**Q3 — C.** The historical arrangement was variable rather than an all-India template. **Close-option trap:** A barber-priest example does not map every local service group.
 
-### Q37. Which statement correctly identifies Green Revolution differentiation?
+**Q4 — D.** Changing clients and price negotiation weaken hereditary patronage. **Close-option trap:** Occupational mobility need not erase social hierarchy.
 
-A. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
+**Q5 — A.** Outside employment alters occupational choice and bargaining power. **Close-option trap:** Economic diversification and social equality are not equivalent.
 
-**Answer: A.**
-**Explanation:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. The remaining options belong to different chronology, actor or analytical categories.
+**Q6 — B.** Different functions change at different speeds. **Close-option trap:** Residual practice is not proof of system-wide continuity.
 
-### Q38. Which chronology card should be filed under Green Revolution differentiation?
+**Q7 — C.** The relation's durability and choice of patron are the differentiating variables. **Close-option trap:** A one-time cash payment is not decisive.
 
-A. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-B. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-C. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-D. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
+**Q8 — D.** Ownership, security of tenancy and wage dependence structure class positions. **Close-option trap:** Caste often overlaps but does not define every class relation.
 
-**Answer: B.**
-**Explanation:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. The remaining options belong to different chronology, actor or analytical categories.
+**Q9 — A.** Control over cultivation and dependence on wages mark distinct positions. **Close-option trap:** Do not assume a tenant has secure rights or a landless worker no nonfarm income.
 
-### Q39. Which option preserves the source-bounded meaning of Green Revolution differentiation?
+**Q10 — B.** Dominance combines collective local numbers, resources and office. **Close-option trap:** Ritual status is not a necessary condition.
 
-A. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-B. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-C. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-D. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
+**Q11 — C.** Caste-level dominance requires collective demographic and institutional factors. **Close-option trap:** Class membership is not identical to a caste-level configuration.
 
-**Answer: C.**
-**Explanation:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. The remaining options belong to different chronology, actor or analytical categories.
+**Q12 — D.** The named fieldwork provides a concept of local social power. **Close-option trap:** A labour-force statistic is not a village ethnography.
 
-### Q40. Which statement avoids a close-option trap about Green Revolution differentiation?
+**Q13 — A.** One field study offers a framework, not a national census. **Close-option trap:** Srinivas's concept is transferable; the observed caste composition is not.
 
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-C. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-D. High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
+**Q14 — B.** Association can loosen with tenancy change and migration. **Close-option trap:** Avoid converting an observed tendency into a deterministic definition.
 
-**Answer: D.**
-**Explanation:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. The remaining options belong to different chronology, actor or analytical categories.
+**Q15 — C.** Outside income may alter bargaining position while social barriers persist. **Close-option trap:** An income shift is not the same as a land title or social acceptance.
 
-### Q41. Which statement correctly identifies Region-specific outcome?
+**Q16 — D.** Upfront capital and input access can channel benefits to better-connected cultivators. **Close-option trap:** Distributional change cannot be inferred from aggregate output alone.
 
-A. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-B. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-C. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-D. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
+**Q17 — A.** Separate output effects from allocation across classes. **Close-option trap:** The differentiation mechanism is contingent, not a universal outcome.
 
-**Answer: A.**
-**Explanation:** Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result. The remaining options belong to different chronology, actor or analytical categories.
+**Q18 — B.** Complementary inputs and risk affect who can adopt profitably. **Close-option trap:** Seed availability alone is not equivalent to capacity to benefit.
 
-### Q42. Which chronology card should be filed under Region-specific outcome?
+**Q19 — C.** Economic resources may support but do not alone constitute political dominance. **Close-option trap:** Do not erase the resource channel while rejecting determinism.
 
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
+**Q20 — D.** An independent agenda is evidence of exercised authority, beyond the seat count. **Close-option trap:** One effective case does not establish every seat's outcome.
 
-**Answer: B.**
-**Explanation:** Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result. The remaining options belong to different chronology, actor or analytical categories.
+**Q21 — A.** Who makes decisions matters as much as who formally holds the seat. **Close-option trap:** Proxy control is possible, not inevitable.
 
-### Q43. Which option preserves the source-bounded meaning of Region-specific outcome?
+**Q22 — B.** Agenda-setting and resource allocation reveal substantive authority. **Close-option trap:** A mandate and its realised effects must not be conflated.
 
-A. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-B. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-C. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-D. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
+**Q23 — C.** Formal inclusion creates possible new voices in a previously unequal arena. **Close-option trap:** Formal inclusion does not guarantee dominance disappears.
 
-**Answer: C.**
-**Explanation:** Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result. The remaining options belong to different chronology, actor or analytical categories.
+**Q24 — D.** The Panchayat becomes a contested field where formal and informal power interact. **Close-option trap:** Neither automatic success nor automatic proxy status is warranted.
 
-### Q44. Which statement avoids a close-option trap about Region-specific outcome?
+**Q25 — A.** Town linkages cross the village boundary without erasing rural characteristics. **Close-option trap:** A road is not equivalent to formal urban status.
 
-A. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-B. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
+**Q26 — B.** Migration, markets and media connect rather than cleanly divide social spaces. **Close-option trap:** Continuum is not a claim of uniformity.
 
-**Answer: D.**
-**Explanation:** Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result. The remaining options belong to different chronology, actor or analytical categories.
+**Q27 — C.** Connectedness varies geographically and historically. **Close-option trap:** Avoid asserting that every village has identical urban exposure.
 
-### Q45. Which statement correctly identifies Panchayati Raj reservation?
+**Q28 — D.** Remittance is a concrete rural-urban linkage. **Close-option trap:** External cash need not dissolve local caste power.
 
-A. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-B. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
+**Q29 — A.** Infrastructure access and distribution of benefits are distinct claims. **Close-option trap:** A continuum is about connection, not equal power.
 
-**Answer: A.**
-**Explanation:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. The remaining options belong to different chronology, actor or analytical categories.
+**Q30 — B.** Use the survey for the indicator it measures, not ethnographic power. **Close-option trap:** Employment composition cannot directly measure informal caste sanction.
 
-### Q46. Which chronology card should be filed under Panchayati Raj reservation?
+**Q31 — C.** Survey round, release and reference period should not be conflated. **Close-option trap:** Do not transfer an older round's July–June frame to 2025.
 
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-C. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
+**Q32 — D.** Period and denominator differences can make raw comparisons misleading. **Close-option trap:** No undated percentage should be invented.
 
-**Answer: B.**
-**Explanation:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. The remaining options belong to different chronology, actor or analytical categories.
+**Q33 — A.** Labour-force aggregate and village-specific hierarchy measure different things. **Close-option trap:** A broad indicator can inform context but not prove local power relations.
 
-### Q47. Which option preserves the source-bounded meaning of Panchayati Raj reservation?
+**Q34 — B.** Economic position and a caste-level political configuration can overlap without identity. **Close-option trap:** The same caste need not encompass every landowner.
 
-A. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-B. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-C. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
+**Q35 — C.** New collective bargaining channels may shift incentives and dependence. **Close-option trap:** One programme's presence cannot prove complete equality.
 
-**Answer: C.**
-**Explanation:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. The remaining options belong to different chronology, actor or analytical categories.
+**Q36 — D.** Several power sources change at different speeds. **Close-option trap:** Decline of jajmani does not imply decline of all hierarchy.
 
-### Q48. Which statement avoids a close-option trap about Panchayati Raj reservation?
+**Q37 — A.** Insecurity and credit shape unequal exposure to technological risk. **Close-option trap:** Do not claim all tenants always lose.
 
-A. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-B. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-C. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-D. Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
+**Q38 — B.** Formal compliance is a necessary institutional fact, not the complete outcome. **Close-option trap:** A reserved chairperson can also exercise genuine power.
 
-**Answer: D.**
-**Explanation:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. The remaining options belong to different chronology, actor or analytical categories.
+**Q39 — C.** Power may have economic, social and political dimensions with distinct trajectories. **Close-option trap:** The converse—unchanged wages with more voice—is also possible.
 
-### Q49. Which statement correctly identifies Formal representation versus substantive power?
+**Q40 — D.** Triangulate demographic, economic and political resources at village level. **Close-option trap:** No single land title identifies the whole power network.
 
-A. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-B. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-C. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-D. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
+**Q41 — A.** Payment medium alone cannot establish hereditary patronage. **Close-option trap:** A one-off exchange in kind could be a market bargain.
 
-**Answer: A.**
-**Explanation:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. The remaining options belong to different chronology, actor or analytical categories.
+**Q42 — B.** Access conditions and initial assets mediate distribution. **Close-option trap:** Aggregate output alone cannot reveal class incidence.
 
-### Q50. Which chronology card should be filed under Formal representation versus substantive power?
+**Q43 — C.** A zero-direct ledger status must be preserved while teaching examinable concepts. **Close-option trap:** Absence in this routing does not mean the theme is unimportant.
 
-A. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-B. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
+**Q44 — D.** Rural relations extend beyond crop production. **Close-option trap:** A rising nonfarm share does not make all villages urban.
 
-**Answer: B.**
-**Explanation:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. The remaining options belong to different chronology, actor or analytical categories.
+**Q45 — A.** Tracking each axis avoids collapsing economic and political power into status. **Close-option trap:** Overlap is an empirical question, not an identity.
 
-### Q51. Which option preserves the source-bounded meaning of Formal representation versus substantive power?
+**Q46 — B.** Markets and the state shape agrarian relations beyond the individual village. **Close-option trap:** A macro lens complements rather than replaces local field evidence.
 
-A. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-B. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-C. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
+**Q47 — C.** Feminisation of work can mean added burdens without control of resources. **Close-option trap:** Activity is not empowerment without ownership or bargaining evidence.
 
-**Answer: C.**
-**Explanation:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. The remaining options belong to different chronology, actor or analytical categories.
+**Q48 — D.** Technology changes work opportunities through asset access and labour demand. **Close-option trap:** Neither universal job loss nor universal gain follows.
 
-### Q52. Which statement avoids a close-option trap about Formal representation versus substantive power?
+**Q49 — A.** Crop, irrigation, land and tenure conditions reshape exposure to change. **Close-option trap:** The comparison is qualitative; do not invent regional outcome rates.
 
-A. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-B. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-C. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-D. Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
+**Q50 — B.** Loss of direct cultivation and nonfarm work can coexist with ongoing social ties. **Close-option trap:** One farmer's exit is not a measured national trend.
 
-**Answer: D.**
-**Explanation:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Rural-urban continuum?
-
-A. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-B. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-
-**Answer: A.**
-**Explanation:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Rural-urban continuum?
-
-A. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-B. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-C. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-
-**Answer: B.**
-**Explanation:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Rural-urban continuum?
-
-A. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-B. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-C. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-D. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-
-**Answer: C.**
-**Explanation:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Rural-urban continuum?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-D. The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-
-**Answer: D.**
-**Explanation:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Continuum in practice?
-
-A. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-B. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-C. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-D. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-
-**Answer: A.**
-**Explanation:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Continuum in practice?
-
-A. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-B. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-
-**Answer: B.**
-**Explanation:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Continuum in practice?
-
-A. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-B. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-C. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-D. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-
-**Answer: C.**
-**Explanation:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Continuum in practice?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-D. Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-
-**Answer: D.**
-**Explanation:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Scope discipline on land law?
-
-A. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-B. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-
-**Answer: A.**
-**Explanation:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Scope discipline on land law?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-C. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-D. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-
-**Answer: B.**
-**Explanation:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Scope discipline on land law?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-D. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-
-**Answer: C.**
-**Explanation:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Scope discipline on land law?
-
-A. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-
-**Answer: D.**
-**Explanation:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Periodic Labour Force Survey boundary?
-
-A. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-D. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-
-**Answer: A.**
-**Explanation:** Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Periodic Labour Force Survey boundary?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-C. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-D. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-
-**Answer: B.**
-**Explanation:** Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Periodic Labour Force Survey boundary?
-
-A. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-D. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-
-**Answer: C.**
-**Explanation:** Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Periodic Labour Force Survey boundary?
-
-A. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-B. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-
-**Answer: D.**
-**Explanation:** Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Employment data cannot prove village power?
-
-A. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-B. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-C. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-D. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-
-**Answer: A.**
-**Explanation:** Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Employment data cannot prove village power?
-
-A. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-B. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-C. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-D. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-
-**Answer: B.**
-**Explanation:** Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Employment data cannot prove village power?
-
-A. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-B. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-C. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-D. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-
-**Answer: C.**
-**Explanation:** Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Employment data cannot prove village power?
-
-A. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-B. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-
-**Answer: D.**
-**Explanation:** Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Which resource now carries power?
-
-A. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-
-**Answer: A.**
-**Explanation:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Which resource now carries power?
-
-A. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-B. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-
-**Answer: B.**
-**Explanation:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Which resource now carries power?
-
-A. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-B. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-C. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-D. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-
-**Answer: C.**
-**Explanation:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Which resource now carries power?
-
-A. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-B. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-C. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-D. The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-
-**Answer: D.**
-**Explanation:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Transparent zero-direct-PYQ status?
-
-A. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-B. The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-C. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-D. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-
-**Answer: A.**
-**Explanation:** No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Transparent zero-direct-PYQ status?”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Q77. Which statement correctly identifies Transparent zero-direct-PYQ status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Transparent zero-direct-PYQ status? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** D. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Q77. Which statement correctly identifies Transparent zero-direct-PYQ status?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Q77. Which statement correctly identifies Transparent zero-direct-PYQ status?”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status?
-
-A. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-B. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-D. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-
-**Answer: B.**
-**Explanation:** No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status?”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** C. What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Q78. Which chronology card should be filed under Transparent zero-direct-PYQ status?”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status?
-
-A. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-B. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-C. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-D. Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-
-**Answer: C.**
-**Explanation:** No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** Treat “Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status?” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status?”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Q79. Which option preserves the source-bounded meaning of Transparent zero-direct-PYQ status?”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-### Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status?
-
-A. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-B. Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-D. No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands.
-
-**Answer: D.**
-**Explanation:** No direct General Studies Paper-I Mains question in the locally held official question papers targets rural society or agrarian change, so this owner records the absence honestly instead of inventing a recent question and prepares the recurring jajmani, dominant-caste, agrarian-change and continuum demands. The remaining options belong to different chronology, actor or analytical categories.
+**Q51 — C.** Markets distribute gains through pre-existing claims on land, credit and labour. **Close-option trap:** A higher output price does not guarantee a higher tenant income.
 
 ## PYQS AND ANSWER PRACTICE
-
-**Demand decoding:** Treat “Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status?” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A. Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** C. Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status?”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Q80. Which statement avoids a close-option trap about Transparent zero-direct-PYQ status?”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
 
 ### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
 
@@ -914,238 +494,79 @@ No direct General Studies Paper-I Mains question in the audited routing ledgers 
   Green Revolution differentiation chain to explain intra-village inequality, and close with
   the formal-representation-versus-substantive-power gap in Panchayati Raj.
 
+
+> Mains PYQ solutions are independent model answers, **not official answer keys**. The ledger records provenance; question wording and marks below retain the audited workbook's demands.
+
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain the jajmani system and account for its transformation in contemporary rural India. Answer in about 150 words.
 
-**Model thesis:** Jajmani was a hereditary, personalised patron-client exchange rather than a cash-free economy, and commercialisation, non-farm work and migration monetised it into contractual labour while leaving ritual service ties in place.
+**Model answer (160 words; independent practice solution):** Jajmani denotes a historically variable arrangement in which patron households, often landholding, received recurring services from designated groups. A village barber, washerman or priest could be paid after harvest in grain or other customary forms; cash also occurred. Its distinguishing feature was the personalised, often hereditary patron-service relationship, not a prohibition on money.
 
-**Claim → named evidence → analysis → qualification:**
+Cash wages, schooling, nonfarm employment and migration to nearby towns can give service providers alternative buyers and income. As a carpenter sells work to multiple customers, a fixed occupational relationship may become a negotiated contract. Yet a household may still call a familiar priest for a ritual while purchasing other services on the open market. Changes in one service cannot establish that all caste-linked ties have ended.
 
-- The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash.
-- What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test.
-- Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on.
-- Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival.
-
-**Qualified conclusion:** Jajmani was a hereditary, personalised patron-client exchange rather than a cash-free economy, and commercialisation, non-farm work and migration monetised it into contractual labour while leaving ritual service ties in place.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the jajmani system and account for its transformation in contemporary rural India.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Jajmani was a hereditary, personalised patron-client exchange rather than a cash-free economy, and commercialisation, non-farm work and migration monetised it into contractual labour while leaving ritual service ties in place.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The jajmani system was a historical, regionally variable patron-client arrangement in which patron households known as jajman received customary services from designated groups known as kamin, with payment often in grain or kind and sometimes in cash. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** What distinguished jajmani from a modern labour market was the hereditary, personalised patron-client tie rather than the absence of cash as such, so no-cash must never be used as the defining test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Cash-crop commercialisation, non-farm employment and urban migration reduced patron dependence on a fixed set of hereditary service providers and broke the hereditary occupation-caste link that the arrangement rested on. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Ritual and personalised service relations persist in some places, so the defensible verdict is monetisation and transformation rather than universal disappearance, and remoteness alone cannot be used to assume survival. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Jajmani was a hereditary, personalised patron-client exchange rather than a cash-free economy, and commercialisation, non-farm work and migration monetised it into contractual labour while leaving ritual service ties in place.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain the jajmani system and account for its transformation in contemporary rural India.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Thus jajmani's transformation concerns the weakening of inherited dependence and the rise of alternative work, not a uniform disappearance. Regional history, local caste relations and the kind of service matter; social hierarchy can survive the change in payment or occupation.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** What is meant by the rural-urban continuum, and why is it preferred to a rural-urban dichotomy? Answer in about 150 words.
 
-**Model thesis:** The continuum treats villages and towns as linked points on one spectrum rather than opposed types, because migration, remittance, media and market access keep rural life continuously connected to urban life.
+**Model answer (167 words; independent practice solution):** The rural-urban continuum treats villages and towns as connected social and economic spaces rather than as sealed traditional and modern worlds. A village household may farm locally, receive a daughter's remittance from a city, buy supplies in a nearby town and learn about opportunities through media. Those flows link consumption, employment and ideas across a settlement boundary.
 
-**Claim → named evidence → analysis → qualification:**
+The dichotomy is weaker because neither a village's agricultural activity proves isolation nor an urban wage necessarily severs kin and land ties. A road can enlarge a farmer's market but does not make all villagers landowners or dissolve caste hierarchies. Migrants may retain ritual and political links with the origin village. Thus connection and unequal power must be analysed together.
 
-- The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-- Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-- Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
-
-**Qualified conclusion:** The continuum treats villages and towns as linked points on one spectrum rather than opposed types, because migration, remittance, media and market access keep rural life continuously connected to urban life.
-
-**Demand decoding:** The directive **answer** requires a direct position on “What is meant by the rural-urban continuum, and why is it preferred to a rural-urban…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The continuum treats villages and towns as linked points on one spectrum rather than opposed types, because migration, remittance, media and market access keep rural life continuously connected to urban life.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The continuum treats villages and towns as linked points on one spectrum rather than opposed types, because migration, remittance, media and market access keep rural life continuously connected to urban life.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “What is meant by the rural-urban continuum, and why is it preferred to a rural-urban…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The continuum is a framework, not a claim that every settlement is equally connected. Difficult terrain may limit access and some households may lack money or mobility despite proximity to a town. Studying the type and distribution of links is more useful than assigning every settlement to an absolute binary.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Examine the concept of the dominant caste and its relevance to village power today. Answer in about 250 words.
 
-**Model thesis:** Dominance built on numbers, land and office predicts everyday village authority better than ritual rank, and reserved Panchayat representation now contests that authority without displacing it.
+**Model answer (239 words; independent practice solution):** M. N. Srinivas's dominant-caste concept, associated with his Rampura village study in Karnataka, locates practical authority in the convergence of a caste's local numbers, landholding and political influence. A ritually highest-ranked caste lacking these resources need not be the group that shapes village decisions. Conversely, a locally numerous middle-ranked landholding caste can influence hiring, patronage and Panchayat priorities.
 
-**Claim → named evidence → analysis → qualification:**
+Dominant caste is not a synonym for the biggest landlord. The unit is a caste's collective position; the landowning class can contain members of several castes, and a wealthy individual may lack broad social support. Nor does ownership alone determine electoral office. A village study should compare the composition of landholdings with office-holding, informal networks and whose demands are acted on.
 
-- M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-- Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract.
-- Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive.
-- Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-- Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
+Contemporary change makes the concept more, not less, useful if it is applied as a test rather than a fixed label. Wage work in towns and nonfarm income may reduce some households' reliance on local patrons. Panchayat reservations for Scheduled Castes, Scheduled Tribes and women introduce formally mandated competing voices. An independently acting SC chairperson can redirect spending to water or sanitation, while a proxy chairperson can leave informal elite control intact. Neither outcome should be assumed from the reservation rule alone.
 
-**Qualified conclusion:** Dominance built on numbers, land and office predicts everyday village authority better than ritual rank, and reserved Panchayat representation now contests that authority without displacing it.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the concept of the dominant caste and its relevance to village power today. Answer in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Dominance built on numbers, land and office predicts everyday village authority better than ritual rank, and reserved Panchayat representation now contests that authority without displacing it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Srinivas developed the dominant-caste concept through his Rampura village study in Karnataka, the same fieldwork that produced Sanskritisation, so the concept is located rather than abstract. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Dominant caste is a caste-level concept combining numbers, land and office, while landowning class is an economic category that can cut across several castes, so the two are usually but not necessarily coextensive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Dominance built on numbers, land and office predicts everyday village authority better than ritual rank, and reserved Panchayat representation now contests that authority without displacing it.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the concept of the dominant caste and its relevance to village power today. Answer in…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Srinivas's framework thus explains why ritual status, class and political authority need not coincide. Its limit is local variation: Rampura's observed constellation cannot be projected onto every village, and data on representation must be checked against actual decision-making.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Assess the social consequences of agrarian change for rural stratification in India. Answer in about 250 words.
 
-**Model thesis:** Agrarian change has restructured caste-class power more often than it has dissolved it, because productivity gains required capital, non-farm income created differentiation inside castes, and land and office remain unevenly distributed.
+**Model answer (246 words; independent practice solution):** Agrarian change affects not only crop output but also who controls land, work and local decisions. Landowners, tenants or sharecroppers and landless labourers occupy different positions because ownership, tenancy security and dependence on wages expose them differently to risk. Class can overlap with caste without being identical.
 
-**Claim → named evidence → analysis → qualification:**
+Historically, hereditary jajmani relations linked services to patron households through customary obligations and payments, commonly in kind but sometimes in cash. Migration, wage opportunities and a wider market may weaken dependence on a fixed patron; a familiar ritual service can nonetheless persist.
 
-- Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position.
-- Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-- High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
-- Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result.
-- The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
+Green Revolution input packages provide a second differentiation mechanism. Irrigation, credit and improved seed often required upfront capacity: a well-connected landowner might adopt early while a rainfed tenant faces greater risk. Higher total production can coexist with unequal gains. The effect varies by crop and tenancy.
 
-**Qualified conclusion:** Agrarian change has restructured caste-class power more often than it has dissolved it, because productivity gains required capital, non-farm income created differentiation inside castes, and land and office remain unevenly distributed.
+Other processes complicate the distribution: mechanisation changes demand for particular tasks; commercialisation and ecological stress alter costs, while depeasantisation can move cultivators into nonfarm employment. When men migrate, women's farm labour may rise without corresponding title, wages or decision-making. Irrigated Punjab-Haryana and dryland Deccan settings differ. André Béteille separates caste, class and power analytically, while A. R. Desai locates village relations within markets and the state.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the social consequences of agrarian change for rural stratification in India. Answer…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Agrarian change has restructured caste-class power more often than it has dissolved it, because productivity gains required capital, non-farm income created differentiation inside castes, and land and office remain unevenly distributed.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Rural society is stratified into landowning cultivators, tenants or sharecroppers and landless agricultural labourers, a structure that often but not always correlates with caste position. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Adoption and distribution varied with crop, tenancy security, irrigation, price support and local institutions, so the Green Revolution's distributional outcome cannot be asserted as one universal result. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Agrarian change has restructured caste-class power more often than it has dissolved it, because productivity gains required capital, non-farm income created differentiation inside castes, and land and office remain unevenly distributed.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the social consequences of agrarian change for rural stratification in India. Answer…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Finally, a reserved Panchayat office may broaden voice while older land networks still influence budgets. Town remittances diversify incomes unevenly. Agrarian change thus reworks the relation between class and caste; assess ownership, work, political decisions and region rather than equating output growth with social equality.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Critically examine whether formal representation in Panchayats has converted into substantive rural social power. Answer in about 300 words.
 
-**Model thesis:** Reservation has created mandated voice and genuine agenda-setting in some villages while informal dominant-caste networks retain control through proxy office-holders in others, so representation is a necessary but insufficient condition.
+**Model answer (306 words; independent practice solution):** Panchayat reservations for Scheduled Castes, Scheduled Tribes and women guarantee opportunities for groups historically excluded from local office. This is a substantive institutional change: the elected chairperson can set agendas, question old spending priorities and mobilise claims to water, sanitation or roads. Where an SC-reserved chairperson independently allocates resources, representation becomes power in practice rather than merely a name on a register.
 
-**Claim → named evidence → analysis → qualification:**
+However, a locally dominant caste may retain influence through land, employment, networks of credit and control of campaign resources. M. N. Srinivas's concept identifies dominance with numbers, land and political influence, not solely ritual prestige. A reserved-seat holder whose husband or other powerful patrons determine the budget may possess formal title but not meaningful authority. That example reveals a possibility, not a rule about all women representatives; assuming universal proxy control would erase real leadership.
 
-- Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control.
-- Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy.
-- M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis.
-- Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it.
-- Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them.
+To judge conversion from form to substance, look beyond seat counts. Who proposes projects? Who can oppose a landowner? Are funds and works supervised by the office-holder? Do marginalised residents gain access to meetings and services? An independently negotiated water project supplies more evidence of authority than mere compliance with a quota. Differences between villages may reflect land concentration, caste composition, political organisation, literacy and available alternative livelihoods.
 
-**Qualified conclusion:** Reservation has created mandated voice and genuine agenda-setting in some villages while informal dominant-caste networks retain control through proxy office-holders in others, so representation is a necessary but insufficient condition.
+Urban remittances and self-help groups can weaken dependence on an elite patron, but may leave social sanction intact. Similarly a larger local harvest may strengthen landholders without automatically securing a majority on the council. The relevant comparison is between the formal distribution of office and the actual distribution of agenda-setting and implementation power.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine whether formal representation in Panchayats has converted into substantive…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Reservation has created mandated voice and genuine agenda-setting in some villages while informal dominant-caste networks retain control through proxy office-holders in others, so representation is a necessary but insufficient condition.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Reserved seats for Scheduled Castes, Scheduled Tribes and women in Panchayats, including chairperson positions on a rotating basis, introduce formally mandated voices into village governance and contest older dominant-caste control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Formal reserved representation does not automatically produce substantive agenda-setting power, because informal dominant-caste networks can continue to control decisions through a reserved-seat holder acting as a proxy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** M.N. Srinivas's dominant caste combines numerical strength, a significant share of local land and political influence, and can be a middle-ranked jati rather than the ritually highest one, which makes it the practical unit of village-power analysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Landownership and caste rank coincide in many villages, though tenancy reform, migration and non-farm income are loosening the correlation unevenly rather than eliminating it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Land-ceiling and tenancy legislation mechanics and macro poverty data belong to Economy while Panchayati Raj institutional design belongs to Governance, so a Society answer cross-refers instead of re-deriving them. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Reservation has created mandated voice and genuine agenda-setting in some villages while informal dominant-caste networks retain control through proxy office-holders in others, so representation is a necessary but insufficient condition.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Critically examine whether formal representation in Panchayats has converted into substantive…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The qualified verdict is that reservation creates an indispensable institutional entry, not a guaranteed transfer of informal influence. Support for effective participation, access to information and scrutiny of budget decisions can narrow the gap; outcomes require village-specific evidence rather than either an automatic-success narrative or a universal-proxy claim.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Evaluate the claim that rural India is connected to markets yet remains socially stratified. Answer in about 300 words.
 
-**Model thesis:** Connection and stratification are compatible, because migration and markets change which resource carries power rather than abolishing the hierarchy, and national labour indicators cannot settle a village-level power question.
+**Model answer (319 words; independent practice solution):** Rural market connection and social stratification are not contradictory. A village can sell produce in a town, receive wages and remittances from urban migrants and use roads and media while its households retain unequal access to land and authority. The rural-urban continuum captures these ongoing flows better than an isolated-village model, but connectedness is not an equality index.
 
-**Claim → named evidence → analysis → qualification:**
+Class position shapes the use of opportunities. A landowning cultivator can pledge assets and access irrigation and credit; a tenant with insecure cultivation may face higher input risk; a landless worker sells labour and may have limited bargaining power. Thus Green Revolution-style increases in aggregate production can accompany early gains for better-resourced farmers. Distribution varies by region, crop and tenancy conditions and cannot be inferred from total yield alone.
 
-- The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types.
-- Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it.
-- Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle.
-- Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator.
-- The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village.
-- High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains.
+Older caste-linked ties can also change unevenly. A customary barber may move from a grain-paid relationship with a fixed patron to cash work for several town customers. This loosens inherited occupational dependence but does not automatically dismantle caste stigma or the land network that sustains local hierarchy. The dominant-caste concept of M. N. Srinivas directs attention to whether a locally numerous, landed caste still influences Panchayat choices; it is not identical to the landowning class as a whole.
 
-**Qualified conclusion:** Connection and stratification are compatible, because migration and markets change which resource carries power rather than abolishing the hierarchy, and national labour indicators cannot settle a village-level power question.
+Reservation for SCs, STs and women opens a formal route to challenge this influence. An independently acting chairperson can reshape spending; a proxy arrangement can preserve informal control. Village-level budgets and whose proposals succeed are better evidence than a seat count alone. PLFS rural employment indicators illuminate work patterns, not directly landownership or informal decision-making; comparisons should state the reference period and indicator.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the claim that rural India is connected to markets yet remains socially stratified.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Connection and stratification are compatible, because migration and markets change which resource carries power rather than abolishing the hierarchy, and national labour indicators cannot settle a village-level power question.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The continuum model treats villages and towns as points on one spectrum linked by migration, remittance, trade, media and market access, in contrast with a dichotomy model that opposes traditional and modern types. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Remittances from urban migrant family members, satellite media exposure and motorable road and market access keep most villages continuously linked to urban economic and cultural life rather than sealed off from it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Periodic Labour Force Survey data for 2023-24 is a dated rural-workforce comparator, and the Periodic Labour Force Survey Annual Report 2025, released in March 2026, is the latest annual round and uses a January-December reference period rather than the older July-June cycle. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Employment data can contextualise rural labour change but cannot establish jajmani decline or caste dominance, which require village-level social evidence rather than a national labour indicator. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The analytically useful question is not whether caste-class power survived unchanged but which resource, whether land, office, network or non-farm income, now carries it in a given village. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** High-yielding-variety seeds, irrigation and fertiliser required upfront capital, so larger or better-connected cultivators often accessed credit and inputs earlier and could capture a disproportionate share of productivity gains. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Connection and stratification are compatible, because migration and markets change which resource carries power rather than abolishing the hierarchy, and national labour indicators cannot settle a village-level power question.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate the claim that rural India is connected to markets yet remains socially stratified.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Therefore market links expand some possibilities while pre-existing assets and institutions filter their distribution. The task for analysis is to trace who captures new earnings, who retains property and who speaks with authority. Avoid both the romantic self-sufficient village and the claim that money or a road alone has dissolved stratification.

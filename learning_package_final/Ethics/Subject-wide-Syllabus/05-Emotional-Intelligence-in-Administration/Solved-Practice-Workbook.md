@@ -12,819 +12,513 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Applied set:** 24 constructed ethical and theory dilemmas; select one best response before consulting the separate key.
+
 #### MCQ 1
 
-A training module credits Daniel Goleman with originating the concept of emotional intelligence in 1995. A participant objects, citing a 1990 academic paper. Which provenance correction is accurate and why does the distinction matter for a GS-IV answer? Which source-grounded ethical principle most precisely explains the case?
+An officer recognises that irritation toward a repeat complainant may bias her decision. Which EI component is first engaged?
 
-A. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
+A. Self-awareness of the officer's own emotional state.
+B. Self-regulation by suppressing all recorded complaints.
+C. Motivation to achieve a daily closure target.
+D. Social skill in publicising a grievance outcome.
 
-B. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-C. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
-
-D. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-**Answer:** A
-**Explanation:** **Salovey-Mayer 1990 definition is the academic origin** is the controlling principle. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 2
 
-A probationer defines EI as the ability to suppress negative emotions during public interaction. Which part of the 1990 Salovey-Mayer definition shows that regulation, not suppression, is the correct framing? Which source-grounded ethical principle most precisely explains the case?
+After noticing anger, an officer pauses and gives a protester a reasoned response rather than shouting. Which capacity is decisive?
 
-A. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
+A. Manipulation of the protester's fears.
+B. Self-regulation of the emotional response.
+C. Self-awareness alone, without changed conduct.
+D. An absence of every emotional reaction.
 
-B. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
-
-C. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-D. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-**Answer:** B
-**Explanation:** **Salovey-Mayer 1990 definition is the academic origin** is the controlling principle. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 3
 
-An officer claims she has high EI because a self-report questionnaire rated her social confidence highly. Which methodological feature of the ability model challenges the validity of self-report for measuring EI? Which source-grounded ethical principle most precisely explains the case?
+A nurse explains a complex benefits process in the applicant's language after noticing her confusion. Which combination best fits?
 
-A. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
+A. Cognitive intelligence alone, regardless of the applicant.
+B. A secret exception to eligibility because she looks distressed.
+C. Empathic perception followed by adaptive communication.
+D. Passive sympathy without procedural help.
 
-B. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
-
-C. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-D. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-**Answer:** C
-**Explanation:** **Mayer-Salovey 1997 four-branch ability model is a revision** is the controlling principle. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 4
 
-A disaster-management trainer ranks EI skills as four levels: noticing distress signals, channelling urgency into action, reading competing emotional claims, and regulating grief during command. Which established model does this hierarchy correspond to? Which source-grounded ethical principle most precisely explains the case?
+Two equally technically skilled crisis commanders differ: one panics and the other delegates calmly. What follows about IQ and EQ?
 
-A. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
+A. EQ removes any need for disaster-response knowledge.
+B. IQ logically guarantees calm behaviour.
+C. Composure guarantees the ethically correct emergency plan.
+D. Emotional regulation complements technical competence during execution.
 
-B. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-C. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
-
-D. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-**Answer:** D
-**Explanation:** **Mayer-Salovey 1997 four-branch ability model is a revision** is the controlling principle. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 5
 
-A civil-service foundation course teaches self-awareness, self-regulation, motivation, empathy and social skill as the five pillars of emotional intelligence. Which theoretical model is being used and how does it differ from the ability model? Which source-grounded ethical principle most precisely explains the case?
+A high-EI officer senses an applicant's fear and uses it to demand an informal payment. What does the example show?
 
-A. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
+A. Emotional skill can enable manipulation without integrity.
+B. Empathic accuracy guarantees ethical behaviour.
+C. Detecting distress is itself a breach of duty.
+D. Technical incompetence is the necessary cause of bribery.
 
-B. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
-
-C. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-D. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-**Answer:** A
-**Explanation:** **Goleman's five workplace competencies are a mixed model** is the controlling principle. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 6
 
-A selection committee argues that Goleman's model proves EI is entirely innate and unmeasurable. Which feature of the competency model — its emphasis on trainable workplace skills — contradicts this claim? Which source-grounded ethical principle most precisely explains the case?
+A district lead must inform rescue teams of uncertainty in flood forecasts without inducing panic. Which EI skill is most directly tested?
 
-A. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
+A. Replacing operational forecasts with motivational slogans.
+B. Social skill in credible, composed coordination.
+C. Inventing certainty to make teams obedient.
+D. Suppressing every discussion of uncertainty.
 
-B. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
-
-C. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-D. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
-
-**Answer:** B
-**Explanation:** **Goleman's five workplace competencies are a mixed model** is the controlling principle. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 7
 
-A state government uses a self-report EQ-i questionnaire to select officers for disaster-management postings. A psychometrician warns that self-report may not predict actual crisis behaviour. Which model distinction supports the psychometrician's concern? Which source-grounded ethical principle most precisely explains the case?
+A clerk remains courteous through repeated public abuse and later shows exhaustion. What concept diagnoses the strain?
 
-A. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
+A. Proof that courtesy is dishonest conduct.
+B. Evidence that citizens should lose grievance access.
+C. Emotional labour requiring workload and staff-support safeguards.
+D. Innate EQ that has no institutional cost.
 
-B. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
-
-C. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-D. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
-
-**Answer:** C
-**Explanation:** **Bar-On EQ-i is a trait model distinct from ability measures** is the controlling principle. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 8
 
-A researcher claims that all EI models measure the same construct. Which comparison between the ability model (performance-based MSCEIT), the mixed model (competency-based) and the trait model (self-report EQ-i) shows that they differ in both theory and method? Which source-grounded ethical principle most precisely explains the case?
+Which sequence correctly describes the later Mayer–Salovey four-branch ability model?
 
-A. The 1997 Mayer-Salovey four-branch ability model revises the 1990 definition into an ascending hierarchy: perceiving emotion, using emotion to facilitate thought, understanding emotion, and managing emotion; it treats EI as a genuine cognitive ability measurable by performance-based tests such as the MSCEIT.
+A. Motivation, empathy, social skill, honesty.
+B. Self-report confidence, popularity, authority, discipline.
+C. Perceive feelings, suppress them, punish dissent, reward silence.
+D. Perceive emotion, use it to facilitate thought, understand it, manage it.
 
-B. Daniel Goleman's Emotional Intelligence (1995) and his 1998 Harvard Business Review formulation reframe EI as five workplace competencies — self-awareness, self-regulation, motivation, empathy and social skill — blending cognitive ability with personality and motivational traits into a mixed/competency model.
-
-C. Salovey and Mayer (1990) defined emotional intelligence as the ability to monitor one's own and others' feelings and emotions, to discriminate among them, and to use this information to guide thinking and action; this is the foundational academic definition, distinct from Goleman's later popularisation.
-
-D. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests.
-
-**Answer:** D
-**Explanation:** **Bar-On EQ-i is a trait model distinct from ability measures** is the controlling principle. Bar-On's Emotional Quotient Inventory (EQ-i, technical manual 1997) treats EI as a constellation of self-perceived emotional and social competencies measured by self-report; it is useful for training-needs assessment but more contested as a predictor of actual behaviour, and methodologically different from performance-based ability tests. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 9
 
-A magistrate handling a communally sensitive case notices rising irritation when a particular community's representative speaks. She pauses before responding. Which EI component is activated at the moment of recognition, and why is it the necessary first step? Which source-grounded ethical principle most precisely explains the case?
+A training unit measures EI only by self-report and calls it a performance-based test. Which correction is apt?
 
-A. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
+A. Bar-On-style trait self-report differs from ability performance assessment.
+B. All EI models use exactly the same measurement method.
+C. Goleman's workplace competencies are identical to a laboratory ability score.
+D. A self-rating alone proves behaviour in a disaster.
 
-B. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-C. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
-
-D. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-**Answer:** A
-**Explanation:** **Self-awareness is the precondition for all EI** is the controlling principle. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 10
 
-An IAS officer consistently makes hasty decisions during late-night crisis calls but does not connect his impulsiveness to exhaustion. Which EI deficit explains why his decision quality deteriorates under fatigue? Which source-grounded ethical principle most precisely explains the case?
+A probationer repeatedly practises active listening and receives specific feedback. What is justified?
 
-A. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
+A. Training confers authority to waive eligibility rules.
+B. EI-related habits can improve, but uptake and field ethics need assessment.
+C. Practice proves every graduate will be equally empathic.
+D. Emotion is entirely fixed after recruitment.
 
-B. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
-
-C. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-D. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-**Answer:** B
-**Explanation:** **Self-awareness is the precondition for all EI** is the controlling principle. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 11
 
-During a violent protest outside the collectorate, a district collector recognises her fear but speaks calmly to the crowd, orders proportionate force and ensures medical response. Which EI component explains her transition from internal distress to controlled public action? Which source-grounded ethical principle most precisely explains the case?
+A district officer grieves during an ongoing disaster. What is a responsible first response?
 
-A. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
+A. Leave without handover at the height of the crisis.
+B. Delegate to an untrained friend for emotional comfort.
+C. Acknowledge grief, assess command capacity and arrange a competent deputy.
+D. Deny grief and conceal any operational impairment.
 
-B. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
-
-C. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-D. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-**Answer:** C
-**Explanation:** **Self-regulation converts awareness into composed conduct** is the controlling principle. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 12
 
-A senior officer under media attack for a policy decision bottles up all emotion and issues no public statement for weeks. A subordinate describes him as having high self-regulation. Why is this characterisation inaccurate under the EI framework? Which source-grounded ethical principle most precisely explains the case?
+During disaster command, the officer wants to attend a parent's rites. Which option is most defensible?
 
-A. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
+A. Travel instantly without informing team or superiors.
+B. Remain indefinitely even if competent substitution exists.
+C. Take remote command for granted when communications are disrupted.
+D. Stabilise urgent operations, make a written handover, attend briefly if safe, retain a fallback.
 
-B. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-C. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
-
-D. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-**Answer:** D
-**Explanation:** **Self-regulation converts awareness into composed conduct** is the controlling principle. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 13
 
-A training instructor advises new recruits to feel nothing during citizen grievance hearings. A psychologist objects that this risks burnout. Which distinction between suppression and regulation resolves the disagreement? Which source-grounded ethical principle most precisely explains the case?
+A counsellor tells a civil servant to stay calm and never report misconduct by superiors. Why is this misuse of EI?
 
-A. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
+A. Composure must coexist with courage and integrity in lawful reporting.
+B. All emotional regulation is unethical.
+C. Dissent is never compatible with professional conduct.
+D. Suppressing complaints improves accountability automatically.
 
-B. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
-
-C. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-D. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-**Answer:** A
-**Explanation:** **Suppressing emotion is not self-regulation** is the controlling principle. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 14
 
-An officer who never displays emotion is praised as the most composed administrator in the state. However, she frequently makes decisions without considering citizen distress. Which EI component is she missing despite apparent composure? Which source-grounded ethical principle most precisely explains the case?
+An official has a strong intuitive suspicion about a citizen but no evidence. What is the best EI-informed next step?
 
-A. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
+A. Treat the citizen's appearance as proof of intent.
+B. Recognise the emotional signal, check for bias and verify facts before deciding.
+C. Punish immediately because gut feeling is always accurate.
+D. Suppress the feeling and refuse to collect evidence.
 
-B. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
-
-C. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-D. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
-
-**Answer:** B
-**Explanation:** **Suppressing emotion is not self-regulation** is the controlling principle. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 15
 
-A welfare officer feels immediate sympathy for an applicant who reminds her of her own mother and is about to waive a documentation requirement without checking eligibility. Which EI mechanism should intervene before the decision becomes favouritism? Which source-grounded ethical principle most precisely explains the case?
+A rigid proof-of-life rule excludes an otherwise eligible elderly recipient. Which response shows wisdom rather than favour?
 
-A. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
+A. Assume literal compliance is always just.
+B. Destroy the applicant's record to prevent a denial.
+C. Use a lawful alternative verification route open to all similarly placed claimants.
+D. Privately bypass proof for this officer's acquaintance.
 
-B. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
-
-C. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-D. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
-
-**Answer:** C
-**Explanation:** **Self-awareness detects when intuition may be biased** is the controlling principle. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 16
 
-An officer instinctively distrusts a repeat complainant and is inclined to reject a genuine grievance. Which cognitive check, enabled by self-awareness, prevents the intuitive reaction from becoming an unjust decision? Which source-grounded ethical principle most precisely explains the case?
+A PA asks the DM to stop a teacher's transfer so the teacher can tutor the PA's child. What is the first conflict test?
 
-A. Self-regulation is the capacity to convert emotional awareness into composed, proportionate conduct under provocation, protest, disaster or media scrutiny; it does not mean suppressing emotion but channelling it into deliberate, ethically appropriate action.
+A. Is the PA personally loyal to the DM?
+B. Would cancelling the transfer be emotionally satisfying?
+C. Can the request be processed without putting reasons on file?
+D. Would the same decision be made for a stranger on identical personnel facts?
 
-B. A common exam trap equates emotional intelligence with eliminating all emotion; self-regulation requires recognising and managing emotion appropriately, not denying or suppressing it — suppression without awareness can lead to burnout, delayed outbursts or poor empathic engagement.
-
-C. Self-awareness is the capacity to recognise when personal stress, fatigue or bias is affecting judgment; it is the precondition for every other EI component because an officer who does not detect her own emotional state cannot regulate, channel or communicate it effectively.
-
-D. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning.
-
-**Answer:** D
-**Explanation:** **Self-awareness detects when intuition may be biased** is the controlling principle. Self-awareness enables an officer to detect when a strong intuitive reaction — anger, sympathy or disgust — may be biasing judgment, prompting a deliberate reasoning check before acting; it is the regulatory bridge between moral intuition and moral reasoning. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 17
 
-An elderly applicant stands silently at a pension counter, unable to understand the form. The clerk notices his confusion and switches to vernacular explanation. Which EI component is being exercised and how does it differ from merely following a process manual? Which source-grounded ethical principle most precisely explains the case?
+The teacher in that transfer case provides private tuition. What crucial legal boundary must be checked?
 
-A. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
+A. RTE Act section 28 prohibits private tuition by teachers within its application.
+B. Any teacher's private tutoring is automatically a hardship ground for retention.
+C. The child's learning disability cancels all teacher conduct restrictions.
+D. A DM can change statutory teaching restrictions by informal order.
 
-B. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-C. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
-
-D. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-**Answer:** A
-**Explanation:** **Empathy reads unstated citizen needs** is the controlling principle. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 18
 
-A disaster relief coordinator distributes supplies efficiently but does not notice that displaced families are traumatised and need psychological support. Which EI component is absent despite operational competence? Which source-grounded ethical principle most precisely explains the case?
+The child in the PA case has a specific learning disability. Which alternative serves the need without transfer favour?
 
-A. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
+A. Award the PA's child an exclusive private exception without assessment.
+B. Seek inclusive support and accommodation through RPwD Act section 16 and school services.
+C. Continue the prohibited tuition by shielding the teacher.
+D. Ignore the child because the request was improper.
 
-B. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
-
-C. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-D. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-**Answer:** B
-**Explanation:** **Empathy reads unstated citizen needs** is the controlling principle. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 19
 
-A sub-divisional magistrate must reject a land claim that lacks statutory documents. She explains the rejection in the applicant's language, outlines the appeal process and connects him to legal aid. Which EI component shapes her conduct without altering the legal outcome? Which source-grounded ethical principle most precisely explains the case?
+An officer cites RPwD Act section 31 for every child with any learning difficulty regardless of statutory threshold. What refinement is needed?
 
-A. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
+A. Section 31 dispenses with assessment and school obligations.
+B. Section 31 makes private tuition lawful for government teachers.
+C. Section 31 concerns children with benchmark disabilities aged six to eighteen.
+D. Section 31 provides a DM an unlimited power to stop transfers.
 
-B. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
-
-C. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-D. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-**Answer:** C
-**Explanation:** **Empathy informs how rules are applied, not whether** is the controlling principle. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 20
 
-An officer waives all documentation requirements for a weeping applicant without any published criterion for the waiver. A colleague calls this empathy. Why is the correct classification favouritism rather than empathetic administration? Which source-grounded ethical principle most precisely explains the case?
+A teacher's transfer genuinely leaves a school without its only subject teacher. What is the right way to address it?
 
-A. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
+A. Rely on the DM's personal assistant's convenience.
+B. Treat private tutoring as evidence of the school's staffing need.
+C. Conceal the staffing problem to avoid precedent.
+D. Apply a recorded general transfer-policy exception through the competent channel.
 
-B. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-C. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
-
-D. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-**Answer:** D
-**Explanation:** **Empathy informs how rules are applied, not whether** is the controlling principle. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 21
 
-A joint secretary must coordinate between the health ministry and the finance ministry on pandemic procurement. She structures stakeholder meetings to surface each ministry's constraints before proposing a solution. Which EI component is she deploying? Which source-grounded ethical principle most precisely explains the case?
+An angry citizen complains of a long wait. A clerk mirrors the anger to secure a fast signature waiving checks. What is wrong?
 
-A. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
+A. Emotion-reading became manipulative and bypassed lawful safeguards.
+B. Mirroring always counts as compassionate service.
+C. Quick signatures alone establish administrative success.
+D. The only problem is that the citizen was angry.
 
-B. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
-
-C. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-D. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-**Answer:** A
-**Explanation:** **Social skill enables coordination and conflict resolution** is the controlling principle. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 22
 
-A district collector must announce an unpopular lockdown extension. He explains the epidemiological rationale, acknowledges economic hardship and announces mitigation measures. Which EI component makes this communication effective rather than merely authoritative? Which source-grounded ethical principle most precisely explains the case?
+A supervisor tells staff to show empathy but leaves no translated forms or accessible counters. What improves the institution?
 
-A. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
+A. Use informal personal intermediaries as sole access route.
+B. Introduce assisted filing, vernacular forms and check grievance outcomes.
+C. Demand employees feel warmer while changing nothing.
+D. Remove eligibility rules to simplify every decision.
 
-B. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
-
-C. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-D. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
-
-**Answer:** B
-**Explanation:** **Social skill enables coordination and conflict resolution** is the controlling principle. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 23
 
-A counter clerk denies a genuine welfare claimant's application because a single supporting document has a minor clerical error, despite clear substantive eligibility. Which concept explains the failure to exercise contextual judgment? Which source-grounded ethical principle most precisely explains the case?
+Which historical sequence avoids conflating EI theorists?
 
-A. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
+A. Bar-On's EQ-i is the 1997 four-branch ability model.
+B. Hochschild's 1983 emotional-labour analysis is Goleman's five competencies.
+C. Salovey–Mayer introduced EI in 1990; the four-branch formulation followed in 1997.
+D. Goleman's 1995 book originated the 1990 academic definition.
 
-B. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
-
-C. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
-
-D. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
-
-**Answer:** C
-**Explanation:** **Wisdom in administration requires empathy as its trigger** is the controlling principle. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
 
 #### MCQ 24
 
-A district collector notices that strict enforcement of a building regulation would displace a community of elderly residents with nowhere to go. She exercises discretion within the law to allow a compliance timeline. Which pair of concepts — empathy and wisdom — explains her decision? Which source-grounded ethical principle most precisely explains the case?
+An officer stays calm but knows the evacuation route is unsafe. Which combined response is ethical?
 
-A. Empathy in administration informs how a rule-bound decision is communicated and delivered, not whether the rule itself is waived arbitrarily; the common trap is to equate empathy with bending rules for anyone who appears distressed, which conflates compassion with favouritism.
+A. Treat composure as sufficient proof the route is safe.
+B. Follow a comforting intuition despite hazard maps.
+C. Conceal the error because admission may cause anger.
+D. Use technical evidence to revise the route and communicate the change clearly.
 
-B. Social skill in administration enables coordination across departments, conflict resolution among stakeholders, and effective communication of unpopular but necessary decisions; it is the outward-facing component that converts internal EI competence into organisational and public outcomes.
 
-C. Empathy in administration is the capacity to grasp the unstated needs of a citizen — an illiterate applicant's confusion, a disaster victim's trauma, a differently-abled person's accessibility barrier — and adapt service delivery accordingly, without requiring the citizen to articulate the need.
+### Separate answer key and option-by-option explanations
 
-D. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose.
+#### MCQ 1 — A
 
-**Answer:** D
-**Explanation:** **Wisdom in administration requires empathy as its trigger** is the controlling principle. Wisdom in administration (practical judgment or phronesis) requires empathy to trigger contextual sensitivity; without empathy, a procedurally correct official applies rules mechanically and may produce a travesty of justice that follows the letter of a rule while defeating its purpose. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+- **A:** Noticing irritation creates the chance to correct bias.
+- **B:** Erasing evidence is not emotional management.
+- **C:** Throughput does not identify inward emotion.
+- **D:** Publicity cannot substitute for inner recognition.
 
----
-
-#### MCQ 25
-
-A citizen-grievance counter clerk maintains courtesy for eight hours daily despite repeated verbal abuse. After two years she develops chronic exhaustion. Which concept explains the psychological cost and what institutional response is indicated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-B. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-C. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-D. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-**Answer:** A
-**Explanation:** **Emotional labour is a real cost of public-facing roles** is the controlling principle. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Awareness precedes regulation.
 
 ---
 
-#### MCQ 26
+#### MCQ 2 — B
 
-A state government argues that empathetic officers do not need burnout support because their natural disposition protects them. Which Hochschild-derived insight shows that emotional labour carries burnout risk regardless of natural empathy? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Exploitation is not respectful de-escalation.
+- **B:** Composed conduct translates awareness into response.
+- **C:** Recognition alone does not explain the pause.
+- **D:** EI manages rather than eliminates emotion.
 
-A. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-B. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-C. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-D. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-**Answer:** B
-**Explanation:** **Emotional labour is a real cost of public-facing roles** is the controlling principle. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Regulation is not repression.
 
 ---
 
-#### MCQ 27
+#### MCQ 3 — C
 
-A licensing officer accurately reads an applicant's desperation to start a business before a deadline and says the file can be expedited for an unofficial fee. Which feature of EI is being used and which foundational value is absent? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Technical knowledge alone misses access barriers.
+- **B:** Language help does not require waiving standards.
+- **C:** Understanding need plus accessible explanation improves service.
+- **D:** Feeling sorry alone leaves misunderstanding intact.
 
-A. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-B. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-C. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-D. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-**Answer:** C
-**Explanation:** **High EI without integrity enables manipulation** is the controlling principle. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Empathy is diagnostic; procedure remains accountable.
 
 ---
 
-#### MCQ 28
+#### MCQ 4 — D
 
-A colleague argues that training officers in emotional intelligence will automatically reduce corruption. Which boundary condition of EI — its ethical neutrality — shows that this claim is incomplete? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Empathy cannot replace technical planning.
+- **B:** Analytical ability does not entail regulation.
+- **C:** A calm officer can still make a bad decision.
+- **D:** EI explains differences in deployment of similar knowledge.
 
-A. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-B. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-C. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-D. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-**Answer:** D
-**Explanation:** **High EI without integrity enables manipulation** is the controlling principle. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Avoid both EQ-alone and IQ-alone accounts.
 
 ---
 
-#### MCQ 29
+#### MCQ 5 — A
 
-A charismatic administrator uses her social skill to build trust with contractors and then steers procurement toward preferred firms. External auditors detect the pattern. Which analytical distinction — EI as capacity versus ethics as direction — explains the failure? Which source-grounded ethical principle most precisely explains the case?
+- **A:** EI supplies ability, not a moral end.
+- **B:** Accurate feeling-reading is ethically neutral.
+- **C:** Perception alone is not unethical.
+- **D:** The exploitation may be highly competent.
 
-A. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-B. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-C. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-D. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-**Answer:** A
-**Explanation:** **EI does not guarantee ethical conduct** is the controlling principle. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Never equate interpersonal skill with virtue.
 
 ---
 
-#### MCQ 30
+#### MCQ 6 — B
 
-An ethics curriculum treats EI training as a complete substitute for vigilance and audit mechanisms. Which limitation of EI as a concept makes this design dangerous? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Motivation cannot substitute for forecasts.
+- **B:** Honest communication helps teams coordinate under stress.
+- **C:** False reassurance conceals material risk.
+- **D:** Silence removes decision-relevant information.
 
-A. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-B. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-C. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-D. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-**Answer:** B
-**Explanation:** **EI does not guarantee ethical conduct** is the controlling principle. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Social skill must serve truth, not spin.
 
 ---
 
-#### MCQ 31
+#### MCQ 7 — C
 
-A junior officer notices systematic procurement fraud but is told by seniors to remain calm and not create unnecessary controversy. She complies and the fraud continues. Which misapplication of EI is enabling the institutional failure? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Professional restraint is not necessarily deceit.
+- **B:** Staff support need not deny citizens service.
+- **C:** Role-appropriate affect can carry cumulative psychological cost.
+- **D:** Natural empathy does not abolish burnout.
 
-A. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-B. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-C. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-D. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-**Answer:** C
-**Explanation:** **Overemphasis on composure can suppress legitimate dissent** is the controlling principle. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not romanticise compulsory composure.
 
 ---
 
-#### MCQ 32
+#### MCQ 8 — D
 
-A department praises officers who never raise uncomfortable questions as having the best emotional intelligence. Which conceptual error does this institutional culture embody? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Three Goleman components plus honesty are not its branches.
+- **B:** Those are not the four abilities.
+- **C:** Repression and retaliation are not EI stages.
+- **D:** The 1997 model specifies four emotion-processing abilities.
 
-A. Emotional intelligence is ethically neutral: a socially skilled official with accurate empathic reading can use that skill to manipulate vulnerable citizens rather than serve them — for example, exploiting a citizen's urgency to extract a bribe. EI's public value depends on being paired with integrity.
-
-B. High emotional intelligence does not guarantee ethical conduct because EI is a capacity, not a moral compass; integrity, probity and institutional oversight must be independently assessed and maintained — EI and ethics are jointly necessary, neither alone is sufficient.
-
-C. Emotional labour (Hochschild, The Managed Heart, 1983) is the effort required to manage one's displayed emotions to meet professional role demands; it is administratively necessary for composed citizen-facing service but psychologically costly if sustained without institutional support such as rotation, debrief mechanisms and staff grievance channels.
-
-D. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent.
-
-**Answer:** D
-**Explanation:** **Overemphasis on composure can suppress legitimate dissent** is the controlling principle. If self-regulation is institutionally enforced as unquestioning composure, it can suppress legitimate whistleblowing and dissent — a stay calm and do not rock the boat culture; EI must therefore be paired with courage and institutional channels for safe dissent. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not misdate the 1997 branch scheme as the 1990 definition.
 
 ---
 
-#### MCQ 33
+#### MCQ 9 — A
 
-During a communal riot, a superintendent of police must order crowd dispersal while his own community is among the protesters. His decision is lawful, proportionate and timely. Which EI mechanism explains how he maintained ethical decision quality under extreme personal stress? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Self-perception is distinct from demonstrated task performance.
+- **B:** Different models operationalise EI differently.
+- **C:** Competency lists are not equivalent to test scores.
+- **D:** Self-report may be biased or incomplete.
 
-A. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-B. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-C. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-D. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-**Answer:** A
-**Explanation:** **EI mediates between stress and ethical decision quality** is the controlling principle. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not conflate theory, measure and conduct.
 
 ---
 
-#### MCQ 34
+#### MCQ 10 — B
 
-An officer under investigation for a false allegation makes an impulsive public statement that damages her defence. Which EI deficit — failure to regulate under personal threat — explains the error? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Emotional skills do not enlarge legal powers.
+- **B:** Feedback and repetition can cultivate skills without guaranteeing ethics.
+- **C:** Learning rates and application differ.
+- **D:** Learnability contradicts complete fixity.
 
-A. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-B. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-C. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-D. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-**Answer:** B
-**Explanation:** **EI mediates between stress and ethical decision quality** is the controlling principle. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Trainability is not guaranteed moral change.
 
 ---
 
-#### MCQ 35
+#### MCQ 11 — C
 
-A revenue officer reviewing land acquisition files feels uneasy about a particular case despite all documents being in order. Further investigation reveals forged signatures. Which cognitive process provided the initial signal and which EI components supported it? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Abrupt departure jeopardises rescue.
+- **B:** Personal closeness is not operational competence.
+- **C:** Honest self-assessment supports continuity and family needs.
+- **D:** Suppression may impair judgment.
 
-A. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-B. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-C. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-D. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-**Answer:** C
-**Explanation:** **Moral intuition draws on EI's empathy and self-awareness** is the controlling principle. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** EI should trigger a plan, not heroic posturing.
 
 ---
 
-#### MCQ 36
+#### MCQ 12 — D
 
-A candidate writes that moral intuition is unreliable and should always be overridden by rational analysis. Which nuanced position — that intuition is a trigger for reasoning, not its substitute — provides a more defensible GS-IV answer? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Abrupt absence risks operational failure.
+- **B:** Total self-denial may be needless and damaging.
+- **C:** Connectivity must be checked, not assumed.
+- **D:** Conditional handover reconciles filial and public responsibilities.
 
-A. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-B. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-C. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-D. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-**Answer:** D
-**Explanation:** **Moral intuition draws on EI's empathy and self-awareness** is the controlling principle. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** The ethical choice depends on actual command continuity.
 
 ---
 
-#### MCQ 37
+#### MCQ 13 — A
 
-An officer ordered to demolish an unauthorised settlement knows the residents are genuinely destitute. She feels anguish but carries out the order after securing rehabilitation commitments and documenting the process. Which EI components enabled her to act on duty without abandoning compassion? Which source-grounded ethical principle most precisely explains the case?
+- **A:** EI should enable reasoned escalation, not silence conscience.
+- **B:** Regulation itself may be essential under stress.
+- **C:** Lawful dissent can be professionally expressed.
+- **D:** Silence conceals failures.
 
-A. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-B. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-C. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-D. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-**Answer:** A
-**Explanation:** **EI helps overcome crisis of conscience without compromising ethics** is the controlling principle. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Composure is not complicity.
 
 ---
 
-#### MCQ 38
+#### MCQ 14 — B
 
-A junior officer facing a crisis of conscience simply freezes and takes no action, waiting for the dilemma to resolve itself. Which EI deficit — failure to regulate emotional conflict into deliberate decision — explains the paralysis? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Appearance is not a reliable factual ground.
+- **B:** Self-awareness helps route intuition through fair reasoning.
+- **C:** Intuition alone can encode prejudice.
+- **D:** Ignoring the signal entirely can miss a real concern.
 
-A. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-B. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-C. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-D. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-**Answer:** B
-**Explanation:** **EI helps overcome crisis of conscience without compromising ethics** is the controlling principle. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Intuition can alert; reasons must adjudicate.
 
 ---
 
-#### MCQ 39
+#### MCQ 15 — C
 
-Two officers with identical UPSC ranks face the same law-and-order crisis. One de-escalates through empathic communication; the other's technically correct order triggers panic because of insensitive delivery. Which concept explains the divergent outcomes? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Formal compliance may defeat substantive purpose.
+- **B:** Record destruction destroys accountability.
+- **C:** Purpose-sensitive rule application preserves both access and verification.
+- **D:** Personalised waiver lacks reviewable general criteria.
 
-A. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-B. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-C. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-D. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-**Answer:** C
-**Explanation:** **EQ and IQ are jointly necessary; neither alone suffices** is the controlling principle. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Wisdom uses lawful flexibility, not private exemption.
 
 ---
 
-#### MCQ 40
+#### MCQ 16 — D
 
-A candidate argues that EQ alone determines administrative success and IQ is irrelevant. Which counterexample — an empathetic but legally uninformed officer making a wrong decision — shows why this claim is indefensible? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Loyalty does not establish public eligibility.
+- **B:** Sympathetic feelings cannot justify personnel decisions.
+- **C:** Unrecorded reasons worsen the apparent conflict.
+- **D:** Universalisability isolates relevant facts from personal proximity.
 
-A. Moral intuition is the fast, affect-driven judgment that something feels wrong before any deliberate analysis; it draws directly on EI's empathy and self-awareness components and serves as an early-warning signal that triggers deliberate moral reasoning.
-
-B. A crisis of conscience occurs when personal values, professional duty and situational pressures pull in conflicting directions; EI helps by enabling the officer to perceive the conflict clearly (self-awareness), regulate the emotional turmoil (self-regulation), and communicate the chosen course transparently (social skill) — without abandoning the ethical stand.
-
-C. Emotional intelligence mediates the relationship between stress or pressure and ethical decision quality in administration; under acute stress, an officer with high EI perceives, channels and regulates emotional responses so that ethical reasoning is not overwhelmed by panic, grief or anger.
-
-D. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress.
-
-**Answer:** D
-**Explanation:** **EQ and IQ are jointly necessary; neither alone suffices** is the controlling principle. EQ (emotional quotient) predicts how well cognitive competence is deployed under interpersonal and ethical pressure, while IQ predicts task-competence and technical problem-solving; the defensible GS-IV position is that they are jointly necessary, with EQ mattering disproportionately at the point of execution under stress. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Proximity to the decision-maker is not a transfer criterion.
 
 ---
 
-#### MCQ 41
+#### MCQ 17 — A
 
-A district collector posted in a disaster-prone area for seven years without rotation develops compassion fatigue and makes increasingly poor decisions. Which institutional failure explains the deterioration despite her initially high EI? Which source-grounded ethical principle most precisely explains the case?
+- **A:** The prohibited activity cannot become a reason to protect the arrangement; check statutory scope.
+- **B:** Tutoring is extraneous to institutional posting criteria.
+- **C:** A genuine need does not annul a separate rule.
+- **D:** An informal personnel decision cannot override statute.
 
-A. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-B. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-C. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-D. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-**Answer:** A
-**Explanation:** **Individual EI cannot substitute for institutional crisis-preparedness** is the controlling principle. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Avoid claiming a specific disciplinary result without school-category facts.
 
 ---
 
-#### MCQ 42
+#### MCQ 18 — B
 
-A state argues that selecting high-EI officers for crisis postings eliminates the need for delegation protocols and debrief mechanisms. Which principle of institutional design shows why this reasoning is flawed? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Individual privilege bypasses accessible schemes.
+- **B:** Education support can be delivered through general statutory channels.
+- **C:** Preserving a suspect arrangement is not universal relief.
+- **D:** Rejecting favour does not justify abandoning genuine need.
 
-A. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-B. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-C. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-D. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-**Answer:** B
-**Explanation:** **Individual EI cannot substitute for institutional crisis-preparedness** is the controlling principle. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Remedy the need, not the relationship.
 
 ---
 
-#### MCQ 43
+#### MCQ 19 — C
 
-An officer completes role-based competency courses but continues to bully subordinates. Which distinction between learning completion and behavioural internalisation explains why the architecture cannot certify EI? Which source-grounded ethical principle most precisely explains the case?
+- **A:** The section has defined beneficiaries.
+- **B:** Educational entitlement does not waive tutoring prohibition.
+- **C:** Threshold and age must be checked before claiming that entitlement.
+- **D:** Transfer decisions have separate personnel grounds.
 
-A. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-B. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-C. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-D. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-**Answer:** C
-**Explanation:** **Mission Karmayogi provides a competency-based learning architecture** is the controlling principle. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not conflate disability recognition with benchmark eligibility.
 
 ---
 
-#### MCQ 44
+#### MCQ 20 — D
 
-A policy analyst claims Mission Karmayogi has solved the EI deficit in the civil services, although no named EI module is cited. Which provenance caution qualifies this claim? Which source-grounded ethical principle most precisely explains the case?
+- **A:** PA proximity is irrelevant to school staffing.
+- **B:** Outside tuition does not establish school disruption.
+- **C:** Concealment prevents review.
+- **D:** Documented institutional disruption is a relevant general criterion.
 
-A. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-B. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-C. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-D. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-**Answer:** D
-**Explanation:** **Mission Karmayogi provides a competency-based learning architecture** is the controlling principle. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Distinguish school hardship from a private household's preference.
 
 ---
 
-#### MCQ 45
+#### MCQ 21 — A
 
-A district magistrate leading earthquake relief learns that her child is critically ill. No delegation protocol exists. She must choose between command and family in real time. Which institutional design failure has converted a manageable scenario into a personal crisis? Which source-grounded ethical principle most precisely explains the case?
+- **A:** EI must serve informed consent and legal process.
+- **B:** Empathy without ethical use can exploit.
+- **C:** Speed does not guarantee lawful decisions.
+- **D:** Citizen anger may be understandable.
 
-A. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-B. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-C. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-D. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-**Answer:** A
-**Explanation:** **Crisis delegation protocols convert EI dilemmas into institutional scenarios** is the controlling principle. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Emotional accuracy cannot license shortcuts.
 
 ---
 
-#### MCQ 46
+#### MCQ 22 — B
 
-A state government pre-designates a succession protocol for disaster commanders, including a family-emergency clause with temporary command transfer. When activated, the commander briefly attends to family while a trained deputy continues operations. Which design principle has converted an EI dilemma into an institutional routine? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Private gatekeepers risk exclusion and bias.
+- **B:** Process design scales interpersonal concern.
+- **C:** A command to feel cannot fix structural barriers.
+- **D:** Arbitrary waiver introduces other injustice.
 
-A. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-B. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-C. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-D. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-**Answer:** B
-**Explanation:** **Crisis delegation protocols convert EI dilemmas into institutional scenarios** is the controlling principle. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Sustainable EI requires service architecture.
 
 ---
 
-#### MCQ 47
+#### MCQ 23 — C
 
-A state invests heavily in behavioural training but provides no post-disaster psychological support for frontline officers. After a major flood, several officers show signs of PTSD. Which institutional gap explains why training alone was insufficient? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Trait assessment differs from the ability model.
+- **B:** Emotional labour concerns role display and cost.
+- **C:** The construct and later branch formulation have distinct dates.
+- **D:** Popularisation is not the first academic definition.
 
-A. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-B. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
-
-C. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-D. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-**Answer:** C
-**Explanation:** **Competency modules cannot substitute for structural protocols** is the controlling principle. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not swap origin, popularisation and later revision.
 
 ---
 
-#### MCQ 48
+#### MCQ 24 — D
 
-A reform proposal combines verified EI training, mandatory post-crisis debrief, peer-counselling networks and three-year rotation for disaster-prone postings. Why is this package more durable than any single component alone? Which source-grounded ethical principle most precisely explains the case?
+- **A:** Calmness is not domain expertise.
+- **B:** Reassurance cannot defeat hazard evidence.
+- **C:** Honesty helps restore coordinated action.
+- **D:** IQ/technical analysis and EQ communication jointly protect people.
 
-A. Mission Karmayogi and the Karmayogi Competency Model (KCM) align roles with required competencies and embed competencies in role-based learning; applying this architecture to emotional intelligence is an analytical proposal unless a named EI module is independently verified.
+**Trap:** EI is necessary but not sufficient for competent command.
 
-B. Crisis-management training should build in delegation-of-command and family-emergency contingency provisions, converting dilemmas like the DC Vijay case from individual moral burdens into foreseen institutional scenarios with pre-agreed protocols — reducing reliance on personal heroism.
-
-C. Sustainable EI in administration cannot rest on individual resilience alone; institutions must provide structural supports — delegation protocols during crises, peer-support and debrief mechanisms after trauma, and rotation policies for high-stress postings — because individual willpower has diminishing returns without systemic backing.
-
-D. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI.
-
-**Answer:** D
-**Explanation:** **Competency modules cannot substitute for structural protocols** is the controlling principle. Competency-based training in emotional and behavioural skills can support individual capacity but remains an insufficient institutional response; it must be supplemented by structural crisis-management protocols, citizen feedback loops and mental-health support to produce durable, ethically grounded administrative EI. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,24 +540,6 @@ EI helps ethical decisions by enabling the officer to detect personal bias befor
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “What is 'emotional intelligence' and how can it be developed in people? How does it help an…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “What is 'emotional intelligence' and how can it be developed in people? How does it help an individual in taking ethical decisions? (Answer in 150…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Named in Basic owner section 7. Neutral rendering from PYQ routing ledger. Verify exact wording against locally held official 2013 GS-IV paper if available. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “What is 'emotional intelligence' and how can it be developed in people? How does it help an individual in taking ethical decisions? (Answer in 150…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “What is 'emotional intelligence' and how can it be developed in people? How does it help an…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2019 — 10 marks
 
@@ -883,25 +559,6 @@ The limit is that EI amplifies whatever ethical orientation already exists. An o
 
 ---
 
-**Demand decoding:** The directive **describe** requires a direct position on “(b) What do you understand by the term 'emotional intelligence'? Describe its utility in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “(b) What do you understand by the term 'emotional intelligence'? Describe its utility in making emotions work for you in the administrative set-up.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from PYQ routing ledger: 2019 GS-IV Q5(b). Part (a) on probity routes to Topic 14. Neutral rendering; verify exact wording against locally held official 2019 GS-IV paper. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Emotional intelligence is the subset of social intelligence involving the capacity to monitor, discriminate among and use one's own and others' emotions to guide thinking and action (Salovey and Mayer, 1990). **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-3. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “(b) What do you understand by the term 'emotional intelligence'? Describe its utility in making emotions work for you in the administrative set-up.…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “(b) What do you understand by the term 'emotional intelligence'? Describe its utility in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2020 — 10 marks
 
@@ -921,23 +578,6 @@ The qualification is that training can improve EI skills without making every tr
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “(b) What are the main components of emotional intelligence (EI)? Can they be learned?…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “(b) What are the main components of emotional intelligence (EI)? Can they be learned? Discuss. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “(b) What are the main components of emotional intelligence (EI)? Can they be learned? Discuss. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “(b) What are the main components of emotional intelligence (EI)? Can they be learned?…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2021 — 10 marks
 
@@ -957,24 +597,6 @@ Critical examination requires acknowledging limits. EI provides the psychologica
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “(b) Is it possible for emotional intelligence to help in overcoming a crisis of conscience…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “(b) Is it possible for emotional intelligence to help in overcoming a crisis of conscience without compromising the ethical stand that one may like…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Routed from PYQ routing ledger: 2021 GS-IV Q4(b). Part (a) on building attitude routes to Topic 03. Neutral rendering; verify exact wording against locally held official 2021 GS-IV paper. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “(b) Is it possible for emotional intelligence to help in overcoming a crisis of conscience without compromising the ethical stand that one may like…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “(b) Is it possible for emotional intelligence to help in overcoming a crisis of conscience…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2022 — 20 marks
 
@@ -992,23 +614,6 @@ Critical examination requires acknowledging limits. EI provides the psychologica
 
 ---
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “(a) Wisdom is a prerequisite for good administration. Critically evaluate in the context of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “(a) Wisdom is a prerequisite for good administration. Critically evaluate in the context of 'travesty of justice' in service delivery. (b) Empathy…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “(a) Wisdom is a prerequisite for good administration. Critically evaluate in the context of 'travesty of justice' in service delivery. (b) Empathy…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “(a) Wisdom is a prerequisite for good administration. Critically evaluate in the context of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2023 — 20 marks
 
@@ -1026,23 +631,6 @@ Critical examination requires acknowledging limits. EI provides the psychologica
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “(a) 'Emotional intelligence is the ability to make your emotions work for you instead of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “(a) 'Emotional intelligence is the ability to make your emotions work for you instead of against you.' Do you agree with this view? Discuss. (b)…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “(a) 'Emotional intelligence is the ability to make your emotions work for you instead of against you.' Do you agree with this view? Discuss. (b)…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “(a) 'Emotional intelligence is the ability to make your emotions work for you instead of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2025 — 20 marks
 
@@ -1064,25 +652,22 @@ The most appropriate course is a staged hybrid: stabilise the immediate response
 
 ---
 
+#### Solved PYQ 8 — 2026 — 10 marks (neutral rendering)
+
+**Question:** GS-IV Section A Q6(a): A District Magistrate stops a schoolteacher's transfer at the request of his Personal Assistant because the teacher privately tutors the PA's daughter, who has a learning disability. Discuss empathy versus compliance with rules.
+
+**Source / status:** Canonical Basic owner §11A and its 2026 GS-IV Section-A ledger pointer. Neutral rendering, not a purported verbatim quotation or official model key; independently reasoned model below.
+
+**Model solution**
+
+The child's learning need is genuine: empathy alerts the DM to a need for continuity and educational accommodation. It does not authorise an exception based on a subordinate's proximity. Transfer decisions should follow relevant staffing, tenure and documented hardship criteria. The PA's personal stake creates at least an apparent conflict; the DM should disclose the connection and route any institutional staffing claim through the competent recorded transfer process. The teacher's private tuition also engages the prohibition in section 28 of the RTE Act, subject to the Act's applicable school category; it cannot be treated as a reason to protect the arrangement.
+
+The DM should instead help the family access inclusive educational support and reasonable accommodation through section 16 of the RPwD Act and school services; section 31's free-education entitlement applies where benchmark disability and age conditions are met. If the school itself faces staffing disruption, a recorded, generally applicable transfer-policy exception may be considered independently. The test is whether the decision would hold for a stranger, has a lawful alternative and can be justified publicly. Thus the response should institutionalise empathy without personalising a favour.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires an executable decision on “Q7 Section B case study: Deputy Commissioner 'Vijay' leading disaster relief (cloudburst,…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Q7 Section B case study: Deputy Commissioner 'Vijay' leading disaster relief (cloudburst, 200+ deaths, ~5,000 injured, road and telecom disrupted)…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Q7 Section B case study: Deputy Commissioner 'Vijay' leading disaster relief (cloudburst, 200+ deaths, ~5,000 injured, road and telecom disrupted)…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Q7 Section B case study: Deputy Commissioner 'Vijay' leading disaster relief (cloudburst,…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1100,23 +685,6 @@ The limit is real. EI provides the psychological infrastructure for managing com
 
 ---
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the claim that emotional intelligence is the ability to make emotions work for you…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Discuss the claim that emotional intelligence is the ability to make emotions work for you rather than against you, with reference to a civil…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Discuss the claim that emotional intelligence is the ability to make emotions work for you rather than against you, with reference to a civil…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Discuss the claim that emotional intelligence is the ability to make emotions work for you…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1134,23 +702,6 @@ The administrative implication is that EI training must be embedded within an et
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is emotional intelligence described as ethically neutral? What safeguard is needed to…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why is emotional intelligence described as ethically neutral? What safeguard is needed to ensure that high EI serves citizens rather than manipulates…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why is emotional intelligence described as ethically neutral? What safeguard is needed to ensure that high EI serves citizens rather than manipulates…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why is emotional intelligence described as ethically neutral? What safeguard is needed to…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1170,23 +721,6 @@ The limit is that individual EI cannot compensate for inadequate institutional s
 
 ---
 
-**Demand decoding:** The directive **analyse** requires an executable decision on “Analyse the role of empathy and self-regulation in effective disaster-management…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Analyse the role of empathy and self-regulation in effective disaster-management leadership, with reference to a hypothetical district-level case…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Analyse the role of empathy and self-regulation in effective disaster-management leadership, with reference to a hypothetical district-level case…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “Analyse the role of empathy and self-regulation in effective disaster-management…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1206,23 +740,6 @@ The verdict is that EI is necessary but insufficient. It provides the psychologi
 
 ---
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the claim that emotional intelligence helps overcome a crisis of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Critically examine the claim that emotional intelligence helps overcome a crisis of conscience without compromising ethical standards. Under what…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Critically examine the claim that emotional intelligence helps overcome a crisis of conscience without compromising ethical standards. Under what…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Critically examine the claim that emotional intelligence helps overcome a crisis of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1246,24 +763,6 @@ The limit is that learning architecture and AI-enabled delivery demonstrate inst
 
 ---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design an institutional protocol for a disaster-prone district that sustains emotional…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an institutional protocol for a disaster-prone district that sustains emotional intelligence in public administration beyond individual…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Individual emotional intelligence, however high, has diminishing returns without institutional support. A sustainable protocol for a disaster-prone district must embed EI principles into structural design. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an institutional protocol for a disaster-prone district that sustains emotional intelligence in public administration beyond individual…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an institutional protocol for a disaster-prone district that sustains emotional…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1282,21 +781,3 @@ The counter-risk is that staff-welfare emphasis must not become an excuse for po
 The verdict is that emotional labour is a genuine hidden cost of citizen-centric governance. Institutional recognition protects officer welfare and sustained service quality; neglect produces burnout, attrition and declining service.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the claim that emotional labour is the hidden cost of citizen-centric governance.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Evaluate the claim that emotional labour is the hidden cost of citizen-centric governance. Suggest institutional responses that support frontline…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Evaluate the claim that emotional labour is the hidden cost of citizen-centric governance. Suggest institutional responses that support frontline…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Evaluate the claim that emotional labour is the hidden cost of citizen-centric governance.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

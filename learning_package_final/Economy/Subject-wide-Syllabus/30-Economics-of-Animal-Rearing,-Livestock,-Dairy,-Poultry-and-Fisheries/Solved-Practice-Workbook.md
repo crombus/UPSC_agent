@@ -2,553 +2,1051 @@
 
 **Status cutoff:** 10 September 2026.
 
-**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers rotate A -> B -> C -> D eight times. Every option has a question-specific explanation and every MCQ has a unique trap.
+**Practice contract:** 40 coverage-driven MCQ questions precede their separate answer key and PYQs; letters rotate A-B-C-D, with individual option explanations and traps.
 
-## BASIC MCQS / REMEDIATION
+## 40 MCQ QUESTIONS
 
-### Q1. Which classification is correct?
+### MCQ 01
+
+**Question:** Which classification is correct?
 
 A. Animal husbandry covers managed terrestrial livestock and poultry, while capture fisheries harvest a natural stock.
+
 B. Aquaculture and capture fishing are identical because both occur in water.
+
 C. Milk processing is animal rearing because its raw material is biological.
+
 D. All allied-sector activities are secondary-sector activities.
 
-**Answer: A**
+### MCQ 02
 
-**Option explanations:**
-- **A is correct:** It preserves the biological and economic boundary.
-- **B is incorrect:** Aquaculture manages a cultivated stock; capture harvests a wild stock.
-- **C is incorrect:** Processing is downstream manufacturing/service activity, not rearing.
-- **D is incorrect:** Rearing and fishing are primary activities; downstream functions vary.
-
-**UPSC trap:** Separate production system from downstream value chain.
-
-### Q2. Which statement correctly distinguishes official animal-sector statistics?
+**Question:** Which statement correctly distinguishes official animal-sector statistics?
 
 A. BAHS is a point-in-time complete enumeration.
+
 B. Livestock Census measures stock, while ISS estimates annual product flows.
+
 C. ISS measures only export consignments.
+
 D. A census count is directly comparable with annual milk tonnage.
 
-**Answer: B**
+### MCQ 03
 
-**Option explanations:**
-- **A is incorrect:** BAHS is a publication drawing on census, ISS and administrative data.
-- **B is correct:** This is the DAHD stock-flow distinction.
-- **C is incorrect:** ISS estimates milk, egg, meat and wool output, not exports.
-- **D is incorrect:** Stock and flow use different units and reference periods.
-
-**UPSC trap:** Census, survey and publication are not synonyms.
-
-### Q3. Why can livestock smooth rural income?
+**Question:** Why can livestock smooth rural income?
 
 A. It is immune to drought and disease.
+
 B. It always yields a higher return than crops.
+
 C. Recurring output and saleable asset value can diversify seasonal crop cash flow.
+
 D. It removes all household market risk.
 
-**Answer: C**
+### MCQ 04
 
-**Option explanations:**
-- **A is incorrect:** Fodder and water shocks can correlate with crop failure.
-- **B is incorrect:** Relative return is system- and price-specific.
-- **C is correct:** This identifies timing and asset channels without claiming immunity.
-- **D is incorrect:** Feed, disease and buyer shocks remain.
-
-**UPSC trap:** Diversification reduces some covariance; it is not guaranteed insurance.
-
-### Q4. Which is the best measure of farm-level livestock profitability?
+**Question:** Which is the best measure of farm-level livestock profitability?
 
 A. Total national milk output
+
 B. Number of animals owned
+
 C. Gross sale receipts only
+
 D. All revenues plus asset-value change minus paid and imputed costs and losses
 
-**Answer: D**
+### MCQ 05
 
-**Option explanations:**
-- **A is incorrect:** National output does not reveal household margin.
-- **B is incorrect:** Headcount omits productivity and cost.
-- **C is incorrect:** Gross receipts omit feed, labour, mortality and finance.
-- **D is correct:** This is the complete enterprise-income boundary.
-
-**UPSC trap:** Gross production is not net producer income.
-
-### Q5. At the 10 September 2026 cutoff, which statement is accurate?
+**Question:** At the 10 September 2026 cutoff, which statement is accurate?
 
 A. The 20th Census (2019) remained the latest released population table; 21st Census results were not yet public.
+
 B. The 21st Census had published a new national livestock total.
+
 C. BAHS 2025 replaced the Livestock Census.
+
 D. The Economic Survey is the census authority.
 
-**Answer: A**
+### MCQ 06
 
-**Option explanations:**
-- **A is correct:** This preserves launch/enumeration and release status.
-- **B is incorrect:** No consolidated final 21st-round population table was located.
-- **C is incorrect:** BAHS publishes annual products; it does not replace stock enumeration.
-- **D is incorrect:** DAHD conducts the census through states.
-
-**UPSC trap:** A newer round underway is not a released result.
-
-### Q6. Which 2024-25 production pairing is correct?
+**Question:** Which 2024-25 production pairing is correct?
 
 A. Milk 239.30 MT and fish 18.393 MT
+
 B. Milk 247.87 MT and fish 19.775 MT
+
 C. Eggs 247.87 billion and meat 149.11 MT
+
 D. Livestock GVA 19.775% and fish 5.5 MT
 
-**Answer: B**
+### MCQ 07
 
-**Option explanations:**
-- **A is incorrect:** Those are 2023-24 production values.
-- **B is correct:** BAHS 2025 and Economic Survey 2025-26 Table 1.23 support these 2024-25 flows.
-- **C is incorrect:** The units and products are reversed and meat is far smaller.
-- **D is incorrect:** GVA shares and physical output are being mixed.
-
-**UPSC trap:** Always attach reference year, product and unit.
-
-### Q7. Which statement best captures livestock productivity?
+**Question:** Which statement best captures livestock productivity?
 
 A. Peak daily yield is sufficient.
+
 B. Higher herd size always raises household margin.
+
 C. Lifetime output, fertility, survival and cost must be read with feed, health and environment.
+
 D. Only breed determines realised output.
 
-**Answer: C**
+### MCQ 08
 
-**Option explanations:**
-- **A is incorrect:** Peak yield can coexist with poor fertility or survival.
-- **B is incorrect:** More animals raise maintenance and ecological load.
-- **C is correct:** This is the complete lifetime-productivity test.
-- **D is incorrect:** Genetics requires complementary inputs.
-
-**UPSC trap:** Productivity is not headcount or peak yield.
-
-### Q8. Which feed-policy statement is most defensible?
+**Question:** Which feed-policy statement is most defensible?
 
 A. Fodder has no land opportunity cost.
+
 B. Concentrate prices are unrelated to crop markets.
+
 C. Breed improvement removes the need for ration planning.
+
 D. Fodder seed, storage, residue treatment and commons management must fit local feed balances.
 
-**Answer: D**
+### MCQ 09
 
-**Option explanations:**
-- **A is incorrect:** Fodder competes for land and water.
-- **B is incorrect:** Maize and oilseed markets transmit price shocks.
-- **C is incorrect:** Genetic potential fails under poor nutrition.
-- **D is correct:** This combines supply, quality, seasonality and resource fit.
-
-**UPSC trap:** A feed intervention must solve quantity, quality and seasonality.
-
-### Q9. What is the correct genetics-by-environment inference?
+**Question:** What is the correct genetics-by-environment inference?
 
 A. Indigenous and crossbred options must be assessed against feed, heat, disease and lifetime performance.
+
 B. Crossbred animals are always economically superior.
+
 C. Artificial insemination itself proves higher income.
+
 D. Conservation and productivity are mutually exclusive.
 
-**Answer: A**
+### MCQ 10
 
-**Option explanations:**
-- **A is correct:** This fits breed choice to the production environment.
-- **B is incorrect:** Higher potential can carry higher management cost.
-- **C is incorrect:** AI is an input stage, not an income outcome.
-- **D is incorrect:** Locally adapted genetic resources can support resilient productivity.
-
-**UPSC trap:** Technology adoption is not realised lifetime performance.
-
-### Q10. Why is vaccination a public-good concern?
+**Question:** Why is vaccination a public-good concern?
 
 A. It affects only the vaccinated owner.
+
 B. One owner's prevention can lower transmission risk for others.
+
 C. It removes the need for surveillance.
+
 D. It guarantees eradication after one round.
 
-**Answer: B**
+### MCQ 11
 
-**Option explanations:**
-- **A is incorrect:** Disease transmission creates external effects.
-- **B is correct:** This is the positive network externality.
-- **C is incorrect:** Surveillance verifies and guides vaccination.
-- **D is incorrect:** Coverage, immunity and eradication are separate.
-
-**UPSC trap:** Count susceptible population and effective immunity, not doses alone.
-
-### Q11. Which climate statement is correct?
+**Question:** Which climate statement is correct?
 
 A. Methane is a nitrogen compound.
+
 B. Lower emissions intensity always lowers total emissions.
+
 C. Productivity can reduce emissions per unit while total emissions still rise with expansion.
+
 D. Poultry litter creates no nitrogen externality.
 
-**Answer: C**
+### MCQ 12
 
-**Option explanations:**
-- **A is incorrect:** Methane is CH4 and contains carbon, not nitrogen.
-- **B is incorrect:** Absolute herd/output growth may dominate intensity gains.
-- **C is correct:** This preserves intensity versus absolute load.
-- **D is incorrect:** Litter can release ammonia and nitrous oxide.
-
-**UPSC trap:** Intensity and absolute emissions answer different questions.
-
-### Q12. Which welfare proposition is strongest?
+**Question:** Which welfare proposition is strongest?
 
 A. Welfare standards only raise costs.
+
 B. Welfare is irrelevant to market access.
+
 C. Productivity alone resolves ethical concerns.
+
 D. Good housing, handling and transport can improve welfare, survival, quality and compliance, though transition costs need support.
 
-**Answer: D**
+### MCQ 13
 
-**Option explanations:**
-- **A is incorrect:** Poor welfare also causes stress, injury and loss.
-- **B is incorrect:** Standards and buyer requirements affect access.
-- **C is incorrect:** Intrinsic welfare obligations remain.
-- **D is correct:** This balances benefits with small-producer compliance cost.
-
-**UPSC trap:** Welfare is both intrinsic and economically consequential.
-
-### Q13. Which sequence correctly represents the dairy value chain?
+**Question:** Which sequence correctly represents the dairy value chain?
 
 A. Production -> collection/testing -> chilling -> processing -> marketing
+
 B. Processing -> breeding -> collection -> feed
+
 C. Retail -> milking -> chilling -> testing
+
 D. Feed -> export -> veterinary diagnosis -> collection
 
-**Answer: A**
+### MCQ 14
 
-**Option explanations:**
-- **A is correct:** This follows product and information flow.
-- **B is incorrect:** It reverses the production chain.
-- **C is incorrect:** Retail cannot precede production.
-- **D is incorrect:** Export is not an input-stage substitute.
-
-**UPSC trap:** Perishability makes sequence and time-temperature control central.
-
-### Q14. Which Operation Flood statement is correct?
+**Question:** Which Operation Flood statement is correct?
 
 A. It began in 1991 as a private-dairy programme.
+
 B. It began in 1970 and used three phases to build producer cooperatives, services and a milk grid.
+
 C. It was limited to breed distribution.
+
 D. It eliminated all cooperative-governance risks.
 
-**Answer: B**
+### MCQ 15
 
-**Option explanations:**
-- **A is incorrect:** NDDB dates launch to 1970.
-- **B is correct:** This captures the institutional mechanism and chronology.
-- **C is incorrect:** Procurement, processing, marketing and services were central.
-- **D is incorrect:** Capture and weak management can persist.
-
-**UPSC trap:** Operation Flood was institution building, not a cattle subsidy.
-
-### Q15. What defines the Anand pattern?
+**Question:** What defines the Anand pattern?
 
 A. One national private processor buying from all states
+
 B. A two-tier state bureaucracy
+
 C. Village societies, district unions and state federations owned by producers
+
 D. An informal trader network without testing
 
-**Answer: C**
+### MCQ 16
 
-**Option explanations:**
-- **A is incorrect:** Private ownership is a different model.
-- **B is incorrect:** The producer institution is not a departmental hierarchy.
-- **C is correct:** This is the classic three-tier cooperative structure.
-- **D is incorrect:** Informal procurement lacks the stated federation.
-
-**UPSC trap:** Three tiers describe ownership and functions, not automatic performance.
-
-### Q16. Which comparison of dairy models is correct?
+**Question:** Which comparison of dairy models is correct?
 
 A. Private dairies cannot provide extension.
+
 B. Producer companies are government departments.
+
 C. Informal markets always offer traceability.
+
 D. Cooperative, producer-company, private and informal channels differ in ownership, capital, services and bargaining risk.
 
-**Answer: D**
+### MCQ 17
 
-**Option explanations:**
-- **A is incorrect:** Private firms may bundle services.
-- **B is incorrect:** Producer companies are company-form producer institutions.
-- **C is incorrect:** Informal channels often have weak formal traceability.
-- **D is correct:** This avoids a false binary and identifies economic dimensions.
-
-**UPSC trap:** Judge governance and competition, not labels alone.
-
-### Q17. Which is the accurate current-status description of RGM at the cutoff?
+**Question:** Which is the accurate current-status description of RGM at the cutoff?
 
 A. It received temporary FY 2026-27 approval through 30 September 2026 or 16th FC approval, whichever earlier, with Rs 800 crore.
+
 B. Its only current component is creating new Gokul Grams.
+
 C. It is the umbrella for all sheep, goat and pig enterprises.
+
 D. Its insemination count equals milk-income impact.
 
-**Answer: A**
+### MCQ 18
 
-**Option explanations:**
-- **A is correct:** The April 2026 administrative approval supplies this bounded status.
-- **B is incorrect:** New Gokul Gram creation is not the current defining design.
-- **C is incorrect:** Those non-bovine enterprise components sit mainly under NLM.
-- **D is incorrect:** Outputs do not prove conception, productivity or income.
-
-**UPSC trap:** Date RGM's temporary extension and preserve the genetics boundary.
-
-### Q18. Which set correctly states NLM's current three-sub-mission design?
+**Question:** Which set correctly states NLM's current three-sub-mission design?
 
 A. Milk procurement, marine fisheries and crop insurance
+
 B. Breed development; feed and fodder; innovation and extension
+
 C. Gokul Grams, FMD eradication and milk marketing
+
 D. Harbours, hatcheries and seafood exports
 
-**Answer: B**
+### MCQ 19
 
-**Option explanations:**
-- **A is incorrect:** These belong to different schemes and sectors.
-- **B is correct:** The January 2025 NLM guidelines retain these three.
-- **C is incorrect:** RGM/LHDCP/dairy functions are being merged.
-- **D is incorrect:** These are fisheries functions.
-
-**UPSC trap:** NLM is not a generic label for every animal-sector programme.
-
-### Q19. Which component belongs within LHDCP?
+**Question:** Which component belongs within LHDCP?
 
 A. Milk powder marketing
+
 B. Breed multiplication farm finance
+
 C. NADCP vaccination plus critical/state disease control and veterinary delivery
+
 D. Fishing harbour construction
 
-**Answer: C**
+### MCQ 20
 
-**Option explanations:**
-- **A is incorrect:** Marketing belongs to dairy value chains.
-- **B is incorrect:** Breed multiplication is associated with RGM/NLM and infrastructure instruments.
-- **C is correct:** This captures the LHDCP umbrella.
-- **D is incorrect:** Harbours belong to fisheries infrastructure.
-
-**UPSC trap:** Disease-control architecture is distinct from breeding and processing.
-
-### Q20. Which statement about AHIDF/IDF is correct?
+**Question:** Which statement about AHIDF/IDF is correct?
 
 A. The full fund size is annual cash expenditure.
+
 B. Only government departments are eligible.
+
 C. It finances crop MSP procurement.
+
 D. It supports animal-sector infrastructure; fund size, budget, sanctioned loan, completed asset and utilisation must be separated.
 
-**Answer: D**
+### MCQ 21
 
-**Option explanations:**
-- **A is incorrect:** The fund is a multi-year financing envelope.
-- **B is incorrect:** Eligible entities include private, MSME, FPO, Section 8 and cooperatives.
-- **C is incorrect:** MSP procurement is outside its function.
-- **D is correct:** This preserves financing-stage discipline.
-
-**UPSC trap:** Infrastructure approval is not operating capacity or producer benefit.
-
-### Q21. Which poultry distinction is correct?
+**Question:** Which poultry distinction is correct?
 
 A. Layers produce eggs; broilers are raised mainly for meat.
+
 B. Layers and broilers differ only by ownership form.
+
 C. Backyard poultry always uses commercial integration.
+
 D. Commercial poultry has no biosecurity risk.
 
-**Answer: A**
+### MCQ 22
 
-**Option explanations:**
-- **A is correct:** This is the biological-output distinction.
-- **B is incorrect:** Breed, cycle and output differ.
-- **C is incorrect:** Backyard systems can be independent and low-input.
-- **D is incorrect:** Density can amplify disease risk.
-
-**UPSC trap:** Start poultry analysis with output and production system.
-
-### Q22. What does poultry integration usually do?
+**Question:** What does poultry integration usually do?
 
 A. It makes the farmer owner of the integrator.
+
 B. It coordinates chicks, feed, veterinary inputs and marketing while reallocating contract risks.
+
 C. It eliminates mortality and quality disputes.
+
 D. It guarantees the spot-market price.
 
-**Answer: B**
+### MCQ 23
 
-**Option explanations:**
-- **A is incorrect:** Ownership does not automatically transfer.
-- **B is correct:** This states both coordination and risk allocation.
-- **C is incorrect:** Mortality attribution is a common dispute.
-- **D is incorrect:** Payment may be a growing charge, not spot price.
-
-**UPSC trap:** Integration reallocates risk; it does not abolish it.
-
-### Q23. Why are sheep and goat systems important in drylands?
+**Question:** Why are sheep and goat systems important in drylands?
 
 A. They require no health services.
+
 B. They cannot use commons.
+
 C. They can use dispersed browse and mobility while providing multiple outputs and liquid-asset value.
+
 D. They are always environmentally benign at any stocking rate.
 
-**Answer: C**
+### MCQ 24
 
-**Option explanations:**
-- **A is incorrect:** Disease control remains necessary.
-- **B is incorrect:** Commons and routes often underpin production.
-- **C is correct:** This captures their livelihood logic.
-- **D is incorrect:** Overstocking can degrade grazing resources.
-
-**UPSC trap:** Pastoral mobility is an adaptive production strategy.
-
-### Q24. Which piggery statement is accurate?
+**Question:** Which piggery statement is accurate?
 
 A. Disease does not create correlated losses.
+
 B. Markets are identical across India.
+
 C. Waste management is irrelevant.
+
 D. Fast reproduction can support enterprise growth but raises the importance of feed, biosecurity, reporting and regional demand.
 
-**Answer: D**
+### MCQ 25
 
-**Option explanations:**
-- **A is incorrect:** Outbreaks can destroy many herds.
-- **B is incorrect:** Cultural and regional demand differs.
-- **C is incorrect:** Waste and sanitation affect disease and externalities.
-- **D is correct:** This balances potential with constraints.
-
-**UPSC trap:** Do not recommend piggery without market and disease context.
-
-### Q25. Which distinction is correct?
+**Question:** Which distinction is correct?
 
 A. Capture fisheries harvest wild stocks; aquaculture farms managed stocks.
+
 B. Aquaculture is always marine.
+
 C. Capture fisheries have no common-pool problem.
+
 D. All fish production is measured by Livestock Census.
 
-**Answer: A**
+### MCQ 26
 
-**Option explanations:**
-- **A is correct:** This is the core production-system distinction.
-- **B is incorrect:** Aquaculture can be inland, marine or brackish.
-- **C is incorrect:** Open access can cause a race to fish.
-- **D is incorrect:** Fish output comes from fisheries statistics, not livestock stock enumeration.
-
-**UPSC trap:** Total fish output can combine very different systems.
-
-### Q26. Which federal statement is correct?
+**Question:** Which federal statement is correct?
 
 A. States regulate the entire EEZ exclusively.
+
 B. States regulate fisheries within territorial waters, while Union competence covers fishing beyond territorial waters.
+
 C. CAA regulates all inland livestock farms.
+
 D. Territorial waters extend to 200 nautical miles.
 
-**Answer: B**
+### MCQ 27
 
-**Option explanations:**
-- **A is incorrect:** Beyond-territorial-water fishing is a Union competence.
-- **B is correct:** This preserves the constitutional and maritime boundary.
-- **C is incorrect:** CAA regulates coastal aquaculture.
-- **D is incorrect:** Territorial waters extend 12 nautical miles; the EEZ extends farther.
-
-**UPSC trap:** Do not merge territorial waters and the EEZ.
-
-### Q27. Why can MEY occur at lower effort than MSY?
+**Question:** Why can MEY occur at lower effort than MSY?
 
 A. MEY ignores harvesting cost.
+
 B. MSY maximises profit by definition.
+
 C. As stock falls, harvesting cost rises, so profit may peak before biological catch does.
+
 D. MEY is an equity rule.
 
-**Answer: C**
+### MCQ 28
 
-**Option explanations:**
-- **A is incorrect:** MEY explicitly includes revenue and cost.
-- **B is incorrect:** MSY is a biological yield benchmark.
-- **C is correct:** This is the standard bioeconomic mechanism.
-- **D is incorrect:** Distribution is a separate policy objective.
-
-**UPSC trap:** MSY, MEY, equity and ecosystem safety are distinct.
-
-### Q28. What is the correct RAS treatment statement?
+**Question:** What is the correct RAS treatment statement?
 
 A. Biofilters mechanically remove all solids.
+
 B. Biofilters eliminate every pathogen and nitrate.
+
 C. Biofilters increase phosphorus for fish.
+
 D. Mechanical filtration removes solids, while microbes in biofilters nitrify ammonia within a wider treatment system.
 
-**Answer: D**
+### MCQ 29
 
-**Option explanations:**
-- **A is incorrect:** Solids removal is principally mechanical.
-- **B is incorrect:** Disinfection and nitrate management remain.
-- **C is incorrect:** Excess phosphorus is a pollution concern.
-- **D is correct:** This assigns the correct function to each stage.
-
-**UPSC trap:** A biofilter is not a complete water purifier.
-
-### Q29. Which PMMSY status statement is correct at the cutoff?
+**Question:** Which PMMSY status statement is correct at the cutoff?
 
 A. Original approval covered 2020-21 to 2024-25; FY 2026-27 BE provides Rs 2,500 crore, but that budget line is not a newly verified long-term tenure.
+
 B. The scheme ended with no later budget provision.
+
 C. It began before Blue Revolution.
+
 D. Its allocation proves export and income targets were achieved.
 
-**Answer: A**
+### MCQ 30
 
-**Option explanations:**
-- **A is correct:** This reconciles original approval and current budget evidence.
-- **B is incorrect:** Demand No. 43 carries FY 2026-27 provision.
-- **C is incorrect:** Blue Revolution preceded PMMSY.
-- **D is incorrect:** Allocation is not outcome evidence.
-
-**UPSC trap:** Separate original tenure, current budget and measured outcomes.
-
-### Q30. Which statement describes FIDF accurately?
+**Question:** Which statement describes FIDF accurately?
 
 A. It is a grant-only crop scheme.
+
 B. It used a Rs 7,522.48 crore fund and was extended through 2025-26 for concessional fisheries infrastructure finance.
+
 C. It permanently guarantees every fisheries loan.
+
 D. Its approved fund size equals completed harbour value.
 
-**Answer: B**
+### MCQ 31
 
-**Option explanations:**
-- **A is incorrect:** FIDF is infrastructure finance, not a crop grant.
-- **B is correct:** This matches the Department of Fisheries annual report.
-- **C is incorrect:** Credit guarantee and eligibility are conditional.
-- **D is incorrect:** Fund, sanction, disbursement and completed asset differ.
-
-**UPSC trap:** No post-2025-26 extension should be invented.
-
-### Q31. Which KCC statement is correct?
+**Question:** Which KCC statement is correct?
 
 A. KCC covers only crop inputs.
+
 B. The entire Rs 5 lakh limit automatically receives interest subvention.
+
 C. KCC was extended to animal husbandry and fisheries for working capital; limit and interest-benefit ceiling must be separated.
+
 D. KCC is a livestock insurance policy.
 
-**Answer: C**
+### MCQ 32
 
-**Option explanations:**
-- **A is incorrect:** The 2018 extension covers allied sectors.
-- **B is incorrect:** The Fisheries Annual Report distinguishes the broader limit from the fisheries IS/PRI ceiling.
-- **C is correct:** This is the correct dated design principle.
-- **D is incorrect:** Credit and insurance are separate instruments.
-
-**UPSC trap:** Card limit, subsidised-interest amount and actual borrowing are not the same.
-
-### Q32. Which policy package best fits animal-rearing economics?
+**Question:** Which policy package best fits animal-rearing economics?
 
 A. Maximise animal numbers and relax all standards.
+
 B. Fund only processing plants.
+
 C. Rely only on superior germplasm.
+
 D. Combine feed, preventive health, suitable genetics, finance/insurance, infrastructure, competitive markets and sustainability safeguards.
 
-**Answer: D**
+### MCQ 33
 
-**Option explanations:**
-- **A is incorrect:** Headcount can worsen cost and externalities.
-- **B is incorrect:** Plants fail without supply, utilisation and markets.
-- **C is incorrect:** Genetics is one complement.
-- **D is correct:** This is the complete complementary policy framework.
+**Question:** A dairy cow yields Rs 90,000 in milk and Rs 8,000 in manure and calf value in a year; feed, labour and veterinary costs are Rs 70,000 and its asset value falls Rs 6,000. What is annual economic surplus before other costs?
 
-**UPSC trap:** A scheme list is not a systems policy.
+A. Rs 22,000
+
+B. Rs 28,000
+
+C. Rs 16,000
+
+D. Rs 98,000
+
+### MCQ 34
+
+**Question:** A broiler unit uses 360 kg of feed for 180 kg liveweight gain. If its feed conversion ratio is defined as feed divided by liveweight gain, what is the FCR?
+
+A. 0.5
+
+B. 2.0
+
+C. 180
+
+D. 540
+
+### MCQ 35
+
+**Question:** An animal disease outbreak in one village increases infection risk in neighbouring herds. Which intervention has the clearest positive externality?
+
+A. A higher milk advertising budget
+
+B. An untargeted increase in herd size
+
+C. Coordinated vaccination and disease surveillance across holdings
+
+D. A single farm's private change of milk packaging
+
+### MCQ 36
+
+**Question:** A fisheries policy compares maximum sustainable yield (MSY) with maximum economic yield (MEY). Under positive harvesting costs and ordinary effort-yield conditions, which outcome is generally expected?
+
+A. MEY always requires more effort than MSY
+
+B. MSY automatically maximises fishers' profits
+
+C. MEY is defined by zero catch
+
+D. MEY normally occurs at less effort than MSY because extra catch beyond it costs more than it earns
+
+### MCQ 37
+
+**Question:** A milk cooperative records higher procurement but members face a lower net farmgate return after feed and transport costs rise. Which indicator tests the income claim?
+
+A. Net producer earnings per relevant animal or litre after full input and collection costs
+
+B. Only aggregate volume collected
+
+C. Only installed chilling-tank capacity
+
+D. Only the nominal procurement price
+
+### MCQ 38
+
+**Question:** A private poultry integrator supplies chicks and feed and purchases birds at a contracted formula. What must a farmer examine to assess risk-sharing?
+
+A. Only the company's advertising reach
+
+B. Input and output pricing, disease-loss clauses, mortality risk and dispute settlement
+
+C. Only the number of company-owned vans
+
+D. Only the local rainfall average
+
+### MCQ 39
+
+**Question:** Which comparison distinguishes capture fisheries from aquaculture for policy design?
+
+A. Both necessarily require privately owned ponds
+
+B. Capture effort cannot deplete fish stocks
+
+C. Capture harvest needs common-pool stock governance; aquaculture faces feed, water, disease and farm-management costs
+
+D. Aquaculture yields depend entirely on wild stock recruitment
+
+### MCQ 40
+
+**Question:** A project subsidises 100 new animals but fodder supply and veterinary capacity stay fixed. What is the most defensible economic prediction?
+
+A. Output per animal must rise proportionately
+
+B. Disease risk automatically disappears
+
+C. Manure revenue must exceed every input cost
+
+D. Crowding and nutritional stress may lower productivity; evaluate healthy lifetime output before expansion
+
+## SOLVED MCQ KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 01 - A
+
+**Correct answer:** A
+
+- **Option A:** It preserves the biological and economic boundary.
+
+- **Option B:** Aquaculture manages a cultivated stock; capture harvests a wild stock.
+
+- **Option C:** Processing is downstream manufacturing/service activity, not rearing.
+
+- **Option D:** Rearing and fishing are primary activities; downstream functions vary.
+
+**Unique trap:** Separate production system from downstream value chain.
+
+### MCQ 02 - B
+
+**Correct answer:** B
+
+- **Option A:** BAHS is a publication drawing on census, ISS and administrative data.
+
+- **Option B:** This is the DAHD stock-flow distinction.
+
+- **Option C:** ISS estimates milk, egg, meat and wool output, not exports.
+
+- **Option D:** Stock and flow use different units and reference periods.
+
+**Unique trap:** Census, survey and publication are not synonyms.
+
+### MCQ 03 - C
+
+**Correct answer:** C
+
+- **Option A:** Fodder and water shocks can correlate with crop failure.
+
+- **Option B:** Relative return is system- and price-specific.
+
+- **Option C:** This identifies timing and asset channels without claiming immunity.
+
+- **Option D:** Feed, disease and buyer shocks remain.
+
+**Unique trap:** Diversification reduces some covariance; it is not guaranteed insurance.
+
+### MCQ 04 - D
+
+**Correct answer:** D
+
+- **Option A:** National output does not reveal household margin.
+
+- **Option B:** Headcount omits productivity and cost.
+
+- **Option C:** Gross receipts omit feed, labour, mortality and finance.
+
+- **Option D:** This is the complete enterprise-income boundary.
+
+**Unique trap:** Gross production is not net producer income.
+
+### MCQ 05 - A
+
+**Correct answer:** A
+
+- **Option A:** This preserves launch/enumeration and release status.
+
+- **Option B:** No consolidated final 21st-round population table was located.
+
+- **Option C:** BAHS publishes annual products; it does not replace stock enumeration.
+
+- **Option D:** DAHD conducts the census through states.
+
+**Unique trap:** A newer round underway is not a released result.
+
+### MCQ 06 - B
+
+**Correct answer:** B
+
+- **Option A:** Those are 2023-24 production values.
+
+- **Option B:** BAHS 2025 and Economic Survey 2025-26 Table 1.23 support these 2024-25 flows.
+
+- **Option C:** The units and products are reversed and meat is far smaller.
+
+- **Option D:** GVA shares and physical output are being mixed.
+
+**Unique trap:** Always attach reference year, product and unit.
+
+### MCQ 07 - C
+
+**Correct answer:** C
+
+- **Option A:** Peak yield can coexist with poor fertility or survival.
+
+- **Option B:** More animals raise maintenance and ecological load.
+
+- **Option C:** This is the complete lifetime-productivity test.
+
+- **Option D:** Genetics requires complementary inputs.
+
+**Unique trap:** Productivity is not headcount or peak yield.
+
+### MCQ 08 - D
+
+**Correct answer:** D
+
+- **Option A:** Fodder competes for land and water.
+
+- **Option B:** Maize and oilseed markets transmit price shocks.
+
+- **Option C:** Genetic potential fails under poor nutrition.
+
+- **Option D:** This combines supply, quality, seasonality and resource fit.
+
+**Unique trap:** A feed intervention must solve quantity, quality and seasonality.
+
+### MCQ 09 - A
+
+**Correct answer:** A
+
+- **Option A:** This fits breed choice to the production environment.
+
+- **Option B:** Higher potential can carry higher management cost.
+
+- **Option C:** AI is an input stage, not an income outcome.
+
+- **Option D:** Locally adapted genetic resources can support resilient productivity.
+
+**Unique trap:** Technology adoption is not realised lifetime performance.
+
+### MCQ 10 - B
+
+**Correct answer:** B
+
+- **Option A:** Disease transmission creates external effects.
+
+- **Option B:** This is the positive network externality.
+
+- **Option C:** Surveillance verifies and guides vaccination.
+
+- **Option D:** Coverage, immunity and eradication are separate.
+
+**Unique trap:** Count susceptible population and effective immunity, not doses alone.
+
+### MCQ 11 - C
+
+**Correct answer:** C
+
+- **Option A:** Methane is CH4 and contains carbon, not nitrogen.
+
+- **Option B:** Absolute herd/output growth may dominate intensity gains.
+
+- **Option C:** This preserves intensity versus absolute load.
+
+- **Option D:** Litter can release ammonia and nitrous oxide.
+
+**Unique trap:** Intensity and absolute emissions answer different questions.
+
+### MCQ 12 - D
+
+**Correct answer:** D
+
+- **Option A:** Poor welfare also causes stress, injury and loss.
+
+- **Option B:** Standards and buyer requirements affect access.
+
+- **Option C:** Intrinsic welfare obligations remain.
+
+- **Option D:** This balances benefits with small-producer compliance cost.
+
+**Unique trap:** Welfare is both intrinsic and economically consequential.
+
+### MCQ 13 - A
+
+**Correct answer:** A
+
+- **Option A:** This follows product and information flow.
+
+- **Option B:** It reverses the production chain.
+
+- **Option C:** Retail cannot precede production.
+
+- **Option D:** Export is not an input-stage substitute.
+
+**Unique trap:** Perishability makes sequence and time-temperature control central.
+
+### MCQ 14 - B
+
+**Correct answer:** B
+
+- **Option A:** NDDB dates launch to 1970.
+
+- **Option B:** This captures the institutional mechanism and chronology.
+
+- **Option C:** Procurement, processing, marketing and services were central.
+
+- **Option D:** Capture and weak management can persist.
+
+**Unique trap:** Operation Flood was institution building, not a cattle subsidy.
+
+### MCQ 15 - C
+
+**Correct answer:** C
+
+- **Option A:** Private ownership is a different model.
+
+- **Option B:** The producer institution is not a departmental hierarchy.
+
+- **Option C:** This is the classic three-tier cooperative structure.
+
+- **Option D:** Informal procurement lacks the stated federation.
+
+**Unique trap:** Three tiers describe ownership and functions, not automatic performance.
+
+### MCQ 16 - D
+
+**Correct answer:** D
+
+- **Option A:** Private firms may bundle services.
+
+- **Option B:** Producer companies are company-form producer institutions.
+
+- **Option C:** Informal channels often have weak formal traceability.
+
+- **Option D:** This avoids a false binary and identifies economic dimensions.
+
+**Unique trap:** Judge governance and competition, not labels alone.
+
+### MCQ 17 - A
+
+**Correct answer:** A
+
+- **Option A:** The April 2026 administrative approval supplies this bounded status.
+
+- **Option B:** New Gokul Gram creation is not the current defining design.
+
+- **Option C:** Those non-bovine enterprise components sit mainly under NLM.
+
+- **Option D:** Outputs do not prove conception, productivity or income.
+
+**Unique trap:** Date RGM's temporary extension and preserve the genetics boundary.
+
+### MCQ 18 - B
+
+**Correct answer:** B
+
+- **Option A:** These belong to different schemes and sectors.
+
+- **Option B:** The January 2025 NLM guidelines retain these three.
+
+- **Option C:** RGM/LHDCP/dairy functions are being merged.
+
+- **Option D:** These are fisheries functions.
+
+**Unique trap:** NLM is not a generic label for every animal-sector programme.
+
+### MCQ 19 - C
+
+**Correct answer:** C
+
+- **Option A:** Marketing belongs to dairy value chains.
+
+- **Option B:** Breed multiplication is associated with RGM/NLM and infrastructure instruments.
+
+- **Option C:** This captures the LHDCP umbrella.
+
+- **Option D:** Harbours belong to fisheries infrastructure.
+
+**Unique trap:** Disease-control architecture is distinct from breeding and processing.
+
+### MCQ 20 - D
+
+**Correct answer:** D
+
+- **Option A:** The fund is a multi-year financing envelope.
+
+- **Option B:** Eligible entities include private, MSME, FPO, Section 8 and cooperatives.
+
+- **Option C:** MSP procurement is outside its function.
+
+- **Option D:** This preserves financing-stage discipline.
+
+**Unique trap:** Infrastructure approval is not operating capacity or producer benefit.
+
+### MCQ 21 - A
+
+**Correct answer:** A
+
+- **Option A:** This is the biological-output distinction.
+
+- **Option B:** Breed, cycle and output differ.
+
+- **Option C:** Backyard systems can be independent and low-input.
+
+- **Option D:** Density can amplify disease risk.
+
+**Unique trap:** Start poultry analysis with output and production system.
+
+### MCQ 22 - B
+
+**Correct answer:** B
+
+- **Option A:** Ownership does not automatically transfer.
+
+- **Option B:** This states both coordination and risk allocation.
+
+- **Option C:** Mortality attribution is a common dispute.
+
+- **Option D:** Payment may be a growing charge, not spot price.
+
+**Unique trap:** Integration reallocates risk; it does not abolish it.
+
+### MCQ 23 - C
+
+**Correct answer:** C
+
+- **Option A:** Disease control remains necessary.
+
+- **Option B:** Commons and routes often underpin production.
+
+- **Option C:** This captures their livelihood logic.
+
+- **Option D:** Overstocking can degrade grazing resources.
+
+**Unique trap:** Pastoral mobility is an adaptive production strategy.
+
+### MCQ 24 - D
+
+**Correct answer:** D
+
+- **Option A:** Outbreaks can destroy many herds.
+
+- **Option B:** Cultural and regional demand differs.
+
+- **Option C:** Waste and sanitation affect disease and externalities.
+
+- **Option D:** This balances potential with constraints.
+
+**Unique trap:** Do not recommend piggery without market and disease context.
+
+### MCQ 25 - A
+
+**Correct answer:** A
+
+- **Option A:** This is the core production-system distinction.
+
+- **Option B:** Aquaculture can be inland, marine or brackish.
+
+- **Option C:** Open access can cause a race to fish.
+
+- **Option D:** Fish output comes from fisheries statistics, not livestock stock enumeration.
+
+**Unique trap:** Total fish output can combine very different systems.
+
+### MCQ 26 - B
+
+**Correct answer:** B
+
+- **Option A:** Beyond-territorial-water fishing is a Union competence.
+
+- **Option B:** This preserves the constitutional and maritime boundary.
+
+- **Option C:** CAA regulates coastal aquaculture.
+
+- **Option D:** Territorial waters extend 12 nautical miles; the EEZ extends farther.
+
+**Unique trap:** Do not merge territorial waters and the EEZ.
+
+### MCQ 27 - C
+
+**Correct answer:** C
+
+- **Option A:** MEY explicitly includes revenue and cost.
+
+- **Option B:** MSY is a biological yield benchmark.
+
+- **Option C:** This is the standard bioeconomic mechanism.
+
+- **Option D:** Distribution is a separate policy objective.
+
+**Unique trap:** MSY, MEY, equity and ecosystem safety are distinct.
+
+### MCQ 28 - D
+
+**Correct answer:** D
+
+- **Option A:** Solids removal is principally mechanical.
+
+- **Option B:** Disinfection and nitrate management remain.
+
+- **Option C:** Excess phosphorus is a pollution concern.
+
+- **Option D:** This assigns the correct function to each stage.
+
+**Unique trap:** A biofilter is not a complete water purifier.
+
+### MCQ 29 - A
+
+**Correct answer:** A
+
+- **Option A:** This reconciles original approval and current budget evidence.
+
+- **Option B:** Demand No. 43 carries FY 2026-27 provision.
+
+- **Option C:** Blue Revolution preceded PMMSY.
+
+- **Option D:** Allocation is not outcome evidence.
+
+**Unique trap:** Separate original tenure, current budget and measured outcomes.
+
+### MCQ 30 - B
+
+**Correct answer:** B
+
+- **Option A:** FIDF is infrastructure finance, not a crop grant.
+
+- **Option B:** This matches the Department of Fisheries annual report.
+
+- **Option C:** Credit guarantee and eligibility are conditional.
+
+- **Option D:** Fund, sanction, disbursement and completed asset differ.
+
+**Unique trap:** No post-2025-26 extension should be invented.
+
+### MCQ 31 - C
+
+**Correct answer:** C
+
+- **Option A:** The 2018 extension covers allied sectors.
+
+- **Option B:** The Fisheries Annual Report distinguishes the broader limit from the fisheries IS/PRI ceiling.
+
+- **Option C:** This is the correct dated design principle.
+
+- **Option D:** Credit and insurance are separate instruments.
+
+**Unique trap:** Card limit, subsidised-interest amount and actual borrowing are not the same.
+
+### MCQ 32 - D
+
+**Correct answer:** D
+
+- **Option A:** Headcount can worsen cost and externalities.
+
+- **Option B:** Plants fail without supply, utilisation and markets.
+
+- **Option C:** Genetics is one complement.
+
+- **Option D:** This is the complete complementary policy framework.
+
+**Unique trap:** A scheme list is not a systems policy.
+
+### MCQ 33 - A
+
+**Correct answer:** A
+
+- **Option A:** 90,000 + 8,000 - 70,000 - 6,000 = Rs 22,000.
+
+- **Option B:** Rs 28,000 ignores loss in animal asset value.
+
+- **Option C:** Rs 16,000 double-counts the asset-value loss.
+
+- **Option D:** Rs 98,000 counts gross returns without costs.
+
+**Unique trap:** Lifetime animal-asset depreciation belongs in profitability, not just today's milk receipts.
+
+### MCQ 34 - B
+
+**Correct answer:** B
+
+- **Option A:** 0.5 reverses the defined ratio.
+
+- **Option B:** 360/180 = 2 kg feed per kg liveweight gain.
+
+- **Option C:** 180 is liveweight gain in kg, not a ratio.
+
+- **Option D:** 540 is the sum of inputs and output, not conversion efficiency.
+
+**Unique trap:** Use the specified numerator and denominator before comparing species or production systems.
+
+### MCQ 35 - C
+
+**Correct answer:** C
+
+- **Option A:** Marketing affects sales, not infectious-disease transmission.
+
+- **Option B:** More susceptible animals may increase exposure.
+
+- **Option C:** Community-level prevention protects herds beyond vaccinated farms.
+
+- **Option D:** Packaging does not address animal infection risk.
+
+**Unique trap:** Disease control cannot be evaluated only by the private return to one livestock owner.
+
+### MCQ 36 - D
+
+**Correct answer:** D
+
+- **Option A:** Cost of effort generally moves profit-maximising effort below yield-maximising effort.
+
+- **Option B:** Biological catch maxima ignore costs and rents.
+
+- **Option C:** Positive MEY can arise before the stock reaches the MSY effort level.
+
+- **Option D:** Marginal revenue equals marginal harvest cost at the economic optimum.
+
+**Unique trap:** Biological yield and net economic rent have different maximands.
+
+### MCQ 37 - A
+
+**Correct answer:** A
+
+- **Option A:** Full net returns incorporate purchased inputs, own costs and market realisations.
+
+- **Option B:** Volume may rise despite deteriorating margins.
+
+- **Option C:** Capacity is an input, not a farm-income outcome.
+
+- **Option D:** A higher price may be offset by even faster cost increases.
+
+**Unique trap:** Producer income cannot be inferred from production or procurement volumes alone.
+
+### MCQ 38 - B
+
+**Correct answer:** B
+
+- **Option A:** Promotion says little about contract incidence.
+
+- **Option B:** Contract terms allocate price and biological risks between company and grower.
+
+- **Option C:** Transport may help but does not specify who bears loss.
+
+- **Option D:** Rainfall is one risk factor but cannot reveal payment obligations.
+
+**Unique trap:** Vertical integration may transfer marketing risk while leaving mortality or asset costs on the farmer.
+
+### MCQ 39 - C
+
+**Correct answer:** C
+
+- **Option A:** Capture fishing can operate in open marine waters.
+
+- **Option B:** Excess effort can reduce stock and future yield.
+
+- **Option C:** Property regime and production risks differ across systems.
+
+- **Option D:** Managed stocking and feed are central to many aquaculture operations.
+
+**Unique trap:** Conflating wild extraction with managed production hides their different externalities.
+
+### MCQ 40 - D
+
+**Correct answer:** D
+
+- **Option A:** Animal numbers alone do not guarantee output per head.
+
+- **Option B:** Greater stocking can increase disease exposure.
+
+- **Option C:** Joint products need explicit costs and markets.
+
+- **Option D:** Binding feed and health complements can overturn simple herd-expansion gains.
+
+**Unique trap:** Herd count is a stock; productive lifetime yield and net return determine welfare.
 
 ## PYQS AND ANSWER PRACTICE
 

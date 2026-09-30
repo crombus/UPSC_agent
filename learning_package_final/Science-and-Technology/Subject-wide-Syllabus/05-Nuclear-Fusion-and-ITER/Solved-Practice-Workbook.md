@@ -4,1098 +4,582 @@ topic_key: science-and-technology-05
 ---
 # Nuclear Fusion and ITER — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+Sources: `upsc-ai-kit/knowledge/Science-and-Technology/basic/05_Nuclear-Fusion-and-ITER.md`, `advanced/05_Nuclear-Fusion-and-ITER.md`, and the routed 2025 GS-III ITER PYQ. Dated targets are not operational claims.
 
-### Q1. Which statement correctly identifies Fusion-fission boundary?
+## Applied MCQs — questions only
 
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-C. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-D. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
+### Q1. A plant investor cites existing nuclear electricity as proof fusion has matured. What is the error?
 
-**Answer: A.**
-**Explanation:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Existing commercial reactors split heavy nuclei; fusion combines light nuclei.
+B. Commercial reactors already use ITER-type D-T fusion.
+C. Fusion and fission both split uranium.
+D. Fusion electricity is already supplied by SST-1.
 
-### Q2. Which option preserves the technical boundary of Fusion-fission boundary?
+### Q2. A D-T plasma reaction occurs. Which product carries most reaction energy out of the plasma?
 
-A. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-B. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-C. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
+A. A fission fragment.
+B. A high-energy neutron.
+C. The helium alpha particle.
+D. An emitted proton.
 
-**Answer: B.**
-**Explanation:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. Why does an alpha particle matter to a burning D-T plasma?
 
-### Q3. Which statement uses Fusion-fission boundary without changing its institution, unit or status?
+A. It powers a turbine inside ITER.
+B. It directly cools the divertor.
+C. Its energy deposited in the plasma can sustain substantial self-heating.
+D. It breeds tritium in an external lithium blanket.
 
-A. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-D. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
+### Q4. An experiment reaches a very high plasma temperature but loses confinement rapidly. Which criterion is still unresolved?
 
-**Answer: C.**
-**Explanation:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Whether fusion requires a fission chain reaction.
+B. Whether cryostat mass equals power output.
+C. Whether temperature alone proves grid supply.
+D. The joint density-temperature-energy-confinement-time condition.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Fusion-fission boundary?
+### Q5. Which scenario best distinguishes magnetic from inertial confinement?
 
-A. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-B. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
+A. A toroidal magnetic field holds plasma versus laser compression of a tiny pellet.
+B. Both rely on continuous laser illumination of the whole torus.
+C. Both require a moderated uranium core.
+D. Pellets are held by a long-lived tokamak plasma current.
 
-**Answer: D.**
-**Explanation:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. An engineer calls every magnetic-confinement machine a tokamak. Which counterexample matters?
 
-### Q5. Which statement correctly identifies DT-reaction boundary?
+A. A stellarator is a commercial fusion turbine.
+B. A stellarator uses shaped external coils rather than a large induced plasma current.
+C. A fission PHWR is a stellarator.
+D. A tokamak is the same as inertial pellet implosion.
 
-A. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-B. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
+### Q7. Why is sustained tokamak operation an engineering research question?
 
-**Answer: A.**
-**Explanation:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Plasma stability is irrelevant once a coil is installed.
+B. The torus necessarily converts heat into electricity.
+C. An induced plasma current is inherently pulsed, motivating current-drive and steady-state research.
+D. The fuel cannot become ionised.
 
-### Q6. Which option preserves the technical boundary of DT-reaction boundary?
+### Q8. A fusion result reports Q=2. Which inference is justified?
 
-A. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-B. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-C. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
+A. Electricity sent to grid exceeded all plant consumption.
+B. Tritium breeding was self-sufficient.
+C. An industrial operating licence was granted.
+D. Fusion power exceeded injected plasma heating power for the reported experiment.
 
-**Answer: B.**
-**Explanation:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. An ITER design brief says 500 MW fusion from 50 MW heating. What is the accurate interpretation?
 
-### Q7. Which statement uses DT-reaction boundary without changing its institution, unit or status?
+A. Q=10 is a design target for plasma gain, not delivered electricity.
+B. ITER has already exported 450 MW electrical power.
+C. ITER's turbine must produce 500 MW electricity.
+D. Q includes every magnet and cryoplant load.
 
-A. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-B. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-C. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
+### Q10. A device has favourable plasma Q but high cryogenic loads. What must a net-power audit additionally include?
 
-**Answer: C.**
-**Explanation:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Only toroidal-field strength.
+B. Whole-system consumption and thermal-to-electrical conversion.
+C. Only the fusion energy in the hot core.
+D. Only injected heating, because Q covers all auxiliaries.
 
-### Q8. Which option avoids the standard UPSC close-option trap about DT-reaction boundary?
+### Q11. What does ITER's lack of turbine rule out?
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-C. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-D. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
+A. Testing reactor-relevant components.
+B. Manufacturing in-kind cryostat hardware.
+C. Claiming ITER itself generates grid electricity.
+D. Studying D-T plasma physics.
 
-**Answer: D.**
-**Explanation:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. Which statement accurately places DEMO on the development ladder?
 
-### Q9. Which statement correctly identifies Temperature-plasma boundary?
+A. An earlier commercial predecessor to ITER.
+B. The name of India's domestic ITER agency.
+C. A fusion power plant already supplying India's grid.
+D. A later demonstration-class electricity-producing ambition after experimental ITER.
 
-A. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-B. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
+### Q13. A blanket proposal promises indefinite D-T operation but reports tritium breeding below consumption. What is missing?
 
-**Answer: A.**
-**Explanation:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Breeding sufficient tritium from lithium with allowance for losses and decay.
+B. Extra deuterium alone to replace tritium.
+C. A larger cryostat alone.
+D. The helium ash exhaust alone.
 
-### Q10. Which option preserves the technical boundary of Temperature-plasma boundary?
+### Q14. Which isotope is the scarce radioactive fuel that future D-T plants must replenish?
 
-A. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-B. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-C. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+A. Uranium-238.
+B. Tritium.
+C. Deuterium.
+D. Helium-4.
 
-**Answer: B.**
-**Explanation:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. What is the specific role of an ITER test blanket module?
 
-### Q11. Which statement uses Temperature-plasma boundary without changing its institution, unit or status?
+A. Generate marketable electricity at ITER.
+B. Replace magnetic confinement with fission.
+C. Investigate tritium breeding and blanket technologies, not prove a closed commercial fuel cycle.
+D. Already guarantee self-sufficient fuel for every later plant.
 
-A. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-B. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-C. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+### Q16. Neutron irradiation embrittles structural steel. Which engineering issue does this illustrate?
 
-**Answer: C.**
-**Explanation:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. An unavoidable fission chain reaction in a tokamak.
+B. Proof that fusion has no radioactive by-products.
+C. Only inadequate plasma temperature.
+D. Material damage and activation from energetic fusion neutrons.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Temperature-plasma boundary?
+### Q17. A reviewer says fusion is radiation-free. Which rebuttal is most accurate?
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-C. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-D. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
+A. Activated structures and radioactive tritium still require management despite no fission-product waste stream.
+B. Fusion produces the same fission-product inventory as a PHWR.
+C. Fusion requires a uranium meltdown.
+D. No ionising radiation can leave the plasma.
 
-**Answer: D.**
-**Explanation:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. What is the divertor's primary function in a magnetic confinement device?
 
-### Q13. Which statement correctly identifies Lawson boundary?
+A. Moderate fast neutrons for fission.
+B. Exhaust edge heat, impurities and helium ash.
+C. Replace external plasma heating with a turbine.
+D. Breed all tritium in the core.
 
-A. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-B. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-C. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
+### Q19. A perfect core confinement experiment leaves huge heat loading on the edge. Which limit remains?
 
-**Answer: A.**
-**Explanation:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Whether an alpha particle can self-heat.
+B. Whether ITER has seven members.
+C. Divertor durability and heat exhaust.
+D. Whether deuterium exists in water.
 
-### Q14. Which option preserves the technical boundary of Lawson boundary?
+### Q20. Which institution-to-role mapping is accurate?
 
-A. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-D. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
+A. ITER-India runs all commercial fusion power plants.
+B. IPR is an overseas member rather than an Indian institute.
+C. ITER Organization is India's domestic procurement unit.
+D. IPR conducts plasma research; its ITER-India project is India's domestic procurement agency.
 
-**Answer: B.**
-**Explanation:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. An India-focused answer identifies only cash transfer to ITER. What should be added?
 
-### Q15. Which statement uses Lawson boundary without changing its institution, unit or status?
+A. Indian in-kind hardware packages and industrial participation.
+B. India alone owns and operates ITER.
+C. IPR's electricity sales.
+D. India's fission PHWR fuel as ITER's sole feedstock.
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-C. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+### Q22. Which cited hardware is a named Indian ITER package?
 
-**Answer: C.**
-**Explanation:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. NavIC navigation payload.
+B. Cryostat.
+C. Commercial turbine-generator.
+D. Fission control-rod bank.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Lawson boundary?
+### Q23. An examiner asks which package provides plasma heating by electromagnetic waves. Which pair fits India's contributions?
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-C. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-D. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
+A. Solid rocket motors and ramjets.
+B. Fission fuel reprocessing and steam condensers.
+C. Ion-cyclotron and electron-cyclotron RF heating.
+D. Uranium enrichment and heavy-water moderation.
 
-**Answer: D.**
-**Explanation:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. Which Indian package is relevant to plasma measurement rather than electrical grid production?
 
-### Q17. Which statement correctly identifies Magnetic-inertial boundary?
+A. Commercial transmission system.
+B. Breeder blanket already supplying tritium.
+C. Licensed fusion power purchase agreement.
+D. Diagnostics.
 
-A. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-B. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-C. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+### Q25. Which domestic Indian machines are research tokamaks rather than grid reactors?
 
-**Answer: A.**
-**Explanation:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. ADITYA-U and SST-1.
+B. PFBR and PHWR.
+C. ITER and DEMO as Indian domestic machines.
+D. A cryostat and an electric turbine.
 
-### Q18. Which option preserves the technical boundary of Magnetic-inertial boundary?
+### Q26. A news item says SST-1 investigates longer pulses. What does this demonstrate?
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-C. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+A. Proof that tritium breeding is closed.
+B. Progress in superconducting-tokamak plasma research, not electricity output.
+C. Commissioning of a commercial fusion power plant.
+D. Completion of ITER's D-T stage.
 
-**Answer: B.**
-**Explanation:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. The 2024 ITER new baseline refers to 2034 research operations and 2039 D-T operation. How should these dates be used?
 
-### Q19. Which statement uses Magnetic-inertial boundary without changing its institution, unit or status?
+A. As binding dates of Indian fusion grid commissioning.
+B. As proof that first plasma means power generation.
+C. As scheduled future milestones of an experimental project, not achieved commercial operation.
+D. As dates electricity was already sold.
 
-A. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-B. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
+### Q28. Which actor is correctly identified as an ITER member?
 
-**Answer: C.**
-**Explanation:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Only India and France.
+B. IPR as a sovereign member in place of India.
+C. SST-1 as an intergovernmental member.
+D. The European Union.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Magnetic-inertial boundary?
+### Q29. What is the best interpretation of a reported installed ITER magnet sector?
 
-A. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-B. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-C. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
+A. Assembly progress toward experiments, not demonstration of net plant power.
+B. Completion of commercial electricity delivery.
+C. Measured engineering breakeven.
+D. A closed tritium cycle.
 
-**Answer: D.**
-**Explanation:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. What strategic value does in-kind delivery add even if fusion electricity is distant?
 
-### Q21. Which statement correctly identifies Tokamak-stellarator boundary?
+A. Proof that all partners share identical procurement duties.
+B. Industrial learning in vacuum systems, cryogenics, precision fabrication and controls.
+C. Guaranteed cheap grid electricity this decade.
+D. Elimination of international schedule dependencies.
 
-A. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-B. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-C. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-D. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
+### Q31. What is the corresponding downside of multi-member in-kind integration?
 
-**Answer: A.**
-**Explanation:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Domestic expertise cannot be created.
+B. A cryostat alone proves fusion viability.
+C. A delay in one interdependent component can affect the joint assembly schedule.
+D. All parties independently produce complete reactors.
 
-### Q22. Which option preserves the technical boundary of Tokamak-stellarator boundary?
+### Q32. Which comparison handles fusion safety without overclaiming?
 
-A. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-B. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-C. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-D. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
+A. Fusion and fission require identical fuel cycles.
+B. Loss of plasma confinement always accelerates fusion indefinitely.
+C. Fusion components never become radioactive.
+D. No runaway fission-style chain reaction, but tritium and activated components still warrant safeguards.
 
-**Answer: B.**
-**Explanation:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. What would be necessary before calling a fusion device commercially viable?
 
-### Q23. Which statement uses Tokamak-stellarator boundary without changing its institution, unit or status?
+A. Evidence of net electricity, maintainability, licensing, reliable fuel and acceptable cost.
+B. One momentary high temperature alone.
+C. Only an ITER Q target.
+D. Only a component-delivery announcement.
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-C. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-D. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
+### Q34. Why is magnetic-field strength alone insufficient evidence for useful fusion?
 
-**Answer: C.**
-**Explanation:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Fusion takes place only in fission fuel.
+B. Plasma density, temperature, confinement, stability and engineering constraints also matter.
+C. Fields automatically breed tritium.
+D. The Lawson condition concerns magnet mass alone.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Tokamak-stellarator boundary?
+### Q35. A private firm promises near-term commercial fusion. What is the sound evidence test?
 
-A. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-B. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-C. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-D. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
+A. Assume ITER already certifies every private plant.
+B. Treat a single heating pulse as an operating licence.
+C. Ask for independently supported plasma, net-system-power, tritium-cycle and reliability results.
+D. Equate an investment announcement with grid supply.
 
-**Answer: D.**
-**Explanation:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. Which conclusion best answers energy-policy expectations from ITER?
 
-### Q25. Which statement correctly identifies Q-plasma boundary?
+A. Its target Q guarantees immediate cheap electricity.
+B. ITER replaces India's present fission fleet.
+C. Prototype assembly settles material life and fuel self-sufficiency.
+D. Its research and Indian industrial spillovers are real; future low-carbon power remains conditional on later engineering and economic demonstrations.
 
-A. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-B. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-C. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-D. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
+## Separate answer key and option-by-option reasoning
 
-**Answer: A.**
-**Explanation:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 1 — A
 
-### Q26. Which option preserves the technical boundary of Q-plasma boundary?
+- **A:** Correct: Existing commercial reactors split heavy nuclei; fusion combines light nuclei. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: Commercial reactors already use ITER-type D-T fusion. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Existing commercial reactors split heavy nuclei; fusion combines light nuclei.
+- **C:** Incorrect: Fusion and fission both split uranium. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Existing commercial reactors split heavy nuclei; fusion combines light nuclei.
+- **D:** Incorrect: Fusion electricity is already supplied by SST-1. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Existing commercial reactors split heavy nuclei; fusion combines light nuclei.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-B. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-C. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-D. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
+### Solution 2 — B
 
-**Answer: B.**
-**Explanation:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: A fission fragment. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A high-energy neutron.
+- **B:** Correct: A high-energy neutron. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: The helium alpha particle. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A high-energy neutron.
+- **D:** Incorrect: An emitted proton. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A high-energy neutron.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q27. Which statement uses Q-plasma boundary without changing its institution, unit or status?
+### Solution 3 — C
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-C. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-D. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
+- **A:** Incorrect: It powers a turbine inside ITER. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its energy deposited in the plasma can sustain substantial self-heating.
+- **B:** Incorrect: It directly cools the divertor. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its energy deposited in the plasma can sustain substantial self-heating.
+- **C:** Correct: Its energy deposited in the plasma can sustain substantial self-heating. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: It breeds tritium in an external lithium blanket. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its energy deposited in the plasma can sustain substantial self-heating.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 4 — D
 
-### Q28. Which option avoids the standard UPSC close-option trap about Q-plasma boundary?
+- **A:** Incorrect: Whether fusion requires a fission chain reaction. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The joint density-temperature-energy-confinement-time condition.
+- **B:** Incorrect: Whether cryostat mass equals power output. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The joint density-temperature-energy-confinement-time condition.
+- **C:** Incorrect: Whether temperature alone proves grid supply. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The joint density-temperature-energy-confinement-time condition.
+- **D:** Correct: The joint density-temperature-energy-confinement-time condition. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-C. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-D. Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
+### Solution 5 — A
 
-**Answer: D.**
-**Explanation:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct: A toroidal magnetic field holds plasma versus laser compression of a tiny pellet. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: Both rely on continuous laser illumination of the whole torus. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A toroidal magnetic field holds plasma versus laser compression of a tiny pellet.
+- **C:** Incorrect: Both require a moderated uranium core. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A toroidal magnetic field holds plasma versus laser compression of a tiny pellet.
+- **D:** Incorrect: Pellets are held by a long-lived tokamak plasma current. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A toroidal magnetic field holds plasma versus laser compression of a tiny pellet.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q29. Which statement correctly identifies Engineering-breakeven boundary?
+### Solution 6 — B
 
-A. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-B. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-C. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-D. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
+- **A:** Incorrect: A stellarator is a commercial fusion turbine. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A stellarator uses shaped external coils rather than a large induced plasma current.
+- **B:** Correct: A stellarator uses shaped external coils rather than a large induced plasma current. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: A fission PHWR is a stellarator. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A stellarator uses shaped external coils rather than a large induced plasma current.
+- **D:** Incorrect: A tokamak is the same as inertial pellet implosion. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A stellarator uses shaped external coils rather than a large induced plasma current.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 7 — C
 
-### Q30. Which option preserves the technical boundary of Engineering-breakeven boundary?
+- **A:** Incorrect: Plasma stability is irrelevant once a coil is installed. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: An induced plasma current is inherently pulsed, motivating current-drive and steady-state research.
+- **B:** Incorrect: The torus necessarily converts heat into electricity. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: An induced plasma current is inherently pulsed, motivating current-drive and steady-state research.
+- **C:** Correct: An induced plasma current is inherently pulsed, motivating current-drive and steady-state research. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: The fuel cannot become ionised. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: An induced plasma current is inherently pulsed, motivating current-drive and steady-state research.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-B. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-C. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-D. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
+### Solution 8 — D
 
-**Answer: B.**
-**Explanation:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Electricity sent to grid exceeded all plant consumption. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Fusion power exceeded injected plasma heating power for the reported experiment.
+- **B:** Incorrect: Tritium breeding was self-sufficient. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Fusion power exceeded injected plasma heating power for the reported experiment.
+- **C:** Incorrect: An industrial operating licence was granted. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Fusion power exceeded injected plasma heating power for the reported experiment.
+- **D:** Correct: Fusion power exceeded injected plasma heating power for the reported experiment. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q31. Which statement uses Engineering-breakeven boundary without changing its institution, unit or status?
+### Solution 9 — A
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-C. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-D. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
+- **A:** Correct: Q=10 is a design target for plasma gain, not delivered electricity. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: ITER has already exported 450 MW electrical power. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Q=10 is a design target for plasma gain, not delivered electricity.
+- **C:** Incorrect: ITER's turbine must produce 500 MW electricity. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Q=10 is a design target for plasma gain, not delivered electricity.
+- **D:** Incorrect: Q includes every magnet and cryoplant load. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Q=10 is a design target for plasma gain, not delivered electricity.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 10 — B
 
-### Q32. Which option avoids the standard UPSC close-option trap about Engineering-breakeven boundary?
+- **A:** Incorrect: Only toroidal-field strength. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Whole-system consumption and thermal-to-electrical conversion.
+- **B:** Correct: Whole-system consumption and thermal-to-electrical conversion. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Only the fusion energy in the hot core. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Whole-system consumption and thermal-to-electrical conversion.
+- **D:** Incorrect: Only injected heating, because Q covers all auxiliaries. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Whole-system consumption and thermal-to-electrical conversion.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-B. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-C. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-D. Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
+### Solution 11 — C
 
-**Answer: D.**
-**Explanation:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Testing reactor-relevant components. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Claiming ITER itself generates grid electricity.
+- **B:** Incorrect: Manufacturing in-kind cryostat hardware. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Claiming ITER itself generates grid electricity.
+- **C:** Correct: Claiming ITER itself generates grid electricity. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: Studying D-T plasma physics. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Claiming ITER itself generates grid electricity.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q33. Which statement correctly identifies Alpha-neutron boundary?
+### Solution 12 — D
 
-A. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-B. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-C. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-D. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
+- **A:** Incorrect: An earlier commercial predecessor to ITER. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A later demonstration-class electricity-producing ambition after experimental ITER.
+- **B:** Incorrect: The name of India's domestic ITER agency. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A later demonstration-class electricity-producing ambition after experimental ITER.
+- **C:** Incorrect: A fusion power plant already supplying India's grid. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A later demonstration-class electricity-producing ambition after experimental ITER.
+- **D:** Correct: A later demonstration-class electricity-producing ambition after experimental ITER. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 13 — A
 
-### Q34. Which option preserves the technical boundary of Alpha-neutron boundary?
+- **A:** Correct: Breeding sufficient tritium from lithium with allowance for losses and decay. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: Extra deuterium alone to replace tritium. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Breeding sufficient tritium from lithium with allowance for losses and decay.
+- **C:** Incorrect: A larger cryostat alone. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Breeding sufficient tritium from lithium with allowance for losses and decay.
+- **D:** Incorrect: The helium ash exhaust alone. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Breeding sufficient tritium from lithium with allowance for losses and decay.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-C. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-D. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
+### Solution 14 — B
 
-**Answer: B.**
-**Explanation:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Uranium-238. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Tritium.
+- **B:** Correct: Tritium. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Deuterium. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Tritium.
+- **D:** Incorrect: Helium-4. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Tritium.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q35. Which statement uses Alpha-neutron boundary without changing its institution, unit or status?
+### Solution 15 — C
 
-A. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-B. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-C. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-D. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
+- **A:** Incorrect: Generate marketable electricity at ITER. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Investigate tritium breeding and blanket technologies, not prove a closed commercial fuel cycle.
+- **B:** Incorrect: Replace magnetic confinement with fission. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Investigate tritium breeding and blanket technologies, not prove a closed commercial fuel cycle.
+- **C:** Correct: Investigate tritium breeding and blanket technologies, not prove a closed commercial fuel cycle. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: Already guarantee self-sufficient fuel for every later plant. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Investigate tritium breeding and blanket technologies, not prove a closed commercial fuel cycle.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 16 — D
 
-### Q36. Which option avoids the standard UPSC close-option trap about Alpha-neutron boundary?
+- **A:** Incorrect: An unavoidable fission chain reaction in a tokamak. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Material damage and activation from energetic fusion neutrons.
+- **B:** Incorrect: Proof that fusion has no radioactive by-products. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Material damage and activation from energetic fusion neutrons.
+- **C:** Incorrect: Only inadequate plasma temperature. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Material damage and activation from energetic fusion neutrons.
+- **D:** Correct: Material damage and activation from energetic fusion neutrons. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-B. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-C. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-D. Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
+### Solution 17 — A
 
-**Answer: D.**
-**Explanation:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct: Activated structures and radioactive tritium still require management despite no fission-product waste stream. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: Fusion produces the same fission-product inventory as a PHWR. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Activated structures and radioactive tritium still require management despite no fission-product waste stream.
+- **C:** Incorrect: Fusion requires a uranium meltdown. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Activated structures and radioactive tritium still require management despite no fission-product waste stream.
+- **D:** Incorrect: No ionising radiation can leave the plasma. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Activated structures and radioactive tritium still require management despite no fission-product waste stream.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q37. Which statement correctly identifies Tritium-breeding boundary?
+### Solution 18 — B
 
-A. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-B. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-C. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-D. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
+- **A:** Incorrect: Moderate fast neutrons for fission. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Exhaust edge heat, impurities and helium ash.
+- **B:** Correct: Exhaust edge heat, impurities and helium ash. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Replace external plasma heating with a turbine. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Exhaust edge heat, impurities and helium ash.
+- **D:** Incorrect: Breed all tritium in the core. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Exhaust edge heat, impurities and helium ash.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 19 — C
 
-### Q38. Which option preserves the technical boundary of Tritium-breeding boundary?
+- **A:** Incorrect: Whether an alpha particle can self-heat. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Divertor durability and heat exhaust.
+- **B:** Incorrect: Whether ITER has seven members. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Divertor durability and heat exhaust.
+- **C:** Correct: Divertor durability and heat exhaust. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: Whether deuterium exists in water. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Divertor durability and heat exhaust.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-B. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-C. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-D. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
+### Solution 20 — D
 
-**Answer: B.**
-**Explanation:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: ITER-India runs all commercial fusion power plants. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: IPR conducts plasma research; its ITER-India project is India's domestic procurement agency.
+- **B:** Incorrect: IPR is an overseas member rather than an Indian institute. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: IPR conducts plasma research; its ITER-India project is India's domestic procurement agency.
+- **C:** Incorrect: ITER Organization is India's domestic procurement unit. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: IPR conducts plasma research; its ITER-India project is India's domestic procurement agency.
+- **D:** Correct: IPR conducts plasma research; its ITER-India project is India's domestic procurement agency. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q39. Which statement uses Tritium-breeding boundary without changing its institution, unit or status?
+### Solution 21 — A
 
-A. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-B. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-C. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-D. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
+- **A:** Correct: Indian in-kind hardware packages and industrial participation. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: India alone owns and operates ITER. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Indian in-kind hardware packages and industrial participation.
+- **C:** Incorrect: IPR's electricity sales. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Indian in-kind hardware packages and industrial participation.
+- **D:** Incorrect: India's fission PHWR fuel as ITER's sole feedstock. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Indian in-kind hardware packages and industrial participation.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 22 — B
 
-### Q40. Which option avoids the standard UPSC close-option trap about Tritium-breeding boundary?
+- **A:** Incorrect: NavIC navigation payload. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Cryostat.
+- **B:** Correct: Cryostat. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Commercial turbine-generator. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Cryostat.
+- **D:** Incorrect: Fission control-rod bank. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Cryostat.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-B. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-C. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-D. Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
+### Solution 23 — C
 
-**Answer: D.**
-**Explanation:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Solid rocket motors and ramjets. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ion-cyclotron and electron-cyclotron RF heating.
+- **B:** Incorrect: Fission fuel reprocessing and steam condensers. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ion-cyclotron and electron-cyclotron RF heating.
+- **C:** Correct: Ion-cyclotron and electron-cyclotron RF heating. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: Uranium enrichment and heavy-water moderation. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ion-cyclotron and electron-cyclotron RF heating.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q41. Which statement correctly identifies Materials boundary?
+### Solution 24 — D
 
-A. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-B. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-C. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-D. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
+- **A:** Incorrect: Commercial transmission system. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Diagnostics.
+- **B:** Incorrect: Breeder blanket already supplying tritium. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Diagnostics.
+- **C:** Incorrect: Licensed fusion power purchase agreement. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Diagnostics.
+- **D:** Correct: Diagnostics. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 25 — A
 
-### Q42. Which option preserves the technical boundary of Materials boundary?
+- **A:** Correct: ADITYA-U and SST-1. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: PFBR and PHWR. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: ADITYA-U and SST-1.
+- **C:** Incorrect: ITER and DEMO as Indian domestic machines. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: ADITYA-U and SST-1.
+- **D:** Incorrect: A cryostat and an electric turbine. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: ADITYA-U and SST-1.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-B. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-C. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-D. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
+### Solution 26 — B
 
-**Answer: B.**
-**Explanation:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Proof that tritium breeding is closed. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Progress in superconducting-tokamak plasma research, not electricity output.
+- **B:** Correct: Progress in superconducting-tokamak plasma research, not electricity output. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Commissioning of a commercial fusion power plant. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Progress in superconducting-tokamak plasma research, not electricity output.
+- **D:** Incorrect: Completion of ITER's D-T stage. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Progress in superconducting-tokamak plasma research, not electricity output.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q43. Which statement uses Materials boundary without changing its institution, unit or status?
+### Solution 27 — C
 
-A. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-B. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-C. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-D. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
+- **A:** Incorrect: As binding dates of Indian fusion grid commissioning. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: As scheduled future milestones of an experimental project, not achieved commercial operation.
+- **B:** Incorrect: As proof that first plasma means power generation. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: As scheduled future milestones of an experimental project, not achieved commercial operation.
+- **C:** Correct: As scheduled future milestones of an experimental project, not achieved commercial operation. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: As dates electricity was already sold. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: As scheduled future milestones of an experimental project, not achieved commercial operation.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 28 — D
 
-### Q44. Which option avoids the standard UPSC close-option trap about Materials boundary?
+- **A:** Incorrect: Only India and France. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The European Union.
+- **B:** Incorrect: IPR as a sovereign member in place of India. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The European Union.
+- **C:** Incorrect: SST-1 as an intergovernmental member. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: The European Union.
+- **D:** Correct: The European Union. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-B. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-C. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-D. High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
+### Solution 29 — A
 
-**Answer: D.**
-**Explanation:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct: Assembly progress toward experiments, not demonstration of net plant power. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: Completion of commercial electricity delivery. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Assembly progress toward experiments, not demonstration of net plant power.
+- **C:** Incorrect: Measured engineering breakeven. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Assembly progress toward experiments, not demonstration of net plant power.
+- **D:** Incorrect: A closed tritium cycle. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Assembly progress toward experiments, not demonstration of net plant power.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q45. Which statement correctly identifies Divertor boundary?
+### Solution 30 — B
 
-A. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-B. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-C. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-D. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
+- **A:** Incorrect: Proof that all partners share identical procurement duties. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Industrial learning in vacuum systems, cryogenics, precision fabrication and controls.
+- **B:** Correct: Industrial learning in vacuum systems, cryogenics, precision fabrication and controls. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Guaranteed cheap grid electricity this decade. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Industrial learning in vacuum systems, cryogenics, precision fabrication and controls.
+- **D:** Incorrect: Elimination of international schedule dependencies. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Industrial learning in vacuum systems, cryogenics, precision fabrication and controls.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 31 — C
 
-### Q46. Which option preserves the technical boundary of Divertor boundary?
+- **A:** Incorrect: Domestic expertise cannot be created. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A delay in one interdependent component can affect the joint assembly schedule.
+- **B:** Incorrect: A cryostat alone proves fusion viability. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A delay in one interdependent component can affect the joint assembly schedule.
+- **C:** Correct: A delay in one interdependent component can affect the joint assembly schedule. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: All parties independently produce complete reactors. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: A delay in one interdependent component can affect the joint assembly schedule.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-B. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-C. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-D. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
+### Solution 32 — D
 
-**Answer: B.**
-**Explanation:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Fusion and fission require identical fuel cycles. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: No runaway fission-style chain reaction, but tritium and activated components still warrant safeguards.
+- **B:** Incorrect: Loss of plasma confinement always accelerates fusion indefinitely. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: No runaway fission-style chain reaction, but tritium and activated components still warrant safeguards.
+- **C:** Incorrect: Fusion components never become radioactive. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: No runaway fission-style chain reaction, but tritium and activated components still warrant safeguards.
+- **D:** Correct: No runaway fission-style chain reaction, but tritium and activated components still warrant safeguards. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q47. Which statement uses Divertor boundary without changing its institution, unit or status?
+### Solution 33 — A
 
-A. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-B. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-C. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-D. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
+- **A:** Correct: Evidence of net electricity, maintainability, licensing, reliable fuel and acceptable cost. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **B:** Incorrect: One momentary high temperature alone. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Evidence of net electricity, maintainability, licensing, reliable fuel and acceptable cost.
+- **C:** Incorrect: Only an ITER Q target. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Evidence of net electricity, maintainability, licensing, reliable fuel and acceptable cost.
+- **D:** Incorrect: Only a component-delivery announcement. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Evidence of net electricity, maintainability, licensing, reliable fuel and acceptable cost.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: C.**
-**Explanation:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 34 — B
 
-### Q48. Which option avoids the standard UPSC close-option trap about Divertor boundary?
+- **A:** Incorrect: Fusion takes place only in fission fuel. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Plasma density, temperature, confinement, stability and engineering constraints also matter.
+- **B:** Correct: Plasma density, temperature, confinement, stability and engineering constraints also matter. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **C:** Incorrect: Fields automatically breed tritium. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Plasma density, temperature, confinement, stability and engineering constraints also matter.
+- **D:** Incorrect: The Lawson condition concerns magnet mass alone. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Plasma density, temperature, confinement, stability and engineering constraints also matter.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-A. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-B. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-C. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-D. A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
+### Solution 35 — C
 
-**Answer: D.**
-**Explanation:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect: Assume ITER already certifies every private plant. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ask for independently supported plasma, net-system-power, tritium-cycle and reliability results.
+- **B:** Incorrect: Treat a single heating pulse as an operating licence. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ask for independently supported plasma, net-system-power, tritium-cycle and reliability results.
+- **C:** Correct: Ask for independently supported plasma, net-system-power, tritium-cycle and reliability results. This is the precise mechanism, role or evidence threshold asked in the stem.
+- **D:** Incorrect: Equate an investment announcement with grid supply. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Ask for independently supported plasma, net-system-power, tritium-cycle and reliability results.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-### Q49. Which statement correctly identifies ITER-purpose boundary?
+### Solution 36 — D
 
-A. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-B. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-C. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-D. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
+- **A:** Incorrect: Its target Q guarantees immediate cheap electricity. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its research and Indian industrial spillovers are real; future low-carbon power remains conditional on later engineering and economic demonstrations.
+- **B:** Incorrect: ITER replaces India's present fission fleet. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its research and Indian industrial spillovers are real; future low-carbon power remains conditional on later engineering and economic demonstrations.
+- **C:** Incorrect: Prototype assembly settles material life and fuel self-sufficiency. This alternative does not establish the requested mechanism or evidence threshold; the supported result is: Its research and Indian industrial spillovers are real; future low-carbon power remains conditional on later engineering and economic demonstrations.
+- **D:** Correct: Its research and Indian industrial spillovers are real; future low-carbon power remains conditional on later engineering and economic demonstrations. This is the precise mechanism, role or evidence threshold asked in the stem.
+**Trap:** An experiment, target or component is not a grid-connected, fuel-self-sufficient plant; keep the named mechanism and status distinct.
 
-**Answer: A.**
-**Explanation:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+## Verified descriptive PYQ — independent solution
 
-### Q50. Which option preserves the technical boundary of ITER-purpose boundary?
+### UPSC CSE Mains 2025 GS-III, Q5 (150 words)
 
-A. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-B. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-C. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-D. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
+**Demand:** “The fusion energy programme in India has steadily evolved over the past few decades. Mention India’s contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy?” Source and routing: `upsc-ai-kit/knowledge/Science-and-Technology/basic/05_Nuclear-Fusion-and-ITER.md`, §9; verified descriptive demand, not an official model answer.
 
-**Answer: B.**
-**Explanation:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Model solution:** Fusion of deuterium and tritium could ultimately offer low-carbon energy, but ITER is a research facility, not an electricity plant. India’s domestic trajectory runs from ADITYA-U to the superconducting SST-1 at IPR, Gandhinagar. ITER-India, the domestic agency within IPR, coordinates Indian industry’s in-kind contributions: the cryostat, in-wall shielding, cooling-water and cryogenic systems, ion- and electron-cyclotron heating, a diagnostic neutral beam, power supplies and diagnostics. This develops high-precision manufacturing and scientific capacity even before any energy return. If ITER demonstrates sustained burning-plasma conditions, it can inform later demonstration plants and diversify long-term low-carbon supply. Yet ITER’s Q target compares fusion power with injected plasma heating, not net electricity. Neutron-resistant materials, lithium-blanket tritium breeding, heat conversion, availability, cost and licensing must still be demonstrated. Thus success is an important scientific bridge, not an immediate cure for global energy insecurity.
 
-### Q51. Which statement uses ITER-purpose boundary without changing its institution, unit or status?
+## Original Mains practice — six independent model answers
 
-A. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-B. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-C. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-D. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
+### Original Mains 1 — 10 marks · 150 words
+**Question:** Explain why ITER’s design Q cannot be read as plant-wide net electricity.
+**Model answer:** ITER’s design target is a physics ratio: fusion power divided by external heating power delivered to the plasma. The ITER Organization states a goal of 500 MW of fusion power from 50 MW of injected heating, or Q=10. This comparison does not include all energy spent producing the heating, driving pumps, refrigerating superconducting magnets or running control systems. A net-electricity claim would also require collecting neutron energy as heat, converting it through a turbine and subtracting recirculating loads. ITER has no electricity-generating turbine: its task is to investigate burning-plasma conditions and reactor-relevant engineering. Therefore the design ratio is neither an achieved experiment nor a statement about grid supply. For energy-policy projections, separate plasma gain from engineering breakeven and commercial viability. Even if ITER achieves its target, later devices must validate fuel breeding, materials resilience, long-term availability and economic operation.
 
-**Answer: C.**
-**Explanation:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 2 — 10 marks · 150 words
+**Question:** Distinguish magnetic and inertial confinement and explain the place of a tokamak.
+**Model answer:** Light nuclei repel each other; fusion requires a hot plasma held sufficiently long for collisions. Magnetic confinement uses fields to guide charged particles away from material walls at comparatively lower density over longer confinement times. The toroidal tokamak uses strong magnetic fields and an induced plasma current; ITER and India’s SST-1 follow this experimental route. A stellarator instead uses shaped external coils to produce its confining field. Inertial confinement compresses a small fuel target quickly, often with powerful lasers, so reactions happen before the target disperses. It uses a very different density-time combination. Neither a successful shot nor a stable discharge alone delivers usable electricity. Tokamak operation must also manage current drive, edge exhaust and plasma stability; inertial systems face target and repetition challenges. Both approaches remain distinct from today’s commercial fission reactors, which release energy by splitting heavy nuclei.
 
-### Q52. Which option avoids the standard UPSC close-option trap about ITER-purpose boundary?
+### Original Mains 3 — 15 marks · 250 words
+**Question:** Assess India’s in-kind ITER participation alongside domestic fusion research.
+**Model answer:** India is one of the seven ITER members. Rather than treating participation as a financial subscription alone, it should be assessed as a portfolio of hardware, institutions and learning. ITER-India is the domestic agency housed as a project within the Department of Atomic Energy-aided Institute for Plasma Research (IPR), Gandhinagar. Indian industry contributes named in-kind packages: cryostat, in-wall shielding, cooling-water and cryogenic systems, ion- and electron-cyclotron radio-frequency heating, a diagnostic neutral beam, power supplies and diagnostics. The cryostat exemplifies large precision vacuum engineering; heating and diagnostic packages demand integration across firms and laboratories. Domestic research is a complementary, not equivalent, capability: IPR’s ADITYA-U studies plasma operation, while superconducting SST-1 addresses longer-pulse research. Neither generates commercial electricity. In-kind work can deepen welding, vacuum, cryogenic, control and manufacturing skills useful beyond fusion, and lets scientists learn from assembly and operation. It also introduces a collective-action constraint: a globally assembled tokamak depends on many suppliers and shared schedules. ITER’s re-baselined milestones are plans for experimental research, not dates when India receives fusion power. Therefore a balanced policy appraisal measures delivered hardware and durable domestic capability separately from future energy benefits. The eventual value of fusion to the grid depends on plasma performance, heat exhaust, neutron-resistant materials, tritium breeding, engineering breakeven and economic viability in successor plants.  Evidence of any individual procurement package should distinguish design responsibility, manufacture, delivery and final integration. A cryostat cannot establish the plasma-gain target; nor does a research tokamak demonstrate the high-neutron-flux material lifetime of an electricity-generating plant.
 
-A. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-B. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-C. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-D. ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
+### Original Mains 4 — 15 marks · 250 words
+**Question:** Evaluate the fuel-cycle and material constraints on a future deuterium–tritium reactor.
+**Model answer:** D-T fusion yields helium and an energetic neutron. The alpha particle can heat the plasma, but the neutron transfers most of the energy beyond the core and repeatedly strikes the surrounding structure. This creates both opportunity and difficulty. A lithium-bearing blanket may intercept neutrons to breed tritium; a functioning future plant must produce more usable tritium than it consumes, allowing for losses and decay. Deuterium is comparatively accessible in water, whereas tritium is radioactive and scarce. A demonstration of plasma gain alone does not show fuel self-sufficiency. Neutron exposure also displaces atoms, generates gas in steels and activates structural material. Plasma-facing components and the divertor must endure severe heat flux while exhausting impurities and helium ash. Candidate armour and reduced-activation materials require validation under relevant exposure and through maintainable designs. Fusion does not create the same long-lived fission products or sustain a runaway fission chain reaction; that does not make it radiation-free. Tritium containment, activated-material handling, remote maintenance and licensing remain essential. ITER tests relevant technologies and scientific conditions, but does not claim to close a commercial tritium cycle or generate electricity. The answer is conditional: long-duration confinement, heat extraction, fuel replacement and material lifetime must be achieved together before an electricity-producing successor could count as an energy solution.  An additional constraint is waste classification: fusion avoids the fission-product inventory but does not avoid monitoring and eventual disposal of activated hardware. The choice of steel, tungsten-facing surfaces and remotely serviceable blanket modules links materials science directly to availability and licensing.
 
-**Answer: D.**
-**Explanation:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 5 — 20 marks · 250 words
+**Question:** Analyse the progression from plasma success through engineering feasibility to commercial fusion.
+**Model answer:** The development ladder has three non-interchangeable thresholds. First, scientific feasibility asks whether fusion power exceeds external plasma heating; the usual metric Q excludes the entire plant’s electricity use. ITER’s stated Q=10 goal is a design aim, not a claim of realised grid power. Its role is to study burning-plasma operation and integrated systems. Second, engineering feasibility requires sustained control and current drive, tolerable divertor heat exhaust, neutron-resistant components, heat-to-electric conversion and net output after cryogenic, magnetic and pumping loads. D-T operation further needs a lithium-based tritium-breeding system with enough margin for radioactive decay and processing loss. Neither a one-off pulse nor a test blanket establishes this total balance. Third, commercial viability needs repeatable operation, maintainability, safe tritium handling, licensing, reliable supply chains and competitive lifecycle costs. A later DEMO-class device seeks to bridge experiment and electricity; even it cannot automatically establish an affordable commercial fleet. India’s ITER packages build high-value domestic manufacturing and IPR’s ADITYA-U and SST-1 train researchers now. Yet project targets such as research operations and D-T phases are schedules, not commissioning reports. The prudent conclusion is that research and industrial spillovers can be evaluated today, whereas climate or energy-security benefits from grid fusion remain contingent on each succeeding threshold.  This sequence also explains why a favourable experimental energy balance cannot be extrapolated to national capacity planning. A power-system planner needs dependable rated electricity and dispatchability evidence, while a plasma physicist reports confined-state measurements with different units and boundaries.
 
-### Q53. Which statement correctly identifies ITER-Q boundary?
-
-A. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-B. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-C. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-D. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-
-**Answer: A.**
-**Explanation:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q54. Which option preserves the technical boundary of ITER-Q boundary?
-
-A. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-B. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-C. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-D. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-
-**Answer: B.**
-**Explanation:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q55. Which statement uses ITER-Q boundary without changing its institution, unit or status?
-
-A. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-B. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-C. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-D. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-
-**Answer: C.**
-**Explanation:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about ITER-Q boundary?
-
-A. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-B. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-C. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-D. ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-
-**Answer: D.**
-**Explanation:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Membership-contribution boundary?
-
-A. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-B. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-C. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-D. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-
-**Answer: A.**
-**Explanation:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Membership-contribution boundary?
-
-A. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-B. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-C. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-D. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-
-**Answer: B.**
-**Explanation:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Membership-contribution boundary without changing its institution, unit or status?
-
-A. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-B. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-C. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-D. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Answer: C.**
-**Explanation:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Membership-contribution boundary?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-C. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-D. ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-
-**Answer: D.**
-**Explanation:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies IPR-ITERIndia boundary?
-
-A. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-B. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-C. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-D. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-
-**Answer: A.**
-**Explanation:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of IPR-ITERIndia boundary?
-
-A. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-B. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-C. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-D. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Answer: B.**
-**Explanation:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses IPR-ITERIndia boundary without changing its institution, unit or status?
-
-A. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-B. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-C. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-D. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Answer: C.**
-**Explanation:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about IPR-ITERIndia boundary?
-
-A. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-B. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-C. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-D. IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-
-**Answer: D.**
-**Explanation:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Domestic-device boundary?
-
-A. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-B. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-C. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-D. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Answer: A.**
-**Explanation:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Domestic-device boundary?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-C. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-D. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Answer: B.**
-**Explanation:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Domestic-device boundary without changing its institution, unit or status?
-
-A. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-B. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-C. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-D. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-
-**Answer: C.**
-**Explanation:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Domestic-device boundary?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-C. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-D. ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-
-**Answer: D.**
-**Explanation:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Schedule-status boundary?
-
-A. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-B. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-C. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-D. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Answer: A.**
-**Explanation:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Schedule-status boundary?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-C. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-D. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Answer: B.**
-**Explanation:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Schedule-status boundary without changing its institution, unit or status?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-C. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-D. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-
-**Answer: C.**
-**Explanation:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Schedule-status boundary?
-
-A. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-B. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-C. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-D. ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-
-**Answer: D.**
-**Explanation:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies DEMO-commercial boundary?
-
-A. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-B. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-C. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-D. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-
-**Answer: A.**
-**Explanation:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of DEMO-commercial boundary?
-
-A. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-B. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-C. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-D. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-
-**Answer: B.**
-**Explanation:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses DEMO-commercial boundary without changing its institution, unit or status?
-
-A. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-D. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-
-**Answer: C.**
-**Explanation:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about DEMO-commercial boundary?
-
-A. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Answer: D.**
-**Explanation:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile fusion boundary?
-
-A. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-B. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-C. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-D. Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental.
-
-**Answer: A.**
-**Explanation:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile fusion boundary?
-
-A. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-B. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-C. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-D. The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-
-**Answer: B.**
-**Explanation:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile fusion boundary without changing its institution, unit or status?
-
-A. Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-D. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-
-**Answer: C.**
-**Explanation:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile fusion boundary?
-
-A. A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-B. The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-C. Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-D. Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Answer: D.**
-**Explanation:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-## PYQS AND ANSWER PRACTICE
-
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
-
-Audited ledgers route the direct 2025 GS-III ITER contribution and future-energy demand here. No other direct PYQ or answer key is manufactured.
-
-### PYQ DEMAND CARD 1 — 2025 GS-III
-
-**Demand:** Mention India's contributions to ITER and explain the implications of project success for global energy.
-
-**Status:** Verified direct routed Mains demand.
-
-**Model solution:** **Fusion-fission boundary:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. **Q-plasma boundary:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Engineering-breakeven boundary:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Tritium-breeding boundary:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Materials boundary:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **ITER-purpose boundary:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **ITER-Q boundary:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Membership-contribution boundary:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **IPR-ITERIndia boundary:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Domestic-device boundary:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **DEMO-commercial boundary:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Volatile fusion boundary:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2025 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Fusion-fission boundary:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. **Q-plasma boundary:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Engineering-breakeven boundary:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Tritium-breeding boundary:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Materials boundary:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **ITER-purpose boundary:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **ITER-Q boundary:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Membership-contribution boundary:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **IPR-ITERIndia boundary:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Domestic-device boundary:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **DEMO-commercial boundary:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Volatile fusion boundary:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Mention India's contributions to ITER and explain the implications of project success for global energy. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Fusion-fission boundary:** Nuclear fusion combines light nuclei, while nuclear fission splits heavy nuclei; commercial nuclear electricity today is fission-based and fusion remains experimental. **Q-plasma boundary:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Engineering-breakeven boundary:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Tritium-breeding boundary:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Materials boundary:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **ITER-purpose boundary:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **ITER-Q boundary:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Membership-contribution boundary:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **IPR-ITERIndia boundary:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Domestic-device boundary:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **DEMO-commercial boundary:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Volatile fusion boundary:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2025 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Explain why ITER must not be described as a commercial power plant. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-- Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-- ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-- ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-- A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why ITER must not be described as a commercial power plant. Answer in about 150 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain why ITER must not be described as a commercial power plant. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish plasma Q from engineering and electricity breakeven. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-- Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-- ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish plasma Q from engineering and electricity breakeven. Answer in about 150 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish plasma Q from engineering and electricity breakeven. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain the D-T fusion chain and its tritium and materials constraints. Answer in about 250 words.
-
-**Model thesis:** **Claim:** DT-reaction boundary. **Named evidence/example:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Alpha-neutron boundary. **Named evidence/example:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating.
-- Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-- The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-- Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures.
-- Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-- High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-- A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-
-**Qualified conclusion:** **Claim:** DT-reaction boundary. **Named evidence/example:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Alpha-neutron boundary. **Named evidence/example:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the D-T fusion chain and its tritium and materials constraints. Answer in about 250…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** DT-reaction boundary. **Named evidence/example:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Alpha-neutron boundary. **Named evidence/example:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** DT-reaction boundary. **Named evidence/example:** The deuterium-tritium reaction produces helium-4, a neutron and 17.6 MeV; the neutron carries most energy outward while the alpha particle supports plasma self-heating. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Alpha-neutron boundary. **Named evidence/example:** Charged alpha particles can remain magnetically confined and heat the plasma, whereas 14.1 MeV neutrons escape magnetic confinement, heat the blanket and damage or activate structures. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain the D-T fusion chain and its tritium and materials constraints. Answer in about 250…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Assess India's domestic fusion ecosystem and ITER participation. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Domestic-device boundary. **Named evidence/example:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-- IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-- ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation.
-- Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Qualified conclusion:** **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Domestic-device boundary. **Named evidence/example:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess India's domestic fusion ecosystem and ITER participation. Answer in about 250 words.”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Domestic-device boundary. **Named evidence/example:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Domestic-device boundary. **Named evidence/example:** ADITYA-U and SST-1 are Indian experimental tokamaks for plasma and long-pulse research; neither is a power reactor or evidence of commercial fusion generation. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Assess India's domestic fusion ecosystem and ITER participation. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate fusion through scientific, engineering and commercial feasibility thresholds. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Magnetic-inertial boundary. **Named evidence/example:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tokamak-stellarator boundary. **Named evidence/example:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness.
-- The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition.
-- Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes.
-- A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant.
-- Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-- Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-- Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-- High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-- A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints.
-- A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-
-**Qualified conclusion:** **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Magnetic-inertial boundary. **Named evidence/example:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tokamak-stellarator boundary. **Named evidence/example:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate fusion through scientific, engineering and commercial feasibility thresholds. Answer…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Magnetic-inertial boundary. **Named evidence/example:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tokamak-stellarator boundary. **Named evidence/example:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-9. **Claim and named evidence:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-10. **Claim and named evidence:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Temperature-plasma boundary. **Named evidence/example:** Fusion fuel must become an ultra-hot ionised plasma to overcome electrostatic repulsion; a quoted temperature is a plasma condition, not proof of confinement, gain or plant readiness. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Lawson boundary. **Named evidence/example:** The Lawson triple product links plasma density, temperature and energy-confinement time; improving one variable alone does not satisfy the fusion condition. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Magnetic-inertial boundary. **Named evidence/example:** Magnetic confinement holds a lower-density plasma with magnetic fields, while inertial confinement rapidly compresses a small fuel target; the two approaches use different time and density regimes. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tokamak-stellarator boundary. **Named evidence/example:** A tokamak is a toroidal magnetic-confinement device using a strong plasma current, while a stellarator relies on externally shaped coils for steady confinement; neither term means a commercial power plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Divertor boundary. **Named evidence/example:** A divertor extracts heat, impurities and helium ash from the plasma edge; successful core confinement does not solve exhaust and component-lifetime constraints. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate fusion through scientific, engineering and commercial feasibility thresholds. Answer…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Analyse the implications of ITER success without overstating timelines or electricity output. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Schedule-status boundary. **Named evidence/example:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity.
-- Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer.
-- Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle.
-- High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement.
-- ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant.
-- ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity.
-- ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims.
-- IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms.
-- ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations.
-- A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost.
-- Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Schedule-status boundary. **Named evidence/example:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the implications of ITER success without overstating timelines or electricity output.…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Schedule-status boundary. **Named evidence/example:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-9. **Claim and named evidence:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-10. **Claim and named evidence:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-11. **Claim and named evidence:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Q-plasma boundary. **Named evidence/example:** Fusion gain Q compares fusion power produced in the plasma with external heating power injected into the plasma; Q above one is not plant-wide net electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Engineering-breakeven boundary. **Named evidence/example:** Engineering or electricity breakeven must include magnets, cryogenics, pumps, heating efficiency and thermal conversion; a machine can have favourable plasma Q while remaining a net electricity consumer. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Tritium-breeding boundary. **Named evidence/example:** Tritium is scarce and radioactive, so a future D-T plant must breed it from lithium-bearing blankets with losses and decay considered; ITER tests concepts rather than proving a closed commercial fuel cycle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Materials boundary. **Named evidence/example:** High-energy neutrons cause displacement damage, helium production and activation, while plasma-facing components face intense heat loads; material survival is separate from plasma confinement. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-purpose boundary. **Named evidence/example:** ITER is an experimental tokamak under construction to study burning-plasma conditions and integrated fusion technologies; it has no turbine and is not a commercial electricity plant. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** ITER-Q boundary. **Named evidence/example:** ITER's official design objective is 500 MW of fusion power from 50 MW of injected plasma heating, Q=10; the official page explicitly says this heat will not be converted to electricity. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Membership-contribution boundary. **Named evidence/example:** ITER has seven members, while India's participation is delivered substantially through specified in-kind procurement packages; membership share, cash cost and component delivery are different claims. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** IPR-ITERIndia boundary. **Named evidence/example:** IPR is a DAE-aided plasma-research institute, while ITER-India is the domestic agency organised as a project within IPR for procurement and delivery; research institute and project agency are not synonyms. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Schedule-status boundary. **Named evidence/example:** ITER's re-baselined research, magnetic-energy and deuterium-tritium milestones are future project targets; construction progress does not convert them into completed operations. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** DEMO-commercial boundary. **Named evidence/example:** A later DEMO-class system is intended to bridge experimentation toward electricity production, while commercial deployment additionally needs availability, licensing, fuel self-sufficiency and acceptable cost. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary. **Claim:** Volatile fusion boundary. **Named evidence/example:** Temperature, gain, pulse duration, schedule, cost, member contribution, component status and milestone claims require dated ITER, IPR or ITER-India evidence and must retain plasma-versus-plant boundaries. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, orbit, signal, mission, reactor, fuel-cycle or experimental-status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse the implications of ITER success without overstating timelines or electricity output.…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+### Original Mains 6 — 20 marks · 250 words
+**Question:** Discuss the safety and governance implications of presenting fusion as a clean-energy solution for India.
+**Model answer:** Fusion promises potential low-carbon electricity, but public policy must distinguish relative advantages from absolute safety claims. D-T fusion has no self-sustaining fission chain reaction: loss of plasma confinement stops the fusion reaction. It does not produce the same fission-product waste inventory as a commercial fission reactor. However, tritium is radioactive, can escape if poorly contained, and must be accounted for in handling and breeding systems. High-energy neutrons activate and damage structures; divertors withstand intense thermal stresses. Magnets and cryogenic infrastructure add operational and industrial hazards. Consequently, responsible governance requires exposure and containment standards, material tracking, remote maintenance, emergency preparedness and a proportionate licensing approach. A proposed fusion-specific framework should reflect the actual risk profile rather than simply copy fission rules or exempt research devices entirely. India’s IPR research and ITER-India industrial contracts create practical expertise, but technical claims should be tied to verifiable experimental stages and component delivery. An ITER Q target denotes plasma gain, not net grid electricity; dates in a construction baseline are projections, not operating records. Policy should credit learning in cryogenics, precision manufacturing and diagnostics while funding material, fuel-cycle and reliability work. Honest communication preserves trust and prevents long-term fusion ambition from displacing feasible near-term energy measures.  International cooperation can distribute costs and develop shared standards, yet accountability for an Indian laboratory, an Indian contracted component and an international project milestone remains separate. Every public communication should name the responsible institution and time-stamp any forecast.

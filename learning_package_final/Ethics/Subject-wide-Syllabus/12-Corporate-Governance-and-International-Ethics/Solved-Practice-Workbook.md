@@ -12,819 +12,1061 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+### Questions — attempt before consulting the key
+
 #### MCQ 1
 
-An Indian manufacturer runs annual ethics workshops, yet sales incentives reward concealment of product defects. Which principle exposes the weakness of this arrangement? Which source-grounded ethical principle most precisely explains the case?
+An Indian manufacturer runs annual ethics workshops, yet sales incentives reward concealment of product defects. Which principle exposes the weakness of this arrangement? What is the most defensible analysis or next step?
 
-A. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-B. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-C. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-D. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-**Answer:** A
-**Explanation:** **Ethics in business rejects a bolt-on ethics department** is the controlling principle. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Change sales incentives and product decisions, not just ethics training
+B. Complete training records and leave sales incentives unchanged in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case
+C. Delegate final defect decisions to the marketing team in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case
+D. Treat absence of a current fine as proof of ethical conduct in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case
 
 ---
 
 #### MCQ 2
 
-A listed company gives its ethics officer independent access to the board and escalation power over high-risk transactions. Which conception of business ethics is being institutionalised? Which source-grounded ethical principle most precisely explains the case?
+A listed company gives its ethics officer independent access to the board and escalation power over high-risk transactions. Which conception of business ethics is being institutionalised? What is the most defensible analysis or next step?
 
-A. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-B. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-C. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-D. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-**Answer:** B
-**Explanation:** **Ethics in business rejects a bolt-on ethics department** is the controlling principle. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Complete training records and leave sales incentives unchanged in the a listed company gives its ethics officer independent access to the board a case
+B. Give ethics oversight independent board access and transaction escalation
+C. Delegate final defect decisions to the marketing team in the a listed company gives its ethics officer independent access to the board a case
+D. Treat absence of a current fine as proof of ethical conduct in the a listed company gives its ethics officer independent access to the board a case
 
 ---
 
 #### MCQ 3
 
-A hospital chain forms an independent procurement committee, records recusals and discloses evaluation criteria. Which institutional layer is primarily being strengthened? Which source-grounded ethical principle most precisely explains the case?
+A hospital chain forms an independent procurement committee, records recusals and discloses evaluation criteria. Which institutional layer is primarily being strengthened? What is the most defensible analysis or next step?
 
-A. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-B. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-C. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-D. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-**Answer:** C
-**Explanation:** **Corporate governance concerns accountable direction and control** is the controlling principle. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Complete training records and leave sales incentives unchanged in the a hospital chain forms an independent procurement committee, records recusa case
+B. Delegate final defect decisions to the marketing team in the a hospital chain forms an independent procurement committee, records recusa case
+C. Use independent procurement, recusals and disclosed criteria
+D. Treat absence of a current fine as proof of ethical conduct in the a hospital chain forms an independent procurement committee, records recusa case
 
 ---
 
 #### MCQ 4
 
-A promoter-controlled company makes major related-party purchases without independent review. Which ethical architecture is deficient even before the transaction's price is assessed? Which source-grounded ethical principle most precisely explains the case?
+A promoter-controlled company makes major related-party purchases without independent review. Which ethical architecture is deficient even before the transaction's price is assessed? What is the most defensible analysis or next step?
 
-A. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-B. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-C. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-D. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-**Answer:** D
-**Explanation:** **Corporate governance concerns accountable direction and control** is the controlling principle. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Complete training records and leave sales incentives unchanged in the a promoter-controlled company makes major related-party purchases without i case
+B. Delegate final defect decisions to the marketing team in the a promoter-controlled company makes major related-party purchases without i case
+C. Treat absence of a current fine as proof of ethical conduct in the a promoter-controlled company makes major related-party purchases without i case
+D. Require independent scrutiny of related-party decisions before approval
 
 ---
 
 #### MCQ 5
 
-A food company funds village clinics while knowingly selling export-rejected goods domestically. Which ethical layer remains violated despite the social spending? Which source-grounded ethical principle most precisely explains the case?
+A food company funds village clinics while knowingly selling export-rejected goods domestically. Which ethical layer remains violated despite the social spending? What is the most defensible analysis or next step?
 
-A. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-B. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-C. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-D. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-**Answer:** A
-**Explanation:** **Core-business ethics concerns the means of earning profit** is the controlling principle. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Stop unsafe products; clinic donations cannot cure dangerous sales
+B. Book CSR costs as a substitute for correcting operational harm in the a food company funds village clinics while knowingly selling export-rejecte case
+C. Assume current-year revenue is the base for the required spend in the a food company funds village clinics while knowingly selling export-rejecte case
+D. Treat project choice as discretion to ignore Section 135 in the a food company funds village clinics while knowingly selling export-rejecte case
 
 ---
 
 #### MCQ 6
 
-A supplier refuses confidential rival-bid data although winning the tender would preserve jobs. Which dimension of corporate conduct controls the decision? Which source-grounded ethical principle most precisely explains the case?
+A supplier refuses confidential rival-bid data although winning the tender would preserve jobs. Which dimension of corporate conduct controls the decision? What is the most defensible analysis or next step?
 
-A. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-B. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-C. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-D. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-**Answer:** B
-**Explanation:** **Core-business ethics concerns the means of earning profit** is the controlling principle. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Book CSR costs as a substitute for correcting operational harm in the a supplier refuses confidential rival-bid data although winning the tender  case
+B. Refuse rival information despite the jobs argument
+C. Assume current-year revenue is the base for the required spend in the a supplier refuses confidential rival-bid data although winning the tender  case
+D. Treat project choice as discretion to ignore Section 135 in the a supplier refuses confidential rival-bid data although winning the tender  case
 
 ---
 
 #### MCQ 7
 
-A company meets its mandated social-spend amount but under-reports emissions from its factories. Which distinction prevents the spend from proving overall ethical performance? Which source-grounded ethical principle most precisely explains the case?
+A company meets its mandated social-spend amount but under-reports emissions from its factories. Which distinction prevents the spend from proving overall ethical performance? What is the most defensible analysis or next step?
 
-A. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-B. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-C. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-D. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-**Answer:** C
-**Explanation:** **CSR is distinct from governance structure and core conduct** is the controlling principle. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Book CSR costs as a substitute for correcting operational harm in the a company meets its mandated social-spend amount but under-reports emission case
+B. Assume current-year revenue is the base for the required spend in the a company meets its mandated social-spend amount but under-reports emission case
+C. Assess emissions honestly; CSR spend cannot offset misconduct
+D. Treat project choice as discretion to ignore Section 135 in the a company meets its mandated social-spend amount but under-reports emission case
 
 ---
 
 #### MCQ 8
 
-A board treats CSR as optional charity after the company crosses the statutory threshold. Which feature of the Indian framework corrects this claim? Which source-grounded ethical principle most precisely explains the case?
+A board treats CSR as optional charity after the company crosses the statutory threshold. Which feature of the Indian framework corrects this claim? What is the most defensible analysis or next step?
 
-A. Corporate governance is the structure through which a company is directed, supervised and held accountable, including board oversight, audit, disclosure, conflict management and scrutiny of related-party transactions.
-
-B. Core-business ethics evaluates whether revenue is earned through honest accounts, safe products, fair labour, non-bribery and environmental responsibility; philanthropy cannot cleanse unethical operations.
-
-C. The ARC preference for ethics in business requires integrity to shape ordinary pricing, procurement, labour, accounting and environmental decisions rather than remain an external public-relations or training layer.
-
-D. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance.
-
-**Answer:** D
-**Explanation:** **CSR is distinct from governance structure and core conduct** is the controlling principle. CSR is a statutory, ring-fenced expenditure and transfer regime for qualifying companies; it supplements but does not replace ethical operations, board accountability or lawful compliance. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Book CSR costs as a substitute for correcting operational harm in the a board treats csr as optional charity after the company crosses the statut case
+B. Assume current-year revenue is the base for the required spend in the a board treats csr as optional charity after the company crosses the statut case
+C. Treat project choice as discretion to ignore Section 135 in the a board treats csr as optional charity after the company crosses the statut case
+D. Apply Section 135 duties when the statutory threshold is met
 
 ---
 
 #### MCQ 9
 
-An Indian company has net profit above Rs 5 crore but falls below the net-worth and turnover figures. How should its board assess CSR applicability? Which source-grounded ethical principle most precisely explains the case?
+An Indian company has net profit above Rs 5 crore but falls below the net-worth and turnover figures. How should its board assess CSR applicability? What is the most defensible analysis or next step?
 
-A. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-B. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-C. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-D. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-**Answer:** A
-**Explanation:** **CSR applicability uses three alternative financial thresholds** is the controlling principle. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Recognise net profit of ₹5 crore as an alternative qualifying threshold
+B. Hold unspent funds in the general operating account indefinitely in the an indian company has net profit above rs 5 crore but falls below the net-w case
+C. Attribute every CSR rule change to the same amendment year in the an indian company has net profit above rs 5 crore but falls below the net-w case
+D. Count spending invoices alone without checking required project outcomes in the an indian company has net profit above rs 5 crore but falls below the net-w case
 
 ---
 
 #### MCQ 10
 
-A finance officer adds all three statutory thresholds and says every one must be crossed. Which close-option error has been made? Which source-grounded ethical principle most precisely explains the case?
+A finance officer adds all three statutory thresholds and says every one must be crossed. Which close-option error has been made? What is the most defensible analysis or next step?
 
-A. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-B. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-C. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-D. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-**Answer:** B
-**Explanation:** **CSR applicability uses three alternative financial thresholds** is the controlling principle. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Hold unspent funds in the general operating account indefinitely in the a finance officer adds all three statutory thresholds and says every one mu case
+B. Apply any one threshold, not the sum or intersection of three
+C. Attribute every CSR rule change to the same amendment year in the a finance officer adds all three statutory thresholds and says every one mu case
+D. Count spending invoices alone without checking required project outcomes in the a finance officer adds all three statutory thresholds and says every one mu case
 
 ---
 
 #### MCQ 11
 
-A newly qualifying company calculates its obligation as two percent of current turnover. Which statutory calculation has it confused? Which source-grounded ethical principle most precisely explains the case?
+A newly qualifying company calculates its obligation as two percent of current turnover. Which statutory calculation has it confused? What is the most defensible analysis or next step?
 
-A. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-B. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-C. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-D. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-**Answer:** C
-**Explanation:** **The CSR base obligation is a two-percent formula** is the controlling principle. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Hold unspent funds in the general operating account indefinitely in the a newly qualifying company calculates its obligation as two percent of curr case
+B. Attribute every CSR rule change to the same amendment year in the a newly qualifying company calculates its obligation as two percent of curr case
+C. Use 2% of average net profits of the three preceding financial years
+D. Count spending invoices alone without checking required project outcomes in the a newly qualifying company calculates its obligation as two percent of curr case
 
 ---
 
 #### MCQ 12
 
-A board says compliance is discretionary because it may choose among social projects. Which distinction between project choice and minimum obligation is decisive? Which source-grounded ethical principle most precisely explains the case?
+A board says compliance is discretionary because it may choose among social projects. Which distinction between project choice and minimum obligation is decisive? What is the most defensible analysis or next step?
 
-A. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-B. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-C. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-D. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-**Answer:** D
-**Explanation:** **The CSR base obligation is a two-percent formula** is the controlling principle. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Hold unspent funds in the general operating account indefinitely in the a board says compliance is discretionary because it may choose among social case
+B. Attribute every CSR rule change to the same amendment year in the a board says compliance is discretionary because it may choose among social case
+C. Count spending invoices alone without checking required project outcomes in the a board says compliance is discretionary because it may choose among social case
+D. Distinguish lawful choice of CSR project from the required spend
 
 ---
 
 #### MCQ 13
 
-A company leaves money for an approved multi-year sanitation project in its ordinary bank account after year-end. Which transfer distinction has it ignored? Which source-grounded ethical principle most precisely explains the case?
+A company leaves money for an approved multi-year sanitation project in its ordinary bank account after year-end. Which transfer distinction has it ignored? What is the most defensible analysis or next step?
 
-A. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-B. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-C. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-D. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-**Answer:** A
-**Explanation:** **Unspent CSR follows different ongoing and non-ongoing routes** is the controlling principle. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Transfer ongoing-project unspent sums to the Unspent CSR Account on time
+B. Assume directors always share dispersed owners’ incentives in the a company leaves money for an approved multi-year sanitation project in its case
+C. Let the promoter approve related-party purchases without scrutiny in the a company leaves money for an approved multi-year sanitation project in its case
+D. Use shareholder profit as the only admissible stakeholder claim in the a company leaves money for an approved multi-year sanitation project in its case
 
 ---
 
 #### MCQ 14
 
-A board treats every unspent amount identically although one project is ongoing and another never began. Which statutory architecture should guide it? Which source-grounded ethical principle most precisely explains the case?
+A board treats every unspent amount identically although one project is ongoing and another never began. Which statutory architecture should guide it? What is the most defensible analysis or next step?
 
-A. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-B. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-C. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-D. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-**Answer:** B
-**Explanation:** **Unspent CSR follows different ongoing and non-ongoing routes** is the controlling principle. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume directors always share dispersed owners’ incentives in the a board treats every unspent amount identically although one project is ong case
+B. Distinguish ongoing-project account from non-ongoing fund transfer
+C. Let the promoter approve related-party purchases without scrutiny in the a board treats every unspent amount identically although one project is ong case
+D. Use shareholder profit as the only admissible stakeholder claim in the a board treats every unspent amount identically although one project is ong case
 
 ---
 
 #### MCQ 15
 
-A compliance note attributes creation of the impact-assessment mandate to the 2022 amendment. Which chronology should the legal team restore? Which source-grounded ethical principle most precisely explains the case?
+A compliance note attributes creation of the impact-assessment mandate to the 2022 amendment. Which chronology should the legal team restore? What is the most defensible analysis or next step?
 
-A. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-B. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-C. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-D. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-**Answer:** C
-**Explanation:** **CSR impact assessment has a threshold and a separate cost cap** is the controlling principle. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume directors always share dispersed owners’ incentives in the a compliance note attributes creation of the impact-assessment mandate to t case
+B. Let the promoter approve related-party purchases without scrutiny in the a compliance note attributes creation of the impact-assessment mandate to t case
+C. Attribute the impact-assessment mandate to 2021, not 2022
+D. Use shareholder profit as the only admissible stakeholder claim in the a compliance note attributes creation of the impact-assessment mandate to t case
 
 ---
 
 #### MCQ 16
 
-A large CSR obligor evaluates only spending receipts and never tests completed project outcomes. Which regulatory mechanism addresses this box-ticking risk? Which source-grounded ethical principle most precisely explains the case?
+A large CSR obligor evaluates only spending receipts and never tests completed project outcomes. Which regulatory mechanism addresses this box-ticking risk? What is the most defensible analysis or next step?
 
-A. A qualifying company must spend at least two percent of the average net profits of the three immediately preceding financial years on eligible Schedule VII activities through its approved CSR framework.
-
-B. The 2019 statutory architecture requires non-ongoing unspent amounts to reach a specified Schedule VII fund within six months, while ongoing-project amounts enter an Unspent CSR Account within thirty days and remain subject to the three-year completion route.
-
-C. Companies Act, 2013, s.135 applies when any one immediately preceding-year threshold is met: net worth of at least Rs 500 crore, turnover of at least Rs 1,000 crore, or net profit of at least Rs 5 crore.
-
-D. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher.
-
-**Answer:** D
-**Explanation:** **CSR impact assessment has a threshold and a separate cost cap** is the controlling principle. The 2021 rules introduced independent impact assessment for companies with an average CSR obligation of at least Rs 10 crore and qualifying completed projects; the 2022 amendment revised the assessment-cost cap to two percent or Rs 50 lakh, whichever is higher. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assume directors always share dispersed owners’ incentives in the a large csr obligor evaluates only spending receipts and never tests comple case
+B. Let the promoter approve related-party purchases without scrutiny in the a large csr obligor evaluates only spending receipts and never tests comple case
+C. Use shareholder profit as the only admissible stakeholder claim in the a large csr obligor evaluates only spending receipts and never tests comple case
+D. Assess actual project impact when the rules require it
 
 ---
 
 #### MCQ 17
 
-Managers hide a loss-making related-party purchase from dispersed shareholders to protect bonuses. Which foundational governance problem is illustrated? Which source-grounded ethical principle most precisely explains the case?
+Managers hide a loss-making related-party purchase from dispersed shareholders to protect bonuses. Which foundational governance problem is illustrated? What is the most defensible analysis or next step?
 
-A. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-B. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-C. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-D. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-**Answer:** A
-**Explanation:** **The agency problem requires independent oversight** is the controlling principle. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Address the management-versus-owner agency problem through scrutiny
+B. Treat every fraud investigation as a single-discipline accounting task in the managers hide a loss-making related-party purchase from dispersed sharehold case
+C. Assume an opened inquiry alone authorises an arrest in the managers hide a loss-making related-party purchase from dispersed sharehold case
+D. Conflate whistleblower civil remedies with separate retaliation offences in the managers hide a loss-making related-party purchase from dispersed sharehold case
 
 ---
 
 #### MCQ 18
 
-A board creates independent audit review and requires material-interest declarations by executives. Which risk is this design intended to reduce? Which source-grounded ethical principle most precisely explains the case?
+A board creates independent audit review and requires material-interest declarations by executives. Which risk is this design intended to reduce? What is the most defensible analysis or next step?
 
-A. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-B. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-C. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-D. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-**Answer:** B
-**Explanation:** **The agency problem requires independent oversight** is the controlling principle. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every fraud investigation as a single-discipline accounting task in the a board creates independent audit review and requires material-interest dec case
+B. Use independent audit review and interest declarations to constrain agency risk
+C. Assume an opened inquiry alone authorises an arrest in the a board creates independent audit review and requires material-interest dec case
+D. Conflate whistleblower civil remedies with separate retaliation offences in the a board creates independent audit review and requires material-interest dec case
 
 ---
 
 #### MCQ 19
 
-A data-centre company considers only quarterly returns when deciding whether to honour a verified emissions-reduction commitment. Which broader ethical model is missing? Which source-grounded ethical principle most precisely explains the case?
+A data-centre company considers only quarterly returns when deciding whether to honour a verified emissions-reduction commitment. Which broader ethical model is missing? What is the most defensible analysis or next step?
 
-A. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-B. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-C. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-D. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-**Answer:** C
-**Explanation:** **Stakeholder duties extend beyond shareholder returns** is the controlling principle. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every fraud investigation as a single-discipline accounting task in the a data-centre company considers only quarterly returns when deciding whethe case
+B. Assume an opened inquiry alone authorises an arrest in the a data-centre company considers only quarterly returns when deciding whethe case
+C. Consider employees, communities and emissions as stakeholders
+D. Conflate whistleblower civil remedies with separate retaliation offences in the a data-centre company considers only quarterly returns when deciding whethe case
 
 ---
 
 #### MCQ 20
 
-A hospital procurement decision weighs patient safety, employees, competing vendors and financial sustainability, not merely promoter preference. Which model does this reflect? Which source-grounded ethical principle most precisely explains the case?
+A hospital procurement decision weighs patient safety, employees, competing vendors and financial sustainability, not merely promoter preference. Which model does this reflect? What is the most defensible analysis or next step?
 
-A. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-B. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-C. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-D. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-**Answer:** D
-**Explanation:** **Stakeholder duties extend beyond shareholder returns** is the controlling principle. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every fraud investigation as a single-discipline accounting task in the a hospital procurement decision weighs patient safety, employees, competing case
+B. Assume an opened inquiry alone authorises an arrest in the a hospital procurement decision weighs patient safety, employees, competing case
+C. Conflate whistleblower civil remedies with separate retaliation offences in the a hospital procurement decision weighs patient safety, employees, competing case
+D. Balance patient, worker and vendor interests against promoter preference
 
 ---
 
 #### MCQ 21
 
-A complex company fraud combines accounting manipulation, shell entities and digital evidence. Which institutional design responds to fragmented investigation? Which source-grounded ethical principle most precisely explains the case?
+A complex company fraud combines accounting manipulation, shell entities and digital evidence. Which institutional design responds to fragmented investigation? What is the most defensible analysis or next step?
 
-A. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-B. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-C. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-D. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-**Answer:** A
-**Explanation:** **SFIO is a statutory multidisciplinary fraud-investigation body** is the controlling principle. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use multidisciplinary SFIO processes for serious complex corporate fraud
+B. Treat a treaty as a direct private criminal prosecution in the a complex company fraud combines accounting manipulation, shell entities an case
+C. Infer OECD Convention membership from a regional action plan in the a complex company fraud combines accounting manipulation, shell entities an case
+D. Describe lender conditions as identical to State treaty obligations in the a complex company fraud combines accounting manipulation, shell entities an case
 
 ---
 
 #### MCQ 22
 
-An official says SFIO may arrest anyone merely because an inquiry has opened. Which bounded statutory formulation corrects the claim? Which source-grounded ethical principle most precisely explains the case?
+An official says SFIO may arrest anyone merely because an inquiry has opened. Which bounded statutory formulation corrects the claim? What is the most defensible analysis or next step?
 
-A. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-B. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-C. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-D. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-**Answer:** B
-**Explanation:** **SFIO is a statutory multidisciplinary fraud-investigation body** is the controlling principle. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a treaty as a direct private criminal prosecution in the an official says sfio may arrest anyone merely because an inquiry has opene case
+B. Condition any SFIO arrest on the statutory material-and-reason threshold
+C. Infer OECD Convention membership from a regional action plan in the an official says sfio may arrest anyone merely because an inquiry has opene case
+D. Describe lender conditions as identical to State treaty obligations in the an official says sfio may arrest anyone merely because an inquiry has opene case
 
 ---
 
 #### MCQ 23
 
-A training note says the ten-year criminal punishment is contained in the employee's civil-remedy provision. Which legal distinction must be restored? Which source-grounded ethical principle most precisely explains the case?
+A training note says the ten-year criminal punishment is contained in the employee's civil-remedy provision. Which legal distinction must be restored? What is the most defensible analysis or next step?
 
-A. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-B. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-C. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-D. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-**Answer:** C
-**Explanation:** **SOX civil protection and criminal retaliation are separate** is the controlling principle. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a treaty as a direct private criminal prosecution in the a training note says the ten-year criminal punishment is contained in the e case
+B. Infer OECD Convention membership from a regional action plan in the a training note says the ten-year criminal punishment is contained in the e case
+C. Separate SOX civil remedy under s.806 from criminal retaliation under s.1107
+D. Describe lender conditions as identical to State treaty obligations in the a training note says the ten-year criminal punishment is contained in the e case
 
 ---
 
 #### MCQ 24
 
-A listed company's employee seeks reinstatement after retaliation, while prosecutors assess a separate retaliatory offence. Which two-track architecture is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A listed company's employee seeks reinstatement after retaliation, while prosecutors assess a separate retaliatory offence. Which two-track architecture is illustrated? What is the most defensible analysis or next step?
 
-A. A stakeholder model treats employees, consumers, communities, the environment and future generations as legitimate constraints on profit-seeking, while a shareholder model centres duties to owners and long-term enterprise value.
-
-B. India's SFIO began by Government Resolution in 2003 and received statutory footing under Companies Act, 2013, s.211; its arrest power under s.212(8) requires material-based reason to believe guilt for the specified fraud offence.
-
-C. Separation of ownership from managerial control can let executives pursue private, short-term or concealed interests; independent boards, audit and disclosure reduce this agency problem without eliminating judgment.
-
-D. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure.
-
-**Answer:** D
-**Explanation:** **SOX civil protection and criminal retaliation are separate** is the controlling principle. Sarbanes-Oxley s.806 provides a civil whistleblower remedy under 18 U.S.C. 1514A, whereas s.1107 created the separate criminal retaliation offence under 18 U.S.C. 1513(e), carrying the stated imprisonment exposure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a treaty as a direct private criminal prosecution in the a listed company's employee seeks reinstatement after retaliation, while pr case
+B. Infer OECD Convention membership from a regional action plan in the a listed company's employee seeks reinstatement after retaliation, while pr case
+C. Describe lender conditions as identical to State treaty obligations in the a listed company's employee seeks reinstatement after retaliation, while pr case
+D. Pursue civil reinstatement and criminal retaliation issues separately
 
 ---
 
 #### MCQ 25
 
-An answer describes UNCAC as a voluntary corporate code directly prosecuting companies worldwide. Which treaty characteristic corrects the statement? Which source-grounded ethical principle most precisely explains the case?
+An answer describes UNCAC as a voluntary corporate code directly prosecuting companies worldwide. Which treaty characteristic corrects the statement? What is the most defensible analysis or next step?
 
-A. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-B. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-C. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-D. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-**Answer:** A
-**Explanation:** **UNCAC is a treaty framework for States Parties** is the controlling principle. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat UNCAC as a State-to-State anti-corruption treaty
+B. Describe the FCPA only as punishing bribe recipients in the an answer describes uncac as a voluntary corporate code directly prosecutin case
+C. Ignore an issuer’s books and controls unless a bribe is proved in the an answer describes uncac as a voluntary corporate code directly prosecutin case
+D. Conflate foreign statutory exposure with treaty ratification in the an answer describes uncac as a voluntary corporate code directly prosecutin case
 
 ---
 
 #### MCQ 26
 
-Indian officials seek cooperation in tracing cross-border corruption proceeds. Which global framework supplies the treaty-level architecture? Which source-grounded ethical principle most precisely explains the case?
+Indian officials seek cooperation in tracing cross-border corruption proceeds. Which global framework supplies the treaty-level architecture? What is the most defensible analysis or next step?
 
-A. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-B. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-C. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-D. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-**Answer:** B
-**Explanation:** **UNCAC is a treaty framework for States Parties** is the controlling principle. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Describe the FCPA only as punishing bribe recipients in the indian officials seek cooperation in tracing cross-border corruption procee case
+B. Use UNCAC cooperation and asset-recovery architecture
+C. Ignore an issuer’s books and controls unless a bribe is proved in the indian officials seek cooperation in tracing cross-border corruption procee case
+D. Conflate foreign statutory exposure with treaty ratification in the indian officials seek cooperation in tracing cross-border corruption procee case
 
 ---
 
 #### MCQ 27
 
-A policy brief infers that Indian participation in an Asia-Pacific action plan makes India party to the OECD Anti-Bribery Convention. Which distinction defeats the inference? Which source-grounded ethical principle most precisely explains the case?
+A policy brief infers that Indian participation in an Asia-Pacific action plan makes India party to the OECD Anti-Bribery Convention. Which distinction defeats the inference? What is the most defensible analysis or next step?
 
-A. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-B. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-C. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-D. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-**Answer:** C
-**Explanation:** **The ADB-OECD Action Plan is not the OECD Anti-Bribery Convention** is the controlling principle. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Describe the FCPA only as punishing bribe recipients in the a policy brief infers that indian participation in an asia-pacific action p case
+B. Ignore an issuer’s books and controls unless a bribe is proved in the a policy brief infers that indian participation in an asia-pacific action p case
+C. Distinguish ADB–OECD plan participation from OECD Convention membership
+D. Conflate foreign statutory exposure with treaty ratification in the a policy brief infers that indian participation in an asia-pacific action p case
 
 ---
 
 #### MCQ 28
 
-Officials compare peer cooperation in Asia with binding convention membership. Which status difference must remain explicit? Which source-grounded ethical principle most precisely explains the case?
+Officials compare peer cooperation in Asia with binding convention membership. Which status difference must remain explicit? What is the most defensible analysis or next step?
 
-A. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-B. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-C. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-D. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-**Answer:** D
-**Explanation:** **The ADB-OECD Action Plan is not the OECD Anti-Bribery Convention** is the controlling principle. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Describe the FCPA only as punishing bribe recipients in the officials compare peer cooperation in asia with binding convention membersh case
+B. Ignore an issuer’s books and controls unless a bribe is proved in the officials compare peer cooperation in asia with binding convention membersh case
+C. Conflate foreign statutory exposure with treaty ratification in the officials compare peer cooperation in asia with binding convention membersh case
+D. Identify peer cooperation separately from convention obligations
 
 ---
 
 #### MCQ 29
 
-A multinational records a consultant payment inaccurately even though bribery cannot yet be proved. Which additional FCPA compliance limb remains relevant? Which source-grounded ethical principle most precisely explains the case?
+A multinational records a consultant payment inaccurately even though bribery cannot yet be proved. Which additional FCPA compliance limb remains relevant? What is the most defensible analysis or next step?
 
-A. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-B. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-C. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-D. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-**Answer:** A
-**Explanation:** **FCPA combines anti-bribery and issuer accounting rules** is the controlling principle. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Check FCPA books-and-records duties as well as bribery provisions
+B. Give the donor unilateral control of recipient priorities in the a multinational records a consultant payment inaccurately even though bribe case
+C. Make urgent aid conditional on unrelated commercial access in the a multinational records a consultant payment inaccurately even though bribe case
+D. Call any transparent use-of-funds safeguard exploitation in the a multinational records a consultant payment inaccurately even though bribe case
 
 ---
 
 #### MCQ 30
 
-A compliance officer describes the FCPA only as a ban on receiving bribes. Which two errors does the official framework reveal? Which source-grounded ethical principle most precisely explains the case?
+A compliance officer describes the FCPA only as a ban on receiving bribes. Which two errors does the official framework reveal? What is the most defensible analysis or next step?
 
-A. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-B. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-C. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-D. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-**Answer:** B
-**Explanation:** **FCPA combines anti-bribery and issuer accounting rules** is the controlling principle. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Give the donor unilateral control of recipient priorities in the a compliance officer describes the fcpa only as a ban on receiving bribes case
+B. Distinguish bribe-paying controls and issuer accounting from receipt-only claims
+C. Make urgent aid conditional on unrelated commercial access in the a compliance officer describes the fcpa only as a ban on receiving bribes case
+D. Call any transparent use-of-funds safeguard exploitation in the a compliance officer describes the fcpa only as a ban on receiving bribes case
 
 ---
 
 #### MCQ 31
 
-A ministry memo calls a World Bank funding condition legally identical to UNCAC ratification. Which analytical distinction is missing? Which source-grounded ethical principle most precisely explains the case?
+A ministry memo calls a World Bank funding condition legally identical to UNCAC ratification. Which analytical distinction is missing? What is the most defensible analysis or next step?
 
-A. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-B. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-C. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-D. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-**Answer:** C
-**Explanation:** **International anti-corruption mechanisms use distinct logics** is the controlling principle. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Give the donor unilateral control of recipient priorities in the a ministry memo calls a world bank funding condition legally identical to u case
+B. Make urgent aid conditional on unrelated commercial access in the a ministry memo calls a world bank funding condition legally identical to u case
+C. Separate lender funding conditions from UNCAC treaty duties
+D. Call any transparent use-of-funds safeguard exploitation in the a ministry memo calls a world bank funding condition legally identical to u case
 
 ---
 
 #### MCQ 32
 
-An Indian company maps treaty duties, lender requirements and foreign anti-bribery exposure separately before bidding abroad. Which layered approach is demonstrated? Which source-grounded ethical principle most precisely explains the case?
+An Indian company maps treaty duties, lender requirements and foreign anti-bribery exposure separately before bidding abroad. Which layered approach is demonstrated? What is the most defensible analysis or next step?
 
-A. India endorsed the regional, non-binding ADB-OECD Anti-Corruption Action Plan in 2001, but India is not a party to the separate 1997 OECD Anti-Bribery Convention; cooperative and treaty status must not be conflated.
-
-B. The United States FCPA prohibits covered corrupt payments to foreign officials and separately requires issuers to maintain accurate books, records and adequate internal accounting controls, using an extraterritorial jurisdictional logic.
-
-C. UNCAC was adopted on 31 October 2003, entered into force on 14 December 2005, and binds States Parties through preventive, criminalisation, international-cooperation and asset-recovery obligations; India ratified it on 9 May 2011.
-
-D. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism.
-
-**Answer:** D
-**Explanation:** **International anti-corruption mechanisms use distinct logics** is the controlling principle. UNCAC uses treaty obligations, the ADB-OECD plan uses regional cooperation, lender conditions use financing leverage, and the FCPA uses domestic law with extraterritorial reach; these layers should not be collapsed into one mechanism. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Give the donor unilateral control of recipient priorities in the an indian company maps treaty duties, lender requirements and foreign anti- case
+B. Make urgent aid conditional on unrelated commercial access in the an indian company maps treaty duties, lender requirements and foreign anti- case
+C. Call any transparent use-of-funds safeguard exploitation in the an indian company maps treaty duties, lender requirements and foreign anti- case
+D. Map treaty, lender and extraterritorial statutory exposure independently
 
 ---
 
 #### MCQ 33
 
-A donor designs a rural-health programme without consulting the recipient government or affected communities. Which aid-effectiveness principle is weakened? Which source-grounded ethical principle most precisely explains the case?
+A donor designs a rural-health programme without consulting the recipient government or affected communities. Which aid-effectiveness principle is weakened? What is the most defensible analysis or next step?
 
-A. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-B. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-C. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-D. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-**Answer:** A
-**Explanation:** **Aid ethics requires recipient ownership** is the controlling principle. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Build recipient and community ownership into donor design
+B. Deliver perpetual imports without building local capacity in the a donor designs a rural-health programme without consulting the recipient g case
+C. Prioritise donor reporting over local patient outcomes in the a donor designs a rural-health programme without consulting the recipient g case
+D. Use a refugee’s citizenship alone to decide risk of persecution in the a donor designs a rural-health programme without consulting the recipient g case
 
 ---
 
 #### MCQ 34
 
-A recipient-led plan is jointly monitored by donors without dictating every policy choice. Which ethical balance is being respected? Which source-grounded ethical principle most precisely explains the case?
+A recipient-led plan is jointly monitored by donors without dictating every policy choice. Which ethical balance is being respected? What is the most defensible analysis or next step?
 
-A. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-B. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-C. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-D. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-**Answer:** B
-**Explanation:** **Aid ethics requires recipient ownership** is the controlling principle. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Deliver perpetual imports without building local capacity in the a recipient-led plan is jointly monitored by donors without dictating every case
+B. Respect recipient-led priorities with joint monitoring
+C. Prioritise donor reporting over local patient outcomes in the a recipient-led plan is jointly monitored by donors without dictating every case
+D. Use a refugee’s citizenship alone to decide risk of persecution in the a recipient-led plan is jointly monitored by donors without dictating every case
 
 ---
 
 #### MCQ 35
 
-A lender conditions disaster relief on unrelated commercial concessions. Which ethical concern arises even if the recipient urgently needs funds? Which source-grounded ethical principle most precisely explains the case?
+A lender conditions disaster relief on unrelated commercial concessions. Which ethical concern arises even if the recipient urgently needs funds? What is the most defensible analysis or next step?
 
-A. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-B. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-C. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-D. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-**Answer:** C
-**Explanation:** **Aid conditionality trades accountability against sovereignty** is the controlling principle. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Deliver perpetual imports without building local capacity in the a lender conditions disaster relief on unrelated commercial concessions case
+B. Prioritise donor reporting over local patient outcomes in the a lender conditions disaster relief on unrelated commercial concessions case
+C. Reject unrelated strategic concessions as exploitative conditionality
+D. Use a refugee’s citizenship alone to decide risk of persecution in the a lender conditions disaster relief on unrelated commercial concessions case
 
 ---
 
 #### MCQ 36
 
-A donor requires audited use of health funds and publishes the condition before disbursement. Which qualified defence of conditionality is available? Which source-grounded ethical principle most precisely explains the case?
+A donor requires audited use of health funds and publishes the condition before disbursement. Which qualified defence of conditionality is available? What is the most defensible analysis or next step?
 
-A. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-B. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-C. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-D. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-**Answer:** D
-**Explanation:** **Aid conditionality trades accountability against sovereignty** is the controlling principle. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Deliver perpetual imports without building local capacity in the a donor requires audited use of health funds and publishes the condition be case
+B. Prioritise donor reporting over local patient outcomes in the a donor requires audited use of health funds and publishes the condition be case
+C. Use a refugee’s citizenship alone to decide risk of persecution in the a donor requires audited use of health funds and publishes the condition be case
+D. Allow transparent, narrowly relevant audited use conditions
 
 ---
 
 #### MCQ 37
 
-Imported free grain repeatedly undercuts local farmers and prevents domestic procurement systems from developing. Which long-term aid risk is illustrated? Which source-grounded ethical principle most precisely explains the case?
+Imported free grain repeatedly undercuts local farmers and prevents domestic procurement systems from developing. Which long-term aid risk is illustrated? What is the most defensible analysis or next step?
 
-A. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-B. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-C. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-D. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-**Answer:** A
-**Explanation:** **Aid creates dual accountability and dependency risks** is the controlling principle. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Avoid food aid that entrenches dependence and undermines farmers
+B. Apply a claimed just cause to excuse civilian attacks in the imported free grain repeatedly undercuts local farmers and prevents domesti case
+C. Assume a provisional judicial order settles every treaty question in the imported free grain repeatedly undercuts local farmers and prevents domesti case
+D. Treat humanitarian aid as a reward for military alignment in the imported free grain repeatedly undercuts local farmers and prevents domesti case
 
 ---
 
 #### MCQ 38
 
-A health grant funds local capacity, publishes expenditure and transfers management over time. Which two ethical duties are addressed? Which source-grounded ethical principle most precisely explains the case?
+A health grant funds local capacity, publishes expenditure and transfers management over time. Which two ethical duties are addressed? What is the most defensible analysis or next step?
 
-A. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-B. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-C. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-D. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-**Answer:** B
-**Explanation:** **Aid creates dual accountability and dependency risks** is the controlling principle. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply a claimed just cause to excuse civilian attacks in the a health grant funds local capacity, publishes expenditure and transfers ma case
+B. Build local capacity and dual donor-recipient accountability
+C. Assume a provisional judicial order settles every treaty question in the a health grant funds local capacity, publishes expenditure and transfers ma case
+D. Treat humanitarian aid as a reward for military alignment in the a health grant funds local capacity, publishes expenditure and transfers ma case
 
 ---
 
 #### MCQ 39
 
-An officer says India's non-membership makes the risk of persecution ethically irrelevant. Which rights-sensitive qualification should guide review? Which source-grounded ethical principle most precisely explains the case?
+An officer says India's non-membership makes the risk of persecution ethically irrelevant. Which rights-sensitive qualification should guide review? What is the most defensible analysis or next step?
 
-A. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-B. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-C. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-D. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-**Answer:** C
-**Explanation:** **Non-refoulement requires a carefully qualified Indian answer** is the controlling principle. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply a claimed just cause to excuse civilian attacks in the an officer says india's non-membership makes the risk of persecution ethica case
+B. Assume a provisional judicial order settles every treaty question in the an officer says india's non-membership makes the risk of persecution ethica case
+C. Assess persecution risk and Article 21 dignity despite non-party status
+D. Treat humanitarian aid as a reward for military alignment in the an officer says india's non-membership makes the risk of persecution ethica case
 
 ---
 
 #### MCQ 40
 
-A legal brief presents an interim Supreme Court order as a final universal ruling on customary non-refoulement. Which boundary has been crossed? Which source-grounded ethical principle most precisely explains the case?
+A legal brief presents an interim Supreme Court order as a final universal ruling on customary non-refoulement. Which boundary has been crossed? What is the most defensible analysis or next step?
 
-A. Conditions attached to aid may protect funds, rights or reform objectives, but can also constrain sovereignty and self-determined development; ethical evaluation asks whether conditions are transparent, proportionate and connected to legitimate purposes.
-
-B. Donors are accountable for fair, effective and non-corrupt design, while recipients are accountable for transparent use; long dependence can weaken local institutions, revenue effort or markets unless aid builds capacity and an exit path.
-
-C. Recipient ownership means resource-challenged countries should lead their development priorities; donor expertise and safeguards may support but should not displace locally accountable choice or reduce aid to paternalistic control.
-
-D. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement.
-
-**Answer:** D
-**Explanation:** **Non-refoulement requires a carefully qualified Indian answer** is the controlling principle. Refugee Convention Article 33 prohibits return to threatened persecution for States Parties; India is not party to the 1951 Convention or 1967 Protocol, so Indian answers should add Article 21 protection and avoid treating an interim order as final settlement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply a claimed just cause to excuse civilian attacks in the a legal brief presents an interim supreme court order as a final universal  case
+B. Assume a provisional judicial order settles every treaty question in the a legal brief presents an interim supreme court order as a final universal  case
+C. Treat humanitarian aid as a reward for military alignment in the a legal brief presents an interim supreme court order as a final universal  case
+D. Do not treat an interim order as a final universal merits holding
 
 ---
 
 #### MCQ 41
 
-A commentator argues that a claimed just cause permits indiscriminate attacks on civilians. Which two-level war-ethics distinction rejects the claim? Which source-grounded ethical principle most precisely explains the case?
+A commentator argues that a claimed just cause permits indiscriminate attacks on civilians. Which two-level war-ethics distinction rejects the claim? What is the most defensible analysis or next step?
 
-A. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-B. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-C. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-D. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-**Answer:** A
-**Explanation:** **War ethics separates resort to force from conduct in war** is the controlling principle. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Apply civilian distinction and proportionality regardless of just cause
+B. Approve a strategic export because the government is friendly in the a commentator argues that a claimed just cause permits indiscriminate attac case
+C. Assume India ratified a treaty without checking status in the a commentator argues that a claimed just cause permits indiscriminate attac case
+D. Treat recipient assurances alone as adequate end-use due diligence in the a commentator argues that a claimed just cause permits indiscriminate attac case
 
 ---
 
 #### MCQ 42
 
-An aid organisation serves civilians on both sides while avoiding support for military objectives. Which principle enables its access? Which source-grounded ethical principle most precisely explains the case?
+An aid organisation serves civilians on both sides while avoiding support for military objectives. Which principle enables its access? What is the most defensible analysis or next step?
 
-A. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-B. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-C. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-D. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-**Answer:** B
-**Explanation:** **War ethics separates resort to force from conduct in war** is the controlling principle. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Approve a strategic export because the government is friendly in the an aid organisation serves civilians on both sides while avoiding support f case
+B. Serve civilians impartially while maintaining humanitarian independence
+C. Assume India ratified a treaty without checking status in the an aid organisation serves civilians on both sides while avoiding support f case
+D. Treat recipient assurances alone as adequate end-use due diligence in the an aid organisation serves civilians on both sides while avoiding support f case
 
 ---
 
 #### MCQ 43
 
-An Indian manufacturer is asked to export missiles to a friendly government facing credible diversion concerns. Which ethical process should precede approval? Which source-grounded ethical principle most precisely explains the case?
+An Indian manufacturer is asked to export missiles to a friendly government facing credible diversion concerns. Which ethical process should precede approval? What is the most defensible analysis or next step?
 
-A. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-B. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-C. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-D. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-**Answer:** C
-**Explanation:** **Responsible arms export requires risk assessment** is the controlling principle. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Approve a strategic export because the government is friendly in the an indian manufacturer is asked to export missiles to a friendly government case
+B. Assume India ratified a treaty without checking status in the an indian manufacturer is asked to export missiles to a friendly government case
+C. Investigate diversion, end use, civilian risk and lawful export controls
+D. Treat recipient assurances alone as adequate end-use due diligence in the an indian manufacturer is asked to export missiles to a friendly government case
 
 ---
 
 #### MCQ 44
 
-A board assumes India is legally bound as an Arms Trade Treaty party. Which caution must accompany the ethical risk assessment? Which source-grounded ethical principle most precisely explains the case?
+A board assumes India is legally bound as an Arms Trade Treaty party. Which caution must accompany the ethical risk assessment? What is the most defensible analysis or next step?
 
-A. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-B. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-C. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-D. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-**Answer:** D
-**Explanation:** **Responsible arms export requires risk assessment** is the controlling principle. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Approve a strategic export because the government is friendly in the a board assumes india is legally bound as an arms trade treaty party case
+B. Assume India ratified a treaty without checking status in the a board assumes india is legally bound as an arms trade treaty party case
+C. Treat recipient assurances alone as adequate end-use due diligence in the a board assumes india is legally bound as an arms trade treaty party case
+D. Do not assert Indian Arms Trade Treaty party status; assess risk independently
 
 ---
 
 #### MCQ 45
 
-Sneha's brother bids to supply equipment to the hospital committee she chairs. Which response best protects patients, fair competition and her professional integrity? Which source-grounded ethical principle most precisely explains the case?
+Sneha's brother bids to supply equipment to the hospital committee she chairs. Which response best protects patients, fair competition and her professional integrity? What is the most defensible analysis or next step?
 
-A. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-B. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-C. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-D. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-**Answer:** A
-**Explanation:** **Conflict disclosure normally requires recusal and independent evaluation** is the controlling principle. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Record Sneha’s conflict, recuse her and reassess tender independently
+B. Let an interested bidder’s sibling score the contract in the sneha's brother bids to supply equipment to the hospital committee she chai case
+C. Sell non-compliant goods domestically because export was denied in the sneha's brother bids to supply equipment to the hospital committee she chai case
+D. Let a charitable donation substitute for consumer-safety redress in the sneha's brother bids to supply equipment to the hospital committee she chai case
 
 ---
 
 #### MCQ 46
 
-A manager privately promises to be fair but continues scoring a sibling's bid. Which governance safeguard remains missing? Which source-grounded ethical principle most precisely explains the case?
+A manager privately promises to be fair but continues scoring a sibling's bid. Which governance safeguard remains missing? What is the most defensible analysis or next step?
 
-A. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-B. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-C. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-D. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-**Answer:** B
-**Explanation:** **Conflict disclosure normally requires recusal and independent evaluation** is the controlling principle. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let an interested bidder’s sibling score the contract in the a manager privately promises to be fair but continues scoring a sibling's b case
+B. Remove the conflicted manager from scoring a sibling’s bid
+C. Sell non-compliant goods domestically because export was denied in the a manager privately promises to be fair but continues scoring a sibling's b case
+D. Let a charitable donation substitute for consumer-safety redress in the a manager privately promises to be fair but continues scoring a sibling's b case
 
 ---
 
 #### MCQ 47
 
-A shoe company pressures its inspection team to clear an export-rejected consignment for domestic sale. Which ethical floor controls the inspector's response? Which source-grounded ethical principle most precisely explains the case?
+A shoe company pressures its inspection team to clear an export-rejected consignment for domestic sale. Which ethical floor controls the inspector's response? What is the most defensible analysis or next step?
 
-A. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
-
-B. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
-
-C. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
-
-D. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
-
-**Answer:** C
-**Explanation:** **Product safety cannot be downgraded for domestic consumers** is the controlling principle. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let an interested bidder’s sibling score the contract in the a shoe company pressures its inspection team to clear an export-rejected co case
+B. Sell non-compliant goods domestically because export was denied in the a shoe company pressures its inspection team to clear an export-rejected co case
+C. Reject the unsafe consignment, preserve findings and notify competent authorities
+D. Let a charitable donation substitute for consumer-safety redress in the a shoe company pressures its inspection team to clear an export-rejected co case
 
 ---
 
 #### MCQ 48
 
-A food company discovers domestic products violate approved health standards. Which restoration approach should accompany regulatory action? Which source-grounded ethical principle most precisely explains the case?
+A food company discovers domestic products violate approved health standards. Which restoration approach should accompany regulatory action? What is the most defensible analysis or next step?
 
-A. A responsible arms-export decision weighs end use, diversion, civilian-harm and human-rights risk, regional stability, recipient conduct, strategic necessity and monitoring; commercial gain or friendship alone cannot settle the decision.
+A. Let an interested bidder’s sibling score the contract in the a food company discovers domestic products violate approved health standard case
+B. Sell non-compliant goods domestically because export was denied in the a food company discovers domestic products violate approved health standard case
+C. Let a charitable donation substitute for consumer-safety redress in the a food company discovers domestic products violate approved health standard case
+D. Stop unsafe sales, protect consumers and remediate harm as well as report
 
-B. Where a procurement chair's close relative is a bidder, disclosure alone may not protect impartiality or its appearance; recusal, documented criteria and independent evaluation provide the proportionate governance response.
+### Separate answer key — four-option explanations
 
-C. Sovereignty and lawful resort to force concern jus ad bellum, while distinction and proportionality govern jus in bello; humanitarian neutrality protects impartial access and does not erase accountability for violations.
+#### MCQ 1 — A
 
-D. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required.
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: complete training records and leave sales incentives unchanged in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: delegate final defect decisions to the marketing team in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat absence of a current fine as proof of ethical conduct in the an indian manufacturer runs annual ethics workshops, yet sales incentives r case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
 
-**Answer:** D
-**Explanation:** **Product safety cannot be downgraded for domestic consumers** is the controlling principle. Equal human dignity, consumer safety and professional integrity prohibit diverting export-rejected or defective goods into the Indian market merely to avoid loss; independent testing, recall, disclosure and remediation are required. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is change sales incentives and product decisions, not just ethics training.
+
+---
+
+#### MCQ 2 — B
+
+- **A:** Incorrect: complete training records and leave sales incentives unchanged in the a listed company gives its ethics officer independent access to the board a case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: delegate final defect decisions to the marketing team in the a listed company gives its ethics officer independent access to the board a case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat absence of a current fine as proof of ethical conduct in the a listed company gives its ethics officer independent access to the board a case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is give ethics oversight independent board access and transaction escalation.
+
+---
+
+#### MCQ 3 — C
+
+- **A:** Incorrect: complete training records and leave sales incentives unchanged in the a hospital chain forms an independent procurement committee, records recusa case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: delegate final defect decisions to the marketing team in the a hospital chain forms an independent procurement committee, records recusa case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: treat absence of a current fine as proof of ethical conduct in the a hospital chain forms an independent procurement committee, records recusa case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is use independent procurement, recusals and disclosed criteria.
+
+---
+
+#### MCQ 4 — D
+
+- **A:** Incorrect: complete training records and leave sales incentives unchanged in the a promoter-controlled company makes major related-party purchases without i case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: delegate final defect decisions to the marketing team in the a promoter-controlled company makes major related-party purchases without i case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: treat absence of a current fine as proof of ethical conduct in the a promoter-controlled company makes major related-party purchases without i case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is require independent scrutiny of related-party decisions before approval.
+
+---
+
+#### MCQ 5 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: book csr costs as a substitute for correcting operational harm in the a food company funds village clinics while knowingly selling export-rejecte case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: assume current-year revenue is the base for the required spend in the a food company funds village clinics while knowingly selling export-rejecte case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat project choice as discretion to ignore section 135 in the a food company funds village clinics while knowingly selling export-rejecte case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is stop unsafe products; clinic donations cannot cure dangerous sales.
+
+---
+
+#### MCQ 6 — B
+
+- **A:** Incorrect: book csr costs as a substitute for correcting operational harm in the a supplier refuses confidential rival-bid data although winning the tender  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: assume current-year revenue is the base for the required spend in the a supplier refuses confidential rival-bid data although winning the tender  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat project choice as discretion to ignore section 135 in the a supplier refuses confidential rival-bid data although winning the tender  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is refuse rival information despite the jobs argument.
+
+---
+
+#### MCQ 7 — C
+
+- **A:** Incorrect: book csr costs as a substitute for correcting operational harm in the a company meets its mandated social-spend amount but under-reports emission case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume current-year revenue is the base for the required spend in the a company meets its mandated social-spend amount but under-reports emission case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: treat project choice as discretion to ignore section 135 in the a company meets its mandated social-spend amount but under-reports emission case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is assess emissions honestly; csr spend cannot offset misconduct.
+
+---
+
+#### MCQ 8 — D
+
+- **A:** Incorrect: book csr costs as a substitute for correcting operational harm in the a board treats csr as optional charity after the company crosses the statut case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume current-year revenue is the base for the required spend in the a board treats csr as optional charity after the company crosses the statut case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: treat project choice as discretion to ignore section 135 in the a board treats csr as optional charity after the company crosses the statut case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is apply section 135 duties when the statutory threshold is met.
+
+---
+
+#### MCQ 9 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: hold unspent funds in the general operating account indefinitely in the an indian company has net profit above rs 5 crore but falls below the net-w case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: attribute every csr rule change to the same amendment year in the an indian company has net profit above rs 5 crore but falls below the net-w case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: count spending invoices alone without checking required project outcomes in the an indian company has net profit above rs 5 crore but falls below the net-w case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is recognise net profit of ₹5 crore as an alternative qualifying threshold.
+
+---
+
+#### MCQ 10 — B
+
+- **A:** Incorrect: hold unspent funds in the general operating account indefinitely in the a finance officer adds all three statutory thresholds and says every one mu case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: attribute every csr rule change to the same amendment year in the a finance officer adds all three statutory thresholds and says every one mu case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: count spending invoices alone without checking required project outcomes in the a finance officer adds all three statutory thresholds and says every one mu case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is apply any one threshold, not the sum or intersection of three.
+
+---
+
+#### MCQ 11 — C
+
+- **A:** Incorrect: hold unspent funds in the general operating account indefinitely in the a newly qualifying company calculates its obligation as two percent of curr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: attribute every csr rule change to the same amendment year in the a newly qualifying company calculates its obligation as two percent of curr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: count spending invoices alone without checking required project outcomes in the a newly qualifying company calculates its obligation as two percent of curr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is use 2% of average net profits of the three preceding financial years.
+
+---
+
+#### MCQ 12 — D
+
+- **A:** Incorrect: hold unspent funds in the general operating account indefinitely in the a board says compliance is discretionary because it may choose among social case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: attribute every csr rule change to the same amendment year in the a board says compliance is discretionary because it may choose among social case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: count spending invoices alone without checking required project outcomes in the a board says compliance is discretionary because it may choose among social case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is distinguish lawful choice of csr project from the required spend.
+
+---
+
+#### MCQ 13 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: assume directors always share dispersed owners’ incentives in the a company leaves money for an approved multi-year sanitation project in its case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: let the promoter approve related-party purchases without scrutiny in the a company leaves money for an approved multi-year sanitation project in its case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: use shareholder profit as the only admissible stakeholder claim in the a company leaves money for an approved multi-year sanitation project in its case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is transfer ongoing-project unspent sums to the unspent csr account on time.
+
+---
+
+#### MCQ 14 — B
+
+- **A:** Incorrect: assume directors always share dispersed owners’ incentives in the a board treats every unspent amount identically although one project is ong case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: let the promoter approve related-party purchases without scrutiny in the a board treats every unspent amount identically although one project is ong case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: use shareholder profit as the only admissible stakeholder claim in the a board treats every unspent amount identically although one project is ong case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is distinguish ongoing-project account from non-ongoing fund transfer.
+
+---
+
+#### MCQ 15 — C
+
+- **A:** Incorrect: assume directors always share dispersed owners’ incentives in the a compliance note attributes creation of the impact-assessment mandate to t case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: let the promoter approve related-party purchases without scrutiny in the a compliance note attributes creation of the impact-assessment mandate to t case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: use shareholder profit as the only admissible stakeholder claim in the a compliance note attributes creation of the impact-assessment mandate to t case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is attribute the impact-assessment mandate to 2021, not 2022.
+
+---
+
+#### MCQ 16 — D
+
+- **A:** Incorrect: assume directors always share dispersed owners’ incentives in the a large csr obligor evaluates only spending receipts and never tests comple case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: let the promoter approve related-party purchases without scrutiny in the a large csr obligor evaluates only spending receipts and never tests comple case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: use shareholder profit as the only admissible stakeholder claim in the a large csr obligor evaluates only spending receipts and never tests comple case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is assess actual project impact when the rules require it.
+
+---
+
+#### MCQ 17 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: treat every fraud investigation as a single-discipline accounting task in the managers hide a loss-making related-party purchase from dispersed sharehold case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: assume an opened inquiry alone authorises an arrest in the managers hide a loss-making related-party purchase from dispersed sharehold case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: conflate whistleblower civil remedies with separate retaliation offences in the managers hide a loss-making related-party purchase from dispersed sharehold case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is address the management-versus-owner agency problem through scrutiny.
+
+---
+
+#### MCQ 18 — B
+
+- **A:** Incorrect: treat every fraud investigation as a single-discipline accounting task in the a board creates independent audit review and requires material-interest dec case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: assume an opened inquiry alone authorises an arrest in the a board creates independent audit review and requires material-interest dec case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: conflate whistleblower civil remedies with separate retaliation offences in the a board creates independent audit review and requires material-interest dec case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is use independent audit review and interest declarations to constrain agency risk.
+
+---
+
+#### MCQ 19 — C
+
+- **A:** Incorrect: treat every fraud investigation as a single-discipline accounting task in the a data-centre company considers only quarterly returns when deciding whethe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume an opened inquiry alone authorises an arrest in the a data-centre company considers only quarterly returns when deciding whethe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: conflate whistleblower civil remedies with separate retaliation offences in the a data-centre company considers only quarterly returns when deciding whethe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is consider employees, communities and emissions as stakeholders.
+
+---
+
+#### MCQ 20 — D
+
+- **A:** Incorrect: treat every fraud investigation as a single-discipline accounting task in the a hospital procurement decision weighs patient safety, employees, competing case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume an opened inquiry alone authorises an arrest in the a hospital procurement decision weighs patient safety, employees, competing case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: conflate whistleblower civil remedies with separate retaliation offences in the a hospital procurement decision weighs patient safety, employees, competing case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is balance patient, worker and vendor interests against promoter preference.
+
+---
+
+#### MCQ 21 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: treat a treaty as a direct private criminal prosecution in the a complex company fraud combines accounting manipulation, shell entities an case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: infer oecd convention membership from a regional action plan in the a complex company fraud combines accounting manipulation, shell entities an case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: describe lender conditions as identical to state treaty obligations in the a complex company fraud combines accounting manipulation, shell entities an case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is use multidisciplinary sfio processes for serious complex corporate fraud.
+
+---
+
+#### MCQ 22 — B
+
+- **A:** Incorrect: treat a treaty as a direct private criminal prosecution in the an official says sfio may arrest anyone merely because an inquiry has opene case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: infer oecd convention membership from a regional action plan in the an official says sfio may arrest anyone merely because an inquiry has opene case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: describe lender conditions as identical to state treaty obligations in the an official says sfio may arrest anyone merely because an inquiry has opene case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is condition any sfio arrest on the statutory material-and-reason threshold.
+
+---
+
+#### MCQ 23 — C
+
+- **A:** Incorrect: treat a treaty as a direct private criminal prosecution in the a training note says the ten-year criminal punishment is contained in the e case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: infer oecd convention membership from a regional action plan in the a training note says the ten-year criminal punishment is contained in the e case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: describe lender conditions as identical to state treaty obligations in the a training note says the ten-year criminal punishment is contained in the e case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is separate sox civil remedy under s.806 from criminal retaliation under s.1107.
+
+---
+
+#### MCQ 24 — D
+
+- **A:** Incorrect: treat a treaty as a direct private criminal prosecution in the a listed company's employee seeks reinstatement after retaliation, while pr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: infer oecd convention membership from a regional action plan in the a listed company's employee seeks reinstatement after retaliation, while pr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: describe lender conditions as identical to state treaty obligations in the a listed company's employee seeks reinstatement after retaliation, while pr case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is pursue civil reinstatement and criminal retaliation issues separately.
+
+---
+
+#### MCQ 25 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: describe the fcpa only as punishing bribe recipients in the an answer describes uncac as a voluntary corporate code directly prosecutin case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: ignore an issuer’s books and controls unless a bribe is proved in the an answer describes uncac as a voluntary corporate code directly prosecutin case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: conflate foreign statutory exposure with treaty ratification in the an answer describes uncac as a voluntary corporate code directly prosecutin case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is treat uncac as a state-to-state anti-corruption treaty.
+
+---
+
+#### MCQ 26 — B
+
+- **A:** Incorrect: describe the fcpa only as punishing bribe recipients in the indian officials seek cooperation in tracing cross-border corruption procee case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: ignore an issuer’s books and controls unless a bribe is proved in the indian officials seek cooperation in tracing cross-border corruption procee case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: conflate foreign statutory exposure with treaty ratification in the indian officials seek cooperation in tracing cross-border corruption procee case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is use uncac cooperation and asset-recovery architecture.
+
+---
+
+#### MCQ 27 — C
+
+- **A:** Incorrect: describe the fcpa only as punishing bribe recipients in the a policy brief infers that indian participation in an asia-pacific action p case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: ignore an issuer’s books and controls unless a bribe is proved in the a policy brief infers that indian participation in an asia-pacific action p case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: conflate foreign statutory exposure with treaty ratification in the a policy brief infers that indian participation in an asia-pacific action p case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is distinguish adb–oecd plan participation from oecd convention membership.
+
+---
+
+#### MCQ 28 — D
+
+- **A:** Incorrect: describe the fcpa only as punishing bribe recipients in the officials compare peer cooperation in asia with binding convention membersh case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: ignore an issuer’s books and controls unless a bribe is proved in the officials compare peer cooperation in asia with binding convention membersh case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: conflate foreign statutory exposure with treaty ratification in the officials compare peer cooperation in asia with binding convention membersh case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is identify peer cooperation separately from convention obligations.
+
+---
+
+#### MCQ 29 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: give the donor unilateral control of recipient priorities in the a multinational records a consultant payment inaccurately even though bribe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: make urgent aid conditional on unrelated commercial access in the a multinational records a consultant payment inaccurately even though bribe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: call any transparent use-of-funds safeguard exploitation in the a multinational records a consultant payment inaccurately even though bribe case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is check fcpa books-and-records duties as well as bribery provisions.
+
+---
+
+#### MCQ 30 — B
+
+- **A:** Incorrect: give the donor unilateral control of recipient priorities in the a compliance officer describes the fcpa only as a ban on receiving bribes case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: make urgent aid conditional on unrelated commercial access in the a compliance officer describes the fcpa only as a ban on receiving bribes case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: call any transparent use-of-funds safeguard exploitation in the a compliance officer describes the fcpa only as a ban on receiving bribes case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is distinguish bribe-paying controls and issuer accounting from receipt-only claims.
+
+---
+
+#### MCQ 31 — C
+
+- **A:** Incorrect: give the donor unilateral control of recipient priorities in the a ministry memo calls a world bank funding condition legally identical to u case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: make urgent aid conditional on unrelated commercial access in the a ministry memo calls a world bank funding condition legally identical to u case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: call any transparent use-of-funds safeguard exploitation in the a ministry memo calls a world bank funding condition legally identical to u case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is separate lender funding conditions from uncac treaty duties.
+
+---
+
+#### MCQ 32 — D
+
+- **A:** Incorrect: give the donor unilateral control of recipient priorities in the an indian company maps treaty duties, lender requirements and foreign anti- case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: make urgent aid conditional on unrelated commercial access in the an indian company maps treaty duties, lender requirements and foreign anti- case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: call any transparent use-of-funds safeguard exploitation in the an indian company maps treaty duties, lender requirements and foreign anti- case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is map treaty, lender and extraterritorial statutory exposure independently.
+
+---
+
+#### MCQ 33 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: deliver perpetual imports without building local capacity in the a donor designs a rural-health programme without consulting the recipient g case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: prioritise donor reporting over local patient outcomes in the a donor designs a rural-health programme without consulting the recipient g case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: use a refugee’s citizenship alone to decide risk of persecution in the a donor designs a rural-health programme without consulting the recipient g case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is build recipient and community ownership into donor design.
+
+---
+
+#### MCQ 34 — B
+
+- **A:** Incorrect: deliver perpetual imports without building local capacity in the a recipient-led plan is jointly monitored by donors without dictating every case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: prioritise donor reporting over local patient outcomes in the a recipient-led plan is jointly monitored by donors without dictating every case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: use a refugee’s citizenship alone to decide risk of persecution in the a recipient-led plan is jointly monitored by donors without dictating every case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is respect recipient-led priorities with joint monitoring.
+
+---
+
+#### MCQ 35 — C
+
+- **A:** Incorrect: deliver perpetual imports without building local capacity in the a lender conditions disaster relief on unrelated commercial concessions case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: prioritise donor reporting over local patient outcomes in the a lender conditions disaster relief on unrelated commercial concessions case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: use a refugee’s citizenship alone to decide risk of persecution in the a lender conditions disaster relief on unrelated commercial concessions case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is reject unrelated strategic concessions as exploitative conditionality.
+
+---
+
+#### MCQ 36 — D
+
+- **A:** Incorrect: deliver perpetual imports without building local capacity in the a donor requires audited use of health funds and publishes the condition be case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: prioritise donor reporting over local patient outcomes in the a donor requires audited use of health funds and publishes the condition be case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: use a refugee’s citizenship alone to decide risk of persecution in the a donor requires audited use of health funds and publishes the condition be case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is allow transparent, narrowly relevant audited use conditions.
+
+---
+
+#### MCQ 37 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: apply a claimed just cause to excuse civilian attacks in the imported free grain repeatedly undercuts local farmers and prevents domesti case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: assume a provisional judicial order settles every treaty question in the imported free grain repeatedly undercuts local farmers and prevents domesti case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat humanitarian aid as a reward for military alignment in the imported free grain repeatedly undercuts local farmers and prevents domesti case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is avoid food aid that entrenches dependence and undermines farmers.
+
+---
+
+#### MCQ 38 — B
+
+- **A:** Incorrect: apply a claimed just cause to excuse civilian attacks in the a health grant funds local capacity, publishes expenditure and transfers ma case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: assume a provisional judicial order settles every treaty question in the a health grant funds local capacity, publishes expenditure and transfers ma case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat humanitarian aid as a reward for military alignment in the a health grant funds local capacity, publishes expenditure and transfers ma case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is build local capacity and dual donor-recipient accountability.
+
+---
+
+#### MCQ 39 — C
+
+- **A:** Incorrect: apply a claimed just cause to excuse civilian attacks in the an officer says india's non-membership makes the risk of persecution ethica case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume a provisional judicial order settles every treaty question in the an officer says india's non-membership makes the risk of persecution ethica case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: treat humanitarian aid as a reward for military alignment in the an officer says india's non-membership makes the risk of persecution ethica case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is assess persecution risk and article 21 dignity despite non-party status.
+
+---
+
+#### MCQ 40 — D
+
+- **A:** Incorrect: apply a claimed just cause to excuse civilian attacks in the a legal brief presents an interim supreme court order as a final universal  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume a provisional judicial order settles every treaty question in the a legal brief presents an interim supreme court order as a final universal  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: treat humanitarian aid as a reward for military alignment in the a legal brief presents an interim supreme court order as a final universal  case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is do not treat an interim order as a final universal merits holding.
+
+---
+
+#### MCQ 41 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: approve a strategic export because the government is friendly in the a commentator argues that a claimed just cause permits indiscriminate attac case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: assume india ratified a treaty without checking status in the a commentator argues that a claimed just cause permits indiscriminate attac case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat recipient assurances alone as adequate end-use due diligence in the a commentator argues that a claimed just cause permits indiscriminate attac case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is apply civilian distinction and proportionality regardless of just cause.
+
+---
+
+#### MCQ 42 — B
+
+- **A:** Incorrect: approve a strategic export because the government is friendly in the an aid organisation serves civilians on both sides while avoiding support f case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: assume india ratified a treaty without checking status in the an aid organisation serves civilians on both sides while avoiding support f case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: treat recipient assurances alone as adequate end-use due diligence in the an aid organisation serves civilians on both sides while avoiding support f case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is serve civilians impartially while maintaining humanitarian independence.
+
+---
+
+#### MCQ 43 — C
+
+- **A:** Incorrect: approve a strategic export because the government is friendly in the an indian manufacturer is asked to export missiles to a friendly government case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume india ratified a treaty without checking status in the an indian manufacturer is asked to export missiles to a friendly government case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: treat recipient assurances alone as adequate end-use due diligence in the an indian manufacturer is asked to export missiles to a friendly government case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is investigate diversion, end use, civilian risk and lawful export controls.
+
+---
+
+#### MCQ 44 — D
+
+- **A:** Incorrect: approve a strategic export because the government is friendly in the a board assumes india is legally bound as an arms trade treaty party case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: assume india ratified a treaty without checking status in the a board assumes india is legally bound as an arms trade treaty party case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: treat recipient assurances alone as adequate end-use due diligence in the a board assumes india is legally bound as an arms trade treaty party case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is do not assert indian arms trade treaty party status; assess risk independently.
+
+---
+
+#### MCQ 45 — A
+
+- **A:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **B:** Incorrect: let an interested bidder’s sibling score the contract in the sneha's brother bids to supply equipment to the hospital committee she chai case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: sell non-compliant goods domestically because export was denied in the sneha's brother bids to supply equipment to the hospital committee she chai case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: let a charitable donation substitute for consumer-safety redress in the sneha's brother bids to supply equipment to the hospital committee she chai case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is record sneha’s conflict, recuse her and reassess tender independently.
+
+---
+
+#### MCQ 46 — B
+
+- **A:** Incorrect: let an interested bidder’s sibling score the contract in the a manager privately promises to be fair but continues scoring a sibling's b case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **C:** Incorrect: sell non-compliant goods domestically because export was denied in the a manager privately promises to be fair but continues scoring a sibling's b case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Incorrect: let a charitable donation substitute for consumer-safety redress in the a manager privately promises to be fair but continues scoring a sibling's b case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is remove the conflicted manager from scoring a sibling’s bid.
+
+---
+
+#### MCQ 47 — C
+
+- **A:** Incorrect: let an interested bidder’s sibling score the contract in the a shoe company pressures its inspection team to clear an export-rejected co case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: sell non-compliant goods domestically because export was denied in the a shoe company pressures its inspection team to clear an export-rejected co case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+- **D:** Incorrect: let a charitable donation substitute for consumer-safety redress in the a shoe company pressures its inspection team to clear an export-rejected co case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is reject the unsafe consignment, preserve findings and notify competent authorities.
+
+---
+
+#### MCQ 48 — D
+
+- **A:** Incorrect: let an interested bidder’s sibling score the contract in the a food company discovers domestic products violate approved health standard case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **B:** Incorrect: sell non-compliant goods domestically because export was denied in the a food company discovers domestic products violate approved health standard case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **C:** Incorrect: let a charitable donation substitute for consumer-safety redress in the a food company discovers domestic products violate approved health standard case confuses a separate standard or bypasses the required legal, fiduciary or humanitarian safeguard.
+- **D:** Correct: addresses the precise corporate or international institutional duty in the stated facts.
+
+**Trap:** Do not conflate CSR, governance and core operations or treaty, cooperation and conditionality; the needed move is stop unsafe sales, protect consumers and remediate harm as well as report.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,25 +1088,8 @@ India is not an Arms Trade Treaty party, so an answer should not claim treaty me
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q8: The Chairman of Bharat Missiles Ltd (BML) was watching a program on TV wherein…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8: The Chairman of Bharat Missiles Ltd (BML) was watching a program on TV wherein the Prime Minister was addressing the nation on the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8: The Chairman of Bharat Missiles Ltd (BML) was watching a program on TV wherein the Prime Minister was addressing the nation on the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q8: The Chairman of Bharat Missiles Ltd (BML) was watching a program on TV wherein…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2020 — 20 marks
 
@@ -884,26 +1109,8 @@ The ethical lesson is stakeholder governance: enterprise success can support bac
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q11: Parmal is a small but underdeveloped district. It has rocky terrain that is not…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q11: Parmal is a small but underdeveloped district. It has rocky terrain that is not suitable for agriculture, though some subsistence…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact full case and both demands verified against books\more previous papers\Gen St P4.pdf, page 10. Topic 12 owns the CSR/core-business-ethics distinction and stakeholder analysis. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q11: Parmal is a small but underdeveloped district. It has rocky terrain that is not suitable for agriculture, though some subsistence…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q11: Parmal is a small but underdeveloped district. It has rocky terrain that is not…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2021 — 10 marks
 
@@ -921,25 +1128,8 @@ India is not party to the 1951 Convention or 1967 Protocol; Indian answers shoul
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q5(a): "Refugees should not be turned back to the country where they would face…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): "Refugees should not be turned back to the country where they would face persecution or human right violation." Examine the statement…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): "Refugees should not be turned back to the country where they would face persecution or human right violation." Examine the statement…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): "Refugees should not be turned back to the country where they would face…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2021 — 20 marks
 
@@ -959,25 +1149,8 @@ The justified course prioritises safety and candour, with proportionate enforcem
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q11: A reputed food product company based in India developed a food product for the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q11: A reputed food product company based in India developed a food product for the international market and started exporting the same after…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q11: A reputed food product company based in India developed a food product for the international market and started exporting the same after…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q11: A reputed food product company based in India developed a food product for the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2022 — 10 marks
 
@@ -995,25 +1168,8 @@ States also face duties to pursue credible diplomacy and accept a just peace whe
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(a): Russia and Ukraine war has been going on for the last seven months. Different…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): Russia and Ukraine war has been going on for the last seven months. Different countries have taken independent stands and actions…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): Russia and Ukraine war has been going on for the last seven months. Different countries have taken independent stands and actions…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): Russia and Ukraine war has been going on for the last seven months. Different…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2022 — 10 marks
 
@@ -1031,25 +1187,8 @@ Therefore CSR should be judged through need assessment, participation, independe
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(b): In contemporary world, corporate sector's contribution in generating wealth…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(b): In contemporary world, corporate sector's contribution in generating wealth and employment is increasing. In doing so, they are bringing…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(b): In contemporary world, corporate sector's contribution in generating wealth and employment is increasing. In doing so, they are bringing…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(b): In contemporary world, corporate sector's contribution in generating wealth…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2022 — 20 marks
 
@@ -1069,25 +1208,8 @@ Prabhat's financial hardship is morally relevant but cannot justify making citiz
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q7: Prabhat was working as Vice President (Marketing) at Sterling Electric Ltd., a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q7: Prabhat was working as Vice President (Marketing) at Sterling Electric Ltd., a reputed multinational company. But presently the company was…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q7: Prabhat was working as Vice President (Marketing) at Sterling Electric Ltd., a reputed multinational company. But presently the company was…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q7: Prabhat was working as Vice President (Marketing) at Sterling Electric Ltd., a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2022 — 20 marks
 
@@ -1107,25 +1229,8 @@ The dilemmas are livelihood versus integrity, loyalty versus consumer safety, hi
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q10: You have done MBA from a reputed institution three years back but could not get…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10: You have done MBA from a reputed institution three years back but could not get campus placement due to COVID-19 generated recession.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10: You have done MBA from a reputed institution three years back but could not get campus placement due to COVID-19 generated recession.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q10: You have done MBA from a reputed institution three years back but could not get…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2023 — 10 marks
 
@@ -1143,26 +1248,8 @@ The two values reinforce each other when boards align incentives with long-term 
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(a): What do you understand by 'moral integrity' and 'professional efficiency' in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): What do you understand by 'moral integrity' and 'professional efficiency' in the context of corporate governance in India? Illustrate…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 12 is the direct corporate-governance owner. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): What do you understand by 'moral integrity' and 'professional efficiency' in the context of corporate governance in India? Illustrate…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): What do you understand by 'moral integrity' and 'professional efficiency' in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2023 — 10 marks
 
@@ -1180,26 +1267,8 @@ Aid is therefore ethical when it is transparent, participatory, proportionate, c
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **comment** requires a direct position on “GS-IV Q1(b): 'International aid' is an accepted form of helping 'resource-challenged'…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'International aid' is an accepted form of helping 'resource-challenged' nations. Comment on 'ethics in contemporary international aid'.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 2. Topic 12 owns international aid ethics. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'International aid' is an accepted form of helping 'resource-challenged' nations. Comment on 'ethics in contemporary international aid'.…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(b): 'International aid' is an accepted form of helping 'resource-challenged'…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2024 — 20 marks
 
@@ -1219,25 +1288,8 @@ Sneha should justify her course as protection of both substance and appearance o
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q10: Sneha is a Senior Manager working for a big (reputed) hospital chain in a mid-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10: Sneha is a Senior Manager working for a big (reputed) hospital chain in a mid-sized city. She has been made in-charge of the new super…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10: Sneha is a Senior Manager working for a big (reputed) hospital chain in a mid-sized city. She has been made in-charge of the new super…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q10: Sneha is a Senior Manager working for a big (reputed) hospital chain in a mid-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 12 — 2025 — 10 marks
 
@@ -1257,26 +1309,68 @@ The statement is therefore descriptively powerful but normatively incomplete. Re
 
 ---
 
+#### Additional routed GS-IV demand — 2026 Q2(b), national security and human rights
+
+**Question (verified topic paraphrase, not an official quotation):** How should a State balance national security with human rights?
+
+**Source / ownership:** Canonical Basic 12, Section 11B, identifies GS-IV 2026 Section A Q2(b), 10 marks, as the direct owner.
+
+**Model solution**
+
+Security protects persons and constitutional government; it does not suspend the State’s duty to protect the same persons’ dignity. First distinguish ordinary *limitation* from exceptional *derogation*. Speech and movement may be restricted under lawful, reasoned, proportionate measures; privacy interferences require legality, a legitimate aim, necessity, balancing and safeguards (*Puttaswamy*). A blanket indefinite network suspension in a disturbed district fails where targeted, reviewable restrictions could work; *Anuradha Bhasin* requires publication and review of restriction orders. ICCPR Article 4 allows emergency derogation only in officially proclaimed, strictly required circumstances and does not permit derogation from its enumerated core, including torture prohibition. In India, Article 21’s fair procedure and applicable Article 22 detention safeguards remain central. Record evidence, minimise duration and geographic scope, provide independent oversight and effective remedies. Neither security absolutism nor an automatic veto of every protective restriction is defensible: the State must justify each measure and bear scrutiny as threats and evidence change.
+
+**Why this earns marks:** Differentiates limitation from derogation, names the applicable constitutional and treaty floors, tests necessity and less restrictive means, and specifies review and remedy.
+
+---
+
+#### Additional routed GS-IV demand — 2026 Q3(c), just intent and arms
+
+**Question (verified line and route):** Examine the ethical claim “the arms are fair when the intent of bearing them is just.”
+
+**Source / ownership:** Canonical Basic 12, Section 11A, verifies the 2026 GS-IV Section A Q3(c) quotation against *Henry IV, Part 1*, Act 5, scene 2, in the Folger edition; the line is spoken by Hotspur, not a statement of Shakespeare’s own conclusion.
+
+**Model solution**
+
+Good intention matters: it distinguishes sincere defence from predatory conquest. But a rebel who sincerely believes his cause just cannot grant himself public authority. In the play Hotspur makes the claim after Worcester withholds a peaceful offer from the King: his conviction rests on incomplete facts. Just-war appraisal also asks for an objectively just cause, legitimate authority, last resort and proportionate ends. Even a State defending itself may not attack civilians indiscriminately: *jus in bello* distinction, military necessity and proportionality constrain conduct independently of *jus ad bellum*. Foreseen civilian harm is not automatically excused by a declared good end; double effect rejects making the harm the means to the intended good and requires proportionate justification. If sincerity alone settled permissibility, adversaries could each pronounce their own cause just and license unlimited force. A defensible State tests its reasons against evidence, available peaceful alternatives and the law of armed conflict. Right intent is necessary to moral appraisal, but neither sufficient legal authority nor a substitute for civilian protection.
+
+**Why this earns marks:** Attributes the quotation correctly, tests incomplete information and legitimate authority, separates resort to force from conduct in war, and rejects the sincere-aggressor symmetry trap.
+
+---
+
+#### Additional routed GS-IV demand — 2026 Q5(b), ethics and strategic interest
+
+**Question (topic-level paraphrase):** Is ethics inevitably subordinated to strategic interests in international relations?
+
+**Source / ownership:** Canonical Basic 12, Section 11C, identifies the 2026 GS-IV Section A Q5(b) route (10 marks). This paraphrase is not represented as exact paper wording.
+
+**Model solution**
+
+States owe a fiduciary duty to protect citizens in an international order without a single central authority; strategic prudence is real. But subjugating ethics to short-term advantage misunderstands both. Morgenthau’s realism mediates moral principles through circumstances and consequences rather than excluding them. Humanitarian law, treaty duties and independent scrutiny make indiscriminate conduct costly; reliable conduct can also earn durable cooperation. Walzer’s “dirty hands” distinguishes a tragic exception whose moral residue is acknowledged from redefining an avoidable wrong as virtuous. An Indian official should weigh a proposed arms export for defence and employment against civilian harm, diversion and the buyer’s opportunity costs, test lawful controls, and publish non-sensitive reasons subject to review. Article 51 of the Constitution directs the State to promote peace, just relations and respect for international law and treaty obligations; it does not abolish strategic autonomy. Ethics is neither a veto of all interests nor window dressing: justified interests must be pursued with limits, evidence and responsibility for foreseeable harm.
+
+**Why this earns marks:** Separates prudent mediation from moral surrender, names realism’s limitation and Walzer’s residual wrong, and gives an Indian constitutional and arms-export application.
+
+---
+
+#### Additional routed GS-IV case demand — 2026 Q12, competing arms buyers
+
+**Question (topic-level paraphrase):** A defence-company sales head must choose between two buyer countries; due diligence at each stage is pivotal. Assess alternatives, select a justified course and specify safeguards.
+
+**Source / ownership:** Canonical Basic 12, Section 11D, identifies the 2026 GS-IV Section B Q12 route (20 marks). Exact buyer characteristics are not available in this canonical summary, so the answer gives a conditional comparison rather than inventing country facts.
+
+**Model solution**
+
+**Stakeholders/duties:** Civilians and armed forces in each buyer country, Indian workers, taxpayers, the firm, export authorities and affected neighbouring states have distinct claims. Employment and strategic partnership matter, but cannot override an applicable export prohibition or credible, unmitigated risk of atrocity or diversion.
+
+**Options and consequences:** Sell to the more lucrative buyer without checks (revenue now, foreseeable civilian harm and future complicity); refuse both (avoids transfer risk but loses a potentially lawful defensive sale and jobs); assess both under identical legal and ethical criteria, authorise only a buyer who passes the legal floor and independently verified risk review, or defer/decline both if neither qualifies. Select the third conditionally; no particular country is asserted to qualify on the unprovided facts.
+
+**Execution:** The sales head should disclose conflicts, preserve records, seek the competent DGFT/SCOMET and defence-related permissions as applicable, and check sanctions, declared end user, credible humanitarian-law record, civilian risk, re-transfer likelihood, declared defensive purpose and impact on the buyer’s essential public spending. Require independent verification, end-use restrictions, contract audit access, staged delivery, diversion reporting and suspension clauses. Consult export-control and security authorities; avoid publishing classified technical details while recording reviewable reasons. The strongest objection is that delay costs a legitimate partner and Indian jobs. Fast-track lawful verification and review milestones, not risk standards. Post-sale diversion remains possible; periodic monitoring and a credible stop-supply trigger address that residual risk. An export cleared on paper but incapable of monitored compliance should not proceed.
+
+**Why this earns marks:** Gives a stakeholder matrix in prose, three real options with consequences, a conditional decision, competent authority, due diligence at every stage and a residual-risk trigger without fabricating buyer facts or claiming India is an Arms Trade Treaty party.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **analyse** requires a direct position on “GS-IV Q2(a): Carl von Clausewitz once said, "War is a diplomacy by other means." Critically…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): Carl von Clausewitz once said, "War is a diplomacy by other means." Critically analyse the above statement in the present context of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated Q2(a) verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2. Q2(b) on environmental clearance in sensitive border areas belongs to Topic 13 and is not reproduced here. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): Carl von Clausewitz once said, "War is a diplomacy by other means." Critically analyse the above statement in the present context of…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): Carl von Clausewitz once said, "War is a diplomacy by other means." Critically…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1292,25 +1386,8 @@ The three layers should reinforce one another: governance structures detect and 
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish corporate governance, core-business ethics and Corporate Social Responsibility.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish corporate governance, core-business ethics and Corporate Social Responsibility. Why does conflating them encourage compliance theatre?…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish corporate governance, core-business ethics and Corporate Social Responsibility. Why does conflating them encourage compliance theatre?…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish corporate governance, core-business ethics and Corporate Social Responsibility.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1326,25 +1403,8 @@ A layered answer prevents overclaiming. Treaty membership does not itself guaran
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why international anti-corruption architecture should be understood as layered…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain why international anti-corruption architecture should be understood as layered rather than singular. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain why international anti-corruption architecture should be understood as layered rather than singular. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain why international anti-corruption architecture should be understood as layered…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1362,25 +1422,8 @@ CSR is therefore an enforceable social-spend floor, not proof of ethical busines
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine India's statutory CSR architecture as a social-spend floor and assess…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Critically examine India's statutory CSR architecture as a social-spend floor and assess its capacity to prevent greenwashing. Answer in about 200…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Critically examine India's statutory CSR architecture as a social-spend floor and assess its capacity to prevent greenwashing. Answer in about 200…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Critically examine India's statutory CSR architecture as a social-spend floor and assess…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1398,25 +1441,8 @@ The balanced design is recipient-led, corruption-resistant and capacity-building
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “International aid must reconcile ownership, conditionality, dependency and dual…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “International aid must reconcile ownership, conditionality, dependency and dual accountability. Discuss with suitable examples. Answer in about 200…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “International aid must reconcile ownership, conditionality, dependency and dual accountability. Discuss with suitable examples. Answer in about 200…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “International aid must reconcile ownership, conditionality, dependency and dual…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1436,25 +1462,8 @@ The recommendation joins deontological respect for fair rules, consequential pro
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “An Indian listed company is offered confidential technical and price data belonging to a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “An Indian listed company is offered confidential technical and price data belonging to a rival bidder for a strategic public contract. Accepting it…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “An Indian listed company is offered confidential technical and price data belonging to a rival bidder for a strategic public contract. Accepting it…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “An Indian listed company is offered confidential technical and price data belonging to a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1473,21 +1482,3 @@ Longer-term support should follow recipient-owned recovery priorities, use local
 This compact preserves dual accountability without treating sovereignty as immunity from scrutiny or aid as a licence for coercion. Neutrality, proportionality, transparency and local agency make solidarity ethically credible.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “A humanitarian donor offers urgent climate-disaster assistance to an Indian Ocean island…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A humanitarian donor offers urgent climate-disaster assistance to an Indian Ocean island state but ties it to unrelated procurement preferences,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A humanitarian donor offers urgent climate-disaster assistance to an Indian Ocean island state but ties it to unrelated procurement preferences,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A humanitarian donor offers urgent climate-disaster assistance to an Indian Ocean island…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

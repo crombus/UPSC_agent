@@ -10,8 +10,9 @@ topic_key: economy-topic-08-securities-bonds-equity-derivatives-investment-funds
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original MCQs cover claims, bond mathematics, equity ratios, derivatives, funds, regulation
-and systemic risk. Correct options rotate A -> B -> C -> D eight times.
+The original 32 questions are retained. Additional close-option questions test distinct source and
+PYQ gaps. Attempt the entire question section before consulting the separately numbered solutions;
+the correct options follow A → B → C → D.
 
 ### MCQ 1
 
@@ -21,17 +22,6 @@ Which statement most accurately distinguishes a bond from an ordinary equity sha
 - B. Both are ownership claims with identical voting rights
 - C. Equity promises principal repayment at a fixed maturity
 - D. A bondholder is always paid in full before every other claimant
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Debt-equity classification begins with legal claim, payment obligation and residual status.
-- **B - Incorrect:** Bondholders are creditors and ordinarily do not possess the voting position of ordinary shareholders.
-- **C - Incorrect:** Ordinary equity has no contractual maturity or promised redemption of principal.
-- **D - Incorrect:** Priority is relative and actual recovery depends on security, seniority, assets and insolvency law.
-
-**Examiner trap 1:** Do not convert relative repayment priority into a guarantee of full recovery.
 
 ### MCQ 2
 
@@ -43,21 +33,10 @@ Consider the following statements:
 
 Which statements are correct?
 
-- A. 1 only
-- B. 1 and 2 only
-- C. 2 and 3 only
-- D. 1, 2 and 3
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Statement 2 also correctly identifies the lower priority of subordinated debt.
-- **B - Correct:** Security and seniority are separate dimensions, and neither listing nor rating assures repayment.
-- **C - Incorrect:** Statement 1 is correct, while exchange listing does not create a sovereign guarantee.
-- **D - Incorrect:** The first two are contractual distinctions; statement 3 invents a guarantee unrelated to listing.
-
-**Examiner trap 2:** Listed, secured, senior and guaranteed are four different attributes.
+- A. Only the collateral statement
+- B. The collateral and debt-ranking statements, but not the listing guarantee
+- C. The ranking and sovereign-guarantee statements, but not the collateral statement
+- D. All three bond-security, ranking and guarantee statements
 
 ### MCQ 3
 
@@ -68,17 +47,6 @@ A bond's coupon rate is best defined as:
 - C. Annual contractual coupon divided by face value
 - D. The bond's annual capital gain divided by issue price
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That calculation is current yield rather than coupon rate.
-- **B - Incorrect:** That is yield to maturity under its assumptions.
-- **C - Correct:** The coupon rate is written into the contract against face value and can differ from market-based yields.
-- **D - Incorrect:** Capital gain is not the contractual coupon calculation.
-
-**Examiner trap 3:** Coupon rate does not automatically equal current yield or realised return.
-
 ### MCQ 4
 
 Why does the market price of a plain fixed-coupon bond generally fall when required yield rises?
@@ -87,17 +55,6 @@ Why does the market price of a plain fixed-coupon bond generally fall when requi
 - B. The bond's face value rises above redemption value
 - C. Every rise in yield proves immediate issuer default
 - D. A higher discount rate lowers the present value of fixed promised cash flows
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** A fixed coupon does not reset merely because market yields move.
-- **B - Incorrect:** Face and redemption terms ordinarily remain contractual constants.
-- **C - Incorrect:** Interest-rate repricing can occur without a change in creditworthiness.
-- **D - Correct:** Present-value discounting produces the inverse relationship for fixed cash flows.
-
-**Examiner trap 4:** A yield move can reflect benchmark rates, credit spreads or liquidity; identify the driver.
 
 ### MCQ 5
 
@@ -108,17 +65,6 @@ A bond pays an annual coupon of Rs 8 and trades at Rs 80. Its current yield is:
 - C. 12.5 per cent
 - D. Impossible without knowing maturity
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Current yield equals 8 divided by 80 multiplied by 100.
-- **B - Incorrect:** Eight per cent would be the coupon rate if face value were Rs 100.
-- **C - Incorrect:** This reverses the numerator and denominator of the current-yield formula.
-- **D - Incorrect:** Maturity is required for YTM but not for annual coupon divided by market price.
-
-**Examiner trap 5:** Current yield omits redemption gain or loss and reinvestment.
-
 ### MCQ 6
 
 Which statement about duration is correct?
@@ -127,21 +73,10 @@ Which statement about duration is correct?
 2. Longer duration generally means greater interest-rate sensitivity.
 3. Duration is the probability of issuer default.
 
-- A. 1 only
-- B. 1 and 2 only
-- C. 2 and 3 only
-- D. 1, 2 and 3
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Statement 2 follows directly from duration as a sensitivity measure.
-- **B - Correct:** Duration measures cash-flow timing and local price sensitivity, while convexity refines the estimate.
-- **C - Incorrect:** Statement 3 confuses market-rate sensitivity with credit analysis.
-- **D - Incorrect:** The first two are correct; duration does not estimate default probability.
-
-**Examiner trap 6:** Maturity and duration are related but not identical.
+- A. Only the approximation of price sensitivity
+- B. The sensitivity approximation and the longer-duration implication
+- C. The longer-duration implication and the alleged default-probability definition
+- D. All three claims about sensitivity and default probability
 
 ### MCQ 7
 
@@ -152,17 +87,6 @@ Which risk arises when coupon cash flows must be reinvested at an uncertain futu
 - C. Reinvestment risk
 - D. Custody risk
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That concerns one transaction leg completing without the other.
-- **B - Incorrect:** Dilution concerns an expanding equity base or conversion into shares.
-- **C - Correct:** Reinvestment risk changes the realised compound return even when promised coupons are paid.
-- **D - Incorrect:** Custody risk concerns safekeeping and ownership records, not future coupon rates.
-
-**Examiner trap 7:** Falling rates can raise bond prices while lowering reinvestment income.
-
 ### MCQ 8
 
 A zero-coupon bond ordinarily:
@@ -171,17 +95,6 @@ A zero-coupon bond ordinarily:
 - B. Pays inflation compensation every month
 - C. Allows the holder to demand early redemption in every case
 - D. Makes no periodic coupon payment and is issued below redemption value
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That describes a floating-rate bond.
-- **B - Incorrect:** Inflation indexation is a separate cash-flow feature.
-- **C - Incorrect:** A put right must be expressly embedded in the contract.
-- **D - Correct:** The investor's return arises from the discount-to-redemption difference, subject to credit and market risk.
-
-**Examiner trap 8:** Zero coupon does not mean zero yield or zero duration.
 
 ### MCQ 9
 
@@ -192,17 +105,6 @@ A floating-rate bond most directly reduces:
 - C. All basis risk
 - D. All inflation risk for every investor
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Periodic benchmark resets pull the coupon toward market conditions, though spread and reset risks remain.
-- **B - Incorrect:** Coupon reset cannot restore an insolvent issuer's capacity.
-- **C - Incorrect:** The bond may reset against a benchmark different from the investor's liability exposure.
-- **D - Incorrect:** A floating benchmark is not necessarily the investor's inflation index.
-
-**Examiner trap 9:** Floating rate is not fixed purchasing-power protection.
-
 ### MCQ 10
 
 Inflation-indexed bonds are designed primarily to:
@@ -211,17 +113,6 @@ Inflation-indexed bonds are designed primarily to:
 - B. Link specified principal or coupon cash flows to a stated inflation index
 - C. Eliminate issuer credit risk
 - D. Convert debt automatically into equity
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Tax, price, liquidity and indexation-lag effects can still reduce realised return.
-- **B - Correct:** Indexation reallocates measured-inflation risk according to the contract.
-- **C - Incorrect:** Indexation changes purchasing-power exposure, not the issuer's ability to pay.
-- **D - Incorrect:** Conversion is a separate embedded option.
-
-**Examiner trap 10:** Protection is only as broad as the indexed component and chosen price index.
 
 ### MCQ 11
 
@@ -232,17 +123,6 @@ Which option is correctly matched?
 - C. Callable bond — issuer may redeem early under stated terms
 - D. Callable bond — investor is guaranteed reinvestment at the old coupon
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** A put right belongs to the investor, not the issuer.
-- **B - Incorrect:** Conversion is precisely the contractual route from debt into equity.
-- **C - Correct:** The issuer owns the call; the investor owns the put; conversion changes the claim.
-- **D - Incorrect:** Calling often exposes the investor to lower-rate reinvestment risk.
-
-**Examiner trap 11:** Optional exercise depends on the contract and should not be assumed automatic.
-
 ### MCQ 12
 
 Why may a convertible bond carry a lower coupon than an otherwise similar plain bond?
@@ -252,17 +132,6 @@ Why may a convertible bond carry a lower coupon than an otherwise similar plain 
 - C. The coupon is paid by the stock exchange
 - D. The conversion option gives the investor potential equity upside
 
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Before conversion the instrument retains issuer credit exposure.
-- **B - Incorrect:** Convertibility does not itself create collateral.
-- **C - Incorrect:** The issuer remains responsible for contractual bond payments.
-- **D - Correct:** The investor may accept less coupon in exchange for the embedded option's value.
-
-**Examiner trap 12:** Convertible means eligible to convert under terms, not already converted.
-
 ### MCQ 13
 
 The defining characteristic of a Masala bond is that it is:
@@ -271,17 +140,6 @@ The defining characteristic of a Masala bond is that it is:
 - B. Foreign-currency debt issued only within India
 - C. A Government of India inflation-indexed security
 - D. A green bond certified by SEBI
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Rupee denomination places direct INR currency movement on the overseas investor.
-- **B - Incorrect:** That reverses both denomination and issuance location.
-- **C - Incorrect:** Masala bonds are an external-borrowing category, not necessarily sovereign or indexed.
-- **D - Incorrect:** Use of proceeds and currency denomination are independent features.
-
-**Examiner trap 13:** Current ECB eligibility and maturity rules must be checked rather than inferred from the nickname.
 
 ### MCQ 14
 
@@ -293,21 +151,10 @@ Consider the following statements about a listed green debt security:
 
 Which statements are correct?
 
-- A. 1 only
-- B. 1 and 2 only
-- C. 2 and 3 only
-- D. 1, 2 and 3
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Statement 2 reflects the disclosure and reporting logic of SEBI's green-debt framework.
-- **B - Correct:** SEBI's 6 February 2023 framework links the label to use, tracking and disclosure of proceeds.
-- **C - Incorrect:** Statement 1 defines the use-of-proceeds character, while statement 3 is false.
-- **D - Incorrect:** A green label does not improve issuer solvency or create a repayment guarantee.
-
-**Examiner trap 14:** Environmental integrity and credit quality are separate tests.
+- A. Only the use-of-proceeds statement
+- B. The eligible-use and additional-disclosure statements
+- C. The extra-disclosure and guaranteed-repayment statements
+- D. All three claims about green use, disclosure and guarantee
 
 ### MCQ 15
 
@@ -318,17 +165,6 @@ Which return to an ordinary equity shareholder is contractual in the same way as
 - C. None; dividend and capital gain are not contractually fixed
 - D. Repayment of issue price on a fixed maturity date
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Profit does not automatically require a dividend declaration.
-- **B - Incorrect:** Market price can rise or fall and no minimum gain is promised.
-- **C - Correct:** Equity is a residual claim; its return depends on enterprise performance, payout and market valuation.
-- **D - Incorrect:** Ordinary shares have no bond-like maturity redemption.
-
-**Examiner trap 15:** Ownership gives residual upside but not a promised periodic payment.
-
 ### MCQ 16
 
 A company's share price is Rs 50 and it has 20 crore shares outstanding. Its market capitalisation is:
@@ -337,17 +173,6 @@ A company's share price is Rs 50 and it has 20 crore shares outstanding. Its mar
 - B. Rs 70 crore
 - C. Cannot be calculated without EPS
 - D. Rs 1,000 crore
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** This divides rather than multiplies price by shares.
-- **B - Incorrect:** Adding price and share count has no valuation meaning.
-- **C - Incorrect:** Market capitalisation needs price and shares outstanding, not earnings.
-- **D - Correct:** Market capitalisation equals 50 multiplied by 20 crore shares.
-
-**Examiner trap 16:** A stock split can change price and share count without mechanically changing total market value.
 
 ### MCQ 17
 
@@ -358,17 +183,6 @@ Earnings per share should ordinarily use:
 - C. Dividend divided by face value
 - D. Market capitalisation divided by book debt
 
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Weighted-average shares account for changes in the equity base during the reporting period.
-- **B - Incorrect:** Revenue and market price do not define accounting earnings per share.
-- **C - Incorrect:** That resembles a dividend-rate calculation, not EPS.
-- **D - Incorrect:** This ratio does not allocate profit across shares.
-
-**Examiner trap 17:** Basic and diluted EPS can differ because potential shares affect the denominator.
-
 ### MCQ 18
 
 A low P-E ratio by itself proves that a share is undervalued. This statement is:
@@ -377,17 +191,6 @@ A low P-E ratio by itself proves that a share is undervalued. This statement is:
 - B. Incorrect because earnings quality, cyclicality, growth and risk also matter
 - C. Correct whenever dividend yield is positive
 - D. Incorrect only for government companies
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Price must be assessed against sustainable cash flow, assets, growth and risk.
-- **B - Correct:** P-E is a comparison lens rather than an automatic investment conclusion.
-- **C - Incorrect:** Dividend policy does not validate the earnings multiple.
-- **D - Incorrect:** The limitation applies across ownership forms and sectors.
-
-**Examiner trap 18:** Negative or temporarily inflated earnings can make P-E misleading.
 
 ### MCQ 19
 
@@ -398,21 +201,10 @@ Which statement about preference shares is correct?
 3. They always rank ahead of secured creditors.
 
 
-- A. 1 only
-- B. 2 and 3 only
-- C. 1 and 2 only
-- D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Statement 2 is also correct despite debt-like economic features.
-- **B - Incorrect:** Statement 1 is correct, while creditor priority ordinarily precedes preference capital.
-- **C - Correct:** Preference shares combine preferential economic rights with legal equity status.
-- **D - Incorrect:** Statement 3 wrongly places share capital above secured creditor claims.
-
-**Examiner trap 19:** Fixed-looking preference dividends do not automatically make the instrument a bond.
+- A. Only the preferential-rights statement
+- B. Legal share-capital status and secured-creditor superiority only
+- C. Preferential rights and legal share-capital status only
+- D. All three claims about preferences, status and creditor priority
 
 ### MCQ 20
 
@@ -423,17 +215,6 @@ A derivative's value is derived primarily from:
 - C. A guaranteed return set by the regulator
 - D. An underlying asset, rate, index or event specified in the contract
 
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Derivatives can reference rates, currencies, commodities and indices as well as shares.
-- **B - Incorrect:** Margin supports performance but does not define the underlying payoff.
-- **C - Incorrect:** Regulators set conduct and risk controls, not guaranteed derivative profit.
-- **D - Correct:** The contract maps changes in an underlying into gains, losses or cash-flow exchanges.
-
-**Examiner trap 20:** Notional exposure can be much larger than initial cash paid.
-
 ### MCQ 21
 
 Which statement correctly distinguishes futures from forwards?
@@ -442,17 +223,6 @@ Which statement correctly distinguishes futures from forwards?
 - B. Only forwards create obligations for both sides
 - C. Futures have no counterparty-risk controls
 - D. Forwards are necessarily illegal in India
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Venue and standardisation alter liquidity, margining and counterparty structure.
-- **B - Incorrect:** Both forwards and futures create symmetric obligations.
-- **C - Incorrect:** Margins, mark-to-market and CCP clearing are core controls.
-- **D - Incorrect:** Specified OTC forwards operate under regulatory frameworks.
-
-**Examiner trap 21:** Customisation can reduce basis risk while increasing bilateral complexity.
 
 ### MCQ 22
 
@@ -463,17 +233,6 @@ A call-option buyer has the right to:
 - C. Receive every gain without paying a premium
 - D. Force the writer to exercise against the buyer
 
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That is the right provided by a put option.
-- **B - Correct:** A long call's intrinsic value is positive when spot exceeds strike.
-- **C - Incorrect:** The option premium affects net payoff and break-even.
-- **D - Incorrect:** Exercise choice belongs to the buyer, not the writer.
-
-**Examiner trap 22:** The buyer's limited premium loss does not apply to an uncovered writer.
-
 ### MCQ 23
 
 A put-option buyer's payoff before premium is best represented by:
@@ -482,17 +241,6 @@ A put-option buyer's payoff before premium is best represented by:
 - B. Spot plus strike in every state
 - C. Maximum of strike minus spot and zero
 - D. The option premium multiplied by the notional
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That is the intrinsic payoff of a call buyer.
-- **B - Incorrect:** Option payoff is contingent, not a simple sum.
-- **C - Correct:** A put protects against price falling below strike, with net profit reduced by premium.
-- **D - Incorrect:** Premium is cost, not the intrinsic payoff formula.
-
-**Examiner trap 23:** Strike is not break-even because premium must be recovered.
 
 ### MCQ 24
 
@@ -503,17 +251,6 @@ An interest-rate swap commonly involves:
 - C. Guaranteed elimination of all basis and counterparty risk
 - D. Exchange of fixed and floating interest cash-flow streams on a reference notional
 
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** The original financing can remain in place while exposure is transformed.
-- **B - Incorrect:** A swap is a derivative contract, not reciprocal equity issuance.
-- **C - Incorrect:** Benchmark mismatch and default exposure can remain.
-- **D - Correct:** The notional commonly calculates payments and need not itself be exchanged.
-
-**Examiner trap 24:** Do not confuse a derivative swap with a central-bank currency swap line.
-
 ### MCQ 25
 
 Which activity is a hedge?
@@ -522,17 +259,6 @@ Which activity is a hedge?
 - B. A trader without exposure sells index futures to profit from a fall
 - C. An investor buys unrelated options because volatility may rise
 - D. A broker circulates matched orders to create false volume
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** The derivative offsets a pre-existing currency exposure in amount and direction.
-- **B - Incorrect:** That creates a directional speculative position.
-- **C - Incorrect:** Without an offsetting exposure this is speculation.
-- **D - Incorrect:** That is manipulative conduct, not risk reduction.
-
-**Examiner trap 25:** A mismatched tenor or quantity leaves basis or over-hedging risk.
 
 ### MCQ 26
 
@@ -550,17 +276,6 @@ This sequence illustrates:
 - C. Elimination of leverage
 - D. A passive index-rebalancing rule only
 
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** Forced sales can widen dislocation rather than assure immediate convergence.
-- **B - Correct:** Mark-to-market converts price volatility into current funding needs and can amplify fire sales.
-- **C - Incorrect:** The sequence shows leverage transmitting stress.
-- **D - Incorrect:** Margin calls can affect many leveraged portfolios, not only index funds.
-
-**Examiner trap 26:** Margin reduces counterparty exposure but does not eliminate systemic liquidity risk.
-
 ### MCQ 27
 
 Which statement about exchange-traded and OTC derivatives is correct?
@@ -570,17 +285,6 @@ Which statement about exchange-traded and OTC derivatives is correct?
 - C. OTC contracts can be regulated, reported, margined and sometimes centrally cleared
 - D. OTC contracts can never be customised
 
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** An electronic trading platform can support an OTC market.
-- **B - Incorrect:** Standardisation and CCP controls do not abolish economic exposure.
-- **C - Correct:** OTC describes the execution/legal structure, not absence of regulation.
-- **D - Incorrect:** Customisation is a principal OTC feature.
-
-**Examiner trap 27:** Compare venue, standardisation, collateral, reporting and exit separately.
-
 ### MCQ 28
 
 A mutual fund's NAV per unit is broadly:
@@ -589,17 +293,6 @@ A mutual fund's NAV per unit is broadly:
 - B. Annual return divided by expense ratio
 - C. Coupon income divided by face value
 - D. Scheme assets minus liabilities, divided by units outstanding
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** That does not calculate a pooled portfolio's per-unit net assets.
-- **B - Incorrect:** Performance and cost do not replace balance-sheet valuation.
-- **C - Incorrect:** That is unrelated to the fund's total net assets and unit base.
-- **D - Correct:** NAV allocates the scheme's net assets across outstanding units.
-
-**Examiner trap 28:** ETF exchange price can trade above or below its contemporaneous NAV.
 
 ### MCQ 29
 
@@ -611,21 +304,10 @@ Match the mutual-fund classification:
 
 Which is correct?
 
-- A. 1, 2 and 3
-- B. 1 only
-- C. 1 and 2 only
-- D. 2 and 3 only
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** All three are correct and should not be collapsed into a single category.
-- **B - Incorrect:** The passive and ETF descriptions are also correct but refer to different classification axes.
-- **C - Incorrect:** ETF exchange trading is the defining feature omitted by this option.
-- **D - Incorrect:** Open-ended funds do permit continuing transactions under applicable NAV rules.
-
-**Examiner trap 29:** An ETF may be passive, but `ETF` and `index fund` are not identical transaction structures.
+- A. All three scheme-structure, management-style and trading descriptions
+- B. Only the scheme-structure description
+- C. Scheme-structure and management-style descriptions only
+- D. Management-style and trading descriptions only
 
 ### MCQ 30
 
@@ -636,17 +318,6 @@ Which statement about direct and regular plans is correct?
 - C. A regular plan guarantees adviser suitability
 - D. Direct plans are exempt from the Riskometer
 
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** The investor still owns mutual-fund units rather than individual securities.
-- **B - Correct:** The direct plan excludes distributor commission from its plan expenses, while the regular route includes it.
-- **C - Incorrect:** Distributor involvement does not guarantee product fit or return.
-- **D - Incorrect:** Risk disclosure applies to the scheme regardless of distribution route.
-
-**Examiner trap 30:** Lower expense does not make an unsuitable asset class suitable.
-
 ### MCQ 31
 
 Which comparison is most accurate?
@@ -655,17 +326,6 @@ Which comparison is most accurate?
 - B. PMS issues identical pooled units to every client
 - C. A REIT pools real-estate exposure, an InvIT pools infrastructure exposure, an AIF is a private pool, and PMS is client-specific management
 - D. Direct stocks and bonds are themselves Category III AIFs
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** They operate under different legal and regulatory wrappers.
-- **B - Incorrect:** PMS ordinarily manages a client-specific portfolio and reporting relationship.
-- **C - Correct:** Asset base, pooling, ownership record, liquidity and investor-protection framework distinguish the vehicles.
-- **D - Incorrect:** Underlying securities are not transformed into pooled vehicles by classification.
-
-**Examiner trap 31:** Do not infer tax treatment or guaranteed distributions from the product label.
 
 ### MCQ 32
 
@@ -678,10 +338,525 @@ Consider the following regulatory map:
 
 Which option is correct?
 
-- A. 1 and 2 only
-- B. 1, 3 and 4 only
-- C. 2, 3 and 4 only
-- D. 1, 2, 3 and 4
+- A. The SEBI and RBI mappings only
+- B. The SEBI, PFRDA and IFSCA mappings only
+- C. The RBI, PFRDA and IFSCA mappings only
+- D. All four mappings across securities, OTC derivatives, pensions and IFSCs
+
+### MCQ 33
+
+An overseas investor buys an offshore instrument issued by a registered foreign portfolio investor, whose payoff tracks Indian listed shares. Which conclusion is best?
+
+- A. The investor holds a Participatory Note, not necessarily direct registered ownership of the Indian shares
+- B. The overseas investor must be the registered shareholder in the Indian depository
+- C. The instrument is a domestic mutual-fund unit issued by the investee company
+- D. The instrument automatically carries the Indian company's voting rights
+
+### MCQ 34
+
+A diversified equity portfolio has a beta of 1.4 against a specified broad-market index. Which inference survives scrutiny?
+
+- A. It is guaranteed a 40% higher annual return than the index
+- B. Its historical market sensitivity is greater than the benchmark's, but beta alone cannot predict return or idiosyncratic loss
+- C. Its entire risk is diversified away by construction
+- D. It has 1.4 times the market capitalisation of its benchmark
+
+### MCQ 35
+
+Which classification correctly separates an AIF's legal wrapper from securities it may own?
+
+- A. A corporate bond is a Category II AIF because the fund may buy it
+- B. A listed equity share is a Category III AIF when its issuer uses leverage
+- C. A venture-capital fund can be Category I and a hedge-fund strategy Category III; individual shares and bonds are not AIFs
+- D. An ordinary bank deposit is automatically an AIF if a manager pools deposits
+
+### MCQ 36
+
+An InvIT holds infrastructure exposures through a trust and related vehicles. Which proposition about tax and recovery law is most defensible?
+
+- A. Every distribution from every InvIT has one identical tax treatment
+- B. An InvIT is a secured creditor under SARFAESI solely because it has listed units
+- C. A change in unit price changes statutory recovery rights automatically
+- D. Tax follows the character of each distribution and applicable law; SARFAESI concerns eligible secured-creditor recovery, not a generic investor-return guarantee
+
+### MCQ 37
+
+An ETF's exchange price exceeds its per-unit NAV during stressed trading. What is the strongest explanation?
+
+- A. Secondary-market supply, demand and arbitrage frictions can sustain a temporary premium despite a creation-redemption mechanism
+- B. SEBI guarantees that an ETF's price must equal NAV at every instant
+- C. The underlying portfolio ceases to exist as soon as units trade above NAV
+- D. The fund's declared expense ratio becomes negative
+
+### MCQ 38
+
+Which distinction between a REIT and an InvIT is substantively correct?
+
+- A. A REIT can only own farmland and an InvIT must own bank deposits
+- B. A REIT channels real-estate-linked cash flows and an InvIT infrastructure-linked cash flows; neither eliminates asset, leverage or market-price risk
+- C. An InvIT is always an ordinary open-ended mutual fund redeemable at daily NAV
+- D. Every REIT distribution is contractually identical to a sovereign-bond coupon
+
+### MCQ 39
+
+An Indian company tokenises a warehouse receivable on a blockchain. Which additional evidence is indispensable before calling the token a secure investible asset?
+
+- A. Only the token's decimal precision and transfer speed
+- B. Only the number of wallet addresses holding the token
+- C. The enforceable claim on the receivable, custody, redemption, settlement finality and applicable regulatory perimeter
+- D. Only the blockchain's public visibility, which guarantees legal title
+
+### MCQ 40
+
+A fund promises daily redemption but holds hard-to-sell corporate debt. What stress mechanism is most likely?
+
+- A. Redemptions immediately improve the liquidity of all unsold debt
+- B. Every remaining investor automatically receives sovereign deposit insurance
+- C. The fund ceases to have any exposure to interest rates
+- D. Selling liquid holdings first can leave remaining investors concentrated in illiquid assets and intensify fire-sale pressure
+
+### MCQ 41
+
+Which arrangement most clearly separates management, safekeeping and oversight of a domestic mutual-fund scheme?
+
+- A. AMC manages investments; custodian holds scheme assets; trustees oversee compliance
+- B. AMC both owns every unit and guarantees investor principal
+- C. Depository advises every investor and sets guaranteed NAV
+- D. Stock exchange alone appoints the fund manager and owns the portfolio
+
+### MCQ 42
+
+Which comparison of pension investment and ordinary fund units is most accurate?
+
+- A. NPS is a SEBI-regulated ETF that every subscriber can trade intraday
+- B. NPS is a PFRDA-regulated defined-contribution retirement architecture, not an ordinary liquid mutual-fund scheme
+- C. NPS guarantees a fixed pension equal to each subscriber's final salary
+- D. A mutual fund automatically becomes NPS when it buys government securities
+
+### MCQ 43
+
+A promoter privately purchases shares after receiving unpublished price-sensitive results and before public disclosure. Which risk is most directly engaged?
+
+- A. Merely bond reinvestment risk
+- B. Only an ordinary ETF tracking error
+- C. Insider-trading and information-asymmetry concerns within securities-market conduct rules
+- D. A compulsory change from equity to government debt
+
+### MCQ 44
+
+An investor buys a call option for a premium and simultaneously sells another uncovered call. Which risk claim is correct?
+
+- A. Both long and short calls have maximum loss fixed at the premium paid
+- B. The long call obliges exercise, whereas the written call permits abandonment
+- C. Both positions automatically hedge a stock portfolio
+- D. The long call's contractual downside is limited to its premium, but the uncovered writer can face much larger losses and margin calls
+
+### MCQ ANSWER KEY AND OPTION-BY-OPTION EXPLANATIONS
+
+### MCQ 1 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Debt-equity classification begins with legal claim, payment obligation and residual status.
+- **B - Incorrect:** Bondholders are creditors and ordinarily do not possess the voting position of ordinary shareholders.
+- **C - Incorrect:** Ordinary equity has no contractual maturity or promised redemption of principal.
+- **D - Incorrect:** Priority is relative and actual recovery depends on security, seniority, assets and insolvency law.
+
+**Examiner trap 1:** Do not convert relative repayment priority into a guarantee of full recovery.
+
+### MCQ 2 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Statement 2 also correctly identifies the lower priority of subordinated debt.
+- **B - Correct:** Security and seniority are separate dimensions, and neither listing nor rating assures repayment.
+- **C - Incorrect:** Statement 1 is correct, while exchange listing does not create a sovereign guarantee.
+- **D - Incorrect:** The first two are contractual distinctions; statement 3 invents a guarantee unrelated to listing.
+
+**Examiner trap 2:** Listed, secured, senior and guaranteed are four different attributes.
+
+### MCQ 3 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That calculation is current yield rather than coupon rate.
+- **B - Incorrect:** That is yield to maturity under its assumptions.
+- **C - Correct:** The coupon rate is written into the contract against face value and can differ from market-based yields.
+- **D - Incorrect:** Capital gain is not the contractual coupon calculation.
+
+**Examiner trap 3:** Coupon rate does not automatically equal current yield or realised return.
+
+### MCQ 4 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** A fixed coupon does not reset merely because market yields move.
+- **B - Incorrect:** Face and redemption terms ordinarily remain contractual constants.
+- **C - Incorrect:** Interest-rate repricing can occur without a change in creditworthiness.
+- **D - Correct:** Present-value discounting produces the inverse relationship for fixed cash flows.
+
+**Examiner trap 4:** A yield move can reflect benchmark rates, credit spreads or liquidity; identify the driver.
+
+### MCQ 5 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Current yield equals 8 divided by 80 multiplied by 100.
+- **B - Incorrect:** Eight per cent would be the coupon rate if face value were Rs 100.
+- **C - Incorrect:** This reverses the numerator and denominator of the current-yield formula.
+- **D - Incorrect:** Maturity is required for YTM but not for annual coupon divided by market price.
+
+**Examiner trap 5:** Current yield omits redemption gain or loss and reinvestment.
+
+### MCQ 6 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Statement 2 follows directly from duration as a sensitivity measure.
+- **B - Correct:** Duration measures cash-flow timing and local price sensitivity, while convexity refines the estimate.
+- **C - Incorrect:** Statement 3 confuses market-rate sensitivity with credit analysis.
+- **D - Incorrect:** The first two are correct; duration does not estimate default probability.
+
+**Examiner trap 6:** Maturity and duration are related but not identical.
+
+### MCQ 7 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That concerns one transaction leg completing without the other.
+- **B - Incorrect:** Dilution concerns an expanding equity base or conversion into shares.
+- **C - Correct:** Reinvestment risk changes the realised compound return even when promised coupons are paid.
+- **D - Incorrect:** Custody risk concerns safekeeping and ownership records, not future coupon rates.
+
+**Examiner trap 7:** Falling rates can raise bond prices while lowering reinvestment income.
+
+### MCQ 8 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That describes a floating-rate bond.
+- **B - Incorrect:** Inflation indexation is a separate cash-flow feature.
+- **C - Incorrect:** A put right must be expressly embedded in the contract.
+- **D - Correct:** The investor's return arises from the discount-to-redemption difference, subject to credit and market risk.
+
+**Examiner trap 8:** Zero coupon does not mean zero yield or zero duration.
+
+### MCQ 9 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Periodic benchmark resets pull the coupon toward market conditions, though spread and reset risks remain.
+- **B - Incorrect:** Coupon reset cannot restore an insolvent issuer's capacity.
+- **C - Incorrect:** The bond may reset against a benchmark different from the investor's liability exposure.
+- **D - Incorrect:** A floating benchmark is not necessarily the investor's inflation index.
+
+**Examiner trap 9:** Floating rate is not fixed purchasing-power protection.
+
+### MCQ 10 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Tax, price, liquidity and indexation-lag effects can still reduce realised return.
+- **B - Correct:** Indexation reallocates measured-inflation risk according to the contract.
+- **C - Incorrect:** Indexation changes purchasing-power exposure, not the issuer's ability to pay.
+- **D - Incorrect:** Conversion is a separate embedded option.
+
+**Examiner trap 10:** Protection is only as broad as the indexed component and chosen price index.
+
+### MCQ 11 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** A put right belongs to the investor, not the issuer.
+- **B - Incorrect:** Conversion is precisely the contractual route from debt into equity.
+- **C - Correct:** The issuer owns the call; the investor owns the put; conversion changes the claim.
+- **D - Incorrect:** Calling often exposes the investor to lower-rate reinvestment risk.
+
+**Examiner trap 11:** Optional exercise depends on the contract and should not be assumed automatic.
+
+### MCQ 12 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Before conversion the instrument retains issuer credit exposure.
+- **B - Incorrect:** Convertibility does not itself create collateral.
+- **C - Incorrect:** The issuer remains responsible for contractual bond payments.
+- **D - Correct:** The investor may accept less coupon in exchange for the embedded option's value.
+
+**Examiner trap 12:** Convertible means eligible to convert under terms, not already converted.
+
+### MCQ 13 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Rupee denomination places direct INR currency movement on the overseas investor.
+- **B - Incorrect:** That reverses both denomination and issuance location.
+- **C - Incorrect:** Masala bonds are an external-borrowing category, not necessarily sovereign or indexed.
+- **D - Incorrect:** Use of proceeds and currency denomination are independent features.
+
+**Examiner trap 13:** Current ECB eligibility and maturity rules must be checked rather than inferred from the nickname.
+
+### MCQ 14 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Statement 2 reflects the disclosure and reporting logic of SEBI's green-debt framework.
+- **B - Correct:** SEBI's 6 February 2023 framework links the label to use, tracking and disclosure of proceeds.
+- **C - Incorrect:** Statement 1 defines the use-of-proceeds character, while statement 3 is false.
+- **D - Incorrect:** A green label does not improve issuer solvency or create a repayment guarantee.
+
+**Examiner trap 14:** Environmental integrity and credit quality are separate tests.
+
+### MCQ 15 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Profit does not automatically require a dividend declaration.
+- **B - Incorrect:** Market price can rise or fall and no minimum gain is promised.
+- **C - Correct:** Equity is a residual claim; its return depends on enterprise performance, payout and market valuation.
+- **D - Incorrect:** Ordinary shares have no bond-like maturity redemption.
+
+**Examiner trap 15:** Ownership gives residual upside but not a promised periodic payment.
+
+### MCQ 16 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** This divides rather than multiplies price by shares.
+- **B - Incorrect:** Adding price and share count has no valuation meaning.
+- **C - Incorrect:** Market capitalisation needs price and shares outstanding, not earnings.
+- **D - Correct:** Market capitalisation equals 50 multiplied by 20 crore shares.
+
+**Examiner trap 16:** A stock split can change price and share count without mechanically changing total market value.
+
+### MCQ 17 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Weighted-average shares account for changes in the equity base during the reporting period.
+- **B - Incorrect:** Revenue and market price do not define accounting earnings per share.
+- **C - Incorrect:** That resembles a dividend-rate calculation, not EPS.
+- **D - Incorrect:** This ratio does not allocate profit across shares.
+
+**Examiner trap 17:** Basic and diluted EPS can differ because potential shares affect the denominator.
+
+### MCQ 18 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Price must be assessed against sustainable cash flow, assets, growth and risk.
+- **B - Correct:** P-E is a comparison lens rather than an automatic investment conclusion.
+- **C - Incorrect:** Dividend policy does not validate the earnings multiple.
+- **D - Incorrect:** The limitation applies across ownership forms and sectors.
+
+**Examiner trap 18:** Negative or temporarily inflated earnings can make P-E misleading.
+
+### MCQ 19 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Statement 2 is also correct despite debt-like economic features.
+- **B - Incorrect:** Statement 1 is correct, while creditor priority ordinarily precedes preference capital.
+- **C - Correct:** Preference shares combine preferential economic rights with legal equity status.
+- **D - Incorrect:** Statement 3 wrongly places share capital above secured creditor claims.
+
+**Examiner trap 19:** Fixed-looking preference dividends do not automatically make the instrument a bond.
+
+### MCQ 20 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Derivatives can reference rates, currencies, commodities and indices as well as shares.
+- **B - Incorrect:** Margin supports performance but does not define the underlying payoff.
+- **C - Incorrect:** Regulators set conduct and risk controls, not guaranteed derivative profit.
+- **D - Correct:** The contract maps changes in an underlying into gains, losses or cash-flow exchanges.
+
+**Examiner trap 20:** Notional exposure can be much larger than initial cash paid.
+
+### MCQ 21 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** Venue and standardisation alter liquidity, margining and counterparty structure.
+- **B - Incorrect:** Both forwards and futures create symmetric obligations.
+- **C - Incorrect:** Margins, mark-to-market and CCP clearing are core controls.
+- **D - Incorrect:** Specified OTC forwards operate under regulatory frameworks.
+
+**Examiner trap 21:** Customisation can reduce basis risk while increasing bilateral complexity.
+
+### MCQ 22 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That is the right provided by a put option.
+- **B - Correct:** A long call's intrinsic value is positive when spot exceeds strike.
+- **C - Incorrect:** The option premium affects net payoff and break-even.
+- **D - Incorrect:** Exercise choice belongs to the buyer, not the writer.
+
+**Examiner trap 22:** The buyer's limited premium loss does not apply to an uncovered writer.
+
+### MCQ 23 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That is the intrinsic payoff of a call buyer.
+- **B - Incorrect:** Option payoff is contingent, not a simple sum.
+- **C - Correct:** A put protects against price falling below strike, with net profit reduced by premium.
+- **D - Incorrect:** Premium is cost, not the intrinsic payoff formula.
+
+**Examiner trap 23:** Strike is not break-even because premium must be recovered.
+
+### MCQ 24 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The original financing can remain in place while exposure is transformed.
+- **B - Incorrect:** A swap is a derivative contract, not reciprocal equity issuance.
+- **C - Incorrect:** Benchmark mismatch and default exposure can remain.
+- **D - Correct:** The notional commonly calculates payments and need not itself be exchanged.
+
+**Examiner trap 24:** Do not confuse a derivative swap with a central-bank currency swap line.
+
+### MCQ 25 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** The derivative offsets a pre-existing currency exposure in amount and direction.
+- **B - Incorrect:** That creates a directional speculative position.
+- **C - Incorrect:** Without an offsetting exposure this is speculation.
+- **D - Incorrect:** That is manipulative conduct, not risk reduction.
+
+**Examiner trap 25:** A mismatched tenor or quantity leaves basis or over-hedging risk.
+
+### MCQ 26 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Forced sales can widen dislocation rather than assure immediate convergence.
+- **B - Correct:** Mark-to-market converts price volatility into current funding needs and can amplify fire sales.
+- **C - Incorrect:** The sequence shows leverage transmitting stress.
+- **D - Incorrect:** Margin calls can affect many leveraged portfolios, not only index funds.
+
+**Examiner trap 26:** Margin reduces counterparty exposure but does not eliminate systemic liquidity risk.
+
+### MCQ 27 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** An electronic trading platform can support an OTC market.
+- **B - Incorrect:** Standardisation and CCP controls do not abolish economic exposure.
+- **C - Correct:** OTC describes the execution/legal structure, not absence of regulation.
+- **D - Incorrect:** Customisation is a principal OTC feature.
+
+**Examiner trap 27:** Compare venue, standardisation, collateral, reporting and exit separately.
+
+### MCQ 28 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That does not calculate a pooled portfolio's per-unit net assets.
+- **B - Incorrect:** Performance and cost do not replace balance-sheet valuation.
+- **C - Incorrect:** That is unrelated to the fund's total net assets and unit base.
+- **D - Correct:** NAV allocates the scheme's net assets across outstanding units.
+
+**Examiner trap 28:** ETF exchange price can trade above or below its contemporaneous NAV.
+
+### MCQ 29 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** All three are correct and should not be collapsed into a single category.
+- **B - Incorrect:** The passive and ETF descriptions are also correct but refer to different classification axes.
+- **C - Incorrect:** ETF exchange trading is the defining feature omitted by this option.
+- **D - Incorrect:** Open-ended funds do permit continuing transactions under applicable NAV rules.
+
+**Examiner trap 29:** An ETF may be passive, but `ETF` and `index fund` are not identical transaction structures.
+
+### MCQ 30 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The investor still owns mutual-fund units rather than individual securities.
+- **B - Correct:** The direct plan excludes distributor commission from its plan expenses, while the regular route includes it.
+- **C - Incorrect:** Distributor involvement does not guarantee product fit or return.
+- **D - Incorrect:** Risk disclosure applies to the scheme regardless of distribution route.
+
+**Examiner trap 30:** Lower expense does not make an unsuitable asset class suitable.
+
+### MCQ 31 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** They operate under different legal and regulatory wrappers.
+- **B - Incorrect:** PMS ordinarily manages a client-specific portfolio and reporting relationship.
+- **C - Correct:** Asset base, pooling, ownership record, liquidity and investor-protection framework distinguish the vehicles.
+- **D - Incorrect:** Underlying securities are not transformed into pooled vehicles by classification.
+
+**Examiner trap 31:** Do not infer tax treatment or guaranteed distributions from the product label.
+
+### MCQ 32 — Answer and elimination
 
 **Answer: D.**
 
@@ -694,6 +869,149 @@ Which option is correct?
 
 **Examiner trap 32:** Regulator mapping follows product, activity, entity and location rather than one universal label.
 
+### MCQ 33 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A - Correct:** The registered FPI issues the offshore derivative exposure to its overseas subscriber.
+- **B - Incorrect:** Economic exposure through an offshore note is not the same as direct depository ownership.
+- **C - Incorrect:** A note issued offshore by an FPI is not a unit issued by an Indian mutual fund.
+- **D - Incorrect:** Exposure to a share's value does not automatically pass shareholder voting rights to the note holder.
+
+**Examiner trap 33:** Identify both the issuer and the actual holder of the underlying security.
+
+### MCQ 34 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Beta measures sensitivity, not an assured excess return.
+- **B - Correct:** A beta above one indicates greater estimated co-movement sensitivity to the selected benchmark.
+- **C - Incorrect:** Diversification does not remove market risk, nor does beta capture every other risk.
+- **D - Incorrect:** Market capitalisation and relative return sensitivity have different denominators.
+
+**Examiner trap 34:** Ask which benchmark and estimation period underlie any quoted beta.
+
+### MCQ 35 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** A bond is a security, not itself a privately pooled AIF vehicle.
+- **B - Incorrect:** An issuer's leverage cannot convert its listed share into a fund wrapper.
+- **C - Correct:** Fund category depends on the privately pooled vehicle and strategy, not its holdings alone.
+- **D - Incorrect:** Banking deposits do not become SEBI AIF units simply because money is pooled.
+
+**Examiner trap 35:** Separate fund classification from underlying asset classification.
+
+### MCQ 36 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Distribution components and investor status can matter for taxation.
+- **B - Incorrect:** Listing trust units alone does not establish the claimant's SARFAESI standing.
+- **C - Incorrect:** Unit trading prices and statutory creditor remedies are distinct questions.
+- **D - Correct:** Identify cash-flow character and the particular eligible creditor before applying either legal regime.
+
+**Examiner trap 36:** Do not infer a fixed tax rate or secured recovery merely from the label InvIT.
+
+### MCQ 37 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A - Correct:** Market makers' access, hedging costs and liquidity affect intraday arbitrage.
+- **B - Incorrect:** Regulatory oversight does not guarantee a zero tracking or price deviation.
+- **C - Incorrect:** The underlying holdings remain relevant even when secondary-market pricing diverges.
+- **D - Incorrect:** A premium is a price-NAV difference, not a negative management fee.
+
+**Examiner trap 37:** Distinguish tracking error from exchange-price premium or discount.
+
+### MCQ 38 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Those asset descriptions misidentify both investment trusts.
+- **B - Correct:** Underlying business cash flows differ; pooling does not neutralise sector risk.
+- **C - Incorrect:** The trust structure and secondary-market trading differ from ordinary open-ended fund redemption.
+- **D - Incorrect:** Rental-derived distributions vary and are not sovereign contractual payments.
+
+**Examiner trap 38:** Classify cash-flow source before predicting payout reliability.
+
+### MCQ 39 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Fractional trading says nothing about who can enforce the underlying claim.
+- **B - Incorrect:** Holder count is not evidence of asset quality or recoverability.
+- **C - Correct:** Technology records transfers but enforceable rights and operational safeguards determine investor protection.
+- **D - Incorrect:** A transparent ledger cannot by itself grant legal ownership or eliminate default.
+
+**Examiner trap 39:** Token liquidity is not identical to underlying-asset liquidity.
+
+### MCQ 40 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Withdrawal pressure usually consumes, rather than creates, portfolio liquidity.
+- **B - Incorrect:** Mutual-fund units are not insured bank deposits.
+- **C - Incorrect:** Debt valuation remains exposed to rate and spread changes.
+- **D - Correct:** First-mover incentives and uneven asset sales can amplify liquidity mismatch.
+
+**Examiner trap 40:** Portfolio diversification alone cannot fund simultaneous redemptions.
+
+### MCQ 41 — Answer and elimination
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A - Correct:** Distinct management, custody and oversight functions constrain agency and commingling risks.
+- **B - Incorrect:** Managing a scheme neither transfers all units to the AMC nor insures capital.
+- **C - Incorrect:** Depository recordkeeping is not personalised advice or a NAV guarantee.
+- **D - Incorrect:** Listing or trading a unit does not make the exchange the portfolio owner.
+
+**Examiner trap 41:** Institutional separation mitigates misconduct but does not remove market loss.
+
+### MCQ 42 — Answer and elimination
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** NPS and an exchange-traded fund have different regulatory and transaction frameworks.
+- **B - Correct:** Retirement purpose, account architecture and regulator distinguish NPS from a mutual fund.
+- **C - Incorrect:** Defined contribution does not guarantee a predetermined final-salary benefit.
+- **D - Incorrect:** Portfolio holdings do not change the regulatory identity of the investment vehicle.
+
+**Examiner trap 42:** Retirement purpose is not equivalent to a guaranteed defined benefit.
+
+### MCQ 43 — Answer and elimination
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Reinvesting coupons is unrelated to trading on material unpublished information.
+- **B - Incorrect:** Tracking error concerns index replication, not informational advantage.
+- **C - Correct:** The private price-sensitive information and trading nexus trigger market-conduct scrutiny.
+- **D - Incorrect:** No automatic conversion of the security follows from the conduct described.
+
+**Examiner trap 43:** Distinguish a market-abuse allegation from merely earning a high return.
+
+### MCQ 44 — Answer and elimination
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** The writer receives premium but assumes potentially very large adverse payoff.
+- **B - Incorrect:** The buyer owns the exercise right; the writer bears the contingent obligation.
+- **C - Incorrect:** Without a matching underlying position, neither is automatically a hedge.
+- **D - Correct:** Buyer and writer payoffs are asymmetric even though both refer to the same underlying.
+
+**Examiner trap 44:** Never apply the long-option loss cap to the uncovered seller.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -891,4 +1209,3 @@ The same features create new fragilities. Derivative leverage permits large noti
 India's regulatory response is functional. SEBI's October 2024 and 2025 equity-derivative measures strengthened premium collection, monitoring and stability controls. Its 2026 mutual-fund framework combines disclosure, Riskometer, custody and liquidity tools. RBI's 2024-2025 OTC derivative margin directions address bilateral exposure. PFRDA and IFSCA govern pension and IFSC domains.
 
 Yet compliance cannot guarantee suitability or market liquidity. Regulation should align margin with risk, monitor common leverage and concentration, stress-test funds and clearing corporations, enforce insider-trading and PFUTP rules, disclose costs and payoff asymmetry, and provide effective grievance review. Innovation is welfare-enhancing only when legal title, transparent valuation, loss-bearing capacity and resilient exit arrangements develop together.
-

@@ -5,11 +5,14 @@ topic_key: polity-11
 
 # Parliamentary System - Solved Practice Workbook
 
-> **Source and status control:** Constitution of India; canonical Basic and Advanced owners; audited UPSC papers and routing ledgers; OCR-searchable local polity books; Supreme Court judgments and official parliamentary material checked through 7 September 2026. Exactly 32 original MCQs precede five audited direct/routed PYQs. The locally held final official keys do not cover the two historical objective questions, so their answer letters are withheld.
+> **Source and status control:** Constitution of India; canonical Basic and Advanced owners; audited UPSC papers and routing ledgers; OCR-searchable local polity books; Supreme Court judgments and official parliamentary material checked through 7 September 2026. Exactly 40 original MCQs precede five audited direct/routed PYQs. The locally held final official keys do not cover the two historical objective questions, so their answer letters are withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** use strict `ABCD` x8 rotation. Every option has a substantive question-specific explanation, and every question closes with a unique Examiner trap.
+Exactly **40 original MCQs** use strict `ABCD` x10 rotation. Every option has a substantive question-specific explanation, and every question closes with a unique Examiner trap.
+
+
+All questions are presented before the separate solved key; the rotation applies to original questions only, not to the independently audited UPSC PYQs.
 
 ### Q1. Article 74 control
 
@@ -26,15 +29,6 @@ B. 1 only
 C. 1, 2 and 3
 D. 2 and 3 only
 
-**Answer: A.**
-
-- **A:** Correct. The 44th Amendment allows one reconsideration, and Article 74(2) shields the advice from inquiry without making the resulting action immune from review.
-- **B:** Incorrect. It omits statement 3, which preserves review of the executive action on constitutional grounds even though ministerial advice itself is protected.
-- **C:** Incorrect. Statement 2 invents a permanent presidential veto after reconsideration, contrary to the binding character of reiterated advice.
-- **D:** Incorrect. Statement 2 is false, while statement 1 correctly recognises the single reconsideration opportunity.
-
-**Examiner trap:** Do not convert Article 74(2)'s advice privilege into immunity for the executive action or its supporting material.
-
 ### Q2. Union-State architecture
 
 Which pairing is correct?
@@ -43,15 +37,6 @@ A. Article 166 - President's rules for Union business
 B. Article 167 - Chief Minister's communication duties to the Governor
 C. Article 88 - State Council's responsibility to Assembly
 D. Article 77 - collective responsibility to Lok Sabha
-
-**Answer: B.**
-
-- **A:** Incorrect. Article 166 concerns State executive action in the Governor's name, not Union business in the President's name.
-- **B:** Correct. Article 167 requires the Chief Minister to communicate Council decisions and furnish information to the Governor.
-- **C:** Incorrect. Article 88 governs participation of Union ministers and the Attorney-General in Parliament; State collective responsibility is in Article 164(2).
-- **D:** Incorrect. Article 77 regulates the form, authentication and allocation of Union executive business; Article 75(3) supplies collective responsibility.
-
-**Examiner trap:** Pair Union Articles 77-78 with State Articles 166-167; responsibility is located separately in Articles 75 and 164.
 
 ### Q3. Ministry-size controls
 
@@ -69,15 +54,6 @@ B. 1, 2 and 4 only
 C. 1, 2, 3 and 4
 D. 2 and 3 only
 
-**Answer: C.**
-
-- **A:** Incorrect. It excludes the State ministry cap and minimum, both expressly contained in Article 164(1A).
-- **B:** Incorrect. It omits the constitutional minimum of twelve ministers for a State Council.
-- **C:** Correct. The 91st Amendment inserted the Union and State 15% caps, with a State minimum of twelve.
-- **D:** Incorrect. The Union cap and the common amendment source are also correct, so this partial combination is incomplete.
-
-**Examiner trap:** The 15% ceiling applies at both levels, but only the State provision carries a minimum of twelve.
-
 ### Q4. Minister in the other House
 
 A Union minister who belongs to Rajya Sabha attends Lok Sabha. Which statement is most accurate?
@@ -86,15 +62,6 @@ A. The minister may vote only on government bills.
 B. The minister may speak and vote because executive office overrides membership.
 C. The minister cannot speak because the minister is not a Lok Sabha member.
 D. The minister may speak and participate but cannot vote in Lok Sabha.
-
-**Answer: D.**
-
-- **A:** Incorrect. Article 88 does not create a bill-specific voting right for a minister who lacks membership of that House.
-- **B:** Incorrect. Executive office permits participation, not voting across House boundaries.
-- **C:** Incorrect. Article 88 expressly permits the minister to speak and participate in the other House.
-- **D:** Correct. The Rajya Sabha minister may participate in Lok Sabha but votes only in Rajya Sabha, where membership lies.
-
-**Examiner trap:** Separate participation by office under Article 88 from voting by House membership.
 
 ### Q5. Nominal and real executive
 
@@ -105,15 +72,6 @@ B. Article 53 allows the President to govern without a Council.
 C. All gubernatorial discretion is unconstitutional.
 D. The President has a personal popular mandate equal to Lok Sabha.
 
-**Answer: A.**
-
-- **A:** Correct. *Shamsher Singh* treats the President and Governor as constitutional heads ordinarily acting on responsible advice, while preserving constitutionally assigned gubernatorial discretion.
-- **B:** Incorrect. Formal vesting under Article 53 must be read with Article 74; it does not authorise personal presidential government.
-- **C:** Incorrect. Article 163 and specific constitutional provisions preserve a bounded field of Governor discretion.
-- **D:** Incorrect. The President is indirectly elected and does not possess a rival political mandate to govern against Lok Sabha-responsible ministers.
-
-**Examiner trap:** Formal vesting and ministerial control coexist; neither proposition cancels the other.
-
 ### Q6. Dissolution and continuity
 
 What was the central implication of *U.N.R. Rao v. Indira Gandhi*?
@@ -122,15 +80,6 @@ A. The President governs alone until elections.
 B. The Council continues because Article 74 remains mandatory even while confidence cannot be tested in a dissolved House.
 C. Article 75(3) is permanently suspended after dissolution.
 D. Lok Sabha dissolution automatically dismisses the Council.
-
-**Answer: B.**
-
-- **A:** Incorrect. Dissolution does not create an interval of personal presidential rule.
-- **B:** Correct. *U.N.R. Rao* harmonised mandatory ministerial advice under Article 74 with the temporary absence of a House capable of testing Article 75(3) confidence.
-- **C:** Incorrect. Collective responsibility is not permanently suspended; it becomes testable when the new House exists.
-- **D:** Incorrect. The Council continues through dissolution to preserve responsible executive continuity.
-
-**Examiner trap:** A dissolved House cannot test confidence, but dissolution does not abolish the Council of Ministers.
 
 ### Q7. Non-member Prime Minister
 
@@ -141,15 +90,6 @@ B. Only an existing Lok Sabha member can become PM.
 C. A non-member may become PM but must enter either House within six months.
 D. A non-member PM may continue until the next general election.
 
-**Answer: C.**
-
-- **A:** Incorrect. An Indian Prime Minister may belong to Rajya Sabha; the British Commons convention is not constitutional law in India.
-- **B:** Incorrect. Existing Lok Sabha membership is not a condition precedent to appointment.
-- **C:** Correct. *S.P. Anand* supports appointment of a non-member PM subject to entry into either House within six consecutive months.
-- **D:** Incorrect. Article 75(5) fixes six months, not the life of the Lok Sabha.
-
-**Examiner trap:** The six-month rule is a temporary bridge to legislative membership, not an external-executive exception.
-
 ### Q8. Floor-test doctrine
 
 Which statement is the most precise use of *S.R. Bommai* in this topic?
@@ -158,15 +98,6 @@ A. It gives Governors unrestricted discretion to assess support privately.
 B. It makes every Union bill a confidence vote.
 C. It abolishes Article 356.
 D. It supports floor determination of disputed Assembly majority and judicial review of Article 356 material.
-
-**Answer: D.**
-
-- **A:** Incorrect. *Bommai* rejects private or subjective majority assessment as a substitute for the Assembly floor.
-- **B:** Incorrect. The case concerns disputed State majority and Article 356 review, not the confidence status of every Union bill.
-- **C:** Incorrect. *Bommai* limits and reviews Article 356 use; it does not repeal the Article.
-- **D:** Correct. The judgment supports floor determination of majority and judicial examination of proclamation material.
-
-**Examiner trap:** Use *Bommai* for House-based proof of majority, while leaving detailed Governor procedure to its own topic.
 
 ### Q9. Collective responsibility
 
@@ -177,15 +108,6 @@ B. Rajya Sabha may dismiss the Council through no-confidence.
 C. Cabinet disagreement is legally prohibited even inside meetings.
 D. Every minister is individually elected by Lok Sabha.
 
-**Answer: A.**
-
-- **A:** Correct. Collective responsibility combines continuing Lok Sabha confidence with public solidarity behind settled government policy.
-- **B:** Incorrect. Article 75(3) names Lok Sabha, not Rajya Sabha, as the confidence chamber.
-- **C:** Incorrect. Cabinet government permits candid internal disagreement before a collective decision.
-- **D:** Incorrect. Ministers are appointed constitutionally; Lok Sabha does not elect each minister individually.
-
-**Examiner trap:** Collective responsibility is both external confidence and internal solidarity, not uniform private opinion.
-
 ### Q10. Financial defeat
 
 Which is the safest constitutional formulation?
@@ -194,15 +116,6 @@ A. Defeat of any government amendment automatically removes the ministry.
 B. Express confidence defeat or denial of essential supply is decisive/grave; ordinary legislative defeat requires contextual assessment.
 C. Rajya Sabha rejection of a Money Bill dismisses the Council.
 D. The Budget has no relationship with confidence.
-
-**Answer: B.**
-
-- **A:** Incorrect. Parliamentary practice does not make every adverse division an automatic confidence loss.
-- **B:** Correct. Express confidence defeat and denial of essential supply are decisive or grave; other defeats require context and possible testing.
-- **C:** Incorrect. Rajya Sabha cannot dismiss the Union Council, and it has only a recommendatory role on a Money Bill.
-- **D:** Incorrect. Supply is indispensable to governing and therefore closely linked to confidence.
-
-**Examiner trap:** Do not equate an ordinary legislative setback with a carried no-confidence motion.
 
 ### Q11. Political homogeneity
 
@@ -213,15 +126,6 @@ B. a constitutional requirement that every minister belong to one party.
 C. negotiated consensus around a common programme rather than identical ideology.
 D. automatic loss of office whenever partners disagree.
 
-**Answer: C.**
-
-- **A:** Incorrect. Coalition participation by regional parties is compatible with parliamentary government.
-- **B:** Incorrect. Political homogeneity is a textbook tendency, not a single-party constitutional condition.
-- **C:** Correct. Coalitions translate homogeneity into a common programme, negotiated consensus and cabinet solidarity.
-- **D:** Incorrect. Political disagreement may be managed; it does not automatically terminate the ministry.
-
-**Examiner trap:** In coalition government, common responsibility matters more than identical ideology.
-
 ### Q12. Secrecy
 
 Which statement is correct?
@@ -230,15 +134,6 @@ A. Secrecy is merely a political convention with no constitutional oath.
 B. Cabinet secrecy prevails over every court order.
 C. The oath of secrecy eliminates Parliament's right to seek information.
 D. Secrecy protects candid deliberation but coexists with legislative, judicial, audit and statutory accountability.
-
-**Answer: D.**
-
-- **A:** Incorrect. The Third Schedule gives secrecy a constitutional oath basis.
-- **B:** Incorrect. Secrecy does not override constitutional courts or lawful disclosure duties in every situation.
-- **C:** Incorrect. Cabinet confidentiality coexists with parliamentary questions, financial control and audit.
-- **D:** Correct. Secrecy protects candid deliberation while remaining bounded by legislative, judicial, audit and statutory accountability.
-
-**Examiner trap:** Treat secrecy as functional confidentiality, never as absolute executive opacity.
 
 ### Q13. System comparison
 
@@ -249,15 +144,6 @@ B. Lower-House confidence with President unable to dissolve it in any circumstan
 C. Separate executive selection with ministerial membership of Congress.
 D. Fixed executive tenure, collective responsibility and fusion.
 
-**Answer: A.**
-
-- **A:** Correct. Confidence dependence, ministerial legislative membership and possible lower-House dissolution form the parliamentary cluster.
-- **B:** Incorrect. A defining parliamentary possibility is lower-House dissolution under constitutional rules.
-- **C:** Incorrect. Presidential department heads cannot simultaneously serve in Congress.
-- **D:** Incorrect. Fixed tenure and separation are presidential features, whereas collective responsibility and fusion are parliamentary.
-
-**Examiner trap:** Compare systems by institutional axes, not by attaching one familiar feature to the wrong cluster.
-
 ### Q14. US executive terminology
 
 Which is correct?
@@ -266,15 +152,6 @@ A. US secretaries remain members of Congress while serving.
 B. US cabinet secretaries are formal executive officers; “kitchen cabinet” refers to informal advisers.
 C. “Kitchen Cabinet” is the constitutional collective name for US departmental secretaries.
 D. The House of Representatives can dismiss the US cabinet by no-confidence.
-
-**Answer: B.**
-
-- **A:** Incorrect. The incompatibility of executive office and congressional membership is a feature of the US separation model.
-- **B:** Correct. Department secretaries are formal officers; 'kitchen cabinet' denotes informal advisers.
-- **C:** Incorrect. The informal historical label is not the constitutional title of the US Cabinet.
-- **D:** Incorrect. Congress exercises oversight and impeachment-related powers, but no-confidence does not remove the US Cabinet.
-
-**Examiner trap:** Never use 'Kitchen Cabinet' as the formal American equivalent of India's Council of Ministers.
 
 ### Q15. India-Britain difference
 
@@ -291,15 +168,6 @@ B. 2 and 3 only
 C. 1, 2 and 3
 D. 1 only
 
-**Answer: C.**
-
-- **A:** Incorrect. Statements 1 and 2 are true, but statement 3 is also a valid India-Britain distinction.
-- **B:** Incorrect. It omits India's republican headship while correctly including the other two differences.
-- **C:** Correct. Republican headship, constitutional supremacy and eligibility of an Indian PM from either House distinguish the Indian adaptation.
-- **D:** Incorrect. It ignores the written supreme Constitution and the House-membership convention.
-
-**Examiner trap:** India borrowed responsible government, not monarchy or Westminster parliamentary sovereignty.
-
 ### Q16. Adoption rationale
 
 Which was **not** a defensible reason for India's adoption of parliamentary government?
@@ -308,15 +176,6 @@ A. Preference for daily responsibility
 B. Accommodation of plural representation
 C. Familiarity with responsible institutions
 D. Desire to make Parliament legally sovereign over the Constitution
-
-**Answer: D.**
-
-- **A:** Incorrect. Ambedkar's responsibility-over-fixed-stability reasoning supports the parliamentary choice.
-- **B:** Incorrect. A multi-member ministry can facilitate plural and coalition representation.
-- **C:** Incorrect. Experience with responsible institutions was a practical transition argument.
-- **D:** Correct. India placed Parliament under a supreme Constitution rather than making it legally unlimited.
-
-**Examiner trap:** Do not confuse choosing parliamentary government with importing British parliamentary sovereignty.
 
 ### Q17. Coalition evidence
 
@@ -327,15 +186,6 @@ B. Single-party governments cannot produce cabinet dominance.
 C. Every coalition necessarily collapses before five years.
 D. Anti-defection guarantees perfect cabinet stability.
 
-**Answer: A.**
-
-- **A:** Correct. Coalition instability is a risk, but full-term coalition governments demonstrate that it depends on party agreements and political conditions.
-- **B:** Incorrect. A single-party majority can intensify cabinet or prime-ministerial dominance.
-- **C:** Incorrect. Indian coalition history includes governments completing a full Lok Sabha term.
-- **D:** Incorrect. Anti-defection reduces some switching but cannot guarantee cohesion, legitimacy or policy agreement.
-
-**Examiner trap:** Institutional form shapes incentives; it does not mechanically determine a government's lifespan.
-
 ### Q18. Cabinet-dominance chain
 
 Which sequence is most accurate?
@@ -344,15 +194,6 @@ A. Federalism -> fixed tenure -> no dissolution
 B. Majority + whip -> agenda/time control -> reduced scrutiny, qualified by committees and confidence power
 C. Rajya Sabha no-confidence -> PM dismissal
 D. Judicial review -> cabinet secrecy -> parliamentary sovereignty
-
-**Answer: B.**
-
-- **A:** Incorrect. Federalism and fixed tenure do not describe the causal route by which an Indian cabinet controls Parliament.
-- **B:** Correct. Majority support and whip discipline aid agenda control, which may reduce scrutiny but remains qualified by committees and confidence mechanisms.
-- **C:** Incorrect. Rajya Sabha cannot carry a no-confidence motion against the Union Council.
-- **D:** Incorrect. Judicial review limits legal power; it does not create cabinet secrecy or parliamentary sovereignty.
-
-**Examiner trap:** Cabinet dominance is a mechanism chain, not proof that Parliament has lost constitutional authority.
 
 ### Q19. PRS evidence
 
@@ -363,15 +204,6 @@ B. All Bills in the 17th Lok Sabha were referred to committees.
 C. It sat 274 days, while committee referral was lower than in the 16th and 15th Lok Sabhas.
 D. PRS found that parliamentary committees had been abolished.
 
-**Answer: C.**
-
-- **A:** Incorrect. The verified figure is 274 sitting days, not a claim of an all-time record among every House.
-- **B:** Incorrect. Only 16% of Bills were referred to committees, so universal referral is the opposite of the evidence.
-- **C:** Correct. PRS reports 274 sitting days and lower referral than the 16th and 15th Lok Sabhas.
-- **D:** Incorrect. Parliamentary committees continued to exist; the issue is reduced referral, not abolition.
-
-**Examiner trap:** Use the PRS figures as evidence of scrutiny opportunity, not as proof that every Bill escaped examination.
-
 ### Q20. Simultaneous-elections control
 
 As of 7 September 2026, which is correct?
@@ -380,15 +212,6 @@ A. Parliament has enacted a mandatory implementation year.
 B. Article 82A is operative constitutional law.
 C. The Joint Committee has conclusively upheld every provision.
 D. The 129th Amendment Bill remains a proposal under Joint Committee consideration.
-
-**Answer: D.**
-
-- **A:** Incorrect. No mandatory implementation year has been enacted.
-- **B:** Incorrect. Proposed Article 82A has not entered the Constitution.
-- **C:** Incorrect. Committee consideration is not final parliamentary or judicial review of every clause.
-- **D:** Correct. The official committee page still lists the 129th Amendment Bill inquiry; the proposal is not current law.
-
-**Examiner trap:** Bill, committee report, enacted amendment, commencement and implementation are separate legal stages.
 
 ### Q21. Articles 77 and 78
 
@@ -399,15 +222,6 @@ B. Article 77 - State business; Article 78 - Governor discretion.
 C. Article 77 - no-confidence; Article 78 - ministerial oath.
 D. Article 77 - parliamentary privilege; Article 78 - dissolution.
 
-**Answer: A.**
-
-- **A:** Correct. Article 77 governs Union business form and authentication; Article 78 creates the PM-President information channel.
-- **B:** Incorrect. State business is Article 166 and gubernatorial discretion is principally connected to Article 163.
-- **C:** Incorrect. No-confidence arises from Article 75(3) responsibility, while oaths are under Article 75(4) and the Third Schedule.
-- **D:** Incorrect. Privilege and dissolution are governed elsewhere; neither is the function of Articles 77-78.
-
-**Examiner trap:** Read Articles 77-78 as administration plus constitutional communication, not confidence rules.
-
 ### Q22. State Council
 
 Which statement is correct?
@@ -416,15 +230,6 @@ A. Governor may permanently reject reconsidered advice in all matters.
 B. It is collectively responsible to the Legislative Assembly, and the 15% cap is subject to a minimum of 12 ministers.
 C. State Council is collectively responsible to Legislative Council wherever one exists.
 D. A non-legislator State minister has a twelve-month window.
-
-**Answer: B.**
-
-- **A:** Incorrect. Article 163 discretion is bounded; no general permanent veto over reiterated advice exists.
-- **B:** Correct. Article 164(2) fixes Assembly responsibility and Article 164(1A) combines the 15% ceiling with a minimum of twelve.
-- **C:** Incorrect. Even in bicameral States, the Council is collectively responsible to the Legislative Assembly.
-- **D:** Incorrect. Article 164(4) gives a six-month, not twelve-month, non-member window.
-
-**Examiner trap:** The lower House is the confidence chamber at both Union and State levels.
 
 ### Q23. Three responsibility concepts
 
@@ -435,15 +240,6 @@ B. Legal responsibility and collective responsibility are identical.
 C. Collective responsibility concerns the team before Lok Sabha; individual tenure operates through pleasure/PM advice; India lacks the British universal countersignature model.
 D. Collective responsibility means each minister must countersign every presidential act.
 
-**Answer: C.**
-
-- **A:** Incorrect. Rajya Sabha cannot dismiss an individual minister through confidence procedure.
-- **B:** Incorrect. Legal countersignature and political team responsibility answer different constitutional questions.
-- **C:** Correct. Collective, individual and legal responsibility concern ministry survival, a minister's tenure, and formal countersignature respectively.
-- **D:** Incorrect. India does not require each minister to countersign every presidential act.
-
-**Examiner trap:** Do not collapse three responsibility doctrines into the single phrase 'ministerial responsibility'.
-
 ### Q24. Advanced labels
 
 Which is correct?
@@ -452,15 +248,6 @@ A. “Prime-ministerial government” is text in Article 78.
 B. “Cabinet dictatorship” is a binding Supreme Court doctrine.
 C. “Elective dictatorship” abolishes the need for elections.
 D. These are analytical labels for power distribution and must not be treated as constitutional rules.
-
-**Answer: D.**
-
-- **A:** Incorrect. Article 78 establishes communication duties; it does not constitutionalise the scholarly label 'prime-ministerial government'.
-- **B:** Incorrect. 'Cabinet dictatorship' is a political critique, not a binding judicial doctrine.
-- **C:** Incorrect. Elective dictatorship describes majority-enabled concentration despite elections; it does not abolish elections.
-- **D:** Correct. These labels interpret political practice and cannot displace constitutional text, conventions and cases.
-
-**Examiner trap:** Analytical labels diagnose power distribution; they are not Articles, holdings or automatic facts.
 
 ### Q25. Advice after reconsideration
 
@@ -471,15 +258,6 @@ B. The President may refer it to Rajya Sabha.
 C. The advice automatically lapses.
 D. The President may call a referendum.
 
-**Answer: A.**
-
-- **A:** Correct. Reconsideration is available once; reiterated advice binds the President.
-- **B:** Incorrect. Rajya Sabha has no referral role in the Article 74 reconsideration process.
-- **C:** Incorrect. Reaffirmed advice remains operative rather than lapsing.
-- **D:** Incorrect. The Constitution provides no referendum route for ministerial advice.
-
-**Examiner trap:** One reconsideration is a cautionary delay, not a second executive mandate.
-
 ### Q26. Confidence chamber
 
 Which body can remove the Union Council through a no-confidence motion?
@@ -488,15 +266,6 @@ A. Joint sitting
 B. Lok Sabha
 C. Rajya Sabha alone
 D. Supreme Court
-
-**Answer: B.**
-
-- **A:** Incorrect. A joint sitting cannot substitute for Lok Sabha confidence.
-- **B:** Correct. Article 75(3) makes Lok Sabha the body before which the Union Council survives or falls.
-- **C:** Incorrect. Rajya Sabha can scrutinise but cannot remove the Council by no-confidence.
-- **D:** Incorrect. Courts review legality; they do not cast legislative confidence votes.
-
-**Examiner trap:** Locate confidence in the popularly elected House, not in Parliament collectively.
 
 ### Q27. Six-month rule
 
@@ -507,15 +276,6 @@ B. must enter Lok Sabha only.
 C. must become a member of either House within six consecutive months or cease to be minister.
 D. can never vote but may remain for five years.
 
-**Answer: C.**
-
-- **A:** Incorrect. Appointment does not create automatic membership of Rajya Sabha.
-- **B:** Incorrect. The person may enter either House, not only Lok Sabha.
-- **C:** Correct. Article 75(5) requires membership of either House within six consecutive months.
-- **D:** Incorrect. The constitutional window is six months and cannot last for the full term.
-
-**Examiner trap:** A non-member minister is constitutionally temporary, not a permanent technocratic exception.
-
 ### Q28. Government versus sovereignty
 
 Which statement is correct?
@@ -524,15 +284,6 @@ A. India follows British parliamentary sovereignty.
 B. Parliamentary government always makes Parliament legally unlimited.
 C. Judicial review is incompatible with responsible government.
 D. India has parliamentary government within a supreme, judicially enforceable Constitution.
-
-**Answer: D.**
-
-- **A:** Incorrect. Parliamentary government does not itself produce British legal sovereignty.
-- **B:** Incorrect. Responsible government can operate beneath a supreme written Constitution.
-- **C:** Incorrect. Judicial review and parliamentary responsibility control different relationships and coexist in India.
-- **D:** Correct. India's ministry is confidence-dependent while Parliament remains constitutionally limited and judicially reviewable.
-
-**Examiner trap:** Separate who controls the ministry from what legal norm is supreme.
 
 ### Q29. US “Kitchen Cabinet”
 
@@ -543,15 +294,6 @@ B. It is the US lower House.
 C. Its members must be senators.
 D. It is collectively responsible to Congress.
 
-**Answer: A.**
-
-- **A:** Correct. 'Kitchen cabinet' denotes informal presidential advisers, not the formal departmental structure.
-- **B:** Incorrect. The phrase has no meaning as the US lower legislative chamber.
-- **C:** Incorrect. Informal advisers need not be senators.
-- **D:** Incorrect. Informal advisers and department secretaries are not collectively responsible to Congress.
-
-**Examiner trap:** The informal label cannot be used to describe the legally constituted US Cabinet.
-
 ### Q30. Government defeat
 
 Which formulation is most accurate?
@@ -560,15 +302,6 @@ A. Rajya Sabha alone determines Union confidence.
 B. No-confidence or denial of essential supply is decisive/grave; other defeats require context.
 C. Every lost division automatically dissolves Lok Sabha.
 D. Financial business never affects confidence.
-
-**Answer: B.**
-
-- **A:** Incorrect. Union confidence is not determined by Rajya Sabha alone.
-- **B:** Correct. Express confidence loss or essential supply defeat is grave, while other adverse votes need contextual assessment.
-- **C:** Incorrect. A lost division does not automatically dissolve the House.
-- **D:** Incorrect. Financial authorisation is central to a government's capacity to remain in office.
-
-**Examiner trap:** Ask whether the vote expressly or functionally tests the government's ability to govern.
 
 ### Q31. Floor test
 
@@ -579,15 +312,6 @@ B. election of the President.
 C. disputed State-government majority and Article 356 review.
 D. authentication under Article 77.
 
-**Answer: C.**
-
-- **A:** Incorrect. Judicial appointments are unrelated to the floor-test doctrine examined here.
-- **B:** Incorrect. Presidential election disputes follow a separate constitutional process.
-- **C:** Correct. The doctrine addresses disputed State-government support and judicial review of Article 356 action.
-- **D:** Incorrect. Article 77 authentication does not require a legislative majority test.
-
-**Examiner trap:** Floor tests prove political support in the House; they do not validate unrelated constitutional acts.
-
 ### Q32. Article 82A status
 
 As of the package control date:
@@ -597,7 +321,344 @@ B. The Supreme Court has approved a final implementation year.
 C. Article 82A has already shortened every Assembly term.
 D. Article 82A remains proposed text in a pending constitutional-amendment Bill.
 
-**Answer: D.**
+### Q33. A defeated Union ministry proposes dissolution rather than resigning; an alternative leader claims a demonstrable Lok Sabha majority. What distinction matters?
+
+- A. The President normally acts on constitutional advice, but dissolution and an available alternative government must be assessed under responsible-government conventions, not an automatic right of the defeated ministry.
+- B. The outgoing ministry may indefinitely block any alternative by asserting Cabinet secrecy.
+- C. Rajya Sabha decides whom the President must appoint Prime Minister.
+- D. Dissolution is an automatic consequence of losing any ordinary division.
+
+### Q34. A Cabinet minister publicly rejects a major government decision but wishes to retain office while asserting that only personal responsibility applies. Which answer is strongest?
+
+- A. The minister may unilaterally opt out of collective responsibility by issuing a press release.
+- B. Article 75(3) establishes collective responsibility to Lok Sabha; Cabinet solidarity ordinarily requires acceptance of the decision or resignation.
+- C. Ministerial dissent automatically triggers a Supreme Court vote of no confidence.
+- D. Collective responsibility is exclusively owed to Rajya Sabha.
+
+### Q35. Which claim best distinguishes a directly elected fixed-term President from India's parliamentary executive?
+
+- A. The Indian President heads the Cabinet in day-to-day policy as a US President does.
+- B. Parliamentary systems necessarily prohibit judicial review.
+- C. Independent presidential tenure and separation of executive-legislative membership differ from a ministry dependent on Lok Sabha confidence; both systems can have checks.
+- D. A presidential system has no legislative scrutiny of its executive.
+
+### Q36. An appointed minister remains outside both Houses for six consecutive months, is reappointed immediately without election, and claims a fresh six-month period. Which constitutional concern is most acute?
+
+- A. Article 75(5) requires Lok Sabha membership on the first day of ministerial office.
+- B. A minister obtains automatic Rajya Sabha membership on reappointment.
+- C. The Prime Minister can waive Article 75(5) by executive instruction.
+- D. Repeated appointments cannot be used to evade the membership condition of Article 75(5) indefinitely.
+
+### Q37. A State Governor asserts the Council has lost majority based only on press reports while the Assembly can meet. What is the institutionally appropriate test?
+
+- A. An Assembly floor test ordinarily resolves contested majority; extraneous assertions cannot substitute for House numbers.
+- B. The Governor's personal estimate conclusively determines confidence.
+- C. The Rajya Sabha must decide the State Council's fate.
+- D. An automatic President's Rule proclamation must precede any confidence vote.
+
+### Q38. A minister is a member of Rajya Sabha and speaks in Lok Sabha on a Bill; later a division occurs. Which rights attach in Lok Sabha?
+
+- A. Article 88 excludes the minister from speaking in the other House.
+- B. Article 88 permits participation there, but voting requires Lok Sabha membership; a Rajya Sabha seat does not confer that vote.
+- C. The minister may vote only if the Bill is financial.
+- D. Cabinet office confers a vote in both Houses.
+
+### Q39. A minister in a coalition resigns after a policy disagreement. Does this resignation itself prove that the entire Council has lost confidence?
+
+- A. Yes: one resignation constitutionally removes all ministers regardless of majority.
+- B. No: coalition partners are legally barred from withdrawing support.
+- C. No: individual resignation and collective loss of Lok Sabha majority are separate, though coalition arithmetic can make the latter a practical consequence.
+- D. Yes: every resignation requires automatic dissolution.
+
+### Q40. Which inference follows from a government controlling the legislative agenda while its members retain a working majority?
+
+- A. Control of the agenda abolishes judicial review.
+- B. A majority means individual legislators have no legal powers.
+- C. Parliamentary government guarantees that every Bill is unanimously adopted.
+- D. Executive-legislative fusion may increase coordination but also risk Cabinet dominance, making scrutiny, opposition and committees significant counterweights.
+
+## SOLVED KEY TO ORIGINAL MCQS
+
+### Q1 — A
+
+- **A:** Correct. The 44th Amendment allows one reconsideration, and Article 74(2) shields the advice from inquiry without making the resulting action immune from review.
+- **B:** Incorrect. It omits statement 3, which preserves review of the executive action on constitutional grounds even though ministerial advice itself is protected.
+- **C:** Incorrect. Statement 2 invents a permanent presidential veto after reconsideration, contrary to the binding character of reiterated advice.
+- **D:** Incorrect. Statement 2 is false, while statement 1 correctly recognises the single reconsideration opportunity.
+
+**Examiner trap:** Do not convert Article 74(2)'s advice privilege into immunity for the executive action or its supporting material.
+
+### Q2 — B
+
+- **A:** Incorrect. Article 166 concerns State executive action in the Governor's name, not Union business in the President's name.
+- **B:** Correct. Article 167 requires the Chief Minister to communicate Council decisions and furnish information to the Governor.
+- **C:** Incorrect. Article 88 governs participation of Union ministers and the Attorney-General in Parliament; State collective responsibility is in Article 164(2).
+- **D:** Incorrect. Article 77 regulates the form, authentication and allocation of Union executive business; Article 75(3) supplies collective responsibility.
+
+**Examiner trap:** Pair Union Articles 77-78 with State Articles 166-167; responsibility is located separately in Articles 75 and 164.
+
+### Q3 — C
+
+- **A:** Incorrect. It excludes the State ministry cap and minimum, both expressly contained in Article 164(1A).
+- **B:** Incorrect. It omits the constitutional minimum of twelve ministers for a State Council.
+- **C:** Correct. The 91st Amendment inserted the Union and State 15% caps, with a State minimum of twelve.
+- **D:** Incorrect. The Union cap and the common amendment source are also correct, so this partial combination is incomplete.
+
+**Examiner trap:** The 15% ceiling applies at both levels, but only the State provision carries a minimum of twelve.
+
+### Q4 — D
+
+- **A:** Incorrect. Article 88 does not create a bill-specific voting right for a minister who lacks membership of that House.
+- **B:** Incorrect. Executive office permits participation, not voting across House boundaries.
+- **C:** Incorrect. Article 88 expressly permits the minister to speak and participate in the other House.
+- **D:** Correct. The Rajya Sabha minister may participate in Lok Sabha but votes only in Rajya Sabha, where membership lies.
+
+**Examiner trap:** Separate participation by office under Article 88 from voting by House membership.
+
+### Q5 — A
+
+- **A:** Correct. *Shamsher Singh* treats the President and Governor as constitutional heads ordinarily acting on responsible advice, while preserving constitutionally assigned gubernatorial discretion.
+- **B:** Incorrect. Formal vesting under Article 53 must be read with Article 74; it does not authorise personal presidential government.
+- **C:** Incorrect. Article 163 and specific constitutional provisions preserve a bounded field of Governor discretion.
+- **D:** Incorrect. The President is indirectly elected and does not possess a rival political mandate to govern against Lok Sabha-responsible ministers.
+
+**Examiner trap:** Formal vesting and ministerial control coexist; neither proposition cancels the other.
+
+### Q6 — B
+
+- **A:** Incorrect. Dissolution does not create an interval of personal presidential rule.
+- **B:** Correct. *U.N.R. Rao* harmonised mandatory ministerial advice under Article 74 with the temporary absence of a House capable of testing Article 75(3) confidence.
+- **C:** Incorrect. Collective responsibility is not permanently suspended; it becomes testable when the new House exists.
+- **D:** Incorrect. The Council continues through dissolution to preserve responsible executive continuity.
+
+**Examiner trap:** A dissolved House cannot test confidence, but dissolution does not abolish the Council of Ministers.
+
+### Q7 — C
+
+- **A:** Incorrect. An Indian Prime Minister may belong to Rajya Sabha; the British Commons convention is not constitutional law in India.
+- **B:** Incorrect. Existing Lok Sabha membership is not a condition precedent to appointment.
+- **C:** Correct. *S.P. Anand* supports appointment of a non-member PM subject to entry into either House within six consecutive months.
+- **D:** Incorrect. Article 75(5) fixes six months, not the life of the Lok Sabha.
+
+**Examiner trap:** The six-month rule is a temporary bridge to legislative membership, not an external-executive exception.
+
+### Q8 — D
+
+- **A:** Incorrect. *Bommai* rejects private or subjective majority assessment as a substitute for the Assembly floor.
+- **B:** Incorrect. The case concerns disputed State majority and Article 356 review, not the confidence status of every Union bill.
+- **C:** Incorrect. *Bommai* limits and reviews Article 356 use; it does not repeal the Article.
+- **D:** Correct. The judgment supports floor determination of majority and judicial examination of proclamation material.
+
+**Examiner trap:** Use *Bommai* for House-based proof of majority, while leaving detailed Governor procedure to its own topic.
+
+### Q9 — A
+
+- **A:** Correct. Collective responsibility combines continuing Lok Sabha confidence with public solidarity behind settled government policy.
+- **B:** Incorrect. Article 75(3) names Lok Sabha, not Rajya Sabha, as the confidence chamber.
+- **C:** Incorrect. Cabinet government permits candid internal disagreement before a collective decision.
+- **D:** Incorrect. Ministers are appointed constitutionally; Lok Sabha does not elect each minister individually.
+
+**Examiner trap:** Collective responsibility is both external confidence and internal solidarity, not uniform private opinion.
+
+### Q10 — B
+
+- **A:** Incorrect. Parliamentary practice does not make every adverse division an automatic confidence loss.
+- **B:** Correct. Express confidence defeat and denial of essential supply are decisive or grave; other defeats require context and possible testing.
+- **C:** Incorrect. Rajya Sabha cannot dismiss the Union Council, and it has only a recommendatory role on a Money Bill.
+- **D:** Incorrect. Supply is indispensable to governing and therefore closely linked to confidence.
+
+**Examiner trap:** Do not equate an ordinary legislative setback with a carried no-confidence motion.
+
+### Q11 — C
+
+- **A:** Incorrect. Coalition participation by regional parties is compatible with parliamentary government.
+- **B:** Incorrect. Political homogeneity is a textbook tendency, not a single-party constitutional condition.
+- **C:** Correct. Coalitions translate homogeneity into a common programme, negotiated consensus and cabinet solidarity.
+- **D:** Incorrect. Political disagreement may be managed; it does not automatically terminate the ministry.
+
+**Examiner trap:** In coalition government, common responsibility matters more than identical ideology.
+
+### Q12 — D
+
+- **A:** Incorrect. The Third Schedule gives secrecy a constitutional oath basis.
+- **B:** Incorrect. Secrecy does not override constitutional courts or lawful disclosure duties in every situation.
+- **C:** Incorrect. Cabinet confidentiality coexists with parliamentary questions, financial control and audit.
+- **D:** Correct. Secrecy protects candid deliberation while remaining bounded by legislative, judicial, audit and statutory accountability.
+
+**Examiner trap:** Treat secrecy as functional confidentiality, never as absolute executive opacity.
+
+### Q13 — A
+
+- **A:** Correct. Confidence dependence, ministerial legislative membership and possible lower-House dissolution form the parliamentary cluster.
+- **B:** Incorrect. A defining parliamentary possibility is lower-House dissolution under constitutional rules.
+- **C:** Incorrect. Presidential department heads cannot simultaneously serve in Congress.
+- **D:** Incorrect. Fixed tenure and separation are presidential features, whereas collective responsibility and fusion are parliamentary.
+
+**Examiner trap:** Compare systems by institutional axes, not by attaching one familiar feature to the wrong cluster.
+
+### Q14 — B
+
+- **A:** Incorrect. The incompatibility of executive office and congressional membership is a feature of the US separation model.
+- **B:** Correct. Department secretaries are formal officers; 'kitchen cabinet' denotes informal advisers.
+- **C:** Incorrect. The informal historical label is not the constitutional title of the US Cabinet.
+- **D:** Incorrect. Congress exercises oversight and impeachment-related powers, but no-confidence does not remove the US Cabinet.
+
+**Examiner trap:** Never use 'Kitchen Cabinet' as the formal American equivalent of India's Council of Ministers.
+
+### Q15 — C
+
+- **A:** Incorrect. Statements 1 and 2 are true, but statement 3 is also a valid India-Britain distinction.
+- **B:** Incorrect. It omits India's republican headship while correctly including the other two differences.
+- **C:** Correct. Republican headship, constitutional supremacy and eligibility of an Indian PM from either House distinguish the Indian adaptation.
+- **D:** Incorrect. It ignores the written supreme Constitution and the House-membership convention.
+
+**Examiner trap:** India borrowed responsible government, not monarchy or Westminster parliamentary sovereignty.
+
+### Q16 — D
+
+- **A:** Incorrect. Ambedkar's responsibility-over-fixed-stability reasoning supports the parliamentary choice.
+- **B:** Incorrect. A multi-member ministry can facilitate plural and coalition representation.
+- **C:** Incorrect. Experience with responsible institutions was a practical transition argument.
+- **D:** Correct. India placed Parliament under a supreme Constitution rather than making it legally unlimited.
+
+**Examiner trap:** Do not confuse choosing parliamentary government with importing British parliamentary sovereignty.
+
+### Q17 — A
+
+- **A:** Correct. Coalition instability is a risk, but full-term coalition governments demonstrate that it depends on party agreements and political conditions.
+- **B:** Incorrect. A single-party majority can intensify cabinet or prime-ministerial dominance.
+- **C:** Incorrect. Indian coalition history includes governments completing a full Lok Sabha term.
+- **D:** Incorrect. Anti-defection reduces some switching but cannot guarantee cohesion, legitimacy or policy agreement.
+
+**Examiner trap:** Institutional form shapes incentives; it does not mechanically determine a government's lifespan.
+
+### Q18 — B
+
+- **A:** Incorrect. Federalism and fixed tenure do not describe the causal route by which an Indian cabinet controls Parliament.
+- **B:** Correct. Majority support and whip discipline aid agenda control, which may reduce scrutiny but remains qualified by committees and confidence mechanisms.
+- **C:** Incorrect. Rajya Sabha cannot carry a no-confidence motion against the Union Council.
+- **D:** Incorrect. Judicial review limits legal power; it does not create cabinet secrecy or parliamentary sovereignty.
+
+**Examiner trap:** Cabinet dominance is a mechanism chain, not proof that Parliament has lost constitutional authority.
+
+### Q19 — C
+
+- **A:** Incorrect. The verified figure is 274 sitting days, not a claim of an all-time record among every House.
+- **B:** Incorrect. Only 16% of Bills were referred to committees, so universal referral is the opposite of the evidence.
+- **C:** Correct. PRS reports 274 sitting days and lower referral than the 16th and 15th Lok Sabhas.
+- **D:** Incorrect. Parliamentary committees continued to exist; the issue is reduced referral, not abolition.
+
+**Examiner trap:** Use the PRS figures as evidence of scrutiny opportunity, not as proof that every Bill escaped examination.
+
+### Q20 — D
+
+- **A:** Incorrect. No mandatory implementation year has been enacted.
+- **B:** Incorrect. Proposed Article 82A has not entered the Constitution.
+- **C:** Incorrect. Committee consideration is not final parliamentary or judicial review of every clause.
+- **D:** Correct. The official committee page still lists the 129th Amendment Bill inquiry; the proposal is not current law.
+
+**Examiner trap:** Bill, committee report, enacted amendment, commencement and implementation are separate legal stages.
+
+### Q21 — A
+
+- **A:** Correct. Article 77 governs Union business form and authentication; Article 78 creates the PM-President information channel.
+- **B:** Incorrect. State business is Article 166 and gubernatorial discretion is principally connected to Article 163.
+- **C:** Incorrect. No-confidence arises from Article 75(3) responsibility, while oaths are under Article 75(4) and the Third Schedule.
+- **D:** Incorrect. Privilege and dissolution are governed elsewhere; neither is the function of Articles 77-78.
+
+**Examiner trap:** Read Articles 77-78 as administration plus constitutional communication, not confidence rules.
+
+### Q22 — B
+
+- **A:** Incorrect. Article 163 discretion is bounded; no general permanent veto over reiterated advice exists.
+- **B:** Correct. Article 164(2) fixes Assembly responsibility and Article 164(1A) combines the 15% ceiling with a minimum of twelve.
+- **C:** Incorrect. Even in bicameral States, the Council is collectively responsible to the Legislative Assembly.
+- **D:** Incorrect. Article 164(4) gives a six-month, not twelve-month, non-member window.
+
+**Examiner trap:** The lower House is the confidence chamber at both Union and State levels.
+
+### Q23 — C
+
+- **A:** Incorrect. Rajya Sabha cannot dismiss an individual minister through confidence procedure.
+- **B:** Incorrect. Legal countersignature and political team responsibility answer different constitutional questions.
+- **C:** Correct. Collective, individual and legal responsibility concern ministry survival, a minister's tenure, and formal countersignature respectively.
+- **D:** Incorrect. India does not require each minister to countersign every presidential act.
+
+**Examiner trap:** Do not collapse three responsibility doctrines into the single phrase 'ministerial responsibility'.
+
+### Q24 — D
+
+- **A:** Incorrect. Article 78 establishes communication duties; it does not constitutionalise the scholarly label 'prime-ministerial government'.
+- **B:** Incorrect. 'Cabinet dictatorship' is a political critique, not a binding judicial doctrine.
+- **C:** Incorrect. Elective dictatorship describes majority-enabled concentration despite elections; it does not abolish elections.
+- **D:** Correct. These labels interpret political practice and cannot displace constitutional text, conventions and cases.
+
+**Examiner trap:** Analytical labels diagnose power distribution; they are not Articles, holdings or automatic facts.
+
+### Q25 — A
+
+- **A:** Correct. Reconsideration is available once; reiterated advice binds the President.
+- **B:** Incorrect. Rajya Sabha has no referral role in the Article 74 reconsideration process.
+- **C:** Incorrect. Reaffirmed advice remains operative rather than lapsing.
+- **D:** Incorrect. The Constitution provides no referendum route for ministerial advice.
+
+**Examiner trap:** One reconsideration is a cautionary delay, not a second executive mandate.
+
+### Q26 — B
+
+- **A:** Incorrect. A joint sitting cannot substitute for Lok Sabha confidence.
+- **B:** Correct. Article 75(3) makes Lok Sabha the body before which the Union Council survives or falls.
+- **C:** Incorrect. Rajya Sabha can scrutinise but cannot remove the Council by no-confidence.
+- **D:** Incorrect. Courts review legality; they do not cast legislative confidence votes.
+
+**Examiner trap:** Locate confidence in the popularly elected House, not in Parliament collectively.
+
+### Q27 — C
+
+- **A:** Incorrect. Appointment does not create automatic membership of Rajya Sabha.
+- **B:** Incorrect. The person may enter either House, not only Lok Sabha.
+- **C:** Correct. Article 75(5) requires membership of either House within six consecutive months.
+- **D:** Incorrect. The constitutional window is six months and cannot last for the full term.
+
+**Examiner trap:** A non-member minister is constitutionally temporary, not a permanent technocratic exception.
+
+### Q28 — D
+
+- **A:** Incorrect. Parliamentary government does not itself produce British legal sovereignty.
+- **B:** Incorrect. Responsible government can operate beneath a supreme written Constitution.
+- **C:** Incorrect. Judicial review and parliamentary responsibility control different relationships and coexist in India.
+- **D:** Correct. India's ministry is confidence-dependent while Parliament remains constitutionally limited and judicially reviewable.
+
+**Examiner trap:** Separate who controls the ministry from what legal norm is supreme.
+
+### Q29 — A
+
+- **A:** Correct. 'Kitchen cabinet' denotes informal presidential advisers, not the formal departmental structure.
+- **B:** Incorrect. The phrase has no meaning as the US lower legislative chamber.
+- **C:** Incorrect. Informal advisers need not be senators.
+- **D:** Incorrect. Informal advisers and department secretaries are not collectively responsible to Congress.
+
+**Examiner trap:** The informal label cannot be used to describe the legally constituted US Cabinet.
+
+### Q30 — B
+
+- **A:** Incorrect. Union confidence is not determined by Rajya Sabha alone.
+- **B:** Correct. Express confidence loss or essential supply defeat is grave, while other adverse votes need contextual assessment.
+- **C:** Incorrect. A lost division does not automatically dissolve the House.
+- **D:** Incorrect. Financial authorisation is central to a government's capacity to remain in office.
+
+**Examiner trap:** Ask whether the vote expressly or functionally tests the government's ability to govern.
+
+### Q31 — C
+
+- **A:** Incorrect. Judicial appointments are unrelated to the floor-test doctrine examined here.
+- **B:** Incorrect. Presidential election disputes follow a separate constitutional process.
+- **C:** Correct. The doctrine addresses disputed State-government support and judicial review of Article 356 action.
+- **D:** Incorrect. Article 77 authentication does not require a legislative majority test.
+
+**Examiner trap:** Floor tests prove political support in the House; they do not validate unrelated constitutional acts.
+
+### Q32 — D
 
 - **A:** Incorrect. No first simultaneous cycle has been constitutionally notified under an enacted Article 82A.
 - **B:** Incorrect. No final Supreme Court implementation year exists for the pending proposal.
@@ -605,6 +666,78 @@ D. Article 82A remains proposed text in a pending constitutional-amendment Bill.
 - **D:** Correct. It remains proposed text in the 129th Amendment Bill under Joint Committee consideration on the located official record.
 
 **Examiner trap:** Never answer a current-law question with the content of a pending constitutional-amendment Bill.
+
+### Q33 — A
+
+- **A:** Correct: Conventions concerning confidence and viable alternative government qualify simplistic automatic-dissolution claims.
+- **B:** Incorrect: Secrecy does not extinguish the House's confidence test.
+- **C:** Incorrect: The government must command Lok Sabha confidence, not a Rajya Sabha appointment vote.
+- **D:** Incorrect: An ordinary defeat does not invariably terminate the House or ministry.
+
+**Examiner trap:** Distinguish the legal advice machinery from conventions governing a confidence crisis.
+
+### Q34 — B
+
+- **A:** Incorrect: Individual disagreement cannot privately repeal Article 75(3).
+- **B:** Correct: Constitutional responsibility is collective, while public solidarity is sustained by political convention.
+- **C:** Incorrect: The court does not cast confidence votes.
+- **D:** Incorrect: The constitutional text designates the House of the People.
+
+**Examiner trap:** Separate personal accountability for a portfolio from a ministry's collective parliamentary survival.
+
+### Q35 — C
+
+- **A:** Incorrect: India's Council headed by the Prime Minister exercises real executive direction.
+- **B:** Incorrect: Responsible government coexists with constitutional judicial review in India.
+- **C:** Correct: The confidence relation, not an absence of accountability in the US, defines the comparison.
+- **D:** Incorrect: Legislative oversight can exist without collective responsibility.
+
+**Examiner trap:** Avoid claiming that US executive office entails either total insulation or collective congressional responsibility.
+
+### Q36 — D
+
+- **A:** Incorrect: Initial non-member appointment is expressly permissible for a limited period.
+- **B:** Incorrect: Appointment does not itself confer parliamentary membership.
+- **C:** Incorrect: A constitutional membership condition cannot be waived by instruction.
+- **D:** Correct: The temporary non-member exception is not a route to permanently bypass representative membership.
+
+**Examiner trap:** Do not confuse permission for a temporary non-member minister with an indefinitely renewable exemption.
+
+### Q37 — A
+
+- **A:** Correct: Political support is established on the elected chamber's floor, subject to constitutional safeguards.
+- **B:** Incorrect: The Governor is not the confidence chamber.
+- **C:** Incorrect: State confidence lies with the Legislative Assembly under Article 164(2).
+- **D:** Incorrect: Article 356 is not a prerequisite to a lawful floor test.
+
+**Examiner trap:** Judicial scrutiny of a floor-test direction and the floor's actual vote are distinct.
+
+### Q38 — B
+
+- **A:** Incorrect: Article 88 explicitly allows speech and participation.
+- **B:** Correct: Office yields participation, not an extra vote across chambers.
+- **C:** Incorrect: No financial-bill exception creates a vote for a non-member of that House.
+- **D:** Incorrect: Voting tracks House membership, not executive rank.
+
+**Examiner trap:** Do not count the executive's cross-House speaking right as bicameral voting membership.
+
+### Q39 — C
+
+- **A:** Incorrect: The Council remains subject to confidence rather than automatic collapse on any resignation.
+- **B:** Incorrect: Coalition partners may withdraw support; the resulting majority must be tested.
+- **C:** Correct: Political arithmetic needs assessment; an individual's departure does not automatically constitute a no-confidence vote.
+- **D:** Incorrect: Dissolution is not triggered by one resignation as a legal rule.
+
+**Examiner trap:** Distinguish a ministerial vacancy from a House-level loss of collective confidence.
+
+### Q40 — D
+
+- **A:** Incorrect: Judicial review arises from constitutional limits and is not erased by the agenda.
+- **B:** Incorrect: Members retain legislative rights even when party discipline influences behaviour.
+- **C:** Incorrect: A working majority is not unanimity.
+- **D:** Correct: Fusion generates both the efficiency case and a concrete accountability problem.
+
+**Examiner trap:** Accountability must be assessed in actual committee and House practice, not inferred from fusion alone.
 
 ## PYQS AND ANSWER PRACTICE
 

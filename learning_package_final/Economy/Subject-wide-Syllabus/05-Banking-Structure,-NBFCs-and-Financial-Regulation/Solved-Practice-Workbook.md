@@ -1,10 +1,10 @@
 # Banking Structure, NBFCs and Financial Regulation - Solved Practice Workbook
 
-**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 substantive unique option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
+**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 question-specific option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-**Practice contract:** exactly 32 original MCQs; correct answers follow `ABCD` repeated eight times. Every option receives a question-specific explanation.
+**Practice contract:** exactly 32 original MCQs; correct answers follow `ABCD` repeated eight times. Every option receives a question-specific explanation in the separate key below; complete all questions before consulting it.
 
 ### MCQ 1
 
@@ -14,8 +14,260 @@ Which feature is part of the statutory meaning of banking under section 5(b) of 
 - B. Accepting only equity capital for own investment
 - C. Providing investment advice without taking repayable funds
 - D. Operating a securities exchange for listed companies
+### MCQ 2
 
-**Answer: A.**
+On a commercial bank's balance sheet, which item is ordinarily a liability?
+
+- A. Loans to households
+- B. Customer fixed deposits
+- C. Government securities held by the bank
+- D. Cash balance maintained with RBI
+### MCQ 3
+
+What best describes maturity transformation by a bank?
+
+- A. Turning every term deposit into equity capital
+- B. Exchanging damaged currency notes for new notes
+- C. Funding longer loans with a mix that includes shorter or withdrawable liabilities
+- D. Converting a non-performing loan into cash without loss
+### MCQ 4
+
+Which statement about scheduled-bank status is correct?
+
+- A. It is conferred automatically on every company licensed to lend
+- B. It means the bank is owned by the Union Government
+- C. It guarantees that RBI will prevent the bank from failing
+- D. It is defined by inclusion in the Second Schedule to the RBI Act, 1934
+### MCQ 5
+
+An RBI inspection flags connected lending at a government-owned commercial bank. Which allocation of responsibilities is legally coherent?
+
+- A. Its board and management address lending controls; RBI exercises supervisory powers; the government remains owner, not loan sanctioner
+- B. RBI becomes owner upon inspection and alone must appoint the bank's borrowers
+- C. The owner takes over RBI's prudential powers while the bank retains only payment functions
+- D. The Monetary Policy Committee adjudicates connected loans while the board sets the repo rate
+### MCQ 6
+
+Which statement about a foreign bank's presence in India is most accurate?
+
+- A. A foreign bank can operate only through a representative office that accepts deposits
+- B. A branch and a locally incorporated wholly owned subsidiary are distinct regulatory forms
+- C. Both forms have identical local capital and governance treatment
+- D. Foreign ownership removes RBI licensing jurisdiction
+### MCQ 7
+
+What is the statutory ownership ratio of a Regional Rural Bank?
+
+- A. Union Government 51%, RBI 24%, NABARD 25%
+- B. Sponsor bank 50%, State Government 35%, Union Government 15%
+- C. Union Government 50%, sponsor bank 35%, State Government 15%
+- D. Union and State Governments hold 50% each
+### MCQ 8
+
+What is the safest description of co-operative-bank dual control after the 2020 amendment?
+
+- A. All State and Central Registrar powers were abolished
+- B. RBI regulates only payments while States regulate prudence
+- C. Every primary co-operative society became an insured bank
+- D. RBI's banking and governance powers expanded, while co-operative-law functions still remain with the relevant registrar
+### MCQ 9
+
+Which feature most clearly characterises the Local Area Bank model?
+
+- A. A banking licence combined with a deliberately limited local geography
+- B. A nationwide bank prohibited from local lending
+- C. An NBFC permitted to issue cheques without a bank licence
+- D. A co-operative society owned only by its borrowers
+### MCQ 10
+
+Which statement about Small Finance Banks is correct as of the cited rules?
+
+- A. They may provide payments but cannot lend from their balance sheet
+- B. They accept deposits and lend, with an overall PSL target of 60% from FY 2025-26
+- C. They are always Base-Layer NBFCs
+- D. Their PSL target is permanently fixed by the Constitution
+### MCQ 11
+
+Which combination correctly describes a Payments Bank under RBI directions updated 1 April 2026?
+
+- A. Term project lending is permitted but remittances are prohibited
+- B. Credit cards are permitted if deposits stay below Rs 2 lakh
+- C. Demand deposits and payments are permitted, but own-balance-sheet lending is prohibited
+- D. It is an NBFC because it cannot lend
+### MCQ 12
+
+What is the current Payments Bank customer-balance rule cited in this package?
+
+- A. Maximum Rs 2 lakh across every bank owned by the customer
+- B. Minimum Rs 2 lakh balance before payments are allowed
+- C. No cap applies because DICGC insurance is Rs 5 lakh
+- D. Maximum Rs 2 lakh per individual customer at the end of the day
+### MCQ 13
+
+Which statement best describes a Business Correspondent?
+
+- A. An agent delivering specified bank services while the bank remains responsible
+- B. A separate bank that may create deposits in its own name
+- C. An unregulated lender exempt from customer-protection rules
+- D. A DICGC office that pays insured deposits
+### MCQ 14
+
+Which statutory provision is central to licensing a banking company?
+
+- A. Section 42 of the RBI Act alone
+- B. Section 22 of the Banking Regulation Act, 1949
+- C. Section 3 of the DICGC Act
+- D. Section 45-IA of the RBI Act for every bank
+### MCQ 15
+
+Which institutions are excluded from the revised SCB PCA framework effective 1 January 2022?
+
+- A. Foreign bank branches and subsidiaries
+- B. All private-sector banks
+- C. Small Finance Banks, Payments Banks and Regional Rural Banks
+- D. All non-scheduled commercial banks only
+### MCQ 16
+
+Which statement correctly distinguishes PCA from resolution?
+
+- A. PCA automatically pays every depositor Rs 5 lakh
+- B. PCA transfers ownership to RBI immediately
+- C. Resolution is merely a higher CRAR threshold
+- D. PCA imposes early corrective restrictions; resolution restructures or winds down a failing institution
+### MCQ 17
+
+How are multiple accounts of one depositor in different branches of the same bank treated for DICGC cover?
+
+- A. They are aggregated when held in the same right and capacity
+- B. Each branch automatically receives a separate Rs 5 lakh cover
+- C. Only the oldest account is insured
+- D. Savings accounts are insured but fixed deposits are excluded
+### MCQ 18
+
+Which claim is outside DICGC deposit insurance?
+
+- A. A savings deposit in an insured commercial bank
+- B. A debenture issued by an NBFC
+- C. A fixed deposit in an insured RRB
+- D. A current account in an insured Local Area Bank
+### MCQ 19
+
+Under RBI's NBFC principal-business test, which combination is required?
+
+- A. Either financial assets or income exceeding 25%
+- B. All assets and all income must be financial
+- C. Financial assets over 50% of total assets and financial income over 50% of gross income
+- D. Only a company name containing finance
+### MCQ 20
+
+Which feature ordinarily separates an NBFC from a bank?
+
+- A. An NBFC cannot make loans
+- B. An NBFC cannot borrow from banks or markets
+- C. An NBFC is never supervised by RBI
+- D. An NBFC cannot accept demand deposits or issue cheques drawn on itself
+### MCQ 21
+
+Which statement correctly distinguishes NBFC-D from NBFC-ND?
+
+- A. NBFC-D has specific permission to accept public deposits; NBFC-ND does not
+- B. NBFC-ND has no liabilities to outside parties
+- C. NBFC-D deposits receive DICGC insurance
+- D. Every registered NBFC may choose either status daily
+### MCQ 22
+
+Under RBI's scale-based NBFC framework, which placement correctly accounts for **both** specialised activity and deposit-taking?
+
+- A. NBFC-D: Base; NBFC-AA: Middle; HFC: Base
+- B. NBFC-AA: Base; NBFC-D: Middle or above; HFC: Middle or above
+- C. NBFC-P2P: Middle; NBFC-D: Base; HFC: Upper only
+- D. NBFC-AA: Upper; NBFC-D: Base; HFC: Top only
+### MCQ 23
+
+Which NBFC is necessarily placed in Middle Layer under the cited SBR directions unless in Upper Layer?
+
+- A. Every non-deposit-taking NBFC below Rs 1,000 crore
+- B. Every NBFC-P2P platform
+- C. A deposit-taking NBFC of any asset size
+- D. Every Type-I NBFC without public funds or customer interface
+### MCQ 24
+
+What changed for NBFC Upper Layer identification on 24 June 2026?
+
+- A. All NBFCs above Rs 1,000 crore automatically became Upper Layer
+- B. Upper Layer was abolished and merged into Top Layer
+- C. Every government NBFC was permanently exempt from SBR
+- D. The framework specified an audited asset-size threshold of Rs 1,00,000 crore and above
+### MCQ 25
+
+An entity has 92% of net assets in group-company exposures, but just 58% in the qualifying group equity/InvIT sponsor-unit subset. Does it satisfy **both** CIC composition tests?
+
+- A. No; the 90% group-exposure limb passes but the 60% qualifying subset limb fails
+- B. Yes; the two percentages average to at least 75%, satisfying CIC composition
+- C. Yes; the 60% limb applies only if the company accepts demand deposits
+- D. No; a CIC must hold at least 90% of **all** assets in individual housing loans
+### MCQ 26
+
+Company X has housing-finance assets of 62% of total assets, including individual-housing loans amounting to 48% of total assets. Which reading of the HFC principal-business test is sound?
+
+- A. It passes because individual housing is more than half **of its housing assets**
+- B. It fails: the housing-finance 60% limb passes, but individual housing is below 50% **of total assets**
+- C. It passes if its non-housing assets are financed exclusively by bank borrowings
+- D. It fails because HFCs require at least 90% of net assets in group companies
+### MCQ 27
+
+Which case satisfies **both** the institution-level NBFC-MFI test and the loan-level microfinance definition in the cited April 2026 RBI FAQ?
+
+- A. 75% of assets in collateral-free loans to households above the prescribed income ceiling
+- B. 74% of assets in eligible microfinance loans, with the remaining assets in treasury bills
+- C. 76% of assets in collateral-free loans to households within the prescribed annual income ceiling
+- D. 76% of assets in otherwise eligible loans secured by compulsory borrower deposits
+### MCQ 28
+
+Company Y earns 55% of gross income from factoring but holds factoring receivables equal to 49% of total assets. Under the NBFC-Factor principal-business test, which conclusion follows?
+
+- A. It qualifies because either the asset or income test above 50% suffices
+- B. It qualifies because the two measured shares average above 50%
+- C. It fails only if its factoring clients belong to one corporate group
+- D. It fails because the factoring-assets limb is below 50% despite adequate factoring income
+### MCQ 29
+
+Which activity is prohibited for an NBFC-P2P under the 2025 Directions?
+
+- A. Lending from its own balance sheet or guaranteeing participant loans
+- B. Providing an online marketplace for participants
+- C. Assessing participant eligibility under board-approved policy
+- D. Routing prescribed fund flows through escrow arrangements
+### MCQ 30
+
+Which statement best defines an NBFC-Account Aggregator?
+
+- A. A deposit wallet insured by DICGC
+- B. A consent-based financial-information intermediary that neither lends nor executes asset transactions
+- C. A P2P lender that sets guaranteed returns
+- D. A credit bureau that owns every customer's raw financial data
+### MCQ 31
+
+Which chain best explains NBFC systemic risk?
+
+- A. Demand deposits -> cheque clearing -> DICGC payout in every case
+- B. Higher equity -> lower leverage -> automatic contagion
+- C. Short-term wholesale funding -> long assets -> rollover shock -> fire sales and interconnected losses
+- D. Long-term funding -> liquid assets -> no confidence effect
+### MCQ 32
+
+Which statement best separates NABARD, SIDBI and NaBFID?
+
+- A. All three are Payments Banks
+- B. All three insure deposits
+- C. All three are ordinary NBFC-Factors
+- D. They have distinct rural, MSME and infrastructure development-finance mandates
+
+### ORIGINAL MCQ ANSWER KEY, EXPLANATIONS AND TRAPS
+
+### MCQ 1 — A
+
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -26,16 +278,9 @@ Which feature is part of the statutory meaning of banking under section 5(b) of 
 
 **Examiner trap 1:** Do not reduce banking to lending; the public-deposit and withdrawal promise is essential.
 
-### MCQ 2
+### MCQ 2 — B
 
-On a commercial bank's balance sheet, which item is ordinarily a liability?
-
-- A. Loans to households
-- B. Customer fixed deposits
-- C. Government securities held by the bank
-- D. Cash balance maintained with RBI
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -46,16 +291,9 @@ On a commercial bank's balance sheet, which item is ordinarily a liability?
 
 **Examiner trap 2:** Read the balance sheet from the bank's perspective, not the customer's.
 
-### MCQ 3
+### MCQ 3 — C
 
-What best describes maturity transformation by a bank?
-
-- A. Turning every term deposit into equity capital
-- B. Exchanging damaged currency notes for new notes
-- C. Funding longer loans with a mix that includes shorter or withdrawable liabilities
-- D. Converting a non-performing loan into cash without loss
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -66,16 +304,9 @@ What best describes maturity transformation by a bank?
 
 **Examiner trap 3:** Maturity transformation creates value and liquidity risk at the same time.
 
-### MCQ 4
+### MCQ 4 — D
 
-Which statement about scheduled-bank status is correct?
-
-- A. It is conferred automatically on every company licensed to lend
-- B. It means the bank is owned by the Union Government
-- C. It guarantees that RBI will prevent the bank from failing
-- D. It is defined by inclusion in the Second Schedule to the RBI Act, 1934
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -86,36 +317,22 @@ Which statement about scheduled-bank status is correct?
 
 **Examiner trap 4:** Scheduled is a statutory status, not an ownership or guarantee label.
 
-### MCQ 5
+### MCQ 5 — A
 
-Which statement correctly separates ownership from regulation?
-
-- A. A public-sector bank may be government-owned while RBI separately regulates its banking conduct
-- B. RBI owns every bank that it supervises
-- C. A private bank's board replaces the need for prudential rules
-- D. Government ownership makes management decisions an MPC function
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
-- **A - Correct:** Ownership rights and regulatory powers arise from different legal relationships.
-- **B - Incorrect:** Supervisory jurisdiction does not transfer ownership to the regulator.
-- **C - Incorrect:** Board governance and external prudential supervision perform different functions.
-- **D - Incorrect:** The Monetary Policy Committee does not manage commercial-bank credit decisions.
+- **A - Correct:** Public ownership does not displace board accountability for controls or RBI's banking supervision.
+- **B - Incorrect:** Inspection creates no ownership transfer or power to choose individual borrowers.
+- **C - Incorrect:** The owner cannot replace the statutory prudential supervisor by asserting shareholder rights.
+- **D - Incorrect:** The MPC decides the policy rate, not the bank's loan approvals; the board cannot set the repo rate.
 
-**Examiner trap 5:** Always identify owner, board, management and regulator separately.
+**Examiner trap 5:** A sovereign shareholder cannot exercise a supervisor's statutory function simply by owning shares.
 
-### MCQ 6
+### MCQ 6 — B
 
-Which statement about a foreign bank's presence in India is most accurate?
-
-- A. A foreign bank can operate only through a representative office that accepts deposits
-- B. A branch and a locally incorporated wholly owned subsidiary are distinct regulatory forms
-- C. Both forms have identical local capital and governance treatment
-- D. Foreign ownership removes RBI licensing jurisdiction
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -126,16 +343,9 @@ Which statement about a foreign bank's presence in India is most accurate?
 
 **Examiner trap 6:** Do not transfer a WOS condition mechanically to the branch model.
 
-### MCQ 7
+### MCQ 7 — C
 
-What is the statutory ownership ratio of a Regional Rural Bank?
-
-- A. Union Government 51%, RBI 24%, NABARD 25%
-- B. Sponsor bank 50%, State Government 35%, Union Government 15%
-- C. Union Government 50%, sponsor bank 35%, State Government 15%
-- D. Union and State Governments hold 50% each
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -146,16 +356,9 @@ What is the statutory ownership ratio of a Regional Rural Bank?
 
 **Examiner trap 7:** Remember both the numbers and which institution owns each share.
 
-### MCQ 8
+### MCQ 8 — D
 
-What is the safest description of co-operative-bank dual control after the 2020 amendment?
-
-- A. All State and Central Registrar powers were abolished
-- B. RBI regulates only payments while States regulate prudence
-- C. Every primary co-operative society became an insured bank
-- D. RBI's banking and governance powers expanded, while co-operative-law functions still remain with the relevant registrar
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -166,16 +369,9 @@ What is the safest description of co-operative-bank dual control after the 2020 
 
 **Examiner trap 8:** Avoid saying dual control ended completely.
 
-### MCQ 9
+### MCQ 9 — A
 
-Which feature most clearly characterises the Local Area Bank model?
-
-- A. A banking licence combined with a deliberately limited local geography
-- B. A nationwide bank prohibited from local lending
-- C. An NBFC permitted to issue cheques without a bank licence
-- D. A co-operative society owned only by its borrowers
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -186,16 +382,9 @@ Which feature most clearly characterises the Local Area Bank model?
 
 **Examiner trap 9:** Do not confuse local geography with co-operative ownership.
 
-### MCQ 10
+### MCQ 10 — B
 
-Which statement about Small Finance Banks is correct as of the cited rules?
-
-- A. They may provide payments but cannot lend from their balance sheet
-- B. They accept deposits and lend, with an overall PSL target of 60% from FY 2025-26
-- C. They are always Base-Layer NBFCs
-- D. Their PSL target is permanently fixed by the Constitution
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -206,16 +395,9 @@ Which statement about Small Finance Banks is correct as of the cited rules?
 
 **Examiner trap 10:** Date the current SFB target and keep it separate from the Payments Bank model.
 
-### MCQ 11
+### MCQ 11 — C
 
-Which combination correctly describes a Payments Bank under RBI directions updated 1 April 2026?
-
-- A. Term project lending is permitted but remittances are prohibited
-- B. Credit cards are permitted if deposits stay below Rs 2 lakh
-- C. Demand deposits and payments are permitted, but own-balance-sheet lending is prohibited
-- D. It is an NBFC because it cannot lend
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -226,16 +408,9 @@ Which combination correctly describes a Payments Bank under RBI directions updat
 
 **Examiner trap 11:** No lending does not mean no banking status.
 
-### MCQ 12
+### MCQ 12 — D
 
-What is the current Payments Bank customer-balance rule cited in this package?
-
-- A. Maximum Rs 2 lakh across every bank owned by the customer
-- B. Minimum Rs 2 lakh balance before payments are allowed
-- C. No cap applies because DICGC insurance is Rs 5 lakh
-- D. Maximum Rs 2 lakh per individual customer at the end of the day
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -246,16 +421,9 @@ What is the current Payments Bank customer-balance rule cited in this package?
 
 **Examiner trap 12:** Do not substitute the DICGC limit for the Payments Bank balance limit.
 
-### MCQ 13
+### MCQ 13 — A
 
-Which statement best describes a Business Correspondent?
-
-- A. An agent delivering specified bank services while the bank remains responsible
-- B. A separate bank that may create deposits in its own name
-- C. An unregulated lender exempt from customer-protection rules
-- D. A DICGC office that pays insured deposits
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -266,16 +434,9 @@ Which statement best describes a Business Correspondent?
 
 **Examiner trap 13:** Agent access is not a separate banking licence.
 
-### MCQ 14
+### MCQ 14 — B
 
-Which statutory provision is central to licensing a banking company?
-
-- A. Section 42 of the RBI Act alone
-- B. Section 22 of the Banking Regulation Act, 1949
-- C. Section 3 of the DICGC Act
-- D. Section 45-IA of the RBI Act for every bank
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -286,16 +447,9 @@ Which statutory provision is central to licensing a banking company?
 
 **Examiner trap 14:** Do not confuse a bank licence, scheduled status and NBFC registration.
 
-### MCQ 15
+### MCQ 15 — C
 
-Which institutions are excluded from the revised SCB PCA framework effective 1 January 2022?
-
-- A. Foreign bank branches and subsidiaries
-- B. All private-sector banks
-- C. Small Finance Banks, Payments Banks and Regional Rural Banks
-- D. All non-scheduled commercial banks only
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -306,16 +460,9 @@ Which institutions are excluded from the revised SCB PCA framework effective 1 J
 
 **Examiner trap 15:** Apply a PCA framework only to the entity class named in the direction.
 
-### MCQ 16
+### MCQ 16 — D
 
-Which statement correctly distinguishes PCA from resolution?
-
-- A. PCA automatically pays every depositor Rs 5 lakh
-- B. PCA transfers ownership to RBI immediately
-- C. Resolution is merely a higher CRAR threshold
-- D. PCA imposes early corrective restrictions; resolution restructures or winds down a failing institution
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -326,16 +473,9 @@ Which statement correctly distinguishes PCA from resolution?
 
 **Examiner trap 16:** Prevention, liquidity support, resolution and insurance are four different tools.
 
-### MCQ 17
+### MCQ 17 — A
 
-How are multiple accounts of one depositor in different branches of the same bank treated for DICGC cover?
-
-- A. They are aggregated when held in the same right and capacity
-- B. Each branch automatically receives a separate Rs 5 lakh cover
-- C. Only the oldest account is insured
-- D. Savings accounts are insured but fixed deposits are excluded
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -346,16 +486,9 @@ How are multiple accounts of one depositor in different branches of the same ban
 
 **Examiner trap 17:** The unit is not account-by-account or branch-by-branch.
 
-### MCQ 18
+### MCQ 18 — B
 
-Which claim is outside DICGC deposit insurance?
-
-- A. A savings deposit in an insured commercial bank
-- B. A debenture issued by an NBFC
-- C. A fixed deposit in an insured RRB
-- D. A current account in an insured Local Area Bank
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -366,16 +499,9 @@ Which claim is outside DICGC deposit insurance?
 
 **Examiner trap 18:** Regulation by RBI does not itself create deposit insurance.
 
-### MCQ 19
+### MCQ 19 — C
 
-Under RBI's NBFC principal-business test, which combination is required?
-
-- A. Either financial assets or income exceeding 25%
-- B. All assets and all income must be financial
-- C. Financial assets over 50% of total assets and financial income over 50% of gross income
-- D. Only a company name containing finance
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -386,16 +512,9 @@ Under RBI's NBFC principal-business test, which combination is required?
 
 **Examiner trap 19:** Apply both 50 per cent limbs, not either one.
 
-### MCQ 20
+### MCQ 20 — D
 
-Which feature ordinarily separates an NBFC from a bank?
-
-- A. An NBFC cannot make loans
-- B. An NBFC cannot borrow from banks or markets
-- C. An NBFC is never supervised by RBI
-- D. An NBFC cannot accept demand deposits or issue cheques drawn on itself
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -406,16 +525,9 @@ Which feature ordinarily separates an NBFC from a bank?
 
 **Examiner trap 20:** Do not call an NBFC a bank merely because both extend credit.
 
-### MCQ 21
+### MCQ 21 — A
 
-Which statement correctly distinguishes NBFC-D from NBFC-ND?
-
-- A. NBFC-D has specific permission to accept public deposits; NBFC-ND does not
-- B. NBFC-ND has no liabilities to outside parties
-- C. NBFC-D deposits receive DICGC insurance
-- D. Every registered NBFC may choose either status daily
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -426,36 +538,22 @@ Which statement correctly distinguishes NBFC-D from NBFC-ND?
 
 **Examiner trap 21:** Public funds are broader than public deposits.
 
-### MCQ 22
+### MCQ 22 — B
 
-Which entity belongs to the SBR Base Layer by activity regardless of ordinary size classification?
-
-- A. Every deposit-taking NBFC
-- B. NBFC-Account Aggregator
-- C. Every Housing Finance Company
-- D. Every Core Investment Company
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** All NBFC-D are placed in Middle Layer unless escalated.
-- **B - Correct:** The 2025 SBR Directions specifically keep Account Aggregators in Base Layer.
-- **C - Incorrect:** HFCs are specified for Middle Layer unless in Upper Layer.
-- **D - Incorrect:** CICs are Middle or Upper Layer under the current framework.
+- **A - Incorrect:** Deposit-taking entails at least Middle, while an AA belongs to Base by activity.
+- **B - Correct:** AA is specified for Base; deposit takers and HFCs occupy at least Middle, subject to escalation.
+- **C - Incorrect:** P2P belongs to Base; deposit-taking status is not a Base-Layer exemption.
+- **D - Incorrect:** AA does not become Upper merely by being a financial-information intermediary; Top is not the default for HFCs.
 
-**Examiner trap 22:** Activity-based placement can override a simple size shortcut.
+**Examiner trap 22:** Do not apply the ordinary non-deposit-taker asset threshold before checking activity-based placement.
 
-### MCQ 23
+### MCQ 23 — C
 
-Which NBFC is necessarily placed in Middle Layer under the cited SBR directions unless in Upper Layer?
-
-- A. Every non-deposit-taking NBFC below Rs 1,000 crore
-- B. Every NBFC-P2P platform
-- C. A deposit-taking NBFC of any asset size
-- D. Every Type-I NBFC without public funds or customer interface
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -466,16 +564,9 @@ Which NBFC is necessarily placed in Middle Layer under the cited SBR directions 
 
 **Examiner trap 23:** Size is not the only SBR determinant.
 
-### MCQ 24
+### MCQ 24 — D
 
-What changed for NBFC Upper Layer identification on 24 June 2026?
-
-- A. All NBFCs above Rs 1,000 crore automatically became Upper Layer
-- B. Upper Layer was abolished and merged into Top Layer
-- C. Every government NBFC was permanently exempt from SBR
-- D. The framework specified an audited asset-size threshold of Rs 1,00,000 crore and above
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -486,96 +577,61 @@ What changed for NBFC Upper Layer identification on 24 June 2026?
 
 **Examiner trap 24:** Attach the June 2026 date because the Upper-Layer rule changed.
 
-### MCQ 25
+### MCQ 25 — A
 
-Which pair states the CIC asset-composition tests?
-
-- A. At least 90% in group-company exposures and at least 60% in qualifying group equity/InvIT sponsor units
-- B. At least 60% housing finance and 50% individual housing
-- C. At least 75% microfinance assets and 25% deposits
-- D. At least 50% factoring assets and 50% factoring income
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
-- **A - Correct:** The CIC thresholds bind the entity to group-holding activity.
-- **B - Incorrect:** Those percentages identify an HFC.
-- **C - Incorrect:** The 75 per cent test belongs to NBFC-MFI and the deposit claim is wrong.
-- **D - Incorrect:** That 50-50 pair identifies an NBFC-Factor.
+- **A - Correct:** Meeting the 90% broad exposure limb does not cure a two-point shortfall in the 60% subset limb.
+- **B - Incorrect:** There is no averaging rule: these are cumulative composition requirements.
+- **C - Incorrect:** The qualifying-subset test does not depend on demand deposits, which ordinary NBFCs cannot accept.
+- **D - Incorrect:** Individual housing finance is the HFC test's subject, not a CIC composition requirement.
 
-**Examiner trap 25:** Keep net-asset composition separate from ordinary company shareholding.
+**Examiner trap 25:** Denominators and nested qualifying assets matter: passing a broad group-exposure test is not enough.
 
-### MCQ 26
+### MCQ 26 — B
 
-Which pair identifies an HFC under the current RBI description?
-
-- A. 90% group-company assets and 60% group equity
-- B. At least 60% of assets in housing finance and at least 50% of total assets in individual housing finance
-- C. 75% microfinance assets and household income below Rs 3 lakh
-- D. 50% factoring assets and 50% factoring income
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Those are CIC tests.
-- **B - Correct:** The 60/50 structure preserves both housing focus and individual-housing depth.
-- **C - Incorrect:** Those conditions concern NBFC-MFI and microfinance loans.
-- **D - Incorrect:** Those conditions identify an NBFC-Factor.
+- **A - Incorrect:** 48/62 may exceed one half, but the second limb's denominator is total assets.
+- **B - Correct:** The independent 60% housing and 50% individual-housing asset tests must both be met.
+- **C - Incorrect:** Funding source does not waive the asset-composition requirement.
+- **D - Incorrect:** Group-company investment is associated with the CIC test, not HFC classification.
 
-**Examiner trap 26:** Do not call every mortgage lender an HFC without the principal-business tests.
+**Examiner trap 26:** “Half of housing finance” is not “half of total assets”; check the stated denominator.
 
-### MCQ 27
+### MCQ 27 — C
 
-Which statement accurately describes an NBFC-MFI under the cited April 2026 RBI FAQ?
-
-- A. It is a Payments Bank limited to Rs 2 lakh deposits
-- B. It may secure every microloan by a lien on the borrower's deposit
-- C. At least 75% of assets are microfinance loans, which are collateral-free loans to households with annual income up to Rs 3 lakh
-- D. It must hold 90% of assets in group-company securities
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** Microfinance institution and Payments Bank are different categories.
-- **B - Incorrect:** The collateral-free rule bars linking the loan to such a lien.
-- **C - Correct:** Both the institution-level 75 per cent test and loan-level income/collateral test are required.
-- **D - Incorrect:** That is the CIC concentration test.
+- **A - Incorrect:** Asset share alone cannot make ineligible high-income household loans microfinance loans.
+- **B - Incorrect:** The institution falls short of the 75% qualifying-asset requirement.
+- **C - Correct:** Both the institution's 75% qualifying-asset floor and the loan's collateral-free/income conditions are met.
+- **D - Incorrect:** A compulsory deposit lien defeats the collateral-free character even if the asset percentage passes.
 
-**Examiner trap 27:** Do not confuse an NBFC-MFI with the wider category of all microfinance lenders.
+**Examiner trap 27:** A loan's eligibility and an institution's qualifying-asset share are separate cumulative tests.
 
-### MCQ 28
+### MCQ 28 — D
 
-What is the principal-business test for an NBFC-Factor?
-
-- A. At least 60% of assets in housing finance
-- B. At least 75% of assets in collateral-free household loans
-- C. At least 90% of net assets in group companies
-- D. At least 50% of total assets and 50% of gross income from factoring
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** That is part of the HFC definition.
-- **B - Incorrect:** That is the NBFC-MFI asset test.
-- **C - Incorrect:** That is the CIC test.
-- **D - Correct:** The two 50 per cent tests tie both balance sheet and earnings to receivables finance.
+- **A - Incorrect:** The two 50% limbs are cumulative, not alternatives.
+- **B - Incorrect:** Averaging does not cure failure of the separate asset threshold.
+- **C - Incorrect:** Group exposure is not the failed NBFC-Factor classification limb in this case.
+- **D - Correct:** 49% of assets falls short even though 55% of gross income comes from factoring.
 
-**Examiner trap 28:** Factoring is receivables finance, not a generic loan label.
+**Examiner trap 28:** When income passes and assets fail, classify on both limbs, not a blended percentage.
 
-### MCQ 29
+### MCQ 29 — A
 
-Which activity is prohibited for an NBFC-P2P under the 2025 Directions?
-
-- A. Lending from its own balance sheet or guaranteeing participant loans
-- B. Providing an online marketplace for participants
-- C. Assessing participant eligibility under board-approved policy
-- D. Routing prescribed fund flows through escrow arrangements
-
-**Answer: A.**
+**Correct answer: A.**
 
 **Option-specific explanations:**
 
@@ -586,16 +642,9 @@ Which activity is prohibited for an NBFC-P2P under the 2025 Directions?
 
 **Examiner trap 29:** No guarantee means lenders bear the credit loss; registration is not assurance of return.
 
-### MCQ 30
+### MCQ 30 — B
 
-Which statement best defines an NBFC-Account Aggregator?
-
-- A. A deposit wallet insured by DICGC
-- B. A consent-based financial-information intermediary that neither lends nor executes asset transactions
-- C. A P2P lender that sets guaranteed returns
-- D. A credit bureau that owns every customer's raw financial data
-
-**Answer: B.**
+**Correct answer: B.**
 
 **Option-specific explanations:**
 
@@ -606,16 +655,9 @@ Which statement best defines an NBFC-Account Aggregator?
 
 **Examiner trap 30:** Information transfer, payment transfer and credit intermediation are different functions.
 
-### MCQ 31
+### MCQ 31 — C
 
-Which chain best explains NBFC systemic risk?
-
-- A. Demand deposits -> cheque clearing -> DICGC payout in every case
-- B. Higher equity -> lower leverage -> automatic contagion
-- C. Short-term wholesale funding -> long assets -> rollover shock -> fire sales and interconnected losses
-- D. Long-term funding -> liquid assets -> no confidence effect
-
-**Answer: C.**
+**Correct answer: C.**
 
 **Option-specific explanations:**
 
@@ -626,16 +668,9 @@ Which chain best explains NBFC systemic risk?
 
 **Examiner trap 31:** Non-bank does not mean non-systemic.
 
-### MCQ 32
+### MCQ 32 — D
 
-Which statement best separates NABARD, SIDBI and NaBFID?
-
-- A. All three are Payments Banks
-- B. All three insure deposits
-- C. All three are ordinary NBFC-Factors
-- D. They have distinct rural, MSME and infrastructure development-finance mandates
-
-**Answer: D.**
+**Correct answer: D.**
 
 **Option-specific explanations:**
 
@@ -645,7 +680,6 @@ Which statement best separates NABARD, SIDBI and NaBFID?
 - **D - Correct:** Institutional purpose, funding horizon and target sector distinguish the three DFIs.
 
 **Examiner trap 32:** Government connection does not make development institutions interchangeable.
-
 
 ## PYQS AND ANSWER PRACTICE
 

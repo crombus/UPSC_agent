@@ -6,7 +6,117 @@ topic_key: geography-30-primary-economic-activities-agriculture
 
 ## BASIC MCQS / REMEDIATION
 
-### MCQ 1 — Basic mastery check
+### Questions — attempt before opening the key
+
+### MCQ 1 — Applied spatial reasoning
+
+A Delhi-area milk collection route is relocated farther out after reliable refrigeration. What remains true of its location economics?
+
+- A. Its delivered price still depends on freight, chilling and losses, not distance alone
+- B. Cold chains abolish every distance cost for dairy
+- C. The original concentric rings must reappear after relocation
+- D. The milk shed must shift to a monsoon-only cropping zone
+
+### MCQ 2 — Applied spatial reasoning
+
+Match each activity to the physical constraint: western-shelf marine fishing; plateau bauxite; northern floodplain inland culture. Which sequence fits?
+
+- A. Shelf salinity; river alluvium; volcanic lava
+- B. Shelf width/upwelling; lateritic cap; floodplain waterbodies
+- C. Shelf width/upwelling; Gondwana coal seams; riverbed sand
+- D. Estuary shelter; coastal dunes; black-soil cotton
+
+### MCQ 3 — Applied spatial reasoning
+
+A large rainfed Deccan farm sells its millet commercially while a tiny delta farm grows labour-intensive rice for consumption. Which classification avoids conflating axes?
+
+- A. Both are extensive because each lacks export contracts
+- B. Both are subsistence because neither grows wheat
+- C. Millet can be extensive-commercial; rice can be intensive-subsistence
+- D. Millet must be plantation; rice must be market gardening
+
+### MCQ 4 — Applied spatial reasoning
+
+A steep humid hill district has forest resources but a remote stand is not harvested. Which inference is best supported?
+
+- A. High rainfall alone guarantees profitable timber extraction
+- B. A road automatically converts all forests into commercial timber
+- C. The forest cannot support non-timber livelihoods without felling
+- D. Forest type reflects climate/altitude; slope, access and rights govern use
+
+### MCQ 5 — Applied spatial reasoning
+
+A plateau district reports a high-grade ore body but lacks dependable power and rail. A nearby lower-grade body is operating. What follows?
+
+- A. Grade does not alone determine viability; delivered costs and processing access matter
+- B. Higher-grade ores are inherently non-tradable without a local steel mill
+- C. Both mines must have identical unit costs because both are on a plateau
+- D. Railway access changes ore genesis, making the lower-grade body richer
+
+### MCQ 6 — Applied spatial reasoning
+
+A district receives normal seasonal rain but its rabi wheat area contracts. Which diagnosis best separates crop seasons?
+
+- A. Rabi wheat must always be rainfed, unlike kharif crops
+- B. Residual moisture and winter irrigation may be insufficient despite normal monsoon rain
+- C. Zaid vegetables invariably displace winter wheat across the district
+- D. Normal monsoon totals guarantee equally timed canal deliveries
+
+### MCQ 7 — Applied spatial reasoning
+
+A state announces MSP for a kharif crop and reports a bumper preliminary estimate. Which additional observation actually supports farm-gate price protection?
+
+- A. The average operational holding is small nationally
+- B. The crop is botanically suited to monsoon Asia
+- C. Procurement reaches marketed lots in the district at the declared price
+- D. The state has a high share of national food consumers
+
+### MCQ 8 — Applied spatial reasoning
+
+An eastern-delta district and a north-west canal district harvest equal grain, but only the latter supplies the central pool. Which missing link best explains the contrast?
+
+- A. The delta cannot produce wet rice under any irrigation regime
+- B. Food distribution occurs only inside the producing district
+- C. Central procurement is identical wherever physical output is equal
+- D. Procurement agencies, purchase centres and storage/logistics differ by place
+
+### MCQ 9 — Applied spatial reasoning
+
+A proposed highland tea estate receives ample rain but roots remain submerged for long periods. What is the decisive crop-location objection?
+
+- A. Tea needs warm humidity with acidic, well-drained ground, not chronic waterlogging
+- B. Tea needs the dry temperate steppe and an alkaline topsoil
+- C. Tea requires the same flooded field conditions as lowland rice
+- D. Tea’s location depends only on access to an export port
+
+### MCQ 10 — Applied spatial reasoning
+
+A western dryland district replaces diverse millets with subsidised rice supplied by pumped groundwater. What is the most defensible geographic assessment?
+
+- A. Any larger yield automatically improves aquifer balance
+- B. Procurement incentives may concentrate a water-intensive crop in a water-stressed tract
+- C. Black soils make irrigated rice biologically impossible there
+- D. National grain output alone reveals distribution of aquifer losses
+
+### MCQ 11 — Applied spatial reasoning
+
+A Mediterranean-margin farmer chooses vines on a sunlit slope and winter cereals in lower fields. Which seasonality best explains the combination?
+
+- A. Year-round monsoon rainfall without a dry interval
+- B. Persistent frozen soil throughout summer
+- C. Winter rain followed by a relatively dry warm summer
+- D. Cyclonic summer rain with permanently flooded winter fields
+
+### MCQ 12 — Applied spatial reasoning
+
+A cooperative invests in a packhouse and cold chain for a perishable hill crop. Which outcome is plausible but NOT demonstrated by construction alone?
+
+- A. Lower potential deterioration on a functioning route
+- B. More feasible access to distant consumer markets
+- C. Greater scope for sorting and aggregation at origin
+- D. A permanent rise in every member’s realised net income
+
+### MCQ 13 — Retained foundation check
 
 What is the central question of agricultural geography?
 
@@ -15,13 +125,7 @@ What is the central question of agricultural geography?
 - C. Only which crop has the highest output
 - D. Only how farm machinery works
 
-**Answer: A.** Where production occurs, why it occurs there and how its seasonal organisation changes
-
-**Why:** Agricultural geography explains spatial organisation. Agronomy and machinery matter, but they do not replace the location question.
-
-**Remediation if missed:** Return to the four core words: location, seasonality, organisation and change.
-
-### MCQ 2 — Basic mastery check
+### MCQ 14 — Retained foundation check
 
 Which statement best explains why fertile soil alone does not create an agricultural region?
 
@@ -30,13 +134,7 @@ Which statement best explains why fertile soil alone does not create an agricult
 - C. Only government policy matters
 - D. Soil has no role in crop choice
 
-**Answer: B.** Climate, water, labour and market access must also align
-
-**Why:** Soil is one filter in a multi-control system. A crop still needs suitable heat, water, labour arrangements and access.
-
-**Remediation if missed:** Rebuild the six-control table and test one Indian crop against every control.
-
-### MCQ 3 — Basic mastery check
+### MCQ 15 — Retained foundation check
 
 Which feature most clearly distinguishes shifting cultivation from plantation agriculture?
 
@@ -45,13 +143,7 @@ Which feature most clearly distinguishes shifting cultivation from plantation ag
 - C. Shifting cultivation rotates temporary plots and fallow; plantations are specialised commercial estates
 - D. Both are urban-oriented systems
 
-**Answer: C.** Shifting cultivation rotates temporary plots and fallow; plantations are specialised commercial estates
-
-**Why:** The two systems differ in plot cycle, scale and market orientation. Plantation production is commercial and usually specialised.
-
-**Remediation if missed:** Compare every farming system on climate, labour/scale and market orientation.
-
-### MCQ 4 — Basic mastery check
+### MCQ 16 — Retained foundation check
 
 Which statement correctly describes mixed farming?
 
@@ -60,13 +152,7 @@ Which statement correctly describes mixed farming?
 - C. It must be a tropical plantation
 - D. Crops and livestock are integrated so that outputs and inputs can support one another
 
-**Answer: D.** Crops and livestock are integrated so that outputs and inputs can support one another
-
-**Why:** Mixed farming integrates enterprises: residues may feed livestock and manure may return nutrients to fields.
-
-**Remediation if missed:** Draw a two-way crop-residue/manure arrow rather than memorising a label.
-
-### MCQ 5 — Basic mastery check
+### MCQ 17 — Retained foundation check
 
 Which statement best separates intensive farming from commercial farming?
 
@@ -75,13 +161,7 @@ Which statement best separates intensive farming from commercial farming?
 - C. The terms are climatic regions
 - D. Commercial always means low labour use
 
-**Answer: A.** Intensity concerns inputs or output per unit land; commercial orientation concerns production for markets
-
-**Why:** The terms use different axes. A small wet-rice farm can be intensive, while a plantation can be strongly commercial.
-
-**Remediation if missed:** Ask whether the word describes land-use intensity or the destination of output.
-
-### MCQ 6 — Basic mastery check
+### MCQ 18 — Retained foundation check
 
 In Von Thunen's logic, what most strongly pulls a product closer to the market?
 
@@ -90,13 +170,7 @@ In Von Thunen's logic, what most strongly pulls a product closer to the market?
 - C. Uniform land quality by itself
 - D. A lower delivery frequency
 
-**Answer: B.** High transport cost, perishability or rapid quality loss with distance
-
-**Why:** Distance imposes a larger penalty on bulky, frequently delivered or perishable goods, reducing the rent they can pay farther away.
-
-**Remediation if missed:** Use the chain distance -> freight/decay -> lower net return -> location response.
-
-### MCQ 7 — Basic mastery check
+### MCQ 19 — Retained foundation check
 
 What is the best description of cold-chain effects on Von Thunen's model?
 
@@ -105,13 +179,7 @@ What is the best description of cold-chain effects on Von Thunen's model?
 - C. Cold chains stretch feasible market distance but add cost and infrastructure dependence
 - D. Cold chains make all farm locations equally profitable
 
-**Answer: C.** Cold chains stretch feasible market distance but add cost and infrastructure dependence
-
-**Why:** Refrigeration reduces decay and can move perishables farther, but logistics, energy and reliability still matter.
-
-**Remediation if missed:** Do not use 'technology removes distance'; use 'technology changes the distance penalty.'
-
-### MCQ 8 — Basic mastery check
+### MCQ 20 — Retained foundation check
 
 Which statement about Von Thunen is correct?
 
@@ -120,13 +188,7 @@ Which statement about Von Thunen is correct?
 - C. It predicts one permanent crop map for every city
 - D. It is a location model based on market distance, transport cost and land rent
 
-**Answer: D.** It is a location model based on market distance, transport cost and land rent
-
-**Why:** The model is an abstract mechanism, not a literal universal map. Its assumptions help isolate the role of distance.
-
-**Remediation if missed:** Memorise the three anchors: market distance, transport cost and land rent.
-
-### MCQ 9 — Basic mastery check
+### MCQ 21 — Retained foundation check
 
 Which pairing is most accurate?
 
@@ -135,13 +197,7 @@ Which pairing is most accurate?
 - C. Urban-industrial belts — nomadic herding
 - D. Mediterranean margins — tropical wet-rice monoculture
 
-**Answer: A.** Monsoon Asia — intensive wet-rice supported by summer rain, alluvial lowlands and dense labour
-
-**Why:** Monsoon Asian wet-rice combines seasonal water, suitable lowlands and high labour availability.
-
-**Remediation if missed:** Pair each world region with climate, system and labour/market feature.
-
-### MCQ 10 — Basic mastery check
+### MCQ 22 — Retained foundation check
 
 Which climate pattern supports classic Mediterranean agriculture?
 
@@ -150,13 +206,7 @@ Which climate pattern supports classic Mediterranean agriculture?
 - C. Rain in every month with no dry season
 - D. Only summer monsoon rain
 
-**Answer: B.** Winter rain and summer drought
-
-**Why:** Winter rain supports winter crops while the dry sunny summer favours vines, olives and horticulture with water management.
-
-**Remediation if missed:** Use the seasonal phrase 'winter rain, summer drought' before recalling crops.
-
-### MCQ 11 — Basic mastery check
+### MCQ 23 — Retained foundation check
 
 Why is commercial grain farming associated with the Prairies, Pampas, Steppes and Downs?
 
@@ -165,13 +215,7 @@ Why is commercial grain farming associated with the Prairies, Pampas, Steppes an
 - C. Vast temperate plains permit large fields and mechanisation
 - D. They lack transport to markets
 
-**Answer: C.** Vast temperate plains permit large fields and mechanisation
-
-**Why:** Broad level plains and lower population density support large mechanised holdings and bulk grain movement.
-
-**Remediation if missed:** Connect relief and holding scale to mechanisation instead of memorising region names alone.
-
-### MCQ 12 — Basic mastery check
+### MCQ 24 — Retained foundation check
 
 Why do market gardening and dairy often occur near cities?
 
@@ -180,13 +224,7 @@ Why do market gardening and dairy often occur near cities?
 - C. They are always subsistence activities
 - D. Perishability, frequent delivery and dense demand favour accessible locations
 
-**Answer: D.** Perishability, frequent delivery and dense demand favour accessible locations
-
-**Why:** These goods lose value with delay and benefit from nearby demand, though cold chains can extend their range.
-
-**Remediation if missed:** Apply Von Thunen's mechanism to one everyday product such as milk or leafy vegetables.
-
-### MCQ 13 — Basic mastery check
+### MCQ 25 — Retained foundation check
 
 Which statement about cotton location is safest?
 
@@ -195,13 +233,7 @@ Which statement about cotton location is safest?
 - C. Cotton is a cool wet highland crop
 - D. Cotton requires permanent waterlogging
 
-**Answer: A.** A long warm frost-free season and suitable drainage matter; cotton is not confined to black soil
-
-**Why:** Black soil is favourable in parts of India, but alluvial cotton belts show that crop location is a bundle of conditions.
-
-**Remediation if missed:** Replace one-soil absolutism with climate + drainage + water + market.
-
-### MCQ 14 — Basic mastery check
+### MCQ 26 — Retained foundation check
 
 Which combination best suits tea?
 
@@ -210,13 +242,7 @@ Which combination best suits tea?
 - C. Arid plains and saline soil
 - D. Cold steppe grasslands
 
-**Answer: B.** Warm humid conditions, acidic well-drained slopes and abundant plucking labour
-
-**Why:** Tea benefits from humidity and slope drainage; heavy rain does not mean stagnant water is desirable.
-
-**Remediation if missed:** Remember the paired condition: high moisture but good drainage.
-
-### MCQ 15 — Basic mastery check
+### MCQ 27 — Retained foundation check
 
 Which statement about millets is most accurate?
 
@@ -225,13 +251,7 @@ Which statement about millets is most accurate?
 - C. Many tolerate lower or variable rainfall and lighter soils, with important nutrition and resilience value
 - D. They are confined to humid deltas
 
-**Answer: C.** Many tolerate lower or variable rainfall and lighter soils, with important nutrition and resilience value
-
-**Why:** Millets fit many dryland systems and the label 'coarse cereal' is a grain-size or category label, not a nutrition verdict.
-
-**Remediation if missed:** Link millets to dryland suitability without claiming every millet has identical requirements.
-
-### MCQ 16 — Basic mastery check
+### MCQ 28 — Retained foundation check
 
 Which sequence best describes commercialisation?
 
@@ -240,13 +260,7 @@ Which sequence best describes commercialisation?
 - C. Subsistence directly to processing without surplus
 - D. Subsistence -> surplus -> specialisation -> processing/value-chain linkage
 
-**Answer: D.** Subsistence -> surplus -> specialisation -> processing/value-chain linkage
-
-**Why:** Commercialisation is a staged transition enabled by water, technology, roads, storage, finance and demand.
-
-**Remediation if missed:** Rehearse both the sequence and the enabling conditions beneath it.
-
-### MCQ 17 — Basic mastery check
+### MCQ 29 — Retained foundation check
 
 Which institution-role pairing is most defensible?
 
@@ -255,13 +269,7 @@ Which institution-role pairing is most defensible?
 - C. Irrigation agencies have no effect on cultivation
 - D. Agriculture ministries determine local rainfall
 
-**Answer: A.** Cooperatives, mandis and farmer organisations can aggregate output and connect producers with markets
-
-**Why:** Market institutions organise exchange and bargaining, while water and policy institutions shape other parts of the system.
-
-**Remediation if missed:** Separate water control, policy direction, market linkage and international comparison roles.
-
-### MCQ 18 — Basic mastery check
+### MCQ 30 — Retained foundation check
 
 Which is the safest interpretation of a Kharif MSP announcement?
 
@@ -270,13 +278,7 @@ Which is the safest interpretation of a Kharif MSP announcement?
 - C. It is a final harvest estimate
 - D. It measures household nutrition
 
-**Answer: B.** It is a season- and crop-specific price-policy decision, not proof of procurement coverage or final output
-
-**Why:** Announcement, procurement and output are different stages and measures. The date and crop season must remain attached.
-
-**Remediation if missed:** Use the firewall: announcement != purchase != production.
-
-### MCQ 19 — Basic mastery check
+### MCQ 31 — Retained foundation check
 
 Which set contains only non-farm primary activities in this topic?
 
@@ -285,13 +287,7 @@ Which set contains only non-farm primary activities in this topic?
 - C. Fishing, forestry/gathering, mining and quarrying
 - D. Crop farming, retail and construction
 
-**Answer: C.** Fishing, forestry/gathering, mining and quarrying
-
-**Why:** These activities directly harvest or extract natural resources and exclude manufacturing.
-
-**Remediation if missed:** Define primary activity first, then explicitly exclude factories and services.
-
-### MCQ 20 — Basic mastery check
+### MCQ 32 — Retained foundation check
 
 Which statement best explains fishing geography?
 
@@ -300,13 +296,7 @@ Which statement best explains fishing geography?
 - C. Fish production is impossible inland
 - D. Shelf form, nutrients, currents/upwelling, shelter, inland waters and access jointly shape location
 
-**Answer: D.** Shelf form, nutrients, currents/upwelling, shelter, inland waters and access jointly shape location
-
-**Why:** Physiography creates marine and inland potential, while harbours, technology, regulation and markets shape realised production.
-
-**Remediation if missed:** Build a mechanism for shelf, upwelling, estuary and reservoir rather than listing coasts.
-
-### MCQ 21 — Basic mastery check
+### MCQ 33 — Retained foundation check
 
 Which is the best explanation of forestry location?
 
@@ -315,13 +305,7 @@ Which is the best explanation of forestry location?
 - C. Relief has no effect on extraction cost
 - D. Every forest is equally suited to commercial timber
 
-**Answer: A.** Climate and altitude shape forest type, while slope and accessibility shape extraction
-
-**Why:** Forest composition and reachability matter together; remote or steep terrain can constrain use even when forests are extensive.
-
-**Remediation if missed:** Use the sequence forest type -> access -> product -> livelihood.
-
-### MCQ 22 — Basic mastery check
+### MCQ 34 — Retained foundation check
 
 Why can two mineral deposits of similar grade have different economic outcomes?
 
@@ -330,13 +314,7 @@ Why can two mineral deposits of similar grade have different economic outcomes?
 - C. Geology becomes irrelevant after discovery
 - D. Mining is independent of infrastructure
 
-**Answer: B.** Relief, transport, power, processing and rights can make one deposit accessible and the other unviable
-
-**Why:** Occurrence is geological, but viable extraction depends on moving material, obtaining inputs and managing institutions.
-
-**Remediation if missed:** Separate 'deposit exists' from 'resource is economically usable.'
-
-### MCQ 23 — Basic mastery check
+### MCQ 35 — Retained foundation check
 
 Why does a technology-led agricultural package spread unevenly?
 
@@ -345,13 +323,7 @@ Why does a technology-led agricultural package spread unevenly?
 - C. Assured water, level land, credit, inputs, extension and procurement outlets are spatially uneven
 - D. Every region begins with identical water and credit access
 
-**Answer: C.** Assured water, level land, credit, inputs, extension and procurement outlets are spatially uneven
-
-**Why:** The package works through complementary preconditions. Regions that already possess them become early surplus cores.
-
-**Remediation if missed:** Trace precondition filter -> adoption -> yield response -> regional divergence.
-
-### MCQ 24 — Basic mastery check
+### MCQ 36 — Retained foundation check
 
 Which structure best answers a Geography Mains question?
 
@@ -360,11 +332,331 @@ Which structure best answers a Geography Mains question?
 - C. Only a scheme list
 - D. Claim -> named evidence -> spatial/causal analysis -> qualification -> reasoned verdict
 
-**Answer: D.** Claim -> named evidence -> spatial/causal analysis -> qualification -> reasoned verdict
+### Matched answer key and option-by-option explanations
 
-**Why:** The structure keeps evidence analytical and ensures the conclusion answers the directive rather than merely ending the response.
+#### MCQ 1 — A
 
-**Remediation if missed:** After every example, write one sentence beginning 'This shows...' and add one real limitation.
+- **A:** Correct: refrigeration reduces decay but collection, power and haulage still cost money.
+- **B:** Wrong: the cold chain substitutes new costs for some spoilage, not zero cost.
+- **C:** Wrong: multi-node markets and roads prevent a mandatory classical ring map.
+- **D:** Wrong: market access is not equivalent to a monsoon cropping calendar.
+
+**Trap / remediation:** Technology changes the cost gradient; it does not abolish it.
+
+#### MCQ 2 — B
+
+- **A:** Wrong: salinity does not explain the broad western shelf or floodplain culture.
+- **B:** Correct: each link matches a distinct marine, weathering and inland-water mechanism.
+- **C:** Wrong: Gondwana sediments explain coal, not bauxite in lateritic profiles.
+- **D:** Wrong: neither coastal dunes nor cotton identifies plateau bauxite or inland fish.
+
+**Trap / remediation:** Do not transfer one resource’s geological origin to another.
+
+#### MCQ 3 — C
+
+- **A:** Wrong: area and rainfall alone cannot define intensity in both cases.
+- **B:** Wrong: orientation is defined by sale, not by growing wheat.
+- **C:** Correct: land-use intensity and destination of output are separate dimensions.
+- **D:** Wrong: plantation and gardening require different organisation and markets.
+
+**Trap / remediation:** Intensity, farm scale and market orientation must be tested separately.
+
+#### MCQ 4 — D
+
+- **A:** Wrong: precipitation cannot pay steep-slope extraction costs.
+- **B:** Wrong: roads do not settle ecological and rights constraints.
+- **C:** Wrong: gathered produce can support livelihoods without timber clearance.
+- **D:** Correct: occurrence and accessible, permissible extraction are different.
+
+**Trap / remediation:** Occurrence is not realised output.
+
+#### MCQ 5 — A
+
+- **A:** Correct: grade competes with transport, energy and processing costs.
+- **B:** Wrong: high grade need not require a local steel plant.
+- **C:** Wrong: common physiography does not imply equal logistics costs.
+- **D:** Wrong: infrastructure changes economic use, not geological grade.
+
+**Trap / remediation:** Separate resource endowment from accessible economic reserve.
+
+#### MCQ 6 — B
+
+- **A:** Wrong: wheat is frequently irrigated in northern surplus belts.
+- **B:** Correct: monsoon totals cannot ensure winter soil water or irrigation delivery.
+- **C:** Wrong: a short summer crop does not necessarily replace a winter crop.
+- **D:** Wrong: a rainfall statistic says nothing about canal distribution timing.
+
+**Trap / remediation:** Rainfall totals, effective winter water and crop season are different measures.
+
+#### MCQ 7 — C
+
+- **A:** Wrong: farm size does not demonstrate realised purchase at MSP.
+- **B:** Wrong: crop suitability is independent of sale price realisation.
+- **C:** Correct: actual local procurement bridges the announcement-outcome gap.
+- **D:** Wrong: population demand does not demonstrate the price received by growers.
+
+**Trap / remediation:** MSP notification is not evidence of realised procurement.
+
+#### MCQ 8 — D
+
+- **A:** Wrong: eastern deltas support substantial rice cultivation.
+- **B:** Wrong: central-pool grain moves across state boundaries.
+- **C:** Wrong: production totals alone do not prove comparable purchase networks.
+- **D:** Correct: institutional geography mediates surplus-to-central-pool flows.
+
+**Trap / remediation:** Production geography is not procurement geography.
+
+#### MCQ 9 — A
+
+- **A:** Correct: high rainfall and good drainage coexist on suitable slopes.
+- **B:** Wrong: dry alkaline steppe is not the typical tea environment.
+- **C:** Wrong: standing water injures tea roots unlike paddy cultivation.
+- **D:** Wrong: transport matters but cannot correct unsuitable root conditions.
+
+**Trap / remediation:** Do not equate humid climate with waterlogged soil.
+
+#### MCQ 10 — B
+
+- **A:** Wrong: yields can rise as water stocks fall.
+- **B:** Correct: market incentives and cheap pumping can override local water suitability.
+- **C:** Wrong: irrigation can support rice outside humid deltas, with ecological costs.
+- **D:** Wrong: aggregate output cannot locate groundwater externalities.
+
+**Trap / remediation:** A crop can succeed agronomically yet be regionally unsustainable.
+
+#### MCQ 11 — C
+
+- **A:** Wrong: classic Mediterranean climates have a marked summer dry season.
+- **B:** Wrong: growing vines requires a viable warm season.
+- **C:** Correct: cool-season moisture and dry-season ripening support distinct uses.
+- **D:** Wrong: permanent flooding is not a defining Mediterranean condition.
+
+**Trap / remediation:** Tie the farming pattern to winter rain and summer dryness.
+
+#### MCQ 12 — D
+
+- **A:** Wrong as choice: reliable storage can reduce deterioration, though operation matters.
+- **B:** Wrong as choice: an effective cold chain can lengthen the market radius.
+- **C:** Wrong as choice: packhouses can enable sorting and collective handling.
+- **D:** Correct: capital costs, utilisation, buyer power and prices determine net income.
+
+**Trap / remediation:** Asset installed is not income impact.
+
+#### MCQ 13 — A
+
+- **A:** Correct. Agricultural geography explains spatial organisation. Agronomy and machinery matter, but they do not replace the location question.
+- **B:** “Only how seeds are bred” is excluded: Agricultural geography explains spatial organisation. Agronomy and machinery matter, but they do not replace the location question.
+- **C:** “Only which crop has the highest output” is excluded: Agricultural geography explains spatial organisation. Agronomy and machinery matter, but they do not replace the location question.
+- **D:** “Only how farm machinery works” is excluded: Agricultural geography explains spatial organisation. Agronomy and machinery matter, but they do not replace the location question.
+
+**Trap / remediation:** Return to the four core words: location, seasonality, organisation and change.
+
+#### MCQ 14 — B
+
+- **A:** “Relief always overrides every other factor” is excluded: Soil is one filter in a multi-control system. A crop still needs suitable heat, water, labour arrangements and access.
+- **B:** Correct. Soil is one filter in a multi-control system. A crop still needs suitable heat, water, labour arrangements and access.
+- **C:** “Only government policy matters” is excluded: Soil is one filter in a multi-control system. A crop still needs suitable heat, water, labour arrangements and access.
+- **D:** “Soil has no role in crop choice” is excluded: Soil is one filter in a multi-control system. A crop still needs suitable heat, water, labour arrangements and access.
+
+**Trap / remediation:** Rebuild the six-control table and test one Indian crop against every control.
+
+#### MCQ 15 — C
+
+- **A:** “Both are necessarily mechanised” is excluded: The two systems differ in plot cycle, scale and market orientation. Plantation production is commercial and usually specialised.
+- **B:** “Plantations always use long fallow” is excluded: The two systems differ in plot cycle, scale and market orientation. Plantation production is commercial and usually specialised.
+- **C:** Correct. The two systems differ in plot cycle, scale and market orientation. Plantation production is commercial and usually specialised.
+- **D:** “Both are urban-oriented systems” is excluded: The two systems differ in plot cycle, scale and market orientation. Plantation production is commercial and usually specialised.
+
+**Trap / remediation:** Compare every farming system on climate, labour/scale and market orientation.
+
+#### MCQ 16 — D
+
+- **A:** “It excludes animals” is excluded: Mixed farming integrates enterprises: residues may feed livestock and manure may return nutrients to fields.
+- **B:** “It is identical to nomadic herding” is excluded: Mixed farming integrates enterprises: residues may feed livestock and manure may return nutrients to fields.
+- **C:** “It must be a tropical plantation” is excluded: Mixed farming integrates enterprises: residues may feed livestock and manure may return nutrients to fields.
+- **D:** Correct. Mixed farming integrates enterprises: residues may feed livestock and manure may return nutrients to fields.
+
+**Trap / remediation:** Draw a two-way crop-residue/manure arrow rather than memorising a label.
+
+#### MCQ 17 — A
+
+- **A:** Correct. The terms use different axes. A small wet-rice farm can be intensive, while a plantation can be strongly commercial.
+- **B:** “Intensive always means large farms” is excluded: The terms use different axes. A small wet-rice farm can be intensive, while a plantation can be strongly commercial.
+- **C:** “The terms are climatic regions” is excluded: The terms use different axes. A small wet-rice farm can be intensive, while a plantation can be strongly commercial.
+- **D:** “Commercial always means low labour use” is excluded: The terms use different axes. A small wet-rice farm can be intensive, while a plantation can be strongly commercial.
+
+**Trap / remediation:** Ask whether the word describes land-use intensity or the destination of output.
+
+#### MCQ 18 — B
+
+- **A:** “The absence of consumer demand” is excluded: Distance imposes a larger penalty on bulky, frequently delivered or perishable goods, reducing the rent they can pay farther away.
+- **B:** Correct. Distance imposes a larger penalty on bulky, frequently delivered or perishable goods, reducing the rent they can pay farther away.
+- **C:** “Uniform land quality by itself” is excluded: Distance imposes a larger penalty on bulky, frequently delivered or perishable goods, reducing the rent they can pay farther away.
+- **D:** “A lower delivery frequency” is excluded: Distance imposes a larger penalty on bulky, frequently delivered or perishable goods, reducing the rent they can pay farther away.
+
+**Trap / remediation:** Use the chain distance -> freight/decay -> lower net return -> location response.
+
+#### MCQ 19 — C
+
+- **A:** “Cold chains restore the exact classical rings” is excluded: Refrigeration reduces decay and can move perishables farther, but logistics, energy and reliability still matter.
+- **B:** “Cold chains convert the model into a climate classification” is excluded: Refrigeration reduces decay and can move perishables farther, but logistics, energy and reliability still matter.
+- **C:** Correct. Refrigeration reduces decay and can move perishables farther, but logistics, energy and reliability still matter.
+- **D:** “Cold chains make all farm locations equally profitable” is excluded: Refrigeration reduces decay and can move perishables farther, but logistics, energy and reliability still matter.
+
+**Trap / remediation:** Do not use 'technology removes distance'; use 'technology changes the distance penalty.'
+
+#### MCQ 20 — D
+
+- **A:** “It classifies monsoon climates” is excluded: The model is an abstract mechanism, not a literal universal map. Its assumptions help isolate the role of distance.
+- **B:** “It ranks countries by agricultural output” is excluded: The model is an abstract mechanism, not a literal universal map. Its assumptions help isolate the role of distance.
+- **C:** “It predicts one permanent crop map for every city” is excluded: The model is an abstract mechanism, not a literal universal map. Its assumptions help isolate the role of distance.
+- **D:** Correct. The model is an abstract mechanism, not a literal universal map. Its assumptions help isolate the role of distance.
+
+**Trap / remediation:** Memorise the three anchors: market distance, transport cost and land rent.
+
+#### MCQ 21 — A
+
+- **A:** Correct. Monsoon Asian wet-rice combines seasonal water, suitable lowlands and high labour availability.
+- **B:** “Prairies — shifting cultivation” is excluded: Monsoon Asian wet-rice combines seasonal water, suitable lowlands and high labour availability.
+- **C:** “Urban-industrial belts — nomadic herding” is excluded: Monsoon Asian wet-rice combines seasonal water, suitable lowlands and high labour availability.
+- **D:** “Mediterranean margins — tropical wet-rice monoculture” is excluded: Monsoon Asian wet-rice combines seasonal water, suitable lowlands and high labour availability.
+
+**Trap / remediation:** Pair each world region with climate, system and labour/market feature.
+
+#### MCQ 22 — B
+
+- **A:** “Permanent frost” is excluded: Winter rain supports winter crops while the dry sunny summer favours vines, olives and horticulture with water management.
+- **B:** Correct. Winter rain supports winter crops while the dry sunny summer favours vines, olives and horticulture with water management.
+- **C:** “Rain in every month with no dry season” is excluded: Winter rain supports winter crops while the dry sunny summer favours vines, olives and horticulture with water management.
+- **D:** “Only summer monsoon rain” is excluded: Winter rain supports winter crops while the dry sunny summer favours vines, olives and horticulture with water management.
+
+**Trap / remediation:** Use the seasonal phrase 'winter rain, summer drought' before recalling crops.
+
+#### MCQ 23 — C
+
+- **A:** “These are humid tropical deltas” is excluded: Broad level plains and lower population density support large mechanised holdings and bulk grain movement.
+- **B:** “They require dense manual transplanting” is excluded: Broad level plains and lower population density support large mechanised holdings and bulk grain movement.
+- **C:** Correct. Broad level plains and lower population density support large mechanised holdings and bulk grain movement.
+- **D:** “They lack transport to markets” is excluded: Broad level plains and lower population density support large mechanised holdings and bulk grain movement.
+
+**Trap / remediation:** Connect relief and holding scale to mechanisation instead of memorising region names alone.
+
+#### MCQ 24 — D
+
+- **A:** “They can grow only on black soil” is excluded: These goods lose value with delay and benefit from nearby demand, though cold chains can extend their range.
+- **B:** “They require no consumers” is excluded: These goods lose value with delay and benefit from nearby demand, though cold chains can extend their range.
+- **C:** “They are always subsistence activities” is excluded: These goods lose value with delay and benefit from nearby demand, though cold chains can extend their range.
+- **D:** Correct. These goods lose value with delay and benefit from nearby demand, though cold chains can extend their range.
+
+**Trap / remediation:** Apply Von Thunen's mechanism to one everyday product such as milk or leafy vegetables.
+
+#### MCQ 25 — A
+
+- **A:** Correct. Black soil is favourable in parts of India, but alluvial cotton belts show that crop location is a bundle of conditions.
+- **B:** “Cotton grows only in deltaic new alluvium” is excluded: Black soil is favourable in parts of India, but alluvial cotton belts show that crop location is a bundle of conditions.
+- **C:** “Cotton is a cool wet highland crop” is excluded: Black soil is favourable in parts of India, but alluvial cotton belts show that crop location is a bundle of conditions.
+- **D:** “Cotton requires permanent waterlogging” is excluded: Black soil is favourable in parts of India, but alluvial cotton belts show that crop location is a bundle of conditions.
+
+**Trap / remediation:** Replace one-soil absolutism with climate + drainage + water + market.
+
+#### MCQ 26 — B
+
+- **A:** “Waterlogged lowlands with no drainage” is excluded: Tea benefits from humidity and slope drainage; heavy rain does not mean stagnant water is desirable.
+- **B:** Correct. Tea benefits from humidity and slope drainage; heavy rain does not mean stagnant water is desirable.
+- **C:** “Arid plains and saline soil” is excluded: Tea benefits from humidity and slope drainage; heavy rain does not mean stagnant water is desirable.
+- **D:** “Cold steppe grasslands” is excluded: Tea benefits from humidity and slope drainage; heavy rain does not mean stagnant water is desirable.
+
+**Trap / remediation:** Remember the paired condition: high moisture but good drainage.
+
+#### MCQ 27 — C
+
+- **A:** “They require permanent flooding” is excluded: Millets fit many dryland systems and the label 'coarse cereal' is a grain-size or category label, not a nutrition verdict.
+- **B:** “They are nutritionally inferior by definition” is excluded: Millets fit many dryland systems and the label 'coarse cereal' is a grain-size or category label, not a nutrition verdict.
+- **C:** Correct. Millets fit many dryland systems and the label 'coarse cereal' is a grain-size or category label, not a nutrition verdict.
+- **D:** “They are confined to humid deltas” is excluded: Millets fit many dryland systems and the label 'coarse cereal' is a grain-size or category label, not a nutrition verdict.
+
+**Trap / remediation:** Link millets to dryland suitability without claiming every millet has identical requirements.
+
+#### MCQ 28 — D
+
+- **A:** “Export first, then production” is excluded: Commercialisation is a staged transition enabled by water, technology, roads, storage, finance and demand.
+- **B:** “Mechanisation alone, without markets” is excluded: Commercialisation is a staged transition enabled by water, technology, roads, storage, finance and demand.
+- **C:** “Subsistence directly to processing without surplus” is excluded: Commercialisation is a staged transition enabled by water, technology, roads, storage, finance and demand.
+- **D:** Correct. Commercialisation is a staged transition enabled by water, technology, roads, storage, finance and demand.
+
+**Trap / remediation:** Rehearse both the sequence and the enabling conditions beneath it.
+
+#### MCQ 29 — A
+
+- **A:** Correct. Market institutions organise exchange and bargaining, while water and policy institutions shape other parts of the system.
+- **B:** “FAO directly procures every farmer's crop” is excluded: Market institutions organise exchange and bargaining, while water and policy institutions shape other parts of the system.
+- **C:** “Irrigation agencies have no effect on cultivation” is excluded: Market institutions organise exchange and bargaining, while water and policy institutions shape other parts of the system.
+- **D:** “Agriculture ministries determine local rainfall” is excluded: Market institutions organise exchange and bargaining, while water and policy institutions shape other parts of the system.
+
+**Trap / remediation:** Separate water control, policy direction, market linkage and international comparison roles.
+
+#### MCQ 30 — B
+
+- **A:** “It proves every farmer sold at MSP” is excluded: Announcement, procurement and output are different stages and measures. The date and crop season must remain attached.
+- **B:** Correct. Announcement, procurement and output are different stages and measures. The date and crop season must remain attached.
+- **C:** “It is a final harvest estimate” is excluded: Announcement, procurement and output are different stages and measures. The date and crop season must remain attached.
+- **D:** “It measures household nutrition” is excluded: Announcement, procurement and output are different stages and measures. The date and crop season must remain attached.
+
+**Trap / remediation:** Use the firewall: announcement != purchase != production.
+
+#### MCQ 31 — C
+
+- **A:** “Manufacturing, banking and transport” is excluded: These activities directly harvest or extract natural resources and exclude manufacturing.
+- **B:** “Software, tourism and dairy processing” is excluded: These activities directly harvest or extract natural resources and exclude manufacturing.
+- **C:** Correct. These activities directly harvest or extract natural resources and exclude manufacturing.
+- **D:** “Crop farming, retail and construction” is excluded: These activities directly harvest or extract natural resources and exclude manufacturing.
+
+**Trap / remediation:** Define primary activity first, then explicitly exclude factories and services.
+
+#### MCQ 32 — D
+
+- **A:** “All coastlines offer identical potential” is excluded: Physiography creates marine and inland potential, while harbours, technology, regulation and markets shape realised production.
+- **B:** “Only distance from the national capital matters” is excluded: Physiography creates marine and inland potential, while harbours, technology, regulation and markets shape realised production.
+- **C:** “Fish production is impossible inland” is excluded: Physiography creates marine and inland potential, while harbours, technology, regulation and markets shape realised production.
+- **D:** Correct. Physiography creates marine and inland potential, while harbours, technology, regulation and markets shape realised production.
+
+**Trap / remediation:** Build a mechanism for shelf, upwelling, estuary and reservoir rather than listing coasts.
+
+#### MCQ 33 — A
+
+- **A:** Correct. Forest composition and reachability matter together; remote or steep terrain can constrain use even when forests are extensive.
+- **B:** “Non-timber forest produce has no livelihood role” is excluded: Forest composition and reachability matter together; remote or steep terrain can constrain use even when forests are extensive.
+- **C:** “Relief has no effect on extraction cost” is excluded: Forest composition and reachability matter together; remote or steep terrain can constrain use even when forests are extensive.
+- **D:** “Every forest is equally suited to commercial timber” is excluded: Forest composition and reachability matter together; remote or steep terrain can constrain use even when forests are extensive.
+
+**Trap / remediation:** Use the sequence forest type -> access -> product -> livelihood.
+
+#### MCQ 34 — B
+
+- **A:** “All ores have the same value density” is excluded: Occurrence is geological, but viable extraction depends on moving material, obtaining inputs and managing institutions.
+- **B:** Correct. Occurrence is geological, but viable extraction depends on moving material, obtaining inputs and managing institutions.
+- **C:** “Geology becomes irrelevant after discovery” is excluded: Occurrence is geological, but viable extraction depends on moving material, obtaining inputs and managing institutions.
+- **D:** “Mining is independent of infrastructure” is excluded: Occurrence is geological, but viable extraction depends on moving material, obtaining inputs and managing institutions.
+
+**Trap / remediation:** Separate 'deposit exists' from 'resource is economically usable.'
+
+#### MCQ 35 — C
+
+- **A:** “Technology has no relation to infrastructure” is excluded: The package works through complementary preconditions. Regions that already possess them become early surplus cores.
+- **B:** “Yields cannot respond to improved seed” is excluded: The package works through complementary preconditions. Regions that already possess them become early surplus cores.
+- **C:** Correct. The package works through complementary preconditions. Regions that already possess them become early surplus cores.
+- **D:** “Every region begins with identical water and credit access” is excluded: The package works through complementary preconditions. Regions that already possess them become early surplus cores.
+
+**Trap / remediation:** Trace precondition filter -> adoption -> yield response -> regional divergence.
+
+#### MCQ 36 — D
+
+- **A:** “A long list without a thesis” is excluded: The structure keeps evidence analytical and ensures the conclusion answers the directive rather than merely ending the response.
+- **B:** “A conclusion unrelated to the directive” is excluded: The structure keeps evidence analytical and ensures the conclusion answers the directive rather than merely ending the response.
+- **C:** “Only a scheme list” is excluded: The structure keeps evidence analytical and ensures the conclusion answers the directive rather than merely ending the response.
+- **D:** Correct. The structure keeps evidence analytical and ensures the conclusion answers the directive rather than merely ending the response.
+
+**Trap / remediation:** After every example, write one sentence beginning 'This shows...' and add one real limitation.
 
 ### Basic remediation ladder
 
@@ -385,7 +677,7 @@ Which structure best answers a Geography Mains question?
 
 Which group of plants was domesticated in the New World and introduced into the Old World? A Tobacco, cocoa and rubber; B Tobacco, cotton and rubber; C Cotton, coffee and sugarcane; D Rubber, coffee and wheat.
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: A. Confidence: high.**
+**Objective key pending: official paper/answer-key alignment not verified; no answer letter claimed.**
 
 Tobacco, cacao and the rubber tree are New World domesticates. Coffee and wheat are Old World; cotton has multiple domestication centres, so options containing coffee/wheat or an ambiguous cotton bundle are eliminated.
 
@@ -395,7 +687,7 @@ Tobacco, cacao and the rubber tree are New World domesticates. Coffee and wheat 
 
 A subtropical crop is injured by hard frost, needs at least 210 frost-free days, 50-100 cm rainfall and light well-drained moisture-retentive soil. Identify it: A Cotton; B Jute; C Sugarcane; D Tea.
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: A. Confidence: high.**
+**Objective key pending: official paper/answer-key alignment not verified; no answer letter claimed.**
 
 The long frost-free season with moderate rainfall and a light, well-drained moisture-retentive soil is the classic cotton requirement bundle. Jute and tea require more humid conditions; sugarcane has a different water-duration profile.
 
@@ -405,9 +697,9 @@ The long frost-free season with moderate rainfall and a light, well-drained mois
 
 Among Andhra Pradesh, Kerala, Himachal Pradesh and Tripura, how many are generally known as tea-producing States? A one; B two; C three; D all four.
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: D. Confidence: high.**
+**Objective key pending: official paper/answer-key alignment not verified; no answer letter claimed.**
 
-Kerala, Himachal Pradesh and Tripura have recognised tea sectors, and Andhra Pradesh has tea cultivation including the Araku/Eastern Ghats context. The missing local official key prevents upgrading the answer to official status.
+Kerala, Himachal Pradesh and Tripura have documented tea cultivation; the proposed Andhra Pradesh/Araku attribution requires an independent tea-sector source check and must not be assumed from Araku's coffee geography. The official question wording, reference year, paper set and key have not been aligned; no answer letter is certified.
 
 **Why this earns marks:** source-status transparency plus option-by-option elimination.
 
@@ -415,9 +707,9 @@ Kerala, Himachal Pradesh and Tripura have recognised tea sectors, and Andhra Pra
 
 Statements: India has more arable area than China; India's proportion of irrigated area is higher; India's average productivity per hectare is higher. How many are correct? A one; B two; C all three; D none.
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: B. Confidence: medium-high.**
+**Objective key pending: official paper/answer-key alignment not verified; no answer letter claimed.**
 
-The first two comparative statements are defensible under the data vintage used by the question, while India's average agricultural productivity per hectare is not higher than China's. Cross-country definitions and reference years are the main caution.
+The statements require aligned reference years and definitions for arable land, irrigated area and productivity; absent those, no answer combination is certified.
 
 **Why this earns marks:** source-status transparency plus option-by-option elimination.
 
@@ -425,9 +717,9 @@ The first two comparative statements are defensible under the data vintage used 
 
 Statements for 2022-23: India is the largest producer and exporter of turmeric; more than 30 varieties are grown; Maharashtra, Telangana, Karnataka and Tamil Nadu are major producers. Options: A I-II; B II-III; C I-III; D I-II-III.
 
-**OFFICIAL SET-A KEY: B (statements II and III only).**
+**Objective key pending:** the cited Set-A letter has not been independently aligned against both the official paper and official key for this repair; no option is certified here.
 
-The local official UPSC key unambiguously records B. However, dated PIB material describes India as the world's largest producer, consumer and exporter and supports statements II and III. The package preserves the official key and flags the unresolved primary-source contradiction rather than inventing a reconciliation.
+PIB describes India as a major turmeric producer and exporter; this conflicts with the earlier workbook’s asserted treatment of statement I. Do not choose a combination without official paper/key alignment and the question's 2022–23 reference-year evidence.
 
 **Why this earns marks:** source-status transparency plus option-by-option elimination.
 
@@ -438,11 +730,11 @@ Define the Blue Revolution and explain problems and strategies for pisciculture 
 **Claim:** Define fisheries/aquaculture expansion, distinguish capture from culture, map inland/coastal potential, and evaluate seed-feed-disease-water-market constraints.
 
 - **Named evidence/example:** India's floodplains, reservoirs and ponds show that fish geography is not coastal only.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Northern floodplain waterbodies sustain inland aquaculture; coastline is not a prerequisite for a culture fishery.
 - **Named evidence/example:** PM Matsya Sampada-type value-chain logic: seed, feed, health, landing, cold chain and market.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Seed, feed, biosecurity, landing and cold storage determine whether aquatic potential becomes reliable income.
 - **Named evidence/example:** Coastal aquaculture illustrates export potential with disease, salinity and habitat risks.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Coastal culture can reach export markets, but disease and salinity/mangrove effects change its net social return.
 
 **Qualification:** Do not reduce Blue Revolution to a slogan or a production number.
 
@@ -457,11 +749,11 @@ Describe the distribution of rubber-producing countries and indicate major envir
 **Claim:** Locate humid tropical South-East and South Asia, parts of Africa and Latin America; explain heat-rainfall and plantation-processing geography.
 
 - **Named evidence/example:** Thailand, Indonesia, Vietnam and Malaysia illustrate the South-East Asian core.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** The humid low-latitude plantation core combines suitable heat/rain with export and processing networks.
 - **Named evidence/example:** India's classic belt is Kerala with suitable expansion pockets in the North-East.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Kerala’s long-established plantations and north-eastern prospects show climate suitability interacts with access and planting systems.
 - **Named evidence/example:** Plantation expansion can replace diverse forests, simplify habitats and create chemical/soil impacts.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Monoculture replaces diverse habitat and can increase erosion or agrochemical runoff, so higher rubber output is not automatically ecological gain.
 
 **Qualification:** Natural-rubber distribution also reflects colonial planting, labour, disease and processing, not climate alone.
 
@@ -476,11 +768,11 @@ Give reasons for India's movement from net food importer in the 1960s to net foo
 **Claim:** Explain technology plus institutions: irrigation, HYVs, research, credit, procurement, storage, roads and later diversification.
 
 - **Named evidence/example:** Punjab-Haryana-western UP supplied the early Green Revolution surplus.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Assured irrigation and seed-input packages first raised yields in the north-western surplus belt.
 - **Named evidence/example:** FCI/central-pool procurement converted regional surplus into national food management.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Purchase, storage and redistribution converted concentrated regional output into nationally available grain.
 - **Named evidence/example:** Later gains in rice, wheat, horticulture, livestock and fisheries broadened output.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Diversification reduces single-crop vulnerability but depends on market and water suitability.
 
 **Qualification:** Net export is commodity- and year-specific and does not prove universal nutritional security or sustainable water use.
 
@@ -495,11 +787,11 @@ What are non-farm primary activities? How are these related to physiographic fea
 **Claim:** Define and explicitly exclude manufacturing; cover fishing, forestry, mining and quarrying.
 
 - **Named evidence/example:** Western shelf/upwelling and estuaries shape marine fishing; floodplains/reservoirs shape inland fishery.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Shelf and floodplain forms set different marine and inland fisheries opportunities.
 - **Named evidence/example:** Climate, altitude and access shape Himalayan, central Indian and north-eastern forestry/NTFP systems.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Forest composition and non-timber livelihood potential vary with relief, altitude and access.
 - **Named evidence/example:** Peninsular shields, sedimentary basins, lateritic caps and riverbeds govern mining/quarrying occurrence.
-  - **Analysis:** The evidence proves a specific spatial or institutional mechanism.
+  - **Analysis:** Geology fixes metallic ores, fuels and lateritic bauxite; riverbed deposits support a different quarrying geography.
 
 **Qualification:** Physiography sets occurrence and potential, while transport, technology, rights and regulation determine realised use.
 
@@ -516,9 +808,9 @@ Discuss how MSP can protect farmers from low-income traps.
 
 **Claim:** MSP can reduce downside price risk only when the signal is credible at the farmer's market.
 
-- **Named evidence/example:** CACP recommendation and CCEA announcement establish the national signal. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FCI/state procurement in rice-wheat belts shows how purchase makes the signal effective. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Pulses/oilseeds show weaker and more episodic procurement geography. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** CACP recommendation and CCEA announcement establish the national signal. **Analysis:** Recommendation sets a price floor signal; actual protection requires purchase in a reachable mandi.
+- **Named evidence/example:** FCI/state procurement in rice-wheat belts shows how purchase makes the signal effective. **Analysis:** Real purchase converts an announced floor into a realised option for surplus-selling farmers.
+- **Named evidence/example:** Pulses/oilseeds show weaker and more episodic procurement geography. **Analysis:** Uneven buying leaves growers exposed to local price collapses despite an announced MSP.
 
 **Qualification:** MSP does not address yield loss, rising cost, tiny marketed surplus or non-farm household risk.
 
@@ -532,9 +824,9 @@ Examine the role of supermarkets in agricultural supply chains and whether they 
 
 **Claim:** Agricultural-marketing performance depends on functions, competition and infrastructure rather than the legal identity of the intermediary.
 
-- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
+- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
+- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** Storage-backed credit can defer distress sale, conditional on quality and access.
 
 **Qualification:** A large private buyer can replace a commission agent yet reproduce monopsony and quality-dispute risk.
 
@@ -548,9 +840,9 @@ Discuss ecological and economic benefits of Sikkim as an organic state.
 
 **Claim:** Ecological farming can reduce external input and soil-water pressure while creating differentiated transition costs.
 
-- **Named evidence/example:** Sikkim provides a named whole-state organic-policy example. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** NPOP/PGS-type certification distinguishes standard-based organic from generic low-input practice. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Diversified rotations, manure and biological processes can improve soil functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Sikkim provides a named whole-state organic-policy example. **Analysis:** State-wide organic conversion changes input practices but must be judged against costs and realised returns.
+- **Named evidence/example:** NPOP/PGS-type certification distinguishes standard-based organic from generic low-input practice. **Analysis:** Certification creates a verifiable market claim; it is not a yield guarantee.
+- **Named evidence/example:** Diversified rotations, manure and biological processes can improve soil functions. **Analysis:** Biological nutrient cycling can improve soil functioning but needs locally adequate biomass.
 
 **Qualification:** Certification, market premium and lower chemical use do not guarantee yield, income or zero externality in every crop and season.
 
@@ -564,9 +856,9 @@ Assess the role of the National Horticulture Mission in production and farmer in
 
 **Claim:** High-value horticulture can raise value per hectare and employment only when perishability and market risk are managed.
 
-- **Named evidence/example:** Mission-linked nurseries, planting material and cluster support strengthen the production base. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Packhouses, cold chains and processing convert biological output into saleable quality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs and contracts can aggregate produce and connect buyers. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Mission-linked nurseries, planting material and cluster support strengthen the production base. **Analysis:** Planting material affects survival and quality, upstream of farm-gate price.
+- **Named evidence/example:** Packhouses, cold chains and processing convert biological output into saleable quality. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** FPOs and contracts can aggregate produce and connect buyers. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
 
 **Qualification:** A high gross value can coexist with high cost, rejection, price crash and post-harvest loss.
 
@@ -580,9 +872,9 @@ Elaborate changes in cropping pattern and the emphasis on millet production.
 
 **Claim:** Cropping patterns respond to agro-climate and relative expected returns shaped by procurement, consumption, technology and value chains.
 
-- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** Rice-wheat procurement and irrigation created path dependence in the north-west changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** Millets offer dryland, nutrition and climate advantages in suitable regions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** Uneven buying leaves growers exposed to local price collapses despite an announced MSP.
 
 **Qualification:** Diversification can shift water or price risk rather than reduce it when alternative chains are weak.
 
@@ -596,9 +888,9 @@ Discuss how Integrated Farming Systems sustain agricultural production.
 
 **Claim:** Integrated Farming Systems stabilise smallholder livelihoods by linking crop, livestock, fish and trees through material and income flows.
 
-- **Named evidence/example:** Crop residues feed livestock and manure returns nutrients. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Farm ponds can support protective irrigation and fish where ecologically suitable. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Multiple enterprises spread seasonal labour and market risk. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Crop residues feed livestock and manure returns nutrients. **Analysis:** Crop residues feed livestock and manure returns nutrients changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Farm ponds can support protective irrigation and fish where ecologically suitable. **Analysis:** Farm ponds can support protective irrigation and fish where ecologically suitable changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Multiple enterprises spread seasonal labour and market risk. **Analysis:** Multiple enterprises spread seasonal labour and market risk changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Management, labour, animal health, water and market complexity can exceed smallholder capacity.
 
@@ -612,10 +904,10 @@ Elaborate the impact of watershed development on water-stressed agriculture.
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -629,9 +921,9 @@ Discuss the contributions of M. Visvesvaraya and M.S. Swaminathan to water engin
 
 **Claim:** Agricultural transformation emerged from complementary engineering, crop science and state institutions.
 
-- **Named evidence/example:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Punjab-Haryana-western UP show the package of water, fertiliser, credit, extension and procurement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering. **Analysis:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy. **Analysis:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Punjab-Haryana-western UP show the package of water, fertiliser, credit, extension and procurement. **Analysis:** Assured water, input access and procurement made early yield gains geographically selective.
 
 **Qualification:** Success was regionally selective and generated groundwater, nutrient and crop-lock-in costs.
 
@@ -645,10 +937,10 @@ Discuss reforms needed to make foodgrain distribution effective.
 
 **Claim:** Food security requires availability, access, utilisation and stability; procurement and PDS are linked but distinct institutions.
 
-- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** Real purchase converts an announced floor into a realised option for surplus-selling farmers.
+- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** NFSA/TPDS creates a legal entitlement channel changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** ONORC/digitisation improve portability and auditability changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** Buffer stocks support emergencies and price management changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Cereal access cannot alone solve nutrition, exclusion, storage loss or ecological production costs.
 
@@ -662,9 +954,9 @@ Elaborate policy responses to food-processing-sector challenges.
 
 **Claim:** Food processing connects farm geography to consumer markets by extending shelf life, standardising quality and creating derived demand.
 
-- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** Milk cooperatives show aggregation-processing-cold-chain integration changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** AIF and MoFPI-type infrastructure support can crowd in storage and processing changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Processing can concentrate buyer power, water use, waste and low-quality jobs if regulation and local linkages are weak.
 
@@ -678,9 +970,9 @@ What are the constraints in transport and marketing of agricultural produce?
 
 **Claim:** Agricultural-marketing performance depends on functions, competition and infrastructure rather than the legal identity of the intermediary.
 
-- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
+- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
+- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** Storage-backed credit can defer distress sale, conditional on quality and access.
 
 **Qualification:** A large private buyer can replace a commission agent yet reproduce monopsony and quality-dispute risk.
 
@@ -694,9 +986,9 @@ What are the challenges and opportunities of food processing for raising farmer 
 
 **Claim:** Food processing connects farm geography to consumer markets by extending shelf life, standardising quality and creating derived demand.
 
-- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** Milk cooperatives show aggregation-processing-cold-chain integration changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** AIF and MoFPI-type infrastructure support can crowd in storage and processing changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Processing can concentrate buyer power, water use, waste and low-quality jobs if regulation and local linkages are weak.
 
@@ -710,10 +1002,10 @@ How has agricultural technology changed farming and everyday life?
 
 **Claim:** Digital agriculture improves observation, coordination and transaction only when data are accurate and services remain accessible and contestable.
 
-- **Named evidence/example:** Digital Agriculture Mission provides the umbrella. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AgriStack federates farmer, map and crop-sown information with states. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Krishi-DSS and remote sensing support monitoring. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** e-NAM, digital claims and advisories connect production to markets/risk. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Digital Agriculture Mission provides the umbrella. **Analysis:** Digital Agriculture Mission provides the umbrella changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** AgriStack federates farmer, map and crop-sown information with states. **Analysis:** AgriStack federates farmer, map and crop-sown information with states changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Krishi-DSS and remote sensing support monitoring. **Analysis:** Krishi-DSS and remote sensing support monitoring changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** e-NAM, digital claims and advisories connect production to markets/risk. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
 
 **Qualification:** Land-linked registries may exclude tenants and women; model inference can be wrong; connectivity and correction matter.
 
@@ -727,10 +1019,10 @@ Explain water-conservation and security features of Jal Shakti Abhiyan.
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -744,9 +1036,9 @@ What explains the success of the rice-wheat system, and what negative consequenc
 
 **Claim:** Agricultural transformation emerged from complementary engineering, crop science and state institutions.
 
-- **Named evidence/example:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Punjab-Haryana-western UP show the package of water, fertiliser, credit, extension and procurement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering. **Analysis:** Visvesvaraya's automatic sluice gates and block irrigation illustrate systematic water engineering changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy. **Analysis:** Swaminathan's role in adapting semi-dwarf wheat/rice links global germplasm to Indian agronomy changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Punjab-Haryana-western UP show the package of water, fertiliser, credit, extension and procurement. **Analysis:** Assured water, input access and procurement made early yield gains geographically selective.
 
 **Qualification:** Success was regionally selective and generated groundwater, nutrient and crop-lock-in costs.
 
@@ -760,10 +1052,10 @@ Suggest measures to improve water storage and irrigation under depletion.
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -777,10 +1069,10 @@ How did land reforms affect marginal and small farmers?
 
 **Claim:** Land reform succeeds when legal design, records, mobilisation and administration alter the cultivator's actual rights and incentives.
 
-- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** Operation Barga recorded sharecroppers changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** Kerala and early J&K illustrate stronger reform under distinct political conditions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** Agriculture Census separates operated from owned area changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** Consolidation and clear leasing can improve investment and scale changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Ceiling evasion, exemptions, informal tenancy and fragmentation limited impact; one state model is not universally transferable.
 
@@ -794,10 +1086,10 @@ How far can micro-irrigation solve India's water crisis?
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -811,10 +1103,10 @@ What are the salient features of NFSA 2013, and how has it addressed hunger?
 
 **Claim:** Food security requires availability, access, utilisation and stability; procurement and PDS are linked but distinct institutions.
 
-- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** Real purchase converts an announced floor into a realised option for surplus-selling farmers.
+- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** NFSA/TPDS creates a legal entitlement channel changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** ONORC/digitisation improve portability and auditability changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** Buffer stocks support emergencies and price management changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Cereal access cannot alone solve nutrition, exclusion, storage loss or ecological production costs.
 
@@ -828,9 +1120,9 @@ What are the challenges of crop diversification and opportunities from emerging 
 
 **Claim:** Cropping patterns respond to agro-climate and relative expected returns shaped by procurement, consumption, technology and value chains.
 
-- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** Rice-wheat procurement and irrigation created path dependence in the north-west changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** Millets offer dryland, nutrition and climate advantages in suitable regions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** Uneven buying leaves growers exposed to local price collapses despite an announced MSP.
 
 **Qualification:** Diversification can shift water or price risk rather than reduce it when alternative chains are weak.
 
@@ -844,10 +1136,10 @@ Discuss PDS challenges and measures for effectiveness and transparency.
 
 **Claim:** Food security requires availability, access, utilisation and stability; procurement and PDS are linked but distinct institutions.
 
-- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** Real purchase converts an announced floor into a realised option for surplus-selling farmers.
+- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** NFSA/TPDS creates a legal entitlement channel changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** ONORC/digitisation improve portability and auditability changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** Buffer stocks support emergencies and price management changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Cereal access cannot alone solve nutrition, exclusion, storage loss or ecological production costs.
 
@@ -861,9 +1153,9 @@ Elaborate the scope and significance of food processing in India.
 
 **Claim:** Food processing connects farm geography to consumer markets by extending shelf life, standardising quality and creating derived demand.
 
-- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** Milk cooperatives show aggregation-processing-cold-chain integration changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** AIF and MoFPI-type infrastructure support can crowd in storage and processing changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Processing can concentrate buyer power, water use, waste and low-quality jobs if regulation and local linkages are weak.
 
@@ -877,9 +1169,9 @@ Discuss upstream and downstream bottlenecks in agricultural marketing.
 
 **Claim:** Agricultural-marketing performance depends on functions, competition and infrastructure rather than the legal identity of the intermediary.
 
-- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
+- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
+- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** Storage-backed credit can defer distress sale, conditional on quality and access.
 
 **Qualification:** A large private buyer can replace a commission agent yet reproduce monopsony and quality-dispute risk.
 
@@ -893,9 +1185,9 @@ Explain benefits of Integrated Farming Systems for small and marginal farmers.
 
 **Claim:** Integrated Farming Systems stabilise smallholder livelihoods by linking crop, livestock, fish and trees through material and income flows.
 
-- **Named evidence/example:** Crop residues feed livestock and manure returns nutrients. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Farm ponds can support protective irrigation and fish where ecologically suitable. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Multiple enterprises spread seasonal labour and market risk. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Crop residues feed livestock and manure returns nutrients. **Analysis:** Crop residues feed livestock and manure returns nutrients changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Farm ponds can support protective irrigation and fish where ecologically suitable. **Analysis:** Farm ponds can support protective irrigation and fish where ecologically suitable changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Multiple enterprises spread seasonal labour and market risk. **Analysis:** Multiple enterprises spread seasonal labour and market risk changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Management, labour, animal health, water and market complexity can exceed smallholder capacity.
 
@@ -909,10 +1201,10 @@ Explain how e-technology helps farmers in production and marketing.
 
 **Claim:** Digital agriculture improves observation, coordination and transaction only when data are accurate and services remain accessible and contestable.
 
-- **Named evidence/example:** Digital Agriculture Mission provides the umbrella. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AgriStack federates farmer, map and crop-sown information with states. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Krishi-DSS and remote sensing support monitoring. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** e-NAM, digital claims and advisories connect production to markets/risk. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Digital Agriculture Mission provides the umbrella. **Analysis:** Digital Agriculture Mission provides the umbrella changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** AgriStack federates farmer, map and crop-sown information with states. **Analysis:** AgriStack federates farmer, map and crop-sown information with states changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Krishi-DSS and remote sensing support monitoring. **Analysis:** Krishi-DSS and remote sensing support monitoring changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** e-NAM, digital claims and advisories connect production to markets/risk. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
 
 **Qualification:** Land-linked registries may exclude tenants and women; model inference can be wrong; connectivity and correction matter.
 
@@ -926,10 +1218,10 @@ Discuss land-reform objectives, measures and land-ceiling policy.
 
 **Claim:** Land reform succeeds when legal design, records, mobilisation and administration alter the cultivator's actual rights and incentives.
 
-- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** Operation Barga recorded sharecroppers changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** Kerala and early J&K illustrate stronger reform under distinct political conditions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** Agriculture Census separates operated from owned area changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** Consolidation and clear leasing can improve investment and scale changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Ceiling evasion, exemptions, informal tenancy and fragmentation limited impact; one state model is not universally transferable.
 
@@ -943,9 +1235,9 @@ Explain cropping-pattern changes driven by consumption and marketing.
 
 **Claim:** Cropping patterns respond to agro-climate and relative expected returns shaped by procurement, consumption, technology and value chains.
 
-- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** Rice-wheat procurement and irrigation created path dependence in the north-west changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** Millets offer dryland, nutrition and climate advantages in suitable regions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** Uneven buying leaves growers exposed to local price collapses despite an announced MSP.
 
 **Qualification:** Diversification can shift water or price risk rather than reduce it when alternative chains are weak.
 
@@ -959,10 +1251,10 @@ Discuss Indian farm subsidies and WTO disputes on agricultural support.
 
 **Claim:** Farm support must be classified by design and trade effect rather than by domestic policy label.
 
-- **Named evidence/example:** WTO amber box captures trade-distorting support subject to commitments. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Green box requires specified non/minimally trade-distorting design. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Blue box links support to production-limiting programmes. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Public stockholding debates show the interaction of administered prices and food security. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** WTO amber box captures trade-distorting support subject to commitments. **Analysis:** WTO amber box captures trade-distorting support subject to commitments changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Green box requires specified non/minimally trade-distorting design. **Analysis:** Green box requires specified non/minimally trade-distorting design changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Blue box links support to production-limiting programmes. **Analysis:** Blue box links support to production-limiting programmes changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Public stockholding debates show the interaction of administered prices and food security. **Analysis:** Public stockholding debates show the interaction of administered prices and food security changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** A measure can serve legitimate livelihood/food-security goals and still face notification or calculation disputes.
 
@@ -976,10 +1268,10 @@ Elaborate factors behind successful land reforms in parts of India.
 
 **Claim:** Land reform succeeds when legal design, records, mobilisation and administration alter the cultivator's actual rights and incentives.
 
-- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Operation Barga recorded sharecroppers. **Analysis:** Operation Barga recorded sharecroppers changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Kerala and early J&K illustrate stronger reform under distinct political conditions. **Analysis:** Kerala and early J&K illustrate stronger reform under distinct political conditions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Agriculture Census separates operated from owned area. **Analysis:** Agriculture Census separates operated from owned area changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Consolidation and clear leasing can improve investment and scale. **Analysis:** Consolidation and clear leasing can improve investment and scale changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Ceiling evasion, exemptions, informal tenancy and fragmentation limited impact; one state model is not universally transferable.
 
@@ -993,9 +1285,9 @@ Explain the role of millets in health and nutritional security.
 
 **Claim:** Cropping patterns respond to agro-climate and relative expected returns shaped by procurement, consumption, technology and value chains.
 
-- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Rice-wheat procurement and irrigation created path dependence in the north-west. **Analysis:** Rice-wheat procurement and irrigation created path dependence in the north-west changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Millets offer dryland, nutrition and climate advantages in suitable regions. **Analysis:** Millets offer dryland, nutrition and climate advantages in suitable regions changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Pulses/oilseeds and horticulture require seed, processing, storage and market support. **Analysis:** Uneven buying leaves growers exposed to local price collapses despite an announced MSP.
 
 **Qualification:** Diversification can shift water or price risk rather than reduce it when alternative chains are weak.
 
@@ -1009,10 +1301,10 @@ State challenges of the Indian irrigation system and government measures.
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -1026,10 +1318,10 @@ Elucidate the importance of buffer stocks for price stabilisation and storage ch
 
 **Claim:** Food security requires availability, access, utilisation and stability; procurement and PDS are linked but distinct institutions.
 
-- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** FCI/state procurement converts surplus into central-pool stocks. **Analysis:** Real purchase converts an announced floor into a realised option for surplus-selling farmers.
+- **Named evidence/example:** NFSA/TPDS creates a legal entitlement channel. **Analysis:** NFSA/TPDS creates a legal entitlement channel changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** ONORC/digitisation improve portability and auditability. **Analysis:** ONORC/digitisation improve portability and auditability changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Buffer stocks support emergencies and price management. **Analysis:** Buffer stocks support emergencies and price management changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Cereal access cannot alone solve nutrition, exclusion, storage loss or ecological production costs.
 
@@ -1043,9 +1335,9 @@ Explain factors influencing farmers' selection of high-value crops.
 
 **Claim:** High-value horticulture can raise value per hectare and employment only when perishability and market risk are managed.
 
-- **Named evidence/example:** Mission-linked nurseries, planting material and cluster support strengthen the production base. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Packhouses, cold chains and processing convert biological output into saleable quality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs and contracts can aggregate produce and connect buyers. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Mission-linked nurseries, planting material and cluster support strengthen the production base. **Analysis:** Planting material affects survival and quality, upstream of farm-gate price.
+- **Named evidence/example:** Packhouses, cold chains and processing convert biological output into saleable quality. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** FPOs and contracts can aggregate produce and connect buyers. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
 
 **Qualification:** A high gross value can coexist with high cost, rejection, price crash and post-harvest loss.
 
@@ -1059,9 +1351,9 @@ Elaborate the scope and significance of supply-chain management of agricultural 
 
 **Claim:** Agricultural-marketing performance depends on functions, competition and infrastructure rather than the legal identity of the intermediary.
 
-- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** e-NAM demonstrates digital price discovery but still requires assaying, logistics and settlement. **Analysis:** Remote bids cannot overcome absent grading, freight or prompt payment.
+- **Named evidence/example:** FPOs aggregate small lots and bargaining power but need working capital and governance. **Analysis:** Aggregating fragmented lots can improve bargaining only when organisations have capital and governance.
+- **Named evidence/example:** Warehouse receipts and cold chains reduce distress sale and quality loss when accredited and connected. **Analysis:** Storage-backed credit can defer distress sale, conditional on quality and access.
 
 **Qualification:** A large private buyer can replace a commission agent yet reproduce monopsony and quality-dispute risk.
 
@@ -1075,10 +1367,10 @@ Examine factors behind groundwater depletion and government steps.
 
 **Claim:** India's agricultural water crisis is a source-distribution-application-drainage-governance problem, not only a shortage of projects.
 
-- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** PMKSY separates access, efficiency and watershed/command functions. **Analysis:** Infrastructure creation, field delivery and water savings must be measured separately.
+- **Named evidence/example:** Drip/sprinkler can raise plot efficiency; basin saving depends on rebound. **Analysis:** Drip/sprinkler can raise plot efficiency changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Watershed ridge-to-valley treatment supports recharge and protective irrigation. **Analysis:** Watershed ridge-to-valley treatment supports recharge and protective irrigation changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality. **Analysis:** The groundwater-power nexus in north-western and hard-rock regions shows shared-stock externality changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Potential created or area covered does not prove reliable, equitable and sustainable irrigation.
 
@@ -1092,9 +1384,9 @@ Examine the scope of food processing and its employment potential.
 
 **Claim:** Food processing connects farm geography to consumer markets by extending shelf life, standardising quality and creating derived demand.
 
-- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** it demonstrates the causal or spatial relationship demanded.
-- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** it demonstrates the causal or spatial relationship demanded.
+- **Named evidence/example:** Milk cooperatives show aggregation-processing-cold-chain integration. **Analysis:** Milk cooperatives show aggregation-processing-cold-chain integration changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
+- **Named evidence/example:** Fruit/vegetable packhouses and cold chains reduce quality decay. **Analysis:** Grading and cooling reduce decay on long supply routes if actually operated.
+- **Named evidence/example:** AIF and MoFPI-type infrastructure support can crowd in storage and processing. **Analysis:** AIF and MoFPI-type infrastructure support can crowd in storage and processing changes the location, cost or accessibility of production and marketing; the effect depends on local uptake.
 
 **Qualification:** Processing can concentrate buyer power, water use, waste and low-quality jobs if regulation and local linkages are weak.
 
@@ -1127,27 +1419,6 @@ remains a strong first explanation of peri-urban high-value farming.
 **Why this earns marks:** It answers “examine,” applies the model to named Indian urban contexts,
 explains modern modification, states assumptions and gives a graded verdict.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the continuing relevance of Von Thunen for peri-urban agriculture in India.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Examine the continuing relevance of Von Thunen for peri-urban agriculture in India.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: Von Thunen remains relevant as a mechanism of transport cost, perishability and land **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** rent, even though Indian cities no longer display perfect concentric rings. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Named evidence/example: Milk, leafy vegetables and flowers cluster around large markets **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** such as Delhi and Bengaluru. Analysis: frequent delivery and quality loss make access **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** valuable, so high-value perishables can outbid extensive uses near demand. Qualification **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Examine the continuing relevance of Von Thunen for peri-urban agriculture in India.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Examine the continuing relevance of Von Thunen for peri-urban agriculture in India.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
 
 ### Original 10-mark practice 2
 
@@ -1176,27 +1447,6 @@ and governance are managed as one hydrological system.
 **Why this earns marks:** It distinguishes potential from outcome, uses canal and groundwater
 mechanisms, adds a programme example and ends with a systems verdict.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why an increase in irrigation potential need not produce reliable and sustainable…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Explain why an increase in irrigation potential need not produce reliable and sustainable irrigation.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: Irrigation potential measures created capacity; reliable and sustainable irrigation **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** depends on actual delivery, equitable access, drainage, aquifer balance and crop-water use. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Named evidence/example: Canal commands may suffer poor maintenance, tail-end deprivation **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** and waterlogging. Analysis: created capacity does not prove timely field delivery. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** Qualification: well-managed commands can still provide stable multi-season irrigation. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Explain why an increase in irrigation potential need not produce reliable and sustainable irrigation.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Explain why an increase in irrigation potential need not produce reliable and sustainable…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
 
 ### Original 15-mark practice 1
 
@@ -1230,27 +1480,6 @@ perishability management are aligned regionally; changing only the announced pri
 **Why this earns marks:** It analyses four interacting determinants, uses dated structural
 evidence, adds regional examples and qualifies every policy mechanism.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse how land tenure, water, procurement and cold-chain geography jointly shape crop…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Analyse how land tenure, water, procurement and cold-chain geography jointly shape crop choice in India.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: Crop choice is a household risk decision shaped by control over land, water **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** reliability, assured sale and the ability to preserve quality—not by agro-climate or price alone. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Named evidence/example: The 2015-16 Agriculture Census records 146.45 million operational **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** holdings with an average size of 1.08 hectares. Analysis: small operational scale can **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** reduce risk-bearing capacity and favour familiar crops with established buyers. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Analyse how land tenure, water, procurement and cold-chain geography jointly shape crop choice in India.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Analyse how land tenure, water, procurement and cold-chain geography jointly shape crop…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
 
 ### Original 15-mark practice 2
 
@@ -1286,27 +1515,6 @@ markets for diversified crops.
 **Why this earns marks:** It evaluates both achievement and uneven diffusion, ties evidence to
 spatial mechanisms, avoids a one-sided ecological critique and offers mechanism-matched reform.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the regional diffusion and second-generation challenges of the Green…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Critically examine the regional diffusion and second-generation challenges of the Green Revolution.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: The Green Revolution was a technology-institution package that secured national grain **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** supply but diffused unevenly because its preconditions were geographically selective. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Named evidence/example: Punjab, Haryana and western Uttar Pradesh combined assured **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** irrigation, level alluvial land, credit, extension and procurement. Analysis: complementary **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** preconditions produced an early wheat-rice surplus core. Qualification: technology alone **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Critically examine the regional diffusion and second-generation challenges of the Green Revolution.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Critically examine the regional diffusion and second-generation challenges of the Green…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
 
 ### Original 20-mark practice 1
 
@@ -1349,27 +1557,6 @@ transition support for affected farmers and workers.
 dimensions, uses dated programme evidence, links every example to a mechanism and builds a
 balanced just-transition verdict.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Agricultural transformation must move from output maximisation to resilient value creation.…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Agricultural transformation must move from output maximisation to resilient value creation. Discuss with reference to rainfed systems, markets,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: Resilient value creation means raising stable net livelihood value per unit of scarce **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** water, soil and risk, rather than maximising a single crop's gross output. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Named evidence/example: Watershed ridge-to-valley treatment and farm ponds in rainfed **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** regions support recharge and protective irrigation. Analysis: small, timely water access **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** can stabilise crops without copying canal-intensive systems. Qualification: structures **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Agricultural transformation must move from output maximisation to resilient value creation. Discuss with reference to rainfed systems, markets,…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Agricultural transformation must move from output maximisation to resilient value creation.…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
 
 ### Original 20-mark practice 2
 
@@ -1415,25 +1602,3 @@ aligning production incentives with regional water and nutrition needs.
 **Why this earns marks:** It evaluates the full chain named in the question, distinguishes every
 data category, integrates geography with institutions and nutrition, and ends with a
 source-aware graded verdict.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's food-security geography from production and procurement to stocks, PDS,…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “Evaluate India's food-security geography from production and procurement to stocks, PDS, trade and nutrition.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Claim: India's food security is a spatial chain linking agro-climatic production, selective **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** procurement, central-pool movement and legal distribution; success in cereal availability does **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** not by itself secure nutrition or sustainability. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Named evidence/example: Punjab, Haryana and western Uttar Pradesh formed an early **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** Green-Revolution surplus core. Analysis: irrigation and technology converted a regional **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “Evaluate India's food-security geography from production and procurement to stocks, PDS, trade and nutrition.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**How to improve this answer:** For “Evaluate India's food-security geography from production and procurement to stocks, PDS,…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.

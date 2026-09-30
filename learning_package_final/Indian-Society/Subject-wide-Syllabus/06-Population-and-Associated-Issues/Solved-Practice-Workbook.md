@@ -6,835 +6,422 @@ topic_key: indian-society-06
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Population as a social question?
+Coverage: fertility determinants, rights-based NPP 2000 and education; son preference versus sex ratio at birth; NFHS-5/6 versus Census; population momentum, ageing, dividend and demographic winter; migration and state variation. ✅ Numeric claims follow the dated Core owner; ⚠️ regional illustrations do not supply unverified state figures.
 
-A. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-B. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-C. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-D. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
+Questions precede the solved key; each item has one best answer. Options rotate A → B → C → D in the separate key.
 
-**Answer: A.**
-**Explanation:** Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived. The remaining options belong to different chronology, actor or analytical categories.
+### Q1. A state shows fewer births per woman but a growing total population. What explains the possibility?
 
-### Q2. Which chronology card should be filed under Population as a social question?
+A. A large cohort entering childbearing ages can sustain growth through population momentum.
+B. Replacement fertility requires an immediate zero population count.
+C. Fertility decline necessarily raises the crude death rate overnight.
+D. A total population can grow only if fertility rises each year.
 
-A. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-B. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-C. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-D. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
+### Q2. Which pair correctly separates population stock from a period fertility measure?
 
-**Answer: B.**
-**Explanation:** Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived. The remaining options belong to different chronology, actor or analytical categories.
+A. Both measure the number of children in one sample household.
+B. Census enumerates people at a date; TFR summarises age-specific birth rates in a period.
+C. TFR counts every resident on census day.
+D. Census is a sample survey of desired family size only.
 
-### Q3. Which option preserves the source-bounded meaning of Population as a social question?
+### Q3. Two districts have the same TFR but different shares of elderly persons. Which inference is warranted?
 
-A. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-B. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-C. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-D. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
+A. Both necessarily have identical migration histories.
+B. The district with more elderly must have higher current fertility.
+C. Current fertility alone does not determine their inherited age structures.
+D. Their old-age dependency must be identical.
 
-**Answer: C.**
-**Explanation:** Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived. The remaining options belong to different chronology, actor or analytical categories.
+### Q4. What does a rise in life expectancy contribute to population ageing?
 
-### Q4. Which statement avoids a close-option trap about Population as a social question?
+A. It directly proves a rise in child births per woman.
+B. It necessarily produces a fall in every working-age population.
+C. It is synonymous with a distorted sex ratio at birth.
+D. Survival into older ages increases the share needing later-life support.
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-C. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-D. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
+### Q5. Which hypothesis about women's education avoids a single-cause claim?
 
-**Answer: D.**
-**Explanation:** Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived. The remaining options belong to different chronology, actor or analytical categories.
+A. Education may improve knowledge and bargaining power, interacting with services, norms and income.
+B. Each added school year mechanically fixes an identical fertility drop.
+C. School attendance eliminates son preference by statute.
+D. Women's education determines state age structures without migration.
 
-### Q5. Which statement correctly identifies Social determinants of fertility?
+### Q6. A woman wants to space births but cannot access a nearby health service. What does this reveal?
 
-A. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-D. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
+A. Desired family size can be inferred from an area's sex ratio alone.
+B. Knowledge and autonomy may not translate into choice without accessible contraception.
+C. Education has no relevance to informed decisions.
+D. NPP 2000 mandates a compulsory child limit.
 
-**Answer: A.**
-**Explanation:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. The remaining options belong to different chronology, actor or analytical categories.
+### Q7. Why can later marriage influence fertility without being an isolated explanation?
 
-### Q6. Which chronology card should be filed under Social determinants of fertility?
+A. It determines son preference independently of norms.
+B. It has no possible relationship with maternal health.
+C. It may shorten exposure to childbearing, while contraception, health and preferences also matter.
+D. It proves all marriages occur after the same age.
 
-A. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-B. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-C. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-D. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
+### Q8. Higher urban child-rearing costs coexist with lower desired family size. What mechanism is plausible?
 
-**Answer: B.**
-**Explanation:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. The remaining options belong to different chronology, actor or analytical categories.
+A. Every urban couple faces identical costs and choices.
+B. Urban residence automatically ends births.
+C. Lower desired family size is identical to higher child mortality.
+D. Housing, schooling and foregone income can raise the cost of an additional child.
 
-### Q7. Which option preserves the source-bounded meaning of Social determinants of fertility?
+### Q9. A family wishes to stop at two children but continues childbearing because it wants a son. What coexists?
 
-A. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-B. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-C. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+A. Smaller desired family size and persistent son preference.
+B. Lower fertility necessarily eliminates gender bias.
+C. The sex ratio at birth is the same thing as a household preference.
+D. All daughters necessarily experience identical discrimination.
 
-**Answer: C.**
-**Explanation:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. The remaining options belong to different chronology, actor or analytical categories.
+### Q10. Which measurement can reflect sex-selective behaviour but is not itself an attitude?
 
-### Q8. Which statement avoids a close-option trap about Social determinants of fertility?
+A. Old-age reliance on sons.
+B. Sex ratio at birth.
+C. Son preference.
+D. Patrilineal inheritance expectation.
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-C. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-D. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
+### Q11. Which pair keeps a norm and a measured indicator apart?
 
-**Answer: D.**
-**Explanation:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. The remaining options belong to different chronology, actor or analytical categories.
+A. Both are exactly the same measure of current population stock.
+B. Both are synonymous with the total fertility rate.
+C. Son preference is an attitude; sex ratio at birth is a birth-composition indicator.
+D. Son preference is a birth registry; sex ratio at birth is a personal belief.
 
-### Q9. Which statement correctly identifies Women's education pathway?
+### Q12. Would anti-sex-selection law alone necessarily eliminate son preference?
 
-A. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-D. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
+A. Yes; statutes directly erase private beliefs.
+B. Yes; legal text proves equal intrahousehold power.
+C. No; sex ratios at birth are unrelated to attitudes under any circumstances.
+D. No; inheritance and elder-support expectations can continue shaping norms.
 
-**Answer: A.**
-**Explanation:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. The remaining options belong to different chronology, actor or analytical categories.
+### Q13. What is NPP 2000's immediate objective in the Core source?
 
-### Q10. Which chronology card should be filed under Women's education pathway?
+A. Meet unmet needs for contraception and reproductive and child-health care.
+B. Impose a compulsory one-child ceiling nationwide.
+C. Count every resident in a new Census.
+D. Close all elder-care institutions.
 
-A. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-B. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-C. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+### Q14. What is the correct ordering of NPP 2000 objectives?
 
-**Answer: B.**
-**Explanation:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. The remaining options belong to different chronology, actor or analytical categories.
+A. Complete census count → pension index → fertility survey.
+B. Unmet need → replacement-level fertility → long-term stabilisation with sustainable development.
+C. Coercive one-child rule → closed borders → zero births.
+D. Population decline → sex selection → removal of primary health care.
 
-### Q11. Which option preserves the source-bounded meaning of Women's education pathway?
+### Q15. NPP 2000 states a long-term stabilisation objective. What is *not* thereby established?
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-C. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-D. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
+A. That reproductive health access matters.
+B. That voluntary choices are more appropriate than coercion.
+C. That the objective has already been met in every state.
+D. That the policy contains multiple time horizons.
 
-**Answer: C.**
-**Explanation:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. The remaining options belong to different chronology, actor or analytical categories.
+### Q16. Which proposal is incompatible with a rights-based population policy?
 
-### Q12. Which statement avoids a close-option trap about Women's education pathway?
+A. Providing voluntary counselling on birth spacing.
+B. Improving access to contraception.
+C. Offering scientifically accurate reproductive-health information.
+D. Denying services to parents who reject a compulsory child quota.
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-D. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
+### Q17. How must an NFHS-5 fertility figure be dated?
 
-**Answer: D.**
-**Explanation:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. The remaining options belong to different chronology, actor or analytical categories.
+A. TFR 2.0 belongs to the 2019–21 historical survey round.
+B. It is a 2026 all-person Census enumeration.
+C. It is a current year-by-year count of marriages.
+D. It measures each state's present elderly dependency.
 
-### Q13. Which statement correctly identifies Age at marriage?
+### Q18. Which statement about NFHS-6 follows the Core owner?
 
-A. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-B. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-C. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+A. It measures the share of women wanting a son directly from TFR.
+B. Its 2023–24 national fact-sheet results are provisional survey estimates, released 29 May 2026.
+C. It is Census 2026's final headcount of residents.
+D. Its provisional TFR proves a uniform rate in all states.
 
-**Answer: A.**
-**Explanation:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. The remaining options belong to different chronology, actor or analytical categories.
+### Q19. The Core cites NFHS-6 national TFR 2.0, urban 1.6 and rural 2.1. What is the safest reading?
 
-### Q14. Which chronology card should be filed under Age at marriage?
+A. The national figure is each state's exact current TFR.
+B. The three figures prove urban residence causes fertility decline.
+C. These are provisional survey fertility estimates with different geographic strata.
+D. Urban and rural figures are 2026 household counts.
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-D. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
+### Q20. Why cannot an NFHS TFR be used as an absolute current state population count?
 
-**Answer: B.**
-**Explanation:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. The remaining options belong to different chronology, actor or analytical categories.
+A. It enumerates every address at the same instant.
+B. It is the number of retired people divided by workers.
+C. It counts every migration event since 2011.
+D. It estimates births per woman under a period schedule, not people residing in the state.
 
-### Q15. Which option preserves the source-bounded meaning of Age at marriage?
+### Q21. What was the latest completed full-enumeration population stock named by the Core as of September 2026?
 
-A. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+A. Census 2011.
+B. NFHS-5 2019–21.
+C. NFHS-6 2023–24.
+D. National Population Policy 2000.
 
-**Answer: C.**
-**Explanation:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. The remaining options belong to different chronology, actor or analytical categories.
+### Q22. A fall in fertility in Kerala-type settings and a younger age profile in some EAG states imply what?
 
-### Q16. Which statement avoids a close-option trap about Age at marriage?
+A. No younger state requires health or employment investment.
+B. State-specific ageing and youth-service priorities can coexist nationally.
+C. Every Indian state has the same dependency ratio.
+D. The older state must have the higher current fertility.
 
-A. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-B. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-C. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-D. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
+### Q23. What is the most defensible consequence of out-migration from a younger region to an ageing one?
 
-**Answer: D.**
-**Explanation:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. The remaining options belong to different chronology, actor or analytical categories.
+A. Migrants' destination determines their childhood sex ratio.
+B. Out-migration guarantees permanent population decline in both regions.
+C. Receiving-region labour can increase while care for elders left behind becomes harder.
+D. Migration automatically reduces old-age needs at the sending end.
 
-### Q17. Which statement correctly identifies Son preference as an attitude?
+### Q24. Which is a necessary condition for 'demographic winter' beyond a single low TFR reading?
 
-A. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-B. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-C. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+A. Any one-year rise in child mortality.
+B. A large current working-age share alone.
+C. A single household postponing a birth.
+D. Sustained sub-replacement fertility alongside ageing and eventual decline pressures.
 
-**Answer: A.**
-**Explanation:** Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size. The remaining options belong to different chronology, actor or analytical categories.
+### Q25. How does a demographic dividend differ from demographic winter?
 
-### Q18. Which chronology card should be filed under Son preference as an attitude?
+A. Dividend is potential from a relatively high working-age share; winter concerns ageing and sustained low fertility.
+B. Both mean a compulsory two-child policy.
+C. Dividend proves income grows regardless of jobs.
+D. Winter means solely a high share of children.
 
-A. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-B. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-C. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+### Q26. Two states are in different age-structure phases. Which national statement remains possible?
 
-**Answer: B.**
-**Explanation:** Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size. The remaining options belong to different chronology, actor or analytical categories.
+A. A dividend in one state guarantees a demographic winter in the next.
+B. One can face rising elder-care pressure while the other has a youth-employment window.
+C. A country can have only one demographic phase in every state.
+D. National TFR directly specifies each district's pension demand.
 
-### Q19. Which option preserves the source-bounded meaning of Son preference as an attitude?
+### Q27. How should the 2024 GS-I 'Is the world moving towards demographic winter?' be answered?
 
-A. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-D. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+A. All developing regions already have identical old-age structures.
+B. The question's definition needs no evidence of population ageing.
+C. Some regions face sustained low fertility and ageing, but the movement is uneven globally.
+D. NFHS India data alone prove all world regions are shrinking.
 
-**Answer: C.**
-**Explanation:** Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size. The remaining options belong to different chronology, actor or analytical categories.
+### Q28. Which pair distinguishes ageing's two sides?
 
-### Q20. Which statement avoids a close-option trap about Son preference as an attitude?
+A. Ageing proves public health has necessarily failed.
+B. Longevity automatically provides pension coverage.
+C. Old-age dependency is only a question about school admissions.
+D. Improved survival is an achievement; more later-life care may require added support.
 
-A. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-D. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
+### Q29. A daughter works away while her parents age at home. What social mechanism is relevant?
 
-**Answer: D.**
-**Explanation:** Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size. The remaining options belong to different chronology, actor or analytical categories.
+A. Separated residence may reduce daily care capacity even where remittances continue.
+B. A remittance automatically supplies all hands-on support.
+C. Migration necessarily terminates all contact.
+D. Parents' age is determined by their daughter's occupation.
 
-### Q21. Which statement correctly identifies Sex ratio at birth as an outcome?
+### Q30. What extra evidence is required to establish an elder-care 'policy gap'?
 
-A. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-B. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-C. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-D. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
+A. Assume one state's conditions apply to all.
+B. Compare local ageing and care needs with actual health, pension and family support capacity.
+C. Quote a historical national TFR alone.
+D. Mention an old-age scheme name without access data.
 
-**Answer: A.**
-**Explanation:** The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter. The remaining options belong to different chronology, actor or analytical categories.
+### Q31. What does the old-age dependency ratio measure in demographic analysis?
 
-### Q22. Which chronology card should be filed under Sex ratio at birth as an outcome?
+A. Proportion of boys among live births.
+B. Rural households receiving remittances.
+C. Older population relative to a conventionally defined working-age population.
+D. Births per woman over her reproductive life.
 
-A. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-B. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-C. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-D. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+### Q32. Which description fits the first demographic transition as used by this owner?
 
-**Answer: B.**
-**Explanation:** The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter. The remaining options belong to different chronology, actor or analytical categories.
+A. A value-based account of family formation alone.
+B. An instantaneous decline in a city's headcount.
+C. A guarantee of identical regional population growth.
+D. Long-run mortality and fertility decline.
 
-### Q23. Which option preserves the source-bounded meaning of Sex ratio at birth as an outcome?
+### Q33. Which caveat applies to 'second demographic transition' theory in Indian answers?
 
-A. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-B. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-C. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-D. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+A. A European-derived value and family-change lens cannot explain every state's fertility alone.
+B. It proves only tropical climate causes low births.
+C. It is India's mandatory statutory fertility target.
+D. It means ageing is biologically impossible.
 
-**Answer: C.**
-**Explanation:** The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter. The remaining options belong to different chronology, actor or analytical categories.
+### Q34. A fertility rate reaches replacement while many young adults enter childbearing ages. What follows?
 
-### Q24. Which statement avoids a close-option trap about Sex ratio at birth as an outcome?
+A. Dependency ratios cannot change thereafter.
+B. Absolute births may stay substantial because of demographic momentum.
+C. Total population must begin falling that same year.
+D. Every age cohort immediately has equal size.
 
-A. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-B. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-C. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-D. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
+### Q35. Which strategy addresses fertility without treating women as demographic instruments?
 
-**Answer: D.**
-**Explanation:** The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter. The remaining options belong to different chronology, actor or analytical categories.
+A. Punish births above an arbitrary quota.
+B. Restrict schooling until a family reaches a target size.
+C. Improve education, health access and voluntary reproductive choice.
+D. Impose compulsory sterilisation targets.
 
-### Q25. Which statement correctly identifies National Population Policy, 2000?
+### Q36. What does population education aim to develop?
 
-A. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-B. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-C. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-D. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
+A. Mandatory consent to a prescribed family size.
+B. A one-time Census headcount in every classroom.
+C. A rule that girls alone are responsible for demographic change.
+D. Age-appropriate understanding of health, family choices, gender and population-resource links.
 
-**Answer: A.**
-**Explanation:** The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target. The remaining options belong to different chronology, actor or analytical categories.
+### Q37. Which delivery pathway reaches adolescents outside school without making schooling irrelevant?
 
-### Q26. Which chronology card should be filed under National Population Policy, 2000?
+A. Combine school curricula with community outreach and linked health services.
+B. Confine information to one urban textbook only.
+C. Replace all health access with posters.
+D. Make counselling conditional on a compulsory child cap.
 
-A. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-B. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-C. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-D. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+### Q38. How should a school lesson use NFHS fertility estimates?
 
-**Answer: B.**
-**Explanation:** The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target. The remaining options belong to different chronology, actor or analytical categories.
+A. Infer why any particular woman had a child from the average.
+B. Explain their survey period, provisional status if relevant and limits as state-specific evidence.
+C. Present each national mean as every student's household history.
+D. Use TFR as a precise count of present residents.
 
-### Q27. Which option preserves the source-bounded meaning of National Population Policy, 2000?
+### Q39. What is the flaw in saying falling TFR eliminates son preference?
 
-A. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-B. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-C. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-D. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+A. A sex ratio at birth is a direct poll of household attitudes.
+B. All families must continue having the same number of children.
+C. Composition preferences may persist even when overall desired births decline.
+D. Son preference and fertility cannot influence each other.
 
-**Answer: C.**
-**Explanation:** The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target. The remaining options belong to different chronology, actor or analytical categories.
+### Q40. Which indicator best tests whether a region's demographic dividend yields economic benefit?
 
-### Q28. Which statement avoids a close-option trap about National Population Policy, 2000?
+A. Working-age share alone with no job information.
+B. TFR alone with no age distribution.
+C. Sex ratio at birth alone with no workforce data.
+D. Working-age structure together with employment, skills and labour productivity.
 
-A. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-B. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-C. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-D. The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
+### Q41. Which statement separates density from growth?
 
-**Answer: D.**
-**Explanation:** The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target. The remaining options belong to different chronology, actor or analytical categories.
+A. Density is population per area at a date; growth is change in population over time.
+B. Density and fertility are the same measure.
+C. Growth is the area of a state in square kilometres.
+D. A high-density district must have the fastest current growth.
 
-### Q29. Which statement correctly identifies NFHS-5 as a historical comparator?
+### Q42. Why may population distribution shift without a change in national fertility?
 
-A. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-D. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+A. Distribution describes only birth order within families.
+B. Internal migration changes local stocks while national births need not change.
+C. Migration automatically changes the national TFR by statute.
+D. People cannot cross state borders within India.
 
-**Answer: A.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. The remaining options belong to different chronology, actor or analytical categories.
+### Q43. What does the Core's 2019 GS-I routed demand principally test?
 
-### Q30. Which chronology card should be filed under NFHS-5 as a historical comparator?
+A. An official objective-choice answer key.
+B. The exact current population of each state.
+C. Women's empowerment as a pathway to voluntary fertility decisions.
+D. A mandatory one-child provision of NPP 2000.
 
-A. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-B. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-C. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-D. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
+### Q44. Which part of the 2021 GS-I demand is missed by listing aims alone?
 
-**Answer: B.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. The remaining options belong to different chronology, actor or analytical categories.
+A. The fact that the demand is in the GS-I paper.
+B. The definition of long-term population stabilisation.
+C. The names of age groups in a pyramid.
+D. Practical measures to deliver age-appropriate population education and health information.
 
-### Q31. Which option preserves the source-bounded meaning of NFHS-5 as a historical comparator?
+### Q45. What is the correct provenance of the 2024 demographic-winter question here?
 
-A. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-B. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-C. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-D. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
+A. Verbatim GS-I Q7; the audited ledger routes it to Geography while this Core claims social-demography ownership.
+B. A verified Prelims MCQ with an official A–D key.
+C. An invented 2026 GS-I paper question.
+D. A 2019 question on women's employment.
 
-**Answer: C.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. The remaining options belong to different chronology, actor or analytical categories.
+### SOLVED MCQ KEY AND ELIMINATION
 
-### Q32. Which statement avoids a close-option trap about NFHS-5 as a historical comparator?
+**Q1 — A.** Age structure mediates births even after the period fertility rate falls. **Close-option trap:** Replacement-level fertility does not equal instant zero growth.
 
-A. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-D. The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
+**Q2 — B.** Denominator, timing and statistical design differ. **Close-option trap:** Do not substitute NFHS TFR for a current Census count.
 
-**Answer: D.**
-**Explanation:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. The remaining options belong to different chronology, actor or analytical categories.
+**Q3 — C.** Past births, survival and migration contribute to age composition. **Close-option trap:** A period rate is not an age pyramid.
 
-### Q33. Which statement correctly identifies NFHS-6 release and provisional status?
+**Q4 — D.** Improved survival is an achievement with later care implications. **Close-option trap:** Ageing is not by itself evidence that health policy failed.
 
-A. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-B. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-C. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-D. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+**Q5 — A.** Agency operates through linked choices rather than a guaranteed rate. **Close-option trap:** Association does not isolate a unique causal contribution.
 
-**Answer: A.**
-**Explanation:** The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet. The remaining options belong to different chronology, actor or analytical categories.
+**Q6 — B.** Service access is a distinct constraint in fertility decisions. **Close-option trap:** A rights-based approach addresses unmet need, not quotas.
 
-### Q34. Which chronology card should be filed under NFHS-6 release and provisional status?
+**Q7 — C.** Timing affects opportunity for births but interacts with other factors. **Close-option trap:** Never convert a social association into a universal biological rule.
 
-A. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-B. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-C. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-D. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+**Q8 — D.** Resource and opportunity costs can influence preferences. **Close-option trap:** A city-wide association alone does not identify causation.
 
-**Answer: B.**
-**Explanation:** The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet. The remaining options belong to different chronology, actor or analytical categories.
+**Q9 — A.** Norms about child composition can resist changing size preferences. **Close-option trap:** Neither a hypothetical household nor TFR supplies an all-India sex ratio.
 
-### Q35. Which option preserves the source-bounded meaning of NFHS-6 release and provisional status?
+**Q10 — B.** The ratio is an observed demographic outcome; preference is a possible social driver. **Close-option trap:** A skewed aggregate requires cautious attribution and reliable vital data.
 
-A. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-D. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
+**Q11 — C.** Different evidence is needed for motives and outcomes. **Close-option trap:** One cannot read every family's beliefs off an aggregate ratio.
 
-**Answer: C.**
-**Explanation:** The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet. The remaining options belong to different chronology, actor or analytical categories.
+**Q12 — D.** Social incentives as well as enforcement shape the pattern. **Close-option trap:** Do not deny the importance of law while rejecting legal sufficiency.
 
-### Q36. Which statement avoids a close-option trap about NFHS-6 release and provisional status?
+**Q13 — A.** Immediate service access differs from medium- and long-term population aims. **Close-option trap:** A policy aim is not proof the need is already met.
 
-A. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-D. The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
+**Q14 — B.** The three policy horizons address services, fertility and sustainable stabilisation. **Close-option trap:** Replacement fertility does not mean a mandatory family-size cap.
 
-**Answer: D.**
-**Explanation:** The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet. The remaining options belong to different chronology, actor or analytical categories.
+**Q15 — C.** An announced policy goal and observed demographic outcome are different. **Close-option trap:** An objective cannot substitute for survey or census evidence.
 
-### Q37. Which statement correctly identifies Survey is not a census stock?
+**Q16 — D.** Coercion undermines informed choice and the owner's NPP framing. **Close-option trap:** Never misdescribe NPP 2000 as a national one- or two-child mandate.
 
-A. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-B. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-C. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-D. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
+**Q17 — A.** A source-grounded number must carry its measure and field period. **Close-option trap:** NFHS-6's release does not make NFHS-5 the latest round.
 
-**Answer: A.**
-**Explanation:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. The remaining options belong to different chronology, actor or analytical categories.
+**Q18 — B.** The period and provisional release status bound interpretation. **Close-option trap:** A release year is not its field period.
 
-### Q38. Which chronology card should be filed under Survey is not a census stock?
+**Q19 — C.** Distinguish period, measurement unit and stratification. **Close-option trap:** Stratum difference is association, not an identified causal effect.
 
-A. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-B. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-C. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-D. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
+**Q20 — D.** A rate and an enumerated stock answer different questions. **Close-option trap:** A survey estimate cannot replace a full headcount.
 
-**Answer: B.**
-**Explanation:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. The remaining options belong to different chronology, actor or analytical categories.
+**Q21 — A.** The Core expressly distinguishes completed Census stock from survey rounds. **Close-option trap:** A newer survey is not a newer completed Census.
 
-### Q39. Which option preserves the source-bounded meaning of Survey is not a census stock?
+**Q22 — B.** Sub-national structures matter more than a national average for local needs. **Close-option trap:** Names are illustrative; do not invent exact state TFRs.
 
-A. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-D. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
+**Q23 — C.** A workforce offset has a family-care trade-off across regions. **Close-option trap:** Migration's net demographic effect must be measured, not asserted.
 
-**Answer: C.**
-**Explanation:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. The remaining options belong to different chronology, actor or analytical categories.
+**Q24 — D.** Winter is a time-extended population pattern, not one cross-sectional number. **Close-option trap:** Do not label every low-fertility district a shrinking population.
 
-### Q40. Which statement avoids a close-option trap about Survey is not a census stock?
+**Q25 — A.** These are distinct opportunities and risks across the life course. **Close-option trap:** A working-age share creates potential, not automatic growth.
 
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-C. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-D. A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+**Q26 — B.** Age structures can diverge within a single national aggregate. **Close-option trap:** Neither label should be used as an unqualified national diagnosis.
 
-**Answer: D.**
-**Explanation:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. The remaining options belong to different chronology, actor or analytical categories.
+**Q27 — C.** Different regional fertility and age profiles require a graded judgement. **Close-option trap:** India's survey cannot establish a world-level population claim.
 
-### Q41. Which statement correctly identifies Sub-national divergence?
+**Q28 — D.** The same survival gain can create new care needs. **Close-option trap:** Do not frame older people solely as an economic burden.
 
-A. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-B. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-C. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-D. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
+**Q29 — A.** Financial and in-person support are related but distinct. **Close-option trap:** Distance is not proof of abandonment.
 
-**Answer: A.**
-**Explanation:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. The remaining options belong to different chronology, actor or analytical categories.
+**Q30 — B.** Service adequacy must be checked against a state-specific need and delivery. **Close-option trap:** A fertility rate alone cannot prove institutional failure.
 
-### Q42. Which chronology card should be filed under Sub-national divergence?
+**Q31 — C.** The ratio relates age groups, not direct individual care payments. **Close-option trap:** Do not equate the age ratio with pension caseload without coverage data.
 
-A. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-B. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-C. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-D. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
+**Q32 — D.** The first transition concerns the broad mortality-fertility sequence. **Close-option trap:** Detailed stage mechanics are owned by Geography.
 
-**Answer: B.**
-**Explanation:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. The remaining options belong to different chronology, actor or analytical categories.
+**Q33 — A.** Theory can enrich an explanation but cannot replace local institutions and services. **Close-option trap:** No imported model is automatically a uniform diagnosis.
 
-### Q43. Which option preserves the source-bounded meaning of Sub-national divergence?
+**Q34 — B.** Earlier cohorts continue influencing births after the rate changes. **Close-option trap:** Do not equate replacement-level fertility with zero population growth.
 
-A. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-B. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-C. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-D. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
+**Q35 — C.** Capability and agency advance both health and informed family choices. **Close-option trap:** Do not call rights-based empowerment 'population control'.
 
-**Answer: C.**
-**Explanation:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. The remaining options belong to different chronology, actor or analytical categories.
+**Q36 — D.** Informed participation is the objective, not coercive compliance. **Close-option trap:** Knowledge must be joined with service access and gender equity.
 
-### Q44. Which statement avoids a close-option trap about Sub-national divergence?
+**Q37 — A.** Different channels can reach different groups with practical services. **Close-option trap:** Information alone is not access.
 
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+**Q38 — B.** Population education includes evidence literacy, not just numbers. **Close-option trap:** An average cannot identify an individual's motive.
 
-**Answer: D.**
-**Explanation:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. The remaining options belong to different chronology, actor or analytical categories.
+**Q39 — C.** The size and composition of a desired family are different questions. **Close-option trap:** Distinguish inferred mechanism from a measured outcome.
 
-### Q45. Which statement correctly identifies Demographic winter?
+**Q40 — D.** A favourable age window must be converted into productive work. **Close-option trap:** Demographic potential is not guaranteed growth.
 
-A. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-D. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
+**Q41 — A.** Stock relative to area and temporal change have different denominators. **Close-option trap:** High density can coexist with slow or negative growth.
 
-**Answer: A.**
-**Explanation:** Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average. The remaining options belong to different chronology, actor or analytical categories.
+**Q42 — B.** Movement reallocates residents geographically. **Close-option trap:** A region's migration balance is not its fertility rate.
 
-### Q46. Which chronology card should be filed under Demographic winter?
+**Q43 — C.** The audited ledger records a social mechanism, not a quota. **Close-option trap:** The 2019 scanned paper is not safely quoted verbatim.
 
-A. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-B. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-C. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-D. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
+**Q44 — D.** The prompt asks both for objectives and what India should do. **Close-option trap:** Do not replace delivery and safeguards with generic exhortation.
 
-**Answer: B.**
-**Explanation:** Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Demographic winter?
-
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-C. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-D. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-
-**Answer: C.**
-**Explanation:** Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Demographic winter?
-
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-
-**Answer: D.**
-**Explanation:** Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Demographic dividend contrast?
-
-A. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-B. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-C. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-D. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-
-**Answer: A.**
-**Explanation:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Demographic dividend contrast?
-
-A. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-B. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-
-**Answer: B.**
-**Explanation:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Demographic dividend contrast?
-
-A. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-B. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-C. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-D. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-
-**Answer: C.**
-**Explanation:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Demographic dividend contrast?
-
-A. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-B. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-
-**Answer: D.**
-**Explanation:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Ageing as achievement and burden?
-
-A. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-B. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-
-**Answer: A.**
-**Explanation:** Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Ageing as achievement and burden?
-
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-C. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-D. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-
-**Answer: B.**
-**Explanation:** Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Ageing as achievement and burden?
-
-A. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-B. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-C. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-D. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-
-**Answer: C.**
-**Explanation:** Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Ageing as achievement and burden?
-
-A. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-B. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-C. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-D. Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-
-**Answer: D.**
-**Explanation:** Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Old-age dependency and family support?
-
-A. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-B. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-C. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-D. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-
-**Answer: A.**
-**Explanation:** A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Old-age dependency and family support?
-
-A. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-B. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-C. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-D. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-
-**Answer: B.**
-**Explanation:** A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Old-age dependency and family support?
-
-A. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-B. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-C. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-D. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-
-**Answer: C.**
-**Explanation:** A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Old-age dependency and family support?
-
-A. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-B. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-C. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-D. A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-
-**Answer: D.**
-**Explanation:** A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies First and second demographic transition?
-
-A. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-B. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-
-**Answer: A.**
-**Explanation:** The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under First and second demographic transition?
-
-A. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-B. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-C. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-D. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-
-**Answer: B.**
-**Explanation:** The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of First and second demographic transition?
-
-A. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-B. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-C. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-D. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-
-**Answer: C.**
-**Explanation:** The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about First and second demographic transition?
-
-A. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-B. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-C. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-D. The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-
-**Answer: D.**
-**Explanation:** The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Urbanisation and the cost of children?
-
-A. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-B. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-C. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-D. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-
-**Answer: A.**
-**Explanation:** Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Urbanisation and the cost of children?
-
-A. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-B. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-C. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-D. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-
-**Answer: B.**
-**Explanation:** Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Urbanisation and the cost of children?
-
-A. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-B. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-C. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-D. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-
-**Answer: C.**
-**Explanation:** Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Urbanisation and the cost of children?
-
-A. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-B. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-C. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-D. Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-
-**Answer: D.**
-**Explanation:** Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Migration as an offset?
-
-A. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-B. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-C. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-D. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-
-**Answer: A.**
-**Explanation:** Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Migration as an offset?
-
-A. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-B. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-C. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-D. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-
-**Answer: B.**
-**Explanation:** Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Migration as an offset?
-
-A. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-B. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-C. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-D. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-
-**Answer: C.**
-**Explanation:** Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Migration as an offset?
-
-A. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-D. Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-
-**Answer: D.**
-**Explanation:** Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Population education?
-
-A. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-B. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-C. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-D. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-
-**Answer: A.**
-**Explanation:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Population education?
-
-A. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-B. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-C. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-D. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-
-**Answer: B.**
-**Explanation:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Population education?
-
-A. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-D. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-
-**Answer: C.**
-**Explanation:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Population education?
-
-A. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-B. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-C. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-D. Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-
-**Answer: D.**
-**Explanation:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-B. Population change is treated in this owner as a social process shaped by schooling, marriage timing, desired family size, son preference, health services and contraceptive access, while the stage-based demographic transition model and dividend theory remain the property of Geography and are cross-linked rather than re-derived.
-C. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-D. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-
-**Answer: A.**
-**Explanation:** Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-B. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-C. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-D. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-
-**Answer: B.**
-**Explanation:** Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-B. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-C. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-D. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-
-**Answer: C.**
-**Explanation:** Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-B. The sex ratio at birth is the measurable demographic outcome through which son preference becomes visible in parts of India, so the attitude and the metric must be named separately and the legal-regulatory response to sex selection remains a Social Justice and Polity matter.
-C. A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-D. Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it.
-
-**Answer: D.**
-**Explanation:** Three direct General Studies Paper-I demands are carried by this owner: the 2019 demand on empowering women in relation to population growth worth 10 marks and the 2021 demand on the objectives of population education and the measures India needs worth 15 marks, both routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes, and the 2024 demographic-winter demand worth 10 marks whose ledger route names the Geography population owner while this owner's own answer-architecture table claims it. The remaining options belong to different chronology, actor or analytical categories.
+**Q45 — A.** Retain the cross-owner routing conflict while answering the demand. **Close-option trap:** Do not erase the ledger disagreement or fabricate official Mains keys.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED PYQ OWNERSHIP AUDIT
 
 Three direct General Studies Paper-I Mains demands are carried by this owner and each is recorded with its exact routing status. The 2019 Q9 demand on empowering women in relation to population growth and the 2021 Q18 demand on the objectives of population education are routed in the audited 2018-2023 Mains ledger to the Advanced owner, while the Core owner's own answer-architecture table records that Core routing supersedes those pointers, so both are answered here from the Basic spine. The locally held official question papers for 2019 and 2021 are scanned images from which reliable text cannot be extracted, so the audited ledger's neutral demand rendering is used and no verbatim wording is claimed for those two years. The 2024 Q7 demographic-winter demand is different: its ledger row names the Geography world-population owner while this owner's own answer-architecture table claims it, and that cross-owner conflict is stated openly here rather than resolved by an unsupported analytical claim. Its wording was confirmed in the locally held official 2024 General Studies Paper-I. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
 
 ### OWNER PYQ LEDGER EXTRACTS
 
@@ -893,324 +480,103 @@ Three direct General Studies Paper-I Mains demands are carried by this owner and
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+
+> Mains PYQ solutions are independent model answers, **not official answer keys**. The ledger records provenance; question wording and marks below retain the audited workbook's demands.
+
 ### PYQ DEMAND CARD 1 — 2019 GS-I Q9
 
-**Demand:** Audited ledger demand rendering: empowering women as key to controlling population growth. Discuss, 10 marks, 150 words.
+**Demand:** Audited ledger rendering: empowering women as key to controlling population growth. Discuss, 10 marks, 150 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2019 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Provenance:** Audited 2018–2023 GS-I routing; scanned official 2019 paper could not be transcribed reliably, so this is **not** presented as verbatim.
 
-**Model solution:** Reframe the demand before answering it: the examinable claim is that expanding women's capability, not administering population control, is what lowers fertility, so the answer tests a mechanism rather than endorsing a slogan. Establish the mechanism. Women's educational attainment is associated with later marriage, with wider knowledge and use of contraception and with a broader set of life options, and a later age at marriage compresses the reproductive window while improving maternal and child health outcomes; the qualification is that these are interacting associations operating alongside service access, income, norms and state context, so no single determinant may be advanced as the sole cause. Add the policy anchor. The National Population Policy, 2000 of the Ministry of Health and Family Welfare is tiered around unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, which shows that India's own stated framework is rights-based rather than coercive; the qualification is that a stated objective is not an achieved outcome. Show the limit of the empowerment claim. Son preference is an attitude rooted in inheritance rules and old-age support expectations and it can persist after desired family size has already fallen, so households may continue childbearing until a son is born even where women's schooling has risen, which means empowerment shifts the size decision faster than it shifts the composition decision. Close with a qualified verdict: empowerment is the most defensible route because it enlarges informed and voluntary choice and simultaneously improves health outcomes, but it must be paired with contraceptive access, marriage-timing support and work on son preference, and the outcome will remain state-graded because fertility in India is markedly uneven. Quote no state fertility value and no dependency figure that this owner does not carry.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Reframe the demand before answering it: the examinable claim is that expanding women's capability, not administering population control, is what lowers fertility, so the answer tests a mechanism rather than endorsing a slogan. Establish the mechanism. Women's educational attainment is associated with later marriage, with wider knowledge and use of contraception and with a broader set of life options, and a later age at marriage compresses the reproductive window while improving maternal and child health outcomes; the qualification is that these are interacting associations operating alongside service access, income, norms and state context, so no single determinant may be advanced as the sole cause. Add the policy anchor. The National Population Policy, 2000 of the Ministry of Health and Family Welfare is tiered around unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, which shows that India's own stated framework is rights-based rather than coercive; the qualification is that a stated objective is not an achieved outcome. Show the limit of the empowerment claim. Son preference is an attitude rooted in inheritance rules and old-age support expectations and it can persist after desired family size has already fallen, so households may continue childbearing until a son is born even where women's schooling has risen, which means empowerment shifts the size decision faster than it shifts the composition decision. Close with a qualified verdict: empowerment is the most defensible route because it enlarges informed and voluntary choice and simultaneously improves health outcomes, but it must be paired with contraceptive access, marriage-timing support and work on son preference, and the outcome will remain state-graded because fertility in India is markedly uneven. Quote no state fertility value and no dependency figure that this owner does not carry.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: empowering women as key to controlling population growth. Discuss, 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Reframe the demand before answering it: the examinable claim is that expanding women's capability, not administering population control, is what lowers fertility, so the answer tests a mechanism rather than endorsing a slogan. Establish the mechanism. Women's educational attainment is associated with later marriage, with wider knowledge and use of contraception and with a broader set of life options, and a later age at marriage compresses the reproductive window while improving maternal and child health outcomes; the qualification is that these are interacting associations operating alongside service access, income, norms and state context, so no single determinant may be advanced as the sole cause. Add the policy anchor. The National Population Policy, 2000 of the Ministry of Health and Family Welfare is tiered around unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, which shows that India's own stated framework is rights-based rather than coercive; the qualification is that a stated objective is not an achieved outcome. Show the limit of the empowerment claim. Son preference is an attitude rooted in inheritance rules and old-age support expectations and it can persist after desired family size has already fallen, so households may continue childbearing until a son is born even where women's schooling has risen, which means empowerment shifts the size decision faster than it shifts the composition decision. Close with a qualified verdict: empowerment is the most defensible route because it enlarges informed and voluntary choice and simultaneously improves health outcomes, but it must be paired with contraceptive access, marriage-timing support and work on son preference, and the outcome will remain state-graded because fertility in India is markedly uneven. Quote no state fertility value and no dependency figure that this owner does not carry.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer (not an official key):** Empowerment makes fertility decisions more informed and voluntary, a better framing than 'controlling' women's births. Education can widen employment and bargaining options, help women understand contraception and support later marriage; together these may reduce unintended pregnancies and improve maternal health. The National Population Policy, 2000 prioritises unmet reproductive-health needs rather than a compulsory family-size rule. Yet schooling alone cannot secure choice if contraception is unavailable, care burdens are unequal or a woman cannot negotiate with her household. Son preference can persist even as desired family size falls, so families may continue childbearing in pursuit of a son. NFHS-5's 2019–21 national TFR of 2.0 is a historical fertility estimate, not proof that schooling alone caused decline or that every state is alike. Gender agency, accessible health care and changes to discriminatory norms must therefore advance together. The aim is capability and healthier choices, not a coercive numeric target.
 
 ### PYQ DEMAND CARD 2 — 2021 GS-I Q18
 
-**Demand:** Audited ledger demand rendering: objectives of population education and the measures India needs. Discuss and point out, 15 marks, 250 words.
+**Demand:** Audited ledger rendering: objectives of population education and measures India needs. Discuss and point out, 15 marks, 250 words.
 
-**Status:** Routed in the audited 2018-2023 Mains ledger to the Advanced owner, with the Core owner recording that Core routing supersedes. The locally held official 2021 paper is a scanned image without reliable text extraction, so the ledger rendering is used and no verbatim wording is claimed.
+**Provenance:** Audited 2018–2023 GS-I routing; scanned official 2021 paper could not be transcribed reliably, so this is **not** presented as verbatim.
 
-**Model solution:** Define the subject precisely at the start: population education is age-appropriate, scientific and rights-respecting education about population processes and their social consequences, and it is not a persuasion campaign attached to a numerical target. Group the objectives so that the discuss half of the directive is visibly organised. First, reproductive and health information that allows informed decisions about marriage timing, spacing and maternal and child health. Second, gender equality and delayed marriage, because a later age at marriage compresses the reproductive window and improves maternal and child outcomes while women's educational attainment widens life options. Third, informed and voluntary family-size choice framed as capability rather than compliance. Fourth, awareness of the relationship between population, resources and services so that pressure on schooling, housing and health provision is understood rather than moralised. Then point out the measures, which is the second half of the directive and where most answers thin out. Deliver the content through school curricula at age-appropriate stages, through community outreach that reaches out-of-school adolescents, and through frontline health services so that information and access arrive together rather than separately. Locate the whole design inside the National Population Policy, 2000 frame of unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, and attach explicit anti-coercion safeguards so the programme cannot slide into target-setting. Qualify the recommendation honestly. Fertility in India is markedly uneven across states, so identical content will meet very different conditions, and the National Family Health Survey rounds are survey estimates rather than Census stocks, so they may indicate direction without supplying a state-uniform target. Conclude that population education succeeds when it expands informed capability and fails the moment it becomes demographic instruction.
+**Model answer (not an official key):** Population education equips people to understand demographic change and make informed, voluntary decisions; it is not a campaign for a mandatory family-size ceiling. Its first objective is reliable, age-appropriate knowledge of reproductive health, birth spacing and the implications of marriage timing for maternal and child wellbeing. A second is gender equality: questioning son preference and unequal decision-making helps distinguish a family's desired size from discriminatory preferences about a child's sex. A third is literacy about population, migration, age structure and access to schooling, housing and health services. For example, a falling fertility rate may coexist with continued growth through a large young cohort; treating replacement-level fertility as instant population stabilisation miseducates students.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2021 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+India needs scientifically sound material at successive school stages and community outreach for adolescents outside school. Frontline health services should accompany information with confidential counselling and voluntary access to contraception; otherwise knowledge cannot become agency. Teachers and health workers should be prepared to discuss stigma sensitively, including how norms affect girls differently. The National Population Policy, 2000 offers a framework through its emphasis on unmet need, replacement fertility and long-term sustainable stabilisation, but its aims must not be confused with achieved results or coercive quotas.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Define the subject precisely at the start: population education is age-appropriate, scientific and rights-respecting education about population processes and their social consequences, and it is not a persuasion campaign attached to a numerical target. Group the objectives so that the discuss half of the directive is visibly organised. First, reproductive and health information that allows informed decisions about marriage timing, spacing and maternal and child health. Second, gender equality and delayed marriage, because a later age at marriage compresses the reproductive window and improves maternal and child outcomes while women's educational attainment widens life options. Third, informed and voluntary family-size choice framed as capability rather than compliance. Fourth, awareness of the relationship between population, resources and services so that pressure on schooling, housing and health provision is understood rather than moralised. Then point out the measures, which is the second half of the directive and where most answers thin out. Deliver the content through school curricula at age-appropriate stages, through community outreach that reaches out-of-school adolescents, and through frontline health services so that information and access arrive together rather than separately. Locate the whole design inside the National Population Policy, 2000 frame of unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, and attach explicit anti-coercion safeguards so the programme cannot slide into target-setting. Qualify the recommendation honestly. Fertility in India is markedly uneven across states, so identical content will meet very different conditions, and the National Family Health Survey rounds are survey estimates rather than Census stocks, so they may indicate direction without supplying a state-uniform target. Conclude that population education succeeds when it expands informed capability and fails the moment it becomes demographic instruction.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Audited ledger demand rendering: objectives of population education and the measures India needs. Discuss and point out, 15 marks, 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Define the subject precisely at the start: population education is age-appropriate, scientific and rights-respecting education about population processes and their social consequences, and it is not a persuasion campaign attached to a numerical target. Group the objectives so that the discuss half of the directive is visibly organised. First, reproductive and health information that allows informed decisions about marriage timing, spacing and maternal and child health. Second, gender equality and delayed marriage, because a later age at marriage compresses the reproductive window and improves maternal and child outcomes while women's educational attainment widens life options. Third, informed and voluntary family-size choice framed as capability rather than compliance. Fourth, awareness of the relationship between population, resources and services so that pressure on schooling, housing and health provision is understood rather than moralised. Then point out the measures, which is the second half of the directive and where most answers thin out. Deliver the content through school curricula at age-appropriate stages, through community outreach that reaches out-of-school adolescents, and through frontline health services so that information and access arrive together rather than separately. Locate the whole design inside the National Population Policy, 2000 frame of unmet contraceptive need, replacement-level fertility and long-term stabilisation aligned with sustainable development, and attach explicit anti-coercion safeguards so the programme cannot slide into target-setting. Qualify the recommendation honestly. Fertility in India is markedly uneven across states, so identical content will meet very different conditions, and the National Family Health Survey rounds are survey estimates rather than Census stocks, so they may indicate direction without supplying a state-uniform target. Conclude that population education succeeds when it expands informed capability and fails the moment it becomes demographic instruction.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2021 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The programme must respond to regional differences: ageing areas need understanding of old-age care while younger regions also need reproductive health and employment-related skills. Survey figures such as NFHS estimates should be taught with their periods and uncertainties, not imposed as targets on individual households. Population education succeeds when people can interpret evidence, reject discrimination and exercise informed choice.
 
 ### PYQ DEMAND CARD 3 — 2024 GS-I Q7
 
 **Demand:** What is the concept of a 'demographic winter'? Is the world moving towards such a situation? Elaborate. (Answer in 150 words) 10 marks.
 
-**Status:** Wording confirmed in the locally held official 2024 General Studies Paper-I. The audited 2024-2025 Mains ledger routes this row to the Geography world-population owner while this owner's own answer-architecture table claims it; the conflict is recorded openly and this answer is written from the Indian Society social-demography spine without claiming the Geography model owner's material.
+**Provenance:** Wording checked in locally held official GS-I 2024; routing ledger points to Geography, while this owner's Core claims social-demography treatment.
 
-**Model solution:** Define first and define tightly: demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, with workforce shrinkage and old-age support strain as its consequences. Immediately separate it from the demographic dividend, which describes the potentially growth-favourable window when the working-age share is largest; the two are near-opposite phases of the same transition and conflating them is the commonest error on this demand. Answer the second half as a graded process rather than a yes or no. Several populations are already inside the condition because fertility fell early and life expectancy continued rising, while other populations remain meaningfully above replacement, so the world is moving toward the condition unevenly rather than uniformly. Bring the Indian evidence with its status attached: the National Family Health Survey round six, covering 2023-24 and released on 29 May 2026, reports a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1 and labels its results provisional, and the earlier round five figure of 2.0 for 2019-21 is a historical comparator; neither is a Census stock and neither describes any individual state. State the aggregation limit explicitly, because it is the analytical move the demand rewards: fertility decline in India is markedly uneven, so a near-replacement national figure simultaneously conceals states already below replacement, where ageing pressure and a rising old-age dependency ratio meet a still predominantly family-based support system, and states still above replacement retaining an open dividend window. Name the drivers common to both halves, namely women's education, later marriage, urbanisation and the rising direct and opportunity cost of children, and add second demographic transition theory only as a European-derived lens rather than an established Indian diagnosis. Conclude that demographic winter is a conditional, regionally graded risk rather than a settled global fact, and that the policy question is therefore about preparing differing regional age structures rather than about reversing a single number.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2024 GS-I Q7”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Define first and define tightly: demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, with workforce shrinkage and old-age support strain as its consequences. Immediately separate it from the demographic dividend, which describes the potentially growth-favourable window when the working-age share is largest; the two are near-opposite phases of the same transition and conflating them is the commonest error on this demand. Answer the second half as a graded process rather than a yes or no. Several populations are already inside the condition because fertility fell early and life expectancy continued rising, while other populations remain meaningfully above replacement, so the world is moving toward the condition unevenly rather than uniformly. Bring the Indian evidence with its status attached: the National Family Health Survey round six, covering 2023-24 and released on 29 May 2026, reports a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1 and labels its results provisional, and the earlier round five figure of 2.0 for 2019-21 is a historical comparator; neither is a Census stock and neither describes any individual state. State the aggregation limit explicitly, because it is the analytical move the demand rewards: fertility decline in India is markedly uneven, so a near-replacement national figure simultaneously conceals states already below replacement, where ageing pressure and a rising old-age dependency ratio meet a still predominantly family-based support system, and states still above replacement retaining an open dividend window. Name the drivers common to both halves, namely women's education, later marriage, urbanisation and the rising direct and opportunity cost of children, and add second demographic transition theory only as a European-derived lens rather than an established Indian diagnosis. Conclude that demographic winter is a conditional, regionally graded risk rather than a settled global fact, and that the policy question is therefore about preparing differing regional age structures rather than about reversing a single number.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: What is the concept of a 'demographic winter'? Is the world moving towards such a situation? Elaborate. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Define first and define tightly: demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, with workforce shrinkage and old-age support strain as its consequences. Immediately separate it from the demographic dividend, which describes the potentially growth-favourable window when the working-age share is largest; the two are near-opposite phases of the same transition and conflating them is the commonest error on this demand. Answer the second half as a graded process rather than a yes or no. Several populations are already inside the condition because fertility fell early and life expectancy continued rising, while other populations remain meaningfully above replacement, so the world is moving toward the condition unevenly rather than uniformly. Bring the Indian evidence with its status attached: the National Family Health Survey round six, covering 2023-24 and released on 29 May 2026, reports a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1 and labels its results provisional, and the earlier round five figure of 2.0 for 2019-21 is a historical comparator; neither is a Census stock and neither describes any individual state. State the aggregation limit explicitly, because it is the analytical move the demand rewards: fertility decline in India is markedly uneven, so a near-replacement national figure simultaneously conceals states already below replacement, where ageing pressure and a rising old-age dependency ratio meet a still predominantly family-based support system, and states still above replacement retaining an open dividend window. Name the drivers common to both halves, namely women's education, later marriage, urbanisation and the rising direct and opportunity cost of children, and add second demographic transition theory only as a European-derived lens rather than an established Indian diagnosis. Conclude that demographic winter is a conditional, regionally graded risk rather than a settled global fact, and that the policy question is therefore about preparing differing regional age structures rather than about reversing a single number.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2024 GS-I Q7”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer (not an official key):** Demographic winter denotes sustained sub-replacement fertility, an ageing population and, eventually, pressure toward population decline or a smaller workforce. Longer lives and delayed or fewer births can raise the elderly share, increasing care needs relative to potential workers. Some advanced-transition world regions already face these pressures, while younger regions remain far from them; a universal 'yes' would ignore this divergence. The demographic dividend is different: a large working-age share offers potential gains only if skills and jobs follow. India likewise cannot be read from one average. NFHS-5 recorded a national TFR of 2.0 in 2019–21, but it is a dated survey estimate, not a Census count or a measure of every state's age structure. Ageing Kerala-type settings and younger states can need different policies. The world is therefore moving unevenly, with health and longevity gains to preserve alongside region-specific support for elders and productive work.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Discuss the social determinants of fertility decline in India. Answer in about 150 words.
 
-**Model thesis:** Fertility decline in India is produced by schooling, marriage timing, contraceptive access and the changing cost of children acting together, so the honest account names an interacting determinant set rather than promoting one factor to sole cause.
+**Model answer (174 words; independent practice solution):** Fertility decline reflects social choices as well as biology. Women's education can widen knowledge of contraception, bargaining capacity and employment possibilities, while later marriage may shorten the years exposed to childbearing. In an urban household, housing, schooling and the opportunity cost of interrupted work may influence how many children partners want. Access to voluntary reproductive-health services determines whether their intentions can be realised.
 
-**Claim → named evidence → analysis → qualification:**
+These mechanisms interact rather than operate identically everywhere. Son preference may keep a family seeking another birth even as its preferred total family size falls. Better child survival can also change expectations about births. The National Population Policy, 2000 prioritises unmet needs and reproductive health, rather than mandating a one- or two-child ceiling. NFHS-5's 2019–21 national TFR of 2.0 indicates a historical fertility pattern but cannot identify which determinant caused each household's decision or represent every state.
 
-- Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-- Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-- A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-- Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions.
-- Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-
-**Qualified conclusion:** Fertility decline in India is produced by schooling, marriage timing, contraceptive access and the changing cost of children acting together, so the honest account names an interacting determinant set rather than promoting one factor to sole cause.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the social determinants of fertility decline in India. Answer in about 150 words.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Fertility decline in India is produced by schooling, marriage timing, contraceptive access and the changing cost of children acting together, so the honest account names an interacting determinant set rather than promoting one factor to sole cause.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Urban residence raises both the direct cost of raising children through housing and schooling expenditure and the opportunity cost through foregone earnings, which is why urbanisation appears repeatedly in fertility explanations as an economic pressure operating through social decisions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Fertility decline in India is produced by schooling, marriage timing, contraceptive access and the changing cost of children acting together, so the honest account names an interacting determinant set rather than promoting one factor to sole cause.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Discuss the social determinants of fertility decline in India. Answer in about 150 words.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Hence effective policy protects informed choice, schooling and health access while addressing gender bias. Explaining multiple pathways is more defensible than attributing the transition to a single rate, religion or coercive target.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Distinguish demographic winter from the demographic dividend and state which one describes India. Answer in about 150 words.
 
-**Model thesis:** The two terms name near-opposite phases of transition, and because Indian fertility is sharply uneven neither label describes the whole country, so the correct answer is a state-graded one supported by a dated survey anchor.
+**Model answer (167 words; independent practice solution):** Demographic winter is a sustained pattern of sub-replacement fertility combined with population ageing and eventual decline or workforce pressure. Demographic dividend instead denotes the *potential* benefit of a relatively large working-age share. It becomes an economic gain only where workers have skills and employment. The two labels describe distinct age-structure concerns, not interchangeable measures of one year's births.
 
-**Claim → named evidence → analysis → qualification:**
+It is misleading to select one for all India. NFHS-5 estimated national TFR at 2.0 in 2019–21; NFHS-6's 2023–24 national fact sheet is a later provisional survey, not a Census enumeration. Neither rate identifies the age composition of each state. Kerala-type early-transition populations can face more ageing-related care needs, while younger states may still have a longer window for productive employment. Moreover, a large cohort of prospective parents can keep total births substantial even after fertility reaches replacement level.
 
-- Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average.
-- The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
-- Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-- The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-
-**Qualified conclusion:** The two terms name near-opposite phases of transition, and because Indian fertility is sharply uneven neither label describes the whole country, so the correct answer is a state-graded one supported by a dated survey anchor.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish demographic winter from the demographic dividend and state which one describes…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The two terms name near-opposite phases of transition, and because Indian fertility is sharply uneven neither label describes the whole country, so the correct answer is a state-graded one supported by a dated survey anchor.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demographic winter describes sustained sub-replacement fertility combined with population ageing and eventual population decline, raising concerns about workforce shrinkage and old-age support, and it is a conditional population pattern rather than a label that can be attached to a whole country from one national average. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The two terms name near-opposite phases of transition, and because Indian fertility is sharply uneven neither label describes the whole country, so the correct answer is a state-graded one supported by a dated survey anchor.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish demographic winter from the demographic dividend and state which one describes…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The proper conclusion is graded: India includes localised ageing pressures and potential dividend regions. State-specific jobs, health and elder-support capacity matter more than an undifferentiated winter-or-dividend label.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Examine the proposition that empowering women is the key to controlling population growth. Answer in about 250 words.
 
-**Model thesis:** Women's education, later marriage, health information and economic voice expand informed and voluntary family-size choice, which is why empowerment outperforms control as a policy frame, though son preference and uneven service access qualify how far agency alone can carry the outcome.
+**Model answer (274 words; independent practice solution):** Women's empowerment is central to fertility choices, but 'controlling population growth' is not an adequate policy objective if it reduces women to instruments of demographic management. Education can widen life options, improve understanding of reproductive health and support a woman's ability to negotiate marriage timing. Later marriage and voluntary spacing can affect births while improving maternal and child wellbeing. Earnings may strengthen bargaining power over family size, though paid work without shared care can leave little freedom in practice.
 
-**Claim → named evidence → analysis → qualification:**
+The National Population Policy, 2000 links an immediate response to unmet contraceptive and health needs with replacement-level fertility and longer-run stabilisation. It does not prescribe a coercive nationwide child limit. If an educated woman lacks accessible services or faces household opposition, a formal entitlement alone will not deliver a preferred birth interval. Empowerment therefore requires health infrastructure and shifts in decision-making at home.
 
-- Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-- A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable.
-- Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size.
-- Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-- Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
+The gender dimension also concerns *which* children are valued. Patrilineal inheritance and expectations of sons supporting older parents can sustain son preference. A family seeking a smaller size might continue childbearing until a son arrives; a skewed sex ratio at birth is a possible measured outcome, not the preference itself. Deterrence of sex selection cannot substitute for changed beliefs and equal support for daughters.
 
-**Qualified conclusion:** Women's education, later marriage, health information and economic voice expand informed and voluntary family-size choice, which is why empowerment outperforms control as a policy frame, though son preference and uneven service access qualify how far agency alone can carry the outcome.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the proposition that empowering women is the key to controlling population growth.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Women's education, later marriage, health information and economic voice expand informed and voluntary family-size choice, which is why empowerment outperforms control as a policy frame, though son preference and uneven service access qualify how far agency alone can carry the outcome.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A later age at marriage compresses the reproductive window and is associated with better maternal and child health outcomes, which makes marriage timing a social lever that works alongside contraceptive access rather than a purely legal or medical variable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Son preference is a social preference for male children linked historically to inheritance rules, old-age support expectations and patrilineal family structure, and because it is attitudinal it can persist even after a household has reduced its overall desired family size. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Women's education, later marriage, health information and economic voice expand informed and voluntary family-size choice, which is why empowerment outperforms control as a policy frame, though son preference and uneven service access qualify how far agency alone can carry the outcome.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the proposition that empowering women is the key to controlling population growth.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Finally fertility and age structure vary by state. The historical NFHS-5 national TFR of 2.0 in 2019–21 is a survey average, not proof that women's schooling alone caused a national transition or that every locality needs the same intervention. Empowerment is a powerful, rights-based pathway when combined with voluntary services, equal opportunities and action against gender bias; it should not be equated with a numerical command.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Examine why a national fertility aggregate can mask sharp sub-national demographic divergence in India. Answer in about 250 words.
 
-**Model thesis:** A national average is a weighted summary of states in different transition phases, so it simultaneously conceals localised ageing pressure and continuing high-fertility conditions, and any policy inference drawn from the aggregate alone is therefore unsafe.
+**Model answer (265 words; independent practice solution):** A national total fertility rate is a period summary of births per woman under current age-specific rates, not a map of every state's age composition. NFHS-5 reported India's TFR of 2.0 for 2019–21. The later NFHS-6 national fact sheet for 2023–24 gives a provisional national TFR of 2.0, with urban 1.6 and rural 2.1. These are survey estimates, not the population stock counted in Census 2011, the latest completed full enumeration identified by the Core as of September 2026. A national mean cannot be copied into each state.
 
-**Claim → named evidence → analysis → qualification:**
+The underlying social processes differ. Education, marriage timing, urban child-rearing costs and contraceptive access interact with income, child-survival expectations and son preference. Kerala- or Tamil Nadu-type earlier-transition settings may have a larger elderly share, while some younger states need more provision for youth health, education and employment. An identical national fertility rate would not equalise the inherited age structures of those places.
 
-- Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
-- The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value.
-- The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet.
-- A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
-- The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window.
+Population momentum adds a second distinction. Where many people are entering childbearing ages, absolute births and the total population may keep rising despite a fall to replacement-level fertility. Migration can add working-age adults to one state while leaving parents behind in another. Density, growth, fertility and migration are related but separately measured variables.
 
-**Qualified conclusion:** A national average is a weighted summary of states in different transition phases, so it simultaneously conceals localised ageing pressure and continuing high-fertility conditions, and any policy inference drawn from the aggregate alone is therefore unsafe.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine why a national fertility aggregate can mask sharp sub-national demographic divergence…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** A national average is a weighted summary of states in different transition phases, so it simultaneously conceals localised ageing pressure and continuing high-fertility conditions, and any policy inference drawn from the aggregate alone is therefore unsafe.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The National Family Health Survey round five, covering 2019-21, reported an all-India Total Fertility Rate of 2.0, and after the release of the sixth round this figure functions as a dated historical comparator that shows direction rather than a current-year or state-uniform value. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The National Family Health Survey round six, covering 2023-24, was released on 29 May 2026 and its national fact sheets report a total Total Fertility Rate of 2.0 with an urban value of 1.6 and a rural value of 2.1, and because the fact sheets label the results provisional no metric may be quoted unless it is taken directly from that released national fact sheet. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The demographic dividend describes the potentially growth-favourable window in which the working-age share is largest, so it and demographic winter are near-opposite phases of transition, and a large country can show ageing pressure in some states while other states retain an open dividend window. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** A national average is a weighted summary of states in different transition phases, so it simultaneously conceals localised ageing pressure and continuing high-fertility conditions, and any policy inference drawn from the aggregate alone is therefore unsafe.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine why a national fertility aggregate can mask sharp sub-national demographic divergence…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Thus the appropriate response is state-specific: prepare elder care and accessible support where dependency is rising, build skills and jobs where working-age numbers are expanding, and provide voluntary reproductive services in all settings. Comparison requires each survey's reference period and the relevant demographic indicator, not an undated average converted into an individual or regional causal law.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Assess the social implications of India's transition toward an ageing population structure. Answer in about 300 words.
 
-**Model thesis:** Ageing is the success of an earlier health and fertility transition arriving as a care, workforce and security problem, and its severity depends on how fast formal support has been built where fertility fell earliest rather than on the national age structure.
+**Model answer (300 words; independent practice solution):** Population ageing is both a success of longer survival and a challenge for how Indian households and institutions organise support. Lower fertility changes the balance between younger and older generations; improved survival increases the number living into later life. The old-age dependency ratio compares older and working-age people, not care received.
 
-**Claim → named evidence → analysis → qualification:**
+Family support remains important. Where adult children migrate for jobs, they may remit to elderly parents while being unavailable for daily medical visits or household tasks. Technology maintains contact but does not automatically supply hands-on assistance. Women frequently absorb unpaid care as family size and residence patterns change; if support is taken for granted, their employment opportunities can narrow.
 
-- Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one.
-- A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing.
-- The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state.
-- Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it.
-- Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing.
+At the social level, a region with a rising elderly share may require accessible primary and long-term health care, social security and mobility infrastructure. A smaller relative working-age cohort can increase pressure on family finances and local services, but productivity improvements and migration can soften labour shortages. Receiving areas may gain workers while sending families lose nearby caregivers. Thus migration is a possible offset with a distributional cost.
 
-**Qualified conclusion:** Ageing is the success of an earlier health and fertility transition arriving as a care, workforce and security problem, and its severity depends on how fast formal support has been built where fertility fell earliest rather than on the national age structure.
+India should not be described as uniformly in 'demographic winter'. NFHS-5's national TFR of 2.0 in 2019–21, and the later provisional NFHS-6 national survey estimate, do not by themselves identify each state's age pyramid. Earlier-transition states can have more urgent elder-care needs while younger states still need youth jobs and reproductive-health access. Ageing policy must be matched to state-level evidence and institutional capacity; a national fertility average is not evidence of either adequate or failed pension delivery.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the social implications of India's transition toward an ageing population structure.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Ageing is the success of an earlier health and fertility transition arriving as a care, workforce and security problem, and its severity depends on how fast formal support has been built where fertility fell earliest rather than on the national age structure.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Population ageing simultaneously reflects the success of mortality and fertility transition and creates old-age support and workforce-composition challenges, so a competent answer holds both framings together instead of choosing one. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A rising old-age dependency ratio strains a support system that in India is still predominantly family-based, and nuclearisation reduces co-resident caregiving capacity while formal old-age social security, whose scheme detail belongs to Social Justice, is in most states not yet scaled to the pace of ageing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The first demographic transition describes mortality decline followed by fertility decline, while second demographic transition theory links further sub-replacement fertility to shifts in values and family formation, and the second framework was developed largely from European experience and is an analytical lens rather than a sufficient diagnosis of any Indian state. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Internal migration can offset workforce shrinkage in a receiving region while straining the sending region's own ageing-support capacity when working-age adults leave elderly parents behind, so migration is a redistribution of the ageing problem rather than a national solution to it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Fertility decline in India is markedly uneven, with several states already at or below replacement level while parts of central and eastern India remain meaningfully above it, so a national aggregate masks the divergence that population questions are usually testing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Ageing is the success of an earlier health and fertility transition arriving as a care, workforce and security problem, and its severity depends on how fast formal support has been built where fertility fell earliest rather than on the national age structure.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess the social implications of India's transition toward an ageing population structure.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The answer is therefore to preserve the gains in longevity while reducing unequal care burdens and preparing services early. Elderly people are citizens with contributions and needs, not merely a dependency statistic; policy should complement rather than presume an endlessly available family caregiver.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Discuss the objectives of population education and point out the measures India needs to adopt. Answer in about 300 words.
 
-**Model thesis:** Population education earns its place when it builds informed voluntary capability about health, gender equality, marriage timing and resource pressure, and it fails the moment it is converted into a demographic-target campaign that coerces rather than informs.
+**Model answer (315 words; independent practice solution):** Population education should make demographic information understandable and enable voluntary decisions, not recruit students into a numerical population-control campaign. Its objectives include age-appropriate knowledge of reproductive and child health, spacing, marriage timing and access to services; understanding gender equality and the harm of son preference; and interpreting how fertility, mortality, migration and age structure affect school, housing, work and care needs. A child born in a large cohort can contribute to population momentum even if the current fertility rate falls; this is a better lesson than claiming replacement fertility instantly stops growth.
 
-**Claim → named evidence → analysis → qualification:**
+India can introduce scientifically accurate materials in school curricula, tailored to developmental stage, and reach out-of-school adolescents through community settings. Train teachers and health workers to discuss stigma without blaming girls for birth outcomes. Couple confidential counselling with accessible voluntary reproductive-health services, because information without services cannot secure agency. Engage families on the value of daughters and equal care instead of presenting sex ratio at birth as a moral property of any individual mother. The National Population Policy, 2000 supplies the rights-based frame of unmet need, replacement fertility and sustainable long-run stabilisation; its objectives must not be converted into coercive quotas.
 
-- Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards.
-- The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target.
-- Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome.
-- Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context.
-- A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation.
+Evidence literacy should be taught explicitly. Census 2011 is a completed enumeration, whereas NFHS-5 and NFHS-6 are surveys with different field periods; NFHS-6 national results are provisional. TFR is not the current population count, son preference is not identical to a measured sex ratio, and no national mean describes every state. Younger regions may need education and workforce preparation alongside health access, while ageing regions need information about old-age support and changing family care.
 
-**Qualified conclusion:** Population education earns its place when it builds informed voluntary capability about health, gender equality, marriage timing and resource pressure, and it fails the moment it is converted into a demographic-target campaign that coerces rather than informs.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the objectives of population education and point out the measures India needs to…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Population education earns its place when it builds informed voluntary capability about health, gender equality, marriage timing and resource pressure, and it fails the moment it is converted into a demographic-target campaign that coerces rather than informs.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Population education is age-appropriate, scientific and rights-respecting education whose objectives group under reproductive and health information, gender equality and delayed marriage, informed and voluntary family-size choice, and awareness of the relationship between population and resources, delivered through schools, community outreach and health services within the National Population Policy, 2000 frame and with explicit anti-coercion safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The National Population Policy, 2000 of the Ministry of Health and Family Welfare set an immediate objective of addressing unmet contraceptive need, a medium-term objective of bringing the Total Fertility Rate to replacement level and a long-term objective of a stable population by around 2045 aligned with sustainable development, and it is a rights-based tiered policy rather than a coercive numerical target. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Social determinants of fertility are the non-biological factors that shape childbearing decisions, namely women's educational attainment, age at marriage, employment, desired family size, contraceptive access and son preference, and their joint operation means no single determinant may be advanced as the sole cause of a fertility outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Women's educational attainment is associated with later marriage, wider knowledge and use of contraception and a broader set of life options, which makes it the central social pathway in fertility transition, though its effect operates in interaction with service access, household income, prevailing norms and state context. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A National Family Health Survey estimate, a Census stock and an administrative registration figure are three different kinds of evidence, so a survey average must never be presented as a completed enumeration, as a current-year state figure or by itself as proof of causation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Population education earns its place when it builds informed voluntary capability about health, gender equality, marriage timing and resource pressure, and it fails the moment it is converted into a demographic-target campaign that coerces rather than informs.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Discuss the objectives of population education and point out the measures India needs to…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Evaluation should test whether learners understand rights and can access services, not merely whether fertility falls. Population education works when young people can weigh social costs, reject discrimination and make informed choices; the limits of schooling, service access and local norms must remain visible in any policy claim.

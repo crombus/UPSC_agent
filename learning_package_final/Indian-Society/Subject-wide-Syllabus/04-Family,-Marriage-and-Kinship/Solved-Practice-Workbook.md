@@ -6,811 +6,485 @@ topic_key: indian-society-04
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Joint family?
+Coverage: household form versus kinship function; residence, remittance and authority; caste/gotra/religious marriage boundaries; Khasi and Nair descent; dowry and law/social reception; WFH, digital childhood, migrant women's agency; NFHS-5's limited fertility measure. ✅ Named and dated facts follow the Core/Advanced owners; ⚠️ case scenarios are analytical illustrations, not representative demographic estimates.
 
-A. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-B. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-C. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-D. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
+Questions precede the solved key; each item has one best answer. Options rotate A → B → C → D in the separate key.
 
-**Answer: A.**
-**Explanation:** A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households. The remaining options belong to different chronology, actor or analytical categories.
+### Q1. A worker rents in Pune but co-owns ancestral land and consults parents on its sale. What follows?
 
-### Q2. Which chronology card should be filed under Joint family?
+A. Residential separation need not terminate shared property and joint decisions.
+B. The worker's address alone proves a wholly nuclear kinship system.
+C. Joint family requires continuous co-residence under one roof.
+D. Owning land alone proves all members pool wages.
 
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-C. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-D. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
+### Q2. Which observation best establishes functional rather than merely residential nuclearisation?
 
-**Answer: B.**
-**Explanation:** A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households. The remaining options belong to different chronology, actor or analytical categories.
+A. The family divides the kitchen but shares income and ritual obligations.
+B. Adult children independently finance care and make major decisions without ancestral-household deference.
+C. Adult children occupy a smaller rented apartment but remit regularly.
+D. Parents and children sleep at different addresses but jointly manage land.
 
-### Q3. Which option preserves the source-bounded meaning of Joint family?
+### Q3. An urban couple moves out because of expensive housing. Which sequence is defensible?
 
-A. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-B. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-C. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-D. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
+A. Lower fertility necessarily causes the move and severs kinship.
+B. A new tenancy immediately extinguishes parents' claims on decisions.
+C. Separate residence may precede any weakening of remittances, rituals or kin authority.
+D. Separate residence must begin after the family has abandoned all rituals.
 
-**Answer: C.**
-**Explanation:** A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households. The remaining options belong to different chronology, actor or analytical categories.
+### Q4. Which is a legitimate criticism of claims that joint families have disappeared?
 
-### Q4. Which statement avoids a close-option trap about Joint family?
+A. Every household of married parents and children is legally a joint family.
+B. All separate residences have identical kinship functions.
+C. Migration always produces permanent rupture with rural relatives.
+D. A household survey of co-residence can miss cross-household financial and ritual ties.
 
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-C. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
+### Q5. Which unit is nuclear in residential composition but not necessarily functionally independent?
 
-**Answer: D.**
-**Explanation:** A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households. The remaining options belong to different chronology, actor or analytical categories.
+A. Parents and unmarried children living separately while supporting grandparents.
+B. Three married brothers and their parents sharing income and a house.
+C. Two unrelated workers sharing a hostel room.
+D. Parents and married children co-residing in the ancestral home.
 
-### Q5. Which statement correctly identifies Nuclear family?
+### Q6. Why might second-generation migrants show different kin obligations than first-generation migrants?
 
-A. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-B. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-C. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-D. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
+A. The existence of a nuclear household proves no earlier remittances occurred.
+B. Weaker direct ties to an ancestral household can reduce ritual and remittance obligations over time.
+C. Birth outside a village automatically terminates inheritance rights.
+D. Urban residence legally prohibits supporting one's grandparents.
 
-**Answer: A.**
-**Explanation:** A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility. The remaining options belong to different chronology, actor or analytical categories.
+### Q7. A marriage is within one's caste but outside one's gotra. Which pair of rules is satisfied?
 
-### Q6. Which chronology card should be filed under Nuclear family?
+A. Religious exogamy and caste exogamy.
+B. Gotra endogamy and patrilocal residence.
+C. Caste endogamy and gotra exogamy.
+D. Caste exogamy and gotra endogamy.
 
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-C. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+### Q8. Two partners belong to different castes but share a gotra. What is the precise analytical point?
 
-**Answer: B.**
-**Explanation:** A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility. The remaining options belong to different chronology, actor or analytical categories.
+A. Intercaste marriages are necessarily gotra-exogamous.
+B. Intercaste status parity abolishes every kinship restriction.
+C. Same-gotra pairing is equivalent to interreligious pairing.
+D. Crossing the caste boundary does not automatically resolve the separate clan-rule question.
 
-### Q7. Which option preserves the source-bounded meaning of Nuclear family?
+### Q9. Which inference from more visible self-choice marriages is unjustified?
 
-A. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-B. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-C. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+A. That arranged and caste-endogamous marriages have already ceased nationwide.
+B. That some families negotiate partner choice differently today.
+C. That choice and kin approval may coexist in a marriage.
+D. That experience may vary by class and region.
 
-**Answer: C.**
-**Explanation:** A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility. The remaining options belong to different chronology, actor or analytical categories.
+### Q10. A family approves a child's choice only after kin negotiations. What classification is most useful?
 
-### Q8. Which statement avoids a close-option trap about Nuclear family?
+A. The partners' initiative eliminates kinship power.
+B. Choice and family mediation can overlap rather than form exclusive categories.
+C. Any parental consultation makes the union legally invalid.
+D. The case proves all Indian unions remain arranged.
 
-A. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-B. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-C. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-D. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
+### Q11. What differentiates a descent rule from a residence rule?
 
-**Answer: D.**
-**Explanation:** A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility. The remaining options belong to different chronology, actor or analytical categories.
+A. Residence specifies maternal inheritance by definition.
+B. Both are synonymous with who performs the wedding rite.
+C. Descent traces lineage and inheritance; residence specifies where spouses live.
+D. Descent is only the location of the marital home.
 
-### Q9. Which statement correctly identifies Structural versus functional nuclearisation?
+### Q12. A Khasi youngest daughter inherits the ancestral house; male maternal relatives manage public rituals. What follows?
 
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-C. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+A. Property through women proves women exercise all political authority.
+B. The case illustrates patrilineal inheritance.
+C. A maternal uncle's role eliminates female-line descent.
+D. Matrilineal inheritance can coexist with male ritual authority.
 
-**Answer: A.**
-**Explanation:** Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together. The remaining options belong to different chronology, actor or analytical categories.
+### Q13. Which contrast uses two defensible Indian kinship examples?
 
-### Q10. Which chronology card should be filed under Structural versus functional nuclearisation?
+A. Patriliny is widespread; Khasi descent and traditionally Nair descent illustrate matrilineal variation.
+B. Khasi and Nair descent are both necessarily patrilineal.
+C. All communities in Meghalaya follow identical matriarchal institutions.
+D. Nair history establishes current uniform matriliny across Kerala.
 
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-C. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-D. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
+### Q14. What does a maternal uncle's role in a matrilineal household test?
 
-**Answer: B.**
-**Explanation:** Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together. The remaining options belong to different chronology, actor or analytical categories.
+A. Whether patriliny has become universal in that society.
+B. Whether authority tracks descent, a distinction that cannot be presumed.
+C. Whether all maternal relatives inherit equally.
+D. Whether matriliny bans male participation in rituals.
 
-### Q11. Which option preserves the source-bounded meaning of Structural versus functional nuclearisation?
+### Q15. A father's surname passes to a child while the mother owns the marital home. Which conclusion is safest?
 
-A. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-B. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-C. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-D. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
+A. A female houseowner proves automatic matriarchy.
+B. A patrilineal surname makes maternal assets legally impossible.
+C. Surname alone does not establish the rules of all property and authority.
+D. The household must be uniformly matrilineal.
 
-**Answer: C.**
-**Explanation:** Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together. The remaining options belong to different chronology, actor or analytical categories.
+### Q16. Which mechanism makes the family a primary socialisation unit?
 
-### Q12. Which statement avoids a close-option trap about Structural versus functional nuclearisation?
+A. A birth certificate itself fixes every later belief.
+B. Only schools transmit ideas about permitted partners.
+C. Digital platforms have eliminated all interpersonal learning.
+D. Repeated interaction transmits norms about gender, marriage and caste before wider institutions intervene.
 
-A. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-B. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-C. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-D. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
+### Q17. An adolescent questions the caste boundary learned at home. How should this be interpreted?
 
-**Answer: D.**
-**Explanation:** Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together. The remaining options belong to different chronology, actor or analytical categories.
+A. Socialisation transmits norms but permits resistance and reinterpretation.
+B. The family must therefore have transmitted no caste norms.
+C. One disagreement proves caste endogamy has ended nationally.
+D. Children can acquire values only from family members.
 
-### Q13. Which statement correctly identifies Nuclearisation chain?
+### Q18. What best explains the persistence of dowry despite legal prohibition?
 
-A. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-B. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-C. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+A. Dowry is an obligatory feature of all Indian marriages.
+B. Status competition and marriage-market expectations may reproduce transfers despite the norm of illegality.
+C. Legal prohibition automatically ends every informal transfer.
+D. Every voluntary gift is necessarily a proved dowry offence.
 
-**Answer: A.**
-**Explanation:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. The remaining options belong to different chronology, actor or analytical categories.
+### Q19. A couple registers under a civil marriage route, yet family opposition remains. Which distinction matters?
 
-### Q14. Which chronology card should be filed under Nuclearisation chain?
+A. Registration itself guarantees kinship approval.
+B. Legal recognition proves the marriage is a national norm.
+C. Formal eligibility is different from social acceptance.
+D. Civil registration requires prior conversion by both spouses.
 
-A. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-B. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-C. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-D. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
+### Q20. If different personal laws were the *only* barrier to interreligious marriage, what fact challenges that claim?
 
-**Answer: B.**
-**Explanation:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. The remaining options belong to different chronology, actor or analytical categories.
+A. Some ceremonies include community participation.
+B. An intercaste match can be between economic equals.
+C. Urban migration sometimes changes residence.
+D. The Special Marriage Act provides a civil route while resistance may continue.
 
-### Q15. Which option preserves the source-bounded meaning of Nuclearisation chain?
+### Q21. How might socio-economic parity affect some intercaste marriage decisions?
 
-A. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-D. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
+A. It can reduce perceived status or resource asymmetry without removing caste norms.
+B. It always removes both caste and religious boundaries.
+C. It obliges families to approve a union by statute.
+D. It turns an intercaste union into an endogamous one.
 
-**Answer: C.**
-**Explanation:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. The remaining options belong to different chronology, actor or analytical categories.
+### Q22. Why can economic parity be insufficient for an interreligious alliance?
 
-### Q16. Which statement avoids a close-option trap about Nuclearisation chain?
+A. A same-income couple automatically belongs to the same lineage.
+B. Kin networks, ritual participation and community identity may remain contested.
+C. The civil route is legally unavailable to partners of different faiths.
+D. All such unions have unequal household incomes by definition.
 
-A. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-B. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
+### Q23. Which statement preserves the qualification in the 2024 GS-I marriage question?
 
-**Answer: D.**
-**Explanation:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. The remaining options belong to different chronology, actor or analytical categories.
+A. The prompt proves interreligious unions never occur.
+B. The prompt requires treating all regions and classes identically.
+C. The prompt describes a partial pattern; it is not a measured national time series.
+D. The prompt supplies the precise all-India intercaste marriage rate.
 
-### Q17. Which statement correctly identifies Endogamy and exogamy together?
+### Q24. A protected cohabiting couple faces neighbourhood stigma. What is being tested?
 
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-C. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+A. Protection automatically makes cohabitation a formal marriage.
+B. Stigma proves the relationship has no legal protections.
+C. All cohabiting unions receive identical protection without conditions.
+D. Protective legal recognition can outpace social normalisation.
 
-**Answer: A.**
-**Explanation:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. The remaining options belong to different chronology, actor or analytical categories.
+### Q25. What is the core comparative error in treating caste endogamy and interreligious marriage as the same rule?
 
-### Q18. Which chronology card should be filed under Endogamy and exogamy together?
+A. One is an intra-caste boundary; the other engages religious community and possibly distinct civil/personal-law routes.
+B. Both refer solely to a prohibition on same-gotra marriages.
+C. Both are defined by a nuclear household.
+D. Both always have the same regional acceptance level.
 
-A. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-B. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-C. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-D. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
+### Q26. A young professional migrates to Bengaluru and still remits to her parents. What changes most directly?
 
-**Answer: B.**
-**Explanation:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. The remaining options belong to different chronology, actor or analytical categories.
+A. Remittance itself establishes a nationally representative trend.
+B. Independent income and residence can expand agency while retaining obligations.
+C. Financial support proves she has no choice in marital decisions.
+D. Migration necessarily cuts all family communication.
 
-### Q19. Which option preserves the source-bounded meaning of Endogamy and exogamy together?
+### Q27. Which claim about women's urban work is unwarranted?
 
-A. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-B. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-C. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-D. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
+A. Residence away from home may reduce direct supervision.
+B. Continued visits can coexist with changing authority.
+C. Employment necessarily makes every unmarried migrant free of family expectations.
+D. An independent wage may increase bargaining power over marriage timing.
 
-**Answer: C.**
-**Explanation:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. The remaining options belong to different chronology, actor or analytical categories.
+### Q28. What is the strongest causal link between work from home and family conflict in cramped housing?
 
-### Q20. Which statement avoids a close-option trap about Endogamy and exogamy together?
+A. Commuting time rises because work moves inside the home.
+B. Remote work formally bans intergenerational co-residence.
+C. A small home guarantees that fathers stop caring for children.
+D. Paid work and care compete for the same time and quiet domestic space.
 
-A. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-D. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
+### Q29. Which WFH benefit must be qualified by gendered labour allocation?
 
-**Answer: D.**
-**Explanation:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. The remaining options belong to different chronology, actor or analytical categories.
+A. Reduced commuting may enable care but may also increase unpaid duties for women.
+B. More commuting gives every adult more leisure.
+C. Employers must take over all child-care responsibilities.
+D. WFH necessarily redistributes unpaid work equally.
 
-### Q21. Which statement correctly identifies Forms of marriage?
+### Q30. A child's phone use replaces parent-child conversation but allows school contact. How to assess it?
 
-A. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-D. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
+A. The effect can be determined without asking the child's age.
+B. Compare displaced direct interaction with added mediated contact and adult guidance.
+C. All screen use necessarily destroys socialisation.
+D. Digital contact is always a complete substitute for affection.
 
-**Answer: A.**
-**Explanation:** Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation. The remaining options belong to different chronology, actor or analytical categories.
+### Q31. Which proposed remedy directly addresses the 2023 phone/socialisation PYQ?
 
-### Q22. Which chronology card should be filed under Forms of marriage?
+A. Treat cuddling and emotional attention as equivalent to device access.
+B. Attribute all childhood developmental differences to phones.
+C. Protect interactive care time and guide age-appropriate digital use.
+D. Ban every form of digital learning regardless of context.
 
-A. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-B. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
+### Q32. A family holds ritual marriage ceremonies while the partners chose each other. What is demonstrated?
 
-**Answer: B.**
-**Explanation:** Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation. The remaining options belong to different chronology, actor or analytical categories.
+A. Self-choice necessarily abolishes ceremonial participation.
+B. Ceremony proves the partners had no choice.
+C. Such a marriage is necessarily interreligious.
+D. Companionate choice can coexist with sacramental and kinship forms.
 
-### Q23. Which option preserves the source-bounded meaning of Forms of marriage?
+### Q33. How should the claim that marriage as a sacrament has 'lost value' be examined?
 
-A. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-D. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
+A. Compare changing choice and companionate expectations with persistent ritual and kin participation.
+B. Equate later marriage with the legal abolition of marriage.
+C. Assume ritual proves all relationships are stable.
+D. Infer the meaning of marriage from fertility alone.
 
-**Answer: C.**
-**Explanation:** Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation. The remaining options belong to different chronology, actor or analytical categories.
+### Q34. Which datum is insufficient to measure the prevalence of nuclear families?
 
-### Q24. Which statement avoids a close-option trap about Forms of marriage?
+A. A survey distinguishing residence from cross-household transfers.
+B. NFHS-5 national total fertility rate of 2.0.
+C. A representative household-composition tabulation by residence.
+D. A suitably sampled count of co-resident generations.
 
-A. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-B. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-C. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-D. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
+### Q35. Which is the correct temporal treatment of NFHS-5 in the source?
 
-**Answer: D.**
-**Explanation:** Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation. The remaining options belong to different chronology, actor or analytical categories.
+A. It establishes the share of interreligious marriages in 2026.
+B. It proves urban migration caused smaller households.
+C. The 2019–21 TFR of 2.0 is a historical fertility comparator, not the latest household count.
+D. It is an all-India 2026 Census enumeration of family types.
 
-### Q25. Which statement correctly identifies Patrilineal majority pattern?
+### Q36. Can an observed smaller household size by itself show weaker support for older parents?
 
-A. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
+A. Yes; financial transfers require shared residence.
+B. Yes; smaller size means children have no living parents.
+C. No; smaller size proves more support in every state.
+D. No; cross-household remittances and care visits must also be examined.
 
-**Answer: A.**
-**Explanation:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. The remaining options belong to different chronology, actor or analytical categories.
+### Q37. Which inference best distinguishes correlation from causation in marriage change?
 
-### Q26. Which chronology card should be filed under Patrilineal majority pattern?
+A. Economic parity may ease some matches, but regional kinship norms can independently shape acceptance.
+B. Equal incomes alone prove a universal causal law of interreligious marriage.
+C. A single marriage establishes a national longitudinal trend.
+D. One civil-marriage statute measures the frequency of compliance.
 
-A. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-B. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
+### Q38. Who is most likely to be invisible in a description of the family based only on co-residence?
 
-**Answer: B.**
-**Explanation:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. The remaining options belong to different chronology, actor or analytical categories.
+A. A parent included in the household roster.
+B. An elderly mother receiving monthly support from a separately housed daughter.
+C. A spouse who shares the same rented flat.
+D. A child sleeping at the household's address.
 
-### Q27. Which option preserves the source-bounded meaning of Patrilineal majority pattern?
+### Q39. Which role of marital negotiation most directly reproduces social boundaries?
 
-A. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-B. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-C. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-D. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
+A. The number of rooms rented after the wedding.
+B. A child's preference for school textbooks.
+C. Family approval tied to caste, religion, ritual and status of the proposed alliance.
+D. A partner's different commuting route to work.
 
-**Answer: C.**
-**Explanation:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. The remaining options belong to different chronology, actor or analytical categories.
+### Q40. Which scenario is the best counterexample to conflating matriliny and universal female power?
 
-### Q28. Which statement avoids a close-option trap about Patrilineal majority pattern?
+A. A child takes a father's surname in a patrilineal system.
+B. Partners reside in an urban nuclear apartment.
+C. Two caste-endogamous partners belong to different gotras.
+D. A Khasi daughter's inheritance coexists with an uncle's ritual authority.
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-C. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-D. Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
+### Q41. What would make the nuclearisation mechanism falsifiable in field research?
 
-**Answer: D.**
-**Explanation:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. The remaining options belong to different chronology, actor or analytical categories.
+A. Measure residential composition alongside remittances, ritual participation and major-decision authority.
+B. Ask only whether a household is in a city.
+C. Assume that lower fertility equals greater autonomy.
+D. Count weddings and call the result a household typology.
 
-### Q29. Which statement correctly identifies Matrilineal exceptions?
+### Q42. Which of these is a close-option error concerning marriage law?
 
-A. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-B. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-C. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-D. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
+A. Regional context can influence actual marriage acceptance.
+B. Because civil marriage is available, interreligious marriages face no social opposition.
+C. Formal civil marriage is possible without same-religion personal law.
+D. Kinship sanction may constrain a legally permissible union.
 
-**Answer: A.**
-**Explanation:** Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home. The remaining options belong to different chronology, actor or analytical categories.
+### Q43. A migrant household replaces daily elder care with paid services and regular calls. Which interpretation is strongest?
 
-### Q30. Which chronology card should be filed under Matrilineal exceptions?
+A. Calls prove the older person receives adequate physical care.
+B. The household remains co-resident because calls are frequent.
+C. Care has been reorganised across kin, market and technology, not necessarily eliminated.
+D. Market help proves the family has completely abandoned the older person.
 
-A. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-B. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
+### Q44. A second adult begins working remotely; children's supervision improves but a woman handles all cooking. What is the best evaluation?
 
-**Answer: B.**
-**Explanation:** Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home. The remaining options belong to different chronology, actor or analytical categories.
+A. The household achieved full gender equality from remote work.
+B. Increased childcare proves no time or space conflict exists.
+C. Cooking is legally classified as paid employment.
+D. Family presence increased while unpaid work remained gender-unequal.
 
-### Q31. Which option preserves the source-bounded meaning of Matrilineal exceptions?
+### Q45. Which outcome most clearly reflects renegotiated authority after young women's migration?
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-C. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-D. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
+A. A daughter supports parents yet makes her own employment and marriage-timing decisions.
+B. Every migrant daughter ends ritual contact with parents.
+C. A remittance legally transfers all marriage choices to the recipient.
+D. A separate residence demonstrates the absence of kin ties.
 
-**Answer: C.**
-**Explanation:** Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home. The remaining options belong to different chronology, actor or analytical categories.
+### Q46. Why is a direct frequency estimate of interreligious marriage inappropriate from the 2024 PYQ alone?
 
-### Q32. Which statement avoids a close-option trap about Matrilineal exceptions?
+A. The prompt itself reports statewise religious breakdowns.
+B. A normative exam prompt offers no sampling frame, denominator or national count.
+C. A question paper is a full Census of Indian marriages.
+D. Every mention of marriage supplies a survey weight.
 
-A. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-B. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-C. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-D. Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
+### Q47. Which pairing tests two distinct kinds of evidence rather than treating them as interchangeable?
 
-**Answer: D.**
-**Explanation:** Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home. The remaining options belong to different chronology, actor or analytical categories.
+A. A marriage statute for national fertility measurement.
+B. An isolated urban household for nationwide prevalence.
+C. NFHS fertility indicator for births; household and transfer data for residential and functional kinship.
+D. Fertility alone for both migration and marriage acceptance.
 
-### Q33. Which statement correctly identifies Matriliny is not matriarchy?
+### Q48. What is a defensible synthesis of the 2022, 2023 and 2024 routed family PYQs?
 
-A. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-B. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-C. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-D. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
+A. All four ask only for the NFHS-5 fertility rate.
+B. All four require an official Mains multiple-choice answer key.
+C. Every demand assumes the same universal family trajectory.
+D. They test work-care boundaries, marriage meaning, mediated childhood and guarded marriage boundaries.
 
-**Answer: A.**
-**Explanation:** Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves. The remaining options belong to different chronology, actor or analytical categories.
+### Q49. Why is Irawati Karve useful when comparing marriage and kinship in India?
 
-### Q34. Which chronology card should be filed under Matriliny is not matriarchy?
+A. Her regional kinship comparison guards against projecting one marriage rule across all Indian communities.
+B. Her work proves all north and south Indian kinship rules are identical.
+C. She established that descent necessarily determines residence.
+D. Her work measured the national NFHS-6 total fertility rate.
 
-A. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-B. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-C. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-D. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
+### Q50. What question is central to Leela Dube's gendered kinship lens?
 
-**Answer: B.**
-**Explanation:** Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves. The remaining options belong to different chronology, actor or analytical categories.
+A. Whether every ritual marriage is a civil marriage.
+B. How kinship rules allocate property, care and decision-making differently by gender.
+C. Whether matriliny always makes every woman a public ruler.
+D. Whether urban addresses alone reveal a child's inheritance.
 
-### Q35. Which option preserves the source-bounded meaning of Matriliny is not matriarchy?
+### Q51. What does the Hindu Succession (Amendment) Act, 2005 illustrate in this topic's ownership boundary?
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-C. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-D. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
+A. The statute abolished all caste endogamy.
+B. The statute supplies the interreligious civil marriage route.
+C. Legal inheritance capacity and actual control over family assets must be distinguished.
+D. Every household became matrilineal automatically in 2005.
 
-**Answer: C.**
-**Explanation:** Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves. The remaining options belong to different chronology, actor or analytical categories.
+### Q52. Which pair broadens India's matrilineal comparison without implying matriarchy?
 
-### Q36. Which statement avoids a close-option trap about Matriliny is not matriarchy?
+A. All Nair and Khasi households have identical current rituals.
+B. Every patrilineal household excludes women from owning property.
+C. All Meghalaya residents share one lineage rule.
+D. Khasi and Garo communities in Meghalaya are matrilineal examples.
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-C. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-D. Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
+### SOLVED MCQ KEY AND ELIMINATION
 
-**Answer: D.**
-**Explanation:** Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves. The remaining options belong to different chronology, actor or analytical categories.
+**Q1 — A.** Property and decision-making are family functions that can cross household boundaries. **Close-option trap:** A nuclear *residence* is not proof of independent property or authority.
 
-### Q37. Which statement correctly identifies Family as socialisation unit?
+**Q2 — B.** Independence must concern support and authority, not only floor space. **Close-option trap:** Separate kitchens may mark residence without dissolving wider obligations.
 
-A. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-B. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-C. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-D. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
+**Q3 — C.** Housing constraints first alter form; functions may persist and change later. **Close-option trap:** No inevitable direction or speed follows from the tenancy alone.
 
-**Answer: A.**
-**Explanation:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. The remaining options belong to different chronology, actor or analytical categories.
+**Q4 — D.** The measurement of residence need not measure the relationship network. **Close-option trap:** Do not replace a crude extinction claim with an equally universal persistence claim.
 
-### Q38. Which chronology card should be filed under Family as socialisation unit?
+**Q5 — A.** The resident composition is nuclear, while remittance retains an extended-family function. **Close-option trap:** A hostel of unrelated workers is not a nuclear family.
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-C. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-D. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
+**Q6 — B.** Repeated distance may change lived obligations; this is a contingent social mechanism. **Close-option trap:** Generational change is possible, not an automatic legal or statistical result.
 
-**Answer: B.**
-**Explanation:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. The remaining options belong to different chronology, actor or analytical categories.
+**Q7 — C.** The outer caste boundary and inner clan restriction work at different scales. **Close-option trap:** Outside gotra does not imply outside caste.
 
-### Q39. Which option preserves the source-bounded meaning of Family as socialisation unit?
+**Q8 — D.** Caste and gotra classify different kinship boundaries. **Close-option trap:** Economic status does not settle a clan-specific restriction.
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-C. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
-D. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
+**Q9 — A.** Visibility cannot establish all-India prevalence or universal displacement. **Close-option trap:** Self-choice does not inherently eliminate family sanction.
 
-**Answer: C.**
-**Explanation:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. The remaining options belong to different chronology, actor or analytical categories.
+**Q10 — B.** Marriage decisions can involve both individual initiative and collective approval. **Close-option trap:** A simple arranged-versus-love binary misses negotiation.
 
-### Q40. Which statement avoids a close-option trap about Family as socialisation unit?
+**Q11 — C.** Kinship classification has distinct axes; one does not determine the other. **Close-option trap:** Do not infer household address from a surname or lineage.
 
-A. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-B. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-C. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-D. The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
+**Q12 — D.** Inheritance and authority are independently variable. **Close-option trap:** Matriliny is not synonymous with matriarchy.
 
-**Answer: D.**
-**Explanation:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. The remaining options belong to different chronology, actor or analytical categories.
+**Q13 — A.** Named counter-cases defeat uniformity without implying every family retains the same custom. **Close-option trap:** Historical Nair practices cannot be assumed universal today.
 
-### Q41. Which statement correctly identifies Dowry as persistent practice?
+**Q14 — B.** Lineage can be female while decision or ritual power remains with men. **Close-option trap:** A male ritual role does not erase maternal descent.
 
-A. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-B. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-C. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-D. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
+**Q15 — C.** A single indicator cannot exhaust a family's descent, ownership and power axes. **Close-option trap:** Property ownership and lineage rule require separate evidence.
 
-**Answer: A.**
-**Explanation:** Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice. The remaining options belong to different chronology, actor or analytical categories.
+**Q16 — D.** Family interaction reproduces or contests cultural expectations across generations. **Close-option trap:** Socialisation does not mean all children inherit identical beliefs.
 
-### Q42. Which chronology card should be filed under Dowry as persistent practice?
+**Q17 — A.** Norm transmission is a mechanism, not a guarantee of obedience. **Close-option trap:** Agency and alternative peer/school influences matter.
 
-A. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-B. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-C. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-D. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
+**Q18 — B.** Distinguish social incentives and lived behaviour from what law permits. **Close-option trap:** Do not equate all wedding gifts with prohibited dowry demands.
 
-**Answer: B.**
-**Explanation:** Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice. The remaining options belong to different chronology, actor or analytical categories.
+**Q19 — C.** The Special Marriage Act, 1954 supplies a route; it does not erase social sanctions. **Close-option trap:** Law's availability cannot measure social prevalence.
 
-### Q43. Which option preserves the source-bounded meaning of Dowry as persistent practice?
+**Q20 — D.** A legally available alternative falsifies legal impossibility as a complete explanation. **Close-option trap:** A route does not imply opposition has vanished.
 
-A. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-B. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-C. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
-D. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
+**Q21 — A.** Parity changes one family-incentive dimension, not group identity itself. **Close-option trap:** The 2024 PYQ says 'to some extent,' not universally.
 
-**Answer: C.**
-**Explanation:** Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice. The remaining options belong to different chronology, actor or analytical categories.
+**Q22 — B.** Material status and communal boundary maintenance are different axes. **Close-option trap:** Personal-law plurality is not proof of legal impossibility.
 
-### Q44. Which statement avoids a close-option trap about Dowry as persistent practice?
+**Q23 — C.** Question wording invites explanation of a qualified contrast, not numerical extrapolation. **Close-option trap:** A PYQ premise is not a statistical dataset.
 
-A. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-B. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-C. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-D. Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
+**Q24 — D.** Legal-social gaps require separating qualifying remedies from everyday acceptance. **Close-option trap:** Avoid promising identical protections for every cohabiting relationship.
 
-**Answer: D.**
-**Explanation:** Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice. The remaining options belong to different chronology, actor or analytical categories.
+**Q25 — A.** Different boundary types require different mechanisms and evidence. **Close-option trap:** Caste and religion can overlap in lived experience but are not identical categories.
 
-### Q45. Which statement correctly identifies Legal-social gap?
+**Q26 — B.** Autonomy and intergenerational attachment can coexist. **Close-option trap:** One illustrative case cannot establish prevalence.
 
-A. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-B. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-C. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-D. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
+**Q27 — C.** The migration-autonomy mechanism is contingent on class, workplace and family. **Close-option trap:** A wage is not an automatic guarantee of freedom.
 
-**Answer: A.**
-**Explanation:** Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+**Q28 — D.** Space and schedule constraints mediate conflict. **Close-option trap:** Physical presence alone does not establish available attention.
 
-### Q46. Which chronology card should be filed under Legal-social gap?
+**Q29 — A.** Household norms shape who receives flexibility and who absorbs added work. **Close-option trap:** Presence at home is not equivalent to a fair division of care.
 
-A. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-B. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-C. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-D. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
+**Q30 — B.** Displacement and complementarity both matter to social learning. **Close-option trap:** Technology alone cannot explain outcomes absent content and context.
 
-**Answer: B.**
-**Explanation:** Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+**Q31 — C.** The question tests the quality of interaction displaced, not a blanket verdict on technology. **Close-option trap:** Adult mediation should not become another unsupported universal fix.
 
-### Q47. Which option preserves the source-bounded meaning of Legal-social gap?
+**Q32 — D.** Multiple functions of marriage can persist while its decision process changes. **Close-option trap:** Modernisation need not be an all-or-nothing decline.
 
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-C. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-D. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
+**Q33 — A.** A qualified verdict distinguishes changing meanings from disappearance. **Close-option trap:** Endogamy and family participation can persist alongside self-choice.
 
-**Answer: C.**
-**Explanation:** Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+**Q34 — B.** TFR concerns births per woman under a period schedule, not family residence. **Close-option trap:** Even a good household count may miss functional jointness.
 
-### Q48. Which statement avoids a close-option trap about Legal-social gap?
+**Q35 — C.** Source labels separate survey period, metric and inference. **Close-option trap:** NFHS-6 released in 2026 cannot retroactively turn NFHS-5 into a Census.
 
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-C. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-D. Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
+**Q36 — D.** Residence-based size and functional obligations are distinct variables. **Close-option trap:** Neither decline nor growth in support follows automatically.
 
-**Answer: D.**
-**Explanation:** Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice. The remaining options belong to different chronology, actor or analytical categories.
+**Q37 — A.** A plausible mechanism must be tested against alternative explanations. **Close-option trap:** Do not mistake parity's possible role for a complete explanation.
 
-### Q49. Which statement correctly identifies Special Marriage Act as route, not acceptance?
+**Q38 — B.** Support flows connect members outside a single household roster. **Close-option trap:** A household is an observational unit, not the entire kin network.
 
-A. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-B. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-C. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-D. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
+**Q39 — C.** Family sanction can transmit group expectations into partner choice. **Close-option trap:** Household form alone does not determine the marriage boundary.
 
-**Answer: A.**
-**Explanation:** The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone. The remaining options belong to different chronology, actor or analytical categories.
+**Q40 — D.** The same setting locates descent and authority on different axes. **Close-option trap:** Female-line property does not entail exclusive female authority.
 
-### Q50. Which chronology card should be filed under Special Marriage Act as route, not acceptance?
+**Q41 — A.** Independent observations of form and function can test their proposed divergence. **Close-option trap:** An address-only count cannot test obligation.
 
-A. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-B. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-C. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-D. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
+**Q42 — B.** A legal route cannot compel recognition by kin or neighbours. **Close-option trap:** Do not confuse legal capacity with social normalisation.
 
-**Answer: B.**
-**Explanation:** The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone. The remaining options belong to different chronology, actor or analytical categories.
+**Q43 — C.** Substitution of care channels raises quality and access questions. **Close-option trap:** Mediated contact cannot by itself substitute for all physical support.
 
-### Q51. Which option preserves the source-bounded meaning of Special Marriage Act as route, not acceptance?
+**Q44 — D.** Benefits and burdens can occur together within the same household. **Close-option trap:** Evaluate distribution, not only aggregate time at home.
 
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-C. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
+**Q45 — A.** Income can shift bargaining power without severing reciprocity. **Close-option trap:** Freedom is conditional and may coexist with disagreement.
 
-**Answer: C.**
-**Explanation:** The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone. The remaining options belong to different chronology, actor or analytical categories.
+**Q46 — B.** Qualitative demand and representative prevalence data are different evidence types. **Close-option trap:** Interpret 'less true' as a premise to discuss, not a measured ratio.
 
-### Q52. Which statement avoids a close-option trap about Special Marriage Act as route, not acceptance?
+**Q47 — C.** Match the source measure to the claim it can actually support. **Close-option trap:** Neither NFHS TFR nor civil-law text estimates joint-family prevalence.
 
-A. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-B. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-C. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-D. The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
+**Q48 — D.** Distinct questions target causal mechanisms within changing family relations. **Close-option trap:** A shared topic does not license a recycled model answer.
 
-**Answer: D.**
-**Explanation:** The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone. The remaining options belong to different chronology, actor or analytical categories.
+**Q49 — A.** Regional kinship typologies reveal variation in alliance and descent practices. **Close-option trap:** A named comparative lens is not a national prevalence estimate.
 
-### Q53. Which statement correctly identifies Status parity and identity boundary?
+**Q50 — B.** Gendered authority may diverge from formal descent and inheritance rules. **Close-option trap:** A legal entitlement need not produce equal bargaining power.
 
-A. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-B. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-C. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-D. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
+**Q51 — C.** Changed legal capacity can meet unequal bargaining power in family practice. **Close-option trap:** The Special Marriage Act, not this amendment, provides the civil route.
 
-**Answer: A.**
-**Explanation:** Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Status parity and identity boundary?
-
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-C. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-
-**Answer: B.**
-**Explanation:** Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Status parity and identity boundary?
-
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-C. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-
-**Answer: C.**
-**Explanation:** Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Status parity and identity boundary?
-
-A. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-B. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-C. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-D. Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-
-**Answer: D.**
-**Explanation:** Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Work-from-home effect?
-
-A. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-B. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-C. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-D. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-
-**Answer: A.**
-**Explanation:** Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Work-from-home effect?
-
-A. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-B. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-C. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-
-**Answer: B.**
-**Explanation:** Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Work-from-home effect?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-C. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-D. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-
-**Answer: C.**
-**Explanation:** Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Work-from-home effect?
-
-A. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-B. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-
-**Answer: D.**
-**Explanation:** Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Mediated socialisation?
-
-A. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-B. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-
-**Answer: A.**
-**Explanation:** Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Mediated socialisation?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-
-**Answer: B.**
-**Explanation:** Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Mediated socialisation?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-C. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-D. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-
-**Answer: C.**
-**Explanation:** Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Mediated socialisation?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-C. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-D. Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-
-**Answer: D.**
-**Explanation:** Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Marriage as sacrament and companionship?
-
-A. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-B. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-
-**Answer: A.**
-**Explanation:** A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Marriage as sacrament and companionship?
-
-A. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-B. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-C. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-
-**Answer: B.**
-**Explanation:** A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Marriage as sacrament and companionship?
-
-A. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-B. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-C. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-D. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-
-**Answer: C.**
-**Explanation:** A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Marriage as sacrament and companionship?
-
-A. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-B. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-C. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-D. A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-
-**Answer: D.**
-**Explanation:** A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Globalisation and women's autonomy?
-
-A. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-B. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-
-**Answer: A.**
-**Explanation:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Globalisation and women's autonomy?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-C. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-
-**Answer: B.**
-**Explanation:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Globalisation and women's autonomy?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-C. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-
-**Answer: C.**
-**Explanation:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Globalisation and women's autonomy?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-C. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-D. Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-
-**Answer: D.**
-**Explanation:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Fertility data boundary?
-
-A. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-B. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-C. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-D. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-
-**Answer: A.**
-**Explanation:** The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Fertility data boundary?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-C. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-D. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-
-**Answer: B.**
-**Explanation:** The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Fertility data boundary?
-
-A. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-B. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-C. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-D. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-
-**Answer: C.**
-**Explanation:** The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Fertility data boundary?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-C. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-D. The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-
-**Answer: D.**
-**Explanation:** The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified direct Mains demands?
-
-A. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-B. A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-C. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-D. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-
-**Answer: A.**
-**Explanation:** Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified direct Mains demands?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-C. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-D. A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-
-**Answer: B.**
-**Explanation:** Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified direct Mains demands?
-
-A. Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-B. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-C. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-D. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-
-**Answer: C.**
-**Explanation:** Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified direct Mains demands?
-
-A. Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-B. Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-C. Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-D. Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
-
-**Answer: D.**
-**Explanation:** Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02. The remaining options belong to different chronology, actor or analytical categories.
+**Q52 — D.** Regional examples challenge claims of uniform male-line descent. **Close-option trap:** Matrilineal descent is not evidence of universal female political authority.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED PYQ OWNERSHIP AUDIT
 
-Four direct General Studies Paper-I demands are verified for this owner. The 2024 demand is routed in the audited 2024-2025 ledger, and the 2022 and two 2023 demands are routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes. Every wording reproduced below was confirmed against the locally held official General Studies Paper-I question papers. The caste half of the 2024 demand is owned by Topic 02 and is answered here only from the family, kinship and marriage-boundary side. No additional question, marking scheme or official key is invented.
+Four direct General Studies Paper-I demands are verified for this owner; 2024 Q19 is additionally treated as a cross-owned globalisation/family application from advanced/04 and Topic 11. The 2024 Q9 demand is routed in the audited 2024-2025 ledger, and the 2022 and two 2023 demands are routed in the audited 2018-2023 ledger to the Advanced owner with the Core owner recording that Core routing supersedes. The original workbook reports that the four direct demands were checked against locally held official GS-I papers; 2024 Q19 is drawn from the Advanced owner's verbatim transcription, not independently rechecked against the official paper here. The caste half of 2024 Q9 is owned by Topic 02 and answered here from the family, kinship and marriage-boundary side. No additional marking scheme or official key is asserted.
 
 ### OWNER PYQ LEDGER EXTRACTS
 
@@ -875,339 +549,119 @@ Four direct General Studies Paper-I demands are verified for this owner. The 202
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+
+> Mains PYQ solutions are independent model answers, **not official answer keys**. The ledger records provenance; question wording and marks below retain the audited workbook's demands.
+
 ### PYQ DEMAND CARD 1 — 2022 GS-I Q8
 
 **Demand:** Explore and evaluate the impact of 'Work From Home' on family relationships. (Answer in 150 words) 10 marks.
 
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
+**Provenance:** Audited 2018–2023 GS-I routing ledger; wording checked against locally held official GS-I paper.
 
-**Model solution:** Define the change first: work from home dissolves the spatial and temporal boundary that previously separated paid work from household life. Explore the gains. Presence increases, because a parent is physically available during the working day, which supports supervision of children and care of elderly members; commuting time returns to the household; and flexible scheduling can allow care and paid work to be interleaved. Evaluate the strains. Shared domestic space converts the home into a contested workplace, which raises conflict where housing is small; the always-available expectation extends working hours; and, most importantly, the additional care and domestic labour is absorbed unequally, because prevailing gender norms treat the woman's presence at home as availability for housework rather than as work time. State the conditions that decide the outcome: available room and privacy, occupational control over one's own schedule, whether both adults work from home, and how the household allocates care. Add the family-structure link that work from home can strengthen a functionally joint arrangement by making intergenerational co-residence workable, or weaken it by making the household a permanent office. Conclude that the impact is negotiated rather than uniformly liberating, and that it deepens existing inequalities where norms and space are unequal. Why this earns marks: it explores and then evaluates as the directive requires, names the conditions instead of listing effects, and identifies the distributional consequence an examiner is looking for.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2022 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Define the change first: work from home dissolves the spatial and temporal boundary that previously separated paid work from household life. Explore the gains. Presence increases, because a parent is physically available during the working day, which supports supervision of children and care of elderly members; commuting time returns to the household; and flexible scheduling can allow care and paid work to be interleaved. Evaluate the strains. Shared domestic space converts the home into a contested workplace, which raises conflict where housing is small; the always-available expectation extends working hours; and, most importantly, the additional care and domestic labour is absorbed unequally, because prevailing gender norms treat the woman's presence at home as availability for housework rather than as work time. State the conditions that decide the outcome: available room and privacy, occupational control over one's own schedule, whether both adults work from home, and how the household allocates care. Add the family-structure link that work from home can strengthen a functionally joint arrangement by making intergenerational co-residence workable, or weaken it by making the household a permanent office. Conclude that the impact is negotiated rather than uniformly liberating, and that it deepens existing inequalities where norms and space are unequal. Why this earns marks: it explores and then evaluates as the directive requires, names the conditions instead of listing effects, and identifies the distributional consequence an examiner is looking for.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explore and evaluate the impact of 'Work From Home' on family relationships. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Define the change first: work from home dissolves the spatial and temporal boundary that previously separated paid work from household life. Explore the gains. Presence increases, because a parent is physically available during the working day, which supports supervision of children and care of elderly members; commuting time returns to the household; and flexible scheduling can allow care and paid work to be interleaved. Evaluate the strains. Shared domestic space converts the home into a contested workplace, which raises conflict where housing is small; the always-available expectation extends working hours; and, most importantly, the additional care and domestic labour is absorbed unequally, because prevailing gender norms treat the woman's presence at home as availability for housework rather than as work time. State the conditions that decide the outcome: available room and privacy, occupational control over one's own schedule, whether both adults work from home, and how the household allocates care. Add the family-structure link that work from home can strengthen a functionally joint arrangement by making intergenerational co-residence workable, or weaken it by making the household a permanent office. Conclude that the impact is negotiated rather than uniformly liberating, and that it deepens existing inequalities where norms and space are unequal. Why this earns marks: it explores and then evaluates as the directive requires, names the conditions instead of listing effects, and identifies the distributional consequence an examiner is looking for.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2022 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer (not an official key):** Work from home shifts paid work into domestic time and space; it can deepen family contact without guaranteeing better relationships. Removing the commute can free time for meals, child supervision and elder care. For an Indian household supporting older parents, flexible hours may even sustain intergenerational care across separate residences. Yet a shared room serving as both office and living space makes interruptions and privacy costly. The expectation of constant online availability can extend paid hours into family time. Women may shoulder cooking and care even while doing paid work because presence at home is mistaken for availability. These pressures intensify in crowded homes and where workers lack control over their schedules; an employee with a dedicated room may experience the reverse. Nor does co-residence alone measure closeness: unequal care may worsen resentment. Thus the effect depends on space, working conditions and negotiated gender roles, not simply on time spent under one roof.
 
 ### PYQ DEMAND CARD 2 — 2023 GS-I Q8
 
 **Demand:** Do you think marriage as a sacrament is loosing its value in Modern India? (Answer in 150 words) 10 marks.
 
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
+**Provenance:** Audited 2018–2023 GS-I routing ledger; wording, including 'loosing', retained from existing official-paper transcription.
 
-**Model solution:** Take a qualified position: marriage is being transformed rather than devalued. Show what has changed. Companionate expectations, later marriage, women's independent income from urban work and a wider role for self-choice have shifted the emphasis from an obligatory alliance between families to a negotiated relationship between individuals, which proves that the sacramental idiom no longer monopolises the meaning of marriage. Show what persists. Caste endogamy remains the most consistently observed feature of the marriage system and operates with gotra exogamy; ritual performance, kin participation and family sanction continue to authorise most marriages; dowry, though prohibited, persists as a status-signalling practice; and matrilineal Khasi and traditionally Nair systems show that variation is structural rather than a sign of decay. Distinguish law from norms: the Special Marriage Act, 1954 supplies a civil route, and judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, which proves that legal change alone does not measure sacramental value. Add the data caution that a fertility indicator such as the National Family Health Survey round 5 figure of 2.0 measures neither household form nor marriage meaning. Conclude that the sacrament is being reinterpreted, not abandoned, and that its kinship functions are the least changed part. Why this earns marks: it answers do-you-think with a defended verdict, holds change and persistence together, and refuses both nostalgia and exaggerated decline.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2023 GS-I Q8”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Take a qualified position: marriage is being transformed rather than devalued. Show what has changed. Companionate expectations, later marriage, women's independent income from urban work and a wider role for self-choice have shifted the emphasis from an obligatory alliance between families to a negotiated relationship between individuals, which proves that the sacramental idiom no longer monopolises the meaning of marriage. Show what persists. Caste endogamy remains the most consistently observed feature of the marriage system and operates with gotra exogamy; ritual performance, kin participation and family sanction continue to authorise most marriages; dowry, though prohibited, persists as a status-signalling practice; and matrilineal Khasi and traditionally Nair systems show that variation is structural rather than a sign of decay. Distinguish law from norms: the Special Marriage Act, 1954 supplies a civil route, and judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, which proves that legal change alone does not measure sacramental value. Add the data caution that a fertility indicator such as the National Family Health Survey round 5 figure of 2.0 measures neither household form nor marriage meaning. Conclude that the sacrament is being reinterpreted, not abandoned, and that its kinship functions are the least changed part. Why this earns marks: it answers do-you-think with a defended verdict, holds change and persistence together, and refuses both nostalgia and exaggerated decline.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Do you think marriage as a sacrament is loosing its value in Modern India? (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Take a qualified position: marriage is being transformed rather than devalued. Show what has changed. Companionate expectations, later marriage, women's independent income from urban work and a wider role for self-choice have shifted the emphasis from an obligatory alliance between families to a negotiated relationship between individuals, which proves that the sacramental idiom no longer monopolises the meaning of marriage. Show what persists. Caste endogamy remains the most consistently observed feature of the marriage system and operates with gotra exogamy; ritual performance, kin participation and family sanction continue to authorise most marriages; dowry, though prohibited, persists as a status-signalling practice; and matrilineal Khasi and traditionally Nair systems show that variation is structural rather than a sign of decay. Distinguish law from norms: the Special Marriage Act, 1954 supplies a civil route, and judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, which proves that legal change alone does not measure sacramental value. Add the data caution that a fertility indicator such as the National Family Health Survey round 5 figure of 2.0 measures neither household form nor marriage meaning. Conclude that the sacrament is being reinterpreted, not abandoned, and that its kinship functions are the least changed part. Why this earns marks: it answers do-you-think with a defended verdict, holds change and persistence together, and refuses both nostalgia and exaggerated decline.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2023 GS-I Q8”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer (not an official key):** Not necessarily: the meaning of marriage is being renegotiated rather than universally devalued. Education, urban employment and independent income can give partners greater say over timing and choice; companionate expectations challenge the idea that marriage is solely an alliance between kin groups. The Special Marriage Act, 1954 also offers a civil route, showing that ritual is not the only legal form. Yet ceremonies, kin participation and family sanction remain consequential, while caste endogamy can coexist with gotra exogamy and with some partner choice. Dowry's persistence, despite prohibition, illustrates how old status pressures can outlive changing ideals. The Khasi and historically Nair examples caution against treating one form of marriage or kinship as universal. Neither smaller families nor an NFHS fertility figure can measure belief in sacrament. Therefore ritual importance can recede for some people while continuing to shape many marriages; assess class, community and region before declaring institutional decline.
 
 ### PYQ DEMAND CARD 3 — 2023 GS-I Q10
 
 **Demand:** Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children. (Answer in 150 words) 10 marks.
 
-**Status:** Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I.
+**Provenance:** Audited 2018–2023 GS-I routing ledger; official GS-I wording recorded in original workbook.
 
-**Model solution:** Open by converting the premise into a testable mechanism: the relevant question is what interaction a device displaces and what it adds, not whether screens are good or bad. Discuss the displacement side. The family is the primary institution transmitting caste, religious and gender norms, and early socialisation runs through unstructured physical presence, responsive interaction and shared routine; where device use replaces that interaction, the child loses the setting in which emotional regulation, language turn-taking and norm transmission are learnt, and the parent loses the observation on which supervision depends. Discuss the addition side. Mediated contact keeps migrant parents and dispersed kin present in a child's life, which matters directly in a society where urban migration separates nuclear units from ancestral households; curated content can extend learning; and shared viewing with an adult can become a socialising interaction rather than a substitute for one. State the conditions that decide the outcome: the child's age, the total interaction budget of the household, whether an adult mediates, and whether the household has alternative caregivers. Qualify that this is a mechanism argument and that no prevalence or clinical figure is asserted here. Conclude that impact depends on substitution and mediation, so the policy-relevant response is protected interaction time rather than prohibition. Why this earns marks: it discusses impact through a mechanism, presents both displacement and addition, names the deciding conditions, and avoids unsupported quantification.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2023 GS-I Q10”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Open by converting the premise into a testable mechanism: the relevant question is what interaction a device displaces and what it adds, not whether screens are good or bad. Discuss the displacement side. The family is the primary institution transmitting caste, religious and gender norms, and early socialisation runs through unstructured physical presence, responsive interaction and shared routine; where device use replaces that interaction, the child loses the setting in which emotional regulation, language turn-taking and norm transmission are learnt, and the parent loses the observation on which supervision depends. Discuss the addition side. Mediated contact keeps migrant parents and dispersed kin present in a child's life, which matters directly in a society where urban migration separates nuclear units from ancestral households; curated content can extend learning; and shared viewing with an adult can become a socialising interaction rather than a substitute for one. State the conditions that decide the outcome: the child's age, the total interaction budget of the household, whether an adult mediates, and whether the household has alternative caregivers. Qualify that this is a mechanism argument and that no prevalence or clinical figure is asserted here. Conclude that impact depends on substitution and mediation, so the policy-relevant response is protected interaction time rather than prohibition. Why this earns marks: it discusses impact through a mechanism, presents both displacement and addition, names the deciding conditions, and avoids unsupported quantification.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Status: Routed in the audited 2018-2023 Mains routing ledger to the Advanced owner with Core routing recorded as superseding; wording confirmed in the locally held official General Studies Paper-I. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Open by converting the premise into a testable mechanism: the relevant question is what interaction a device displaces and what it adds, not whether screens are good or bad. Discuss the displacement side. The family is the primary institution transmitting caste, religious and gender norms, and early socialisation runs through unstructured physical presence, responsive interaction and shared routine; where device use replaces that interaction, the child loses the setting in which emotional regulation, language turn-taking and norm transmission are learnt, and the parent loses the observation on which supervision depends. Discuss the addition side. Mediated contact keeps migrant parents and dispersed kin present in a child's life, which matters directly in a society where urban migration separates nuclear units from ancestral households; curated content can extend learning; and shared viewing with an adult can become a socialising interaction rather than a substitute for one. State the conditions that decide the outcome: the child's age, the total interaction budget of the household, whether an adult mediates, and whether the household has alternative caregivers. Qualify that this is a mechanism argument and that no prevalence or clinical figure is asserted here. Conclude that impact depends on substitution and mediation, so the policy-relevant response is protected interaction time rather than prohibition. Why this earns marks: it discusses impact through a mechanism, presents both displacement and addition, names the deciding conditions, and avoids unsupported quantification.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2023 GS-I Q10”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer (not an official key):** Children learn empathy, language and social boundaries through responsive interaction. If a phone repeatedly substitutes for a caregiver's attention, reduced conversation, play and emotional reassurance can weaken those opportunities; the problem is displaced human interaction, not a device's mere presence. In a family where adults use a screen to calm a young child instead of talking through distress, the child misses practice in naming feelings and negotiating responses. On the other hand, supervised digital stories, contact with distant grandparents and learning resources may broaden social experience, particularly for a migrant household. What matters is the child's age, content, duration, adult mediation and what offline interaction is replaced. Caregivers can protect time for affection, play and conversation while guiding digital use rather than imposing a blanket ban. Phones can complement family socialisation but should not be presumed an adequate substitute for sustained human care.
 
 ### PYQ DEMAND CARD 4 — 2024 GS-I Q9
 
 **Demand:** Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss. (Answer in 150 words) 10 marks.
 
-**Status:** Verified verbatim in the audited 2024-2025 Mains routing ledger and in the locally held official 2024 General Studies Paper-I. The caste half of the demand is owned by Topic 02; this owner supplies the family, kinship and marriage-boundary analysis.
+**Provenance:** Audited 2024–2025 GS-I routing ledger and locally held official 2024 GS-I; caste-side analysis cross-owned by Society 02.
 
-**Model solution:** Answer from the kinship side. Claim one: marriage in India is arranged by families as much as by individuals, so an alliance is assessed for what it does to the family's standing and resource base; where two jatis have socio-economic parity, that assessment returns a neutral result, which is the mechanism behind the increase the question describes. Claim two: an interreligious alliance is assessed on a different axis, because it engages community belonging, kin networks, ritual participation and the family's standing inside a faith community, and parity does not neutralise any of these; the decisive evidence that legal plurality is not the barrier is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance is social rather than statutory. Claim three: the reproduction rule is unchanged in both cases, because caste endogamy operating with gotra exogamy remains the most consistently observed feature of the system, which is why rising boundary-crossing does not indicate that kinship control has ended. Qualify explicitly that the premise is hedged as increasing only to some extent and is not a national prevalence series, and that acceptance varies by region, class and generation. Conclude that the two boundaries are guarded by different things, so they erode at different speeds. Why this earns marks: it explains the differential rather than describing marriage change, supplies the civil-route evidence, and preserves the question's own qualification.
+**Model answer (not an official key):** Marriage is both an individual relationship and a negotiated kin alliance. Similar education and income can reassure some intercaste families about status and resources, easing a match without abolishing caste endogamy. An interreligious union may additionally raise questions of community belonging, ritual practice and kinship networks: economic parity cannot by itself settle these identity concerns. For example, economically comparable families may still disagree over wedding rites and the couple's participation in each faith community. The Special Marriage Act, 1954 provides a civil marriage route; legal impossibility under different personal laws is therefore not a complete explanation of social opposition. Nor is religion the only boundary: caste sanction persists and varies by region, class and generation. The question's 'to some extent' does not supply a measured national increase or rule out accepted interreligious marriages. The contrasting pace reflects differently organised social boundaries, not a universal economic law or a legal ban.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2024 GS-I Q9”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### PYQ DEMAND CARD 5 — 2024 GS-I Q19
 
-**Detailed examiner-grade model answer:**
+**Demand:** Globalization has increased urban migration by skilled, young, unmarried women from various classes. How has this trend impacted upon their personal freedom and relationship with family? (15 marks)
 
-**Introduction and thesis:** Answer from the kinship side. Claim one: marriage in India is arranged by families as much as by individuals, so an alliance is assessed for what it does to the family's standing and resource base; where two jatis have socio-economic parity, that assessment returns a neutral result, which is the mechanism behind the increase the question describes. Claim two: an interreligious alliance is assessed on a different axis, because it engages community belonging, kin networks, ritual participation and the family's standing inside a faith community, and parity does not neutralise any of these; the decisive evidence that legal plurality is not the barrier is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance is social rather than statutory. Claim three: the reproduction rule is unchanged in both cases, because caste endogamy operating with gotra exogamy remains the most consistently observed feature of the system, which is why rising boundary-crossing does not indicate that kinship control has ended. Qualify explicitly that the premise is hedged as increasing only to some extent and is not a national prevalence series, and that acceptance varies by region, class and generation. Conclude that the two boundaries are guarded by different things, so they erode at different speeds. Why this earns marks: it explains the differential rather than describing marriage change, supplies the civil-route evidence, and preserves the question's own qualification.
+**Provenance:** Verbatim demand in advanced/04, audited 2024 GS-I Q19; globalisation analysis cross-owned by Society 11.
 
-**Analytical body:**
+**Model answer (not an official key):** Globalised service-sector and other urban employment can make migration economically viable for skilled young women. Independent wages and a home away from direct supervision may enlarge choices over mobility, spending, friends and the timing of marriage. A professional working in Bengaluru, for instance, may decide whether and when to change jobs while contributing to her parents' expenses. Her remittance illustrates why autonomy need not mean a break with family.
 
-1. **Claim and named evidence:** Demand: Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss. (Answer in 150 words) 10 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Distance changes the terms of negotiation. Parents may continue to expect consultation over partner choice, ritual participation or support for elderly relatives; digital calls and visits can maintain attachment, but also extend monitoring. Urban rent, workplace safety, precarious employment and caste or class position can restrict a woman's actual options even where she earns independently. Unequal domestic labour may follow her into marriage or co-residence. Some families adjust by sharing decisions, whereas others experience serious conflict over mobility and marital timing.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Answer from the kinship side. Claim one: marriage in India is arranged by families as much as by individuals, so an alliance is assessed for what it does to the family's standing and resource base; where two jatis have socio-economic parity, that assessment returns a neutral result, which is the mechanism behind the increase the question describes. Claim two: an interreligious alliance is assessed on a different axis, because it engages community belonging, kin networks, ritual participation and the family's standing inside a faith community, and parity does not neutralise any of these; the decisive evidence that legal plurality is not the barrier is the Special Marriage Act, 1954, which supplies a civil route across religions, so the residual resistance is social rather than statutory. Claim three: the reproduction rule is unchanged in both cases, because caste endogamy operating with gotra exogamy remains the most consistently observed feature of the system, which is why rising boundary-crossing does not indicate that kinship control has ended. Qualify explicitly that the premise is hedged as increasing only to some extent and is not a national prevalence series, and that acceptance varies by region, class and generation. Conclude that the two boundaries are guarded by different things, so they erode at different speeds. Why this earns marks: it explains the differential rather than describing marriage change, supplies the civil-route evidence, and preserves the question's own qualification.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2024 GS-I Q9”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Thus freedom is an increase in bargaining capacity, not automatic emancipation. The family is often reorganised across distance through money, care and communication rather than dissolved; outcomes vary across classes, regions and household expectations. No aggregate trend should be inferred from a single migration example.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Distinguish endogamy from exogamy and explain why both rules can operate in the same marriage. Answer in about 150 words.
 
-**Model thesis:** Endogamy fixes the outer boundary of the marriage circle while exogamy excludes the clan lineage inside it, so the two rules are complementary levels of one system rather than competing norms.
+**Model answer (166 words; independent practice solution):** Endogamy and exogamy specify different boundaries of a permitted marriage circle. Caste endogamy expects a partner within the caste or sub-caste; gotra exogamy excludes a partner from the same clan lineage. A caste-endogamous marriage between people of different gotras can therefore satisfy both rules. The apparent contradiction arises only if caste and gotra are mistakenly treated as identical groups.
 
-**Claim → named evidence → analysis → qualification:**
+These rules also perform different social functions. Endogamy helps families retain familiar status and kin networks, whereas clan exogamy regulates an inner lineage boundary and is often explained as avoiding close kin unions. In a family-arranged marriage, relatives may first check the candidate's community and then ask about gotra; partner choice can still occur within those constraints. Yet practices differ by community and region; not every Indian marriage follows the same rule, and an interreligious match raises another boundary again.
 
-- Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-- Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation.
-- Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-
-**Qualified conclusion:** Endogamy fixes the outer boundary of the marriage circle while exogamy excludes the clan lineage inside it, so the two rules are complementary levels of one system rather than competing norms.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish endogamy from exogamy and explain why both rules can operate in the same…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Endogamy fixes the outer boundary of the marriage circle while exogamy excludes the clan lineage inside it, so the two rules are complementary levels of one system rather than competing norms.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Indian marriage forms include monogamy, regionally rare polygamy, endogamy, exogamy, arranged marriage and a rising share of self-choice marriage whose spread varies sharply by region, class, education and generation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Endogamy fixes the outer boundary of the marriage circle while exogamy excludes the clan lineage inside it, so the two rules are complementary levels of one system rather than competing norms.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish endogamy from exogamy and explain why both rules can operate in the same…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Thus one rule draws an outer circle and the other removes a smaller inner circle. Describing them as opposites obscures how kinship can simultaneously include and exclude.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Explain why separate residence in urban India does not by itself prove the decline of the joint family. Answer in about 150 words.
 
-**Model thesis:** Structural nuclearisation can advance while remittance, ritual participation and deferred decision authority keep the family functionally joint, so residence and function must be assessed separately.
+**Model answer (160 words; independent practice solution):** Separate residence is a change in household structure, not necessarily a loss of extended-family functions. An adult working in Pune may rent a flat with a spouse and children while remitting money to parents in the ancestral village, attending family rituals and consulting elders over a property sale. The residential unit is nuclear, but finance, ritual and decision-making remain partly joint.
 
-**Claim → named evidence → analysis → qualification:**
+Migration, expensive urban housing and occupational mobility can encourage this separation even when affection and obligations remain. Conversely, daily contact is no guarantee of equitable care: co-residing members can distribute household work unequally. Across generations, remittances or deference may weaken, and services bought in a city may replace some shared care, but these outcomes require evidence rather than assumption.
 
-- A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households.
-- A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility.
-- Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together.
-- Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-
-**Qualified conclusion:** Structural nuclearisation can advance while remittance, ritual participation and deferred decision authority keep the family functionally joint, so residence and function must be assessed separately.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why separate residence in urban India does not by itself prove the decline of the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Structural nuclearisation can advance while remittance, ritual participation and deferred decision authority keep the family functionally joint, so residence and function must be assessed separately.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A joint family is a multi-generational arrangement that may share residence, property, income or obligations; co-residence is an important form, but family functions can persist across separate households. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A nuclear family household consists of parents and their unmarried children and has become more common with urban migration, housing constraints and occupational mobility. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Structural nuclearisation is the shift to separate, smaller-household residence, while functional nuclearisation would additionally mean independence from intergenerational financial support and decision authority, and the two do not move together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Structural nuclearisation can advance while remittance, ritual participation and deferred decision authority keep the family functionally joint, so residence and function must be assessed separately.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain why separate residence in urban India does not by itself prove the decline of the…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+A count of co-resident generations measures household form. To judge whether joint-family functions are declining, one must also examine transfers, visits, elder support and authority over major choices. Nuclear residence and functional jointness can coexist; neither must be presumed universal.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Examine the claim that Indian kinship is uniform, using matrilineal evidence. Answer in about 250 words.
 
-**Model thesis:** Patriliny is dominant but not universal, and matrilineal descent among the Khasi and traditionally the Nair shows regional variation in property and lineage without implying matriarchal authority.
+**Model answer (255 words; independent practice solution):** Indian kinship is varied, although patrilineal descent is widespread. Patrilineal lineage and inheritance generally follow the father's line. But the Khasi of Meghalaya trace descent and customary inheritance through the maternal line. Traditionally, Nair kinship in Kerala also supplies a historical matrilineal counterexample. These named cases are enough to reject the claim that Indian kinship has one uniform structure.
 
-**Claim → named evidence → analysis → qualification:**
+Irawati Karve's regional comparison and Leela Dube's gendered kinship lens caution against flattening north/south alliance rules or assuming that inheritance rights entail equal bargaining power. The Garo of Meghalaya add another female-line counterexample; the Hindu Succession (Amendment) Act, 2005 illustrates legal inheritance capacity rather than a guarantee of actual control.
 
-- Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern.
-- Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home.
-- Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves.
-- The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
+Variation extends beyond the direction of descent. Among the Khasi, the youngest daughter customarily inherits the ancestral home, while maternal uncles can exercise important ritual or public authority. Female-line property transmission therefore cannot be equated with women's control over all decisions. Residence and marriage rules are independent axes too.
 
-**Qualified conclusion:** Patriliny is dominant but not universal, and matrilineal descent among the Khasi and traditionally the Nair shows regional variation in property and lineage without implying matriarchal authority.
+These contrasts have consequences. Where inheritance follows a maternal line, the position of daughters and maternal relatives in property relationships differs from a typical patrilineal arrangement; nevertheless, men's authority can persist. Economic change, law and migration can modify actual practices inside any named community. Treating a community as fixed across time would reproduce the very uniformity being challenged.
 
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the claim that Indian kinship is uniform, using matrilineal evidence. Answer in about…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Patriliny is dominant but not universal, and matrilineal descent among the Khasi and traditionally the Nair shows regional variation in property and lineage without implying matriarchal authority.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Patrilineal systems trace descent, surname and property transmission through the father's line and constitute India's dominant kinship pattern. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Matrilineal descent among the Khasi of Meghalaya and, traditionally, the Nair of Kerala vests descent, surname and property in the female line, and the youngest Khasi daughter customarily inherits the ancestral home. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Matrilineal descent concerns descent and property and must not be equated with matriarchal authority, because ritual and public authority can still rest with maternal uncles rather than with women themselves. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Patriliny is dominant but not universal, and matrilineal descent among the Khasi and traditionally the Nair shows regional variation in property and lineage without implying matriarchal authority.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Examine the claim that Indian kinship is uniform, using matrilineal evidence. Answer in about…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+An adequate account therefore asks separately who inherits, who resides together, who makes decisions and who may marry whom. India's majority pattern is analytically useful, but matrilineal exceptions and intra-community change prevent its elevation into a national rule.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Assess how technology and migration are redistributing care, authority and socialisation within Indian families. Answer in about 250 words.
 
-**Model thesis:** Family change is a redistribution of functions across household, kin, market and digital systems rather than institutional decline, and its outcome depends on space, gender norms, adult mediation and negotiated obligation.
+**Model answer (282 words; independent practice solution):** Technology and migration change the channels through which Indian families provide care, exercise authority and teach norms; they do not uniformly remove these functions. Urban employment can separate parents, children and grandparents into distinct residences. A migrant may remit to older parents and consult them about a marriage while relying on local childcare or paid elder-care services. This is residential nuclearisation without complete functional independence. Over generations those links can weaken, so continued obligation should not be romanticised as permanent.
 
-**Claim → named evidence → analysis → qualification:**
+Digital contact can preserve ties across distance. Video calls allow grandparents to participate in a child's everyday life, yet cannot alone supply physical help during illness. For children, supervised stories and communication may widen learning; if phones repeatedly replace conversation, play and affection, opportunities to practise emotional and social skills shrink. Thus the mechanism is the quality of interaction displaced, not screen use in isolation.
 
-- Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms.
-- Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present.
-- Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-- Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further.
-- The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible.
+Migration and work from home can also redistribute authority and labour. Independent urban wages may allow an unmarried woman to negotiate marriage timing and mobility while she continues to support her parents. Remote work can return commuting hours to family care but intensify tension in a cramped home and transfer extra cooking or supervision to women. Kin hierarchy, floor space, employment security and control over working hours therefore condition the result.
 
-**Qualified conclusion:** Family change is a redistribution of functions across household, kin, market and digital systems rather than institutional decline, and its outcome depends on space, gender norms, adult mediation and negotiated obligation.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess how technology and migration are redistributing care, authority and socialisation…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Family change is a redistribution of functions across household, kin, market and digital systems rather than institutional decline, and its outcome depends on space, gender norms, adult mediation and negotiated obligation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Work from home changes the work-home boundary, adding presence, flexible care and reduced commuting while blurring work-care limits and reproducing unequal domestic labour, so the outcome depends on housing space, control over time and gender norms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Mobile-phone use changes child socialisation by displacing some direct interaction while adding mediated learning and contact, so the effect depends on what interaction is displaced, the child's age and context, and whether adult mediation is present. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Urban migration for employment and housing cost separate a nuclear unit from the ancestral household, while remittance and participation in family rituals continue, so form changes before function and later generations weaken the tie further. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The family remains the primary institution transmitting caste, religious and gender norms across generations, which makes it the site where broader social change or resistance to it first becomes visible. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Family change is a redistribution of functions across household, kin, market and digital systems rather than institutional decline, and its outcome depends on space, gender norms, adult mediation and negotiated obligation.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess how technology and migration are redistributing care, authority and socialisation…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Family remains a site where caste, gender and religious expectations are transmitted and contested. Policy and household choices should protect time for responsive care, share unpaid work and maintain accessible support for dependent members, rather than treating all separate residences as abandonment or all digital contact as sufficient. A useful verdict distinguishes household form from family function and asks who bears the cost of each adaptation.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Evaluate whether the boundaries guarding caste and religion in marriage are eroding for the same reasons. Answer in about 300 words.
 
-**Model thesis:** They are not, because parity protects status and resources while belonging protects community identity, and the existence of a civil route shows that legal plurality is not the operative barrier.
+**Model answer (296 words; independent practice solution):** Caste and religious boundaries can both restrict partner choice, but they do not necessarily weaken for the same reasons. Caste endogamy often links marriage to perceived status, inheritance and kin networks. Where families regard two jatis as socio-economically comparable, anxiety about downward mobility may decline; this can make some intercaste unions more acceptable. It does not remove caste hierarchy or make parity a guarantee of acceptance. Gotra exogamy simultaneously regulates a different, inner clan boundary, illustrating how several rules can operate in one marriage system.
 
-**Claim → named evidence → analysis → qualification:**
+An interreligious union can engage community identification, rituals and fears over continuity of family practices even when the partners have equal income and education. Consider two families of comparable means who differ over ceremonies and future kin obligations: economic parity resolves neither disagreement. The Special Marriage Act, 1954 offers a civil route across religions. Consequently differences in personal law cannot alone explain continuing family resistance; statutory possibility and social recognition are distinct. Conversely, the availability of a civil route must not be mistaken for proof that interreligious unions are always opposed.
 
-- The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone.
-- Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove.
-- Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together.
-- Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice.
+Migration, higher education and independent earnings may give partners bargaining power across both boundaries, while local networks and kin sanctions can still limit its exercise. Class, caste location, region, gender and generation shape how costs and support are distributed. The 2024 GS-I question refers to intercaste marriage increasing only 'to some extent'; it gives no denominator or representative time series from which to infer all-India rates.
 
-**Qualified conclusion:** They are not, because parity protects status and resources while belonging protects community identity, and the existence of a civil route shows that legal plurality is not the operative barrier.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate whether the boundaries guarding caste and religion in marriage are eroding for the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** They are not, because parity protects status and resources while belonging protects community identity, and the existence of a civil route shows that legal plurality is not the operative barrier.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Special Marriage Act, 1954 provides a civil route across religions, which is why an interreligious-marriage answer must separate legal possibility from kin and community sanction instead of blaming personal-law plurality alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Socio-economic parity can ease some intercaste matches because neither family's status or resource base is threatened, while interreligious matches additionally engage community belonging, kinship networks and family sanction that parity does not remove. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Caste endogamy restricts marriage to within the caste while gotra exogamy restricts it to outside the clan lineage within that caste, so the two rules operate at different levels and typically apply together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Dowry is a transfer of goods or cash from the bride's family to the groom's family at marriage that is legally prohibited yet sociologically persistent as a status-signalling and marriage-market practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** They are not, because parity protects status and resources while belonging protects community identity, and the existence of a civil route shows that legal plurality is not the operative barrier.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate whether the boundaries guarding caste and religion in marriage are eroding for the…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+These boundaries are therefore neither identical nor immutable. Economic parity is a plausible mechanism for easing one type of family concern; communal belonging and ritual negotiations can remain salient on another axis. An effective response joins individual agency with kinship incentives, legal opportunity and unequal social reception instead of claiming a uniform national transition.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Critically examine the proposition that Indian marriage is being transformed rather than devalued. Answer in about 300 words.
 
-**Model thesis:** Companionate choice, delayed marriage and women's autonomy change what marriage does without removing kinship, ritual and endogamy functions, so transformation is the defensible verdict and dated survey indicators cannot settle it.
+**Model answer (313 words; independent practice solution):** Indian marriage is changing in meaning and negotiation, but 'devaluation' assumes a single older standard and a single modern outcome. In many settings the sacramental idiom links marriage to ritual, family continuity and kin alliance. Education, migration and women's independent earnings can expand the scope for choosing a partner and negotiating timing; companionate expectations put greater weight on mutual support. The 2024 GS-I migration question captures this tension: a young professional may gain income and residential autonomy without abandoning parents or family rituals.
 
-**Claim → named evidence → analysis → qualification:**
+Yet change in partner selection is not the disappearance of kinship. Caste endogamy and gotra exogamy can still shape a match; family participation can coexist with self-choice. A couple may choose each other and still celebrate a ritual wedding negotiated with relatives. The Special Marriage Act, 1954 supplies a non-religious civil route, but legal possibility cannot be used as a proxy for its social acceptance. Similarly, the persistence of dowry despite prohibition shows that status pressures can survive while ideals of equality advance.
 
-- A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance.
-- Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed.
-- Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice.
-- The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance.
-- Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02.
+Nor is there one timeless Indian marriage system from which society now departs. Khasi matrilineal inheritance and historical Nair arrangements remind us that descent and marital forms have long differed. A rise in small households, if demonstrated, would measure residence, not whether kin offer financial help or exert control. NFHS-5's historical TFR of 2.0 measures fertility, not the value attached to sacramental rites.
 
-**Qualified conclusion:** Companionate choice, delayed marriage and women's autonomy change what marriage does without removing kinship, ritual and endogamy functions, so transformation is the defensible verdict and dated survey indicators cannot settle it.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the proposition that Indian marriage is being transformed rather than…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Companionate choice, delayed marriage and women's autonomy change what marriage does without removing kinship, ritual and endogamy functions, so transformation is the defensible verdict and dated survey indicators cannot settle it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A marriage can become more companionate and choice-oriented without ceasing to carry kinship, ritual and endogamy functions, so sacramental change is institutional transformation rather than disappearance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Urban migration of young, skilled and unmarried women for work expands independent income, mobility and partner choice while creating friction with family expectations of control over marriage timing and choice, and ties are usually renegotiated rather than severed. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Judicial protection for relationships in the nature of marriage has expanded faster than social acceptance, so a relationship may be legally protected while remaining socially unnormalised, and the statutory detail belongs to Social Justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The National Family Health Survey round 5 for 2019-21 recorded a national Total Fertility Rate of 2.0 and is a historical comparator, round 6 for 2023-24 was released on 29 May 2026, and neither round measures household form, nuclearisation or marriage acceptance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Four direct General Studies Paper-I demands are verified for this owner: 2022 on the impact of work from home on family relationships worth 10 marks, 2023 on marriage as a sacrament losing value worth 10 marks, 2023 on mobile phones replacing child cuddling worth 10 marks, and 2024 on intercaste versus interreligious marriage worth 10 marks, whose caste half is owned by Topic 02. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Companionate choice, delayed marriage and women's autonomy change what marriage does without removing kinship, ritual and endogamy functions, so transformation is the defensible verdict and dated survey indicators cannot settle it.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Critically examine the proposition that Indian marriage is being transformed rather than…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+There are real conflicts: expectations of choice may collide with kin sanction; urban women may enjoy mobility while bearing unequal domestic labour; a relationship protected by law can remain socially stigmatised. These are reasons to analyse how power and care are redistributed, not to praise every change or romanticise all tradition. Across communities, classes and generations, marriage can be reinterpreted and its functions rearranged. The qualified judgement is transformation without evidence for a uniform collapse of either the institution or its symbolic value.

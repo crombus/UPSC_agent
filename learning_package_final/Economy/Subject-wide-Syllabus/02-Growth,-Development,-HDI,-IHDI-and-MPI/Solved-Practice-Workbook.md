@@ -4,27 +4,16 @@
 
 ## BASIC MCQS / REMEDIATION
 
-**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers follow `ABCD` repeated eight times. Every option receives a substantive question-specific explanation and every question ends with a unique examiner trap.
+**Practice:** Answer all 32 original questions before consulting the separate explanatory key; the correct positions rotate A → B → C → D.
 
 ### MCQ 1
 
 Which observation is sufficient by itself to establish economic growth in the strict sense?
 
-- A. Nominal GDP rose while the price level also rose
-- B. Real GDP increased over the stated period
+- A. Real GDP increased over the stated period
+- B. Nominal GDP rose while the price level also rose
 - C. The HDI rank improved
 - D. Public social expenditure increased
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Nominal expansion can be entirely price-driven, so it does not establish higher real output.
-- **B - Incorrect:** A rise in real GDP directly records a quantitative expansion of inflation-adjusted output.
-- **C - Incorrect:** HDI rank is a relative human-development position, not a growth measure.
-- **D - Incorrect:** Expenditure is an input and may rise without measured output growth.
-
-**Examiner trap 1:** Growth is established by a real quantity measure, not by a welfare or spending proxy.
 
 ### MCQ 2
 
@@ -34,6 +23,293 @@ Which statement best distinguishes development from growth?
 - B. Development adds structural, distributive, capability and sustainability dimensions to quantitative expansion
 - C. Development is measured only by per-capita GNI
 - D. Development begins only after growth has ended
+
+### MCQ 3
+
+A country records rapid real GDP growth but stagnant employment and widening regional deprivation. The most accurate description is
+
+- A. development without growth
+- B. negative growth with inclusion
+- C. job-poor growth with weak conversion into broad development
+- D. proof that productivity has fallen
+
+### MCQ 4
+
+Which policy package most directly supports sustainable inclusive growth?
+
+- A. Only raising aggregate investment
+- B. Only increasing cash transfers
+- C. Only improving the HDI rank
+- D. Employment-intensive productivity, quality basic services, protection against shocks and ecological resilience
+
+### MCQ 5
+
+How many formal dimensions and component indicators does the HDI have under UNDP's 2025 method?
+
+- A. Three dimensions and four indicators
+- B. Four dimensions and four indicators
+- C. Three dimensions and three indicators
+- D. Four dimensions and five indicators
+
+### MCQ 6
+
+Which is the HDI standard-of-living indicator?
+
+- A. Real GDP per capita at market exchange rates
+- B. GNI per capita in constant 2021 PPP dollars under the 2025 technical note
+- C. Household consumption below a poverty line
+- D. Average household wealth
+
+### MCQ 7
+
+Under the 2025 UNDP technical note, the education index is formed by
+
+- A. multiplying literacy and enrolment rates
+- B. using mean years of schooling alone
+- C. averaging the normalised expected-years and mean-years schooling indices
+- D. taking the geometric mean of school attendance and attainment
+
+### MCQ 8
+
+Why is GNI per capita logarithmically transformed in HDI?
+
+- A. To remove all income inequality
+- B. To convert nominal income into real income
+- C. To make income equal in weight to population
+- D. To reflect diminishing capability gains from additional income
+
+### MCQ 9
+
+Which set gives the 2025 HDI goalposts correctly?
+
+- A. Life expectancy 20-85; EYS 0-18; MYS 0-15; GNIpc 100-75,000 in 2021 PPP dollars
+- B. Life expectancy 0-100; literacy 0-100; GDPpc 0-100,000
+- C. Life expectancy 25-80; EYS 0-15; MYS 0-12; GNIpc 500-50,000
+- D. The goalposts equal the lowest and highest country values each year
+
+### MCQ 10
+
+What does the geometric mean in HDI primarily do?
+
+- A. Makes every dimension perfectly substitutable
+- B. Penalises unbalanced achievement more than a simple arithmetic mean
+- C. Adjusts each dimension for inequality
+- D. Converts GNI into PPP dollars
+
+### MCQ 11
+
+A country improves its HDI value but falls in rank. Which inference is valid?
+
+- A. Its human development necessarily deteriorated
+- B. UNDP changed HDI into MPI
+- C. Other countries or the comparison set may have changed relatively faster
+- D. Its IHDI must have risen
+
+### MCQ 12
+
+Which statement about report year and data year is correct?
+
+- A. They are always identical
+- B. A rank has no publication vintage
+- C. Every component necessarily uses the same survey date
+- D. A report may publish values mainly referring to an earlier reference year, which must be stated
+
+### MCQ 13
+
+What is the IHDI?
+
+- A. HDI after discounting each dimension for inequality
+- B. HDI plus a fourth inequality dimension
+- C. MPI divided by HDI
+- D. A gender-only version of HDI
+
+### MCQ 14
+
+When does IHDI equal HDI?
+
+- A. When income inequality alone is zero
+- B. When there is no inequality across people in all three dimensions
+- C. When MPI is zero
+- D. When a country has very high HDI
+
+### MCQ 15
+
+The proportional loss due to inequality is expressed as
+
+- A. HDI minus MPI
+- B. IHDI divided by MPI
+- C. 1 minus IHDI divided by HDI
+- D. HDI rank minus IHDI rank
+
+### MCQ 16
+
+Which limitation of IHDI is stated by UNDP?
+
+- A. It omits income completely
+- B. It has no health dimension
+- C. It is always greater than HDI
+- D. It is not association-sensitive because dimensions are not jointly observed for each person in one harmonised source
+
+### MCQ 17
+
+Which list contains the global MPI's health indicators?
+
+- A. Nutrition and child mortality
+- B. Nutrition, maternal health and bank account
+- C. Life expectancy and morbidity
+- D. Infant mortality and insurance
+
+### MCQ 18
+
+In the global MPI, each living-standard indicator carries what weight?
+
+- A. One-sixth
+- B. One-eighteenth
+- C. One-third
+- D. One-tenth
+
+### MCQ 19
+
+Under the current global methodology, who is identified as MPI poor?
+
+- A. Anyone deprived in one indicator
+- B. Anyone below a monetary poverty line
+- C. A person in a household deprived in at least one-third of weighted indicators
+- D. Only a person deprived in all three dimensions
+
+### MCQ 20
+
+Which classification is correctly matched in the current global method?
+
+- A. Vulnerable means score below 10 percent
+- B. Severe means score above one-third
+- C. Vulnerable and severe use the same cutoff
+- D. Vulnerable: 20 percent to below one-third; severe: at least 50 percent
+
+### MCQ 21
+
+In MPI notation, incidence H means
+
+- A. The share of the population identified as multidimensionally poor
+- B. The average deprivation score among all households
+- C. The number of indicators in the index
+- D. The HDI loss due to inequality
+
+### MCQ 22
+
+MPI intensity A is
+
+- A. The poverty cutoff
+- B. The average weighted deprivation share among the multidimensionally poor
+- C. The national poverty headcount
+- D. The sum of all uncensored deprivations in the population
+
+### MCQ 23
+
+In a population, H is 0.40 and A is 0.50. The MPI is
+
+- A. 0.90
+- B. 0.45
+- C. 0.20
+- D. 0.10
+
+### MCQ 24
+
+If H falls while A among the remaining poor rises, what can be concluded?
+
+- A. Every poor household improved
+- B. Poverty necessarily worsened
+- C. The MPI must be unchanged
+- D. Fewer people are identified as poor, but those remaining may face more intense deprivation
+
+### MCQ 25
+
+Which institution publishes India's National MPI?
+
+- A. NITI Aayog
+- B. MoSPI alone
+- C. Reserve Bank of India
+- D. Finance Commission
+
+### MCQ 26
+
+Which source periods underpin NITI Aayog's 2023 Progress Review comparison?
+
+- A. Census 2001 and 2011
+- B. NFHS-4 (2015-16) and NFHS-5 (2019-21)
+- C. PLFS 2021-22 and 2022-23
+- D. HDR 2022 and HDR 2023
+
+### MCQ 27
+
+Which pair is added in India's national architecture relative to the global ten-indicator list?
+
+- A. Life expectancy and GNI per capita
+- B. Political participation and safety
+- C. Maternal health and bank account
+- D. Employment and consumption
+
+### MCQ 28
+
+Which national-MPI weighting statement is correct?
+
+- A. All 12 indicators receive one-twelfth
+- B. Health indicators all receive one-ninth
+- C. Living-standard indicators retain one-eighteenth despite adding bank account
+- D. Nutrition is 1/6; child/adolescent mortality and maternal health are 1/12 each; seven living-standard indicators are 1/21 each
+
+### MCQ 29
+
+What did NITI Aayog's 2023 report state for India's MPI headcount comparison?
+
+- A. 24.85 percent in NFHS-4 to 14.96 percent in NFHS-5
+- B. 14.96 percent in 2023 to 11.28 percent in 2026
+- C. 55.3 percent in Census 2011 to 5.3 percent in PLFS 2023
+- D. A current annual estimate with no survey lag
+
+### MCQ 30
+
+Which limitation follows from household-level MPI identification?
+
+- A. It cannot be decomposed by indicator
+- B. It may conceal unequal deprivation among members of the same household
+- C. It uses only income
+- D. It has no poverty cutoff
+
+### MCQ 31
+
+Which inference from rising social-service expenditure is strongest?
+
+- A. Inclusive growth is proven
+- B. HDI must rise by the same percentage
+- C. The spending creates a potential conversion channel whose access, quality and outcomes must be verified
+- D. Inequality has been eliminated
+
+### MCQ 32
+
+Which conclusion best integrates growth, HDI, IHDI and MPI?
+
+- A. Replace GDP entirely with MPI
+- B. Use HDI rank as the sole target
+- C. Treat every index change as causal proof
+- D. Use real growth and jobs for resources, HDI for average achievement, IHDI for distribution and MPI for overlapping deprivation, with dated disaggregation
+
+## ORIGINAL MCQ EXPLANATORY KEY
+
+### MCQ 1 — solution
+
+**Answer: A.**
+
+**Option-specific explanations:**
+
+- **A - Correct:** A rise in real GDP directly records a quantitative expansion of inflation-adjusted output.
+- **B - Incorrect:** Nominal expansion can be entirely price-driven, so it does not establish higher real output.
+- **C - Incorrect:** HDI rank is a relative human-development position, not a growth measure.
+- **D - Incorrect:** Expenditure is an input and may rise without measured output growth.
+
+**Examiner trap 1:** Growth is established by a real quantity measure, not by a welfare or spending proxy.
+
+### MCQ 2 — solution
 
 **Answer: B.**
 
@@ -46,14 +322,7 @@ Which statement best distinguishes development from growth?
 
 **Examiner trap 2:** Do not define development as growth plus any one social indicator.
 
-### MCQ 3
-
-A country records rapid real GDP growth but stagnant employment and widening regional deprivation. The most accurate description is
-
-- A. development without growth
-- B. negative growth with inclusion
-- C. job-poor growth with weak conversion into broad development
-- D. proof that productivity has fallen
+### MCQ 3 — solution
 
 **Answer: C.**
 
@@ -66,14 +335,7 @@ A country records rapid real GDP growth but stagnant employment and widening reg
 
 **Examiner trap 3:** Jobless growth concerns employment transmission, not necessarily absence of productivity.
 
-### MCQ 4
-
-Which policy package most directly supports sustainable inclusive growth?
-
-- A. Only raising aggregate investment
-- B. Only increasing cash transfers
-- C. Only improving the HDI rank
-- D. Employment-intensive productivity, quality basic services, protection against shocks and ecological resilience
+### MCQ 4 — solution
 
 **Answer: D.**
 
@@ -86,14 +348,7 @@ Which policy package most directly supports sustainable inclusive growth?
 
 **Examiner trap 4:** Inclusive growth is both a process of participation and an outcome of shared capability.
 
-### MCQ 5
-
-How many formal dimensions and component indicators does the HDI have under UNDP's 2025 method?
-
-- A. Three dimensions and four indicators
-- B. Four dimensions and four indicators
-- C. Three dimensions and three indicators
-- D. Four dimensions and five indicators
+### MCQ 5 — solution
 
 **Answer: A.**
 
@@ -106,14 +361,7 @@ How many formal dimensions and component indicators does the HDI have under UNDP
 
 **Examiner trap 5:** Do not count two education indicators as two dimensions.
 
-### MCQ 6
-
-Which is the HDI standard-of-living indicator?
-
-- A. Real GDP per capita at market exchange rates
-- B. GNI per capita in constant 2021 PPP dollars under the 2025 technical note
-- C. Household consumption below a poverty line
-- D. Average household wealth
+### MCQ 6 — solution
 
 **Answer: B.**
 
@@ -126,14 +374,7 @@ Which is the HDI standard-of-living indicator?
 
 **Examiner trap 6:** HDI uses GNI, PPP and a dated methodology, not GDP alone.
 
-### MCQ 7
-
-Under the 2025 UNDP technical note, the education index is formed by
-
-- A. multiplying literacy and enrolment rates
-- B. using mean years of schooling alone
-- C. averaging the normalised expected-years and mean-years schooling indices
-- D. taking the geometric mean of school attendance and attainment
+### MCQ 7 — solution
 
 **Answer: C.**
 
@@ -146,14 +387,7 @@ Under the 2025 UNDP technical note, the education index is formed by
 
 **Examiner trap 7:** The final HDI is geometric, but the two education subindices are arithmetically averaged.
 
-### MCQ 8
-
-Why is GNI per capita logarithmically transformed in HDI?
-
-- A. To remove all income inequality
-- B. To convert nominal income into real income
-- C. To make income equal in weight to population
-- D. To reflect diminishing capability gains from additional income
+### MCQ 8 — solution
 
 **Answer: D.**
 
@@ -166,14 +400,7 @@ Why is GNI per capita logarithmically transformed in HDI?
 
 **Examiner trap 8:** The logarithm is about diminishing returns, not inequality adjustment.
 
-### MCQ 9
-
-Which set gives the 2025 HDI goalposts correctly?
-
-- A. Life expectancy 20-85; EYS 0-18; MYS 0-15; GNIpc 100-75,000 in 2021 PPP dollars
-- B. Life expectancy 0-100; literacy 0-100; GDPpc 0-100,000
-- C. Life expectancy 25-80; EYS 0-15; MYS 0-12; GNIpc 500-50,000
-- D. The goalposts equal the lowest and highest country values each year
+### MCQ 9 — solution
 
 **Answer: A.**
 
@@ -186,14 +413,7 @@ Which set gives the 2025 HDI goalposts correctly?
 
 **Examiner trap 9:** Goalposts are methodology-specific; always state the report/technical-note vintage.
 
-### MCQ 10
-
-What does the geometric mean in HDI primarily do?
-
-- A. Makes every dimension perfectly substitutable
-- B. Penalises unbalanced achievement more than a simple arithmetic mean
-- C. Adjusts each dimension for inequality
-- D. Converts GNI into PPP dollars
+### MCQ 10 — solution
 
 **Answer: B.**
 
@@ -206,14 +426,7 @@ What does the geometric mean in HDI primarily do?
 
 **Examiner trap 10:** Geometric aggregation reduces but does not abolish substitutability.
 
-### MCQ 11
-
-A country improves its HDI value but falls in rank. Which inference is valid?
-
-- A. Its human development necessarily deteriorated
-- B. UNDP changed HDI into MPI
-- C. Other countries or the comparison set may have changed relatively faster
-- D. Its IHDI must have risen
+### MCQ 11 — solution
 
 **Answer: C.**
 
@@ -226,14 +439,7 @@ A country improves its HDI value but falls in rank. Which inference is valid?
 
 **Examiner trap 11:** Rank is ordinal and depends on peers, coverage and revisions.
 
-### MCQ 12
-
-Which statement about report year and data year is correct?
-
-- A. They are always identical
-- B. A rank has no publication vintage
-- C. Every component necessarily uses the same survey date
-- D. A report may publish values mainly referring to an earlier reference year, which must be stated
+### MCQ 12 — solution
 
 **Answer: D.**
 
@@ -246,14 +452,7 @@ Which statement about report year and data year is correct?
 
 **Examiner trap 12:** Never call a report-year label the observation year without checking metadata.
 
-### MCQ 13
-
-What is the IHDI?
-
-- A. HDI after discounting each dimension for inequality
-- B. HDI plus a fourth inequality dimension
-- C. MPI divided by HDI
-- D. A gender-only version of HDI
+### MCQ 13 — solution
 
 **Answer: A.**
 
@@ -266,14 +465,7 @@ What is the IHDI?
 
 **Examiner trap 13:** IHDI retains exactly the three HDI dimensions.
 
-### MCQ 14
-
-When does IHDI equal HDI?
-
-- A. When income inequality alone is zero
-- B. When there is no inequality across people in all three dimensions
-- C. When MPI is zero
-- D. When a country has very high HDI
+### MCQ 14 — solution
 
 **Answer: B.**
 
@@ -286,14 +478,7 @@ When does IHDI equal HDI?
 
 **Examiner trap 14:** The equality case is distributional, not a development-category threshold.
 
-### MCQ 15
-
-The proportional loss due to inequality is expressed as
-
-- A. HDI minus MPI
-- B. IHDI divided by MPI
-- C. 1 minus IHDI divided by HDI
-- D. HDI rank minus IHDI rank
+### MCQ 15 — solution
 
 **Answer: C.**
 
@@ -306,14 +491,7 @@ The proportional loss due to inequality is expressed as
 
 **Examiner trap 15:** Do not confuse value loss with rank difference.
 
-### MCQ 16
-
-Which limitation of IHDI is stated by UNDP?
-
-- A. It omits income completely
-- B. It has no health dimension
-- C. It is always greater than HDI
-- D. It is not association-sensitive because dimensions are not jointly observed for each person in one harmonised source
+### MCQ 16 — solution
 
 **Answer: D.**
 
@@ -326,14 +504,7 @@ Which limitation of IHDI is stated by UNDP?
 
 **Examiner trap 16:** IHDI distribution sensitivity is not the same as MPI-style joint deprivation identification.
 
-### MCQ 17
-
-Which list contains the global MPI's health indicators?
-
-- A. Nutrition and child mortality
-- B. Nutrition, maternal health and bank account
-- C. Life expectancy and morbidity
-- D. Infant mortality and insurance
+### MCQ 17 — solution
 
 **Answer: A.**
 
@@ -346,14 +517,7 @@ Which list contains the global MPI's health indicators?
 
 **Examiner trap 17:** Do not import India's added indicators into the global MPI.
 
-### MCQ 18
-
-In the global MPI, each living-standard indicator carries what weight?
-
-- A. One-sixth
-- B. One-eighteenth
-- C. One-third
-- D. One-tenth
+### MCQ 18 — solution
 
 **Answer: B.**
 
@@ -366,14 +530,7 @@ In the global MPI, each living-standard indicator carries what weight?
 
 **Examiner trap 18:** Equal dimensions do not imply equal indicator weights.
 
-### MCQ 19
-
-Under the current global methodology, who is identified as MPI poor?
-
-- A. Anyone deprived in one indicator
-- B. Anyone below a monetary poverty line
-- C. A person in a household deprived in at least one-third of weighted indicators
-- D. Only a person deprived in all three dimensions
+### MCQ 19 — solution
 
 **Answer: C.**
 
@@ -386,14 +543,7 @@ Under the current global methodology, who is identified as MPI poor?
 
 **Examiner trap 19:** The second cutoff applies to the weighted sum, not the raw number of indicators.
 
-### MCQ 20
-
-Which classification is correctly matched in the current global method?
-
-- A. Vulnerable means score below 10 percent
-- B. Severe means score above one-third
-- C. Vulnerable and severe use the same cutoff
-- D. Vulnerable: 20 percent to below one-third; severe: at least 50 percent
+### MCQ 20 — solution
 
 **Answer: D.**
 
@@ -401,19 +551,12 @@ Which classification is correctly matched in the current global method?
 
 - **A - Incorrect:** The vulnerable band begins at one-fifth.
 - **B - Incorrect:** Severe poverty uses a higher one-half threshold.
-- **C - Incorrect:** The categories are distinct.
+- **C - Incorrect:** Vulnerability begins below the poverty cutoff, whereas severe multidimensional poverty begins at a substantially higher deprivation score.
 - **D - Correct:** These are the verified current global thresholds.
 
 **Examiner trap 20:** Thresholds belong to the global method and should not be transferred automatically.
 
-### MCQ 21
-
-In MPI notation, incidence H means
-
-- A. The share of the population identified as multidimensionally poor
-- B. The average deprivation score among all households
-- C. The number of indicators in the index
-- D. The HDI loss due to inequality
+### MCQ 21 — solution
 
 **Answer: A.**
 
@@ -422,18 +565,11 @@ In MPI notation, incidence H means
 - **A - Correct:** H equals q divided by n after applying the poverty cutoff.
 - **B - Incorrect:** A, not H, is the poor's average intensity; averaging all households changes the concept.
 - **C - Incorrect:** Indicator count is part of architecture, not incidence.
-- **D - Incorrect:** HDI loss belongs to IHDI.
+- **D - Incorrect:** A distributional discount from the HDI value is reported by IHDI; it is not the share of people crossing MPI's deprivation cutoff.
 
 **Examiner trap 21:** Monetary headcount and MPI incidence use different identification rules.
 
-### MCQ 22
-
-MPI intensity A is
-
-- A. The poverty cutoff
-- B. The average weighted deprivation share among the multidimensionally poor
-- C. The national poverty headcount
-- D. The sum of all uncensored deprivations in the population
+### MCQ 22 — solution
 
 **Answer: B.**
 
@@ -441,19 +577,12 @@ MPI intensity A is
 
 - **A - Incorrect:** The cutoff identifies poor households but is not A.
 - **B - Correct:** A averages censored deprivation scores over poor people.
-- **C - Incorrect:** H is the headcount ratio.
+- **C - Incorrect:** A monetary or multidimensional headcount refers to incidence H, not the average weighted deprivation *among* those identified as poor.
 - **D - Incorrect:** Aggregation over the full population corresponds to H times A, not A alone.
 
 **Examiner trap 22:** The denominator for A is the poor population.
 
-### MCQ 23
-
-In a population, H is 0.40 and A is 0.50. The MPI is
-
-- A. 0.90
-- B. 0.45
-- C. 0.20
-- D. 0.10
+### MCQ 23 — solution
 
 **Answer: C.**
 
@@ -466,14 +595,7 @@ In a population, H is 0.40 and A is 0.50. The MPI is
 
 **Examiner trap 23:** MPI is a product, so preserve decimal or percentage units consistently.
 
-### MCQ 24
-
-If H falls while A among the remaining poor rises, what can be concluded?
-
-- A. Every poor household improved
-- B. Poverty necessarily worsened
-- C. The MPI must be unchanged
-- D. Fewer people are identified as poor, but those remaining may face more intense deprivation
+### MCQ 24 — solution
 
 **Answer: D.**
 
@@ -486,14 +608,7 @@ If H falls while A among the remaining poor rises, what can be concluded?
 
 **Examiner trap 24:** Report both H and A instead of narrating headcount alone.
 
-### MCQ 25
-
-Which institution publishes India's National MPI?
-
-- A. NITI Aayog
-- B. MoSPI alone
-- C. Reserve Bank of India
-- D. Finance Commission
+### MCQ 25 — solution
 
 **Answer: A.**
 
@@ -506,14 +621,7 @@ Which institution publishes India's National MPI?
 
 **Examiner trap 25:** Publisher, survey producer and technical partner are different roles.
 
-### MCQ 26
-
-Which source periods underpin NITI Aayog's 2023 Progress Review comparison?
-
-- A. Census 2001 and 2011
-- B. NFHS-4 (2015-16) and NFHS-5 (2019-21)
-- C. PLFS 2021-22 and 2022-23
-- D. HDR 2022 and HDR 2023
+### MCQ 26 — solution
 
 **Answer: B.**
 
@@ -526,34 +634,20 @@ Which source periods underpin NITI Aayog's 2023 Progress Review comparison?
 
 **Examiner trap 26:** The report's 2023 release date is not its data period.
 
-### MCQ 27
-
-Which pair is added in India's national architecture relative to the global ten-indicator list?
-
-- A. Life expectancy and GNI per capita
-- B. Political participation and safety
-- C. Maternal health and bank account
-- D. Employment and consumption
+### MCQ 27 — solution
 
 **Answer: C.**
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** These are HDI indicators.
+- **A - Incorrect:** Life expectancy and GNI per capita enter UNDP's HDI; neither is one of the two extra indicators in India's household-based national MPI.
 - **B - Incorrect:** Neither is in the national 12-indicator architecture.
 - **C - Correct:** The national adaptation includes maternal health and bank-account access.
 - **D - Incorrect:** Employment and consumption are important but not the named added indicators.
 
 **Examiner trap 27:** National adaptation changes both the count and some weights.
 
-### MCQ 28
-
-Which national-MPI weighting statement is correct?
-
-- A. All 12 indicators receive one-twelfth
-- B. Health indicators all receive one-ninth
-- C. Living-standard indicators retain one-eighteenth despite adding bank account
-- D. Nutrition is 1/6; child/adolescent mortality and maternal health are 1/12 each; seven living-standard indicators are 1/21 each
+### MCQ 28 — solution
 
 **Answer: D.**
 
@@ -566,14 +660,7 @@ Which national-MPI weighting statement is correct?
 
 **Examiner trap 28:** Do not assume equal-within-dimension weights for India's health dimension.
 
-### MCQ 29
-
-What did NITI Aayog's 2023 report state for India's MPI headcount comparison?
-
-- A. 24.85 percent in NFHS-4 to 14.96 percent in NFHS-5
-- B. 14.96 percent in 2023 to 11.28 percent in 2026
-- C. 55.3 percent in Census 2011 to 5.3 percent in PLFS 2023
-- D. A current annual estimate with no survey lag
+### MCQ 29 — solution
 
 **Answer: A.**
 
@@ -586,14 +673,7 @@ What did NITI Aayog's 2023 report state for India's MPI headcount comparison?
 
 **Examiner trap 29:** Always attach 24.85 and 14.96 to their NFHS periods and the 17 July 2023 report.
 
-### MCQ 30
-
-Which limitation follows from household-level MPI identification?
-
-- A. It cannot be decomposed by indicator
-- B. It may conceal unequal deprivation among members of the same household
-- C. It uses only income
-- D. It has no poverty cutoff
+### MCQ 30 — solution
 
 **Answer: B.**
 
@@ -606,14 +686,7 @@ Which limitation follows from household-level MPI identification?
 
 **Examiner trap 30:** Household targeting convenience comes with intra-household blindness.
 
-### MCQ 31
-
-Which inference from rising social-service expenditure is strongest?
-
-- A. Inclusive growth is proven
-- B. HDI must rise by the same percentage
-- C. The spending creates a potential conversion channel whose access, quality and outcomes must be verified
-- D. Inequality has been eliminated
+### MCQ 31 — solution
 
 **Answer: C.**
 
@@ -626,14 +699,7 @@ Which inference from rising social-service expenditure is strongest?
 
 **Examiner trap 31:** Budgetary input, service output and human outcome are separate stages.
 
-### MCQ 32
-
-Which conclusion best integrates growth, HDI, IHDI and MPI?
-
-- A. Replace GDP entirely with MPI
-- B. Use HDI rank as the sole target
-- C. Treat every index change as causal proof
-- D. Use real growth and jobs for resources, HDI for average achievement, IHDI for distribution and MPI for overlapping deprivation, with dated disaggregation
+### MCQ 32 — solution
 
 **Answer: D.**
 
@@ -650,7 +716,7 @@ Which conclusion best integrates growth, HDI, IHDI and MPI?
 
 ### VERIFIED PYQ ROUTES AND KEY DISCIPLINE
 
-The following demands are verified through repository routing and locally held official papers where available. No final official/local answer key or official model answer is available for these entries, so no answer is inferred.
+The objective demands are retained from repository routing and locally held papers where available. Their final official objective keys have not been verified here; no final objective answer is inferred. UPSC does not issue official model answers for descriptive Mains questions; the solutions below are original practice models, not official keys.
 
 #### PYQ 1 - UPSC Prelims GS-I 2018, Q48
 
@@ -674,19 +740,19 @@ Answer withheld pending official UPSC key.
 
 **Verified routed demand:** Analyse the incidence and intensity of poverty in comparison with income-based poverty measurement. **15 marks, 250 words.**
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** Incidence asks *how many* people are below the poverty threshold; intensity asks *how far* deprivation extends among them. An income/consumption poverty headcount identifies the share below a monetary line but, by itself, cannot reveal whether households lack nutrition, schooling and sanitation simultaneously. Nor does it disclose the monetary poverty gap without a separate calculation. In the Alkire–Foster MPI, weighted indicator deprivations are summed for each household; people in households reaching the specified deprivation cutoff are counted as poor. `H = poor population / total population` measures incidence, while `A = average weighted deprivation score among the poor` measures intensity; `MPI = H × A`. If H falls but A rises, the remaining poor face deeper overlapping deprivation, so a headcount-only victory would be incomplete. India's National MPI can locate deficits by district and indicator for service delivery. However, survey lags, cutoff and weight choices, and household-level classification limit interpretation. Monetary poverty still captures purchasing-power shortfall: use both measures, along with subgroup evidence, rather than equating either with total well-being.
 
 #### PYQ 5 - UPSC Mains GS-III 2024, Q1
 
 **Official locally verified wording:** "Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what extent this has been in consonance with achieving the objective of inclusive growth?" **10 marks, 150 words.**
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** Post-reform social-service expenditure on education, health and other welfare services expanded in absolute terms as public budgets grew, with state governments central to provision. But amounts alone do not establish a steady increase in their share of GDP or prove improved outcomes: compare consistent Centre-and-State series, real per-capita spending, distribution, utilisation and service quality before asserting a trend. Spending on schools, public health, nutrition and basic services can translate growth into capabilities and reduce barriers to participation, especially for disadvantaged regions and households. This accords with inclusive growth to the extent that outlays reach those facing the greatest deprivation and yield learning, health and employment gains. Persistent gaps in access, unequal state capacity, vacancies and out-of-pocket costs weaken that conversion. India should assess not only allocations but district-level delivery and disaggregated outcomes, using MPI, learning and health indicators alongside jobs and income. Thus the direction of social spending supports inclusion, but its composition and effectiveness determine whether the objective is achieved.
 
 #### PYQ 6 - UPSC Mains GS-III 2025, Q1
 
 **Official locally verified wording:** "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth?" **10 marks, 150 words.**
 
-Answer withheld pending official UPSC key.
+**Original model answer (not an official UPSC key):** HDI combines average achievements in life expectancy, education and GNI per capita, using the geometric mean of the three dimension indices. IHDI adjusts each dimension for inequality before taking its geometric mean; it equals HDI under equality and falls below it as distribution becomes more unequal. The proportional loss is `1 − IHDI/HDI`. For India, a rising national HDI can coexist with large disparities by region, gender or social group. IHDI therefore tests whether health, schooling and income gains are widely shared rather than merely raising national averages, making it more informative for inclusive growth. However, neither index directly measures job quality, political participation or ecological costs, and IHDI does not capture whether disadvantages in the three dimensions coincide within the same individual. Read HDI with IHDI, the national MPI and disaggregated employment and service indicators before declaring growth inclusive.
 
 #### PYQ 7 - UPSC Prelims GS-I 2026, Q100
 

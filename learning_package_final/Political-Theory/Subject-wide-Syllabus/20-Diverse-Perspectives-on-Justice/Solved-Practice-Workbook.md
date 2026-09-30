@@ -16,722 +16,652 @@ generated_on: 2026-09-10
 
 - Attempt Questions 1-24 as hard core diagnostics and Questions 25-32 as remedial traps.
 - Record the reason for eliminating each wrong option before reading the four option-specific explanations.
-- The key is a fixed `A -> B -> C -> D` rotation; cover it while attempting, because the rotation is a production standard and must never replace elimination reasoning.
+- The key follows `A -> B -> C -> D`; consult it only after attempting all prompts. Rotation is an editorial constraint, not a substitute for elimination.
 - For Mains, write within the stated GS ceiling: 150 words for 10 marks and 250 words for 15 marks.
-- No direct owned Topic 20 Prelims/GS Mains PYQ is verified; no question owned by another UPSC paper is imported or relabelled.
-- The generic 20-mark optional-style model is N/A here: Political Theory is a UPSC Prelims and General Studies Mains foundation, not an optional paper.
+- No directly owned Topic 20 Prelims/GS Mains PYQ is verified. Six independently solved Philosophy Optional Paper II questions below are explicitly cross-applied and retain their primary ownership.
+- The cross-applied 20-mark Philosophy PYQs retain their original marks; the six separately labelled original GS models retain GS 10-/15-mark ceilings.
 
 ## BASIC MCQS / REMEDIATION
 
 ### Practice design
 
-- Questions 1-24 are hard core GS/Prelims diagnostics; Questions 25-32 are remedial close-option repairs.
-- Formats are deliberately varied: definition control, multi-statement, sequence, matching, chronology, elimination, application, evidence and inference.
-- The correct option rotates strictly `A -> B -> C -> D`, repeated eight times across the 32 questions, giving 8 A, 8 B, 8 C and 8 D.
-- Because the key is a fixed rotation it carries no diagnostic value: options are matched for register and length, so an answer can only be reached by reasoning about content.
-- Each of the 128 options carries its own question-specific explanation and each question closes with a distinct examiner trap.
+Questions 1–24 probe competing theories, mechanisms, applications and objections; 25–32 repair close-option errors. Attempt every prompt before the separate matching key. Four option-specific reasons and a distinctive trap accompany each key; the answer position cycles A → B → C → D.
 
 ### MCQ 1
 
-Which proposition is correctly associated with **Answer:**?
+Rawls permits specialist salary inequalities. What else must be secured?
 
-- A. Rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-- B. legitimate government is limited mainly to protection, enforcement and rectification rather than patterned redistribution.
-- C. Sen and Nussbaum shift attention from resources held to real freedoms and functionings; this is a supplementary extension.
-- D. Fraser's recognition framework asks whether persons can interact as peers across distribution, status and representation.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Correct attachment: the source records this exact proposition - rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-- **B:** B Wrong attachment: legitimate government is limited mainly to protection, enforcement and rectification rather than patterned is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Source disagrees: sen and Nussbaum shift attention from resources held to real freedoms and functionings; this is a is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Misplaced: fraser's recognition framework asks whether persons can interact as peers across distribution, status and is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify Rawls's distributive object by a neighbouring proposition merely because both occur in the same topic.
-
----
+- A. Fair access to specialist posts
+- B. Identical salaries
+- C. Proven historic land title
+- D. Unlimited aggregate wealth
 
 ### MCQ 2
 
-Which of the following pairs a name or concept with the proposition the source actually records for it?
+What is Rawls’s veil of ignorance?
 
-- A. The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers.
-- B. Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-- C. Communitarian idea that persons discover themselves within social roles, traditions and shared ends, not in abstraction from them.
-- D. Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Wrong attachment: the condition in which parties lack knowledge of their particular wants, talents, class position and other is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B This is the recorded association: the source records this exact proposition - rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-- **C:** C Misplaced: communitarian idea that persons discover themselves within social roles, traditions and shared ends, not in is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Belongs elsewhere: rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify Rawls's hypothetical starting point where rational by a neighbouring proposition merely because both occur in the same topic; here the tested item is Rawls's hypothetical starting point where rational.
-
----
+- A. A voluntary transfer
+- B. Ignorance of one’s actual class and talents when choosing principles
+- C. A statistical poll of preferences
+- D. A real elected convention
 
 ### MCQ 3
 
-In which pair does the proposition genuinely belong to the label placed against it?
+Identical textbooks are unusable by a pupil with visual impairment. Which test probes this?
 
-- A. Communitarian idea that persons discover themselves within social roles, traditions and shared ends, not in abstraction from them.
-- B. Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-- C. The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers.
-- D. Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Source disagrees: communitarian idea that persons discover themselves within social roles, traditions and shared ends, not in is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B Misplaced: rawls's hypothetical starting point where rational persons choose principles of justice without knowing their is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Matches the record: the source records this exact proposition - the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers.
-- **D:** D Cross-attached: rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify The condition in which parties lack knowledge of their by a neighbouring proposition merely because both occur in the same topic; here the tested item is The condition in which parties lack knowledge of their.
-
----
+- A. Nozick’s gift history
+- B. Equal primary goods guarantee learning
+- C. Sen’s real capabilities
+- D. Walzer’s political sphere
 
 ### MCQ 4
 
-Only one pairing below reproduces the source's own association. Which is it?
+What does Nozick’s Wilt Chamberlain illustration challenge?
 
-- A. appropriation of an indispensable resource shows that initial acquisition is not morally unlimited.
-- B. anarchist justice prefers decentralised association, mutual aid and consent to coercive hierarchy.
-- C. Rawls's rule that inequality is just only if it brings the greatest benefit to the least advantaged.
-- D. Rawls's first principle: each person has an equal claim to the most extensive compatible liberty.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: appropriation of an indispensable resource shows that initial acquisition is not morally unlimited is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B Belongs elsewhere: anarchist justice prefers decentralised association, mutual aid and consent to coercive hierarchy is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Cross-attached: rawls's rule that inequality is just only if it brings the greatest benefit to the least advantaged is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Exact pair: the source records this exact proposition - rawls's first principle: each person has an equal claim to the most extensive compatible liberty.
-
-> **Examiner trap:** Do not identify Rawls's first principle by a neighbouring proposition merely because both occur in the same topic; here the tested item is Rawls's first principle.
-
----
+- A. All later sales repair initial theft
+- B. Every salary difference proves coercion
+- C. Any redistribution is already a fan’s gift
+- D. Fixed patterns can be upset by legitimate voluntary exchange
 
 ### MCQ 5
 
-Identify the pair in which the recorded proposition matches its label exactly.
+What constrains appropriation of the sole drinking-water source even for Nozick?
 
-- A. Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality.
-- B. Nozick's view that holdings are just if they arise from just acquisition, voluntary transfer and, where needed, rectification.
-- C. Rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-- D. Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Matches the record: the source records this exact proposition - rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality.
-- **B:** B Cross-attached: nozick's view that holdings are just if they arise from just acquisition, voluntary transfer and, where is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Mismatched: rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Not this pair: rawls's hypothetical starting point where rational persons choose principles of justice without knowing their is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify Rawls's second-stage rule that offices and positions by a neighbouring proposition merely because both occur in the same topic; here the tested item is Rawls's second-stage rule that offices and positions.
-
----
+- A. Lockean proviso and rectification
+- B. Rawls’s difference principle alone
+- C. All private use is forbidden
+- D. Any later signed sale suffices
 
 ### MCQ 6
 
-Which one of the following label-proposition pairings survives a strict source check?
+Why does a Marxist resist treating higher wages as complete justice?
 
-- A. anarchist justice prefers decentralised association, mutual aid and consent to coercive hierarchy.
-- B. Rawls's rule that inequality is just only if it brings the greatest benefit to the least advantaged.
-- C. injustice in acquisition or transfer must be corrected before present holdings can count as entitled.
-- D. appropriation of an indispensable resource shows that initial acquisition is not morally unlimited.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Cross-attached: anarchist justice prefers decentralised association, mutual aid and consent to coercive hierarchy is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B Exact pair: the source records this exact proposition - rawls's rule that inequality is just only if it brings the greatest benefit to the least advantaged.
-- **C:** C Not this pair: injustice in acquisition or transfer must be corrected before present holdings can count as entitled is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Wrong attachment: appropriation of an indispensable resource shows that initial acquisition is not morally unlimited is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify Rawls's rule that inequality is just only if it brings by a neighbouring proposition merely because both occur in the same topic; here the tested item is Rawls's rule that inequality is just only if it brings.
-
----
+- A. Every market price is identical
+- B. Capital may still appropriate labour-created surplus
+- C. Personal possessions must be confiscated
+- D. Wages alone remove capitalist property
 
 ### MCQ 7
 
-Which pairing below would a careful source check leave standing?
+Which policy best fits democratic socialism?
 
-- A. Rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-- B. Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality.
-- C. Nozick's view that holdings are just if they arise from just acquisition, voluntary transfer and, where needed, rectification.
-- D. Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Mismatched: rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B Not this pair: rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Source-exact: the source records this exact proposition - nozick's view that holdings are just if they arise from just acquisition, voluntary transfer and, where needed, rectification.
-- **D:** D Source disagrees: rawls's hypothetical starting point where rational persons choose principles of justice without knowing their is recorded elsewhere in the topic, so it is not the association the stem asks about.
-
-> **Examiner trap:** Do not identify Nozick's view that holdings are just if they arise from by a neighbouring proposition merely because both occur in the same topic; here the tested item is Nozick's view that holdings are just if they arise from.
-
----
+- A. A minimal contract-only state
+- B. Confiscation of all personal goods
+- C. Public services and partial socialisation with civil liberties
+- D. One-party dictatorship until class abolition
 
 ### MCQ 8
 
-Which of these attributions is reproduced correctly rather than shifted to a neighbouring idea?
+What reservation does Gauba make about Marxist emancipation?
 
-- A. Rawls's first principle: each person has an equal claim to the most extensive compatible liberty.
-- B. justice must protect the dignity, agency and fair reward of structurally subordinated groups.
-- C. one social good, especially money, should not purchase dominance across all other spheres.
-- D. persons possess rights over themselves that constrain how others and the state may use them.
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: rawls's first principle: each person has an equal claim to the most extensive compatible liberty is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **B:** B Wrong attachment: justice must protect the dignity, agency and fair reward of structurally subordinated groups is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **C:** C Source disagrees: one social good, especially money, should not purchase dominance across all other spheres is recorded elsewhere in the topic, so it is not the association the stem asks about.
-- **D:** D Faithful pairing: the source records this exact proposition - persons possess rights over themselves that constrain how others and the state may use them.
-
-> **Examiner trap:** Do not identify persons possess rights over themselves that constrain how by a neighbouring proposition merely because both occur in the same topic; here the tested item is persons possess rights over themselves that constrain how.
-
----
+- A. Nationalisation makes abuse impossible
+- B. Marxist critique contains no account of exploitation
+- C. Communist distribution rests only on market rank
+- D. Bureaucratic domination may survive abolition of capitalist ownership
 
 ### MCQ 9
 
-Which thinker/concept–proposition pair is correctly matched?
+Who favours voluntary federations and mutual aid against coercive state hierarchy?
 
-- A. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- D. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Misplaced: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **B:** B Source disagrees: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Wrong attachment: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **D:** D Belongs elsewhere: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-
-> **Examiner trap:** Keep the exact proposition attached to Veil of ignorance - Rawls's first principle: each person has an equal claim to; nearby thinkers may address the same debate from a different mechanism.
-
----
+- A. Anarchist streams
+- B. Nozick
+- C. Laski
+- D. Rawls
 
 ### MCQ 10
 
-Which thinker/concept-proposition pair is correctly matched?
+Why should Gandhi and Bakunin not be treated as identical anarchists?
 
-- A. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- B. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-- C. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- D. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Source disagrees: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **B:** B Cross-attached: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-- **C:** C Belongs elsewhere: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **D:** D Misplaced: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-
-> **Examiner trap:** Keep the exact proposition attached to Equal basic liberties - Rawls's second-stage rule that offices and positions; nearby thinkers may address the same debate from a different mechanism; here the tested item is Equal basic liberties.
-
----
+- A. Neither criticises central authority
+- B. They share anti-domination yet differ in moral method
+- C. Both defend Nozickian titles
+- D. Both advocate identical violence
 
 ### MCQ 11
 
-Which pair keeps the proposition with the name or concept the source attaches it to?
+What challenges gender-blind workplace rules?
 
-- A. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- D. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Cross-attached: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **B:** B Belongs elsewhere: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Misplaced: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **D:** D Mismatched: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-
-> **Examiner trap:** Keep the exact proposition attached to Primary goods - Rawls's hypothetical starting point where rational persons; nearby thinkers may address the same debate from a different mechanism; here the tested item is Primary goods.
-
----
+- A. Only wage equality matters
+- B. All maternity accommodation is inequality
+- C. Effective rights may require caregiving support and voice
+- D. Uniform rules cure all caregiving disadvantages
 
 ### MCQ 12
 
-Which pairing is exact, rather than borrowed from an adjacent part of the same topic?
+An elite calls the silence of underpaid workers “free consent”. Which critique probes it?
 
-- A. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-- D. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Belongs elsewhere: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **B:** B Cross-attached: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Not this pair: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-- **D:** D Mismatched: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-
-> **Examiner trap:** Keep the exact proposition attached to Veil of ignorance - Rawls's first principle: each person has an equal claim to; nearby thinkers may address the same debate from a different mechanism; here the tested item is Veil of ignorance.
-
----
+- A. Nozick’s transfer criterion
+- B. Rawls’s hypothetical veil
+- C. Walzer’s simple equality
+- D. Gramscian hegemony
 
 ### MCQ 13
 
-One pairing below is faithful to the source. Which one?
+A donor buys priority medical care ahead of urgent patients. Walzer objects because?
 
-- A. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- D. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Cross-attached: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **B:** B Mismatched: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Not this pair: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **D:** D Wrong attachment: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-
-> **Examiner trap:** Keep the exact proposition attached to Primary goods - Rawls's hypothetical starting point where rational persons; nearby thinkers may address the same debate from a different mechanism; tested item 2: Primary goods - Rawls's hypothetical starting point where rational per.
-
----
+- A. Money should not buy control of medical allocation
+- B. Every allocation rule is forbidden
+- C. Only original ownership of money matters
+- D. All patients must receive the same medicine
 
 ### MCQ 14
 
-Which label-proposition pair would not be corrected by the source text?
+Which pairing of communitarian thinkers is accurate?
 
-- A. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- D. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Mismatched: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **B:** B Not this pair: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Wrong attachment: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **D:** D Source disagrees: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-
-> **Examiner trap:** Keep the exact proposition attached to Original position - The condition in which parties lack knowledge of their; nearby thinkers may address the same debate from a different mechanism; here the tested item is Original position.
-
----
+- A. Walzer—one merit metric for all goods
+- B. MacIntyre—tradition and virtue; Taylor—social identity
+- C. Rawls—fixed inherited communal identity
+- D. Sandel—just acquisition
 
 ### MCQ 15
 
-Which of the following associations is reproduced exactly as recorded?
+How can a Rawlsian income-raising rule fail justice?
 
-- A. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- D. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Not this pair: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-- **B:** B Wrong attachment: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Source disagrees: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **D:** D Misplaced: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-
-> **Examiner trap:** Keep the exact proposition attached to Veil of ignorance - Rawls's first principle: each person has an equal claim to; nearby thinkers may address the same debate from a different mechanism; tested item 2: Veil of ignorance - Rawls's first principle: each person has an equal.
-
----
+- A. Present consent settles title
+- B. Higher aggregate income cancels liberty priority
+- C. Fair opportunity to earn the rewarded salary is absent
+- D. Any income gap is forbidden
 
 ### MCQ 16
 
-Which pair matches its proposition without drifting to a related concept?
+Stolen land passes through three voluntary sales. What question survives for Nozick?
 
-- A. Equal basic liberties — Rawls's second-stage rule that offices and positions should be open on genuinely fair terms, not merely formal legal equality. (PDF p.448)
-- B. Original position — The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447)
-- C. Veil of ignorance — Rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448)
-- D. Primary goods — Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447)
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Belongs elsewhere: Equal basic liberties is recorded with rawls's first principle: each person has an equal claim to the most extensive compatible liberty. (PDF p.448).
-- **B:** B Source disagrees: Original position is recorded with rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place. (PDF p.447).
-- **C:** C Misplaced: Veil of ignorance is recorded with the condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers. (PDF p.447).
-- **D:** D Wrong attachment: Primary goods is recorded with rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect. (PDF p.447).
-
-> **Examiner trap:** Keep the exact proposition attached to Primary goods - Rawls's hypothetical starting point where rational persons; nearby thinkers may address the same debate from a different mechanism; tested item 3: Primary goods - Rawls's hypothetical starting point where rational per.
-
----
+- A. Are current holdings numerically equal?
+- B. Are all later buyers of one community?
+- C. Did Rawls’s veil approve the sale?
+- D. Is rectification owed for the original wrong?
 
 ### MCQ 17
 
-Consider the following statements:
-1. **Answer:** is associated with: justice must protect the dignity, agency and fair reward of structurally subordinated groups.
-2. **Answer:** is associated with: status subordination or public devaluation can remain unjust even when some material redistribution occurs.
-Which option is correct?
+Where does democratic socialism diverge from revolutionary centralism?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with 1 only does not validate the second pairing.
-
----
+- A. Plural-party freedoms and mixed property remain
+- B. Economic inequality becomes irrelevant
+- C. Permanent private domination is the Marxist ideal
+- D. Only Marxism supports public health
 
 ### MCQ 18
 
-Consider the following statements:
-1. **Answer:** is associated with: Gauba's explanatory image stresses social interdependence but does not replace Rawls's two principles or their priority.
-2. **Answer:** is associated with: Gauba's explanatory image stresses social interdependence but does not replace Rawls's two principles or their priority.
-Which option is correct?
+Which objection presses voluntary local associations as total substitute for state regulation?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with 2 only does not validate the second pairing; here the tested item is 2 only.
-
----
+- A. Mutual aid is impossible
+- B. Internal power and large-scale coordination need safeguards
+- C. Every small group guarantees nondomination
+- D. Decentralised groups are already the state
 
 ### MCQ 19
 
-Consider the following statements:
-1. **Answer:** is associated with: Communitarian idea that persons discover themselves within social roles, traditions and shared ends, not in abstraction from them.
-2. **Answer:** is associated with: Sen and Nussbaum shift attention from resources held to real freedoms and functionings; this is a supplementary extension.
-Which option is correct?
+What does Gramsci add to income-only subaltern analysis?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Both 1 and 2 does not validate the second pairing; here the tested item is Both 1 and 2.
-
----
+- A. Elites alone possess agency
+- B. Every apparent consent proves freedom
+- C. Elite interests may appear as universal common sense
+- D. All economic exploitation is imaginary
 
 ### MCQ 20
 
-Consider the following statements:
-1. **Answer:** is associated with: Fraser's recognition framework asks whether persons can interact as peers across distribution, status and representation.
-2. **Answer:** is associated with: The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers.
-Which option is correct?
+Which is a communitarian critique of Rawls?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Neither 1 nor 2 does not validate the second pairing; here the tested item is Neither 1 nor 2.
-
----
+- A. Title history needs rectification
+- B. Labour’s surplus is appropriated
+- C. Welfare always violates self-ownership
+- D. The unencumbered chooser neglects socially constituted ends
 
 ### MCQ 21
 
-Consider the following statements:
-1. **Answer:** is associated with: Gauba's explanatory image stresses social interdependence but does not replace Rawls's two principles or their priority.
-2. **Answer:** is associated with: Rawls's first principle: each person has an equal claim to the most extensive compatible liberty.
-Which option is correct?
+How should Fraser’s framework be cited in this topic?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is incorrect. Therefore '1 only' is correct.
-- **B:** B Statement 1 is correct; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is correct; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with 1 only does not validate the second pairing; here the tested item is 1 only.
-
----
+- A. As a separately sourced extension to feminist and subaltern concerns
+- B. As denying the need for resources
+- C. As Gramsci’s own mature parity formula
+- D. As Gauba’s own eighth doctrine
 
 ### MCQ 22
 
-Consider the following statements:
-1. **Answer:** is associated with: Rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-2. **Answer:** is associated with: Rawls's distributive object: rights, liberties, powers, opportunities, income, wealth and the social bases of self-respect.
-Which option is correct?
+A woman owns land on paper but cannot decide its use. What is missing?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is correct. Therefore '2 only' is correct.
-- **C:** C Statement 1 is incorrect; Statement 2 is correct. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with 2 only does not validate the second pairing; tested item 2: 2 only.
-
----
+- A. Only a Walzerian health allocation
+- B. Gendered and subaltern status may defeat effective agency
+- C. Higher aggregate GDP validates exclusion
+- D. Nothing; formal title is sufficient
 
 ### MCQ 23
 
-Consider the following statements:
-1. **Answer:** is associated with: Fraser's recognition framework asks whether persons can interact as peers across distribution, status and representation.
-2. **Answer:** is associated with: Rawls's hypothetical starting point where rational persons choose principles of justice without knowing their actual social place.
-Which option is correct?
+Which assertion about Rawls’s primary goods is inaccurate?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is correct; Statement 2 is correct. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is correct; Statement 2 is correct. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is correct; Statement 2 is correct. Therefore 'Both 1 and 2' is correct.
-- **D:** D Statement 1 is correct; Statement 2 is correct. Therefore 'Neither 1 nor 2' is not the right combination.
-
-> **Examiner trap:** Test each statement independently; familiarity with Both 1 and 2 does not validate the second pairing; tested item 2: Both 1 and 2.
-
----
+- A. They include social bases of self-respect
+- B. They concern a just basic structure
+- C. They guarantee identical achieved health for everyone
+- D. They include opportunities
 
 ### MCQ 24
 
-Consider the following statements:
-1. **Answer:** is associated with: The condition in which parties lack knowledge of their particular wants, talents, class position and other discriminatory markers.
-2. **Answer:** is associated with: Nozick's view that holdings are just if they arise from just acquisition, voluntary transfer and, where needed, rectification.
-Which option is correct?
+Which perspective Gauba calls attractive but reliant on funding and civic commitment?
 
-- A. 1 only
-- B. 2 only
-- C. Both 1 and 2
-- D. Neither 1 nor 2
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Statement 1 is incorrect; Statement 2 is incorrect. Therefore '1 only' is not the right combination.
-- **B:** B Statement 1 is incorrect; Statement 2 is incorrect. Therefore '2 only' is not the right combination.
-- **C:** C Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Both 1 and 2' is not the right combination.
-- **D:** D Statement 1 is incorrect; Statement 2 is incorrect. Therefore 'Neither 1 nor 2' is correct.
-
-> **Examiner trap:** Test each statement independently; familiarity with Neither 1 nor 2 does not validate the second pairing; tested item 2: Neither 1 nor 2.
-
----
+- A. Nozick’s minimalism demanding total nationalisation
+- B. Anarchism committed to central ministries
+- C. Marxism committed to permanent party pluralism
+- D. Democratic socialism
 
 ### MCQ 25 — REMEDIAL
 
-Which correction is most defensible for the claim: **Rawls wants identical outcomes for all.**?
+REMEDIAL: How many formal Rawls principles underlie Gauba’s three-step exposition?
 
-- A. Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
-- B. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
-- C. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
-- D. The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473)
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448).
-- **B:** B Repairs a different misconception, 'Nozick is anti-justice.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Feminism only demands that women be treated exactly like men in every situation.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Communitarian criticism means justice should give way to blind conformity.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Rawls wants identical outcomes for all, not a different error from the same topic.
-
----
+- A. Two: liberty, then opportunity and difference
+- B. Only the difference principle
+- C. None because the veil is unreal
+- D. Three independent equal-ranked principles
 
 ### MCQ 26 — REMEDIAL
 
-Which correction is most defensible for the claim: **The difference principle alone is enough to justify an inequality.**?
+REMEDIAL: Does Nozickian self-ownership cancel rectification?
 
-- A. The transfer must rest on just title;
-- B. Equal basic liberties and
-- C. It explicitly insists on freedom of thought.
-- D. Rawls permits inequality after liberty and fair.
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Any voluntary market transfer is just for Nozick.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: Equal basic liberties and.
-- **C:** C Repairs a different misconception, 'Democratic socialism is just Marxism without elections.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about The difference principle alone is enough to justify, not a different error from the same topic.
-
----
+- A. Yes, if one recent transfer was voluntary
+- B. No; unjust acquisition and transfer can call for correction
+- C. No; because Rawls’s difference test governs title
+- D. Yes, all current holdings are valid
 
 ### MCQ 27 — REMEDIAL
 
-Which correction is most defensible for the claim: **Nozick is anti-justice.**?
+REMEDIAL: Why may a wage increase leave Marxist objections intact?
 
-- A. The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473)
-- B. Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
-- C. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
-- D. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Communitarian criticism means justice should give way to blind conformity.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452).
-- **D:** D Repairs a different misconception, 'Feminism only demands that women be treated exactly like men in every situation.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Nozick is anti-justice, not a different error from the same topic.
-
----
+- A. It eliminates every power hierarchy
+- B. Exploitation is never about surplus
+- C. Private capital may still appropriate the workers’ surplus
+- D. It transfers factories to workers automatically
 
 ### MCQ 28 — REMEDIAL
 
-Which correction is most defensible for the claim: **Any voluntary market transfer is just for Nozick.**?
+REMEDIAL: Is maternity accommodation necessarily anti-feminist?
 
-- A. Equal basic liberties and
-- B. Rawls permits inequality after liberty and fair opportunity.
-- C. It explicitly insists on freedom of thought.
-- D. The transfer must rest on just title;
-
-**Answer: D**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'The difference principle alone is enough to justify an inequality.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Democratic socialism is just Marxism without elections.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: The transfer must rest on just title;.
-
-> **Examiner trap:** Repair the exact overstatement about Any voluntary market transfer is just for Nozick, not a different error from the same topic.
-
----
+- A. Yes, all differentiated rules are invalid
+- B. Yes, care must always remain private
+- C. No, because women must be barred from all risky work
+- D. No, if it corrects burdens without occupational stereotyping
 
 ### MCQ 29 — REMEDIAL
 
-Which correction is most defensible for the claim: **Marxism has nothing to do with justice.**?
+REMEDIAL: Would Walzer require identical care regardless of medical need?
 
-- A. Gauba says that would be too strong, because Marx condemns exploitation and endorses superior distributive principles in a classless order. (PDF p.453)
-- B. The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473); this option treats that proposition as the decisive account.
-- C. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468); the rival mechanism is treated as non-decisive in this account.
-- D. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452); this formulation is presented as sufficient for the classification.
-
-**Answer: A**
-
-**Option-by-option explanation**
-- **A:** A Directly repairs the stated misconception: Gauba says that would be too strong, because Marx condemns exploitation and endorses superior distributive principles in a classless order. (PDF p.453).
-- **B:** B Repairs a different misconception, 'Communitarian criticism means justice should give way to blind conformity.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Feminism only demands that women be treated exactly like men in every situation.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Nozick is anti-justice.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Marxism has nothing to do with justice, not a different error from the same topic.
-
----
+- A. No; medical need can matter and wealth must not buy priority
+- B. Yes, health care is only a market commodity
+- C. No, because inherited land titles determine urgency
+- D. Yes, one formula governs every social good
 
 ### MCQ 30 — REMEDIAL
 
-Which correction is most defensible for the claim: **Democratic socialism is just Marxism without elections.**?
+REMEDIAL: Is democratic socialism one-party Marxism?
 
-- A. Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
-- B. It explicitly insists on freedom of thought, multi-party competition and opposition rights. (PDF pp.460-461)
-- C. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
-- D. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
-
-**Answer: B**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-- **B:** B Directly repairs the stated misconception: It explicitly insists on freedom of thought, multi-party competition and opposition rights. (PDF pp.460-461).
-- **C:** C Repairs a different misconception, 'Nozick is anti-justice.', so it does not answer the claim in the stem.
-- **D:** D Repairs a different misconception, 'Feminism only demands that women be treated exactly like men in every situation.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Democratic socialism is just Marxism without elections, not a different error from the same topic.
-
----
+- A. Yes, mixed ownership is prohibited
+- B. No, welfare coexists with plural parties and contestation
+- C. No, because it abolishes all state authority
+- D. Yes, civil liberties are its enemy
 
 ### MCQ 31 — REMEDIAL
 
-Which correction is most defensible for the claim: **Feminism only demands that women be treated exactly like men in every situation.**?
+REMEDIAL: Which answer respects feminist and subaltern agency?
 
-- A. The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473)
-- B. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
-- C. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
-- D. Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
-
-**Answer: C**
-
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Communitarian criticism means justice should give way to blind conformity.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Nozick is anti-justice.', so it does not answer the claim in the stem.
-- **C:** C Directly repairs the stated misconception: Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468).
-- **D:** D Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-
-> **Examiner trap:** Repair the exact overstatement about Feminism only demands that women be treated exactly, not a different error from the same topic.
-
----
+- A. Class alone exhausts gendered subordination
+- B. Elite hegemony means subordinate groups cannot act
+- C. Assess resources, status and self-representation together
+- D. Formal rights end all hierarchy
 
 ### MCQ 32 — REMEDIAL
 
-Which correction is most defensible for the claim: **Communitarian criticism means justice should give way to blind conformity.**?
+REMEDIAL: A supposed Nozickian defends any current ownership simply because no new theft occurred. What was omitted?
 
-- A. Rawls permits inequality after liberty and fair opportunity, provided it benefits the least advantaged. (PDF p.448)
-- B. Gauba also notes claims for maternity benefits and compensatory support rooted in actual disadvantage. (PDF pp.466-468)
-- C. Nozick proposes a full theory of justice, but one centred on entitlement rather than redistribution. (PDF pp.451-452)
-- D. The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473)
+- A. The least-advantaged income ranking
+- B. Universal sphere-specific medical need
+- C. The abolition of every protective institution
+- D. Historical acquisition and rectification
 
-**Answer: D**
+### MATCHING KEY — CONSULT ONLY AFTER ALL PROMPTS
 
-**Option-by-option explanation**
-- **A:** A Repairs a different misconception, 'Rawls wants identical outcomes for all.', so it does not answer the claim in the stem.
-- **B:** B Repairs a different misconception, 'Feminism only demands that women be treated exactly like men in every situation.', so it does not answer the claim in the stem.
-- **C:** C Repairs a different misconception, 'Nozick is anti-justice.', so it does not answer the claim in the stem.
-- **D:** D Directly repairs the stated misconception: The criticism is directed at the abstract self and ethical neutrality, not at the very idea of justice. (PDF pp.469-473).
+#### MCQ 1 — A
 
-> **Examiner trap:** Repair the exact overstatement about Communitarian criticism means justice should give, not a different error from the same topic.
+- **A:** Correct: opportunity precedes the difference test.
+- **B:** Rawls allows constrained inequality.
+- **C:** Nozick asks about acquisition history.
+- **D:** Basic liberties take priority.
 
----
+> **Examiner trap:** Benefit alone cannot excuse unfair opportunity.
+
+#### MCQ 2 — B
+
+- **A:** That belongs to entitlement theory.
+- **B:** Correct: bargaining advantage is removed.
+- **C:** The veil models fairness, not current preferences.
+- **D:** The device is hypothetical.
+
+> **Examiner trap:** Gauba’s three teaching steps are two canonical principles.
+
+#### MCQ 3 — C
+
+- **A:** A valid gift need not be usable.
+- **B:** Conversion from means to outcome can vary.
+- **C:** Correct: actual usable freedom is the concern.
+- **D:** This is about usable learning rather than bought office.
+
+> **Examiner trap:** Sen is supplementary, not quoted from Gauba Ch.20.
+
+#### MCQ 4 — D
+
+- **A:** Rectification remains necessary.
+- **B:** Inequality alone cannot prove coercion.
+- **C:** The example is a challenge to patterned allocation.
+- **D:** Correct, assuming just initial title.
+
+> **Examiner trap:** The illustration presumes just initial entitlement.
+
+#### MCQ 5 — A
+
+- **A:** Correct: others must not be worsened without redress.
+- **B:** That is another theory’s pattern.
+- **C:** The proviso constrains harmful appropriation.
+- **D:** Initial acquisition must also pass a test.
+
+> **Examiner trap:** Acquisition is not an optional element of Nozick’s theory.
+
+#### MCQ 6 — B
+
+- **A:** This does not describe surplus extraction.
+- **B:** Correct: unjust production relations can persist.
+- **C:** Personal property differs from productive capital.
+- **D:** Ownership can remain unchanged.
+
+> **Examiner trap:** Redistribution does not necessarily end exploitation.
+
+#### MCQ 7 — C
+
+- **A:** Welfare services are supported.
+- **B:** Mixed property is possible.
+- **C:** Correct: constitutional politics matters.
+- **D:** Opposition rights are protected.
+
+> **Examiner trap:** Partial socialisation does not equal revolutionary monopoly.
+
+#### MCQ 8 — D
+
+- **A:** State power can concentrate.
+- **B:** Exploitation is central.
+- **C:** The eventual principle is need.
+- **D:** Correct: power can re-form.
+
+> **Examiner trap:** Withering away is an aim rather than an observed guarantee.
+
+#### MCQ 9 — A
+
+- **A:** Correct: anti-domination and voluntary cooperation recur.
+- **B:** He retains a minimal protective state.
+- **C:** Democratic socialism retains public welfare institutions.
+- **D:** He specifies just basic institutions.
+
+> **Examiner trap:** Do not attribute identical methods to all anarchists.
+
+#### MCQ 10 — B
+
+- **A:** Both interrogate domination.
+- **B:** Correct: family resemblance is not identity.
+- **C:** Their accounts of property differ.
+- **D:** Gandhi rejects violent means.
+
+> **Examiner trap:** Common ends do not prove common means.
+
+#### MCQ 11 — C
+
+- **A:** Representation and agency also matter.
+- **B:** Remedial support can enable equality.
+- **C:** Correct: formal rights are not sufficient.
+- **D:** Formal sameness can reproduce burdens.
+
+> **Examiner trap:** Accommodation must not entrench restrictive stereotypes.
+
+#### MCQ 12 — D
+
+- **A:** Silence cannot prove just acquisition.
+- **B:** It does not describe real worker consent.
+- **C:** He rejects one universal metric.
+- **D:** Correct: domination can shape common sense.
+
+> **Examiner trap:** Hegemony does not make subaltern agency impossible.
+
+#### MCQ 13 — A
+
+- **A:** Correct: one sphere should not dominate another.
+- **B:** Sphere-specific reasons can govern.
+- **C:** Cross-sphere conversion is at issue.
+- **D:** Clinical needs differ.
+
+> **Examiner trap:** Complex equality is not identical shares.
+
+#### MCQ 14 — B
+
+- **A:** He defends differentiated spheres.
+- **B:** Correct: both stress embeddedness.
+- **C:** He models impartial choice behind a veil.
+- **D:** That is Nozickian.
+
+> **Examiner trap:** These thinkers still disagree on institutional prescriptions.
+
+#### MCQ 15 — C
+
+- **A:** This belongs to a distinct historical test.
+- **B:** Equal liberty cannot be bargained away.
+- **C:** Correct: opportunity takes priority.
+- **D:** Qualified inequality is permissible.
+
+> **Examiner trap:** The difference principle alone never legitimates a rule.
+
+#### MCQ 16 — D
+
+- **A:** End-state equality is not his criterion.
+- **B:** Group label alone cannot prove title.
+- **C:** The veil is another thinker’s choice device.
+- **D:** Correct: historical title matters.
+
+> **Examiner trap:** Consent cannot cleanse defective acquisition.
+
+#### MCQ 17 — A
+
+- **A:** Correct: constitutional method is central.
+- **B:** Welfare addresses deprivation.
+- **C:** Marxism contests capitalist property.
+- **D:** Both can support provision.
+
+> **Examiner trap:** It is not just revolutionary socialism with elections added.
+
+#### MCQ 18 — B
+
+- **A:** Mutual aid exists but may be insufficient.
+- **B:** Correct: feasibility is the issue.
+- **C:** Local elites may dominate.
+- **D:** They can be autonomous.
+
+> **Examiner trap:** Anti-state theory must answer internal coercion too.
+
+#### MCQ 19 — C
+
+- **A:** Subaltern organisation remains possible.
+- **B:** Hegemony shapes consent.
+- **C:** Correct: cultural power maintains rule.
+- **D:** Material extraction remains relevant.
+
+> **Examiner trap:** Absence of overt force does not validate hierarchy.
+
+#### MCQ 20 — D
+
+- **A:** That is Nozickian.
+- **B:** That is Marxist.
+- **C:** That is libertarian.
+- **D:** Correct: persons are situated.
+
+> **Examiner trap:** Embedded identity cannot license suppression of dissent.
+
+#### MCQ 21 — A
+
+- **A:** Correct: recognition vocabulary is supplementary.
+- **B:** Redistribution remains central.
+- **C:** Distinct authors should not be conflated.
+- **D:** His eighth stream is communitarian.
+
+> **Examiner trap:** Do not backdate later terminology into the book.
+
+#### MCQ 22 — B
+
+- **A:** The problem is power over property.
+- **B:** Correct: legal rights need practical voice.
+- **C:** Neither agency nor liberty may be traded away.
+- **D:** Control and agency may still be restricted.
+
+> **Examiner trap:** Ownership and actual decision-making can diverge.
+
+#### MCQ 23 — C
+
+- **A:** These matter to his metric.
+- **B:** His principles govern institutions.
+- **C:** Correctly rejected: goods are means, not guaranteed functionings.
+- **D:** Rawls lists them.
+
+> **Examiner trap:** Resources and capabilities are not interchangeable.
+
+#### MCQ 24 — D
+
+- **A:** Nozick prizes private title.
+- **B:** Anarchism challenges centralized state power.
+- **C:** That is the democratic-socialist contrast.
+- **D:** Correct: provision and democracy require resources and public opinion.
+
+> **Examiner trap:** Moral appeal is not institutional feasibility.
+
+#### MCQ 25 — A
+
+- **A:** Correct: opportunity precedes the difference test.
+- **B:** Liberty and fair opportunity are missing.
+- **C:** Hypothetical choice still yields principles.
+- **D:** Opportunity and difference belong to second.
+
+> **Examiner trap:** Pedagogic stages do not change formal principle count.
+
+#### MCQ 26 — B
+
+- **A:** The initial title can remain defective.
+- **B:** Correct: rectification is foundational.
+- **C:** Nozick contests that standard.
+- **D:** Acquisition may be unjust.
+
+> **Examiner trap:** Anti-welfare patterning does not equal indifference to theft.
+
+#### MCQ 27 — C
+
+- **A:** One raise cannot establish that.
+- **B:** Surplus extraction is central.
+- **C:** Correct: production structure matters.
+- **D:** Wage and title differ.
+
+> **Examiner trap:** Do not equate wage level with ownership of production.
+
+#### MCQ 28 — D
+
+- **A:** Gauba lists maternity support.
+- **B:** Public remedies can be justified.
+- **C:** Paternalistic exclusion weakens agency.
+- **D:** Correct: effective equality may need support.
+
+> **Examiner trap:** Test unintended effects of protective laws.
+
+#### MCQ 29 — A
+
+- **A:** Correct: prevent cross-sphere domination.
+- **B:** He contests the money nexus.
+- **C:** Property history does not establish clinical need.
+- **D:** Different spheres carry different meanings.
+
+> **Examiner trap:** Complex equality does not prohibit justified differential treatment.
+
+#### MCQ 30 — B
+
+- **A:** Partial socialisation is compatible.
+- **B:** Correct: democratic method differentiates it.
+- **C:** That resembles anarchist ideals.
+- **D:** They are constitutive.
+
+> **Examiner trap:** Democracy is not a cosmetic label in this theory.
+
+#### MCQ 31 — C
+
+- **A:** Distinct patriarchal mechanisms remain.
+- **B:** Agency and resistance remain possible.
+- **C:** Correct: avoid paternalistic ventriloquism.
+- **D:** Institutional barriers can persist.
+
+> **Examiner trap:** Structural diagnosis must not erase political voice.
+
+#### MCQ 32 — D
+
+- **A:** That is Rawlsian, not Nozickian.
+- **B:** That belongs to Walzer.
+- **C:** Nozick retains a minimal protective state.
+- **D:** Correct: past wrongdoing survives later peace.
+
+> **Examiner trap:** Past dispossession cannot be ignored because the latest transaction was peaceful.
 
 ## PYQS AND ANSWER PRACTICE
 
 ### VERIFIED UPSC PRELIMS / GS MAINS PYQ STATUS
 
-No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Diverse Perspectives on Justice** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Questions owned by another UPSC paper are not imported. The six questions below are clearly labelled original GS Mains practice.
+No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Diverse Perspectives on Justice** in the repository's routed ledgers. Political Theory is a GS/Prelims conceptual-support subject, and proxy, alias or synthetic PYQ ownership is prohibited. Six cross-applied Philosophy Optional Paper II questions are independently solved below without relabelling their primary ownership. The separate six GS Mains questions are original practice.
+
+### VERIFIED CROSS-APPLIED PHILOSOPHY OPTIONAL PAPER II PYQS — INDEPENDENT SOLUTIONS
+
+Provenance: `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`; primary owner **Social and Political Ideals**. These exact ledger prompts are cross-applied here, **not** Political Theory-owned or GS Mains PYQs. No objective official answer letter is assigned.
+
+#### 2019 Philosophy Optional Paper II — 10 marks (cross-applied)
+
+**Verified prompt:** “How far do you think John Rawls is continuing with Plato's concept of justice?”
+
+**Independent model solution:** Rawls continues Plato’s ambition to make justice the organising virtue of political institutions, but not Plato’s substantive hierarchy. In Plato’s Republic, a just city orders functional classes under rational rule: each performs its role, producing harmony. Rawls likewise rejects justice as the accidental sum of preferences and asks for a coherent institutional order. However, his original position prevents inherited advantage from setting the rules. Equal basic liberties, fair opportunity and the difference principle protect free and equal citizens, not permanently ranked functional classes. In India, rejection of caste-linked occupational exclusion illustrates why fair institutions cannot simply repeat inherited roles. One might say Plato’s ordered whole anticipates Rawls’s just basic structure; Plato, however, does not require Rawls’s priority of equal liberty or his benefit test for the least advantaged. The continuity is in the public ambition of justice, not its criteria of membership and distribution.
+
+---
+
+#### 2021 Philosophy Optional Paper II — 10 marks (cross-applied)
+
+**Verified prompt:** “Discuss critically the distributive theory of justice as propounded by R. Nozick.”
+
+**Independent model solution:** Nozick judges holdings historically rather than by an equal end-state. Just holdings arise through acquisition subject to a Lockean proviso, voluntary transfer from valid title, or rectification of earlier wrongdoing. His Wilt Chamberlain example shows that freely bought tickets may disrupt any favoured distributive pattern without fresh injustice. A minimal protective state secures persons against force, theft and fraud; compulsory patterned redistribution risks violating self-ownership. Yet rectification itself requires the history of existing holdings to be examined. An Indian landholding traceable to dispossession cannot be validated solely by its latest consensual sale. Severe background poverty may also render formal consent an incomplete moral defence. Conversely, egalitarian redistribution without regard to agency can disregard legitimate title. Nozick thus supplies a stringent test of coercion and historical wrong but leaves large-scale rectification and structural disadvantage under-specified.
+
+---
+
+#### 2021 Philosophy Optional Paper II — 20 marks (cross-applied)
+
+**Verified prompt:** “Discuss whether Amartya Sen's idea of justice is an improvement upon Rawl's theory of justice.”
+
+**Independent model solution:** Whether Sen improves Rawls depends on the measure: richer information about real freedom or more determinate principles for a just basic structure. Rawls’s hypothetical original position selects two priority-ordered principles: equal basic liberties, then fair opportunity and the difference principle. Primary goods include rights, opportunities, income and social bases of self-respect. Sen replies that equal goods need not yield equal capabilities: disability, gendered burdens and exclusion affect conversion into actual functioning. An Indian school may admit every pupil on identical terms while lacking accessible classrooms. Sen’s comparative method identifies remediable injustice through public reasoning without first reaching consensus on a perfectly just society. This improves Rawls’s informational space and the practical urgency of justice. Yet Sen does not abolish the need for durable institutions. Constitutional liberties, fair selection rules and transparent administration can protect capabilities against arbitrary power; Sen offers no complete replacement blueprint for the basic structure. Nor can a resource metric alone determine whether people can learn, travel or participate. A fair verdict is conditional: Sen advances the assessment of lived freedom and immediate reform, while Rawls remains valuable for institutional priorities. Their methods are complementary in some applications, but not theoretically identical.
+
+---
+
+#### 2022 Philosophy Optional Paper II — 15 marks (cross-applied)
+
+**Verified prompt:** “Explain the difference between the notion of equity and equality with reference to Marxian philosophy.”
+
+**Independent model solution:** Equality can mean identical legal entitlements or equal shares; equity assesses treatment in the light of relevant needs and unequal starting circumstances. Marxian analysis warns that an equal formal rule of capitalist exchange can hide unequal control of productive property: labour creates surplus appropriated by capital. An equal percentage wage increase might leave that relationship intact. Marx also notes that even a lower phase of communist distribution according to labour contributed can yield unequal real outcomes for persons with different capacities and family needs. The higher-phase ideal of distribution according to need requires transformed productive conditions; it cannot be imposed as an immediate formula on every existing society. Indian access to formally open employment despite inherited assetlessness illustrates the gap between equal rules and equitable opportunity. A critic worries that need-based allocation may invite bureaucratic arbitrariness or disincentives. Marxian equity therefore calls for changing productive power and attending to need, while non-arbitrary procedure remains indispensable.
+
+---
+
+#### 2023 Philosophy Optional Paper II — 10 marks (cross-applied)
+
+**Verified prompt:** “What is meant by justice as fairness? Explain Rawls' theory of justice.”
+
+**Independent model solution:** Justice as fairness means principles for society’s basic structure should be chosen under conditions free from bargaining advantage. Rawls models this through an original position: behind a veil of ignorance, parties cannot exploit knowledge of class, talents or social location. His first principle protects equal basic liberties. The second requires fair equality of opportunity before the difference principle permits inequalities benefiting the least advantaged. Basic liberty cannot be traded for higher total income; an income benefit cannot excuse blocked access to offices. In India, formally open school admission without disability access illustrates why opportunity needs more than identical rules. The approach rejects sacrificing a minority for aggregate utility. Sen nevertheless asks whether primary goods yield usable freedoms; Nozick asks whether holdings have legitimate histories. Rawls offers ordered institutional standards, not an instruction to equalise everyone’s income.
+
+---
+
+#### 2025 Philosophy Optional Paper II — 20 marks (cross-applied)
+
+**Verified prompt:** “How are both equality and liberty inadequate as social and political ideals without justice? Discuss.”
+
+**Independent model solution:** Liberty asks what one may do; equality asks how persons stand relative to one another. Neither alone settles which differences or restrictions are defensible. Justice provides the ordering principles. Unlimited contractual freedom can favour an employer over a worker without alternatives; equal legal treatment may leave radically unequal preparation and property untouched. Barker argues that liberty must be equal and regulated, with equality qualified by fraternity toward weaker persons. Rawls operationalises part of this demand through priority for equal basic liberties, genuinely fair opportunity and inequalities benefiting the least advantaged. Nozick responds that patterned redistribution may wrong those with legitimate historical title; his acquisition and rectification tests preserve a question about past injustice. Marxist analysis examines surplus appropriation despite formally equal contract; feminist and subaltern approaches expose status and voice injuries that aggregate shares conceal. In India, formally equal admission to inaccessible schools illustrates why legal equality may not confer effective freedom. But substantive ends cannot justify arbitrary administration, denied dissent or paternalistic replacement of group agency. Legal justice protects impartiality, political justice protects criticism, and socio-economic justice protects the conditions for using rights. Thus justice does not replace liberty and equality: it decides their limits, reconciles their tensions and demands institutions answerable to those they affect.
+
+---
 
 ### ORIGINAL GS MAINS PRACTICE WITH MODEL SOLUTIONS
 
@@ -739,13 +669,13 @@ No direct owned UPSC Prelims or General Studies Mains PYQ is verified for **Dive
 
 **Question:** Distinguish Rawls's difference principle from Nozick's entitlement theory. Answer in 150 words.
 
-**Demand decode:** the directive `distinguish` requires the answer to fix each side of the distinction precisely and show where it does the analytical work. Fix the boundary of rawls's difference principle from Nozick's entitlement theory in the opening line, carry the argument on Introduction, Rawls's, Nozick's and Rawls, and reserve the closing sentences for the qualification that conclusion: Rawls and Nozick disagree not merely over equality but over what makes a holding just: fair institutions ordered to the least advantaged versus historically valid title constrained by rectification.
+**Demand decode:** Distinguish Rawls’s priority-ordered institutional test from Nozick’s historical title test; concede each objection.
 
-**Model answer (150 words):**
+**Model answer (142 words):**
 
-Introduction: Rawls's difference principle and Nozick's entitlement theory answer inequality through rival moral tests. Rawls judges institutions by fairness to the least advantaged, while Nozick judges holdings by their history. Core analysis: For Rawls, equal basic liberties come first, fair equality of opportunity comes next, and only then may inequalities stand if they improve the position of the least advantaged. Nozick rejects such patterned assessment. He asks whether holdings arose through just acquisition, voluntary transfer and rectification of past injustice under a minimal protective state. Rawls therefore evaluates the basic structure prospectively; Nozick evaluates titles historically. Critical evaluation: Each theory exposes the other's blind spot. Rawls risks underplaying title and incentive, while Nozick leaves structural inequality and rectification seriously under-specified. Conclusion: Rawls and Nozick disagree not merely over equality but over what makes a holding just: fair institutions ordered to the least advantaged versus historically valid title constrained by rectification.
+Rawls's difference principle and Nozick's entitlement theory answer inequality through rival moral tests. Rawls judges institutions by fairness to the least advantaged, while Nozick judges holdings by their history. For Rawls, equal basic liberties come first, fair equality of opportunity comes next, and only then may inequalities stand if they improve the position of the least advantaged. Nozick rejects such patterned assessment. He asks whether holdings arose through just acquisition, voluntary transfer and rectification of past injustice under a minimal protective state. An Indian disputed land title illustrates the historical test. Each theory exposes the other's blind spot. Rawls risks underplaying title and incentive, while Nozick leaves structural inequality and rectification seriously under-specified. Rawls and Nozick disagree not merely over equality but over what makes a holding just: fair institutions ordered to the least advantaged versus historically valid title constrained by rectification.
 
-**Why this earns marks:** it obeys `distinguish` instead of drifting into description, attaches each claim to named evidence (Introduction, Rawls's, Nozick's and Rawls), converts that evidence into analysis of rawls's difference principle from Nozick's entitlement theory, and keeps the examiner-facing qualification that conclusion: Rawls and Nozick disagree not merely over equality but over what makes a holding just: fair institutions ordered to the least advantaged versus historically valid title constrained by rectification. At 150 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 1.
 
 ---
 
@@ -753,13 +683,13 @@ Introduction: Rawls's difference principle and Nozick's entitlement theory answe
 
 **Question:** Why is Walzer's complex equality not simple levelling? Answer in 150 words.
 
-**Demand decode:** the directive `why` requires the answer to give the grounds, not only the description, and rank them. Fix the boundary of is Walzer's complex equality not simple levelling in the opening line, carry the argument on Introduction, Walzer's, Core and Different, and reserve the closing sentences for the qualification that conclusion: Walzer's point is not that every sphere must yield identical shares, but that money or power must not buy dominance across unlike goods with distinct social meanings.
+**Demand decode:** Explain sphere-specific meanings and why preventing conversion differs from equalising all shares.
 
-**Model answer (144 words):**
+**Model answer (142 words):**
 
-Introduction: Walzer's complex equality is not a call for identical shares of every good. It is a doctrine about protecting distinct social spheres from illegitimate conversion by money or power. Core analysis: Different goods carry different social meanings and should be distributed for different reasons. Political office should not be bought like a commodity, education should not simply follow wealth, and health care should not be reduced to market purchasing power. Simple equality would try to flatten all holdings by one metric. Walzer's alternative is to prevent dominance: advantage in one sphere must not automatically command superiority in another. It explains what should not dominate, yet says less about the precise machinery that secures those boundaries. Conclusion: Walzer's point is not that every sphere must yield identical shares, but that money or power must not buy dominance across unlike goods with distinct social meanings.
+Walzer's complex equality is not a call for identical shares of every good. It is a doctrine about protecting distinct social spheres from illegitimate conversion by money or power. Different goods carry different social meanings and should be distributed for different reasons. In India, political office should not be bought like a commodity, education should not simply follow wealth, and health care should not be reduced to market purchasing power. Simple equality would try to flatten all holdings by one metric. Walzer's alternative is to prevent dominance: advantage in one sphere must not automatically command superiority in another. It explains what should not dominate, yet says less about the precise machinery that secures those boundaries. Walzer's point is not that every sphere must yield identical shares, but that money or power must not buy dominance across unlike goods with distinct social meanings.
 
-**Why this earns marks:** it obeys `why` instead of drifting into description, attaches each claim to named evidence (Introduction, Walzer's, Core and Different), converts that evidence into analysis of is Walzer's complex equality not simple levelling, and keeps the examiner-facing qualification that conclusion: Walzer's point is not that every sphere must yield identical shares, but that money or power must not buy dominance across unlike goods with distinct social meanings. At 144 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 2.
 
 ---
 
@@ -767,13 +697,13 @@ Introduction: Walzer's complex equality is not a call for identical shares of ev
 
 **Question:** Compare feminist and subaltern critiques of distributive justice. Answer in 150 words.
 
-**Demand decode:** the directive `compare` requires the answer to run the comparison on shared axes and end with the decisive difference. Fix the boundary of feminist and subaltern critiques of distributive justice in the opening line, carry the argument on Introduction, Feminist, Core and Gauba's, and reserve the closing sentences for the qualification that conclusion: Feminist and subaltern critiques deepen distributive justice by showing that formally neutral rules can preserve hierarchy unless power, voice and status injury are made part of the analysis.
+**Demand decode:** Compare gendered exclusion with subaltern hegemony using the common axes of power, voice and remedy.
 
-**Model answer (142 words):**
+**Model answer (141 words):**
 
-Introduction: Feminist and subaltern critiques challenge justice theories that examine only formal rules or market shares. Both argue that persons enter institutions already marked by hierarchy. Core analysis: Feminist justice shows that equal treatment is inadequate where gendered burdens structure education, property, representation and bodily security. Gauba's own account allows corrective support, not mere identical treatment. Subaltern justice shifts attention to groups whose labour and contribution are undervalued because elite rule and hegemonic narratives make subordination appear natural or consensual. Both critiques therefore widen justice beyond contract and exchange toward power, dignity and voice. Feminist analysis begins from patriarchy and gendered exclusion, whereas subaltern analysis centres structurally marginal agency, hegemony and elite-centred history. Conclusion: Feminist and subaltern critiques deepen distributive justice by showing that formally neutral rules can preserve hierarchy unless power, voice and status injury are made part of the analysis.
+Feminist and subaltern critiques challenge justice theories that examine only formal rules or market shares. Both argue that persons enter institutions already marked by hierarchy. Feminist justice shows that equal treatment is inadequate where gendered burdens structure education, property, representation and bodily security. Indian maternity support illustrates why Gauba allows corrective help, not merely identical treatment. Subaltern justice shifts attention to groups whose labour and contribution are undervalued because elite rule and hegemonic narratives make subordination appear natural or consensual. Both critiques therefore widen justice beyond contract and exchange toward power, dignity and voice. Feminist analysis begins from patriarchy and gendered exclusion, whereas subaltern analysis centres structurally marginal agency, hegemony and elite-centred history. Feminist and subaltern critiques deepen distributive justice by showing that formally neutral rules can preserve hierarchy unless power, voice and status injury are made part of the analysis.
 
-**Why this earns marks:** it obeys `compare` instead of drifting into description, attaches each claim to named evidence (Introduction, Feminist, Core and Gauba's), converts that evidence into analysis of feminist and subaltern critiques of distributive justice, and keeps the examiner-facing qualification that conclusion: Feminist and subaltern critiques deepen distributive justice by showing that formally neutral rules can preserve hierarchy unless power, voice and status injury are made part of the analysis. At 142 words it stays inside the 150-word GS ceiling for 10 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 3.
 
 ---
 
@@ -781,13 +711,13 @@ Introduction: Feminist and subaltern critiques challenge justice theories that e
 
 **Question:** Does Sen improve Rawls, or mainly change the metric of justice? Answer in 250 words.
 
-**Demand decode:** the directive `discuss` requires the answer to open the competing dimensions and adjudicate between them instead of listing them. Fix the boundary of sen improve Rawls, or mainly change the metric of justice in the opening line, carry the argument on Introduction, Sen's, Rawls and He, and reserve the closing sentences for the qualification that conclusion: Sen improves Rawls most clearly by shifting justice from the distribution of primary goods to the comparison of real freedoms, yet he supplements rather than abolishes the need for institutional principles.
+**Demand decode:** Evaluate Sen’s informational improvement against Rawls’s institutional determinacy; reach a conditional verdict.
 
-**Model answer (231 words):**
+**Model answer (220 words):**
 
-Introduction: Sen's intervention is best read as a reorientation of justice rather than a simple rejection of Rawls. He asks how far institutions enlarge actual capabilities in lived conditions. Core analysis: Rawls distributes primary goods through principles chosen in the original position for a fair basic structure. Sen argues that equal resources or primary goods can still leave persons unequally free because disability, gendered burdens and social location affect conversion into real functionings. He therefore shifts attention from ideal design to comparative judgment, remediable injustice and public reasoning about what people are actually able to be and do. The metric changes from goods held to freedoms realised. Further development: The key issue is the criterion of improvement. If justice is judged by real freedom and removal of manifest injustice, Sen clearly advances beyond Rawlsian primary goods. If justice also requires a stable ordering of institutions, liberties and offices, Sen supplements rather than supersedes Rawls. A good answer therefore separates metric, method and institutional determinacy before giving its verdict. Critical evaluation: Rawls nevertheless retains an advantage in institutional specification. Sen improves the informational space of justice, but deliberately under-specifies a final set of principles for a fully just basic structure. Conclusion: Sen improves Rawls most clearly by shifting justice from the distribution of primary goods to the comparison of real freedoms, yet he supplements rather than abolishes the need for institutional principles.
+Sen's intervention is best read as a reorientation of justice rather than a simple rejection of Rawls. He asks how far institutions enlarge actual capabilities in lived conditions. Rawls distributes primary goods through principles chosen in the original position for a fair basic structure. Sen argues that equal resources or primary goods can still leave persons unequally free because disability, gendered burdens and social location affect conversion into real functionings. He therefore shifts attention from ideal design to comparative judgment, remediable injustice and public reasoning about what people are actually able to be and do. In India, disability access to formally open schools illustrates unequal conversion; the metric changes from goods held to freedoms realised. The key issue is the criterion of improvement. If justice is judged by real freedom and removal of manifest injustice, Sen clearly advances beyond Rawlsian primary goods. If justice also requires a stable ordering of institutions, liberties and offices, Sen supplements rather than supersedes Rawls. Rawls nevertheless retains an advantage in institutional specification. Sen improves the informational space of justice, but deliberately under-specifies a final set of principles for a fully just basic structure. Sen improves Rawls most clearly by shifting justice from the distribution of primary goods to the comparison of real freedoms, yet he supplements rather than abolishes the need for institutional principles.
 
-**Why this earns marks:** it obeys `discuss` instead of drifting into description, attaches each claim to named evidence (Introduction, Sen's, Rawls and He), converts that evidence into analysis of sen improve Rawls, or mainly change the metric of justice, and keeps the examiner-facing qualification that conclusion: Sen improves Rawls most clearly by shifting justice from the distribution of primary goods to the comparison of real freedoms, yet he supplements rather than abolishes the need for institutional principles. At 231 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 4.
 
 ---
 
@@ -795,13 +725,13 @@ Introduction: Sen's intervention is best read as a reorientation of justice rath
 
 **Question:** Can justice be exhausted by redistribution? Discuss with Rawls, Fraser and Ambedkarian/subaltern implications. Answer in 250 words.
 
-**Demand decode:** the directive `can` requires the answer to state the conditions under which the claim holds and where they fail. Fix the boundary of justice be exhausted by redistribution? Discuss with Rawls, Fraser and Ambedkarian/subaltern implications in the opening line, carry the argument on Introduction, Core, Rawls and Fraser's, and reserve the closing sentences for the qualification that conclusion: Justice cannot be exhausted by redistribution because status subordination and exclusion from rule-making persist even when transfers occur;.
+**Demand decode:** Discuss what redistribution misses in recognition and representation; distinguish Fraser’s extension from Gauba’s text.
 
-**Model answer (237 words):**
+**Model answer (188 words):**
 
-Introduction: A purely redistributive account captures only one family of injustice. The justice debate widens once unequal status and exclusion from rule-making are recognised as independent political wrongs. Core analysis: Rawls remains indispensable because he shows why liberties, opportunity and the position of the least advantaged matter to institutional fairness. Yet redistribution alone cannot explain cases where a group remains stigmatised, unheard or publicly devalued even after material transfers occur. Fraser's parity-of-participation bridge therefore adds recognition and representation to distribution. Ambedkarian and subaltern implications, kept as cross-routes rather than proxy ownership, reinforce the point: graded status, hegemony and monopolised voice cannot be repaired by income measures alone. Further development: The temporal and democratic dimensions sharpen the argument further. Recognition without representation lets elites speak for the injured, while redistribution without recognition may leave the public meaning of inferiority untouched. At the forward boundary, debates on democratisation, democratic backsliding and social movements belong to Topic 23; Topic 20 should only supply the justice standards later used to judge those processes. Critical evaluation: Once justice expands beyond redistribution, new problems arise. Duty-bearers must be specified, remedies must remain reviewable, and not every status injury warrants the same institutional response. Otherwise the cure can become paternal or rhetorically expansive without administrative discipline. Conclusion: Justice cannot be exhausted by redistribution because status subordination and exclusion from rule-making persist even when transfers occur; a defensible answer therefore joins resources, recognition and representation.
+A purely redistributive account captures only one family of injustice. The justice debate widens once unequal status and exclusion from rule-making are recognised as independent political wrongs. Rawls remains indispensable because he shows why liberties, opportunity and the position of the least advantaged matter to institutional fairness. Yet redistribution alone cannot explain cases where a group remains stigmatised, unheard or publicly devalued even after material transfers occur. Fraser's parity-of-participation bridge therefore adds recognition and representation to distribution. Indian caste exclusion illustrates why Ambedkarian and subaltern cross-routes reinforce the point: graded status, hegemony and monopolised voice cannot be repaired by income measures alone. Recognition without representation lets elites speak for the injured, while redistribution without recognition may leave the public meaning of inferiority untouched. Once justice expands beyond redistribution, new problems arise. Duty-bearers must be specified, remedies must remain reviewable, and not every status injury warrants the same institutional response. Otherwise the cure can become paternal or rhetorically expansive without administrative discipline. Justice cannot be exhausted by redistribution because status subordination and exclusion from rule-making persist even when transfers occur; a defensible answer therefore joins resources, recognition and representation.
 
-**Why this earns marks:** it obeys `can` instead of drifting into description, attaches each claim to named evidence (Introduction, Core, Rawls and Fraser's), converts that evidence into analysis of justice be exhausted by redistribution? Discuss with Rawls, Fraser and Ambedkarian/subaltern implications, and keeps the examiner-facing qualification that conclusion: Justice cannot be exhausted by redistribution because status subordination and exclusion from rule-making persist even when transfers occur;. At 237 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 5.
 
 ---
 
@@ -809,12 +739,12 @@ Introduction: A purely redistributive account captures only one family of injust
 
 **Question:** Evaluate whether democratic socialism is the strongest correction to both libertarianism and Marxist centralism. Answer in 250 words.
 
-**Demand decode:** the directive `evaluate` requires the answer to apply a stated criterion and give a graded verdict, not a summary. Fix the boundary of whether democratic socialism is the strongest correction to both libertarianism and Marxist centralism in the opening line, carry the argument on Introduction, Democratic, Marxist and Core, and reserve the closing sentences for the qualification that conclusion: Democratic socialism is strongest when it corrects market privilege and Marxist authoritarian risk together, but it remains convincing only if welfare, liberty and democratic accountability are kept institutionally connected.
+**Demand decode:** Evaluate welfare, plural freedoms, feasibility and the libertarian and Marxist objections.
 
-**Model answer (239 words):**
+**Model answer (201 words):**
 
-Introduction: Democratic socialism presents itself as a middle route between libertarian minimalism and Marxist centralism. It keeps social justice as a public aim while rejecting dictatorship and unregulated market title. Core analysis: Against libertarianism, democratic socialism argues that formal liberty without welfare, public services and fair life-chances entrenches privilege. Against Marxist centralism, it argues that social ownership or regulation must coexist with freedom of thought, party competition, opposition rights and civil liberties. Gauba's account treats it as a constitutional and welfare-oriented correction: partial socialisation, public services and democratic procedure rather than revolutionary monopoly power. Further development: The decisive test is democratic durability. Democratic socialism must fund welfare without administrative arbitrariness, protect labour without silencing opposition, and widen equality without concentrating unreviewable power. Where later questions shift to democratisation, backsliding or movement politics, Topic 23 should own the bridge; Topic 20 should stop at the justice-based criteria by which such regimes are judged. It must also balance welfare delivery with secure opposition rights and contestable public power. Critical evaluation: The position still faces two serious objections. Libertarians question its treatment of title, incentives and state reach, while Marxists question whether capitalism can be humanised without leaving structural domination intact. Its success therefore depends less on slogan than on institutional design. Conclusion: Democratic socialism is strongest when it corrects market privilege and Marxist authoritarian risk together, but it remains convincing only if welfare, liberty and democratic accountability are kept institutionally connected.
+Democratic socialism presents itself as a middle route between libertarian minimalism and Marxist centralism. It keeps social justice as a public aim while rejecting dictatorship and unregulated market title. Against libertarianism, democratic socialism argues that formal liberty without welfare, public services and fair life-chances entrenches privilege. Against Marxist centralism, it argues that social ownership or regulation must coexist with freedom of thought, party competition, opposition rights and civil liberties. Gauba's account treats it as a constitutional and welfare-oriented correction: partial socialisation, public services and democratic procedure rather than revolutionary monopoly power. The decisive test is democratic durability. Democratic socialism must fund welfare without administrative arbitrariness, protect labour without silencing opposition, and widen equality without concentrating unreviewable power. Indian public health provision must likewise coexist with secure opposition rights and contestable power. The position still faces two serious objections. Libertarians question its treatment of title, incentives and state reach, while Marxists question whether capitalism can be humanised without leaving structural domination intact. Its success therefore depends less on slogan than on institutional design. Democratic socialism is strongest when it corrects market privilege and Marxist authoritarian risk together, but it remains convincing only if welfare, liberty and democratic accountability are kept institutionally connected.
 
-**Why this earns marks:** it obeys `evaluate` instead of drifting into description, attaches each claim to named evidence (Introduction, Democratic, Marxist and Core), converts that evidence into analysis of whether democratic socialism is the strongest correction to both libertarianism and Marxist centralism, and keeps the examiner-facing qualification that conclusion: Democratic socialism is strongest when it corrects market privilege and Marxist authoritarian risk together, but it remains convincing only if welfare, liberty and democratic accountability are kept institutionally connected. At 239 words it stays inside the 250-word GS ceiling for 15 marks.
+**Why this earns marks:** The answer responds to the directive, uses named theoretical evidence, weighs a serious objection and offers a qualified conclusion specific to model 6.
 
 ---

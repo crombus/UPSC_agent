@@ -12,821 +12,627 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Practice method:** Resolve each policy fork before reading the separate keyed solutions. These original scenarios are analytical exercises, not official PYQs.
+
+### Questions
+
 #### MCQ 1
 
-A candidate writes only about private friendship and personal manners when asked about probity in governance. Which scope correction is required? Which source-grounded ethical principle most precisely explains the case?
+A tehsildar truthfully discloses that her sibling owns a firm seeking a land lease. She nevertheless signs its award after the committee approves. Which further step most directly protects probity?
 
-A. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-B. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-C. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-D. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-**Answer:** A
-**Explanation:** **The syllabus clause is about governance and public office** is the controlling principle. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Record the conflict, withdraw from decision-making and secure independent reassessment of criteria.
+B. Publish the sibling’s shareholding but retain the vote because disclosure cures bias.
+C. Preserve the approved award because the officer did not personally falsify any record.
+D. Cancel every lease decided by the committee, including unrelated compliant awards.
 
 ---
 
 #### MCQ 2
 
-An officer exercises statutory licensing power affecting citizens and public resources. Which syllabus setting makes her conduct a probity question? Which source-grounded ethical principle most precisely explains the case?
+A procurement file has all signatures, yet a mandatory feature serves no demonstrated clinical need and only one connected bidder can supply it. What is the decisive objection?
 
-A. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-B. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-C. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-D. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-**Answer:** B
-**Explanation:** **The syllabus clause is about governance and public office** is the controlling principle. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The clerk omitted an extra signature, so only procedural compliance is at issue.
+B. Formal compliance cannot redeem a tailor-made specification without public-purpose justification.
+C. A connected bidder must always be excluded, even if it won fair competition.
+D. Clinical urgency permits exclusionary terms without recorded reasons or review.
 
 ---
 
 #### MCQ 3
 
-A district officer records objective reasons for a discretionary allotment and permits review. Which working definition best captures the standard displayed? Which source-grounded ethical principle most precisely explains the case?
+A district portal publishes aggregate relief payments but beneficiaries cannot challenge omitted names and the audit team never responds. What is still missing?
 
-A. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-B. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-C. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-D. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-**Answer:** C
-**Explanation:** **Probity is upright public-purpose conduct capable of justification** is the controlling principle. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. More downloadable spreadsheets, without any hearing or correction power.
+B. Personal disclosure of every claimant’s health records to enable public scrutiny.
+C. An answerable reviewer able to verify exclusions, order correction and report action taken.
+D. A pledge that the disbursing officer privately intended to be impartial.
 
 ---
 
 #### MCQ 4
 
-An official claims that good intentions alone establish probity although no decision trail exists. Which definition reveals the missing public dimension? Which source-grounded ethical principle most precisely explains the case?
+A revenue officer is told that a charity’s proposed hospital excuses serious tax arrears and all minor defaults. What should a proportionate response begin with?
 
-A. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-B. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-C. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-D. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-**Answer:** D
-**Explanation:** **Probity is upright public-purpose conduct capable of justification** is the controlling principle. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Informally erase all arrears to accelerate a desirable hospital.
+B. Prosecute every correctable clerical error before quantifying the tax due.
+C. Treat the hospital promise as conclusive proof that the return was lawful.
+D. Assess and recover substantial dues through due process; classify and lawfully cure technical defaults.
 
 ---
 
 #### MCQ 5
 
-A licensing officer truthfully declares that her spouse owns shares in an applicant company. Which ethical quality is directly demonstrated by the declaration? Which source-grounded ethical principle most precisely explains the case?
+A newly elected State MLA is told that section 75A of the Representation of the People Act automatically obliges her to file the same post-oath return as an MP. Which advice is sound?
 
-A. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-B. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-C. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-D. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-**Answer:** A
-**Explanation:** **Honesty tests truthfulness and non-deception** is the controlling principle. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Section 75A concerns elected candidates to a House of Parliament; check distinct State and election-affidavit obligations.
+B. Section 75A covers every State legislator and every civil servant through a single annual filing.
+C. The 2nd ARC’s broader paraphrase amends the statute despite the enacted wording.
+D. An MP files only on completing a five-year term, not after taking the oath.
 
 ---
 
 #### MCQ 6
 
-A training note says honesty is merely a subset of integrity and has no independent question. Which non-hierarchical distinction corrects it? Which source-grounded ethical principle most precisely explains the case?
+A training slide describes present Lokpal Act section 44 as itself requiring universal public posting of detailed asset inventories. Which correction is necessary?
 
-A. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-B. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-C. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-D. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-**Answer:** B
-**Explanation:** **Honesty tests truthfulness and non-deception** is the controlling principle. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Repeat the former publication scheme because an older training manual quotes it.
+B. Use the substituted declaration-in-prescribed-form-and-manner text; verify the applicable service rules separately.
+C. Assume the substituted text abolishes every civil-service property return.
+D. Treat nomination affidavits as the sole source of duties for all officials.
 
 ---
 
 #### MCQ 7
 
-An official refuses a benefactor's request because gratitude must not influence a statutory decision. Which Nolan-linked aspect of integrity is most directly involved? Which source-grounded ethical principle most precisely explains the case?
+After documenting alternatives, an officer procures an emergency vaccine cold-chain repair under a lawful urgency power; subsequent price movement makes it costly. Which review standard is strongest?
 
-A. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-B. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-C. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-D. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-**Answer:** C
-**Explanation:** **Integrity is broader than the bounded Nolan formulation** is the controlling principle. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Punish the officer automatically because the outcome was expensive.
+B. Make good faith an absolute bar to audit, appeal or recovery.
+C. Audit contemporaneous authority, evidence, conflicts and reasons; investigate red flags, not hindsight alone.
+D. Remove all records so a risky but honest decision cannot be second-guessed.
 
 ---
 
 #### MCQ 8
 
-A note treats the Nolan outside-obligations sentence as the complete universal definition of integrity. Which bounded-reading caution applies? Which source-grounded ethical principle most precisely explains the case?
+A village officer sends a routine stationery request through fifty approvals while a high-value land allotment proceeds on an oral direction. What redesign is defensible?
 
-A. A working definition of probity is upright, impartial and public-purpose conduct in entrusted public office, supported by reasons and records that make the exercise of power capable of public justification and appropriate verification.
-
-B. Honesty concerns truthfulness, non-deception and candid disclosure, including disclosure of a relevant private interest; it overlaps with integrity and probity but should not be described as a subset in a rigid hierarchy.
-
-C. The UPSC clause joins the philosophical basis of governance with probity in governance, so the controlling setting is entrusted public office and the institutions that make public power upright, impartial, public-purpose and reviewable.
-
-D. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept.
-
-**Answer:** D
-**Explanation:** **Integrity is broader than the bounded Nolan formulation** is the controlling principle. Integrity ordinarily means consistent adherence to ethical principle and resistance to improper influence; the Nolan wording reproduced by the ARC specifically stresses freedom from outside obligations influencing official duty and does not exhaust the concept. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Require fifty approvals for every decision regardless of material risk.
+B. Remove all approvals from land allotments to improve speed.
+C. Audit stationery purchasers’ private beliefs instead of transaction records.
+D. Light-touch recorded checks for routine purchases; published criteria, conflicts and reasons for land allotment.
 
 ---
 
 #### MCQ 9
 
-A minister lawfully uses a broad hospitality allowance for a bidder's luxury event during evaluation. Which ethical test remains even before illegality is proved? Which source-grounded ethical principle most precisely explains the case?
+A bidder alleges that an Integrity Pact in one GeM bid proves a rival committed a crime. What can the pact establish by itself?
 
-A. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-B. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-C. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-D. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-**Answer:** A
-**Explanation:** **Propriety asks whether lawful conduct is appropriate** is the controlling principle. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. If incorporated, it specifies ex-ante buyer/seller commitments; evidence and lawful investigation remain necessary for guilt.
+B. It automatically applies to every GeM bid and replaces competition checks.
+C. Its signatures prove both parties have fulfilled every eligibility condition.
+D. It empowers the buyer to convict the rival without hearing.
 
 ---
 
 #### MCQ 10
 
-An authority asks only whether expenditure was formally authorised, not whether it served the entrusted public purpose. Which governance concept has been omitted? Which source-grounded ethical principle most precisely explains the case?
+In a public hearing, a majority demands that a minority settlement be excluded from the beneficiaries’ list before eligibility is checked. What does constitutional morality require?
 
-A. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-B. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-C. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-D. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-**Answer:** B
-**Explanation:** **Propriety asks whether lawful conduct is appropriate** is the controlling principle. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Defer to the majority because participation overrides equality.
+B. Apply published eligibility uniformly, hear affected residents and give reviewable reasons.
+C. Include only the minority irrespective of the scheme’s lawful criteria.
+D. Abandon the hearing and let the officer’s unrecorded conscience determine eligibility.
 
 ---
 
 #### MCQ 11
 
-A department uploads expenditure data but provides no hearing, audit response or corrective authority. Which element beyond transparency remains absent? Which source-grounded ethical principle most precisely explains the case?
+A note cites M.C. Mehta v. Kamal Nath as directly deciding the legal duty of every government interviewer to recuse. Which qualification is essential?
 
-A. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-B. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-C. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-D. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-**Answer:** C
-**Explanation:** **Accountability requires answerability plus correction** is the controlling principle. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The case establishes that no public power can ever be reviewed.
+B. Trusteeship and impartiality are meaningless to public-office ethics.
+C. The environmental public-trust doctrine concerns certain natural resources; office-as-trust is an ethical analogy requiring its own legal basis.
+D. All public property is private property once entrusted to an official.
 
 ---
 
 #### MCQ 12
 
-A review body can inspect reasons, order correction and refer supported misconduct for action. Which concept is institutionalised? Which source-grounded ethical principle most precisely explains the case?
+A hospital chair privately promises independence though an ex-business partner is the agent for a favoured bidder. Cancelling the tender immediately would disrupt care. Which course handles both risks?
 
-A. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-B. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-C. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-D. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-**Answer:** D
-**Explanation:** **Accountability requires answerability plus correction** is the controlling principle. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Keep chairing; private assurance outweighs apparent conflict.
+B. Bar that bidder without checking specifications or due process.
+C. Freeze all emergency supplies until a criminal trial ends.
+D. Disclose and recuse; have an independent panel test specifications, provide equal information and arrange narrow lawful interim supply.
 
 ---
 
 #### MCQ 13
 
-An officer is truthful about a conflict yet refuses to recuse and leaves the decision unreviewable. Which overlap analysis explains why honesty alone is insufficient? Which source-grounded ethical principle most precisely explains the case?
+A civil servant refuses an undetectable bribe because public duty forbids selling a decision; the department additionally keeps an audit trail. Which distinction is accurate?
 
-A. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-B. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-C. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-D. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-**Answer:** A
-**Explanation:** **Probity concepts overlap without a strict hierarchy** is the controlling principle. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Duty-based reasoning explains refusal regardless of detection; records make the public exercise independently reviewable.
+B. Virtue ethics teaches that conduct is acceptable whenever a bribe is not discovered.
+C. An audit trail alone proves the decision produced an equitable result.
+D. The departmental record changes the officer’s private motive into a statutory conviction.
 
 ---
 
 #### MCQ 14
 
-A candidate draws honesty inside integrity inside probity as universally settled doctrine. Which conceptual correction should replace the diagram? Which source-grounded ethical principle most precisely explains the case?
+An officer refuses donor money earmarked for a public clinic because the donor requires a secret illegal licence in return. Which combined ethical account fits?
 
-A. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-B. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-C. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-D. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-**Answer:** B
-**Explanation:** **Probity concepts overlap without a strict hierarchy** is the controlling principle. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Consequences alone permit any means if the clinic benefits enough people.
+B. Gandhian means–ends integrity rejects corrupt exchange; public-office stewardship cannot privatise licensing power.
+C. Trusteeship automatically suspends the licensing statute for philanthropic donors.
+D. The promise is ethical if the officer declares it only after awarding the licence.
 
 ---
 
 #### MCQ 15
 
-A regulator shares confidential applicant data with a relative to create a commercial opportunity. Which entrusted-power principle is violated? Which source-grounded ethical principle most precisely explains the case?
+An agency lists the Nolan principles as if the Nolan wording on freedom from outside obligations were the exhaustive dictionary definition of integrity. Which correction is defensible?
 
-A. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-B. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-C. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-D. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-**Answer:** C
-**Explanation:** **Entrusted power must be used for citizens and public purpose** is the controlling principle. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Nolan’s integrity formulation requires concealing outside interests for privacy.
+B. All seven Nolan principles are enacted Indian criminal-law elements.
+C. The bounded Nolan emphasis on outside obligations illustrates, but does not exhaust, principled consistency.
+D. Integrity is synonymous with uploading a public document.
 
 ---
 
 #### MCQ 16
 
-A civil servant treats a discretionary quota as a personal favour bank. Which view of public office most precisely exposes the error? Which source-grounded ethical principle most precisely explains the case?
+A procurement officer wants to show “good governance” by publishing bids only. Under the UNESCAP characteristics cited by the 2nd ARC, which additional concern is indispensable?
 
-A. Accountability means answerability to a competent forum able to examine reasons and evidence and secure correction, remedy or consequence; publication alone increases transparency but does not complete the accountability relationship.
-
-B. Honesty, integrity, propriety, transparency, accountability and probity overlap and support one another, but they ask different functional questions; a sound answer compares their tests instead of arranging them as rigid nested sets.
-
-C. Propriety asks whether conduct is appropriate, fair and compatible with the purpose of entrusted power, including cases where an act may be technically lawful yet create favouritism, extravagance or misuse of institutional position.
-
-D. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose.
-
-**Answer:** D
-**Explanation:** **Entrusted power must be used for citizens and public purpose** is the controlling principle. Public authority, discretion, information and money are entrusted powers rather than personal property; probity therefore forbids extraction of private advantage and demands use directed to the authorised public purpose. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Secrecy and unilateral speed replace responsiveness and rule of law.
+B. Transparency automatically establishes inclusion, accountability and legality.
+C. Only an official’s private honesty matters; systemic participation is irrelevant.
+D. Participation, responsiveness, equity/inclusion, accountability and rule of law must also be tested.
 
 ---
 
 #### MCQ 17
 
-An essay uses trusteeship to explain why office cannot be converted into personal entitlement. Which qualification prevents doctrinal overclaiming? Which source-grounded ethical principle most precisely explains the case?
+A social audit at a village works project finds muster-roll entries for people who say they never worked. Which institutional follow-up makes this more than mere disclosure?
 
-A. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-B. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-C. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-D. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-**Answer:** A
-**Explanation:** **Public office as trust is an ethical analogy with a legal boundary** is the controlling principle. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Independent verification with workers, a public hearing, reasoned action-taken report and lawful referral if fraud is supported.
+B. Have the village office mark all workers as fraudulent and halt their wages indefinitely.
+C. Publish names but prohibit any audit response to avoid bureaucratic interference.
+D. Replace financial audit and statutory appeal entirely with a majority vote at the hearing.
 
 ---
 
 #### MCQ 18
 
-A candidate asserts that M.C. Mehta v. Kamal Nath directly supplies the legal rule for every transfer and tax decision. Which boundary has been crossed? Which source-grounded ethical principle most precisely explains the case?
+A clinician overseeing public procurement has an old college acquaintance who works for a bidder, with no financial ties or private contact. What is a proportionate conflict response?
 
-A. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-B. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-C. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-D. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-**Answer:** B
-**Explanation:** **Public office as trust is an ethical analogy with a legal boundary** is the controlling principle. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Automatic recusal from every contract in the district.
+B. Declare the relationship under applicable rules, assess material influence and document the independent decision.
+C. Hide it because only proven bribery is relevant.
+D. Award the bid to another firm without reviewing its merits.
 
 ---
 
 #### MCQ 19
 
-An officer refuses to manipulate a record even though concealment would save the department embarrassment. Which philosophical basis controls the refusal? Which source-grounded ethical principle most precisely explains the case?
+An officer gives clear eligibility reasons but publishes an applicant’s detailed medical history with the order. Which improvement protects both transparency and rights?
 
-A. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-B. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-C. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-D. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-**Answer:** C
-**Explanation:** **Deontology grounds probity in duty independent of detection** is the controlling principle. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Remove all reasons so the applicant’s identity stays secret.
+B. Upload every clinical detail to demonstrate total candour.
+C. Disclose the decision criteria and appropriate reasons while withholding or redacting unnecessary personal data.
+D. Tell the applicant that privacy defeats any right to administrative review.
 
 ---
 
 #### MCQ 20
 
-A procurement official asks only whether bid-rigging will be discovered or improve price. Which duty-based question is missing? Which source-grounded ethical principle most precisely explains the case?
+A new civil servant memorises conduct rules but fails to recognise how a justified emergency departure should be documented and reviewed. Which virtue-ethics concept illuminates the gap?
 
-A. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-B. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-C. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-D. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-**Answer:** D
-**Explanation:** **Deontology grounds probity in duty independent of detection** is the controlling principle. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Deterministic obedience: every unusual fact has the same answer.
+B. Consequential licence: good outcomes always excuse procedure.
+C. Private virtue: no explanation is owed if intentions are honest.
+D. Practical wisdom: apply cultivated virtues in context while preserving authority, reasons and review.
 
 ---
 
 #### MCQ 21
 
-An experienced officer identifies the fair lawful course in an unusual relief case without abandoning reasons or review. Which virtue-ethics idea explains the judgment? Which source-grounded ethical principle most precisely explains the case?
+A department issues a code listing selflessness and impartiality but no rules on gifts, relationships or recusal. What complementary instrument is needed?
 
-A. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-B. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-C. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-D. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-**Answer:** A
-**Explanation:** **Virtue ethics adds habituation and practical wisdom** is the controlling principle. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. An operational code of conduct with clear triggers, disclosure, procedures and proportionate consequences.
+B. A private oath with no recording or oversight.
+C. A prohibition on any value-based discussion because a code of ethics is unlawful.
+D. A criminal conviction for every minor appearance of conflict without investigation.
 
 ---
 
 #### MCQ 22
 
-A trainee knows every conduct rule but changes principles whenever supervision disappears. Which character-based account reveals the deficit? Which source-grounded ethical principle most precisely explains the case?
+A civil servant says an annual service-rule immovable-property return is interchangeable with an MP’s post-oath filing under RPA section 75A. Why is this incorrect?
 
-A. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-B. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-C. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-D. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-**Answer:** B
-**Explanation:** **Virtue ethics adds habituation and practical wisdom** is the controlling principle. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Both duties arise only from the same section of the Lokpal Act.
+B. Different persons, source provisions and filing triggers govern parliamentary and service-rule disclosures.
+C. One timely MP return terminates all future service-rule obligations for every official.
+D. Only election nomination affidavits can lawfully disclose interests.
 
 ---
 
 #### MCQ 23
 
-An officer takes an illegal donation to fund a genuinely useful clinic. Which Gandhian means-ends principle rejects the defence? Which source-grounded ethical principle most precisely explains the case?
+A women officer facing hostile postings is told that higher probity means silently tolerating harassment and working longer hours. Which intervention addresses both fairness and service quality?
 
-A. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-B. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-C. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-D. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-**Answer:** C
-**Explanation:** **Gandhian trusteeship joins means, ends and stewardship** is the controlling principle. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Ignore complaints because workload is the sole measure of ethical service.
+B. Assign all discretionary decisions to a single senior without written criteria.
+C. Use transparent posting/appraisal standards, independent harassment redress and reviewable performance records.
+D. Exclude women from field roles to prevent future conflict.
 
 ---
 
 #### MCQ 24
 
-A public corporation treats surplus and authority as resources to be responsibly administered for society. Which Gandhian philosophical link is being used? Which source-grounded ethical principle most precisely explains the case?
+A CVO receives a supported procurement complaint. A manager wants vigilance to replace audit, bidder appeal and evidence-based adjudication. Which response respects mandates?
 
-A. A deontological basis treats truthful, impartial and non-corrupt exercise of public power as a duty owed to persons and constitutional office, not merely as conduct justified when it produces convenient results or avoids detection.
-
-B. Virtue ethics understands probity as a stable public character cultivated through practice, while phronesis supplies practical wisdom to apply honesty, fairness and public purpose sensitively rather than through mechanical rule worship.
-
-C. Public-office-as-trust is an ethical fiduciary analogy: officials hold authority for citizens and public purpose. The settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources and does not directly govern every public-office decision.
-
-D. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law.
-
-**Answer:** D
-**Explanation:** **Gandhian trusteeship joins means, ends and stewardship** is the controlling principle. Gandhian trusteeship treats possession and power as stewardship for social welfare, while the unity of means and ends rejects corrupt methods for desirable outcomes; applied to governance, both ideas support public-purpose administration without converting analogy into positive law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the CVO decide bidder damages and criminal guilt alone.
+B. Drop the complaint if a contract was signed.
+C. Publish accusations as proven facts to speed deterrence.
+D. Preserve evidence, route vigilance inquiry within competence and retain audit, contractual review and lawful remedies.
 
 ---
 
-#### MCQ 25
+### Keyed solutions and remedial feedback
 
-A popular majority demands exclusion of a minority from a public hearing, but the officer protects equal participation. Which moral framework guides the decision? Which source-grounded ethical principle most precisely explains the case?
-
-A. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-B. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-C. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-D. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
+#### MCQ 1 — A
 
 **Answer:** A
-**Explanation:** **Constitutional morality restrains power through constitutional values** is the controlling principle. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: truthful disclosure does not cure participation in a material conflict; independent review tests both process and purpose.
+- **B:** Disclosure alone leaves the conflicted decision-maker in control.
+- **C:** Personal honesty cannot validate an unreviewed conflict.
+- **D:** Blanket cancellation punishes unrelated applicants without fact-finding.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 26
-
-A public servant invokes personal ideology while ignoring equality, due process and institutional competence. Which standard corrects this misuse of moral language? Which source-grounded ethical principle most precisely explains the case?
-
-A. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-B. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-C. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
-
-D. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
+#### MCQ 2 — B
 
 **Answer:** B
-**Explanation:** **Constitutional morality restrains power through constitutional values** is the controlling principle. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** The stem confirms signatures; inventing a missing one evades the issue.
+- **B:** Correct: substantive probity tests the end and design, not merely procedural completeness.
+- **C:** Association alone is not automatic guilt; investigate specification and competition.
+- **D:** Urgency increases the need to record necessity and assess lawful alternatives.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 27
-
-Every bidder receives identical information, evaluators declare interests and scoring reasons are preserved. Which dimension of probity is most directly demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-B. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-C. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-D. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
+#### MCQ 3 — C
 
 **Answer:** C
-**Explanation:** **Procedural probity makes decisions traceable and fair** is the controlling principle. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Further publication alone does not give an effective remedy.
+- **B:** Unrestricted exposure of sensitive records creates a new rights violation.
+- **C:** Correct: accountability joins reasons and evidence to a competent corrective forum.
+- **D:** Subjective virtue cannot replace institutional review.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 28
-
-A beneficiary receives a useful outcome through secret criteria and an undocumented oral order. Which dimension remains deficient despite the benefit? Which source-grounded ethical principle most precisely explains the case?
-
-A. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-B. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
-
-C. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-D. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
+#### MCQ 4 — D
 
 **Answer:** D
-**Explanation:** **Procedural probity makes decisions traceable and fair** is the controlling principle. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Charitable plans do not grant an unauthorised exemption.
+- **B:** Mechanical pursuit misallocates resources and ignores materiality.
+- **C:** A project’s prospective benefit cannot determine historic tax compliance.
+- **D:** Correct: revenue and equal treatment remain binding; discretion over technical defects must be authorised and recorded.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 29
-
-A tender follows every form but its specifications were designed to favour one connected vendor without public need. Which probity test exposes the defect? Which source-grounded ethical principle most precisely explains the case?
-
-A. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-B. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-C. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-D. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
+#### MCQ 5 — A
 
 **Answer:** A
-**Explanation:** **Substantive probity tests the authorised public purpose** is the controlling principle. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: distinguish Parliament-specific 90-day post-oath duty from other regimes.
+- **B:** It incorrectly expands the class and makes the duty annual.
+- **C:** Reform-report paraphrase is not enacted legislative text.
+- **D:** The core source specifies filing within 90 days of oath.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 30
-
-An emergency action saves lives but initially misses a minor formality that is promptly cured. Which dimension explains why purpose matters alongside procedure? Which source-grounded ethical principle most precisely explains the case?
-
-A. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-B. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-C. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
-
-D. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
+#### MCQ 6 — B
 
 **Answer:** B
-**Explanation:** **Substantive probity tests the authorised public purpose** is the controlling principle. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Historical wording cannot establish present law.
+- **B:** Correct: the amended section and service-rule regimes must not be conflated.
+- **C:** Service-rule returns are independent obligations.
+- **D:** Election disclosure does not displace service rules.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 31
-
-A licensing authority announces the result but conceals the criteria and gives no reasons. Which probity-enabling transparency feature is missing? Which source-grounded ethical principle most precisely explains the case?
-
-A. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-B. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-C. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
-
-D. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
+#### MCQ 7 — C
 
 **Answer:** C
-**Explanation:** **Transparency needs written reasons and a usable record** is the controlling principle. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Bad outcomes alone do not establish misconduct.
+- **B:** Good faith cannot extinguish valid review or remedy.
+- **C:** Correct: protect documented bona-fide discretion while retaining scrutiny.
+- **D:** Destroying records undermines probity and future learning.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 32
-
-A file records the evidence, alternatives and reasons while redacting protected personal data. Which balanced transparency design is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Procedural probity asks whether authority, notice, equal information, objective criteria, recorded reasons, conflict controls, audit trails and review were properly built into the decision-making process.
-
-B. Substantive probity asks whether the decision and its real effects serve the authorised public purpose, respect equal citizenship and avoid disguised private capture; impeccable paperwork cannot legitimise an outcome engineered for a narrow interest.
-
-C. Constitutional morality requires fidelity to constitutional values, procedures and restraints rather than personal preference or temporary majority pressure; civil education, institutional practice, reasoned decisions and lawful review help sustain it.
-
-D. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality.
+#### MCQ 8 — D
 
 **Answer:** D
-**Explanation:** **Transparency needs written reasons and a usable record** is the controlling principle. Transparency supports probity when material criteria, interests, reasons and records are accessible to appropriate scrutiny; written reasons discipline discretion, enable audit and appeal, and must still respect lawful privacy and confidentiality. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Uniform suspicion consumes capacity without prioritising harm.
+- **B:** Discretionary land decisions merit greater, not less, verification.
+- **C:** Private intention is not a substitute for reviewable records.
+- **D:** Correct: risk-graded scrutiny protects both capacity and public trust.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 33
-
-A procurement chair's sibling submits a bid and the chair promises privately to remain neutral. Which safeguard should ordinarily follow disclosure? Which source-grounded ethical principle most precisely explains the case?
-
-A. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-B. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-C. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-D. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
+#### MCQ 9 — A
 
 **Answer:** A
-**Explanation:** **Material conflicts normally require disclosure and recusal** is the controlling principle. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: the bid-specific control does not decide criminal culpability.
+- **B:** Coverage depends on incorporation and other controls remain.
+- **C:** A promise is not proof of compliant performance.
+- **D:** Criminal findings require independent lawful procedure.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 34
-
-An official has a remote immaterial acquaintance with an applicant. Which principle calls for a proportionate conflict assessment rather than automatic paralysis? Which source-grounded ethical principle most precisely explains the case?
-
-A. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-B. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-C. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
-
-D. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
+#### MCQ 10 — B
 
 **Answer:** B
-**Explanation:** **Material conflicts normally require disclosure and recusal** is the controlling principle. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Majority preference cannot displace equal citizenship.
+- **B:** Correct: equal treatment, lawful competence and reasoned participation constrain discretion.
+- **C:** Corrective action must still comply with valid criteria.
+- **D:** Private preference cannot replace accountable constitutional process.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 35
-
-A department publishes selflessness and impartiality but gives no guidance for gifts, recusals or complaints. Which code distinction identifies the missing layer? Which source-grounded ethical principle most precisely explains the case?
-
-A. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-B. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-C. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-D. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
+#### MCQ 11 — C
 
 **Answer:** C
-**Explanation:** **Codes of ethics and conduct perform different functions** is the controlling principle. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** The case does not bar review.
+- **B:** Trust analogy remains analytically useful.
+- **C:** Correct: keep settled resource doctrine distinct from the office analogy.
+- **D:** Entrustment creates obligations, not ownership.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 36
-
-A service rule lists gift limits and disciplinary consequences but never explains constitutional public-purpose values. Which complementary instrument is needed? Which source-grounded ethical principle most precisely explains the case?
-
-A. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-B. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
-
-C. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-D. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
+#### MCQ 12 — D
 
 **Answer:** D
-**Explanation:** **Codes of ethics and conduct perform different functions** is the controlling principle. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** An undisclosed material relation taints public confidence.
+- **B:** Automatic exclusion risks unfairness and wastes a potentially valid bid.
+- **C:** Patients’ immediate needs require a proportionate contingency.
+- **D:** Correct: independent review plus continuity preserves fairness and safety.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 37
-
-A note describes RPA section 75A as an annual return for every legislator and civil servant. Which statutory distinction corrects it? Which source-grounded ethical principle most precisely explains the case?
-
-A. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-B. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-C. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-D. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
+#### MCQ 13 — A
 
 **Answer:** A
-**Explanation:** **Indian asset-disclosure regimes must not be conflated** is the controlling principle. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: deontological duty and institutional verification address different dimensions.
+- **B:** Virtue concerns cultivated character, not evasion of detection.
+- **C:** Procedure does not alone prove substantive fairness.
+- **D:** Recording is not adjudication of an offence.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 38
-
-An answer claims current Lokpal section 44 itself mandates universal online publication under its earlier elaborate text. Which amendment-sensitive caution applies? Which source-grounded ethical principle most precisely explains the case?
-
-A. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-B. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-C. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
-
-D. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
+#### MCQ 14 — B
 
 **Answer:** B
-**Explanation:** **Indian asset-disclosure regimes must not be conflated** is the controlling principle. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** The benefit cannot by itself legalise abuse of power.
+- **B:** Correct: beneficial end does not cleanse corrupt means or entrusted authority.
+- **C:** Philosophical analogy does not repeal law.
+- **D:** Post hoc disclosure cannot repair prior improper influence.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 39
-
-Workers compare muster rolls with actual employment at a public hearing, while financial auditors examine accounts separately. Which institutional distinction is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-B. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-C. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
-
-D. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
+#### MCQ 15 — C
 
 **Answer:** C
-**Explanation:** **Audit and vigilance bodies have distinct roles** is the controlling principle. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** The principle aims to avoid compromised official duty.
+- **B:** Ethical principles are not automatically enacted offences.
+- **C:** Correct: attribute the limited formulation and retain the wider virtue.
+- **D:** Publication alone does not constitute principled conduct.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 40
-
-A department asks its CVO to replace statutory audit, citizen verification and adjudicatory remedy. Which role-boundary principle rejects this consolidation? Which source-grounded ethical principle most precisely explains the case?
-
-A. A code of ethics states public-service values and decision principles, whereas a code of conduct specifies expected or prohibited behaviour, procedures and consequences; credible implementation requires advice, training, monitoring, fair inquiry and leadership.
-
-B. RPA s.75A requires an elected candidate to a House of Parliament to declare assets and liabilities within ninety days of oath; CCS Rule 18 and AIS Rule 16 create separate service-rule annual property-return regimes, while current Lokpal s.44 uses substituted prescribed-form wording.
-
-C. A material conflict of interest requires timely disclosure and, where impartiality or its appearance would reasonably be compromised, recusal or independent reassignment; private assurances of fairness are not an adequate institutional safeguard.
-
-D. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up.
+#### MCQ 16 — D
 
 **Answer:** D
-**Explanation:** **Audit and vigilance bodies have distinct roles** is the controlling principle. Departmental and CAG audit examine records, legality, regularity and performance within their mandates; CVC exercises vigilance oversight and CVOs coordinate departmental vigilance, while social audit enables citizens to compare official claims with lived delivery and demand follow-up. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Secrecy is not a listed good-governance characteristic.
+- **B:** The characteristics are distinct and not entailed by disclosure.
+- **C:** Institutional design matters beyond individual character.
+- **D:** Correct: transparency alone cannot satisfy the wider UNESCAP framework.
+
+**Trap / remediation:** Revisit the distinction tested here; identify both the governing public duty and the institution that can verify, correct or review its application.
 
 ---
 
-#### MCQ 41
-
-A government is transparent but systematically excludes affected communities and ignores legal limits. Which wider good-governance framework shows why transparency alone is insufficient? Which source-grounded ethical principle most precisely explains the case?
-
-A. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-B. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-C. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-D. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
+#### MCQ 17 — A
 
 **Answer:** A
-**Explanation:** **UNESCAP identifies eight characteristics of good governance** is the controlling principle. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: citizen verification needs official correction and due process.
+- **B:** Accusations require verification; withholding livelihoods without hearing is unfair.
+- **C:** Publicity without action leaves accountability incomplete.
+- **D:** Social audit complements financial and statutory processes rather than displacing them.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 42
-
-A prelims option replaces responsiveness with secrecy while retaining seven familiar terms. Which exact eight-characteristic formulation resolves the trap? Which source-grounded ethical principle most precisely explains the case?
-
-A. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-B. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-C. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
-
-D. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
+#### MCQ 18 — B
 
 **Answer:** B
-**Explanation:** **UNESCAP identifies eight characteristics of good governance** is the controlling principle. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** An immaterial acquaintance does not automatically require disabling every official.
+- **B:** Correct: materiality and disclosure matter; escalate to recusal if influence is reasonably possible.
+- **C:** Concealment prevents independent assessment.
+- **D:** Punishing one bidder without objective criteria harms fairness.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 43
-
-A department requires fifty approvals for every minor stationery purchase but little review of land allotment. Which design principle would reverse the mismatch? Which source-grounded ethical principle most precisely explains the case?
-
-A. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-B. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-C. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-D. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
+#### MCQ 19 — C
 
 **Answer:** C
-**Explanation:** **Scrutiny should be graded by value, discretion and harm** is the controlling principle. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Reasons can be shared with appropriate redaction.
+- **B:** Excessive disclosure can harm the applicant without aiding scrutiny.
+- **C:** Correct: verifiability does not require indiscriminate publication of sensitive records.
+- **D:** Privacy and remedy need not be treated as mutually exclusive.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 44
-
-A high-value specialised procurement carries narrow competition and major safety consequences. Which scrutiny approach is proportionate? Which source-grounded ethical principle most precisely explains the case?
-
-A. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-B. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
-
-C. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-D. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
+#### MCQ 20 — D
 
 **Answer:** D
-**Explanation:** **Scrutiny should be graded by value, discretion and harm** is the controlling principle. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Blind uniformity ignores material context.
+- **B:** Results cannot themselves establish lawfulness.
+- **C:** Good intentions do not remove public answerability.
+- **D:** Correct: practical judgment joins character to reasoned accountable application.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 45
-
-An officer makes a reasoned emergency choice on incomplete information and later faces automatic punishment solely because the outcome was poor. Which safeguard applies? Which source-grounded ethical principle most precisely explains the case?
-
-A. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-B. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-C. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-D. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
+#### MCQ 21 — A
 
 **Answer:** A
-**Explanation:** **Bona-fide action needs protection, review and remedy** is the controlling principle. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: conduct guidance makes ethical commitments usable in decisions.
+- **B:** Unverifiable aspiration cannot resolve concrete conflicts.
+- **C:** Ethical values and operational rules are complementary.
+- **D:** Sanctions require lawful processes and proportionality.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 46
-
-A good-faith clause is invoked to block every appeal and deny compensation for proven harm. Which accountability qualification defeats that use? Which source-grounded ethical principle most precisely explains the case?
-
-A. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-B. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-C. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
-
-D. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
+#### MCQ 22 — B
 
 **Answer:** B
-**Explanation:** **Bona-fide action needs protection, review and remedy** is the controlling principle. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** The cited regimes have separate statutory and rule bases.
+- **B:** Correct: an MP’s section 75A duty and applicable civil-service returns are distinct.
+- **C:** One person’s filing cannot discharge another office’s rule.
+- **D:** Election rules do not exclude service-rule duties.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 47
-
-Bid document 9511605 requires bidders to upload a signed buyer-organisation Integrity Pact. Which ex-ante probity mechanism is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-B. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-C. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
-
-D. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
+#### MCQ 23 — C
 
 **Answer:** C
-**Explanation:** **A GeM Integrity Pact is an incorporated procurement control** is the controlling principle. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Silencing staff permits coercion and undermines impartiality.
+- **B:** Unchecked concentration worsens risks.
+- **C:** Correct: fair conditions and accountable decisions support performance and demonstrable probity.
+- **D:** Categorical exclusion violates equal opportunity and wastes capacity.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
 
 ---
 
-#### MCQ 48
-
-An investigator treats the Pact as automatic proof of criminal guilt and a substitute for competition review. Which limitation applies? Which source-grounded ethical principle most precisely explains the case?
-
-A. Risk-graded scrutiny applies lighter documentation to routine low-value decisions and stronger ex-ante disclosure, competition, reasons and review to high-value, high-discretion or high-harm decisions, avoiding both uniform suspicion and blind trust.
-
-B. A sound probity regime protects documented bona-fide judgment and honest risk-taking while preserving independent review, correction and remedy for affected persons; protection from hindsight punishment is not immunity from reasons, evidence or accountability.
-
-C. The UNESCAP formulation cited by the ARC describes good governance as participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and following the rule of law.
-
-D. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement.
+#### MCQ 24 — D
 
 **Answer:** D
-**Explanation:** **A GeM Integrity Pact is an incorporated procurement control** is the controlling principle. A GeM bid may incorporate an Integrity Pact committing buyer and sellers against corrupt influence, collusion and misuse of electronic information while requiring equitable treatment and vigilance reporting; its contractual force depends on incorporation in the particular procurement. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Vigilance cannot assume all adjudicatory powers.
+- **B:** Contract completion does not erase accountability.
+- **C:** Allegation is not a proven finding.
+- **D:** Correct: differentiated institutions allow competent correction without collapsing due process.
+
+**Trap / remediation:** Identify the specific institutional role and distinguish the superficially attractive but disproportionate alternative.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
+
+#### Solved PYQ — 2014 — probity in public life
+
+**Question (wording recorded in canonical Basic owner; consult the official paper before using as a verbatim quotation):** What do you understand by “probity” in public life? What are the difficulties in practising it in the present times? How can these difficulties be overcome?
+
+**Model solution**
+
+Probity means upright, impartial, public-purpose use of entrusted authority. It needs both personal honesty and an institutional capacity to check reasons, interests and outcomes. A district land-allotment officer may be personally sincere, but unexplained discretion makes that sincerity unverifiable.
+
+The difficulties are political and commercial pressure, discretionary allocation of scarce benefits, undisclosed interests, opaque files, fear of retaliation for reporting wrongdoing and a culture that treats formal compliance as sufficient. Conversely, indiscriminate suspicion of every official can paralyse bona-fide judgment.
+
+Departments should publish objective criteria and reasoned decisions, require timely interest declarations and recusal, preserve auditable procurement and expenditure trails, provide safe reporting channels and give independent audit or grievance bodies authority to obtain records and require time-bound corrective action. Scrutiny should rise with value and discretion rather than impose identical controls on petty and major decisions. Protect an officer who documented authority, evidence and alternatives in good faith, but retain appeal, recovery and inquiry where evidence warrants them. Thus ethical character is made publicly demonstrable without confusing suspicion or paperwork with probity.
+
+---
 
 #### Solved PYQ 1 — 2018 — 20 marks
 
@@ -850,27 +656,6 @@ I would adopt a reasoned, lawful version of the broader course. The agency shoul
 
 I would record reasons, obtain competent legal approval, preserve an audit trail and separate the tax order from any decision concerning the charitable trust. A review route should remain open. This course joins procedural probity with substantive public purpose: it collects lawful revenue and protects equality while avoiding mindless formality. If the statute mandates action on a particular default, the agency must comply; discretion permits proportionality, not suspension of law.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q11: Dr. X is a leading medical practitioner in a city. He has set up a charitable…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q11: Dr. X is a leading medical practitioner in a city. He has set up a charitable trust through which he plans to establish a super-speciality…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q11: Dr. X is a leading medical practitioner in a city. He has set up a charitable trust through which he plans to establish a super-speciality…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q11: Dr. X is a leading medical practitioner in a city. He has set up a charitable…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2019 — 10 marks
 
@@ -886,28 +671,6 @@ It is upheld through civil education and repeated institutional practice: acting
 
 Constitutional morality does not authorise an official to replace valid law with private ideology. It disciplines both majoritarian power and bureaucratic discretion through public reasons, lawful process and review. Thus it turns public office from personal command into accountable constitutional service.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold constitutional morality? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. Crisis of conscience in Q3(b) is excluded; Topic 10 remains a cross-link. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold constitutional morality? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2019 — 10 marks
 
@@ -923,28 +686,6 @@ Measures should combine character and institutions: values-based recruitment and
 
 Scrutiny should be risk-graded, strongest for high-value or high-discretion decisions, while documented bona-fide judgment receives protection from hindsight punishment. Probity is therefore neither private virtue alone nor paper compliance: it is ethical public purpose translated into traceable, contestable and correctable administration.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 3. Emotional intelligence in Q5(b) is excluded. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): What do you understand by probity in governance? Based on your understanding…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2021 — 10 marks
 
@@ -960,28 +701,6 @@ Empowerment requires follow-up: a time-bound action-taken report, correction or 
 
 The phrase 'every sphere' needs functional adaptation. Judicial accountability cannot permit a crowd to dictate adjudication; confidentiality, decisional independence and lawful appellate or disciplinary structures must remain. Social audit complements, rather than replaces, CAG or departmental audit, vigilance, courts and statutory remedies. Its probity contribution is public verifiability joined to competent correction; disclosure without response is transparency, not complete accountability.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3. Topic 11 is the primary accountability owner; this is a probity cross-link. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2021 — 10 marks
 
@@ -997,28 +716,6 @@ For example, a procurement officer offered political protection for favouring a 
 
 Integrity should not be collapsed into probity. Integrity is principled consistency and independence from improper influence; probity is the public-office standard that also asks whether entrusted power is demonstrably upright, impartial, public-purpose and reviewable. Nor is honesty merely a subset of integrity. These values overlap, but their functional distinctions help explain how character empowers the person while institutions protect the public.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(b): 'Integrity is a value that empowers the human being.' Justify with suitable…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(b): 'Integrity is a value that empowers the human being.' Justify with suitable illustration. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM-21-GENSTUDIESPAPER-IV-110122.pdf, page 3. Topic 07/09 is primary; Topic 14 uses it to distinguish integrity from probity. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(b): 'Integrity is a value that empowers the human being.' Justify with suitable illustration. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(b): 'Integrity is a value that empowers the human being.' Justify with suitable…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2022 — 2 marks
 
@@ -1034,28 +731,6 @@ Learning expansion: The definition combines ethical character with institutional
 
 Practical mechanisms include declared interests, recusal, written reasons, fair procurement, asset returns, audit trails, RTI-compatible disclosure and review. Yet paperwork alone is insufficient: a formally perfect decision designed for private capture fails substantive probity. In the examination, compress the first sentence to the official thirty-word demand; the longer treatment here exists only for conceptual mastery.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(b)(iii): Write a short note in 30 words: Probity in public life. (Official demand:…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b)(iii): Write a short note in 30 words: Probity in public life. (Official demand: 2 marks and 30 words.)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Exam-ready 30-word core: Probity in public life is upright, impartial and public-purpose use of entrusted power, demonstrated through transparent reasons, conflict control, audit, answerability and effective remedy. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b)(iii): Write a short note in 30 words: Probity in public life. (Official demand: 2 marks and 30 words.)”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b)(iii): Write a short note in 30 words: Probity in public life. (Official demand:…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2023 — 10 marks
 
@@ -1071,28 +746,6 @@ The development link is causal. Clean procurement yields more infrastructure fro
 
 Probity is necessary but not sufficient. UNESCAP's wider framework also requires participation, responsiveness, effectiveness, equity and rule of law. Excessive uniform scrutiny can delay legitimate action, so controls should be risk-graded and protect documented good faith while retaining review and remedy. Development becomes durable when ethical public purpose is supported by capable institutions, not moral exhortation alone.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **discuss** requires a direct position on “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\more previous papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf, page 4. Conscience in Q5(a) is excluded. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic development.' Discuss. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b): 'Probity is essential for an effective system of governance and socio-economic…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2024 — 10 marks
 
@@ -1108,28 +761,6 @@ Implementation is decisive: public adoption, confidential ethics advice, inducti
 
 A Code of Conduct remains complementary because it specifies behaviour, procedures and consequences. An ethics code cannot replace service rules, criminal law or due process, and a symbolic declaration cannot establish probity. The suitable model therefore joins Nolan-type principles with Indian constitutional morality, practical decision support, monitoring and remedy. It should be intelligible to citizens so transparency permits public evaluation of the standards claimed by administration.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 3. Topic 16 is the dedicated primary owner; the premise is retained as the PYQ's wording. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in public administration. There is code of conduct already in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): The 'Code of Conduct' and 'Code of Ethics' are the sources of guidance in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2024 — 10 marks
 
@@ -1145,28 +776,6 @@ Measures include safe infrastructure and transport; functional Internal Committe
 
 High probity is maintained not by demanding exceptional personal sacrifice but by designing institutions that permit impartial and documented performance. Harassment complaints require due process for both complainant and respondent. Equal opportunity is therefore substantive: removing gender-specific barriers improves capability while transparent rules, conflict controls and answerability preserve public trust.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): 'In Indian culture and value system, an equal opportunity has been provided…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): 'In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 3. Topic 04 supplies foundational-values depth; Topic 14 owns the probity application. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): 'In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): 'In Indian culture and value system, an equal opportunity has been provided…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 10 marks
 
@@ -1182,30 +791,8 @@ For a public servant it requires lawful competence, impartial treatment, hearing
 
 This promotes good governance through predictable rules, transparency, participation and trust. It ensures accountability because reasons and records let legislatures, auditors, courts and citizens test whether power served its authorised purpose and obtain correction. Constitutional morality does not permit private conviction to override valid law; change must use competent constitutional channels. Its significance lies in converting public office from personal authority into disciplined, reviewable service to equal citizens.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.' Examine the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated subpart, including the printed spelling 'adherance', verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2. Social-media ethics in Q1(a) is excluded. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.' Examine the…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1219,27 +806,6 @@ Probity brings these overlapping tests to entrusted public power: is the conduct
 
 The examiner-safe method is functional comparison, not the claim that honesty is a subset of integrity or probity. Each concept illuminates a different failure point, while sound governance requires them to reinforce one another.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish honesty, integrity, propriety, accountability and probity without arranging…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish honesty, integrity, propriety, accountability and probity without arranging them in a rigid hierarchy. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish honesty, integrity, propriety, accountability and probity without arranging them in a rigid hierarchy. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish honesty, integrity, propriety, accountability and probity without arranging…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1253,27 +819,6 @@ Either can fail alone. A tender may contain perfect forms and scoring sheets but
 
 The combined test asks: was the route fair and traceable, and was the destination public-purpose? Written reasons, independent review and proportionate remedy connect both. Probity therefore rejects both results-only administration and compliance theatre.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why must procedural probity and substantive public purpose be assessed together in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why must procedural probity and substantive public purpose be assessed together in administration? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why must procedural probity and substantive public purpose be assessed together in administration? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why must procedural probity and substantive public purpose be assessed together in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1289,27 +834,6 @@ The legal boundary is essential. India's settled environmental public-trust doct
 
 The analogy is useful because it converts power into stewardship, but precise answers separate philosophical extension from positive doctrine and identify the actual statute, service rule or review mechanism governing the case.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the public-office-as-trust idea and critically delimit it from India's settled…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain the public-office-as-trust idea and critically delimit it from India's settled environmental public-trust doctrine. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain the public-office-as-trust idea and critically delimit it from India's settled environmental public-trust doctrine. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain the public-office-as-trust idea and critically delimit it from India's settled…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1325,27 +849,6 @@ Gandhian trusteeship frames power and resources as stewardship for social welfar
 
 Together they answer four questions: what duty binds, what character sustains it, whose purpose power serves, and which constitutional limits govern. Institutions then translate philosophy into conflict registers, written reasons, audit, appeal and remedy. Probity is strongest when duty and virtue become publicly verifiable without reducing ethics to forms.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss deontology, virtue ethics, Gandhian trusteeship and constitutional morality as…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Discuss deontology, virtue ethics, Gandhian trusteeship and constitutional morality as complementary philosophical bases of probity. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Discuss deontology, virtue ethics, Gandhian trusteeship and constitutional morality as complementary philosophical bases of probity. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Discuss deontology, virtue ethics, Gandhian trusteeship and constitutional morality as…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1363,27 +866,6 @@ Bona-fide judgment should receive a safe harbour when authority was verified, ma
 
 Thus risk grading reconciles probity with administrative capacity: scrutiny rises with potential harm, while documented good faith, independent review and proportionate remedy preserve decisive, timely and trustworthy public service.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a risk-calibrated probity framework for high-value specialised public procurement…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design a risk-calibrated probity framework for high-value specialised public procurement without paralysing bona-fide administrative judgment. Answer…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design a risk-calibrated probity framework for high-value specialised public procurement without paralysing bona-fide administrative judgment. Answer…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design a risk-calibrated probity framework for high-value specialised public procurement…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1400,23 +882,3 @@ I would file a complete written disclosure, cease contact with the agent and rec
 If only that product can safely meet a documented need, a lawful limited-competition route may be used with market-price benchmarking, recorded reasons, higher approval and post-award audit. If specifications were manipulated, the tender should be corrected or reissued and supported misconduct referred through due process. Urgent interim supply should be narrow, time-bound and separately approved.
 
 The recommendation protects both procedure and public purpose. It does not punish a reliable vendor merely for association, nor permit reliability to become inherited entitlement. Recusal, independent technical judgment, equal information, review and continuity safeguards produce a defensible patient-centred result.
-
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “You chair a tender committee for essential hospital equipment. A technically strong…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “You chair a tender committee for essential hospital equipment. A technically strong preferred vendor has supplied the department reliably for years,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “You chair a tender committee for essential hospital equipment. A technically strong preferred vendor has supplied the department reliably for years,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “You chair a tender committee for essential hospital equipment. A technically strong…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

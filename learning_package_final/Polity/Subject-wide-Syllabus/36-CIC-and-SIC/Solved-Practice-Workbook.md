@@ -2,22 +2,306 @@
 
 **Subject:** Polity | **Control date:** 8 September 2026
 
-**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 substantive unique option-specific explanations; 32 unique question-specific examiner traps; verified-PYQ wording and official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original four-option MCQs with strict `ABCD` rotation nine times; all stems before separate option-specific solved key and individual traps; one verbatim-verified Mains PYQ and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique question-specific examiner trap.
+The complete answer-free set of 36 questions precedes the separately headed solved key; answers rotate A → B → C → D.
 
 ### MCQ 1. Legal identity
 
-Which description is legally correct?
+An officer treats a CIC second-appeal direction as mere informal executive advice, while a colleague calls CIC a constitutional tribunal. Which classification explains its actual source and adjudicatory role?
 
 A. CIC and SIC are statutory bodies constituted under the RTI Act, 2005.
 B. CIC is a constitutional body while SIC is statutory.
 C. Both Commissions are tribunals under Article 323B.
 D. They are executive committees without adjudicatory powers.
+### MCQ 2. Meaning of information
 
-**Answer: A.**
+A citizen asks a ministry to create a fresh expert opinion explaining why a policy failed. Which is most accurate?
+
+A. The ministry must create it because opinions are listed in section 2(f).
+B. RTI reaches an existing recorded opinion but does not ordinarily require creation of a new one.
+C. The Commission must write the expert opinion.
+D. Every 'why' question is outside RTI even when reasons are already recorded.
+### MCQ 3. Forms of access
+
+A contractor offers access to physical samples from a public works project, but refuses to create a fresh legal opinion. Which of these is an express section 2(j) mode of access?
+
+A. A direction granting the applicant's pension.
+B. A criminal investigation into a bribery allegation.
+C. Taking certified samples of material.
+D. A fresh legal opinion from the PIO.
+### MCQ 4. Public-authority gateway
+
+A regulated society receives a small concession; an applicant argues regulation or any subsidy alone makes it a public authority. What degree of government control or finance should be examined instead?
+
+A. Every registered society is a public authority.
+B. Any government regulation proves control.
+C. Any financial concession is automatically substantial finance.
+D. Substantial control or substantial direct/indirect government finance requires a real, fact-sensitive link.
+### MCQ 5. Proactive disclosure
+
+A ministry has digitised records but releases almost nothing without a formal request. What proactive-disclosure objective does section 4(2) impose on that approach?
+
+A. promote maximum suo motu disclosure so citizens need minimum resort to requests.
+B. authorise the Commission to amend exemptions.
+C. replace every PIO with an online portal.
+D. make publication optional where records are digitised.
+### MCQ 6. APIO route
+
+An application submitted through a designated Assistant Public Information Officer ordinarily has
+
+A. no valid filing effect until it reaches the PIO.
+B. five days added when computing the response period.
+C. a guaranteed five-day final decision.
+D. automatic fee exemption.
+### MCQ 7. Application and transfer
+
+A PIO requires an applicant to explain her motives and postpones transfer to the competent authority until day thirty. What two section 6 safeguards has the PIO missed?
+
+A. The applicant must prove a public-interest motive.
+B. A transfer may wait until the thirtieth day.
+C. A request needs no reasons, and a necessary section 6(3) transfer must occur within five days.
+D. Only the Commission may transfer an application.
+### MCQ 8. Decision clocks
+
+A request concerns an immediate threat to life, while a routine records request is filed the same day. What two decision clocks must the PIO distinguish under section 7?
+
+A. Ordinary request: 45 days; life/liberty: 7 days.
+B. Ordinary request: 15 days; life/liberty: 24 hours.
+C. Ordinary request: 30 days; life/liberty: 5 days.
+D. Ordinary request: 30 days; life/liberty: 48 hours.
+### MCQ 9. Delay consequences
+
+A public authority gives no decision within the applicable period. The Act treats this as
+
+A. deemed refusal, and delayed information is to be supplied free of charge.
+B. automatic criminal contempt.
+C. acceptance of every factual allegation in the application.
+D. termination of the applicant's appeal right.
+### MCQ 10. Exemption method
+
+A record is stamped 'confidential' but contains separable public spending figures. What inquiry must precede withholding instead of treating the stamp as an exemption?
+
+A. Accept 'confidential' as a complete legal reason.
+B. Identify the exact clause and protected harm, then test overrides and severability.
+C. Withhold every record containing a personal name.
+D. Ask the third party to decide conclusively.
+### MCQ 11. Public-interest override
+
+An otherwise exempt record bears strong evidence of systemic abuse; a PIO says the Official Secrets Act makes balancing legally impossible. What statutory override could still permit disclosure?
+
+A. the applicant is a journalist.
+B. the record is politically controversial.
+C. public interest in disclosure outweighs harm to the protected interests, notwithstanding section 8(1) and the Official Secrets Act.
+D. twenty years have passed in every case.
+### MCQ 12. Twenty-year rule
+
+A twenty-year-old Cabinet file is sought; the applicant says its age alone extinguishes every remaining exemption and copyright rule. Which section 8(3) limit survives?
+
+A. preserves every exemption forever.
+B. removes section 9 copyright.
+C. requires disclosure only with court approval.
+D. favours disclosure but continues protection under section 8(1)(a), (c) and (i).
+### MCQ 13. Copyright
+
+Section 9 may justify rejection where providing access would
+
+A. infringe copyright subsisting in a person other than the State.
+B. embarrass the public authority.
+C. reveal an official error.
+D. require severance of an exempt line.
+### MCQ 14. Severability
+
+A file contains one exempt paragraph and separable non-exempt expenditure totals. The correct first step is to
+
+A. reject the entire file.
+B. apply section 10 and disclose the reasonably severable remainder.
+C. seek Parliament's permission.
+D. convert the request into a complaint.
+### MCQ 15. Third-party procedure
+
+A third party objects to release of its records, and a PIO treats its objection as a veto. What procedure and decision rule actually follow from section 11?
+
+A. It is an absolute exemption for all third-party information.
+B. It gives the third party a veto.
+C. It provides notice and representation before the PIO decides under the actual exemption/public-interest rules.
+D. It applies only when the third party is a private company.
+### MCQ 16. CIC composition
+
+The Central Information Commission consists of
+
+A. exactly eleven Information Commissioners besides the Chief.
+B. the Chief and any number fixed annually by Cabinet.
+C. only a Chief Information Commissioner.
+D. the Chief Information Commissioner and not more than ten Information Commissioners.
+### MCQ 17. CIC appointment
+
+An appointment notice replaces the Lok Sabha opposition representative with the Speaker in the CIC selection panel. Which appointing authority and committee composition would satisfy the Act?
+
+A. The President, on a committee of PM, Lok Sabha LoP/deemed leader and a Union Cabinet Minister nominated by the PM.
+B. The Prime Minister alone, after consulting the CJI.
+C. The Lok Sabha, by a special-majority resolution.
+D. The President, on a committee including the Speaker and Cabinet Secretary.
+### MCQ 18. SIC appointment
+
+A State Cabinet excludes the Assembly opposition leader from its SIC appointment panel. Which three-office selection design must it follow?
+
+A. the Governor as chair and the High Court Chief Justice.
+B. the Chief Minister as chair, Assembly LoP/deemed leader and a State Cabinet Minister nominated by the CM.
+C. both Houses' Leaders of Opposition in every State.
+D. the Speaker, Chief Secretary and Advocate-General.
+### MCQ 19. Qualifications and bars
+
+A sitting MP, a party office-bearer and an independent science expert seek appointment as Information Commissioner. Who passes the expertise test without the statutory disqualifying affiliations?
+
+A. A serving MP with journalism experience.
+B. A party office-bearer who resigns after appointment.
+C. An eminent public-life expert in science and technology with no barred office, party, business or professional connection.
+D. Only a retired Supreme Court judge.
+### MCQ 20. Act versus Rules
+
+A litigant assumes that because commissioners' current term is three years, the unamended RTI Act itself must fix that number. How should the amended Act and 2019 Rules be distinguished?
+
+A. The Act itself fixes every current salary amount.
+B. State legislatures prescribe SIC tenure independently.
+C. The Rules abolished the age ceiling and removal protection.
+D. The amended Act delegates specified term/service matters; the 2019 Rules prescribe a three-year term and current pay framework.
+### MCQ 21. Reappointment
+
+A serving Information Commissioner seeks renewal in the same office, or alternatively appointment as Chief through the statutory process. Which distinction governs the two applications?
+
+A. An IC is not reappointable as IC but may be appointed Chief through the statutory process, subject to the aggregate five-year limit.
+B. Every commissioner may receive unlimited three-year renewals.
+C. The Chief may be reappointed once by executive order.
+D. Elevation from IC to Chief is automatic by seniority.
+### MCQ 22. Removal
+
+For proved misbehaviour or incapacity of a State Information Commissioner, removal is by
+
+A. the President after a High Court inquiry.
+B. the Governor after a Supreme Court inquiry on the Governor's reference.
+C. the Chief Minister after Cabinet approval.
+D. the State Legislature by impeachment.
+### MCQ 23. Complaint and appeal
+
+An applicant primarily wants an order supplying information after denial. The safest statutory route is
+
+A. only a section 18 complaint.
+B. a civil suit under section 23.
+C. section 19 first and second appeals, consistent with *State of Manipur*.
+D. a disciplinary complaint to the PIO's employer.
+### MCQ 24. Section 18 powers
+
+Which power belongs to a section 18 inquiry?
+
+A. Granting the applicant's disputed land title.
+B. Convicting the PIO of corruption.
+C. Striking down section 8(1)(j).
+D. Summoning witnesses and examining evidence on oath.
+### MCQ 25. First appeal
+
+The ordinary first appeal lies
+
+A. within thirty days to an officer senior in rank to the PIO in that public authority.
+B. within ninety days directly to the Supreme Court.
+C. to the third party whose record is sought.
+D. only after a section 18 complaint.
+### MCQ 26. Second appeal and burden
+
+In a section 19 second appeal
+
+A. the applicant must prove the PIO acted mala fide before disclosure can be ordered.
+B. the PIO bears the onus of proving that denial was justified, and the Commission's decision is binding under the Act.
+C. the FAA's decision is constitutionally final.
+D. the Commission cannot examine exemptions.
+### MCQ 27. Section 19 remedies
+
+A Commission finds systemic record-management failure and demonstrated loss to an applicant. What corrective order and compensation are within its appellate remedial power, unlike a criminal sentence?
+
+A. Ordering criminal imprisonment of a minister.
+B. Rewriting the RTI Act's exemption list.
+C. Requiring improved record-management practices and compensating proven loss or detriment.
+D. Creating a record that never existed.
+### MCQ 28. Penalty discipline
+
+A PIO responds late; an official proposes an immediate maximum fine against the ministry without hearing the officer or considering persistent default. What section 20 penalty process applies instead?
+
+A. Every one-day delay automatically produces Rs 25,000 penalty.
+B. Penalty is a fine on the ministry and replaces compensation.
+C. The applicant bears the burden to prove the PIO lacked due care.
+D. After hearing, the responsible PIO may face Rs 250 per day up to Rs 25,000, while persistent default may support disciplinary recommendation.
+### MCQ 29. Section 24
+
+A human-rights-violation request concerning a listed Central security organisation
+
+A. uses the CIC-approval route and a forty-five-day period; corruption allegations do not automatically carry those extra conditions.
+B. is absolutely excluded in every circumstance.
+C. must be answered within forty-eight hours without approval.
+D. can be decided only by Parliament.
+### MCQ 30. Override and court bar
+
+A public authority argues that RTI's overriding clause cancels its own exemptions and that the statutory court bar extinguishes High Court writ jurisdiction. Which interpretation of sections 22 and 23 rejects both extremes?
+
+A. Section 22 repeals every exemption and section 23 abolishes writ review.
+B. Section 22 overrides inconsistent external law while RTI's own limits remain; section 23 does not oust Articles 226 and 32.
+C. Section 23 authorises a fresh civil suit against every Commission order.
+D. The Official Secrets Act always prevails over section 8(2).
+### MCQ 31. Case-law control
+
+An advocate cites a pre-substitution privacy case as if it interpreted today's RTI clause, and says the CJI's office is categorically exempt from the Act. Which actual case holding corrects the latter error?
+
+A. *Girish Deshpande* interpreted the post-2025 clause.
+B. *Jayantilal Mistry* held every bank customer's record automatically public.
+C. *Subhash Chandra Agarwal* held the CJI office a public authority but preserved privacy/confidentiality/independence balancing.
+D. *CBSE* required every authority to create explanatory answers.
+### MCQ 32. Monitoring and access reform
+
+Which reform bundle best fits the Act?
+
+A. Require applicants to prove good motive.
+B. Eliminate physical filing in favour of a portal.
+C. Treat every repetitive request as abuse without hearing.
+D. Advance vacancy planning, section 4 audits, better records, compliance tracking, PIO training and assisted offline/digital access.
+### MCQ 33. Old precedent, current privacy clause
+
+In September 2026 a PIO quotes the former public-activity test in RTI section 8(1)(j) as the operative statutory text. Which correction is defensible?
+
+A. Since 13 November 2025, the DPDP Act's section 44(3) substitution reads “information which relates to personal information”; the separate section 8(2) public-interest override and severability remain relevant.
+B. All DPDP duties and rights commenced simultaneously in 2023, so the RTI Act ceased to operate.
+C. The older proviso about legislative access remains verbatim in current section 8(1)(j).
+D. The new clause makes every Commission appeal and constitutional privacy inquiry unlawful.
+### MCQ 34. Security organisation and corruption allegation
+
+An RTI application names an organisation in the Second Schedule under section 24 and seeks records bearing on an allegation of corruption. Which is the best statement?
+
+A. Every listed organisation is completely outside RTI regardless of subject.
+B. Section 24's exclusion has a corruption and human-rights-violation exception; the latter follows a distinct Commission-approval route and forty-five-day limit.
+C. A corruption allegation is subject to the same prior Commission approval as a human-rights allegation in every case.
+D. The general section 7 life-or-liberty clock automatically replaces section 24's special human-rights procedure.
+### MCQ 35. Complaint without disclosure order
+
+A PIO declines an RTI application; an applicant files only a section 18 complaint demanding that CIC immediately provide certified copies. What is the sound remedy map?
+
+A. Section 18 complaint and section 19 appeal are interchangeable routes to the same disclosure order.
+B. The applicant has no possible RTI remedy after a refusal.
+C. The Commission may inquire into access failure under section 18, but the section 19 appeal route supplies a disclosure direction; section 20 penalty remains separately condition-dependent.
+D. The Commission must first decide the applicant's underlying land-title dispute before furnishing the record.
+### MCQ 36. Commission decision and constitutional supervision
+
+A SIC issues a binding second-appeal decision under section 19. The public authority argues that section 23 excludes all judicial oversight. Which proposition survives?
+
+A. The order is merely advisory until the Governor personally countersigns it.
+B. The Commission may hear a third appeal against its own decision under Article 280.
+C. Section 23 makes the High Court's Article 226 jurisdiction disappear.
+D. The appellate order binds within the RTI statutory scheme, while section 23's court bar does not oust constitutional review under Articles 226 and 32.
+
+## SEPARATE SOLVED MCQ KEY
+
+### MCQ 1 — Answer A
+
+A.**
 
 **Option-specific explanations:**
 
@@ -28,16 +312,9 @@ D. They are executive committees without adjudicatory powers.
 
 **Examiner trap 1:** Constitutional value does not convert statutory origin into constitutional status.
 
-### MCQ 2. Meaning of information
+### MCQ 2 — Answer B
 
-A citizen asks a ministry to create a fresh expert opinion explaining why a policy failed. Which is most accurate?
-
-A. The ministry must create it because opinions are listed in section 2(f).
-B. RTI reaches an existing recorded opinion but does not ordinarily require creation of a new one.
-C. The Commission must write the expert opinion.
-D. Every 'why' question is outside RTI even when reasons are already recorded.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -48,16 +325,9 @@ D. Every 'why' question is outside RTI even when reasons are already recorded.
 
 **Examiner trap 2:** The grammar of the request is less important than whether responsive recorded material exists.
 
-### MCQ 3. Forms of access
+### MCQ 3 — Answer C
 
-Which is expressly included in the section 2(j) right to information?
-
-A. A direction granting the applicant's pension.
-B. A criminal investigation into a bribery allegation.
-C. Taking certified samples of material.
-D. A fresh legal opinion from the PIO.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -68,16 +338,9 @@ D. A fresh legal opinion from the PIO.
 
 **Examiner trap 3:** Access to a sample is statutory; access to the underlying service entitlement is not.
 
-### MCQ 4. Public-authority gateway
+### MCQ 4 — Answer D
 
-Which proposition best states the section 2(h) boundary?
-
-A. Every registered society is a public authority.
-B. Any government regulation proves control.
-C. Any financial concession is automatically substantial finance.
-D. Substantial control or substantial direct/indirect government finance requires a real, fact-sensitive link.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -88,16 +351,9 @@ D. Substantial control or substantial direct/indirect government finance require
 
 **Examiner trap 4:** Do not replace the statutory adjective 'substantial' with 'any'.
 
-### MCQ 5. Proactive disclosure
+### MCQ 5 — Answer A
 
-The central purpose of section 4(2) is to
-
-A. promote maximum suo motu disclosure so citizens need minimum resort to requests.
-B. authorise the Commission to amend exemptions.
-C. replace every PIO with an online portal.
-D. make publication optional where records are digitised.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -108,16 +364,9 @@ D. make publication optional where records are digitised.
 
 **Examiner trap 5:** A website is a channel; section 4 is a continuing institutional duty.
 
-### MCQ 6. APIO route
+### MCQ 6 — Answer B
 
-An application submitted through a designated Assistant Public Information Officer ordinarily has
-
-A. no valid filing effect until it reaches the PIO.
-B. five days added when computing the response period.
-C. a guaranteed five-day final decision.
-D. automatic fee exemption.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -128,16 +377,9 @@ D. automatic fee exemption.
 
 **Examiner trap 6:** Do not confuse the APIO addition with the section 6(3) transfer deadline.
 
-### MCQ 7. Application and transfer
+### MCQ 7 — Answer C
 
-Which statement is correct?
-
-A. The applicant must prove a public-interest motive.
-B. A transfer may wait until the thirtieth day.
-C. A request needs no reasons, and a necessary section 6(3) transfer must occur within five days.
-D. Only the Commission may transfer an application.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -148,16 +390,9 @@ D. Only the Commission may transfer an application.
 
 **Examiner trap 7:** A motive-free application can still be subject to lawful exemptions.
 
-### MCQ 8. Decision clocks
+### MCQ 8 — Answer D
 
-Which pairing is accurate under section 7?
-
-A. Ordinary request: 45 days; life/liberty: 7 days.
-B. Ordinary request: 15 days; life/liberty: 24 hours.
-C. Ordinary request: 30 days; life/liberty: 5 days.
-D. Ordinary request: 30 days; life/liberty: 48 hours.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -168,16 +403,9 @@ D. Ordinary request: 30 days; life/liberty: 48 hours.
 
 **Examiner trap 8:** Life-or-liberty urgency is not a general fast track for every important request.
 
-### MCQ 9. Delay consequences
+### MCQ 9 — Answer A
 
-A public authority gives no decision within the applicable period. The Act treats this as
-
-A. deemed refusal, and delayed information is to be supplied free of charge.
-B. automatic criminal contempt.
-C. acceptance of every factual allegation in the application.
-D. termination of the applicant's appeal right.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -188,16 +416,9 @@ D. termination of the applicant's appeal right.
 
 **Examiner trap 9:** Free supply after delay is distinct from compensation and section 20 penalty.
 
-### MCQ 10. Exemption method
+### MCQ 10 — Answer B
 
-Which is the soundest section 8 method?
-
-A. Accept 'confidential' as a complete legal reason.
-B. Identify the exact clause and protected harm, then test overrides and severability.
-C. Withhold every record containing a personal name.
-D. Ask the third party to decide conclusively.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -208,16 +429,9 @@ D. Ask the third party to decide conclusively.
 
 **Examiner trap 10:** The burden of legal classification remains with the statutory decision-maker.
 
-### MCQ 11. Public-interest override
+### MCQ 11 — Answer C
 
-Section 8(2) permits disclosure when
-
-A. the applicant is a journalist.
-B. the record is politically controversial.
-C. public interest in disclosure outweighs harm to the protected interests, notwithstanding section 8(1) and the Official Secrets Act.
-D. twenty years have passed in every case.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -228,16 +442,9 @@ D. twenty years have passed in every case.
 
 **Examiner trap 11:** Public interest is a reasoned balance, not the applicant's status or curiosity.
 
-### MCQ 12. Twenty-year rule
+### MCQ 12 — Answer D
 
-For information relating to an event twenty years before the request, section 8(3) generally
-
-A. preserves every exemption forever.
-B. removes section 9 copyright.
-C. requires disclosure only with court approval.
-D. favours disclosure but continues protection under section 8(1)(a), (c) and (i).
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -248,16 +455,9 @@ D. favours disclosure but continues protection under section 8(1)(a), (c) and (i
 
 **Examiner trap 12:** Remember the exact surviving letters: A, C and I.
 
-### MCQ 13. Copyright
+### MCQ 13 — Answer A
 
-Section 9 may justify rejection where providing access would
-
-A. infringe copyright subsisting in a person other than the State.
-B. embarrass the public authority.
-C. reveal an official error.
-D. require severance of an exempt line.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -268,16 +468,9 @@ D. require severance of an exempt line.
 
 **Examiner trap 13:** Copyright and confidentiality are different legal concepts.
 
-### MCQ 14. Severability
+### MCQ 14 — Answer B
 
-A file contains one exempt paragraph and separable non-exempt expenditure totals. The correct first step is to
-
-A. reject the entire file.
-B. apply section 10 and disclose the reasonably severable remainder.
-C. seek Parliament's permission.
-D. convert the request into a complaint.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -288,16 +481,9 @@ D. convert the request into a complaint.
 
 **Examiner trap 14:** A single protected passage does not contaminate every page.
 
-### MCQ 15. Third-party procedure
+### MCQ 15 — Answer C
 
-Which statement about section 11 is correct?
-
-A. It is an absolute exemption for all third-party information.
-B. It gives the third party a veto.
-C. It provides notice and representation before the PIO decides under the actual exemption/public-interest rules.
-D. It applies only when the third party is a private company.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -308,16 +494,9 @@ D. It applies only when the third party is a private company.
 
 **Examiner trap 15:** Consultation protects participation, not private control over the statutory decision.
 
-### MCQ 16. CIC composition
+### MCQ 16 — Answer D
 
-The Central Information Commission consists of
-
-A. exactly eleven Information Commissioners besides the Chief.
-B. the Chief and any number fixed annually by Cabinet.
-C. only a Chief Information Commissioner.
-D. the Chief Information Commissioner and not more than ten Information Commissioners.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -328,16 +507,9 @@ D. the Chief Information Commissioner and not more than ten Information Commissi
 
 **Examiner trap 16:** A statutory maximum is not proof of current filled strength.
 
-### MCQ 17. CIC appointment
+### MCQ 17 — Answer A
 
-Who appoints Central commissioners and on whose recommendation?
-
-A. The President, on a committee of PM, Lok Sabha LoP/deemed leader and a Union Cabinet Minister nominated by the PM.
-B. The Prime Minister alone, after consulting the CJI.
-C. The Lok Sabha, by a special-majority resolution.
-D. The President, on a committee including the Speaker and Cabinet Secretary.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -348,16 +520,9 @@ D. The President, on a committee including the Speaker and Cabinet Secretary.
 
 **Examiner trap 17:** The appointing authority and committee chair are different offices.
 
-### MCQ 18. SIC appointment
+### MCQ 18 — Answer B
 
-The State Information Commission appointment committee includes
-
-A. the Governor as chair and the High Court Chief Justice.
-B. the Chief Minister as chair, Assembly LoP/deemed leader and a State Cabinet Minister nominated by the CM.
-C. both Houses' Leaders of Opposition in every State.
-D. the Speaker, Chief Secretary and Advocate-General.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -368,16 +533,9 @@ D. the Speaker, Chief Secretary and Advocate-General.
 
 **Examiner trap 18:** Bicameralism does not add a Council seat to the section 15 committee.
 
-### MCQ 19. Qualifications and bars
+### MCQ 19 — Answer C
 
-Which candidate satisfies the statutory design most clearly?
-
-A. A serving MP with journalism experience.
-B. A party office-bearer who resigns after appointment.
-C. An eminent public-life expert in science and technology with no barred office, party, business or professional connection.
-D. Only a retired Supreme Court judge.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -388,16 +546,9 @@ D. Only a retired Supreme Court judge.
 
 **Examiner trap 19:** The Commission is multidisciplinary, but eligibility never overrides disqualification.
 
-### MCQ 20. Act versus Rules
+### MCQ 20 — Answer D
 
-Which statement correctly separates the post-2019 sources?
-
-A. The Act itself fixes every current salary amount.
-B. State legislatures prescribe SIC tenure independently.
-C. The Rules abolished the age ceiling and removal protection.
-D. The amended Act delegates specified term/service matters; the 2019 Rules prescribe a three-year term and current pay framework.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -408,16 +559,9 @@ D. The amended Act delegates specified term/service matters; the 2019 Rules pres
 
 **Examiner trap 20:** A rule-prescribed fact should not be misattributed to the text of Parliament's section.
 
-### MCQ 21. Reappointment
+### MCQ 21 — Answer A
 
-Which statement is accurate?
-
-A. An IC is not reappointable as IC but may be appointed Chief through the statutory process, subject to the aggregate five-year limit.
-B. Every commissioner may receive unlimited three-year renewals.
-C. The Chief may be reappointed once by executive order.
-D. Elevation from IC to Chief is automatic by seniority.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -428,16 +572,9 @@ D. Elevation from IC to Chief is automatic by seniority.
 
 **Examiner trap 21:** Eligibility for elevation is not a vested right to elevation.
 
-### MCQ 22. Removal
+### MCQ 22 — Answer B
 
-For proved misbehaviour or incapacity of a State Information Commissioner, removal is by
-
-A. the President after a High Court inquiry.
-B. the Governor after a Supreme Court inquiry on the Governor's reference.
-C. the Chief Minister after Cabinet approval.
-D. the State Legislature by impeachment.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -448,16 +585,9 @@ D. the State Legislature by impeachment.
 
 **Examiner trap 22:** Do not import the SHRC's different removal architecture.
 
-### MCQ 23. Complaint and appeal
+### MCQ 23 — Answer C
 
-An applicant primarily wants an order supplying information after denial. The safest statutory route is
-
-A. only a section 18 complaint.
-B. a civil suit under section 23.
-C. section 19 first and second appeals, consistent with *State of Manipur*.
-D. a disciplinary complaint to the PIO's employer.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -468,16 +598,9 @@ D. a disciplinary complaint to the PIO's employer.
 
 **Examiner trap 23:** Choose the route by the relief sought, not merely by the officer's conduct.
 
-### MCQ 24. Section 18 powers
+### MCQ 24 — Answer D
 
-Which power belongs to a section 18 inquiry?
-
-A. Granting the applicant's disputed land title.
-B. Convicting the PIO of corruption.
-C. Striking down section 8(1)(j).
-D. Summoning witnesses and examining evidence on oath.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -488,16 +611,9 @@ D. Summoning witnesses and examining evidence on oath.
 
 **Examiner trap 24:** Evidence powers do not alter the Commission's statutory identity.
 
-### MCQ 25. First appeal
+### MCQ 25 — Answer A
 
-The ordinary first appeal lies
-
-A. within thirty days to an officer senior in rank to the PIO in that public authority.
-B. within ninety days directly to the Supreme Court.
-C. to the third party whose record is sought.
-D. only after a section 18 complaint.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -508,16 +624,9 @@ D. only after a section 18 complaint.
 
 **Examiner trap 25:** The FAA is internal to the public authority but distinct from the PIO.
 
-### MCQ 26. Second appeal and burden
+### MCQ 26 — Answer B
 
-In a section 19 second appeal
-
-A. the applicant must prove the PIO acted mala fide before disclosure can be ordered.
-B. the PIO bears the onus of proving that denial was justified, and the Commission's decision is binding under the Act.
-C. the FAA's decision is constitutionally final.
-D. the Commission cannot examine exemptions.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -528,16 +637,9 @@ D. the Commission cannot examine exemptions.
 
 **Examiner trap 26:** Burden reversal corrects the public authority's informational advantage.
 
-### MCQ 27. Section 19 remedies
+### MCQ 27 — Answer C
 
-Which is within section 19(8)?
-
-A. Ordering criminal imprisonment of a minister.
-B. Rewriting the RTI Act's exemption list.
-C. Requiring improved record-management practices and compensating proven loss or detriment.
-D. Creating a record that never existed.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -548,16 +650,9 @@ D. Creating a record that never existed.
 
 **Examiner trap 27:** Compliance power is broad within RTI administration, not across all governance disputes.
 
-### MCQ 28. Penalty discipline
+### MCQ 28 — Answer D
 
-Which statement is legally accurate?
-
-A. Every one-day delay automatically produces Rs 25,000 penalty.
-B. Penalty is a fine on the ministry and replaces compensation.
-C. The applicant bears the burden to prove the PIO lacked due care.
-D. After hearing, the responsible PIO may face Rs 250 per day up to Rs 25,000, while persistent default may support disciplinary recommendation.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -568,16 +663,9 @@ D. After hearing, the responsible PIO may face Rs 250 per day up to Rs 25,000, w
 
 **Examiner trap 28:** Penalty, compensation and discipline differ in target, purpose and process.
 
-### MCQ 29. Section 24
+### MCQ 29 — Answer A
 
-A human-rights-violation request concerning a listed Central security organisation
-
-A. uses the CIC-approval route and a forty-five-day period; corruption allegations do not automatically carry those extra conditions.
-B. is absolutely excluded in every circumstance.
-C. must be answered within forty-eight hours without approval.
-D. can be decided only by Parliament.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -588,16 +676,9 @@ D. can be decided only by Parliament.
 
 **Examiner trap 29:** Separate the shared exception categories from the special conditions attached only to human rights.
 
-### MCQ 30. Override and court bar
+### MCQ 30 — Answer B
 
-Which combined statement is correct?
-
-A. Section 22 repeals every exemption and section 23 abolishes writ review.
-B. Section 22 overrides inconsistent external law while RTI's own limits remain; section 23 does not oust Articles 226 and 32.
-C. Section 23 authorises a fresh civil suit against every Commission order.
-D. The Official Secrets Act always prevails over section 8(2).
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -608,16 +689,9 @@ D. The Official Secrets Act always prevails over section 8(2).
 
 **Examiner trap 30:** Statutory finality and constitutional judicial review coexist.
 
-### MCQ 31. Case-law control
+### MCQ 31 — Answer C
 
-Which pairing is accurate?
-
-A. *Girish Deshpande* interpreted the post-2025 clause.
-B. *Jayantilal Mistry* held every bank customer's record automatically public.
-C. *Subhash Chandra Agarwal* held the CJI office a public authority but preserved privacy/confidentiality/independence balancing.
-D. *CBSE* required every authority to create explanatory answers.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -628,16 +702,9 @@ D. *CBSE* required every authority to create explanatory answers.
 
 **Examiner trap 31:** Always pair a case with its date-controlled statutory context.
 
-### MCQ 32. Monitoring and access reform
+### MCQ 32 — Answer D
 
-Which reform bundle best fits the Act?
-
-A. Require applicants to prove good motive.
-B. Eliminate physical filing in favour of a portal.
-C. Treat every repetitive request as abuse without hearing.
-D. Advance vacancy planning, section 4 audits, better records, compliance tracking, PIO training and assisted offline/digital access.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -647,6 +714,58 @@ D. Advance vacancy planning, section 4 audits, better records, compliance tracki
 - **D:** The bundle addresses adjudicatory capacity, prevention, enforcement and the digital divide.
 
 **Examiner trap 32:** A reform is defensible when it strengthens statutory access without adding a new exclusion.
+
+### MCQ 33 — Answer A
+
+A.**
+
+**Option-specific explanations:**
+
+- **A:** The notified effective date controls the new clause, while sections 8(2) and 10 remain available for lawful balancing and redaction.
+- **B:** Enactment and staged commencement are distinct; RTI's appeal framework survives.
+- **C:** The former clause-specific tests and proviso were removed by substitution, not preserved as current words.
+- **D:** The changed exemption does not repeal appeal rights or constitutional review.
+
+**Examiner trap 33:** Date the cited statutory language and separate old-clause case analysis from the text now in force.
+
+### MCQ 34 — Answer B
+
+B.**
+
+**Option-specific explanations:**
+
+- **A:** The statutory proviso retains access routes for corruption and human-rights allegations.
+- **B:** It preserves the different procedural treatment and timing specified for human-rights information.
+- **C:** Prior Commission approval is specifically attached to information concerning allegations of human-rights violations.
+- **D:** The special section 24 proviso cannot be erased by importing an unrelated ordinary clock.
+
+**Examiner trap 34:** Do not apply the human-rights approval gate wholesale to corruption information.
+
+### MCQ 35 — Answer C
+
+C.**
+
+**Option-specific explanations:**
+
+- **A:** *Chief Information Commissioner v. State of Manipur* distinguishes inquiry from the appeal-based disclosure remedy.
+- **B:** Refusal triggers the statutory appeal ladder, subject to its procedure and time limits.
+- **C:** This separates oversight, access remedy and personal penalty without implying automatic sanctions.
+- **D:** RTI grants access to recorded material, not merits adjudication of a land dispute.
+
+**Examiner trap 35:** A jurisdiction to investigate denial does not itself supply every form of appellate relief.
+
+### MCQ 36 — Answer D
+
+D.**
+
+**Option-specific explanations:**
+
+- **A:** Section 19 decisions have statutory binding force without gubernatorial endorsement.
+- **B:** Article 280 concerns the Finance Commission, not an RTI appeal tier.
+- **C:** Ordinary statutory exclusion cannot extinguish the High Court's constitutional writ power.
+- **D:** It keeps statutory finality distinct from constitutional judicial supervision.
+
+**Examiner trap 36:** Binding statutory orders are still reviewable for legality in constitutional courts.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -700,9 +819,9 @@ Section 20 creates personal deterrence without making penalty automatic.
 
 The Commission may penalise the responsible CPIO/SPIO for unjustified refusal, delay, mala fide denial, knowingly incorrect, incomplete or misleading information, destruction, or obstruction. The rate is Rs 250 per day, capped at Rs 25,000.
 
-Fairness has three controls: a reasonable hearing, proof of a statutory ground rather than mere adverse outcome, and the PIO's opportunity to prove reasonable and diligent conduct.
+Fairness has three controls: a reasonable opportunity of being heard, proof of a listed statutory ground rather than mere adverse outcome, and the PIO's burden to prove reasonable and diligent conduct. Thus, where a flood destroys records despite documented preservation attempts, the Commission must assess the explanation, not levy a mechanical daily fine; where a PIO knowingly destroys a responsive register, it must address that distinct statutory ground with recorded reasons.
 
-Persistent default may separately support disciplinary recommendation. Compensation under section 19(8)(b), borne by the public authority, instead restores applicant loss.
+Persistent default may separately support disciplinary recommendation under the service rules. Compensation under section 19(8)(b), borne by the public authority, instead addresses the applicant's loss or detriment; it is neither a substitute for personal penalty nor a windfall for every delayed reply.
 
 Thus, section 20 combines individual accountability, due care and proportionate consequence.
 
@@ -783,4 +902,3 @@ The RTI Act creates a complete accountability chain, but the chain is only as st
 RTI is not legally toothless. Its democratic value depends on converting statutory clocks and binding powers into inclusive, timely and reviewable disclosure.
 
 **Audited prose count:** 225 words.
-

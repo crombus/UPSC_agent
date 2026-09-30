@@ -6,835 +6,351 @@ topic_key: indian-society-08
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Empowerment against welfare receipt?
+All questions precede the separately matched key. Original practice items, not objective PYQs.
 
-A. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-B. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
+### Q1. A student receives a scholarship but inaccessible transport prevents attendance. Which stage fails?
 
-**Answer: A.**
-**Explanation:** Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over. The remaining options belong to different chronology, actor or analytical categories.
+A. Conversion of entitlement into usable capability
+B. The existence of any financial input
+C. All legal recognition of disability
+D. Formal admission to the course
 
-### Q2. Which chronology card should be filed under Empowerment against welfare receipt?
+### Q2. Two students receive identical seats; one needs preparatory tutoring after poor prior schooling. What does Sen's framework predict?
 
-A. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-B. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
+A. Different conversion factors produce unequal real freedoms
+B. Identical resources ensure identical outcomes
+C. Tutoring cancels the entitlement
+D. Only household income determines achievement
 
-**Answer: B.**
-**Explanation:** Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over. The remaining options belong to different chronology, actor or analytical categories.
+### Q3. Which is an observed functioning rather than a resource or an abstract capability?
 
-### Q3. Which option preserves the source-bounded meaning of Empowerment against welfare receipt?
+A. Eligibility for a scholarship
+B. Actually attending and completing a course
+C. A bus pass
+D. A constitutional promise of equal opportunity
 
-A. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-B. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-C. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-D. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
+### Q4. A district reports higher incomes for a formerly excluded group but discrimination persists in housing. Which inference fits?
 
-**Answer: C.**
-**Explanation:** Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over. The remaining options belong to different chronology, actor or analytical categories.
+A. Income establishes equal recognition
+B. Housing access is unrelated to mobility
+C. Formal economic mobility may coexist with social closure
+D. No mobility took place
 
-### Q4. Which statement avoids a close-option trap about Empowerment against welfare receipt?
+### Q5. Which of these most accurately contrasts open and closed stratification?
 
-A. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-B. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-C. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-D. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
+A. Open systems reward achievement more; closed systems rely more on ascribed status
+B. Open systems never discriminate
+C. Closed systems bar all economic change forever
+D. Present-day India is entirely one type
 
-**Answer: D.**
-**Explanation:** Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over. The remaining options belong to different chronology, actor or analytical categories.
+### Q6. A group changes its public status through Sanskritisation but remains excluded from housing. What follows?
 
-### Q5. Which statement correctly identifies The capability approach?
+A. A status strategy can coexist with persistent structural exclusion
+B. It has abolished caste hierarchy
+C. Caste mobility always changes occupation
+D. Sanskritisation is the same as statutory reservation
 
-A. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-B. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
+### Q7. Which combination captures Phule's reform diagnosis?
 
-**Answer: A.**
-**Explanation:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. The remaining options belong to different chronology, actor or analytical categories.
+A. Only elite women's franchise
+B. Caste hierarchy, girls' education and peasant exploitation
+C. Only income redistribution
+D. Only reforming marriage between castes
 
-### Q6. Which chronology card should be filed under The capability approach?
+### Q8. What is the role of Savitribai Phule in assessing Phule's education agenda?
 
-A. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-B. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-C. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-D. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
+A. Evidence that all peasant exploitation ended
+B. Founder of the National Commission for Scheduled Castes
+C. Named collaborator in education for girls and excluded groups
+D. Proof that everyone was literate
 
-**Answer: B.**
-**Explanation:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. The remaining options belong to different chronology, actor or analytical categories.
+### Q9. Why is Phule's Satyashodhak Samaj important for a sociological answer?
 
-### Q7. Which option preserves the source-bounded meaning of The capability approach?
+A. It organised critique of Brahminical ritual dominance and linked learning to social reform
+B. It was an Article 338B commission
+C. It established the Rights of Persons with Disabilities Act
+D. It replaced all later reform movements
 
-A. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-B. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-C. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
+### Q10. Which account captures Ambedkar's graded inequality?
 
-**Answer: C.**
-**Explanation:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. The remaining options belong to different chronology, actor or analytical categories.
+A. Ranked caste relations can give intermediate groups a stake in hierarchy
+B. A simple rich–poor division
+C. A division of labour without status ranking
+D. A single local prejudice curable only by etiquette
 
-### Q8. Which statement avoids a close-option trap about The capability approach?
+### Q11. Why did Ambedkar argue for annihilation of caste rather than mere occupational mobility?
 
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-C. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-D. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
+A. Reservation itself abolishes social rank
+B. Hierarchy and social sanction reproduce graded inequality beyond any single job change
+C. Occupational gains automatically end endogamy
+D. He rejected all constitutional safeguards
 
-**Answer: D.**
-**Explanation:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. The remaining options belong to different chronology, actor or analytical categories.
+### Q12. A reserved-category student is admitted but struggles due to weak school preparation. What is the most targeted complement?
 
-### Q9. Which statement correctly identifies Agency view against welfare view?
+A. Add identical seats without other changes
+B. Record enrolment as proof of success
+C. Bridge teaching and mentoring alongside the entitlement
+D. Remove the student's admission
 
-A. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-B. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-C. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
+### Q13. Which pair names the correct constitutional commissions for SC and ST interests?
 
-**Answer: A.**
-**Explanation:** A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency. The remaining options belong to different chronology, actor or analytical categories.
+A. National Commission for Scheduled Castes—Article 338; National Commission for Scheduled Tribes—338A
+B. Both under Article 338B
+C. SC—Article 350B; ST—Article 29
+D. SC—Article 17; ST—Article 30
 
-### Q10. Which chronology card should be filed under Agency view against welfare view?
+### Q14. An answer assigns NCBC and the constitutional ST commission the same article. What fixes it?
 
-A. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-B. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-C. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
+A. NCBC is under Article 338B; ST commission under Article 338A
+B. Both are under Article 341
+C. Both are statutory commissions under the 1992 minorities law
+D. Article 17 establishes both bodies
 
-**Answer: B.**
-**Explanation:** A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of Agency view against welfare view?
-
-A. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-B. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-
-**Answer: C.**
-**Explanation:** A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about Agency view against welfare view?
-
-A. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-D. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-
-**Answer: D.**
-**Explanation:** A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies Three-stage conversion chain?
-
-A. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-B. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-C. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-
-**Answer: A.**
-**Explanation:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under Three-stage conversion chain?
-
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-C. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-D. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-
-**Answer: B.**
-**Explanation:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of Three-stage conversion chain?
-
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-
-**Answer: C.**
-**Explanation:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about Three-stage conversion chain?
-
-A. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-
-**Answer: D.**
-**Explanation:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies Naming the conversion factors?
-
-A. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-B. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-C. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-
-**Answer: A.**
-**Explanation:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under Naming the conversion factors?
-
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-C. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-D. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-
-**Answer: B.**
-**Explanation:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of Naming the conversion factors?
-
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-D. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-
-**Answer: C.**
-**Explanation:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about Naming the conversion factors?
-
-A. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-D. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-
-**Answer: D.**
-**Explanation:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Open and closed stratification?
-
-A. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-B. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-C. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-
-**Answer: A.**
-**Explanation:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Open and closed stratification?
-
-A. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-B. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-
-**Answer: B.**
-**Explanation:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Open and closed stratification?
-
-A. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-D. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-
-**Answer: C.**
-**Explanation:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Open and closed stratification?
-
-A. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-D. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-
-**Answer: D.**
-**Explanation:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Formal and substantive mobility?
-
-A. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-
-**Answer: A.**
-**Explanation:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Formal and substantive mobility?
-
-A. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-B. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-C. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-D. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-
-**Answer: B.**
-**Explanation:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Formal and substantive mobility?
-
-A. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-D. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-
-**Answer: C.**
-**Explanation:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Formal and substantive mobility?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-C. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-D. Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-
-**Answer: D.**
-**Explanation:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Phule's cross-cutting critique?
-
-A. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-
-**Answer: A.**
-**Explanation:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Phule's cross-cutting critique?
-
-A. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-B. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-
-**Answer: B.**
-**Explanation:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Phule's cross-cutting critique?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-C. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-D. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-
-**Answer: C.**
-**Explanation:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Phule's cross-cutting critique?
-
-A. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-B. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-C. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-D. Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-
-**Answer: D.**
-**Explanation:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Education as Phule's chosen lever?
-
-A. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-B. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-
-**Answer: A.**
-**Explanation:** Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Education as Phule's chosen lever?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-C. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-D. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-
-**Answer: B.**
-**Explanation:** Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Education as Phule's chosen lever?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-C. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-D. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-
-**Answer: C.**
-**Explanation:** Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Education as Phule's chosen lever?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-
-**Answer: D.**
-**Explanation:** Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Ambedkar's graded inequality?
-
-A. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-B. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-C. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-D. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-
-**Answer: A.**
-**Explanation:** B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Ambedkar's graded inequality?
-
-A. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-B. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-C. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-D. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-
-**Answer: B.**
-**Explanation:** B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Ambedkar's graded inequality?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-C. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-D. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-
-**Answer: C.**
-**Explanation:** B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Ambedkar's graded inequality?
-
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-B. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-
-**Answer: D.**
-**Explanation:** B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Why graded inequality is self-reinforcing?
-
-A. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-B. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-
-**Answer: A.**
-**Explanation:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Why graded inequality is self-reinforcing?
-
-A. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-B. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-
-**Answer: B.**
-**Explanation:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Why graded inequality is self-reinforcing?
-
-A. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-C. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-D. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-
-**Answer: C.**
-**Explanation:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Why graded inequality is self-reinforcing?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-C. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-D. Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-
-**Answer: D.**
-**Explanation:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Annihilation of caste?
-
-A. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-B. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-C. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-D. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-
-**Answer: A.**
-**Explanation:** Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Annihilation of caste?
-
-A. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-B. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-D. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-
-**Answer: B.**
-**Explanation:** Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Annihilation of caste?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-C. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: C.**
-**Explanation:** Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Annihilation of caste?
-
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-D. Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-
-**Answer: D.**
-**Explanation:** Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Phule and Ambedkar as complementary?
-
-A. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-B. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: A.**
-**Explanation:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Phule and Ambedkar as complementary?
-
-A. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-B. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-D. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-
-**Answer: B.**
-**Explanation:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Phule and Ambedkar as complementary?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: C.**
-**Explanation:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Phule and Ambedkar as complementary?
-
-A. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-D. Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-
-**Answer: D.**
-**Explanation:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Where the affirmative-action gap sits?
-
-A. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-B. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-C. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: A.**
-**Explanation:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Where the affirmative-action gap sits?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-C. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: B.**
-**Explanation:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Where the affirmative-action gap sits?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-D. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-
-**Answer: C.**
-**Explanation:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Where the affirmative-action gap sits?
-
-A. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-B. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-
-**Answer: D.**
-**Explanation:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Capability-building complements?
-
-A. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-D. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-
-**Answer: A.**
-**Explanation:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Capability-building complements?
-
-A. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-B. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-C. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-D. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-
-**Answer: B.**
-**Explanation:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Capability-building complements?
-
-A. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-B. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-C. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-D. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-
-**Answer: C.**
-**Explanation:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Capability-building complements?
-
-A. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-B. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-C. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-D. Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-
-**Answer: D.**
-**Explanation:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Dated multidimensional anchor?
-
-A. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-D. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-
-**Answer: A.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Dated multidimensional anchor?
-
-A. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-B. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-
-**Answer: B.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Dated multidimensional anchor?
-
-A. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-B. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-C. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-D. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-
-**Answer: C.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Dated multidimensional anchor?
-
-A. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-B. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-C. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-D. The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-
-**Answer: D.**
-**Explanation:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Entitlement without capability?
-
-A. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-D. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-
-**Answer: A.**
-**Explanation:** A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Entitlement without capability?
-
-A. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-B. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-
-**Answer: B.**
-**Explanation:** A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Entitlement without capability?
-
-A. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-B. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-C. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-D. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-
-**Answer: C.**
-**Explanation:** A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Entitlement without capability?
-
-A. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-B. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-
-**Answer: D.**
-**Explanation:** A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Capability building that works?
-
-A. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-B. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-
-**Answer: A.**
-**Explanation:** A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Capability building that works?
-
-A. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-B. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-C. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-D. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-
-**Answer: B.**
-**Explanation:** A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Capability building that works?
-
-A. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-B. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-C. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-D. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-
-**Answer: C.**
-**Explanation:** A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Capability building that works?
-
-A. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-B. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-C. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-D. A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
-
-**Answer: D.**
-**Explanation:** A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Formal mobility without recognition?
-
-A. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-B. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-
-**Answer: A.**
-**Explanation:** A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Formal mobility without recognition?
-
-A. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-B. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-C. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-D. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-
-**Answer: B.**
-**Explanation:** A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Formal mobility without recognition?
-
-A. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-B. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-C. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-
-**Answer: C.**
-**Explanation:** A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Formal mobility without recognition?
-
-A. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-B. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-C. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-D. A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-
-**Answer: D.**
-**Explanation:** A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Examination ownership audit?
-
-A. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-B. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-
-**Answer: A.**
-**Explanation:** Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Examination ownership audit?
-
-A. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-B. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-C. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-D. Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-
-**Answer: B.**
-**Explanation:** Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Examination ownership audit?
-
-A. A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-B. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-C. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-D. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-
-**Answer: C.**
-**Explanation:** Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Examination ownership audit?
-
-A. The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-B. An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-C. Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-D. Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers.
-
-**Answer: D.**
-**Explanation:** Two direct General Studies Paper-I demands are carried by this owner's own answer-architecture table, namely the 2024 demand on underprivileged sections not receiving the full benefits of affirmative action worth 15 marks and the 2025 demand on Phule's writings and reform efforts worth 15 marks, while the audited routing ledgers name the Social Justice framework owner and the Modern Indian History reform-movements owner respectively, and both wordings were confirmed in the locally held official 2024 and 2025 question papers. The remaining options belong to different chronology, actor or analytical categories.
+### Q15. Which pairing correctly separates notified constitutional lists?
+
+A. All three—Article 29
+B. SC—Article 341; ST—Article 342; socially and educationally backward classes—Article 342A
+C. SC—Article 342; ST—Article 341; backward classes—Article 338
+D. All three—Article 350B
+
+### Q16. A candidate conflates disability with benchmark disability. Which correction is apt?
+
+A. Benchmark disability is solely a social-label term
+B. The 2016 Act applies only to older persons
+C. Benchmark disability is a specified statutory subcategory, not all persons with disabilities
+D. Every disabled person automatically meets every statutory threshold
+
+### Q17. Which is the narrower claim about the 2019 transgender law?
+
+A. It addresses transgender persons but is not a complete LGBTQIA+ equality or marriage code
+B. It automatically legalises every marriage
+C. It establishes universal disability benchmarks
+D. It establishes a commission for linguistic minorities
+
+### Q18. Which constitutional provision specifically concerns linguistic minorities?
+
+A. Article 350B
+B. Article 338B
+C. Article 341
+D. Article 17
+
+### Q19. How should Articles 29–30 be related to centrally notified religious-minority categories?
+
+A. They apply only to backward classes
+B. Constitutional cultural/educational safeguards and administrative religious notifications are not identical categories
+C. They define the same six named communities exhaustively
+D. They repeal Article 350B
+
+### Q20. What does the Maintenance and Welfare of Parents and Senior Citizens Act 2007 establish?
+
+A. All family care outcomes
+B. The end of old-age isolation
+C. Maintenance and welfare duties, not proof of universal care access
+D. Universal funded pensions for all older people
+
+### Q21. NITI Aayog's 2024 discussion paper estimated 11.28% multidimensional poverty for 2022–23. Which use is legitimate?
+
+A. Cite it as a dated estimate, not a current headcount or agency measure
+B. Call it the 2026 Census poverty stock
+C. Use it as causal proof of reservation effectiveness
+D. Use it as the percentage of individuals with independent voice
+
+### Q22. A student knows a reserved seat exists but cannot reach the institution and fears discrimination. What policy diagnosis follows?
+
+A. Information, mobility and stigma may obstruct conversion into an outcome
+B. Entitlement design must always be deleted
+C. The student's group is uniformly disadvantaged in the same way
+D. The number of seats proves that schooling quality is high
+
+### Q23. Which 2025 GS-I reading of Phule is strongest?
+
+A. His reform is identical to Ambedkar's later theory
+B. His work linked caste critique, women's education and peasant concerns without representing all subalterns uniformly
+C. He worked exclusively on caste, without gender or class
+D. A modern MPI estimate is proof he founded every welfare scheme
+
+### Q24. Which evaluation best separates affirmative-action design from delivery and outcomes?
+
+A. Any covered individual must have gained social recognition
+B. Expanding seats always removes poor prior schooling
+C. Audit entitlement, access barriers, actual use and social voice before identifying the shortfall
+D. Every unused entitlement proves the Constitution offers none
+
+### Separate objective answer key and option-by-option solutions
+
+**Q1 — A.**
+- **A (correct):** Resources alone do not ensure freedom to use them.
+- **B (incorrect):** A scholarship has been received.
+- **C (incorrect):** One accessibility failure does not annul all rights.
+- **D (incorrect):** Admission and regular attendance differ.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q2 — B.**
+- **A (incorrect):** Equal seats do not guarantee equal preparation.
+- **B (correct):** Prior schooling mediates how an entitlement becomes capability.
+- **C (incorrect):** A bridge course complements the seat.
+- **D (incorrect):** Health and stigma may also matter.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q3 — C.**
+- **A (incorrect):** A pass may enable travel but is not study.
+- **B (incorrect):** Eligibility is a legal input.
+- **C (correct):** Achieved education is a functioning; access and eligibility are inputs.
+- **D (incorrect):** A promise is not an achieved outcome.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q4 — D.**
+- **A (incorrect):** The income improvement is a real change.
+- **B (incorrect):** Recognition needs separate evidence.
+- **C (incorrect):** Housing is one locus of social exclusion.
+- **D (correct):** Occupation or income change cannot alone demonstrate social acceptance.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q5 — A.**
+- **A (correct):** These are ideal types; real mobility can remain uneven.
+- **B (incorrect):** Openness is not complete equality.
+- **C (incorrect):** Ascription does not make every individual outcome fixed.
+- **D (incorrect):** No society must fit a pure ideal type.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q6 — B.**
+- **A (incorrect):** Status change is not structural abolition.
+- **B (correct):** Symbolic mobility does not necessarily yield equal material access.
+- **C (incorrect):** Occupation cannot be inferred here.
+- **D (incorrect):** A social strategy is not a constitutional entitlement.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q7 — C.**
+- **A (incorrect):** Class is not the sole issue.
+- **B (incorrect):** His work was not confined to franchise.
+- **C (correct):** Phule linked ritual dominance, gendered learning and agrarian class.
+- **D (incorrect):** A single reform axis understates his critique.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q8 — D.**
+- **A (incorrect):** An initiative is not universal literacy.
+- **B (incorrect):** Schooling is not proof of agrarian justice.
+- **C (incorrect):** The statutory commission has a different origin.
+- **D (correct):** The educational work was collaborative; do not erase Savitribai's agency.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q9 — A.**
+- **A (correct):** It is a reform organisation, not a constitutional body.
+- **B (incorrect):** The NCBC is a distinct institution.
+- **C (incorrect):** A later statute has a separate legislative history.
+- **D (incorrect):** Later struggles were not dissolved.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q10 — B.**
+- **A (incorrect):** His critique is not exclusively about income.
+- **B (correct):** Graded social rank helps reproduce closure despite formal change.
+- **C (incorrect):** He criticised caste as division of labourers.
+- **D (incorrect):** Structural relations exceed individual manners.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q11 — C.**
+- **A (incorrect):** Work does not decide all social relationships.
+- **B (incorrect):** Formal policy cannot alone dissolve stigma.
+- **C (correct):** The system's reproduction is the target, not only one member's position.
+- **D (incorrect):** He argued for safeguards as well as transformation.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q12 — D.**
+- **A (incorrect):** Admission need not be revoked.
+- **B (incorrect):** Extra seats may not fix preparedness.
+- **C (incorrect):** Enrolment does not measure progress.
+- **D (correct):** Academic support acts on the conversion barrier after access.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q13 — A.**
+- **A (correct):** Different commissions have distinct constitutional articles.
+- **B (incorrect):** 338B concerns backward classes.
+- **C (incorrect):** 350B concerns linguistic minorities.
+- **D (incorrect):** These articles protect different interests, not establish these commissions.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q14 — B.**
+- **A (incorrect):** 341 concerns identification of Scheduled Castes.
+- **B (correct):** 338B and 338A distinguish commissions.
+- **C (incorrect):** The minorities statute does not establish these bodies.
+- **D (incorrect):** 17 abolishes untouchability.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q15 — C.**
+- **A (incorrect):** The first two are swapped.
+- **B (incorrect):** 338 is a commission article.
+- **C (correct):** 341, 342 and 342A concern distinct identification fields; they do not identify interchangeable populations.
+- **D (incorrect):** 350B concerns linguistic minorities.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q16 — D.**
+- **A (incorrect):** Not every person meets a benchmark threshold.
+- **B (incorrect):** A legal subcategory is not merely colloquial.
+- **C (incorrect):** Ageing and disability are distinct legal fields.
+- **D (correct):** Rights of Persons with Disabilities Act 2016 distinguishes its statutory categories.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q17 — A.**
+- **A (correct):** The Act's scope should not be extended to unrelated legal questions.
+- **B (incorrect):** Marriage recognition is a separate question.
+- **C (incorrect):** Disability has a different statute.
+- **D (incorrect):** Article 350B handles linguistic-minority safeguards.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q18 — B.**
+- **A (incorrect):** 338B concerns NCBC.
+- **B (correct):** The Special Officer for Linguistic Minorities is under Article 350B.
+- **C (incorrect):** 341 concerns Scheduled Castes lists.
+- **D (incorrect):** 17 abolishes untouchability.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q19 — C.**
+- **A (incorrect):** No such exhaustive constitutional listing follows.
+- **B (incorrect):** 29–30 are not confined this way.
+- **C (correct):** Do not collapse broad constitutional protections into one statutory notification list.
+- **D (incorrect):** Linguistic minorities remain a separate concern.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q20 — D.**
+- **A (incorrect):** No universal pension follows from its title.
+- **B (incorrect):** Enactment cannot establish every household outcome.
+- **C (incorrect):** Social isolation is not legislated away.
+- **D (correct):** A statutory duty and realised support are analytically distinct.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q21 — A.**
+- **A (correct):** Its reference period, estimate status and indicator construct must remain visible.
+- **B (incorrect):** The source and period are not Census 2026.
+- **C (incorrect):** No such causal identification follows.
+- **D (incorrect):** MPI measures deprivations, not agency directly.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q22 — B.**
+- **A (incorrect):** A right can remain valuable when access is impeded.
+- **B (correct):** Conversion barriers coexist with the formal entitlement.
+- **C (incorrect):** Do not homogenise a group.
+- **D (incorrect):** Seat totals do not measure preparation.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
+
+**Q23 — C.**
+- **A (incorrect):** The education and peasant dimensions are essential.
+- **B (incorrect):** Distinct thinkers' diagnoses should not be collapsed.
+- **C (correct):** The question asks for cross-cutting reform and a qualified account of reach.
+- **D (incorrect):** Present-day estimates cannot prove nineteenth-century institutional authorship.
+**Trap:** Similar-sounding categories, institutional articles and historical diagnoses are not interchangeable.
+
+**Q24 — D.**
+- **A (incorrect):** An existing right may be inaccessible.
+- **B (incorrect):** Coverage is not recognition.
+- **C (incorrect):** More places alone need not improve conversion.
+- **D (correct):** Inputs, implementation and agency are different causal stages.
+**Trap:** Do not treat a legal entitlement, receipt, or aggregate as an observed capability or agency outcome.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified descriptive PYQ ownership and cross-owner boundaries
 
-Two direct General Studies Paper-I Mains demands are carried by this owner's own answer-architecture table and each is recorded with its exact routing status, because in both cases the audited ledger names a different owner. The 2024 Q18 demand on underprivileged sections not yet receiving the full benefits of affirmative action is routed in the audited 2024-2025 Mains ledger to the Social Justice concept-and-welfare-state owner, while this owner's table claims it as a core route. The 2025 Q11 demand on Mahatma Jotirao Phule's writings and social reform efforts is routed in the same ledger to the Modern Indian History socio-religious reform-movements owner, while this owner's table claims it as a core route. Both conflicts are stated openly here and neither is resolved by assertion; the answers below are written strictly from the Social Empowerment sociological spine and claim no reservation doctrine, welfare-scheme architecture or reform-movement chronology owned elsewhere. The wording of both demands was confirmed in the locally held official 2024 and 2025 General Studies Paper-I question papers. No marking scheme, official key or model answer of the Union Public Service Commission is held locally, and none is reproduced or inferred.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The locally held official 2024 and 2025 GS-I papers confirm the wording below; their routing ledgers respectively name Social Justice and Modern Indian History as owners, while this Core claims a sociological answer route. This workbook provides that sociological route without claiming legal-doctrine or historical-chronology ownership. Models are independent practice answers, not UPSC marking keys. No objective PYQ key is claimed or pending here.
 
 ### OWNER PYQ LEDGER EXTRACTS
 
@@ -885,300 +401,98 @@ Two direct General Studies Paper-I Mains demands are carried by this owner's own
 
 ### PYQ DEMAND CARD 1 — 2024 GS-I Q18
 
-**Demand:** Despite Comprehensive policies for equity and social justice, underprivileged sections are not yet getting the full benefits of affirmative action envisaged by the Constitution. Comment. (Answer in 250 words) 15 marks.
+**Demand:** Despite Comprehensive policies for equity and social justice, underprivileged sections are not yet getting the full benefits of affirmative action envisaged by the Constitution. Comment. (15 marks, 250 words; official-paper wording).
 
-**Status:** Wording confirmed in the locally held official 2024 General Studies Paper-I. The audited 2024-2025 Mains ledger routes this row to the Social Justice concept-and-welfare-state owner while this owner's own answer-architecture table claims it; the conflict is recorded openly and this answer uses only the Social Empowerment spine.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Accept the premise and then locate it, because comment rewards a diagnosis rather than agreement. The claim is that a comprehensive equity architecture coexists with an incomplete benefit, and the analytical move is to separate three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome. Stage one is the entitlement, which in this case is genuinely comprehensive: a reserved seat, a targeted scheme, a statutory protection. Stage two is the conversion factor, namely whether the intended beneficiary has the prior schooling to meet the standard the entitlement admits her to, the information that the entitlement exists, the mobility and cost tolerance to reach it, the health to sustain it and freedom from the stigma that deters uptake. Stage three is the outcome. Locate the shortfall at stage two, and say why that matters: if the failure is a conversion failure then expanding entitlement coverage, which is the administratively easier response, will not close the gap, whereas if it were a design failure a different entitlement would be required. Explain the persistence with Ambedkar's graded-inequality logic: because each caste except the lowest has an interest in maintaining someone below it, the hierarchy supplies its own defenders and informal social closure survives the abolition of formal legal hierarchy, which is precisely why a legally sufficient entitlement can meet a socially insufficient reception. Prove it with boundary cases rather than adjectives: a reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling is entitlement without capability, and a bridge-course and mentoring programme that raises preparation before and during admission is the conversion-stage intervention that closes the gap. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and that is a dated estimate for a stated period rather than a current headcount or proof that any programme caused the change. Conclude that the constitutional promise is not defective but incompletely converted, and that schooling quality, information, mentoring and stigma reduction are the complement that entitlement requires. Route reservation doctrine to Polity and Social Justice rather than restating it.
+The constitutional promise of affirmative action matters, but formal eligibility is not the same as the ability to benefit. Sen's capability approach distinguishes a policy input from the real freedoms required to use it and the resulting lived outcome. Consider a reserved-category student admitted to a technical course after unequal prior schooling: the seat exists, yet inadequate preparation may obstruct learning. Bridge teaching and mentoring address that conversion barrier without replacing the entitlement.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I Q18”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The obstruction may begin even earlier. Remote location, information gaps, inaccessible buildings and social stigma can prevent an eligible person from applying or remaining enrolled. Ambedkar's account of caste as graded inequality helps explain why formal legal change can coexist with informal exclusion in a classroom, workplace or neighbourhood. Equally, a higher income or occupation does not automatically secure equal recognition in housing or marriage. These mechanisms vary among and within Scheduled Castes, Scheduled Tribes, backward classes, minorities and disabled persons; their protections and legal identities must not be conflated.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Accept the premise and then locate it, because comment rewards a diagnosis rather than agreement. The claim is that a comprehensive equity architecture coexists with an incomplete benefit, and the analytical move is to separate three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome. Stage one is the entitlement, which in this case is genuinely comprehensive: a reserved seat, a targeted scheme, a statutory protection. Stage two is the conversion factor, namely whether the intended beneficiary has the prior schooling to meet the standard the entitlement admits her to, the information that the entitlement exists, the mobility and cost tolerance to reach it, the health to sustain it and freedom from the stigma that deters uptake. Stage three is the outcome. Locate the shortfall at stage two, and say why that matters: if the failure is a conversion failure then expanding entitlement coverage, which is the administratively easier response, will not close the gap, whereas if it were a design failure a different entitlement would be required. Explain the persistence with Ambedkar's graded-inequality logic: because each caste except the lowest has an interest in maintaining someone below it, the hierarchy supplies its own defenders and informal social closure survives the abolition of formal legal hierarchy, which is precisely why a legally sufficient entitlement can meet a socially insufficient reception. Prove it with boundary cases rather than adjectives: a reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling is entitlement without capability, and a bridge-course and mentoring programme that raises preparation before and during admission is the conversion-stage intervention that closes the gap. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and that is a dated estimate for a stated period rather than a current headcount or proof that any programme caused the change. Conclude that the constitutional promise is not defective but incompletely converted, and that schooling quality, information, mentoring and stigma reduction are the complement that entitlement requires. Route reservation doctrine to Polity and Social Justice rather than restating it.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the central concept and separate it from the nearest social or legal category. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Trace the historical and institutional setting instead of assuming a timeless practice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Explain the norm, incentive, network, power or agency mechanism producing the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use one named Indian community, movement, region, institution or source-dated dataset. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualify the pattern through intersectionality, regional variation, causation and implementation limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Accept the premise and then locate it, because comment rewards a diagnosis rather than agreement. The claim is that a comprehensive equity architecture coexists with an incomplete benefit, and the analytical move is to separate three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome. Stage one is the entitlement, which in this case is genuinely comprehensive: a reserved seat, a targeted scheme, a statutory protection. Stage two is the conversion factor, namely whether the intended beneficiary has the prior schooling to meet the standard the entitlement admits her to, the information that the entitlement exists, the mobility and cost tolerance to reach it, the health to sustain it and freedom from the stigma that deters uptake. Stage three is the outcome. Locate the shortfall at stage two, and say why that matters: if the failure is a conversion failure then expanding entitlement coverage, which is the administratively easier response, will not close the gap, whereas if it were a design failure a different entitlement would be required. Explain the persistence with Ambedkar's graded-inequality logic: because each caste except the lowest has an interest in maintaining someone below it, the hierarchy supplies its own defenders and informal social closure survives the abolition of formal legal hierarchy, which is precisely why a legally sufficient entitlement can meet a socially insufficient reception. Prove it with boundary cases rather than adjectives: a reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling is entitlement without capability, and a bridge-course and mentoring programme that raises preparation before and during admission is the conversion-stage intervention that closes the gap. Add the measurement caution: the NITI Aayog discussion paper of 2024 estimated multidimensional poverty at 11.28 per cent in 2022-23 with about 24.8 crore exits between 2013-14 and 2022-23, and that is a dated estimate for a stated period rather than a current headcount or proof that any programme caused the change. Conclude that the constitutional promise is not defective but incompletely converted, and that schooling quality, information, mentoring and stigma reduction are the complement that entitlement requires. Route reservation doctrine to Polity and Social Justice rather than restating it.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I Q18”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The comment is not that every underutilised provision is inherently defective: administration, prior capability and discrimination may each cause a different gap. Nor do NITI Aayog's dated multidimensional-poverty estimates identify the effect of any particular affirmative-action measure. Improve information, schooling quality, accessible delivery and anti-discrimination practice alongside rights; then measure enrolment, continuation, achievement and voice separately. Widening entitlements may be needed in some contexts, but it cannot by itself repair a broken conversion chain. This is a sociological assessment, not a substitute for the reservation-doctrine analysis owned by Polity and Social Justice.
 
 ### PYQ DEMAND CARD 2 — 2025 GS-I Q11
 
-**Demand:** Mahatma Jotirao Phule's writings and efforts of social reforms touched issues of almost all subaltern classes. Discuss. (Answer in 250 words) 15 marks.
+**Demand:** Mahatma Jotirao Phule's writings and efforts of social reforms touched issues of almost all subaltern classes. Discuss. (15 marks, 250 words; official-paper wording).
 
-**Status:** Wording confirmed in the locally held official 2025 General Studies Paper-I. The audited 2024-2025 Mains ledger routes this row to the Modern Indian History socio-religious reform-movements owner while this owner's own answer-architecture table claims it; the conflict is recorded openly and this answer supplies the sociological reading without restating the reform-movement chronology owned there.
+**Model answer (independent practice solution; not an official key):**
 
-**Model solution:** Fix what the question is actually testing before answering: the examinable word is almost all, so the answer must demonstrate breadth across distinct axes of subordination rather than depth on caste alone, and it must show that the breadth was structural rather than incidental. Establish the organising insight first. Phule identified Brahminical ritual dominance as maintaining not only caste hierarchy but also women's exclusion from learning and the subjugation of the peasant cultivator within the same ideological structure, which is why his reform programme attacks them together instead of sequentially. Now prove each axis. On caste, his critique targeted ritual dominance and the religious sanction that legitimised exclusion, and the Satyashodhak Samaj was the organisational vehicle through which that critique became practice. On gender, he worked with Savitribai Phule to make education for girls a central intervention, which is a capability-building measure in the strict sense because it changes what a person can subsequently do rather than what she is given. On peasant class, he criticised exploitative agrarian relations, which extends the subaltern category beyond ritual status into productive relations. Then supply the comparative claim that the directive quietly requires: most contemporaneous reform effort worked a single axis, such as widow remarriage alone or caste alone, so Phule's simultaneity is the distinguishing feature and not merely the volume of his output. Add the analytical payoff. Because he treated education as the lever, his diagnosis anticipates the modern distinction between an entitlement and the capability needed to use it, though he must not be described as a direct precursor of any later theory. Qualify honestly: the detailed chronology of his writings and organisations belongs to the reform-movement owner and is cross-linked rather than restated, and Phule's diagnosis is not interchangeable with Ambedkar's structural account of graded inequality, since Phule supplies breadth while Ambedkar supplies the reproduction mechanism. Conclude that the proposition holds on the evidence of three simultaneous axes and one organisational vehicle, with the qualification that comprehensiveness of diagnosis is not the same as completeness of outcome.
+Phule's importance lies in connecting caste domination, exclusion from learning and peasant exploitation rather than regarding each as an isolated grievance. His critique of Brahminical ritual authority challenged a system in which social rank shaped whose knowledge counted. Through Satyashodhak Samaj, reform was framed as organised resistance to inherited hierarchy, not simply the improvement of one person's status.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2025 GS-I Q11”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Education supplies a second axis. Jyotirao's work with Savitribai Phule on girls' and excluded groups' education opened a route to literacy and public participation; Savitribai's own work should not disappear behind his name. Support for women facing restrictive social practices widened this critique beyond caste alone. Phule also wrote about the conditions of peasants and exploitative agrarian relations, connecting class and cultivation to social subordination. A peasant woman from an oppressed caste might therefore face overlapping exclusions, although no one example represents all such women.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Fix what the question is actually testing before answering: the examinable word is almost all, so the answer must demonstrate breadth across distinct axes of subordination rather than depth on caste alone, and it must show that the breadth was structural rather than incidental. Establish the organising insight first. Phule identified Brahminical ritual dominance as maintaining not only caste hierarchy but also women's exclusion from learning and the subjugation of the peasant cultivator within the same ideological structure, which is why his reform programme attacks them together instead of sequentially. Now prove each axis. On caste, his critique targeted ritual dominance and the religious sanction that legitimised exclusion, and the Satyashodhak Samaj was the organisational vehicle through which that critique became practice. On gender, he worked with Savitribai Phule to make education for girls a central intervention, which is a capability-building measure in the strict sense because it changes what a person can subsequently do rather than what she is given. On peasant class, he criticised exploitative agrarian relations, which extends the subaltern category beyond ritual status into productive relations. Then supply the comparative claim that the directive quietly requires: most contemporaneous reform effort worked a single axis, such as widow remarriage alone or caste alone, so Phule's simultaneity is the distinguishing feature and not merely the volume of his output. Add the analytical payoff. Because he treated education as the lever, his diagnosis anticipates the modern distinction between an entitlement and the capability needed to use it, though he must not be described as a direct precursor of any later theory. Qualify honestly: the detailed chronology of his writings and organisations belongs to the reform-movement owner and is cross-linked rather than restated, and Phule's diagnosis is not interchangeable with Ambedkar's structural account of graded inequality, since Phule supplies breadth while Ambedkar supplies the reproduction mechanism. Conclude that the proposition holds on the evidence of three simultaneous axes and one organisational vehicle, with the qualification that comprehensiveness of diagnosis is not the same as completeness of outcome.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Mahatma Jotirao Phule's writings and efforts of social reforms touched issues of almost all subaltern classes. Discuss. (Answer in 250 words) 15 marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Fix what the question is actually testing before answering: the examinable word is almost all, so the answer must demonstrate breadth across distinct axes of subordination rather than depth on caste alone, and it must show that the breadth was structural rather than incidental. Establish the organising insight first. Phule identified Brahminical ritual dominance as maintaining not only caste hierarchy but also women's exclusion from learning and the subjugation of the peasant cultivator within the same ideological structure, which is why his reform programme attacks them together instead of sequentially. Now prove each axis. On caste, his critique targeted ritual dominance and the religious sanction that legitimised exclusion, and the Satyashodhak Samaj was the organisational vehicle through which that critique became practice. On gender, he worked with Savitribai Phule to make education for girls a central intervention, which is a capability-building measure in the strict sense because it changes what a person can subsequently do rather than what she is given. On peasant class, he criticised exploitative agrarian relations, which extends the subaltern category beyond ritual status into productive relations. Then supply the comparative claim that the directive quietly requires: most contemporaneous reform effort worked a single axis, such as widow remarriage alone or caste alone, so Phule's simultaneity is the distinguishing feature and not merely the volume of his output. Add the analytical payoff. Because he treated education as the lever, his diagnosis anticipates the modern distinction between an entitlement and the capability needed to use it, though he must not be described as a direct precursor of any later theory. Qualify honestly: the detailed chronology of his writings and organisations belongs to the reform-movement owner and is cross-linked rather than restated, and Phule's diagnosis is not interchangeable with Ambedkar's structural account of graded inequality, since Phule supplies breadth while Ambedkar supplies the reproduction mechanism. Conclude that the proposition holds on the evidence of three simultaneous axes and one organisational vehicle, with the qualification that comprehensiveness of diagnosis is not the same as completeness of outcome.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2025 GS-I Q11”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The word “almost” is important: a broad reform programme cannot prove that every subaltern group was reached equally or that literacy automatically dismantled economic and social hierarchy. Phule's emphasis on education resembles a capability-building insight, but he should not be recast as a modern theorist writing Sen's framework. Ambedkar later offered a distinct diagnosis of graded inequality and structural annihilation of caste; Phule's cross-cutting work does not become identical to it. Thus the proposition is persuasive as a claim about the range of Phule's concerns—caste, gender and peasant class—but requires a qualified judgement about representation, historical context and realised change. The detailed chronology of reform movements belongs to Modern Indian History.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain Amartya Sen's capability approach and its relevance to measuring social empowerment. Answer in about 150 words.
 
-**Model thesis:** The capability approach relocates measurement from what a person receives to what she can actually do and be, which makes conversion factors rather than transfers the correct site of empowerment analysis without denying that welfare inputs matter.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Sen's capability approach asks what people are genuinely free to do and be, not just what goods or income they possess. Education, health and public participation are valued functionings; capabilities are real opportunities to achieve them. Conversion depends on circumstances: a scholarship may be valuable yet fail to enable study if travel is inaccessible or prior schooling inadequate.
 
-- Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-- A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency.
-- Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over.
-- The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-
-**Qualified conclusion:** The capability approach relocates measurement from what a person receives to what she can actually do and be, which makes conversion factors rather than transfers the correct site of empowerment analysis without denying that welfare inputs matter.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain Amartya Sen's capability approach and its relevance to measuring social empowerment.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The capability approach relocates measurement from what a person receives to what she can actually do and be, which makes conversion factors rather than transfers the correct site of empowerment analysis without denying that welfare inputs matter.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A welfare or resource view asks what goods, income or benefits a person receives, while an agency view additionally asks whether that person can make and act on choices that shape her own well-being, and welfare provision remains valuable and rights-based even though receipt alone does not establish agency. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Social empowerment is not exhausted by the delivery of welfare benefits, because a person can receive a transfer, a seat or a scheme entitlement and still lack the real freedom to use it, so the examinable question is always what a person can actually do and be rather than what has been handed over. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The capability approach relocates measurement from what a person receives to what she can actually do and be, which makes conversion factors rather than transfers the correct site of empowerment analysis without denying that welfare inputs matter.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Explain Amartya Sen's capability approach and its relevance to measuring social empowerment.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+For Indian social empowerment, the distinction changes the indicator. A reserved seat is an entitlement; actual learning, confidence and participation are different outcomes. A bridge course or accessible transport can improve conversion, while stigma may obstruct it even after admission. This is not an argument against welfare transfers: resources are often essential inputs. It is an argument for evaluating resources together with access, use and agency, with differences by region, disability and social position. Empowerment is stronger where people can choose and act, not merely be listed among recipients.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Distinguish formal social mobility from substantive social mobility using Indian examples. Answer in about 150 words.
 
-**Model thesis:** Formal mobility is documented movement in income, education or occupation and substantive mobility adds recognition and freedom from stigma, so an answer that stops at the first has measured a change without establishing an empowerment.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Formal mobility is an observable change in education, occupation or income; substantive mobility additionally involves social recognition, effective voice and freedom from exclusion. An Indian household entering urban non-farm employment may earn more than before yet still encounter barriers to housing or marriage. Its economic move is real, but social closure can persist.
 
-- An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
-- Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
-- A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility.
-- Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
-
-**Qualified conclusion:** Formal mobility is documented movement in income, education or occupation and substantive mobility adds recognition and freedom from stigma, so an answer that stops at the first has measured a change without establishing an empowerment.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish formal social mobility from substantive social mobility using Indian examples.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Formal mobility is documented movement in income, education or occupation and substantive mobility adds recognition and freedom from stigma, so an answer that stops at the first has measured a change without establishing an empowerment.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A family that has moved into a higher-income occupation while still facing informal exclusion in marriage, housing or local social life illustrates graded-inequality logic persisting despite economic mobility, which is the boundary case that separates formal from substantive mobility. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Formal mobility is documented movement in income, education or occupation and substantive mobility adds recognition and freedom from stigma, so an answer that stops at the first has measured a change without establishing an empowerment.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Distinguish formal social mobility from substantive social mobility using Indian examples.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Education can similarly open professional work to a student from a formerly excluded community. If the workplace tolerates stigma or denies participation in decisions, a new job title alone does not settle the question of empowerment. Ambedkar's graded-inequality account helps explain how inherited ranking can outlast a change of occupation. Conversely, persistence of some discrimination does not erase all gains from education or migration. Assess mobility with income and occupational data alongside evidence on treatment, housing and voice; do not infer either equality or universal exclusion from one aggregate indicator.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
 **Question:** Comment on the claim that despite comprehensive equity policies the underprivileged are not receiving the full benefits of affirmative action. Answer in about 250 words.
 
-**Model thesis:** The gap is best located at the conversion stage, where prior schooling, information, mobility and stigma decide whether an entitlement can be used, so the remedy is capability building alongside entitlement rather than entitlement expansion alone.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+The claim correctly distinguishes constitutional intent from experienced benefit, but the shortfall needs diagnosis rather than an automatic call for more seats. Affirmative action makes opportunities available; information, preparation, accessible institutions and freedom from stigma determine whether beneficiaries can take them up and thrive. An eligible student admitted to a technical institute after poor prior schooling illustrates the conversion problem: a bridge course and sustained mentoring can make a formal opportunity usable.
 
-- Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-- The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-- The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-- Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-- Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished.
+Not all gaps have the same cause. An application portal inaccessible to some disabled users is an implementation failure; missing information in a remote village limits uptake; discrimination after entry damages retention and voice. Ambedkar's graded inequality illuminates the persistence of informal status barriers after legal reform. Sen's capability framework then tests whether a resource becomes an effective freedom. SC, ST and OBC institutional safeguards must be understood separately, just as minority, disability and transgender protections cannot be treated as one generic quota.
 
-**Qualified conclusion:** The gap is best located at the conversion stage, where prior schooling, information, mobility and stigma decide whether an entitlement can be used, so the remedy is capability building alongside entitlement rather than entitlement expansion alone.
-
-**Demand decoding:** The directive **comment** requires a direct position on “Comment on the claim that despite comprehensive equity policies the underprivileged are not…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The gap is best located at the conversion stage, where prior schooling, information, mobility and stigma decide whether an entitlement can be used, so the remedy is capability building alongside entitlement rather than entitlement expansion alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Because every caste except the lowest has an interest in maintaining someone below it, the system supplies its own defenders at every level, which is why piecemeal reform by a single group improving its own position does not dismantle the structure and why informal hierarchy can persist after formal legal hierarchy is abolished. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The gap is best located at the conversion stage, where prior schooling, information, mobility and stigma decide whether an entitlement can be used, so the remedy is capability building alongside entitlement rather than entitlement expansion alone.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Comment on the claim that despite comprehensive equity policies the underprivileged are not…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+There are genuine gains from formal protection, and some settings may indeed need redesigned or expanded entitlements. But NITI Aayog's 2024 multidimensional-poverty discussion paper estimated deprivation for an earlier period; its estimate alone cannot identify which policy caused an outcome or measure every group's agency. Track application, access, completion and social recognition separately, disaggregate by location and circumstance, and strengthen schooling, accessibility and accountability. The best response preserves entitlement while repairing the capabilities and institutions needed to realise it.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Discuss the proposition that Phule's writings and reform efforts touched almost all subaltern classes. Answer in about 250 words.
 
-**Model thesis:** Phule's force lies in treating Brahminical ritual dominance, women's exclusion from education and peasant exploitation as one ideological structure, which makes his diagnosis cross-cutting where most contemporaneous reform was single-axis.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Phule challenged a structure linking inherited rank to control of knowledge, ritual authority and economic advantage. His critique of Brahminical dominance addressed caste; the Satyashodhak Samaj supplied an organisational vehicle for that critique rather than a promise of immediate equality. With Savitribai Phule, he supported education for girls and excluded groups, treating learning as a means of challenging gendered and caste-based exclusion. His concern with peasants and exploitative agrarian relations also brought class and rural work into the reform agenda.
 
-- Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-- Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here.
-- Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-- An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness.
+These dimensions are linked. A girl excluded from schooling because of both gender and caste may have fewer means of contesting low-paid work; improving one legal status without education and social respect leaves part of the disadvantage intact. Phule did not write as if all barriers could be understood through one social axis. This breadth explains the 2025 demand's phrase “almost all subaltern classes” more convincingly than a caste-only biography.
 
-**Qualified conclusion:** Phule's force lies in treating Brahminical ritual dominance, women's exclusion from education and peasant exploitation as one ideological structure, which makes his diagnosis cross-cutting where most contemporaneous reform was single-axis.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the proposition that Phule's writings and reform efforts touched almost all subaltern…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Phule's force lies in treating Brahminical ritual dominance, women's exclusion from education and peasant exploitation as one ideological structure, which makes his diagnosis cross-cutting where most contemporaneous reform was single-axis.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Working with Savitribai Phule, Phule made education for girls and for oppressed castes a central empowerment intervention while separately criticising exploitative agrarian relations, and the detailed chronology of the socio-religious reform movements belongs to Modern Indian History and is cross-linked rather than restated here. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** An open stratification system allows movement between social positions on the basis of individual achievement while a closed system fixes position largely by birth-ascribed status, and traditional caste society leaned toward the closed type while contemporary India shows increasing but uneven openness. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Phule's force lies in treating Brahminical ritual dominance, women's exclusion from education and peasant exploitation as one ideological structure, which makes his diagnosis cross-cutting where most contemporaneous reform was single-axis.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Discuss the proposition that Phule's writings and reform efforts touched almost all subaltern…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Qualification is equally important: the range of issues touched is not evidence that all communities participated equally or that every agrarian injustice was corrected. His contribution should not be confused with Ambedkar's later call for annihilating graded caste hierarchy, nor should historical action be credited with modern programmes. Phule's achievement is a cross-cutting diagnosis and an educational and organisational response whose value persists; effectiveness for each group must be assessed independently. Detailed reform chronology is a Modern Indian History question, while this answer tests the sociological breadth of his intervention.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
 **Question:** Assess Phule, Ambedkar and the capability approach as three distinct tools for diagnosing social empowerment. Answer in about 300 words.
 
-**Model thesis:** Phule identifies the breadth of subordination, Ambedkar explains why it reproduces itself and the capability approach specifies where an intervention must act, so the three are complementary instruments rather than competing verdicts.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Social empowerment concerns effective freedom and recognised standing, not simply the receipt of benefits. Phule, Ambedkar and Sen identify different obstacles to that outcome; combining their questions is useful, but treating them as interchangeable loses explanatory force.
 
-- Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time.
-- B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above.
-- Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice.
-- Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives.
-- Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition.
-- Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment.
+Phule's critique connects caste hierarchy, unequal access to learning and peasant exploitation. His Satyashodhak Samaj and the education work undertaken with Savitribai Phule show how organised reform and girls' education could contest inherited authority. The lens asks whose exclusions a reform agenda sees. Its breadth does not establish identical conditions among all subaltern groups or prove immediate transformation.
 
-**Qualified conclusion:** Phule identifies the breadth of subordination, Ambedkar explains why it reproduces itself and the capability approach specifies where an intervention must act, so the three are complementary instruments rather than competing verdicts.
+Ambedkar's concept of graded inequality instead explains how caste ranking sustains itself: status boundaries, including endogamy and social sanction, can survive gains in an individual's occupation. His insistence on annihilating caste as a system gives a stronger structural test than simply counting upward moves. Legal safeguards can disrupt exclusion, but a family's improved income cannot by itself prove freedom from stigma in housing, marriage or work.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess Phule, Ambedkar and the capability approach as three distinct tools for diagnosing…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Sen's capability approach moves from diagnosis to evaluation: can people convert a seat, scholarship or income into education, health, voice and choices they value? A reserved-category student admitted after weak prior schooling may need mentoring to exercise the educational opportunity; an accessible building matters to a student with disabilities. Neither example stands for every member of the group, and neither justifies abolishing the entitlement.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Phule identifies the breadth of subordination, Ambedkar explains why it reproduces itself and the capability approach specifies where an intervention must act, so the three are complementary instruments rather than competing verdicts.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Mahatma Jyotirao Phule founded the Satyashodhak Samaj and directed his writings and reform work against Brahminical ritual dominance while treating women's exclusion from education and peasant exploitation as parts of the same ideological structure, which is what distinguishes him from reformers who worked a single axis of disadvantage at a time. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** B.R. Ambedkar argued that caste was not a benign division of labour or a simple top-to-bottom hierarchy but a graded inequality reproduced through religious sanction on endogamy, in which each caste simultaneously looks down on those below and aspires to the position of those above. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Annihilation of caste is Ambedkar's structural conclusion that the institution itself must be dismantled rather than reformed from within, because a reform strategy that leaves the underlying religious sanction intact cannot end a graded hierarchy, and the constitutional safeguards this conclusion shaped belong doctrinally to Polity and Social Justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Amartya Sen's capability approach holds that development and empowerment should be measured by the real freedoms a person has to achieve valued functionings such as being educated, being healthy and participating in public life, rather than by the resources or income that person receives. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Phule supplies a cross-cutting diagnosis that links caste, gender and peasant-class subordination while Ambedkar supplies a structural diagnosis of why hierarchy reproduces itself, so the two must be used as distinct analytical tools rather than collapsed into a single reformist tradition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** Formal mobility is documented movement in income, education or occupation, while substantive mobility additionally requires social recognition, secure voice and freedom from residual stigma, and the two diverge often enough that an aggregate income gain cannot be read as completed social empowerment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Phule identifies the breadth of subordination, Ambedkar explains why it reproduces itself and the capability approach specifies where an intervention must act, so the three are complementary instruments rather than competing verdicts.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Assess Phule, Ambedkar and the capability approach as three distinct tools for diagnosing…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Together, the lenses ask whose interests are seen (Phule), what structure reproduces inequality (Ambedkar) and whether interventions become real freedoms (Sen). They operate at different historical and analytical levels, not as a single chronology. Measure empowerment with resources and rights, but also with conversion conditions, social recognition and exercised agency. This combination respects incremental gains while leaving the structural transformation question open.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Evaluate whether closing the affirmative-action gap requires wider entitlement or stronger capability conversion. Answer in about 300 words.
 
-**Model thesis:** Entitlement expansion is administratively easier while the binding constraint sits at conversion, so the defensible verdict favours capability building without abandoning entitlement, and it must be argued with boundary cases rather than with an aggregate estimate.
+**Model answer (independent practice solution; not an official key):**
 
-**Claim → named evidence → analysis → qualification:**
+Wider entitlements and stronger conversion are not competing slogans; they address different failure points. Where eligible people lack a meaningful legal opportunity, coverage and design require attention. Where an opportunity exists but cannot be used or sustained, the bottleneck is information, prior education, accessible delivery or treatment after entry. Diagnose the stage before prescribing its cure.
 
-- Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results.
-- The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage.
-- The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement.
-- Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap.
-- The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change.
-- A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer.
-- A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical.
+Consider a reserved-category student who obtains a technical-course seat yet struggles after schooling of uneven quality. Adding seats alone may not improve learning; bridge teaching, mentoring and a non-discriminatory classroom support conversion into achievement. By contrast, if relevant opportunities are unavailable locally, stronger preparation without accessible entry remains insufficient. For a disabled student, a nominally open institution may be unusable if its facilities or digital application are inaccessible. These are illustrative cases, not universal descriptions of either group.
 
-**Qualified conclusion:** Entitlement expansion is administratively easier while the binding constraint sits at conversion, so the defensible verdict favours capability building without abandoning entitlement, and it must be argued with boundary cases rather than with an aggregate estimate.
+Ambedkar's graded-inequality argument explains why social stigma can survive formal change, constraining participation even after admission. Sen's capability approach asks whether the entitlement yields a real choice and valuable functioning. Phule's commitment to education for girls and excluded groups shows why prior learning itself is a social-justice issue. Policy can therefore combine adequate rights and coverage with good schooling, information, transport, accessibility, mentoring and redress for discrimination. Legal category precision matters: SC, ST, backward-class, minority, disability and transgender protections have different constitutional and statutory bases and should not be collapsed into one benefit.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate whether closing the affirmative-action gap requires wider entitlement or stronger…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Entitlement expansion is administratively easier while the binding constraint sits at conversion, so the defensible verdict favours capability building without abandoning entitlement, and it must be argued with boundary cases rather than with an aggregate estimate.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Empowerment analysis separates three stages that the Advanced owner labels entitlement input vs capability-conversion factor vs outcome: the entitlement is the policy input such as a reserved seat or a targeted scheme, the conversion factor decides whether that input can be used, and the outcome is the mobility, income or voice that results. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The conversion factors that decide whether an entitlement becomes an outcome are adequate prior schooling, information that the entitlement exists, mobility to reach it, health, social confidence and freedom from stigma that would otherwise deter uptake, and naming them converts a vague implementation complaint into a diagnosable stage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The gap between comprehensive equity policy and lived benefit is best located at the conversion stage rather than assumed to be a design failure, and this analytical claim matters because the remedy for a conversion failure is capability building while the remedy for a design failure would be a different entitlement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Early-childhood and schooling-quality investment, scholarship-plus-mentoring models, bridge and skill-bridging courses and stigma reduction are the interventions that address the conversion stage, and they complement rather than replace entitlement, which is why expanding coverage alone cannot close the gap. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** The NITI Aayog discussion paper of 2024 titled Multidimensional Poverty in India since 2005-06 estimated multidimensional poverty at 11.28 per cent in 2022-23 and about 24.8 crore persons exiting multidimensional poverty between 2013-14 and 2022-23, and these are the paper's estimates for a stated period rather than a current headcount or proof that a particular programme caused the change. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-6. **Claim and named evidence:** A reserved-category student admitted to a technical institution but unable to keep pace because of weak prior schooling illustrates an entitlement arriving without the capability needed to use it, which is the boundary case that defeats an entitlement-only answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-7. **Claim and named evidence:** A bridge course or a scholarship-plus-mentoring programme that raises a student's academic preparation before and during admission illustrates a conversion-stage intervention closing the gap directly, which is the boundary case that makes the recommendation concrete rather than rhetorical. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Entitlement expansion is administratively easier while the binding constraint sits at conversion, so the defensible verdict favours capability building without abandoning entitlement, and it must be argued with boundary cases rather than with an aggregate estimate.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Evaluate whether closing the affirmative-action gap requires wider entitlement or stronger…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Evaluation should distinguish eligibility, application, retention, completion and voice, with evidence disaggregated by circumstances. A national MPI estimate for 2022–23 is not a current empowerment score or causal evaluation of reservation. The qualified answer is that wider entitlement is warranted where rights are genuinely missing; where inputs already exist, stronger capability conversion is indispensable. Neither alone guarantees equal standing, which also depends on institutional practice and social recognition.

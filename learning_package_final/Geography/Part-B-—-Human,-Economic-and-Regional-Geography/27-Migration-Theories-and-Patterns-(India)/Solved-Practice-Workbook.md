@@ -1,1124 +1,347 @@
----
-title: "Migration Theories and Patterns (India) — Solved Practice Workbook"
-topic_key: geography-27
----
 # Migration Theories and Patterns (India) — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly explains Migration definition?
+All questions below are original. Percentages are explicitly tied to MoSPI’s 2020–21 survey, not a post-2011 census.
 
-A. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-B. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-C. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-D. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
+### Questions
 
-**Answer: A.**
-**Explanation:** Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence. The other options describe different processes, locations, scales or governance categories.
+**Q1. A worker shifts usual residence from Bihar to Gujarat. What classification applies?**
 
-### Q2. Which option is the safest spatial interpretation of Migration definition?
+A. Internal interstate migration
+B. International emigration
+C. Intrastate rural migration
+D. Cross-border immigration
 
-A. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-B. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-C. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-D. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
+**Q2. A household’s place of birth and current residence coincide, but it has returned after work in another district. Which measure may reveal the movement?**
 
-**Answer: B.**
-**Explanation:** Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence. The other options describe different processes, locations, scales or governance categories.
+A. Current place of birth alone
+B. Last usual residence
+C. National sex ratio alone
+D. Current crude birth rate alone
 
-### Q3. Which statement preserves the process boundary for Migration definition?
+**Q3. Drought coincides with attractive city jobs. How should the resulting flow be explained?**
 
-A. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-B. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-C. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-D. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
+A. Only the drought explains the city chosen
+B. Only wages explain the decision to leave
+C. Push and pull can jointly operate
+D. Neither mechanism can operate during drought
 
-**Answer: C.**
-**Explanation:** Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence. The other options describe different processes, locations, scales or governance categories.
+**Q4. Two equally paid destinations attract unequal flows because one requires an unaffordable border crossing. Which Lee element differs?**
 
-### Q4. Which option avoids the main UPSC trap concerning Migration definition?
+A. Only origin push
+B. Only destination pull
+C. Only crude birth rate
+D. Intervening obstacles
 
-A. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-B. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-C. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-D. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
+**Q5. A village sends most first movers to a nearby town, not a distant metropolis. Which Ravenstein proposition fits?**
 
-**Answer: D.**
-**Explanation:** Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence. The other options describe different processes, locations, scales or governance categories.
+A. Short moves are common; movement may occur by stages
+B. All movement is transcontinental
+C. Counter-streams never occur
+D. Cities attract only women
 
-### Q5. Which statement correctly explains Push-pull logic?
+**Q6. After a large outward labour flow, some workers return home. Which classical observation is illustrated?**
 
-A. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-B. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-C. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-D. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
+A. Migration has no destination
+B. Each major stream generates a counter-stream
+C. All returns are international
+D. Only long distances produce migration
 
-**Answer: A.**
-**Explanation:** Migration is commonly explained through push factors at the origin and pull factors at the destination. The other options describe different processes, locations, scales or governance categories.
+**Q7. A corridor’s migration weakens as travel cost rises despite comparable destinations. What relationship is being tested?**
 
-### Q6. Which option is the safest spatial interpretation of Push-pull logic?
+A. Population momentum
+B. Replacement fertility
+C. Distance decay
+D. Central place rank alone
 
-A. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-B. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-C. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-D. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
+**Q8. Villagers relocate to a small town, then a district centre, then a metropolis. This illustrates:**
 
-**Answer: B.**
-**Explanation:** Migration is commonly explained through push factors at the origin and pull factors at the destination. The other options describe different processes, locations, scales or governance categories.
+A. Circular commuting to one place
+B. Emigration to another country
+C. Rural-rural marriage only
+D. Step migration
 
-### Q7. Which statement preserves the process boundary for Push-pull logic?
+**Q9. Two populous cities exchange more migrants than a small distant pair. Which model gives a first approximation?**
 
-A. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-D. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
+A. Gravity model
+B. Malthusian checks
+C. Sectoral shift-share
+D. Dependency-ratio model
 
-**Answer: C.**
-**Explanation:** Migration is commonly explained through push factors at the origin and pull factors at the destination. The other options describe different processes, locations, scales or governance categories.
+**Q10. A nearer small city absorbs workers who might otherwise travel to a metropolis. Which idea explains this?**
 
-### Q8. Which option avoids the main UPSC trap concerning Push-pull logic?
+A. Only Euclidean distance in isolation
+B. Stouffer’s intervening opportunities
+C. Only the birthplace variable
+D. Only natural increase
 
-A. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-B. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-C. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-D. Migration is commonly explained through push factors at the origin and pull factors at the destination.
+**Q11. Workers still enter a city with visible unemployment because the chance of a high wage exceeds rural expected earnings. Which model?**
 
-**Answer: D.**
-**Explanation:** Migration is commonly explained through push factors at the origin and pull factors at the destination. The other options describe different processes, locations, scales or governance categories.
+A. Optimum population
+B. Ravenstein counter-stream alone
+C. Harris–Todaro expected income
+D. Lee’s origin-only push
 
-### Q9. Which statement correctly explains Ravenstein laws?
+**Q12. Why do later migrants from the same district choose a specific industrial city?**
 
-A. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-B. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-C. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-D. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
+A. Equal distance automatically creates identical corridors
+B. All wages in other cities are zero
+C. All migration must be forced
+D. Earlier migrants reduce later entrants’ information and settlement costs
 
-**Answer: A.**
-**Explanation:** Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams. The other options describe different processes, locations, scales or governance categories.
+**Q13. Which is the careful use of Zelinsky’s mobility transition?**
 
-### Q10. Which option is the safest spatial interpretation of Ravenstein laws?
+A. Mobility types may change with demographic and development phases
+B. Every society follows an identical migration timetable
+C. Only interstate labour migration is recognised
+D. Age structure never affects migration
 
-A. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-B. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-C. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-D. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
+**Q14. A brick-kiln worker returns home every agricultural season. Which label best captures this?**
 
-**Answer: B.**
-**Explanation:** Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams. The other options describe different processes, locations, scales or governance categories.
+A. Permanent international resettlement
+B. Circular or seasonal migration
+C. One-time urban-urban transfer
+D. A change in sex ratio at birth
 
-### Q11. Which statement preserves the process boundary for Ravenstein laws?
+**Q15. A married woman moves between two villages in the same state. Which two axes are needed to classify her?**
 
-A. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-D. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
+A. Urban–urban stream and international border
+B. Rural–urban stream and emigration
+C. Rural–rural stream and intrastate boundary
+D. Urban–rural stream and immigration
 
-**Answer: C.**
-**Explanation:** Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams. The other options describe different processes, locations, scales or governance categories.
+**Q16. An engineer moves from Pune to Bengaluru for work. Which internal stream applies?**
 
-### Q12. Which option avoids the main UPSC trap concerning Ravenstein laws?
+A. Rural–rural
+B. Urban–rural
+C. Rural–urban
+D. Urban–urban
 
-A. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-B. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-C. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-D. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
+**Q17. Why can the largest stream by headcount be missed in a debate focused on city slums?**
 
-**Answer: D.**
-**Explanation:** Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams. The other options describe different processes, locations, scales or governance categories.
+A. Rural–rural movement, often marriage-related, has historically dominated
+B. Only foreigners are counted in migration totals
+C. All migrants move by sea
+D. The rural–rural stream is identical to urbanisation
 
-### Q13. Which statement correctly explains Lee framework?
+**Q18. Which stream most directly increases a city’s urban share from rural origins?**
 
-A. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-B. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-C. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-D. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
+A. Urban–urban movement only
+B. Rural–urban migration
+C. Rural–rural marriage only
+D. International emigration from the city
 
-**Answer: A.**
-**Explanation:** Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity. The other options describe different processes, locations, scales or governance categories.
+**Q19. What caveat is essential when citing women’s “marriage” as a recorded reason for migration?**
 
-### Q14. Which option is the safest spatial interpretation of Lee framework?
+A. All women are outside labour markets
+B. Marriage causes every interstate work move
+C. A single recorded reason need not exclude paid work or agency
+D. Survey reasons are a complete biography
 
-A. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-B. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-C. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-D. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
+**Q20. A work migrant sends earnings to a source village. Which joint consequence is plausible?**
 
-**Answer: B.**
-**Explanation:** Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity. The other options describe different processes, locations, scales or governance categories.
+A. Remittances prove all farmland becomes irrigated
+B. The destination loses all its workers
+C. Origin employment automatically becomes formal
+D. Origin consumption improves but local job creation is not guaranteed
 
-### Q15. Which statement preserves the process boundary for Lee framework?
+**Q21. If a city recruits mainly young men, what paired demographic effect may follow?**
 
-A. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-D. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
+A. Destination male-heavy all-age ratio and source adult outflow
+B. Identical age–sex pyramids everywhere
+C. A direct change to sex ratio at birth
+D. Immediate fertility convergence in both regions
 
-**Answer: C.**
-**Explanation:** Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity. The other options describe different processes, locations, scales or governance categories.
+**Q22. Pandemic-era reverse flows caution against which assumption?**
 
-### Q16. Which option avoids the main UPSC trap concerning Lee framework?
+A. Return movement is possible
+B. A recorded urban job implies permanent one-way relocation
+C. Households can use multiple residences
+D. Shocks can reconfigure corridors
 
-A. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-B. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-C. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-D. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
+**Q23. Which combination fits MoSPI Migration in India 2020–21 rather than a new census?**
 
-**Answer: D.**
-**Explanation:** Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity. The other options describe different processes, locations, scales or governance categories.
+A. An enumerated 2024 national population count
+B. A completed 2027 migration census
+C. 28.9% all-India migration rate, based on a survey period
+D. A timeless rate that cannot change
 
-### Q17. Which statement correctly explains Distance-decay principle?
+**Q24. In the MoSPI 2020–21 snapshot, which area reports the higher migration rate?**
 
-A. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-D. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
+A. Rural (34.9%, versus urban 26.5%)
+B. Both exactly 28.9%
+C. The survey measured only cities
+D. Urban (34.9%, versus rural 26.5%)
 
-**Answer: A.**
-**Explanation:** Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs. The other options describe different processes, locations, scales or governance categories.
+**Q25. Which shares correctly describe intrastate versus interstate migrants in MoSPI 2020–21?**
 
-### Q18. Which option is the safest spatial interpretation of Distance-decay principle?
+A. 87.5% intrastate and 12.5% interstate
+B. 12.5% intrastate and 87.5% interstate
+C. An even split in both streams
+D. No internal migrants recorded
 
-A. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-B. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-C. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-D. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
+**Q26. What is the interpretation of MoSPI 2020–21 reporting 86.8% of female migrants moving due to marriage?**
 
-**Answer: B.**
-**Explanation:** Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs. The other options describe different processes, locations, scales or governance categories.
+A. 86.8% of India’s entire population emigrated
+B. It is a recorded reason for female migrants in that survey, not the share of all migrants
+C. All married women work outside their home state
+D. Marriage is 86.8% of international migration
 
-### Q19. Which statement preserves the process boundary for Distance-decay principle?
+**Q27. How should older Khullar net-gainer maps be used for Delhi and Gujarat?**
 
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-C. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
+A. As 2027 Census counts
+B. As evidence all districts gain equally
+C. As historical maps; recheck present flows rather than treating labels as timeless
+D. As a replacement for corridor analysis
 
-**Answer: C.**
-**Explanation:** Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs. The other options describe different processes, locations, scales or governance categories.
+**Q28. Which map best illustrates both wage opportunity and existing networks?**
 
-### Q20. Which option avoids the main UPSC trap concerning Distance-decay principle?
+A. All states connected by identical bilateral flows
+B. Kerala–Gulf movement classified as domestic
+C. Only short moves across one village
+D. Bihar/UP source districts linked to Delhi-NCR and Gujarat industrial destinations
 
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-C. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-D. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
+**Q29. A Kerala worker moves for contract work to a Gulf country. Which classification and caution apply?**
 
-**Answer: D.**
-**Explanation:** Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs. The other options describe different processes, locations, scales or governance categories.
+A. International movement; remittances need their own dated evidence
+B. Intrastate marriage migration; no border crossed
+C. Urban–rural internal return only
+D. Annual domestic flow measured by census births
 
-### Q21. Which statement correctly explains Step migration chain?
+**Q30. A displaced household flees a flood rather than optimising expected wages. What is the model limit?**
 
-A. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
+A. Every displacement maximises wages
+B. Distress/forced movement may not fit voluntary wage-choice models
+C. All disaster movers are legally refugees
+D. A flood changes the gravity equation only via fertility
 
-**Answer: A.**
-**Explanation:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. The other options describe different processes, locations, scales or governance categories.
+**Q31. A worker moves but cannot access services tied to village registration. Which policy-geography issue is exposed?**
 
-### Q22. Which option is the safest spatial interpretation of Step migration chain?
+A. Crude birth rate calculation
+B. Replacement-level fertility
+C. Welfare portability across administrative boundaries
+D. Oceanic emigration only
 
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-C. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-D. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
+**Q32. Why may large cities attract more movers despite congestion?**
 
-**Answer: B.**
-**Explanation:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. The other options describe different processes, locations, scales or governance categories.
+A. Congestion mathematically raises everyone’s wage
+B. Small towns offer no jobs anywhere
+C. Only natural increase affects city size
+D. Agglomerated jobs, services and networks can outweigh costs for some migrants
 
-### Q23. Which statement preserves the process boundary for Step migration chain?
+### Separate answer key and item-specific explanations
 
-A. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-B. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-C. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
+**Q1 — A.** The state boundary is crossed, not the national border; rural/urban stream needs separate origin/destination evidence. **Trap:** Internal does not mean intrastate, and rural/urban endpoints need separate facts.
 
-**Answer: C.**
-**Explanation:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. The other options describe different processes, locations, scales or governance categories.
+**Q2 — B.** Birthplace may miss a returnee; compare last residence and time away rather than equating birthplace with migration history. **Trap:** Birthplace alone can conceal a return migration; fertility and sex ratios do not track residence histories.
 
-### Q24. Which option avoids the main UPSC trap concerning Step migration chain?
+**Q3 — C.** Crop distress encourages exit; destination jobs shape direction, conditional on information and access. **Trap:** Drought explains departure pressure, while jobs and networks affect destination choice.
 
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-C. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-D. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
+**Q4 — D.** Transport, law and costs can filter movement despite similar pull; personal selectivity also matters. **Trap:** Lee includes personal factors and obstacles, not just destination income.
 
-**Answer: D.**
-**Explanation:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. The other options describe different processes, locations, scales or governance categories.
+**Q5 — A.** The short-distance/step regularity explains the initial local move, not an invariant law for all migrants. **Trap:** Ravenstein describes tendencies, not prohibitions on long-distance movement.
 
-### Q25. Which statement correctly explains Circular and seasonal migration?
+**Q6 — B.** Ravenstein’s counter-stream is return or reciprocal movement; its size need not equal the initial flow. **Trap:** A counter-stream is not proof that every mover permanently returns.
 
-A. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-B. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-C. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
+**Q7 — C.** Distance usually dampens flow, though networks and exceptional opportunities can overcome it. **Trap:** Distance is a proxy for costs, not an absolute prohibition on a distant destination.
 
-**Answer: A.**
-**Explanation:** Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography. The other options describe different processes, locations, scales or governance categories.
+**Q8 — D.** Step migration moves through an urban hierarchy; it is not necessarily a single uninterrupted journey. **Trap:** Stepwise movement does not require annual return or international emigration.
 
-### Q26. Which option is the safest spatial interpretation of Circular and seasonal migration?
+**Q9 — A.** Gravity uses population mass and distance; it misses policy, kinship and labour-market selectivity. **Trap:** Population size and distance are not sufficient to predict a corridor without social and policy context.
 
-A. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-B. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-C. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
+**Q10 — B.** Opportunities encountered en route can intercept flows; neither size nor distance alone fixes a destination. **Trap:** A nearer opportunity matters even if a more distant city is bigger.
 
-**Answer: B.**
-**Explanation:** Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography. The other options describe different processes, locations, scales or governance categories.
+**Q11 — C.** The product of urban job probability and wage matters, not the posted city wage alone. **Trap:** Observed posted wages omit the chance of securing a job.
 
-### Q27. Which statement preserves the process boundary for Circular and seasonal migration?
+**Q12 — D.** Chain networks make a route persistent but do not by themselves explain the first pioneer. **Trap:** Networks explain corridor persistence better than the pioneer’s first decision.
 
-A. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
-D. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
+**Q13 — A.** It is a broad descriptive model; migration policy and regional differences complicate stage predictions. **Trap:** Zelinsky’s stages are generalisations, not a necessary universal order.
 
-**Answer: C.**
-**Explanation:** Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography. The other options describe different processes, locations, scales or governance categories.
+**Q14 — B.** Repeated work–home trips need not alter long-term usual residence and are easily missed by stock measures. **Trap:** Seasonal movement may leave permanent usual residence unchanged.
 
-### Q28. Which option avoids the main UPSC trap concerning Circular and seasonal migration?
+**Q15 — C.** Stream type and administrative boundary are independent axes; recorded reason may be marriage. **Trap:** Rural/urban endpoints and state boundary are independent classification axes.
 
-A. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-B. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-C. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-D. Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography.
+**Q16 — D.** Both endpoints are urban even though an interstate boundary is crossed; the labels measure different things. **Trap:** A transfer between cities remains urban–urban even across state lines.
 
-**Answer: D.**
-**Explanation:** Circular or seasonal migration repeats movement without final permanent settlement and is central to labour geography. The other options describe different processes, locations, scales or governance categories.
+**Q17 — A.** Marriage-related short-range movement is substantial; volume does not mean most moves are for jobs. **Trap:** Visibility of slums should not be confused with dominance by volume.
 
-### Q29. Which statement correctly explains Stream classification?
+**Q18 — B.** An origin village and destination city define rural–urban movement; reclassification and natural increase also affect urbanisation. **Trap:** Rural–urban migration affects cities, but births and settlement reclassification also affect urban shares.
 
-A. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-B. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-C. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-D. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
+**Q19 — C.** A category in a residence survey cannot establish that migrant women never work at destination. **Trap:** Recorded marriage reason cannot establish that women do no paid work.
 
-**Answer: A.**
-**Explanation:** Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams. The other options describe different processes, locations, scales or governance categories.
+**Q20 — D.** Remittances can support education and consumption while continued labour outmigration persists. **Trap:** Remittance receipt does not itself create productive employment in origin villages.
 
-### Q30. Which option is the safest spatial interpretation of Stream classification?
+**Q21 — A.** Selective movement changes resident composition without necessarily changing births or mortality. **Trap:** Sex ratio at birth is not the same as the all-ages resident sex ratio.
 
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-C. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-D. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
+**Q22 — B.** Return and circular moves expose the difference between usual-residence stocks and mobile livelihoods. **Trap:** Return flows refute a permanent one-way model; they do not negate all urban employment.
 
-**Answer: B.**
-**Explanation:** Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams. The other options describe different processes, locations, scales or governance categories.
+**Q23 — C.** MoSPI’s 2020–21 survey reports 28.9%; it is period-specific, not a 2027 census result. **Trap:** MoSPI is a dated sample survey, not a post-2011 nationwide enumeration.
 
-### Q31. Which statement preserves the process boundary for Stream classification?
+**Q24 — D.** The urban and rural figures are survey-period rates; the all-India average does not equal both. **Trap:** Do not reverse urban and rural percentages or substitute the all-India rate for both.
 
-A. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-D. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
+**Q25 — A.** Most moves remain within states; these figures describe shares of migrants in the named survey. **Trap:** The intrastate share dominates the interstate share in this dated dataset.
 
-**Answer: C.**
-**Explanation:** Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams. The other options describe different processes, locations, scales or governance categories.
+**Q26 — B.** Respect the denominator and survey period; recorded reason is not proof that women never also work. **Trap:** Denominator is surveyed female migrants, not the total Indian population.
 
-### Q32. Which option avoids the main UPSC trap concerning Stream classification?
+**Q27 — C.** Industrial destinations historically attracted migrants but current magnitudes need dated contemporary evidence. **Trap:** A 2001-era map cannot prove current corridor size or represent a future census.
 
-A. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-D. Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
+**Q28 — D.** Corridors combine labour demand, transport and chain migration; a destination label is not a flow estimate. **Trap:** A corridor requires origin, destination and mechanism; Gulf movement is international.
 
-**Answer: D.**
-**Explanation:** Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams. The other options describe different processes, locations, scales or governance categories.
+**Q29 — A.** An international border is crossed; do not silently insert a remittance total or a domestic survey rate. **Trap:** Cross-border work is not an internal stream; remittance totals need their own source.
 
-### Q33. Which statement correctly explains Rural-rural dominance?
+**Q30 — B.** Displacement and legal refugee status are distinct; urgency and coercion alter choice. **Trap:** A disaster mover need not meet a specific refugee-law test.
 
-A. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-B. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-C. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-D. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
+**Q31 — C.** Territorial benefit delivery can lag mobile households; portability reduces costs of moving. **Trap:** Portability involves administrative residence, not birth-rate or fertility measures.
 
-**Answer: A.**
-**Explanation:** Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large. The other options describe different processes, locations, scales or governance categories.
-
-### Q34. Which option is the safest spatial interpretation of Rural-rural dominance?
-
-A. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-B. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-C. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-D. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-
-**Answer: B.**
-**Explanation:** Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large. The other options describe different processes, locations, scales or governance categories.
-
-### Q35. Which statement preserves the process boundary for Rural-rural dominance?
-
-A. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-B. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-C. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-D. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-
-**Answer: C.**
-**Explanation:** Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large. The other options describe different processes, locations, scales or governance categories.
-
-### Q36. Which option avoids the main UPSC trap concerning Rural-rural dominance?
-
-A. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-B. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-
-**Answer: D.**
-**Explanation:** Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large. The other options describe different processes, locations, scales or governance categories.
-
-### Q37. Which statement correctly explains Rural-urban urbanisation link?
-
-A. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-D. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-
-**Answer: A.**
-**Explanation:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. The other options describe different processes, locations, scales or governance categories.
-
-### Q38. Which option is the safest spatial interpretation of Rural-urban urbanisation link?
-
-A. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-B. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-
-**Answer: B.**
-**Explanation:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. The other options describe different processes, locations, scales or governance categories.
-
-### Q39. Which statement preserves the process boundary for Rural-urban urbanisation link?
-
-A. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-B. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-C. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-D. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-
-**Answer: C.**
-**Explanation:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. The other options describe different processes, locations, scales or governance categories.
-
-### Q40. Which option avoids the main UPSC trap concerning Rural-urban urbanisation link?
-
-A. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-B. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-
-**Answer: D.**
-**Explanation:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. The other options describe different processes, locations, scales or governance categories.
-
-### Q41. Which statement correctly explains Source-destination effects?
-
-A. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-
-**Answer: A.**
-**Explanation:** Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q42. Which option is the safest spatial interpretation of Source-destination effects?
-
-A. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-B. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-
-**Answer: B.**
-**Explanation:** Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q43. Which statement preserves the process boundary for Source-destination effects?
-
-A. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-D. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-
-**Answer: C.**
-**Explanation:** Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q44. Which option avoids the main UPSC trap concerning Source-destination effects?
-
-A. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-B. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-
-**Answer: D.**
-**Explanation:** Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure. The other options describe different processes, locations, scales or governance categories.
-
-### Q45. Which statement correctly explains India's differentiated mobility?
-
-A. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-B. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-
-**Answer: A.**
-**Explanation:** Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation. The other options describe different processes, locations, scales or governance categories.
-
-### Q46. Which option is the safest spatial interpretation of India's differentiated mobility?
-
-A. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-B. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-C. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-D. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-
-**Answer: B.**
-**Explanation:** Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation. The other options describe different processes, locations, scales or governance categories.
-
-### Q47. Which statement preserves the process boundary for India's differentiated mobility?
-
-A. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-D. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-
-**Answer: C.**
-**Explanation:** Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation. The other options describe different processes, locations, scales or governance categories.
-
-### Q48. Which option avoids the main UPSC trap concerning India's differentiated mobility?
-
-A. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-B. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-C. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-D. Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.
-
-**Answer: D.**
-**Explanation:** Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation. The other options describe different processes, locations, scales or governance categories.
-
-### Q49. Which statement correctly explains MoSPI all-India migration rate?
-
-A. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-
-**Answer: A.**
-**Explanation:** MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q50. Which option is the safest spatial interpretation of MoSPI all-India migration rate?
-
-A. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-B. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-
-**Answer: B.**
-**Explanation:** MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q51. Which statement preserves the process boundary for MoSPI all-India migration rate?
-
-A. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-D. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-
-**Answer: C.**
-**Explanation:** MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q52. Which option avoids the main UPSC trap concerning MoSPI all-India migration rate?
-
-A. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-B. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-C. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-D. MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-
-**Answer: D.**
-**Explanation:** MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q53. Which statement correctly explains Rural and urban migration rates?
-
-A. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-
-**Answer: A.**
-**Explanation:** The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q54. Which option is the safest spatial interpretation of Rural and urban migration rates?
-
-A. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-B. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-C. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-D. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-
-**Answer: B.**
-**Explanation:** The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q55. Which statement preserves the process boundary for Rural and urban migration rates?
-
-A. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-B. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-C. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-D. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-
-**Answer: C.**
-**Explanation:** The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q56. Which option avoids the main UPSC trap concerning Rural and urban migration rates?
-
-A. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-B. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-C. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-D. The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-
-**Answer: D.**
-**Explanation:** The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent. The other options describe different processes, locations, scales or governance categories.
-
-### Q57. Which statement correctly explains Intrastate versus interstate?
-
-A. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-B. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-C. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-D. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-
-**Answer: A.**
-**Explanation:** In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate. The other options describe different processes, locations, scales or governance categories.
-
-### Q58. Which option is the safest spatial interpretation of Intrastate versus interstate?
-
-A. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-B. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-C. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-D. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-
-**Answer: B.**
-**Explanation:** In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate. The other options describe different processes, locations, scales or governance categories.
-
-### Q59. Which statement preserves the process boundary for Intrastate versus interstate?
-
-A. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-B. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-C. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-D. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-
-**Answer: C.**
-**Explanation:** In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate. The other options describe different processes, locations, scales or governance categories.
-
-### Q60. Which option avoids the main UPSC trap concerning Intrastate versus interstate?
-
-A. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-B. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-C. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-D. In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-
-**Answer: D.**
-**Explanation:** In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate. The other options describe different processes, locations, scales or governance categories.
-
-### Q61. Which statement correctly explains Marriage migration dominance?
-
-A. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-B. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-C. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-D. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-
-**Answer: A.**
-**Explanation:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. The other options describe different processes, locations, scales or governance categories.
-
-### Q62. Which option is the safest spatial interpretation of Marriage migration dominance?
-
-A. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-B. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-C. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: B.**
-**Explanation:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. The other options describe different processes, locations, scales or governance categories.
-
-### Q63. Which statement preserves the process boundary for Marriage migration dominance?
-
-A. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-B. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-C. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: C.**
-**Explanation:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. The other options describe different processes, locations, scales or governance categories.
-
-### Q64. Which option avoids the main UPSC trap concerning Marriage migration dominance?
-
-A. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-B. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-C. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-D. Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-
-**Answer: D.**
-**Explanation:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. The other options describe different processes, locations, scales or governance categories.
-
-### Q65. Which statement correctly explains Net gainers and senders?
-
-A. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-B. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-C. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: A.**
-**Explanation:** Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions. The other options describe different processes, locations, scales or governance categories.
-
-### Q66. Which option is the safest spatial interpretation of Net gainers and senders?
-
-A. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-B. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-C. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-D. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-
-**Answer: B.**
-**Explanation:** Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions. The other options describe different processes, locations, scales or governance categories.
-
-### Q67. Which statement preserves the process boundary for Net gainers and senders?
-
-A. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-B. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-C. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-D. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-
-**Answer: C.**
-**Explanation:** Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions. The other options describe different processes, locations, scales or governance categories.
-
-### Q68. Which option avoids the main UPSC trap concerning Net gainers and senders?
-
-A. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-B. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-C. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-D. Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-
-**Answer: D.**
-**Explanation:** Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions. The other options describe different processes, locations, scales or governance categories.
-
-### Q69. Which statement correctly explains Corridor logic?
-
-A. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-B. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-C. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: A.**
-**Explanation:** India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven. The other options describe different processes, locations, scales or governance categories.
-
-### Q70. Which option is the safest spatial interpretation of Corridor logic?
-
-A. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-B. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-C. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-D. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-
-**Answer: B.**
-**Explanation:** India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven. The other options describe different processes, locations, scales or governance categories.
-
-### Q71. Which statement preserves the process boundary for Corridor logic?
-
-A. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-B. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-C. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-D. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-
-**Answer: C.**
-**Explanation:** India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven. The other options describe different processes, locations, scales or governance categories.
-
-### Q72. Which option avoids the main UPSC trap concerning Corridor logic?
-
-A. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-B. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-C. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-D. India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-
-**Answer: D.**
-**Explanation:** India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven. The other options describe different processes, locations, scales or governance categories.
-
-### Q73. Which statement correctly explains Remittance and labour restructuring?
-
-A. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-B. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-C. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: A.**
-**Explanation:** Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment. The other options describe different processes, locations, scales or governance categories.
-
-### Q74. Which option is the safest spatial interpretation of Remittance and labour restructuring?
-
-A. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-B. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-C. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-D. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-
-**Answer: B.**
-**Explanation:** Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment. The other options describe different processes, locations, scales or governance categories.
-
-### Q75. Which statement preserves the process boundary for Remittance and labour restructuring?
-
-A. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-B. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-C. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-D. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-
-**Answer: C.**
-**Explanation:** Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment. The other options describe different processes, locations, scales or governance categories.
-
-### Q76. Which option avoids the main UPSC trap concerning Remittance and labour restructuring?
-
-A. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-B. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-C. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-D. Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-
-**Answer: D.**
-**Explanation:** Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment. The other options describe different processes, locations, scales or governance categories.
-
-### Q77. Which statement correctly explains Circular undercount and urban stress?
-
-A. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-B. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-C. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-D. Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-
-**Answer: A.**
-**Explanation:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. The other options describe different processes, locations, scales or governance categories.
-
-### Q78. Which option is the safest spatial interpretation of Circular undercount and urban stress?
-
-A. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-B. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-C. Migration is commonly explained through push factors at the origin and pull factors at the destination.
-D. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-
-**Answer: B.**
-**Explanation:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. The other options describe different processes, locations, scales or governance categories.
-
-### Q79. Which statement preserves the process boundary for Circular undercount and urban stress?
-
-A. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-B. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-C. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-D. Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-
-**Answer: C.**
-**Explanation:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. The other options describe different processes, locations, scales or governance categories.
-
-### Q80. Which option avoids the main UPSC trap concerning Circular undercount and urban stress?
-
-A. Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-B. Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-C. Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-D. Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Answer: D.**
-**Explanation:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. The other options describe different processes, locations, scales or governance categories.
-
-### Semantic-completeness coverage drills — Topic 27
-
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | How should conquest inscriptions be used? | claim/date/target → rival/material evidence → duration limit | audited empire map |
-| B | Was the Chola state centralized? | royal command/survey → intermediaries/local bodies → three models → graded verdict | bureaucracy versus autonomy binary |
-| C | What does Uttaramerur prove? | brahmadeya scope → eligibility/disqualification → kudavolai/variyam → exclusion | universal democracy |
-| D | Explain the agrarian base. | Kaveri/tanks/canals → land rights/survey/tax/labour → hierarchy | ecological determinism |
-| E | Reconstruct social dependence. | inscriptional term/settlement → labour and legal context → slavery caution | modern chattel equivalence |
-| F | Explain temple power. | ritual + land + labour + redistribution + craft + education/archive → variation | temple command economy |
-| G | Assess merchant and naval power. | guild/port/commodity → state interaction → Sri Lanka/Srivijaya distinction | colonization |
-| H | Build the culture answer. | three temples → bronzes/Nataraja → Tamil/Sanskrit → labour/patronage limit | monuments equal universal prosperity |
-
-**PYQ self-check:** 2020 Q24, 2022 GS-I Q12, 2024 GS-I Q11 and 2025 Q16
-must all be executable from chronology, culture and maritime evidence.
+**Q32 — D.** Diverse employment and network information concentrate demand; housing and informal work qualify the gains. **Trap:** Agglomeration can pull migrants without guaranteeing secure employment or good housing.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified routed descriptive PYQs
 
-Verified routing for this rebuild comes from the owner files: the 2024 GS-I demand on why large cities attract more migrants than smaller towns is supported directly inside the Basic owner, while the 2018 indentured-labour demand remains cross-cutting and is not falsely recast as a direct solved PYQ here.
+**2024 GS-I Q5 (10 marks, 150 words):** “Why do large cities tend to attract more migrants than smaller towns? Discuss in the light of conditions in developing countries.” Verified using the local 2024–25 GS-I routing ledger and published 2024 paper transcription.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Model answer:** In developing countries, large cities concentrate formal and informal jobs, markets, hospitals, colleges and transport; diverse employers improve the chance of finding *some* work even when job security is low. Delhi-NCR’s construction and service economy and the Mumbai metropolitan region’s multiple labour markets draw people from distant source regions. Existing migrant networks lower the cost of information, accommodation and recruitment, making such corridors self-reinforcing. Harris–Todaro’s expected-income reasoning explains why migration continues despite urban unemployment, while Stouffer’s intervening opportunities explain why nearer smaller towns sometimes intercept flows. Smaller towns often have thinner employment and service networks, though they can absorb local migrants and reduce metropolitan pressure. For the migrant, higher expected opportunity must be weighed against rent, informality, overcrowding and poor service access. Agglomeration is therefore a strong pull, not proof that every mover secures a better livelihood.
 
-#### Recent PYQ Integration (2024-2025)
+**2018 GS-I Q13 (15 marks, 250 words; cross-cutting colonial history/migration):** “Why indentured labour was taken by the British from India to their colonies? Have they been able to preserve their cultural identity over there?” Verified using the local 2018–23 GS-I routing ledger and published 2018 paper transcription.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+**Model answer:** After abolition of slavery in the British Empire, plantation colonies demanded a tightly controlled and inexpensive workforce for sugar and other export crops. Colonial recruiters drew workers from impoverished Indian regions with promises of wages and passage; debt, unequal bargaining power and coercive contract enforcement often limited actual choice. Workers crossed oceans to Mauritius, the Caribbean and Fiji, where distance and plantation discipline weakened everyday links with home. Yet many communities retained languages, religious practices, foodways, festivals and kinship networks through associations and intergenerational teaching; Indo-Mauritian and Indo-Fijian cultural traditions illustrate adaptation as well as persistence. Identity did not remain an untouched copy of India: local languages, intercultural contact and new political circumstances produced hybrid identities, while caste and gender relations changed unevenly. Thus colonial labour demand and unequal recruitment explain export; diasporas preserved recognisable practices but remade them in new social and geographic settings. The legal and historical coercion of indenture must not be reduced to a voluntary wage-maximising migration model.
 
-- **Years represented:** 2024
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-I | 5 | Why large cities attract more migrants than smaller towns | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Why large cities attract more migrants than smaller towns
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2018
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-I | 13 | Indentured labour export and diaspora cultural identity | Why and Have they · 15 marks · 250 words | Cross-cutting; colonial labour and migration both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Indentured labour export and diaspora cultural identity
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2024 GS-I
-
-**Demand:** Why do large cities attract more migrants than smaller towns?
-
-**Status:** Verified routed demand from the Basic owner and the 2024-2025 PYQ integration block.
-
-**Model solution:** Large cities attract more migrants because they concentrate diverse job opportunities, transport connections, services and migrant networks, so expected chances of finding some work are higher than in smaller towns. Smaller towns do intercept part of the flow, but big metropolitan nodes still dominate because they combine scale, labour demand and social support networks. The safe qualification is that migration reflects both opportunity and distress, and the attraction of big cities ultimately mirrors the spatial concentration of development.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-I”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the human-geography demand in “PYQ DEMAND CARD 1 — 2024 GS-I”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Why do large cities attract more migrants than smaller towns? **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Status: Verified routed demand from the Basic owner and the 2024-2025 PYQ integration block. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** The answer must resolve the human-geography demand in “PYQ DEMAND CARD 1 — 2024 GS-I”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-I”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+### Original Mains practice — complete model solutions
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
 **Question:** Explain migration using push factors, pull factors and intervening obstacles. Answer in about 150 words.
 
-**Model thesis:** Migration decisions arise from origin distress, destination attraction, intervening obstacles and personal selectivity; no one factor explains every stream.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.
-- Migration is commonly explained through push factors at the origin and pull factors at the destination.
-- Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.
-
-**Qualified conclusion:** Migration decisions arise from origin distress, destination attraction, intervening obstacles and personal selectivity; no one factor explains every stream.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain migration using push factors, pull factors and intervening obstacles. Answer in about…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Migration decisions arise from origin distress, destination attraction, intervening obstacles and personal selectivity; no one factor explains every stream.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Migration is commonly explained through push factors at the origin and pull factors at the destination. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Migration decisions arise from origin distress, destination attraction, intervening obstacles and personal selectivity; no one factor explains every stream.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Explain migration using push factors, pull factors and intervening obstacles. Answer in about…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Migration changes usual residence across a meaningful boundary; it is not identical to every daily journey. A drought-prone village may push a household through lost farm income, while construction work in Surat or Delhi-NCR pulls workers towards a destination. Lee’s framework adds intervening obstacles: travel costs, documentation, housing and social barriers can prevent or redirect movement even where wages differ. Personal factors matter too: kinship contacts make an otherwise distant city easier to reach, while care obligations constrain departure. A rural-to-rural marriage move has different social drivers from a rural-to-urban labour move, despite both being internal migration. The push–pull account organises motives but does not independently predict a specific corridor; economic opportunity, networks, transport and gender must be analysed together. Finally, a forced displacement after a flood cannot be read as ordinary wage optimisation.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
 **Question:** Why is step migration important in understanding urbanisation? Answer in about 150 words.
 
-**Model thesis:** Step migration shows that urbanisation often grows through a hierarchy of places, not by one jump from village to metropolis.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams.
-- Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs.
-- Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-
-**Qualified conclusion:** Step migration shows that urbanisation often grows through a hierarchy of places, not by one jump from village to metropolis.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why is step migration important in understanding urbanisation? Answer in about 150 words.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Step migration shows that urbanisation often grows through a hierarchy of places, not by one jump from village to metropolis.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Ravenstein's laws emphasise short-distance movement, step migration and the creation of counter-streams. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Migration volume usually falls with distance unless exceptional opportunities or networks offset distance costs. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Step migration shows that urbanisation often grows through a hierarchy of places, not by one jump from village to metropolis.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Why is step migration important in understanding urbanisation? Answer in about 150 words.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Step migration describes movement through intermediate settlements, for example village to nearby town, district city and metropolis. Ravenstein’s short-distance tendency and Stouffer’s intervening opportunities explain why the nearer town can intercept a migrant: it offers work and networks before the costs of a farther move are borne. Later migration may proceed as skills, savings or contacts accumulate. In India, smaller towns can connect a rural labour supply to Delhi-NCR or Gujarat industrial destinations; urbanisation is thus shaped by a hierarchy of places, not just direct village-to-megacity flights. Yet circular construction workers may return seasonally rather than permanently settling at every step, and a strong recruitment network may bypass intermediate towns entirely. Distinguish a stepwise route from annual return and from city-to-city transfer. Strengthening intermediate-town jobs and services could alter these pathways, though no model guarantees that metropolitan demand will disappear.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Discuss why India's migration is not one stream but many. Answer in about 250 words.
+**Question:** Discuss why India’s migration is not one stream but many. Answer in about 250 words.
 
-**Model thesis:** India's migration geography must separate marriage-led rural-rural movement, labour-led rural-urban mobility, urban-urban professional movement and circular migration.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.
-- Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large.
-- Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-- Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-
-**Qualified conclusion:** India's migration geography must separate marriage-led rural-rural movement, labour-led rural-urban mobility, urban-urban professional movement and circular migration.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss why India's migration is not one stream but many. Answer in about 250 words.”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India's migration geography must separate marriage-led rural-rural movement, labour-led rural-urban mobility, urban-urban professional movement and circular migration.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Rural-rural movement has historically been the largest internal stream in India, especially because marriage migration is large. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** India's migration geography must separate marriage-led rural-rural movement, labour-led rural-urban mobility, urban-urban professional movement and circular migration.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Discuss why India's migration is not one stream but many. Answer in about 250 words.”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** India’s migration geography requires two classifications at once: administrative boundary (within district, interstate or international) and rural/urban origin and destination. Historically rural–rural moves, often recorded as marriage-related for women, form a large stream; they should not be mistaken for industrial labour relocation. Rural–urban mobility feeds construction, manufacturing and services in Delhi-NCR, the Mumbai region and Gujarat’s industrial centres. Urban–urban moves follow education, transfers and skilled employment; urban–rural return becomes visible after retirement or economic shocks. Repeated seasonal travel to brick kilns or building sites often leaves a worker’s usual residence in the village, so stock counts understate circulation. Kerala–Gulf contract work crosses an international border and belongs to another evidence series. MoSPI’s Migration in India 2020–21 reports 87.5% of surveyed migrants intrastate and 12.5% interstate, contradicting the notion that all migration is long-distance; its female marriage-reason percentage does not mean migrant women are economically inactive. Drought, wages, marriage, networks and forced displacement can coexist even within one corridor. Each stream has different effects on source families, destination services and welfare portability; aggregate totals alone cannot reveal them.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
 **Question:** Assess the effects of migration on source and destination regions in India. Answer in about 250 words.
 
-**Model thesis:** Migration redistributes labour and income: remittances support origin households, but cities absorb labour with congestion, informality and service pressure.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure.
-- Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment.
-- Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Qualified conclusion:** Migration redistributes labour and income: remittances support origin households, but cities absorb labour with congestion, informality and service pressure.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the effects of migration on source and destination regions in India. Answer in about…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Migration redistributes labour and income: remittances support origin households, but cities absorb labour with congestion, informality and service pressure.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Migration changes source and destination regions together through remittances, labour redistribution, sex-structure change, congestion and slum pressure. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Remittances support consumption, housing, education and debt repayment in source regions, but they do not automatically create local productive employment. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Migration redistributes labour and income: remittances support origin households, but cities absorb labour with congestion, informality and service pressure.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Assess the effects of migration on source and destination regions in India. Answer in about…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Migration redistributes labour and pressure rather than simply relieving or causing distress. At a Bihar or eastern Uttar Pradesh source village, young adult outflow can ease local job competition and bring remittances for food, education and housing; returning migrants can carry skills and ideas. Yet lost working-age labour may raise care burdens, alter sex composition and leave households dependent on earnings from elsewhere without creating local productive jobs. At Delhi-NCR or a Gujarat industrial destination, workers supply construction, factories and services and support urban growth and cultural exchange. Rapid inflows also require affordable housing, water, sanitation and public transport; insecure informal work and exclusion from place-tied welfare can transfer the cost of urban production onto migrants and their source households. The sign of each effect depends on the stream: marriage migration differs from male-selective contract labour, and circular workers may be absent from permanent-residence data. Network-supported voluntary moves and debt-driven distress moves can share a route but have different bargaining power. Policy must improve job quality, portability and destination infrastructure while investing in source-region livelihoods. Remittances are a vital household buffer, not sufficient evidence of regional convergence.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Use the latest official migration snapshot to explain India's internal mobility pattern. Answer in about 300 words.
+**Question:** Use the latest official migration snapshot to explain India’s internal mobility pattern. Answer in about 300 words.
 
-**Model thesis:** MoSPI 2020-21 shows that India's migration remains largely intrastate, marriage-heavy in recorded female movement and more urban in incidence, which complicates simplistic labour-migration readings.
-
-**Claim → named evidence → analysis → qualification:**
-
-- MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent.
-- The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent.
-- In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.
-- Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot.
-
-**Qualified conclusion:** MoSPI 2020-21 shows that India's migration remains largely intrastate, marriage-heavy in recorded female movement and more urban in incidence, which complicates simplistic labour-migration readings.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Use the latest official migration snapshot to explain India's internal mobility pattern.…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** MoSPI 2020-21 shows that India's migration remains largely intrastate, marriage-heavy in recorded female movement and more urban in incidence, which complicates simplistic labour-migration readings.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** MoSPI's Migration in India 2020-21 gives an all-India migration rate of 28.9 percent. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** The same MoSPI release gives a rural migration rate of 26.5 percent and an urban migration rate of 34.9 percent. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** Female migrants moving due to marriage formed 86.8 percent of female migrants in the MoSPI 2020-21 snapshot. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** MoSPI 2020-21 shows that India's migration remains largely intrastate, marriage-heavy in recorded female movement and more urban in incidence, which complicates simplistic labour-migration readings.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Use the latest official migration snapshot to explain India's internal mobility pattern.…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** MoSPI’s Migration in India 2020–21, based on the PLFS framework and last usual residence, estimates an all-India migration rate of 28.9%; the rural rate is 26.5% and the urban rate 34.9%. Among migrants in the survey, 87.5% are intrastate and 12.5% interstate, so public attention to long-range labour routes should not obscure large local flows. The survey reports marriage as the recorded reason for 86.8% of female migrants; this is a share of female migrants by reason, not of the national population, and it cannot erase women’s work at destinations. Rural–rural marriage and farm-work streams coexist with rural–urban construction and service employment and urban–urban skilled movement. Bihar and Uttar Pradesh source belts connect to Delhi-NCR and Gujarat industrial destinations through wage differentials and recruitment networks; these are geographic examples, not survey counts for the corridor. Seasonal labour may return to a village between projects, eluding last-residence measures; pandemic-era temporary movement further cautions against treating the survey as a timeless baseline. Census 2011 is the latest completed census migration count at this review point, whereas MoSPI 2020–21 is a dated sample survey; no Census 2027 migration results are available. Explain flows by sex, reason, duration and scale before inferring policy: portability, source livelihoods and destination housing respond to different streams.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
 **Question:** Why do large cities attract more migrants than smaller towns? Analyse with Indian examples. Answer in about 300 words.
 
-**Model thesis:** Large cities concentrate diversified opportunities, networks and labour demand, so they attract migrants despite risk, while smaller centres intercept only part of the flow.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Step migration often proceeds village to small town to city to metropolis rather than by one direct leap.
-- Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work.
-- Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.
-- India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven.
-- Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.
-
-**Qualified conclusion:** Large cities concentrate diversified opportunities, networks and labour demand, so they attract migrants despite risk, while smaller centres intercept only part of the flow.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Why do large cities attract more migrants than smaller towns? Analyse with Indian examples.…”, all clauses and scales, a causal-spatial argument, named India/world evidence, model or policy limits and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Large cities concentrate diversified opportunities, networks and labour demand, so they attract migrants despite risk, while smaller centres intercept only part of the flow.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Step migration often proceeds village to small town to city to metropolis rather than by one direct leap. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-2. **Claim and named evidence:** Rural-urban migration remains the classic labour stream that fuels urbanisation, construction and informal work. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-3. **Claim and named evidence:** Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-4. **Claim and named evidence:** India's broad direction of labour mobility runs from lower-income agrarian regions towards industrial, construction and service corridors, making migration both development-seeking and distress-driven. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-5. **Claim and named evidence:** Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth. **Analysis:** Connect the named place, dataset, model or institution to the driver → mechanism → spatial pattern → consequence chain. **Qualification:** State the scale, model assumption, interacting control, regional exception or source-date-status boundary.
-
-**Counter-position / limit:** A spatial correlation, model prediction, single scheme or aggregate statistic is neither a sufficient cause nor a timeless description; test institutions, agency, networks, scale, distributional effects and the evidence date.
-
-**Qualified conclusion:** Large cities concentrate diversified opportunities, networks and labour demand, so they attract migrants despite risk, while smaller centres intercept only part of the flow.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding and drawing the map/flow; open with definition and thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for the scale, model or data-status limit.
-
-**Why this earns marks:** The answer obeys the directive, explains spatial differentiation, integrates Indian evidence and avoids determinism or timeless statistics.
-
-**How to improve this answer:** For “Why do large cities attract more migrants than smaller towns? Analyse with Indian examples.…”, replace the weakest generalisation with one labelled map, model assumption, policy chronology or dataset and state the exception, scale or source-date-status boundary.
+**Model answer (claim → named evidence → analysis → qualification):** Large cities draw labour because they combine multiple sectors, thick employer networks, transport nodes, education and specialised services. A person arriving in Delhi-NCR may try construction, delivery and small services rather than depend on one factory; Mumbai’s metropolitan economy also offers varied opportunities. Harris–Todaro’s model evaluates the urban wage against the chance of securing work, explaining some moves even when unemployment is visible; it does not imply that expected gains materialise for everyone. Existing migrants lower newcomers’ recruitment and housing costs, creating persistent district-to-city corridors. Gravity reasoning predicts a pull from large population centres, but distance, border restrictions, gender and language shape actual flows; Stouffer’s intervening opportunities explain why an accessible smaller town sometimes captures a migrant instead. Smaller towns may provide cheaper housing and proximity to family yet lack the same employment diversity or referral networks. Agglomeration has costs: insecure rentals, congested services and informal low-paid jobs mean city size is no guarantee of well-being. For India, investment in intermediate-town industries and transport could widen choices, while metropolitan housing and portable welfare could reduce the social cost of existing flows. Answer the comparative question with job variety, network effects and service concentration, while recognising conditions in developing countries and meaningful exceptions.

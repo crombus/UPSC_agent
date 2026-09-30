@@ -12,821 +12,1079 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+### Questions — attempt all before consulting the key
+
 #### MCQ 1
 
-A district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty for citizens who do not use it. Which source-grounded ethical principle most precisely explains the case?
+A district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty for citizens who do not use it. What is the most defensible decision?
 
-A. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-B. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-C. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-D. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-**Answer:** A
-**Explanation:** **Law is not identical with every administrative instruction** is the controlling principle. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use the circular for internal reporting, not to create a citizen penalty
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo.
 
 ---
 
 #### MCQ 2
 
-A municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits an equivalent method of compliance. Which source-grounded ethical principle most precisely explains the case?
+A municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits an equivalent method of compliance. What is the most defensible decision?
 
-A. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-B. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-C. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-D. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-**Answer:** B
-**Explanation:** **Law is not identical with every administrative instruction** is the controlling principle. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits.
+B. Check the checklist against the parent statute and its equivalent-compliance allowance
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits.
 
 ---
 
 #### MCQ 3
 
-A welfare department issues eligibility rules under an Act, then adds a condition excluding a class the Act expressly protects. Which source-grounded ethical principle most precisely explains the case?
+A welfare department issues eligibility rules under an Act, then adds a condition excluding a class the Act expressly protects. What is the most defensible decision?
 
-A. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-B. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-C. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-D. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-**Answer:** C
-**Explanation:** **Rules normally exercise delegated authority** is the controlling principle. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express.
+C. Challenge a delegated condition contradicting the protections in the parent Act
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express.
 
 ---
 
 #### MCQ 4
 
-A licensing officer follows a rule mechanically although it appears inconsistent with the parent Act's stated public-health purpose. Which source-grounded ethical principle most precisely explains the case?
+A licensing officer follows a rule mechanically although it appears inconsistent with the parent Act's stated public-health purpose. What is the most defensible decision?
 
-A. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-B. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-C. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-D. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-**Answer:** D
-**Explanation:** **Rules normally exercise delegated authority** is the controlling principle. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi.
+D. Interpret the rule within the authority and purpose of the parent Act
 
 ---
 
 #### MCQ 5
 
-A statutory environmental authority frames compliance regulations under its enabling Act after the prescribed consultation process. Which source-grounded ethical principle most precisely explains the case?
+A statutory environmental authority frames compliance regulations under its enabling Act after the prescribed consultation process. What is the most defensible decision?
 
-A. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-B. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-C. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-D. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-**Answer:** A
-**Explanation:** **Regulations require a source of regulatory power** is the controlling principle. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Verify the regulator’s enabling authority, scope and consultation procedure
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu.
 
 ---
 
 #### MCQ 6
 
-A public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making power supports it. Which source-grounded ethical principle most precisely explains the case?
+A public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making power supports it. What is the most defensible decision?
 
-A. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-B. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-C. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-D. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-**Answer:** B
-**Explanation:** **Regulations require a source of regulatory power** is the controlling principle. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p.
+B. Treat the internal email as guidance absent a binding legal basis
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p.
 
 ---
 
 #### MCQ 7
 
-A hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no identical wording. Which source-grounded ethical principle most precisely explains the case?
+A hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no identical wording. What is the most defensible decision?
 
-A. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-B. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-C. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-D. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-**Answer:** C
-**Explanation:** **Codes and circulars have variable legal force** is the controlling principle. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide.
+C. Use the ethics code to disclose a conflict even beyond the exact conduct rule
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide.
 
 ---
 
 #### MCQ 8
 
-A department treats every advisory circular as delegated legislation and disciplines an employee without checking its service-rule basis. Which source-grounded ethical principle most precisely explains the case?
+A department treats every advisory circular as delegated legislation and disciplines an employee without checking its service-rule basis. What is the most defensible decision?
 
-A. A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
-
-B. A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
-
-C. A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
-
-D. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
-
-**Answer:** D
-**Explanation:** **Codes and circulars have variable legal force** is the controlling principle. A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i.
+D. Identify the actual service-rule basis before imposing discipline
 
 ---
 
 #### MCQ 9
 
-A contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no express offence has occurred. Which source-grounded ethical principle most precisely explains the case?
+A contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no express offence has occurred. What is the most defensible decision?
 
-A. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-B. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-C. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-D. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-**Answer:** A
-**Explanation:** **Legal compliance is an ethical floor, not a ceiling** is the controlling principle. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Test repeated vendor gifts for compromised judgment beyond threshold compliance
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre.
 
 ---
 
 #### MCQ 10
 
-An officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified and harmed. Which source-grounded ethical principle most precisely explains the case?
+An officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified and harmed. What is the most defensible decision?
 
-A. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-B. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-C. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-D. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-**Answer:** B
-**Explanation:** **Legal compliance is an ethical floor, not a ceiling** is the controlling principle. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a.
+B. Assess re-identification harm before releasing technically permissible data
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a.
 
 ---
 
 #### MCQ 11
 
-A service handbook says officials shall uphold integrity, while another provision requires annual asset declarations and specifies disciplinary action for default. Which source-grounded ethical principle most precisely explains the case?
+A service handbook says officials shall uphold integrity, while another provision requires annual asset declarations and specifies disciplinary action for default. What is the most defensible decision?
 
-A. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-B. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-C. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-D. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-**Answer:** C
-**Explanation:** **Code of ethics differs from code of conduct** is the controlling principle. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration.
+C. Separate broad integrity guidance from the enforceable declaration requirement
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration.
 
 ---
 
 #### MCQ 12
 
-A trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questionable act. Which source-grounded ethical principle most precisely explains the case?
+A trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questionable act. What is the most defensible decision?
 
-A. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-B. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-C. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-D. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-**Answer:** D
-**Explanation:** **Code of ethics differs from code of conduct** is the controlling principle. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi.
+D. Use an aspirational code to guide ethical conduct outside penal prohibitions
 
 ---
 
 #### MCQ 13
 
-A collector awards a lawful short-term consultancy to a former classmate without recording the conflict or considering equally qualified applicants. Which source-grounded ethical principle most precisely explains the case?
+A collector awards a lawful short-term consultancy to a former classmate without recording the conflict or considering equally qualified applicants. What is the most defensible decision?
 
-A. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-B. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-C. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-D. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-**Answer:** A
-**Explanation:** **Propriety asks how public power is used** is the controlling principle. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Declare the classmate link and apply fair, reviewable consultant selection
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider.
 
 ---
 
 #### MCQ 14
 
-A public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will soon evaluate. Which source-grounded ethical principle most precisely explains the case?
+A public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will soon evaluate. What is the most defensible decision?
 
-A. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-B. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-C. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-D. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-**Answer:** B
-**Explanation:** **Propriety asks how public power is used** is the controlling principle. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will.
+B. Decline or manage vendor hospitality before evaluating the tender
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will.
 
 ---
 
 #### MCQ 15
 
-A state designs an online-only benefit rule without considering villages where connectivity and digital literacy are severely limited. Which source-grounded ethical principle most precisely explains the case?
+A state designs an online-only benefit rule without considering villages where connectivity and digital literacy are severely limited. What is the most defensible decision?
 
-A. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-B. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-C. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-D. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-**Answer:** C
-**Explanation:** **Ethics informs the making and revision of rules** is the controlling principle. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar.
+C. Provide an accessible alternative to an exclusionary online-only benefit rule
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar.
 
 ---
 
 #### MCQ 16
 
-A regulator revises a filing rule after evidence shows that the original form systematically excludes persons with disabilities. Which source-grounded ethical principle most precisely explains the case?
+A regulator revises a filing rule after evidence shows that the original form systematically excludes persons with disabilities. What is the most defensible decision?
 
-A. A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
-
-B. Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
-
-C. Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
-
-D. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
-
-**Answer:** D
-**Explanation:** **Ethics informs the making and revision of rules** is the controlling principle. Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with .
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with .
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with .
+D. Revise inaccessible filing rules using evidence and authorised procedure
 
 ---
 
 #### MCQ 17
 
-A district administration considers excluding a disliked minority from a public hearing because local majority groups demand it. Which source-grounded ethical principle most precisely explains the case?
+A district administration considers excluding a disliked minority from a public hearing because local majority groups demand it. What is the most defensible decision?
 
-A. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-B. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-C. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-D. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-**Answer:** A
-**Explanation:** **Constitutional morality is not popular morality** is the controlling principle. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Include the minority in the hearing under equal public-participation rules
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou.
 
 ---
 
 #### MCQ 18
 
-An officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful justification. Which source-grounded ethical principle most precisely explains the case?
+An officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful justification. What is the most defensible decision?
 
-A. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-B. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-C. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-D. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-**Answer:** B
-**Explanation:** **Constitutional morality is not popular morality** is the controlling principle. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful.
+B. Test differential treatment against equality and public purpose, not popularity
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful.
 
 ---
 
 #### MCQ 19
 
-A training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify discretionary decisions. Which source-grounded ethical principle most precisely explains the case?
+A training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify discretionary decisions. What is the most defensible decision?
 
-A. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-B. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-C. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-D. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-**Answer:** C
-**Explanation:** **Constitutional morality requires cultivation** is the controlling principle. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify .
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify .
+C. Teach officers equality, due process and non-arbitrary discretionary reasons
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify .
 
 ---
 
 #### MCQ 20
 
-A supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality without testing the relevant constitutional value. Which source-grounded ethical principle most precisely explains the case?
+A supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality without testing the relevant constitutional value. What is the most defensible decision?
 
-A. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-B. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-C. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-D. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-**Answer:** D
-**Explanation:** **Constitutional morality requires cultivation** is the controlling principle. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with.
+D. Test private conviction against identifiable constitutional values
 
 ---
 
 #### MCQ 21
 
-A licensing officer believes a departmental direction is discriminatory and records reasons before seeking review from the competent authority. Which source-grounded ethical principle most precisely explains the case?
+A licensing officer believes a departmental direction is discriminatory and records reasons before seeking review from the competent authority. What is the most defensible decision?
 
-A. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-B. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-C. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-D. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-**Answer:** A
-**Explanation:** **Constitutional morality does not authorise unilateral illegality** is the controlling principle. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Record the objection and seek competent institutional review
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f.
 
 ---
 
 #### MCQ 22
 
-A public servant ignores an applicable rule solely because she considers her private moral view superior to institutional procedure. Which source-grounded ethical principle most precisely explains the case?
+A public servant ignores an applicable rule solely because she considers her private moral view superior to institutional procedure. What is the most defensible decision?
 
-A. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-B. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-C. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-D. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-**Answer:** B
-**Explanation:** **Constitutional morality does not authorise unilateral illegality** is the controlling principle. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu.
+B. Seek lawful review instead of ignoring rules on private conviction alone
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu.
 
 ---
 
 #### MCQ 23
 
-A local rule is formally issued but singles out one community without a rational public purpose or a fair hearing. Which source-grounded ethical principle most precisely explains the case?
+A local rule is formally issued but singles out one community without a rational public purpose or a fair hearing. What is the most defensible decision?
 
-A. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-B. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-C. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-D. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-**Answer:** C
-**Explanation:** **Legality includes constitutional limits** is the controlling principle. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing.
+C. Test the rule for equal treatment, legitimate purpose and fair hearing
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing.
 
 ---
 
 #### MCQ 24
 
-An officer calls a direction legal merely because it has a file number, without checking whether the issuing authority possessed power. Which source-grounded ethical principle most precisely explains the case?
+An officer calls a direction legal merely because it has a file number, without checking whether the issuing authority possessed power. What is the most defensible decision?
 
-A. Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
-
-B. An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
-
-C. Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
-
-D. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
-
-**Answer:** D
-**Explanation:** **Legality includes constitutional limits** is the controlling principle. A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author.
+D. Verify whether the authority could issue the direction in the first place
 
 ---
 
 #### MCQ 25
 
-A procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and comparative prices before drawing a conclusion. Which source-grounded ethical principle most precisely explains the case?
+A procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and comparative prices before drawing a conclusion. What is the most defensible decision?
 
-A. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-B. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-C. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-D. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-**Answer:** A
-**Explanation:** **Conscience is a signal requiring reflection** is the controlling principle. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use discomfort to trigger factual verification, not to substitute for it
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara.
 
 ---
 
 #### MCQ 26
 
-A field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or checking the governing scheme. Which source-grounded ethical principle most precisely explains the case?
+A field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or checking the governing scheme. What is the most defensible decision?
 
-A. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-B. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-C. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-D. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-**Answer:** B
-**Explanation:** **Conscience is a signal requiring reflection** is the controlling principle. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che.
+B. Hear the applicant and verify the scheme before making an adverse order
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che.
 
 ---
 
 #### MCQ 27
 
-An officer is ordered to certify data she believes has been deliberately falsified and experiences participation as betrayal of a core commitment to truth. Which source-grounded ethical principle most precisely explains the case?
+An officer is ordered to certify data she believes has been deliberately falsified and experiences participation as betrayal of a core commitment to truth. What is the most defensible decision?
 
-A. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-B. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-C. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-D. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-**Answer:** C
-**Explanation:** **Crisis of conscience differs from an ordinary dilemma** is the controlling principle. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as.
+C. Record dissent and verify suspected false data rather than certify it
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as.
 
 ---
 
 #### MCQ 28
 
-A collector must choose between two needy villages when relief stocks are inadequate but neither option involves a dishonest or unlawful instruction. Which source-grounded ethical principle most precisely explains the case?
+A collector must choose between two needy villages when relief stocks are inadequate but neither option involves a dishonest or unlawful instruction. What is the most defensible decision?
 
-A. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-B. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-C. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-D. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-**Answer:** D
-**Explanation:** **Crisis of conscience differs from an ordinary dilemma** is the controlling principle. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a .
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a .
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a .
+D. Allocate scarce supplies using lawful need-based criteria, not subjective distress alone
 
 ---
 
 #### MCQ 29
 
-Citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through democratic debate. Which source-grounded ethical principle most precisely explains the case?
+Citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through democratic debate. What is the most defensible decision?
 
-A. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-B. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-C. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-D. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-**Answer:** A
-**Explanation:** **Civil disobedience differs from official dissent** is the controlling principle. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Distinguish a citizen’s public civil disobedience from an officer’s institutional dissent
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo.
 
 ---
 
 #### MCQ 30
 
-A civil servant posts confidential files online before making a written objection, seeking review or approaching an authorised oversight body. Which source-grounded ethical principle most precisely explains the case?
+A civil servant posts confidential files online before making a written objection, seeking review or approaching an authorised oversight body. What is the most defensible decision?
 
-A. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-B. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-C. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-D. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-**Answer:** B
-**Explanation:** **Civil disobedience differs from official dissent** is the controlling principle. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an.
+B. Preserve evidence and pursue authorised review before wider disclosure
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an.
 
 ---
 
 #### MCQ 31
 
-An officer requests recusal from a decision involving a close relative and asks the competent authority to assign the matter elsewhere. Which source-grounded ethical principle most precisely explains the case?
+An officer requests recusal from a decision involving a close relative and asks the competent authority to assign the matter elsewhere. What is the most defensible decision?
 
-A. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-B. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-C. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-D. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-**Answer:** C
-**Explanation:** **Conscientious objection is conditional in public service** is the controlling principle. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t.
+C. Seek authorised recusal and independent reassignment of the relative’s file
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t.
 
 ---
 
 #### MCQ 32
 
-A public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or any recognised institutional accommodation. Which source-grounded ethical principle most precisely explains the case?
+A public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or any recognised institutional accommodation. What is the most defensible decision?
 
-A. A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
-
-B. Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
-
-C. Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
-
-D. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
-
-**Answer:** D
-**Explanation:** **Conscientious objection is conditional in public service** is the controlling principle. Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or.
+D. Seek substitution or review rather than abandoning all lawful welfare duties
 
 ---
 
 #### MCQ 33
 
-An accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance channel before approaching outsiders. Which source-grounded ethical principle most precisely explains the case?
+An accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance channel before approaching outsiders. What is the most defensible decision?
 
-A. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-B. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-C. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-D. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-**Answer:** A
-**Explanation:** **Institutional channels should precede external disclosure** is the controlling principle. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Preserve the invoices and report through an applicable vigilance channel
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan.
 
 ---
 
 #### MCQ 34
 
-A junior engineer forwards unverified corruption allegations to social media without checking documents or using the departmental complaint mechanism. Which source-grounded ethical principle most precisely explains the case?
+A junior engineer forwards unverified corruption allegations to social media without checking documents or using the departmental complaint mechanism. What is the most defensible decision?
 
-A. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-B. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-C. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-D. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-**Answer:** B
-**Explanation:** **Institutional channels should precede external disclosure** is the controlling principle. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th.
+B. Check the records and authorised reporting route before airing allegations
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th.
 
 ---
 
 #### MCQ 35
 
-A PSU employee documents inflated invoices and reports them to the designated authority despite credible fear of victimisation. Which source-grounded ethical principle most precisely explains the case?
+A PSU employee documents inflated invoices and reports them to the designated authority despite credible fear of victimisation. What is the most defensible decision?
 
-A. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-B. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-C. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-D. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-**Answer:** C
-**Explanation:** **Whistleblowing concerns public-interest wrongdoing** is the controlling principle. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi.
+C. Document misconduct and seek the channel’s available retaliation safeguards
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi.
 
 ---
 
 #### MCQ 36
 
-An employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her personal convenience. Which source-grounded ethical principle most precisely explains the case?
+An employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her personal convenience. What is the most defensible decision?
 
-A. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-B. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-C. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-D. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-**Answer:** D
-**Explanation:** **Whistleblowing concerns public-interest wrongdoing** is the controlling principle. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per.
+D. Distinguish a personal transfer objection from disclosure of public wrongdoing
 
 ---
 
 #### MCQ 37
 
-An official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could address the wrongdoing without exposing operational details. Which source-grounded ethical principle most precisely explains the case?
+An official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could address the wrongdoing without exposing operational details. What is the most defensible decision?
 
-A. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-B. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-C. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-D. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-**Answer:** A
-**Explanation:** **External disclosure requires a necessity test** is the controlling principle. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Test narrower authorised disclosure, necessity, proportionality and security harm
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could.
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could.
 
 ---
 
 #### MCQ 38
 
-A hospital employee releases identifiable patient files to prove poor management although redaction and authorised complaint mechanisms were available. Which source-grounded ethical principle most precisely explains the case?
+A hospital employee releases identifiable patient files to prove poor management although redaction and authorised complaint mechanisms were available. What is the most defensible decision?
 
-A. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-B. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-C. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-D. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-**Answer:** B
-**Explanation:** **External disclosure requires a necessity test** is the controlling principle. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised .
+B. Redact patient identities and report through an appropriate oversight route
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised .
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised .
 
 ---
 
 #### MCQ 39
 
-A central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance and disclosure mechanism. Which source-grounded ethical principle most precisely explains the case?
+A central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance and disclosure mechanism. What is the most defensible decision?
 
-A. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-B. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-C. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-D. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-**Answer:** C
-**Explanation:** **Protection claims need current legal verification** is the controlling principle. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a.
+C. Verify current channel jurisdiction, confidentiality and protection scope
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a.
 
 ---
 
 #### MCQ 40
 
-A trainer assures all employees that every anonymous disclosure is legally protected without checking governing law, scope or commencement status. Which source-grounded ethical principle most precisely explains the case?
+A trainer assures all employees that every anonymous disclosure is legally protected without checking governing law, scope or commencement status. What is the most defensible decision?
 
-A. Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
-
-B. External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
-
-C. Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
-
-D. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
-
-**Answer:** D
-**Explanation:** **Protection claims need current legal verification** is the controlling principle. Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law.
+D. Check governing law, commencement and channel before assuring anonymous protection
 
 ---
 
 #### MCQ 41
 
-A collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than favouring her own constituency. Which source-grounded ethical principle most precisely explains the case?
+A collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than favouring her own constituency. What is the most defensible decision?
 
-A. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-B. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-C. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-D. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-**Answer:** A
-**Explanation:** **Discretion is structured rather than personal freedom** is the controlling principle. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Prioritise aid by documented vulnerability, access and scheme criteria
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than .
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than .
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than .
 
 ---
 
 #### MCQ 42
 
-A licensing officer waives requirements for a politically connected applicant because he believes helping influential people improves local development. Which source-grounded ethical principle most precisely explains the case?
+A licensing officer waives requirements for a politically connected applicant because he believes helping influential people improves local development. What is the most defensible decision?
 
-A. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-B. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-C. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-D. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-**Answer:** B
-**Explanation:** **Discretion is structured rather than personal freedom** is the controlling principle. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti.
+B. Reject political waivers lacking lawful eligibility grounds
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti.
 
 ---
 
 #### MCQ 43
 
-A flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitted by the relevant scheme. Which source-grounded ethical principle most precisely explains the case?
+A flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitted by the relevant scheme. What is the most defensible decision?
 
-A. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-B. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-C. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-D. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-**Answer:** C
-**Explanation:** **Form protects values but can defeat statutory purpose** is the controlling principle. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte.
+C. Accept and record the officially permitted equivalent document
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte.
 
 ---
 
 #### MCQ 44
 
-An officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no authority for the departure. Which source-grounded ethical principle most precisely explains the case?
+An officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no authority for the departure. What is the most defensible decision?
 
-A. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-B. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-C. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-D. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-**Answer:** D
-**Explanation:** **Form protects values but can defeat statutory purpose** is the controlling principle. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author.
+D. Seek lawful alternatives instead of covert eligibility waivers
 
 ---
 
 #### MCQ 45
 
-A district authority explains why one evacuation route was selected after recording safety evidence, accessibility concerns and alternatives considered. Which source-grounded ethical principle most precisely explains the case?
+A district authority explains why one evacuation route was selected after recording safety evidence, accessibility concerns and alternatives considered. What is the most defensible decision?
 
-A. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-B. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-C. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-D. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-**Answer:** A
-**Explanation:** **Reasoned orders make ethics accountable** is the controlling principle. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Document evacuation route safety, access issues and rejected alternatives
+B. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility .
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility .
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility .
 
 ---
 
 #### MCQ 46
 
-A public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable to understand or challenge the decision. Which source-grounded ethical principle most precisely explains the case?
+A public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable to understand or challenge the decision. What is the most defensible decision?
 
-A. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-B. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-C. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-D. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-**Answer:** B
-**Explanation:** **Reasoned orders make ethics accountable** is the controlling principle. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t.
+B. Give intelligible reasons and a meaningful review path for the rejection
+C. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t.
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t.
 
 ---
 
 #### MCQ 47
 
-A procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, records reasons and escalates the concern. Which source-grounded ethical principle most precisely explains the case?
+A procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, records reasons and escalates the concern. What is the most defensible decision?
 
-A. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
-
-B. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
-
-C. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
-
-D. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
-
-**Answer:** C
-**Explanation:** **A sound decision joins legal and ethical tests** is the controlling principle. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco.
+C. Reject artificial purchase splitting and obtain competent sanction
+D. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco.
 
 ---
 
 #### MCQ 48
 
-An officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, affected rights or review mechanisms. Which source-grounded ethical principle most precisely explains the case?
+An officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, affected rights or review mechanisms. What is the most defensible decision?
 
-A. Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
+A. Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff.
+B. Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff.
+C. Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff.
+D. Test land decisions against legal authority, affected rights and review alongside conscience
 
-B. A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
+### Separate answer key — four-option elimination
 
-C. Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
+#### MCQ 1 — A
 
-D. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
+- **A — correct:** Use the circular for internal reporting, not to create a citizen penalty. The controlling source distinction is: A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district office circular asks officers to use a new reporting format, but no statute or rule creates a penalty fo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
 
-**Answer:** D
-**Explanation:** **A sound decision joins legal and ethical tests** is the controlling principle. A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is use the circular for internal reporting, not to create a citizen penalty.
+
+---
+
+#### MCQ 2 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Check the checklist against the parent statute and its equivalent-compliance allowance. The controlling source distinction is: A law is a binding legal norm whose authority arises within the constitutional and statutory framework; an office instruction may guide officials without becoming law.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a municipal officer calls a departmental checklist a law and refuses to consider whether its parent statute permits. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is check the checklist against the parent statute and its equivalent-compliance allowance.
+
+---
+
+#### MCQ 3 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Challenge a delegated condition contradicting the protections in the parent Act. The controlling source distinction is: A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a welfare department issues eligibility rules under an act, then adds a condition excluding a class the act express. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is challenge a delegated condition contradicting the protections in the parent act.
+
+---
+
+#### MCQ 4 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a licensing officer follows a rule mechanically although it appears inconsistent with the parent act's stated publi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Interpret the rule within the authority and purpose of the parent Act. The controlling source distinction is: A rule commonly gives operational detail under an enabling law and must remain within that delegated authority, statutory purpose, constitutional limits and procedural requirements.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is interpret the rule within the authority and purpose of the parent act.
+
+---
+
+#### MCQ 5 — A
+
+- **A — correct:** Verify the regulator’s enabling authority, scope and consultation procedure. The controlling source distinction is: A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a statutory environmental authority frames compliance regulations under its enabling act after the prescribed consu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is verify the regulator’s enabling authority, scope and consultation procedure.
+
+---
+
+#### MCQ 6 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Treat the internal email as guidance absent a binding legal basis. The controlling source distinction is: A regulation is ordinarily a binding delegated norm made by a statutory regulator or authority under enabling power; it is not simply a synonym for any guideline.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public undertaking calls an internal advisory email a regulation although no statutory authority or rule-making p. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is treat the internal email as guidance absent a binding legal basis.
+
+---
+
+#### MCQ 7 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Use the ethics code to disclose a conflict even beyond the exact conduct rule. The controlling source distinction is: A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a hospital's ethics code asks doctors to disclose conflicts of interest even where the conduct rule provides no ide. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is use the ethics code to disclose a conflict even beyond the exact conduct rule.
+
+---
+
+#### MCQ 8 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a department treats every advisory circular as delegated legislation and disciplines an employee without checking i. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Identify the actual service-rule basis before imposing discipline. The controlling source distinction is: A code of ethics, conduct code, circular or guideline may guide and sometimes bind an employee, but its force depends on its legal source and adoption.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is identify the actual service-rule basis before imposing discipline.
+
+---
+
+#### MCQ 9 — A
+
+- **A — correct:** Test repeated vendor gifts for compromised judgment beyond threshold compliance. The controlling source distinction is: Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a contractor accepts gifts just below a disclosed threshold from firms seeking future work and claims that no expre. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test repeated vendor gifts for compromised judgment beyond threshold compliance.
+
+---
+
+#### MCQ 10 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Assess re-identification harm before releasing technically permissible data. The controlling source distinction is: Legality establishes a necessary public minimum, while ethics also examines purpose, fairness, foreseeable harm, integrity and institutional trust where no offence is proved.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer releases a technically permissible dataset while ignoring whether weak beneficiaries can be identified a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is assess re-identification harm before releasing technically permissible data.
+
+---
+
+#### MCQ 11 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Separate broad integrity guidance from the enforceable declaration requirement. The controlling source distinction is: A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a service handbook says officials shall uphold integrity, while another provision requires annual asset declaration. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is separate broad integrity guidance from the enforceable declaration requirement.
+
+---
+
+#### MCQ 12 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a trainee says a value statement is useless because it does not itself prescribe a penalty for every morally questi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Use an aspirational code to guide ethical conduct outside penal prohibitions. The controlling source distinction is: A code of ethics articulates aspirational public values, whereas a code of conduct specifies observable duties, prohibitions and possible institutional consequences for breach.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is use an aspirational code to guide ethical conduct outside penal prohibitions.
+
+---
+
+#### MCQ 13 — A
+
+- **A — correct:** Declare the classmate link and apply fair, reviewable consultant selection. The controlling source distinction is: Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a collector awards a lawful short-term consultancy to a former classmate without recording the conflict or consider. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is declare the classmate link and apply fair, reviewable consultant selection.
+
+---
+
+#### MCQ 14 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Decline or manage vendor hospitality before evaluating the tender. The controlling source distinction is: Propriety tests fairness, public purpose and appearance of impartiality beyond bare legal validity, especially where discretionary public power can create avoidable distrust.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant accepts hospitality technically permitted by a local threshold from a vendor whose tender she will. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is decline or manage vendor hospitality before evaluating the tender.
+
+---
+
+#### MCQ 15 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Provide an accessible alternative to an exclusionary online-only benefit rule. The controlling source distinction is: Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a state designs an online-only benefit rule without considering villages where connectivity and digital literacy ar. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is provide an accessible alternative to an exclusionary online-only benefit rule.
+
+---
+
+#### MCQ 16 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a regulator revises a filing rule after evidence shows that the original form systematically excludes persons with . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Revise inaccessible filing rules using evidence and authorised procedure. The controlling source distinction is: Ethics informs rule design by requiring legitimate purpose, equal concern, proportionality, transparency and review of foreseeable burdens on affected persons.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is revise inaccessible filing rules using evidence and authorised procedure.
+
+---
+
+#### MCQ 17 — A
+
+- **A — correct:** Include the minority in the hearing under equal public-participation rules. The controlling source distinction is: Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district administration considers excluding a disliked minority from a public hearing because local majority grou. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is include the minority in the hearing under equal public-participation rules.
+
+---
+
+#### MCQ 18 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Test differential treatment against equality and public purpose, not popularity. The controlling source distinction is: Constitutional morality requires fidelity to constitutional values, procedures and limits on power, rather than uncritical acceptance of transient majority preference or official convenience.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer defends unequal treatment by saying it is popular locally, despite clear equality concerns and no lawful. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test differential treatment against equality and public purpose, not popularity.
+
+---
+
+#### MCQ 19 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Teach officers equality, due process and non-arbitrary discretionary reasons. The controlling source distinction is: Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a training academy uses equality, due process and non-arbitrariness exercises to teach probationers how to justify . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is teach officers equality, due process and non-arbitrary discretionary reasons.
+
+---
+
+#### MCQ 20 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a supervisor assumes that an officer's strong personal convictions automatically prove constitutional morality with. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Test private conviction against identifiable constitutional values. The controlling source distinction is: Constitutional morality is cultivated through civil education, institutional practice, public reasons and adherence to rule of law; it is not an automatic personal sentiment.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test private conviction against identifiable constitutional values.
+
+---
+
+#### MCQ 21 — A
+
+- **A — correct:** Record the objection and seek competent institutional review. The controlling source distinction is: An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a licensing officer believes a departmental direction is discriminatory and records reasons before seeking review f. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is record the objection and seek competent institutional review.
+
+---
+
+#### MCQ 22 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Seek lawful review instead of ignoring rules on private conviction alone. The controlling source distinction is: An official invoking constitutional morality should identify the applicable principle and pursue lawful review, recorded dissent or competent escalation rather than personally suspending valid rules.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant ignores an applicable rule solely because she considers her private moral view superior to institu. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is seek lawful review instead of ignoring rules on private conviction alone.
+
+---
+
+#### MCQ 23 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Test the rule for equal treatment, legitimate purpose and fair hearing. The controlling source distinction is: A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a local rule is formally issued but singles out one community without a rational public purpose or a fair hearing. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test the rule for equal treatment, legitimate purpose and fair hearing.
+
+---
+
+#### MCQ 24 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer calls a direction legal merely because it has a file number, without checking whether the issuing author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Verify whether the authority could issue the direction in the first place. The controlling source distinction is: A legality assessment includes constitutional competence, equality, due process and non-arbitrariness; constitutional morality is therefore not simply a source outside all law.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is verify whether the authority could issue the direction in the first place.
+
+---
+
+#### MCQ 25 — A
+
+- **A — correct:** Use discomfort to trigger factual verification, not to substitute for it. The controlling source distinction is: Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a procurement officer feels uneasy about a bid and then checks ownership records, conflict declarations and compara. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is use discomfort to trigger factual verification, not to substitute for it.
+
+---
+
+#### MCQ 26 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Hear the applicant and verify the scheme before making an adverse order. The controlling source distinction is: Conscience is an internal moral judgment shaped by reflection and social experience; it can identify overlooked wrongs but may also reflect bias or incomplete facts.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a field officer rejects a beneficiary application on instinct without verifying facts, hearing the applicant or che. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is hear the applicant and verify the scheme before making an adverse order.
+
+---
+
+#### MCQ 27 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Record dissent and verify suspected false data rather than certify it. The controlling source distinction is: A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an officer is ordered to certify data she believes has been deliberately falsified and experiences participation as. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is record dissent and verify suspected false data rather than certify it.
+
+---
+
+#### MCQ 28 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a collector must choose between two needy villages when relief stocks are inadequate but neither option involves a . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Allocate scarce supplies using lawful need-based criteria, not subjective distress alone. The controlling source distinction is: A crisis of conscience is acute conflict between moral conviction and role demand, whereas an ordinary dilemma balances competing legitimate duties without necessarily threatening moral identity.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is allocate scarce supplies using lawful need-based criteria, not subjective distress alone.
+
+---
+
+#### MCQ 29 — A
+
+- **A — correct:** Distinguish a citizen’s public civil disobedience from an officer’s institutional dissent. The controlling source distinction is: Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: citizens publicly and peacefully violate an unjust segregation rule, accept arrest and seek its reform through demo. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is distinguish a citizen’s public civil disobedience from an officer’s institutional dissent.
+
+---
+
+#### MCQ 30 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Preserve evidence and pursue authorised review before wider disclosure. The controlling source distinction is: Civil disobedience is public, principled and non-violent resistance accepting legal consequences; a public servant normally owes office-specific accountability through institutional dissent channels.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a civil servant posts confidential files online before making a written objection, seeking review or approaching an. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is preserve evidence and pursue authorised review before wider disclosure.
+
+---
+
+#### MCQ 31 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Seek authorised recusal and independent reassignment of the relative’s file. The controlling source distinction is: Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an officer requests recusal from a decision involving a close relative and asks the competent authority to assign t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is seek authorised recusal and independent reassignment of the relative’s file.
+
+---
+
+#### MCQ 32 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public servant refuses all work connected with a lawful welfare programme without seeking substitution, review or. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Seek substitution or review rather than abandoning all lawful welfare duties. The controlling source distinction is: Conscientious objection or recusal is not a presumed general immunity for public servants; its availability depends on lawful authority, institutional norms and continuing duty to citizens.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is seek substitution or review rather than abandoning all lawful welfare duties.
+
+---
+
+#### MCQ 33 — A
+
+- **A — correct:** Preserve the invoices and report through an applicable vigilance channel. The controlling source distinction is: Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an accounts officer notices duplicate invoices, preserves records and reports through the designated vigilance chan. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is preserve the invoices and report through an applicable vigilance channel.
+
+---
+
+#### MCQ 34 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Check the records and authorised reporting route before airing allegations. The controlling source distinction is: Where wrongdoing is suspected, first use evidence-based, recorded and competent internal channels unless urgency, capture or serious public harm makes that route demonstrably inadequate.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a junior engineer forwards unverified corruption allegations to social media without checking documents or using th. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is check the records and authorised reporting route before airing allegations.
+
+---
+
+#### MCQ 35 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Document misconduct and seek the channel’s available retaliation safeguards. The controlling source distinction is: Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a psu employee documents inflated invoices and reports them to the designated authority despite credible fear of vi. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is document misconduct and seek the channel’s available retaliation safeguards.
+
+---
+
+#### MCQ 36 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an employee calls herself a whistleblower after publicly objecting to a lawful transfer policy that affects her per. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Distinguish a personal transfer objection from disclosure of public wrongdoing. The controlling source distinction is: Whistleblowing concerns evidence-based reporting of corruption, illegality, serious wrongdoing or public harm; it is not a label for every disagreement with policy or a superior.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is distinguish a personal transfer objection from disclosure of public wrongdoing.
+
+---
+
+#### MCQ 37 — A
+
+- **A — correct:** Test narrower authorised disclosure, necessity, proportionality and security harm. The controlling source distinction is: External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: an official considering disclosure of a surveillance programme assesses whether narrower authorised reporting could. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test narrower authorised disclosure, necessity, proportionality and security harm.
+
+---
+
+#### MCQ 38 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Redact patient identities and report through an appropriate oversight route. The controlling source distinction is: External disclosure requires careful necessity, proportionality, evidentiary and public-interest assessment, including risks to privacy, confidentiality, security, due process and uninvolved persons.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a hospital employee releases identifiable patient files to prove poor management although redaction and authorised . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is redact patient identities and report through an appropriate oversight route.
+
+---
+
+#### MCQ 39 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Verify current channel jurisdiction, confidentiality and protection scope. The controlling source distinction is: Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a central-government employee seeks advice on reporting fraud and first verifies the current applicable vigilance a. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is verify current channel jurisdiction, confidentiality and protection scope.
+
+---
+
+#### MCQ 40 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a trainer assures all employees that every anonymous disclosure is legally protected without checking governing law. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Check governing law, commencement and channel before assuring anonymous protection. The controlling source distinction is: Do not assume that reporting wrongdoing receives complete statutory protection; identify the current instrument, jurisdiction, recipient, confidentiality safeguards, retaliation remedies and limitations.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is check governing law, commencement and channel before assuring anonymous protection.
+
+---
+
+#### MCQ 41 — A
+
+- **A — correct:** Prioritise aid by documented vulnerability, access and scheme criteria. The controlling source distinction is: Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a collector prioritises relief after documenting vulnerability, access constraints and scheme criteria rather than . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is prioritise aid by documented vulnerability, access and scheme criteria.
+
+---
+
+#### MCQ 42 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Reject political waivers lacking lawful eligibility grounds. The controlling source distinction is: Administrative discretion is judgment within lawful purpose, relevant facts, equality and procedure; it is not personal freedom to substitute sympathy or preference for governing standards.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a licensing officer waives requirements for a politically connected applicant because he believes helping influenti. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is reject political waivers lacking lawful eligibility grounds.
+
+---
+
+#### MCQ 43 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Accept and record the officially permitted equivalent document. The controlling source distinction is: Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a flood victim lacks a destroyed paper certificate but presents an officially recognised equivalent record permitte. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is accept and record the officially permitted equivalent document.
+
+---
+
+#### MCQ 44 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer invokes substance to waive every eligibility requirement secretly for a favoured group despite no author. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Seek lawful alternatives instead of covert eligibility waivers. The controlling source distinction is: Procedural form protects equality, predictability and auditability, yet literal application that defeats lawful purpose may require an authorised, evidence-based and reviewable response.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is seek lawful alternatives instead of covert eligibility waivers.
+
+---
+
+#### MCQ 45 — A
+
+- **A — correct:** Document evacuation route safety, access issues and rejected alternatives. The controlling source distinction is: A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
+- **B — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a district authority explains why one evacuation route was selected after recording safety evidence, accessibility . That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is document evacuation route safety, access issues and rejected alternatives.
+
+---
+
+#### MCQ 46 — B
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — correct:** Give intelligible reasons and a meaningful review path for the rejection. The controlling source distinction is: A reasoned order records authority, facts, affected interests, alternatives and grounds for decision, making discretion intelligible, reviewable and less vulnerable to arbitrary influence.
+- **C — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: a public office rejects a licence application with only the words 'not recommended,' leaving the applicant unable t. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is give intelligible reasons and a meaningful review path for the rejection.
+
+---
+
+#### MCQ 47 — C
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — correct:** Reject artificial purchase splitting and obtain competent sanction. The controlling source distinction is: A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
+- **D — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this matter: a procurement head faced with pressure to split purchases checks financial rules, conflict risks, public loss, reco. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is reject artificial purchase splitting and obtain competent sanction.
+
+---
+
+#### MCQ 48 — D
+
+- **A — incorrect:** Treat the officer’s confidence in personal morality as authority to bypass the applicable rule in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **B — incorrect:** Assume an administrative instruction has the same force as an enabling statute without checking its basis in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **C — incorrect:** Defer checking affected citizens’ rights, evidence and remedy until after the disputed action is final in this case: an officer relies only on personal conscience to decide a land-allocation dispute, without examining authority, aff. That shortcut lacks a verified authority, proportional fact test or a reviewable safeguard.
+- **D — correct:** Test land decisions against legal authority, affected rights and review alongside conscience. The controlling source distinction is: A defensible public decision identifies legal authority, constitutional values, relevant rules, ethical harms, institutional channels and proportionate safeguards before reaching a qualified conclusion.
+
+**Examiner trap:** Formal authority, ethical propriety and tested conscience are distinct; here the decisive response is test land decisions against legal authority, affected rights and review alongside conscience.
 
 ## PYQS AND ANSWER PRACTICE
+
+#### Solved PYQ (additional verified route) — 2016 — law and ethics
+
+**Question:** GS-IV Q5: “Law and ethics are considered to be the two tools for controlling human conduct so as to make it conducive to civilized social existence. (a) Discuss how they achieve this objective. (b) Giving examples, show how the two differ in their approaches.”
+
+**Source / ownership:** Canonical Basic 10, Section 7 quotes and routes this 2016 question. Marks are not asserted without checking the original paper.
+
+**Model solution**
+
+(a) Law publishes minimum duties and provides enforceable procedures and remedies. Procurement rules require competent sanction and create an audit trail; integrity also deters an officer from splitting a purchase merely to escape that threshold. Both enable trustworthy cooperation, but neither works well alone: an honest officer needs lawful powers, and clever evasion defeats the spirit of detailed rules.
+
+(b) Law derives authority from valid enactment or delegation and is institutionally enforceable; ethics also draws on conscience and role duty and may demand more than minimum compliance. Vendor hospitality below a formal threshold can still compromise impartiality; a technically permitted data release may re-identify vulnerable welfare claimants. Conversely, sympathy does not empower an officer to waive statutory eligibility secretly: use authorised equivalents or seek rule revision. Ethical and legal guidance therefore complement one another through authority checks, fairness, reason-giving and review.
+
+**Why this earns marks:** Resolves both clauses separately and contrasts source, enforcement, threshold and administrative examples without treating ethics as a licence to disobey.
+
+---
 
 #### Solved PYQ 1 — 2018 — 20 marks
 
@@ -844,25 +1102,8 @@ For an Indian public servant, the safer institutional lesson is channel-first di
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released confidential Government documents to the press about the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released confidential Government documents to the press about the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q12: Edward Snowden, a computer expert and former CIA systems administrator, released…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2019 — 10 marks
 
@@ -878,26 +1119,8 @@ It is upheld when public authorities act within competence, give affected person
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold constitutional morality? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 2, and ledger :273. It is jointly routed to Topics 14 and 10; do not present it as exclusive Topic 10 ownership. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold constitutional morality? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q3(a): What is meant by the term 'constitutional morality'? How does one uphold…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2019 — 10 marks
 
@@ -913,25 +1136,8 @@ In public life it may appear as hesitation, a written dissent note, refusal to c
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q3(b): What is meant by 'crisis of conscience'? How does it manifest itself in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q3(b): What is meant by 'crisis of conscience'? How does it manifest itself in the public domain? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q3(b): What is meant by 'crisis of conscience'? How does it manifest itself in the public domain? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q3(b): What is meant by 'crisis of conscience'? How does it manifest itself in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2020 — 10 marks
 
@@ -947,26 +1153,8 @@ Ethics improves their formulation by asking whether the objective is legitimate,
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “GS-IV Q4(a): Distinguish between laws and rules. Discuss the role of ethics in formulating…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(a): Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against books\more previous papers\Gen St P4.pdf, page 2, and ledger :291. This isolated subpart is the direct Topic 10 route; do not merge it with Q4(b), which belongs to the Attitude owner. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(a): Distinguish between laws and rules. Discuss the role of ethics in formulating them. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(a): Distinguish between laws and rules. Discuss the role of ethics in formulating…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2021 — 10 marks
 
@@ -982,25 +1170,8 @@ However, EI cannot decide whether the underlying instruction is lawful, constitu
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires an executable decision on “GS-IV Q4(b): In case of crisis of conscience does emotional intelligence help to overcome…”: separate facts from assumptions; map stakeholders, rights and vulnerabilities; identify legal thresholds and value conflicts; compare options and consequences; choose, implement and monitor.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(b): In case of crisis of conscience does emotional intelligence help to overcome the same without compromising the ethical or moral stand…”.
-
-**Analytical body:**
-
-1. **Fact/claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Decision analysis:** Identify the affected stakeholder, right or duty, foreseeable benefit/harm and institutional authority. **Execution and qualification:** State the responsible actor, written step, timeline, protection/review safeguard and fallback if the assumption proves false.
-
-**Counter-position / limit:** Efficiency, loyalty, compassion or aggregate benefit cannot excuse an unlawful act or serious rights breach; equally, formal compliance without communication, protection, monitoring and remedy can leave the ethical failure intact.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(b): In case of crisis of conscience does emotional intelligence help to overcome the same without compromising the ethical or moral stand…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, use one-sixth of the time for facts/assumptions and stakeholders; state non-negotiable legal/rights thresholds; compare three realistic options; select a lawful ethical course; finish with timeline, written reasons, consultation, protection, review and fallback.
-
-**How to improve this answer:** For “GS-IV Q4(b): In case of crisis of conscience does emotional intelligence help to overcome…”, replace the weakest generic option with a named actor, deadline, communication channel, review indicator and residual-risk response.
 
 #### Solved PYQ 6 — 2022 — 10 marks
 
@@ -1016,25 +1187,8 @@ The system also needs reasoned closure, appeal, periodic audit of retaliation co
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct to concerned authorities risks grave danger,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and misconduct to concerned authorities risks grave danger,…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): A whistle-blower reporting corruption, illegal activities, wrongdoing and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2023 — 10 marks
 
@@ -1052,25 +1206,8 @@ Therefore conscience is neither more reliable in every case nor dispensable. The
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “GS-IV Q5(a): Is conscience a more reliable guide when compared to laws, rules and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(a): Is conscience a more reliable guide when compared to laws, rules and regulations in the context of ethical decision-making? Discuss.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(a): Is conscience a more reliable guide when compared to laws, rules and regulations in the context of ethical decision-making? Discuss.…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(a): Is conscience a more reliable guide when compared to laws, rules and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2024 — 10 marks
 
@@ -1086,26 +1223,8 @@ A just administration therefore monitors outcomes, hears affected persons, revie
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q4(a): Examine, with suitable examples, the proposition that just and unjust are…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(a): Examine, with suitable examples, the proposition that just and unjust are contextual and changing contexts must remain under scrutiny to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 3, and ledger :43. It is a joint route with Topic 08; contextuality must not be misrepresented as unrestricted ethical relativism. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(a): Examine, with suitable examples, the proposition that just and unjust are contextual and changing contexts must remain under scrutiny to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(a): Examine, with suitable examples, the proposition that just and unjust are…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2024 — 10 marks
 
@@ -1121,26 +1240,8 @@ A perceptive officer identifies the statutory purpose, checks delegated authorit
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q4(b): Examine, with suitable illustrations, the claim that mindless attachment to…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(b): Examine, with suitable illustrations, the claim that mindless attachment to form while ignoring substance causes injustice, and that a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 3, and ledger :43. This is a joint Topic 08/10 route. Substance never authorises ultra-vires action or selective waiver. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(b): Examine, with suitable illustrations, the claim that mindless attachment to form while ignoring substance causes injustice, and that a…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(b): Examine, with suitable illustrations, the claim that mindless attachment to…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 10 marks
 
@@ -1156,25 +1257,8 @@ It promotes good governance when an officer acts within authority, hears affecte
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.' Examine the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.' Examine the…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(b): 'Constitutional morality is not a natural sentiment but a product of civil…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2025 — 20 marks
 
@@ -1196,23 +1280,6 @@ He should preserve the estimate and relevant rule, seek written confirmation of 
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q10: Rajesh is a Group A officer with nine years of service. He is posted as…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10: Rajesh is a Group A officer with nine years of service. He is posted as Administrative Officer in an Oil Public Sector undertaking. As an…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10: Rajesh is a Group A officer with nine years of service. He is posted as Administrative Officer in an Oil Public Sector undertaking. As an…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q10: Rajesh is a Group A officer with nine years of service. He is posted as…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1226,25 +1293,8 @@ The distinction matters because no official may treat an advisory instruction as
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish law, rule and regulation as sources of ethical guidance in public…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish law, rule and regulation as sources of ethical guidance in public administration. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish law, rule and regulation as sources of ethical guidance in public administration. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish law, rule and regulation as sources of ethical guidance in public…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1258,25 +1308,8 @@ For a civil servant, it requires equality, dignity, due process, reasoned decisi
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Constitutional morality is neither majoritarian morality nor personal conscience. Discuss.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Constitutional morality is neither majoritarian morality nor personal conscience. Discuss. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Constitutional morality is neither majoritarian morality nor personal conscience. Discuss. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Constitutional morality is neither majoritarian morality nor personal conscience. Discuss.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1292,25 +1325,8 @@ The defensible approach is calibrated conscience. Treat moral discomfort as a si
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “Is conscience reliable enough to guide ethical decision-making by a public servant?…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Is conscience reliable enough to guide ethical decision-making by a public servant? Examine. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Is conscience reliable enough to guide ethical decision-making by a public servant? Examine. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Is conscience reliable enough to guide ethical decision-making by a public servant?…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1326,25 +1342,8 @@ The distinction does not require blind obedience. Where credible serious wrongdo
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish civil disobedience from institutional dissent by a civil servant and explain…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish civil disobedience from institutional dissent by a civil servant and explain why the distinction matters. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish civil disobedience from institutional dissent by a civil servant and explain why the distinction matters. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish civil disobedience from institutional dissent by a civil servant and explain…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1360,25 +1359,8 @@ A reasoned order should identify facts, legal authority, public purpose, compara
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “A procurement officer receives a lawful-looking oral direction that would defeat the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A procurement officer receives a lawful-looking oral direction that would defeat the purpose of financial safeguards. Examine the ethical options and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A procurement officer receives a lawful-looking oral direction that would defeat the purpose of financial safeguards. Examine the ethical options and…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A procurement officer receives a lawful-looking oral direction that would defeat the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1395,21 +1377,3 @@ If available channels are demonstrably captured, delay threatens grave public ha
 The ethical aim is neither silence nor unaccountable leakage. It is an evidence-based, reviewable path that protects public interest, due process and institutional integrity while reducing victimisation risk. Periodic independent audit should examine whether complaints are received, assessed and closed with reasons, whether retaliation indicators are detected, and whether confidentiality failures have exposed either the reporter or persons accused. Such monitoring turns a nominal channel into a credible accountability mechanism for all concerned over time in practice.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an ethical response where a public servant has credible evidence of wrongdoing but…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an ethical response where a public servant has credible evidence of wrongdoing but believes ordinary internal channels may be compromised.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an ethical response where a public servant has credible evidence of wrongdoing but believes ordinary internal channels may be compromised.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an ethical response where a public servant has credible evidence of wrongdoing but…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

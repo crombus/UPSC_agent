@@ -1,8 +1,6 @@
 # Constitutional Interpretation Doctrines - Solved Practice Workbook
 
-**Standalone scope:** exactly 32 original MCQs before PYQs, 128 substantive option-specific
-explanations, 32 unique examiner traps, verified PYQs under official-key discipline and
-exactly six original Mains models.
+**Standalone scope:** Forty original MCQs with separate explained key, six routed PYQs (four independently solved descriptive; two objective with official answer withheld), and six original substantive Mains models.
 
 ## PRACTICE WORKBOOK OVERVIEW
 
@@ -12,16 +10,341 @@ strongest limitation.
 
 ## BASIC MCQS / REMEDIATION
 
-**Practice contract:** Exactly 32 original MCQs appear before the PYQs. Correct answers rotate `A -> B -> C -> D` eight times. Every option has a substantive, question-specific explanation and every question has a unique examiner trap.
+**Practice contract:** Forty challenging four-option applications; answer letters cycle A -> B -> C -> D ten times. All stems appear before the separate explained key.
+
+### Questions (answers withheld here)
 
 ### MCQ 1
-
 Which statement best describes constitutional doctrines?
 
 A. They are court-developed tests anchored in constitutional text and precedent.
 B. They are additional Articles implied into Part III.
 C. They are political conventions immune from judicial review.
 D. They permit courts to choose any result that advances justice.
+
+### MCQ 2
+A statute contains an unconstitutional clause that can be separated, while the remaining scheme is complete and would have been enacted independently. What follows?
+
+A. The entire statute must automatically fail.
+B. The invalid clause may be severed under Article 13.
+C. The clause is merely eclipsed for all persons.
+D. The court must read a new clause into the statute.
+
+### MCQ 3
+Which combination states the full severability inquiry most accurately?
+
+A. Physical punctuation and judicial convenience only.
+B. Legislative purpose and popular support only.
+C. Separability, legislative intent, workable remainder and unity of scheme.
+D. Possibility of a narrower meaning and proportionality only.
+
+### MCQ 4
+Which distinction between severability and reading down is correct?
+
+A. Both necessarily delete the invalid words.
+B. Reading down applies only to constitutional amendments.
+C. Severability always preserves the whole provision.
+D. Severability removes invalid matter; reading down selects a valid meaning the text can bear.
+
+### MCQ 5
+The classical doctrine of eclipse primarily concerns
+
+A. a pre-Constitution law inconsistent with a Fundamental Right under Article 13(1).
+B. every unconstitutional amendment after *Kesavananda Bharati*.
+C. a State law receiving Presidential assent under Article 254(2).
+D. an obiter statement losing precedential force.
+
+### MCQ 6
+Which qualification concerning eclipse is safest?
+
+A. Every post-Constitution law is repealed on the date of a rights violation.
+B. Its classical field is pre-Constitution law; later citizen/non-citizen applications require right-specific precedent.
+C. An eclipsed law can never affect past transactions.
+D. The doctrine applies only after Parliament expressly invokes it.
+
+### MCQ 7
+What is the core of *Basheshar Nath v CIT*?
+
+A. All contractual and procedural rights are incapable of waiver.
+B. Only Article 14 may be waived.
+C. Consent cannot generally validate State action contrary to Fundamental Rights.
+D. Waiver converts an unconstitutional law into a constitutional amendment.
+
+### MCQ 8
+A State law substantially regulates intoxicating liquor but incidentally affects an inter-State commercial activity. Which doctrine first identifies its legislative field?
+
+A. Repugnancy.
+B. Prospective overruling.
+C. Constitutional morality.
+D. Pith and substance.
+
+### MCQ 9
+Incidental or ancillary power allows a legislature to
+
+A. adopt measures reasonably necessary to make a valid legislative entry effective.
+B. take over any neighbouring field whenever regulation is convenient.
+C. override a Fundamental Right without justification.
+D. avoid Article 254 by renaming a State law.
+
+### MCQ 10
+Colourable legislation chiefly tests
+
+A. whether legislators acted from political hostility.
+B. whether form conceals a law whose substance lies outside legislative competence.
+C. whether the law has any extra-territorial effect.
+D. whether a valid law is proportionate.
+
+### MCQ 11
+A State tax reaches transactions with an out-of-State element. The territorial-nexus test asks whether
+
+A. Parliament consented to the tax.
+B. the State has any commercial interest at all.
+C. there is a real and sufficient connection relevant to the imposed liability.
+D. the tax appears in the Concurrent List.
+
+### MCQ 12
+Article 254 repugnancy is centrally triggered when
+
+A. a Union executive direction differs from a State policy.
+B. a State law incidentally touches a Union subject.
+C. two constitutional provisions use similar language.
+D. valid Union and State laws in the same Concurrent field are actually inconsistent.
+
+### MCQ 13
+What is the effect of valid Presidential assent under Article 254(2)?
+
+A. The State law may prevail in that State over the identified Parliamentary conflict, subject to later Parliamentary override.
+B. The State obtains permanent immunity from all future central law.
+C. The assent cures State legislative incompetence.
+D. The State law becomes a constitutional amendment.
+
+### MCQ 14
+The 'occupied field' idea is properly used when
+
+A. any central law touches a remotely related subject.
+B. Parliament intended an exhaustive code in the same Concurrent field, producing inconsistency with State supplementation.
+C. a court wishes to expand Union power for convenience.
+D. a State law has extra-territorial consequences.
+
+### MCQ 15
+Harmonious construction seeks to
+
+A. give automatic preference to Directive Principles.
+B. permit courts to ignore an express proviso.
+C. allow apparently conflicting provisions meaningful operation without rendering either dead.
+D. replace Article 246 priority with equitable balancing.
+
+### MCQ 16
+Federal supremacy should ordinarily be invoked
+
+A. before examining the entries.
+B. whenever Parliament asserts national interest.
+C. instead of pith and substance.
+D. after reasonable harmonious allocation fails and the Constitution supplies a priority rule.
+
+### MCQ 17
+Reading into is most defensible when
+
+A. a narrowly necessary safeguard follows from constitutional text or structure and does not contradict enacted law.
+B. the court prefers a policy omitted by Parliament.
+C. a statute has only one clearly unconstitutional meaning and no gap.
+D. a smaller bench disagrees with a larger bench.
+
+### MCQ 18
+What lesson does *Shreya Singhal v Union of India* provide for reading down?
+
+A. Any vague speech offence can be saved by prosecutorial assurances.
+B. A court cannot cure incurably vague and overbroad text by writing a new offence.
+C. Section 66A survived for non-citizens.
+D. Reading down and severability are identical.
+
+### MCQ 19
+Prospective overruling in India was introduced in constitutional adjudication by
+
+A. *Kesavananda Bharati*.
+B. *Minerva Mills*.
+C. *I.C. Golaknath*.
+D. *M. Karunanidhi*.
+
+### MCQ 20
+Which proposition about prospective overruling is correct?
+
+A. Every overruling judgment automatically operates prospectively.
+B. A lower court may invoke it to disregard existing Supreme Court law.
+C. It permanently validates the overruled rule.
+D. The competent court must expressly and reasonedly define the protected past effects and future rule.
+
+### MCQ 21
+A ratio decidendi is
+
+A. the legal principle necessary to resolve the issue on the material facts.
+B. every statement in a Supreme Court judgment.
+C. only the final operative order, without reasons.
+D. a dissent that later writers prefer.
+
+### MCQ 22
+Per incuriam most narrowly describes a decision
+
+A. that is politically controversial.
+B. rendered in ignorance of a binding statute or controlling precedent.
+C. whose facts can be distinguished.
+D. that applies prospective overruling.
+
+### MCQ 23
+A point is decided sub silentio when
+
+A. the court expressly rejects it after full argument.
+B. a statute is partially severed.
+C. the point passes without conscious determination despite the case outcome.
+D. a larger bench overrules a smaller bench.
+
+### MCQ 24
+If a three-judge bench doubts a five-judge bench ratio, it should
+
+A. declare the larger case per incuriam without analysis.
+B. follow any newer two-judge decision.
+C. use Article 142 to avoid Article 141.
+D. follow it or seek consideration by an appropriate larger bench.
+
+### MCQ 25
+Which statement about the basic-structure doctrine is correct?
+
+A. Article 368 power is wide but cannot damage or destroy the Constitution's basic structure.
+B. Article 13 contains a closed list of basic features.
+C. The doctrine reviews every administrative order.
+D. Parliament cannot amend any Fundamental Right.
+
+### MCQ 26
+What is the significance of 24 April 1973 for the Ninth Schedule?
+
+A. All earlier laws were judicially repealed that day.
+B. It is the *Kesavananda* cut-off used by *Waman Rao* and *I.R. Coelho* for later insertions.
+C. Article 31B ceased to exist.
+D. Only tax laws added later are reviewable.
+
+### MCQ 27
+*Minerva Mills v Union of India* is best associated with
+
+A. validating unlimited amendment power.
+B. holding Directive Principles wholly subordinate in every case.
+C. limited amending power, judicial review and harmony between Parts III and IV.
+D. creating the Ninth Schedule.
+
+### MCQ 28
+The 2015 NJAC judgment invalidated
+
+A. the Forty-fourth Amendment's Article 300A change.
+B. only an executive memorandum.
+C. the First Amendment's Ninth Schedule.
+D. the Ninety-ninth Amendment and NJAC Act for damaging judicial independence.
+
+### MCQ 29
+Constitutional morality most accurately means
+
+A. fidelity to constitutional text, procedures, equal citizenship and institutional role obligations.
+B. the morality preferred by the numerical majority.
+C. a judge's personal ethical intuition.
+D. automatic invalidity of every unpopular law.
+
+### MCQ 30
+Transformative constitutionalism is best understood as
+
+A. judicial power to enact any progressive policy.
+B. the lawful constitutional project of dismantling status hierarchy through rights, democracy and remedies.
+C. replacement of Parliament by constitutional courts.
+D. a doctrine confined to property rights.
+
+### MCQ 31
+Under the classical ERP approach, *Shirur Mutt* principally helps courts
+
+A. decide repugnancy under Article 254.
+B. apply prospective overruling.
+C. distinguish matters of religion from associated secular activities under Articles 25-26.
+D. define an exhaustive basic-structure list.
+
+### MCQ 32
+A complex challenge to a State law should ordinarily be analysed in which sequence?
+
+A. Remedy, then facts, then legislative entry.
+B. Constitutional morality alone, then result.
+C. Article 254 first in every federal dispute.
+D. Competence, meaning, rights standard, invalidity scope, temporal effect, precedent and remedy.
+
+### MCQ 33
+
+A pre-Constitution restriction became unenforceable against citizens after Article 19. A later constitutional change removes the inconsistency. Which account best fits classical eclipse?
+
+A. The earlier law was overshadowed to the extent of inconsistency and may revive when the obstacle is removed, subject to its proper scope.
+B. Every unconstitutional law was repealed ab initio and must be reenacted.
+C. A citizen can waive Article 19 to resurrect the restriction before the change.
+D. Eclipse automatically validates all post-Constitution unconstitutional enactments.
+
+### MCQ 34
+
+A State enactment has an out-of-State effect, but its licensed activity and commercial operations have substantial links with the State. What inquiry is decisive?
+
+A. Whether the State legislature describes the measure as a Union tax.
+B. Whether a real and sufficient territorial nexus supports the operation, rather than whether every effect stays inside the State.
+C. Whether Presidential assent always validates its extra-territoriality.
+D. Whether Article 254 automatically resolves any inter-State effect.
+
+### MCQ 35
+
+A State Concurrent List law with Presidential assent conflicts with an earlier Union law; Parliament later expressly overrides the State scheme. What result follows?
+
+A. Assent immunises the State scheme against every future Parliamentary law.
+B. The State statute was necessarily incompetent even before assent.
+C. Article 254(2) gives bounded State priority until Parliament validly varies or overrides it.
+D. The Governor’s assent, not Presidential assent, controls this priority.
+
+### MCQ 36
+
+The Court finds a speech offence incurably vague and must insert new precise prohibitions to make it valid. Which remedial reasoning is safest?
+
+A. Read down by inventing the missing elements because every Act deserves preservation.
+B. Apply severability even if nothing workable remains of the offence.
+C. Let a two-judge bench disregard a larger binding ratio without reference.
+D. Strike the offending provision rather than judicially write an offence; Shreya Singhal rejected such salvage of Section 66A.
+
+### MCQ 37
+
+A statute contains an invalid proviso and a complete workable remainder; legislative design shows it would have passed without the proviso. What remedy best fits?
+
+A. Sever the invalid proviso under Article 13 principles while preserving the workable remainder.
+B. Invalidate the entire enactment simply because one sentence fails.
+C. Use prospective overruling to declare the proviso substantively valid.
+D. Presume the proviso can be replaced with a new judicial policy.
+
+### MCQ 38
+
+A two-judge bench encounters a five-judge ratio that appears wrong. Which route respects Article 141?
+
+A. Treat the earlier ratio as sub silentio merely by calling it outdated.
+B. Apply the binding ratio or refer the doubt through proper bench-strength procedure; do not overrule it directly.
+C. Use constitutional morality to disregard any inconvenient precedent.
+D. Declare the larger bench per incuriam simply because an academic article disagrees.
+
+### MCQ 39
+
+Parliament inserts an ordinary law into the Ninth Schedule after 24 April 1973. Is it beyond challenge?
+
+A. Yes; Article 31B defeats every later basic-structure inquiry.
+B. Yes; Waman Rao applies only to laws before the Constitution.
+C. No; I.R. Coelho permits review of the insertion’s impact on basic-structure principles reflected in Fundamental Rights.
+D. No; every Ninth Schedule law is invalid regardless of its impact.
+
+### MCQ 40
+
+A public-official ethics argument invokes constitutional morality without a cited Article, duty or institutional rule. What would make it legally persuasive?
+
+A. A judge’s preference alone supplies a free-standing replacement Constitution.
+B. Popularity polls establish the constitutional standard.
+C. A literal case slogan always overrides enacted text.
+D. Tie the claim to constitutional text, institutional duty and a specific remedy, while respecting precedent and countervailing independence.
+
+### Separate explained answer key
+
+### MCQ 1
 
 **Answer: A.**
 
@@ -36,13 +359,6 @@ D. They permit courts to choose any result that advances justice.
 
 ### MCQ 2
 
-A statute contains an unconstitutional clause that can be separated, while the remaining scheme is complete and would have been enacted independently. What follows?
-
-A. The entire statute must automatically fail.
-B. The invalid clause may be severed under Article 13.
-C. The clause is merely eclipsed for all persons.
-D. The court must read a new clause into the statute.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -55,13 +371,6 @@ D. The court must read a new clause into the statute.
 **Examiner trap 2:** Do not confuse partial invalidity with eclipse.
 
 ### MCQ 3
-
-Which combination states the full severability inquiry most accurately?
-
-A. Physical punctuation and judicial convenience only.
-B. Legislative purpose and popular support only.
-C. Separability, legislative intent, workable remainder and unity of scheme.
-D. Possibility of a narrower meaning and proportionality only.
 
 **Answer: C.**
 
@@ -76,13 +385,6 @@ D. Possibility of a narrower meaning and proportionality only.
 
 ### MCQ 4
 
-Which distinction between severability and reading down is correct?
-
-A. Both necessarily delete the invalid words.
-B. Reading down applies only to constitutional amendments.
-C. Severability always preserves the whole provision.
-D. Severability removes invalid matter; reading down selects a valid meaning the text can bear.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -95,13 +397,6 @@ D. Severability removes invalid matter; reading down selects a valid meaning the
 **Examiner trap 4:** A saving interpretation cannot be disguised textual surgery.
 
 ### MCQ 5
-
-The classical doctrine of eclipse primarily concerns
-
-A. a pre-Constitution law inconsistent with a Fundamental Right under Article 13(1).
-B. every unconstitutional amendment after *Kesavananda Bharati*.
-C. a State law receiving Presidential assent under Article 254(2).
-D. an obiter statement losing precedential force.
 
 **Answer: A.**
 
@@ -116,13 +411,6 @@ D. an obiter statement losing precedential force.
 
 ### MCQ 6
 
-Which qualification concerning eclipse is safest?
-
-A. Every post-Constitution law is repealed on the date of a rights violation.
-B. Its classical field is pre-Constitution law; later citizen/non-citizen applications require right-specific precedent.
-C. An eclipsed law can never affect past transactions.
-D. The doctrine applies only after Parliament expressly invokes it.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -135,13 +423,6 @@ D. The doctrine applies only after Parliament expressly invokes it.
 **Examiner trap 6:** Avoid a universal rule for post-Constitution laws.
 
 ### MCQ 7
-
-What is the core of *Basheshar Nath v CIT*?
-
-A. All contractual and procedural rights are incapable of waiver.
-B. Only Article 14 may be waived.
-C. Consent cannot generally validate State action contrary to Fundamental Rights.
-D. Waiver converts an unconstitutional law into a constitutional amendment.
 
 **Answer: C.**
 
@@ -156,13 +437,6 @@ D. Waiver converts an unconstitutional law into a constitutional amendment.
 
 ### MCQ 8
 
-A State law substantially regulates intoxicating liquor but incidentally affects an inter-State commercial activity. Which doctrine first identifies its legislative field?
-
-A. Repugnancy.
-B. Prospective overruling.
-C. Constitutional morality.
-D. Pith and substance.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -175,13 +449,6 @@ D. Pith and substance.
 **Examiner trap 8:** Field characterisation precedes conflict analysis.
 
 ### MCQ 9
-
-Incidental or ancillary power allows a legislature to
-
-A. adopt measures reasonably necessary to make a valid legislative entry effective.
-B. take over any neighbouring field whenever regulation is convenient.
-C. override a Fundamental Right without justification.
-D. avoid Article 254 by renaming a State law.
 
 **Answer: A.**
 
@@ -196,13 +463,6 @@ D. avoid Article 254 by renaming a State law.
 
 ### MCQ 10
 
-Colourable legislation chiefly tests
-
-A. whether legislators acted from political hostility.
-B. whether form conceals a law whose substance lies outside legislative competence.
-C. whether the law has any extra-territorial effect.
-D. whether a valid law is proportionate.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -215,13 +475,6 @@ D. whether a valid law is proportionate.
 **Examiner trap 10:** 'Fraud on the Constitution' is not a private-law fraud finding.
 
 ### MCQ 11
-
-A State tax reaches transactions with an out-of-State element. The territorial-nexus test asks whether
-
-A. Parliament consented to the tax.
-B. the State has any commercial interest at all.
-C. there is a real and sufficient connection relevant to the imposed liability.
-D. the tax appears in the Concurrent List.
 
 **Answer: C.**
 
@@ -236,13 +489,6 @@ D. the tax appears in the Concurrent List.
 
 ### MCQ 12
 
-Article 254 repugnancy is centrally triggered when
-
-A. a Union executive direction differs from a State policy.
-B. a State law incidentally touches a Union subject.
-C. two constitutional provisions use similar language.
-D. valid Union and State laws in the same Concurrent field are actually inconsistent.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -255,13 +501,6 @@ D. valid Union and State laws in the same Concurrent field are actually inconsis
 **Examiner trap 12:** Repugnancy is not the default label for federal overlap.
 
 ### MCQ 13
-
-What is the effect of valid Presidential assent under Article 254(2)?
-
-A. The State law may prevail in that State over the identified Parliamentary conflict, subject to later Parliamentary override.
-B. The State obtains permanent immunity from all future central law.
-C. The assent cures State legislative incompetence.
-D. The State law becomes a constitutional amendment.
 
 **Answer: A.**
 
@@ -276,13 +515,6 @@ D. The State law becomes a constitutional amendment.
 
 ### MCQ 14
 
-The 'occupied field' idea is properly used when
-
-A. any central law touches a remotely related subject.
-B. Parliament intended an exhaustive code in the same Concurrent field, producing inconsistency with State supplementation.
-C. a court wishes to expand Union power for convenience.
-D. a State law has extra-territorial consequences.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -295,13 +527,6 @@ D. a State law has extra-territorial consequences.
 **Examiner trap 14:** Occupied field belongs inside disciplined Article 254 analysis.
 
 ### MCQ 15
-
-Harmonious construction seeks to
-
-A. give automatic preference to Directive Principles.
-B. permit courts to ignore an express proviso.
-C. allow apparently conflicting provisions meaningful operation without rendering either dead.
-D. replace Article 246 priority with equitable balancing.
 
 **Answer: C.**
 
@@ -316,13 +541,6 @@ D. replace Article 246 priority with equitable balancing.
 
 ### MCQ 16
 
-Federal supremacy should ordinarily be invoked
-
-A. before examining the entries.
-B. whenever Parliament asserts national interest.
-C. instead of pith and substance.
-D. after reasonable harmonious allocation fails and the Constitution supplies a priority rule.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -335,13 +553,6 @@ D. after reasonable harmonious allocation fails and the Constitution supplies a 
 **Examiner trap 16:** Supremacy is the last-stage rule, not the opening assumption.
 
 ### MCQ 17
-
-Reading into is most defensible when
-
-A. a narrowly necessary safeguard follows from constitutional text or structure and does not contradict enacted law.
-B. the court prefers a policy omitted by Parliament.
-C. a statute has only one clearly unconstitutional meaning and no gap.
-D. a smaller bench disagrees with a larger bench.
 
 **Answer: A.**
 
@@ -356,13 +567,6 @@ D. a smaller bench disagrees with a larger bench.
 
 ### MCQ 18
 
-What lesson does *Shreya Singhal v Union of India* provide for reading down?
-
-A. Any vague speech offence can be saved by prosecutorial assurances.
-B. A court cannot cure incurably vague and overbroad text by writing a new offence.
-C. Section 66A survived for non-citizens.
-D. Reading down and severability are identical.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -375,13 +579,6 @@ D. Reading down and severability are identical.
 **Examiner trap 18:** Judicial restraint may require striking down rather than artificial saving.
 
 ### MCQ 19
-
-Prospective overruling in India was introduced in constitutional adjudication by
-
-A. *Kesavananda Bharati*.
-B. *Minerva Mills*.
-C. *I.C. Golaknath*.
-D. *M. Karunanidhi*.
 
 **Answer: C.**
 
@@ -396,13 +593,6 @@ D. *M. Karunanidhi*.
 
 ### MCQ 20
 
-Which proposition about prospective overruling is correct?
-
-A. Every overruling judgment automatically operates prospectively.
-B. A lower court may invoke it to disregard existing Supreme Court law.
-C. It permanently validates the overruled rule.
-D. The competent court must expressly and reasonedly define the protected past effects and future rule.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -415,13 +605,6 @@ D. The competent court must expressly and reasonedly define the protected past e
 **Examiner trap 20:** Do not confuse future effect with optional obedience.
 
 ### MCQ 21
-
-A ratio decidendi is
-
-A. the legal principle necessary to resolve the issue on the material facts.
-B. every statement in a Supreme Court judgment.
-C. only the final operative order, without reasons.
-D. a dissent that later writers prefer.
 
 **Answer: A.**
 
@@ -436,13 +619,6 @@ D. a dissent that later writers prefer.
 
 ### MCQ 22
 
-Per incuriam most narrowly describes a decision
-
-A. that is politically controversial.
-B. rendered in ignorance of a binding statute or controlling precedent.
-C. whose facts can be distinguished.
-D. that applies prospective overruling.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -455,13 +631,6 @@ D. that applies prospective overruling.
 **Examiner trap 22:** Per incuriam is exceptional, not a convenient disagreement label.
 
 ### MCQ 23
-
-A point is decided sub silentio when
-
-A. the court expressly rejects it after full argument.
-B. a statute is partially severed.
-C. the point passes without conscious determination despite the case outcome.
-D. a larger bench overrules a smaller bench.
 
 **Answer: C.**
 
@@ -476,13 +645,6 @@ D. a larger bench overrules a smaller bench.
 
 ### MCQ 24
 
-If a three-judge bench doubts a five-judge bench ratio, it should
-
-A. declare the larger case per incuriam without analysis.
-B. follow any newer two-judge decision.
-C. use Article 142 to avoid Article 141.
-D. follow it or seek consideration by an appropriate larger bench.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -495,13 +657,6 @@ D. follow it or seek consideration by an appropriate larger bench.
 **Examiner trap 24:** Bench strength outranks simple chronology.
 
 ### MCQ 25
-
-Which statement about the basic-structure doctrine is correct?
-
-A. Article 368 power is wide but cannot damage or destroy the Constitution's basic structure.
-B. Article 13 contains a closed list of basic features.
-C. The doctrine reviews every administrative order.
-D. Parliament cannot amend any Fundamental Right.
 
 **Answer: A.**
 
@@ -516,13 +671,6 @@ D. Parliament cannot amend any Fundamental Right.
 
 ### MCQ 26
 
-What is the significance of 24 April 1973 for the Ninth Schedule?
-
-A. All earlier laws were judicially repealed that day.
-B. It is the *Kesavananda* cut-off used by *Waman Rao* and *I.R. Coelho* for later insertions.
-C. Article 31B ceased to exist.
-D. Only tax laws added later are reviewable.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -535,13 +683,6 @@ D. Only tax laws added later are reviewable.
 **Examiner trap 26:** Post-cut-off review does not mean automatic invalidity.
 
 ### MCQ 27
-
-*Minerva Mills v Union of India* is best associated with
-
-A. validating unlimited amendment power.
-B. holding Directive Principles wholly subordinate in every case.
-C. limited amending power, judicial review and harmony between Parts III and IV.
-D. creating the Ninth Schedule.
 
 **Answer: C.**
 
@@ -556,13 +697,6 @@ D. creating the Ninth Schedule.
 
 ### MCQ 28
 
-The 2015 NJAC judgment invalidated
-
-A. the Forty-fourth Amendment's Article 300A change.
-B. only an executive memorandum.
-C. the First Amendment's Ninth Schedule.
-D. the Ninety-ninth Amendment and NJAC Act for damaging judicial independence.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -575,13 +709,6 @@ D. the Ninety-ninth Amendment and NJAC Act for damaging judicial independence.
 **Examiner trap 28:** Judicial independence does not imply freedom from institutional accountability.
 
 ### MCQ 29
-
-Constitutional morality most accurately means
-
-A. fidelity to constitutional text, procedures, equal citizenship and institutional role obligations.
-B. the morality preferred by the numerical majority.
-C. a judge's personal ethical intuition.
-D. automatic invalidity of every unpopular law.
 
 **Answer: A.**
 
@@ -596,13 +723,6 @@ D. automatic invalidity of every unpopular law.
 
 ### MCQ 30
 
-Transformative constitutionalism is best understood as
-
-A. judicial power to enact any progressive policy.
-B. the lawful constitutional project of dismantling status hierarchy through rights, democracy and remedies.
-C. replacement of Parliament by constitutional courts.
-D. a doctrine confined to property rights.
-
 **Answer: B.**
 
 **Option-specific explanations:**
@@ -615,13 +735,6 @@ D. a doctrine confined to property rights.
 **Examiner trap 30:** Transformative purpose is not institutional substitution.
 
 ### MCQ 31
-
-Under the classical ERP approach, *Shirur Mutt* principally helps courts
-
-A. decide repugnancy under Article 254.
-B. apply prospective overruling.
-C. distinguish matters of religion from associated secular activities under Articles 25-26.
-D. define an exhaustive basic-structure list.
 
 **Answer: C.**
 
@@ -636,13 +749,6 @@ D. define an exhaustive basic-structure list.
 
 ### MCQ 32
 
-A complex challenge to a State law should ordinarily be analysed in which sequence?
-
-A. Remedy, then facts, then legislative entry.
-B. Constitutional morality alone, then result.
-C. Article 254 first in every federal dispute.
-D. Competence, meaning, rights standard, invalidity scope, temporal effect, precedent and remedy.
-
 **Answer: D.**
 
 **Option-specific explanations:**
@@ -653,6 +759,102 @@ D. Competence, meaning, rights standard, invalidity scope, temporal effect, prec
 - **D - Correct:** the sequence keeps distinct doctrines in their proper constitutional roles.
 
 **Examiner trap 32:** The most famous doctrine is not always the first applicable doctrine.
+
+### MCQ 33
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A - Correct:** Classical eclipse distinguishes temporary unenforceability of a pre-Constitution law from legislative repeal.
+- **B - Incorrect:** Repeal and eclipse are not the same legal operation.
+- **C - Incorrect:** Basheshar Nath rejects waiver of Fundamental Rights as a universal escape.
+- **D - Incorrect:** Do not extend the classical pre-Constitution rule indiscriminately.
+
+**Examiner trap 33:** Specify the law’s temporal origin before choosing eclipse.
+
+### MCQ 34
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Its label cannot resolve territorial competence.
+- **B - Correct:** Article 245 territorial nexus tests the connection, not absence of any external consequences.
+- **C - Incorrect:** Assent under Article 254(2) addresses a different concurrent-law conflict.
+- **D - Incorrect:** Extra-State effects do not by themselves establish Concurrent List repugnancy.
+
+**Examiner trap 34:** Distinguish territorial reach from field allocation.
+
+### MCQ 35
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** The proviso expressly preserves subsequent Parliamentary legislative power.
+- **B - Incorrect:** Assent can operate on conflict between otherwise competent Concurrent laws.
+- **C - Correct:** A later Parliamentary enactment can displace the assented State law.
+- **D - Incorrect:** Article 254(2) requires reservation for the President’s consideration and assent.
+
+**Examiner trap 35:** Presidential assent is neither general competence nor permanent supremacy.
+
+### MCQ 36
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Constitutional avoidance cannot create an offence not supplied by Parliament.
+- **B - Incorrect:** Severability requires a complete workable remainder reflecting legislative intent.
+- **C - Incorrect:** Article 141 and bench discipline do not permit casual disregard of larger bench ratio.
+- **D - Correct:** The actual Section 66A holding illustrates a real boundary of reading down.
+
+**Examiner trap 36:** Give the actual remedial holding, not a fictional case quotation.
+
+### MCQ 37
+
+**Answer: A.**
+
+**Option-specific explanations:**
+- **A - Correct:** R.M.D. Chamarbaugwala frames text, legislative intent and workable remainder.
+- **B - Incorrect:** Total invalidity need not follow separable partial invalidity.
+- **C - Incorrect:** Prospective operation addresses temporal consequences, not substantive validity.
+- **D - Incorrect:** A court may not rewrite legislative policy in the name of severance.
+
+**Examiner trap 37:** The legislative-intent test is as important as textual separability.
+
+### MCQ 38
+
+**Answer: B.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Sub silentio depends on whether the point was actually decided, not age.
+- **B - Correct:** Bench hierarchy controls the smaller bench’s disposition of genuine doubt.
+- **C - Incorrect:** A value label does not displace binding law.
+- **D - Incorrect:** Per incuriam requires a genuine overlooked binding authority or provision, not mere disagreement.
+
+**Examiner trap 38:** Separate ratio, observation, per incuriam and bench-strength protocol.
+
+### MCQ 39
+
+**Answer: C.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Post-cutoff insertion is not automatically immune from basic-structure review.
+- **B - Incorrect:** Waman Rao established the 24 April 1973 cut-off for later insertions.
+- **C - Correct:** The test concerns the constitutional impact, not a blanket removal of Article 31B.
+- **D - Incorrect:** Judicial review is case-specific, not automatic invalidity.
+
+**Examiner trap 39:** Review the post-cutoff constitutional insertion, not every policy disagreement.
+
+### MCQ 40
+
+**Answer: D.**
+
+**Option-specific explanations:**
+- **A - Incorrect:** Constitutional morality cannot authorise unbounded personal policy.
+- **B - Incorrect:** Social majority views do not themselves establish constitutional duties.
+- **C - Incorrect:** A slogan is not a substitute for ratio and the applicable clause.
+- **D - Correct:** Text and institutional accountability discipline the interpretive claim.
+
+**Examiner trap 40:** A judicial-value doctrine requires an identified legal source and calibrated remedy.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -666,7 +868,7 @@ Only a final official or repository-local official key may support an official a
 
 **Demand / routing note:** Explain the judicial sequence: broad entry interpretation and pith/substance, reconciliation through harmonious construction, then express federal priority only for irreducible conflict.
 
-Answer withheld pending official UPSC key.
+**Independent descriptive model answer (not an official key):** Articles 245-246 and the Seventh Schedule allocate fields, not watertight compartments. Courts first read entries broadly and identify the law’s pith and substance; genuine incidental encroachment need not defeat competence (*Prafulla Kumar Mukherjee*). Harmonious construction then gives overlapping entries workable effect and avoids rendering either otiose. For two otherwise valid laws in the Concurrent field, Article 254 resolves actual repugnancy: Parliamentary law ordinarily prevails only to the inconsistent extent; *M. Karunanidhi* requires a real clash rather than speculative overlap. A reserved State law with Presidential assent can prevail in that State under Article 254(2), subject to later Parliamentary override. Thus federal supremacy is a text-bound last resort after interpretation and reconciliation, not permission to disregard every State law touching a Union concern.
 
 ### Verified routed PYQ 2 - UPSC Mains 2021, GS Paper II, Question 1
 
@@ -674,7 +876,7 @@ Answer withheld pending official UPSC key.
 
 **Demand / routing note:** Define constitutional rather than social morality, use institutional and equal-citizenship applications, and state the text/precedent/remedy limit.
 
-Answer withheld pending official UPSC key.
+**Independent descriptive model answer (not an official key):** Constitutional morality means fidelity to constitutional commitments and institutional roles, not personal virtue or prevailing social prejudice. In *Government of NCT of Delhi v Union of India* (2018), the Court linked constitutional morality to representative government, collaborative federal functioning and responsibility of officeholders. *Navtej Singh Johar* (2018) distinguished constitutional protection of equal dignity from majoritarian disapproval of consensual same-sex relations; rights do not depend on public popularity. The doctrine also requires courts and executives to respect their respective constitutional functions and provide reasoned, reviewable decisions. It therefore helps make liberty, equality and fraternity effective. Its limit is equally important: cite the governing provision, relevant ratio and actual injury rather than use “morality” as an unstructured licence to replace enacted law or democratic choice.
 
 ### Verified routed PYQ 3 - UPSC Mains 2019, GS Paper II, Question 12
 
@@ -682,7 +884,7 @@ Answer withheld pending official UPSC key.
 
 **Demand / routing note:** Trace *Kesavananda Bharati* and *Minerva Mills*: wide amendment power, implied substantive limit, no self-enlargement into unlimited constituent sovereignty.
 
-Answer withheld pending official UPSC key.
+**Independent descriptive model answer (not an official key):** Article 368 confers wide constituent power, but an amending power cannot make itself unlimited. The Twenty-fourth Amendment clarified Parliament’s power to amend any constitutional provision; *Kesavananda Bharati* (1973) upheld broad power yet prohibited damage or destruction of basic structure. This is a substantive limit on amendments, not a closed textual list of forbidden changes. The Forty-second Amendment attempted to insert Article 368(4)-(5), barring judicial review and declaring no limitation on the amending power. *Minerva Mills* (1980) struck those provisions because limited amending power and judicial review form part of constitutional identity: converting a limited power into an absolute one would defeat the source of that power. The Court also invalidated the expanded Article 31C, reinforcing harmony between Fundamental Rights and Directive Principles. Parliament may alter even significant institutions by the prescribed process, but not abolish their core constitutional safeguards; the inquiry turns on the amendment’s effect, not the political desirability of reform.
 
 ### Verified routed PYQ 4 - UPSC Prelims 2020, GS Paper I, Question 13
 
@@ -719,7 +921,7 @@ Answer withheld pending official UPSC key.
 
 **Demand / routing note:** Define role morality, protect decisional independence, and connect accountability to reasons, recusal, ethics, open justice and constitutionally valid review.
 
-Answer withheld pending official UPSC key.
+**Independent descriptive model answer (not an official key):** Constitutional morality restrains power because fidelity to the Constitution applies both to judicial office and to those affected by judicial conduct. In *Government of NCT of Delhi* (2018), the Court linked the idea to responsible institutional functioning; *Navtej Singh Johar* (2018) preferred equal constitutional citizenship over majoritarian disapproval. Applied to judges, independence protects impartial decision-making, security from retaliation and constitutional judicial review. The 2015 NJAC decision treated judicial independence as basic structure, but independence cannot mean immunity from ethics or reason-giving. Accountability requires transparent procedures, disclosure and recusal for conflicts, open and reasoned judgments, fair complaint mechanisms and constitutionally valid discipline consistent with security of tenure. Articles 124(4)-(5) prescribe the removal framework for Supreme Court judges; disagreement with an unpopular judgment cannot substitute for that process. A sound balance preserves decisional autonomy while subjecting conduct and institutions to lawful scrutiny. Neither executive capture under the guise of accountability nor self-policing without credible standards satisfies constitutional morality.
 
 ### Six original solved Mains questions
 
@@ -727,7 +929,6 @@ Answer withheld pending official UPSC key.
 
 **Directive:** Distinguish and explain | **Marks:** 10 | **Answer in:** 150 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** Severability and reading down preserve constitutionality through different operations.
 Severability, anchored in Article 13's phrase "to the extent", removes an invalid part only
@@ -742,15 +943,12 @@ standards, showing that constitutional avoidance ends where a new offence or pol
 would have to be written. Thus, both doctrines favour a narrow remedy, but neither permits
 a court to replace the legislature's essential design.
 
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
 
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
 
 #### M2. How do pith and substance and colourable legislation jointly police legislative competence?
 
 **Directive:** Explain | **Marks:** 10 | **Answer in:** 150 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** Pith and substance and colourable legislation examine competence from complementary
 directions. Under Articles 245-246 and the Seventh Schedule, pith and substance identifies
@@ -764,15 +962,12 @@ fides. Ancillary power may support measures reasonably necessary for a valid fie
 cannot manufacture authority over an independent forbidden subject. Together, the
 doctrines preserve workable overlap while invalidating a dominant or disguised trespass.
 
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
 
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
 
 #### M3. Examine the constitutional conditions for repugnancy and the effect of Presidential assent under Article 254(2).
 
 **Directive:** Examine | **Marks:** 15 | **Answer in:** 250 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** Article 254 is a conflict rule, not the starting point for every Union-State overlap.
 First, both enactments must be validly traceable to the same Concurrent List field. Pith
@@ -790,17 +985,17 @@ within that State over the identified earlier Parliamentary conflict. Assent mus
 be connected to the actual inconsistency; it cannot cure State legislative incompetence.
 Nor is the priority permanent: Parliament may later add to, amend, vary or repeal the
 assented State law. The doctrine balances national consistency with bounded State
-experimentation through text-specific rather than political supremacy.
+experimentation through text-specific rather than political supremacy. For instance, a
+State rule supplementing a central regulatory floor may operate alongside it if both can
+be obeyed; a contrary rule on the same requirement demands the Article 254 inquiry.
+The answer must name the conflicting provisions before claiming occupation of a field.
 
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
 
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
 
 #### M4. Trace the evolution and limits of the basic-structure doctrine, including Ninth Schedule review.
 
 **Directive:** Trace and assess | **Marks:** 15 | **Answer in:** 250 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** The basic-structure doctrine reconciles constitutional change with constitutional
 identity. The Twenty-fourth Amendment Act, 1971 affirmed Parliament's constituent power
@@ -819,17 +1014,18 @@ judgment similarly invalidated the Ninety-ninth Amendment for damaging judicial
 independence.
 
 The doctrine reviews amendments, not ordinary policy wisdom; its features are developed
-case by case, not contained in a closed exhaustive list.
+case by case, not contained in a closed exhaustive list. A court therefore examines the
+actual constitutional effect of the change rather than treating every alteration of a
+familiar institution as destruction. Conversely, inserting an ordinary statute into the
+Ninth Schedule after the cut-off cannot, without impact review, immunise an attack on
+fundamental guarantees that express basic-structure principles.
 
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
 
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
 
 #### M5. Critically examine constitutional morality, transformative constitutionalism and living interpretation as aids to rights adjudication.
 
 **Directive:** Critically examine | **Marks:** 20 | **Answer in:** 250 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** Constitutional morality requires fidelity to constitutional text, procedures, equal
 citizenship and institutional role obligations rather than social or personal morality.
@@ -850,17 +1046,19 @@ remedy. Constituent Assembly Debates and comparative materials may illuminate co
 cannot override adopted text. Courts should therefore state the textual anchor, the
 standard of review and the democratic or counter-right limit. Properly bounded, these aids
 enable constitutional adaptation; unbounded, they collapse interpretation into personal
-policy.
+policy. A privacy claim about State data collection, for example, requires identifying
+Article 21, the specific interference, the lawful aim and the applicable proportionality
+inquiry; citing transformation alone cannot establish invalidity. Equally, the legislature
+must justify exclusionary measures under the actual equality guarantee rather than popular
+preference. Constitutional morality is the discipline of reasoned constitutional authority,
+not a substitute for proving the legal claim.
 
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
 
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
 
 #### M6. A State law with extra-territorial effects is challenged for lack of competence, conflict with a Parliamentary law, violation of a Fundamental Right and vague wording. Construct the correct doctrinal sequence and remedy.
 
 **Directive:** Analyse and construct | **Marks:** 20 | **Answer in:** 250 words.
 
-**Demand decode:** Identify the governing constitutional text, organise the answer by the doctrine's elements, attach named authority to each major claim, analyse the legal effect and finish with the strongest qualification.
 
 **Model answer:** The challenge should be sequenced rather than answered by one doctrine. First identify the
 State entry under Articles 245-246. Apply pith and substance to the law's object and effects;
@@ -883,8 +1081,7 @@ provision.
 
 Finally, respect Article 141 ratio and bench strength. Any prospective operation must be
 expressly justified by the competent court. This sequence keeps competence, conflict,
-rights, meaning, time and remedy analytically distinct.
-
-**Why this earns marks:** It follows claim -> named evidence -> analysis -> qualification, obeys the directive and states the doctrine's limit rather than ending with a slogan.
-
-**Improvement route:** Underline the governing Article, doctrine, holding and limitation; if time is short, compress examples before deleting the legal test.
+rights, meaning, time and remedy analytically distinct. In the final order, specify whether
+only a conflicting State rule yields under Article 254, whether an unconstitutional clause
+is severable, and what remains enforceable for pending disputes. A mere finding of overlap
+cannot justify striking the whole law when valid provisions can stand independently.

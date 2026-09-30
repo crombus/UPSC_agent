@@ -12,819 +12,1153 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+### Questions — attempt all cases first
+
 #### MCQ 1
 
-A mission director uploads expenditure data but no authority reviews anomalies or orders correction. Which missing relationship prevents transparency from becoming accountability? Which source-grounded ethical principle most precisely explains the case?
+A mission director uploads expenditure data but no authority reviews anomalies or orders correction. Which missing relationship prevents transparency from becoming accountability? What response best closes the accountability gap?
 
-A. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-B. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-C. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-D. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-**Answer:** A
-**Explanation:** **Accountability is a complete institutional relationship** is the controlling principle. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Add a forum empowered to assess, remedy and require an explanation
+B. Publish additional metrics while leaving review authority unnamed in the a mission director uploads expenditure data but no authority reviews ano situation
+C. Assign only the data-entry employee to answer for the entire process in the a mission director uploads expenditure data but no authority reviews ano situation
+D. Wait for a criminal conviction before allowing any correction in the a mission director uploads expenditure data but no authority reviews ano situation
 
 ---
 
 #### MCQ 2
 
-A district officer must explain a decision against published standards before an appellate authority that can reverse it and compensate the claimant. Which concept is complete here? Which source-grounded ethical principle most precisely explains the case?
+A district officer must explain a decision against published standards before an appellate authority that can reverse it and compensate the claimant. Which concept is complete here? What response best closes the accountability gap?
 
-A. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-B. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-C. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-D. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-**Answer:** B
-**Explanation:** **Accountability is a complete institutional relationship** is the controlling principle. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish additional metrics while leaving review authority unnamed in the a district officer must explain a decision against published standards b situation
+B. Identify the actor, standard, reviewing forum and power to correct or compensate
+C. Assign only the data-entry employee to answer for the entire process in the a district officer must explain a decision against published standards b situation
+D. Wait for a criminal conviction before allowing any correction in the a district officer must explain a decision against published standards b situation
 
 ---
 
 #### MCQ 3
 
-A block officer is assigned responsibility for wage payments but no one can demand reasons for delay or order relief. Which additional concept is absent? Which source-grounded ethical principle most precisely explains the case?
+A block officer is assigned responsibility for wage payments but no one can demand reasons for delay or order relief. Which additional concept is absent? What response best closes the accountability gap?
 
-A. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-B. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-C. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-D. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-**Answer:** C
-**Explanation:** **Responsibility and accountability are distinct** is the controlling principle. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish additional metrics while leaving review authority unnamed in the a block officer is assigned responsibility for wage payments but no one  situation
+B. Assign only the data-entry employee to answer for the entire process in the a block officer is assigned responsibility for wage payments but no one  situation
+C. Assign an answerability forum able to demand reasons and remedy delay
+D. Wait for a criminal conviction before allowing any correction in the a block officer is assigned responsibility for wage payments but no one  situation
 
 ---
 
 #### MCQ 4
 
-A secretary argues that a subordinate alone is accountable because the subordinate entered the data, although the secretary approved the process. Which distinction should be applied? Which source-grounded ethical principle most precisely explains the case?
+A secretary argues that a subordinate alone is accountable because the subordinate entered the data, although the secretary approved the process. Which distinction should be applied? What response best closes the accountability gap?
 
-A. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-B. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-C. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-D. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-**Answer:** D
-**Explanation:** **Responsibility and accountability are distinct** is the controlling principle. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish additional metrics while leaving review authority unnamed in the a secretary argues that a subordinate alone is accountable because the s situation
+B. Assign only the data-entry employee to answer for the entire process in the a secretary argues that a subordinate alone is accountable because the s situation
+C. Wait for a criminal conviction before allowing any correction in the a secretary argues that a subordinate alone is accountable because the s situation
+D. Retain secretary-level responsibility for approving the faulty process
 
 ---
 
 #### MCQ 5
 
-A procurement platform requires prior conflict declarations and later permits audit and appeal. Which temporal understanding of accountability does this illustrate? Which source-grounded ethical principle most precisely explains the case?
+A procurement platform requires prior conflict declarations and later permits audit and appeal. Which temporal understanding of accountability does this illustrate? What response best closes the accountability gap?
 
-A. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-B. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-C. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-D. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-**Answer:** A
-**Explanation:** **Accountability works before and after a decision** is the controlling principle. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Combine prior conflict controls with later audit and appeal
+B. Use sanctions alone after damage is irreversible in the a procurement platform requires prior conflict declarations and later pe situation
+C. Treat a transparent dashboard as a complete remedy in the a procurement platform requires prior conflict declarations and later pe situation
+D. Assign review to a body unable to change the outcome in the a procurement platform requires prior conflict declarations and later pe situation
 
 ---
 
 #### MCQ 6
 
-A department treats accountability solely as punishment after loss has occurred. Which broader preventive and corrective understanding has it overlooked? Which source-grounded ethical principle most precisely explains the case?
+A department treats accountability solely as punishment after loss has occurred. Which broader preventive and corrective understanding has it overlooked? What response best closes the accountability gap?
 
-A. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-B. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-C. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-D. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-**Answer:** B
-**Explanation:** **Accountability works before and after a decision** is the controlling principle. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use sanctions alone after damage is irreversible in the a department treats accountability solely as punishment after loss has o situation
+B. Add preventive standards and corrective remedies to after-the-fact sanctions
+C. Treat a transparent dashboard as a complete remedy in the a department treats accountability solely as punishment after loss has o situation
+D. Assign review to a body unable to change the outcome in the a department treats accountability solely as punishment after loss has o situation
 
 ---
 
 #### MCQ 7
 
-A state publishes real-time welfare exclusions but provides no human review or grievance remedy. Why is the system transparent yet incompletely accountable? Which source-grounded ethical principle most precisely explains the case?
+A state publishes real-time welfare exclusions but provides no human review or grievance remedy. Why is the system transparent yet incompletely accountable? What response best closes the accountability gap?
 
-A. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-B. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-C. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-D. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-**Answer:** C
-**Explanation:** **Transparency is necessary but not sufficient** is the controlling principle. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use sanctions alone after damage is irreversible in the a state publishes real-time welfare exclusions but provides no human rev situation
+B. Treat a transparent dashboard as a complete remedy in the a state publishes real-time welfare exclusions but provides no human rev situation
+C. Provide a human decision-maker, reasons, appeal and actual correction
+D. Assign review to a body unable to change the outcome in the a state publishes real-time welfare exclusions but provides no human rev situation
 
 ---
 
 #### MCQ 8
 
-A dashboard flags delayed pensions and names the reviewing officer, appeal authority and correction deadline. Which addition converts information into institutional control? Which source-grounded ethical principle most precisely explains the case?
+A dashboard flags delayed pensions and names the reviewing officer, appeal authority and correction deadline. Which addition converts information into institutional control? What response best closes the accountability gap?
 
-A. Responsibility is the duty assigned to a role, whereas accountability arises when performance must be explained and justified before a forum capable of judgment and follow-up.
-
-B. Standards, assigned roles, records and reporting create ex-ante discipline, while review, judgment, correction, remedy and proportionate consequences provide ex-post accountability.
-
-C. Accountability requires an identifiable actor, a competent forum, a known standard, an explanation, a judgment and a credible route to correction, remedy or consequence.
-
-D. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy.
-
-**Answer:** D
-**Explanation:** **Transparency is necessary but not sufficient** is the controlling principle. Disclosure and dashboards improve visibility, but accountability additionally needs responsible actors, review against standards, reasoned findings and enforceable correction or remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use sanctions alone after damage is irreversible in the a dashboard flags delayed pensions and names the reviewing officer, appe situation
+B. Treat a transparent dashboard as a complete remedy in the a dashboard flags delayed pensions and names the reviewing officer, appe situation
+C. Assign review to a body unable to change the outcome in the a dashboard flags delayed pensions and names the reviewing officer, appe situation
+D. Assign a named reviewer, time limit and effective appeal
 
 ---
 
 #### MCQ 9
 
-A ministry asks its Chief Vigilance Officer to examine repeated tender complaints and recommend preventive controls. Which accountability layer is operating? Which source-grounded ethical principle most precisely explains the case?
+A ministry asks its Chief Vigilance Officer to examine repeated tender complaints and recommend preventive controls. Which accountability layer is operating? What response best closes the accountability gap?
 
-A. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-B. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-C. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-D. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-**Answer:** A
-**Explanation:** **Departmental vigilance and CVOs are internal controls** is the controlling principle. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use internal CVO review for vigilance and preventive controls
+B. Treat every vigilance complaint as an automatic prosecution in the a ministry asks its chief vigilance officer to examine repeated tender c situation
+C. Give the CVC the powers of a criminal trial court in the a ministry asks its chief vigilance officer to examine repeated tender c situation
+D. Replace the investigation with a dashboard anomaly alert in the a ministry asks its chief vigilance officer to examine repeated tender c situation
 
 ---
 
 #### MCQ 10
 
-An officer assumes every vigilance concern must begin as a criminal prosecution. Which differentiated internal role corrects that assumption? Which source-grounded ethical principle most precisely explains the case?
+An officer assumes every vigilance concern must begin as a criminal prosecution. Which differentiated internal role corrects that assumption? What response best closes the accountability gap?
 
-A. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-B. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-C. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-D. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-**Answer:** B
-**Explanation:** **Departmental vigilance and CVOs are internal controls** is the controlling principle. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every vigilance complaint as an automatic prosecution in the an officer assumes every vigilance concern must begin as a criminal pros situation
+B. Separate departmental vigilance from a criminal investigation
+C. Give the CVC the powers of a criminal trial court in the an officer assumes every vigilance concern must begin as a criminal pros situation
+D. Replace the investigation with a dashboard anomaly alert in the an officer assumes every vigilance concern must begin as a criminal pros situation
 
 ---
 
 #### MCQ 11
 
-A department sends a vigilance matter to the CVC and tells citizens that the Commission will itself prosecute the accused. Which institutional error has occurred? Which source-grounded ethical principle most precisely explains the case?
+A department sends a vigilance matter to the CVC and tells citizens that the Commission will itself prosecute the accused. Which institutional error has occurred? What response best closes the accountability gap?
 
-A. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-B. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-C. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-D. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-**Answer:** C
-**Explanation:** **The CVC supervises and advises but does not prosecute** is the controlling principle. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every vigilance complaint as an automatic prosecution in the a department sends a vigilance matter to the cvc and tells citizens that situation
+B. Give the CVC the powers of a criminal trial court in the a department sends a vigilance matter to the cvc and tells citizens that situation
+C. Correct the claim: the CVC is not itself a trial prosecutor
+D. Replace the investigation with a dashboard anomaly alert in the a department sends a vigilance matter to the cvc and tells citizens that situation
 
 ---
 
 #### MCQ 12
 
-The CVC reviews vigilance administration and exercises its statutory role concerning anti-corruption investigation without acting as trial prosecutor. Which distinction is preserved? Which source-grounded ethical principle most precisely explains the case?
+The CVC reviews vigilance administration and exercises its statutory role concerning anti-corruption investigation without acting as trial prosecutor. Which distinction is preserved? What response best closes the accountability gap?
 
-A. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-B. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-C. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-D. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-**Answer:** D
-**Explanation:** **The CVC supervises and advises but does not prosecute** is the controlling principle. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat every vigilance complaint as an automatic prosecution in the the cvc reviews vigilance administration and exercises its statutory rol situation
+B. Give the CVC the powers of a criminal trial court in the the cvc reviews vigilance administration and exercises its statutory rol situation
+C. Replace the investigation with a dashboard anomaly alert in the the cvc reviews vigilance administration and exercises its statutory rol situation
+D. Distinguish CVC vigilance oversight from criminal prosecution
 
 ---
 
 #### MCQ 13
 
-A ministry asks whether suspected bribery requires criminal investigation rather than only an internal process. Which differentiated role becomes relevant? Which source-grounded ethical principle most precisely explains the case?
+A ministry asks whether suspected bribery requires criminal investigation rather than only an internal process. Which differentiated role becomes relevant? What response best closes the accountability gap?
 
-A. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-B. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-C. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-D. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-**Answer:** A
-**Explanation:** **The CBI investigates within its lawful remit** is the controlling principle. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Refer a suspected offence to the competent investigative agency
+B. Treat internal vigilance as equivalent to independent audit in the a ministry asks whether suspected bribery requires criminal investigatio situation
+C. Give the same actor authority to approve and finally judge the claim in the a ministry asks whether suspected bribery requires criminal investigatio situation
+D. Use a criminal case as a substitute for corrective administrative action in the a ministry asks whether suspected bribery requires criminal investigatio situation
 
 ---
 
 #### MCQ 14
 
-A disciplinary authority waits for a vigilance body to perform every criminal-investigation function. Which institutional separation has been ignored? Which source-grounded ethical principle most precisely explains the case?
+A disciplinary authority waits for a vigilance body to perform every criminal-investigation function. Which institutional separation has been ignored? What response best closes the accountability gap?
 
-A. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-B. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-C. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-D. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-**Answer:** B
-**Explanation:** **The CBI investigates within its lawful remit** is the controlling principle. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat internal vigilance as equivalent to independent audit in the a disciplinary authority waits for a vigilance body to perform every cri situation
+B. Preserve separate departmental, investigative and prosecutorial roles
+C. Give the same actor authority to approve and finally judge the claim in the a disciplinary authority waits for a vigilance body to perform every cri situation
+D. Use a criminal case as a substitute for corrective administrative action in the a disciplinary authority waits for a vigilance body to perform every cri situation
 
 ---
 
 #### MCQ 15
 
-A department claims its internal dashboard makes independent constitutional audit unnecessary. Which external accountability principle defeats the claim? Which source-grounded ethical principle most precisely explains the case?
+A department claims its internal dashboard makes independent constitutional audit unnecessary. Which external accountability principle defeats the claim? What response best closes the accountability gap?
 
-A. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-B. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-C. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-D. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-**Answer:** C
-**Explanation:** **CAG and legislative scrutiny provide external accountability** is the controlling principle. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat internal vigilance as equivalent to independent audit in the a department claims its internal dashboard makes independent constitutio situation
+B. Give the same actor authority to approve and finally judge the claim in the a department claims its internal dashboard makes independent constitutio situation
+C. Retain independent CAG and legislative scrutiny despite dashboards
+D. Use a criminal case as a substitute for corrective administrative action in the a department claims its internal dashboard makes independent constitutio situation
 
 ---
 
 #### MCQ 16
 
-An audit report is placed before the legislature for committee examination and executive follow-up. Which control layer does this exemplify? Which source-grounded ethical principle most precisely explains the case?
+An audit report is placed before the legislature for committee examination and executive follow-up. Which control layer does this exemplify? What response best closes the accountability gap?
 
-A. The statutory Central Vigilance Commission performs vigilance, advisory and specified superintendence functions; it is not itself the body that conducts every investigation or prosecution.
-
-B. The Central Bureau of Investigation investigates specified offences within the applicable legal and jurisdictional framework; investigation, vigilance advice and departmental discipline remain distinct functions.
-
-C. Departmental vigilance and Chief Vigilance Officers support preventive checks, complaint handling and disciplinary processes within administration, subject to their actual authority and procedure.
-
-D. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls.
-
-**Answer:** D
-**Explanation:** **CAG and legislative scrutiny provide external accountability** is the controlling principle. Independent CAG audit examines public expenditure and performance for legislative scrutiny and systemic correction; it remains indispensable even when departments possess internal or concurrent controls. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat internal vigilance as equivalent to independent audit in the an audit report is placed before the legislature for committee examinati situation
+B. Give the same actor authority to approve and finally judge the claim in the an audit report is placed before the legislature for committee examinati situation
+C. Use a criminal case as a substitute for corrective administrative action in the an audit report is placed before the legislature for committee examinati situation
+D. Use CAG-linked legislative scrutiny and executive follow-up
 
 ---
 
 #### MCQ 17
 
-A secretary gives frank recorded advice, then implements a lawful cabinet decision impartially. Which division of democratic and administrative accountability is respected? Which source-grounded ethical principle most precisely explains the case?
+A secretary gives frank recorded advice, then implements a lawful cabinet decision impartially. Which division of democratic and administrative accountability is respected? What response best closes the accountability gap?
 
-A. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-B. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-C. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-D. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-**Answer:** A
-**Explanation:** **Political and bureaucratic accountability are related but separate** is the controlling principle. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Join candid neutral advice to execution of lawful elected policy
+B. Treat political neutrality as permission to withhold lawful services in the a secretary gives frank recorded advice, then implements a lawful cabine situation
+C. Treat any ministerial request as sufficient authority to bypass criteria in the a secretary gives frank recorded advice, then implements a lawful cabine situation
+D. Give informal advice only so no one owns the decision in the a secretary gives frank recorded advice, then implements a lawful cabine situation
 
 ---
 
 #### MCQ 18
 
-A minister directs a transfer for partisan retaliation and the official complies without recording objection. Which accountability boundary has failed? Which source-grounded ethical principle most precisely explains the case?
+A minister directs a transfer for partisan retaliation and the official complies without recording objection. Which accountability boundary has failed? What response best closes the accountability gap?
 
-A. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-B. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-C. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-D. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-**Answer:** B
-**Explanation:** **Political and bureaucratic accountability are related but separate** is the controlling principle. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat political neutrality as permission to withhold lawful services in the a minister directs a transfer for partisan retaliation and the official  situation
+B. Record objection and resist partisan retaliation through lawful channels
+C. Treat any ministerial request as sufficient authority to bypass criteria in the a minister directs a transfer for partisan retaliation and the official  situation
+D. Give informal advice only so no one owns the decision in the a minister directs a transfer for partisan retaliation and the official  situation
 
 ---
 
 #### MCQ 19
 
-An officer invokes neutrality to delay a lawful elected-government welfare decision. Which duty within bureaucratic accountability has been neglected? Which source-grounded ethical principle most precisely explains the case?
+An officer invokes neutrality to delay a lawful elected-government welfare decision. Which duty within bureaucratic accountability has been neglected? What response best closes the accountability gap?
 
-A. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-B. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-C. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-D. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-**Answer:** C
-**Explanation:** **Lawful political direction does not erase official accountability** is the controlling principle. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat political neutrality as permission to withhold lawful services in the an officer invokes neutrality to delay a lawful elected-government welfa situation
+B. Treat any ministerial request as sufficient authority to bypass criteria in the an officer invokes neutrality to delay a lawful elected-government welfa situation
+C. Implement the lawful elected decision without partisan delay
+D. Give informal advice only so no one owns the decision in the an officer invokes neutrality to delay a lawful elected-government welfa situation
 
 ---
 
 #### MCQ 20
 
-A superior demands selective benefits for supporters, and the field officer seeks written directions and review. Which accountable response is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A superior demands selective benefits for supporters, and the field officer seeks written directions and review. Which accountable response is illustrated? What response best closes the accountability gap?
 
-A. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-B. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-C. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-D. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-**Answer:** D
-**Explanation:** **Lawful political direction does not erase official accountability** is the controlling principle. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat political neutrality as permission to withhold lawful services in the a superior demands selective benefits for supporters, and the field offi situation
+B. Treat any ministerial request as sufficient authority to bypass criteria in the a superior demands selective benefits for supporters, and the field offi situation
+C. Give informal advice only so no one owns the decision in the a superior demands selective benefits for supporters, and the field offi situation
+D. Seek written direction and review rather than selective benefits
 
 ---
 
 #### MCQ 21
 
-A treasury system flags duplicate payments before release while later CAG audit tests propriety and performance. Which complementary design is operating? Which source-grounded ethical principle most precisely explains the case?
+A treasury system flags duplicate payments before release while later CAG audit tests propriety and performance. Which complementary design is operating? What response best closes the accountability gap?
 
-A. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-B. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-C. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-D. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-**Answer:** A
-**Explanation:** **Concurrent assurance complements independent ex-post audit** is the controlling principle. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Join real-time preventive controls with independent later CAG audit
+B. Treat an internal flag as proof of individual criminal guilt in the a treasury system flags duplicate payments before release while later ca situation
+C. Discontinue later audit because preventive software was installed in the a treasury system flags duplicate payments before release while later ca situation
+D. Share accountability among offices without a named final decision-maker in the a treasury system flags duplicate payments before release while later ca situation
 
 ---
 
 #### MCQ 22
 
-A department argues that an internal real-time alert conclusively settles responsibility for public loss. Which continuing external requirement is missing? Which source-grounded ethical principle most precisely explains the case?
+A department argues that an internal real-time alert conclusively settles responsibility for public loss. Which continuing external requirement is missing? What response best closes the accountability gap?
 
-A. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-B. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-C. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-D. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-**Answer:** B
-**Explanation:** **Concurrent assurance complements independent ex-post audit** is the controlling principle. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat an internal flag as proof of individual criminal guilt in the a department argues that an internal real-time alert conclusively settle situation
+B. Preserve external examination and correction after internal alerts
+C. Discontinue later audit because preventive software was installed in the a department argues that an internal real-time alert conclusively settle situation
+D. Share accountability among offices without a named final decision-maker in the a department argues that an internal real-time alert conclusively settle situation
 
 ---
 
 #### MCQ 23
 
-Five offices refer a pensioner to one another because no process assigns a final deciding officer. Which structural accountability failure is present? Which source-grounded ethical principle most precisely explains the case?
+Five offices refer a pensioner to one another because no process assigns a final deciding officer. Which structural accountability failure is present? What response best closes the accountability gap?
 
-A. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-B. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-C. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-D. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-**Answer:** C
-**Explanation:** **Accountability diffusion weakens responsibility-fixing** is the controlling principle. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat an internal flag as proof of individual criminal guilt in the five offices refer a pensioner to one another because no process assigns situation
+B. Discontinue later audit because preventive software was installed in the five offices refer a pensioner to one another because no process assigns situation
+C. Name the final answerable officer and stop referral loops
+D. Share accountability among offices without a named final decision-maker in the five offices refer a pensioner to one another because no process assigns situation
 
 ---
 
 #### MCQ 24
 
-A scheme publishes a responsibility matrix, escalation deadline and final appellate authority. Which problem does this design reduce? Which source-grounded ethical principle most precisely explains the case?
+A scheme publishes a responsibility matrix, escalation deadline and final appellate authority. Which problem does this design reduce? What response best closes the accountability gap?
 
-A. Civil servants must implement lawful democratic decisions without partisan obstruction, but illegality, discrimination or concealed favour requires reasoned advice, recorded dissent and competent escalation.
-
-B. Transaction checks, internal audit and real-time exception review can correct problems during implementation, but they complement rather than replace CAG audit and legislative scrutiny.
-
-C. Ministers answer to the legislature and electorate for policy and departmental outcomes, while officials answer for lawful, impartial and competent advice, execution, records and use of discretion.
-
-D. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction.
-
-**Answer:** D
-**Explanation:** **Accountability diffusion weakens responsibility-fixing** is the controlling principle. When authority, data entry, approval and review are scattered across many unnamed levels, citizens and forums cannot identify who must explain failure or deliver correction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat an internal flag as proof of individual criminal guilt in the a scheme publishes a responsibility matrix, escalation deadline and fina situation
+B. Discontinue later audit because preventive software was installed in the a scheme publishes a responsibility matrix, escalation deadline and fina situation
+C. Share accountability among offices without a named final decision-maker in the a scheme publishes a responsibility matrix, escalation deadline and fina situation
+D. Use assigned decisions, escalation limits and independent appeal
 
 ---
 
 #### MCQ 25
 
-A Gram Panchayat verifies its own muster rolls privately and announces that a social audit is complete. Which essential safeguards are absent? Which source-grounded ethical principle most precisely explains the case?
+A Gram Panchayat verifies its own muster rolls privately and announces that a social audit is complete. Which essential safeguards are absent? What response best closes the accountability gap?
 
-A. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-B. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-C. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-D. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-**Answer:** A
-**Explanation:** **Social audit requires independent verification and public hearing** is the controlling principle. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Bring independent verification, worker access and public hearing
+B. Let the Panchayat audit its own books behind closed doors in the a gram panchayat verifies its own muster rolls privately and announces t situation
+C. Stop at disclosure without worker hearing or independent verification in the a gram panchayat verifies its own muster rolls privately and announces t situation
+D. Archive audit findings without action on unpaid claimants in the a gram panchayat verifies its own muster rolls privately and announces t situation
 
 ---
 
 #### MCQ 26
 
-Workers compare disclosed muster rolls with attendance and physical works before a Gram Sabha hearing. Which accountability mechanism is operating? Which source-grounded ethical principle most precisely explains the case?
+Workers compare disclosed muster rolls with attendance and physical works before a Gram Sabha hearing. Which accountability mechanism is operating? What response best closes the accountability gap?
 
-A. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-B. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-C. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-D. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-**Answer:** B
-**Explanation:** **Social audit requires independent verification and public hearing** is the controlling principle. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the Panchayat audit its own books behind closed doors in the workers compare disclosed muster rolls with attendance and physical work situation
+B. Verify rolls with workers and inspect work before a Gram Sabha forum
+C. Stop at disclosure without worker hearing or independent verification in the workers compare disclosed muster rolls with attendance and physical work situation
+D. Archive audit findings without action on unpaid claimants in the workers compare disclosed muster rolls with attendance and physical work situation
 
 ---
 
 #### MCQ 27
 
-A public hearing establishes unpaid wages, but the report is archived without payment correction or action. Which part of social accountability has failed? Which source-grounded ethical principle most precisely explains the case?
+A public hearing establishes unpaid wages, but the report is archived without payment correction or action. Which part of social accountability has failed? What response best closes the accountability gap?
 
-A. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-B. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-C. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-D. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-**Answer:** C
-**Explanation:** **Social audit is incomplete without action and remedy** is the controlling principle. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the Panchayat audit its own books behind closed doors in the a public hearing establishes unpaid wages, but the report is archived wi situation
+B. Stop at disclosure without worker hearing or independent verification in the a public hearing establishes unpaid wages, but the report is archived wi situation
+C. Close the social-audit loop with wage correction and action taken
+D. Archive audit findings without action on unpaid claimants in the a public hearing establishes unpaid wages, but the report is archived wi situation
 
 ---
 
 #### MCQ 28
 
-An independent unit protects witnesses, publishes follow-up and restores wrongly withheld wages. Which complete social-audit cycle is illustrated? Which source-grounded ethical principle most precisely explains the case?
+An independent unit protects witnesses, publishes follow-up and restores wrongly withheld wages. Which complete social-audit cycle is illustrated? What response best closes the accountability gap?
 
-A. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-B. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-C. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-D. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-**Answer:** D
-**Explanation:** **Social audit is incomplete without action and remedy** is the controlling principle. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the Panchayat audit its own books behind closed doors in the an independent unit protects witnesses, publishes follow-up and restores situation
+B. Stop at disclosure without worker hearing or independent verification in the an independent unit protects witnesses, publishes follow-up and restores situation
+C. Archive audit findings without action on unpaid claimants in the an independent unit protects witnesses, publishes follow-up and restores situation
+D. Protect witnesses and execute published follow-up on unpaid wages
 
 ---
 
 #### MCQ 29
 
-Workers from different hamlets jointly verify scheme records and support complainants against a powerful contractor. Which governance resource assists accountability? Which source-grounded ethical principle most precisely explains the case?
+Workers from different hamlets jointly verify scheme records and support complainants against a powerful contractor. Which governance resource assists accountability? What response best closes the accountability gap?
 
-A. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-B. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-C. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-D. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-**Answer:** A
-**Explanation:** **Bridging social capital can strengthen social control** is the controlling principle. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use cross-hamlet trust and mutual support for worker testimony
+B. Treat collective trust as a substitute for records and independent review in the workers from different hamlets jointly verify scheme records and support situation
+C. Ignore intimidated witnesses because cohesion is high in the workers from different hamlets jointly verify scheme records and support situation
+D. Treat every close-knit network as evidence that complaints are false in the workers from different hamlets jointly verify scheme records and support situation
 
 ---
 
 #### MCQ 30
 
-A grievance forum fails because communities distrust one another and witnesses fear isolation. Which informal resource is deficient? Which source-grounded ethical principle most precisely explains the case?
+A grievance forum fails because communities distrust one another and witnesses fear isolation. Which informal resource is deficient? What response best closes the accountability gap?
 
-A. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-B. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-C. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-D. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-**Answer:** B
-**Explanation:** **Bridging social capital can strengthen social control** is the controlling principle. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat collective trust as a substitute for records and independent review in the a grievance forum fails because communities distrust one another and wit situation
+B. Rebuild trust and protect witnesses so grievances can be heard
+C. Ignore intimidated witnesses because cohesion is high in the a grievance forum fails because communities distrust one another and wit situation
+D. Treat every close-knit network as evidence that complaints are false in the a grievance forum fails because communities distrust one another and wit situation
 
 ---
 
 #### MCQ 31
 
-A dominant local network pressures members not to testify against a related functionary during a public hearing. Which limitation of social capital is visible? Which source-grounded ethical principle most precisely explains the case?
+A dominant local network pressures members not to testify against a related functionary during a public hearing. Which limitation of social capital is visible? What response best closes the accountability gap?
 
-A. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-B. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-C. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-D. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-**Answer:** C
-**Explanation:** **Bonding capital can shield wrongdoing** is the controlling principle. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat collective trust as a substitute for records and independent review in the a dominant local network pressures members not to testify against a rela situation
+B. Ignore intimidated witnesses because cohesion is high in the a dominant local network pressures members not to testify against a rela situation
+C. Protect outsiders and witnesses from exclusionary local loyalties
+D. Treat every close-knit network as evidence that complaints are false in the a dominant local network pressures members not to testify against a rela situation
 
 ---
 
 #### MCQ 32
 
-An audit team assumes community cohesion always guarantees honest monitoring. Which close-option qualification should correct that view? Which source-grounded ethical principle most precisely explains the case?
+An audit team assumes community cohesion always guarantees honest monitoring. Which close-option qualification should correct that view? What response best closes the accountability gap?
 
-A. Findings must lead to a time-bound action-taken report, worker remedy, recovery or disciplinary referral where evidence supports it, and safeguards against intimidation or capture.
-
-B. Trust and cooperation across groups can lower the cost of collective monitoring, testimony and participation, thereby strengthening citizen oversight between formal audit cycles.
-
-C. A credible social audit separates verification from the implementing agency, proactively opens records, tests them with workers and worksites, and presents findings in a public hearing.
-
-D. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting.
-
-**Answer:** D
-**Explanation:** **Bonding capital can shield wrongdoing** is the controlling principle. Strong in-group loyalty may protect insiders, silence complainants and capture local oversight; social capital improves governance only when it is sufficiently inclusive and rights-respecting. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat collective trust as a substitute for records and independent review in the an audit team assumes community cohesion always guarantees honest monito situation
+B. Ignore intimidated witnesses because cohesion is high in the an audit team assumes community cohesion always guarantees honest monito situation
+C. Treat every close-knit network as evidence that complaints are false in the an audit team assumes community cohesion always guarantees honest monito situation
+D. Check for capture and exclusion even where community ties are strong
 
 ---
 
 #### MCQ 33
 
-A benefit portal time-stamps every decision, identifies the deciding officer and permits appeal. Which ethical advantage of e-governance is most direct? Which source-grounded ethical principle most precisely explains the case?
+A benefit portal time-stamps every decision, identifies the deciding officer and permits appeal. Which ethical advantage of e-governance is most direct? What response best closes the accountability gap?
 
-A. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-B. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-C. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-D. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-**Answer:** A
-**Explanation:** **E-governance can improve traceability and access** is the controlling principle. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use traceable time-stamped decisions with named review and appeal
+B. Treat digital time stamps as proof that all rejections are fair in the a benefit portal time-stamps every decision, identifies the deciding off situation
+C. Exclude anyone unable to file through a smartphone in the a benefit portal time-stamps every decision, identifies the deciding off situation
+D. Let the vendor alone determine appeals to its algorithm in the a benefit portal time-stamps every decision, identifies the deciding off situation
 
 ---
 
 #### MCQ 34
 
-A department digitises files but leaves exception review and correction unassigned. Why has visibility not yet created full accountability? Which source-grounded ethical principle most precisely explains the case?
+A department digitises files but leaves exception review and correction unassigned. Why has visibility not yet created full accountability? What response best closes the accountability gap?
 
-A. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-B. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-C. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-D. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-**Answer:** B
-**Explanation:** **E-governance can improve traceability and access** is the controlling principle. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat digital time stamps as proof that all rejections are fair in the a department digitises files but leaves exception review and correction  situation
+B. Assign ownership of exception review, correction and remedy
+C. Exclude anyone unable to file through a smartphone in the a department digitises files but leaves exception review and correction  situation
+D. Let the vendor alone determine appeals to its algorithm in the a department digitises files but leaves exception review and correction  situation
 
 ---
 
 #### MCQ 35
 
-Elderly pensioners lose benefits because the only filing channel requires a smartphone and English literacy. Which ethical safeguard is missing? Which source-grounded ethical principle most precisely explains the case?
+Elderly pensioners lose benefits because the only filing channel requires a smartphone and English literacy. Which ethical safeguard is missing? What response best closes the accountability gap?
 
-A. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-B. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-C. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-D. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-**Answer:** C
-**Explanation:** **Digital exclusion requires assisted and offline access** is the controlling principle. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat digital time stamps as proof that all rejections are fair in the elderly pensioners lose benefits because the only filing channel require situation
+B. Exclude anyone unable to file through a smartphone in the elderly pensioners lose benefits because the only filing channel require situation
+C. Provide assisted offline, accessible and language-appropriate filing
+D. Let the vendor alone determine appeals to its algorithm in the elderly pensioners lose benefits because the only filing channel require situation
 
 ---
 
 #### MCQ 36
 
-A district offers village facilitation, paper fallback and disability support alongside its portal. Which e-governance duty is fulfilled? Which source-grounded ethical principle most precisely explains the case?
+A district offers village facilitation, paper fallback and disability support alongside its portal. Which e-governance duty is fulfilled? What response best closes the accountability gap?
 
-A. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-B. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-C. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-D. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-**Answer:** D
-**Explanation:** **Digital exclusion requires assisted and offline access** is the controlling principle. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat digital time stamps as proof that all rejections are fair in the a district offers village facilitation, paper fallback and disability su situation
+B. Exclude anyone unable to file through a smartphone in the a district offers village facilitation, paper fallback and disability su situation
+C. Let the vendor alone determine appeals to its algorithm in the a district offers village facilitation, paper fallback and disability su situation
+D. Offer paper fallback, village facilitation and disability support
 
 ---
 
 #### MCQ 37
 
-A worker's attendance is rejected after repeated biometric failure and no official can override the system. Which ethical design defect is decisive? Which source-grounded ethical principle most precisely explains the case?
+A worker's attendance is rejected after repeated biometric failure and no official can override the system. Which ethical design defect is decisive? What response best closes the accountability gap?
 
-A. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-B. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-C. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-D. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-**Answer:** A
-**Explanation:** **Authentication error needs prompt human review** is the controlling principle. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Give a human override and alternative evidence to biometric failures
+B. Publish identifiable records to demonstrate openness in the a worker's attendance is rejected after repeated biometric failure and n situation
+C. Treat biometric failure as conclusive proof of ineligibility in the a worker's attendance is rejected after repeated biometric failure and n situation
+D. Give the model final authority because it processes more claims in the a worker's attendance is rejected after repeated biometric failure and n situation
 
 ---
 
 #### MCQ 38
 
-An officer verifies alternate evidence, records reasons and corrects an erroneous automated exclusion. Which safeguard turns technology into accountable assistance? Which source-grounded ethical principle most precisely explains the case?
+An officer verifies alternate evidence, records reasons and corrects an erroneous automated exclusion. Which safeguard turns technology into accountable assistance? What response best closes the accountability gap?
 
-A. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-B. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-C. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-D. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-**Answer:** B
-**Explanation:** **Authentication error needs prompt human review** is the controlling principle. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish identifiable records to demonstrate openness in the an officer verifies alternate evidence, records reasons and corrects an  situation
+B. Correct automated rejection after verification and recorded reasons
+C. Treat biometric failure as conclusive proof of ineligibility in the an officer verifies alternate evidence, records reasons and corrects an  situation
+D. Give the model final authority because it processes more claims in the an officer verifies alternate evidence, records reasons and corrects an  situation
 
 ---
 
 #### MCQ 39
 
-A welfare dashboard publicly displays identifiable health details to demonstrate transparency. Which competing ethical duty has been breached? Which source-grounded ethical principle most precisely explains the case?
+A welfare dashboard publicly displays identifiable health details to demonstrate transparency. Which competing ethical duty has been breached? What response best closes the accountability gap?
 
-A. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-B. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-C. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-D. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-**Answer:** C
-**Explanation:** **Digital accountability includes privacy and explainability** is the controlling principle. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish identifiable records to demonstrate openness in the a welfare dashboard publicly displays identifiable health details to dem situation
+B. Treat biometric failure as conclusive proof of ineligibility in the a welfare dashboard publicly displays identifiable health details to dem situation
+C. Minimise exposure of identifiable health information
+D. Give the model final authority because it processes more claims in the a welfare dashboard publicly displays identifiable health details to dem situation
 
 ---
 
 #### MCQ 40
 
-A vendor model rejects applications without intelligible reasons or departmental review. Which accountability requirements are absent? Which source-grounded ethical principle most precisely explains the case?
+A vendor model rejects applications without intelligible reasons or departmental review. Which accountability requirements are absent? What response best closes the accountability gap?
 
-A. Online administration must address connectivity, language, disability and literacy barriers through assisted access, workable offline alternatives and equal treatment of comparable claimants.
-
-B. Biometric or automated failure should not become final deprivation; accountable design requires a human decision-maker, speaking reasons, correction of records and a timely offline remedy.
-
-C. Digital records, time stamps, workflow visibility and remote service channels can reduce delay, record tampering and opaque discretion when responsibilities and review duties are clearly assigned.
-
-D. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure.
-
-**Answer:** D
-**Explanation:** **Digital accountability includes privacy and explainability** is the controlling principle. Data collection and automated decisions require necessity, security, intelligible criteria, audit logs and review; administrative efficiency does not justify opaque profiling or excessive disclosure. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish identifiable records to demonstrate openness in the a vendor model rejects applications without intelligible reasons or depa situation
+B. Treat biometric failure as conclusive proof of ineligibility in the a vendor model rejects applications without intelligible reasons or depa situation
+C. Give the model final authority because it processes more claims in the a vendor model rejects applications without intelligible reasons or depa situation
+D. Demand intelligible reasons and accountable departmental review
 
 ---
 
 #### MCQ 41
 
-A district finds payments without visible work and immediately suspends all village employment. Which evidence-based restoration step should precede indiscriminate closure? Which source-grounded ethical principle most precisely explains the case?
+A district finds payments without visible work and immediately suspends all village employment. Which evidence-based restoration step should precede indiscriminate closure? What response best closes the accountability gap?
 
-A. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-B. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-C. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-D. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-**Answer:** A
-**Explanation:** **MGNREGA restoration begins with record reconciliation** is the controlling principle. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Verify works and protect genuine employment before targeted action
+B. Suspend all genuine workers while a suspected payment is checked in the a district finds payments without visible work and immediately suspends  situation
+C. Order universal recovery without individual hearing in the a district finds payments without visible work and immediately suspends  situation
+D. Treat absent records as proof that every worksite is fictitious in the a district finds payments without visible work and immediately suspends  situation
 
 ---
 
 #### MCQ 42
 
-Teams compare demand registers, rolls, bank credits and assets work by work. Which accountability method is being used? Which source-grounded ethical principle most precisely explains the case?
+Teams compare demand registers, rolls, bank credits and assets work by work. Which accountability method is being used? What response best closes the accountability gap?
 
-A. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-B. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-C. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-D. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-**Answer:** B
-**Explanation:** **MGNREGA restoration begins with record reconciliation** is the controlling principle. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Suspend all genuine workers while a suspected payment is checked in the teams compare demand registers, rolls, bank credits and assets work by w situation
+B. Triangulate demand, rolls, bank credit and actual work evidence
+C. Order universal recovery without individual hearing in the teams compare demand registers, rolls, bank credits and assets work by w situation
+D. Treat absent records as proof that every worksite is fictitious in the teams compare demand registers, rolls, bank credits and assets work by w situation
 
 ---
 
 #### MCQ 43
 
-An administrator orders recovery from every field worker before verifying roles or giving a hearing. Which accountability standard is violated? Which source-grounded ethical principle most precisely explains the case?
+An administrator orders recovery from every field worker before verifying roles or giving a hearing. Which accountability standard is violated? What response best closes the accountability gap?
 
-A. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-B. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-C. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-D. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-**Answer:** C
-**Explanation:** **Recovery and discipline must follow evidence and due process** is the controlling principle. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Suspend all genuine workers while a suspected payment is checked in the an administrator orders recovery from every field worker before verifyin situation
+B. Order universal recovery without individual hearing in the an administrator orders recovery from every field worker before verifyin situation
+C. Give individual notice and role-based fact-finding before recovery
+D. Treat absent records as proof that every worksite is fictitious in the an administrator orders recovery from every field worker before verifyin situation
 
 ---
 
 #### MCQ 44
 
-Verified ghost payments are mapped to approving roles and referred through lawful recovery and investigation channels. Which corrective principle is applied? Which source-grounded ethical principle most precisely explains the case?
+Verified ghost payments are mapped to approving roles and referred through lawful recovery and investigation channels. Which corrective principle is applied? What response best closes the accountability gap?
 
-A. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-B. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-C. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-D. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-**Answer:** D
-**Explanation:** **Recovery and discipline must follow evidence and due process** is the controlling principle. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Suspend all genuine workers while a suspected payment is checked in the verified ghost payments are mapped to approving roles and referred throu situation
+B. Order universal recovery without individual hearing in the verified ghost payments are mapped to approving roles and referred throu situation
+C. Treat absent records as proof that every worksite is fictitious in the verified ghost payments are mapped to approving roles and referred throu situation
+D. Map verified ghost payments to decision-makers and lawful remedies
 
 ---
 
 #### MCQ 45
 
-Officials arrest an intermediary but leave genuine workers unpaid and records corrupted. Which remedial dimension remains incomplete? Which source-grounded ethical principle most precisely explains the case?
+Officials arrest an intermediary but leave genuine workers unpaid and records corrupted. Which remedial dimension remains incomplete? What response best closes the accountability gap?
 
-A. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-B. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-C. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-D. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-**Answer:** A
-**Explanation:** **Accountability must restore service, not only punish** is the controlling principle. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Pay genuine workers and repair records alongside pursuing wrongdoers
+B. Reward high upload counts without testing wage payment in the officials arrest an intermediary but leave genuine workers unpaid and re situation
+C. Pursue offenders but leave valid arrears unpaid in the officials arrest an intermediary but leave genuine workers unpaid and re situation
+D. Replace independent field inspection with automated reports in the officials arrest an intermediary but leave genuine workers unpaid and re situation
 
 ---
 
 #### MCQ 46
 
-A district pays verified arrears, corrects records and redesigns controls while pursuing culpable actors. Which balanced approach is shown? Which source-grounded ethical principle most precisely explains the case?
+A district pays verified arrears, corrects records and redesigns controls while pursuing culpable actors. Which balanced approach is shown? What response best closes the accountability gap?
 
-A. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-B. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-C. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-D. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-**Answer:** B
-**Explanation:** **Accountability must restore service, not only punish** is the controlling principle. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Reward high upload counts without testing wage payment in the a district pays verified arrears, corrects records and redesigns control situation
+B. Join verified arrears, improved controls and proportionate proceedings
+C. Pursue offenders but leave valid arrears unpaid in the a district pays verified arrears, corrects records and redesigns control situation
+D. Replace independent field inspection with automated reports in the a district pays verified arrears, corrects records and redesigns control situation
 
 ---
 
 #### MCQ 47
 
-A district declares a scheme ethically successful solely because every worksite uploads mobile attendance. Which inference is unjustified? Which source-grounded ethical principle most precisely explains the case?
+A district declares a scheme ethically successful solely because every worksite uploads mobile attendance. Which inference is unjustified? What response best closes the accountability gap?
 
-A. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
-
-B. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
-
-C. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
-
-D. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
-
-**Answer:** C
-**Explanation:** **Monitoring technology does not prove outcome quality** is the controlling principle. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Reward high upload counts without testing wage payment in the a district declares a scheme ethically successful solely because every w situation
+B. Pursue offenders but leave valid arrears unpaid in the a district declares a scheme ethically successful solely because every w situation
+C. Test inclusion, genuine work and wage outcomes beyond upload rates
+D. Replace independent field inspection with automated reports in the a district declares a scheme ethically successful solely because every w situation
 
 ---
 
 #### MCQ 48
 
-Officials combine digital monitoring with field verification, social audit and grievance correction. Which qualified use of technology is defensible? Which source-grounded ethical principle most precisely explains the case?
+Officials combine digital monitoring with field verification, social audit and grievance correction. Which qualified use of technology is defensible? What response best closes the accountability gap?
 
-A. Where reconciliation supports wrongdoing, authorities should secure records, hear affected persons and initiate proportionate recovery, disciplinary or criminal referral under competent procedures.
+A. Reward high upload counts without testing wage payment in the officials combine digital monitoring with field verification, social aud situation
+B. Pursue offenders but leave valid arrears unpaid in the officials combine digital monitoring with field verification, social aud situation
+C. Replace independent field inspection with automated reports in the officials combine digital monitoring with field verification, social aud situation
+D. Combine digital monitoring with field checks, social audit and remedy
 
-B. Ethical correction includes unpaid wages, accurate job cards, valid work demand, grievance closure and improved process, alongside responsibility-fixing and deterrent action.
 
-C. Restoring scheme integrity requires reconciling job cards, employment demand, muster rolls, attendance, wage payments, technical sanctions and physical assets before fixing responsibility.
 
-D. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy.
+---
 
-**Answer:** D
-**Explanation:** **Monitoring technology does not prove outcome quality** is the controlling principle. Biometric authentication, mobile monitoring, dashboards and public disclosure can strengthen traceability, yet their presence does not by itself prove fairness, work quality, correct payment or effective remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+#### MCQ 49
+
+A professor has read a thesis and independently written an evaluation. The institution permits AI-assisted copy-editing with disclosure. Which use best preserves accountability?
+
+A. Disclose AI language polishing; independently defend every evaluative judgment
+B. Ask AI to assign the grade and defend its answer as the examiner’s
+C. Ask AI to write the report, then alter a few adjectives before signing
+D. Avoid all AI assistance, even the permitted language correction
+
+---
+
+#### MCQ 50
+
+A university appoints a scholar as external examiner, but an AI model drafts the analytical report and the scholar changes two sentences. Which diagnosis is strongest?
+
+A. The scholar has delegated only a clerical task because she signed
+B. The core evaluative duty was delegated; editing does not supply independently authored reasons
+C. The AI becomes the answerable actor if the university publishes its name
+D. The student loses an appeal only if the final grade is objectively wrong
+
+---
+
+#### MCQ 51
+
+A welfare algorithm denies a payment. Designer blames the district officer, while the officer blames the vendor; an assistant is disciplined for data entry. What reform targets the failure?
+
+A. Sanction the assistant alone since someone must be accountable
+B. Treat an automated explanation as proof of the vendor’s moral agency
+C. Name the adopting officer and vendor duties, log reasons, allow appeal and review upstream design
+D. Eliminate the appeal since the model can repeat its output
+
+---
+
+#### MCQ 52
+
+A department says model-generated reasons suffice for a rejected application because they sound persuasive. Which challenge is decisive?
+
+A. The reasons are invalid only if their grammar is incorrect
+B. The model is legally answerable to the appellate authority
+C. Public disclosure of the software name automatically cures bias
+D. Fluent text may be post-hoc; the responsible officer must justify the actual decision and remedy errors
+
+### Separate answer key — four-option explanations
+
+#### MCQ 1 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Publish additional metrics while leaving review authority unnamed in the a mission director uploads expenditure data but no authority reviews ano situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Assign only the data-entry employee to answer for the entire process in the a mission director uploads expenditure data but no authority reviews ano situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Wait for a criminal conviction before allowing any correction in the a mission director uploads expenditure data but no authority reviews ano situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Add a forum empowered to assess, remedy and require an explanation is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 2 — B
+
+- **A:** Incorrect: “Publish additional metrics while leaving review authority unnamed in the a district officer must explain a decision against published standards b situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Assign only the data-entry employee to answer for the entire process in the a district officer must explain a decision against published standards b situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Wait for a criminal conviction before allowing any correction in the a district officer must explain a decision against published standards b situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Identify the actor, standard, reviewing forum and power to correct or compensate is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 3 — C
+
+- **A:** Incorrect: “Publish additional metrics while leaving review authority unnamed in the a block officer is assigned responsibility for wage payments but no one  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Assign only the data-entry employee to answer for the entire process in the a block officer is assigned responsibility for wage payments but no one  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Wait for a criminal conviction before allowing any correction in the a block officer is assigned responsibility for wage payments but no one  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Assign an answerability forum able to demand reasons and remedy delay is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 4 — D
+
+- **A:** Incorrect: “Publish additional metrics while leaving review authority unnamed in the a secretary argues that a subordinate alone is accountable because the s situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Assign only the data-entry employee to answer for the entire process in the a secretary argues that a subordinate alone is accountable because the s situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Wait for a criminal conviction before allowing any correction in the a secretary argues that a subordinate alone is accountable because the s situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Retain secretary-level responsibility for approving the faulty process is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 5 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Use sanctions alone after damage is irreversible in the a procurement platform requires prior conflict declarations and later pe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Treat a transparent dashboard as a complete remedy in the a procurement platform requires prior conflict declarations and later pe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Assign review to a body unable to change the outcome in the a procurement platform requires prior conflict declarations and later pe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Combine prior conflict controls with later audit and appeal is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 6 — B
+
+- **A:** Incorrect: “Use sanctions alone after damage is irreversible in the a department treats accountability solely as punishment after loss has o situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Treat a transparent dashboard as a complete remedy in the a department treats accountability solely as punishment after loss has o situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Assign review to a body unable to change the outcome in the a department treats accountability solely as punishment after loss has o situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Add preventive standards and corrective remedies to after-the-fact sanctions is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 7 — C
+
+- **A:** Incorrect: “Use sanctions alone after damage is irreversible in the a state publishes real-time welfare exclusions but provides no human rev situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat a transparent dashboard as a complete remedy in the a state publishes real-time welfare exclusions but provides no human rev situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Assign review to a body unable to change the outcome in the a state publishes real-time welfare exclusions but provides no human rev situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Provide a human decision-maker, reasons, appeal and actual correction is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 8 — D
+
+- **A:** Incorrect: “Use sanctions alone after damage is irreversible in the a dashboard flags delayed pensions and names the reviewing officer, appe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat a transparent dashboard as a complete remedy in the a dashboard flags delayed pensions and names the reviewing officer, appe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Assign review to a body unable to change the outcome in the a dashboard flags delayed pensions and names the reviewing officer, appe situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Assign a named reviewer, time limit and effective appeal is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 9 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat every vigilance complaint as an automatic prosecution in the a ministry asks its chief vigilance officer to examine repeated tender c situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Give the CVC the powers of a criminal trial court in the a ministry asks its chief vigilance officer to examine repeated tender c situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Replace the investigation with a dashboard anomaly alert in the a ministry asks its chief vigilance officer to examine repeated tender c situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Use internal CVO review for vigilance and preventive controls is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 10 — B
+
+- **A:** Incorrect: “Treat every vigilance complaint as an automatic prosecution in the an officer assumes every vigilance concern must begin as a criminal pros situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Give the CVC the powers of a criminal trial court in the an officer assumes every vigilance concern must begin as a criminal pros situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Replace the investigation with a dashboard anomaly alert in the an officer assumes every vigilance concern must begin as a criminal pros situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Separate departmental vigilance from a criminal investigation is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 11 — C
+
+- **A:** Incorrect: “Treat every vigilance complaint as an automatic prosecution in the a department sends a vigilance matter to the cvc and tells citizens that situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Give the CVC the powers of a criminal trial court in the a department sends a vigilance matter to the cvc and tells citizens that situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Replace the investigation with a dashboard anomaly alert in the a department sends a vigilance matter to the cvc and tells citizens that situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Correct the claim: the CVC is not itself a trial prosecutor is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 12 — D
+
+- **A:** Incorrect: “Treat every vigilance complaint as an automatic prosecution in the the cvc reviews vigilance administration and exercises its statutory rol situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Give the CVC the powers of a criminal trial court in the the cvc reviews vigilance administration and exercises its statutory rol situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Replace the investigation with a dashboard anomaly alert in the the cvc reviews vigilance administration and exercises its statutory rol situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Distinguish CVC vigilance oversight from criminal prosecution is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 13 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat internal vigilance as equivalent to independent audit in the a ministry asks whether suspected bribery requires criminal investigatio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Give the same actor authority to approve and finally judge the claim in the a ministry asks whether suspected bribery requires criminal investigatio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Use a criminal case as a substitute for corrective administrative action in the a ministry asks whether suspected bribery requires criminal investigatio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Refer a suspected offence to the competent investigative agency is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 14 — B
+
+- **A:** Incorrect: “Treat internal vigilance as equivalent to independent audit in the a disciplinary authority waits for a vigilance body to perform every cri situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Give the same actor authority to approve and finally judge the claim in the a disciplinary authority waits for a vigilance body to perform every cri situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Use a criminal case as a substitute for corrective administrative action in the a disciplinary authority waits for a vigilance body to perform every cri situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Preserve separate departmental, investigative and prosecutorial roles is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 15 — C
+
+- **A:** Incorrect: “Treat internal vigilance as equivalent to independent audit in the a department claims its internal dashboard makes independent constitutio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Give the same actor authority to approve and finally judge the claim in the a department claims its internal dashboard makes independent constitutio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Use a criminal case as a substitute for corrective administrative action in the a department claims its internal dashboard makes independent constitutio situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Retain independent CAG and legislative scrutiny despite dashboards is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 16 — D
+
+- **A:** Incorrect: “Treat internal vigilance as equivalent to independent audit in the an audit report is placed before the legislature for committee examinati situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Give the same actor authority to approve and finally judge the claim in the an audit report is placed before the legislature for committee examinati situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Use a criminal case as a substitute for corrective administrative action in the an audit report is placed before the legislature for committee examinati situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Use CAG-linked legislative scrutiny and executive follow-up is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 17 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat political neutrality as permission to withhold lawful services in the a secretary gives frank recorded advice, then implements a lawful cabine situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Treat any ministerial request as sufficient authority to bypass criteria in the a secretary gives frank recorded advice, then implements a lawful cabine situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Give informal advice only so no one owns the decision in the a secretary gives frank recorded advice, then implements a lawful cabine situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Join candid neutral advice to execution of lawful elected policy is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 18 — B
+
+- **A:** Incorrect: “Treat political neutrality as permission to withhold lawful services in the a minister directs a transfer for partisan retaliation and the official  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Treat any ministerial request as sufficient authority to bypass criteria in the a minister directs a transfer for partisan retaliation and the official  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Give informal advice only so no one owns the decision in the a minister directs a transfer for partisan retaliation and the official  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Record objection and resist partisan retaliation through lawful channels is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 19 — C
+
+- **A:** Incorrect: “Treat political neutrality as permission to withhold lawful services in the an officer invokes neutrality to delay a lawful elected-government welfa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat any ministerial request as sufficient authority to bypass criteria in the an officer invokes neutrality to delay a lawful elected-government welfa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Give informal advice only so no one owns the decision in the an officer invokes neutrality to delay a lawful elected-government welfa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Implement the lawful elected decision without partisan delay is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 20 — D
+
+- **A:** Incorrect: “Treat political neutrality as permission to withhold lawful services in the a superior demands selective benefits for supporters, and the field offi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat any ministerial request as sufficient authority to bypass criteria in the a superior demands selective benefits for supporters, and the field offi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Give informal advice only so no one owns the decision in the a superior demands selective benefits for supporters, and the field offi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Seek written direction and review rather than selective benefits is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 21 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat an internal flag as proof of individual criminal guilt in the a treasury system flags duplicate payments before release while later ca situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Discontinue later audit because preventive software was installed in the a treasury system flags duplicate payments before release while later ca situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Share accountability among offices without a named final decision-maker in the a treasury system flags duplicate payments before release while later ca situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Join real-time preventive controls with independent later CAG audit is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 22 — B
+
+- **A:** Incorrect: “Treat an internal flag as proof of individual criminal guilt in the a department argues that an internal real-time alert conclusively settle situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Discontinue later audit because preventive software was installed in the a department argues that an internal real-time alert conclusively settle situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Share accountability among offices without a named final decision-maker in the a department argues that an internal real-time alert conclusively settle situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Preserve external examination and correction after internal alerts is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 23 — C
+
+- **A:** Incorrect: “Treat an internal flag as proof of individual criminal guilt in the five offices refer a pensioner to one another because no process assigns situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Discontinue later audit because preventive software was installed in the five offices refer a pensioner to one another because no process assigns situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Share accountability among offices without a named final decision-maker in the five offices refer a pensioner to one another because no process assigns situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Name the final answerable officer and stop referral loops is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 24 — D
+
+- **A:** Incorrect: “Treat an internal flag as proof of individual criminal guilt in the a scheme publishes a responsibility matrix, escalation deadline and fina situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Discontinue later audit because preventive software was installed in the a scheme publishes a responsibility matrix, escalation deadline and fina situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Share accountability among offices without a named final decision-maker in the a scheme publishes a responsibility matrix, escalation deadline and fina situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Use assigned decisions, escalation limits and independent appeal is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 25 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Let the Panchayat audit its own books behind closed doors in the a gram panchayat verifies its own muster rolls privately and announces t situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Stop at disclosure without worker hearing or independent verification in the a gram panchayat verifies its own muster rolls privately and announces t situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Archive audit findings without action on unpaid claimants in the a gram panchayat verifies its own muster rolls privately and announces t situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Bring independent verification, worker access and public hearing is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 26 — B
+
+- **A:** Incorrect: “Let the Panchayat audit its own books behind closed doors in the workers compare disclosed muster rolls with attendance and physical work situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Stop at disclosure without worker hearing or independent verification in the workers compare disclosed muster rolls with attendance and physical work situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Archive audit findings without action on unpaid claimants in the workers compare disclosed muster rolls with attendance and physical work situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Verify rolls with workers and inspect work before a Gram Sabha forum is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 27 — C
+
+- **A:** Incorrect: “Let the Panchayat audit its own books behind closed doors in the a public hearing establishes unpaid wages, but the report is archived wi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Stop at disclosure without worker hearing or independent verification in the a public hearing establishes unpaid wages, but the report is archived wi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Archive audit findings without action on unpaid claimants in the a public hearing establishes unpaid wages, but the report is archived wi situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Close the social-audit loop with wage correction and action taken is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 28 — D
+
+- **A:** Incorrect: “Let the Panchayat audit its own books behind closed doors in the an independent unit protects witnesses, publishes follow-up and restores situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Stop at disclosure without worker hearing or independent verification in the an independent unit protects witnesses, publishes follow-up and restores situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Archive audit findings without action on unpaid claimants in the an independent unit protects witnesses, publishes follow-up and restores situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Protect witnesses and execute published follow-up on unpaid wages is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 29 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat collective trust as a substitute for records and independent review in the workers from different hamlets jointly verify scheme records and support situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Ignore intimidated witnesses because cohesion is high in the workers from different hamlets jointly verify scheme records and support situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Treat every close-knit network as evidence that complaints are false in the workers from different hamlets jointly verify scheme records and support situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Use cross-hamlet trust and mutual support for worker testimony is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 30 — B
+
+- **A:** Incorrect: “Treat collective trust as a substitute for records and independent review in the a grievance forum fails because communities distrust one another and wit situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Ignore intimidated witnesses because cohesion is high in the a grievance forum fails because communities distrust one another and wit situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Treat every close-knit network as evidence that complaints are false in the a grievance forum fails because communities distrust one another and wit situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Rebuild trust and protect witnesses so grievances can be heard is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 31 — C
+
+- **A:** Incorrect: “Treat collective trust as a substitute for records and independent review in the a dominant local network pressures members not to testify against a rela situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Ignore intimidated witnesses because cohesion is high in the a dominant local network pressures members not to testify against a rela situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Treat every close-knit network as evidence that complaints are false in the a dominant local network pressures members not to testify against a rela situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Protect outsiders and witnesses from exclusionary local loyalties is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 32 — D
+
+- **A:** Incorrect: “Treat collective trust as a substitute for records and independent review in the an audit team assumes community cohesion always guarantees honest monito situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Ignore intimidated witnesses because cohesion is high in the an audit team assumes community cohesion always guarantees honest monito situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Treat every close-knit network as evidence that complaints are false in the an audit team assumes community cohesion always guarantees honest monito situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Check for capture and exclusion even where community ties are strong is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 33 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Treat digital time stamps as proof that all rejections are fair in the a benefit portal time-stamps every decision, identifies the deciding off situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Exclude anyone unable to file through a smartphone in the a benefit portal time-stamps every decision, identifies the deciding off situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Let the vendor alone determine appeals to its algorithm in the a benefit portal time-stamps every decision, identifies the deciding off situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Use traceable time-stamped decisions with named review and appeal is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 34 — B
+
+- **A:** Incorrect: “Treat digital time stamps as proof that all rejections are fair in the a department digitises files but leaves exception review and correction  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Exclude anyone unable to file through a smartphone in the a department digitises files but leaves exception review and correction  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Let the vendor alone determine appeals to its algorithm in the a department digitises files but leaves exception review and correction  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Assign ownership of exception review, correction and remedy is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 35 — C
+
+- **A:** Incorrect: “Treat digital time stamps as proof that all rejections are fair in the elderly pensioners lose benefits because the only filing channel require situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Exclude anyone unable to file through a smartphone in the elderly pensioners lose benefits because the only filing channel require situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Let the vendor alone determine appeals to its algorithm in the elderly pensioners lose benefits because the only filing channel require situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Provide assisted offline, accessible and language-appropriate filing is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 36 — D
+
+- **A:** Incorrect: “Treat digital time stamps as proof that all rejections are fair in the a district offers village facilitation, paper fallback and disability su situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Exclude anyone unable to file through a smartphone in the a district offers village facilitation, paper fallback and disability su situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Let the vendor alone determine appeals to its algorithm in the a district offers village facilitation, paper fallback and disability su situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Offer paper fallback, village facilitation and disability support is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 37 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Publish identifiable records to demonstrate openness in the a worker's attendance is rejected after repeated biometric failure and n situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Treat biometric failure as conclusive proof of ineligibility in the a worker's attendance is rejected after repeated biometric failure and n situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Give the model final authority because it processes more claims in the a worker's attendance is rejected after repeated biometric failure and n situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Give a human override and alternative evidence to biometric failures is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 38 — B
+
+- **A:** Incorrect: “Publish identifiable records to demonstrate openness in the an officer verifies alternate evidence, records reasons and corrects an  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Treat biometric failure as conclusive proof of ineligibility in the an officer verifies alternate evidence, records reasons and corrects an  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Give the model final authority because it processes more claims in the an officer verifies alternate evidence, records reasons and corrects an  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Correct automated rejection after verification and recorded reasons is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 39 — C
+
+- **A:** Incorrect: “Publish identifiable records to demonstrate openness in the a welfare dashboard publicly displays identifiable health details to dem situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat biometric failure as conclusive proof of ineligibility in the a welfare dashboard publicly displays identifiable health details to dem situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Give the model final authority because it processes more claims in the a welfare dashboard publicly displays identifiable health details to dem situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Minimise exposure of identifiable health information is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 40 — D
+
+- **A:** Incorrect: “Publish identifiable records to demonstrate openness in the a vendor model rejects applications without intelligible reasons or depa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Treat biometric failure as conclusive proof of ineligibility in the a vendor model rejects applications without intelligible reasons or depa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Give the model final authority because it processes more claims in the a vendor model rejects applications without intelligible reasons or depa situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Demand intelligible reasons and accountable departmental review is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 41 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Suspend all genuine workers while a suspected payment is checked in the a district finds payments without visible work and immediately suspends  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Order universal recovery without individual hearing in the a district finds payments without visible work and immediately suspends  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Treat absent records as proof that every worksite is fictitious in the a district finds payments without visible work and immediately suspends  situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Verify works and protect genuine employment before targeted action is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 42 — B
+
+- **A:** Incorrect: “Suspend all genuine workers while a suspected payment is checked in the teams compare demand registers, rolls, bank credits and assets work by w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Order universal recovery without individual hearing in the teams compare demand registers, rolls, bank credits and assets work by w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Treat absent records as proof that every worksite is fictitious in the teams compare demand registers, rolls, bank credits and assets work by w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Triangulate demand, rolls, bank credit and actual work evidence is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 43 — C
+
+- **A:** Incorrect: “Suspend all genuine workers while a suspected payment is checked in the an administrator orders recovery from every field worker before verifyin situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Order universal recovery without individual hearing in the an administrator orders recovery from every field worker before verifyin situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Treat absent records as proof that every worksite is fictitious in the an administrator orders recovery from every field worker before verifyin situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Give individual notice and role-based fact-finding before recovery is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 44 — D
+
+- **A:** Incorrect: “Suspend all genuine workers while a suspected payment is checked in the verified ghost payments are mapped to approving roles and referred throu situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Order universal recovery without individual hearing in the verified ghost payments are mapped to approving roles and referred throu situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Treat absent records as proof that every worksite is fictitious in the verified ghost payments are mapped to approving roles and referred throu situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Map verified ghost payments to decision-makers and lawful remedies is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 45 — A
+
+- **A:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **B:** Incorrect: “Reward high upload counts without testing wage payment in the officials arrest an intermediary but leave genuine workers unpaid and re situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Pursue offenders but leave valid arrears unpaid in the officials arrest an intermediary but leave genuine workers unpaid and re situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Replace independent field inspection with automated reports in the officials arrest an intermediary but leave genuine workers unpaid and re situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Pay genuine workers and repair records alongside pursuing wrongdoers is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 46 — B
+
+- **A:** Incorrect: “Reward high upload counts without testing wage payment in the a district pays verified arrears, corrects records and redesigns control situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **C:** Incorrect: “Pursue offenders but leave valid arrears unpaid in the a district pays verified arrears, corrects records and redesigns control situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Incorrect: “Replace independent field inspection with automated reports in the a district pays verified arrears, corrects records and redesigns control situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Join verified arrears, improved controls and proportionate proceedings is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 47 — C
+
+- **A:** Incorrect: “Reward high upload counts without testing wage payment in the a district declares a scheme ethically successful solely because every w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Pursue offenders but leave valid arrears unpaid in the a district declares a scheme ethically successful solely because every w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+- **D:** Incorrect: “Replace independent field inspection with automated reports in the a district declares a scheme ethically successful solely because every w situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+
+**Examiner trap:** Test inclusion, genuine work and wage outcomes beyond upload rates is not interchangeable with data visibility or undifferentiated punishment.
+
+---
+
+#### MCQ 48 — D
+
+- **A:** Incorrect: “Reward high upload counts without testing wage payment in the officials combine digital monitoring with field verification, social aud situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **B:** Incorrect: “Pursue offenders but leave valid arrears unpaid in the officials combine digital monitoring with field verification, social aud situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **C:** Incorrect: “Replace independent field inspection with automated reports in the officials combine digital monitoring with field verification, social aud situation” cannot discharge the needed actor–standard–forum–reason–judgment–remedy relationship in this case.
+- **D:** Correct: names a decision-owner or independent forum and makes prevention, review or remedy operational.
+
+**Examiner trap:** Combine digital monitoring with field checks, social audit and remedy is not interchangeable with data visibility or undifferentiated punishment.
+
+
+
+---
+
+#### MCQ 49 — A
+
+- **A:** Correct: The examiner originates and can defend the substantive reasoning; a permitted, disclosed editorial aid is independently verifiable.
+- **B:** Incorrect: ask ai to assign the grade and defend its answer as the examiner’s fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **C:** Incorrect: ask ai to write the report, then alter a few adjectives before signing fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **D:** Incorrect: avoid all ai assistance, even the permitted language correction fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+
+**Trap:** A signature, fluent output or nominal human presence is not independently exercised and reviewable judgment.
+
+---
+
+#### MCQ 50 — B
+
+- **A:** Incorrect: the scholar has delegated only a clerical task because she signed fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **B:** Correct: Evaluating a thesis is the examiner’s non-delegable role; superficial edits produce no independently defensible reasons.
+- **C:** Incorrect: the ai becomes the answerable actor if the university publishes its name fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **D:** Incorrect: the student loses an appeal only if the final grade is objectively wrong fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+
+**Trap:** A signature, fluent output or nominal human presence is not independently exercised and reviewable judgment.
+
+---
+
+#### MCQ 51 — C
+
+- **A:** Incorrect: sanction the assistant alone since someone must be accountable fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **B:** Incorrect: treat an automated explanation as proof of the vendor’s moral agency fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **C:** Correct: The many-hands diffusion and moral crumple zone require assigned human responsibility, transparent design obligations and an effective correction route.
+- **D:** Incorrect: eliminate the appeal since the model can repeat its output fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+
+**Trap:** A signature, fluent output or nominal human presence is not independently exercised and reviewable judgment.
+
+---
+
+#### MCQ 52 — D
+
+- **A:** Incorrect: the reasons are invalid only if their grammar is incorrect fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **B:** Incorrect: the model is legally answerable to the appellate authority fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **C:** Incorrect: public disclosure of the software name automatically cures bias fails to retain an answerable human decision-maker, an independent reason or an effective remedy in the stated circumstances.
+- **D:** Correct: Plausible output is not proof that reasons actually governed the decision; accountable officials must explain and correct.
+
+**Trap:** A signature, fluent output or nominal human presence is not independently exercised and reviewable judgment.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -844,26 +1178,8 @@ Openness is qualified by lawful confidentiality, while leadership requires senio
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three of these…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three of these with suitable examples. (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The ARC reproduces the Nolan principles of public life: selflessness, integrity, objectivity, accountability, openness, honesty and leadership. They convert public power into a trust rather than a personal privilege. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three of these with suitable examples. (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): What are the basic principles of public life? Illustrate any three of these…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2019 — 20 marks
 
@@ -883,25 +1199,8 @@ Thus fair accountability protects both citizens and honest discretion. It asks a
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q8: Honesty and uprightness are the hallmarks of a civil servant. Civil servants…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2019 — 20 marks
 
@@ -921,25 +1220,8 @@ The ethical objective is responsive neutrality: democratic direction bounded by 
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q10: In a modern democratic polity, there is the concept of political executive and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10: In a modern democratic polity, there is the concept of political executive and permanent executive. Elected people's representatives form…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10: In a modern democratic polity, there is the concept of political executive and permanent executive. Elected people's representatives form…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q10: In a modern democratic polity, there is the concept of political executive and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2021 — 10 marks
 
@@ -957,25 +1239,8 @@ Thus the proposition is strongest as a demand for independent public verificatio
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2021 — 20 marks
 
@@ -995,25 +1260,8 @@ Ignoring the crack can cause death, structural failure, escalation of repair cos
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q9: An elevated corridor is being constructed to reduce traffic congestion in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q9: An elevated corridor is being constructed to reduce traffic congestion in the capital of a particular state. You have been selected as…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q9: An elevated corridor is being constructed to reduce traffic congestion in the capital of a particular state. You have been selected as…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q9: An elevated corridor is being constructed to reduce traffic congestion in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2022 — 10 marks
 
@@ -1031,25 +1279,8 @@ Therefore beneficiary-centred e-governance needs assisted and offline channels, 
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q4(a): What do you understand by the term 'good governance'? How far recent…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(a): What do you understand by the term 'good governance'? How far recent initiatives in terms of e-Governance steps taken by the State have…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(a): What do you understand by the term 'good governance'? How far recent initiatives in terms of e-Governance steps taken by the State have…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(a): What do you understand by the term 'good governance'? How far recent…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2022 — 10 marks
 
@@ -1067,25 +1298,8 @@ The response is hybrid and rights-sensitive: assisted access, meaningful offline
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional approvals in the administration and for teaching and learning in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional approvals in the administration and for teaching and learning in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2023 — 10 marks
 
@@ -1103,26 +1317,8 @@ The effect is not automatically positive. Bonding capital based on caste, kinshi
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **explain** requires a direct position on “GS-IV Q6(b): Explain the term social capital. How does it enhance good governance? (Answer…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(b): Explain the term social capital. How does it enhance good governance? (Answer in 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Social capital is the network of trust, reciprocity and shared norms that enables people to cooperate. Bridging capital connects different groups, while bonding capital strengthens ties within a group. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(b): Explain the term social capital. How does it enhance good governance? (Answer in 150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(b): Explain the term social capital. How does it enhance good governance? (Answer…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2025 — 10 marks
 
@@ -1140,25 +1336,8 @@ Dashboards alone are insufficient: data quality, field verification, human revie
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 20 marks
 
@@ -1180,25 +1359,24 @@ Finally, I would restore demand registration, accurate job cards, timely muster 
 
 ---
 
+#### Additional routed GS-IV demand — 2026 Q1(a), AI-assisted thesis evaluation
+
+**Question (paraphrase, not official wording):** A professor submits a Ph.D. assessment generated by AI with some modifications. Discuss accountability and integrity.
+
+**Source / ownership:** Canonical Basic 11, Section 2A, routes the 2026 Q1(a) demand primarily to Topic 13 and owns the six-element accountability analysis here. No unverified quotation, mark allocation or official answer key is claimed.
+
+**Model solution**
+
+The professor was selected to exercise scholarly judgment, not merely to sign a fluent report. Formatting, literature retrieval or language editing can assist if the examiner verifies the primary thesis and any tool use required to be disclosed is declared. Letting a model supply the substantive evaluation and then modifying it superficially replaces non-delegable judgment with review of a machine's conclusion. Candidates lose the qualified examiner's independent reasoning and a meaningful basis for appeal.
+
+Apply the six-element test: the professor remains the named actor; the university is the review forum; academic evaluation standards must be identifiable; reasons must reflect the professor's own reading; the forum can assess conduct; and a flawed assessment must be corrected, re-evaluated or remedied. A model cannot undertake that office-holder's duty or answer for its conclusions. The professor should independently read and assess the thesis, verify every material claim, document any permitted assistance, disclose its scope under institutional policy, and withdraw or redo the assessment if independent authorship cannot honestly be certified. Workload pressure warrants realistic deadlines or refusal of the assignment, not silent delegation. Even a plausible verdict cannot cure misrepresentation of who exercised judgment.
+
+**Why this earns marks:** Separates integrity (honest authorship) from accuracy, tests delegable tasks against non-delegable reasoning and supplies a named forum, reason, correction and capacity safeguard.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q11: Mahatma Gandhi National Rural Employment Guarantee Program, MGNREGA was earlier…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q11: Mahatma Gandhi National Rural Employment Guarantee Program, MGNREGA was earlier known as National Rural Employment Scheme, NREGA. It is an…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q11: Mahatma Gandhi National Rural Employment Guarantee Program, MGNREGA was earlier known as National Rural Employment Scheme, NREGA. It is an…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q11: Mahatma Gandhi National Rural Employment Guarantee Program, MGNREGA was earlier…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1214,25 +1392,8 @@ Accountability is not only retrospective punishment. Ex-ante standards, records 
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish responsibility from accountability and identify the elements of a complete…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish responsibility from accountability and identify the elements of a complete accountability relationship. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish responsibility from accountability and identify the elements of a complete accountability relationship. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish responsibility from accountability and identify the elements of a complete…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1248,25 +1409,8 @@ An accountable design assigns exception review, preserves audit logs, protects p
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why does dashboard visibility not by itself amount to accountability in digital governance?…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why does dashboard visibility not by itself amount to accountability in digital governance? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why does dashboard visibility not by itself amount to accountability in digital governance? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why does dashboard visibility not by itself amount to accountability in digital governance?…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1284,25 +1428,8 @@ Effective design routes the problem correctly: administrative weakness to depart
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the differentiated roles of departmental vigilance, CVOs, CVC, CBI and CAG in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain the differentiated roles of departmental vigilance, CVOs, CVC, CBI and CAG in India's accountability architecture. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain the differentiated roles of departmental vigilance, CVOs, CVC, CBI and CAG in India's accountability architecture. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain the differentiated roles of departmental vigilance, CVOs, CVC, CBI and CAG in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1318,25 +1445,8 @@ Social capital can help collective monitoring by building trust across groups, b
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “Social audit is more than public disclosure. Examine the institutional conditions required…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Social audit is more than public disclosure. Examine the institutional conditions required for it to secure ethical accountability. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Social audit is more than public disclosure. Examine the institutional conditions required for it to secure ethical accountability. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Social audit is more than public disclosure. Examine the institutional conditions required…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1356,25 +1466,8 @@ The verdict is hybrid accountability: biometric and dashboard tools may support 
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “A State welfare platform uses biometric authentication, mobile monitoring and real-time…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A State welfare platform uses biometric authentication, mobile monitoring and real-time dashboards, but vulnerable citizens report exclusion and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A State welfare platform uses biometric authentication, mobile monitoring and real-time dashboards, but vulnerable citizens report exclusion and…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A State welfare platform uses biometric authentication, mobile monitoring and real-time…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1393,22 +1486,3 @@ Third, restore reliable demand registration, accurate job cards, timely muster c
 The plan joins remedy, due process and deterrence. Accountability succeeds when genuine workers receive service, culpable actors face evidence-based consequence and the process itself is redesigned to prevent repetition.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “As district administrator, you discover MGNREGA payments to fictitious persons, incomplete…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “As district administrator, you discover MGNREGA payments to fictitious persons, incomplete muster rolls, unpaid genuine workers and assets that…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The plan joins remedy, due process and deterrence. Accountability succeeds when genuine workers receive service, culpable actors face evidence-based consequence and the process itself is redesigned to prevent repetition. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “As district administrator, you discover MGNREGA payments to fictitious persons, incomplete muster rolls, unpaid genuine workers and assets that…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “As district administrator, you discover MGNREGA payments to fictitious persons, incomplete…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

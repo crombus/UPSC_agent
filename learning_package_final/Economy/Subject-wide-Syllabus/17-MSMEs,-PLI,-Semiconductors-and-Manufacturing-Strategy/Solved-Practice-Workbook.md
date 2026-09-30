@@ -6,7 +6,7 @@ topic_key: economy-topic-17
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
+44 original questions. Attempt every question before consulting the separate key. A → B → C → D rotation applies to the complete set; later questions test missing-middle, startups, financing, additionality and chip-chain inference.
 
 ### MCQ 1
 
@@ -17,16 +17,6 @@ B. Micro: investment <= Rs 10 crore and turnover <= Rs 2.5 crore.
 C. Small: investment <= Rs 50 crore and turnover <= Rs 250 crore.
 D. Medium: only turnover is considered.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This exactly states both current micro ceilings under S.O. 1364(E). The option states: Micro: investment <= Rs 2.5 crore and turnover <= Rs 10 crore.
-- **B - Incorrect:** This reverses the distinct investment and turnover ceilings. The option states: Micro: investment <= Rs 10 crore and turnover <= Rs 2.5 crore.
-- **C - Incorrect:** These are superseded figures and not the current small limits. The option states: Small: investment <= Rs 50 crore and turnover <= Rs 250 crore.
-- **D - Incorrect:** The notified classification remains a two-limb composite test. The option states: Medium: only turnover is considered.
-
-**Examiner trap 1:** Do not reverse investment and turnover.
-
 ### MCQ 2
 
 An enterprise retains a size class when:
@@ -35,16 +25,6 @@ A. It satisfies either the investment or turnover ceiling.
 B. It satisfies both investment and turnover ceilings for that class.
 C. It chooses the criterion yielding the larger benefit.
 D. Its number of workers remains below a notified limit.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Either limb is insufficient under the composite rule. The option states: It satisfies either the investment or turnover ceiling.
-- **B - Correct:** Both notified ceilings must be satisfied simultaneously. The option states: It satisfies both investment and turnover ceilings for that class.
-- **C - Incorrect:** Enterprises cannot elect one classification limb. The option states: It chooses the criterion yielding the larger benefit.
-- **D - Incorrect:** Employment is not the current classification criterion. The option states: Its number of workers remains below a notified limit.
-
-**Examiner trap 2:** Composite means both, not either.
 
 ### MCQ 3
 
@@ -55,16 +35,6 @@ B. It is a product-quality certification.
 C. It provides an official registration identity but not assured finance or productivity.
 D. It replaces every tax and labour registration.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** A lender still appraises credit and scheme eligibility. The option states: It guarantees collateral-free credit.
-- **B - Incorrect:** ZED and product standards are separate from Udyam. The option states: It is a product-quality certification.
-- **C - Correct:** Registration reduces identity cost without guaranteeing outcomes. The option states: It provides an official registration identity but not assured finance or productivity.
-- **D - Incorrect:** Other statutory registrations retain their own legal purposes. The option states: It replaces every tax and labour registration.
-
-**Examiner trap 3:** Registration is a gateway, not an outcome.
-
 ### MCQ 4
 
 Economic Survey 2025-26's Udyam employment figure should be read as:
@@ -73,16 +43,6 @@ A. A verified census of permanent factory jobs.
 B. The number of workers added solely by Udyam.
 C. A current PLFS unemployment denominator.
 D. Employment reported by registered enterprises, dated to the portal extract.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Portal reporting is not a full employment census. The option states: A verified census of permanent factory jobs.
-- **B - Incorrect:** Causal additionality cannot be inferred from the stock. The option states: The number of workers added solely by Udyam.
-- **C - Incorrect:** PLFS and Udyam are different data systems. The option states: A current PLFS unemployment denominator.
-- **D - Correct:** The Survey footnote identifies reported Udyam employment and its date. The option states: Employment reported by registered enterprises, dated to the portal extract.
-
-**Examiner trap 4:** Keep administrative and survey data separate.
 
 ### MCQ 5
 
@@ -93,16 +53,6 @@ B. Ninety days.
 C. One hundred and eighty days.
 D. One financial year.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Section 15 caps the agreed period at forty-five days. The option states: Forty-five days.
-- **B - Incorrect:** Ninety days concerns the intended dispute-disposal period, not payment agreement. The option states: Ninety days.
-- **C - Incorrect:** One hundred and eighty days is not the statutory payment ceiling. The option states: One hundred and eighty days.
-- **D - Incorrect:** An annual accounting cycle cannot override the Act's limit. The option states: One financial year.
-
-**Examiner trap 5:** Payment period and dispute period are different.
-
 ### MCQ 6
 
 TReDS primarily facilitates:
@@ -111,16 +61,6 @@ A. Long-term equity investment in MSMEs.
 B. Discounting of MSME trade receivables through multiple financiers.
 C. Sovereign grants for plant purchase.
 D. Credit ratings for listed small companies.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Equity fundraising is outside the TReDS mechanism. The option states: Long-term equity investment in MSMEs.
-- **B - Correct:** The 2026 Directions define a digital factoring platform. The option states: Discounting of MSME trade receivables through multiple financiers.
-- **C - Incorrect:** TReDS is not a budget grant programme. The option states: Sovereign grants for plant purchase.
-- **D - Incorrect:** Platform operators do not act as rating agencies. The option states: Credit ratings for listed small companies.
-
-**Examiner trap 6:** TReDS finances receivables, not machinery.
 
 ### MCQ 7
 
@@ -131,16 +71,6 @@ B. A secured mortgage on the seller's factory.
 C. Without recourse to the MSME seller.
 D. A tax refund claim against government.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** TReDS does not accept public deposits. The option states: A deposit accepted by the platform.
-- **B - Incorrect:** A receivable assignment differs from a factory mortgage. The option states: A secured mortgage on the seller's factory.
-- **C - Correct:** Buyer default is not shifted back to the seller under the stated rule. The option states: Without recourse to the MSME seller.
-- **D - Incorrect:** Commercial invoices are not tax refund instruments. The option states: A tax refund claim against government.
-
-**Examiner trap 7:** Without recourse does not mean without risk.
-
 ### MCQ 8
 
 Factoring differs from an ordinary collateral loan because it involves:
@@ -149,16 +79,6 @@ A. Only a change in interest rate.
 B. Only a government guarantee.
 C. Only a credit score.
 D. Assignment of a trade receivable to the financier.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Pricing alone does not define factoring. The option states: Only a change in interest rate.
-- **B - Incorrect:** A guarantee may accompany finance but is not factoring's essence. The option states: Only a government guarantee.
-- **C - Incorrect:** A score does not transfer the payment claim. The option states: Only a credit score.
-- **D - Correct:** Assignment transfers the receivable claim and is recorded as required. The option states: Assignment of a trade receivable to the financier.
-
-**Examiner trap 8:** Follow ownership of the receivable.
 
 ### MCQ 9
 
@@ -169,16 +89,6 @@ B. A universal grant to every registered MSME.
 C. The guaranteed payout received by every borrower.
 D. A turnover ceiling for micro classification.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The facility ceiling applies from 1 April 2025 and is not an entitlement. The option states: The maximum eligible credit facility that can be covered, subject to scheme terms.
-- **B - Incorrect:** CGTMSE provides guarantees to lenders, not universal grants. The option states: A universal grant to every registered MSME.
-- **C - Incorrect:** Guarantee extent and amount in default determine risk coverage. The option states: The guaranteed payout received by every borrower.
-- **D - Incorrect:** MSME classification uses separate investment-turnover ceilings. The option states: A turnover ceiling for micro classification.
-
-**Examiner trap 9:** Covered credit is not guaranteed payout.
-
 ### MCQ 10
 
 The Central Public Procurement Policy's 25 per cent target applies to procurement from:
@@ -187,16 +97,6 @@ A. All companies below a stock-market threshold.
 B. Micro and small enterprises.
 C. Only medium enterprises.
 D. Only enterprises receiving PLI.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Listing status does not define the target group. The option states: All companies below a stock-market threshold.
-- **B - Correct:** The policy is explicitly for MSEs, with subtargets. The option states: Micro and small enterprises.
-- **C - Incorrect:** Medium enterprises are outside this specific target. The option states: Only medium enterprises.
-- **D - Incorrect:** PLI participation is not a procurement prerequisite. The option states: Only enterprises receiving PLI.
-
-**Examiner trap 10:** MSE is narrower than MSME.
 
 ### MCQ 11
 
@@ -207,16 +107,6 @@ B. An export tax.
 C. Common facility centres and cluster infrastructure.
 D. Semiconductor wafer subsidies only.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Cluster development does not cancel debt. The option states: Automatic debt waiver.
-- **B - Incorrect:** Tax instruments are outside its core design. The option states: An export tax.
-- **C - Correct:** It lowers shared fixed costs through common facilities and infrastructure. The option states: Common facility centres and cluster infrastructure.
-- **D - Incorrect:** The programme is cross-sectoral for qualifying MSE clusters. The option states: Semiconductor wafer subsidies only.
-
-**Examiner trap 11:** A cluster label does not prove utilisation.
-
 ### MCQ 12
 
 Under revised 2022 ZED guidelines, certification levels are:
@@ -225,16 +115,6 @@ A. One, Two and Three.
 B. Basic, Export and Global.
 C. Red, Amber and Green.
 D. Bronze, Silver and Gold.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Numerical levels are not the notified names. The option states: One, Two and Three.
-- **B - Incorrect:** Export status is not the level taxonomy. The option states: Basic, Export and Global.
-- **C - Incorrect:** Traffic-light colours are not the certification ladder. The option states: Red, Amber and Green.
-- **D - Correct:** Bronze, Silver and Gold form the graded scheme structure. The option states: Bronze, Silver and Gold.
-
-**Examiner trap 12:** ZED is process certification, not a warranty.
 
 ### MCQ 13
 
@@ -245,16 +125,6 @@ B. A permanent pandemic guarantee.
 C. A semiconductor fabrication subsidy.
 D. A mandatory bank lending ratio.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** RAMP uses Programme-for-Results architecture through FY2027. The option states: A World Bank-supported results programme for MSME institutional and firm support.
-- **B - Incorrect:** ECLGS was the emergency guarantee and its window closed. The option states: A permanent pandemic guarantee.
-- **C - Incorrect:** Semiconductor support is administered through ISM schemes. The option states: A semiconductor fabrication subsidy.
-- **D - Incorrect:** Priority-sector directions, not RAMP, set lending ratios. The option states: A mandatory bank lending ratio.
-
-**Examiner trap 13:** RAMP's target is not an outcome.
-
 ### MCQ 14
 
 The operational window of ECLGS ended on:
@@ -263,16 +133,6 @@ A. 31 March 2025.
 B. 31 March 2023.
 C. 30 June 2026.
 D. It has no sunset.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** This date confuses later MSME revisions with ECLGS. The option states: 31 March 2025.
-- **B - Correct:** Official material records operation through 31 March 2023. The option states: 31 March 2023.
-- **C - Incorrect:** The 2026 date belongs to other frameworks. The option states: 30 June 2026.
-- **D - Incorrect:** The emergency scheme was expressly time-bound. The option states: It has no sunset.
-
-**Examiner trap 14:** Do not list ECLGS as open in 2026.
 
 ### MCQ 15
 
@@ -283,16 +143,6 @@ B. Absence of all micro firms.
 C. Failure of productive firms to scale into a strong medium-firm segment.
 D. A shortage of currency notes.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Conglomerate concentration is a different issue. The option states: Too many listed conglomerates.
-- **B - Incorrect:** India has a large micro-enterprise base. The option states: Absence of all micro firms.
-- **C - Correct:** Weak graduation and scaling create the missing-middle pattern. The option states: Failure of productive firms to scale into a strong medium-firm segment.
-- **D - Incorrect:** Money supply has no direct relation to this label. The option states: A shortage of currency notes.
-
-**Examiner trap 15:** Graduation is a policy success, not a failure.
-
 ### MCQ 16
 
 A core feature of PLI is:
@@ -301,16 +151,6 @@ A. Guaranteed payment at announcement.
 B. An unconditional loan waiver.
 C. A uniform tariff across sectors.
 D. Support linked to notified eligible incremental production or sales.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Announcement precedes eligibility and verification. The option states: Guaranteed payment at announcement.
-- **B - Incorrect:** PLI does not cancel beneficiary debt. The option states: An unconditional loan waiver.
-- **C - Incorrect:** A tariff changes import prices and is a separate instrument. The option states: A uniform tariff across sectors.
-- **D - Correct:** The performance link defines the scheme family. The option states: Support linked to notified eligible incremental production or sales.
-
-**Examiner trap 16:** PLI is not payment for announced capacity.
 
 ### MCQ 17
 
@@ -321,16 +161,6 @@ B. Total market sales with no baseline.
 C. Only the beneficiary's land value.
 D. The number of government approvals.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** Incremental performance is calculated relative to a specified base. The option states: Eligible current performance compared with a notified base.
-- **B - Incorrect:** Without a base, incremental measurement is impossible. The option states: Total market sales with no baseline.
-- **C - Incorrect:** Land value is not the production-linked formula. The option states: Only the beneficiary's land value.
-- **D - Incorrect:** Approvals are an implementation stage, not output. The option states: The number of government approvals.
-
-**Examiner trap 17:** A formula baseline is not a causal counterfactual.
-
 ### MCQ 18
 
 Why must PLI guidelines be read sector by sector?
@@ -339,16 +169,6 @@ A. Every sector has identical products and cycles.
 B. Thresholds, rates, base years, tenure and eligible products vary.
 C. Only States administer every scheme.
 D. All incentives are paid before production.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Industrial technologies and failures differ substantially. The option states: Every sector has identical products and cycles.
-- **B - Correct:** Sectoral notifications control eligibility and payment. The option states: Thresholds, rates, base years, tenure and eligible products vary.
-- **C - Incorrect:** Line ministries and Union frameworks have major roles. The option states: Only States administer every scheme.
-- **D - Incorrect:** Verification generally precedes disbursement. The option states: All incentives are paid before production.
-
-**Examiner trap 18:** Never borrow one sector's rate for another.
 
 ### MCQ 19
 
@@ -359,16 +179,6 @@ B. Import tariff.
 C. Capital-expenditure subsidy.
 D. PLI in every sector by definition.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Procurement changes buyer choice. The option states: Procurement preference.
-- **B - Incorrect:** A tariff changes the import price. The option states: Import tariff.
-- **C - Correct:** A capex subsidy is tied to qualifying investment cost. The option states: Capital-expenditure subsidy.
-- **D - Incorrect:** PLI is ordinarily output/sales-linked though hybrid schemes exist elsewhere. The option states: PLI in every sector by definition.
-
-**Examiner trap 19:** Classify by the trigger, not the label.
-
 ### MCQ 20
 
 Which is among the official fourteen PLI sectors?
@@ -377,16 +187,6 @@ A. Municipal property taxation.
 B. Judicial administration.
 C. School midday meals.
 D. Speciality steel.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Local taxation is not a PLI manufacturing sector. The option states: Municipal property taxation.
-- **B - Incorrect:** Court administration is outside the sector list. The option states: Judicial administration.
-- **C - Incorrect:** Nutrition delivery is not one of the fourteen sectors. The option states: School midday meals.
-- **D - Correct:** Speciality steel is included in the official portfolio. The option states: Speciality steel.
-
-**Examiner trap 20:** PLI does not cover all economic activity.
 
 ### MCQ 21
 
@@ -397,16 +197,6 @@ B. Whether gross sales exceed the incentive amount only.
 C. Whether the beneficiary is large.
 D. Whether the scheme has a press release.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The causal counterfactual is the central test. The option states: Whether the supported activity exceeds a credible no-policy counterfactual.
-- **B - Incorrect:** A simple subtraction omits displacement and pre-planned investment. The option states: Whether gross sales exceed the incentive amount only.
-- **C - Incorrect:** Firm size cannot prove causal impact. The option states: Whether the beneficiary is large.
-- **D - Incorrect:** Announcement evidence does not establish an effect. The option states: Whether the scheme has a press release.
-
-**Examiner trap 21:** Observed growth is not automatically caused by PLI.
-
 ### MCQ 22
 
 Domestic value added is best approximated by:
@@ -415,16 +205,6 @@ A. Gross exports plus imported inputs.
 B. Gross output minus imported intermediate content.
 C. Total subsidy minus taxes.
 D. Market capitalisation minus debt.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Adding imports double-counts foreign value. The option states: Gross exports plus imported inputs.
-- **B - Correct:** Subtracting imported intermediates isolates domestic production value. The option states: Gross output minus imported intermediate content.
-- **C - Incorrect:** Fiscal arithmetic does not measure production value added. The option states: Total subsidy minus taxes.
-- **D - Incorrect:** Financial valuation is not the national-accounts concept. The option states: Market capitalisation minus debt.
-
-**Examiner trap 22:** Assembly value and gross output are not DVA.
 
 ### MCQ 23
 
@@ -435,16 +215,6 @@ B. Open infrastructure.
 C. Exports or use of domestic over imported goods.
 D. Origin-neutral R&D access.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Broad training is not the classic prohibited contingency. The option states: General worker training.
-- **B - Incorrect:** General infrastructure is treated differently from firm-specific export support. The option states: Open infrastructure.
-- **C - Correct:** Export and import-substitution contingencies are specifically sensitive. The option states: Exports or use of domestic over imported goods.
-- **D - Incorrect:** Origin-neutral R&D may still need analysis but is not the stated trigger. The option states: Origin-neutral R&D access.
-
-**Examiner trap 23:** Not every industrial subsidy is WTO-prohibited.
-
 ### MCQ 24
 
 A robust PLI scorecard should include:
@@ -453,16 +223,6 @@ A. Only sanctioned outlay.
 B. Only the number of beneficiaries.
 C. Only stock-market valuation.
 D. Output, DVA, jobs, exports, productivity, spillovers and fiscal additionality.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Outlay is an input rather than a structural outcome. The option states: Only sanctioned outlay.
-- **B - Incorrect:** Beneficiary count says little about capability. The option states: Only the number of beneficiaries.
-- **C - Incorrect:** Market value is influenced by many unrelated factors. The option states: Only stock-market valuation.
-- **D - Correct:** The multi-metric set captures depth, distribution and counterfactual value. The option states: Output, DVA, jobs, exports, productivity, spillovers and fiscal additionality.
-
-**Examiner trap 24:** One headline cannot validate industrial policy.
 
 ### MCQ 25
 
@@ -473,16 +233,6 @@ B. Packaging -> iron smelting -> crop processing -> design.
 C. Electronics retail -> mining only -> software tax.
 D. Wafer fabrication -> design begins after sale.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** This is the core functional sequence, with materials/equipment supporting it. The option states: Design -> wafer fabrication -> assembly/package/test -> electronics integration.
-- **B - Incorrect:** The listed activities mix unrelated sectors. The option states: Packaging -> iron smelting -> crop processing -> design.
-- **C - Incorrect:** Retail and tax do not describe chip production. The option states: Electronics retail -> mining only -> software tax.
-- **D - Incorrect:** Design necessarily precedes fabrication of that design. The option states: Wafer fabrication -> design begins after sale.
-
-**Examiner trap 25:** A semiconductor chain is not an electronics assembly line.
-
 ### MCQ 26
 
 An OSAT facility primarily performs:
@@ -491,16 +241,6 @@ A. Chip architecture only.
 B. Outsourced semiconductor assembly and testing.
 C. Silicon-wafer crystal mining only.
 D. Electricity generation for fabs.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Architecture belongs to design houses. The option states: Chip architecture only.
-- **B - Correct:** OSAT names the outsourced back-end function. The option states: Outsourced semiconductor assembly and testing.
-- **C - Incorrect:** Raw-material production is separate. The option states: Silicon-wafer crystal mining only.
-- **D - Incorrect:** Utilities enable but do not define OSAT. The option states: Electricity generation for fabs.
-
-**Examiner trap 26:** OSAT is not a wafer fab.
 
 ### MCQ 27
 
@@ -511,16 +251,6 @@ B. Higher yield from day one.
 C. Nothing universal; application, cost, yield and manufacturer conventions matter.
 D. The chip was packaged domestically.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Leading-edge processes can be more expensive. The option states: Lower cost for every application.
-- **B - Incorrect:** Yield requires learning and is not guaranteed. The option states: Higher yield from day one.
-- **C - Correct:** Node labels require application-specific qualification. The option states: Nothing universal; application, cost, yield and manufacturer conventions matter.
-- **D - Incorrect:** Packaging location is unrelated to node size. The option states: The chip was packaged domestically.
-
-**Examiner trap 27:** Mature nodes remain economically important.
-
 ### MCQ 28
 
 Why is yield central to fab economics?
@@ -529,16 +259,6 @@ A. It guarantees customer demand.
 B. It is another name for government subsidy.
 C. It measures only factory land area.
 D. It determines the share of fabricated dies meeting specification.
-
-**Answer: D.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Demand and qualification remain separate risks. The option states: It guarantees customer demand.
-- **B - Incorrect:** Fiscal support and process yield are distinct. The option states: It is another name for government subsidy.
-- **C - Incorrect:** Land area cannot measure functioning dies. The option states: It measures only factory land area.
-- **D - Correct:** Good-die yield directly affects saleable output and unit cost. The option states: It determines the share of fabricated dies meeting specification.
-
-**Examiner trap 28:** Wafer capacity is not good-die output.
 
 ### MCQ 29
 
@@ -549,16 +269,6 @@ B. Rs 6,062.45 crore.
 C. Rs 10 crore.
 D. Rs 1.97 lakh crore.
 
-**Answer: A.**
-
-**Option-wise explanation:**
-- **A - Correct:** The Cabinet approved Rs 76,000 crore on 15 December 2021. The option states: Rs 76,000 crore.
-- **B - Incorrect:** This is RAMP's programme outlay. The option states: Rs 6,062.45 crore.
-- **C - Incorrect:** This is the current CGTMSE facility ceiling. The option states: Rs 10 crore.
-- **D - Incorrect:** This is the approximate umbrella PLI outlay. The option states: Rs 1.97 lakh crore.
-
-**Examiner trap 29:** Outlay is not commercial production.
-
 ### MCQ 30
 
 Semicon 2.0 is correctly described as:
@@ -567,16 +277,6 @@ A. A renamed TReDS platform.
 B. Approved 15 July 2026 with Rs 1,27,500 crore and six pillars.
 C. A 2020 micro-enterprise registration scheme.
 D. A completed set of profitable fabs.
-
-**Answer: B.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** TReDS is regulated by RBI and finances receivables. The option states: A renamed TReDS platform.
-- **B - Correct:** The ISM site records the approval, outlay and six-pillar design. The option states: Approved 15 July 2026 with Rs 1,27,500 crore and six pillars.
-- **C - Incorrect:** Udyam is the registration framework. The option states: A 2020 micro-enterprise registration scheme.
-- **D - Incorrect:** New notifications do not establish project profitability. The option states: A completed set of profitable fabs.
-
-**Examiner trap 30:** Notification is an implementation start, not an outcome.
 
 ### MCQ 31
 
@@ -587,16 +287,6 @@ B. HCL-Foxconn's project was located in Madhya Pradesh.
 C. Micron's Sanand ATMP had commenced commercial production in February 2026.
 D. Crystal Matrix and Suchi Semicon were both operating silicon wafer fabs.
 
-**Answer: C.**
-
-**Option-wise explanation:**
-- **A - Incorrect:** Projects remained at different implementation stages. The option states: Every approved chip project was in commercial production.
-- **B - Incorrect:** The recorded groundbreaking was at Jewar, Uttar Pradesh. The option states: HCL-Foxconn's project was located in Madhya Pradesh.
-- **C - Correct:** The official ISM timeline uses this stage and date. The option states: Micron's Sanand ATMP had commenced commercial production in February 2026.
-- **D - Incorrect:** The May approvals cover compound fab-plus-ATMP and OSAT, not two operating silicon fabs. The option states: Crystal Matrix and Suchi Semicon were both operating silicon wafer fabs.
-
-**Examiner trap 31:** Use the exact stage verb for every project.
-
 ### MCQ 32
 
 Electronics manufacturing and semiconductor manufacturing are:
@@ -606,7 +296,499 @@ B. Distinguished only by firm size.
 C. Unrelated because electronics never use chips.
 D. Different layers: electronic systems may assemble imported chips, while semiconductor production creates or packages chips.
 
-**Answer: D.**
+### MCQ 33
+
+A small supplier has an accepted invoice but no property to pledge; which instrument matches its working-capital problem?
+
+A. Discount its receivable on TReDS via a financier.
+B. Apply to a fab capital-grant programme for equipment.
+C. Register for Udyam and assume immediate payment from its buyer.
+D. Use a PLI claim against next year's estimated sales.
+
+### MCQ 34
+
+A bank rejects an otherwise viable micro firm solely for lack of land collateral. Which response best matches CGTMSE?
+
+A. Reclassify the borrower as large to remove the need for credit checks.
+B. Consider a guarantee-backed collateral-free loan subject to bank appraisal.
+C. Sell its accepted invoice to the buyer under CGTMSE.
+D. Count the guarantee as a direct cash transfer to the entrepreneur.
+
+### MCQ 35
+
+An entrepreneur registers on Udyam, then claims immediate formal wage growth across employees. What is the best inference?
+
+A. Udyam registration is identical to DPIIT recognition as an innovative startup.
+B. Formal identity automatically qualifies every registered firm for each procurement contract.
+C. Registration creates a recognised identity; payroll, survival and productivity require distinct outcome evidence.
+D. The registration establishes an audited increase in every employee's wage.
+
+### MCQ 36
+
+A local component-maker expands beyond its former micro threshold but retains productivity gains. How should policy judge its graduation?
+
+A. Treat crossing a size threshold as proof its workers have become informal.
+B. Recommend splitting one firm into several solely to retain size benefits.
+C. Count the old MSME classification as permanently valid regardless of notified rules.
+D. Track movement into larger productive size classes rather than rewarding permanent smallness.
+
+### MCQ 37
+
+A PLI project reports large gross sales, most assembled from imported parts. Which metric probes its strategic contribution?
+
+A. Domestic value addition and supplier learning alongside verified incremental output.
+B. The scheme's announced aggregate outlay in its initial notification.
+C. The number of firms authorised to apply under the scheme.
+D. The full sales invoice amount treated as wholly domestic production.
+
+### MCQ 38
+
+A scheme pays a firm for investing in machinery even if it sells no output. How should it be classified relative to typical PLI?
+
+A. A realised export-linked PLI incentive irrespective of eligibility terms.
+B. Investment-triggered capital support, not a payment contingent on eligible incremental sales.
+C. Production-linked support because investment is a prerequisite for production.
+D. A TReDS factoring claim against a government buyer.
+
+### MCQ 39
+
+A semiconductor plant makes wafers but cannot package or test them. What is the ecosystem gap?
+
+A. A failure of trade finance for unrelated textile invoices.
+B. A loss of ownership of the fab's real estate by definition.
+C. Downstream ATMP/OSAT capacity despite upstream wafer fabrication.
+D. A lack of chip-design software only, with no manufacturing gap.
+
+### MCQ 40
+
+A fab runs at high wafer volume but many dies fail testing. What is the main economic implication?
+
+A. Higher wafer count guarantees lower cost per functional die.
+B. Lower yield proves that packaging capacity alone is missing.
+C. Foundry economics are unaffected once the process node is announced.
+D. Low yield raises cost per usable chip despite high wafer throughput.
+
+### MCQ 41
+
+A proposed startup has no prototype and uncertain scientific feasibility. Which financing ladder is least mismatched?
+
+A. Incubation and milestone-linked seed or grant support before conventional asset-backed debt.
+B. Large secured working-capital borrowing against established inventory.
+C. A leveraged buyout financed from stable recurring cash flow.
+D. Factoring accepted customer bills before any customer order exists.
+
+### MCQ 42
+
+Which distinction is accurate for Startup India's fund-of-funds architecture?
+
+A. Every DPIIT-recognised startup gets automatic equal equity funding.
+B. Public capital is channelled via eligible investment funds, rather than the fund directly writing every startup's cheque.
+C. It is identical to the credit guarantee reimbursing all bank losses.
+D. It purchases invoices of established MSMEs from their corporate buyers.
+
+### MCQ 43
+
+A large number of startups gain recognition but few commercialise university research. Which diagnosis best follows?
+
+A. The number of recognition certificates itself measures patents deployed commercially.
+B. Every seed-funded startup necessarily exits at a profitable valuation.
+C. Recognition has not resolved translation, patient capital, first-buyer or testing bottlenecks.
+D. DPIIT recognition legally prohibits academic technology transfer.
+
+### MCQ 44
+
+A policy awards manufacturing support only after a firm promises to use local inputs and export a fixed share. What is the design concern?
+
+A. Every conditional industrial incentive is banned regardless of its legal design.
+B. Domestic supplier development without a mandatory sourcing condition is automatically prohibited.
+C. Production-linked aid has the same legal status as an import tariff by definition.
+D. Explicit local-content and export-contingent conditions can raise WTO subsidy-compliance risks.
+
+## PYQS AND ANSWER PRACTICE
+
+### VERIFIED MAINS PYQ — 2023 GS-III — 10 marks
+
+**Question:** Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard. (Answer in 150 words)
+
+**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
+
+
+### VERIFIED MAINS PYQ — 2025 GS-III — 15 marks
+
+**Question:** Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (Answer in 250 words)
+
+**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
+
+
+### VERIFIED MAINS PYQ — 2025 GS-III — 15 marks
+
+**Question:** India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (Answer in 250 words)
+
+**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
+
+
+### OBJECTIVE PYQ ROUTES — OFFICIAL-KEY DISCIPLINE
+
+| Year | Exact/routed demand | Key treatment |
+|---|---|---|
+| 2023 Prelims GS-I Q71 | MSMED Act medium-enterprise investment statement and priority-sector bank-credit statement | Answer withheld pending official UPSC key. |
+| 2023 Prelims GS-I Q88 | India's global goods-export share and use of PLI by local/foreign companies | Answer withheld pending official UPSC key. |
+| 2026 Prelims GS-I Q93 | Mixchange role: collateral loans, invoice/bill discounting and credit rating | Answer withheld pending official UPSC key. |
+| 2026 Prelims GS-I semiconductor-location question | CG Power, Tata Semiconductor Assembly and Test, HCL-Foxconn India Chip and SiCSem locations | Answer withheld pending official UPSC key. |
+
+The 2026 local key is provisional. No provisional option is promoted into an official answer.
+
+### VERIFIED MAINS PYQ — 2026 GS-III Q12 — 15 marks
+
+**Question:** How are startups in India promoting entrepreneurship, innovation and employment? Discuss the global and domestic challenges in their working and suggest suitable measures to overcome these challenges. (Answer in 250 words)
+
+**Provenance:** Question wording and marks from the canonical Basic owner's OCR-verified official 2026 GS-III paper extract (Section 9); this is an independent original model solution, not an official UPSC answer.
+
+
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+
+### ORIGINAL MAINS 1 — 10 MARKS
+
+**Question:** Explain why MSME policy should support graduation rather than permanent smallness. Answer in 150 words.
+
+
+### ORIGINAL MAINS 2 — 10 MARKS
+
+**Question:** Distinguish delayed-payment remedies, TReDS, factoring and credit guarantees. Answer in 150 words.
+
+
+### ORIGINAL MAINS 3 — 15 MARKS
+
+**Question:** Critically evaluate Production Linked Incentive schemes through additionality and domestic value addition. Answer in 250 words.
+
+
+### ORIGINAL MAINS 4 — 15 MARKS
+
+**Question:** Design a balanced manufacturing strategy for India. Answer in 250 words.
+
+
+### ORIGINAL MAINS 5 — 20 MARKS
+
+**Question:** Assess India's semiconductor strategy and current implementation architecture. Answer in 250 words.
+
+
+### ORIGINAL MAINS 6 — 20 MARKS
+
+**Question:** How can MSMEs be integrated into global value chains without discouraging firm growth? Answer in 250 words.
+
+## COMPLETE SEPARATE KEY — MCQS / REMEDIATION
+
+### MCQ 1 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This exactly states both current micro ceilings under S.O. 1364(E). The option states: Micro: investment <= Rs 2.5 crore and turnover <= Rs 10 crore.
+- **B - Incorrect:** This reverses the distinct investment and turnover ceilings. The option states: Micro: investment <= Rs 10 crore and turnover <= Rs 2.5 crore.
+- **C - Incorrect:** These are superseded figures and not the current small limits. The option states: Small: investment <= Rs 50 crore and turnover <= Rs 250 crore.
+- **D - Incorrect:** The notified classification remains a two-limb composite test. The option states: Medium: only turnover is considered.
+
+**Examiner trap 1:** Do not reverse investment and turnover.
+
+### MCQ 2 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Either limb is insufficient under the composite rule. The option states: It satisfies either the investment or turnover ceiling.
+- **B - Correct:** Both notified ceilings must be satisfied simultaneously. The option states: It satisfies both investment and turnover ceilings for that class.
+- **C - Incorrect:** Enterprises cannot elect one classification limb. The option states: It chooses the criterion yielding the larger benefit.
+- **D - Incorrect:** Employment is not the current classification criterion. The option states: Its number of workers remains below a notified limit.
+
+**Examiner trap 2:** Composite means both, not either.
+
+### MCQ 3 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** A lender still appraises credit and scheme eligibility. The option states: It guarantees collateral-free credit.
+- **B - Incorrect:** ZED and product standards are separate from Udyam. The option states: It is a product-quality certification.
+- **C - Correct:** Registration reduces identity cost without guaranteeing outcomes. The option states: It provides an official registration identity but not assured finance or productivity.
+- **D - Incorrect:** Other statutory registrations retain their own legal purposes. The option states: It replaces every tax and labour registration.
+
+**Examiner trap 3:** Registration is a gateway, not an outcome.
+
+### MCQ 4 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Portal reporting is not a full employment census. The option states: A verified census of permanent factory jobs.
+- **B - Incorrect:** Causal additionality cannot be inferred from the stock. The option states: The number of workers added solely by Udyam.
+- **C - Incorrect:** PLFS and Udyam are different data systems. The option states: A current PLFS unemployment denominator.
+- **D - Correct:** The Survey footnote identifies reported Udyam employment and its date. The option states: Employment reported by registered enterprises, dated to the portal extract.
+
+**Examiner trap 4:** Keep administrative and survey data separate.
+
+### MCQ 5 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Section 15 caps the agreed period at forty-five days. The option states: Forty-five days.
+- **B - Incorrect:** Ninety days concerns the intended dispute-disposal period, not payment agreement. The option states: Ninety days.
+- **C - Incorrect:** One hundred and eighty days is not the statutory payment ceiling. The option states: One hundred and eighty days.
+- **D - Incorrect:** An annual accounting cycle cannot override the Act's limit. The option states: One financial year.
+
+**Examiner trap 5:** Payment period and dispute period are different.
+
+### MCQ 6 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Equity fundraising is outside the TReDS mechanism. The option states: Long-term equity investment in MSMEs.
+- **B - Correct:** The 2026 Directions define a digital factoring platform. The option states: Discounting of MSME trade receivables through multiple financiers.
+- **C - Incorrect:** TReDS is not a budget grant programme. The option states: Sovereign grants for plant purchase.
+- **D - Incorrect:** Platform operators do not act as rating agencies. The option states: Credit ratings for listed small companies.
+
+**Examiner trap 6:** TReDS finances receivables, not machinery.
+
+### MCQ 7 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** TReDS does not accept public deposits. The option states: A deposit accepted by the platform.
+- **B - Incorrect:** A receivable assignment differs from a factory mortgage. The option states: A secured mortgage on the seller's factory.
+- **C - Correct:** Buyer default is not shifted back to the seller under the stated rule. The option states: Without recourse to the MSME seller.
+- **D - Incorrect:** Commercial invoices are not tax refund instruments. The option states: A tax refund claim against government.
+
+**Examiner trap 7:** Without recourse does not mean without risk.
+
+### MCQ 8 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Pricing alone does not define factoring. The option states: Only a change in interest rate.
+- **B - Incorrect:** A guarantee may accompany finance but is not factoring's essence. The option states: Only a government guarantee.
+- **C - Incorrect:** A score does not transfer the payment claim. The option states: Only a credit score.
+- **D - Correct:** Assignment transfers the receivable claim and is recorded as required. The option states: Assignment of a trade receivable to the financier.
+
+**Examiner trap 8:** Follow ownership of the receivable.
+
+### MCQ 9 — A
+
+**Option-wise explanation:**
+- **A - Correct:** The facility ceiling applies from 1 April 2025 and is not an entitlement. The option states: The maximum eligible credit facility that can be covered, subject to scheme terms.
+- **B - Incorrect:** CGTMSE provides guarantees to lenders, not universal grants. The option states: A universal grant to every registered MSME.
+- **C - Incorrect:** Guarantee extent and amount in default determine risk coverage. The option states: The guaranteed payout received by every borrower.
+- **D - Incorrect:** MSME classification uses separate investment-turnover ceilings. The option states: A turnover ceiling for micro classification.
+
+**Examiner trap 9:** Covered credit is not guaranteed payout.
+
+### MCQ 10 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Listing status does not define the target group. The option states: All companies below a stock-market threshold.
+- **B - Correct:** The policy is explicitly for MSEs, with subtargets. The option states: Micro and small enterprises.
+- **C - Incorrect:** Medium enterprises are outside this specific target. The option states: Only medium enterprises.
+- **D - Incorrect:** PLI participation is not a procurement prerequisite. The option states: Only enterprises receiving PLI.
+
+**Examiner trap 10:** MSE is narrower than MSME.
+
+### MCQ 11 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Cluster development does not cancel debt. The option states: Automatic debt waiver.
+- **B - Incorrect:** Tax instruments are outside its core design. The option states: An export tax.
+- **C - Correct:** It lowers shared fixed costs through common facilities and infrastructure. The option states: Common facility centres and cluster infrastructure.
+- **D - Incorrect:** The programme is cross-sectoral for qualifying MSE clusters. The option states: Semiconductor wafer subsidies only.
+
+**Examiner trap 11:** A cluster label does not prove utilisation.
+
+### MCQ 12 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Numerical levels are not the notified names. The option states: One, Two and Three.
+- **B - Incorrect:** Export status is not the level taxonomy. The option states: Basic, Export and Global.
+- **C - Incorrect:** Traffic-light colours are not the certification ladder. The option states: Red, Amber and Green.
+- **D - Correct:** Bronze, Silver and Gold form the graded scheme structure. The option states: Bronze, Silver and Gold.
+
+**Examiner trap 12:** ZED is process certification, not a warranty.
+
+### MCQ 13 — A
+
+**Option-wise explanation:**
+- **A - Correct:** RAMP uses Programme-for-Results architecture through FY2027. The option states: A World Bank-supported results programme for MSME institutional and firm support.
+- **B - Incorrect:** ECLGS was the emergency guarantee and its window closed. The option states: A permanent pandemic guarantee.
+- **C - Incorrect:** Semiconductor support is administered through ISM schemes. The option states: A semiconductor fabrication subsidy.
+- **D - Incorrect:** Priority-sector directions, not RAMP, set lending ratios. The option states: A mandatory bank lending ratio.
+
+**Examiner trap 13:** RAMP's target is not an outcome.
+
+### MCQ 14 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** This date confuses later MSME revisions with ECLGS. The option states: 31 March 2025.
+- **B - Correct:** Official material records operation through 31 March 2023. The option states: 31 March 2023.
+- **C - Incorrect:** The 2026 date belongs to other frameworks. The option states: 30 June 2026.
+- **D - Incorrect:** The emergency scheme was expressly time-bound. The option states: It has no sunset.
+
+**Examiner trap 14:** Do not list ECLGS as open in 2026.
+
+### MCQ 15 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Conglomerate concentration is a different issue. The option states: Too many listed conglomerates.
+- **B - Incorrect:** India has a large micro-enterprise base. The option states: Absence of all micro firms.
+- **C - Correct:** Weak graduation and scaling create the missing-middle pattern. The option states: Failure of productive firms to scale into a strong medium-firm segment.
+- **D - Incorrect:** Money supply has no direct relation to this label. The option states: A shortage of currency notes.
+
+**Examiner trap 15:** Graduation is a policy success, not a failure.
+
+### MCQ 16 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Announcement precedes eligibility and verification. The option states: Guaranteed payment at announcement.
+- **B - Incorrect:** PLI does not cancel beneficiary debt. The option states: An unconditional loan waiver.
+- **C - Incorrect:** A tariff changes import prices and is a separate instrument. The option states: A uniform tariff across sectors.
+- **D - Correct:** The performance link defines the scheme family. The option states: Support linked to notified eligible incremental production or sales.
+
+**Examiner trap 16:** PLI is not payment for announced capacity.
+
+### MCQ 17 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Incremental performance is calculated relative to a specified base. The option states: Eligible current performance compared with a notified base.
+- **B - Incorrect:** Without a base, incremental measurement is impossible. The option states: Total market sales with no baseline.
+- **C - Incorrect:** Land value is not the production-linked formula. The option states: Only the beneficiary's land value.
+- **D - Incorrect:** Approvals are an implementation stage, not output. The option states: The number of government approvals.
+
+**Examiner trap 17:** A formula baseline is not a causal counterfactual.
+
+### MCQ 18 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Industrial technologies and failures differ substantially. The option states: Every sector has identical products and cycles.
+- **B - Correct:** Sectoral notifications control eligibility and payment. The option states: Thresholds, rates, base years, tenure and eligible products vary.
+- **C - Incorrect:** Line ministries and Union frameworks have major roles. The option states: Only States administer every scheme.
+- **D - Incorrect:** Verification generally precedes disbursement. The option states: All incentives are paid before production.
+
+**Examiner trap 18:** Never borrow one sector's rate for another.
+
+### MCQ 19 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Procurement changes buyer choice. The option states: Procurement preference.
+- **B - Incorrect:** A tariff changes the import price. The option states: Import tariff.
+- **C - Correct:** A capex subsidy is tied to qualifying investment cost. The option states: Capital-expenditure subsidy.
+- **D - Incorrect:** PLI is ordinarily output/sales-linked though hybrid schemes exist elsewhere. The option states: PLI in every sector by definition.
+
+**Examiner trap 19:** Classify by the trigger, not the label.
+
+### MCQ 20 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Local taxation is not a PLI manufacturing sector. The option states: Municipal property taxation.
+- **B - Incorrect:** Court administration is outside the sector list. The option states: Judicial administration.
+- **C - Incorrect:** Nutrition delivery is not one of the fourteen sectors. The option states: School midday meals.
+- **D - Correct:** Speciality steel is included in the official portfolio. The option states: Speciality steel.
+
+**Examiner trap 20:** PLI does not cover all economic activity.
+
+### MCQ 21 — A
+
+**Option-wise explanation:**
+- **A - Correct:** The causal counterfactual is the central test. The option states: Whether the supported activity exceeds a credible no-policy counterfactual.
+- **B - Incorrect:** A simple subtraction omits displacement and pre-planned investment. The option states: Whether gross sales exceed the incentive amount only.
+- **C - Incorrect:** Firm size cannot prove causal impact. The option states: Whether the beneficiary is large.
+- **D - Incorrect:** Announcement evidence does not establish an effect. The option states: Whether the scheme has a press release.
+
+**Examiner trap 21:** Observed growth is not automatically caused by PLI.
+
+### MCQ 22 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Adding imports double-counts foreign value. The option states: Gross exports plus imported inputs.
+- **B - Correct:** Subtracting imported intermediates isolates domestic production value. The option states: Gross output minus imported intermediate content.
+- **C - Incorrect:** Fiscal arithmetic does not measure production value added. The option states: Total subsidy minus taxes.
+- **D - Incorrect:** Financial valuation is not the national-accounts concept. The option states: Market capitalisation minus debt.
+
+**Examiner trap 22:** Assembly value and gross output are not DVA.
+
+### MCQ 23 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Broad training is not the classic prohibited contingency. The option states: General worker training.
+- **B - Incorrect:** General infrastructure is treated differently from firm-specific export support. The option states: Open infrastructure.
+- **C - Correct:** Export and import-substitution contingencies are specifically sensitive. The option states: Exports or use of domestic over imported goods.
+- **D - Incorrect:** Origin-neutral R&D may still need analysis but is not the stated trigger. The option states: Origin-neutral R&D access.
+
+**Examiner trap 23:** Not every industrial subsidy is WTO-prohibited.
+
+### MCQ 24 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Outlay is an input rather than a structural outcome. The option states: Only sanctioned outlay.
+- **B - Incorrect:** Beneficiary count says little about capability. The option states: Only the number of beneficiaries.
+- **C - Incorrect:** Market value is influenced by many unrelated factors. The option states: Only stock-market valuation.
+- **D - Correct:** The multi-metric set captures depth, distribution and counterfactual value. The option states: Output, DVA, jobs, exports, productivity, spillovers and fiscal additionality.
+
+**Examiner trap 24:** One headline cannot validate industrial policy.
+
+### MCQ 25 — A
+
+**Option-wise explanation:**
+- **A - Correct:** This is the core functional sequence, with materials/equipment supporting it. The option states: Design -> wafer fabrication -> assembly/package/test -> electronics integration.
+- **B - Incorrect:** The listed activities mix unrelated sectors. The option states: Packaging -> iron smelting -> crop processing -> design.
+- **C - Incorrect:** Retail and tax do not describe chip production. The option states: Electronics retail -> mining only -> software tax.
+- **D - Incorrect:** Design necessarily precedes fabrication of that design. The option states: Wafer fabrication -> design begins after sale.
+
+**Examiner trap 25:** A semiconductor chain is not an electronics assembly line.
+
+### MCQ 26 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Architecture belongs to design houses. The option states: Chip architecture only.
+- **B - Correct:** OSAT names the outsourced back-end function. The option states: Outsourced semiconductor assembly and testing.
+- **C - Incorrect:** Raw-material production is separate. The option states: Silicon-wafer crystal mining only.
+- **D - Incorrect:** Utilities enable but do not define OSAT. The option states: Electricity generation for fabs.
+
+**Examiner trap 26:** OSAT is not a wafer fab.
+
+### MCQ 27 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Leading-edge processes can be more expensive. The option states: Lower cost for every application.
+- **B - Incorrect:** Yield requires learning and is not guaranteed. The option states: Higher yield from day one.
+- **C - Correct:** Node labels require application-specific qualification. The option states: Nothing universal; application, cost, yield and manufacturer conventions matter.
+- **D - Incorrect:** Packaging location is unrelated to node size. The option states: The chip was packaged domestically.
+
+**Examiner trap 27:** Mature nodes remain economically important.
+
+### MCQ 28 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Demand and qualification remain separate risks. The option states: It guarantees customer demand.
+- **B - Incorrect:** Fiscal support and process yield are distinct. The option states: It is another name for government subsidy.
+- **C - Incorrect:** Land area cannot measure functioning dies. The option states: It measures only factory land area.
+- **D - Correct:** Good-die yield directly affects saleable output and unit cost. The option states: It determines the share of fabricated dies meeting specification.
+
+**Examiner trap 28:** Wafer capacity is not good-die output.
+
+### MCQ 29 — A
+
+**Option-wise explanation:**
+- **A - Correct:** The Cabinet approved Rs 76,000 crore on 15 December 2021. The option states: Rs 76,000 crore.
+- **B - Incorrect:** This is RAMP's programme outlay. The option states: Rs 6,062.45 crore.
+- **C - Incorrect:** This is the current CGTMSE facility ceiling. The option states: Rs 10 crore.
+- **D - Incorrect:** This is the approximate umbrella PLI outlay. The option states: Rs 1.97 lakh crore.
+
+**Examiner trap 29:** Outlay is not commercial production.
+
+### MCQ 30 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** TReDS is regulated by RBI and finances receivables. The option states: A renamed TReDS platform.
+- **B - Correct:** The ISM site records the approval, outlay and six-pillar design. The option states: Approved 15 July 2026 with Rs 1,27,500 crore and six pillars.
+- **C - Incorrect:** Udyam is the registration framework. The option states: A 2020 micro-enterprise registration scheme.
+- **D - Incorrect:** New notifications do not establish project profitability. The option states: A completed set of profitable fabs.
+
+**Examiner trap 30:** Notification is an implementation start, not an outcome.
+
+### MCQ 31 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Projects remained at different implementation stages. The option states: Every approved chip project was in commercial production.
+- **B - Incorrect:** The recorded groundbreaking was at Jewar, Uttar Pradesh. The option states: HCL-Foxconn's project was located in Madhya Pradesh.
+- **C - Correct:** The official ISM timeline uses this stage and date. The option states: Micron's Sanand ATMP had commenced commercial production in February 2026.
+- **D - Incorrect:** The May approvals cover compound fab-plus-ATMP and OSAT, not two operating silicon fabs. The option states: Crystal Matrix and Suchi Semicon were both operating silicon wafer fabs.
+
+**Examiner trap 31:** Use the exact stage verb for every project.
+
+### MCQ 32 — D
 
 **Option-wise explanation:**
 - **A - Incorrect:** Assembly and fabrication involve different processes and capabilities. The option states: Always the same factory process.
@@ -616,13 +798,129 @@ D. Different layers: electronic systems may assemble imported chips, while semic
 
 **Examiner trap 32:** Electronics scale does not prove domestic chip fabrication.
 
-## PYQS AND ANSWER PRACTICE
+### MCQ 33 — A
+
+**Option-wise explanation:**
+- **A - Correct:** TReDS monetises an accepted receivable.
+- **B - Incorrect:** A fab grant funds investment, not an invoice.
+- **C - Incorrect:** Registration identifies a firm but does not collect its receivable.
+- **D - Incorrect:** Future projected sales are not a discounted accepted invoice.
+
+**Examiner trap 33:** Separate a credit guarantee from invoice discounting.
+
+### MCQ 34 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Neither classification nor appraisal can be bypassed.
+- **B - Correct:** The guarantee shares lender credit risk, not sound-lending responsibility.
+- **C - Incorrect:** Invoice discounting is a separate receivables instrument.
+- **D - Incorrect:** A guarantee is not cash handed directly to the firm.
+
+**Examiner trap 34:** Credit guarantee does not mean guaranteed loan approval.
+
+### MCQ 35 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** MSME and startup recognition use distinct criteria.
+- **B - Incorrect:** Procurement eligibility and actual awards differ.
+- **C - Correct:** A formal registry is an input, not a verified employment outcome.
+- **D - Incorrect:** Wage change needs payroll evidence.
+
+**Examiner trap 35:** Never mistake a registry stock for an employment flow.
+
+### MCQ 36 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Firm size does not determine worker legal status automatically.
+- **B - Incorrect:** Artificial fragmentation frustrates efficient scale.
+- **C - Incorrect:** Classification uses applicable investment and turnover tests.
+- **D - Correct:** The missing middle problem requires scale and productivity, not indefinite micro status.
+
+**Examiner trap 36:** Size benefits can create graduation disincentives.
+
+### MCQ 37 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Local inputs and capabilities test depth of domestic production.
+- **B - Incorrect:** Outlay is a budget envelope, not realised value.
+- **C - Incorrect:** Eligibility is not delivered capability.
+- **D - Incorrect:** Gross sales include imported component content.
+
+**Examiner trap 37:** Incremental sales and domestic value added differ.
+
+### MCQ 38 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Different scheme guidelines specify different verifiable triggers.
+- **B - Correct:** The immediate trigger is eligible capital expenditure.
+- **C - Incorrect:** A prerequisite does not make expenditure itself incremental output.
+- **D - Incorrect:** Factoring concerns receivables.
+
+**Examiner trap 38:** Always identify the actual disbursement trigger.
+
+### MCQ 39 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** Textile invoice financing does not close the chip supply-chain gap.
+- **B - Incorrect:** Real-estate ownership is not what defines OSAT.
+- **C - Correct:** Packaging/testing is downstream of fabrication.
+- **D - Incorrect:** Design is a different stage.
+
+**Examiner trap 39:** Fab approval does not establish a complete chip value chain.
+
+### MCQ 40 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Throughput is not usable output.
+- **B - Incorrect:** Failures can arise across process steps, not packaging alone.
+- **C - Incorrect:** Node labels do not substitute for measured yield.
+- **D - Correct:** Yield is the share of usable dies and determines effective unit cost.
+
+**Examiner trap 40:** Separate installed capacity, yield and delivered chips.
+
+### MCQ 41 — A
+
+**Option-wise explanation:**
+- **A - Correct:** Early discovery requires patient risk finance and capability building.
+- **B - Incorrect:** No established assets or cash flow support conventional secured credit.
+- **C - Incorrect:** There is no stable cash flow to lever.
+- **D - Incorrect:** There is no accepted receivable to discount.
+
+**Examiner trap 41:** Match finance to stage, risk and available evidence.
+
+### MCQ 42 — B
+
+**Option-wise explanation:**
+- **A - Incorrect:** Recognition is not an unconditional equity entitlement.
+- **B - Correct:** A fund-of-funds invests through intermediaries and due diligence.
+- **C - Incorrect:** Guarantees address lender risk, not fund equity deployment.
+- **D - Incorrect:** Invoice discounting belongs to TReDS.
+
+**Examiner trap 42:** Trace who selects and finances the investee.
+
+### MCQ 43 — C
+
+**Option-wise explanation:**
+- **A - Incorrect:** A registry count is not a commercialisation measure.
+- **B - Incorrect:** Seed support carries failure risk.
+- **C - Correct:** Idea-to-market transition needs finance, demand and infrastructure beyond identity.
+- **D - Incorrect:** Recognition does not itself prohibit technology transfer.
+
+**Examiner trap 43:** Measure learning, survival and innovation, not labels.
+
+### MCQ 44 — D
+
+**Option-wise explanation:**
+- **A - Incorrect:** Subsidy disciplines do not prohibit all industrial support.
+- **B - Incorrect:** Voluntary capability development differs from imposed sourcing requirements.
+- **C - Incorrect:** Tariffs and firm-specific incentives use different instruments.
+- **D - Correct:** Export and domestic-content contingencies require special scrutiny under subsidy rules.
+
+**Examiner trap 44:** Check legal conditionality, not merely policy branding.
+
+### DESCRIPTIVE PYQ AND ORIGINAL MAINS MODEL ANSWERS
 
 ### VERIFIED MAINS PYQ — 2023 GS-III — 10 marks
-
-**Question:** Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard. (Answer in 150 words)
-
-**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
 
 **Model solution (136 words):**
 
@@ -635,10 +933,6 @@ The limitation is fragmentation. Registration does not assure credit; guarantees
 Policy should therefore measure active-firm survival, formal jobs, wages, productivity, domestic value, export capability and movement into medium-scale firms. MSME support raises manufacturing growth only when finance, payment discipline, technology, quality, infrastructure and markets operate as one progression.
 
 ### VERIFIED MAINS PYQ — 2025 GS-III — 15 marks
-
-**Question:** Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (Answer in 250 words)
-
-**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
 
 **Model solution (204 words):**
 
@@ -654,10 +948,6 @@ PLI succeeds only when temporary support creates firms and ecosystems competitiv
 
 ### VERIFIED MAINS PYQ — 2025 GS-III — 15 marks
 
-**Question:** India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (Answer in 250 words)
-
-**Status:** Exact English wording independently extracted from the local official question paper. The solution below is original and is not claimed as an official UPSC model answer.
-
 **Model solution (213 words):**
 
 Semiconductors require an ecosystem spanning design, EDA and IP, materials, equipment, wafer fabrication, ATMP-OSAT, skilled talent and downstream demand. India's strengths in engineering and electronics demand coexist with gaps in fabrication experience, specialised suppliers and product IP.
@@ -670,22 +960,17 @@ Semicon 2.0 was approved on 15 July 2026 with Rs 1,27,500 crore outlay; all six 
 
 Policy should use milestone finance, environmental safeguards, demand linkages, diversified partners and stage-specific reporting. Mission approval is not commercial production, and resilience does not require uneconomic duplication of every input.
 
-### OBJECTIVE PYQ ROUTES — OFFICIAL-KEY DISCIPLINE
+### VERIFIED MAINS PYQ — 2026 GS-III Q12 — 15 marks
 
-| Year | Exact/routed demand | Key treatment |
-|---|---|---|
-| 2023 Prelims GS-I Q71 | MSMED Act medium-enterprise investment statement and priority-sector bank-credit statement | Answer withheld pending official UPSC key. |
-| 2023 Prelims GS-I Q88 | India's global goods-export share and use of PLI by local/foreign companies | Answer withheld pending official UPSC key. |
-| 2026 Prelims GS-I Q93 | Mixchange role: collateral loans, invoice/bill discounting and credit rating | Answer withheld pending official UPSC key. |
-| 2026 Prelims GS-I semiconductor-location question | CG Power, Tata Semiconductor Assembly and Test, HCL-Foxconn India Chip and SiCSem locations | Answer withheld pending official UPSC key. |
+**Model solution:**
 
-The 2026 local key is provisional. No provisional option is promoted into an official answer.
+Startups are innovation-led scalable ventures, not synonyms for all newly registered MSMEs or highly valued unicorns. They widen entrepreneurship by lowering experimentation costs and introducing new products, processes and platforms. University-linked incubation and seed financing can turn research into prototypes; scaling generates direct technical and managerial jobs and indirect supplier, logistics and service work. Yet registrations and valuations alone establish neither durable jobs nor productivity gains.
 
-### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
+Domestic obstacles include thin patient capital outside metros, gaps in research commercialisation, scarce testing facilities and first buyers, managerial weakness, regulatory complexity and difficult exits. Global headwinds include funding cycles, technology and chip dependence, cross-border data and tax rules, foreign-platform dominance and geopolitical supply-chain shocks. These affect stages differently: early ventures need proof-of-concept support, whereas scaling firms need market access, standards and growth capital.
+
+Use credible incubators and milestone-linked seed support, then competitive equity and appropriately appraised debt; strengthen university-industry links, transparent public procurement, standards/testing, interoperable platforms and regional networks. Predictable insolvency and exits recycle capital. Assess survival, useful innovation, job quality, productivity, exports and private capital crowded in—not merely recognition counts. The goal is competitive problem-solving, not indefinite shelter from failure.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Explain why MSME policy should support graduation rather than permanent smallness. Answer in 150 words.
 
 **Model answer:**
 
@@ -697,13 +982,11 @@ An effective strategy therefore sequences Udyam, suitable credit or TReDS, payme
 
 The test is not the number of registered enterprises. It is survival, formal jobs, wages, productivity, supplier upgrading and movement into competitive medium firms, with targeted support for women and disadvantaged entrepreneurs.
 
-**Native-body word count:** 135 / 150.
+**Native-body word count:** 120 / 150.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish delayed-payment remedies, TReDS, factoring and credit guarantees. Answer in 150 words.
 
 **Model answer:**
 
@@ -715,13 +998,11 @@ These mechanisms fail when buyers do not accept invoices, suppliers fear commerc
 
 Policy should track acceptance time, discount cost, recovery, repeat orders and cash-conversion days rather than portal registrations alone.
 
-**Native-body word count:** 141 / 150.
+**Native-body word count:** 126 / 150.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Critically evaluate Production Linked Incentive schemes through additionality and domestic value addition. Answer in 250 words.
 
 **Model answer:**
 
@@ -737,13 +1018,11 @@ Sector comparisons should normalise investment cycles, price changes and market 
 
 PLI should therefore retain sector-specific milestones, transparent beneficiary selection, competition review, supplier-development plans, independent counterfactual evaluation and a credible sunset. It is useful only if temporary fiscal support creates post-incentive productivity and technological depth.
 
-**Native-body word count:** 215 / 250.
+**Native-body word count:** 199 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Design a balanced manufacturing strategy for India. Answer in 250 words.
 
 **Model answer:**
 
@@ -757,13 +1036,11 @@ Policy must protect competition. Large anchor firms can organise value chains, y
 
 Success should be measured through additional investment, domestic value, exports, productive jobs, supplier spillovers, innovation, regional distribution and fiscal cost. States should compete on implementation quality, while national standards preserve a common market and limit subsidy races. Periodic review and sunset convert industrial policy from discretion into disciplined experimentation.
 
-**Native-body word count:** 216 / 250.
+**Native-body word count:** 200 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Assess India's semiconductor strategy and current implementation architecture. Answer in 250 words.
 
 **Model answer:**
 
@@ -777,13 +1054,11 @@ Semicon 2.0, approved on 15 July 2026 with Rs 1,27,500 crore outlay and notified
 
 The strategy should prioritise bottlenecks, commercial demand, partner diversification, IP ownership, environmental safeguards and milestone-based finance. Approval, groundbreaking, inauguration and commercial production must remain distinct. Resilience is diversified capability, not complete autarky.
 
-**Native-body word count:** 210 / 250.
+**Native-body word count:** 188 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** How can MSMEs be integrated into global value chains without discouraging firm growth? Answer in 250 words.
 
 **Model answer:**
 
@@ -797,6 +1072,6 @@ GVC participation must be evaluated through on-time delivery, defect rates, dome
 
 Government should publish cluster and anchor-supplier scorecards, strengthen contract enforcement, fund shared testing and skills, and review support against counterfactual outcomes. The objective is not more scheme beneficiaries but more firms capable of competing after support ends.
 
-**Native-body word count:** 210 / 250.
+**Native-body word count:** 195 / 250.
 
 **Answer audit:** Claim, named evidence, analysis and qualification are preserved.

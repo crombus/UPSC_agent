@@ -1,1146 +1,597 @@
 ---
-title: "Defence R&D: DRDO and Missile Systems — Solved Practice Workbook"
+title: "Defence R&D, DRDO and Missile Systems — Solved Practice Workbook"
 topic_key: science-and-technology-06
 ---
-# Defence R&D: DRDO and Missile Systems — Solved Practice Workbook
+# Defence R&D, DRDO and Missile Systems — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+Sources: `upsc-ai-kit/knowledge/Science-and-Technology/basic/06_Defence-RandD-DRDO-and-Missile-Systems.md` and its advanced companion (official DRDO/PIB source URLs therein; statuses verified to August 2026). Role and flight profile take precedence over unsourced range or payload figures.
 
-### Q1. Which statement correctly identifies DRDO-developer boundary?
+## Applied MCQs — questions only
 
-A. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-B. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-C. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
+### Q1. A trajectory is largely unpowered after a rocket boost. How should it be classified?
 
-**Answer: A.**
-**Explanation:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Ballistic missile.
+B. Powered atmospheric cruise missile.
+C. Laser-compressed fusion pellet.
+D. Rocket artillery salvo by definition.
 
-### Q2. Which option preserves the technical boundary of DRDO-developer boundary?
+### Q2. A guided weapon sustains air-breathing flight in the atmosphere. What is its flight class?
 
-A. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-B. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-C. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-D. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
+A. Space-access launch vehicle.
+B. Cruise missile.
+C. Unpowered ballistic midcourse.
+D. Unpowered boost-glide vehicle.
 
-**Answer: B.**
-**Explanation:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q3. A rocket boosts a vehicle before it manoeuvres unpowered on a depressed trajectory. What distinguishes it?
 
-### Q3. Which statement uses DRDO-developer boundary without changing its institution, unit or status?
+A. Ordinary non-manoeuvring ballistic midcourse.
+B. Surface-to-air interceptor by speed alone.
+C. Boost-glide vehicle.
+D. Powered scramjet cruise throughout glide.
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-C. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-D. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
+### Q4. What identifies a scramjet cruise concept?
 
-**Answer: C.**
-**Explanation:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A gravity-only trajectory after rocket burnout.
+B. A laser-driven inertial target.
+C. A ground-to-air launch role regardless of propulsion.
+D. Supersonic combustion in an air-breathing powered flight regime.
 
-### Q4. Which option avoids the standard UPSC close-option trap about DRDO-developer boundary?
+### Q5. A warhead re-enters above Mach 5. What cannot be inferred solely from this?
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
+A. That its flight used scramjet-powered cruise.
+B. That high speed can occur during re-entry.
+C. That speed is distinct from guidance mode.
+D. That ballistic warheads can become hypersonic.
 
-**Answer: D.**
-**Explanation:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q6. Which propulsion is publicly associated with BrahMos cruise flight?
 
-### Q5. Which statement correctly identifies Requirement-user boundary?
+A. Inertial laser compression.
+B. Ramjet.
+C. Scramjet-powered inducted hypersonic cruise.
+D. Heavy-water moderation.
 
-A. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-B. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-C. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-D. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
+### Q7. Which description matches official DRDO classification of BrahMos?
 
-**Answer: A.**
-**Explanation:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Short-range ground-based SAM.
+B. Unguided artillery rocket.
+C. Long-range supersonic cruise missile.
+D. Ballistic strategic missile.
 
-### Q6. Which option preserves the technical boundary of Requirement-user boundary?
+### Q8. What institutional relationship develops and produces BrahMos?
 
-A. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-B. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-C. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-D. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
+A. DRDO alone runs an Indian-only enterprise.
+B. DAC itself manufactures cruise engines.
+C. IPR runs the Russian partner company.
+D. BrahMos Aerospace is a DRDO–NPOM joint venture.
 
-**Answer: B.**
-**Explanation:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q9. Which missile family is principally associated with strategic deterrence?
 
-### Q7. Which statement uses Requirement-user boundary without changing its institution, unit or status?
+A. Agni.
+B. Akash.
+C. Astra.
+D. Nag.
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-C. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-D. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
+### Q10. Which system is ground-launched to intercept aerial targets?
 
-**Answer: C.**
-**Explanation:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Prithvi.
+B. Akash.
+C. Astra.
+D. Nag.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Requirement-user boundary?
+### Q11. Which system is associated with aerial combat from aircraft?
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-C. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-D. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
+A. Pinaka.
+B. Agni.
+C. Astra.
+D. Akash.
 
-**Answer: D.**
-**Explanation:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q12. Which family addresses armoured targets rather than air defence?
 
-### Q9. Which statement correctly identifies MSS-cluster boundary?
+A. Akash.
+B. Astra.
+C. BrahMos by definition.
+D. Nag.
 
-A. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-B. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-C. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-D. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
+### Q13. An artillery unit fires course-corrected rockets in salvo from an MBRL. Which family fits?
 
-**Answer: A.**
-**Explanation:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Pinaka.
+B. Agni.
+C. Akash.
+D. Astra.
 
-### Q10. Which option preserves the technical boundary of MSS-cluster boundary?
+### Q14. A Guided Pinaka trial uses the in-service Pinaka launcher. Which inference is supported?
 
-A. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-B. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
+A. Proof of an intercontinental ballistic mission.
+B. Launcher commonality during development, not fleet-wide induction of the variant.
+C. Automatic induction of every guided variant.
+D. Proof all Pinaka rockets are cruise missiles.
 
-**Answer: B.**
-**Explanation:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q15. What is the right role for DRDO in the defence ecosystem?
 
-### Q11. Which statement uses MSS-cluster boundary without changing its institution, unit or status?
+A. Operational control of all service squadrons.
+B. Granting AoN as the Defence Acquisition Council.
+C. Design, development, testing and facilitation of production/induction.
+D. Procurement contracting and mass manufacture as sole owner.
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-C. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+### Q16. Which government department is separate from DRDO's R&D chain?
 
-**Answer: C.**
-**Explanation:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Missiles and Strategic Systems cluster.
+B. Defence Research and Development Organisation.
+C. Department of Defence R&D.
+D. Department of Defence Production.
 
-### Q12. Which option avoids the standard UPSC close-option trap about MSS-cluster boundary?
+### Q17. Who frames qualitative needs and conducts user-facing trials?
 
-A. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-B. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-C. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
+A. Armed services.
+B. ITER Organization.
+C. BrahMos Aerospace alone.
+D. DRDO without user participation.
 
-**Answer: D.**
-**Explanation:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q18. A DAC announcement grants Acceptance of Necessity. Which status follows?
 
-### Q13. Which statement correctly identifies Subsystem-chain boundary?
+A. Successful user evaluation of every component.
+B. In-principle approval, not purchase, delivery or induction.
+C. Contracted and delivered equipment.
+D. Inducted units deployed at scale.
 
-A. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-B. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-C. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-D. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
+### Q19. Which is an MSS cluster technology domain?
 
-**Answer: A.**
-**Explanation:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Nuclear plant turbine distribution.
+B. Agricultural minimum support pricing.
+C. Guidance, homing and launch systems.
+D. Electoral authentication alone.
 
-### Q14. Which option preserves the technical boundary of Subsystem-chain boundary?
+### Q20. Which group consists of named MSS-associated labs and establishments?
 
-A. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-B. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-C. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-D. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
+A. IPR, SST-1, ITER-India and DEMO.
+B. NPCI, UIDAI, RBI and ONDC.
+C. ISRO, GAGAN, NavIC and NPCIL.
+D. DRDL, RCI, ASL, TBRL and ITR.
 
-**Answer: B.**
-**Explanation:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q21. Which programme was a completed historical umbrella rather than an open-ended label for every missile?
 
-### Q15. Which statement uses Subsystem-chain boundary without changing its institution, unit or status?
+A. IGMDP, 1983 to March 2012.
+B. BrahMos Aerospace founded as IGMDP's sixth sanctioned system.
+C. ITER's multinational fusion programme.
+D. Current defence-acquisition procedure.
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-C. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+### Q22. Which set matches IGMDP's sanctioned development scope?
 
-**Answer: C.**
-**Explanation:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Only cruise missiles and guided artillery.
+B. Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator.
+C. BrahMos, Astra, MRSAM, QRSAM and HSTDV.
+D. All missiles developed after 2012.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Subsystem-chain boundary?
+### Q23. A source says Agni-5 MIRV was first flight-tested under Mission Divyastra in March 2024. Which conclusion is warranted?
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
+A. Operational proof of every payload specification.
+B. Induction of all Agni variants at once.
+C. Technology flight test, not proof of formally recorded induction.
+D. Completed fleet-wide deployment.
 
-**Answer: D.**
-**Explanation:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q24. What does MIRV mean in the verified Agni-5 context?
 
-### Q17. Which statement correctly identifies Ballistic-cruise boundary?
+A. Multiple inertial rocket velocities.
+B. Magnetic interference re-entry vehicle.
+C. Medium-range interceptor radar variant.
+D. Multiple independently targetable re-entry vehicles.
 
-A. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-B. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+### Q25. A 2020 HSTDV announcement reports scramjet-powered flight. What follows?
 
-**Answer: A.**
-**Explanation:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A hypersonic air-breathing technology demonstration, not weapon induction.
+B. An inducted hypersonic cruise missile fleet.
+C. A confirmed glide vehicle without propulsion.
+D. A commercial launch contract.
 
-### Q18. Which option preserves the technical boundary of Ballistic-cruise boundary?
+### Q26. How should a 2024 first long-range hypersonic missile trial be described?
 
-A. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-B. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
+A. Confirmation of a classified payload's exact mass.
+B. A flight trial, not an inducted capability.
+C. A deployed inventory figure.
+D. Proof the HSTDV itself became an inducted missile.
 
-**Answer: B.**
-**Explanation:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q27. The 2025 rail-mobile Agni-Prime launch was successful. What distinction must survive?
 
-### Q19. Which statement uses Ballistic-cruise boundary without changing its institution, unit or status?
+A. Agni-P became a surface-to-air interceptor.
+B. No road-mobile variant existed.
+C. Rail-mobile scenario was tested; road-mobile Agni-P was separately described as inducted.
+D. Every rail-mobile launcher was already delivered.
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-C. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+### Q28. An Akash-NG bulletin says user evaluation completed and paved the way for induction. What is its rung?
 
-**Answer: C.**
-**Explanation:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. Deployed fleet confirmed.
+B. Only a paper proposal.
+C. Signed mass-production delivery certificate.
+D. User trials completed, not necessarily induction.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Ballistic-cruise boundary?
+### Q29. Which comparison respects official Akash status?
 
-A. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-B. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-C. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-D. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
+A. Legacy Akash is inducted; Akash-NG's 2025 user trials are a different status.
+B. Both are only untested concepts.
+C. Every Akash variant was inducted in 2015.
+D. Akash is an air-to-air missile.
 
-**Answer: D.**
-**Explanation:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q30. A QRSAM release calls it ready for induction. How should an answer phrase this?
 
-### Q21. Which statement correctly identifies Hypersonic-class boundary?
+A. Identical status to a completed purchase contract.
+B. Prepared for the induction decision, not already confirmed fielded.
+C. Mass deployed with a published squadron count.
+D. A long-range strategic ballistic missile.
 
-A. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-B. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
+### Q31. A signed MRSAM supply contract establishes what?
 
-**Answer: A.**
-**Explanation:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. A first flight test only.
+B. That MRSAM is rocket artillery.
+C. An acquisition commitment, not automatically delivery of each unit.
+D. Automatic proof of final deployment numbers.
 
-### Q22. Which option preserves the technical boundary of Hypersonic-class boundary?
+### Q32. A first Pinaka LRGR flight in December 2025 is reported. Which status is supported?
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+A. A formally inducted nationwide inventory.
+B. An operational naval cruise-missile squadron.
+C. A finished fuel breeding cycle.
+D. A successful maiden flight test, not verified mass deployment.
 
-**Answer: B.**
-**Explanation:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q33. Which attribute is most reliable when open-source range figures conflict?
 
-### Q23. Which statement uses Hypersonic-class boundary without changing its institution, unit or status?
+A. The official system role and dated source classification.
+B. An unattributed maximum range copied from social media.
+C. A speculative classified payload.
+D. An invented exact operational unit count.
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-C. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+### Q34. How do missile and space launch vehicles differ despite shared propulsion research?
 
-**Answer: C.**
-**Explanation:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+A. An orbital insertion proves a missile's induction.
+B. Weapon mission, guidance and operational governance versus space-access mission.
+C. Both must be classed as artillery.
+D. DRDO alone procures every orbital launcher.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Hypersonic-class boundary?
+### Q35. What is a DIA-CoE intended to facilitate?
 
-A. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-B. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
+A. Sovereign membership of ITER.
+B. Awarding the DAC's AoN.
+C. DRDO-led academia and research collaboration.
+D. Automatically granting combat induction.
 
-**Answer: D.**
-**Explanation:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Q36. Why is a successful development trial insufficient for defence autonomy?
 
-### Q25. Which statement correctly identifies SAM-AAM boundary?
+A. A first test already guarantees spare-part capacity.
+B. R&D and manufacturing are administratively identical.
+C. No user evaluation can follow a test.
+D. Service acceptance, scaled quality production, sustainment and supply-chain control still matter.
 
-A. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-B. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+## Separate answer key and option-by-option reasoning
 
-**Answer: A.**
-**Explanation:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 1 — A
 
-### Q26. Which option preserves the technical boundary of SAM-AAM boundary?
+- **A:** Correct — Ballistic missile. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — Powered atmospheric cruise missile. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ballistic missile.
+- **C:** Incorrect — Laser-compressed fusion pellet. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ballistic missile.
+- **D:** Incorrect — Rocket artillery salvo by definition. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ballistic missile.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-B. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-C. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-D. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
+### Solution 2 — B
 
-**Answer: B.**
-**Explanation:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Space-access launch vehicle. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Cruise missile.
+- **B:** Correct — Cruise missile. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Unpowered ballistic midcourse. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Cruise missile.
+- **D:** Incorrect — Unpowered boost-glide vehicle. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Cruise missile.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q27. Which statement uses SAM-AAM boundary without changing its institution, unit or status?
+### Solution 3 — C
 
-A. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-B. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-C. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-D. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
+- **A:** Incorrect — Ordinary non-manoeuvring ballistic midcourse. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Boost-glide vehicle.
+- **B:** Incorrect — Surface-to-air interceptor by speed alone. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Boost-glide vehicle.
+- **C:** Correct — Boost-glide vehicle. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Powered scramjet cruise throughout glide. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Boost-glide vehicle.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 4 — D
 
-### Q28. Which option avoids the standard UPSC close-option trap about SAM-AAM boundary?
+- **A:** Incorrect — A gravity-only trajectory after rocket burnout. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Supersonic combustion in an air-breathing powered flight regime.
+- **B:** Incorrect — A laser-driven inertial target. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Supersonic combustion in an air-breathing powered flight regime.
+- **C:** Incorrect — A ground-to-air launch role regardless of propulsion. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Supersonic combustion in an air-breathing powered flight regime.
+- **D:** Correct — Supersonic combustion in an air-breathing powered flight regime. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-C. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-D. A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
+### Solution 5 — A
 
-**Answer: D.**
-**Explanation:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — That its flight used scramjet-powered cruise. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — That high speed can occur during re-entry. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is That its flight used scramjet-powered cruise.
+- **C:** Incorrect — That speed is distinct from guidance mode. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is That its flight used scramjet-powered cruise.
+- **D:** Incorrect — That ballistic warheads can become hypersonic. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is That its flight used scramjet-powered cruise.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q29. Which statement correctly identifies ATGM boundary?
+### Solution 6 — B
 
-A. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-B. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+- **A:** Incorrect — Inertial laser compression. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ramjet.
+- **B:** Correct — Ramjet. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Scramjet-powered inducted hypersonic cruise. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ramjet.
+- **D:** Incorrect — Heavy-water moderation. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Ramjet.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 7 — C
 
-### Q30. Which option preserves the technical boundary of ATGM boundary?
+- **A:** Incorrect — Short-range ground-based SAM. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Long-range supersonic cruise missile.
+- **B:** Incorrect — Unguided artillery rocket. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Long-range supersonic cruise missile.
+- **C:** Correct — Long-range supersonic cruise missile. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Ballistic strategic missile. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Long-range supersonic cruise missile.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-C. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-D. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
+### Solution 8 — D
 
-**Answer: B.**
-**Explanation:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — DRDO alone runs an Indian-only enterprise. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is BrahMos Aerospace is a DRDO–NPOM joint venture.
+- **B:** Incorrect — DAC itself manufactures cruise engines. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is BrahMos Aerospace is a DRDO–NPOM joint venture.
+- **C:** Incorrect — IPR runs the Russian partner company. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is BrahMos Aerospace is a DRDO–NPOM joint venture.
+- **D:** Correct — BrahMos Aerospace is a DRDO–NPOM joint venture. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q31. Which statement uses ATGM boundary without changing its institution, unit or status?
+### Solution 9 — A
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-C. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+- **A:** Correct — Agni. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — Akash. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Agni.
+- **C:** Incorrect — Astra. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Agni.
+- **D:** Incorrect — Nag. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Agni.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 10 — B
 
-### Q32. Which option avoids the standard UPSC close-option trap about ATGM boundary?
+- **A:** Incorrect — Prithvi. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Akash.
+- **B:** Correct — Akash. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Astra. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Akash.
+- **D:** Incorrect — Nag. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Akash.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-B. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-C. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-D. An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
+### Solution 11 — C
 
-**Answer: D.**
-**Explanation:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Pinaka. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Astra.
+- **B:** Incorrect — Agni. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Astra.
+- **C:** Correct — Astra. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Akash. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Astra.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q33. Which statement correctly identifies Rocket-artillery boundary?
+### Solution 12 — D
 
-A. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-B. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-C. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+- **A:** Incorrect — Akash. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Nag.
+- **B:** Incorrect — Astra. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Nag.
+- **C:** Incorrect — BrahMos by definition. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Nag.
+- **D:** Correct — Nag. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 13 — A
 
-### Q34. Which option preserves the technical boundary of Rocket-artillery boundary?
+- **A:** Correct — Pinaka. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — Agni. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Pinaka.
+- **C:** Incorrect — Akash. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Pinaka.
+- **D:** Incorrect — Astra. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Pinaka.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-C. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+### Solution 14 — B
 
-**Answer: B.**
-**Explanation:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Proof of an intercontinental ballistic mission. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Launcher commonality during development, not fleet-wide induction of the variant.
+- **B:** Correct — Launcher commonality during development, not fleet-wide induction of the variant. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Automatic induction of every guided variant. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Launcher commonality during development, not fleet-wide induction of the variant.
+- **D:** Incorrect — Proof all Pinaka rockets are cruise missiles. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Launcher commonality during development, not fleet-wide induction of the variant.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q35. Which statement uses Rocket-artillery boundary without changing its institution, unit or status?
+### Solution 15 — C
 
-A. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-B. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-C. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-D. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
+- **A:** Incorrect — Operational control of all service squadrons. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Design, development, testing and facilitation of production/induction.
+- **B:** Incorrect — Granting AoN as the Defence Acquisition Council. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Design, development, testing and facilitation of production/induction.
+- **C:** Correct — Design, development, testing and facilitation of production/induction. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Procurement contracting and mass manufacture as sole owner. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Design, development, testing and facilitation of production/induction.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 16 — D
 
-### Q36. Which option avoids the standard UPSC close-option trap about Rocket-artillery boundary?
+- **A:** Incorrect — Missiles and Strategic Systems cluster. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Department of Defence Production.
+- **B:** Incorrect — Defence Research and Development Organisation. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Department of Defence Production.
+- **C:** Incorrect — Department of Defence R&D. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Department of Defence Production.
+- **D:** Correct — Department of Defence Production. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-B. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-C. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-D. Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
+### Solution 17 — A
 
-**Answer: D.**
-**Explanation:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Armed services. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — ITER Organization. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Armed services.
+- **C:** Incorrect — BrahMos Aerospace alone. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Armed services.
+- **D:** Incorrect — DRDO without user participation. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Armed services.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q37. Which statement correctly identifies Missile-platform boundary?
+### Solution 18 — B
 
-A. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-B. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-C. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+- **A:** Incorrect — Successful user evaluation of every component. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is In-principle approval, not purchase, delivery or induction.
+- **B:** Correct — In-principle approval, not purchase, delivery or induction. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Contracted and delivered equipment. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is In-principle approval, not purchase, delivery or induction.
+- **D:** Incorrect — Inducted units deployed at scale. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is In-principle approval, not purchase, delivery or induction.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 19 — C
 
-### Q38. Which option preserves the technical boundary of Missile-platform boundary?
+- **A:** Incorrect — Nuclear plant turbine distribution. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Guidance, homing and launch systems.
+- **B:** Incorrect — Agricultural minimum support pricing. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Guidance, homing and launch systems.
+- **C:** Correct — Guidance, homing and launch systems. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Electoral authentication alone. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Guidance, homing and launch systems.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-C. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-D. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
+### Solution 20 — D
 
-**Answer: B.**
-**Explanation:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — IPR, SST-1, ITER-India and DEMO. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDL, RCI, ASL, TBRL and ITR.
+- **B:** Incorrect — NPCI, UIDAI, RBI and ONDC. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDL, RCI, ASL, TBRL and ITR.
+- **C:** Incorrect — ISRO, GAGAN, NavIC and NPCIL. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDL, RCI, ASL, TBRL and ITR.
+- **D:** Correct — DRDL, RCI, ASL, TBRL and ITR. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q39. Which statement uses Missile-platform boundary without changing its institution, unit or status?
+### Solution 21 — A
 
-A. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-B. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-C. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-D. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
+- **A:** Correct — IGMDP, 1983 to March 2012. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — BrahMos Aerospace founded as IGMDP's sixth sanctioned system. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is IGMDP, 1983 to March 2012.
+- **C:** Incorrect — ITER's multinational fusion programme. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is IGMDP, 1983 to March 2012.
+- **D:** Incorrect — Current defence-acquisition procedure. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is IGMDP, 1983 to March 2012.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 22 — B
 
-### Q40. Which option avoids the standard UPSC close-option trap about Missile-platform boundary?
+- **A:** Incorrect — Only cruise missiles and guided artillery. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator.
+- **B:** Correct — Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — BrahMos, Astra, MRSAM, QRSAM and HSTDV. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator.
+- **D:** Incorrect — All missiles developed after 2012. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-B. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-C. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-D. A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
+### Solution 23 — C
 
-**Answer: D.**
-**Explanation:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Operational proof of every payload specification. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Technology flight test, not proof of formally recorded induction.
+- **B:** Incorrect — Induction of all Agni variants at once. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Technology flight test, not proof of formally recorded induction.
+- **C:** Correct — Technology flight test, not proof of formally recorded induction. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Completed fleet-wide deployment. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Technology flight test, not proof of formally recorded induction.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q41. Which statement correctly identifies IGMDP-history boundary?
+### Solution 24 — D
 
-A. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-B. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-C. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-D. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
+- **A:** Incorrect — Multiple inertial rocket velocities. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Multiple independently targetable re-entry vehicles.
+- **B:** Incorrect — Magnetic interference re-entry vehicle. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Multiple independently targetable re-entry vehicles.
+- **C:** Incorrect — Medium-range interceptor radar variant. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Multiple independently targetable re-entry vehicles.
+- **D:** Correct — Multiple independently targetable re-entry vehicles. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 25 — A
 
-### Q42. Which option preserves the technical boundary of IGMDP-history boundary?
+- **A:** Correct — A hypersonic air-breathing technology demonstration, not weapon induction. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — An inducted hypersonic cruise missile fleet. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A hypersonic air-breathing technology demonstration, not weapon induction.
+- **C:** Incorrect — A confirmed glide vehicle without propulsion. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A hypersonic air-breathing technology demonstration, not weapon induction.
+- **D:** Incorrect — A commercial launch contract. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A hypersonic air-breathing technology demonstration, not weapon induction.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-B. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-C. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-D. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
+### Solution 26 — B
 
-**Answer: B.**
-**Explanation:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Confirmation of a classified payload's exact mass. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A flight trial, not an inducted capability.
+- **B:** Correct — A flight trial, not an inducted capability. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — A deployed inventory figure. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A flight trial, not an inducted capability.
+- **D:** Incorrect — Proof the HSTDV itself became an inducted missile. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A flight trial, not an inducted capability.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q43. Which statement uses IGMDP-history boundary without changing its institution, unit or status?
+### Solution 27 — C
 
-A. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-D. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
+- **A:** Incorrect — Agni-P became a surface-to-air interceptor. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Rail-mobile scenario was tested; road-mobile Agni-P was separately described as inducted.
+- **B:** Incorrect — No road-mobile variant existed. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Rail-mobile scenario was tested; road-mobile Agni-P was separately described as inducted.
+- **C:** Correct — Rail-mobile scenario was tested; road-mobile Agni-P was separately described as inducted. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Every rail-mobile launcher was already delivered. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Rail-mobile scenario was tested; road-mobile Agni-P was separately described as inducted.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 28 — D
 
-### Q44. Which option avoids the standard UPSC close-option trap about IGMDP-history boundary?
+- **A:** Incorrect — Deployed fleet confirmed. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is User trials completed, not necessarily induction.
+- **B:** Incorrect — Only a paper proposal. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is User trials completed, not necessarily induction.
+- **C:** Incorrect — Signed mass-production delivery certificate. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is User trials completed, not necessarily induction.
+- **D:** Correct — User trials completed, not necessarily induction. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-B. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-C. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-D. The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
+### Solution 29 — A
 
-**Answer: D.**
-**Explanation:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Correct — Legacy Akash is inducted; Akash-NG's 2025 user trials are a different status. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — Both are only untested concepts. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Legacy Akash is inducted; Akash-NG's 2025 user trials are a different status.
+- **C:** Incorrect — Every Akash variant was inducted in 2015. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Legacy Akash is inducted; Akash-NG's 2025 user trials are a different status.
+- **D:** Incorrect — Akash is an air-to-air missile. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Legacy Akash is inducted; Akash-NG's 2025 user trials are a different status.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q45. Which statement correctly identifies BrahMos-JV boundary?
+### Solution 30 — B
 
-A. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-D. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
+- **A:** Incorrect — Identical status to a completed purchase contract. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prepared for the induction decision, not already confirmed fielded.
+- **B:** Correct — Prepared for the induction decision, not already confirmed fielded. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Mass deployed with a published squadron count. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prepared for the induction decision, not already confirmed fielded.
+- **D:** Incorrect — A long-range strategic ballistic missile. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Prepared for the induction decision, not already confirmed fielded.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 31 — C
 
-### Q46. Which option preserves the technical boundary of BrahMos-JV boundary?
+- **A:** Incorrect — A first flight test only. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is An acquisition commitment, not automatically delivery of each unit.
+- **B:** Incorrect — That MRSAM is rocket artillery. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is An acquisition commitment, not automatically delivery of each unit.
+- **C:** Correct — An acquisition commitment, not automatically delivery of each unit. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Automatic proof of final deployment numbers. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is An acquisition commitment, not automatically delivery of each unit.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-B. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-C. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
+### Solution 32 — D
 
-**Answer: B.**
-**Explanation:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — A formally inducted nationwide inventory. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A successful maiden flight test, not verified mass deployment.
+- **B:** Incorrect — An operational naval cruise-missile squadron. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A successful maiden flight test, not verified mass deployment.
+- **C:** Incorrect — A finished fuel breeding cycle. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is A successful maiden flight test, not verified mass deployment.
+- **D:** Correct — A successful maiden flight test, not verified mass deployment. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q47. Which statement uses BrahMos-JV boundary without changing its institution, unit or status?
+### Solution 33 — A
 
-A. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-D. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
+- **A:** Correct — The official system role and dated source classification. This matches the exact classification, named role or evidentiary rung in the question.
+- **B:** Incorrect — An unattributed maximum range copied from social media. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is The official system role and dated source classification.
+- **C:** Incorrect — A speculative classified payload. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is The official system role and dated source classification.
+- **D:** Incorrect — An invented exact operational unit count. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is The official system role and dated source classification.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: C.**
-**Explanation:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Solution 34 — B
 
-### Q48. Which option avoids the standard UPSC close-option trap about BrahMos-JV boundary?
+- **A:** Incorrect — An orbital insertion proves a missile's induction. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Weapon mission, guidance and operational governance versus space-access mission.
+- **B:** Correct — Weapon mission, guidance and operational governance versus space-access mission. This matches the exact classification, named role or evidentiary rung in the question.
+- **C:** Incorrect — Both must be classed as artillery. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Weapon mission, guidance and operational governance versus space-access mission.
+- **D:** Incorrect — DRDO alone procures every orbital launcher. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Weapon mission, guidance and operational governance versus space-access mission.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-A. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-B. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-C. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-D. BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
+### Solution 35 — C
 
-**Answer: D.**
-**Explanation:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+- **A:** Incorrect — Sovereign membership of ITER. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDO-led academia and research collaboration.
+- **B:** Incorrect — Awarding the DAC's AoN. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDO-led academia and research collaboration.
+- **C:** Correct — DRDO-led academia and research collaboration. This matches the exact classification, named role or evidentiary rung in the question.
+- **D:** Incorrect — Automatically granting combat induction. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is DRDO-led academia and research collaboration.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-### Q49. Which statement correctly identifies Test-status ladder?
+### Solution 36 — D
 
-A. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
+- **A:** Incorrect — A first test already guarantees spare-part capacity. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Service acceptance, scaled quality production, sustainment and supply-chain control still matter.
+- **B:** Incorrect — R&D and manufacturing are administratively identical. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Service acceptance, scaled quality production, sustainment and supply-chain control still matter.
+- **C:** Incorrect — No user evaluation can follow a test. This is a different flight mechanism, institutional actor, weapon role or unproven stronger status; the supported answer is Service acceptance, scaled quality production, sustainment and supply-chain control still matter.
+- **D:** Correct — Service acceptance, scaled quality production, sustainment and supply-chain control still matter. This matches the exact classification, named role or evidentiary rung in the question.
+**Trap:** Never turn a range label, test, recommendation or AoN into proof of an inducted fleet.
 
-**Answer: A.**
-**Explanation:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+## Verified and provisional PYQ demand solutions
 
-### Q50. Which option preserves the technical boundary of Test-status ladder?
+### 2021 GS-III — S-400 air defence (verified routed Mains demand)
 
-A. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-B. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-C. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
+**Demand:** Explain the technical superiority of the S-400 air-defence system over other systems. The demand is from the paired routed PYQ ledger; this is an independently composed answer, not an official key.
 
-**Answer: B.**
-**Explanation:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Model solution:** The S-400 should be assessed as an integrated air-defence architecture rather than one standalone missile. Its surveillance and engagement radars, command-and-control network and differing interceptor types allow detection, tracking, prioritisation and engagement of different aerial targets across layered distances. This integration can enlarge defended airspace and permit simultaneous responses to diverse threats, including aircraft and some missile profiles. Technical superiority is therefore a claim about sensor-to-shooter coordination, target handling and layered interception rather than an unverified number for a single interceptor. Interception performance depends on terrain, radar horizon, electronic countermeasures, operator training and integration with other national sensors and weapons. No publicly sourced system guarantees total protection or reveals India's classified deployment pattern. In comparing systems, specify threat type, radar and command architecture, interceptor options and operational constraints; a surface-to-air system is not interchangeable with an air-to-air Astra missile or an offensive BrahMos cruise missile.
 
-### Q51. Which statement uses Test-status ladder without changing its institution, unit or status?
+### 2023 Prelims GS-I — Agni versus BrahMos (verified routed concept; no official answer letter)
 
-A. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-B. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-C. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
+**Demand:** Distinguish Agni ballistic missiles from BrahMos cruise missiles. The precise objective options and official key are not available here, so no option combination is invented.
 
-**Answer: C.**
-**Explanation:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Conceptual solution:** Agni denotes a strategic ballistic family: a rocket boost is followed by a substantially unpowered, gravity-shaped trajectory. DRDO describes BrahMos as a supersonic cruise system, developed and produced through BrahMos Aerospace, a DRDO–NPOM joint venture; guided, powered atmospheric flight is its defining distinction. Range alone is neither an adequate classification nor a licence to infer classified payload and deployment details.
 
-### Q52. Which option avoids the standard UPSC close-option trap about Test-status ladder?
+### 2026 Prelims GS-I — stealth and radar cross-section (provisional routed concept)
 
-A. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-B. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-C. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-D. Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
+**Demand:** Evaluate claims about stealth, radar cross-section and detection; ownership and exact options remain provisional. No official answer letter is asserted.
 
-**Answer: D.**
-**Explanation:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+**Conceptual solution:** Lower observable design uses shaping, materials and tactics to reduce radar returns; reduced radar cross-section is not invisibility. Detection also depends on radar band, geometry, sensor networking, signal processing and environment. No definite Indian platform specification or option key follows from this conceptual distinction.
 
-### Q53. Which statement correctly identifies AoN-contract boundary?
+## Original Mains practice — six independent solutions
 
-A. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
+### Original Mains 1 — 10 marks · 150 words
+**Question:** Differentiate ballistic, cruise and boost-glide trajectories without relying on range labels.
+**Model answer:** A ballistic missile uses powered boost before much of its trajectory is governed by gravity; an Agni system illustrates the strategic ballistic category. A cruise missile sustains guided powered flight through the atmosphere; DRDO describes the ramjet-powered BrahMos as a supersonic cruise missile. A boost-glide system uses a rocket to reach speed and altitude, then manoeuvres unpowered along a depressed glide path. These are flight-profile distinctions, not simply short, medium and long range classes. Hypersonic denotes speed rather than one propulsion class: a re-entering ballistic warhead can exceed Mach 5, while a scramjet can power a different hypersonic cruise concept. India’s HSTDV demonstrated scramjet technology, not an inducted weapon. The comparison matters for sensing, air defence and response-time analysis. Public claims about precise payloads, classified operational performance or induction cannot be inferred from a generic technology demonstration; quote the named source and its actual status.
 
-**Answer: A.**
-**Explanation:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 2 — 10 marks · 150 words
+**Question:** Explain DRDO’s role in the development-to-induction pathway for missiles.
+**Model answer:** The armed services define operational needs and evaluate whether equipment meets them. DRDO, under the Department of Defence R&D in the Ministry of Defence, designs and develops systems through specialised laboratories, integration and trials. Its Missiles and Strategic Systems cluster spans propulsion, guidance, homing, launch and command-and-control technologies. Instrumented developmental tests provide evidence, but user trials and service decisions are distinct steps. Production partners must manufacture to repeatable quality; the separate Department of Defence Production handles the industrial policy side. The Defence Acquisition Council’s Acceptance of Necessity authorises an acquisition in principle, not a delivery or induction. For example, an Akash-NG user-trial completion announcement cannot simply be rewritten as service-wide deployment of the newer variant, even though legacy Akash is operational. Indigenous R&D therefore strengthens options but does not establish full self-reliance until procurement, scaled manufacture, spares, maintenance and doctrinal integration work together.
 
-### Q54. Which option preserves the technical boundary of AoN-contract boundary?
+### Original Mains 3 — 15 marks · 250 words
+**Question:** Analyse how missile families answer different military requirements.
+**Model answer:** Missile systems should be classified by mission, flight profile and platform rather than by sensational maximum-range comparisons. Agni ballistic systems support strategic deterrence: powered boost is followed by a largely ballistic flight path, so readiness and survivability matter. The Prithvi family records an earlier indigenous ballistic base. BrahMos Aerospace, a DRDO–Russian NPOM joint venture, develops and produces the BrahMos supersonic cruise system; sustained guided atmospheric flight differentiates it from ballistic missiles. Akash is a short-range surface-to-air system intended to intercept aerial threats from ground launchers. The Astra family instead addresses aircraft-to-aircraft engagement, while Nag focuses on armour with anti-tank guidance. Pinaka is an artillery rocket family; guided Pinaka variants should not be reclassified as ordinary cruise missiles simply because guidance is added. These roles create different seeker, propulsion, launcher and control requirements. DRDO’s MSS cluster develops enabling technologies and integrates them with user needs, but the services test and induct platforms and industrial partners manufacture them. Public status also varies: operational legacy Akash and BrahMos cannot be treated as having the same evidentiary status as a first flight test of a new Pinaka variant. The conclusion is an analytical taxonomy: role and dated verified stage before performance numbers. Unverified payload or classified range claims add no reliable examination value.  Comparing launch environment also matters: airborne Astra requires aircraft integration, whereas ground-based Akash needs surveillance and air-defence command links. Pinaka relies on area-fire doctrine and launcher logistics rather than a strategic nuclear-delivery role. These different operational requirements prevent false equivalence.
 
-A. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-B. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-C. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
+### Original Mains 4 — 15 marks · 250 words
+**Question:** Discuss IGMDP’s institutional legacy and the limits of attributing later programmes to it.
+**Model answer:** The Integrated Guided Missile Development Programme began in 1983 and ended in March 2012. Its sanctioned scope included Prithvi, Trishul, Akash, Nag and an Agni technology demonstrator. Those diverse projects built experience in propulsion, seekers, airframes, guidance, integration and testing rather than producing a single interchangeable class of missiles. Prithvi is associated with an early ballistic capability; Akash illustrates ground-based air defence; Nag is anti-armour; the Agni demonstrator contributed to subsequent strategic-system work. Trishul’s inclusion in the original programme does not imply it was inducted. The programme’s longer-term significance is a wider scientific and industrial base for successive generations of systems. But BrahMos, Astra, Agni-5, QRSAM, MRSAM and hypersonic research are not retrospectively IGMDP projects. DRDO continues R&D through the MSS cluster and partnership arrangements such as BrahMos Aerospace, while service requirements, trials, production partners and acquisition decisions shape operational outcomes. IGMDP is therefore a historical institutional platform, not a perpetual umbrella to which every missile launch can be attributed. Assess its legacy by accumulated subsystem competence and differentiated capabilities, while checking each later system’s own development and induction record.  The five historical project names should be memorised with their distinct roles, but not read as five identically successful inductions. Later institutional learning did not imply that every subsequent subsystem was designed or manufactured wholly in India; verify suppliers separately. This is a capability inheritance argument, not evidence that an earlier project directly produced every weapon bearing a familiar family name.
 
-**Answer: B.**
-**Explanation:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
+### Original Mains 5 — 20 marks · 250 words
+**Question:** Evaluate why recent tests of Agni, hypersonic and air-defence technologies require careful status reporting.
+**Model answer:** A missile headline is meaningful only if its technology and evidence rung are kept separate. Mission Divyastra in March 2024 reported a first flight test of indigenous MIRV technology with Agni-5; MIRV means multiple independently targetable re-entry vehicles. A test does not itself establish formally recorded induction, a particular deployed inventory or undisclosed payload specifications. The September 2025 rail-mobile Agni-Prime launch demonstrated an operational-scenario launcher; the same official reporting distinguished an already inducted road-mobile variant from the prospective rail-based pathway. India’s 2020 HSTDV test demonstrated scramjet air-breathing technology; a separate 2024 long-range hypersonic missile flight was a trial, not proof that either platform was inducted. In air defence, legacy Akash is described as inducted and operational, while Akash-NG’s user evaluation trials were described as paving the way for induction. QRSAM’s “ready for induction” is likewise not equivalent to a deployment count. A MRSAM contract records a procurement commitment, not delivery of every unit. DRDO creates and tests technologies; users evaluate operational fit and production partners meet scale and maintainability needs. Thus an evidence-led answer identifies official date, platform, type, phase and reporting authority. This preserves deterrence analysis without leaking or inventing classified capabilities.  Conversely, the absence of a public induction note should not be misreported as technical failure. Governments may disclose tests without publishing inventories. Evidence-based writing limits claims to the verified launch, reported configuration and dated official language, leaving confidential details unasserted. Specify whether a reported missile event is a prototype launch, user trial or service induction before attributing strategic consequences.
 
-### Q55. Which statement uses AoN-contract boundary without changing its institution, unit or status?
-
-A. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-B. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-C. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-D. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-
-**Answer: C.**
-**Explanation:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about AoN-contract boundary?
-
-A. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-B. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-C. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-D. Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-
-**Answer: D.**
-**Explanation:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q57. Which statement correctly identifies Production-agency boundary?
-
-A. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-B. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-C. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-D. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-
-**Answer: A.**
-**Explanation:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q58. Which option preserves the technical boundary of Production-agency boundary?
-
-A. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-B. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-C. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-
-**Answer: B.**
-**Explanation:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q59. Which statement uses Production-agency boundary without changing its institution, unit or status?
-
-A. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-B. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-C. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-
-**Answer: C.**
-**Explanation:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Production-agency boundary?
-
-A. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-B. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-
-**Answer: D.**
-**Explanation:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q61. Which statement correctly identifies Integrated-air-defence boundary?
-
-A. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-B. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-C. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-
-**Answer: A.**
-**Explanation:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q62. Which option preserves the technical boundary of Integrated-air-defence boundary?
-
-A. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-B. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-
-**Answer: B.**
-**Explanation:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q63. Which statement uses Integrated-air-defence boundary without changing its institution, unit or status?
-
-A. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-B. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-C. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-D. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-
-**Answer: C.**
-**Explanation:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Integrated-air-defence boundary?
-
-A. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-B. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-
-**Answer: D.**
-**Explanation:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q65. Which statement correctly identifies Stealth-detection boundary?
-
-A. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-B. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-
-**Answer: A.**
-**Explanation:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q66. Which option preserves the technical boundary of Stealth-detection boundary?
-
-A. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-B. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-
-**Answer: B.**
-**Explanation:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q67. Which statement uses Stealth-detection boundary without changing its institution, unit or status?
-
-A. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-B. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-C. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-D. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-
-**Answer: C.**
-**Explanation:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Stealth-detection boundary?
-
-A. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-B. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-C. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-D. Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-
-**Answer: D.**
-**Explanation:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q69. Which statement correctly identifies Explosives-category boundary?
-
-A. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-B. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-C. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-D. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-
-**Answer: A.**
-**Explanation:** CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q70. Which option preserves the technical boundary of Explosives-category boundary?
-
-A. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-B. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-C. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-D. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-
-**Answer: B.**
-**Explanation:** CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q71. Which statement uses Explosives-category boundary without changing its institution, unit or status?
-
-A. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-B. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-C. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-
-**Answer: C.**
-**Explanation:** CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Explosives-category boundary?
-
-A. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-B. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-C. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-D. CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail.
-
-**Answer: D.**
-**Explanation:** CL-20, HMX and LLM-105 are high-energy substances discussed as military explosives; a chemical-category fact supplies no handling, composition, warhead or deployment detail. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q73. Which statement correctly identifies THAAD-FOBS boundary?
-
-A. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-B. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-C. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-D. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-
-**Answer: A.**
-**Explanation:** THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q74. Which option preserves the technical boundary of THAAD-FOBS boundary?
-
-A. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-B. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-C. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-
-**Answer: B.**
-**Explanation:** THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q75. Which statement uses THAAD-FOBS boundary without changing its institution, unit or status?
-
-A. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-B. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-C. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-
-**Answer: C.**
-**Explanation:** THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about THAAD-FOBS boundary?
-
-A. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-B. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-C. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-D. THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme.
-
-**Answer: D.**
-**Explanation:** THAAD is a United States terminal high-altitude anti-ballistic-missile defence system, while a Fractional Orbital Bombardment System is a partial-orbit strike concept; neither is an Indian missile programme. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q77. Which statement correctly identifies Volatile-capability boundary?
-
-A. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-B. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-C. DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-D. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-
-**Answer: A.**
-**Explanation:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q78. Which option preserves the technical boundary of Volatile-capability boundary?
-
-A. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-B. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-C. The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-D. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-
-**Answer: B.**
-**Explanation:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q79. Which statement uses Volatile-capability boundary without changing its institution, unit or status?
-
-A. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-B. The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-C. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-D. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-
-**Answer: C.**
-**Explanation:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Volatile-capability boundary?
-
-A. A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-B. Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-C. A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-D. Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-
-**Answer: D.**
-**Explanation:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The other options change the scientific category, institutional owner, measurement, mission rung or operating status.
-
-## PYQS AND ANSWER PRACTICE
-
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
-
-Audited ledgers route the 2021 S-400 Mains demand, the 2023 ballistic-versus-cruise objective concept and later provisional defence-technology concepts here. No objective key, sensitive specification or deployment fact is invented.
-
-### PYQ DEMAND CARD 1 — 2021 GS-III
-
-**Demand:** Explain the technical superiority of the S-400 air-defence system over other systems.
-
-**Status:** Verified routed Mains demand; the answer uses sensor-command-interceptor architecture and does not invent classified Indian deployment detail.
-
-**Model solution:** **SAM-AAM boundary:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Test-status ladder:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Integrated-air-defence boundary:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2021 GS-III”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **SAM-AAM boundary:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Test-status ladder:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Integrated-air-defence boundary:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explain the technical superiority of the S-400 air-defence system over other systems. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; the answer uses sensor-command-interceptor architecture and does not invent classified Indian deployment detail. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **SAM-AAM boundary:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Test-status ladder:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Integrated-air-defence boundary:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2021 GS-III”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### PYQ DEMAND CARD 2 — 2023 Prelims GS-I
-
-**Demand:** Distinguish Agni ballistic missiles from BrahMos cruise missiles.
-
-**Status:** Verified routed objective concept; the local official answer key was unavailable, so no answer letter is asserted.
-
-**Model solution:** **Ballistic-cruise boundary:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **BrahMos-JV boundary:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 2 — 2023 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Ballistic-cruise boundary:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **BrahMos-JV boundary:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Distinguish Agni ballistic missiles from BrahMos cruise missiles. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed objective concept; the local official answer key was unavailable, so no answer letter is asserted. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Ballistic-cruise boundary:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **BrahMos-JV boundary:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2023 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### PYQ DEMAND CARD 3 — 2026 Prelims GS-I
-
-**Demand:** Assess stealth, radar cross-section and detection statements.
-
-**Status:** Provisional routed concept; no option letter is recorded or inferred.
-
-**Model solution:** **Stealth-detection boundary:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Demand decoding:** Treat “PYQ DEMAND CARD 3 — 2026 Prelims GS-I” as a mechanism, category, institution, unit, date and status problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Stealth-detection boundary:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess stealth, radar cross-section and detection statements. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Status: Provisional routed concept; no option letter is recorded or inferred. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Stealth-detection boundary:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Volatile-capability boundary:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** Identify the object and actor; trace the technical mechanism; fix the measurement and platform; test each statement against source date, status rung and closest exception.
-
-**Why this earns marks:** It prevents organisation, platform, process, application, regulatory role, target and observed outcome from being conflated.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2026 Prelims GS-I”, explain why the nearest distractor fails on mechanism, platform, unit, institution, legal status, maturity or date.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish DRDO's role from the roles of the armed services and production agencies. Answer in about 150 words.
-
-**Model thesis:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-- The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-- The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-- DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-
-**Qualified conclusion:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish DRDO's role from the roles of the armed services and production agencies. Answer…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Distinguish DRDO's role from the roles of the armed services and production agencies. Answer…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Differentiate ballistic, cruise and guided rocket-artillery systems. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hypersonic-class boundary. **Named evidence/example:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Missile-platform boundary. **Named evidence/example:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-- Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet.
-- Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-- A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself.
-
-**Qualified conclusion:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hypersonic-class boundary. **Named evidence/example:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Missile-platform boundary. **Named evidence/example:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate ballistic, cruise and guided rocket-artillery systems. Answer in about 150…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hypersonic-class boundary. **Named evidence/example:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Missile-platform boundary. **Named evidence/example:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Hypersonic-class boundary. **Named evidence/example:** Hypersonic describes speed rather than one missile class: a boost-glide vehicle is rocket-boosted and manoeuvres while gliding, while a hypersonic cruise system uses sustained air-breathing propulsion such as a scramjet. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Missile-platform boundary. **Named evidence/example:** A missile is the guided weapon, while an aircraft, ship, submarine, vehicle or launcher is the delivery platform; one missile may have multiple launch configurations without becoming the platform itself. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Differentiate ballistic, cruise and guided rocket-artillery systems. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain how subsystem integration and user evaluation convert research into a missile system. Answer in about 250 words.
-
-**Model thesis:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-- A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-- Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-- DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-
-**Qualified conclusion:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how subsystem integration and user evaluation convert research into a missile system.…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Explain how subsystem integration and user evaluation convert research into a missile system.…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Analyse India's missile ecosystem through role-based families rather than range lists. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SAM-AAM boundary. **Named evidence/example:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATGM boundary. **Named evidence/example:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IGMDP-history boundary. **Named evidence/example:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class.
-- A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories.
-- An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role.
-- Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle.
-- The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products.
-- BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-
-**Qualified conclusion:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SAM-AAM boundary. **Named evidence/example:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATGM boundary. **Named evidence/example:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IGMDP-history boundary. **Named evidence/example:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse India's missile ecosystem through role-based families rather than range lists. Answer…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SAM-AAM boundary. **Named evidence/example:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATGM boundary. **Named evidence/example:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IGMDP-history boundary. **Named evidence/example:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** Ballistic-cruise boundary. **Named evidence/example:** A ballistic missile receives powered boost and then follows a largely ballistic trajectory, whereas a cruise missile sustains guided atmospheric flight using an air-breathing engine; range alone does not define either class. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** SAM-AAM boundary. **Named evidence/example:** A surface-to-air missile is launched from the surface against aerial threats, while an air-to-air missile is launched from an aircraft; Akash and Astra therefore belong to different operational and launch-platform categories. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** ATGM boundary. **Named evidence/example:** An anti-tank guided missile is designed for armoured targets and uses a guidance and seeker logic distinct from strategic ballistic, cruise and air-defence systems; the Nag family belongs to this role. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Rocket-artillery boundary. **Named evidence/example:** Pinaka is a multi-barrel rocket and guided-rocket artillery family for land fires; sharing rocket propulsion does not turn it into a strategic ballistic missile, cruise missile or space launch vehicle. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** IGMDP-history boundary. **Named evidence/example:** The Integrated Guided Missile Development Programme ran from 1983 to March 2012 and covered Prithvi, Trishul, Akash, Nag and the Agni technology demonstrator; later families are not automatically IGMDP products. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Analyse India's missile ecosystem through role-based families rather than range lists. Answer…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate the development-to-deployment chain for indigenous missile and air-defence capability. Answer in about 300 words.
-
-**Model thesis:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-contract boundary. **Named evidence/example:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale.
-- The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction.
-- A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-- Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-- Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment.
-- DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system.
-- Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-- Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-
-**Qualified conclusion:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-contract boundary. **Named evidence/example:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the development-to-deployment chain for indigenous missile and air-defence…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-contract boundary. **Named evidence/example:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-8. **Claim and named evidence:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** DRDO-developer boundary. **Named evidence/example:** DRDO is the Ministry of Defence research-and-development organisation: it designs, develops, integrates and tests systems and facilitates production and induction; the armed services are users and production agencies manufacture at scale. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Requirement-user boundary. **Named evidence/example:** The Army, Navy and Air Force articulate operational requirements, participate in user evaluation and decide service acceptance; a DRDO developmental result cannot be rewritten as service induction. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** AoN-contract boundary. **Named evidence/example:** Defence Acquisition Council Acceptance of Necessity is in-principle approval of a requirement and category, not a signed contract, delivery, induction or operational deployment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Production-agency boundary. **Named evidence/example:** DRDO-developed systems require production partners such as DPSUs, joint ventures or private firms; developer identity does not establish who manufactures, maintains or upgrades the fielded system. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Evaluate the development-to-deployment chain for indigenous missile and air-defence…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Discuss strategic autonomy in defence R&D while preserving secrecy, status and institutional boundaries. Answer in about 300 words.
-
-**Model thesis:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Stealth-detection boundary. **Named evidence/example:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres.
-- A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon.
-- BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile.
-- Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested.
-- Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield.
-- Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment.
-- Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers.
-
-**Qualified conclusion:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Stealth-detection boundary. **Named evidence/example:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss strategic autonomy in defence R&D while preserving secrecy, status and institutional…”, each clause, the exact technical mechanism, named Indian institution, dated status, application, risk and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Stealth-detection boundary. **Named evidence/example:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-2. **Claim and named evidence:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-3. **Claim and named evidence:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-4. **Claim and named evidence:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-5. **Claim and named evidence:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-6. **Claim and named evidence:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-7. **Claim and named evidence:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** Connect mechanism → named system/institution → application or implementation pathway → public or strategic consequence. **Qualification:** State platform, unit, source/date/status, maturity, regulatory limit, uncertainty, exception or residual risk.
-
-**Counter-position / limit:** A launch, test, target, budget, capacity, approval, contract, dataset, benchmark or prototype cannot alone establish deployment, induction, commercial operation, safety, inclusion or observed outcome; test mechanism, status, scale and evidence.
-
-**Qualified conclusion:** **Claim:** MSS-cluster boundary. **Named evidence/example:** The Missiles and Strategic Systems cluster is responsible for missile and strategic-system design and development through DRDL, RCI, ASL, TBRL and ITR plus supporting test, integration and analysis centres. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Subsystem-chain boundary. **Named evidence/example:** A missile system combines airframe, propulsion, navigation, guidance, homing or seeker, warhead, launch system and command-and-control; success of one subsystem is not proof of an integrated operational weapon. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** BrahMos-JV boundary. **Named evidence/example:** BrahMos is a supersonic cruise-missile system developed and produced through BrahMos Aerospace, the DRDO-NPOM joint venture; it is neither a purely solo domestic programme nor a ballistic missile. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Test-status ladder. **Named evidence/example:** Developmental trial, user evaluation, ready-for-induction language, contract, induction and deployment are separate rungs; a successful test proves only the proposition and configuration officially tested. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Integrated-air-defence boundary. **Named evidence/example:** Air and missile defence is a sensor, command-and-control and interceptor architecture; an announced integrated mission or one interceptor does not prove a nationwide deployed shield. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Stealth-detection boundary. **Named evidence/example:** Stealth seeks lower observability through shaping, materials and operating tactics, but it does not mean invisibility; detection depends on sensors, frequency, geometry, processing and the operational environment. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary. **Claim:** Volatile-capability boundary. **Named evidence/example:** Missile range, speed, stages, guidance, warhead, payload, deployment, inventory and exact test outcome require a dated official source; qualitative role labels cannot be expanded into unaudited numbers. **Analysis:** This fixes the scientific process, system boundary, institution, application and verified capability rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, unit, institution, system category, legal character and development-to-deployment status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism → system/institution → application/status → risk/outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, date, actor, platform, approval/test/deployment rung and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains science rather than listing schemes, uses India-centric evidence and preserves technical, institutional, regulatory and maturity distinctions.
-
-**How to improve this answer:** For “Discuss strategic autonomy in defence R&D while preserving secrecy, status and institutional…”, replace the weakest catalogue point with one exact mechanism, named mission/institution/platform, dated status, measurable boundary, implementation constraint and answer-specific qualification.
+### Original Mains 6 — 20 marks · 250 words
+**Question:** Assess the relationship between indigenous defence R&D, industrial autonomy and strategic credibility.
+**Model answer:** Indigenous R&D builds design control, but strategic credibility requires an entire chain. The armed services articulate qualitative requirements; DRDO’s laboratories and its Missiles and Strategic Systems cluster develop propulsion, airframes, guidance, seekers and command systems. BrahMos Aerospace shows that a joint venture can deliver a useful cruise system without being a purely domestic programme. DRDO’s DIA-CoEs bring academic expertise into advanced research. Instrumented developmental trials must be followed by user validation, production at consistent quality, spares, maintenance and service integration. The separate Department of Defence Production deals with production infrastructure, while the Defence Acquisition Council may grant only in-principle Acceptance of Necessity; neither an AoN nor a test establishes deliveries. Agni deterrence systems, Akash air defence, Astra air combat, Nag anti-armour and Pinaka artillery embody distinct roles requiring distinct supply chains. Bottlenecks in special materials, electronics and reliable manufacture can persist despite a successful launch. Public claims about range, exact payload or inventory are particularly sensitive; official role labels and dated status terms offer a sounder evidence base. Strategic autonomy should therefore be measured in domestically controlled subsystems, user acceptance and sustainable production, not counted by announcements alone. This approach respects both security constraints and the difference between aspiration and fielded capability.  A balanced industrial assessment should also account for time-to-field: a locally designed component is valuable, but a delayed supply chain can leave an operational gap. Stable orders and service feedback help convert scientific potential into dependable readiness.

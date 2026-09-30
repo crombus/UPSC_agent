@@ -4,315 +4,155 @@ topic_key: polity-20
 ---
 # State Legislature — Solved Practice Workbook
 
-> Exactly 32 original MCQs precede the audited PYQs. The answer key is `ABCD` repeated eight times. Every option has a question-specific explanation and every MCQ has a distinct examiner trap.
+> Forty-four original MCQs precede the separate solved key and audited PYQs. Attempt every question before checking the option-specific rationales and examiner traps.
 
 ## BASIC MCQS / REMEDIATION
 
-### Exactly 32 original MCQs — answer key ABCD x 8
+### 44 original MCQs — attempt all before consulting the separate solved key
 
 #### MCQ 1. State bicameralism
 
-Which statement is correct?
+A candidate claims every State must have a Council because Parliament has two Houses. Which response identifies the actual State constitutional design?
 
 A. Every State has an Assembly, while only specified States have a Council.
 B. Parliament alone may initiate a Council without State action.
 C. The Governor is outside the State legislature.
 D. Every State must have two Houses.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "Every State has an Assembly, while only specified States have a Council." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
-- **B:** Incorrect. Option B states "Parliament alone may initiate a Council without State action." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
-- **C:** Incorrect. Option C states "The Governor is outside the State legislature." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
-- **D:** Incorrect. Option D states "Every State must have two Houses." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
-
-**Examiner trap:** Governor-plus-House composition does not make the Governor a House member.
-
 #### MCQ 2. Article 169
 
-Parliament may create a Council after:
+A State Assembly wants to initiate a Council's creation. Before Parliament can act under Article 169, the Assembly must pass:
 
 A. a simple-majority Council resolution.
 B. an Assembly special-majority resolution.
 C. presidential reference to the Supreme Court.
 D. ratification by half the States.
 
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "a simple-majority Council resolution." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
-- **B:** Correct. Option B states "an Assembly special-majority resolution." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
-- **C:** Incorrect. Option C states "presidential reference to the Supreme Court." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
-- **D:** Incorrect. Option D states "ratification by half the States." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
-
-**Examiner trap:** The Article 169 special majority belongs to the Assembly resolution, not Parliament's Act.
-
 #### MCQ 3. Parliamentary majority
 
-The Article 169 law is passed by Parliament:
+Following a valid State resolution, how does Parliament pass the law creating a Council?
 
 A. by two-thirds of total membership.
 B. only in a joint sitting.
 C. as an ordinary law by simple majority.
 D. only after State ratification.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "by two-thirds of total membership." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
-- **B:** Incorrect. Option B states "only in a joint sitting." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
-- **C:** Correct. Option C states "as an ordinary law by simple majority." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
-- **D:** Incorrect. Option D states "only after State ratification." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
-
-**Examiner trap:** An Article 169 law may alter constitutional text incidentally without becoming an Article 368 amendment.
-
 #### MCQ 4. Council strength
 
-The Council's strength is ordinarily:
+A proposal would give a State Council as many members as its Assembly. Which size limit makes the proposal defective?
 
 A. at least 60.
 B. fixed by the Governor.
 C. exactly half the Assembly.
 D. not more than one-third of Assembly strength and not below 40.
 
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "at least 60." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
-- **B:** Incorrect. Option B states "fixed by the Governor." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
-- **C:** Incorrect. Option C states "exactly half the Assembly." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
-- **D:** Correct. Option D states "not more than one-third of Assembly strength and not below 40." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
-
-**Examiner trap:** Do not substitute a sixty-member minimum for Article 171's forty-member floor.
-
 #### MCQ 5. Local bodies
 
-Approximately what share of a Council is elected by local authorities?
+A proposed Council design has no seats elected by municipalities or other specified local bodies. Approximately what fraction must be allocated to that electorate?
 
 A. One-third.
 B. One-sixth.
 C. One-twelfth.
 D. Two-thirds.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "One-third." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
-- **B:** Incorrect. Option B states "One-sixth." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
-- **C:** Incorrect. Option C states "One-twelfth." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
-- **D:** Incorrect. Option D states "Two-thirds." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
-
-**Examiner trap:** Local-authority members are not elected by the whole State electorate.
-
 #### MCQ 6. Graduates
 
-Graduates elect:
+An Article 171 allocation table mistakenly places graduates in the MLA-elected one-third. What fraction actually belongs to the graduate electorate?
 
 A. one-third.
 B. one-twelfth.
 C. half.
 D. one-sixth.
 
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "one-third." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
-- **B:** Correct. Option B states "one-twelfth." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
-- **C:** Incorrect. Option C states "half." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
-- **D:** Incorrect. Option D states "one-sixth." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
-
-**Examiner trap:** Graduate and teacher constituencies are separate one-twelfth streams.
-
 #### MCQ 7. Governor nominations
 
-The Governor nominates:
+A Council election plan allocates every place to elected categories. Which nomination component does this omit?
 
 A. all teacher members.
 B. one-third of the Assembly.
 C. one-sixth of the Council.
 D. one-twelfth of the Council.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "all teacher members." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
-- **B:** Incorrect. Option B states "one-third of the Assembly." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
-- **C:** Correct. Option C states "one-sixth of the Council." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
-- **D:** Incorrect. Option D states "one-twelfth of the Council." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
-
-**Examiner trap:** The nomination fields are literature, science, art, co-operative movement and social service; 'education' is not the text.
-
 #### MCQ 8. Council duration
 
-Which is correct?
+An Assembly is dissolved while its Council remains in office. Which description of the Council's duration explains this contrast?
 
 A. Half retires every three years.
 B. Council dissolves with the Assembly.
 C. Council has a five-year collective term.
 D. Council is permanent and one-third retires every two years.
 
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "Half retires every three years." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
-- **B:** Incorrect. Option B states "Council dissolves with the Assembly." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
-- **C:** Incorrect. Option C states "Council has a five-year collective term." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
-- **D:** Correct. Option D states "Council is permanent and one-third retires every two years." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
-
-**Examiner trap:** Permanent House does not mean permanent membership.
-
 #### MCQ 9. Minimum age
 
-Minimum age for Assembly membership is:
+A prospective MLA satisfies citizenship and statutory qualifications but is younger than a prospective Council member. What is the minimum age for the Assembly?
 
 A. 25.
 B. 30.
 C. 35.
 D. 21.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "25." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
-- **B:** Incorrect. Option B states "30." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
-- **C:** Incorrect. Option C states "35." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
-- **D:** Incorrect. Option D states "21." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
-
-**Examiner trap:** Assembly and Council candidacy ages are not identical.
-
 #### MCQ 10. Assembly term
 
-The normal Assembly term is:
+Unless sooner dissolved or constitutionally extended during a National Emergency, what ordinary duration attaches to an Assembly from its first meeting?
 
 A. permanent.
 B. five years unless sooner dissolved.
 C. six years.
 D. four years.
 
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "permanent." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
-- **B:** Correct. Option B states "five years unless sooner dissolved." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
-- **C:** Incorrect. Option C states "six years." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
-- **D:** Incorrect. Option D states "four years." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
-
-**Examiner trap:** The five-year Assembly period runs from its first meeting and remains subject to earlier dissolution.
-
 #### MCQ 11. Quorum
 
-State House quorum is:
+At a State House sitting, a member questions whether nine members suffice merely because they exceed one-tenth of a very small House. What default quorum rule applies until altered by State law?
 
 A. one-fifth.
 B. one-tenth, with no minimum.
 C. until the State Legislature otherwise provides by law, ten members or one-tenth, whichever is greater.
 D. exactly ten in every House.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "one-fifth." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
-- **B:** Incorrect. Option B states "one-tenth, with no minimum." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
-- **C:** Correct. Option C states "until the State Legislature otherwise provides by law, ten members or one-tenth, whichever is greater." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
-- **D:** Incorrect. Option D states "exactly ten in every House." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
-
-**Examiner trap:** The quorum rule includes both the ten-member floor and the 'until otherwise provided by law' clause.
-
 #### MCQ 12. Casting vote
 
-The presiding officer:
+Voting produces an exact tie in a State House. How does the presiding officer's ordinary voting position resolve it?
 
 A. cannot vote in a tie.
 B. has two ordinary votes.
 C. always votes first.
 D. ordinarily has no first vote but has a casting vote on equality.
 
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "cannot vote in a tie." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
-- **B:** Incorrect. Option B states "has two ordinary votes." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
-- **C:** Incorrect. Option C states "always votes first." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
-- **D:** Correct. Option D states "ordinarily has no first vote but has a casting vote on equality." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
-
-**Examiner trap:** A casting vote is triggered by equality; it is not a second ordinary vote.
-
 #### MCQ 13. Speaker after dissolution
 
-On Assembly dissolution, the Speaker:
+The Governor dissolves the Assembly; the new House has not yet met. What happens to the incumbent Speaker's office?
 
 A. continues until immediately before the first meeting of the new Assembly.
 B. becomes Governor.
 C. vacates immediately.
 D. continues for six months regardless of the new House.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "continues until immediately before the first meeting of the new Assembly." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
-- **B:** Incorrect. Option B states "becomes Governor." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
-- **C:** Incorrect. Option C states "vacates immediately." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
-- **D:** Incorrect. Option D states "continues for six months regardless of the new House." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
-
-**Examiner trap:** Assembly dissolution does not instantly vacate the Speaker.
-
 #### MCQ 14. Speaker removal
 
-Removal requires:
+Assembly members propose removing their Speaker without prior notice. Which combination of vote and notice is constitutionally required?
 
 A. Governor's order.
 B. majority of all then members after 14 days' notice.
 C. simple majority of those present without notice.
 D. two-thirds of total membership.
 
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "Governor's order." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
-- **B:** Correct. Option B states "majority of all then members after 14 days' notice." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
-- **C:** Incorrect. Option C states "simple majority of those present without notice." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
-- **D:** Incorrect. Option D states "two-thirds of total membership." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
-
-**Examiner trap:** Removal uses an effective majority of all then members, not two-thirds of total membership.
-
 #### MCQ 15. Defection adjudicator
 
-Tenth Schedule State-member disqualification is initially decided by:
+An MLA is alleged to have voluntarily given up party membership; no office-of-profit claim is made. Who initially adjudicates the defection issue?
 
 A. High Court.
 B. Governor on ECI advice.
 C. Speaker or Chairman.
 D. Chief Minister.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "High Court." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
-- **B:** Incorrect. Option B states "Governor on ECI advice." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
-- **C:** Correct. Option C states "Speaker or Chairman." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
-- **D:** Incorrect. Option D states "Chief Minister." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
-
-**Examiner trap:** Article 192 and Tenth Schedule paragraph 6 use different decision-makers.
-
 #### MCQ 16. Article 192
 
-For a non-defection Article 191 disqualification question, the Governor:
+An MLA is accused of incurring a non-defection disqualification after election. What must the Governor do under Article 192?
 
 A. acts personally without advice from any institution.
 B. sends it to Parliament.
 C. refers it to the Speaker.
 D. obtains and acts according to the Election Commission's opinion.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "acts personally without advice from any institution." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
-- **B:** Incorrect. Option B states "sends it to Parliament." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
-- **C:** Incorrect. Option C states "refers it to the Speaker." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
-- **D:** Correct. Option D states "obtains and acts according to the Election Commission's opinion." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
-
-**Examiner trap:** The Governor must follow the ECI opinion under Article 192.
 
 #### MCQ 17. Ordinary Bill delay
 
@@ -323,16 +163,6 @@ B. six months.
 C. one year.
 D. fourteen days.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "four months." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
-- **B:** Incorrect. Option B states "six months." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
-- **C:** Incorrect. Option C states "one year." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
-- **D:** Incorrect. Option D states "fourteen days." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
-
-**Examiner trap:** Three months plus one month is delay, not an absolute veto.
-
 #### MCQ 18. Joint sitting
 
 For disagreement between State Houses:
@@ -341,16 +171,6 @@ A. President chairs a joint sitting.
 B. no constitutional joint sitting exists.
 C. Governor always calls a joint sitting.
 D. Supreme Court resolves amendments.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "President chairs a joint sitting." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
-- **B:** Correct. Option B states "no constitutional joint sitting exists." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
-- **C:** Incorrect. Option C states "Governor always calls a joint sitting." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
-- **D:** Incorrect. Option D states "Supreme Court resolves amendments." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
-
-**Examiner trap:** Article 108's joint sitting has no State-level mirror.
 
 #### MCQ 19. Money Bill introduction
 
@@ -361,16 +181,6 @@ B. in either House.
 C. only in the Assembly.
 D. only in Parliament.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "only in the Council." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
-- **B:** Incorrect. Option B states "in either House." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
-- **C:** Correct. Option C states "only in the Assembly." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
-- **D:** Incorrect. Option D states "only in Parliament." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
-
-**Examiner trap:** A Money Bill cannot originate in the Council.
-
 #### MCQ 20. Council on Money Bill
 
 The Council:
@@ -379,16 +189,6 @@ A. can amend conclusively.
 B. can reject permanently.
 C. has three months.
 D. may recommend within 14 days.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "can amend conclusively." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
-- **B:** Incorrect. Option B states "can reject permanently." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
-- **C:** Incorrect. Option C states "has three months." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
-- **D:** Correct. Option D states "may recommend within 14 days." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
-
-**Examiner trap:** Council recommendations on a Money Bill never bind the Assembly.
 
 #### MCQ 21. Money Bill certificate
 
@@ -399,16 +199,6 @@ B. Advocate General.
 C. Governor.
 D. Council Chairman.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "Assembly Speaker." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
-- **B:** Incorrect. Option B states "Advocate General." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
-- **C:** Incorrect. Option C states "Governor." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
-- **D:** Incorrect. Option D states "Council Chairman." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
-
-**Examiner trap:** Speaker certification and gubernatorial recommendation are different steps.
-
 #### MCQ 22. Confidence
 
 The State Council of Ministers is collectively responsible to:
@@ -417,16 +207,6 @@ A. the Governor personally.
 B. the Legislative Assembly.
 C. the Legislative Council.
 D. both Houses equally.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "the Governor personally." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
-- **B:** Correct. Option B states "the Legislative Assembly." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
-- **C:** Incorrect. Option C states "the Legislative Council." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
-- **D:** Incorrect. Option D states "both Houses equally." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
-
-**Examiner trap:** Council debate cannot replace Assembly confidence.
 
 #### MCQ 23. Demands for grants
 
@@ -437,16 +217,6 @@ B. the Governor.
 C. the Assembly alone.
 D. both Houses.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "the Council alone." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
-- **B:** Incorrect. Option B states "the Governor." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
-- **C:** Correct. Option C states "the Assembly alone." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
-- **D:** Incorrect. Option D states "both Houses." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
-
-**Examiner trap:** The Council may discuss finance but cannot vote demands for grants.
-
 #### MCQ 24. Charged expenditure
 
 Charged expenditure:
@@ -455,16 +225,6 @@ A. requires a joint sitting.
 B. is neither discussed nor voted.
 C. is voted only by Council.
 D. may be discussed but is not voted.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "requires a joint sitting." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
-- **B:** Incorrect. Option B states "is neither discussed nor voted." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
-- **C:** Incorrect. Option C states "is voted only by Council." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
-- **D:** Correct. Option D states "may be discussed but is not voted." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
-
-**Examiner trap:** Charged expenditure is discussable even though it is not voted.
 
 #### MCQ 25. Article 200 return
 
@@ -475,16 +235,6 @@ B. a demand for grant.
 C. a constitutional amendment Bill.
 D. a Money Bill only.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "a non-Money Bill." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
-- **B:** Incorrect. Option B states "a demand for grant." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
-- **C:** Incorrect. Option C states "a constitutional amendment Bill." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
-- **D:** Incorrect. Option D states "a Money Bill only." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
-
-**Examiner trap:** A Money Bill cannot be returned under Article 200's first proviso.
-
 #### MCQ 26. Mandatory reservation
 
 Reservation for the President is mandatory where a Bill:
@@ -493,16 +243,6 @@ A. changes House rules.
 B. endangers the constitutional position of the High Court by derogating from its powers.
 C. alters a municipal boundary.
 D. creates a Council.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "changes House rules." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
-- **B:** Correct. Option B states "endangers the constitutional position of the High Court by derogating from its powers." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
-- **C:** Incorrect. Option C states "alters a municipal boundary." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
-- **D:** Incorrect. Option D states "creates a Council." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
-
-**Examiner trap:** The High Court-protection proviso is mandatory, unlike a general policy disagreement.
 
 #### MCQ 27. Article 201
 
@@ -513,16 +253,6 @@ B. President must assent.
 C. presidential assent is not constitutionally compelled.
 D. it becomes law automatically.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "Governor must enact it without presentation." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
-- **B:** Incorrect. Option B states "President must assent." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
-- **C:** Correct. Option C states "presidential assent is not constitutionally compelled." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
-- **D:** Incorrect. Option D states "it becomes law automatically." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
-
-**Examiner trap:** Article 201 contains no repassage command equivalent to Article 200's text.
-
 #### MCQ 28. Assent status
 
 The November 2025 advisory opinion supports:
@@ -531,16 +261,6 @@ A. rigid judicial timelines in every case.
 B. absolute non-justiciability of inaction.
 C. automatic deemed assent after one month.
 D. limited review of prolonged unexplained inaction without deemed assent.
-
-**Answer: D.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "rigid judicial timelines in every case." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
-- **B:** Incorrect. Option B states "absolute non-justiciability of inaction." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
-- **C:** Incorrect. Option C states "automatic deemed assent after one month." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
-- **D:** Correct. Option D states "limited review of prolonged unexplained inaction without deemed assent." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
-
-**Examiner trap:** Limited mandamus to act is not judicial selection of assent, withholding or reservation.
 
 #### MCQ 29. Privilege
 
@@ -551,16 +271,6 @@ B. every private act of a legislator.
 C. the Governor as a House member.
 D. all party communications.
 
-**Answer: A.**
-
-**Option explanations:**
-- **A:** Correct. Option A states "member speech and votes in the House/committees." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
-- **B:** Incorrect. Option B states "every private act of a legislator." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
-- **C:** Incorrect. Option C states "the Governor as a House member." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
-- **D:** Incorrect. Option D states "all party communications." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
-
-**Examiner trap:** Sita Soren removes bribery from the privilege shield.
-
 #### MCQ 30. Article 212
 
 Article 212 bars courts from questioning proceedings merely for:
@@ -569,16 +279,6 @@ A. lack of legislative competence.
 B. procedural irregularity.
 C. mala fides.
 D. violation of Fundamental Rights.
-
-**Answer: B.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "lack of legislative competence." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
-- **B:** Correct. Option B states "procedural irregularity." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
-- **C:** Incorrect. Option C states "mala fides." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
-- **D:** Incorrect. Option D states "violation of Fundamental Rights." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
-
-**Examiner trap:** Procedural irregularity and substantive illegality are not synonyms.
 
 #### MCQ 31. Women's reservation
 
@@ -589,16 +289,6 @@ B. every nominated seat.
 C. Lok Sabha and State Legislative Assemblies, subject to activation conditions.
 D. Legislative Councils only.
 
-**Answer: C.**
-
-**Option explanations:**
-- **A:** Incorrect. Option A states "Rajya Sabha and Councils." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
-- **B:** Incorrect. Option B states "every nominated seat." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
-- **C:** Correct. Option C states "Lok Sabha and State Legislative Assemblies, subject to activation conditions." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
-- **D:** Incorrect. Option D states "Legislative Councils only." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
-
-**Examiner trap:** Women's reservation does not extend to Legislative Councils and commencement is not electoral operation.
-
 #### MCQ 32. Article 213 ordinance interface
 
 Under Article 213, which statement is correct?
@@ -608,16 +298,643 @@ B. A State ordinance survives until the legislature expressly repeals it.
 C. A State ordinance may amend the Constitution within that State.
 D. The power is recess-conditioned, competence-bound and subject to later legislative scrutiny.
 
+#### MCQ 33. Council composition arithmetic
+
+A State with an Assembly large enough to support a 96-seat Legislative Council proposes such a Council. Which allocation correctly applies the constitutionally specified fractions, leaving the remaining seats to gubernatorial nomination?
+
+A. 32 local-authority, 32 MLA-elected, 8 graduate and 8 teacher seats; 16 nominated
+B. 48 local-authority, 16 MLA-elected, 16 graduate and 16 teacher seats; none nominated
+C. 32 local-authority, 32 MLA-elected, 16 graduate seats; 16 nominated
+D. 32 MLA-elected, 32 teacher, 16 graduate and 16 local-authority seats; none nominated
+
+#### MCQ 34. Ordinary Bill deadlock in a State
+
+A bicameral State Assembly passes an ordinary Bill; its Council rejects it. The Assembly passes it again according to the constitutional procedure. Which mechanism resolves the disagreement?
+
+A. A joint sitting presided over by the State Governor.
+B. The Assembly's constitutionally specified second-passage route overrides continued Council resistance; there is no joint sitting.
+C. Council rejection is an absolute veto unless Parliament legislates instead.
+D. Rajya Sabha votes to break the deadlock between the two State Houses.
+
+#### MCQ 35. Reserved Bill and the President
+
+After a State Bill is reserved, the President directs its return for reconsideration where constitutionally permitted. The State Legislature repasses it. What follows?
+
+A. Assent is constitutionally compulsory merely because the Legislature has reconsidered.
+B. The Legislative Council alone can compel assent by certifying the repassage.
+C. Reconsideration does not impose compulsory presidential assent under Article 201.
+D. The Governor may convert the reserved Bill into an ordinance without any separate conditions.
+
+#### MCQ 36. Money Bill and Council delay
+
+A State Money Bill passes the Assembly and reaches the Legislative Council. The Council proposes amendments within fourteen days. Which result is possible?
+
+A. The Council's amendments are binding on the Assembly.
+B. The Bill lapses because both Houses must approve the identical text.
+C. The Council may withhold it indefinitely until a joint sitting is called.
+D. The Assembly may accept or reject the recommendations; the Council cannot veto the Bill.
+
+#### MCQ 37. Council creation
+
+A State Assembly resolves to create a Council by a majority of its total membership and at least two-thirds of those present and voting. What is still needed?
+
+A. A law of Parliament under Article 169; the State resolution alone does not create the Council.
+B. A referendum of all graduates of the State, with no role for Parliament.
+C. A resolution of the existing Council, even though the State has no Council.
+D. A joint sitting of Parliament acting as a constitutional amendment under Article 368.
+
+#### MCQ 38. Confidence and continuity
+
+A ministry loses a confidence vote in the Assembly, but its party controls most Council seats. Which consequence is constitutionally relevant?
+
+A. The Council majority restores the ministry because both Houses share confidence equally.
+B. Council support cannot replace Assembly confidence under Article 164(2).
+C. The Governor must dissolve the Council to determine the ministry's fate.
+D. Council members directly elect a replacement Chief Minister by proportional voting.
+
+#### MCQ 39. Disqualification forums
+
+An MLA faces two distinct allegations: holding a disqualifying office of profit and defecting from their party. Which forums should be distinguished?
+
+A. The Governor conclusively decides both without any institutional opinion.
+B. The Election Commission decides both cases under the Tenth Schedule.
+C. Article 192 involves the Governor acting on the Election Commission's opinion for the first; the Speaker's Tenth Schedule role applies to the second.
+D. The High Court must decide both in original jurisdiction before the House can sit.
+
+#### MCQ 40. Procedure versus constitutional illegality
+
+A court receives two challenges to a State legislative proceeding: a minor irregularity in House procedure and an alleged substantive constitutional breach. Which threshold follows Article 212?
+
+A. Both are barred from review even where constitutional limits are breached.
+B. Every procedural step is retried on appeal as a matter of right.
+C. The Governor alone decides constitutional legality conclusively.
+D. Procedural irregularity is protected, but Article 212 is not a blanket shield for substantive constitutional illegality.
+
+#### MCQ 41. Committee follow-up
+
+A State Assembly committee finds that departmental expenditure departed from legislative authorisation. Which action best turns its scrutiny into institutional accountability?
+
+A. Examine audit evidence, seek the department's response and report findings for House follow-up.
+B. Issue an executive order itself transferring the department's budget.
+C. Declare the minister criminally guilty without investigation or trial.
+D. Require the Legislative Council alone to vote retrospectively on all grants.
+
+#### MCQ 42. Article 207 distinction
+
+A State Bill contains no Article 199(1)(a)–(f) matter but would involve expenditure from the Consolidated Fund. Which procedural distinction applies?
+
+A. It must be introduced in the Council because it is not a Money Bill.
+B. It may originate in either House but cannot be passed without the Governor's recommendation for its consideration.
+C. It becomes a Money Bill solely because expenditure might follow.
+D. It requires presidential assent before either House can discuss it.
+
+#### MCQ 43. Governor's special address
+
+The Governor addresses both Houses at the first session of the year. Which inference is constitutionally justified?
+
+A. The Governor may personally replace the Assembly's order of business throughout the year.
+B. Only the Council may debate the address because it is a continuing chamber.
+C. Article 176 requires the address; it does not make the ministry accountable to the Council.
+D. The address automatically enacts every Bill described in government policy.
+
+#### MCQ 44. Speech and bribery
+
+An MLA argues that because a promised vote would occur inside the Assembly, a prior bribe to secure it is protected by Article 194. Which distinction answers the claim?
+
+A. Article 194 ceases to protect any Assembly speech whenever the member belongs to a party.
+B. The legislative chamber may decide criminal guilt conclusively without a court.
+C. A bribe is immunised if the member later abstains from voting.
+D. Legislative speech/vote immunity does not extend to the independent offence of bribery under *Sita Soren*.
+
+### Separate solved key — MCQs 1–44
+
+#### MCQ 1 — State bicameralism
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 168 includes an Assembly in every State and a Council only where provided.
+- **B:** Incorrect: Article 169 first requires the State Assembly's qualifying resolution.
+- **C:** Incorrect: the Governor is a component of the State legislature under Article 168.
+- **D:** Incorrect: Article 168 expressly accommodates unicameral States.
+
+**Examiner trap 1:** Governor-plus-House composition does not make the Governor a House member.
+
+#### MCQ 2 — Article 169
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: neither a Council resolution nor a simple majority initiates this route.
+- **B:** Correct: the Assembly needs a majority of total membership and two-thirds present and voting.
+- **C:** Incorrect: presidential advisory reference does not create a State Council.
+- **D:** Incorrect: ratification by half the States belongs to certain Article 368 amendments, not Article 169.
+
+**Examiner trap 2:** The Article 169 special majority belongs to the Assembly resolution, not Parliament's Act.
+
+#### MCQ 3 — Parliamentary majority
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the State resolution uses a special threshold, but Parliament's subsequent law does not.
+- **B:** Incorrect: Article 169 does not prescribe a special joint sitting.
+- **C:** Correct: Parliament enacts an ordinary law following the State's qualifying resolution.
+- **D:** Incorrect: States do not ratify this parliamentary enactment as a constitutional amendment.
+
+**Examiner trap 3:** An Article 169 law may alter constitutional text incidentally without becoming an Article 368 amendment.
+
+#### MCQ 4 — Council strength
+
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect. Option A states "The Governor may promulgate an ordinance whenever one House adjourns for a day." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
-- **B:** Incorrect. Option B states "A State ordinance survives until the legislature expressly repeals it." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
-- **C:** Incorrect. Option C states "A State ordinance may amend the Constitution within that State." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
-- **D:** Correct. Option D states "The power is recess-conditioned, competence-bound and subject to later legislative scrutiny." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
+- **A:** Incorrect: Article 171 specifies a forty-member ordinary minimum, not sixty.
+- **B:** Incorrect: Council strength follows constitutional and parliamentary-law limits, not gubernatorial choice.
+- **C:** Incorrect: half the Assembly exceeds the one-third constitutional maximum.
+- **D:** Correct: Article 171 combines a one-third ceiling with an ordinary forty-seat floor.
 
-**Examiner trap:** An ordinance is not a constitutional amendment, permanent Act or substitute for legislative sessions.
+**Examiner trap 4:** Do not substitute a sixty-member minimum for Article 171's forty-member floor.
 
+#### MCQ 5 — Local bodies
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: approximately one-third is returned by specified local authorities.
+- **B:** Incorrect: one-sixth approximates the nominated remainder, not local-authority elections.
+- **C:** Incorrect: one-twelfth belongs separately to graduates and teachers.
+- **D:** Incorrect: two-thirds greatly exceeds the designated local-body share.
+
+**Examiner trap 5:** Local-authority members are not elected by the whole State electorate.
+
+#### MCQ 6 — Graduates
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: one-third corresponds to local-authority and MLA-elected streams.
+- **B:** Correct: the graduates' constituency returns approximately one-twelfth.
+- **C:** Incorrect: half is not assigned to any one Article 171 electoral stream.
+- **D:** Incorrect: one-sixth reflects the nominated remainder, not the graduate electorate.
+
+**Examiner trap 6:** Graduate and teacher constituencies are separate one-twelfth streams.
+
+#### MCQ 7 — Governor nominations
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: teachers elect their own approximate one-twelfth; they are not all nominated.
+- **B:** Incorrect: nominations are Council seats, not a fraction of Assembly membership.
+- **C:** Correct: the remaining approximately one-sixth Council seats are nominated from the named fields.
+- **D:** Incorrect: one-twelfth is an elected graduates' or teachers' share.
+
+**Examiner trap 7:** The nomination fields are literature, science, art, co-operative movement and social service; 'education' is not the text.
+
+#### MCQ 8 — Council duration
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: staggered retirement is one-third every two years, not half every three.
+- **B:** Incorrect: Assembly dissolution does not dissolve the continuing Council.
+- **C:** Incorrect: the Council has no single five-year collective life.
+- **D:** Correct: the Council continues while approximately one-third of members retire biennially.
+
+**Examiner trap 8:** Permanent House does not mean permanent membership.
+
+#### MCQ 9 — Minimum age
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 173 fixes twenty-five as the Assembly minimum.
+- **B:** Incorrect: thirty is the Council candidate's minimum age.
+- **C:** Incorrect: thirty-five is associated with gubernatorial eligibility, not MLA candidacy.
+- **D:** Incorrect: twenty-one is below Article 173's Assembly threshold.
+
+**Examiner trap 9:** Assembly and Council candidacy ages are not identical.
+
+#### MCQ 10 — Assembly term
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: continuing status belongs to the Council, not the Assembly.
+- **B:** Correct: the normal five-year period runs from the Assembly's first meeting, subject to early dissolution.
+- **C:** Incorrect: six years is the ordinary Council member's staggered tenure.
+- **D:** Incorrect: Article 172 does not prescribe a four-year normal term.
+
+**Examiner trap 10:** The five-year Assembly period runs from its first meeting and remains subject to earlier dissolution.
+
+#### MCQ 11 — Quorum
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: one-fifth is not the Article 189 default fraction.
+- **B:** Incorrect: the default also requires at least ten members.
+- **C:** Correct: use ten or one-tenth, whichever is greater, unless State law provides otherwise.
+- **D:** Incorrect: larger Houses can require more than ten because the one-tenth rule may dominate.
+
+**Examiner trap 11:** The quorum rule includes both the ten-member floor and the 'until otherwise provided by law' clause.
+
+#### MCQ 12 — Casting vote
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the presiding officer may cast the deciding vote on equality.
+- **B:** Incorrect: a casting vote is not a second ordinary vote after voting first.
+- **C:** Incorrect: the presiding officer ordinarily does not exercise a first vote.
+- **D:** Correct: equality activates the casting vote under Article 189.
+
+**Examiner trap 12:** A casting vote is triggered by equality; it is not a second ordinary vote.
+
+#### MCQ 13 — Speaker after dissolution
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 179 continues the Speaker until immediately before the new Assembly first meets.
+- **B:** Incorrect: Assembly dissolution does not install the Speaker as Governor.
+- **C:** Incorrect: constitutional continuity prevents an immediate vacancy on dissolution.
+- **D:** Incorrect: the endpoint is the new House's first meeting, not a fixed six-month period.
+
+**Examiner trap 13:** Assembly dissolution does not instantly vacate the Speaker.
+
+#### MCQ 14 — Speaker removal
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the Assembly, not the Governor, removes its Speaker by resolution.
+- **B:** Correct: fourteen days' notice and a majority of all then members are both needed.
+- **C:** Incorrect: a present-and-voting majority without notice is inadequate.
+- **D:** Incorrect: this route uses an effective majority, not two-thirds of total membership.
+
+**Examiner trap 14:** Removal uses an effective majority of all then members, not two-thirds of total membership.
+
+#### MCQ 15 — Defection adjudicator
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: a High Court may review the decision but is not the initial Tenth Schedule forum.
+- **B:** Incorrect: Governor-on-ECI opinion applies to Article 191(1), not defection.
+- **C:** Correct: the relevant Speaker or Chairman initially decides under Tenth Schedule paragraph 6.
+- **D:** Incorrect: the Chief Minister is politically interested, not the constitutional adjudicator.
+
+**Examiner trap 15:** Article 192 and Tenth Schedule paragraph 6 use different decision-makers.
+
+#### MCQ 16 — Article 192
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Article 192 binds the Governor to the Election Commission's opinion.
+- **B:** Incorrect: Parliament does not adjudicate this State member's Article 191(1) question.
+- **C:** Incorrect: Speaker adjudication is the separate Tenth Schedule route.
+- **D:** Correct: obtain and act according to the Election Commission's opinion.
+
+**Examiner trap 16:** The Governor must follow the ECI opinion under Article 192.
+
+#### MCQ 17 — Ordinary Bill delay
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 197 allows three months at first consideration plus one month after Assembly repassage.
+- **B:** Incorrect: six months confuses the Council's delaying role with other time limits.
+- **C:** Incorrect: the Council has no year-long ordinary-Bill hold under Article 197.
+- **D:** Incorrect: fourteen days is its Money Bill recommendation window.
+
+**Examiner trap 17:** Three months plus one month is delay, not an absolute veto.
+
+#### MCQ 18 — Joint sitting
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: a Union presidential joint-sitting mechanism is not available between State Houses.
+- **B:** Correct: Article 197 provides Assembly second-passage primacy instead of joint sitting.
+- **C:** Incorrect: gubernatorial summons cannot create an unprovided deadlock procedure.
+- **D:** Incorrect: the Supreme Court does not choose legislative amendments for the Houses.
+
+**Examiner trap 18:** Article 108's joint sitting has no State-level mirror.
+
+#### MCQ 19 — Money Bill introduction
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the Council cannot originate a State Money Bill.
+- **B:** Incorrect: origin is restricted to the Assembly, not open to either chamber.
+- **C:** Correct: the elected Assembly has the Article 198 introduction monopoly.
+- **D:** Incorrect: Parliament legislates for the Union; this is a State financial Bill.
+
+**Examiner trap 19:** A Money Bill cannot originate in the Council.
+
+#### MCQ 20 — Council on Money Bill
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Council recommendations are not binding amendments.
+- **B:** Incorrect: the Council has no permanent Money Bill veto.
+- **C:** Incorrect: three months describes first-stage ordinary-Bill delay, not a Money Bill.
+- **D:** Correct: fourteen days permits recommendations that the Assembly may accept or reject.
+
+**Examiner trap 20:** Council recommendations on a Money Bill never bind the Assembly.
+
+#### MCQ 21 — Money Bill certificate
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 199 assigns certification to the Assembly Speaker.
+- **B:** Incorrect: the Advocate-General advises legally but cannot issue this House certificate.
+- **C:** Incorrect: gubernatorial recommendation and assent do not confer Speaker certification.
+- **D:** Incorrect: the Council Chairman does not certify an Assembly-origin Money Bill.
+
+**Examiner trap 21:** Speaker certification and gubernatorial recommendation are different steps.
+
+#### MCQ 22 — Confidence
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: formal gubernatorial appointment does not make the ministry collectively responsible to the Governor.
+- **B:** Correct: Article 164(2) ties collective responsibility to the Assembly.
+- **C:** Incorrect: the Council cannot remove the ministry by a confidence vote.
+- **D:** Incorrect: bicameral legislation does not create joint confidence responsibility.
+
+**Examiner trap 22:** Council debate cannot replace Assembly confidence.
+
+#### MCQ 23 — Demands for grants
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the upper House cannot vote demands for grants.
+- **B:** Incorrect: the Governor recommends demands but does not cast the House vote.
+- **C:** Correct: Article 203 assigns voting on demands to the Assembly.
+- **D:** Incorrect: Council participation in discussion is not equal grant-voting power.
+
+**Examiner trap 23:** The Council may discuss finance but cannot vote demands for grants.
+
+#### MCQ 24 — Charged expenditure
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: charged expenditure does not require a State joint sitting.
+- **B:** Incorrect: the House may discuss charged expenditure despite its non-votable status.
+- **C:** Incorrect: it is not submitted to a special Council vote.
+- **D:** Correct: Article 203 allows discussion without a demand-for-grant vote.
+
+**Examiner trap 24:** Charged expenditure is discussable even though it is not voted.
+
+#### MCQ 25 — Article 200 return
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 200 permits a non-Money Bill to be returned for reconsideration.
+- **B:** Incorrect: a demand for a grant is not a Bill presented for assent.
+- **C:** Incorrect: Article 368 amendment Bills have a separate parliamentary procedure.
+- **D:** Incorrect: a Money Bill cannot use this return proviso.
+
+**Examiner trap 25:** A Money Bill cannot be returned under Article 200's first proviso.
+
+#### MCQ 26 — Mandatory reservation
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: changing House rules alone is not the second-proviso High Court condition.
+- **B:** Correct: reservation is mandatory when derogation from High Court powers endangers its constitutional position.
+- **C:** Incorrect: a municipal-boundary change is not itself the specified High Court danger.
+- **D:** Incorrect: Council creation follows Article 169's State-resolution and parliamentary-law route.
+
+**Examiner trap 26:** The High Court-protection proviso is mandatory, unlike a general policy disagreement.
+
+#### MCQ 27 — Article 201
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: return and repassage do not bypass presentation to the President.
+- **B:** Incorrect: Article 201 imposes no duty to assent after repassage.
+- **C:** Correct: presidential choice is not exhausted merely by State reconsideration.
+- **D:** Incorrect: repassage is not self-executing enactment under Article 201.
+
+**Examiner trap 27:** Article 201 contains no repassage command equivalent to Article 200's text.
+
+#### MCQ 28 — Assent status
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the advisory opinion rejected universal rigid court-made decision timelines.
+- **B:** Incorrect: limited mandamus can address glaring, prolonged and unexplained inaction.
+- **C:** Incorrect: the opinion rejected judicially invented automatic deemed assent.
+- **D:** Correct: review can require an actual decision without dictating its outcome.
+
+**Examiner trap 28:** Limited mandamus to act is not judicial selection of assent, withholding or reservation.
+
+#### MCQ 29 — Privilege
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 194 protects a member's speech and votes in the legislative setting.
+- **B:** Incorrect: private conduct has no general Article 194 exemption.
+- **C:** Incorrect: the Governor is part of the legislature but not a House member exercising member privilege.
+- **D:** Incorrect: party communications outside proceedings are not automatically privileged speech.
+
+**Examiner trap 29:** Sita Soren removes bribery from the privilege shield.
+
+#### MCQ 30 — Article 212
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: lack of legislative competence raises substantive constitutional legality.
+- **B:** Correct: Article 212 protects proceedings from challenge for mere procedural irregularity.
+- **C:** Incorrect: constitutionally improper purpose is not automatically a harmless procedural slip.
+- **D:** Incorrect: alleged Fundamental Rights breaches cannot be dismissed merely by invoking procedure.
+
+**Examiner trap 30:** Procedural irregularity and substantive illegality are not synonyms.
+
+#### MCQ 31 — Women's reservation
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the reservation is for Lok Sabha and State Assemblies, not upper Houses.
+- **B:** Incorrect: a nomination does not become a reserved elected constituency.
+- **C:** Correct: Articles 330A and 332A cover the popular chambers, subject to Article 334A activation.
+- **D:** Incorrect: Legislative Councils are outside the specified women's reservation scheme.
+
+**Examiner trap 31:** Women's reservation does not extend to Legislative Councils and commencement is not electoral operation.
+
+#### MCQ 32 — Article 213 ordinance interface
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: a day's adjournment is not the Article 213 legislative-recess condition.
+- **B:** Incorrect: an ordinance expires on the constitutional timetable absent legislative enactment.
+- **C:** Incorrect: State ordinance power cannot amend the Constitution.
+- **D:** Correct: immediate necessity, legislative recess, competence, laying and expiry constrain the power.
+
+**Examiner trap 32:** An ordinance is not a constitutional amendment, permanent Act or substitute for legislative sessions.
+
+#### MCQ 33 — Council composition arithmetic
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: one-third each local bodies and MLAs, one-twelfth each graduates and teachers, remainder nominated.
+- **B:** Incorrect: one-half local bodies and the omission of nominations both distort Article 171.
+- **C:** Incorrect: graduates are allotted one-twelfth, not one-sixth; teacher seats are omitted.
+- **D:** Incorrect: teacher and local-authority shares are reversed and nominations disappear.
+
+**Examiner trap 33:** The two one-twelfth constituencies are separate; the nominated remainder is not another elected fraction.
+
+#### MCQ 34 — Ordinary Bill deadlock in a State
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the State Constitution contains no parliamentary-style joint sitting.
+- **B:** Correct: Article 197 grants the Council a delaying role, not indefinite obstruction after the Assembly's second passage.
+- **C:** Incorrect: the Council's role is not an absolute veto over ordinary State Bills.
+- **D:** Incorrect: a Union House does not arbitrate this State legislative procedure.
+
+**Examiner trap 34:** Bicameralism does not imply the same deadlock remedy at Union and State levels.
+
+#### MCQ 35 — Reserved Bill and the President
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the President does not face the same binding reconsideration consequence attributed to the State Governor under Article 200.
+- **B:** Incorrect: the Council has no certification power that compels the President.
+- **C:** Correct: reservation routes the Bill to Article 201; repassage does not itself force assent.
+- **D:** Incorrect: Article 213 has independent conditions and does not replace Article 201.
+
+**Examiner trap 35:** Do not transplant the Article 200 return proviso onto Article 201.
+
+#### MCQ 36 — Money Bill and Council delay
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Council amendments in this route are recommendations only.
+- **B:** Incorrect: Money Bills do not require matching bicameral approval at State level.
+- **C:** Incorrect: neither an indefinite Council delay nor joint sitting is available.
+- **D:** Correct: Article 198 preserves Assembly financial primacy with limited Council input.
+
+**Examiner trap 36:** Fourteen days limits Council consideration; it does not create its veto.
+
+#### MCQ 37 — Council creation
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the specially supported State resolution authorises Parliament to legislate; it is not itself the constitutive law.
+- **B:** Incorrect: graduates participate in Council composition, not this creation mechanism.
+- **C:** Incorrect: a non-existent Council cannot resolve to create itself.
+- **D:** Incorrect: Article 169 legislation, although it may adjust the Constitution, is not treated as an Article 368 amendment.
+
+**Examiner trap 37:** Resolve who initiates and who legally completes bicameral restructuring.
+
+#### MCQ 38 — Confidence and continuity
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: collective responsibility runs to the Assembly, not to both Houses jointly.
+- **B:** Correct: an upper-House majority has no power to negate Assembly defeat.
+- **C:** Incorrect: the Council is a continuing chamber and is not dissolved.
+- **D:** Incorrect: appointment and the Assembly confidence test, not Council election, govern formation.
+
+**Examiner trap 38:** The continuing House's membership does not decide whether a ministry survives.
+
+#### MCQ 39 — Disqualification forums
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the Article 192 route requires the Election Commission's opinion, and defection has a separate adjudicator.
+- **B:** Incorrect: the Commission's Article 192 opinion is not the Tenth Schedule Speaker's decision.
+- **C:** Correct: substantively different disqualifications travel different institutional routes.
+- **D:** Incorrect: judicial review may be available, but it does not replace the initial constitutional forums.
+
+**Examiner trap 39:** The word 'disqualification' does not imply one common adjudicating authority.
+
+#### MCQ 40 — Procedure versus constitutional illegality
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: constitutional supremacy does not disappear inside the House.
+- **B:** Incorrect: Article 212 protects internal procedural autonomy from routine judicial supervision.
+- **C:** Incorrect: gubernatorial participation does not displace constitutional judicial review.
+- **D:** Correct: challenge for mere irregularity differs from review for constitutional illegality.
+
+**Examiner trap 40:** Do not describe review of legality as general appellate control of proceedings.
+
+#### MCQ 41 — Committee follow-up
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: evidence, departmental explanation and action-taken follow-up connect audit to legislative control.
+- **B:** Incorrect: committee scrutiny does not confer the power to run a department's executive budget.
+- **C:** Incorrect: a committee's finding is not a criminal conviction.
+- **D:** Incorrect: grant voting belongs to the Assembly, not an upper-House retrospective veto.
+
+**Examiner trap 41:** A scrutiny recommendation is neither a binding executive direction nor a court judgment.
+
+#### MCQ 42 — Article 207 distinction
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: absence of a Money Bill element does not force Council introduction.
+- **B:** Correct: the expenditure-involving Article 207 route conditions passage on recommendation, not introduction in a specified House.
+- **C:** Incorrect: prospective expenditure alone fails the Article 199 exclusive-content test.
+- **D:** Incorrect: presidential assent is not an automatic introduction condition for such a Bill.
+
+**Examiner trap 42:** Separate the financial recommendation timing from Money Bill certification and House of origin.
+
+#### MCQ 43 — Governor's special address
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the special address does not give the Governor an independent legislative agenda veto.
+- **B:** Incorrect: Article 176 addresses the legislature and collective responsibility remains to the Assembly.
+- **C:** Correct: the constitutional address and confidence relationship perform different functions.
+- **D:** Incorrect: legislative passage and assent remain necessary for ordinary Bills.
+
+**Examiner trap 43:** Ceremonial presentation of government policy is not transfer of responsibility from the ministry.
+
+#### MCQ 44 — Speech and bribery
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: party affiliation does not erase genuine Article 194 speech protection.
+- **B:** Incorrect: House privilege does not grant final criminal adjudication over bribery.
+- **C:** Incorrect: performance or non-performance of the promised vote does not immunise the bribe.
+- **D:** Correct: *Sita Soren* denies privilege for bribery while preserving legislative speech/vote protection.
+
+**Examiner trap 44:** Locate the independent corrupt bargain, not merely the protected legislative setting of a contemplated vote.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -759,4 +1076,3 @@ For an ordinary State Bill, Article 197 allows a Council delay of three months a
 Financial asymmetry is sharper. Articles 198-199 give the Council only a fourteen-day recommendatory role on Money Bills, while Article 203 reserves grant voting to the Assembly. The ministry is responsible only to the Assembly.
 
 Article 213 mirrors the temporary-law principle of Article 123 but operates within State competence and its specific recess condition. Mandatory laying and six-week expiry after later reassembly, reinforced by *D. C. Wadhwa* and *Krishna Kumar Singh*, prevent ordinance government. Thus parliamentary comparison is useful only after each constitutional mechanism is separately decoded.
-

@@ -2,22 +2,306 @@
 
 **Subject:** Polity | **Control date:** 8 September 2026
 
-**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 substantive unique option-specific explanations; 32 unique question-specific examiner traps; verified-PYQ wording and official-key discipline; exactly six original Mains models.
+**Practice discipline:** 36 original four-option MCQs in nine `ABCD` rotations; all stems before a separate solved key with distinct option-specific explanations and traps; two direct Mains PYQs, one cross-linked Prelims PYQ, six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique question-specific examiner trap.
+All 36 answer-free question stems appear before the separately headed solved key; answers rotate A → B → C → D.
 
 ### MCQ 1. Legal identity
 
-Which description is legally correct?
+A ministry cites NHRC's civil-court inquiry powers as proof that it was created by the Constitution. Which legal source actually creates the Commission?
 
 A. NHRC is a statutory commission under the Protection of Human Rights Act, 1993.
 B. NHRC is a constitutional commission under Article 338.
 C. NHRC is a criminal court constituted under the Code of Criminal Procedure.
 D. NHRC is an informal body created only by executive resolution.
+### MCQ 2. Statutory definition
 
-**Answer: A.**
+Section 2(1)(d) defines human rights by linking life, liberty, equality and dignity to rights that are
+
+A. recognised by any civil-society organisation.
+B. constitutionally guaranteed or embodied in the defined International Covenants and enforceable by courts in India.
+C. found in every treaty signed by India, whether enforceable or not.
+D. available only to citizens under Part III.
+### MCQ 3. International Covenants
+
+A complainant invokes an unnotified labour convention as though every international instrument automatically fell within the PHRA's defined 'International Covenants'. Which instruments pass the statutory definition?
+
+A. Only the Universal Declaration of Human Rights
+B. Every International Labour Organization convention
+C. The ICCPR and the ICESCR, plus another UN General Assembly covenant or convention if centrally notified
+D. Only treaties incorporated by a constitutional amendment
+### MCQ 4. Deemed members
+
+A deemed member invokes section 3(3) to conduct an ordinary section 12(a) complaint inquiry solely in that capacity. Which statutory function boundary tests that claim?
+
+A. only section 12(a) complaint inquiries.
+B. the presidential appointment committee.
+C. all NHRC functions without any statutory boundary.
+D. the functions in section 12(b) to (j), excluding section 12(a) by that deemed status.
+### MCQ 5. NHRC chair eligibility
+
+A retired Supreme Court judge applies for NHRC Chairperson; an objection says the office is reserved to former Chief Justices alone. Which eligibility test resolves the objection?
+
+A. A person who has been Chief Justice of India or a Judge of the Supreme Court
+B. Any former Chief Justice of a High Court
+C. Only a serving Chief Justice of India
+D. Any human-rights expert with ten years' experience
+### MCQ 6. Selection committee
+
+Which office is not a member of the section 4 selection committee?
+
+A. Speaker of the Lok Sabha
+B. Chief Justice of India
+C. Union Home Minister
+D. Deputy Chairman of the Rajya Sabha
+### MCQ 7. NHRC tenure
+
+An appointment notice advertises a single non-renewable five-year NHRC term and omits any age limit. Which post-2019 section 6 rule makes it defective?
+
+A. Every member has a single non-renewable five-year term.
+B. Members serve during presidential pleasure without an age limit.
+C. The term is three years; reappointment is allowed, subject to the age ceiling of seventy.
+D. The term is six years or age sixty-five, whichever is earlier.
+### MCQ 8. Direct removal ground
+
+Which circumstance is a direct statutory ground for presidential removal without first proving misbehaviour through the Supreme Court inquiry route?
+
+A. A dissenting recommendation
+B. Failure to attend one meeting
+C. Criticism by Parliament
+D. Being adjudged insolvent
+### MCQ 9. Section 12(a)
+
+NHRC may inquire under section 12(a) into
+
+A. a violation or abetment, or public-servant negligence in prevention, on the authorised entry routes.
+B. every breach of a private contract without public-authority connection.
+C. only matters referred by Parliament.
+D. only violations already proved by a criminal court.
+### MCQ 10. Court intervention
+
+Section 12(b) permits NHRC to intervene in a pending human-rights proceeding
+
+A. whenever the Commission wishes, despite the court.
+B. with the approval of that court.
+C. only after final judgment.
+D. only if the Union Home Ministry consents.
+### MCQ 11. Institution visits
+
+The section 12(c) visit function is best described as
+
+A. a power to take permanent control of prisons.
+B. a power to sentence prison officials.
+C. a visit to specified State-controlled institutions to study inmate living conditions and recommend.
+D. a power limited to police stations named by Parliament.
+### MCQ 12. Civil-court powers
+
+After summoning witnesses and obtaining public records, NHRC proposes to execute a compensation award as if section 13 had created a civil decree. Which claimed consequence exceeds its inquiry powers?
+
+A. Power to summon and examine witnesses on oath
+B. Power to require discovery and production of documents
+C. Power to requisition public records
+D. A general power to pass executable compensation decrees
+### MCQ 13. Limited deemed-court status
+
+A respondent argues that a limited legal fiction treating NHRC proceedings as judicial turns every recommendation into a decree and supplies writ jurisdiction. How far does the deemed-court provision actually extend?
+
+A. It is purpose-specific for listed Penal Code and criminal-procedure consequences.
+B. It makes every NHRC recommendation a civil decree.
+C. It gives NHRC the Supreme Court's writ jurisdiction.
+D. It authorises NHRC to punish every criticism as contempt.
+### MCQ 14. Investigation agency
+
+Under section 14, NHRC may use a Central or State government officer or agency
+
+A. without informing any government.
+B. with the concurrence of the concerned government and under Commission direction and control.
+C. only after a criminal court frames charges.
+D. only for promotional research.
+### MCQ 15. Section 17
+
+If information called for under section 17 is not received within the stipulated time, NHRC may
+
+A. automatically convict the named official.
+B. award final damages as a decree.
+C. proceed to inquire into the complaint on its own.
+D. refer every case to Parliament.
+### MCQ 16. Section 18 output
+
+An NHRC inquiry finds evidence of abuse; the victim seeks interim relief and prosecution, while an official insists NHRC must itself pronounce guilt. What can section 18 authorise?
+
+A. NHRC itself imprisons the responsible public servant.
+B. NHRC executes compensation as an ordinary civil decree.
+C. NHRC finally determines criminal guilt.
+D. NHRC may recommend compensation, prosecution, further action or interim relief and may approach a constitutional court.
+### MCQ 17. Ordinary response period
+
+The ordinary section 18 period for government or authority comments is
+
+A. one month, or further time allowed by the Commission.
+B. three months without extension.
+C. one year.
+D. seven days.
+### MCQ 18. Armed forces definition
+
+For the PHRA, 'armed forces' includes
+
+A. all State police personnel by default.
+B. naval, military and air forces and other armed forces of the Union.
+C. only the Army.
+D. every private security contractor.
+### MCQ 19. Section 19 procedure
+
+A complaint names Union armed-forces personnel and the Central Government has furnished its report. What is NHRC's next statutory choice, rather than an automatic ordinary criminal trial before it?
+
+A. conduct an ordinary direct inquiry regardless of section 19.
+B. sentence the personnel concerned.
+C. not proceed further or make recommendations to the Central Government.
+D. transfer the criminal trial to itself.
+### MCQ 20. Armed-forces follow-up
+
+The Central Government ordinarily informs NHRC of action on a section 19 recommendation within
+
+A. one month.
+B. six months.
+C. one year.
+D. three months, or further time allowed.
+### MCQ 21. SHRC subject scope
+
+A violation occurs within a State but concerns a Union List subject. Is location alone sufficient to confer SHRC subject-matter jurisdiction?
+
+A. entries in the State List and Concurrent List, subject to the already-inquired bar.
+B. only the Union List.
+C. foreign affairs and defence exclusively.
+D. every matter occurring geographically in the State.
+### MCQ 22. SHRC appointment and removal
+
+The Governor appoints an SHRC member and then claims to hold the corresponding removal power. Which appointment/removal pairing corrects that assumption?
+
+A. President appoints; Governor removes
+B. Governor appoints; President removes
+C. Chief Justice appoints; Chief Minister removes
+D. State Legislature appoints and removes
+### MCQ 23. SHRC chair eligibility
+
+After the 2019 Amendment, an SHRC Chairperson must be a person who has been
+
+A. only a District Judge.
+B. only Chief Justice of India.
+C. Chief Justice or Judge of a High Court.
+D. a civil servant of Chief Secretary rank.
+### MCQ 24. SHRC adapted functions
+
+A proposed SHRC workplan copies every NHRC section 12 function, including study of international treaties. Which one must be omitted under the adaptation in section 29?
+
+A. Court intervention with approval
+B. Institution visits
+C. Research
+D. Study of treaties and other international instruments under section 12(f)
+### MCQ 25. Human Rights Court
+
+A State announces that PHRA itself automatically opened a new human-rights tribunal in every district. Which designation procedure actually governs a Human Rights Court?
+
+A. a Court of Session that a State may specify for a district with High Court Chief Justice concurrence.
+B. an internal bench of NHRC.
+C. a court automatically created in every district by the Act without notification.
+D. the Supreme Court exercising Article 32.
+### MCQ 26. Special Public Prosecutor
+
+An advocate specially appointed under section 31 must have practised for at least
+
+A. five years.
+B. seven years.
+C. ten years.
+D. twelve years.
+### MCQ 27. One-year bar
+
+A custodial detention ended more than a year before an NHRC complaint, but its consequences persist. Which decision prevents treating those consequences alone as a perpetual statutory-jurisdiction extension?
+
+A. Kesavananda Bharati v State of Kerala
+B. S.R. Bommai v Union of India
+C. N.C. Dhoundial v Union of India
+D. Indra Sawhney v Union of India
+### MCQ 28. Paramjit Kaur exception
+
+In a disappearance investigation, NHRC acted under a Supreme Court Article 32 direction rather than an ordinary PHRA complaint. Why does that procedural origin matter to the section 36(2) limitation?
+
+A. The Act had been repealed.
+B. The complaint concerned only a private contract.
+C. NHRC had enacted a limitation waiver regulation.
+D. NHRC was acting as the Supreme Court's expert body under Article 32 directions, not exercising ordinary statutory jurisdiction.
+### MCQ 29. Section 36(1)
+
+Section 36(1) prevents NHRC from inquiring into a matter that is
+
+A. pending before an SHRC or another commission duly constituted by law.
+B. mentioned in a newspaper.
+C. older than six months.
+D. critical of the Union Government.
+### MCQ 30. Section 37
+
+Who may constitute a special investigation team under section 37?
+
+A. Only the Chief Justice of India
+B. The Government, when it considers such a team necessary
+C. NHRC acting as a criminal court
+D. GANHRI
+### MCQ 31. Specialised commissions
+
+A merger proposal says an ordinary PHRA amendment can absorb the mandates of three constitutional commissions without touching their constitutional provisions. What blocks this shortcut?
+
+A. It can be done by an NHRC administrative order.
+B. Section 3(3) has already dissolved them.
+C. Their constitutional status under Articles 338, 338A and 338B means ordinary PHRA amendment cannot simply absorb their constitutional mandates.
+D. The Governor can merge them through a State notification.
+### MCQ 32. EEVFAM
+
+The most defensible use of EEVFAM (2016) in this topic is that it
+
+A. made every NHRC recommendation binding.
+B. abolished section 19.
+C. authorised NHRC to convict armed-forces personnel.
+D. required credible investigation of alleged extra-judicial executions and rejected blanket justification for excessive force, while preserving distinct institutional roles.
+### MCQ 33. Commission recommendation and judicial remedy
+
+After an NHRC inquiry, a ministry refuses its compensation recommendation. Which route best preserves the legal distinctions?
+
+A. Section 18 allows recommendation, an action-taken or reasoned non-acceptance report and recourse to the Supreme Court or High Court; it does not make the recommendation an executable judicial decree.
+B. Section 13's power to summon witnesses transforms every compensation recommendation into a court judgment.
+C. NHRC must itself sentence the official before a victim can approach any court.
+D. The ministry's refusal extinguishes all constitutional and criminal remedies.
+### MCQ 34. Delayed custodial complaint
+
+A survivor approaches NHRC more than one year after a completed custodial detention, alleging continuing psychological harm. Under the law as interpreted in *N.C. Dhoundial*, which is sound?
+
+A. Continuing consequences automatically reset section 36(2) for every completed act.
+B. Section 36(2)'s one-year bar is jurisdictional for the completed act; a carefully specified late-complaint exception would require legislative change, while other lawful remedies may remain.
+C. NHRC may disregard section 36(2) whenever it finds the allegation serious.
+D. An SHRC can bypass section 36(2) because the limit applies only to NHRC.
+### MCQ 35. Alleged armed-forces violation
+
+An allegation concerning members of the armed forces reaches NHRC. Which process reflects PHRA section 19 rather than the ordinary section 17 inquiry?
+
+A. NHRC must summon every commanding officer before requesting any government information.
+B. The State Commission may compel a binding army-court judgment instead.
+C. NHRC may seek a Central Government report and, after considering it, decline to proceed or recommend action and require an action-taken response; ordinary inquiry powers are constrained.
+D. Section 19 forbids NHRC from receiving any complaint or issuing any recommendation.
+### MCQ 36. From findings to conviction
+
+A State designates a Court of Session as a Human Rights Court under PHRA section 30, with the required concurrence. What is its relationship to an SHRC report?
+
+A. The court must adopt every recommendation as conclusive evidence of criminal guilt.
+B. Designation creates a new human-rights offence, removing the need for substantive penal law.
+C. SHRC becomes the appellate court for the Sessions Judge's conviction.
+D. The Commission may investigate and recommend, whereas a competent prosecutor must pursue an applicable offence and the designated court adjudicates under lawful procedure.
+
+## SEPARATE SOLVED MCQ KEY
+
+### MCQ 1 — Answer A
+
+A.**
 
 **Option-specific explanations:**
 
@@ -28,16 +312,9 @@ D. NHRC is an informal body created only by executive resolution.
 
 **Examiner trap 1:** The adjective 'national' does not identify the legal source.
 
-### MCQ 2. Statutory definition
+### MCQ 2 — Answer B
 
-Section 2(1)(d) defines human rights by linking life, liberty, equality and dignity to rights that are
-
-A. recognised by any civil-society organisation.
-B. constitutionally guaranteed or embodied in the defined International Covenants and enforceable by courts in India.
-C. found in every treaty signed by India, whether enforceable or not.
-D. available only to citizens under Part III.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -48,16 +325,9 @@ D. available only to citizens under Part III.
 
 **Examiner trap 2:** Omitting 'enforceable by courts in India' makes the definition overbroad.
 
-### MCQ 3. International Covenants
+### MCQ 3 — Answer C
 
-Which instruments are expressly named in section 2(1)(f)?
-
-A. Only the Universal Declaration of Human Rights
-B. Every International Labour Organization convention
-C. The ICCPR and the ICESCR, plus another UN General Assembly covenant or convention if centrally notified
-D. Only treaties incorporated by a constitutional amendment
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -68,16 +338,9 @@ D. Only treaties incorporated by a constitutional amendment
 
 **Examiner trap 3:** Separate an instrument's moral importance from its inclusion in the Act's definition.
 
-### MCQ 4. Deemed members
+### MCQ 4 — Answer D
 
-The seven deemed members of NHRC participate by virtue of section 3(3) for
-
-A. only section 12(a) complaint inquiries.
-B. the presidential appointment committee.
-C. all NHRC functions without any statutory boundary.
-D. the functions in section 12(b) to (j), excluding section 12(a) by that deemed status.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -88,16 +351,9 @@ D. the functions in section 12(b) to (j), excluding section 12(a) by that deemed
 
 **Examiner trap 4:** The correct range begins with clause (b), not clause (c).
 
-### MCQ 5. NHRC chair eligibility
+### MCQ 5 — Answer A
 
-Who satisfies the current statutory qualification for NHRC Chairperson?
-
-A. A person who has been Chief Justice of India or a Judge of the Supreme Court
-B. Any former Chief Justice of a High Court
-C. Only a serving Chief Justice of India
-D. Any human-rights expert with ten years' experience
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -108,16 +364,9 @@ D. Any human-rights expert with ten years' experience
 
 **Examiner trap 5:** Do not confuse the Chairperson route with the expert-member route.
 
-### MCQ 6. Selection committee
+### MCQ 6 — Answer B
 
-Which office is not a member of the section 4 selection committee?
-
-A. Speaker of the Lok Sabha
-B. Chief Justice of India
-C. Union Home Minister
-D. Deputy Chairman of the Rajya Sabha
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -128,16 +377,9 @@ D. Deputy Chairman of the Rajya Sabha
 
 **Examiner trap 6:** Consultation with an office-holder does not make that office-holder a committee member.
 
-### MCQ 7. NHRC tenure
+### MCQ 7 — Answer C
 
-Which statement reflects section 6 after the 2019 Amendment?
-
-A. Every member has a single non-renewable five-year term.
-B. Members serve during presidential pleasure without an age limit.
-C. The term is three years; reappointment is allowed, subject to the age ceiling of seventy.
-D. The term is six years or age sixty-five, whichever is earlier.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -148,16 +390,9 @@ D. The term is six years or age sixty-five, whichever is earlier.
 
 **Examiner trap 7:** The amendment shortened tenure but did not abolish reappointment.
 
-### MCQ 8. Direct removal ground
+### MCQ 8 — Answer D
 
-Which circumstance is a direct statutory ground for presidential removal without first proving misbehaviour through the Supreme Court inquiry route?
-
-A. A dissenting recommendation
-B. Failure to attend one meeting
-C. Criticism by Parliament
-D. Being adjudged insolvent
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -168,16 +403,9 @@ D. Being adjudged insolvent
 
 **Examiner trap 8:** Keep the proved-misbehaviour track separate from the listed objective grounds.
 
-### MCQ 9. Section 12(a)
+### MCQ 9 — Answer A
 
-NHRC may inquire under section 12(a) into
-
-A. a violation or abetment, or public-servant negligence in prevention, on the authorised entry routes.
-B. every breach of a private contract without public-authority connection.
-C. only matters referred by Parliament.
-D. only violations already proved by a criminal court.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -188,16 +416,9 @@ D. only violations already proved by a criminal court.
 
 **Examiner trap 9:** The public-servant wording attaches expressly to negligence in prevention.
 
-### MCQ 10. Court intervention
+### MCQ 10 — Answer B
 
-Section 12(b) permits NHRC to intervene in a pending human-rights proceeding
-
-A. whenever the Commission wishes, despite the court.
-B. with the approval of that court.
-C. only after final judgment.
-D. only if the Union Home Ministry consents.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -208,16 +429,9 @@ D. only if the Union Home Ministry consents.
 
 **Examiner trap 10:** Court-directed inquiry under section 12(a) and intervention requiring court approval under 12(b) are distinct.
 
-### MCQ 11. Institution visits
+### MCQ 11 — Answer C
 
-The section 12(c) visit function is best described as
-
-A. a power to take permanent control of prisons.
-B. a power to sentence prison officials.
-C. a visit to specified State-controlled institutions to study inmate living conditions and recommend.
-D. a power limited to police stations named by Parliament.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -228,16 +442,9 @@ D. a power limited to police stations named by Parliament.
 
 **Examiner trap 11:** Visit, study and recommend are not manage, prosecute and punish.
 
-### MCQ 12. Civil-court powers
+### MCQ 12 — Answer D
 
-Which consequence does section 13 not create?
-
-A. Power to summon and examine witnesses on oath
-B. Power to require discovery and production of documents
-C. Power to requisition public records
-D. A general power to pass executable compensation decrees
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -248,16 +455,9 @@ D. A general power to pass executable compensation decrees
 
 **Examiner trap 12:** Evidence power and remedy power arise from different sections.
 
-### MCQ 13. Limited deemed-court status
+### MCQ 13 — Answer A
 
-The safest statement about NHRC's deemed-court status is
-
-A. It is purpose-specific for listed Penal Code and criminal-procedure consequences.
-B. It makes every NHRC recommendation a civil decree.
-C. It gives NHRC the Supreme Court's writ jurisdiction.
-D. It authorises NHRC to punish every criticism as contempt.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -268,16 +468,9 @@ D. It authorises NHRC to punish every criticism as contempt.
 
 **Examiner trap 13:** The phrase 'deemed to be a civil court' must always be followed by its statutory purpose.
 
-### MCQ 14. Investigation agency
+### MCQ 14 — Answer B
 
-Under section 14, NHRC may use a Central or State government officer or agency
-
-A. without informing any government.
-B. with the concurrence of the concerned government and under Commission direction and control.
-C. only after a criminal court frames charges.
-D. only for promotional research.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -288,16 +481,9 @@ D. only for promotional research.
 
 **Examiner trap 14:** Concurrence is a legal condition; Commission verification is a separate safeguard.
 
-### MCQ 15. Section 17
+### MCQ 15 — Answer C
 
-If information called for under section 17 is not received within the stipulated time, NHRC may
-
-A. automatically convict the named official.
-B. award final damages as a decree.
-C. proceed to inquire into the complaint on its own.
-D. refer every case to Parliament.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -308,16 +494,9 @@ D. refer every case to Parliament.
 
 **Examiner trap 15:** A report-first procedure does not give the government a veto through silence.
 
-### MCQ 16. Section 18 output
+### MCQ 16 — Answer D
 
-Which is the correct legal formulation?
-
-A. NHRC itself imprisons the responsible public servant.
-B. NHRC executes compensation as an ordinary civil decree.
-C. NHRC finally determines criminal guilt.
-D. NHRC may recommend compensation, prosecution, further action or interim relief and may approach a constitutional court.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -328,16 +507,9 @@ D. NHRC may recommend compensation, prosecution, further action or interim relie
 
 **Examiner trap 16:** In answers, retain the verbs 'recommend' and 'approach'.
 
-### MCQ 17. Ordinary response period
+### MCQ 17 — Answer A
 
-The ordinary section 18 period for government or authority comments is
-
-A. one month, or further time allowed by the Commission.
-B. three months without extension.
-C. one year.
-D. seven days.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -348,16 +520,9 @@ D. seven days.
 
 **Examiner trap 17:** Match each period to its provision: one month, three months, one year.
 
-### MCQ 18. Armed forces definition
+### MCQ 18 — Answer B
 
-For the PHRA, 'armed forces' includes
-
-A. all State police personnel by default.
-B. naval, military and air forces and other armed forces of the Union.
-C. only the Army.
-D. every private security contractor.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -368,16 +533,9 @@ D. every private security contractor.
 
 **Examiner trap 18:** Do not use 'armed forces' as a loose synonym for every uniformed service.
 
-### MCQ 19. Section 19 procedure
+### MCQ 19 — Answer C
 
-After receiving the Central Government's report in an armed-forces complaint, NHRC may
-
-A. conduct an ordinary direct inquiry regardless of section 19.
-B. sentence the personnel concerned.
-C. not proceed further or make recommendations to the Central Government.
-D. transfer the criminal trial to itself.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -388,16 +546,9 @@ D. transfer the criminal trial to itself.
 
 **Examiner trap 19:** The special route narrows procedure; it does not erase rights law.
 
-### MCQ 20. Armed-forces follow-up
+### MCQ 20 — Answer D
 
-The Central Government ordinarily informs NHRC of action on a section 19 recommendation within
-
-A. one month.
-B. six months.
-C. one year.
-D. three months, or further time allowed.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -408,16 +559,9 @@ D. three months, or further time allowed.
 
 **Examiner trap 20:** The special procedure has its own longer response clock.
 
-### MCQ 21. SHRC subject scope
+### MCQ 21 — Answer A
 
-An SHRC may inquire into violations relating to
-
-A. entries in the State List and Concurrent List, subject to the already-inquired bar.
-B. only the Union List.
-C. foreign affairs and defence exclusively.
-D. every matter occurring geographically in the State.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -428,16 +572,9 @@ D. every matter occurring geographically in the State.
 
 **Examiner trap 21:** Use the Seventh Schedule, not a simple territory test.
 
-### MCQ 22. SHRC appointment and removal
+### MCQ 22 — Answer B
 
-Which pair is correct?
-
-A. President appoints; Governor removes
-B. Governor appoints; President removes
-C. Chief Justice appoints; Chief Minister removes
-D. State Legislature appoints and removes
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -448,16 +585,9 @@ D. State Legislature appoints and removes
 
 **Examiner trap 22:** Resignation to the Governor must not be confused with removal by the President.
 
-### MCQ 23. SHRC chair eligibility
+### MCQ 23 — Answer C
 
-After the 2019 Amendment, an SHRC Chairperson must be a person who has been
-
-A. only a District Judge.
-B. only Chief Justice of India.
-C. Chief Justice or Judge of a High Court.
-D. a civil servant of Chief Secretary rank.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -468,16 +598,9 @@ D. a civil servant of Chief Secretary rank.
 
 **Examiner trap 23:** The 2019 change widened the chair route beyond former High Court Chief Justices.
 
-### MCQ 24. SHRC adapted functions
+### MCQ 24 — Answer D
 
-When section 12 applies to an SHRC through section 29, which function is omitted?
-
-A. Court intervention with approval
-B. Institution visits
-C. Research
-D. Study of treaties and other international instruments under section 12(f)
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -488,16 +611,9 @@ D. Study of treaties and other international instruments under section 12(f)
 
 **Examiner trap 24:** The omitted clause is treaty study, not complaint inquiry.
 
-### MCQ 25. Human Rights Court
+### MCQ 25 — Answer A
 
-A Human Rights Court under section 30 is
-
-A. a Court of Session that a State may specify for a district with High Court Chief Justice concurrence.
-B. an internal bench of NHRC.
-C. a court automatically created in every district by the Act without notification.
-D. the Supreme Court exercising Article 32.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -508,16 +624,9 @@ D. the Supreme Court exercising Article 32.
 
 **Examiner trap 25:** Designation of a Sessions Court does not create a new tier of judiciary.
 
-### MCQ 26. Special Public Prosecutor
+### MCQ 26 — Answer B
 
-An advocate specially appointed under section 31 must have practised for at least
-
-A. five years.
-B. seven years.
-C. ten years.
-D. twelve years.
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -528,16 +637,9 @@ D. twelve years.
 
 **Examiner trap 26:** The State may instead specify a Public Prosecutor.
 
-### MCQ 27. One-year bar
+### MCQ 27 — Answer C
 
-Which case treats section 36(2) as a jurisdictional bar and rejects a generic continuing-wrong theory for completed detention?
-
-A. Kesavananda Bharati v State of Kerala
-B. S.R. Bommai v Union of India
-C. N.C. Dhoundial v Union of India
-D. Indra Sawhney v Union of India
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -548,16 +650,9 @@ D. Indra Sawhney v Union of India
 
 **Examiner trap 27:** Continuing consequences do not necessarily mean a continuing violative act.
 
-### MCQ 28. Paramjit Kaur exception
+### MCQ 28 — Answer D
 
-Why did section 36(2) not control NHRC's role in Paramjit Kaur?
-
-A. The Act had been repealed.
-B. The complaint concerned only a private contract.
-C. NHRC had enacted a limitation waiver regulation.
-D. NHRC was acting as the Supreme Court's expert body under Article 32 directions, not exercising ordinary statutory jurisdiction.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -568,16 +663,9 @@ D. NHRC was acting as the Supreme Court's expert body under Article 32 direction
 
 **Examiner trap 28:** A Supreme Court reference does not create a general NHRC power to ignore the Act.
 
-### MCQ 29. Section 36(1)
+### MCQ 29 — Answer A
 
-Section 36(1) prevents NHRC from inquiring into a matter that is
-
-A. pending before an SHRC or another commission duly constituted by law.
-B. mentioned in a newspaper.
-C. older than six months.
-D. critical of the Union Government.
-
-**Answer: A.**
+A.**
 
 **Option-specific explanations:**
 
@@ -588,16 +676,9 @@ D. critical of the Union Government.
 
 **Examiner trap 29:** Subsection (1) is overlap; subsection (2) is time.
 
-### MCQ 30. Section 37
+### MCQ 30 — Answer B
 
-Who may constitute a special investigation team under section 37?
-
-A. Only the Chief Justice of India
-B. The Government, when it considers such a team necessary
-C. NHRC acting as a criminal court
-D. GANHRI
-
-**Answer: B.**
+B.**
 
 **Option-specific explanations:**
 
@@ -608,16 +689,9 @@ D. GANHRI
 
 **Examiner trap 30:** Do not merge section 37 SITs with section 14 agency utilisation.
 
-### MCQ 31. Specialised commissions
+### MCQ 31 — Answer C
 
-Which statement is correct about merging NCSC, NCST and NCBC into a statutory NHRC?
-
-A. It can be done by an NHRC administrative order.
-B. Section 3(3) has already dissolved them.
-C. Their constitutional status under Articles 338, 338A and 338B means ordinary PHRA amendment cannot simply absorb their constitutional mandates.
-D. The Governor can merge them through a State notification.
-
-**Answer: C.**
+C.**
 
 **Option-specific explanations:**
 
@@ -628,16 +702,9 @@ D. The Governor can merge them through a State notification.
 
 **Examiner trap 31:** An umbrella argument must separate constitutional and statutory bodies.
 
-### MCQ 32. EEVFAM
+### MCQ 32 — Answer D
 
-The most defensible use of EEVFAM (2016) in this topic is that it
-
-A. made every NHRC recommendation binding.
-B. abolished section 19.
-C. authorised NHRC to convict armed-forces personnel.
-D. required credible investigation of alleged extra-judicial executions and rejected blanket justification for excessive force, while preserving distinct institutional roles.
-
-**Answer: D.**
+D.**
 
 **Option-specific explanations:**
 
@@ -648,6 +715,57 @@ D. required credible investigation of alleged extra-judicial executions and reje
 
 **Examiner trap 32:** Use EEVFAM for investigation and accountability, not fictional NHRC powers.
 
+### MCQ 33 — Answer A
+
+A.**
+
+**Option-specific explanations:**
+
+- **A:** Inquiry, recommendation, public accountability and court approach are distinct statutory steps.
+- **B:** Evidence-taking powers help establish facts, not the legal force of final compensation orders.
+- **C:** Criminal conviction requires a competent court and applicable criminal process, not NHRC sentencing.
+- **D:** Non-acceptance does not bar a separate judicial remedy or prosecution under applicable law.
+
+**Examiner trap 33:** Civil-court powers for evidence must not be confused with binding adjudication.
+
+### MCQ 34 — Answer B
+
+B.**
+
+**Option-specific explanations:**
+
+- **A:** Later effects alone do not turn a completed violation into a continuing act under *Dhoundial*.
+- **B:** It correctly distinguishes current statutory jurisdiction from a defensible reform proposal and other forums.
+- **C:** Seriousness cannot create a general condonation power absent an enabling amendment.
+- **D:** Section 36(2) restricts both national and State commissions.
+
+**Examiner trap 34:** Do not silently describe a proposed humane exception as already operative law.
+
+### MCQ 35 — Answer C
+
+C.**
+
+**Option-specific explanations:**
+
+- **A:** Section 19 uses a distinct Central-report pathway, not an unlimited first-instance summons model.
+- **B:** SHRC cannot acquire military jurisdiction or criminal adjudication by substitution.
+- **C:** It states the special procedural restriction without falsely treating NHRC as powerless.
+- **D:** The statute permits the report, consideration and recommendations despite restricting ordinary inquiry.
+
+**Examiner trap 35:** Distinguish reduced investigative reach from absolute exclusion of rights scrutiny.
+
+### MCQ 36 — Answer D
+
+D.**
+
+**Option-specific explanations:**
+
+- **A:** Fact-finding can inform investigation but cannot displace trial evidence and due process.
+- **B:** Section 30 designates a forum; it does not define a new offence.
+- **C:** SHRC is not a criminal appellate court.
+- **D:** This preserves the separation of commission scrutiny, prosecution and court adjudication.
+
+**Examiner trap 36:** Designation of a court is neither automatic prosecution nor conversion of recommendations into convictions.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -655,7 +773,7 @@ D. required credible investigation of alleged extra-judicial executions and reje
 
 - The two direct owner-routed questions below are reproduced from audited local official-paper records.
 - UPSC publishes questions, not official Mains model answers; every solution below is an examiner-oriented model, never an official key.
-- No direct objective NHRC/SHRC PYQ with a locally controlled official key is claimed. The related 2023 constitutional-body classification item is not reconstructed as a direct topic PYQ.
+- No direct objective NHRC/SHRC PYQ with a locally controlled official key is claimed. The related 2023 constitutional-body classification PYQ below is cross-linked, not counted as direct; its official key is not held.
 
 ### Verified Mains PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words
 
@@ -694,6 +812,12 @@ Human Rights Commissions create accessible records of abuse, but their statutory
 **Remedies:** establish an independent multidisciplinary investigation cadre; publish selection criteria and vacancy calendars; require time-bound recommendation-wise acceptance or reasoned rejection with judicial escalation; legislate calibrated relief from the one-year bar for grave or concealed violations; permit safeguarded independent fact-finding under section 19; strengthen Human Rights Court and prosecutor referral.
 
 The goal is not to make NHRC a parallel criminal court, but to make its evidence produce accountable follow-through.
+
+### Cross-linked Prelims PYQ - UPSC GS-I 2023, Q35 - official key not held
+
+**Question as verified in the companion complete-topic package:** Consider the following organisations/bodies in India: (1) National Commission for Backward Classes, (2) National Human Rights Commission, (3) National Law Commission, and (4) National Consumer Disputes Redressal Commission. How many of the above are constitutional bodies? Options: only one; only two; only three; all four.
+
+**Provenance and key limit:** The audited ledger assigns the item to classification owners, not directly to NHRC/SHRC. The locally held official key is unavailable; no answer letter is claimed. The testable source distinction is Article 338B for NCBC, the PHRA for NHRC, executive creation for the Law Commission and statutory creation for the consumer commission.
 
 ### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODELS
 

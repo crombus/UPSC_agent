@@ -12,819 +12,511 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+**Original scenario practice, not official PYQs.** Complete all questions before checking the separate key.
+
+### Questions
+
 #### MCQ 1
 
-A district officer spends a grant on an impressive office renovation because the department saved the money, although the grant was sanctioned for drinking-water works. Which foundational ethical relationship is violated? Which source-grounded ethical principle most precisely explains the case?
+A district spends its entire medical-equipment grant, but devices cannot be maintained and remote patients cannot use them. Which diagnosis is strongest?
 
-A. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-B. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-C. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-D. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-**Answer:** A
-**Explanation:** **Public money is held in fiduciary trust** is the controlling principle. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Economy, effectiveness and equity must be checked against whole-life cost, actual health outcomes and access.
+B. Only speed of bill payment matters once an asset is delivered.
+C. Unused devices prove a specific officer committed bribery.
+D. Full expenditure establishes equitable and effective utilisation.
 
 ---
 
 #### MCQ 2
 
-A sanctioning officer rejects a politically useful but unauthorised diversion and records that the money remains tied to its public purpose. Which stewardship principle is applied? Which source-grounded ethical principle most precisely explains the case?
+A procurement file lacks an approval signature but the goods were delivered at a fair price and used well. What inference is justified?
 
-A. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-B. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-C. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-D. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-**Answer:** B
-**Explanation:** **Public money is held in fiduciary trust** is the controlling principle. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Good outcomes make delegated authority irrelevant.
+B. A procedural irregularity warrants verification and lawful correction; fraud or corruption needs further evidence.
+C. All payments must be recovered from beneficiaries regardless of fault.
+D. Missing approval automatically establishes a kickback.
 
 ---
 
 #### MCQ 3
 
-A ministry reports that its entire allocation was spent but cannot show that clinics became functional. Which budget-to-outcome distinction prevents equating expenditure with success? Which source-grounded ethical principle most precisely explains the case?
+A PSU officer splits one genuine stationery requirement into smaller orders to stay below his sanction limit. Which precise provision applies if Union goods procurement rules govern?
 
-A. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-B. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-C. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-D. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-**Answer:** C
-**Explanation:** **Allocation, release, expenditure, output and outcome are distinct** is the controlling principle. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. The same Rule 157 text verbatim governs every works and service contract.
+B. A superior’s informal preference enlarges delegated authority.
+C. GFR Rule 157 disallows piecemeal purchase of goods to evade sanction on the total estimated demand.
+D. GFR Rule 157 allows division whenever each order is signed.
 
 ---
 
 #### MCQ 4
 
-A project has a valid sanction and timely release, yet procurement never starts. At which link has the chain failed before any output can arise? Which source-grounded ethical principle most precisely explains the case?
+A road design change would increase displacement and cost while improving a Minister’s nearby land holdings. What should the officer do first?
 
-A. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-B. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-C. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-D. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-**Answer:** D
-**Explanation:** **Allocation, release, expenditure, output and outcome are distinct** is the controlling principle. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Privately buy the land at market price before the alignment is announced.
+B. Approve on oral direction because elected leadership supplies every technical criterion.
+C. Publicly accuse the Minister of a crime without checking the evidence.
+D. Decline any connected land benefit, preserve baseline plans and submit the variation for independent reasoned technical and conflict review.
 
 ---
 
 #### MCQ 5
 
-A clerk makes a curable coding error without deception, favour or loss. Why should an inquiry not automatically label the act fraud or corruption? Which source-grounded ethical principle most precisely explains the case?
+A tender has three bidders with near-identical unusual errors and predictable rotation of winners. What does this pattern establish?
 
-A. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-B. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-C. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-D. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-**Answer:** A
-**Explanation:** **Irregularity, waste, fraud, abuse and corruption must be separated** is the controlling principle. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. A red flag warranting secure bid and ownership analysis, competition review and fair hearing.
+B. An automatic duty to award to the most expensive bidder.
+C. A reason to destroy bids so collusion cannot recur.
+D. Proof of a completed cartel offence without inquiry.
 
 ---
 
 #### MCQ 6
 
-A committee knowingly certifies fictitious work so a connected contractor is paid. Which features move the case beyond mere irregularity? Which source-grounded ethical principle most precisely explains the case?
+A contractor wins at the lowest price, then seeks an expensive variation for foreseeable works omitted from the tender. What is the central risk?
 
-A. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-B. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-C. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-D. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-**Answer:** B
-**Explanation:** **Irregularity, waste, fraud, abuse and corruption must be separated** is the controlling principle. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Low original bid proves the asset will be effective.
+B. Strategic underbidding can move competition into untested variation; check original scope, authority, evidence and alternatives.
+C. Payment should be automatic because tendering occurred once.
+D. Every variation is illegal regardless of unforeseen conditions.
 
 ---
 
 #### MCQ 7
 
-A department buys luxury furnishings far beyond functional need through a fair tender and no one receives a kickback. Which category of public harm remains? Which source-grounded ethical principle most precisely explains the case?
+An official says fully executing a fund by year-end proves success; a clinic has empty shelves but immaculate vouchers. What audit question is missing?
 
-A. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-B. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-C. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-D. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-**Answer:** C
-**Explanation:** **Public loss may exist without private enrichment** is the controlling principle. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Was the ledger updated on schedule?
+B. Did the cashier sign every expenditure line?
+C. Did verified goods and services reach intended users and change outcomes, including for excluded groups?
+D. Did an appropriation exist on paper?
 
 ---
 
 #### MCQ 8
 
-An auditor finds no private gain but documents avoidable expenditure that displaced essential maintenance. Why is the finding ethically significant? Which source-grounded ethical principle most precisely explains the case?
+An MGNREGA social audit finds ghost job-card entries and workers who report unpaid wages. Which immediate response balances accountability and service continuity?
 
-A. Budget allocation authorises an amount, release makes funds available, expenditure records payment, output records the immediate deliverable, and outcome asks whether the intended public condition improved; none of these stages proves the next.
-
-B. Irregularity is departure from a rule; waste is avoidable loss without necessary private gain; fraud uses intentional deception; abuse of discretion misuses entrusted choice; corruption adds improper private, partisan or connected advantage through public power.
-
-C. An official controls public money as a trustee for authorised public purposes, not as a private proprietor free to substitute personal, partisan or organisational convenience for law, fairness, value and the interests of intended beneficiaries.
-
-D. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety.
-
-**Answer:** D
-**Explanation:** **Public loss may exist without private enrichment** is the controlling principle. Wasteful or ostentatious expenditure can injure the exchequer, opportunity cost and public trust even when no official pockets money; absence of personal enrichment therefore does not establish ethical propriety. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Freeze all wage payments indefinitely until every case is tried.
+B. Publish every worker’s bank credentials at the hearing.
+C. Treat testimony alone as final criminal conviction.
+D. Preserve records, verify with workers and banks, pay genuine dues through a safe channel and investigate supported fictitious entries.
 
 ---
 
 #### MCQ 9
 
-A hospital buys the lowest-priced equipment despite verified inability to meet safety specifications. Which value-for-money dimension has been misunderstood? Which source-grounded ethical principle most precisely explains the case?
+A CAG paragraph identifies high procurement cost and weak receipt checks. A manager calls it a criminal conviction. What is the correct boundary?
 
-A. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-B. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-C. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-D. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-**Answer:** A
-**Explanation:** **Economy concerns the cost and quality of inputs** is the controlling principle. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. CAG supplies independent audit evidence; competent authorities pursue reply, legislative scrutiny, investigation, remedy and any sanction.
+B. The PAC conducts every forensic interview and itself sentences officials.
+C. A bad ex-post outcome alone proves ex-ante dishonesty.
+D. An audit cannot ever reveal a suspicious control failure.
 
 ---
 
 #### MCQ 10
 
-A department compares purchase price, maintenance, energy, training and disposal before award. Which financial-performance question is it answering? Which source-grounded ethical principle most precisely explains the case?
+A welfare payment algorithm flags repeated account numbers where family members share a bank account; an officer orders automatic cancellation. What should precede adverse action?
 
-A. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-B. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-C. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-D. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-**Answer:** B
-**Explanation:** **Economy concerns the cost and quality of inputs** is the controlling principle. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Delete all exception logs so no person is profiled.
+B. Verify underlying records, hear affected people, test false positives and provide correction and appeal.
+C. Expose all claimant identities on a public dashboard.
+D. Treat every machine alert as independently verified deception.
 
 ---
 
 #### MCQ 11
 
-Two districts spend equally, but one completes twice as many compliant inspections with the same staffing and quality. Which performance dimension distinguishes them? Which source-grounded ethical principle most precisely explains the case?
+A Finance Ministry officer is asked to re-appropriate funds from housing to an industrial project. Which ethical test goes beyond formal budget competence?
 
-A. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-B. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-C. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-D. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-**Answer:** C
-**Explanation:** **Efficiency connects inputs to outputs** is the controlling principle. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. All re-appropriation is corrupt by definition.
+B. The original housing need must be ignored after a new allocation is proposed.
+C. Compare lost housing outcomes and displaced groups, alternative funding, evidence of benefit, authority and legislative visibility.
+D. The Minister’s political preference is sufficient evidence of equal benefit.
 
 ---
 
 #### MCQ 12
 
-A unit increases disposal numbers by rejecting applications without examination. Why is the reported efficiency ethically misleading? Which source-grounded ethical principle most precisely explains the case?
+A public official demands a payment from a citizen to perform a routine legal duty. Which risk pattern differs from bidders colluding to inflate a contract?
 
-A. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-B. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-C. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-D. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-**Answer:** D
-**Explanation:** **Efficiency connects inputs to outputs** is the controlling principle. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Both arrangements become lawful if no complaint is filed.
+B. A coerced citizen and a bidder cartel are necessarily identical moral agents.
+C. Only petty cash, never contract collusion, can be corruption.
+D. Coercive bribery directly exploits the dependent service-seeker; collusion distributes loss among taxpayers, competitors and users.
 
 ---
 
 #### MCQ 13
 
-A skills programme meets its training target, but participants cannot use the obsolete course for employment. Which value-for-money failure is central? Which source-grounded ethical principle most precisely explains the case?
+A Minister receives lavish hospitality indirectly through a spouse while a licensing decision is pending. Which response deals with the actual risk?
 
-A. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-B. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-C. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-D. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-**Answer:** A
-**Explanation:** **Effectiveness tests achievement of intended results** is the controlling principle. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Map beneficial interests and connected transfers, disclose, isolate decision-maker and independently examine the merits.
+B. Conclude guilt without corroborating who paid or why.
+C. Permit continued control if the Minister swears impartiality privately.
+D. Treat a spouse’s benefit as irrelevant to the public office.
 
 ---
 
 #### MCQ 14
 
-An audit compares the programme's objective with verified changes among intended beneficiaries. Which dimension is being examined? Which source-grounded ethical principle most precisely explains the case?
+A decision to buy urgent oxygen equipment is lawful and reasoned ex ante, but the market price later falls. Which audit response protects honesty without disabling accountability?
 
-A. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-B. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-C. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-D. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-**Answer:** B
-**Explanation:** **Effectiveness tests achievement of intended results** is the controlling principle. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Declare emergency powers exempt from all record review.
+B. Reconstruct contemporaneous authority, market comparison, conflicts, necessity and delivery; inquire into red flags, not mere hindsight.
+C. Create a retrospective justification that falsely claims more quotes were available.
+D. Punish everyone involved for the later price difference.
 
 ---
 
 #### MCQ 15
 
-A digital-only grant portal reduces processing cost but systematically excludes remote citizens without connectivity. Which fourth value must qualify the efficiency claim? Which source-grounded ethical principle most precisely explains the case?
+In a high-value contract, the same official selects the supplier, certifies delivery and authorises payment. Which immediate control is most relevant?
 
-A. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-B. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-C. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-D. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-**Answer:** C
-**Explanation:** **Equity tests distribution, access and burden** is the controlling principle. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Grant the official a larger signing limit to expedite decisions.
+B. Pay in advance before any independent check of goods.
+C. Separate need, award, receipt and payment where feasible; otherwise apply compensating review, sample verification and reconciliation.
+D. Publish only the final total to prevent external interference.
 
 ---
 
 #### MCQ 16
 
-A health allocation gives additional outreach resources to difficult tribal areas after evidence of access barriers. Which distributive principle supports the design? Which source-grounded ethical principle most precisely explains the case?
+A complaint describes an officer’s failure to perform a duty as “corruption” but files show a severe staffing shortage and no improper benefit. Which answer is qualified?
 
-A. Efficiency asks whether a process produces the greatest suitable output from available resources, or the required output with fewer resources, without hiding deterioration in quality, legality, worker safety or access.
-
-B. Effectiveness asks whether the programme's stated objectives and outcomes were actually achieved for the target population; timely spending and abundant outputs may still be ineffective when they do not solve the identified public problem.
-
-C. Economy means obtaining appropriate resources at the lowest defensible whole-life cost while preserving required quality, timeliness and fitness; choosing the cheapest defective input is false economy rather than stewardship.
-
-D. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support.
-
-**Answer:** D
-**Explanation:** **Equity tests distribution, access and burden** is the controlling principle. Equity asks who receives benefits, bears cost and remains excluded; equal expenditure per unit can remain unjust where remoteness, disability, social disadvantage or unequal need requires differentiated access and support. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Every delay necessarily satisfies all elements of a bribery offence.
+B. No performance failure can ever damage public trust.
+C. The only possible response is immediate prosecution without a service fix.
+D. Nonperformance can be a grave ethical failure, but do not infer a corrupt transaction without examining capacity, intent and connected gain.
 
 ---
 
 #### MCQ 17
 
-An officer approves a requirement beyond her delegated limit because delay seems inconvenient. Which institutional safeguard has she displaced? Which source-grounded ethical principle most precisely explains the case?
+A journalist has evidence of mining-police collusion; a leak would reveal a vulnerable witness’s identity. What is a proportionate reporting sequence?
 
-A. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-B. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-C. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-D. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-**Answer:** A
-**Explanation:** **Competent sanction is an ethical control, not paperwork** is the controlling principle. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Secure copies, protect the source, use safe independent channels and disclose only what is necessary when capture or urgent harm justifies escalation.
+B. Tell implicated officers the witness’s identity before safeguarding evidence.
+C. Suppress all reporting until every court process ends, however immediate the risk.
+D. Publish every raw record online to ensure maximum impact.
 
 ---
 
 #### MCQ 18
 
-A unit consolidates the total requirement and routes it to the authority empowered for that value. Which control logic is respected? Which source-grounded ethical principle most precisely explains the case?
+A project has hundreds of small corrupt payments but officials claim it is only an individual moral defect. What broader remedy addresses network capture?
 
-A. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-B. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-C. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-D. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-**Answer:** B
-**Explanation:** **Competent sanction is an ethical control, not paperwork** is the controlling principle. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Add blanket paperwork to every petty transaction.
+B. Reduce monopoly and opaque discretion, protect complaints, trace connected interests and audit concentrated awards with independent oversight.
+C. Reward vendor concentration because it makes collusion easier to count.
+D. Only exhort citizens to act virtuously, without changing discretion.
 
 ---
 
 #### MCQ 19
 
-The same officer creates a vendor, confirms delivery and authorises payment without review. Which preventive control weakness is most obvious? Which source-grounded ethical principle most precisely explains the case?
+A digital works ledger shows near-complete spend while inspectors find unused structures and fictitious beneficiaries. What should public reporting compare?
 
-A. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-B. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-C. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-D. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-**Answer:** C
-**Explanation:** **Segregation, verification and reconciliation reduce opportunity** is the controlling principle. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Only GPS stamps entered by the contractor.
+B. Only expenditure ratio with all beneficiary complaints excluded.
+C. Sanctions, bank flows and records against measured physical assets, beneficiary confirmation, use and outcomes, with discrepancy resolution.
+D. Only the timely release total.
 
 ---
 
 #### MCQ 20
 
-Stores, user unit, finance and bank records are periodically reconciled by persons outside the transaction chain. Which risk-control design is illustrated? Which source-grounded ethical principle most precisely explains the case?
+An anti-corruption task force wants the same officer to detect suspicious bids, investigate, adjudicate and punish immediately. What is the safer sequence?
 
-A. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-B. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-C. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-D. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-**Answer:** D
-**Explanation:** **Segregation, verification and reconciliation reduce opportunity** is the controlling principle. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. All reported anomalies → automatic prosecution and confiscation.
+B. Detection alone → managerial press release → no later inquiry.
+C. Whistleblower testimony → criminal guilt without response rights.
+D. Prevention and detection → independent evidence-based investigation → competent fair adjudication → proportionate sanction and service restoration.
 
 ---
 
-#### MCQ 21
+### Keyed solutions and remedial feedback
 
-A candidate cites Rule 157 verbatim for a divided consultancy contract without checking the services framework. Which precision error has occurred? Which source-grounded ethical principle most precisely explains the case?
-
-A. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-B. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-C. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-D. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
+#### MCQ 1 — A
 
 **Answer:** A
-**Explanation:** **GFR Rule 157 is a goods-specific anti-splitting rule** is the controlling principle. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: separate economy, efficiency, effectiveness and equity.
+- **B:** Receipt and payment do not establish useful service.
+- **C:** Idle equipment alone does not prove corrupt intent.
+- **D:** An accounting event is not social value.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 22
-
-One genuine stationery requirement is divided solely to stay below higher sanction. Which current goods-procurement rule states the controlling prohibition? Which source-grounded ethical principle most precisely explains the case?
-
-A. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-B. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-C. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-D. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
+#### MCQ 2 — B
 
 **Answer:** B
-**Explanation:** **GFR Rule 157 is a goods-specific anti-splitting rule** is the controlling principle. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Effective delivery does not erase a required sanction.
+- **B:** Correct: classify first before selecting remedy.
+- **C:** Beneficiaries should not bear unexplained administrative failure.
+- **D:** Rule breach and criminal motive are distinct questions.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 23
-
-A lawful budget transfer abruptly stalls housing for weaker sections although less harmful financing alternatives were not examined. What remains ethically reviewable? Which source-grounded ethical principle most precisely explains the case?
-
-A. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-B. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-C. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
-
-D. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
+#### MCQ 3 — C
 
 **Answer:** C
-**Explanation:** **Re-appropriation cannot erase public purpose and consequences** is the controlling principle. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Works and services require their applicable frameworks.
+- **B:** Authority follows the delegation, not private pressure.
+- **C:** Correct: test the total genuine requirement for goods.
+- **D:** Signing fragmented orders cannot create competence.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 24
-
-A finance officer records distributional impact, explores staged funding and places the trade-off before the competent authority. Which responsible approach is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. No single actor should control need identification, vendor selection, receipt certification, payment and ledger reconciliation; proportionate separation and independent verification reduce error, concealment, coercion and collusive override.
-
-B. General Financial Rules Rule 157 bars dividing a demand for goods into small quantities to avoid higher sanction; analogous splitting of works or services is still improper but must be tied to the applicable category rules and delegation framework.
-
-C. Delegated financial powers assign decision authority by subject and value so that scrutiny matches risk; expenditure without competent sanction, or engineered to evade a higher level, defeats accountability even if the purchase appears useful.
-
-D. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons.
+#### MCQ 4 — D
 
 **Answer:** D
-**Explanation:** **Re-appropriation cannot erase public purpose and consequences** is the controlling principle. Re-appropriation is a formally authorised transfer within the budget framework, but ethical review must still test competence, purpose, beneficiary impact, timing, alternatives, legislative answerability and whether a vulnerable programme is being sacrificed without reasons. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Market price does not cure privileged policy information.
+- **B:** Political direction must stay within authorised process.
+- **C:** Evidence-based escalation is preferable to premature conviction.
+- **D:** Correct: protect public-purpose analysis and reject insider advantage.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 25
-
-A clean bidding process is followed, but officials later accept inferior delivery and inflated change orders. Why is it wrong to call the procurement fully clean? Which source-grounded ethical principle most precisely explains the case?
-
-A. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-B. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-C. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-D. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
+#### MCQ 5 — A
 
 **Answer:** A
-**Explanation:** **Procurement integrity covers the whole lifecycle** is the controlling principle. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: suspicious pattern is a lead, not adjudicated guilt.
+- **B:** Higher cost does not guarantee independent competition.
+- **C:** Destroying evidence obstructs scrutiny.
+- **D:** Similarity alone can arise from standard forms or consultants.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 26
-
-An audit traces planning, tender, award, execution, payment and disposal rather than examining only the lowest bid. Which conception is applied? Which source-grounded ethical principle most precisely explains the case?
-
-A. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-B. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-C. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
-
-D. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
+#### MCQ 6 — B
 
 **Answer:** B
-**Explanation:** **Procurement integrity covers the whole lifecycle** is the controlling principle. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Quoted price alone cannot establish lifecycle performance.
+- **B:** Correct: post-award change control protects competition and value.
+- **C:** Award does not remove receipt and amendment checks.
+- **D:** Genuine unforeseen change can justify controlled variation.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 27
-
-A procurement member's sibling controls a bidder, although no favour has yet been shown. Which ethical condition already exists? Which source-grounded ethical principle most precisely explains the case?
-
-A. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-B. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-C. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-D. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
+#### MCQ 7 — C
 
 **Answer:** C
-**Explanation:** **Conflict of interest is a managed risk before it becomes corruption** is the controlling principle. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Bookkeeping records do not measure outcomes.
+- **B:** Signatures may coexist with unusable inputs.
+- **C:** Correct: trace allocation through physical output and equitable effect.
+- **D:** Authorisation alone is not delivery.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 28
-
-The member declares the relationship and an independent authority reassigns evaluation. Which preventive response is demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-B. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
-
-C. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-D. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
+#### MCQ 8 — D
 
 **Answer:** D
-**Explanation:** **Conflict of interest is a managed risk before it becomes corruption** is the controlling principle. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Programme-wide stoppage punishes genuine workers.
+- **B:** Privacy protections still apply to social audit.
+- **C:** Adjudication belongs to a competent forum with fair process.
+- **D:** Correct: restore rights while securing and testing evidence.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 29
-
-Three firms alternately win identical tenders while the others submit predictably high bids. Which risk should the buyer investigate? Which source-grounded ethical principle most precisely explains the case?
-
-A. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-B. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-C. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-D. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
+#### MCQ 9 — A
 
 **Answer:** A
-**Explanation:** **Collusion and cartels defeat apparent competition** is the controlling principle. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: audit-to-remedy chain separates mandates.
+- **B:** Committee scrutiny is not a substitute for prosecution or department action.
+- **C:** Fair review uses contemporaneous criteria and information.
+- **D:** Audit findings can warrant serious follow-up.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 30
-
-A procurement unit compares bid patterns across years and checks connected ownership. Which hidden threat to competition is it testing? Which source-grounded ethical principle most precisely explains the case?
-
-A. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-B. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-C. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
-
-D. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
+#### MCQ 10 — B
 
 **Answer:** B
-**Explanation:** **Collusion and cartels defeat apparent competition** is the controlling principle. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Auditable alerts help accountable review when protected.
+- **B:** Correct: analytics are leads, not findings.
+- **C:** Mass disclosure creates avoidable privacy harm.
+- **D:** Patterns may reflect lawful arrangements or error.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 31
-
-A contractor wins fairly and later doubles the value through poorly justified variations approved by one officer. Which stage now carries the main integrity risk? Which source-grounded ethical principle most precisely explains the case?
-
-A. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-B. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-C. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
-
-D. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
+#### MCQ 11 — C
 
 **Answer:** C
-**Explanation:** **Contract management can reverse a fair award** is the controlling principle. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** A lawful transfer can be defensible.
+- **B:** Opportunity cost and distribution are central.
+- **C:** Correct: public-purpose and equity tests accompany competent authorisation.
+- **D:** Preference alone is not analysis.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 32
-
-Technical staff verify milestones independently before finance releases payment. Which post-award safeguard is operating? Which source-grounded ethical principle most precisely explains the case?
-
-A. A conflict exists when a private or connected interest could improperly influence, or reasonably appear to influence, an official decision; timely disclosure, independent assessment, recusal or reassignment is required before proof of bribery.
-
-B. Bid rotation, cover bids, market allocation, common beneficial ownership and coordinated withdrawals can make several tenders only formally competitive; detection requires pattern analysis, independent estimates, ownership checks and a credible challenge route.
-
-C. Integrity begins with genuine need and realistic specifications, continues through fair market access, published criteria and reasoned award, and extends to delivery verification, variation, payment, asset use, maintenance, disposal and remedy.
-
-D. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result.
+#### MCQ 12 — D
 
 **Answer:** D
-**Explanation:** **Contract management can reverse a fair award** is the controlling principle. Post-award corruption may operate through unjustified variations, weak measurement, false completion, delayed penalties, concealed subcontracting or premature payment; independent verification and recorded change control protect the original competitive result. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Silence may reflect fear or capture.
+- **B:** Different power asymmetries matter to remedy.
+- **C:** Large organised corruption remains possible.
+- **D:** Correct: identify distinct victims and institutional fixes.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 33
-
-An official demands money before issuing a certificate already due to an eligible citizen. Which bribery pattern and response priority apply? Which source-grounded ethical principle most precisely explains the case?
-
-A. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-B. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-C. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-D. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
+#### MCQ 13 — A
 
 **Answer:** A
-**Explanation:** **Coercive and collusive bribery require different responses** is the controlling principle. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: substance-over-form conflict controls are required.
+- **B:** An allegation needs tested evidence and due process.
+- **C:** A private promise does not cure a material conflict.
+- **D:** Connected advantage can affect official judgment.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 34
-
-A contractor pays an engineer to certify substandard work so both benefit. Which form of bribery is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-B. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-C. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
-
-D. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
+#### MCQ 14 — B
 
 **Answer:** B
-**Explanation:** **Coercive and collusive bribery require different responses** is the controlling principle. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Urgency permits a bounded exception, not immunity.
+- **B:** Correct: preserve realistic contemporaneous standards.
+- **C:** Fabricated reasons destroy probity.
+- **D:** Later movement does not itself show improper purchase.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 35
-
-A regulator relies exclusively on industry data, meets only major firms and designs enforcement around their convenience. Which structural corruption risk appears? Which source-grounded ethical principle most precisely explains the case?
-
-A. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-B. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-C. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-D. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
+#### MCQ 15 — C
 
 **Answer:** C
-**Explanation:** **Regulatory capture can occur without an envelope of cash** is the controlling principle. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Delegation alone worsens concentrated risk.
+- **B:** Unverified payment increases loss exposure.
+- **C:** Correct: segregation or proportionate substitutes protect against fictitious deliveries.
+- **D:** Aggregate publication cannot detect self-certification.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 36
-
-Independent research capacity, balanced consultation and cooling-off controls are strengthened. Which risk are these measures intended to reduce? Which source-grounded ethical principle most precisely explains the case?
-
-A. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-B. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
-
-C. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-D. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
+#### MCQ 16 — D
 
 **Answer:** D
-**Explanation:** **Regulatory capture can occur without an envelope of cash** is the controlling principle. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Criminal liability has distinct proof requirements.
+- **B:** Delay can deny rights even without bribery.
+- **C:** Restore service and match response to the established failure.
+- **D:** Correct: omission needs causal and evidentiary analysis.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 37
-
-A business-political network secures weak eligibility rules, compliant appointments and selective non-enforcement across a sector. Which level of corruption is indicated? Which source-grounded ethical principle most precisely explains the case?
-
-A. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-B. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-C. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-D. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
+#### MCQ 17 — A
 
 **Answer:** A
-**Explanation:** **State capture reshapes rules, not merely individual decisions** is the controlling principle. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Correct: credibility, necessity and safety condition responsible whistleblowing.
+- **B:** Unprotected notification can invite retaliation.
+- **C:** Captured channels or urgent harm may warrant narrower external disclosure.
+- **D:** Broad exposure could endanger the source.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 38
-
-Why is replacing one bribed inspector insufficient when the governing rules and appointments have already been shaped by connected interests? Which source-grounded ethical principle most precisely explains the case?
-
-A. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-B. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-C. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
-
-D. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
+#### MCQ 18 — B
 
 **Answer:** B
-**Explanation:** **State capture reshapes rules, not merely individual decisions** is the controlling principle. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Uniform controls can create new rent points.
+- **B:** Correct: alter incentives, information asymmetry and enforcement.
+- **C:** Concentration can enable cartel or capture.
+- **D:** Moral appeals alone do not remove rents.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 39
-
-An employee reports forged bills through a protected channel and withholds unrelated beneficiary data. Which ethical reporting design is shown? Which source-grounded ethical principle most precisely explains the case?
-
-A. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-B. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-C. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
-
-D. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
+#### MCQ 19 — C
 
 **Answer:** C
-**Explanation:** **Whistleblowing needs protected, proportionate and evidence-preserving routes** is the controlling principle. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Vendor-entered data can be false or incomplete.
+- **B:** A spend ratio can conceal ghost or idle assets.
+- **C:** Correct: triangulation joins accounting to lived results.
+- **D:** Money release is not utilisation.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
 
-#### MCQ 40
-
-A complainant posts an entire database online without testing evidence or protecting citizens. Which whistleblowing limit has been ignored? Which source-grounded ethical principle most precisely explains the case?
-
-A. Regulatory capture arises when a regulator persistently serves the regulated sector's interests through dependence, information imbalance, revolving-door incentives, access or shared worldview, displacing the statutory public purpose even without proved bribery.
-
-B. State capture occurs when powerful interests influence laws, policies, appointments or enforcement architecture for durable private advantage; it is deeper than petty bribery because the rules of allocation and accountability themselves are altered.
-
-C. Coercive bribery extorts a citizen seeking a lawful entitlement, while collusive bribery benefits giver and taker at public cost; the first needs victim protection and service restoration, the second demands scrutiny of both sides and the underlying transaction.
-
-D. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards.
+#### MCQ 20 — D
 
 **Answer:** D
-**Explanation:** **Whistleblowing needs protected, proportionate and evidence-preserving routes** is the controlling principle. A responsible whistleblower preserves reliable evidence, uses authorised independent channels where reasonably safe, limits disclosure to the wrongdoing, protects unrelated persons and receives confidentiality, anti-retaliation, feedback and escalation safeguards. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+
+**Option-by-option explanation:**
+- **A:** Alerts cannot replace proof and competent authority.
+- **B:** Publicity does not correct the loss.
+- **C:** Witness evidence requires corroboration and fair testing.
+- **D:** Correct: distinct stages protect integrity and due process.
+
+**Trap:** Distinguish evidence of a weak control from proof of individual intent; state the competent remedial forum.
 
 ---
-
-#### MCQ 41
-
-Vendor-role separation is introduced before transactions occur. Is its primary function prevention or proof of an existing offence? Which source-grounded ethical principle most precisely explains the case?
-
-A. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-B. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-C. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-D. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-**Answer:** A
-**Explanation:** **Prevention and detection are different control functions** is the controlling principle. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 42
-
-Exception analytics flags repeated round-number payments after they occur. Which system stage is primarily operating? Which source-grounded ethical principle most precisely explains the case?
-
-A. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-B. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-C. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-D. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-**Answer:** B
-**Explanation:** **Prevention and detection are different control functions** is the controlling principle. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 43
-
-A department dismisses an employee solely because an audit paragraph raised suspicion. Which accountability stages and fairness protections were skipped? Which source-grounded ethical principle most precisely explains the case?
-
-A. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-B. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-C. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-D. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-**Answer:** C
-**Explanation:** **Investigation, adjudication and sanction must not be collapsed** is the controlling principle. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 44
-
-Evidence is independently examined, the affected person is heard, reasons are recorded and a proportionate penalty follows. Which complete sequence is respected? Which source-grounded ethical principle most precisely explains the case?
-
-A. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-B. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-C. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-D. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-**Answer:** D
-**Explanation:** **Investigation, adjudication and sanction must not be collapsed** is the controlling principle. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 45
-
-A village hearing compares muster rolls with workers and completed assets. Which form of scrutiny is operating, and why does it not replace CAG? Which source-grounded ethical principle most precisely explains the case?
-
-A. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-B. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-C. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-D. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-**Answer:** A
-**Explanation:** **Audit forms are complementary, not interchangeable** is the controlling principle. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 46
-
-A legislative committee examines an audit report and calls the executive to explain deviations. Which accountability bridge is illustrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-B. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-C. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-D. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-**Answer:** B
-**Explanation:** **Audit forms are complementary, not interchangeable** is the controlling principle. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 47
-
-A dashboard shows every payment as timely, but field verification finds ghost beneficiaries. Which limit of technological transparency is exposed? Which source-grounded ethical principle most precisely explains the case?
-
-A. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-B. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-C. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-D. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-**Answer:** C
-**Explanation:** **Technology strengthens traceability but does not prove integrity** is the controlling principle. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
-
----
-
-#### MCQ 48
-
-An e-procurement system combines open access, tamper-evident logs, ownership checks, appeal and independent verification. Which balanced design is demonstrated? Which source-grounded ethical principle most precisely explains the case?
-
-A. Investigation gathers and tests evidence, adjudication determines responsibility through the competent fair process, and sanction imposes the authorised consequence; suspicion, audit finding or investigative allegation is not itself a final determination.
-
-B. Internal audit supports management control, CAG audit supplies constitutionally grounded external scrutiny, legislative committees examine executive accountability, and social audit enables citizen verification of records against lived delivery; each has a different forum and remedy path.
-
-C. Prevention reduces opportunity and motive before loss through design, while detection discovers possible deviation through reconciliation, audit trails, complaints, analytics or inspection; a control may contribute to both but the objectives remain distinct.
-
-D. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption.
-
-**Answer:** D
-**Explanation:** **Technology strengthens traceability but does not prove integrity** is the controlling principle. Digital payments, e-procurement and transaction logs can reduce cash handling and improve traceability, yet biased specifications, false data, shared credentials, collusive vendors, exclusion and unreviewed algorithms can digitise rather than eliminate corruption. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -842,27 +534,6 @@ The officer should refuse the benefit and disclose the conflict. The original te
 
 Public money is held in trust. Responsiveness to the political executive does not permit a project to be reshaped for connected enrichment. Independent technical review, conflict management and a durable audit trail protect both democratic authority and the officer.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q8: a senior Ministry officer is pressed by a Minister to realign…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q8: a senior Ministry officer is pressed by a Minister to realign a proposed road near the Minister's farmhouse and is…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q8: a senior Ministry officer is pressed by a Minister to realign a proposed road near the Minister's farmhouse and is…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q8: a senior Ministry officer is pressed by a Minister to realign…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2019 — 10 marks
 
@@ -878,28 +549,6 @@ The implications extend beyond accounting. Idle funds postpone rights and infras
 
 Reform requires credible plans, milestone-linked release, competent sanction, e-procurement, segregation of duties, real-time but verified transaction trails, CAG/internal/social audit, speaking explanations for variance and consequence after fair inquiry. Utilisation should be judged from allocation to outcome, not by spending alone.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “GS-IV Q2(a): Effective utilization of public funds is crucial to meet development goals.…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): Effective utilization of public funds is crucial to meet development goals. Critically examine the reasons for under-utilization and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact English wording verified against books\more previous papers\QP-CSM19-GeneralStudies-IV.pdf, page 2. This is Topic 18's direct historical PYQ. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): Effective utilization of public funds is crucial to meet development goals. Critically examine the reasons for under-utilization and…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): Effective utilization of public funds is crucial to meet development goals.…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2019 — 10 marks
 
@@ -915,28 +564,6 @@ However, every poor result is not corruption. Delay may arise from inadequate st
 
 Thus non-performance is ethically corrupt when it is a deliberate abuse of entrusted office; legal liability still depends on the ingredients and process of the applicable law.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Thus non-performance is ethically corrupt when it is a deliberate abuse of entrusted office; legal liability still depends on the ingredients and process of the applicable law. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you agree with this view? Justify your answer. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): "Non-performance of duty by a public servant is a form of corruption". Do you…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2019 — 20 marks
 
@@ -954,28 +581,6 @@ Processes should combine prevention, detection and fair enforcement: published c
 
 Technology cannot replace field verification or institutional independence. Integrity becomes durable when incentives, competence, controls, citizen oversight and fair consequence reinforce one another.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Technology cannot replace field verification or institutional independence. Integrity becomes durable when incentives, competence, controls, citizen oversight and fair consequence reinforce one another. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of conduct, transparency measures, ethics and integrity…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Section B concluding question: India seeks effective civil-service ethics, codes of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2020 — 20 marks
 
@@ -991,27 +596,6 @@ Rajesh should verify the budget and delegation rules, the actual pace and bottle
 
 Automatic refusal may ignore urgent public loss, while mechanical compliance abandons stewardship. Resignation is not the first response because it removes the officer's capacity to create a record and improve the decision. It becomes defensible only if a clearly unlawful diversion is insisted upon after authorised review and continued service would require complicity.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **assess** requires a direct position on “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar must assess a proposed…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar must assess a proposed re-appropriation from a social-housing allocation to an SEZ…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar must assess a proposed re-appropriation from a social-housing allocation to an SEZ…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q7: Finance Ministry officer Rajesh Kumar must assess a proposed…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2021 — 10 marks
 
@@ -1027,27 +611,6 @@ Independence requires separation from the implementing unit, timely access to in
 
 The phrase 'every sphere' needs functional adaptation. Citizen scrutiny of court administration and expenditure cannot become popular review of judicial merits; privacy, decisional independence and lawful appeal remain. Social audit does not replace CAG, internal audit or courts. Its ethical value is converting fiscal visibility into participatory verification and enforceable follow-up.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(a): An independent and empowered social audit mechanism is an absolute must in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2022 — 20 marks
 
@@ -1063,27 +626,6 @@ Immediate publication without verification may endanger sources and the investig
 
 For administration, reform must attack the network: rotate and scrutinise sensitive posts, use remote sensing and transport records, reconcile permits and royalty, protect complainants, disclose beneficial interests, and investigate money and decision trails. Individual arrests alone fail where appointments, enforcement and information channels remain captured.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia working with corrupt police, civil officials and a…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia working with corrupt police, civil officials and a…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: an investigative journalist uncovers a stone-mining mafia…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2023 — 10 marks
 
@@ -1099,27 +641,6 @@ Value uplift therefore needs family and school modelling of honesty, civic educa
 
 Community monitoring and social audit can turn public money into a visible common trust. Yet moral lectures without redesign breed cynicism, while surveillance without values breeds fear. The durable strategy aligns character, incentives, opportunity reduction, collective disapproval of corrupt advantage and institutions capable of correction.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the society." In your opinion, what measures can be adopted to uplift…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): "Corruption is the manifestation of the failure of core values in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2023 — 10 marks
 
@@ -1135,27 +656,6 @@ Both impair voluntary and impartial decision-making, but evidence and remedy dif
 
 Controls include written criteria and directions, multiple decision-makers, safe complaint routes, review of appraisal and transfer powers, anti-retaliation protection and independent investigation. In corruption analysis, the distinction prevents blaming a coerced citizen as though she were a willing collusive partner.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and 'undue influence' with suitable examples. (150 words)”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): In the context of work environment, differentiate between 'coercion' and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 10 marks
 
@@ -1171,27 +671,6 @@ Leakage controls include e-procurement, beneficial-ownership and conflict checks
 
 CAG, internal audit, legislative committees, social audit and protected complaints must connect findings to correction, recovery, service restoration and proportionate sanction after fair inquiry. Technology improves traceability but cannot validate false input. Growth is strengthened when public money produces effective and equitable outcomes, not merely a high expenditure ratio.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q6(b): India is an emerging economic power of the world as it has recently secured…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2025 — 20 marks
 
@@ -1207,27 +686,6 @@ He should verify the total requirement and applicable procurement method, record
 
 If pressure persists, Rajesh should use the authorised finance, procurement or vigilance review route while preserving records. Promotion anxiety cannot convert delegated power into ownership. The preferred option protects both timely purchase and institutional scrutiny; resignation is premature while lawful internal remedies remain.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q10: Rajesh, an administrative officer in a public-sector…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: Rajesh, an administrative officer in a public-sector undertaking, is asked to procure stationery from a particular…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q10: Rajesh, an administrative officer in a public-sector undertaking, is asked to procure stationery from a particular…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q10: Rajesh, an administrative officer in a public-sector…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 12 — 2025 — 20 marks
 
@@ -1243,29 +701,22 @@ A reconciliation should match job cards, attendance, measurements, payments, ass
 
 Corrective action includes record repair, payment of dues, recovery where legally established, disciplinary or criminal referral through competent channels, and reasoned action-taken reports. Future prevention needs role separation, attendance and measurement controls, surprise field checks, exception alerts and safe complaints. The objective is simultaneous continuity of entitlement, evidence-based accountability and redesign of the conditions that enabled siphoning.
 
-**Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
----
+### CASE-STUDY DECISION TESTS — COMPANIONS TO THE MODELS ABOVE
+
+These extensions concern the **neutral routed demands above**; the official paper remains authoritative for the complete printed case facts. They supply explicit option comparisons, stakeholder consequences and oversight without asserting additional case facts.
+
+**2018 Q8 — road alignment and connected land.** Stakeholders are displaced landholders, commuters, taxpayers, the Minister, the officer and spouse, and users of affected natural resources. Compliance with the oral proposal may preserve the officer's position but imposes additional acquisition and ecological costs while converting privileged knowledge into private gain. Abrupt public accusation without securing plans or testing technical grounds risks reputational harm and loss of evidence. A purely private refusal avoids the personal purchase but leaves the biased project change possible. **Choose:** refuse the land arrangement; preserve both alignments and independent cost, displacement and tree-impact comparisons; disclose the connected-interest proposal through the competent channel; seek the material direction in writing and submit any alternative for independent technical, finance and environmental scrutiny. If pressure continues, escalate through authorised review while protecting confidential plans. Review the final alignment against recorded criteria and examine whether any connected acquisition occurred. Political accountability does not displace the officer's duty of financial stewardship.
+
+**2020 Q7 — housing-to-industry re-appropriation.** Stakeholders include prospective housing beneficiaries, project employees and users, affected regions, taxpayers, the legislature and Rajesh. Mechanical approval may advance industry but deprive a weaker group and conceal opportunity cost; categorical rejection may ignore binding project obligations and a genuine funding bottleneck; resignation at once abandons an opportunity to document and improve the choice. **Choose:** check delegated power and ring-fenced obligations first, establish why housing money remains available, quantify who loses housing and which project costs are irreversible, compare a smaller or phased transfer and alternative finance, and present a written recommendation to the competent authority. Require a reasoned, appropriately reported decision and milestones for restoring housing delivery. If the proposed diversion is unlawful, decline to execute it and escalate; only when complicity remains unavoidable after institutional remedies should resignation be evaluated. Monitor actual housing and industrial outcomes, not merely the transfer entry.
+
+**2022 Q10 — mining and media capture.** Stakeholders include exposed communities, lawful miners, readers, the journalist and family, confidential sources, accused officials, police and the media outlet. Accepting inducement entrenches illegal extraction; publishing raw unverified material risks witness safety and false accusation; keeping the story indefinitely inside a captured outlet may suppress it. **Choose:** refuse and document the inducement; authenticate records and seek independent legal/editorial and personal-safety advice; minimise identifiers; route substantiated allegations to a competent independent authority and, if internal channels are unsafe and harm is grave, consider necessary and narrowly framed external publication. Request a response from those accused in a manner that does not identify vulnerable sources. Track whether investigation reaches permit, transport, royalty and connected-benefit trails; do not declare guilt on the basis of journalistic allegation.
+
+**2025 Q10 — split stationery orders.** Stakeholders are PSU users, competing suppliers, taxpayers, Rajesh and the directing superior. Splitting one goods requirement to evade delegated sanction violates the anti-piecemeal principle in GFR Rule 157 **where that rule applies**; doing nothing indefinitely impairs the office; resigning immediately forfeits internal remedy. Consolidate genuine demand, seek written direction and route neutral specifications and estimate to the competent sanctioning authority for a timely, competitive purchase. A narrow genuinely separate urgent requirement can be considered only on its own documented merits, not fabricated to break the total. Preserve communications and seek authorised finance or vigilance review if pressure continues; assess retaliation and procurement outcome separately rather than presuming the vendor guilty.
+
+**2025 Q11 — MGNREGA records and wages.** Stakeholders are unpaid genuine workers and families, innocent field staff, alleged participants, village communities and the public exchequer. Freezing the entire programme would penalise workers; paying every disputed entry immediately could perpetuate diversion; punishing all named staff before verification destroys procedural fairness. Secure source records, isolate suspect payment paths, arrange independently confirmed payment of genuine arrears and continue lawful employment demand. Reconcile job cards, attendance, measurements, bank payments and physical works through an independent field team; conduct a safe public hearing and refer supported cases to competent investigative and disciplinary forums. Provide notice and response before findings and pursue recovery where law permits. Publish a privacy-safe action-taken report and review whether later wages, assets and complaint corrections actually materialise.
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
-
-**Demand decoding:** The directive **answer** requires a direct position on “Neutral routing of GS-IV Q11: a district administrator discovers MGNREGA records showing…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q11: a district administrator discovers MGNREGA records showing non-payment to genuine workers, defective muster rolls,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Neutral routing of GS-IV Q11: a district administrator discovers MGNREGA records showing non-payment to genuine workers, defective muster rolls,…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Neutral routing of GS-IV Q11: a district administrator discovers MGNREGA records showing…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1279,28 +730,6 @@ The classification changes the response. A coding error may need correction and 
 
 Fair administration should classify facts before assigning stigma. This protects honest error while ensuring that public loss without personal gain is not dismissed as harmless.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish irregularity, waste, fraud, abuse of discretion and corruption in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Distinguish irregularity, waste, fraud, abuse of discretion and corruption in the utilisation of public funds. Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Fair administration should classify facts before assigning stigma. This protects honest error while ensuring that public loss without personal gain is not dismissed as harmless. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Distinguish irregularity, waste, fraud, abuse of discretion and corruption in the utilisation of public funds. Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Distinguish irregularity, waste, fraud, abuse of discretion and corruption in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1314,27 +743,6 @@ A district may spend its full health grant and purchase many devices. It fails e
 
 The four dimensions therefore prevent both cheapest-is-best and spend-it-all thinking. They should be joined to legality, public purpose and reliable evidence. A defensible utilisation judgment asks whether authorised money became quality public value for the people for whom it was entrusted.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why should effective utilisation of public funds be assessed through economy, efficiency,…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why should effective utilisation of public funds be assessed through economy, efficiency, effectiveness and equity rather than expenditure alone?…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why should effective utilisation of public funds be assessed through economy, efficiency, effectiveness and equity rather than expenditure alone?…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why should effective utilisation of public funds be assessed through economy, efficiency,…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1350,27 +758,6 @@ Post-award controls are equally important. Independent technical personnel shoul
 
 E-procurement and tamper-evident logs improve traceability but cannot cure biased specifications or collusive bidders. Risk-based internal audit, CAG scrutiny, protected complaints, proportionate sanctions and lessons fed into future standard documents complete the lifecycle.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an integrity framework for public procurement and contract management from need…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Design an integrity framework for public procurement and contract management from need identification to final payment. Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Design an integrity framework for public procurement and contract management from need identification to final payment. Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Design an integrity framework for public procurement and contract management from need…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1384,27 +771,6 @@ Ordinary bribery distorts a transaction; capture distorts the environment govern
 
 Response requires structural pluralism: transparent appointments and consultation, independent technical capacity, conflict and post-employment controls, disclosure of connected interests, open criteria, distributed review, audit across agencies, protected reporting and scrutiny of policy as well as transactions. Safeguards must avoid treating every industry consultation as capture; the test is persistent displacement of lawful public purpose and reasoned independence.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain regulatory capture and state capture. How do they deepen ordinary corruption in…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Explain regulatory capture and state capture. How do they deepen ordinary corruption in public expenditure and regulation? Answer in about 200 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Explain regulatory capture and state capture. How do they deepen ordinary corruption in public expenditure and regulation? Answer in about 200 words.”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Explain regulatory capture and state capture. How do they deepen ordinary corruption in…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1420,27 +786,6 @@ Sanction then imposes the authorised consequence: correction, recovery, contract
 
 The stages must communicate without collapsing. Audit can trigger investigation but cannot convict; an investigator should not become final judge. Protected whistleblowing, CAG and legislative scrutiny, citizen oversight, published action-taken reports and periodic control review connect the system. Technology strengthens traceability, but independent field verification and accountable human judgment remain essential. This separation protects public money while preserving legitimate administrative initiative and the credibility of every eventual finding.
 
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
----
-
-**Demand decoding:** The directive **answer** requires a direct position on “Construct a complete anti-corruption architecture for public funds by distinguishing…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Construct a complete anti-corruption architecture for public funds by distinguishing prevention, detection, investigation, adjudication and sanction.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Construct a complete anti-corruption architecture for public funds by distinguishing prevention, detection, investigation, adjudication and sanction.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Construct a complete anti-corruption architecture for public funds by distinguishing…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1455,23 +800,3 @@ Immediate action should preserve logs, master data, sanction files, bids, invoic
 System redesign should separate registration, approval, receipt and payment; strengthen identity and role controls; require maker-checker approval for sensitive changes; publish safe scheme-level data; and create exception alerts for duplicates, split orders, concentration and post-award variation. Social audit can test lived delivery; CAG and internal audit can test systems and value for money. Whistleblowers need confidentiality and anti-retaliation.
 
 Confirmed loss should lead to correction, dues, recovery, contract remedies and proportionate disciplinary or criminal referral. Success metrics must shift from expenditure completion to economy, efficiency, effectiveness and equity. Digital evidence becomes trustworthy only when provenance, independent verification, contestability and remedy surround it. Periodic independent review should also test whether the redesigned platform reduces exclusion, delay and recurring manipulation.
-
-**Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “A digital expenditure platform shows complete and timely utilisation, yet field reports…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A digital expenditure platform shows complete and timely utilisation, yet field reports reveal ghost beneficiaries, collusive vendors and unusable…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A digital expenditure platform shows complete and timely utilisation, yet field reports reveal ghost beneficiaries, collusive vendors and unusable…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A digital expenditure platform shows complete and timely utilisation, yet field reports…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

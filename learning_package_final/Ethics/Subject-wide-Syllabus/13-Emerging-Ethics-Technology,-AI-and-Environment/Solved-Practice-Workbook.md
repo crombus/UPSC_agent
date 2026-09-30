@@ -12,819 +12,1241 @@ generated_on: 2026-08-29
 
 ## BASIC MCQS / REMEDIATION
 
+### Questions — attempt before consulting the key
+
 #### MCQ 1
 
-A welfare department treats a model score as conclusive and refuses to identify any responsible officer. Which principle has been displaced? Which source-grounded ethical principle most precisely explains the case?
+A welfare department treats a model score as conclusive and refuses to identify any responsible officer. Which principle has been displaced? What analysis or safeguard is most defensible?
 
-A. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-B. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-C. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-D. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-**Answer:** A
-**Explanation:** **AI is decision support, not an accountability substitute** is the controlling principle. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Name an accountable human reviewer for the model-assisted denial
+B. Let the vendor be the sole accountable decision-maker for the a welfare department treats a model score as conclusive and refuses to id case
+C. Treat all model scores as final if average accuracy is high for the a welfare department treats a model score as conclusive and refuses to id case
+D. Allow an official to sign without independent review for the a welfare department treats a model score as conclusive and refuses to id case
 
 ---
 
 #### MCQ 2
 
-A licensing officer checks an AI risk flag against the record and gives independent reasons. Which proper role for AI is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A licensing officer checks an AI risk flag against the record and gives independent reasons. Which proper role for AI is illustrated? What analysis or safeguard is most defensible?
 
-A. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-B. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-C. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-D. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-**Answer:** B
-**Explanation:** **AI is decision support, not an accountability substitute** is the controlling principle. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the vendor be the sole accountable decision-maker for the a licensing officer checks an ai risk flag against the record and gives i case
+B. Use the model as a checked input and give independently defensible reasons
+C. Treat all model scores as final if average accuracy is high for the a licensing officer checks an ai risk flag against the record and gives i case
+D. Allow an official to sign without independent review for the a licensing officer checks an ai risk flag against the record and gives i case
 
 ---
 
 #### MCQ 3
 
-A fraud model trained only on urban cases repeatedly misclassifies rural claims. At which bias stage should the diagnosis begin? Which source-grounded ethical principle most precisely explains the case?
+A fraud model trained only on urban cases repeatedly misclassifies rural claims. At which bias stage should the diagnosis begin? What analysis or safeguard is most defensible?
 
-A. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-B. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-C. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-D. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-**Answer:** C
-**Explanation:** **Bias can enter data, design, deployment and feedback** is the controlling principle. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the vendor be the sole accountable decision-maker for the a fraud model trained only on urban cases repeatedly misclassifies rural  case
+B. Treat all model scores as final if average accuracy is high for the a fraud model trained only on urban cases repeatedly misclassifies rural  case
+C. Audit rural underrepresentation in training and labelling data
+D. Allow an official to sign without independent review for the a fraud model trained only on urban cases repeatedly misclassifies rural  case
 
 ---
 
 #### MCQ 4
 
-A policing model sends more patrols where it earlier predicted risk, then treats the resulting arrests as proof. Which loop is operating? Which source-grounded ethical principle most precisely explains the case?
+A policing model sends more patrols where it earlier predicted risk, then treats the resulting arrests as proof. Which loop is operating? What analysis or safeguard is most defensible?
 
-A. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-B. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-C. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-D. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-**Answer:** D
-**Explanation:** **Bias can enter data, design, deployment and feedback** is the controlling principle. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Let the vendor be the sole accountable decision-maker for the a policing model sends more patrols where it earlier predicted risk, then case
+B. Treat all model scores as final if average accuracy is high for the a policing model sends more patrols where it earlier predicted risk, then case
+C. Allow an official to sign without independent review for the a policing model sends more patrols where it earlier predicted risk, then case
+D. Break the self-confirming patrol-and-arrest feedback loop
 
 ---
 
 #### MCQ 5
 
-A pension applicant receives only a model version number after rejection. Which ethical safeguard remains unsatisfied? Which source-grounded ethical principle most precisely explains the case?
+A pension applicant receives only a model version number after rejection. Which ethical safeguard remains unsatisfied? What analysis or safeguard is most defensible?
 
-A. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-B. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-C. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-D. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-**Answer:** A
-**Explanation:** **Explainability must be useful to the affected person** is the controlling principle. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Supply intelligible grounds, not just a model identifier
+B. Publish the model version without reasons or redress for the a pension applicant receives only a model version number after rejection case
+C. Call ten-second rubber-stamping meaningful human oversight for the a pension applicant receives only a model version number after rejection case
+D. Assume a reviewable decision needs no record of its grounds for the a pension applicant receives only a model version number after rejection case
 
 ---
 
 #### MCQ 6
 
-An agency states the decisive data, rule, uncertainty and appeal route in plain language. Which concept is being operationalised? Which source-grounded ethical principle most precisely explains the case?
+An agency states the decisive data, rule, uncertainty and appeal route in plain language. Which concept is being operationalised? What analysis or safeguard is most defensible?
 
-A. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-B. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-C. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-D. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-**Answer:** B
-**Explanation:** **Explainability must be useful to the affected person** is the controlling principle. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish the model version without reasons or redress for the an agency states the decisive data, rule, uncertainty and appeal route in case
+B. Give the affected person reasons and a practicable appeal
+C. Call ten-second rubber-stamping meaningful human oversight for the an agency states the decisive data, rule, uncertainty and appeal route in case
+D. Assume a reviewable decision needs no record of its grounds for the an agency states the decisive data, rule, uncertainty and appeal route in case
 
 ---
 
 #### MCQ 7
 
-A junior clerk must approve every model output within ten seconds and cannot alter it. Why is the human-in-the-loop claim hollow? Which source-grounded ethical principle most precisely explains the case?
+A junior clerk must approve every model output within ten seconds and cannot alter it. Why is the human-in-the-loop claim hollow? What analysis or safeguard is most defensible?
 
-A. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-B. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-C. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-D. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-**Answer:** C
-**Explanation:** **Human oversight must be meaningful** is the controlling principle. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish the model version without reasons or redress for the a junior clerk must approve every model output within ten seconds and can case
+B. Call ten-second rubber-stamping meaningful human oversight for the a junior clerk must approve every model output within ten seconds and can case
+C. Give reviewers time, information and authority to disagree
+D. Assume a reviewable decision needs no record of its grounds for the a junior clerk must approve every model output within ten seconds and can case
 
 ---
 
 #### MCQ 8
 
-A medical board can pause, investigate and reverse a high-risk model recommendation. Which form of oversight is present? Which source-grounded ethical principle most precisely explains the case?
+A medical board can pause, investigate and reverse a high-risk model recommendation. Which form of oversight is present? What analysis or safeguard is most defensible?
 
-A. AI unfairness may originate in unrepresentative data, labels and proxy variables, design objectives, unequal deployment conditions, or feedback loops that turn earlier skewed outputs into future training evidence.
-
-B. Explainability in high-stakes administration requires an intelligible account of the decisive factors, limits and review route, not merely disclosure of source code or a technical statement that only specialists can understand.
-
-C. Administrative AI can improve speed, consistency and pattern detection, but it should remain a decision-support input whose recommendation is tested against law, context and reasons by an answerable public official.
-
-D. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability.
-
-**Answer:** D
-**Explanation:** **Human oversight must be meaningful** is the controlling principle. Human oversight is meaningful only when the reviewer has competence, time, authority, relevant information and freedom to depart from an automated recommendation; ceremonial approval preserves neither judgment nor accountability. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Publish the model version without reasons or redress for the a medical board can pause, investigate and reverse a high-risk model reco case
+B. Call ten-second rubber-stamping meaningful human oversight for the a medical board can pause, investigate and reverse a high-risk model reco case
+C. Assume a reviewable decision needs no record of its grounds for the a medical board can pause, investigate and reverse a high-risk model reco case
+D. Preserve a board’s meaningful power to pause and reverse output
 
 ---
 
 #### MCQ 9
 
-A department blames a vendor after an automated exclusion although no official owned validation. Which governance failure is central? Which source-grounded ethical principle most precisely explains the case?
+A department blames a vendor after an automated exclusion although no official owned validation. Which governance failure is central? What analysis or safeguard is most defensible?
 
-A. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-B. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-C. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-D. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-**Answer:** A
-**Explanation:** **Accountability requires an auditable responsibility chain** is the controlling principle. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Assign validation and correction duties to the deploying authority
+B. Shift all blame to the procurement vendor for the a department blames a vendor after an automated exclusion although no off case
+C. Give applicants a correction form but no new decision for the a department blames a vendor after an automated exclusion although no off case
+D. Treat protected status fields as the only possible source of bias for the a department blames a vendor after an automated exclusion although no off case
 
 ---
 
 #### MCQ 10
 
-A procurement contract preserves logs, assigns incident duties and permits independent audit. Which accountability architecture is strengthened? Which source-grounded ethical principle most precisely explains the case?
+A procurement contract preserves logs, assigns incident duties and permits independent audit. Which accountability architecture is strengthened? What analysis or safeguard is most defensible?
 
-A. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-B. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-C. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-D. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-**Answer:** B
-**Explanation:** **Accountability requires an auditable responsibility chain** is the controlling principle. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Shift all blame to the procurement vendor for the a procurement contract preserves logs, assigns incident duties and permit case
+B. Retain logs, incident ownership, audit and vendor obligations
+C. Give applicants a correction form but no new decision for the a procurement contract preserves logs, assigns incident duties and permit case
+D. Treat protected status fields as the only possible source of bias for the a procurement contract preserves logs, assigns incident duties and permit case
 
 ---
 
 #### MCQ 11
 
-A scholarship applicant can submit corrected records but no one may reconsider the model result. Which element remains absent? Which source-grounded ethical principle most precisely explains the case?
+A scholarship applicant can submit corrected records but no one may reconsider the model result. Which element remains absent? What analysis or safeguard is most defensible?
 
-A. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-B. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-C. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-D. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-**Answer:** C
-**Explanation:** **Contestability gives affected persons an effective remedy** is the controlling principle. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Shift all blame to the procurement vendor for the a scholarship applicant can submit corrected records but no one may recon case
+B. Give applicants a correction form but no new decision for the a scholarship applicant can submit corrected records but no one may recon case
+C. Permit actual human reconsideration of corrected evidence
+D. Treat protected status fields as the only possible source of bias for the a scholarship applicant can submit corrected records but no one may recon case
 
 ---
 
 #### MCQ 12
 
-A citizen receives notice, a simple appeal channel and reasoned human review. Which safeguard is demonstrated? Which source-grounded ethical principle most precisely explains the case?
+A citizen receives notice, a simple appeal channel and reasoned human review. Which safeguard is demonstrated? What analysis or safeguard is most defensible?
 
-A. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-B. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-C. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-D. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-**Answer:** D
-**Explanation:** **Contestability gives affected persons an effective remedy** is the controlling principle. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Shift all blame to the procurement vendor for the a citizen receives notice, a simple appeal channel and reasoned human rev case
+B. Give applicants a correction form but no new decision for the a citizen receives notice, a simple appeal channel and reasoned human rev case
+C. Treat protected status fields as the only possible source of bias for the a citizen receives notice, a simple appeal channel and reasoned human rev case
+D. Provide notice, counter-evidence and reasoned independent re-decision
 
 ---
 
 #### MCQ 13
 
-Experienced inspectors stop examining unusual cases because the dashboard is usually right. Which paired risks arise? Which source-grounded ethical principle most precisely explains the case?
+Experienced inspectors stop examining unusual cases because the dashboard is usually right. Which paired risks arise? What analysis or safeguard is most defensible?
 
-A. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-B. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-C. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-D. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-**Answer:** A
-**Explanation:** **Automation bias and de-skilling are institutional risks** is the controlling principle. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Detect automation bias and loss of human inspection skill
+B. Use time-stamped output as proof of independent judgment for the experienced inspectors stop examining unusual cases because the dashboard case
+C. Let repeated AI acceptances replace human skill maintenance for the experienced inspectors stop examining unusual cases because the dashboard case
+D. Assume plausible generated citations are reliable sources for the experienced inspectors stop examining unusual cases because the dashboard case
 
 ---
 
 #### MCQ 14
 
-A department requires periodic manual sampling and records justified departures from model advice. Which risks is it trying to control? Which source-grounded ethical principle most precisely explains the case?
+A department requires periodic manual sampling and records justified departures from model advice. Which risks is it trying to control? What analysis or safeguard is most defensible?
 
-A. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-B. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-C. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-D. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-**Answer:** B
-**Explanation:** **Automation bias and de-skilling are institutional risks** is the controlling principle. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use time-stamped output as proof of independent judgment for the a department requires periodic manual sampling and records justified depa case
+B. Audit override and acceptance rates against manual sampling
+C. Let repeated AI acceptances replace human skill maintenance for the a department requires periodic manual sampling and records justified depa case
+D. Assume plausible generated citations are reliable sources for the a department requires periodic manual sampling and records justified depa case
 
 ---
 
 #### MCQ 15
 
-An officer files a disciplinary order using model-generated cases without checking them. Which reliability failure is decisive? Which source-grounded ethical principle most precisely explains the case?
+An officer files a disciplinary order using model-generated cases without checking them. Which reliability failure is decisive? What analysis or safeguard is most defensible?
 
-A. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-B. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-C. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-D. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-**Answer:** C
-**Explanation:** **Hallucination and reliability require verification** is the controlling principle. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use time-stamped output as proof of independent judgment for the an officer files a disciplinary order using model-generated cases without case
+B. Let repeated AI acceptances replace human skill maintenance for the an officer files a disciplinary order using model-generated cases without case
+C. Independently check citations and facts before signing the order
+D. Assume plausible generated citations are reliable sources for the an officer files a disciplinary order using model-generated cases without case
 
 ---
 
 #### MCQ 16
 
-A legal cell verifies every generated citation against official records before use. Which control addresses hallucination? Which source-grounded ethical principle most precisely explains the case?
+A legal cell verifies every generated citation against official records before use. Which control addresses hallucination? What analysis or safeguard is most defensible?
 
-A. Contestability means a person can know that automation materially influenced a decision, challenge relevant data and reasoning, obtain timely human reconsideration, and secure correction or remedy without prohibitive cost.
-
-B. Automation bias is the tendency to over-trust machine output, while de-skilling is the gradual erosion of human expertise through disuse; both require calibrated reliance, training and periodic unaided judgment.
-
-C. Algorithmic accountability assigns named responsibility across procurer, developer, deploying department and final decision-maker, while logs, impact assessment, audit trails and incident reporting make conduct reviewable before and after harm.
-
-D. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions.
-
-**Answer:** D
-**Explanation:** **Hallucination and reliability require verification** is the controlling principle. Generative AI may produce fluent but false citations, facts or explanations, so reliability demands source verification, uncertainty disclosure, domain testing and prohibition of unverified output as the sole basis of consequential decisions. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Use time-stamped output as proof of independent judgment for the a legal cell verifies every generated citation against official records b case
+B. Let repeated AI acceptances replace human skill maintenance for the a legal cell verifies every generated citation against official records b case
+C. Assume plausible generated citations are reliable sources for the a legal cell verifies every generated citation against official records b case
+D. Verify generated references against authoritative primary records
 
 ---
 
 #### MCQ 17
 
-A vendor passes one demonstration and then changes its model without notice. Which procurement controls were missing? Which source-grounded ethical principle most precisely explains the case?
+A vendor passes one demonstration and then changes its model without notice. Which procurement controls were missing? What analysis or safeguard is most defensible?
 
-A. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-B. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-C. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-D. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-**Answer:** A
-**Explanation:** **Procurement must include red-teaming and monitoring** is the controlling principle. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Contract for version controls, post-change testing and audit access
+B. Accept a successful product demo as permanent validation for the a vendor passes one demonstration and then changes its model without noti case
+C. Continue deploying changed versions without re-testing for the a vendor passes one demonstration and then changes its model without noti case
+D. Treat authentic-looking videos as inherently reliable for the a vendor passes one demonstration and then changes its model without noti case
 
 ---
 
 #### MCQ 18
 
-A department tests adversarial cases before launch and monitors drift after deployment. Which lifecycle approach is illustrated? Which source-grounded ethical principle most precisely explains the case?
+A department tests adversarial cases before launch and monitors drift after deployment. Which lifecycle approach is illustrated? What analysis or safeguard is most defensible?
 
-A. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-B. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-C. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-D. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-**Answer:** B
-**Explanation:** **Procurement must include red-teaming and monitoring** is the controlling principle. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Accept a successful product demo as permanent validation for the a department tests adversarial cases before launch and monitors drift aft case
+B. Use pre-launch stress tests and post-launch drift monitoring
+C. Continue deploying changed versions without re-testing for the a department tests adversarial cases before launch and monitors drift aft case
+D. Treat authentic-looking videos as inherently reliable for the a department tests adversarial cases before launch and monitors drift aft case
 
 ---
 
 #### MCQ 19
 
-A forged video of a district officer triggers panic before verification. Which ethical value is most directly attacked? Which source-grounded ethical principle most precisely explains the case?
+A forged video of a district officer triggers panic before verification. Which ethical value is most directly attacked? What analysis or safeguard is most defensible?
 
-A. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-B. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-C. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-D. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-**Answer:** C
-**Explanation:** **Deepfakes attack authenticity and public trust** is the controlling principle. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Accept a successful product demo as permanent validation for the a forged video of a district officer triggers panic before verification case
+B. Continue deploying changed versions without re-testing for the a forged video of a district officer triggers panic before verification case
+C. Treat the forged video as a threat to authentic public trust
+D. Treat authentic-looking videos as inherently reliable for the a forged video of a district officer triggers panic before verification case
 
 ---
 
 #### MCQ 20
 
-Authorities preserve the original, verify provenance and issue a prompt correction without suppressing criticism. Which balanced response is shown? Which source-grounded ethical principle most precisely explains the case?
+Authorities preserve the original, verify provenance and issue a prompt correction without suppressing criticism. Which balanced response is shown? What analysis or safeguard is most defensible?
 
-A. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-B. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-C. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-D. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-**Answer:** D
-**Explanation:** **Deepfakes attack authenticity and public trust** is the controlling principle. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Accept a successful product demo as permanent validation for the authorities preserve the original, verify provenance and issue a prompt c case
+B. Continue deploying changed versions without re-testing for the authorities preserve the original, verify provenance and issue a prompt c case
+C. Treat authentic-looking videos as inherently reliable for the authorities preserve the original, verify provenance and issue a prompt c case
+D. Verify provenance and correct falsehood without silencing lawful criticism
 
 ---
 
 #### MCQ 21
 
-A platform rewards inflammatory falsehood because engagement rises. Which design-linked ethical problem is present? Which source-grounded ethical principle most precisely explains the case?
+A platform rewards inflammatory falsehood because engagement rises. Which design-linked ethical problem is present? What analysis or safeguard is most defensible?
 
-A. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-B. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-C. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-D. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-**Answer:** A
-**Explanation:** **Social media combines misinformation, manipulation and privacy harms** is the controlling principle. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Review engagement incentives that amplify misinformation
+B. Correct rumours by suppressing all criticism for the a platform rewards inflammatory falsehood because engagement rises case
+C. Disclose children’s identities to rebut a false allegation for the a platform rewards inflammatory falsehood because engagement rises case
+D. Reward maximum engagement without checking public harm for the a platform rewards inflammatory falsehood because engagement rises case
 
 ---
 
 #### MCQ 22
 
-A public agency counters a rumour with verified facts while protecting children's identities. Which competing values are being balanced? Which source-grounded ethical principle most precisely explains the case?
+A public agency counters a rumour with verified facts while protecting children's identities. Which competing values are being balanced? What analysis or safeguard is most defensible?
 
-A. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-B. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-C. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-D. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-**Answer:** B
-**Explanation:** **Social media combines misinformation, manipulation and privacy harms** is the controlling principle. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Correct rumours by suppressing all criticism for the a public agency counters a rumour with verified facts while protecting ch case
+B. Counter falsehood with verified evidence and protect children’s privacy
+C. Disclose children’s identities to rebut a false allegation for the a public agency counters a rumour with verified facts while protecting ch case
+D. Reward maximum engagement without checking public harm for the a public agency counters a rumour with verified facts while protecting ch case
 
 ---
 
 #### MCQ 23
 
-A village has mobile coverage but elderly pensioners cannot navigate an English-only portal. Which divide persists? Which source-grounded ethical principle most precisely explains the case?
+A village has mobile coverage but elderly pensioners cannot navigate an English-only portal. Which divide persists? What analysis or safeguard is most defensible?
 
-A. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-B. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-C. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-D. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-**Answer:** C
-**Explanation:** **The digital divide is about capability, not connectivity alone** is the controlling principle. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Correct rumours by suppressing all criticism for the a village has mobile coverage but elderly pensioners cannot navigate an e case
+B. Disclose children’s identities to rebut a false allegation for the a village has mobile coverage but elderly pensioners cannot navigate an e case
+C. Address skills, language and usability beyond network coverage
+D. Reward maximum engagement without checking public harm for the a village has mobile coverage but elderly pensioners cannot navigate an e case
 
 ---
 
 #### MCQ 24
 
-A service adds assisted access, local-language design and an offline channel. Which ethical principle is advanced? Which source-grounded ethical principle most precisely explains the case?
+A service adds assisted access, local-language design and an offline channel. Which ethical principle is advanced? What analysis or safeguard is most defensible?
 
-A. Deepfakes create an authenticity problem by making fabricated audio or video appear evidentially real; proportionate responses combine provenance signals, verification, rapid correction, platform process and due regard for lawful expression.
-
-B. Social media dilemmas include falsehood, micro-targeted manipulation, addictive amplification, privacy invasion, cyberbullying and polarisation; speed and reach magnify harm, while blanket censorship can damage expression and democratic debate.
-
-C. Responsible AI procurement specifies the public purpose, representative testing, security and bias red-teaming, documentation, audit access, change control, incident response, continuing performance monitoring and an exit route.
-
-D. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion.
-
-**Answer:** D
-**Explanation:** **The digital divide is about capability, not connectivity alone** is the controlling principle. Digital inclusion requires affordable access, devices, language and disability accessibility, literacy, assistance and an effective offline alternative; an online portal can otherwise convert administrative efficiency into substantive exclusion. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Correct rumours by suppressing all criticism for the a service adds assisted access, local-language design and an offline chan case
+B. Disclose children’s identities to rebut a false allegation for the a service adds assisted access, local-language design and an offline chan case
+C. Reward maximum engagement without checking public harm for the a service adds assisted access, local-language design and an offline chan case
+D. Preserve assisted offline and language-accessible service delivery
 
 ---
 
 #### MCQ 25
 
-A health database is reused for unrelated profiling because the facts were once disclosed voluntarily. Which understanding of privacy rejects this reasoning? Which source-grounded ethical principle most precisely explains the case?
+A health database is reused for unrelated profiling because the facts were once disclosed voluntarily. Which understanding of privacy rejects this reasoning? What analysis or safeguard is most defensible?
 
-A. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-B. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-C. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-D. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-**Answer:** A
-**Explanation:** **Privacy protects dignity, autonomy and contextual control** is the controlling principle. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Reject function creep and limit processing to its original purpose
+B. Call network availability substantive digital inclusion for the a health database is reused for unrelated profiling because the facts wer case
+C. Treat prior consent as a licence for unrelated profiling for the a health database is reused for unrelated profiling because the facts wer case
+D. Retain every collected field indefinitely for future convenience for the a health database is reused for unrelated profiling because the facts wer case
 
 ---
 
 #### MCQ 26
 
-An agency limits reuse to the stated service purpose and permits correction. Which underlying values are protected? Which source-grounded ethical principle most precisely explains the case?
+An agency limits reuse to the stated service purpose and permits correction. Which underlying values are protected? What analysis or safeguard is most defensible?
 
-A. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-B. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-C. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-D. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-**Answer:** B
-**Explanation:** **Privacy protects dignity, autonomy and contextual control** is the controlling principle. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Call network availability substantive digital inclusion for the an agency limits reuse to the stated service purpose and permits correcti case
+B. Use purpose limits, correction and personal autonomy safeguards
+C. Treat prior consent as a licence for unrelated profiling for the an agency limits reuse to the stated service purpose and permits correcti case
+D. Retain every collected field indefinitely for future convenience for the an agency limits reuse to the stated service purpose and permits correcti case
 
 ---
 
 #### MCQ 27
 
-A department cites convenience but identifies no law or narrower alternative before mass tracking. Which constitutional test is incomplete? Which source-grounded ethical principle most precisely explains the case?
+A department cites convenience but identifies no law or narrower alternative before mass tracking. Which constitutional test is incomplete? What analysis or safeguard is most defensible?
 
-A. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-B. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-C. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-D. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-**Answer:** C
-**Explanation:** **Puttaswamy requires the full proportionality inquiry** is the controlling principle. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Call network availability substantive digital inclusion for the a department cites convenience but identifies no law or narrower alternat case
+B. Treat prior consent as a licence for unrelated profiling for the a department cites convenience but identifies no law or narrower alternat case
+C. Demand lawful authority, necessity and less intrusive alternatives
+D. Retain every collected field indefinitely for future convenience for the a department cites convenience but identifies no law or narrower alternat case
 
 ---
 
 #### MCQ 28
 
-A scheme has legal authority, a legitimate aim, narrow collection, safeguards and review. Which analytical framework supports assessment? Which source-grounded ethical principle most precisely explains the case?
+A scheme has legal authority, a legitimate aim, narrow collection, safeguards and review. Which analytical framework supports assessment? What analysis or safeguard is most defensible?
 
-A. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-B. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-C. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-D. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-**Answer:** D
-**Explanation:** **Puttaswamy requires the full proportionality inquiry** is the controlling principle. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Call network availability substantive digital inclusion for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case
+B. Treat prior consent as a licence for unrelated profiling for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case
+C. Retain every collected field indefinitely for future convenience for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case
+D. Apply Puttaswamy legality, aim, necessity, balance and safeguards
 
 ---
 
 #### MCQ 29
 
-An answer says every DPDP duty was enforceable from November 2025. Which chronology corrects it? Which source-grounded ethical principle most precisely explains the case?
+An answer says every DPDP duty was enforceable from November 2025. Which chronology corrects it? What analysis or safeguard is most defensible?
 
-A. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-B. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-C. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-D. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-**Answer:** A
-**Explanation:** **DPDP commencement is phased, not fully operational** is the controlling principle. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Separate November 2025 limited commencement from later DPDP tranches
+B. Treat a useful aim alone as a complete privacy justification for the an answer says every dpdp duty was enforceable from november 2025 case
+C. Assume phased statutory commencement erases constitutional duties for the an answer says every dpdp duty was enforceable from november 2025 case
+D. Bundle unrelated tracking permissions into one checkbox for the an answer says every dpdp duty was enforceable from november 2025 case
 
 ---
 
 #### MCQ 30
 
-An administrator protects data ethically now while distinguishing future statutory duties. Which law-ethics distinction is shown? Which source-grounded ethical principle most precisely explains the case?
+An administrator protects data ethically now while distinguishing future statutory duties. Which law-ethics distinction is shown? What analysis or safeguard is most defensible?
 
-A. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-B. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-C. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-D. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-**Answer:** B
-**Explanation:** **DPDP commencement is phased, not fully operational** is the controlling principle. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a useful aim alone as a complete privacy justification for the an administrator protects data ethically now while distinguishing future  case
+B. Protect privacy ethically now despite staged future statutory duties
+C. Assume phased statutory commencement erases constitutional duties for the an administrator protects data ethically now while distinguishing future  case
+D. Bundle unrelated tracking permissions into one checkbox for the an administrator protects data ethically now while distinguishing future  case
 
 ---
 
 #### MCQ 31
 
-A benefits app collects contacts and location unrelated to eligibility under one bundled checkbox. Which safeguards fail? Which source-grounded ethical principle most precisely explains the case?
+A benefits app collects contacts and location unrelated to eligibility under one bundled checkbox. Which safeguards fail? What analysis or safeguard is most defensible?
 
-A. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-B. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-C. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-D. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-**Answer:** C
-**Explanation:** **Consent must be purpose-bound and security-backed** is the controlling principle. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a useful aim alone as a complete privacy justification for the a benefits app collects contacts and location unrelated to eligibility un case
+B. Assume phased statutory commencement erases constitutional duties for the a benefits app collects contacts and location unrelated to eligibility un case
+C. Reject bundled unrelated data capture and non-granular consent
+D. Bundle unrelated tracking permissions into one checkbox for the a benefits app collects contacts and location unrelated to eligibility un case
 
 ---
 
 #### MCQ 32
 
-A service requests only necessary fields, explains use and deletes them when no longer needed. Which data ethic is applied? Which source-grounded ethical principle most precisely explains the case?
+A service requests only necessary fields, explains use and deletes them when no longer needed. Which data ethic is applied? What analysis or safeguard is most defensible?
 
-A. A State privacy restriction should be tested for legality, legitimate aim, rational connection, necessity or least-restrictive means, proportionate balancing and procedural safeguards; a useful public objective alone does not complete the inquiry.
-
-B. G.S.R. 843(E) commenced a specified immediate tranche on 13 November 2025; the Consent Manager tranche begins 13 November 2026, while core notice, consent, rights, fiduciary, Board and penalty provisions begin 13 May 2027.
-
-C. Privacy is not secrecy alone: it protects dignity, decisional autonomy and a person's reasonable control over how information given in one context is collected, combined, inferred and used in another.
-
-D. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse.
-
-**Answer:** D
-**Explanation:** **Consent must be purpose-bound and security-backed** is the controlling principle. Ethical data processing joins informed and revocable consent with purpose limitation, data minimisation, accuracy, retention limits and reasonable security; a clicked box cannot authorise indefinite collection or unrelated reuse. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat a useful aim alone as a complete privacy justification for the a service requests only necessary fields, explains use and deletes them w case
+B. Assume phased statutory commencement erases constitutional duties for the a service requests only necessary fields, explains use and deletes them w case
+C. Bundle unrelated tracking permissions into one checkbox for the a service requests only necessary fields, explains use and deletes them w case
+D. Collect only needed fields with clear notice and deletion policies
 
 ---
 
 #### MCQ 33
 
-A company reports renewable electricity but ignores cooling water and discarded accelerators. Why is its footprint account incomplete? Which source-grounded ethical principle most precisely explains the case?
+A company reports renewable electricity but ignores cooling water and discarded accelerators. Why is its footprint account incomplete? What analysis or safeguard is most defensible?
 
-A. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-B. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-C. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-D. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-**Answer:** A
-**Explanation:** **AI has energy, water, hardware and e-waste costs** is the controlling principle. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Measure water, hardware and waste as well as electricity
+B. Count only electricity when measuring an AI centre’s footprint for the a company reports renewable electricity but ignores cooling water and dis case
+C. Value present output while discounting long-lived ecosystem loss for the a company reports renewable electricity but ignores cooling water and dis case
+D. Assume all environmental protection forbids development for the a company reports renewable electricity but ignores cooling water and dis case
 
 ---
 
 #### MCQ 34
 
-A data centre measures operational energy, water, embodied hardware and e-waste. Which lifecycle view is demonstrated? Which source-grounded ethical principle most precisely explains the case?
+A data centre measures operational energy, water, embodied hardware and e-waste. Which lifecycle view is demonstrated? What analysis or safeguard is most defensible?
 
-A. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-B. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-C. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-D. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-**Answer:** B
-**Explanation:** **AI has energy, water, hardware and e-waste costs** is the controlling principle. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Count only electricity when measuring an AI centre’s footprint for the a data centre measures operational energy, water, embodied hardware and e case
+B. Assess the whole compute-and-hardware environmental lifecycle
+C. Value present output while discounting long-lived ecosystem loss for the a data centre measures operational energy, water, embodied hardware and e case
+D. Assume all environmental protection forbids development for the a data centre measures operational energy, water, embodied hardware and e case
 
 ---
 
 #### MCQ 35
 
-A housing plan ignores ecosystem services because present welfare always prevails. Which principle corrects that one-sided claim? Which source-grounded ethical principle most precisely explains the case?
+A housing plan ignores ecosystem services because present welfare always prevails. Which principle corrects that one-sided claim? What analysis or safeguard is most defensible?
 
-A. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-B. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-C. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-D. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-**Answer:** C
-**Explanation:** **Sustainable development is a two-generation bridge** is the controlling principle. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Count only electricity when measuring an AI centre’s footprint for the a housing plan ignores ecosystem services because present welfare always  case
+B. Value present output while discounting long-lived ecosystem loss for the a housing plan ignores ecosystem services because present welfare always  case
+C. Weigh ecosystem functions and future needs against present housing
+D. Assume all environmental protection forbids development for the a housing plan ignores ecosystem services because present welfare always  case
 
 ---
 
 #### MCQ 36
 
-A project redesign protects livelihoods while retaining ecological capacity. Which bridging concept supports it? Which source-grounded ethical principle most precisely explains the case?
+A project redesign protects livelihoods while retaining ecological capacity. Which bridging concept supports it? What analysis or safeguard is most defensible?
 
-A. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-B. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-C. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-D. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-**Answer:** D
-**Explanation:** **Sustainable development is a two-generation bridge** is the controlling principle. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Count only electricity when measuring an AI centre’s footprint for the a project redesign protects livelihoods while retaining ecological capaci case
+B. Value present output while discounting long-lived ecosystem loss for the a project redesign protects livelihoods while retaining ecological capaci case
+C. Assume all environmental protection forbids development for the a project redesign protects livelihoods while retaining ecological capaci case
+D. Design for current welfare without destroying future ecological capacity
 
 ---
 
 #### MCQ 37
 
-A government discounts irreversible groundwater loss because future residents cannot object. Which ethical duty is neglected? Which source-grounded ethical principle most precisely explains the case?
+A government discounts irreversible groundwater loss because future residents cannot object. Which ethical duty is neglected? What analysis or safeguard is most defensible?
 
-A. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-B. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-C. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-D. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-**Answer:** A
-**Explanation:** **Intergenerational equity represents absent future citizens** is the controlling principle. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Recognise the needs of future people unable to object today
+B. Treat downstream and future users as outside public interest for the a government discounts irreversible groundwater loss because future resid case
+C. Present environmental jurisprudence as a self-executing AI statute for the a government discounts irreversible groundwater loss because future resid case
+D. Wait for complete certainty before addressing serious risks for the a government discounts irreversible groundwater loss because future resid case
 
 ---
 
 #### MCQ 38
 
-A policy applies a long time horizon and preserves ecological options. Which justice principle is operating? Which source-grounded ethical principle most precisely explains the case?
+A policy applies a long time horizon and preserves ecological options. Which justice principle is operating? What analysis or safeguard is most defensible?
 
-A. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-B. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-C. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-D. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-**Answer:** B
-**Explanation:** **Intergenerational equity represents absent future citizens** is the controlling principle. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat downstream and future users as outside public interest for the a policy applies a long time horizon and preserves ecological options case
+B. Preserve future generations’ ecological options in present decisions
+C. Present environmental jurisprudence as a self-executing AI statute for the a policy applies a long time horizon and preserves ecological options case
+D. Wait for complete certainty before addressing serious risks for the a policy applies a long time horizon and preserves ecological options case
 
 ---
 
 #### MCQ 39
 
-A note calls Vellore a directly enforceable AI statute. Which doctrinal limit must be restored? Which source-grounded ethical principle most precisely explains the case?
+A note calls Vellore a directly enforceable AI statute. Which doctrinal limit must be restored? What analysis or safeguard is most defensible?
 
-A. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-B. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-C. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-D. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-**Answer:** C
-**Explanation:** **Precaution may guide high-stakes AI only by analogy** is the controlling principle. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat downstream and future users as outside public interest for the a note calls vellore a directly enforceable ai statute case
+B. Present environmental jurisprudence as a self-executing AI statute for the a note calls vellore a directly enforceable ai statute case
+C. Cite Vellore as environmental jurisprudence, not an AI statute
+D. Wait for complete certainty before addressing serious risks for the a note calls vellore a directly enforceable ai statute case
 
 ---
 
 #### MCQ 40
 
-A department pilots and stress-tests an uncertain high-impact AI system before scale-up. Which analogous reasoning supports caution? Which source-grounded ethical principle most precisely explains the case?
+A department pilots and stress-tests an uncertain high-impact AI system before scale-up. Which analogous reasoning supports caution? What analysis or safeguard is most defensible?
 
-A. Sustainable development meets present needs without compromising future generations' ability to meet their own needs; it neither makes development absolute nor converts environmental protection into an automatic veto.
-
-B. Intergenerational equity extends public interest across time by requiring present decision-makers to account for durable resource depletion, climate risk and ecological damage imposed on people unable to participate in today's choice.
-
-C. AI's environmental footprint spans electricity for training and inference, water used in cooling and power generation, embodied impacts of hardware manufacture, mineral extraction, replacement cycles and electronic waste.
-
-D. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law.
-
-**Answer:** D
-**Explanation:** **Precaution may guide high-stakes AI only by analogy** is the controlling principle. Rio Principle 15 and Vellore are environmental authorities; their precaution logic may inform high-stakes AI by analogy where uncertain harm could be serious, but they are not binding Indian AI law. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat downstream and future users as outside public interest for the a department pilots and stress-tests an uncertain high-impact ai system b case
+B. Present environmental jurisprudence as a self-executing AI statute for the a department pilots and stress-tests an uncertain high-impact ai system b case
+C. Wait for complete certainty before addressing serious risks for the a department pilots and stress-tests an uncertain high-impact ai system b case
+D. Use environmental precaution by analogy with tailored AI safeguards
 
 ---
 
 #### MCQ 41
 
-A factory pays a fee and claims unlimited discharge is now ethical. Which misunderstanding is present? Which source-grounded ethical principle most precisely explains the case?
+A factory pays a fee and claims unlimited discharge is now ethical. Which misunderstanding is present? What analysis or safeguard is most defensible?
 
-A. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-B. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-C. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-D. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-**Answer:** A
-**Explanation:** **Polluter-pays allocates prevention and remediation costs** is the controlling principle. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Require prevention and remediation, not a licence to pollute
+B. Pay a fee and claim unlimited pollution is then acceptable for the a factory pays a fee and claims unlimited discharge is now ethical case
+C. Compensate investors while denying displaced villagers voice for the a factory pays a fee and claims unlimited discharge is now ethical case
+D. Replace precaution with a project proponent’s assurance for the a factory pays a fee and claims unlimited discharge is now ethical case
 
 ---
 
 #### MCQ 42
 
-A regulator requires cleanup, victim compensation and preventive upgrades from the polluter. Which principle is applied? Which source-grounded ethical principle most precisely explains the case?
+A regulator requires cleanup, victim compensation and preventive upgrades from the polluter. Which principle is applied? What analysis or safeguard is most defensible?
 
-A. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-B. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-C. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-D. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-**Answer:** B
-**Explanation:** **Polluter-pays allocates prevention and remediation costs** is the controlling principle. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Pay a fee and claim unlimited pollution is then acceptable for the a regulator requires cleanup, victim compensation and preventive upgrades case
+B. Make the polluter restore the environment and compensate victims
+C. Compensate investors while denying displaced villagers voice for the a regulator requires cleanup, victim compensation and preventive upgrades case
+D. Replace precaution with a project proponent’s assurance for the a regulator requires cleanup, victim compensation and preventive upgrades case
 
 ---
 
 #### MCQ 43
 
-A clean-energy project displaces a tribal community without consultation while distant users gain. Which justice lens reveals the burden? Which source-grounded ethical principle most precisely explains the case?
+A clean-energy project displaces a tribal community without consultation while distant users gain. Which justice lens reveals the burden? What analysis or safeguard is most defensible?
 
-A. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-B. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-C. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-D. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-**Answer:** C
-**Explanation:** **Environmental justice tests distribution and voice** is the controlling principle. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Pay a fee and claim unlimited pollution is then acceptable for the a clean-energy project displaces a tribal community without consultation  case
+B. Compensate investors while denying displaced villagers voice for the a clean-energy project displaces a tribal community without consultation  case
+C. Assess unequal displacement burdens on tribal households
+D. Replace precaution with a project proponent’s assurance for the a clean-energy project displaces a tribal community without consultation  case
 
 ---
 
 #### MCQ 44
 
-A clearance process includes affected communities, fair compensation and accessible remedy. Which ethical concern is addressed? Which source-grounded ethical principle most precisely explains the case?
+A clearance process includes affected communities, fair compensation and accessible remedy. Which ethical concern is addressed? What analysis or safeguard is most defensible?
 
-A. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-B. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-C. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-D. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-**Answer:** D
-**Explanation:** **Environmental justice tests distribution and voice** is the controlling principle. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Pay a fee and claim unlimited pollution is then acceptable for the a clearance process includes affected communities, fair compensation and  case
+B. Compensate investors while denying displaced villagers voice for the a clearance process includes affected communities, fair compensation and  case
+C. Replace precaution with a project proponent’s assurance for the a clearance process includes affected communities, fair compensation and  case
+D. Hear the affected community, protect rights and provide remedy
 
 ---
 
 #### MCQ 45
 
-A wetland is protected solely for drinking-water recharge. Which orientation supplies the stated reason? Which source-grounded ethical principle most precisely explains the case?
+A wetland is protected solely for drinking-water recharge. Which orientation supplies the stated reason? What analysis or safeguard is most defensible?
 
-A. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-B. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-C. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-D. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-**Answer:** A
-**Explanation:** **Anthropocentric, biocentric and ecocentric reasons differ** is the controlling principle. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Identify instrumental human benefit as anthropocentric reasoning
+B. Treat wetland recharge as proof of intrinsic species value for the a wetland is protected solely for drinking-water recharge case
+C. Call ecosystem-wide protection purely an individual-animal ethic for the a wetland is protected solely for drinking-water recharge case
+D. Say developing states have no mitigation responsibilities for the a wetland is protected solely for drinking-water recharge case
 
 ---
 
 #### MCQ 46
 
-A river's flow regime is protected as an interdependent ecological whole. Which orientation is most precise? Which source-grounded ethical principle most precisely explains the case?
+A river's flow regime is protected as an interdependent ecological whole. Which orientation is most precise? What analysis or safeguard is most defensible?
 
-A. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-B. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-C. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-D. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-**Answer:** B
-**Explanation:** **Anthropocentric, biocentric and ecocentric reasons differ** is the controlling principle. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat wetland recharge as proof of intrinsic species value for the a river's flow regime is protected as an interdependent ecological whole case
+B. Treat the river system itself as the ecocentric unit
+C. Call ecosystem-wide protection purely an individual-animal ethic for the a river's flow regime is protected as an interdependent ecological whole case
+D. Say developing states have no mitigation responsibilities for the a river's flow regime is protected as an interdependent ecological whole case
 
 ---
 
 #### MCQ 47
 
-A climate answer says developing states have no duties. Which differentiated principle rejects that conclusion? Which source-grounded ethical principle most precisely explains the case?
+A climate answer says developing states have no duties. Which differentiated principle rejects that conclusion? What analysis or safeguard is most defensible?
 
-A. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
-
-B. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
-
-C. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
-
-D. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
-
-**Answer:** C
-**Explanation:** **CBDR-RC and EIA require differentiated, least-damaging choices** is the controlling principle. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+A. Treat wetland recharge as proof of intrinsic species value for the a climate answer says developing states have no duties case
+B. Call ecosystem-wide protection purely an individual-animal ethic for the a climate answer says developing states have no duties case
+C. Recognise differentiated but real climate duties under CBDR-RC
+D. Say developing states have no mitigation responsibilities for the a climate answer says developing states have no duties case
 
 ---
 
 #### MCQ 48
 
-A border road uses a narrower alignment after rigorous assessment while protecting genuine security information. Which balanced method is shown? Which source-grounded ethical principle most precisely explains the case?
+A border road uses a narrower alignment after rigorous assessment while protecting genuine security information. Which balanced method is shown? What analysis or safeguard is most defensible?
 
-A. Environmental justice asks who receives environmental benefits, who bears pollution, displacement and risk, and who has meaningful voice and remedy, with special attention to poor, tribal, nomadic and marginalised communities.
+A. Treat wetland recharge as proof of intrinsic species value for the a border road uses a narrower alignment after rigorous assessment while p case
+B. Call ecosystem-wide protection purely an individual-animal ethic for the a border road uses a narrower alignment after rigorous assessment while p case
+C. Say developing states have no mitigation responsibilities for the a border road uses a narrower alignment after rigorous assessment while p case
+D. Use proportionate security design with environmental and community review
 
-B. Anthropocentrism values nature chiefly for human interests, biocentrism recognises inherent worth in living beings, and ecocentrism values ecosystems and ecological processes as wholes; administrative reasoning should identify rather than conflate them.
 
-C. Polluter-pays requires the actor causing environmental harm to bear prevention, remediation and compensation costs rather than externalising them to affected communities or the public; it does not purchase permission to pollute.
 
-D. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative.
+---
 
-**Answer:** D
-**Explanation:** **CBDR-RC and EIA require differentiated, least-damaging choices** is the controlling principle. CBDR-RC joins common climate responsibility with historical contribution and capability, while sensitive border projects require security-aware EIA, community consideration, classified handling where necessary, and the least ecologically damaging feasible alternative. The distractors are related propositions, but they do not identify the decisive mechanism in this case.
+#### MCQ 49
+
+A professor independently reads a thesis but lets AI write its original evaluative judgment; she changes the conclusion and discloses AI use. What remains unresolved?
+
+A. Disclosure does not restore independent authorship of the evaluative reasoning
+B. Disclosure makes the model a university-appointed joint examiner
+C. Changing the conclusion alone constitutes a fresh original evaluation
+D. The only issue is unattributed copying from training material
+
+---
+
+#### MCQ 50
+
+A predictive model flags a person solely because of home locality; officers want to search that person. Its citywide accuracy is high but false positives cluster in one caste-linked locality. What should govern?
+
+A. Allow the search if the officer records the numeric score in the file
+B. Refuse score-only coercion; require independent facts and audit group-wise errors
+C. Remove caste fields and preserve the person-based list as sufficient suspicion
+D. Use more patrol-generated arrests as external validation of the risk score
+
+---
+
+#### MCQ 51
+
+A district deploys a camera pilot to locate missing children; later police propose using its database to monitor protest attendees. Both aims are socially important. Which control is most apt?
+
+A. Permit secondary use on the department’s oral assurance of caution
+B. Keep images indefinitely to permit retrospective public-order analysis
+C. Require a separate lawful basis, necessity test, purpose-specific access and review
+D. Hide the secondary use to prevent protestors from changing behaviour
+
+---
+
+#### MCQ 52
+
+A hospital says a village-wide experimental drug rollout is merely compassionate use because one patient has exhausted approved treatment. Local leaders have consented. Which action fits Helsinki 2024?
+
+A. Start the programme because one patient’s need qualifies everyone
+B. Allow collective assent to stand in for individual consent
+C. Let the treating doctor obtain consent from dependent patients without review
+D. Consider individual compassionate use separately; require ethics-reviewed research for the village
+
+---
+
+#### MCQ 53
+
+An AI-assisted welfare dashboard has low overall error but rejects many migrant women whose address changes. Which test would best reveal the defect before deployment?
+
+A. Compare false-rejection rates by affected groups and test plausible address proxies
+B. Check only whether the training file omits explicit gender and migration fields
+C. Accept overall accuracy because each rejection can eventually be appealed
+D. Audit the vendor’s source code without testing real claimant outcomes
+
+---
+
+#### MCQ 54
+
+An officer argues that DPDP operational duties phased for later commencement permit unrestricted reuse of welfare data today. Which reply is sound?
+
+A. All DPDP provisions became enforceable immediately in November 2025
+B. The constitutional privacy floor and ethical purpose restraints apply despite phased statutory commencement
+C. The DPDP Act repealed the constitutional privacy right in Puttaswamy
+D. Where a law is phased, even biometric records cease to be personal information
+
+---
+
+#### MCQ 55
+
+A forest-dwelling community is told to leave before its rights claims are verified; the officer offers compensation and a public meeting arranged by the project company. What is the decisive first step?
+
+A. Proceed with eviction because compensation is a complete remedy
+B. Seek signatures from company representatives as a substitute for Gram Sabha process
+C. Pause removal until FRA rights recognition/verification and engage the competent Gram Sabha
+D. Relocate people now and verify community rights once houses have been built
+
+---
+
+#### MCQ 56
+
+An officer declines a border road solely because ecological risks cannot be quantified exactly; an engineer proposes a smaller alignment plus restoration. What approach respects precaution and security?
+
+A. Ban all infrastructure whenever environmental uncertainty exists
+B. Approve the original alignment because national security is self-justifying
+C. Delegate every ecological decision to a classified security contractor
+D. Compare alternatives in a rigorous assessment, choose least harmful effective design and monitor
+
+### Separate answer key — four-option explanations
+
+#### MCQ 1 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: let the vendor be the sole accountable decision-maker for the a welfare department treats a model score as conclusive and refuses to id case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: treat all model scores as final if average accuracy is high for the a welfare department treats a model score as conclusive and refuses to id case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: allow an official to sign without independent review for the a welfare department treats a model score as conclusive and refuses to id case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace name an accountable human reviewer for the model-assisted denial.
+
+---
+
+#### MCQ 2 — B
+
+- **A:** Incorrect: let the vendor be the sole accountable decision-maker for the a licensing officer checks an ai risk flag against the record and gives i case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: treat all model scores as final if average accuracy is high for the a licensing officer checks an ai risk flag against the record and gives i case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: allow an official to sign without independent review for the a licensing officer checks an ai risk flag against the record and gives i case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace use the model as a checked input and give independently defensible reasons.
+
+---
+
+#### MCQ 3 — C
+
+- **A:** Incorrect: let the vendor be the sole accountable decision-maker for the a fraud model trained only on urban cases repeatedly misclassifies rural  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: treat all model scores as final if average accuracy is high for the a fraud model trained only on urban cases repeatedly misclassifies rural  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: allow an official to sign without independent review for the a fraud model trained only on urban cases repeatedly misclassifies rural  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace audit rural underrepresentation in training and labelling data.
+
+---
+
+#### MCQ 4 — D
+
+- **A:** Incorrect: let the vendor be the sole accountable decision-maker for the a policing model sends more patrols where it earlier predicted risk, then case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: treat all model scores as final if average accuracy is high for the a policing model sends more patrols where it earlier predicted risk, then case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: allow an official to sign without independent review for the a policing model sends more patrols where it earlier predicted risk, then case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace break the self-confirming patrol-and-arrest feedback loop.
+
+---
+
+#### MCQ 5 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: publish the model version without reasons or redress for the a pension applicant receives only a model version number after rejection case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: call ten-second rubber-stamping meaningful human oversight for the a pension applicant receives only a model version number after rejection case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume a reviewable decision needs no record of its grounds for the a pension applicant receives only a model version number after rejection case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace supply intelligible grounds, not just a model identifier.
+
+---
+
+#### MCQ 6 — B
+
+- **A:** Incorrect: publish the model version without reasons or redress for the an agency states the decisive data, rule, uncertainty and appeal route in case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: call ten-second rubber-stamping meaningful human oversight for the an agency states the decisive data, rule, uncertainty and appeal route in case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume a reviewable decision needs no record of its grounds for the an agency states the decisive data, rule, uncertainty and appeal route in case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace give the affected person reasons and a practicable appeal.
+
+---
+
+#### MCQ 7 — C
+
+- **A:** Incorrect: publish the model version without reasons or redress for the a junior clerk must approve every model output within ten seconds and can case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: call ten-second rubber-stamping meaningful human oversight for the a junior clerk must approve every model output within ten seconds and can case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: assume a reviewable decision needs no record of its grounds for the a junior clerk must approve every model output within ten seconds and can case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace give reviewers time, information and authority to disagree.
+
+---
+
+#### MCQ 8 — D
+
+- **A:** Incorrect: publish the model version without reasons or redress for the a medical board can pause, investigate and reverse a high-risk model reco case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: call ten-second rubber-stamping meaningful human oversight for the a medical board can pause, investigate and reverse a high-risk model reco case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: assume a reviewable decision needs no record of its grounds for the a medical board can pause, investigate and reverse a high-risk model reco case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace preserve a board’s meaningful power to pause and reverse output.
+
+---
+
+#### MCQ 9 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: shift all blame to the procurement vendor for the a department blames a vendor after an automated exclusion although no off case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: give applicants a correction form but no new decision for the a department blames a vendor after an automated exclusion although no off case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: treat protected status fields as the only possible source of bias for the a department blames a vendor after an automated exclusion although no off case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace assign validation and correction duties to the deploying authority.
+
+---
+
+#### MCQ 10 — B
+
+- **A:** Incorrect: shift all blame to the procurement vendor for the a procurement contract preserves logs, assigns incident duties and permit case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: give applicants a correction form but no new decision for the a procurement contract preserves logs, assigns incident duties and permit case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: treat protected status fields as the only possible source of bias for the a procurement contract preserves logs, assigns incident duties and permit case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace retain logs, incident ownership, audit and vendor obligations.
+
+---
+
+#### MCQ 11 — C
+
+- **A:** Incorrect: shift all blame to the procurement vendor for the a scholarship applicant can submit corrected records but no one may recon case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: give applicants a correction form but no new decision for the a scholarship applicant can submit corrected records but no one may recon case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: treat protected status fields as the only possible source of bias for the a scholarship applicant can submit corrected records but no one may recon case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace permit actual human reconsideration of corrected evidence.
+
+---
+
+#### MCQ 12 — D
+
+- **A:** Incorrect: shift all blame to the procurement vendor for the a citizen receives notice, a simple appeal channel and reasoned human rev case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: give applicants a correction form but no new decision for the a citizen receives notice, a simple appeal channel and reasoned human rev case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: treat protected status fields as the only possible source of bias for the a citizen receives notice, a simple appeal channel and reasoned human rev case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace provide notice, counter-evidence and reasoned independent re-decision.
+
+---
+
+#### MCQ 13 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: use time-stamped output as proof of independent judgment for the experienced inspectors stop examining unusual cases because the dashboard case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: let repeated ai acceptances replace human skill maintenance for the experienced inspectors stop examining unusual cases because the dashboard case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume plausible generated citations are reliable sources for the experienced inspectors stop examining unusual cases because the dashboard case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace detect automation bias and loss of human inspection skill.
+
+---
+
+#### MCQ 14 — B
+
+- **A:** Incorrect: use time-stamped output as proof of independent judgment for the a department requires periodic manual sampling and records justified depa case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: let repeated ai acceptances replace human skill maintenance for the a department requires periodic manual sampling and records justified depa case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume plausible generated citations are reliable sources for the a department requires periodic manual sampling and records justified depa case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace audit override and acceptance rates against manual sampling.
+
+---
+
+#### MCQ 15 — C
+
+- **A:** Incorrect: use time-stamped output as proof of independent judgment for the an officer files a disciplinary order using model-generated cases without case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: let repeated ai acceptances replace human skill maintenance for the an officer files a disciplinary order using model-generated cases without case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: assume plausible generated citations are reliable sources for the an officer files a disciplinary order using model-generated cases without case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace independently check citations and facts before signing the order.
+
+---
+
+#### MCQ 16 — D
+
+- **A:** Incorrect: use time-stamped output as proof of independent judgment for the a legal cell verifies every generated citation against official records b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: let repeated ai acceptances replace human skill maintenance for the a legal cell verifies every generated citation against official records b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: assume plausible generated citations are reliable sources for the a legal cell verifies every generated citation against official records b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace verify generated references against authoritative primary records.
+
+---
+
+#### MCQ 17 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: accept a successful product demo as permanent validation for the a vendor passes one demonstration and then changes its model without noti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: continue deploying changed versions without re-testing for the a vendor passes one demonstration and then changes its model without noti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: treat authentic-looking videos as inherently reliable for the a vendor passes one demonstration and then changes its model without noti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace contract for version controls, post-change testing and audit access.
+
+---
+
+#### MCQ 18 — B
+
+- **A:** Incorrect: accept a successful product demo as permanent validation for the a department tests adversarial cases before launch and monitors drift aft case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: continue deploying changed versions without re-testing for the a department tests adversarial cases before launch and monitors drift aft case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: treat authentic-looking videos as inherently reliable for the a department tests adversarial cases before launch and monitors drift aft case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace use pre-launch stress tests and post-launch drift monitoring.
+
+---
+
+#### MCQ 19 — C
+
+- **A:** Incorrect: accept a successful product demo as permanent validation for the a forged video of a district officer triggers panic before verification case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: continue deploying changed versions without re-testing for the a forged video of a district officer triggers panic before verification case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: treat authentic-looking videos as inherently reliable for the a forged video of a district officer triggers panic before verification case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace treat the forged video as a threat to authentic public trust.
+
+---
+
+#### MCQ 20 — D
+
+- **A:** Incorrect: accept a successful product demo as permanent validation for the authorities preserve the original, verify provenance and issue a prompt c case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: continue deploying changed versions without re-testing for the authorities preserve the original, verify provenance and issue a prompt c case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: treat authentic-looking videos as inherently reliable for the authorities preserve the original, verify provenance and issue a prompt c case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace verify provenance and correct falsehood without silencing lawful criticism.
+
+---
+
+#### MCQ 21 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: correct rumours by suppressing all criticism for the a platform rewards inflammatory falsehood because engagement rises case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: disclose children’s identities to rebut a false allegation for the a platform rewards inflammatory falsehood because engagement rises case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: reward maximum engagement without checking public harm for the a platform rewards inflammatory falsehood because engagement rises case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace review engagement incentives that amplify misinformation.
+
+---
+
+#### MCQ 22 — B
+
+- **A:** Incorrect: correct rumours by suppressing all criticism for the a public agency counters a rumour with verified facts while protecting ch case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: disclose children’s identities to rebut a false allegation for the a public agency counters a rumour with verified facts while protecting ch case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: reward maximum engagement without checking public harm for the a public agency counters a rumour with verified facts while protecting ch case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace counter falsehood with verified evidence and protect children’s privacy.
+
+---
+
+#### MCQ 23 — C
+
+- **A:** Incorrect: correct rumours by suppressing all criticism for the a village has mobile coverage but elderly pensioners cannot navigate an e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: disclose children’s identities to rebut a false allegation for the a village has mobile coverage but elderly pensioners cannot navigate an e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: reward maximum engagement without checking public harm for the a village has mobile coverage but elderly pensioners cannot navigate an e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace address skills, language and usability beyond network coverage.
+
+---
+
+#### MCQ 24 — D
+
+- **A:** Incorrect: correct rumours by suppressing all criticism for the a service adds assisted access, local-language design and an offline chan case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: disclose children’s identities to rebut a false allegation for the a service adds assisted access, local-language design and an offline chan case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: reward maximum engagement without checking public harm for the a service adds assisted access, local-language design and an offline chan case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace preserve assisted offline and language-accessible service delivery.
+
+---
+
+#### MCQ 25 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: call network availability substantive digital inclusion for the a health database is reused for unrelated profiling because the facts wer case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: treat prior consent as a licence for unrelated profiling for the a health database is reused for unrelated profiling because the facts wer case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: retain every collected field indefinitely for future convenience for the a health database is reused for unrelated profiling because the facts wer case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace reject function creep and limit processing to its original purpose.
+
+---
+
+#### MCQ 26 — B
+
+- **A:** Incorrect: call network availability substantive digital inclusion for the an agency limits reuse to the stated service purpose and permits correcti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: treat prior consent as a licence for unrelated profiling for the an agency limits reuse to the stated service purpose and permits correcti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: retain every collected field indefinitely for future convenience for the an agency limits reuse to the stated service purpose and permits correcti case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace use purpose limits, correction and personal autonomy safeguards.
+
+---
+
+#### MCQ 27 — C
+
+- **A:** Incorrect: call network availability substantive digital inclusion for the a department cites convenience but identifies no law or narrower alternat case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: treat prior consent as a licence for unrelated profiling for the a department cites convenience but identifies no law or narrower alternat case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: retain every collected field indefinitely for future convenience for the a department cites convenience but identifies no law or narrower alternat case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace demand lawful authority, necessity and less intrusive alternatives.
+
+---
+
+#### MCQ 28 — D
+
+- **A:** Incorrect: call network availability substantive digital inclusion for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: treat prior consent as a licence for unrelated profiling for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: retain every collected field indefinitely for future convenience for the a scheme has legal authority, a legitimate aim, narrow collection, safegu case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace apply puttaswamy legality, aim, necessity, balance and safeguards.
+
+---
+
+#### MCQ 29 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: treat a useful aim alone as a complete privacy justification for the an answer says every dpdp duty was enforceable from november 2025 case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: assume phased statutory commencement erases constitutional duties for the an answer says every dpdp duty was enforceable from november 2025 case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: bundle unrelated tracking permissions into one checkbox for the an answer says every dpdp duty was enforceable from november 2025 case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace separate november 2025 limited commencement from later dpdp tranches.
+
+---
+
+#### MCQ 30 — B
+
+- **A:** Incorrect: treat a useful aim alone as a complete privacy justification for the an administrator protects data ethically now while distinguishing future  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: assume phased statutory commencement erases constitutional duties for the an administrator protects data ethically now while distinguishing future  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: bundle unrelated tracking permissions into one checkbox for the an administrator protects data ethically now while distinguishing future  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace protect privacy ethically now despite staged future statutory duties.
+
+---
+
+#### MCQ 31 — C
+
+- **A:** Incorrect: treat a useful aim alone as a complete privacy justification for the a benefits app collects contacts and location unrelated to eligibility un case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: assume phased statutory commencement erases constitutional duties for the a benefits app collects contacts and location unrelated to eligibility un case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: bundle unrelated tracking permissions into one checkbox for the a benefits app collects contacts and location unrelated to eligibility un case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace reject bundled unrelated data capture and non-granular consent.
+
+---
+
+#### MCQ 32 — D
+
+- **A:** Incorrect: treat a useful aim alone as a complete privacy justification for the a service requests only necessary fields, explains use and deletes them w case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: assume phased statutory commencement erases constitutional duties for the a service requests only necessary fields, explains use and deletes them w case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: bundle unrelated tracking permissions into one checkbox for the a service requests only necessary fields, explains use and deletes them w case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace collect only needed fields with clear notice and deletion policies.
+
+---
+
+#### MCQ 33 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: count only electricity when measuring an ai centre’s footprint for the a company reports renewable electricity but ignores cooling water and dis case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: value present output while discounting long-lived ecosystem loss for the a company reports renewable electricity but ignores cooling water and dis case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume all environmental protection forbids development for the a company reports renewable electricity but ignores cooling water and dis case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace measure water, hardware and waste as well as electricity.
+
+---
+
+#### MCQ 34 — B
+
+- **A:** Incorrect: count only electricity when measuring an ai centre’s footprint for the a data centre measures operational energy, water, embodied hardware and e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: value present output while discounting long-lived ecosystem loss for the a data centre measures operational energy, water, embodied hardware and e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: assume all environmental protection forbids development for the a data centre measures operational energy, water, embodied hardware and e case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace assess the whole compute-and-hardware environmental lifecycle.
+
+---
+
+#### MCQ 35 — C
+
+- **A:** Incorrect: count only electricity when measuring an ai centre’s footprint for the a housing plan ignores ecosystem services because present welfare always  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: value present output while discounting long-lived ecosystem loss for the a housing plan ignores ecosystem services because present welfare always  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: assume all environmental protection forbids development for the a housing plan ignores ecosystem services because present welfare always  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace weigh ecosystem functions and future needs against present housing.
+
+---
+
+#### MCQ 36 — D
+
+- **A:** Incorrect: count only electricity when measuring an ai centre’s footprint for the a project redesign protects livelihoods while retaining ecological capaci case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: value present output while discounting long-lived ecosystem loss for the a project redesign protects livelihoods while retaining ecological capaci case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: assume all environmental protection forbids development for the a project redesign protects livelihoods while retaining ecological capaci case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace design for current welfare without destroying future ecological capacity.
+
+---
+
+#### MCQ 37 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: treat downstream and future users as outside public interest for the a government discounts irreversible groundwater loss because future resid case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: present environmental jurisprudence as a self-executing ai statute for the a government discounts irreversible groundwater loss because future resid case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: wait for complete certainty before addressing serious risks for the a government discounts irreversible groundwater loss because future resid case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace recognise the needs of future people unable to object today.
+
+---
+
+#### MCQ 38 — B
+
+- **A:** Incorrect: treat downstream and future users as outside public interest for the a policy applies a long time horizon and preserves ecological options case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: present environmental jurisprudence as a self-executing ai statute for the a policy applies a long time horizon and preserves ecological options case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: wait for complete certainty before addressing serious risks for the a policy applies a long time horizon and preserves ecological options case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace preserve future generations’ ecological options in present decisions.
+
+---
+
+#### MCQ 39 — C
+
+- **A:** Incorrect: treat downstream and future users as outside public interest for the a note calls vellore a directly enforceable ai statute case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: present environmental jurisprudence as a self-executing ai statute for the a note calls vellore a directly enforceable ai statute case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: wait for complete certainty before addressing serious risks for the a note calls vellore a directly enforceable ai statute case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace cite vellore as environmental jurisprudence, not an ai statute.
+
+---
+
+#### MCQ 40 — D
+
+- **A:** Incorrect: treat downstream and future users as outside public interest for the a department pilots and stress-tests an uncertain high-impact ai system b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: present environmental jurisprudence as a self-executing ai statute for the a department pilots and stress-tests an uncertain high-impact ai system b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: wait for complete certainty before addressing serious risks for the a department pilots and stress-tests an uncertain high-impact ai system b case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace use environmental precaution by analogy with tailored ai safeguards.
+
+---
+
+#### MCQ 41 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: pay a fee and claim unlimited pollution is then acceptable for the a factory pays a fee and claims unlimited discharge is now ethical case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: compensate investors while denying displaced villagers voice for the a factory pays a fee and claims unlimited discharge is now ethical case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: replace precaution with a project proponent’s assurance for the a factory pays a fee and claims unlimited discharge is now ethical case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace require prevention and remediation, not a licence to pollute.
+
+---
+
+#### MCQ 42 — B
+
+- **A:** Incorrect: pay a fee and claim unlimited pollution is then acceptable for the a regulator requires cleanup, victim compensation and preventive upgrades case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: compensate investors while denying displaced villagers voice for the a regulator requires cleanup, victim compensation and preventive upgrades case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: replace precaution with a project proponent’s assurance for the a regulator requires cleanup, victim compensation and preventive upgrades case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace make the polluter restore the environment and compensate victims.
+
+---
+
+#### MCQ 43 — C
+
+- **A:** Incorrect: pay a fee and claim unlimited pollution is then acceptable for the a clean-energy project displaces a tribal community without consultation  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: compensate investors while denying displaced villagers voice for the a clean-energy project displaces a tribal community without consultation  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: replace precaution with a project proponent’s assurance for the a clean-energy project displaces a tribal community without consultation  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace assess unequal displacement burdens on tribal households.
+
+---
+
+#### MCQ 44 — D
+
+- **A:** Incorrect: pay a fee and claim unlimited pollution is then acceptable for the a clearance process includes affected communities, fair compensation and  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: compensate investors while denying displaced villagers voice for the a clearance process includes affected communities, fair compensation and  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: replace precaution with a project proponent’s assurance for the a clearance process includes affected communities, fair compensation and  case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace hear the affected community, protect rights and provide remedy.
+
+---
+
+#### MCQ 45 — A
+
+- **A:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **B:** Incorrect: treat wetland recharge as proof of intrinsic species value for the a wetland is protected solely for drinking-water recharge case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: call ecosystem-wide protection purely an individual-animal ethic for the a wetland is protected solely for drinking-water recharge case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: say developing states have no mitigation responsibilities for the a wetland is protected solely for drinking-water recharge case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace identify instrumental human benefit as anthropocentric reasoning.
+
+---
+
+#### MCQ 46 — B
+
+- **A:** Incorrect: treat wetland recharge as proof of intrinsic species value for the a river's flow regime is protected as an interdependent ecological whole case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **C:** Incorrect: call ecosystem-wide protection purely an individual-animal ethic for the a river's flow regime is protected as an interdependent ecological whole case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Incorrect: say developing states have no mitigation responsibilities for the a river's flow regime is protected as an interdependent ecological whole case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace treat the river system itself as the ecocentric unit.
+
+---
+
+#### MCQ 47 — C
+
+- **A:** Incorrect: treat wetland recharge as proof of intrinsic species value for the a climate answer says developing states have no duties case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: call ecosystem-wide protection purely an individual-animal ethic for the a climate answer says developing states have no duties case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Correct: this matches the operative source principle and the affected person or ecosystem.
+- **D:** Incorrect: say developing states have no mitigation responsibilities for the a climate answer says developing states have no duties case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+
+**Examiner trap:** An apparently efficient input cannot displace recognise differentiated but real climate duties under cbdr-rc.
+
+---
+
+#### MCQ 48 — D
+
+- **A:** Incorrect: treat wetland recharge as proof of intrinsic species value for the a border road uses a narrower alignment after rigorous assessment while p case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **B:** Incorrect: call ecosystem-wide protection purely an individual-animal ethic for the a border road uses a narrower alignment after rigorous assessment while p case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **C:** Incorrect: say developing states have no mitigation responsibilities for the a border road uses a narrower alignment after rigorous assessment while p case overlooks the specific rights floor, source limit or downstream risk shown in this case.
+- **D:** Correct: this matches the operative source principle and the affected person or ecosystem.
+
+**Examiner trap:** An apparently efficient input cannot displace use proportionate security design with environmental and community review.
+
+
+
+---
+
+#### MCQ 49 — A
+
+- **A:** Correct: the designated examiner must originate and defend reasons, not merely edit and disclose
+- **B:** Incorrect: the model cannot hold an examiner’s office or answer to an appeal forum
+- **C:** Incorrect: reversing the outcome does not show independent assessment of the evidence
+- **D:** Incorrect: plagiarism is one risk, but substitution of judgment is a separate wrong
+
+**Examiner trap:** Disclosure does not restore independent authorship of the evaluative reasoning is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 50 — B
+
+- **A:** Incorrect: recording a score does not create independent grounds for search
+- **B:** Correct: a person-based adverse act needs case-specific grounds; the locality proxies group status
+- **C:** Incorrect: dropping explicit caste does not remove location-based proxy effects
+- **D:** Incorrect: extra patrols produce the very arrest data used to justify patrols
+
+**Examiner trap:** Refuse score-only coercion; require independent facts and audit group-wise errors is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 51 — C
+
+- **A:** Incorrect: a new objective is not covered simply by good intentions
+- **B:** Incorrect: indefinite retention magnifies privacy harm and misuse risk
+- **C:** Correct: function creep requires re-authorisation, minimisation and logged oversight
+- **D:** Incorrect: secrecy cannot replace a lawful basis or proportionality
+
+**Examiner trap:** Require a separate lawful basis, necessity test, purpose-specific access and review is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 52 — D
+
+- **A:** Incorrect: the compassionate-use route is individual, not a population bypass
+- **B:** Incorrect: each capable participant must freely agree even after community engagement
+- **C:** Incorrect: dependency requires an independent consent-taker and ethics oversight for research
+- **D:** Correct: paragraph 37 cannot circumvent participant protections in a mass intervention
+
+**Examiner trap:** Consider individual compassionate use separately; require ethics-reviewed research for the village is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 53 — A
+
+- **A:** Correct: disparate-impact and proxy tests expose concentrated burdens hidden by averages
+- **B:** Incorrect: proxy fields can reconstruct protected characteristics
+- **C:** Incorrect: appeal does not justify avoidable skew in first-instance decisions
+- **D:** Incorrect: code review alone cannot prove equitable outcomes for real claimants
+
+**Examiner trap:** Compare false-rejection rates by affected groups and test plausible address proxies is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 54 — B
+
+- **A:** Incorrect: the notified commencement is staggered; no blanket claim is warranted
+- **B:** Correct: Puttaswamy and ethical dignity do not await future statutory operational dates
+- **C:** Incorrect: ordinary legislation cannot erase the constitutional privacy holding
+- **D:** Incorrect: commencement timing does not transform identifiable personal data
+
+**Examiner trap:** The constitutional privacy floor and ethical purpose restraints apply despite phased statutory commencement is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 55 — C
+
+- **A:** Incorrect: money does not override FRA section 4(5)’s pre-recognition removal bar
+- **B:** Incorrect: a project proponent’s meeting does not exercise Gram Sabha competence
+- **C:** Correct: rights recognition precedes removal; then compare lawful alternatives and consent duties
+- **D:** Incorrect: later verification cannot repair premature eviction
+
+**Examiner trap:** Pause removal until FRA rights recognition/verification and engage the competent Gram Sabha is the only choice that retains both the rights threshold and an executable safeguard.
+
+---
+
+#### MCQ 56 — D
+
+- **A:** Incorrect: precaution does not prohibit every uncertain activity
+- **B:** Incorrect: security is a legitimate aim, not a waiver of ecological scrutiny
+- **C:** Incorrect: classification does not remove independent evaluation or local rights
+- **D:** Correct: the narrower viable route addresses security while proportionately limiting harm
+
+**Examiner trap:** Compare alternatives in a rigorous assessment, choose least harmful effective design and monitor is the only choice that retains both the rights threshold and an executable safeguard.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -846,25 +1268,8 @@ Vellore supports sustainable development, precaution and polluter-pays in enviro
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q10: A big corporate house is engaged in manufacturing industrial chemicals on a…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q10: A big corporate house is engaged in manufacturing industrial chemicals on a large scale. It proposes to set up an additional unit. Many…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q10: A big corporate house is engaged in manufacturing industrial chemicals on a large scale. It proposes to set up an additional unit. Many…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q10: A big corporate house is engaged in manufacturing industrial chemicals on a…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 2 — 2020 — 10 marks
 
@@ -882,26 +1287,8 @@ The ethical response is critical adaptation, not blanket rejection or surrender.
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q5(b): "The current internet expansion has instilled a different set of cultural…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q5(b): "The current internet expansion has instilled a different set of cultural values which are often in conflict with traditional values."…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated Q5(b) verified against books\more previous papers\Gen St P4.pdf, page 3. Topic 13 owns the internet-culture subpart; Q5(a), gender inequality and Savitribai Phule, belongs to Topic 2. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q5(b): "The current internet expansion has instilled a different set of cultural values which are often in conflict with traditional values."…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q5(b): "The current internet expansion has instilled a different set of cultural…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 3 — 2021 — 10 marks
 
@@ -919,25 +1306,8 @@ Therefore digital input should be triangulated with verified records and field c
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “GS-IV Q2(a): Impact of digital technology as reliable source of input for rational decision…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(a): Impact of digital technology as reliable source of input for rational decision making is a debatable issue. Critically evaluate with…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(a): Impact of digital technology as reliable source of input for rational decision making is a debatable issue. Critically evaluate with…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(a): Impact of digital technology as reliable source of input for rational decision…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 4 — 2022 — 10 marks
 
@@ -955,25 +1325,8 @@ A just design therefore combines assisted digital centres, accessibility standar
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional approvals in the administration and for teaching and learning in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional approvals in the administration and for teaching and learning in…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q4(b): Online methodology is being used for day-to-day meetings, institutional…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 5 — 2023 — 20 marks
 
@@ -993,25 +1346,8 @@ The already posted identifying video should be removed or edited, with a clarifi
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q12: You hold a responsible position in a ministry in the government. One day in the…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12: You hold a responsible position in a ministry in the government. One day in the morning you received a call from the school of your…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12: You hold a responsible position in a ministry in the government. One day in the morning you received a call from the school of your…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q12: You hold a responsible position in a ministry in the government. One day in the…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 6 — 2024 — 10 marks
 
@@ -1029,26 +1365,8 @@ High-stakes administrative AI should therefore remain advisory. Representative t
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(a): The application of Artificial Intelligence as a dependable source of input for…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): The application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated Q1(a) verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 2. Topic 13 is primary owner; Q1(b), dimensions of ethics in professional decision-making, belongs to Topic 1. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): The application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): The application of Artificial Intelligence as a dependable source of input for…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 7 — 2024 — 10 marks
 
@@ -1066,26 +1384,8 @@ Internationally, CBDR-RC combines common action with historical contribution and
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q2(b): Global warming and climate change are the outcomes of human greed in the name…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): Global warming and climate change are the outcomes of human greed in the name of development, indicating the direction in which…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated Q2(b) verified against books\mains\05 UPSC 2024 Paper-IV Final 1.pdf, page 2. Topic 13 owns climate ethics; Q2(a), powerful nations and ongoing conflicts, belongs to Topic 12. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): Global warming and climate change are the outcomes of human greed in the name of development, indicating the direction in which…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): Global warming and climate change are the outcomes of human greed in the name…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 8 — 2024 — 20 marks
 
@@ -1105,25 +1405,8 @@ Measures include science-based interim carbon budgets; renewable procurement plu
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q7: There is a technological company named ABC Incorporated which is the second…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q7: There is a technological company named ABC Incorporated which is the second largest worldwide, situated in the Third World. You are the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q7: There is a technological company named ABC Incorporated which is the second largest worldwide, situated in the Third World. You are the…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q7: There is a technological company named ABC Incorporated which is the second…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 9 — 2024 — 20 marks
 
@@ -1143,25 +1426,8 @@ A lawful accelerated design may use adaptive protocols, parallel administrative 
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q12: Dr. Srinivasan is a senior scientist working for a reputed biotechnology company…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q12: Dr. Srinivasan is a senior scientist working for a reputed biotechnology company known for its cutting-edge research in pharmaceuticals.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q12: Dr. Srinivasan is a senior scientist working for a reputed biotechnology company known for its cutting-edge research in pharmaceuticals.…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q12: Dr. Srinivasan is a senior scientist working for a reputed biotechnology company…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 10 — 2025 — 10 marks
 
@@ -1179,26 +1445,8 @@ An ethical response combines user digital literacy, consent and privacy by desig
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q1(a): In the present digital age, social media has revolutionised our way of…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q1(a): In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Source / ownership: Exact isolated Q1(a) verified against books\mains\UPSC Mains 2025 GS Paper 4.pdf, page 2. Topic 13 owns social-media ethics; Q1(b), constitutional morality and public service, belongs to Topic 14. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q1(a): In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q1(a): In the present digital age, social media has revolutionised our way of…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 11 — 2025 — 10 marks
 
@@ -1216,25 +1464,8 @@ Precaution does not ban all border infrastructure; it demands safeguards despite
 
 **Why this earns marks:** It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “GS-IV Q2(b): Keeping the national security in mind, examine the ethical dilemmas related to…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q2(b): Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q2(b): Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q2(b): Keeping the national security in mind, examine the ethical dilemmas related to…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Solved PYQ 12 — 2025 — 20 marks
 
@@ -1256,26 +1487,66 @@ The ethical verdict is integrated planning: fulfil shelter without treating the 
 
 ---
 
+#### Additional routed GS-IV demand — 2026 Q1(a), professional AI integrity
+
+**Question (topic-level paraphrase):** Assess ethical issues when a professor uses AI to generate an academic evaluation and submits a modified report.
+
+**Source / ownership:** Canonical Basic 13, Section 11B, primary owner; Basic 11, Section 2A, supplies the accountability cross-link. No invented official wording is asserted.
+
+**Model solution**
+
+The professor’s signature attests independent evaluative judgment, not merely fluent editing. Language polishing or retrieval can assist where permitted, disclosed and independently verified; generating the substantive assessment and making minor edits substitutes a model’s conclusions for a non-delegable professional duty. The harms are distinct: misleading authorship, unverified factual or citation errors, substitution of assessed effort, and potential unattributed appropriation. Privacy is separately at risk if the unpublished thesis enters a public tool. Under ICMJE’s authorship rationale, an AI system cannot answer for accuracy and integrity; the professor can. She should disclose permitted assistance, independently read and assess the thesis, verify every reference and defend the reasons before the university and candidate. If she cannot, she must withdraw or redo the report, not seek a cosmetic edit. Workload calls for deadlines, supervision or refusal rather than silent outsourcing. Institutional policy should make permitted aid clear and provide review and appeal; detection software alone is unreliable. The decisive line is human ownership and verifiable reasoning, not a blanket ban on tools.
+
+**Why this earns marks:** Separates four wrongs, distinguishes allowed assistance from abandoned evaluation, and names disclosure, confidentiality, human verification and remedy.
+
+---
+
+#### Additional routed GS-IV case demand — 2026 Q8, predictive policing
+
+**Question (topic-level paraphrase):** An AI-powered policing and surveillance system reportedly improves public order but burdens particular communities unequally. Assess options and decide with safeguards.
+
+**Source / ownership:** Canonical Basic 13, Section 11C; Topic 22 controls full case structure. The case is paraphrased, not held out as exact UPSC wording.
+
+**Model solution**
+
+**Stakeholders and floor:** Residents targeted by stops, potential crime victims, police, vendors and oversight bodies share an interest in safety; equality, Article 21 privacy and independently justified coercion constrain the method. Arrest records may reflect prior patrol locations rather than offending; locality can proxy caste; overall accuracy hides group-wise false positives. An individual score cannot itself establish suspicion.
+
+**Options and consequences:** Continue unchanged—quick deployment but unreviewable discrimination and self-confirming arrests; suspend all predictive tools—stops immediate profiling but loses possibly useful place-based allocation; conditionally suspend person-based adverse scoring, independently assess any lawful place-based pilot—retains bounded utility but requires audit resources. Choose the third only after identifying an express legal basis and showing proportionality against less intrusive alternatives such as improved beat policing. Record independent grounds for every coercive action; never use scores as those grounds. Before relaunch, publish purpose, data categories and retention policy, conduct privacy/equality impact assessments, test group-wise errors and independently validate outcomes. During deployment, rotate hot spots, log acceptances and overrides, bar secondary uses, notify affected persons where feasible and enable human re-decision on complaints. Publish periodic disparate-impact audits with a sunset and external review; protect genuine operational parameters from disclosure. The strongest objection is real public-safety need: a strictly bounded pilot answers it, but if discriminatory impact persists or no lawful basis exists, stop the system. Remaining feedback-loop and function-creep risks require repeat audits and enforceable withdrawal triggers.
+
+**Why this earns marks:** Weighs three real options, defines the rights threshold, identifies dirty-data, proxy and base-rate mechanisms and makes contestability and exit criteria operational.
+
+---
+
+#### Additional routed GS-IV demand — 2026 Q2(a), vulnerable participants
+
+**Question (topic-level paraphrase):** Examine ethical risks of research or unproven interventions involving vulnerable communities.
+
+**Source / ownership:** Canonical Basic 13, Section 11D, primary owner; official wording is not asserted.
+
+**Model solution**
+
+The ethical test is whether an intervention is standard care, properly reviewed research, exceptional individual unproven care, or an emergency measure—not what a department calls the pilot. Respect for persons requires voluntary, comprehensible individual consent; a community leader’s assent cannot replace it. A dependent patient or prisoner should be approached by an independent consent-taker (Declaration of Helsinki, 2024, paragraph 27). Beneficence requires sound design, proportionate risks, independent ethics-committee approval and power to suspend the study (paragraph 23); justice requires recruiting because research answers participants’ own health needs, not because poverty makes refusal difficult (paragraphs 19–20). Provide ordinary care irrespective of participation, reasonable cost reimbursement without undue inducement, protection of data, post-trial access and injury remedies through applicable Indian processes. Helsinki paragraph 37 permits exceptional unproven intervention for an individual where approved options fail and trial enrolment is impossible; it does not authorise an unreviewed village-wide rollout. Faster ethics review may be necessary in an emergency, but calling experimentation service delivery cannot waive safeguards.
+
+**Why this earns marks:** Distinguishes four routes and consent from independent review, with specific protections for dependent and deprived people.
+
+---
+
+#### Additional routed GS-IV demand — 2026 Q1(b), forest dwellers
+
+**Question (topic-level paraphrase):** Discuss ethical issues in displacement of forest-dwelling communities for development or conservation.
+
+**Source / ownership:** Canonical Basic 13, Section 14F, primary owner; no unverified official wording or mark split is claimed.
+
+**Model solution**
+
+A dam or protected-area project may offer genuine public benefits, but aggregate gain cannot erase who bears the loss of land, forest access, livelihood, identity and cultural sites. First map affected Scheduled Tribes and other forest dwellers, record customary and community rights, and compare alternative sites, designs and in-situ options. FRA 2006 Section 4(5) bars eviction before recognition and verification of forest rights; the competent Gram Sabha’s role under the FRA and applicable PESA framework is not replaced by a proponent’s public meeting. The *Niyamgiri* proceedings show why community decisions on cultural and religious claims matter. Consultation must precede a final choice and use understandable impact information, independent facilitation and freedom from pressure. Where a lawful project proceeds after rights and consent obligations are satisfied, value common resources, secure land/livelihood restoration, housing and services before relocation, pay and monitor compensation and provide an appeal. Conservation is not served by excluding traditional stewards without evidence. The strongest objection—urgent public need—supports time-bound, rights-compliant assessment, not bypassing legal recognition or treating cash alone as restitution. Independent post-relocation review must test real livelihoods and culture, not merely houses built.
+
+**Why this earns marks:** Links distributive, procedural and recognition justice with the hard FRA pre-eviction threshold, Gram Sabha, alternative design and monitored rehabilitation.
+
+---
+
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Demand decoding:** The directive **answer** requires a direct position on “GS-IV Q8: In line with the Directive Principles of State Policy enshrined in the Indian…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “GS-IV Q8: In line with the Directive Principles of State Policy enshrined in the Indian Constitution, the government has a constitutional obligation…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The ethical verdict is integrated planning: fulfil shelter without treating the poor as a pretext for avoidable ecological loss or conservation as a reason to deny human dignity. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: It states the governing ethical idea, translates it into public administration, uses a concrete Indian illustration, acknowledges a limit, and ends with a reasoned verdict. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “GS-IV Q8: In line with the Directive Principles of State Policy enshrined in the Indian Constitution, the government has a constitutional obligation…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “GS-IV Q8: In line with the Directive Principles of State Policy enshrined in the Indian…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 1 — 10 marks
 
@@ -1291,26 +1562,8 @@ The India AI Governance Guidelines offer useful policy guidance but do not prove
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “Administrative AI should support judgment without becoming an unanswerable final decision-…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Administrative AI should support judgment without becoming an unanswerable final decision-maker. Examine with suitable safeguards. Answer in about…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The India AI Governance Guidelines offer useful policy guidance but do not prove a system fair or safe. AI becomes rational only inside a reviewable institution where an identified human remains answerable. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-2. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Administrative AI should support judgment without becoming an unanswerable final decision-maker. Examine with suitable safeguards. Answer in about…”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Administrative AI should support judgment without becoming an unanswerable final decision-…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 2 — 10 marks
 
@@ -1326,25 +1579,8 @@ Commercial secrecy may protect genuine intellectual property, but cannot erase d
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why are explainability, contestability and accountability distinct but mutually dependent…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Why are explainability, contestability and accountability distinct but mutually dependent safeguards in high-stakes AI? Answer in about 150 words.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Why are explainability, contestability and accountability distinct but mutually dependent safeguards in high-stakes AI? Answer in about 150 words.”.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Why are explainability, contestability and accountability distinct but mutually dependent…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 3 — 15 marks
 
@@ -1362,25 +1598,8 @@ Nevertheless, deferred statutory commencement does not defer ethics. Administrat
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **discuss** requires a direct position on “A consent form alone does not make administrative data use ethical. Discuss through…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A consent form alone does not make administrative data use ethical. Discuss through privacy, purpose limitation and the phased DPDP framework. Answer…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A consent form alone does not make administrative data use ethical. Discuss through privacy, purpose limitation and the phased DPDP framework. Answer…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A consent form alone does not make administrative data use ethical. Discuss through…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 4 — 15 marks
 
@@ -1398,25 +1617,8 @@ Therefore precaution should operate as a proportionate ethical analogy. Classify
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Can the environmental precautionary principle guide governance of high-stakes AI?…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Can the environmental precautionary principle guide governance of high-stakes AI? Critically examine the analogy and its limits. Answer in about 200…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Can the environmental precautionary principle guide governance of high-stakes AI? Critically examine the analogy and its limits. Answer in about 200…”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Can the environmental precautionary principle guide governance of high-stakes AI?…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 5 — 20 marks
 
@@ -1434,25 +1636,8 @@ Policy should prioritise high-social-value computation, support clean grids and 
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
 
+
 ---
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the full environmental footprint of AI through sustainable development and…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “Examine the full environmental footprint of AI through sustainable development and intergenerational justice. Suggest an accountable transition…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “Examine the full environmental footprint of AI through sustainable development and intergenerational justice. Suggest an accountable transition…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “Examine the full environmental footprint of AI through sustainable development and…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.
 
 #### Original Mains Practice 6 — 20 marks
 
@@ -1469,21 +1654,3 @@ For the data centre, commission a transparent assessment of water source, drough
 A limited pilot using existing lower-impact infrastructure may proceed if independent review confirms rights and reliability safeguards. The final decision should publish reasons and residual risks. Innovation is acceptable only when beneficiaries can contest digital power and host communities do not subsidise it with dignity, water and future resilience.
 
 **Why this earns marks:** The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “A State proposes an AI system to select welfare beneficiaries and a water-intensive data…”, precise definitions, relevant thinker/theory or public-law boundary, named Indian evidence, objections or trade-offs, safeguards and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the ethical demand in “A State proposes an AI system to select welfare beneficiaries and a water-intensive data centre to operate it in a drought-prone district. As…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The response defines the issue, develops the relevant mechanism with India-centric evidence, tests a limitation, and gives a mark-scaled conclusion. **Analysis:** Connect concept or theory → public role/institution → stakeholder effect → trust, rights or justice implication. **Qualification:** State the objection, competing duty, distributional effect, legal boundary, implementation risk or source/date/status limit.
-
-**Counter-position / limit:** No quotation, single theory, statutory provision or favourable outcome is self-justifying; test conflicting duties, rights thresholds, foreseeable consequences, vulnerable stakeholders, institutional competence and review.
-
-**Qualified conclusion:** The answer must resolve the ethical demand in “A State proposes an AI system to select welfare beneficiaries and a water-intensive data centre to operate it in a drought-prone district. As…”.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend about one-sixth of the time decoding every clause; define and state a thesis; organise four to seven points as claim → named evidence → analysis → qualification; reserve the final minute for authority, rights, consequences, implementation and residual-risk limits.
-
-**How to improve this answer:** For “A State proposes an AI system to select welfare beneficiaries and a water-intensive data…”, replace the weakest abstraction with one named thinker, constitutional value, provision, institution or verified case and state the objection, safeguard or limit it does not resolve.

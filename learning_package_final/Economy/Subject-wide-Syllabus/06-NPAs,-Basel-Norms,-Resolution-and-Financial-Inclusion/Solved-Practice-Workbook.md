@@ -1,6 +1,6 @@
 # NPAs, Basel Norms, Resolution and Financial Inclusion - Solved Practice Workbook
 
-**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 substantive unique option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
+**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 question-specific option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -12,18 +12,6 @@ A term loan ordinarily becomes NPA under RBI's current commercial-bank IRACP dir
 - B. The instalment is unpaid at any time on the due date
 - C. The borrower reports an ICR below one
 - D. The value of collateral falls below the loan
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** The dated RBI rule distinguishes the due-date concept of overdue from NPA classification after more than 90 days.
-- **B - Incorrect:** `The instalment is unpaid at any time on the due date` does not satisfy the question's governing distinction. The tested rule instead is: The dated RBI rule distinguishes the due-date concept of overdue from NPA classification after more than 90 days.
-- **C - Incorrect:** `The borrower reports an ICR below one` does not satisfy the question's governing distinction. The tested rule instead is: The dated RBI rule distinguishes the due-date concept of overdue from NPA classification after more than 90 days.
-- **D - Incorrect:** `The value of collateral falls below the loan` does not satisfy the question's governing distinction. The tested rule instead is: The dated RBI rule distinguishes the due-date concept of overdue from NPA classification after more than 90 days.
-
-**Examiner trap 1:** Do not convert `overdue on due date` into `NPA on due date`.
-
 ### MCQ 2
 
 Which condition can make a cash-credit account `out of order`?
@@ -32,18 +20,6 @@ Which condition can make a cash-credit account `out of order`?
 - B. Credits during the previous 90 days are insufficient to cover interest debited
 - C. The borrower uses less than the sanctioned limit
 - D. The loan has valuable collateral
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `The account has any debit entry during a month` does not satisfy the question's governing distinction. The tested rule instead is: The CC/OD test looks at excess over limit/drawing power and genuine credit turnover over 90 days.
-- **B - Correct:** The CC/OD test looks at excess over limit/drawing power and genuine credit turnover over 90 days.
-- **C - Incorrect:** `The borrower uses less than the sanctioned limit` does not satisfy the question's governing distinction. The tested rule instead is: The CC/OD test looks at excess over limit/drawing power and genuine credit turnover over 90 days.
-- **D - Incorrect:** `The loan has valuable collateral` does not satisfy the question's governing distinction. The tested rule instead is: The CC/OD test looks at excess over limit/drawing power and genuine credit turnover over 90 days.
-
-**Examiner trap 2:** CC/OD uses out-of-order tests, not merely the term-loan instalment test.
-
 ### MCQ 3
 
 Consider the following statements about agricultural NPA recognition:
@@ -54,22 +30,10 @@ Consider the following statements about agricultural NPA recognition:
 
 Which of the statements given above are correct?
 
-- A. 1 only
-- B. 2 and 3 only
-- C. 1 and 2 only
-- D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `1 only` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI framework uses two crop seasons for short-duration crops and one for long-duration crops; a price fall alone is not the recognition test.
-- **B - Incorrect:** `2 and 3 only` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI framework uses two crop seasons for short-duration crops and one for long-duration crops; a price fall alone is not the recognition test.
-- **C - Correct:** The current RBI framework uses two crop seasons for short-duration crops and one for long-duration crops; a price fall alone is not the recognition test.
-- **D - Incorrect:** `1, 2 and 3` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI framework uses two crop seasons for short-duration crops and one for long-duration crops; a price fall alone is not the recognition test.
-
-**Examiner trap 3:** Crop-season rules are product-specific exceptions to the common 90-day shorthand.
-
+- A. 1 only (short-duration crop threshold)
+- B. 2 and 3 only (long-duration threshold and price shock)
+- C. 1 and 2 only (both crop-duration thresholds)
+- D. 1, 2 and 3 (both durations and price shock)
 ### MCQ 4
 
 Which statement about borrower-wise classification is correct?
@@ -78,18 +42,6 @@ Which statement about borrower-wise classification is correct?
 - B. Security value always prevents NPA recognition
 - C. Classification is decided separately by each bank branch
 - D. Other facilities to the same borrower in the bank are generally also classified NPA when one facility turns NPA
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Only the missed instalment becomes an NPA asset` does not satisfy the question's governing distinction. The tested rule instead is: The rule prevents a lender from isolating one irregular facility while treating the same borrower's connected facilities as fully performing.
-- **B - Incorrect:** `Security value always prevents NPA recognition` does not satisfy the question's governing distinction. The tested rule instead is: The rule prevents a lender from isolating one irregular facility while treating the same borrower's connected facilities as fully performing.
-- **C - Incorrect:** `Classification is decided separately by each bank branch` does not satisfy the question's governing distinction. The tested rule instead is: The rule prevents a lender from isolating one irregular facility while treating the same borrower's connected facilities as fully performing.
-- **D - Correct:** The rule prevents a lender from isolating one irregular facility while treating the same borrower's connected facilities as fully performing.
-
-**Examiner trap 4:** Borrower-wise within one bank does not mean system-wide automatic classification by every lender.
-
 ### MCQ 5
 
 An asset that has remained NPA for no more than twelve months is generally:
@@ -98,18 +50,6 @@ An asset that has remained NPA for no more than twelve months is generally:
 - B. Standard
 - C. Doubtful for more than three years
 - D. Automatically written off
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** The 2025 IRACP Directions define the first NPA ageing category as substandard for up to twelve months.
-- **B - Incorrect:** `Standard` does not satisfy the question's governing distinction. The tested rule instead is: The 2025 IRACP Directions define the first NPA ageing category as substandard for up to twelve months.
-- **C - Incorrect:** `Doubtful for more than three years` does not satisfy the question's governing distinction. The tested rule instead is: The 2025 IRACP Directions define the first NPA ageing category as substandard for up to twelve months.
-- **D - Incorrect:** `Automatically written off` does not satisfy the question's governing distinction. The tested rule instead is: The 2025 IRACP Directions define the first NPA ageing category as substandard for up to twelve months.
-
-**Examiner trap 5:** NPA is the umbrella; substandard is one class within it.
-
 ### MCQ 6
 
 Which statement best describes a doubtful asset?
@@ -118,18 +58,6 @@ Which statement best describes a doubtful asset?
 - B. It has remained in the substandard category for twelve months
 - C. It is fully secured and therefore standard
 - D. It has already been legally waived
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `It is overdue for one day` does not satisfy the question's governing distinction. The tested rule instead is: RBI's current definition moves an exposure from substandard to doubtful after twelve months in that category.
-- **B - Correct:** RBI's current definition moves an exposure from substandard to doubtful after twelve months in that category.
-- **C - Incorrect:** `It is fully secured and therefore standard` does not satisfy the question's governing distinction. The tested rule instead is: RBI's current definition moves an exposure from substandard to doubtful after twelve months in that category.
-- **D - Incorrect:** `It has already been legally waived` does not satisfy the question's governing distinction. The tested rule instead is: RBI's current definition moves an exposure from substandard to doubtful after twelve months in that category.
-
-**Examiner trap 6:** Collateral affects provisioning and recovery, not the basic ageing definition.
-
 ### MCQ 7
 
 Consider the following general provisioning pairs under the RBI directions updated 1 July 2026:
@@ -144,18 +72,6 @@ How many pairs are correctly matched?
 - B. Only two
 - C. All three
 - D. None
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Only one` does not satisfy the question's governing distinction. The tested rule instead is: All three pairs state the applicable general provisioning rates; identified loss retained in the books must be fully provided.
-- **B - Incorrect:** `Only two` does not satisfy the question's governing distinction. The tested rule instead is: All three pairs state the applicable general provisioning rates; identified loss retained in the books must be fully provided.
-- **C - Correct:** All three pairs state the applicable general provisioning rates; identified loss retained in the books must be fully provided.
-- **D - Incorrect:** `None` does not satisfy the question's governing distinction. The tested rule instead is: All three pairs state the applicable general provisioning rates; identified loss retained in the books must be fully provided.
-
-**Examiner trap 7:** Special exposure-specific rules can qualify the general rates, but litigation does not suspend loss provisioning.
-
 ### MCQ 8
 
 Which statement correctly separates a technical write-off from a waiver?
@@ -164,38 +80,14 @@ Which statement correctly separates a technical write-off from a waiver?
 - B. A waiver is only a provision against profit
 - C. Neither affects the loan account
 - D. A technical write-off changes bank accounting while recovery rights may continue
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Both automatically discharge the borrower` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI Resolution Directions define technical write-off without waiver of claims or prejudice to recovery.
-- **B - Incorrect:** `A waiver is only a provision against profit` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI Resolution Directions define technical write-off without waiver of claims or prejudice to recovery.
-- **C - Incorrect:** `Neither affects the loan account` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI Resolution Directions define technical write-off without waiver of claims or prejudice to recovery.
-- **D - Correct:** The current RBI Resolution Directions define technical write-off without waiver of claims or prejudice to recovery.
-
-**Examiner trap 8:** A lower reported loan book after write-off is not evidence of cash recovery.
-
 ### MCQ 9
 
-The provisioning coverage ratio is best described as:
+Bank Z reports gross NPAs of Rs 200 crore and provisions against them of Rs 120 crore. It subsequently recovers Rs 40 crore of gross NPAs and reverses Rs 20 crore of the related provisions. What is the **post-recovery** provisioning coverage ratio, on these assumptions?
 
-- A. Provisions relative to gross NPAs
-- B. Gross NPAs divided by total deposits
-- C. Capital divided by total assets
-- D. Recoveries divided by written-off loans only
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** PCR indicates the extent of funds set aside against recognised gross bad loans.
-- **B - Incorrect:** `Gross NPAs divided by total deposits` does not satisfy the question's governing distinction. The tested rule instead is: PCR indicates the extent of funds set aside against recognised gross bad loans.
-- **C - Incorrect:** `Capital divided by total assets` does not satisfy the question's governing distinction. The tested rule instead is: PCR indicates the extent of funds set aside against recognised gross bad loans.
-- **D - Incorrect:** `Recoveries divided by written-off loans only` does not satisfy the question's governing distinction. The tested rule instead is: PCR indicates the extent of funds set aside against recognised gross bad loans.
-
-**Examiner trap 9:** PCR is not CRAR and does not measure deposit insurance.
-
+- A. 62.5%: remaining provisions of Rs 100 crore over remaining gross NPAs of Rs 160 crore
+- B. 60%: original provisions of Rs 120 crore over original gross NPAs of Rs 200 crore
+- C. 75%: original provisions of Rs 120 crore over remaining gross NPAs of Rs 160 crore
+- D. 50%: remaining provisions of Rs 100 crore over original gross NPAs of Rs 200 crore
 ### MCQ 10
 
 Which statement about Interest Coverage Ratio is correct?
@@ -204,18 +96,6 @@ Which statement about Interest Coverage Ratio is correct?
 - B. It indicates earnings capacity to service interest but is not the legal NPA test
 - C. A value below one automatically proves fraud
 - D. It measures bank capital against RWA
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `It is the ratio used to calculate DICGC cover` does not satisfy the question's governing distinction. The tested rule instead is: ICR is a borrower cash-flow warning indicator, whereas NPA classification follows RBI prudential triggers.
-- **B - Correct:** ICR is a borrower cash-flow warning indicator, whereas NPA classification follows RBI prudential triggers.
-- **C - Incorrect:** `A value below one automatically proves fraud` does not satisfy the question's governing distinction. The tested rule instead is: ICR is a borrower cash-flow warning indicator, whereas NPA classification follows RBI prudential triggers.
-- **D - Incorrect:** `It measures bank capital against RWA` does not satisfy the question's governing distinction. The tested rule instead is: ICR is a borrower cash-flow warning indicator, whereas NPA classification follows RBI prudential triggers.
-
-**Examiner trap 10:** Financial weakness and regulatory classification are related but not identical.
-
 ### MCQ 11
 
 Evergreening most accurately means:
@@ -224,38 +104,14 @@ Evergreening most accurately means:
 - B. A cash recovery from sale of collateral
 - C. Using fresh or engineered finance to conceal an unviable old exposure
 - D. A bank raising common equity
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `A transparent viable restructuring with proper recognition` does not satisfy the question's governing distinction. The tested rule instead is: Evergreening creates the appearance of repayment without restoring sustainable borrower cash flow.
-- **B - Incorrect:** `A cash recovery from sale of collateral` does not satisfy the question's governing distinction. The tested rule instead is: Evergreening creates the appearance of repayment without restoring sustainable borrower cash flow.
-- **C - Correct:** Evergreening creates the appearance of repayment without restoring sustainable borrower cash flow.
-- **D - Incorrect:** `A bank raising common equity` does not satisfy the question's governing distinction. The tested rule instead is: Evergreening creates the appearance of repayment without restoring sustainable borrower cash flow.
-
-**Examiner trap 11:** Additional finance is not automatically evergreening if independently viable and transparently recognised.
-
 ### MCQ 12
 
-A bank has eligible regulatory capital of Rs 9 crore and risk-weighted assets of Rs 100 crore. Its total CRAR is:
+A bank has eligible regulatory capital of Rs 9 crore and RWA of Rs 100 crore. It raises Rs 2 crore of eligible capital, while a portfolio change adds Rs 10 crore to RWA. Ignoring other changes, what is its new CRAR?
 
-- A. 0.09 per cent
-- B. 11.5 per cent necessarily
-- C. Cannot be calculated without total deposits
-- D. 9 per cent
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `0.09 per cent` does not satisfy the question's governing distinction. The tested rule instead is: CRAR equals eligible regulatory capital divided by risk-weighted assets, multiplied by 100; the stated figures therefore yield 9 per cent.
-- **B - Incorrect:** `11.5 per cent necessarily` does not satisfy the question's governing distinction. The tested rule instead is: CRAR equals eligible regulatory capital divided by risk-weighted assets, multiplied by 100; the stated figures therefore yield 9 per cent.
-- **C - Incorrect:** `Cannot be calculated without total deposits` does not satisfy the question's governing distinction. The tested rule instead is: CRAR equals eligible regulatory capital divided by risk-weighted assets, multiplied by 100; the stated figures therefore yield 9 per cent.
-- **D - Correct:** CRAR equals eligible regulatory capital divided by risk-weighted assets, multiplied by 100; the stated figures therefore yield 9 per cent.
-
-**Examiner trap 12:** Meeting a numerical CRAR does not establish that every component minimum or buffer is met.
-
+- A. 9%, since the original risk-weighted denominator remains fixed
+- B. 11.5%, since an extra Rs 2 crore of capital is equivalent to the conservation buffer
+- C. Not determinable without knowing total assets and retail deposits
+- D. 10%, since eligible capital is Rs 11 crore and RWA is Rs 110 crore
 ### MCQ 13
 
 What is Basel Pillar 2?
@@ -264,18 +120,6 @@ What is Basel Pillar 2?
 - B. Minimum capital calculation alone
 - C. Market disclosure alone
 - D. Deposit insurance resolution
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** Pillar 2 allows supervisors to assess risks and capital needs beyond mechanical Pillar 1 minima.
-- **B - Incorrect:** `Minimum capital calculation alone` does not satisfy the question's governing distinction. The tested rule instead is: Pillar 2 allows supervisors to assess risks and capital needs beyond mechanical Pillar 1 minima.
-- **C - Incorrect:** `Market disclosure alone` does not satisfy the question's governing distinction. The tested rule instead is: Pillar 2 allows supervisors to assess risks and capital needs beyond mechanical Pillar 1 minima.
-- **D - Incorrect:** `Deposit insurance resolution` does not satisfy the question's governing distinction. The tested rule instead is: Pillar 2 allows supervisors to assess risks and capital needs beyond mechanical Pillar 1 minima.
-
-**Examiner trap 13:** Pillar 3, not Pillar 2, is market discipline through disclosure.
-
 ### MCQ 14
 
 Arrange the following Basel developments in chronological order:
@@ -288,18 +132,6 @@ Arrange the following Basel developments in chronological order:
 - B. 2 - 1 - 3
 - C. 3 - 2 - 1
 - D. 2 - 3 - 1
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `1 - 2 - 3` does not satisfy the question's governing distinction. The tested rule instead is: Basel I centred on a credit-risk capital floor, Basel II introduced the three pillars, and Basel III strengthened capital while adding leverage and liquidity safeguards.
-- **B - Correct:** Basel I centred on a credit-risk capital floor, Basel II introduced the three pillars, and Basel III strengthened capital while adding leverage and liquidity safeguards.
-- **C - Incorrect:** `3 - 2 - 1` does not satisfy the question's governing distinction. The tested rule instead is: Basel I centred on a credit-risk capital floor, Basel II introduced the three pillars, and Basel III strengthened capital while adding leverage and liquidity safeguards.
-- **D - Incorrect:** `2 - 3 - 1` does not satisfy the question's governing distinction. The tested rule instead is: Basel I centred on a credit-risk capital floor, Basel II introduced the three pillars, and Basel III strengthened capital while adding leverage and liquidity safeguards.
-
-**Examiner trap 14:** Basel chronology does not mean that later standards replace supervision or disclosure.
-
 ### MCQ 15
 
 Under RBI's Basel III Master Circular dated 1 April 2025, the covered-SCB standalone total CRAR minimum before CCB is:
@@ -308,18 +140,6 @@ Under RBI's Basel III Master Circular dated 1 April 2025, the covered-SCB standa
 - B. 11.5 per cent
 - C. 9 per cent
 - D. 5.5 per cent
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `8 per cent` does not satisfy the question's governing distinction. The tested rule instead is: India's 9 per cent total minimum is above the Basel global 8 per cent floor; 11.5 per cent includes the 2.5 per cent CCB.
-- **B - Incorrect:** `11.5 per cent` does not satisfy the question's governing distinction. The tested rule instead is: India's 9 per cent total minimum is above the Basel global 8 per cent floor; 11.5 per cent includes the 2.5 per cent CCB.
-- **C - Correct:** India's 9 per cent total minimum is above the Basel global 8 per cent floor; 11.5 per cent includes the 2.5 per cent CCB.
-- **D - Incorrect:** `5.5 per cent` does not satisfy the question's governing distinction. The tested rule instead is: India's 9 per cent total minimum is above the Basel global 8 per cent floor; 11.5 per cent includes the 2.5 per cent CCB.
-
-**Examiner trap 15:** State the RBI perimeter because SFBs, Payments Banks and RRBs use separate rules.
-
 ### MCQ 16
 
 Which buffer is designed to conserve capital during stress through distribution constraints?
@@ -328,18 +148,6 @@ Which buffer is designed to conserve capital during stress through distribution 
 - B. Liquidity Coverage Ratio
 - C. Provisioning Coverage Ratio
 - D. Capital Conservation Buffer
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Cash Reserve Ratio` does not satisfy the question's governing distinction. The tested rule instead is: The CCB is common-equity capital above minima and constrains distributions when a bank enters the buffer range.
-- **B - Incorrect:** `Liquidity Coverage Ratio` does not satisfy the question's governing distinction. The tested rule instead is: The CCB is common-equity capital above minima and constrains distributions when a bank enters the buffer range.
-- **C - Incorrect:** `Provisioning Coverage Ratio` does not satisfy the question's governing distinction. The tested rule instead is: The CCB is common-equity capital above minima and constrains distributions when a bank enters the buffer range.
-- **D - Correct:** The CCB is common-equity capital above minima and constrains distributions when a bank enters the buffer range.
-
-**Examiner trap 16:** CCB is not a cash reserve or an expected-loss provision.
-
 ### MCQ 17
 
 Consider the following statements about India's Countercyclical Capital Buffer (CCyB):
@@ -350,22 +158,10 @@ Consider the following statements about India's Countercyclical Capital Buffer (
 
 Which of the statements given above are correct?
 
-- A. 1 and 2 only
-- B. 1 only
-- C. 2 and 3 only
-- D. 1, 2 and 3
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** RBI retains a CCyB framework but the cited circular reported no activation; it does not permanently replace the Capital Conservation Buffer.
-- **B - Incorrect:** `1 only` does not satisfy the question's governing distinction. The tested rule instead is: RBI retains a CCyB framework but the cited circular reported no activation; it does not permanently replace the Capital Conservation Buffer.
-- **C - Incorrect:** `2 and 3 only` does not satisfy the question's governing distinction. The tested rule instead is: RBI retains a CCyB framework but the cited circular reported no activation; it does not permanently replace the Capital Conservation Buffer.
-- **D - Incorrect:** `1, 2 and 3` does not satisfy the question's governing distinction. The tested rule instead is: RBI retains a CCyB framework but the cited circular reported no activation; it does not permanently replace the Capital Conservation Buffer.
-
-**Examiner trap 17:** A maximum framework value is not the same as the currently activated rate.
-
+- A. 1 and 2 only (framework and cited non-activation)
+- B. 1 only (framework alone)
+- C. 2 and 3 only (non-activation and buffer substitution)
+- D. 1, 2 and 3 (all buffer assertions)
 ### MCQ 18
 
 The leverage ratio differs from CRAR because its denominator is:
@@ -374,18 +170,6 @@ The leverage ratio differs from CRAR because its denominator is:
 - B. A broad exposure measure without risk weights
 - C. Only high-quality liquid assets
 - D. Net cash outflows over 30 days
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Only risk-weighted corporate assets` does not satisfy the question's governing distinction. The tested rule instead is: The leverage ratio is a simple non-risk-based backstop against model or risk-weight understatement.
-- **B - Correct:** The leverage ratio is a simple non-risk-based backstop against model or risk-weight understatement.
-- **C - Incorrect:** `Only high-quality liquid assets` does not satisfy the question's governing distinction. The tested rule instead is: The leverage ratio is a simple non-risk-based backstop against model or risk-weight understatement.
-- **D - Incorrect:** `Net cash outflows over 30 days` does not satisfy the question's governing distinction. The tested rule instead is: The leverage ratio is a simple non-risk-based backstop against model or risk-weight understatement.
-
-**Examiner trap 18:** Do not use the RWA denominator for both ratios.
-
 ### MCQ 19
 
 What does a 100 per cent LCR require under the cited RBI framework?
@@ -394,18 +178,6 @@ What does a 100 per cent LCR require under the cited RBI framework?
 - B. CET1 equal to total assets
 - C. HQLA sufficient to meet 30-day stressed net cash outflows
 - D. Cash equal to all deposits
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Stable funding equal to one-year required funding` does not satisfy the question's governing distinction. The tested rule instead is: LCR matches a stock of high-quality liquid assets to modelled net outflows over a 30-day stress horizon.
-- **B - Incorrect:** `CET1 equal to total assets` does not satisfy the question's governing distinction. The tested rule instead is: LCR matches a stock of high-quality liquid assets to modelled net outflows over a 30-day stress horizon.
-- **C - Correct:** LCR matches a stock of high-quality liquid assets to modelled net outflows over a 30-day stress horizon.
-- **D - Incorrect:** `Cash equal to all deposits` does not satisfy the question's governing distinction. The tested rule instead is: LCR matches a stock of high-quality liquid assets to modelled net outflows over a 30-day stress horizon.
-
-**Examiner trap 19:** NSFR, not LCR, is the one-year structural-funding test.
-
 ### MCQ 20
 
 NSFR of at least 100 per cent means:
@@ -414,18 +186,6 @@ NSFR of at least 100 per cent means:
 - B. Gross NPA equals provisions
 - C. Tier 2 exceeds CET1
 - D. Available stable funding is at least required stable funding over the one-year horizon
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Cash inflow exceeds cash outflow for one day` does not satisfy the question's governing distinction. The tested rule instead is: The ratio limits reliance on unstable funding for assets and activities requiring longer-term support.
-- **B - Incorrect:** `Gross NPA equals provisions` does not satisfy the question's governing distinction. The tested rule instead is: The ratio limits reliance on unstable funding for assets and activities requiring longer-term support.
-- **C - Incorrect:** `Tier 2 exceeds CET1` does not satisfy the question's governing distinction. The tested rule instead is: The ratio limits reliance on unstable funding for assets and activities requiring longer-term support.
-- **D - Correct:** The ratio limits reliance on unstable funding for assets and activities requiring longer-term support.
-
-**Examiner trap 20:** NSFR is not an immediate-run cash ratio.
-
 ### MCQ 21
 
 Which tool is preventive supervision rather than insolvency resolution?
@@ -434,18 +194,6 @@ Which tool is preventive supervision rather than insolvency resolution?
 - B. IBC liquidation
 - C. SARFAESI sale
 - D. DICGC payout
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** PCA imposes corrective restrictions based on financial indicators before or during serious weakness.
-- **B - Incorrect:** `IBC liquidation` does not satisfy the question's governing distinction. The tested rule instead is: PCA imposes corrective restrictions based on financial indicators before or during serious weakness.
-- **C - Incorrect:** `SARFAESI sale` does not satisfy the question's governing distinction. The tested rule instead is: PCA imposes corrective restrictions based on financial indicators before or during serious weakness.
-- **D - Incorrect:** `DICGC payout` does not satisfy the question's governing distinction. The tested rule instead is: PCA imposes corrective restrictions based on financial indicators before or during serious weakness.
-
-**Examiner trap 21:** PCA does not transfer the bank to NCLT or pay insured deposits.
-
 ### MCQ 22
 
 A borrower defaults under a facility covered by RBI's Commercial Banks Resolution of Stressed Assets Directions, 2025. What is the immediate prudential sequence?
@@ -454,18 +202,6 @@ A borrower defaults under a facility covered by RBI's Commercial Banks Resolutio
 - B. A 30-day Review Period begins while normal asset classification continues
 - C. The account moves automatically to NCLT liquidation
 - D. The lender must wait for a technical write-off
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Classification is frozen for 180 days` does not satisfy the question's governing distinction. The tested rule instead is: The dated framework gives lenders a 30-day Review Period to choose a documented strategy without suspending normal IRACP recognition.
-- **B - Correct:** The dated framework gives lenders a 30-day Review Period to choose a documented strategy without suspending normal IRACP recognition.
-- **C - Incorrect:** `The account moves automatically to NCLT liquidation` does not satisfy the question's governing distinction. The tested rule instead is: The dated framework gives lenders a 30-day Review Period to choose a documented strategy without suspending normal IRACP recognition.
-- **D - Incorrect:** `The lender must wait for a technical write-off` does not satisfy the question's governing distinction. The tested rule instead is: The dated framework gives lenders a 30-day Review Period to choose a documented strategy without suspending normal IRACP recognition.
-
-**Examiner trap 22:** A Review Period is a decision window, not regulatory forbearance.
-
 ### MCQ 23
 
 What voting rule binds signatories under the RBI inter-creditor agreement?
@@ -474,18 +210,6 @@ What voting rule binds signatories under the RBI inter-creditor agreement?
 - B. 51 per cent by number only
 - C. 75 per cent by value and 60 per cent by number
 - D. Unanimity in every case
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `66 per cent by value only` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI out-of-court framework uses dual value-and-number thresholds for ICA signatories.
-- **B - Incorrect:** `51 per cent by number only` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI out-of-court framework uses dual value-and-number thresholds for ICA signatories.
-- **C - Correct:** The current RBI out-of-court framework uses dual value-and-number thresholds for ICA signatories.
-- **D - Incorrect:** `Unanimity in every case` does not satisfy the question's governing distinction. The tested rule instead is: The current RBI out-of-court framework uses dual value-and-number thresholds for ICA signatories.
-
-**Examiner trap 23:** Do not substitute the IBC CoC's 66 per cent voting rule.
-
 ### MCQ 24
 
 Match the mechanism with its governing decision rule:
@@ -496,22 +220,10 @@ Match the mechanism with its governing decision rule:
 
 Which option is correct?
 
-- A. 1 only
-- B. 1 and 2 only
-- C. 2 and 3 only
-- D. 1, 2 and 3
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `1 only` does not satisfy the question's governing distinction. The tested rule instead is: All three matches preserve the distinct contractual, collective-insolvency and secured-enforcement thresholds.
-- **B - Incorrect:** `1 and 2 only` does not satisfy the question's governing distinction. The tested rule instead is: All three matches preserve the distinct contractual, collective-insolvency and secured-enforcement thresholds.
-- **C - Incorrect:** `2 and 3 only` does not satisfy the question's governing distinction. The tested rule instead is: All three matches preserve the distinct contractual, collective-insolvency and secured-enforcement thresholds.
-- **D - Correct:** All three matches preserve the distinct contractual, collective-insolvency and secured-enforcement thresholds.
-
-**Examiner trap 24:** Never transfer the ICA's dual threshold to the IBC CoC or treat a notice period as a voting rule.
-
+- A. 1 only (ICA rule alone)
+- B. 1 and 2 only (ICA and CoC rules)
+- C. 2 and 3 only (CoC and demand notice)
+- D. 1, 2 and 3 (ICA, CoC and demand notice)
 ### MCQ 25
 
 Which institution is created under the Recovery of Debts and Bankruptcy Act, 1993?
@@ -520,18 +232,6 @@ Which institution is created under the Recovery of Debts and Bankruptcy Act, 199
 - B. Committee of Creditors
 - C. Deposit Insurance Corporation
 - D. Monetary Policy Committee
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** DRTs adjudicate and recover qualifying debts of banks and financial institutions under the specialised statute.
-- **B - Incorrect:** `Committee of Creditors` does not satisfy the question's governing distinction. The tested rule instead is: DRTs adjudicate and recover qualifying debts of banks and financial institutions under the specialised statute.
-- **C - Incorrect:** `Deposit Insurance Corporation` does not satisfy the question's governing distinction. The tested rule instead is: DRTs adjudicate and recover qualifying debts of banks and financial institutions under the specialised statute.
-- **D - Incorrect:** `Monetary Policy Committee` does not satisfy the question's governing distinction. The tested rule instead is: DRTs adjudicate and recover qualifying debts of banks and financial institutions under the specialised statute.
-
-**Examiner trap 25:** DRT recovery and NCLT insolvency are distinct routes.
-
 ### MCQ 26
 
 A Security Receipt issued through an ARC represents:
@@ -540,18 +240,6 @@ A Security Receipt issued through an ARC represents:
 - B. An undivided interest in the financial assets held under the scheme
 - C. Common equity in RBI
 - D. A statutory loan waiver
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `An insured demand deposit` does not satisfy the question's governing distinction. The tested rule instead is: The SR links the investor's return to realisation from the acquired stressed-asset pool.
-- **B - Correct:** The SR links the investor's return to realisation from the acquired stressed-asset pool.
-- **C - Incorrect:** `Common equity in RBI` does not satisfy the question's governing distinction. The tested rule instead is: The SR links the investor's return to realisation from the acquired stressed-asset pool.
-- **D - Incorrect:** `A statutory loan waiver` does not satisfy the question's governing distinction. The tested rule instead is: The SR links the investor's return to realisation from the acquired stressed-asset pool.
-
-**Examiner trap 26:** ARC registration does not make every SR sovereign-guaranteed.
-
 ### MCQ 27
 
 What begins when NCLT admits a corporate insolvency application?
@@ -560,18 +248,6 @@ What begins when NCLT admits a corporate insolvency application?
 - B. A DICGC claim
 - C. CIRP and the section 14 moratorium
 - D. A Basel capital surcharge
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Automatic liquidation distribution` does not satisfy the question's governing distinction. The tested rule instead is: Admission starts the collective process and the statutory calm period for specified actions against the corporate debtor.
-- **B - Incorrect:** `A DICGC claim` does not satisfy the question's governing distinction. The tested rule instead is: Admission starts the collective process and the statutory calm period for specified actions against the corporate debtor.
-- **C - Correct:** Admission starts the collective process and the statutory calm period for specified actions against the corporate debtor.
-- **D - Incorrect:** `A Basel capital surcharge` does not satisfy the question's governing distinction. The tested rule instead is: Admission starts the collective process and the statutory calm period for specified actions against the corporate debtor.
-
-**Examiner trap 27:** Admission is not approval of a resolution plan.
-
 ### MCQ 28
 
 Which sequence correctly traces a corporate insolvency resolution process after a valid application is admitted?
@@ -580,18 +256,6 @@ Which sequence correctly traces a corporate insolvency resolution process after 
 - B. SARFAESI notice -> automatic plan approval -> PMJDY transfer
 - C. Liquidation distribution -> admission -> moratorium
 - D. Moratorium -> insolvency professional and CoC process -> plan vote -> NCLT approval or liquidation route
-
-**Answer: D.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `DICGC payout -> Basel surcharge -> loan waiver` does not satisfy the question's governing distinction. The tested rule instead is: NCLT admission triggers the section 14 moratorium and collective process; the CoC considers plans before tribunal approval or a liquidation route.
-- **B - Incorrect:** `SARFAESI notice -> automatic plan approval -> PMJDY transfer` does not satisfy the question's governing distinction. The tested rule instead is: NCLT admission triggers the section 14 moratorium and collective process; the CoC considers plans before tribunal approval or a liquidation route.
-- **C - Incorrect:** `Liquidation distribution -> admission -> moratorium` does not satisfy the question's governing distinction. The tested rule instead is: NCLT admission triggers the section 14 moratorium and collective process; the CoC considers plans before tribunal approval or a liquidation route.
-- **D - Correct:** NCLT admission triggers the section 14 moratorium and collective process; the CoC considers plans before tribunal approval or a liquidation route.
-
-**Examiner trap 28:** Admission begins CIRP; it neither approves a plan nor distributes liquidation proceeds.
-
 ### MCQ 29
 
 Which statement best describes the NARCL-IDRCL structure?
@@ -600,18 +264,6 @@ Which statement best describes the NARCL-IDRCL structure?
 - B. IDRCL insures retail deposits
 - C. NARCL is the insolvency tribunal
 - D. Both are Payments Banks
-
-**Answer: A.**
-
-**Option-specific explanations:**
-
-- **A - Correct:** The two-entity architecture separates asset ownership/acquisition from specialised resolution management.
-- **B - Incorrect:** `IDRCL insures retail deposits` does not satisfy the question's governing distinction. The tested rule instead is: The two-entity architecture separates asset ownership/acquisition from specialised resolution management.
-- **C - Incorrect:** `NARCL is the insolvency tribunal` does not satisfy the question's governing distinction. The tested rule instead is: The two-entity architecture separates asset ownership/acquisition from specialised resolution management.
-- **D - Incorrect:** `Both are Payments Banks` does not satisfy the question's governing distinction. The tested rule instead is: The two-entity architecture separates asset ownership/acquisition from specialised resolution management.
-
-**Examiner trap 29:** A bad-bank transfer relocates the asset but does not erase its economic loss.
-
 ### MCQ 30
 
 Under RBI's 30 July 2024 Directions, wilful default requires:
@@ -620,18 +272,6 @@ Under RBI's 30 July 2024 Directions, wilful default requires:
 - B. Intentional, deliberate and calculated conduct meeting a specified capacity or misuse test
 - C. Every failed business project
 - D. A criminal conviction before bank review
-
-**Answer: B.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `Any NPA lasting more than 90 days` does not satisfy the question's governing distinction. The tested rule instead is: The classification focuses on capacity-based non-payment, diversion, siphoning or unauthorised disposal and uses prescribed due process.
-- **B - Correct:** The classification focuses on capacity-based non-payment, diversion, siphoning or unauthorised disposal and uses prescribed due process.
-- **C - Incorrect:** `Every failed business project` does not satisfy the question's governing distinction. The tested rule instead is: The classification focuses on capacity-based non-payment, diversion, siphoning or unauthorised disposal and uses prescribed due process.
-- **D - Incorrect:** `A criminal conviction before bank review` does not satisfy the question's governing distinction. The tested rule instead is: The classification focuses on capacity-based non-payment, diversion, siphoning or unauthorised disposal and uses prescribed due process.
-
-**Examiner trap 30:** Wilful default and fraud are separate classifications even where facts overlap.
-
 ### MCQ 31
 
 Consider the following statements about a covered Basic Savings Bank Deposit account under RBI's amendment effective 1 April 2026:
@@ -642,22 +282,10 @@ Consider the following statements about a covered Basic Savings Bank Deposit acc
 
 Which of the statements given above are correct?
 
-- A. 1 only
-- B. 2 and 3 only
-- C. 1 and 2 only
-- D. 1, 2 and 3
-
-**Answer: C.**
-
-**Option-specific explanations:**
-
-- **A - Incorrect:** `1 only` does not satisfy the question's governing distinction. The tested rule instead is: The dated BSBD framework provides no-minimum-balance basic service and at least four free withdrawals a month; it does not create an automatic loan entitlement.
-- **B - Incorrect:** `2 and 3 only` does not satisfy the question's governing distinction. The tested rule instead is: The dated BSBD framework provides no-minimum-balance basic service and at least four free withdrawals a month; it does not create an automatic loan entitlement.
-- **C - Correct:** The dated BSBD framework provides no-minimum-balance basic service and at least four free withdrawals a month; it does not create an automatic loan entitlement.
-- **D - Incorrect:** `1, 2 and 3` does not satisfy the question's governing distinction. The tested rule instead is: The dated BSBD framework provides no-minimum-balance basic service and at least four free withdrawals a month; it does not create an automatic loan entitlement.
-
-**Examiner trap 31:** BSBD and PMJDY overlap in inclusion purpose but are not identical labels.
-
+- A. 1 only (balance requirement)
+- B. 2 and 3 only (withdrawals and automatic credit)
+- C. 1 and 2 only (balance and withdrawals)
+- D. 1, 2 and 3 (all BSBD assertions)
 ### MCQ 32
 
 Which chain best represents durable financial inclusion?
@@ -667,17 +295,423 @@ Which chain best represents durable financial inclusion?
 - C. Digitisation -> elimination of fraud
 - D. Access -> active usage -> quality and protection -> welfare improvement
 
-**Answer: D.**
+### ORIGINAL MCQ ANSWER KEY, EXPLANATIONS AND TRAPS
+
+### MCQ 1 — A
+
+**Correct answer: A.***
 
 **Option-specific explanations:**
 
-- **A - Incorrect:** `Account opening -> automatic income growth` does not satisfy the question's governing distinction. The tested rule instead is: Inclusion becomes meaningful when reachable services are used safely, suitably and repeatedly.
-- **B - Incorrect:** `Credit target -> guaranteed repayment` does not satisfy the question's governing distinction. The tested rule instead is: Inclusion becomes meaningful when reachable services are used safely, suitably and repeatedly.
-- **C - Incorrect:** `Digitisation -> elimination of fraud` does not satisfy the question's governing distinction. The tested rule instead is: Inclusion becomes meaningful when reachable services are used safely, suitably and repeatedly.
+- **A - Correct:** The dated RBI rule distinguishes the due-date concept of overdue from NPA classification after more than 90 days.
+- **B - Incorrect:** A missed due date establishes overdue status, but not the more-than-90-day NPA threshold.
+- **C - Incorrect:** ICR is a debt-servicing diagnostic; a weak ratio alone is not an IRACP ageing trigger.
+- **D - Incorrect:** Impaired collateral can increase expected loss without itself satisfying the term-loan overdue test.
+
+**Examiner trap 1:** Do not convert `overdue on due date` into `NPA on due date`.
+
+### MCQ 2 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Ordinary use of a revolving line creates debit entries; it does not make the account out of order.
+- **B - Correct:** The CC/OD test looks at excess over limit/drawing power and genuine credit turnover over 90 days.
+- **C - Incorrect:** Drawing less than the sanctioned limit does not prove the account has breached drawing power.
+- **D - Incorrect:** Collateral quality cannot substitute for the 90-day turnover and interest-credit tests.
+
+**Examiner trap 2:** CC/OD uses out-of-order tests, not merely the term-loan instalment test.
+
+### MCQ 3 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Statement 2 is also correct: a long-duration crop uses the one-season exception.
+- **B - Incorrect:** Statement 3 is false: price declines do not by themselves establish the prescribed overdue period.
+- **C - Correct:** The current RBI framework uses two crop seasons for short-duration crops and one for long-duration crops; a price fall alone is not the recognition test.
+- **D - Incorrect:** Statement 3 incorrectly converts a market-price shock into automatic loan classification.
+
+**Examiner trap 3:** Crop-season rules are product-specific exceptions to the common 90-day shorthand.
+
+### MCQ 4 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Classification reaches the borrower's other facilities at that bank, not only the missed instalment.
+- **B - Incorrect:** Security may change recovery/provisioning but does not nullify recognition for prolonged default.
+- **C - Incorrect:** A branch cannot evade bank-wide borrower-wise classification by treating its facility in isolation.
+- **D - Correct:** The rule prevents a lender from isolating one irregular facility while treating the same borrower's connected facilities as fully performing.
+
+**Examiner trap 4:** Borrower-wise within one bank does not mean system-wide automatic classification by every lender.
+
+### MCQ 5 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** The 2025 IRACP Directions define the first NPA ageing category as substandard for up to twelve months.
+- **B - Incorrect:** Once classified NPA, the asset cannot remain standard simply because twelve months have not elapsed.
+- **C - Incorrect:** More-than-three-years doubtful is a later ageing segment, not the first NPA category.
+- **D - Incorrect:** Write-off is an accounting decision, not the automatic consequence of twelve months as NPA.
+
+**Examiner trap 5:** NPA is the umbrella; substandard is one class within it.
+
+### MCQ 6 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** One overdue day is insufficient even for ordinary term-loan NPA recognition.
+- **B - Correct:** RBI's current definition moves an exposure from substandard to doubtful after twelve months in that category.
+- **C - Incorrect:** Full security does not stop a substandard loan ageing into doubtful classification.
+- **D - Incorrect:** Waiver releases an obligation; doubtful describes continued credit impairment, not legal forgiveness.
+
+**Examiner trap 6:** Collateral affects provisioning and recovery, not the basic ageing definition.
+
+### MCQ 7 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Substandard and loss are correctly paired, so counting just one omits valid general rates.
+- **B - Incorrect:** The unsecured substandard rate is also correctly matched; all three pairs count.
+- **C - Correct:** All three pairs state the applicable general provisioning rates; identified loss retained in the books must be fully provided.
+- **D - Incorrect:** Even a loss asset retained on the books must be fully provided, so none is untenable.
+
+**Examiner trap 7:** Special exposure-specific rules can qualify the general rates, but litigation does not suspend loss provisioning.
+
+### MCQ 8 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** A technical write-off can leave the lender's enforceable claim intact, unlike a waiver.
+- **B - Incorrect:** A waiver concerns release of a claim, not merely recording an expense or provision.
+- **C - Incorrect:** Technical write-off changes accounting presentation even if recovery action continues.
+- **D - Correct:** The current RBI Resolution Directions define technical write-off without waiver of claims or prejudice to recovery.
+
+**Examiner trap 8:** A lower reported loan book after write-off is not evidence of cash recovery.
+
+### MCQ 9 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** PCR uses the surviving provision stock divided by the surviving gross NPA stock: 100/160.
+- **B - Incorrect:** 120/200 is the **initial** PCR, not the ratio after recovery and reversal.
+- **C - Incorrect:** 120/160 mixes the old numerator with the post-recovery denominator.
+- **D - Incorrect:** 100/200 mixes the updated numerator with the old gross-NPA denominator.
+
+**Examiner trap 9:** Update both numerator and denominator after a specified recovery; do not interpret PCR as CRAR.
+
+### MCQ 10 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Deposit insurance is based on eligible deposit balances and statutory limits, not corporate earnings coverage.
+- **B - Correct:** ICR is a borrower cash-flow warning indicator, whereas NPA classification follows RBI prudential triggers.
+- **C - Incorrect:** Weak interest cover can arise without fraud; intent cannot be inferred from a ratio below one.
+- **D - Incorrect:** Capital against RWA defines a solvency ratio; ICR compares operating earnings and interest.
+
+**Examiner trap 10:** Financial weakness and regulatory classification are related but not identical.
+
+### MCQ 11 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Recognition and viable restructuring address impairment openly instead of hiding it.
+- **B - Incorrect:** Actual collateral-sale proceeds recover cash and do not disguise a failing exposure.
+- **C - Correct:** Evergreening creates the appearance of repayment without restoring sustainable borrower cash flow.
+- **D - Incorrect:** Fresh common equity improves bank loss-absorption, not borrower debt-service concealment.
+
+**Examiner trap 11:** Additional finance is not automatically evergreening if independently viable and transparently recognised.
+
+### MCQ 12 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** 9% is the original ratio; both eligible capital and RWA change in this scenario.
+- **B - Incorrect:** A capital requirement does not compute the bank's observed ratio; 11/110 is not 11.5%.
+- **C - Incorrect:** Total assets and deposits are unnecessary because eligible capital and RWA are given.
+- **D - Correct:** The new numerator is 11 and denominator 110; 11/110 equals 10%.
+
+**Examiner trap 12:** Recalculate the weighted denominator as well as the numerator; an observed CRAR does not establish that every component minimum or buffer is met.
+
+### MCQ 13 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** Pillar 2 allows supervisors to assess risks and capital needs beyond mechanical Pillar 1 minima.
+- **B - Incorrect:** Minimum capital calculation belongs to Pillar 1, not Pillar 2 supervisory assessment.
+- **C - Incorrect:** Public disclosure and market discipline are Pillar 3, not the supervisory review pillar.
+- **D - Incorrect:** Deposit insurance handles depositor protection; it is not a Basel capital pillar.
+
+**Examiner trap 13:** Pillar 3, not Pillar 2, is market discipline through disclosure.
+
+### MCQ 14 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The three-pillar architecture followed the earlier credit-risk capital accord, not vice versa.
+- **B - Correct:** Basel I centred on a credit-risk capital floor, Basel II introduced the three pillars, and Basel III strengthened capital while adding leverage and liquidity safeguards.
+- **C - Incorrect:** Basel III strengthening came after the first capital floor, not before it.
+- **D - Incorrect:** Basel III cannot precede the Basel II three-pillar architecture.
+
+**Examiner trap 14:** Basel chronology does not mean that later standards replace supervision or disclosure.
+
+### MCQ 15 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The global Basel total-capital floor of 8% is not India's cited covered-bank standalone minimum.
+- **B - Incorrect:** 11.5% includes a fully phased conservation buffer; it is not the minimum before CCB.
+- **C - Correct:** India's 9 per cent total minimum is above the Basel global 8 per cent floor; 11.5 per cent includes the 2.5 per cent CCB.
+- **D - Incorrect:** 5.5% is a different capital-component figure and not the total CRAR minimum.
+
+**Examiner trap 15:** State the RBI perimeter because SFBs, Payments Banks and RRBs use separate rules.
+
+### MCQ 16 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** CRR locks a proportion of bank liabilities as reserves with RBI; it is not a capital buffer.
+- **B - Incorrect:** LCR tests stressed short-term cash coverage rather than constraining dividends when capital erodes.
+- **C - Incorrect:** PCR is a bad-loan provisioning measure, not CET1 set aside above minimum capital.
+- **D - Correct:** The CCB is common-equity capital above minima and constrains distributions when a bank enters the buffer range.
+
+**Examiner trap 16:** CCB is not a cash reserve or an expected-loss provision.
+
+### MCQ 17 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** RBI retains a CCyB framework but the cited circular reported no activation; it does not permanently replace the Capital Conservation Buffer.
+- **B - Incorrect:** It omits the cited circular's explicit non-activation observation in statement 2.
+- **C - Incorrect:** The framework exists, and the CCyB does not permanently replace the conservation buffer.
+- **D - Incorrect:** Statement 3 is false: cyclical add-ons and the standing conservation buffer are distinct.
+
+**Examiner trap 17:** A maximum framework value is not the same as the currently activated rate.
+
+### MCQ 18 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** CRAR uses risk-weighted assets; a leverage measure is deliberately not restricted to that subset.
+- **B - Correct:** The leverage ratio is a simple non-risk-based backstop against model or risk-weight understatement.
+- **C - Incorrect:** HQLA belongs to short-term liquidity measurement, not the leverage exposure denominator.
+- **D - Incorrect:** Stressed 30-day net cash outflows are the LCR denominator, not leverage exposure.
+
+**Examiner trap 18:** Do not use the RWA denominator for both ratios.
+
+### MCQ 19 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** One-year stable-funding adequacy is NSFR, not the 30-day LCR stress test.
+- **B - Incorrect:** CET1 divided by assets concerns capital/leverage, not liquidity coverage.
+- **C - Correct:** LCR matches a stock of high-quality liquid assets to modelled net outflows over a 30-day stress horizon.
+- **D - Incorrect:** Holding cash equal to all deposits is not required: eligible HQLA covers stressed *net* outflows.
+
+**Examiner trap 19:** NSFR, not LCR, is the one-year structural-funding test.
+
+### MCQ 20 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** One-day payment coverage is neither a one-year horizon nor stable-funding adequacy.
+- **B - Incorrect:** The equality of NPAs and provisions measures bad-loan cover, not liability maturity.
+- **C - Incorrect:** Tier 2 relative to CET1 addresses capital composition and says nothing about funding stability.
+- **D - Correct:** The ratio limits reliance on unstable funding for assets and activities requiring longer-term support.
+
+**Examiner trap 20:** NSFR is not an immediate-run cash ratio.
+
+### MCQ 21 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** PCA imposes corrective restrictions based on financial indicators before or during serious weakness.
+- **B - Incorrect:** Liquidation under the IBC is an exit/outcome, not an early supervisory restraint.
+- **C - Incorrect:** SARFAESI enforces secured creditor rights against borrower assets, not bank-wide corrective supervision.
+- **D - Incorrect:** DICGC payout is limited depositor protection after specified banking stress, not preventive PCA.
+
+**Examiner trap 21:** PCA does not transfer the bank to NCLT or pay insured deposits.
+
+### MCQ 22 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Default does not suspend ordinary IRACP classification during the review period.
+- **B - Correct:** The dated framework gives lenders a 30-day Review Period to choose a documented strategy without suspending normal IRACP recognition.
+- **C - Incorrect:** Default does not automatically mean NCLT admission, still less automatic liquidation.
+- **D - Incorrect:** Technical write-off is not a prerequisite for beginning a stressed-asset review.
+
+**Examiner trap 22:** A Review Period is a decision window, not regulatory forbearance.
+
+### MCQ 23 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** 66% is a CoC plan-vote benchmark under the IBC, not the ICA's dual threshold.
+- **B - Incorrect:** A simple headcount ignores the contractual 75%-by-value condition.
+- **C - Correct:** The current RBI out-of-court framework uses dual value-and-number thresholds for ICA signatories.
+- **D - Incorrect:** The ICA mechanism binds signatories once both stated thresholds are met; unanimity is unnecessary.
+
+**Examiner trap 23:** Do not substitute the IBC CoC's 66 per cent voting rule.
+
+### MCQ 24 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Both IBC CoC voting and SARFAESI notice are also correctly paired.
+- **B - Incorrect:** SARFAESI section 13(2) supplies the correctly matched 60-day notice in pair 3.
+- **C - Incorrect:** The RBI ICA also has its correctly stated dual threshold in pair 1.
+- **D - Correct:** All three matches preserve the distinct contractual, collective-insolvency and secured-enforcement thresholds.
+
+**Examiner trap 24:** Never transfer the ICA's dual threshold to the IBC CoC or treat a notice period as a voting rule.
+
+### MCQ 25 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** DRTs adjudicate and recover qualifying debts of banks and financial institutions under the specialised statute.
+- **B - Incorrect:** An IBC CoC consists of creditors in corporate insolvency, not a tribunal created by the 1993 Act.
+- **C - Incorrect:** DICGC is established under separate deposit-insurance legislation, not debt-recovery legislation.
+- **D - Incorrect:** The MPC is constituted under the RBI Act for policy-rate decisions, not debt adjudication.
+
+**Examiner trap 25:** DRT recovery and NCLT insolvency are distinct routes.
+
+### MCQ 26 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** An ARC security receipt exposes its holder to recovery performance; it is not an insured bank deposit.
+- **B - Correct:** The SR links the investor's return to realisation from the acquired stressed-asset pool.
+- **C - Incorrect:** A receipt representing a scheme interest is not share capital in the central bank.
+- **D - Incorrect:** The receipt transfers a beneficial financial-asset interest, not a statutory discharge of the borrower.
+
+**Examiner trap 26:** ARC registration does not make every SR sovereign-guaranteed.
+
+### MCQ 27 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Liquidation is a possible later outcome; admission starts resolution and a moratorium first.
+- **B - Incorrect:** DICGC deposit cover is unrelated to the corporate debtor's CIRP commencement.
+- **C - Correct:** Admission starts the collective process and the statutory calm period for specified actions against the corporate debtor.
+- **D - Incorrect:** Basel surcharges apply to regulated bank capital, not to IBC admission of a borrower.
+
+**Examiner trap 27:** Admission is not approval of a resolution plan.
+
+### MCQ 28 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** DICGC and Basel relate to bank protection, not the corporate debtor's IBC steps.
+- **B - Incorrect:** SARFAESI demand does not automatically approve an IBC resolution plan.
+- **C - Incorrect:** Admission precedes the moratorium; liquidation follows failed resolution, not the reverse.
+- **D - Correct:** NCLT admission triggers the section 14 moratorium and collective process; the CoC considers plans before tribunal approval or a liquidation route.
+
+**Examiner trap 28:** Admission begins CIRP; it neither approves a plan nor distributes liquidation proceeds.
+
+### MCQ 29 — A
+
+**Correct answer: A.***
+
+**Option-specific explanations:**
+
+- **A - Correct:** The two-entity architecture separates asset ownership/acquisition from specialised resolution management.
+- **B - Incorrect:** IDRCL supports asset management/resolution; DICGC, not IDRCL, insures eligible bank deposits.
+- **C - Incorrect:** NCLT is the insolvency adjudicating authority; NARCL is an asset-reconstruction company.
+- **D - Incorrect:** Neither reconstruction nor asset management is a Payments Bank licence.
+
+**Examiner trap 29:** A bad-bank transfer relocates the asset but does not erase its economic loss.
+
+### MCQ 30 — B
+
+**Correct answer: B.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Crossing the NPA ageing threshold alone establishes impairment, not intentional wrongdoing.
+- **B - Correct:** The classification focuses on capacity-based non-payment, diversion, siphoning or unauthorised disposal and uses prescribed due process.
+- **C - Incorrect:** Business failure may occur despite honest management and cannot itself establish wilful default.
+- **D - Incorrect:** The regulatory identification process does not require a prior criminal conviction.
+
+**Examiner trap 30:** Wilful default and fraud are separate classifications even where facts overlap.
+
+### MCQ 31 — C
+
+**Correct answer: C.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** It omits the independently correct minimum free-withdrawal statement 2.
+- **B - Incorrect:** Statement 3 falsely promises an automatic loan, while statement 1 is also correct.
+- **C - Correct:** The dated BSBD framework provides no-minimum-balance basic service and at least four free withdrawals a month; it does not create an automatic loan entitlement.
+- **D - Incorrect:** Statement 3 adds an automatic credit entitlement that BSBD service rules do not grant.
+
+**Examiner trap 31:** BSBD and PMJDY overlap in inclusion purpose but are not identical labels.
+
+### MCQ 32 — D
+
+**Correct answer: D.***
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Access alone leaves dormancy, cost and suitability unresolved; it does not ensure income.
+- **B - Incorrect:** Target-led credit may increase over-indebtedness instead of guaranteeing repayment.
+- **C - Incorrect:** Digital channels can carry fraud and exclusion risks; safeguards and usage still matter.
 - **D - Correct:** Inclusion becomes meaningful when reachable services are used safely, suitably and repeatedly.
 
 **Examiner trap 32:** Access counts alone can coexist with dormancy, exclusion or over-indebtedness.
-
 
 ## PYQS AND ANSWER PRACTICE
 
